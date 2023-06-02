@@ -1,0 +1,17 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disco Sólido",
+  "Images": [
+    "/images/products/ssd-m2-wd-blue-sn570-500gb-1.jpg"
+  ],
+  "Description": "",
+  "Price": 65.00,
+  "Features": [
+    "3500MBs",
+    "PCIe 3",
+    "NVMe"
+  ],
+  "Date": "2023-04-09T10:02:36.2684339-04:00",
+  "Update": "2023-06-01T10:49:59.4480422-04:00",
+  "Label": "SSD M.2 WD Blue SN570 500GB"
+}
