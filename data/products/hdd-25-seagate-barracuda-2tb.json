@@ -1,0 +1,19 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disco Duro",
+  "Images": [
+    "/images/products/hdd-25-seagate-barracuda-2tb-1.jpg",
+    "/images/products/hdd-25-seagate-barracuda-2tb-2.jpg",
+    "/images/products/hdd-25-seagate-barracuda-2tb-3.jpg",
+    "/images/products/hdd-25-seagate-barracuda-2tb-4.jpg",
+    "/images/products/hdd-25-seagate-barracuda-2tb-5.jpg"
+  ],
+  "Description": "",
+  "Price": 85.00,
+  "Features": [
+    "SATA III"
+  ],
+  "Date": "2023-05-12T07:53:01.7720075-04:00",
+  "Update": "2023-06-01T10:49:59.7734503-04:00",
+  "Label": "HDD 2.5 Seagate BarraCuda 2TB"
+}
