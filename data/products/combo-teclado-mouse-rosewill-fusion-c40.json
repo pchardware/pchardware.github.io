@@ -1,0 +1,20 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Teclado",
+  "Images": [
+    "/images/products/combo-teclado-mouse-rosewill-fusion-c40-1.jpg",
+    "/images/products/combo-teclado-mouse-rosewill-fusion-c40-2.jpg",
+    "/images/products/combo-teclado-mouse-rosewill-fusion-c40-3.jpg",
+    "/images/products/combo-teclado-mouse-rosewill-fusion-c40-4.jpg",
+    "/images/products/combo-teclado-mouse-rosewill-fusion-c40-5.jpg"
+  ],
+  "Description": "Model\nBrand: Rosewill\nModel: Fusion C40\n\n\nKeyboard\nKeyboard Interface: USB 2.0\nDesign Style: Gaming\nPalm Rest: Yes\nKey Switch Type: Mem-Chanical\nKeyboard Color: Black\nBacklit: Yes\nType: Wired\n\n\nMouse\nMouse Included: Yes\nMouse Interface: USB\nMouse DPI: 4000 dpi\nHand Orientation: Right\nTracking Method: Optical\nButtons: 6\nScrolling Capability: 1 x Wheel\nMouse Color: Black\n\n\nFeatures\nFeatures: Mech-Membrane SwitchRGB LED BacklightingDedicated Media HotkeysLaser etched KeysOn-the-fly DPI SettingDPI level indication",
+  "Price": 95.00,
+  "Features": [
+    "Gaming",
+    "USB"
+  ],
+  "Date": "2023-05-11T20:29:45.5785203-04:00",
+  "Update": "2023-06-01T10:57:48.5668167-04:00",
+  "Label": "COMBO Teclado + Mouse Rosewill Fusion C40"
+}
