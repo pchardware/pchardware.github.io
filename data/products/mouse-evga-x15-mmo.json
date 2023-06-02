@@ -1,0 +1,23 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Mouse",
+  "Images": [
+    "/images/products/mouse-evga-x15-mmo-1.jpg",
+    "/images/products/mouse-evga-x15-mmo-2.jpg",
+    "/images/products/mouse-evga-x15-mmo-3.jpg",
+    "/images/products/mouse-evga-x15-mmo-4.jpg",
+    "/images/products/mouse-evga-x15-mmo-5.jpg",
+    "/images/products/mouse-evga-x15-mmo-6.jpg"
+  ],
+  "Description": "Model\nBrand: EVGA\nName: X15 MMO Gaming Mouse\nModel: 904-W1-15BK-KR\n\n\nDetails\nType: Wired\nInterface: USB\nTracking Method: Optical\nMaximum dpi: 16000 dpi\nButtons: 20\nColor: Black\n\n\nFeatures\nFeatures: Main Sensor: PIXART 3389 Optical SensorMain Switch Type: LK Optical - 70 Million Click LifecycleRGB Lighting: 3-zone RGB Lighting",
+  "Price": 65.00,
+  "Features": [
+    "16000dpi",
+    "20 buttons",
+    "Gaming",
+    "USB"
+  ],
+  "Date": "2023-05-12T07:07:58.0685539-04:00",
+  "Update": "2023-06-01T10:49:59.7661235-04:00",
+  "Label": "Mouse EVGA X15 MMO"
+}
