@@ -1,4 +1,4 @@
- //-*- coding: utf-8 -*-
+﻿ //-*- coding: utf-8 -*-
 
 var contactCell = "";
 var contactEmail = "";
