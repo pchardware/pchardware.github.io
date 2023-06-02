@@ -1,0 +1,24 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/gigabyte-eagle-rtx-3080-10gb-1.jpg",
+    "/images/products/gigabyte-eagle-rtx-3080-10gb-2.jpg",
+    "/images/products/gigabyte-eagle-rtx-3080-10gb-3.jpg",
+    "/images/products/gigabyte-eagle-rtx-3080-10gb-4.jpg",
+    "/images/products/gigabyte-eagle-rtx-3080-10gb-5.jpg",
+    "/images/products/gigabyte-eagle-rtx-3080-10gb-6.jpg",
+    "/images/products/gigabyte-eagle-rtx-3080-10gb-7.jpg"
+  ],
+  "Description": "Model\nBrand: GIGABYTE\nSeries: Eagle\nModel: GV-N3080EAGLE-10GD (rev. 2.0)\n\n\nInterface\nInterface: PCI Express 4.0\n\n\nChipset\nChipset Manufacturer: NVIDIA\nGPU Series: NVIDIA GeForce RTX 30 Series\nGPU: GeForce RTX 3080\nCore Clock: 1710 MHz\nCUDA Cores: 8704 Cores\n\n\nMemory\nEffective Memory Clock: 19000 MHz\nMemory Size: 10GB\nMemory Interface: 320-Bit\nMemory Type: GDDR6X\n\n\n3D API\nDirectX: DirectX 12 Ultimate\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 2 x HDMI 2.1\nDisplayPort: 3 x DisplayPort 1.4a\n\n\nDetails\nMax Resolution: 7680 x 4320\nSLI Support: No\nVirtual Reality Ready: Yes\nCooler: WINDFORCE 3X\nRecommended PSU Wattage: 750W\nPower Connector: 2 x 8-Pin\n\n\nFeatures\nFeatures: NVIDIA Ampere Streaming Multiprocessors2nd Generation RT Cores3rd Generation Tensor CoresPowered by GeForce RTX 3080Integrated with 10GB GDDR6X 320-bit memory interfaceWINDFORCE 3X Cooling System with alternate spinning fansRGB Fusion 2.0Protection metal back plateLHR (Lite Hash Rate) version\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 320 mm\nCard Dimensions (L x H): 12.60\" x 5.04\"\nSlot Width: 2.7-slot\n\n\nPackaging\nPackage Contents: Accessories:Quick guide",
+  "Price": 750.00,
+  "Features": [
+    "10GB",
+    "3xFan",
+    "GeForce",
+    "NVIDIA"
+  ],
+  "Date": "2023-04-09T07:40:13.8056655-04:00",
+  "Update": "2023-06-01T10:49:59.7062-04:00",
+  "Label": "Gigabyte Eagle RTX 3080 10GB"
+}
