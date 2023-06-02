@@ -1,0 +1,17 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disco Sólido",
+  "Images": [
+    "/images/products/ssd-m2-crucial-p5-plus-500gb-1.jpg"
+  ],
+  "Description": "",
+  "Price": 100.00,
+  "Features": [
+    "6600MBs",
+    "PCIe 4",
+    "NVMe"
+  ],
+  "Date": "2023-04-09T10:02:09.1945408-04:00",
+  "Update": "2023-06-01T10:49:59.412999-04:00",
+  "Label": "SSD M.2 Crucial P5 Plus 500GB"
+}
