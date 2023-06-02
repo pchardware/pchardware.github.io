@@ -1,0 +1,17 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disco Sólido",
+  "Images": [
+    "/images/products/ssd-m2-samsung-980-500gb-1.jpg"
+  ],
+  "Description": "",
+  "Price": 85.00,
+  "Features": [
+    "3100MBs",
+    "PCIe 3",
+    "NVMe"
+  ],
+  "Date": "2023-04-09T10:02:19.6488406-04:00",
+  "Update": "2023-06-01T10:49:59.4383291-04:00",
+  "Label": "SSD M.2 Samsung 980 500GB"
+}
