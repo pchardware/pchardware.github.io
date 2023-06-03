@@ -1,7 +1,9 @@
 {
   "Category": "Componentes",
   "SubCategory": "Disipador por Aire",
-  "Images": [],
+  "Images": [
+    "/images/products/enfriamiento-asus-3-headpipe-intel-1.jpg"
+  ],
   "Description": "",
   "Price": 45.00,
   "Features": [
