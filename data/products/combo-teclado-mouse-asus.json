@@ -1,7 +1,9 @@
 {
   "Category": "Periféricos",
   "SubCategory": "Teclado",
-  "Images": [],
+  "Images": [
+    "/images/products/combo-teclado-mouse-asus-1.jpg"
+  ],
   "Description": "",
   "Price": 30.00,
   "Features": [
