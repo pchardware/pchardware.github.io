@@ -3,18 +3,7 @@
 <head>
 	<title>Detalles del artículo</title>
 	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta http-equiv="Cache-Control" content="max-age=86400">
-	<script>
-		var expirationDate = new Date();
-		expirationDate.setDate(expirationDate.getDate() + 1);
-		var expires = expirationDate.toUTCString();
-
-		var metaExpires = document.createElement('meta');
-		metaExpires.setAttribute('http-equiv', 'Expires');
-		metaExpires.setAttribute('content', expires);
-		document.head.appendChild(metaExpires);
-	</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">	
 	<!--===============================================================================================-->
 	<link rel="icon" type="image/png" href="images/icons/favicon.png" />
 	<!--===============================================================================================-->
@@ -71,10 +60,12 @@
 				<nav class="limiter-menu-desktop container">
 
 					<!-- Logo desktop -->
-					<p style="margin-right: 25px; font-size: 23px;">
-						<span class="storet1" style="color: #333; font-weight: bold;">COZA</span>
-						<span class="storet2" style="color: #666;">STORE</span>
-					</p>
+					<a href="catalog.html">
+						<p style="margin-right: 25px; font-size: 23px;">
+							<span class="storet1" style="color: #333; font-weight: bold;">COZA</span>
+							<span class="storet2" style="color: #666;">STORE</span>
+						</p>
+					</a>
 
 					<!-- Menu desktop -->
 					<div class="menu-desktop">
@@ -107,10 +98,12 @@
 		<div class="wrap-header-mobile">
 			<!-- Logo moblie -->
 			<div class="logo-mobile">
-				<p style="margin-right: 25px; font-size: 23px;">
-					<span class="storet1" style="color: #333; font-weight: bold;">COZA</span>
-					<span class="storet2" style="color: #666;">STORE</span>
-				</p>
+				<a href="catalog.html">
+					<p style="margin-right: 25px; font-size: 23px;">
+						<span class="storet1" style="color: #333; font-weight: bold;">COZA</span>
+						<span class="storet2" style="color: #666;">STORE</span>
+					</p>
+				</a>
 			</div>
 
 			<!-- Icon header -->
@@ -302,12 +295,13 @@
 
 
 	<!-- Footer -->
-	<footer class="bg3 p-t-75 p-b-32">
+	<footer class="bg3 p-t-50 p-b-32">
 		<div class="container">
-			<div class="p-t-40">
-				<div class="flex-c-m flex-w p-b-18 foot">
-
-				</div>
+			<div class="p-t-20">
+				<div class="flex-c-m flex-w p-b-30 foot txt-center"></div>
+				<p class="txt-center">
+					<a class="stext-107 cl1 txt-center" href="contact.html">Contacto</a>
+				</p>
 				<p class="stext-107 cl6 txt-center">
 					Copyright &copy;
 					<script>document.write(new Date().getFullYear());</script> Todos los derechos reservados
