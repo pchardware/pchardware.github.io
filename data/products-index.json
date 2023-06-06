@@ -381,18 +381,6 @@
         "Label": "Gigabyte GTX 1050 G1 Gaming"
       },
       {
-        "Price": 0.0,
-        "Features": [
-          "10GB",
-          "3xFan",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-04-09T07:40:13.8056655-04:00",
-        "Update": "2023-06-01T10:49:59.7062-04:00",
-        "Label": "Gigabyte Eagle RTX 3080 10GB"
-      },
-      {
         "Price": 285.00,
         "Features": [
           "8GB",
