@@ -1,218 +1,5 @@
 {
   "Componentes": {
-    "Disco Sólido": [
-      {
-        "Price": 70.00,
-        "Features": [
-          "3500MBs",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-04-09T10:01:55.7163005-04:00",
-        "Update": "2023-06-01T10:49:59.4105095-04:00",
-        "Label": "SSD M.2 ADATA XPG GAMMIX S7 512GB"
-      },
-      {
-        "Price": 95.00,
-        "Features": [
-          "6600MBs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-04-09T10:02:09.1945408-04:00",
-        "Update": "2023-06-01T10:49:59.412999-04:00",
-        "Label": "SSD M.2 Crucial P5 Plus 500GB"
-      },
-      {
-        "Price": 45.00,
-        "Features": [
-          "540MBs",
-          "SATA 3"
-        ],
-        "Date": "2023-04-09T09:39:51.3408305-04:00",
-        "Update": "2023-06-01T10:49:59.415801-04:00",
-        "Label": "SSD 2.5 Crucial BX500 480GB"
-      },
-      {
-        "Price": 45.00,
-        "Features": [
-          "500MBs",
-          "SATA 3"
-        ],
-        "Date": "2023-04-09T09:39:54.0884861-04:00",
-        "Update": "2023-06-01T10:49:59.4183941-04:00",
-        "Label": "SSD 2.5 Kingston A400 480GB"
-      },
-      {
-        "Price": 60.00,
-        "Features": [
-          "560MBs",
-          "SATA 3"
-        ],
-        "Date": "2023-04-09T09:39:58.2011686-04:00",
-        "Update": "2023-06-01T10:49:59.4233722-04:00",
-        "Label": "SSD 2.5 SAMSUNG 870 EVO 500GB"
-      },
-      {
-        "Price": 65.00,
-        "Features": [
-          "560MBs",
-          "SATA 3"
-        ],
-        "Date": "2023-04-09T09:40:07.8060759-04:00",
-        "Update": "2023-06-01T10:49:59.425836-04:00",
-        "Label": "SSD 2.5 Team Group DeltaMax RGB 500GB"
-      },
-      {
-        "Price": 80.00,
-        "Features": [
-          "3100MBs",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-04-09T10:02:19.6488406-04:00",
-        "Update": "2023-06-01T10:49:59.4383291-04:00",
-        "Label": "SSD M.2 Samsung 980 500GB"
-      },
-      {
-        "Price": 90.00,
-        "Features": [
-          "5000MBs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-04-09T10:02:30.6829059-04:00",
-        "Update": "2023-06-01T10:49:59.4437977-04:00",
-        "Label": "SSD M.2 Seagate FireCuda 520 500GB"
-      },
-      {
-        "Price": 60.00,
-        "Features": [
-          "3500MBs",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-04-09T10:02:36.2684339-04:00",
-        "Update": "2023-06-01T10:49:59.4480422-04:00",
-        "Label": "SSD M.2 WD Blue SN570 500GB"
-      },
-      {
-        "Price": 60.00,
-        "Features": [
-          "3500MBs",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-05-11T14:04:17.0171928-04:00",
-        "Update": "2023-06-01T10:49:59.6694577-04:00",
-        "Label": "SSD M.2 PNY CS2130 500GB"
-      },
-      {
-        "Price": 65.00,
-        "Features": [
-          "3400MBs",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-05-11T14:05:28.5872525-04:00",
-        "Update": "2023-06-01T10:49:59.6715596-04:00",
-        "Label": "SSD M.2 Crucial P5 500GB"
-      },
-      {
-        "Price": 65.00,
-        "Features": [
-          "3500MBs",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-05-11T14:06:12.1179887-04:00",
-        "Update": "2023-06-01T10:49:59.6736906-04:00",
-        "Label": "SSD M.2 ADATA XPG SX8100 512GB"
-      },
-      {
-        "Price": 115.00,
-        "Features": [
-          "7000MBs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-04-09T10:02:00.2968299-04:00",
-        "Update": "2023-06-07T07:40:38.1172164-04:00",
-        "Label": "SSD M.2 CORSAIR MP600 PRO NH 1TB"
-      },
-      {
-        "Price": 115.00,
-        "Features": [
-          "2100MBs",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-06-07T10:28:10.4293544-04:00",
-        "Update": "2023-06-07T12:21:23.7910626-04:00",
-        "Label": "SSD M.2 PNY CS1030 2TB"
-      },
-      {
-        "Price": 125.00,
-        "Features": [
-          "7100MBs",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-06-07T10:29:28.1707034-04:00",
-        "Update": "2023-06-07T12:21:23.7958518-04:00",
-        "Label": "SSD M.2 CORSAIR MP600 PRO XT 1TB"
-      },
-      {
-        "Price": 50.00,
-        "Features": [
-          "560mbps",
-          "SATA 3"
-        ],
-        "Date": "2023-06-07T13:41:58.996169-04:00",
-        "Update": "2023-06-07T14:15:14.7217292-04:00",
-        "Label": "SSD 2.5 Silicon Power Ace A55 512GB"
-      },
-      {
-        "Price": 45.00,
-        "Features": [
-          "530mbps",
-          "SATA 3"
-        ],
-        "Date": "2023-06-07T13:42:02.617071-04:00",
-        "Update": "2023-06-07T14:15:14.7313133-04:00",
-        "Label": "SSD 2.5 Team Group CX1 480GB"
-      },
-      {
-        "Price": 50.00,
-        "Features": [
-          "530mbps",
-          "SATA 3"
-        ],
-        "Date": "2023-06-07T13:42:05.5721644-04:00",
-        "Update": "2023-06-07T14:15:14.7375041-04:00",
-        "Label": "SSD 2.5 Team Group CX2 512GB"
-      },
-      {
-        "Price": 50.00,
-        "Features": [
-          "550mpps",
-          "SATA 3"
-        ],
-        "Date": "2023-06-07T13:42:08.9262831-04:00",
-        "Update": "2023-06-07T14:15:14.7437424-04:00",
-        "Label": "SSD 2.5 Team Group EX2 512GB"
-      },
-      {
-        "Price": 50.00,
-        "Features": [
-          "550mbps",
-          "SATA 3"
-        ],
-        "Date": "2023-06-07T13:43:23.553018-04:00",
-        "Update": "2023-06-07T14:15:14.7829041-04:00",
-        "Label": "SSD 2.5 Team Group T-FORCE VULCAN G 512GB"
-      }
-    ],
     "Tarjeta Gráfica": [
       {
         "Price": 225.00,
@@ -797,20 +584,20 @@
         "Label": "Enfriamiento Asus 3 Headpipe Intel"
       },
       {
-        "Price": 15.00,
-        "Features": [
-          "LGA 1200"
-        ],
-        "Date": "2023-05-11T12:52:12.030034-04:00",
-        "Update": "2023-06-07T10:07:15.7336127-04:00",
-        "Label": "Enfriamiento Intel Generic Plus"
-      },
-      {
         "Price": 10.00,
         "Features": [],
         "Date": "2023-06-07T15:04:28.5510666-04:00",
         "Update": "2023-06-07T15:26:56.6122061-04:00",
         "Label": "Disipador Intel Generic LGA115X"
+      },
+      {
+        "Price": 15.00,
+        "Features": [
+          "LGA 1200"
+        ],
+        "Date": "2023-05-11T12:52:12.030034-04:00",
+        "Update": "2023-06-07T16:09:24.9248105-04:00",
+        "Label": "Enfriamiento Intel Generic Plus"
       }
     ],
     "Disipador Líquido": [
@@ -944,18 +731,6 @@
         "Label": "Kit Líquido Corsair Hydro XH303i"
       },
       {
-        "Price": 95.00,
-        "Features": [
-          "LGA 1700",
-          "LGA 1200",
-          "AM4",
-          "Black"
-        ],
-        "Date": "2023-06-07T10:27:59.8644959-04:00",
-        "Update": "2023-06-07T12:21:23.7840396-04:00",
-        "Label": "CORSAIR Hydro XC7 RGB PRO CPU Water Block"
-      },
-      {
         "Price": 10.00,
         "Features": [
           "MasterLiquid Illusion Series",
@@ -965,45 +740,18 @@
         "Date": "2023-06-07T13:42:45.011081-04:00",
         "Update": "2023-06-07T13:56:39.842339-04:00",
         "Label": "Cooler Master Kits LGA 1700"
-      }
-    ],
-    "Disco Duro": [
-      {
-        "Price": 155.00,
-        "Features": [],
-        "Date": "2023-05-11T14:18:10.4016902-04:00",
-        "Update": "2023-06-01T10:49:59.6778937-04:00",
-        "Label": "HDD 3.5 Seagate EXOS 8TB"
       },
       {
-        "Price": 195.00,
-        "Features": [],
-        "Date": "2023-05-11T14:19:01.4001144-04:00",
-        "Update": "2023-06-01T10:49:59.6799103-04:00",
-        "Label": "HDD 3.5 WD 14TB HC530"
-      },
-      {
-        "Price": 60.00,
-        "Features": [],
-        "Date": "2023-04-09T11:00:53.9233885-04:00",
-        "Update": "2023-06-01T10:49:59.6830302-04:00",
-        "Label": "HDD 2.5 Seagate BarraCuda 1TB"
-      },
-      {
-        "Price": 85.00,
+        "Price": 95.00,
         "Features": [
-          "SATA III"
+          "LGA 1700",
+          "LGA 1200",
+          "AM4",
+          "Black"
         ],
-        "Date": "2023-05-12T07:53:01.7720075-04:00",
-        "Update": "2023-06-01T10:49:59.7734503-04:00",
-        "Label": "HDD 2.5 Seagate BarraCuda 2TB"
-      },
-      {
-        "Price": 85.00,
-        "Features": [],
-        "Date": "2023-05-11T14:17:30.8616693-04:00",
-        "Update": "2023-06-05T22:58:35.5189296-04:00",
-        "Label": "HDD 3.5 Seagate Constellation 4TB"
+        "Date": "2023-06-07T10:27:59.8644959-04:00",
+        "Update": "2023-06-07T16:09:24.9313469-04:00",
+        "Label": "Corsair Hydro XC7 RGB PRO CPU Water Block"
       }
     ],
     "Fuente": [
@@ -1462,6 +1210,273 @@
         "Date": "2023-03-29T20:18:25.1874798-04:00",
         "Update": "2023-06-07T14:58:21.3729511-04:00",
         "Label": "Gigabyte Z690 UD AX DDR4"
+      }
+    ],
+    "Disco Sólido": [
+      {
+        "Price": 70.00,
+        "Features": [
+          "3500mbs",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-04-09T10:01:55.7163005-04:00",
+        "Update": "2023-06-07T16:09:24.7877438-04:00",
+        "Label": "SSD M.2 ADATA XPG GAMMIX S7 512GB"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "6600mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-04-09T10:02:09.1945408-04:00",
+        "Update": "2023-06-07T16:09:24.792889-04:00",
+        "Label": "SSD M.2 Crucial P5 Plus 500GB"
+      },
+      {
+        "Price": 45.00,
+        "Features": [
+          "540mbs",
+          "SATA 3"
+        ],
+        "Date": "2023-04-09T09:39:51.3408305-04:00",
+        "Update": "2023-06-07T16:09:24.7974415-04:00",
+        "Label": "SSD 2.5 Crucial BX500 480GB"
+      },
+      {
+        "Price": 45.00,
+        "Features": [
+          "500mbs",
+          "SATA 3"
+        ],
+        "Date": "2023-04-09T09:39:54.0884861-04:00",
+        "Update": "2023-06-07T16:09:24.8015469-04:00",
+        "Label": "SSD 2.5 Kingston A400 480GB"
+      },
+      {
+        "Price": 60.00,
+        "Features": [
+          "560mbs",
+          "SATA 3"
+        ],
+        "Date": "2023-04-09T09:39:58.2011686-04:00",
+        "Update": "2023-06-07T16:09:24.8053965-04:00",
+        "Label": "SSD 2.5 Samsung 870 EVO 500GB"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "560mbs",
+          "SATA 3"
+        ],
+        "Date": "2023-04-09T09:40:07.8060759-04:00",
+        "Update": "2023-06-07T16:09:24.80923-04:00",
+        "Label": "SSD 2.5 Team Group DeltaMax RGB 500GB"
+      },
+      {
+        "Price": 80.00,
+        "Features": [
+          "3500mbs",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-04-09T10:02:19.6488406-04:00",
+        "Update": "2023-06-07T16:09:24.8126722-04:00",
+        "Label": "SSD M.2 Samsung 980 500GB"
+      },
+      {
+        "Price": 90.00,
+        "Features": [
+          "5000mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-04-09T10:02:30.6829059-04:00",
+        "Update": "2023-06-07T16:09:24.8160342-04:00",
+        "Label": "SSD M.2 Seagate FireCuda 520 500GB"
+      },
+      {
+        "Price": 60.00,
+        "Features": [
+          "3500mbs",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-04-09T10:02:36.2684339-04:00",
+        "Update": "2023-06-07T16:09:24.8308343-04:00",
+        "Label": "SSD M.2 WD Blue SN570 500GB"
+      },
+      {
+        "Price": 60.00,
+        "Features": [
+          "3500mbs",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-05-11T14:04:17.0171928-04:00",
+        "Update": "2023-06-07T16:09:24.8445174-04:00",
+        "Label": "SSD M.2 PNY CS2130 500GB"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "3400mbs",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-05-11T14:05:28.5872525-04:00",
+        "Update": "2023-06-07T16:09:24.8550961-04:00",
+        "Label": "SSD M.2 Crucial P5 500GB"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "3500mbs",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-05-11T14:06:12.1179887-04:00",
+        "Update": "2023-06-07T16:09:24.8654128-04:00",
+        "Label": "SSD M.2 ADATA XPG SX8100 512GB"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "7000mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-04-09T10:02:00.2968299-04:00",
+        "Update": "2023-06-07T16:09:24.9166129-04:00",
+        "Label": "SSD M.2 Corsair MP600 PRO NH 1TB"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "2100mbs",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-06-07T10:28:10.4293544-04:00",
+        "Update": "2023-06-07T16:09:24.9680549-04:00",
+        "Label": "SSD M.2 PNY CS1030 2TB"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "7100mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-06-07T10:29:28.1707034-04:00",
+        "Update": "2023-06-07T16:09:24.9861144-04:00",
+        "Label": "SSD M.2 Corsair MP600 PRO XT 1TB"
+      },
+      {
+        "Price": 50.00,
+        "Features": [
+          "560mbs",
+          "SATA 3"
+        ],
+        "Date": "2023-06-07T13:41:58.996169-04:00",
+        "Update": "2023-06-07T16:09:25.0046225-04:00",
+        "Label": "SSD 2.5 Silicon Power Ace A55 512GB"
+      },
+      {
+        "Price": 45.00,
+        "Features": [
+          "530mbs",
+          "SATA 3"
+        ],
+        "Date": "2023-06-07T13:42:02.617071-04:00",
+        "Update": "2023-06-07T16:09:25.0185303-04:00",
+        "Label": "SSD 2.5 Team Group CX1 480GB"
+      },
+      {
+        "Price": 50.00,
+        "Features": [
+          "530mbs",
+          "SATA 3"
+        ],
+        "Date": "2023-06-07T13:42:05.5721644-04:00",
+        "Update": "2023-06-07T16:09:25.0233477-04:00",
+        "Label": "SSD 2.5 Team Group CX2 512GB"
+      },
+      {
+        "Price": 50.00,
+        "Features": [
+          "550mbs",
+          "SATA 3"
+        ],
+        "Date": "2023-06-07T13:42:08.9262831-04:00",
+        "Update": "2023-06-07T16:09:25.0355309-04:00",
+        "Label": "SSD 2.5 Team Group EX2 512GB"
+      },
+      {
+        "Price": 50.00,
+        "Features": [
+          "550mbs",
+          "SATA 3"
+        ],
+        "Date": "2023-06-07T13:43:23.553018-04:00",
+        "Update": "2023-06-07T16:09:25.0428281-04:00",
+        "Label": "SSD 2.5 Team Group T-FORCE VULCAN G 512GB"
+      }
+    ],
+    "Disco Duro": [
+      {
+        "Price": 155.00,
+        "Features": [
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-05-11T14:18:10.4016902-04:00",
+        "Update": "2023-06-07T16:09:24.8724034-04:00",
+        "Label": "HDD 3.5 Seagate EXOS 8TB"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "Ultrastar DC",
+          "Enterprise",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-05-11T14:19:01.4001144-04:00",
+        "Update": "2023-06-07T16:09:24.8825976-04:00",
+        "Label": "HDD 3.5 WD 14TB HC530"
+      },
+      {
+        "Price": 60.00,
+        "Features": [
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-04-09T11:00:53.9233885-04:00",
+        "Update": "2023-06-07T16:09:24.8894849-04:00",
+        "Label": "HDD 2.5 Seagate BarraCuda 1TB"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-05-12T07:53:01.7720075-04:00",
+        "Update": "2023-06-07T16:09:24.8971005-04:00",
+        "Label": "HDD 2.5 Seagate BarraCuda 2TB"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-05-11T14:17:30.8616693-04:00",
+        "Update": "2023-06-07T16:09:24.9059895-04:00",
+        "Label": "HDD 3.5 Seagate Constellation 4TB"
       }
     ]
   },
