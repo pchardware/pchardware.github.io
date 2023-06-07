@@ -999,6 +999,17 @@
         "Date": "2023-06-07T10:27:59.8644959-04:00",
         "Update": "2023-06-07T12:21:23.7840396-04:00",
         "Label": "CORSAIR Hydro XC7 RGB PRO CPU Water Block"
+      },
+      {
+        "Price": 10.00,
+        "Features": [
+          "MasterLiquid Illusion Series",
+          "ML-R ARGB Series",
+          "ML-L V2 RGB Series"
+        ],
+        "Date": "2023-06-07T13:42:45.011081-04:00",
+        "Update": "2023-06-07T13:56:39.842339-04:00",
+        "Label": "Cooler Master Kits LGA 1700"
       }
     ],
     "Disco Duro": [
@@ -1148,6 +1159,20 @@
         "Date": "2023-05-11T14:26:27.9739641-04:00",
         "Update": "2023-06-07T10:07:15.7472756-04:00",
         "Label": "Fuente Asus TUF 850W"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "Fully Modular",
+          "80+ Gold",
+          "850W",
+          "71A",
+          "3x 6+2-Pin",
+          "7x SATA"
+        ],
+        "Date": "2023-06-07T13:43:20.159516-04:00",
+        "Update": "2023-06-07T13:56:39.8454229-04:00",
+        "Label": "Fuente CORSAIR RM850e"
       }
     ],
     "Chasis": [
