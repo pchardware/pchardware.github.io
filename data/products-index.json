@@ -878,16 +878,6 @@
         "Label": "D.Líquida Corsair H100x RGB Elite"
       },
       {
-        "Price": 175.00,
-        "Features": [
-          "2xFan",
-          "240mm"
-        ],
-        "Date": "2023-03-27T12:00:02.0089284-04:00",
-        "Update": "2023-06-01T10:49:59.6300252-04:00",
-        "Label": "D.Líquida Cooler Master MasterLiquid ML240L ARGB V2"
-      },
-      {
         "Price": 115.00,
         "Features": [
           "1xFan",
@@ -965,6 +955,16 @@
         "Date": "2023-05-11T13:08:14.7226355-04:00",
         "Update": "2023-06-07T08:41:40.1540461-04:00",
         "Label": "D.Líquida Corsair H60x RGB Elite"
+      },
+      {
+        "Price": 175.00,
+        "Features": [
+          "2xFan",
+          "240mm"
+        ],
+        "Date": "2023-03-27T12:00:02.0089284-04:00",
+        "Update": "2023-06-07T08:47:21.3820287-04:00",
+        "Label": "D.Líquida Cooler Master MasterLiquid ML240L ARGB V2"
       }
     ],
     "Disco Duro": [
