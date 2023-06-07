@@ -6,8 +6,11 @@
   ],
   "Description": "",
   "Price": 60.00,
-  "Features": [],
+  "Features": [
+    "SATA 3",
+    "6 Gbps"
+  ],
   "Date": "2023-04-09T11:00:53.9233885-04:00",
-  "Update": "2023-06-01T10:49:59.6830302-04:00",
+  "Update": "2023-06-07T16:09:24.8894849-04:00",
   "Label": "HDD 2.5 Seagate BarraCuda 1TB"
 }
