@@ -263,21 +263,6 @@
         "Label": "Intel Core i3-13100 +Disipador"
       },
       {
-        "Price": 295.00,
-        "Features": [
-          "13ra Gen",
-          "20 Hilos",
-          "14 Core",
-          "4.8GHz",
-          "24MB L3",
-          "DDR4-DDR5",
-          "LGA1700"
-        ],
-        "Date": "2023-06-07T15:04:52.0919704-04:00",
-        "Update": "2023-06-07T16:28:39.211414-04:00",
-        "Label": "Intel Core i5-13500"
-      },
-      {
         "Price": 225.00,
         "Features": [
           "Radeon Graphics",
@@ -291,6 +276,21 @@
         "Date": "2023-06-07T15:04:47.8071575-04:00",
         "Update": "2023-06-07T16:50:45.3577875-04:00",
         "Label": "AMD Ryzen 7 5700G"
+      },
+      {
+        "Price": 295.00,
+        "Features": [
+          "13ra Gen",
+          "20 Hilos",
+          "14 Core",
+          "4.8GHz",
+          "24MB L3",
+          "DDR4-DDR5",
+          "LGA1700"
+        ],
+        "Date": "2023-06-07T15:04:52.0919704-04:00",
+        "Update": "2023-06-07T17:06:20.3573205-04:00",
+        "Label": "Intel Core i5-13500 +Disipador"
       }
     ],
     "Memoria RAM": [
