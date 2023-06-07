@@ -898,16 +898,6 @@
         "Label": "D.Líquida Thermaltake TH120 ARGB"
       },
       {
-        "Price": 135.00,
-        "Features": [
-          "1xFan",
-          "120mm"
-        ],
-        "Date": "2023-05-11T13:08:14.7226355-04:00",
-        "Update": "2023-06-01T10:49:59.6346704-04:00",
-        "Label": "D.Líquida Corsair H60x RGB Elite"
-      },
-      {
         "Price": 115.00,
         "Features": [
           "1xFan",
@@ -965,6 +955,16 @@
         "Date": "2023-05-11T13:08:17.1127956-04:00",
         "Update": "2023-06-01T10:49:59.6475756-04:00",
         "Label": "Kit Líquido Corsair Hydro XH305i"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "1xFan",
+          "120mm"
+        ],
+        "Date": "2023-05-11T13:08:14.7226355-04:00",
+        "Update": "2023-06-07T08:41:40.1540461-04:00",
+        "Label": "D.Líquida Corsair H60x RGB Elite"
       }
     ],
     "Disco Duro": [
