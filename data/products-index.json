@@ -2,7 +2,7 @@
   "Componentes": {
     "Board": [
       {
-        "Price": 165.00,
+        "Price": 175.00,
         "Features": [
           "12na y 13ra",
           "DDR4",
@@ -26,7 +26,7 @@
         "Label": "Asus B660 ProArt Creator D4"
       },
       {
-        "Price": 270.00,
+        "Price": 275.00,
         "Features": [
           "12na y 13ra",
           "DDR5",
@@ -38,7 +38,7 @@
         "Label": "Asus Prime Z690-A"
       },
       {
-        "Price": 425.00,
+        "Price": 435.00,
         "Features": [
           "12na y 13ra",
           "DDR5",
@@ -50,7 +50,7 @@
         "Label": "Asus ROG Strix Z790-H Gaming Wifi"
       },
       {
-        "Price": 240.00,
+        "Price": 245.00,
         "Features": [
           "10ma y 11na",
           "DDR4",
@@ -73,6 +73,32 @@
         "Label": "Gigabyte Z690 UD AX DDR4"
       },
       {
+        "Price": 255.00,
+        "Features": [
+          "AMD",
+          "AM4",
+          "2da-5ta",
+          "DDR4",
+          "4733mhz"
+        ],
+        "Date": "2023-03-29T20:18:19.4758559-04:00",
+        "Update": "2023-06-01T10:49:59.40302-04:00",
+        "Label": "Gigabyte X570 Aorus Elite Wifi"
+      },
+      {
+        "Price": 250.00,
+        "Features": [
+          "AMD",
+          "AM4",
+          "2da-5ta",
+          "DDR4",
+          "4400mhz"
+        ],
+        "Date": "2023-03-29T20:18:20.9032202-04:00",
+        "Update": "2023-06-01T10:49:59.405503-04:00",
+        "Label": "Gigabyte X570 Aorus Pro Wifi"
+      },
+      {
         "Price": 365.00,
         "Features": [
           "12na y 13ra",
@@ -84,7 +110,7 @@
         "Label": "Asus ROG Strix Z690-F Gaming Wifi DDR5"
       },
       {
-        "Price": 175.00,
+        "Price": 185.00,
         "Features": [
           "10ma y 11na",
           "DDR4",
@@ -96,7 +122,7 @@
         "Label": "Z590 ASRock Steel Legend"
       },
       {
-        "Price": 200.00,
+        "Price": 205.00,
         "Features": [
           "10ma y 11na",
           "DDR4",
@@ -108,7 +134,7 @@
         "Label": "Asus Tuf Gaming Z590 Plus Wifi"
       },
       {
-        "Price": 285.00,
+        "Price": 295.00,
         "Features": [
           "12na y 13ra",
           "7600mhz",
@@ -117,22 +143,11 @@
         "Date": "2023-05-14T10:52:20.5741642-04:00",
         "Update": "2023-06-01T10:49:59.7983888-04:00",
         "Label": "Gigabyte Z790 UD AC DDR51700"
-      },
-      {
-        "Price": 415.00,
-        "Features": [
-          "12na y 13ra",
-          "6400mhz",
-          "LGA1700"
-        ],
-        "Date": "2023-05-11T07:51:07.1403838-04:00",
-        "Update": "2023-06-05T22:58:35.4837751-04:00",
-        "Label": "Asus ROG Strix Z690-E Gaming Wifi DDR5"
       }
     ],
     "Disco Sólido": [
       {
-        "Price": 70.00,
+        "Price": 75.00,
         "Features": [
           "3500MBs",
           "PCIe 3",
@@ -143,7 +158,7 @@
         "Label": "SSD M.2 ADATA XPG GAMMIX S7 512GB"
       },
       {
-        "Price": 95.00,
+        "Price": 100.00,
         "Features": [
           "6600MBs",
           "PCIe 4",
@@ -154,7 +169,7 @@
         "Label": "SSD M.2 Crucial P5 Plus 500GB"
       },
       {
-        "Price": 45.00,
+        "Price": 55.00,
         "Features": [
           "540MBs",
           "SATA 3"
@@ -164,7 +179,7 @@
         "Label": "SSD 2.5 Crucial BX500 480GB"
       },
       {
-        "Price": 45.00,
+        "Price": 55.00,
         "Features": [
           "500MBs",
           "SATA 3"
@@ -174,7 +189,7 @@
         "Label": "SSD 2.5 Kingston A400 480GB"
       },
       {
-        "Price": 60.00,
+        "Price": 75.00,
         "Features": [
           "560MBs",
           "SATA 3"
@@ -184,7 +199,7 @@
         "Label": "SSD 2.5 SAMSUNG 870 EVO 500GB"
       },
       {
-        "Price": 65.00,
+        "Price": 80.00,
         "Features": [
           "560MBs",
           "SATA 3"
@@ -194,7 +209,7 @@
         "Label": "SSD 2.5 Team Group DeltaMax RGB 500GB"
       },
       {
-        "Price": 80.00,
+        "Price": 85.00,
         "Features": [
           "3100MBs",
           "PCIe 3",
@@ -205,7 +220,7 @@
         "Label": "SSD M.2 Samsung 980 500GB"
       },
       {
-        "Price": 90.00,
+        "Price": 95.00,
         "Features": [
           "5000MBs",
           "PCIe 4",
@@ -216,7 +231,7 @@
         "Label": "SSD M.2 Seagate FireCuda 520 500GB"
       },
       {
-        "Price": 60.00,
+        "Price": 65.00,
         "Features": [
           "3500MBs",
           "PCIe 3",
@@ -227,7 +242,7 @@
         "Label": "SSD M.2 WD Blue SN570 500GB"
       },
       {
-        "Price": 60.00,
+        "Price": 65.00,
         "Features": [
           "3500MBs",
           "PCIe 3",
@@ -238,7 +253,7 @@
         "Label": "SSD M.2 PNY CS2130 500GB"
       },
       {
-        "Price": 65.00,
+        "Price": 70.00,
         "Features": [
           "3400MBs",
           "PCIe 3",
@@ -249,7 +264,7 @@
         "Label": "SSD M.2 Crucial P5 500GB"
       },
       {
-        "Price": 65.00,
+        "Price": 70.00,
         "Features": [
           "3500MBs",
           "PCIe 3",
@@ -258,17 +273,6 @@
         "Date": "2023-05-11T14:06:12.1179887-04:00",
         "Update": "2023-06-01T10:49:59.6736906-04:00",
         "Label": "SSD M.2 ADATA XPG SX8100 512GB"
-      },
-      {
-        "Price": 115.00,
-        "Features": [
-          "7000MBs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-04-09T10:02:00.2968299-04:00",
-        "Update": "2023-06-05T22:58:35.4774102-04:00",
-        "Label": "SSD M.2 CORSAIR MP600 PRO NH 1TB"
       }
     ],
     "Tarjeta Gráfica": [
@@ -285,7 +289,7 @@
         "Label": "XFX Speedster QICK 210 RX 6500 XT"
       },
       {
-        "Price": 380.00,
+        "Price": 385.00,
         "Features": [
           "8GB",
           "2xFan",
@@ -297,7 +301,7 @@
         "Label": "MSI RTX 3060 Ventus 2x OC"
       },
       {
-        "Price": 395.00,
+        "Price": 400.00,
         "Features": [
           "2xFan",
           "8GB",
@@ -381,7 +385,19 @@
         "Label": "Gigabyte GTX 1050 G1 Gaming"
       },
       {
-        "Price": 285.00,
+        "Price": 750.00,
+        "Features": [
+          "10GB",
+          "3xFan",
+          "GeForce",
+          "NVIDIA"
+        ],
+        "Date": "2023-04-09T07:40:13.8056655-04:00",
+        "Update": "2023-06-01T10:49:59.7062-04:00",
+        "Label": "Gigabyte Eagle RTX 3080 10GB"
+      },
+      {
+        "Price": 295.00,
         "Features": [
           "8GB",
           "3xFan",
@@ -443,7 +459,7 @@
         "Label": "Intel Core i7-13700K"
       },
       {
-        "Price": 645.00,
+        "Price": 655.00,
         "Features": [
           "13th Gen",
           "32 Hilos",
@@ -516,22 +532,6 @@
         "Date": "2023-05-11T07:28:15.7616729-04:00",
         "Update": "2023-06-01T10:49:59.6174577-04:00",
         "Label": "Intel Core i3-12100 +Disipador"
-      },
-      {
-        "Price": 420.00,
-        "Features": [
-          "12th Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.2GHz",
-          "30MB L3",
-          "DDR4 y DDR5",
-          "Unlocked",
-          "LGA 1700"
-        ],
-        "Date": "2023-05-11T07:00:48.0876416-04:00",
-        "Update": "2023-06-05T22:58:35.4805585-04:00",
-        "Label": "Intel Core i9-12900K"
       }
     ],
     "Memoria RAM": [
@@ -581,7 +581,7 @@
         "Label": "DDR4 GeIL ORION RGB 16GB"
       },
       {
-        "Price": 130.00,
+        "Price": 145.00,
         "Features": [
           "5200mhz",
           "2x16GB",
@@ -658,7 +658,7 @@
         "Label": "DDR4 XPG SPECTRIX D45G RGB 16GB"
       },
       {
-        "Price": 120.00,
+        "Price": 130.00,
         "Features": [
           "4800mhz",
           "2x16GB",
@@ -669,7 +669,7 @@
         "Label": "DDR5 CORSAIR Vengeance 32GB"
       },
       {
-        "Price": 130.00,
+        "Price": 140.00,
         "Features": [
           "5200mhz",
           "2x16GB",
@@ -680,7 +680,18 @@
         "Label": "DDR5 Gigabyte AORUS 32GB"
       },
       {
-        "Price": 245.00,
+        "Price": 150.00,
+        "Features": [
+          "3600mhz",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-09T12:28:03.6250501-05:00",
+        "Update": "2023-06-01T10:49:59.5584962-04:00",
+        "Label": "DDR4 G.SKILL TridentZ RGB 32GB"
+      },
+      {
+        "Price": 270.00,
         "Features": [
           "5200mhz",
           "2x32GB",
@@ -691,7 +702,7 @@
         "Label": "DDR5 CORSAIR Vengeance RGB 64GB"
       },
       {
-        "Price": 215.00,
+        "Price": 230.00,
         "Features": [
           "5200mhz",
           "2x32GB",
@@ -702,7 +713,7 @@
         "Label": "DDR5 CORSAIR Vengeance 64GB"
       },
       {
-        "Price": 190.00,
+        "Price": 195.00,
         "Features": [
           "5600mhz",
           "2x24GB",
@@ -713,7 +724,7 @@
         "Label": "DDR5 CORSAIR Vengeance RGB 48GB"
       },
       {
-        "Price": 145.00,
+        "Price": 155.00,
         "Features": [
           "6000mhz",
           "2x16GB",
@@ -722,39 +733,6 @@
         "Date": "2023-05-11T08:36:03.7462691-04:00",
         "Update": "2023-06-01T10:49:59.5705914-04:00",
         "Label": "DDR5 CORSAIR Vengeance 32GB"
-      },
-      {
-        "Price": 160.00,
-        "Features": [
-          "6000mhz",
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-03-30T09:56:12.5688722-04:00",
-        "Update": "2023-06-05T22:58:35.4978627-04:00",
-        "Label": "DDR5 CORSAIR Vengeance RGB 32GB"
-      },
-      {
-        "Price": 175.00,
-        "Features": [
-          "6400mhz",
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-05-11T08:37:02.3477958-04:00",
-        "Update": "2023-06-05T22:58:35.5053877-04:00",
-        "Label": "DDR5 CORSAIR Vengeance RGB 32GB"
-      },
-      {
-        "Price": 160.00,
-        "Features": [
-          "6000mhz",
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-05-11T08:37:56.7258334-04:00",
-        "Update": "2023-06-05T22:58:35.5159631-04:00",
-        "Label": "DDR5 G.SKILL Trident Z5 RGB 32GB"
       }
     ],
     "Disipador por Aire": [
@@ -969,14 +947,14 @@
     ],
     "Disco Duro": [
       {
-        "Price": 155.00,
+        "Price": 170.00,
         "Features": [],
         "Date": "2023-05-11T14:18:10.4016902-04:00",
         "Update": "2023-06-01T10:49:59.6778937-04:00",
         "Label": "HDD 3.5 Seagate EXOS 8TB"
       },
       {
-        "Price": 195.00,
+        "Price": 235.00,
         "Features": [],
         "Date": "2023-05-11T14:19:01.4001144-04:00",
         "Update": "2023-06-01T10:49:59.6799103-04:00",
@@ -997,18 +975,11 @@
         "Date": "2023-05-12T07:53:01.7720075-04:00",
         "Update": "2023-06-01T10:49:59.7734503-04:00",
         "Label": "HDD 2.5 Seagate BarraCuda 2TB"
-      },
-      {
-        "Price": 85.00,
-        "Features": [],
-        "Date": "2023-05-11T14:17:30.8616693-04:00",
-        "Update": "2023-06-05T22:58:35.5189296-04:00",
-        "Label": "HDD 3.5 Seagate Constellation 4TB"
       }
     ],
     "Fuente": [
       {
-        "Price": 140.00,
+        "Price": 150.00,
         "Features": [
           "80+ Bronze",
           "Modular",
@@ -1062,7 +1033,7 @@
         "Label": "Fuente Thermaltake SMART 600W"
       },
       {
-        "Price": 235.00,
+        "Price": 255.00,
         "Features": [
           "80+ Gold",
           "Full Modular",
@@ -1076,7 +1047,7 @@
         "Label": "Fuente Asus TUF 850W"
       },
       {
-        "Price": 185.00,
+        "Price": 200.00,
         "Features": [
           "80+ Bronze",
           "Modular",
@@ -1091,7 +1062,7 @@
         "Label": "Fuente EVGA 850 BQ"
       },
       {
-        "Price": 250.00,
+        "Price": 260.00,
         "Features": [
           "80+ Gold",
           "Full Modular",
@@ -1216,7 +1187,7 @@
     ],
     "Teclado": [
       {
-        "Price": 105.00,
+        "Price": 110.00,
         "Features": [
           "Gaming",
           "USB"
@@ -1226,7 +1197,7 @@
         "Label": "Teclado Corsair Gaming K55 RGB Pro"
       },
       {
-        "Price": 65.00,
+        "Price": 80.00,
         "Features": [
           "Gaming",
           "USB"
@@ -1236,7 +1207,7 @@
         "Label": "Teclado EVGA Z12 RGB"
       },
       {
-        "Price": 130.00,
+        "Price": 145.00,
         "Features": [
           "Mechanical",
           "Cherry MX",
@@ -1260,7 +1231,7 @@
         "Label": "COMBO Teclado + Mouse Asus"
       },
       {
-        "Price": 75.00,
+        "Price": 80.00,
         "Features": [
           "Inalámbrico",
           "USB"
@@ -1270,7 +1241,7 @@
         "Label": "COMBO Teclado + Mouse Logitech MK520"
       },
       {
-        "Price": 85.00,
+        "Price": 95.00,
         "Features": [
           "Gaming",
           "USB"
@@ -1280,7 +1251,7 @@
         "Label": "COMBO Teclado + Mouse Rosewill Fusion C40"
       },
       {
-        "Price": 150.00,
+        "Price": 165.00,
         "Features": [
           "6000dpi",
           "Gaming",
