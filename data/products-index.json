@@ -124,70 +124,6 @@
     ],
     "Microprocesador": [
       {
-        "Price": 325.00,
-        "Features": [
-          "12th Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "25MB L3",
-          "DDR4 y DDR5",
-          "Unlocked",
-          "LGA 1700"
-        ],
-        "Date": "2023-02-17T09:30:45.7586545-05:00",
-        "Update": "2023-06-01T10:49:59.4917743-04:00",
-        "Label": "Intel Core i7-12700K"
-      },
-      {
-        "Price": 255.00,
-        "Features": [
-          "12th Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "20MB L3",
-          "DDR4 y DDR5",
-          "Unlocked",
-          "LGA 1700"
-        ],
-        "Date": "2023-02-17T09:44:28.156292-05:00",
-        "Update": "2023-06-01T10:49:59.494574-04:00",
-        "Label": "Intel Core i5-12600K"
-      },
-      {
-        "Price": 465.00,
-        "Features": [
-          "13th Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.4GHz",
-          "30MB L3",
-          "DDR4 y DDR5",
-          "Unlocked",
-          "LGA 1700"
-        ],
-        "Date": "2023-03-22T09:04:14.8362359-04:00",
-        "Update": "2023-06-01T10:49:59.497058-04:00",
-        "Label": "Intel Core i7-13700K"
-      },
-      {
-        "Price": 645.00,
-        "Features": [
-          "13th Gen",
-          "32 Hilos",
-          "24 Core",
-          "5.7GHz",
-          "30MB L3",
-          "DDR4 y DDR5",
-          "Unlocked",
-          "LGA 1700"
-        ],
-        "Date": "2023-03-22T09:04:16.5699219-04:00",
-        "Update": "2023-06-01T10:49:59.4996762-04:00",
-        "Label": "Intel Core i9-13900K"
-      },
-      {
         "Price": 245.00,
         "Features": [
           "5000 Series",
@@ -202,67 +138,6 @@
         "Label": "AMD Ryzen 7 5800X"
       },
       {
-        "Price": 215.00,
-        "Features": [
-          "12th Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "18MB L3",
-          "DDR4 y DDR5",
-          "LGA 1700"
-        ],
-        "Date": "2023-02-17T09:45:29.425139-05:00",
-        "Update": "2023-06-01T10:49:59.6102422-04:00",
-        "Label": "Intel Core i5-12400 +Disipador"
-      },
-      {
-        "Price": 155.00,
-        "Features": [
-          "12th Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.3GHz",
-          "12MB L3",
-          "DDR4 y DDR5",
-          "LGA 1700"
-        ],
-        "Date": "2023-05-11T07:28:15.7616729-04:00",
-        "Update": "2023-06-01T10:49:59.6174577-04:00",
-        "Label": "Intel Core i3-12100 +Disipador"
-      },
-      {
-        "Price": 420.00,
-        "Features": [
-          "12th Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.2GHz",
-          "30MB L3",
-          "DDR4 y DDR5",
-          "Unlocked",
-          "LGA 1700"
-        ],
-        "Date": "2023-05-11T07:00:48.0876416-04:00",
-        "Update": "2023-06-05T22:58:35.4805585-04:00",
-        "Label": "Intel Core i9-12900K"
-      },
-      {
-        "Price": 175.00,
-        "Features": [
-          "13th Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.5GHz",
-          "12MB L3",
-          "DDR4 y DDR5",
-          "LGA 1700"
-        ],
-        "Date": "2023-03-22T09:04:00.899336-04:00",
-        "Update": "2023-06-07T10:07:15.7371026-04:00",
-        "Label": "Intel Core i3-13100 +Disipador"
-      },
-      {
         "Price": 225.00,
         "Features": [
           "AM4"
@@ -272,13 +147,143 @@
         "Label": "AMD Ryzen 7 5700G"
       },
       {
+        "Price": 325.00,
+        "Features": [
+          "12va Gen",
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "25MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA1700"
+        ],
+        "Date": "2023-02-17T09:30:45.7586545-05:00",
+        "Update": "2023-06-07T16:28:38.9839899-04:00",
+        "Label": "Intel Core i7-12700K"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "12va Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "20MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA1700"
+        ],
+        "Date": "2023-02-17T09:44:28.156292-05:00",
+        "Update": "2023-06-07T16:28:38.9924865-04:00",
+        "Label": "Intel Core i5-12600K"
+      },
+      {
+        "Price": 465.00,
+        "Features": [
+          "13ra Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.4GHz",
+          "30MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA1700"
+        ],
+        "Date": "2023-03-22T09:04:14.8362359-04:00",
+        "Update": "2023-06-07T16:28:38.9966472-04:00",
+        "Label": "Intel Core i7-13700K"
+      },
+      {
+        "Price": 645.00,
+        "Features": [
+          "13ra Gen",
+          "32 Hilos",
+          "24 Core",
+          "5.7GHz",
+          "30MB L3",
+          "DDR4 y DDR5",
+          "Unlocked",
+          "LGA1700"
+        ],
+        "Date": "2023-03-22T09:04:16.5699219-04:00",
+        "Update": "2023-06-07T16:28:39.006933-04:00",
+        "Label": "Intel Core i9-13900K"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "12va Gen",
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "18MB L3",
+          "DDR4-DDR5",
+          "LGA1700"
+        ],
+        "Date": "2023-02-17T09:45:29.425139-05:00",
+        "Update": "2023-06-07T16:28:39.1043283-04:00",
+        "Label": "Intel Core i5-12400 +Disipador"
+      },
+      {
+        "Price": 155.00,
+        "Features": [
+          "12va Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA1700"
+        ],
+        "Date": "2023-05-11T07:28:15.7616729-04:00",
+        "Update": "2023-06-07T16:28:39.1168146-04:00",
+        "Label": "Intel Core i3-12100 +Disipador"
+      },
+      {
+        "Price": 420.00,
+        "Features": [
+          "12va Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.2GHz",
+          "30MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA1700"
+        ],
+        "Date": "2023-05-11T07:00:48.0876416-04:00",
+        "Update": "2023-06-07T16:28:39.1688514-04:00",
+        "Label": "Intel Core i9-12900K"
+      },
+      {
+        "Price": 175.00,
+        "Features": [
+          "13ra Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.5GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA1700"
+        ],
+        "Date": "2023-03-22T09:04:00.899336-04:00",
+        "Update": "2023-06-07T16:28:39.1916686-04:00",
+        "Label": "Intel Core i3-13100 +Disipador"
+      },
+      {
         "Price": 295.00,
         "Features": [
-          "13ra",
+          "13ra Gen",
+          "20 Hilos",
+          "14 Core",
+          "4.8GHz",
+          "24MB L3",
+          "DDR4-DDR5",
           "LGA1700"
         ],
         "Date": "2023-06-07T15:04:52.0919704-04:00",
-        "Update": "2023-06-07T15:26:56.6270925-04:00",
+        "Update": "2023-06-07T16:28:39.211414-04:00",
         "Label": "Intel Core i5-13500"
       }
     ],
@@ -329,28 +334,6 @@
         "Label": "DDR4 GeIL ORION RGB 16GB"
       },
       {
-        "Price": 130.00,
-        "Features": [
-          "5200mhz",
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-03-30T09:56:10.4975909-04:00",
-        "Update": "2023-06-01T10:49:59.5327149-04:00",
-        "Label": "DDR5 CORSAIR Vengeance 32GB"
-      },
-      {
-        "Price": 110.00,
-        "Features": [
-          "3600mhz",
-          "2x8GB",
-          "Disipadas"
-        ],
-        "Date": "2023-03-30T09:55:40.6507732-04:00",
-        "Update": "2023-06-01T10:49:59.5351916-04:00",
-        "Label": "DDR4 CORSAIR Vengeance RGB RT 16GB"
-      },
-      {
         "Price": 105.00,
         "Features": [
           "4000mhz",
@@ -360,28 +343,6 @@
         "Date": "2023-03-30T09:55:59.2434323-04:00",
         "Update": "2023-06-01T10:49:59.5376703-04:00",
         "Label": "DDR4 GeIL ORION RGB 16GB"
-      },
-      {
-        "Price": 110.00,
-        "Features": [
-          "3600mhz",
-          "2x8GB",
-          "Disipadas"
-        ],
-        "Date": "2023-03-30T09:56:45.7624715-04:00",
-        "Update": "2023-06-01T10:49:59.540535-04:00",
-        "Label": "DDR4 CORSAIR Vengeance RGB RS 16GB"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "3600mhz",
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-03-30T09:55:42.6288205-04:00",
-        "Update": "2023-06-01T10:49:59.5430056-04:00",
-        "Label": "DDR4 G.SKILL Ripjaws V 32GB"
       },
       {
         "Price": 100.00,
@@ -395,94 +356,6 @@
         "Label": "DDR4 XPG SPECTRIX D45G RGB 16GB"
       },
       {
-        "Price": 120.00,
-        "Features": [
-          "4800mhz",
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-05-11T08:35:27.0521871-04:00",
-        "Update": "2023-06-01T10:49:59.5505495-04:00",
-        "Label": "DDR5 CORSAIR Vengeance 32GB"
-      },
-      {
-        "Price": 245.00,
-        "Features": [
-          "5200mhz",
-          "2x32GB",
-          "Disipadas"
-        ],
-        "Date": "2023-03-30T09:56:14.691824-04:00",
-        "Update": "2023-06-01T10:49:59.560929-04:00",
-        "Label": "DDR5 CORSAIR Vengeance RGB 64GB"
-      },
-      {
-        "Price": 215.00,
-        "Features": [
-          "5200mhz",
-          "2x32GB",
-          "Disipadas"
-        ],
-        "Date": "2023-05-11T08:36:35.2792015-04:00",
-        "Update": "2023-06-01T10:49:59.5632356-04:00",
-        "Label": "DDR5 CORSAIR Vengeance 64GB"
-      },
-      {
-        "Price": 190.00,
-        "Features": [
-          "5600mhz",
-          "2x24GB",
-          "Disipadas"
-        ],
-        "Date": "2023-05-11T08:37:27.4728146-04:00",
-        "Update": "2023-06-01T10:49:59.565781-04:00",
-        "Label": "DDR5 CORSAIR Vengeance RGB 48GB"
-      },
-      {
-        "Price": 145.00,
-        "Features": [
-          "6000mhz",
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-05-11T08:36:03.7462691-04:00",
-        "Update": "2023-06-01T10:49:59.5705914-04:00",
-        "Label": "DDR5 CORSAIR Vengeance 32GB"
-      },
-      {
-        "Price": 160.00,
-        "Features": [
-          "6000mhz",
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-03-30T09:56:12.5688722-04:00",
-        "Update": "2023-06-05T22:58:35.4978627-04:00",
-        "Label": "DDR5 CORSAIR Vengeance RGB 32GB"
-      },
-      {
-        "Price": 175.00,
-        "Features": [
-          "6400mhz",
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-05-11T08:37:02.3477958-04:00",
-        "Update": "2023-06-05T22:58:35.5053877-04:00",
-        "Label": "DDR5 CORSAIR Vengeance RGB 32GB"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "3600mhz",
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-03-30T09:55:44.4799768-04:00",
-        "Update": "2023-06-07T10:07:15.7271127-04:00",
-        "Label": "DDR4 G.SKILL Sniper X 32GB"
-      },
-      {
         "Price": 130.00,
         "Features": [
           "5200mhz",
@@ -494,17 +367,6 @@
         "Label": "DDR5 Gigabyte AORUS 32GB"
       },
       {
-        "Price": 160.00,
-        "Features": [
-          "6000mhz",
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-05-11T08:37:56.7258334-04:00",
-        "Update": "2023-06-07T10:07:15.7531929-04:00",
-        "Label": "DDR5 G.SKILL Trident Z5 RGB 32GB"
-      },
-      {
         "Price": 15.00,
         "Features": [
           "RAM x4"
@@ -512,6 +374,149 @@
         "Date": "2023-06-07T15:04:43.4119901-04:00",
         "Update": "2023-06-07T15:55:09.4433063-04:00",
         "Label": "Cooler Fan Corsair Vengance LPX"
+      },
+      {
+        "Price": 130.00,
+        "Features": [
+          "5200mhz",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-30T09:56:10.4975909-04:00",
+        "Update": "2023-06-07T16:28:39.0182086-04:00",
+        "Label": "DDR5 Corsair Vengeance 32GB"
+      },
+      {
+        "Price": 110.00,
+        "Features": [
+          "3600mhz",
+          "2x8GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-30T09:55:40.6507732-04:00",
+        "Update": "2023-06-07T16:28:39.0246033-04:00",
+        "Label": "DDR4 Corsair Vengeance RGB RT 16GB"
+      },
+      {
+        "Price": 110.00,
+        "Features": [
+          "3600mhz",
+          "2x8GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-30T09:56:45.7624715-04:00",
+        "Update": "2023-06-07T16:28:39.0365741-04:00",
+        "Label": "DDR4 Corsair Vengeance RGB RS 16GB"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "3600mhz",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-30T09:55:42.6288205-04:00",
+        "Update": "2023-06-07T16:28:39.0419294-04:00",
+        "Label": "DDR4 G.Skill Ripjaws V 32GB"
+      },
+      {
+        "Price": 120.00,
+        "Features": [
+          "4800mhz",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-05-11T08:35:27.0521871-04:00",
+        "Update": "2023-06-07T16:28:39.0534461-04:00",
+        "Label": "DDR5 Corsair Vengeance 32GB"
+      },
+      {
+        "Price": 245.00,
+        "Features": [
+          "5200mhz",
+          "2x32GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-30T09:56:14.691824-04:00",
+        "Update": "2023-06-07T16:28:39.0619698-04:00",
+        "Label": "DDR5 Corsair Vengeance RGB 64GB"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "5200mhz",
+          "2x32GB",
+          "Disipadas"
+        ],
+        "Date": "2023-05-11T08:36:35.2792015-04:00",
+        "Update": "2023-06-07T16:28:39.0721182-04:00",
+        "Label": "DDR5 Corsair Vengeance 64GB"
+      },
+      {
+        "Price": 190.00,
+        "Features": [
+          "5600mhz",
+          "2x24GB",
+          "Disipadas"
+        ],
+        "Date": "2023-05-11T08:37:27.4728146-04:00",
+        "Update": "2023-06-07T16:28:39.0816343-04:00",
+        "Label": "DDR5 Corsair Vengeance RGB 48GB"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "6000mhz",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-05-11T08:36:03.7462691-04:00",
+        "Update": "2023-06-07T16:28:39.0850192-04:00",
+        "Label": "DDR5 Corsair Vengeance 32GB"
+      },
+      {
+        "Price": 160.00,
+        "Features": [
+          "6000mhz",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-30T09:56:12.5688722-04:00",
+        "Update": "2023-06-07T16:28:39.1737318-04:00",
+        "Label": "DDR5 Corsair Vengeance RGB 32GB"
+      },
+      {
+        "Price": 175.00,
+        "Features": [
+          "6400mhz",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-05-11T08:37:02.3477958-04:00",
+        "Update": "2023-06-07T16:28:39.1789862-04:00",
+        "Label": "DDR5 Corsair Vengeance RGB 32GB"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "3600mhz",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-30T09:55:44.4799768-04:00",
+        "Update": "2023-06-07T16:28:39.1841128-04:00",
+        "Label": "DDR4 G.Skill Sniper X 32GB"
+      },
+      {
+        "Price": 160.00,
+        "Features": [
+          "6000mhz",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-05-11T08:37:56.7258334-04:00",
+        "Update": "2023-06-07T16:28:39.196323-04:00",
+        "Label": "DDR5 G.Skill Trident Z5 RGB 32GB"
       }
     ],
     "Disipador por Aire": [
@@ -580,24 +585,22 @@
           "Cobre"
         ],
         "Date": "2023-05-11T12:52:16.9141688-04:00",
-        "Update": "2023-06-01T10:49:59.6074864-04:00",
+        "Update": "2023-06-07T16:28:39.0955935-04:00",
         "Label": "Enfriamiento Asus 3 Headpipe Intel"
+      },
+      {
+        "Price": 15.00,
+        "Features": [],
+        "Date": "2023-05-11T12:52:12.030034-04:00",
+        "Update": "2023-06-07T16:28:39.1882776-04:00",
+        "Label": "Enfriamiento Intel Generic Plus LGA1200"
       },
       {
         "Price": 10.00,
         "Features": [],
         "Date": "2023-06-07T15:04:28.5510666-04:00",
-        "Update": "2023-06-07T15:26:56.6122061-04:00",
-        "Label": "Disipador Intel Generic LGA115X"
-      },
-      {
-        "Price": 15.00,
-        "Features": [
-          "LGA 1200"
-        ],
-        "Date": "2023-05-11T12:52:12.030034-04:00",
-        "Update": "2023-06-07T16:09:24.9248105-04:00",
-        "Label": "Enfriamiento Intel Generic Plus"
+        "Update": "2023-06-07T16:28:39.2078356-04:00",
+        "Label": "Enfriamiento Intel Generic LGA115X"
       }
     ],
     "Disipador Líquido": [
@@ -770,34 +773,6 @@
         "Label": "Fuente Corsair CX750M"
       },
       {
-        "Price": 165.00,
-        "Features": [
-          "Fully Modular",
-          "80+ Bronze",
-          "750W",
-          "63A",
-          "4x 6+2-Pin",
-          "8x SATA"
-        ],
-        "Date": "2023-04-15T07:27:08.3449497-04:00",
-        "Update": "2023-06-01T10:49:59.6872322-04:00",
-        "Label": "Fuente CORSAIR CX750F RGB"
-      },
-      {
-        "Price": 295.00,
-        "Features": [
-          "80+ Gold",
-          "Full Modular",
-          "1000W",
-          "83A",
-          "8x 6+2-Pin",
-          "11x SATA"
-        ],
-        "Date": "2023-04-15T07:27:11.3654492-04:00",
-        "Update": "2023-06-01T10:49:59.6893555-04:00",
-        "Label": "Fuente CORSAIR RM1000X"
-      },
-      {
         "Price": 95.00,
         "Features": [
           "80+",
@@ -864,27 +839,6 @@
         "Label": "Fuente Asus TUF 850W"
       },
       {
-        "Price": 215.00,
-        "Features": [
-          "Fully Modular",
-          "80+ Gold",
-          "850W",
-          "71A",
-          "3x 6+2-Pin",
-          "7x SATA"
-        ],
-        "Date": "2023-06-07T13:43:20.159516-04:00",
-        "Update": "2023-06-07T13:56:39.8454229-04:00",
-        "Label": "Fuente CORSAIR RM850e"
-      },
-      {
-        "Price": 85.00,
-        "Features": [],
-        "Date": "2023-06-07T13:43:16.5137084-04:00",
-        "Update": "2023-06-07T14:23:20.6691021-04:00",
-        "Label": "Corsair Cable Kit Blue"
-      },
-      {
         "Price": 280.00,
         "Features": [
           "80+ Gold",
@@ -896,10 +850,63 @@
         "Label": "Fuente Asus TUF 1000W"
       },
       {
+        "Price": 165.00,
+        "Features": [
+          "Fully Modular",
+          "80+ Bronze",
+          "750W",
+          "63A",
+          "4x 6+2-Pin",
+          "8x SATA"
+        ],
+        "Date": "2023-04-15T07:27:08.3449497-04:00",
+        "Update": "2023-06-07T16:28:39.1228678-04:00",
+        "Label": "Fuente Corsair CX750F RGB"
+      },
+      {
+        "Price": 295.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "1000W",
+          "83A",
+          "8x 6+2-Pin",
+          "11x SATA"
+        ],
+        "Date": "2023-04-15T07:27:11.3654492-04:00",
+        "Update": "2023-06-07T16:28:39.1336472-04:00",
+        "Label": "Fuente Corsair RM1000X"
+      },
+      {
         "Price": 85.00,
-        "Features": [],
+        "Features": [
+          "juego de cables"
+        ],
+        "Date": "2023-06-07T13:43:16.5137084-04:00",
+        "Update": "2023-06-07T16:28:39.1999253-04:00",
+        "Label": "Corsair Cable Kit Blue"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "Fully Modular",
+          "80+ Gold",
+          "850W",
+          "71A",
+          "3x 6+2-Pin",
+          "7x SATA"
+        ],
+        "Date": "2023-06-07T13:43:20.159516-04:00",
+        "Update": "2023-06-07T16:28:39.2042236-04:00",
+        "Label": "Fuente Corsair RM850e"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "juego de cables"
+        ],
         "Date": "2023-06-07T15:05:59.7677961-04:00",
-        "Update": "2023-06-07T15:26:56.6347373-04:00",
+        "Update": "2023-06-07T16:28:39.2146787-04:00",
         "Label": "Corsair Cable Kit Red"
       }
     ],
@@ -1496,34 +1503,6 @@
         "Label": "Acer Nitro 27FHD QG271"
       },
       {
-        "Price": 365.00,
-        "Features": [
-          "165Hz",
-          "Curvo",
-          "VA",
-          "250cd",
-          "FreeSync"
-        ],
-        "Date": "2023-05-11T19:57:48.2691264-04:00",
-        "Update": "2023-06-01T10:49:59.7231728-04:00",
-        "Label": "Acer ED270R"
-      },
-      {
-        "Price": 565.00,
-        "Features": [
-          "165Hz",
-          "2K",
-          "1ms",
-          "Curvo",
-          "350cd",
-          "VA",
-          "FreeSync"
-        ],
-        "Date": "2023-05-11T19:57:59.0739432-04:00",
-        "Update": "2023-06-01T10:49:59.7286957-04:00",
-        "Label": "Gigabyte G32QC"
-      },
-      {
         "Price": 285.00,
         "Features": [
           "Curvo",
@@ -1539,9 +1518,36 @@
         "Label": "MSI Pro 24FHD MP242C"
       },
       {
+        "Price": 365.00,
+        "Features": [
+          "165Hz",
+          "Curvo",
+          "VA",
+          "250cd",
+          "FreeSync"
+        ],
+        "Date": "2023-05-11T19:57:48.2691264-04:00",
+        "Update": "2023-06-07T16:28:39.1414441-04:00",
+        "Label": "Acer Nitro 27FHD ED270R"
+      },
+      {
+        "Price": 565.00,
+        "Features": [
+          "165Hz",
+          "2K",
+          "1ms",
+          "Curvo",
+          "350cd",
+          "VA",
+          "FreeSync"
+        ],
+        "Date": "2023-05-11T19:57:59.0739432-04:00",
+        "Update": "2023-06-07T16:28:39.1577623-04:00",
+        "Label": "Gigabyte 32FHD G32QC"
+      },
+      {
         "Price": 255.00,
         "Features": [
-          "24FHD",
           "165Hz",
           "1ms",
           "AntiGlare",
@@ -1549,8 +1555,8 @@
           "FreeSync"
         ],
         "Date": "2023-06-07T15:06:13.0817076-04:00",
-        "Update": "2023-06-07T15:26:56.6447924-04:00",
-        "Label": "Acer RG241Y Pbmiipx"
+        "Update": "2023-06-07T16:28:39.2183307-04:00",
+        "Label": "Acer Nitro 24FHD RG241Y Pbmiipx"
       }
     ],
     "Teclado": [
