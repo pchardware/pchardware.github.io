@@ -1,159 +1,5 @@
 {
   "Componentes": {
-    "Board": [
-      {
-        "Price": 165.00,
-        "Features": [
-          "12na y 13ra",
-          "DDR4",
-          "4800mhz",
-          "LGA1700"
-        ],
-        "Date": "2023-02-17T09:47:30.747913-05:00",
-        "Update": "2023-06-01T09:20:49.2673968-04:00",
-        "Label": "ASRock B660M PRO RS"
-      },
-      {
-        "Price": 225.00,
-        "Features": [
-          "12na y 13ra",
-          "DDR4",
-          "5333mhz",
-          "LGA1700"
-        ],
-        "Date": "2023-02-17T09:46:18.404887-05:00",
-        "Update": "2023-06-01T10:49:59.381534-04:00",
-        "Label": "Asus B660 ProArt Creator D4"
-      },
-      {
-        "Price": 270.00,
-        "Features": [
-          "12na y 13ra",
-          "DDR5",
-          "6000mhz",
-          "LGA1700"
-        ],
-        "Date": "2023-03-29T20:09:08.1280491-04:00",
-        "Update": "2023-06-01T10:49:59.3887546-04:00",
-        "Label": "Asus Prime Z690-A"
-      },
-      {
-        "Price": 240.00,
-        "Features": [
-          "10ma y 11na",
-          "DDR4",
-          "5000mhz",
-          "LGA1200"
-        ],
-        "Date": "2023-03-29T20:18:22.2692482-04:00",
-        "Update": "2023-06-01T10:49:59.3936872-04:00",
-        "Label": "Gigabyte Z590 Aorus Master"
-      },
-      {
-        "Price": 250.00,
-        "Features": [
-          "12na y 13ra",
-          "5333mhz",
-          "LGA1700"
-        ],
-        "Date": "2023-03-29T20:18:25.1874798-04:00",
-        "Update": "2023-06-01T10:49:59.3962268-04:00",
-        "Label": "Gigabyte Z690 UD AX DDR4"
-      },
-      {
-        "Price": 365.00,
-        "Features": [
-          "12na y 13ra",
-          "6400mhz",
-          "LGA1700"
-        ],
-        "Date": "2023-05-11T07:52:19.4562926-04:00",
-        "Update": "2023-06-01T10:49:59.5096573-04:00",
-        "Label": "Asus ROG Strix Z690-F Gaming Wifi DDR5"
-      },
-      {
-        "Price": 175.00,
-        "Features": [
-          "10ma y 11na",
-          "DDR4",
-          "4800mhz",
-          "LGA1200"
-        ],
-        "Date": "2023-05-11T07:53:54.1109145-04:00",
-        "Update": "2023-06-01T10:49:59.5121038-04:00",
-        "Label": "Z590 ASRock Steel Legend"
-      },
-      {
-        "Price": 200.00,
-        "Features": [
-          "10ma y 11na",
-          "DDR4",
-          "5133mhz",
-          "LGA1200"
-        ],
-        "Date": "2023-05-11T07:56:40.4754157-04:00",
-        "Update": "2023-06-01T10:49:59.514595-04:00",
-        "Label": "Asus Tuf Gaming Z590 Plus Wifi"
-      },
-      {
-        "Price": 415.00,
-        "Features": [
-          "12na y 13ra",
-          "6400mhz",
-          "LGA1700"
-        ],
-        "Date": "2023-05-11T07:51:07.1403838-04:00",
-        "Update": "2023-06-05T22:58:35.4837751-04:00",
-        "Label": "Asus ROG Strix Z690-E Gaming Wifi DDR5"
-      },
-      {
-        "Price": 285.00,
-        "Features": [
-          "12na y 13ra",
-          "7600mhz",
-          "LGA1700"
-        ],
-        "Date": "2023-05-14T10:52:20.5741642-04:00",
-        "Update": "2023-06-07T07:05:18.92969-04:00",
-        "Label": "Gigabyte Z790 UD AC DDR51700"
-      },
-      {
-        "Price": 425.00,
-        "Features": [
-          "12na y 13ra",
-          "DDR5",
-          "7800mhz",
-          "LGA1700"
-        ],
-        "Date": "2023-03-29T20:18:17.8757341-04:00",
-        "Update": "2023-06-07T07:34:44.4409276-04:00",
-        "Label": "Asus ROG Strix Z790-H Gaming Wifi"
-      },
-      {
-        "Price": 185.00,
-        "Features": [
-          "12va y 13ra",
-          "DDR5",
-          "6800mhz",
-          "LGA1700"
-        ],
-        "Date": "2023-06-07T13:42:31.4460874-04:00",
-        "Update": "2023-06-07T14:15:14.7557882-04:00",
-        "Label": "Asrock B760M PG Riptide"
-      },
-      {
-        "Price": 355.00,
-        "Features": [
-          "12va y 13ra",
-          "DDR5",
-          "7200mhz",
-          "LGA1700"
-        ],
-        "Date": "2023-06-07T13:42:34.7916197-04:00",
-        "Update": "2023-06-07T14:15:14.7701343-04:00",
-        "Label": "Asus TUF GAMING Z790-PLUS WIFI"
-      }
-    ],
     "Disco Sólido": [
       {
         "Price": 70.00,
@@ -1321,6 +1167,163 @@
         "Date": "2023-06-07T13:43:02.4805647-04:00",
         "Update": "2023-06-07T14:23:20.6655879-04:00",
         "Label": "Riser Coboc PCI Express"
+      }
+    ],
+    "Board": [
+      {
+        "Price": 165.00,
+        "Features": [
+          "12va-13ra",
+          "DDR4",
+          "4800mhz",
+          "LGA1700"
+        ],
+        "Date": "2023-02-17T09:47:30.747913-05:00",
+        "Update": "2023-06-07T14:39:12.5611679-04:00",
+        "Label": "ASRock B660M PRO RS"
+      },
+      {
+        "Price": 225.00,
+        "Features": [
+          "12va-13ra",
+          "DDR4",
+          "5333mhz",
+          "LGA1700"
+        ],
+        "Date": "2023-02-17T09:46:18.404887-05:00",
+        "Update": "2023-06-07T14:39:12.5656633-04:00",
+        "Label": "Asus B660 ProArt Creator D4"
+      },
+      {
+        "Price": 270.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "6000mhz",
+          "LGA1700"
+        ],
+        "Date": "2023-03-29T20:09:08.1280491-04:00",
+        "Update": "2023-06-07T14:39:12.5709531-04:00",
+        "Label": "Asus Prime Z690-A"
+      },
+      {
+        "Price": 240.00,
+        "Features": [
+          "10ma-11va",
+          "DDR4",
+          "5000mhz",
+          "LGA1200"
+        ],
+        "Date": "2023-03-29T20:18:22.2692482-04:00",
+        "Update": "2023-06-07T14:39:12.576257-04:00",
+        "Label": "Gigabyte Z590 Aorus Master"
+      },
+      {
+        "Price": 250.00,
+        "Features": [
+          "12va-13ra",
+          "5333mhz",
+          "LGA1700"
+        ],
+        "Date": "2023-03-29T20:18:25.1874798-04:00",
+        "Update": "2023-06-07T14:39:12.5800378-04:00",
+        "Label": "Gigabyte Z690 UD AX DDR4"
+      },
+      {
+        "Price": 365.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "6400mhz",
+          "LGA1700"
+        ],
+        "Date": "2023-05-11T07:52:19.4562926-04:00",
+        "Update": "2023-06-07T14:39:12.583907-04:00",
+        "Label": "Asus ROG Strix Z690-F Gaming Wifi"
+      },
+      {
+        "Price": 175.00,
+        "Features": [
+          "10ma-11va",
+          "DDR4",
+          "4800mhz",
+          "LGA1200"
+        ],
+        "Date": "2023-05-11T07:53:54.1109145-04:00",
+        "Update": "2023-06-07T14:39:12.5878128-04:00",
+        "Label": "ASRock Z590 Steel Legend"
+      },
+      {
+        "Price": 200.00,
+        "Features": [
+          "10ma-11va",
+          "DDR4",
+          "5133mhz",
+          "LGA1200"
+        ],
+        "Date": "2023-05-11T07:56:40.4754157-04:00",
+        "Update": "2023-06-07T14:39:12.5931329-04:00",
+        "Label": "Asus TUF Gaming Z590 Plus Wifi"
+      },
+      {
+        "Price": 415.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "6400mhz",
+          "LGA1700"
+        ],
+        "Date": "2023-05-11T07:51:07.1403838-04:00",
+        "Update": "2023-06-07T14:39:12.5966927-04:00",
+        "Label": "Asus ROG Strix Z690-E Gaming Wifi"
+      },
+      {
+        "Price": 285.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "7600mhz",
+          "LGA1700"
+        ],
+        "Date": "2023-05-14T10:52:20.5741642-04:00",
+        "Update": "2023-06-07T14:39:12.6069713-04:00",
+        "Label": "Gigabyte Z790 UD AC"
+      },
+      {
+        "Price": 425.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "7800mhz",
+          "LGA1700"
+        ],
+        "Date": "2023-03-29T20:18:17.8757341-04:00",
+        "Update": "2023-06-07T14:39:12.6108512-04:00",
+        "Label": "Asus ROG Strix Z790-H Gaming Wifi"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "6800mhz",
+          "LGA1700"
+        ],
+        "Date": "2023-06-07T13:42:31.4460874-04:00",
+        "Update": "2023-06-07T14:39:12.6160812-04:00",
+        "Label": "ASRock B760M PG Riptide"
+      },
+      {
+        "Price": 355.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "7200mhz",
+          "LGA1700"
+        ],
+        "Date": "2023-06-07T13:42:34.7916197-04:00",
+        "Update": "2023-06-07T14:39:12.6198475-04:00",
+        "Label": "Asus TUF Gaming Z790-Plus Wifi"
       }
     ]
   },
