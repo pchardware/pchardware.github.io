@@ -868,16 +868,6 @@
         "Label": "D.Líquida Enermax LIQMAX III ARGB 360"
       },
       {
-        "Price": 185.00,
-        "Features": [
-          "2xFan",
-          "240mm"
-        ],
-        "Date": "2023-03-27T12:00:05.9787174-04:00",
-        "Update": "2023-06-01T10:49:59.6276321-04:00",
-        "Label": "D.Líquida Corsair H100x RGB Elite"
-      },
-      {
         "Price": 115.00,
         "Features": [
           "1xFan",
@@ -965,6 +955,16 @@
         "Date": "2023-03-27T12:00:02.0089284-04:00",
         "Update": "2023-06-07T08:47:21.3820287-04:00",
         "Label": "D.Líquida Cooler Master MasterLiquid ML240L ARGB V2"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "2xFan",
+          "240mm"
+        ],
+        "Date": "2023-03-27T12:00:05.9787174-04:00",
+        "Update": "2023-06-07T09:03:50.4431211-04:00",
+        "Label": "D.Líquida Corsair H100x RGB Elite"
       }
     ],
     "Disco Duro": [
