@@ -716,6 +716,15 @@
         "Date": "2023-05-11T08:37:56.7258334-04:00",
         "Update": "2023-06-07T10:07:15.7531929-04:00",
         "Label": "DDR5 G.SKILL Trident Z5 RGB 32GB"
+      },
+      {
+        "Price": 15.00,
+        "Features": [
+          "RAM x4"
+        ],
+        "Date": "2023-06-07T15:04:43.4119901-04:00",
+        "Update": "2023-06-07T15:55:09.4433063-04:00",
+        "Label": "Cooler Fan Corsair Vengance LPX"
       }
     ],
     "Disipador por Aire": [
@@ -1182,6 +1191,17 @@
         "Date": "2023-05-11T19:31:57.3412017-04:00",
         "Update": "2023-06-01T10:49:59.7180923-04:00",
         "Label": "Chasis Talius Gargola RGB"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "8 GPU",
+          "Acero",
+          "Abierto"
+        ],
+        "Date": "2023-06-07T15:06:17.9384399-04:00",
+        "Update": "2023-06-07T15:55:09.471115-04:00",
+        "Label": "Chasis MLLIQUEA Mining Rig Frame"
       }
     ],
     "Otros": [
@@ -1230,6 +1250,61 @@
         "Date": "2023-06-07T15:06:28.4028458-04:00",
         "Update": "2023-06-07T15:26:56.648271-04:00",
         "Label": "Cable HDMI"
+      },
+      {
+        "Price": 5.00,
+        "Features": [],
+        "Date": "2023-06-07T15:03:43.1820356-04:00",
+        "Update": "2023-06-07T15:55:09.4128053-04:00",
+        "Label": "Pasta Termica"
+      },
+      {
+        "Price": 70.00,
+        "Features": [
+          "PCIe x1"
+        ],
+        "Date": "2023-06-07T15:04:12.3798994-04:00",
+        "Update": "2023-06-07T15:55:09.4234852-04:00",
+        "Label": "Gigabyte PCIe Expansion Card Bluetooth y WiFi"
+      },
+      {
+        "Price": 40.00,
+        "Features": [],
+        "Date": "2023-06-07T15:04:18.9988293-04:00",
+        "Update": "2023-06-07T15:55:09.4313585-04:00",
+        "Label": "PCIe x1 - TP-Link Wifi Adapter [TL-WN881ND]"
+      },
+      {
+        "Price": 13.00,
+        "Features": [],
+        "Date": "2023-06-07T15:05:05.0466396-04:00",
+        "Update": "2023-06-07T15:55:09.4507304-04:00",
+        "Label": "Fan Cougar Vortex FCB 120 RGB"
+      },
+      {
+        "Price": 7.00,
+        "Features": [
+          "120"
+        ],
+        "Date": "2023-06-07T15:06:05.815869-04:00",
+        "Update": "2023-06-07T15:55:09.4573643-04:00",
+        "Label": "Fan Uphere 12BK3"
+      },
+      {
+        "Price": 13.00,
+        "Features": [],
+        "Date": "2023-06-07T15:06:09.144607-04:00",
+        "Update": "2023-06-07T15:55:09.4642965-04:00",
+        "Label": "Fan Cougar Vortex FCB 120 RGB"
+      },
+      {
+        "Price": 30.00,
+        "Features": [
+          "PCIe x1"
+        ],
+        "Date": "2023-06-07T15:06:32.5341385-04:00",
+        "Update": "2023-06-07T15:55:09.4819085-04:00",
+        "Label": "HUB Rosewill 4xUSB 3.0"
       }
     ],
     "Board": [
@@ -1633,6 +1708,17 @@
         "Date": "2023-06-07T10:26:58.9524997-04:00",
         "Update": "2023-06-07T12:38:11.441898-04:00",
         "Label": "Silla Gamer Ergoseat"
+      },
+      {
+        "Price": 19.00,
+        "Features": [
+          "130Mbps",
+          "Flash",
+          "USB 3.0"
+        ],
+        "Date": "2023-06-07T15:06:36.3165573-04:00",
+        "Update": "2023-06-07T15:55:09.4920948-04:00",
+        "Label": "Corsair Voyager Slider X1 64GB"
       }
     ],
     "Periféricos": [
@@ -1642,6 +1728,57 @@
         "Date": "2023-05-12T07:52:40.6205045-04:00",
         "Update": "2023-06-07T12:38:11.4371067-04:00",
         "Label": "Audifonos Corsair VOID RGB Elite Wireless Carbon"
+      }
+    ],
+    "Adaptadores": [
+      {
+        "Price": 17.00,
+        "Features": [
+          "DCA106-HV"
+        ],
+        "Date": "2023-06-07T14:58:54.5233761-04:00",
+        "Update": "2023-06-07T15:55:09.3933373-04:00",
+        "Label": "Conversor DINO HDMI a VGA"
+      },
+      {
+        "Price": 9.00,
+        "Features": [],
+        "Date": "2023-06-07T15:00:27.3836286-04:00",
+        "Update": "2023-06-07T15:55:09.4073564-04:00",
+        "Label": "Adaptador DisplayPort a HDMI"
+      },
+      {
+        "Price": 17.00,
+        "Features": [],
+        "Date": "2023-06-07T15:04:34.6091688-04:00",
+        "Update": "2023-06-07T15:55:09.4385575-04:00",
+        "Label": "Conversor HDMI a VGA"
+      }
+    ],
+    "Red": [
+      {
+        "Price": 21.00,
+        "Features": [
+          "AC600",
+          "USB",
+          "Wireless",
+          "Adaptador"
+        ],
+        "Date": "2023-06-07T15:06:24.0343083-04:00",
+        "Update": "2023-06-07T15:55:09.4786695-04:00",
+        "Label": "TP-LINK Archer T2U Nano"
+      },
+      {
+        "Price": 15.00,
+        "Features": [
+          "Wireless",
+          "N150",
+          "USB",
+          "Nano"
+        ],
+        "Date": "2023-06-07T15:07:38.6374368-04:00",
+        "Update": "2023-06-07T15:55:09.5042115-04:00",
+        "Label": "TP-LINK TL-WN725N"
       }
     ]
   }
