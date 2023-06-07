@@ -285,30 +285,6 @@
         "Label": "XFX Speedster QICK 210 RX 6500 XT"
       },
       {
-        "Price": 380.00,
-        "Features": [
-          "8GB",
-          "2xFan",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-04-09T07:40:21.1128823-04:00",
-        "Update": "2023-06-01T10:49:59.6506634-04:00",
-        "Label": "MSI RTX 3060 Ventus 2x OC"
-      },
-      {
-        "Price": 395.00,
-        "Features": [
-          "2xFan",
-          "8GB",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-05-11T13:36:03.9464604-04:00",
-        "Update": "2023-06-01T10:49:59.6529559-04:00",
-        "Label": "Asus Dual RTX 3060 OC"
-      },
-      {
         "Price": 310.00,
         "Features": [
           "2xFan",
@@ -331,18 +307,6 @@
         "Date": "2023-04-09T07:40:11.0980971-04:00",
         "Update": "2023-06-01T10:49:59.6571636-04:00",
         "Label": "EVGA RTX 3080Ti XC3 Hydro Copper"
-      },
-      {
-        "Price": 810.00,
-        "Features": [
-          "2xFan",
-          "12GB",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-05-11T13:36:49.3673823-04:00",
-        "Update": "2023-06-01T10:49:59.6593476-04:00",
-        "Label": "Asus Dual RTX 4070"
       },
       {
         "Price": 635.00,
@@ -391,6 +355,42 @@
         "Date": "2023-05-11T19:24:18.7527581-04:00",
         "Update": "2023-06-01T10:49:59.8030581-04:00",
         "Label": "Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
+      },
+      {
+        "Price": 380.00,
+        "Features": [
+          "8GB",
+          "2xFan",
+          "GeForce",
+          "NVIDIA"
+        ],
+        "Date": "2023-04-09T07:40:21.1128823-04:00",
+        "Update": "2023-06-07T10:16:57.2524424-04:00",
+        "Label": "MSI RTX 3060 Ventus 2x OC"
+      },
+      {
+        "Price": 395.00,
+        "Features": [
+          "2xFan",
+          "8GB",
+          "GeForce",
+          "NVIDIA"
+        ],
+        "Date": "2023-05-11T13:36:03.9464604-04:00",
+        "Update": "2023-06-07T10:16:57.2555122-04:00",
+        "Label": "Asus Dual RTX 3060 OC"
+      },
+      {
+        "Price": 810.00,
+        "Features": [
+          "2xFan",
+          "12GB",
+          "GeForce",
+          "NVIDIA"
+        ],
+        "Date": "2023-05-11T13:36:49.3673823-04:00",
+        "Update": "2023-06-07T10:16:57.2586254-04:00",
+        "Label": "Asus Dual RTX 4070"
       }
     ],
     "Microprocesador": [
