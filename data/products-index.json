@@ -1400,6 +1400,42 @@
         "Date": "2023-05-12T07:54:27.4081446-04:00",
         "Update": "2023-06-01T10:49:59.7887413-04:00",
         "Label": "Mouse Pad Asus ROG Sheath Pink LTD"
+      },
+      {
+        "Price": 225.00,
+        "Features": [
+          "oficina",
+          "ergonómica",
+          "reposabrazos",
+          "ruedas giratorias",
+          "negra"
+        ],
+        "Date": "2023-05-12T07:54:58.4743215-04:00",
+        "Update": "2023-06-07T12:38:11.4325926-04:00",
+        "Label": "Silla YAHEETECH"
+      },
+      {
+        "Price": 380.00,
+        "Features": [
+          "ergonómica",
+          "reposacabezas",
+          "almohada lumbar",
+          "algodón interior",
+          "cuero transpirable",
+          "altura ajustable"
+        ],
+        "Date": "2023-06-07T10:26:58.9524997-04:00",
+        "Update": "2023-06-07T12:38:11.441898-04:00",
+        "Label": "Silla Gamer Ergoseat"
+      }
+    ],
+    "Periféricos": [
+      {
+        "Price": 125.00,
+        "Features": [],
+        "Date": "2023-05-12T07:52:40.6205045-04:00",
+        "Update": "2023-06-07T12:38:11.4371067-04:00",
+        "Label": "Audifonos Corsair VOID RGB Elite Wireless Carbon"
       }
     ]
   }
