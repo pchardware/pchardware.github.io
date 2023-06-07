@@ -1,6 +1,6 @@
 {
   "Category": "Componentes",
-  "SubCategory": "Otros",
+  "SubCategory": "Red",
   "Images": [
     "/images/products/pcie-x1-tp-link-wifi-adapter-tl-wn881nd-1.webp",
     "/images/products/pcie-x1-tp-link-wifi-adapter-tl-wn881nd-2.webp"
@@ -9,6 +9,6 @@
   "Price": 40.00,
   "Features": [],
   "Date": "2023-06-07T15:04:18.9988293-04:00",
-  "Update": "2023-06-07T15:55:09.4313585-04:00",
+  "Update": "2023-06-07T17:13:07.6998149-04:00",
   "Label": "PCIe x1 - TP-Link Wifi Adapter [TL-WN881ND]"
 }
