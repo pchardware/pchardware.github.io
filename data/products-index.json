@@ -1247,6 +1247,13 @@
         "Date": "2023-06-07T13:43:20.159516-04:00",
         "Update": "2023-06-07T13:56:39.8454229-04:00",
         "Label": "Fuente CORSAIR RM850e"
+      },
+      {
+        "Price": 85.00,
+        "Features": [],
+        "Date": "2023-06-07T13:43:16.5137084-04:00",
+        "Update": "2023-06-07T14:23:20.6691021-04:00",
+        "Label": "Corsair Cable Kit Blue"
       }
     ],
     "Chasis": [
@@ -1294,6 +1301,26 @@
         "Date": "2023-06-07T10:26:52.1301364-04:00",
         "Update": "2023-06-07T12:21:23.7777065-04:00",
         "Label": "Corsair Comander Pro"
+      },
+      {
+        "Price": 30.00,
+        "Features": [
+          "200mm",
+          "montaje vertical"
+        ],
+        "Date": "2023-06-07T13:42:48.85106-04:00",
+        "Update": "2023-06-07T14:23:20.6623811-04:00",
+        "Label": "Extensor Athena PCIe"
+      },
+      {
+        "Price": 25.00,
+        "Features": [
+          "1x a 16x",
+          "Adaptador"
+        ],
+        "Date": "2023-06-07T13:43:02.4805647-04:00",
+        "Update": "2023-06-07T14:23:20.6655879-04:00",
+        "Label": "Riser Coboc PCI Express"
       }
     ]
   },
