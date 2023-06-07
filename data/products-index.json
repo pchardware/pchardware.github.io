@@ -269,6 +269,28 @@
         "Date": "2023-04-09T10:02:00.2968299-04:00",
         "Update": "2023-06-07T07:40:38.1172164-04:00",
         "Label": "SSD M.2 CORSAIR MP600 PRO NH 1TB"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "2100MBs",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-06-07T10:28:10.4293544-04:00",
+        "Update": "2023-06-07T12:21:23.7910626-04:00",
+        "Label": "SSD M.2 PNY CS1030 2TB"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "7100MBs",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-06-07T10:29:28.1707034-04:00",
+        "Update": "2023-06-07T12:21:23.7958518-04:00",
+        "Label": "SSD M.2 CORSAIR MP600 PRO XT 1TB"
       }
     ],
     "Tarjeta Gráfica": [
@@ -965,6 +987,18 @@
         "Date": "2023-03-27T12:00:08.8338454-04:00",
         "Update": "2023-06-07T09:49:47.9228233-04:00",
         "Label": "Kit Líquido Corsair Hydro XH303i"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "LGA 1700",
+          "LGA 1200",
+          "AM4",
+          "Black"
+        ],
+        "Date": "2023-06-07T10:27:59.8644959-04:00",
+        "Update": "2023-06-07T12:21:23.7840396-04:00",
+        "Label": "CORSAIR Hydro XC7 RGB PRO CPU Water Block"
       }
     ],
     "Disco Duro": [
@@ -1153,6 +1187,15 @@
         "Update": "2023-06-01T10:49:59.7180923-04:00",
         "Label": "Chasis Talius Gargola RGB"
       }
+    ],
+    "Otros": [
+      {
+        "Price": 85.00,
+        "Features": [],
+        "Date": "2023-06-07T10:26:52.1301364-04:00",
+        "Update": "2023-06-07T12:21:23.7777065-04:00",
+        "Label": "Corsair Comander Pro"
+      }
     ]
   },
   "Periféricos": {
@@ -1289,6 +1332,20 @@
         "Date": "2023-05-11T20:29:37.4399996-04:00",
         "Update": "2023-06-01T10:57:48.5700376-04:00",
         "Label": "COMBO Teclado Corsair K55 + Mouse Harpoon RGB"
+      },
+      {
+        "Price": 145.00,
+        "Features": [],
+        "Date": "2023-06-07T10:25:01.2008677-04:00",
+        "Update": "2023-06-07T12:21:23.7655087-04:00",
+        "Label": "Keyboard - Logitech G413 Carbon"
+      },
+      {
+        "Price": 110.00,
+        "Features": [],
+        "Date": "2023-06-07T10:25:59.490678-04:00",
+        "Update": "2023-06-07T12:21:23.7706267-04:00",
+        "Label": "Keyboard - Asus TUF K1"
       }
     ],
     "Mouse": [
