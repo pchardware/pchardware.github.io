@@ -1,6 +1,6 @@
 {
   "Category": "Periféricos",
-  "SubCategory": "Periféricos",
+  "SubCategory": "Sonido",
   "Images": [
     "/images/products/audifonos-corsair-void-rgb-elite-wireless-carbon-1.webp",
     "/images/products/audifonos-corsair-void-rgb-elite-wireless-carbon-2.webp",
@@ -14,6 +14,6 @@
   "Price": 125.00,
   "Features": [],
   "Date": "2023-05-12T07:52:40.6205045-04:00",
-  "Update": "2023-06-07T12:38:11.4371067-04:00",
+  "Update": "2023-06-07T16:50:45.319181-04:00",
   "Label": "Audifonos Corsair VOID RGB Elite Wireless Carbon"
 }
