@@ -488,21 +488,6 @@
         "Label": "Intel Core i5-12400 +Disipador"
       },
       {
-        "Price": 175.00,
-        "Features": [
-          "13th Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.5GHz",
-          "12MB L3",
-          "DDR4 y DDR5",
-          "LGA 1700"
-        ],
-        "Date": "2023-03-22T09:04:00.899336-04:00",
-        "Update": "2023-06-01T10:49:59.6125696-04:00",
-        "Label": "Intel Core i3-13100 +Disipador"
-      },
-      {
         "Price": 155.00,
         "Features": [
           "12th Gen",
@@ -532,6 +517,21 @@
         "Date": "2023-05-11T07:00:48.0876416-04:00",
         "Update": "2023-06-05T22:58:35.4805585-04:00",
         "Label": "Intel Core i9-12900K"
+      },
+      {
+        "Price": 175.00,
+        "Features": [
+          "13th Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.5GHz",
+          "12MB L3",
+          "DDR4 y DDR5",
+          "LGA 1700"
+        ],
+        "Date": "2023-03-22T09:04:00.899336-04:00",
+        "Update": "2023-06-07T10:07:15.7371026-04:00",
+        "Label": "Intel Core i3-13100 +Disipador"
       }
     ],
     "Memoria RAM": [
@@ -636,17 +636,6 @@
         "Label": "DDR4 G.SKILL Ripjaws V 32GB"
       },
       {
-        "Price": 135.00,
-        "Features": [
-          "3600mhz",
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-03-30T09:55:44.4799768-04:00",
-        "Update": "2023-06-01T10:49:59.54543-04:00",
-        "Label": "DDR4 G.SKILL Sniper X 32GB"
-      },
-      {
         "Price": 100.00,
         "Features": [
           "3600mhz",
@@ -667,17 +656,6 @@
         "Date": "2023-05-11T08:35:27.0521871-04:00",
         "Update": "2023-06-01T10:49:59.5505495-04:00",
         "Label": "DDR5 CORSAIR Vengeance 32GB"
-      },
-      {
-        "Price": 130.00,
-        "Features": [
-          "5200mhz",
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-05-11T08:38:23.3870937-04:00",
-        "Update": "2023-06-01T10:49:59.5529903-04:00",
-        "Label": "DDR5 Gigabyte AORUS 32GB"
       },
       {
         "Price": 245.00,
@@ -746,6 +724,28 @@
         "Label": "DDR5 CORSAIR Vengeance RGB 32GB"
       },
       {
+        "Price": 135.00,
+        "Features": [
+          "3600mhz",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-30T09:55:44.4799768-04:00",
+        "Update": "2023-06-07T10:07:15.7271127-04:00",
+        "Label": "DDR4 G.SKILL Sniper X 32GB"
+      },
+      {
+        "Price": 130.00,
+        "Features": [
+          "5200mhz",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-05-11T08:38:23.3870937-04:00",
+        "Update": "2023-06-07T10:07:15.7305003-04:00",
+        "Label": "DDR5 Gigabyte AORUS 32GB"
+      },
+      {
         "Price": 160.00,
         "Features": [
           "6000mhz",
@@ -753,7 +753,7 @@
           "Disipadas"
         ],
         "Date": "2023-05-11T08:37:56.7258334-04:00",
-        "Update": "2023-06-05T22:58:35.5159631-04:00",
+        "Update": "2023-06-07T10:07:15.7531929-04:00",
         "Label": "DDR5 G.SKILL Trident Z5 RGB 32GB"
       }
     ],
@@ -805,15 +805,6 @@
         "Label": "Enfriamiento SAMA KA450DW RGB"
       },
       {
-        "Price": 15.00,
-        "Features": [
-          "LGA 1200"
-        ],
-        "Date": "2023-05-11T12:52:12.030034-04:00",
-        "Update": "2023-06-01T10:49:59.6011197-04:00",
-        "Label": "Enfriamiento Intel Generic Plus"
-      },
-      {
         "Price": 40.00,
         "Features": [
           "AM4",
@@ -834,6 +825,15 @@
         "Date": "2023-05-11T12:52:16.9141688-04:00",
         "Update": "2023-06-01T10:49:59.6074864-04:00",
         "Label": "Enfriamiento Asus 3 Headpipe Intel"
+      },
+      {
+        "Price": 15.00,
+        "Features": [
+          "LGA 1200"
+        ],
+        "Date": "2023-05-11T12:52:12.030034-04:00",
+        "Update": "2023-06-07T10:07:15.7336127-04:00",
+        "Label": "Enfriamiento Intel Generic Plus"
       }
     ],
     "Disipador Líquido": [
@@ -1062,20 +1062,6 @@
         "Label": "Fuente Thermaltake SMART 600W"
       },
       {
-        "Price": 235.00,
-        "Features": [
-          "80+ Gold",
-          "Full Modular",
-          "ATX 3.0",
-          "71A",
-          "3x 8-Pin",
-          "5x SATA"
-        ],
-        "Date": "2023-05-11T14:26:27.9739641-04:00",
-        "Update": "2023-06-01T10:49:59.6956377-04:00",
-        "Label": "Fuente Asus TUF 850W"
-      },
-      {
         "Price": 185.00,
         "Features": [
           "80+ Bronze",
@@ -1114,6 +1100,20 @@
         "Date": "2023-05-12T07:54:08.9581203-04:00",
         "Update": "2023-06-01T10:49:59.78327-04:00",
         "Label": "Fuente Thermaltake Smart 500W 80+"
+      },
+      {
+        "Price": 235.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "ATX 3.0",
+          "71A",
+          "3x 8-Pin",
+          "5x SATA"
+        ],
+        "Date": "2023-05-11T14:26:27.9739641-04:00",
+        "Update": "2023-06-07T10:07:15.7472756-04:00",
+        "Label": "Fuente Asus TUF 850W"
       }
     ],
     "Chasis": [
