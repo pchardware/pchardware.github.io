@@ -2,11 +2,7 @@
   "Category": "Componentes",
   "SubCategory": "Disipador por Aire",
   "Images": [
-    "/images/products/enfriamiento-intel-generic-plus-1.webp",
-    "/images/products/enfriamiento-intel-generic-plus-2.webp",
-    "/images/products/enfriamiento-intel-generic-plus-3.webp",
-    "/images/products/enfriamiento-intel-generic-plus-4.webp",
-    "/images/products/enfriamiento-intel-generic-plus-5.webp"
+    "/images/products/enfriamiento-intel-generic-plus-1.webp"
   ],
   "Description": "Model\nBrand: Intel\nSeries: LGA115X Bracket\nModel: K69237-001\n\n\nDetails\nType: CPU Fan with Heatsink\nFan Size: 92mm\nCPU Socket Compatibility: Intel LGA 1150 / Intel LGA 1151 / Intel LGA 1155 / Intel LGA 1156 / Intel LGA 1200\nBearing Type: Fluid Bearing\nRPM: 1400~2400rpm\nAir Flow: 32CFM\nNoise Level: 25dBA\nPower Connector: 4 Pin\nColor: Black\nLED: No\nHeatsink Material: Aluminum & Copper\nFan Mounting Types to Heatsink: Horizontal\n\n\nDimensions & Weight\nMax CPU Cooler Height: 45 mm\nWeight: 215g",
   "Price": 15.00,
@@ -14,6 +10,6 @@
     "LGA 1200"
   ],
   "Date": "2023-05-11T12:52:12.030034-04:00",
-  "Update": "2023-06-07T10:07:15.7336127-04:00",
+  "Update": "2023-06-07T16:09:24.9248105-04:00",
   "Label": "Enfriamiento Intel Generic Plus"
 }
