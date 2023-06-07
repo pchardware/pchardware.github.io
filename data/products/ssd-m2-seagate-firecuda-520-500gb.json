@@ -7,11 +7,11 @@
   "Description": "",
   "Price": 90.00,
   "Features": [
-    "5000MBs",
+    "5000mbs",
     "PCIe 4",
     "NVMe"
   ],
   "Date": "2023-04-09T10:02:30.6829059-04:00",
-  "Update": "2023-06-01T10:49:59.4437977-04:00",
+  "Update": "2023-06-07T16:09:24.8160342-04:00",
   "Label": "SSD M.2 Seagate FireCuda 520 500GB"
 }
