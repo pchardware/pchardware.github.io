@@ -128,6 +128,30 @@
         "Date": "2023-03-29T20:18:17.8757341-04:00",
         "Update": "2023-06-07T07:34:44.4409276-04:00",
         "Label": "Asus ROG Strix Z790-H Gaming Wifi"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "12va y 13ra",
+          "DDR5",
+          "6800mhz",
+          "LGA1700"
+        ],
+        "Date": "2023-06-07T13:42:31.4460874-04:00",
+        "Update": "2023-06-07T14:15:14.7557882-04:00",
+        "Label": "Asrock B760M PG Riptide"
+      },
+      {
+        "Price": 355.00,
+        "Features": [
+          "12va y 13ra",
+          "DDR5",
+          "7200mhz",
+          "LGA1700"
+        ],
+        "Date": "2023-06-07T13:42:34.7916197-04:00",
+        "Update": "2023-06-07T14:15:14.7701343-04:00",
+        "Label": "Asus TUF GAMING Z790-PLUS WIFI"
       }
     ],
     "Disco Sólido": [
@@ -291,6 +315,56 @@
         "Date": "2023-06-07T10:29:28.1707034-04:00",
         "Update": "2023-06-07T12:21:23.7958518-04:00",
         "Label": "SSD M.2 CORSAIR MP600 PRO XT 1TB"
+      },
+      {
+        "Price": 50.00,
+        "Features": [
+          "560mbps",
+          "SATA 3"
+        ],
+        "Date": "2023-06-07T13:41:58.996169-04:00",
+        "Update": "2023-06-07T14:15:14.7217292-04:00",
+        "Label": "SSD 2.5 Silicon Power Ace A55 512GB"
+      },
+      {
+        "Price": 45.00,
+        "Features": [
+          "530mbps",
+          "SATA 3"
+        ],
+        "Date": "2023-06-07T13:42:02.617071-04:00",
+        "Update": "2023-06-07T14:15:14.7313133-04:00",
+        "Label": "SSD 2.5 Team Group CX1 480GB"
+      },
+      {
+        "Price": 50.00,
+        "Features": [
+          "530mbps",
+          "SATA 3"
+        ],
+        "Date": "2023-06-07T13:42:05.5721644-04:00",
+        "Update": "2023-06-07T14:15:14.7375041-04:00",
+        "Label": "SSD 2.5 Team Group CX2 512GB"
+      },
+      {
+        "Price": 50.00,
+        "Features": [
+          "550mpps",
+          "SATA 3"
+        ],
+        "Date": "2023-06-07T13:42:08.9262831-04:00",
+        "Update": "2023-06-07T14:15:14.7437424-04:00",
+        "Label": "SSD 2.5 Team Group EX2 512GB"
+      },
+      {
+        "Price": 50.00,
+        "Features": [
+          "550mbps",
+          "SATA 3"
+        ],
+        "Date": "2023-06-07T13:43:23.553018-04:00",
+        "Update": "2023-06-07T14:15:14.7829041-04:00",
+        "Label": "SSD 2.5 Team Group T-FORCE VULCAN G 512GB"
       }
     ],
     "Tarjeta Gráfica": [
