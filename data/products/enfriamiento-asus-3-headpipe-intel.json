@@ -2,7 +2,8 @@
   "Category": "Componentes",
   "SubCategory": "Disipador por Aire",
   "Images": [
-    "/images/products/enfriamiento-asus-3-headpipe-intel-1.webp"
+    "/images/products/enfriamiento-asus-3-headpipe-intel-1.webp",
+    "/images/products/enfriamiento-asus-3-headpipe-intel-2.webp"
   ],
   "Description": "",
   "Price": 45.00,
@@ -12,6 +13,6 @@
     "Cobre"
   ],
   "Date": "2023-05-11T12:52:16.9141688-04:00",
-  "Update": "2023-06-01T10:49:59.6074864-04:00",
+  "Update": "2023-06-07T16:28:39.0955935-04:00",
   "Label": "Enfriamiento Asus 3 Headpipe Intel"
 }
