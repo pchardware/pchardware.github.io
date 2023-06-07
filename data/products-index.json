@@ -994,15 +994,6 @@
         "Label": "Riser Coboc PCI Express"
       },
       {
-        "Price": 15.00,
-        "Features": [
-          "1m"
-        ],
-        "Date": "2023-06-07T15:03:27.0791363-04:00",
-        "Update": "2023-06-07T15:26:56.59736-04:00",
-        "Label": "Cable DisplayPort a HDMI"
-      },
-      {
         "Price": 12.00,
         "Features": [
           "1.80m",
@@ -1018,22 +1009,6 @@
         "Date": "2023-06-07T15:03:43.1820356-04:00",
         "Update": "2023-06-07T15:55:09.4128053-04:00",
         "Label": "Pasta Termica"
-      },
-      {
-        "Price": 70.00,
-        "Features": [
-          "PCIe x1"
-        ],
-        "Date": "2023-06-07T15:04:12.3798994-04:00",
-        "Update": "2023-06-07T15:55:09.4234852-04:00",
-        "Label": "Gigabyte PCIe Expansion Card Bluetooth y WiFi"
-      },
-      {
-        "Price": 40.00,
-        "Features": [],
-        "Date": "2023-06-07T15:04:18.9988293-04:00",
-        "Update": "2023-06-07T15:55:09.4313585-04:00",
-        "Label": "PCIe x1 - TP-Link Wifi Adapter [TL-WN881ND]"
       },
       {
         "Price": 13.00,
@@ -1484,6 +1459,24 @@
         "Update": "2023-06-07T16:09:24.9059895-04:00",
         "Label": "HDD 3.5 Seagate Constellation 4TB"
       }
+    ],
+    "Red": [
+      {
+        "Price": 70.00,
+        "Features": [
+          "PCIe x1"
+        ],
+        "Date": "2023-06-07T15:04:12.3798994-04:00",
+        "Update": "2023-06-07T17:13:07.6901895-04:00",
+        "Label": "Gigabyte PCIe Expansion Card Bluetooth y WiFi"
+      },
+      {
+        "Price": 40.00,
+        "Features": [],
+        "Date": "2023-06-07T15:04:18.9988293-04:00",
+        "Update": "2023-06-07T17:13:07.6998149-04:00",
+        "Label": "PCIe x1 - TP-Link Wifi Adapter [TL-WN881ND]"
+      }
     ]
   },
   "Periféricos": {
@@ -1736,6 +1729,15 @@
         "Date": "2023-06-07T15:04:34.6091688-04:00",
         "Update": "2023-06-07T15:55:09.4385575-04:00",
         "Label": "Conversor HDMI a VGA"
+      },
+      {
+        "Price": 15.00,
+        "Features": [
+          "1m"
+        ],
+        "Date": "2023-06-07T15:03:27.0791363-04:00",
+        "Update": "2023-06-07T17:13:07.6811141-04:00",
+        "Label": "Cable DisplayPort a HDMI"
       }
     ],
     "Red": [
