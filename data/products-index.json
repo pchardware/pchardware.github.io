@@ -911,19 +911,6 @@
         "Label": "Kit Líquido Thermaltake Pacific C360 Ddc"
       },
       {
-        "Price": 470.00,
-        "Features": [
-          "360mm",
-          "Premium",
-          "RGB",
-          "CUSTOM",
-          "CPU + GPU"
-        ],
-        "Date": "2023-03-27T12:00:08.8338454-04:00",
-        "Update": "2023-06-01T10:49:59.6452867-04:00",
-        "Label": "Kit Líquido Corsair Hydro XH303i"
-      },
-      {
         "Price": 595.00,
         "Features": [
           "360mm",
@@ -965,6 +952,19 @@
         "Date": "2023-03-27T12:00:05.9787174-04:00",
         "Update": "2023-06-07T09:03:50.4431211-04:00",
         "Label": "D.Líquida Corsair H100x RGB Elite"
+      },
+      {
+        "Price": 470.00,
+        "Features": [
+          "360mm",
+          "Premium",
+          "RGB",
+          "CUSTOM",
+          "CPU + GPU"
+        ],
+        "Date": "2023-03-27T12:00:08.8338454-04:00",
+        "Update": "2023-06-07T09:34:31.7271954-04:00",
+        "Label": "Kit Líquido Corsair Hydro XH303i"
       }
     ],
     "Disco Duro": [
