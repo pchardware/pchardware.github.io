@@ -1,6 +1,6 @@
 {
-  "Category": "Componentes",
-  "SubCategory": "Otros",
+  "Category": "Periféricos",
+  "SubCategory": "Adaptadores",
   "Images": [
     "/images/products/cable-displayport-a-hdmi-1.webp",
     "/images/products/cable-displayport-a-hdmi-2.webp",
@@ -12,6 +12,6 @@
     "1m"
   ],
   "Date": "2023-06-07T15:03:27.0791363-04:00",
-  "Update": "2023-06-07T15:26:56.59736-04:00",
+  "Update": "2023-06-07T17:13:07.6811141-04:00",
   "Label": "Cable DisplayPort a HDMI"
 }
