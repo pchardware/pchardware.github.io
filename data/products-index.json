@@ -14,18 +14,6 @@
         "Label": "XFX Speedster QICK 210 RX 6500 XT"
       },
       {
-        "Price": 310.00,
-        "Features": [
-          "2xFan",
-          "8GB",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-05-11T13:41:42.5240388-04:00",
-        "Update": "2023-06-01T10:49:59.6550433-04:00",
-        "Label": "Zotac RTX 3050 Twin Edge OC"
-      },
-      {
         "Price": 750.00,
         "Features": [
           "12GB",
@@ -362,17 +350,6 @@
         "Label": "DDR4 XPG SPECTRIX D45G RGB 16GB"
       },
       {
-        "Price": 130.00,
-        "Features": [
-          "5200mhz",
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-05-11T08:38:23.3870937-04:00",
-        "Update": "2023-06-07T10:07:15.7305003-04:00",
-        "Label": "DDR5 Gigabyte AORUS 32GB"
-      },
-      {
         "Price": 15.00,
         "Features": [
           "RAM x4"
@@ -629,16 +606,6 @@
         "Date": "2023-03-27T12:00:13.1005683-04:00",
         "Update": "2023-06-01T10:49:59.6229879-04:00",
         "Label": "D.Líquida Enermax AQUAFUSION 360 ARGB"
-      },
-      {
-        "Price": 155.00,
-        "Features": [
-          "3xFan",
-          "360mm"
-        ],
-        "Date": "2023-03-27T12:00:17.0847078-04:00",
-        "Update": "2023-06-01T10:49:59.6253071-04:00",
-        "Label": "D.Líquida Enermax LIQMAX III ARGB 360"
       },
       {
         "Price": 115.00,
@@ -1074,18 +1041,6 @@
         "Label": "ASRock Z590 Steel Legend"
       },
       {
-        "Price": 200.00,
-        "Features": [
-          "10ma-11va",
-          "DDR4",
-          "5133mhz",
-          "LGA1200"
-        ],
-        "Date": "2023-05-11T07:56:40.4754157-04:00",
-        "Update": "2023-06-07T14:39:12.5931329-04:00",
-        "Label": "Asus TUF Gaming Z590 Plus Wifi"
-      },
-      {
         "Price": 415.00,
         "Features": [
           "12va-13ra",
@@ -1277,28 +1232,6 @@
         "Date": "2023-04-09T10:02:30.6829059-04:00",
         "Update": "2023-06-07T16:09:24.8160342-04:00",
         "Label": "SSD M.2 Seagate FireCuda 520 500GB"
-      },
-      {
-        "Price": 60.00,
-        "Features": [
-          "3500mbs",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-04-09T10:02:36.2684339-04:00",
-        "Update": "2023-06-07T16:09:24.8308343-04:00",
-        "Label": "SSD M.2 WD Blue SN570 500GB"
-      },
-      {
-        "Price": 60.00,
-        "Features": [
-          "3500mbs",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-05-11T14:04:17.0171928-04:00",
-        "Update": "2023-06-07T16:09:24.8445174-04:00",
-        "Label": "SSD M.2 PNY CS2130 500GB"
       },
       {
         "Price": 65.00,
@@ -1715,13 +1648,6 @@
         "Date": "2023-06-07T14:58:54.5233761-04:00",
         "Update": "2023-06-07T15:55:09.3933373-04:00",
         "Label": "Conversor DINO HDMI a VGA"
-      },
-      {
-        "Price": 9.00,
-        "Features": [],
-        "Date": "2023-06-07T15:00:27.3836286-04:00",
-        "Update": "2023-06-07T15:55:09.4073564-04:00",
-        "Label": "Adaptador DisplayPort a HDMI"
       },
       {
         "Price": 17.00,
