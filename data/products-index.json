@@ -1,0 +1,2134 @@
+{
+  "Kits": {
+    "Moderado": [
+      {
+        "Price": 585.00,
+        "Features": [],
+        "Date": "2023-04-11T20:47:22.96229-04:00",
+        "Update": "2023-06-15T09:05:32.2823585-04:00",
+        "Not1": "combo",
+        "Not2": "- $10",
+        "Label": "Kit i5-12600K + Gigabyte Z690 UD AX + 16GB RAM"
+      }
+    ],
+    "Rendimiento": [
+      {
+        "Price": 590.00,
+        "Features": [],
+        "Date": "2023-03-06T10:57:06.1444839-05:00",
+        "Update": "2023-06-15T09:05:32.2908709-04:00",
+        "Not1": "combo",
+        "Not2": "- $10",
+        "Label": "Kit i5-13500 +Disipador + ASRock B760M PG Riptide + 32GB DDR5"
+      },
+      {
+        "Price": 715.00,
+        "Features": [],
+        "Date": "2023-06-15T08:53:40.041805-04:00",
+        "Update": "2023-06-15T09:05:32.3074311-04:00",
+        "Not1": "combo",
+        "Not2": "- $10",
+        "Label": "Kit i7-12700K + Asus Prime Z690-A + 32GB DDR5"
+      },
+      {
+        "Price": 910.00,
+        "Features": [],
+        "Date": "2023-06-15T09:00:56.7823874-04:00",
+        "Update": "2023-06-15T09:05:32.3156259-04:00",
+        "Not1": "combo",
+        "Not2": "- $10",
+        "Label": "Kit i9-12900K + Gigabyte Z790 UD AC + 64GB DDR5"
+      }
+    ],
+    "Esencial": [
+      {
+        "Price": 440.00,
+        "Features": [],
+        "Date": "2023-06-12T13:20:21.3256765-04:00",
+        "Update": "2023-06-15T09:05:32.2993097-04:00",
+        "Not1": "combo",
+        "Not2": "- $10",
+        "Label": "Kit i5-12400 +Disipador + ASRock B660M PRO RS + 16GB RAM"
+      }
+    ],
+    "Entusiasta": [
+      {
+        "Price": 1220.00,
+        "Features": [],
+        "Date": "2023-06-15T09:02:58.8515588-04:00",
+        "Update": "2023-06-15T09:05:32.3320609-04:00",
+        "Not1": "combo",
+        "Not2": "- $15",
+        "Label": "Kit i9-13900K + Asus ROG Strix Z690-E Gaming Wifi + 32GB DDR5"
+      },
+      {
+        "Price": 980.00,
+        "Features": [],
+        "Date": "2023-06-15T09:02:14.0120703-04:00",
+        "Update": "2023-06-15T09:06:52.1076839-04:00",
+        "Not1": "combo",
+        "Not2": "- $10",
+        "Label": "Kit i7-13700K + Asus ROG Strix Z690-F Gaming Wifi + 32GB DDR5"
+      }
+    ]
+  },
+  "Componentes": {
+    "Tarjeta Gráfica": [
+      {
+        "Price": 225.00,
+        "Features": [
+          "4GB",
+          "2xFan",
+          "Radeon",
+          "AMD"
+        ],
+        "Date": "2023-04-09T07:40:25.4081171-04:00",
+        "Update": "2023-06-01T10:49:59.4775672-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "XFX Speedster QICK 210 RX 6500 XT"
+      },
+      {
+        "Price": 695.00,
+        "Features": [
+          "12GB",
+          "Liquida",
+          "GeForce",
+          "NVIDIA"
+        ],
+        "Date": "2023-04-09T07:40:11.0980971-04:00",
+        "Update": "2023-06-01T10:49:59.6571636-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "EVGA RTX 3080Ti XC3 Hydro Copper"
+      },
+      {
+        "Price": 595.00,
+        "Features": [
+          "3xFan",
+          "8GB",
+          "GeForce",
+          "NVIDIA"
+        ],
+        "Date": "2023-05-11T13:41:35.5997368-04:00",
+        "Update": "2023-06-01T10:49:59.6614858-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Zotac Gaming RTX 3070 Ti"
+      },
+      {
+        "Price": 950.00,
+        "Features": [
+          "3xFan",
+          "12GB",
+          "GeForce",
+          "NVIDIA"
+        ],
+        "Date": "2023-05-11T13:47:38.0164911-04:00",
+        "Update": "2023-06-01T10:49:59.6635934-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "MSI Ventus 3X RTX 4070 Ti OC"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "2GB",
+          "2xFan",
+          "GeForce",
+          "NVIDIA"
+        ],
+        "Date": "2023-04-09T07:40:17.4934102-04:00",
+        "Update": "2023-06-01T10:49:59.7038031-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Gigabyte GTX 1050 G1 Gaming"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "8GB",
+          "3xFan",
+          "Radeon",
+          "AMD"
+        ],
+        "Date": "2023-05-11T19:24:18.7527581-04:00",
+        "Update": "2023-06-01T10:49:59.8030581-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
+      },
+      {
+        "Price": 375.00,
+        "Features": [
+          "8GB",
+          "2xFan",
+          "GeForce",
+          "NVIDIA"
+        ],
+        "Date": "2023-04-09T07:40:21.1128823-04:00",
+        "Update": "2023-06-07T10:16:57.2524424-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "MSI RTX 3060 Ventus 2x OC"
+      },
+      {
+        "Price": 395.00,
+        "Features": [
+          "2xFan",
+          "8GB",
+          "GeForce",
+          "NVIDIA"
+        ],
+        "Date": "2023-05-11T13:36:03.9464604-04:00",
+        "Update": "2023-06-07T10:16:57.2555122-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Asus Dual RTX 3060 OC"
+      },
+      {
+        "Price": 770.00,
+        "Features": [
+          "2xFan",
+          "12GB",
+          "GeForce",
+          "NVIDIA"
+        ],
+        "Date": "2023-05-11T13:36:49.3673823-04:00",
+        "Update": "2023-06-07T10:16:57.2586254-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Asus Dual RTX 4070"
+      }
+    ],
+    "Microprocesador": [
+      {
+        "Price": 245.00,
+        "Features": [
+          "5000 Series",
+          "16 Hilos",
+          "8 Core",
+          "4.7GHz",
+          "32MB L3",
+          "AM4"
+        ],
+        "Date": "2023-05-11T07:44:14.6151541-04:00",
+        "Update": "2023-06-01T10:49:59.5046022-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "AMD Ryzen 7 5800X"
+      },
+      {
+        "Price": 225.00,
+        "Features": [
+          "Radeon Graphics",
+          "5000 Series",
+          "16 Hilos",
+          "8 Core",
+          "4.6GHz",
+          "16MB L3",
+          "AM4"
+        ],
+        "Date": "2023-06-07T15:04:47.8071575-04:00",
+        "Update": "2023-06-07T16:50:45.3577875-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "AMD Ryzen 7 5700G"
+      },
+      {
+        "Price": 325.00,
+        "Features": [
+          "12va Gen",
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "25MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700"
+        ],
+        "Date": "2023-02-17T09:30:45.7586545-05:00",
+        "Update": "2023-06-09T16:50:28.9239247-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Intel Core i7-12700K"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "12va Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "20MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700"
+        ],
+        "Date": "2023-02-17T09:44:28.156292-05:00",
+        "Update": "2023-06-09T16:50:28.9301845-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Intel Core i5-12600K"
+      },
+      {
+        "Price": 465.00,
+        "Features": [
+          "13ra Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.4GHz",
+          "30MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700"
+        ],
+        "Date": "2023-03-22T09:04:14.8362359-04:00",
+        "Update": "2023-06-09T16:50:28.9364045-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Intel Core i7-13700K"
+      },
+      {
+        "Price": 645.00,
+        "Features": [
+          "13ra Gen",
+          "32 Hilos",
+          "24 Core",
+          "5.7GHz",
+          "30MB L3",
+          "DDR4 y DDR5",
+          "Unlocked",
+          "LGA 1700"
+        ],
+        "Date": "2023-03-22T09:04:16.5699219-04:00",
+        "Update": "2023-06-09T16:50:28.9426112-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Intel Core i9-13900K"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "12va Gen",
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "18MB L3",
+          "DDR4-DDR5",
+          "LGA 1700"
+        ],
+        "Date": "2023-02-17T09:45:29.425139-05:00",
+        "Update": "2023-06-09T16:50:28.9485426-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Intel Core i5-12400 +Disipador"
+      },
+      {
+        "Price": 155.00,
+        "Features": [
+          "12va Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700"
+        ],
+        "Date": "2023-05-11T07:28:15.7616729-04:00",
+        "Update": "2023-06-09T16:50:28.9547974-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Intel Core i3-12100 +Disipador"
+      },
+      {
+        "Price": 420.00,
+        "Features": [
+          "12va Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.2GHz",
+          "30MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700"
+        ],
+        "Date": "2023-05-11T07:00:48.0876416-04:00",
+        "Update": "2023-06-09T16:50:28.9612903-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Intel Core i9-12900K"
+      },
+      {
+        "Price": 175.00,
+        "Features": [
+          "13ra Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.5GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700"
+        ],
+        "Date": "2023-03-22T09:04:00.899336-04:00",
+        "Update": "2023-06-09T16:50:28.9672988-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Intel Core i3-13100 +Disipador"
+      },
+      {
+        "Price": 295.00,
+        "Features": [
+          "13ra Gen",
+          "20 Hilos",
+          "14 Core",
+          "4.8GHz",
+          "24MB L3",
+          "DDR4-DDR5",
+          "LGA 1700"
+        ],
+        "Date": "2023-06-07T15:04:52.0919704-04:00",
+        "Update": "2023-06-09T16:50:29.0154478-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Intel Core i5-13500 +Disipador"
+      }
+    ],
+    "Memoria RAM": [
+      {
+        "Price": 90.00,
+        "Features": [
+          "3600mhz",
+          "2x8GB",
+          "White",
+          "Disipadas"
+        ],
+        "Date": "2023-02-17T19:36:51.2276383-05:00",
+        "Update": "2023-06-01T10:49:59.5197816-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "DDR4 Team T-Force Delta RGB 16GB"
+      },
+      {
+        "Price": 35.00,
+        "Features": [
+          "3200mhz",
+          "1x8GB",
+          "Disipada"
+        ],
+        "Date": "2023-03-30T09:56:51.9497004-04:00",
+        "Update": "2023-06-01T10:49:59.5223048-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "DDR4 Patriot Viper 8GB"
+      },
+      {
+        "Price": 80.00,
+        "Features": [
+          "4000mhz",
+          "2x8GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-30T09:56:53.3379201-04:00",
+        "Update": "2023-06-01T10:49:59.5252014-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "DDR4 Patriot Viper Elite II 16GB"
+      },
+      {
+        "Price": 90.00,
+        "Features": [
+          "3600mhz",
+          "2x8GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-30T09:56:49.769494-04:00",
+        "Update": "2023-06-01T10:49:59.5275875-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "DDR4 GeIL ORION RGB 16GB"
+      },
+      {
+        "Price": 105.00,
+        "Features": [
+          "4000mhz",
+          "2x8GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-30T09:55:59.2434323-04:00",
+        "Update": "2023-06-01T10:49:59.5376703-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "DDR4 GeIL ORION RGB 16GB"
+      },
+      {
+        "Price": 100.00,
+        "Features": [
+          "3600mhz",
+          "2x8GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-30T09:56:57.1889492-04:00",
+        "Update": "2023-06-01T10:49:59.5479611-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "DDR4 XPG SPECTRIX D45G RGB 16GB"
+      },
+      {
+        "Price": 15.00,
+        "Features": [
+          "RAM x4"
+        ],
+        "Date": "2023-06-07T15:04:43.4119901-04:00",
+        "Update": "2023-06-07T15:55:09.4433063-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Cooler Fan Corsair Vengance LPX"
+      },
+      {
+        "Price": 130.00,
+        "Features": [
+          "5200mhz",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-30T09:56:10.4975909-04:00",
+        "Update": "2023-06-07T16:28:39.0182086-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "DDR5 Corsair Vengeance 32GB"
+      },
+      {
+        "Price": 110.00,
+        "Features": [
+          "3600mhz",
+          "2x8GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-30T09:55:40.6507732-04:00",
+        "Update": "2023-06-07T16:28:39.0246033-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "DDR4 Corsair Vengeance RGB RT 16GB"
+      },
+      {
+        "Price": 110.00,
+        "Features": [
+          "3600mhz",
+          "2x8GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-30T09:56:45.7624715-04:00",
+        "Update": "2023-06-07T16:28:39.0365741-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "DDR4 Corsair Vengeance RGB RS 16GB"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "3600mhz",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-30T09:55:42.6288205-04:00",
+        "Update": "2023-06-07T16:28:39.0419294-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "DDR4 G.Skill Ripjaws V 32GB"
+      },
+      {
+        "Price": 120.00,
+        "Features": [
+          "4800mhz",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-05-11T08:35:27.0521871-04:00",
+        "Update": "2023-06-07T16:28:39.0534461-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "DDR5 Corsair Vengeance 32GB"
+      },
+      {
+        "Price": 245.00,
+        "Features": [
+          "5200mhz",
+          "2x32GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-30T09:56:14.691824-04:00",
+        "Update": "2023-06-07T16:28:39.0619698-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "DDR5 Corsair Vengeance RGB 64GB"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "5200mhz",
+          "2x32GB",
+          "Disipadas"
+        ],
+        "Date": "2023-05-11T08:36:35.2792015-04:00",
+        "Update": "2023-06-07T16:28:39.0721182-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "DDR5 Corsair Vengeance 64GB"
+      },
+      {
+        "Price": 190.00,
+        "Features": [
+          "5600mhz",
+          "2x24GB",
+          "Disipadas"
+        ],
+        "Date": "2023-05-11T08:37:27.4728146-04:00",
+        "Update": "2023-06-07T16:28:39.0816343-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "DDR5 Corsair Vengeance RGB 48GB"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "6000mhz",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-05-11T08:36:03.7462691-04:00",
+        "Update": "2023-06-07T16:28:39.0850192-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "DDR5 Corsair Vengeance 32GB"
+      },
+      {
+        "Price": 160.00,
+        "Features": [
+          "6000mhz",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-30T09:56:12.5688722-04:00",
+        "Update": "2023-06-07T16:28:39.1737318-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "DDR5 Corsair Vengeance RGB 32GB"
+      },
+      {
+        "Price": 175.00,
+        "Features": [
+          "6400mhz",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-05-11T08:37:02.3477958-04:00",
+        "Update": "2023-06-07T16:28:39.1789862-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "DDR5 Corsair Vengeance RGB 32GB"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "3600mhz",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-30T09:55:44.4799768-04:00",
+        "Update": "2023-06-07T16:28:39.1841128-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "DDR4 G.Skill Sniper X 32GB"
+      },
+      {
+        "Price": 160.00,
+        "Features": [
+          "6000mhz",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-05-11T08:37:56.7258334-04:00",
+        "Update": "2023-06-07T16:28:39.196323-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "DDR5 G.Skill Trident Z5 RGB 32GB"
+      }
+    ],
+    "Fuente": [
+      {
+        "Price": 140.00,
+        "Features": [
+          "80+ Bronze",
+          "Modular",
+          "750W",
+          "62A",
+          "4x 6+2-Pin",
+          "8x SATA"
+        ],
+        "Date": "2023-04-15T07:27:10.1467554-04:00",
+        "Update": "2023-06-01T10:49:59.6851837-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Fuente Corsair CX750M"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "80+",
+          "42A",
+          "2x 6+2-Pin",
+          "6x SATA"
+        ],
+        "Date": "2023-04-15T07:27:14.991735-04:00",
+        "Update": "2023-06-01T10:49:59.6935988-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Fuente Thermaltake SMART 600W"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "80+ Bronze",
+          "Modular",
+          "850W",
+          "70A",
+          "3x 6-Pin",
+          "3x 6+2-Pin",
+          "10x SATA"
+        ],
+        "Date": "2023-05-11T14:26:41.8517332-04:00",
+        "Update": "2023-06-01T10:49:59.6983636-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Fuente EVGA 850 BQ"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "35A",
+          "2x 6+2 Pin",
+          "6x SATA"
+        ],
+        "Date": "2023-05-12T07:54:08.9581203-04:00",
+        "Update": "2023-06-01T10:49:59.78327-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Fuente Thermaltake Smart 500W 80+"
+      },
+      {
+        "Price": 235.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "ATX 3.0",
+          "71A",
+          "3x 8-Pin",
+          "5x SATA"
+        ],
+        "Date": "2023-05-11T14:26:27.9739641-04:00",
+        "Update": "2023-06-07T10:07:15.7472756-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Fuente Asus TUF 850W"
+      },
+      {
+        "Price": 280.00,
+        "Features": [
+          "80+ Gold",
+          "ATX 3.0",
+          "Full Modular"
+        ],
+        "Date": "2023-06-07T15:03:30.731139-04:00",
+        "Update": "2023-06-07T15:26:56.6047427-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Fuente Asus TUF 1000W"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "Fully Modular",
+          "80+ Bronze",
+          "750W",
+          "63A",
+          "4x 6+2-Pin",
+          "8x SATA"
+        ],
+        "Date": "2023-04-15T07:27:08.3449497-04:00",
+        "Update": "2023-06-07T16:28:39.1228678-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Fuente Corsair CX750F RGB"
+      },
+      {
+        "Price": 295.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "1000W",
+          "83A",
+          "8x 6+2-Pin",
+          "11x SATA"
+        ],
+        "Date": "2023-04-15T07:27:11.3654492-04:00",
+        "Update": "2023-06-07T16:28:39.1336472-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Fuente Corsair RM1000X"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "juego de cables"
+        ],
+        "Date": "2023-06-07T13:43:16.5137084-04:00",
+        "Update": "2023-06-07T16:28:39.1999253-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Corsair Cable Kit Blue"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "Fully Modular",
+          "80+ Gold",
+          "850W",
+          "71A",
+          "3x 6+2-Pin",
+          "7x SATA"
+        ],
+        "Date": "2023-06-07T13:43:20.159516-04:00",
+        "Update": "2023-06-07T16:28:39.2042236-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Fuente Corsair RM850e"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "juego de cables"
+        ],
+        "Date": "2023-06-07T15:05:59.7677961-04:00",
+        "Update": "2023-06-07T16:28:39.2146787-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Corsair Cable Kit Red"
+      }
+    ],
+    "Chasis": [
+      {
+        "Price": 205.00,
+        "Features": [
+          "Gamer",
+          "Tempered Glass",
+          "Mid Tower",
+          "ATX"
+        ],
+        "Date": "2023-05-11T19:31:47.992231-04:00",
+        "Update": "2023-06-01T10:49:59.7106277-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Chasis MSI Forge 100M MAG"
+      },
+      {
+        "Price": 225.00,
+        "Features": [
+          "Gamer",
+          "Tempered Glass",
+          "Mid Tower",
+          "ATX"
+        ],
+        "Date": "2023-05-11T19:31:54.4325471-04:00",
+        "Update": "2023-06-01T10:49:59.7140492-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Chasis Cougar MX440 Mesh RGB"
+      },
+      {
+        "Price": 205.00,
+        "Features": [
+          "Gamer",
+          "Tempered Glass",
+          "Mid Tower",
+          "ATX"
+        ],
+        "Date": "2023-05-11T19:31:57.3412017-04:00",
+        "Update": "2023-06-01T10:49:59.7180923-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Chasis Talius Gargola RGB"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "8 GPU",
+          "Acero",
+          "Abierto"
+        ],
+        "Date": "2023-06-07T15:06:17.9384399-04:00",
+        "Update": "2023-06-07T15:55:09.471115-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Chasis MLLIQUEA Mining Rig Frame"
+      }
+    ],
+    "Otros": [
+      {
+        "Price": 85.00,
+        "Features": [],
+        "Date": "2023-06-07T10:26:52.1301364-04:00",
+        "Update": "2023-06-07T12:21:23.7777065-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Corsair Comander Pro"
+      },
+      {
+        "Price": 30.00,
+        "Features": [
+          "200mm",
+          "montaje vertical"
+        ],
+        "Date": "2023-06-07T13:42:48.85106-04:00",
+        "Update": "2023-06-07T14:23:20.6623811-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Extensor Athena PCIe"
+      },
+      {
+        "Price": 25.00,
+        "Features": [
+          "1x a 16x",
+          "Adaptador"
+        ],
+        "Date": "2023-06-07T13:43:02.4805647-04:00",
+        "Update": "2023-06-07T14:23:20.6655879-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Riser Coboc PCI Express"
+      },
+      {
+        "Price": 12.00,
+        "Features": [
+          "1.80m",
+          "4K"
+        ],
+        "Date": "2023-06-07T15:06:28.4028458-04:00",
+        "Update": "2023-06-07T15:26:56.648271-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Cable HDMI"
+      },
+      {
+        "Price": 5.00,
+        "Features": [],
+        "Date": "2023-06-07T15:03:43.1820356-04:00",
+        "Update": "2023-06-07T15:55:09.4128053-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Pasta Termica"
+      },
+      {
+        "Price": 13.00,
+        "Features": [],
+        "Date": "2023-06-07T15:05:05.0466396-04:00",
+        "Update": "2023-06-07T15:55:09.4507304-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Fan Cougar Vortex FCB 120 RGB"
+      },
+      {
+        "Price": 7.00,
+        "Features": [
+          "120"
+        ],
+        "Date": "2023-06-07T15:06:05.815869-04:00",
+        "Update": "2023-06-07T15:55:09.4573643-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Fan Uphere 12BK3"
+      },
+      {
+        "Price": 30.00,
+        "Features": [
+          "PCIe x1"
+        ],
+        "Date": "2023-06-07T15:06:32.5341385-04:00",
+        "Update": "2023-06-07T15:55:09.4819085-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "HUB Rosewill 4xUSB 3.0"
+      }
+    ],
+    "Disco Sólido": [
+      {
+        "Price": 70.00,
+        "Features": [
+          "3500mbs",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-04-09T10:01:55.7163005-04:00",
+        "Update": "2023-06-07T16:09:24.7877438-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "SSD M.2 ADATA XPG GAMMIX S7 512GB"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "6600mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-04-09T10:02:09.1945408-04:00",
+        "Update": "2023-06-07T16:09:24.792889-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "SSD M.2 Crucial P5 Plus 500GB"
+      },
+      {
+        "Price": 45.00,
+        "Features": [
+          "540mbs",
+          "SATA 3"
+        ],
+        "Date": "2023-04-09T09:39:51.3408305-04:00",
+        "Update": "2023-06-07T16:09:24.7974415-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "SSD 2.5 Crucial BX500 480GB"
+      },
+      {
+        "Price": 45.00,
+        "Features": [
+          "500mbs",
+          "SATA 3"
+        ],
+        "Date": "2023-04-09T09:39:54.0884861-04:00",
+        "Update": "2023-06-07T16:09:24.8015469-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "SSD 2.5 Kingston A400 480GB"
+      },
+      {
+        "Price": 60.00,
+        "Features": [
+          "560mbs",
+          "SATA 3"
+        ],
+        "Date": "2023-04-09T09:39:58.2011686-04:00",
+        "Update": "2023-06-07T16:09:24.8053965-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "SSD 2.5 Samsung 870 EVO 500GB"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "560mbs",
+          "SATA 3"
+        ],
+        "Date": "2023-04-09T09:40:07.8060759-04:00",
+        "Update": "2023-06-07T16:09:24.80923-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "SSD 2.5 Team Group DeltaMax RGB 500GB"
+      },
+      {
+        "Price": 80.00,
+        "Features": [
+          "3500mbs",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-04-09T10:02:19.6488406-04:00",
+        "Update": "2023-06-07T16:09:24.8126722-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "SSD M.2 Samsung 980 500GB"
+      },
+      {
+        "Price": 90.00,
+        "Features": [
+          "5000mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-04-09T10:02:30.6829059-04:00",
+        "Update": "2023-06-07T16:09:24.8160342-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "SSD M.2 Seagate FireCuda 520 500GB"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "3400mbs",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-05-11T14:05:28.5872525-04:00",
+        "Update": "2023-06-07T16:09:24.8550961-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "SSD M.2 Crucial P5 500GB"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "3500mbs",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-05-11T14:06:12.1179887-04:00",
+        "Update": "2023-06-07T16:09:24.8654128-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "SSD M.2 ADATA XPG SX8100 512GB"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "7000mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-04-09T10:02:00.2968299-04:00",
+        "Update": "2023-06-07T16:09:24.9166129-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "SSD M.2 Corsair MP600 PRO NH 1TB"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "2100mbs",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-06-07T10:28:10.4293544-04:00",
+        "Update": "2023-06-07T16:09:24.9680549-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "SSD M.2 PNY CS1030 2TB"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "7100mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-06-07T10:29:28.1707034-04:00",
+        "Update": "2023-06-07T16:09:24.9861144-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "SSD M.2 Corsair MP600 PRO XT 1TB"
+      },
+      {
+        "Price": 50.00,
+        "Features": [
+          "560mbs",
+          "SATA 3"
+        ],
+        "Date": "2023-06-07T13:41:58.996169-04:00",
+        "Update": "2023-06-07T16:09:25.0046225-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "SSD 2.5 Silicon Power Ace A55 512GB"
+      },
+      {
+        "Price": 50.00,
+        "Features": [
+          "530mbs",
+          "SATA 3"
+        ],
+        "Date": "2023-06-07T13:42:05.5721644-04:00",
+        "Update": "2023-06-07T16:09:25.0233477-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "SSD 2.5 Team Group CX2 512GB"
+      },
+      {
+        "Price": 50.00,
+        "Features": [
+          "550mbs",
+          "SATA 3"
+        ],
+        "Date": "2023-06-07T13:42:08.9262831-04:00",
+        "Update": "2023-06-07T16:09:25.0355309-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "SSD 2.5 Team Group EX2 512GB"
+      },
+      {
+        "Price": 45.00,
+        "Features": [
+          "530mbs",
+          "SATA 3"
+        ],
+        "Date": "2023-06-07T13:42:02.617071-04:00",
+        "Update": "2023-06-07T16:50:45.3691842-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "SSD 2.5 Team Group CX1 480GB"
+      },
+      {
+        "Price": 50.00,
+        "Features": [
+          "550mbs",
+          "SATA 3"
+        ],
+        "Date": "2023-06-07T13:43:23.553018-04:00",
+        "Update": "2023-06-07T16:50:45.3847098-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "SSD 2.5 Team Group T-FORCE VULCAN G 512GB"
+      }
+    ],
+    "Disco Duro": [
+      {
+        "Price": 155.00,
+        "Features": [
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-05-11T14:18:10.4016902-04:00",
+        "Update": "2023-06-07T16:09:24.8724034-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "HDD 3.5 Seagate EXOS 8TB"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "Ultrastar DC",
+          "Enterprise",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-05-11T14:19:01.4001144-04:00",
+        "Update": "2023-06-07T16:09:24.8825976-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "HDD 3.5 WD 14TB HC530"
+      },
+      {
+        "Price": 60.00,
+        "Features": [
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-04-09T11:00:53.9233885-04:00",
+        "Update": "2023-06-07T16:09:24.8894849-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "HDD 2.5 Seagate BarraCuda 1TB"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-05-12T07:53:01.7720075-04:00",
+        "Update": "2023-06-07T16:09:24.8971005-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "HDD 2.5 Seagate BarraCuda 2TB"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-05-11T14:17:30.8616693-04:00",
+        "Update": "2023-06-07T16:09:24.9059895-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "HDD 3.5 Seagate Constellation 4TB"
+      }
+    ],
+    "Disipador Líquido": [
+      {
+        "Price": 95.00,
+        "Features": [
+          "LGA 1700",
+          "LGA 1200",
+          "AM4",
+          "Black"
+        ],
+        "Date": "2023-06-07T10:27:59.8644959-04:00",
+        "Update": "2023-06-07T16:09:24.9313469-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Corsair Hydro XC7 RGB PRO CPU Water Block"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "1xFan",
+          "120mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-03-27T11:59:58.6808365-04:00",
+        "Update": "2023-06-09T16:50:28.7896342-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "D.Líquida Asus TUF Gaming LC 120 RGB"
+      },
+      {
+        "Price": 150.00,
+        "Features": [
+          "3xFan",
+          "360mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-03-27T12:00:13.1005683-04:00",
+        "Update": "2023-06-09T16:50:28.7958166-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "D.Líquida Enermax AQUAFUSION 360 ARGB"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "1xFan",
+          "120mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-03-27T12:00:22.9053987-04:00",
+        "Update": "2023-06-09T16:50:28.8020998-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "D.Líquida Thermaltake TH120 ARGB"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "1xFan",
+          "120mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-05-11T13:08:41.9000968-04:00",
+        "Update": "2023-06-09T16:50:28.8171639-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "D.Líquida Enermax LIQMAX III 120 ARGB"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "1xFan",
+          "120mm",
+          "Blanco",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-05-11T13:10:26.3292429-04:00",
+        "Update": "2023-06-09T16:50:28.8234559-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "D.Líquida Thermaltake TH120 ARGB Snow"
+      },
+      {
+        "Price": 340.00,
+        "Features": [
+          "360mm",
+          "RGB",
+          "CUSTOM",
+          "CPU + GPU",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-03-27T12:00:21.1716972-04:00",
+        "Update": "2023-06-09T16:50:28.8296307-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Kit Líquido Thermaltake Pacific C360 Ddc"
+      },
+      {
+        "Price": 595.00,
+        "Features": [
+          "360mm",
+          "Premium",
+          "RGB",
+          "CUSTOM",
+          "CPU + GPU",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-05-11T13:08:17.1127956-04:00",
+        "Update": "2023-06-09T16:50:28.8361149-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Kit Líquido Corsair Hydro XH305i"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "2xFan",
+          "240mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-03-27T12:00:05.9787174-04:00",
+        "Update": "2023-06-09T16:50:28.8424044-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "D.Líquida Corsair H100x RGB Elite"
+      },
+      {
+        "Price": 470.00,
+        "Features": [
+          "360mm",
+          "Premium",
+          "RGB",
+          "CUSTOM",
+          "CPU + GPU",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-03-27T12:00:08.8338454-04:00",
+        "Update": "2023-06-09T16:50:28.848719-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Kit Líquido Corsair Hydro XH303i"
+      },
+      {
+        "Price": 10.00,
+        "Features": [
+          "LGA 1700",
+          "MasterLiquid Illusion",
+          "ML-R ARGB",
+          "ML-L V2 RGB"
+        ],
+        "Date": "2023-06-07T13:42:45.011081-04:00",
+        "Update": "2023-06-09T16:50:28.8550073-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Cooler Master Kits LGA 1700"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "1xFan",
+          "120mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-05-11T13:08:14.7226355-04:00",
+        "Update": "2023-06-09T16:50:28.9841433-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "D.Líquida Corsair H60x RGB Elite"
+      },
+      {
+        "Price": 175.00,
+        "Features": [
+          "2xFan",
+          "240mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-03-27T12:00:02.0089284-04:00",
+        "Update": "2023-06-09T16:50:28.9906774-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "D.Líquida Cooler Master MasterLiquid ML240L ARGB V2"
+      }
+    ],
+    "Disipador por Aire": [
+      {
+        "Price": 40.00,
+        "Features": [
+          "AM4",
+          "2 Heat Pipes",
+          "Cobre"
+        ],
+        "Date": "2023-05-11T12:52:15.0994337-04:00",
+        "Update": "2023-06-07T16:50:45.2221708-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Enfriamiento Asus 3 Headpipe AMD"
+      },
+      {
+        "Price": 45.00,
+        "Features": [
+          "LGA 1200",
+          "2 Heat Pipes",
+          "Cobre"
+        ],
+        "Date": "2023-05-11T12:52:16.9141688-04:00",
+        "Update": "2023-06-07T16:50:45.4005563-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Enfriamiento Asus 3 Headpipe Intel"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "4 Heat Pipes",
+          "Cobre",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-03-27T10:59:31.994435-04:00",
+        "Update": "2023-06-09T16:50:28.7537741-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Enfriamiento Thermaltake TOUGHAIR 110 140W TDP"
+      },
+      {
+        "Price": 60.00,
+        "Features": [
+          "Black",
+          "4 Heat Pipes",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-03-27T10:59:27.7734094-04:00",
+        "Update": "2023-06-09T16:50:28.7625338-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Enfriamiento Thermalright Assassin X 120 R SE RGB"
+      },
+      {
+        "Price": 70.00,
+        "Features": [
+          "White",
+          "4 Heat Pipes",
+          "Cobre",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-05-11T12:34:36.9113405-04:00",
+        "Update": "2023-06-09T16:50:28.7686592-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Enfriamiento Zalman CNPS 10X Optima II RGB"
+      },
+      {
+        "Price": 55.00,
+        "Features": [
+          "White",
+          "4 Heat Pipes",
+          "Cobre",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-05-11T12:34:41.3615219-04:00",
+        "Update": "2023-06-09T16:50:28.7830607-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Enfriamiento SAMA KA450DW RGB"
+      },
+      {
+        "Price": 10.00,
+        "Features": [
+          "LGA 115X"
+        ],
+        "Date": "2023-06-07T15:04:28.5510666-04:00",
+        "Update": "2023-06-09T16:50:28.9776497-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Enfriamiento Intel Generic"
+      },
+      {
+        "Price": 15.00,
+        "Features": [
+          "LGA 1200"
+        ],
+        "Date": "2023-05-11T12:52:12.030034-04:00",
+        "Update": "2023-06-09T16:50:29.0094431-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Enfriamiento Intel Generic Plus"
+      }
+    ],
+    "Red": [
+      {
+        "Price": 70.00,
+        "Features": [
+          "PCIe x1"
+        ],
+        "Date": "2023-06-07T15:04:12.3798994-04:00",
+        "Update": "2023-06-07T17:13:07.6901895-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Gigabyte PCIe Expansion Card Bluetooth y WiFi"
+      },
+      {
+        "Price": 40.00,
+        "Features": [],
+        "Date": "2023-06-07T15:04:18.9988293-04:00",
+        "Update": "2023-06-07T17:13:07.6998149-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "PCIe x1 - TP-Link Wifi Adapter [TL-WN881ND]"
+      }
+    ],
+    "Board": [
+      {
+        "Price": 165.00,
+        "Features": [
+          "12va-13ra",
+          "DDR4",
+          "4800mhz",
+          "LGA 1700"
+        ],
+        "Date": "2023-02-17T09:47:30.747913-05:00",
+        "Update": "2023-06-09T16:50:28.8612974-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "ASRock B660M PRO RS"
+      },
+      {
+        "Price": 365.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "6400mhz",
+          "LGA 1700"
+        ],
+        "Date": "2023-05-11T07:52:19.4562926-04:00",
+        "Update": "2023-06-09T16:50:28.8675214-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Asus ROG Strix Z690-F Gaming Wifi"
+      },
+      {
+        "Price": 175.00,
+        "Features": [
+          "10ma-11va",
+          "DDR4",
+          "4800mhz",
+          "LGA 1200"
+        ],
+        "Date": "2023-05-11T07:53:54.1109145-04:00",
+        "Update": "2023-06-09T16:50:28.8737274-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "ASRock Z590 Steel Legend"
+      },
+      {
+        "Price": 415.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "6400mhz",
+          "LGA 1700"
+        ],
+        "Date": "2023-05-11T07:51:07.1403838-04:00",
+        "Update": "2023-06-09T16:50:28.8799501-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Asus ROG Strix Z690-E Gaming Wifi"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "6800mhz",
+          "LGA 1700"
+        ],
+        "Date": "2023-06-07T13:42:31.4460874-04:00",
+        "Update": "2023-06-09T16:50:28.8861942-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "ASRock B760M PG Riptide"
+      },
+      {
+        "Price": 355.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "7200mhz",
+          "LGA 1700"
+        ],
+        "Date": "2023-06-07T13:42:34.7916197-04:00",
+        "Update": "2023-06-09T16:50:28.8925147-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Asus TUF Gaming Z790-Plus Wifi"
+      },
+      {
+        "Price": 225.00,
+        "Features": [
+          "12va-13ra",
+          "DDR4",
+          "5333mhz",
+          "LGA 1700"
+        ],
+        "Date": "2023-02-17T09:46:18.404887-05:00",
+        "Update": "2023-06-09T16:50:28.8987853-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Asus B660 ProArt Creator D4"
+      },
+      {
+        "Price": 270.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "6000mhz",
+          "LGA 1700"
+        ],
+        "Date": "2023-03-29T20:09:08.1280491-04:00",
+        "Update": "2023-06-09T16:50:28.9050567-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Asus Prime Z690-A"
+      },
+      {
+        "Price": 250.00,
+        "Features": [
+          "12va-13ra",
+          "5333mhz",
+          "LGA 1700"
+        ],
+        "Date": "2023-03-29T20:18:25.1874798-04:00",
+        "Update": "2023-06-09T16:50:28.9177058-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Gigabyte Z690 UD AX DDR4"
+      },
+      {
+        "Price": 285.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "7600mhz",
+          "LGA 1700"
+        ],
+        "Date": "2023-05-14T10:52:20.5741642-04:00",
+        "Update": "2023-06-09T16:50:28.9973278-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Gigabyte Z790 UD AC"
+      },
+      {
+        "Price": 425.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "7800mhz",
+          "LGA 1700"
+        ],
+        "Date": "2023-03-29T20:18:17.8757341-04:00",
+        "Update": "2023-06-09T16:50:29.0033855-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Asus ROG Strix Z790-H Gaming Wifi"
+      }
+    ]
+  },
+  "Periféricos": {
+    "Monitor": [
+      {
+        "Price": 320.00,
+        "Features": [
+          "VA",
+          "75Hz",
+          "1ms",
+          "300cd",
+          "FreeSync"
+        ],
+        "Date": "2023-05-11T19:57:45.9857068-04:00",
+        "Update": "2023-06-01T10:49:59.7206892-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Acer Nitro 27FHD QG271"
+      },
+      {
+        "Price": 285.00,
+        "Features": [
+          "Curvo",
+          "VA",
+          "1ms",
+          "75Hz",
+          "250cd",
+          "FreeSync",
+          "Business"
+        ],
+        "Date": "2023-05-11T19:58:00.9741721-04:00",
+        "Update": "2023-06-01T10:49:59.7345209-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "MSI Pro 24FHD MP242C"
+      },
+      {
+        "Price": 565.00,
+        "Features": [
+          "165Hz",
+          "2K",
+          "1ms",
+          "Curvo",
+          "350cd",
+          "VA",
+          "FreeSync"
+        ],
+        "Date": "2023-05-11T19:57:59.0739432-04:00",
+        "Update": "2023-06-07T16:28:39.1577623-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Gigabyte 32FHD G32QC"
+      },
+      {
+        "Price": 365.00,
+        "Features": [
+          "165Hz",
+          "Curvo",
+          "VA",
+          "250cd",
+          "FreeSync"
+        ],
+        "Date": "2023-05-11T19:57:48.2691264-04:00",
+        "Update": "2023-06-07T16:50:45.4151089-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Acer ED0 27FHD ED270R"
+      }
+    ],
+    "Teclado": [
+      {
+        "Price": 105.00,
+        "Features": [
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-05-11T20:29:35.2925957-04:00",
+        "Update": "2023-06-01T10:49:59.7455388-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Teclado Corsair Gaming K55 RGB Pro"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-05-11T20:29:42.0758463-04:00",
+        "Update": "2023-06-01T10:49:59.7489732-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Teclado EVGA Z12 RGB"
+      },
+      {
+        "Price": 130.00,
+        "Features": [
+          "Mechanical",
+          "Cherry MX",
+          "Slim",
+          "Aluminum",
+          "iCUE",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-05-11T20:29:40.4508027-04:00",
+        "Update": "2023-06-01T10:49:59.7607608-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Teclado Corsair K60 RGB Pro"
+      },
+      {
+        "Price": 30.00,
+        "Features": [
+          "USB"
+        ],
+        "Date": "2023-05-11T20:29:33.0676825-04:00",
+        "Update": "2023-06-01T10:57:48.5593754-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "COMBO Teclado + Mouse Asus"
+      },
+      {
+        "Price": 75.00,
+        "Features": [
+          "Inalámbrico",
+          "USB"
+        ],
+        "Date": "2023-05-11T20:29:43.7243784-04:00",
+        "Update": "2023-06-01T10:57:48.5621068-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "COMBO Teclado + Mouse Logitech MK520"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-05-11T20:29:45.5785203-04:00",
+        "Update": "2023-06-01T10:57:48.5668167-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "COMBO Teclado + Mouse Rosewill Fusion C40"
+      },
+      {
+        "Price": 150.00,
+        "Features": [
+          "6000dpi",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-05-11T20:29:37.4399996-04:00",
+        "Update": "2023-06-01T10:57:48.5700376-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "COMBO Teclado Corsair K55 + Mouse Harpoon RGB"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "Mechanical",
+          "Backlit",
+          "Aluminum",
+          "USB Passthrough",
+          "Programmable Macros"
+        ],
+        "Date": "2023-06-07T10:25:01.2008677-04:00",
+        "Update": "2023-06-07T16:50:45.2749214-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Teclado Logitech G413 Carbon"
+      },
+      {
+        "Price": 110.00,
+        "Features": [
+          "USB",
+          "Gaming",
+          "Membrane",
+          "Black",
+          "RGB"
+        ],
+        "Date": "2023-06-07T10:25:59.490678-04:00",
+        "Update": "2023-06-07T16:50:45.278579-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Teclado Asus TUF Gaming K1"
+      }
+    ],
+    "Mouse": [
+      {
+        "Price": 65.00,
+        "Features": [
+          "16000dpi",
+          "20 buttons",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-05-12T07:07:58.0685539-04:00",
+        "Update": "2023-06-01T10:49:59.7661235-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Mouse EVGA X15 MMO"
+      },
+      {
+        "Price": 70.00,
+        "Features": [
+          "Sniper",
+          "16000dpi",
+          "10 botones",
+          "peso ajustable",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-05-12T07:08:00.3280778-04:00",
+        "Update": "2023-06-01T10:49:59.7685868-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Mouse EVGA X17"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "Extended",
+          "Rosado",
+          "Strix"
+        ],
+        "Date": "2023-05-12T07:54:27.4081446-04:00",
+        "Update": "2023-06-07T16:50:45.239396-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Mouse Pad Asus ROG Sheath Pink LTD"
+      }
+    ],
+    "Backup": [
+      {
+        "Price": 145.00,
+        "Features": [
+          "120V",
+          "255 Watts",
+          "6 Salidas"
+        ],
+        "Date": "2023-05-12T07:53:07.7837276-04:00",
+        "Update": "2023-06-01T10:49:59.7775418-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Backup APC BE425M 425VA"
+      }
+    ],
+    "Adaptadores": [
+      {
+        "Price": 17.00,
+        "Features": [
+          "DCA106-HV"
+        ],
+        "Date": "2023-06-07T14:58:54.5233761-04:00",
+        "Update": "2023-06-07T15:55:09.3933373-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Conversor DINO HDMI a VGA"
+      },
+      {
+        "Price": 17.00,
+        "Features": [],
+        "Date": "2023-06-07T15:04:34.6091688-04:00",
+        "Update": "2023-06-07T15:55:09.4385575-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Conversor HDMI a VGA"
+      },
+      {
+        "Price": 15.00,
+        "Features": [
+          "1m"
+        ],
+        "Date": "2023-06-07T15:03:27.0791363-04:00",
+        "Update": "2023-06-07T17:13:07.6811141-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Cable DisplayPort a HDMI"
+      }
+    ],
+    "Red": [
+      {
+        "Price": 21.00,
+        "Features": [
+          "AC600",
+          "USB",
+          "Wireless",
+          "Adaptador"
+        ],
+        "Date": "2023-06-07T15:06:24.0343083-04:00",
+        "Update": "2023-06-07T15:55:09.4786695-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "TP-LINK Archer T2U Nano"
+      },
+      {
+        "Price": 15.00,
+        "Features": [
+          "Wireless",
+          "N150",
+          "USB",
+          "Nano"
+        ],
+        "Date": "2023-06-07T15:07:38.6374368-04:00",
+        "Update": "2023-06-07T15:55:09.5042115-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "TP-LINK TL-WN725N"
+      }
+    ],
+    "Otros": [
+      {
+        "Price": 19.00,
+        "Features": [
+          "130Mbps",
+          "Flash",
+          "USB 3.0"
+        ],
+        "Date": "2023-06-07T15:06:36.3165573-04:00",
+        "Update": "2023-06-07T15:55:09.4920948-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Corsair Voyager Slider X1 64GB"
+      }
+    ],
+    "Silla": [
+      {
+        "Price": 225.00,
+        "Features": [
+          "oficina",
+          "ergonómica",
+          "reposabrazos",
+          "ruedas giratorias",
+          "negra"
+        ],
+        "Date": "2023-05-12T07:54:58.4743215-04:00",
+        "Update": "2023-06-07T16:50:45.3103227-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Silla YAHEETECH"
+      },
+      {
+        "Price": 380.00,
+        "Features": [
+          "ergonómica",
+          "reposacabezas",
+          "almohada lumbar",
+          "algodón interior",
+          "cuero transpirable",
+          "altura ajustable"
+        ],
+        "Date": "2023-06-07T10:26:58.9524997-04:00",
+        "Update": "2023-06-07T16:50:45.3270327-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Silla Gamer Ergoseat"
+      }
+    ],
+    "Sonido": [
+      {
+        "Price": 125.00,
+        "Features": [],
+        "Date": "2023-05-12T07:52:40.6205045-04:00",
+        "Update": "2023-06-07T16:50:45.319181-04:00",
+        "Not1": "",
+        "Not2": "",
+        "Label": "Audifonos Corsair VOID RGB Elite Wireless Carbon"
+      }
+    ]
+  }
+}
