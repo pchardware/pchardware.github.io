@@ -1,7 +1,9 @@
 {
   "Category": "Componentes",
   "SubCategory": "Disipador por Aire",
-  "Images": [],
+  "Images": [
+    "/images/products/enfriamiento-intel-generic-plus-1.webp"
+  ],
   "Description": "",
   "Price": 15.00,
   "Features": [
