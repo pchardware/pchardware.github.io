@@ -1,0 +1,21 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-i7-12700k-asus-prime-z690-a-32gb-ddr5-1.webp",
+    "/images/products/kit-i7-12700k-asus-prime-z690-a-32gb-ddr5-2.webp",
+    "/images/products/kit-i7-12700k-asus-prime-z690-a-32gb-ddr5-3.webp",
+    "/images/products/kit-i7-12700k-asus-prime-z690-a-32gb-ddr5-4.webp",
+    "/images/products/kit-i7-12700k-asus-prime-z690-a-32gb-ddr5-5.webp",
+    "/images/products/kit-i7-12700k-asus-prime-z690-a-32gb-ddr5-6.webp",
+    "/images/products/kit-i7-12700k-asus-prime-z690-a-32gb-ddr5-7.webp"
+  ],
+  "Description": "+ Intel Core i7-12700K (12va Gen, 20 Hilos, 12 Core, 5GHz, 25MB L3, DDR4-DDR5, Unlocked, LGA 1700)\n+ Asus Prime Z690-A (12va-13ra, DDR5, 6000mhz, LGA 1700)\n+ DDR5 Corsair Vengeance 32GB (5200mhz, 2x16GB, Disipadas)\n",
+  "Price": 715.00,
+  "Features": [],
+  "Date": "2023-06-15T08:53:40.041805-04:00",
+  "Update": "2023-06-15T09:05:32.3074311-04:00",
+  "Not1": "combo",
+  "Not2": "- $10",
+  "Label": "Kit i7-12700K + Asus Prime Z690-A + 32GB DDR5"
+}
