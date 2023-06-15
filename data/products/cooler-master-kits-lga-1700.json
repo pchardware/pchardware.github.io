@@ -1,10 +1,7 @@
 {
   "Category": "Componentes",
   "SubCategory": "Disipador Líquido",
-  "Images": [
-    "/images/products/cooler-master-kits-lga-1700-1.webp",
-    "/images/products/cooler-master-kits-lga-1700-2.webp"
-  ],
+  "Images": [],
   "Description": "Brand: COOLER MASTER\n\nDetails\nTypes: Bracket\nColors: Black\r\n\r\nMasterLiquid Illusion Series\r\nML-R ARGB Series\r\nML-L V2 RGB Series",
   "Price": 10.00,
   "Features": [
@@ -15,5 +12,7 @@
   ],
   "Date": "2023-06-07T13:42:45.011081-04:00",
   "Update": "2023-06-09T16:50:28.8550073-04:00",
+  "Not1": "",
+  "Not2": "",
   "Label": "Cooler Master Kits LGA 1700"
 }
