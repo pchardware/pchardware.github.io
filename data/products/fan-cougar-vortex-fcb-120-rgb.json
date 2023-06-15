@@ -1,7 +1,10 @@
 {
   "Category": "Componentes",
   "SubCategory": "Otros",
-  "Images": [],
+  "Images": [
+    "/images/products/fan-cougar-vortex-fcb-120-rgb-1.webp",
+    "/images/products/fan-cougar-vortex-fcb-120-rgb-2.webp"
+  ],
   "Description": "Model\nBrand: Cougar\nModel: CF-V12FB-RGB\n\n\nDetails\nFan Counts: 1 Fan\nFan Controller: No Controller\nType: Case Fan\nFan Size: 120 mm\nFan Thickness: 25mm\nBearing Type: Hydraulic\nRPM: 1200 R.P.M\nAir Flow: 36.72 CFM\nNoise Level: 24.3 dBA\nColor: Black\nLED: RGB",
   "Price": 13.00,
   "Features": [],
