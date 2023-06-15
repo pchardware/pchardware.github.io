@@ -1,4 +1,17 @@
 {
+  "Computadoras": {
+    "Gamer": [
+      {
+        "Price": 1735.00,
+        "Features": [],
+        "Date": "2023-06-15T15:28:36.7874989-04:00",
+        "Update": "2023-06-15T15:37:27.2626513-04:00",
+        "Not1": "combo",
+        "Not2": "- $50",
+        "Label": "PC i5-12600K + Asus Prime Z690-A + 32GB DDR5 + 512 SSD + Radeon RX 6600 8GB + 24FHD Curvo"
+      }
+    ]
+  },
   "Kits": {
     "Moderado": [
       {
