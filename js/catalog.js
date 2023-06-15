@@ -317,16 +317,21 @@ function loadData($, data) {
                 if (filterTree[categoryKey][subcategoryKey][product.Date] == null)
                     filterTree[categoryKey][subcategoryKey][product.Date] = [];
 
-                extractMoreFeatures(product);
+                var filterClass = "";
+                var extendedFeatures = extendFeatures(product);
+                for (const featureKey in extendedFeatures) {
+                    const feature = extendedFeatures[featureKey];
 
-                for (const featureKey in product.Features) {
-                    const feature = product.Features[featureKey];
+                    const filterPart = normalizeText(feature);
+                    if (filterPart.length > 0) {
+                        filterClass += " feature-" + filterPart;
 
-                    filterData[normalizeText(feature)] = feature;
-                    filterTree[categoryKey][subcategoryKey][product.Date].push(feature);
+                        filterData[filterPart] = feature;
+                        filterTree[categoryKey][subcategoryKey][product.Date].push(feature);
+                    }
                 }
 
-                addProductCard($topeContainer, product, categoryKey, subcategoryKey);
+                addProductCard($topeContainer, product, categoryKey, subcategoryKey, filterClass);
             }
         }
     }
@@ -455,21 +460,21 @@ function updateView() {
     udpateViewFilter();
 }
 
-function extractMoreFeatures(product) {
+function extendFeatures(product) {
     const words = product.Label.split(' ');
-    product.Features = (product.Features || []).concat(words);
+    let featuresExtended = (product.Features || []).concat(words);
 
-    const splitedWords = product.Features
+    const splitedWords = featuresExtended
         .flatMap(element => element.split('-'))
         .filter(subword => subword.length > 1);
 
-    product.Features = splitedWords;
+    return splitedWords;
 }
 
 function getKeywords(products, numKeywords) {
     // Concatenate all keywords into a single array
     const keywords = products.flatMap(product => product.map(word => word.toLowerCase()));
-
+    
     // Create a word frequency object
     const frequency = keywords.reduce((obj, word) => {
         obj[word] = (obj[word] || 0) + 1;
@@ -482,7 +487,7 @@ function getKeywords(products, numKeywords) {
     const maxFrequency = Math.floor(numProducts * 0.7);
     const filteredKeywords = Object.keys(frequency)
         .filter(word => frequency[word] >= minFrequency && frequency[word] <= maxFrequency);
-
+    
     // Sort filtered keywords by frequency
     filteredKeywords.sort((a, b) => frequency[b] - frequency[a]);
 
@@ -645,9 +650,8 @@ function addFilterDiv(container, label, groupKey = null, active = false) {
     container.appendChild(newA);
 }
 
-function addProductCard($container, product, categoryKey, subcategoryKey) {
-
-    let filterClass = "";
+function addProductCard($container, product, categoryKey, subcategoryKey, filterClass) {
+    
     let filterPart = normalizeText(categoryKey);
     if (filterPart.length > 0) {
         filterClass += " category-" + filterPart;
@@ -656,17 +660,6 @@ function addProductCard($container, product, categoryKey, subcategoryKey) {
     filterPart = normalizeText(subcategoryKey);
     if (filterPart.length > 0) {
         filterClass += " subcategory-" + filterPart;
-    }
-
-    if (product.Features) {
-        for (const featureKey in product.Features) {
-            const feature = product.Features[featureKey];
-           
-            filterPart = normalizeText(feature);
-            if (filterPart.length > 0) {
-                filterClass += " feature-" + filterPart;
-            }
-        }
     }
 
     filterPart = normalizeText(product.Label);
