@@ -1,12 +1,7 @@
 {
   "Category": "Componentes",
   "SubCategory": "Disipador por Aire",
-  "Images": [
-    "/images/products/enfriamiento-intel-generic-1.webp",
-    "/images/products/enfriamiento-intel-generic-2.webp",
-    "/images/products/enfriamiento-intel-generic-3.webp",
-    "/images/products/enfriamiento-intel-generic-4.webp"
-  ],
+  "Images": [],
   "Description": "",
   "Price": 10.00,
   "Features": [
@@ -14,5 +9,7 @@
   ],
   "Date": "2023-06-07T15:04:28.5510666-04:00",
   "Update": "2023-06-09T16:50:28.9776497-04:00",
+  "Not1": "",
+  "Not2": "",
   "Label": "Enfriamiento Intel Generic"
 }
