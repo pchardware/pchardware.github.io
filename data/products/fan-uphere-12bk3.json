@@ -1,13 +1,7 @@
 {
   "Category": "Componentes",
   "SubCategory": "Otros",
-  "Images": [
-    "/images/products/fan-uphere-12bk3-1.webp",
-    "/images/products/fan-uphere-12bk3-2.webp",
-    "/images/products/fan-uphere-12bk3-3.webp",
-    "/images/products/fan-uphere-12bk3-4.webp",
-    "/images/products/fan-uphere-12bk3-5.webp"
-  ],
+  "Images": [],
   "Description": "",
   "Price": 7.00,
   "Features": [
@@ -15,5 +9,7 @@
   ],
   "Date": "2023-06-07T15:06:05.815869-04:00",
   "Update": "2023-06-07T15:55:09.4573643-04:00",
+  "Not1": "",
+  "Not2": "",
   "Label": "Fan Uphere 12BK3"
 }
