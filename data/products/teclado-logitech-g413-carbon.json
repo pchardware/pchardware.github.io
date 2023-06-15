@@ -1,15 +1,7 @@
 {
   "Category": "Periféricos",
   "SubCategory": "Teclado",
-  "Images": [
-    "/images/products/teclado-logitech-g413-carbon-1.webp",
-    "/images/products/teclado-logitech-g413-carbon-2.webp",
-    "/images/products/teclado-logitech-g413-carbon-3.webp",
-    "/images/products/teclado-logitech-g413-carbon-4.webp",
-    "/images/products/teclado-logitech-g413-carbon-5.webp",
-    "/images/products/teclado-logitech-g413-carbon-6.webp",
-    "/images/products/teclado-logitech-g413-carbon-7.webp"
-  ],
+  "Images": [],
   "Description": "",
   "Price": 145.00,
   "Features": [
@@ -21,5 +13,7 @@
   ],
   "Date": "2023-06-07T10:25:01.2008677-04:00",
   "Update": "2023-06-07T16:50:45.2749214-04:00",
+  "Not1": "",
+  "Not2": "",
   "Label": "Teclado Logitech G413 Carbon"
 }
