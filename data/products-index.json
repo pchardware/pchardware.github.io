@@ -182,6 +182,19 @@
         "Update": "2023-06-07T10:16:57.2586254-04:00",
         "Discount": 0.0,
         "Label": "Asus Dual RTX 4070"
+      },
+      {
+        "Price": 1060.00,
+        "Features": [
+          "3xFan",
+          "12GB",
+          "GeForce",
+          "NVIDIA"
+        ],
+        "Date": "2023-05-11T13:37:29.9088676-04:00",
+        "Update": "2023-06-17T22:28:26.9122222-04:00",
+        "Discount": 0.0,
+        "Label": "Asus TUF Gaming RTX 4070 Ti OC"
       }
     ],
     "Microprocesador": [
@@ -348,6 +361,21 @@
         "Update": "2023-06-09T16:50:29.0154478-04:00",
         "Discount": 0.0,
         "Label": "Intel Core i5-13500 +Disipador"
+      },
+      {
+        "Price": 190.00,
+        "Features": [
+          "11th Gen",
+          "12 Hilos",
+          "6 Cores",
+          "4.4GHz",
+          "12MB L3",
+          "LGA 1200"
+        ],
+        "Date": "2023-03-22T09:04:03.4468877-04:00",
+        "Update": "2023-06-17T22:28:26.905897-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i5-11400 +Disipador"
       }
     ],
     "Memoria RAM": [
@@ -1958,6 +1986,16 @@
         "Update": "2023-06-07T16:50:45.319181-04:00",
         "Discount": 0.0,
         "Label": "Audifonos Corsair VOID RGB Elite Wireless Carbon"
+      }
+    ],
+    "Periféricos": [
+      {
+        "Price": 70.00,
+        "Features": [],
+        "Date": "2023-05-07T13:32:55.1106707-04:00",
+        "Update": "2023-06-17T22:28:26.9166073-04:00",
+        "Discount": 0.0,
+        "Label": "Corsair M65 Pro RGB"
       }
     ]
   }
