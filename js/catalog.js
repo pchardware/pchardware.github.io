@@ -666,6 +666,8 @@ function addProductCard($container, product, categoryKey, subcategoryKey, filter
     if (filterPart.length > 0)
         filterClass += " label-" + filterPart;
 
+    product.Category = categoryKey;
+    product.SubCategory = subcategoryKey;
     addProductCardBase($container, product, filterClass);
 }
 
