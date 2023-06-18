@@ -132,19 +132,6 @@
         "Label": "MSI Ventus 3X RTX 4070 Ti OC"
       },
       {
-        "Price": 165.00,
-        "Features": [
-          "2GB",
-          "2xFan",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-04-09T07:40:17.4934102-04:00",
-        "Update": "2023-06-01T10:49:59.7038031-04:00",
-        "Discount": 0.0,
-        "Label": "Gigabyte GTX 1050 G1 Gaming"
-      },
-      {
         "Price": 275.00,
         "Features": [
           "8GB",
@@ -184,7 +171,7 @@
         "Label": "Asus Dual RTX 3060 OC"
       },
       {
-        "Price": 770.00,
+        "Price": 765.00,
         "Features": [
           "2xFan",
           "12GB",
@@ -312,22 +299,6 @@
         "Update": "2023-06-09T16:50:28.9485426-04:00",
         "Discount": 0.0,
         "Label": "Intel Core i5-12400 +Disipador"
-      },
-      {
-        "Price": 155.00,
-        "Features": [
-          "12va Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.3GHz",
-          "12MB L3",
-          "DDR4-DDR5",
-          "LGA 1700"
-        ],
-        "Date": "2023-05-11T07:28:15.7616729-04:00",
-        "Update": "2023-06-09T16:50:28.9547974-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i3-12100 +Disipador"
       },
       {
         "Price": 420.00,
