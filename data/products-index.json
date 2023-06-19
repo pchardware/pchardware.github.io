@@ -119,19 +119,6 @@
         "Label": "Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
       },
       {
-        "Price": 375.00,
-        "Features": [
-          "8GB",
-          "2xFan",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-04-09T07:40:21.1128823-04:00",
-        "Update": "2023-06-07T10:16:57.2524424-04:00",
-        "Discount": 0.0,
-        "Label": "MSI RTX 3060 Ventus 2x OC"
-      },
-      {
         "Price": 395.00,
         "Features": [
           "2xFan",
@@ -234,6 +221,19 @@
         "Update": "2023-06-19T10:48:18.7850541-04:00",
         "Discount": 0.0,
         "Label": "Asus Dual RTX 4070 OC"
+      },
+      {
+        "Price": 375.00,
+        "Features": [
+          "8GB",
+          "2xFan",
+          "GeForce",
+          "NVIDIA"
+        ],
+        "Date": "2023-04-09T07:40:21.1128823-04:00",
+        "Update": "2023-06-19T11:56:16.8463299-04:00",
+        "Discount": 0.0,
+        "Label": "MSI RTX 3060 Ventus 2x OC"
       }
     ],
     "Microprocesador": [
@@ -694,14 +694,6 @@
         "Label": "Cable HDMI"
       },
       {
-        "Price": 5.00,
-        "Features": [],
-        "Date": "2023-06-07T15:03:43.1820356-04:00",
-        "Update": "2023-06-07T15:55:09.4128053-04:00",
-        "Discount": 0.0,
-        "Label": "Pasta Termica"
-      },
-      {
         "Price": 13.00,
         "Features": [],
         "Date": "2023-06-07T15:05:05.0466396-04:00",
@@ -728,6 +720,14 @@
         "Update": "2023-06-07T15:55:09.4819085-04:00",
         "Discount": 0.0,
         "Label": "HUB Rosewill 4xUSB 3.0"
+      },
+      {
+        "Price": 5.00,
+        "Features": [],
+        "Date": "2023-06-07T15:03:43.1820356-04:00",
+        "Update": "2023-06-19T11:56:16.8512304-04:00",
+        "Discount": 0.0,
+        "Label": "Pasta Termica"
       }
     ],
     "Memoria RAM": [
@@ -1058,18 +1058,6 @@
         "Label": "SSD M.2 Crucial P5 500GB"
       },
       {
-        "Price": 65.00,
-        "Features": [
-          "3500mbs",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-05-11T14:06:12.1179887-04:00",
-        "Update": "2023-06-07T16:09:24.8654128-04:00",
-        "Discount": 0.0,
-        "Label": "SSD M.2 ADATA XPG SX8100 512GB"
-      },
-      {
         "Price": 115.00,
         "Features": [
           "7000mbs",
@@ -1159,6 +1147,18 @@
         "Update": "2023-06-19T11:25:50.441449-04:00",
         "Discount": 0.0,
         "Label": "SSD M.2 PNY CS1030 2TB"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "3500mbs",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-05-11T14:06:12.1179887-04:00",
+        "Update": "2023-06-19T11:56:16.862009-04:00",
+        "Discount": 0.0,
+        "Label": "SSD M.2 ADATA XPG SX8100 512GB"
       }
     ],
     "Disco Duro": [
@@ -1174,6 +1174,17 @@
         "Label": "HDD 3.5 Seagate EXOS 8TB"
       },
       {
+        "Price": 85.00,
+        "Features": [
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-05-11T14:17:30.8616693-04:00",
+        "Update": "2023-06-19T11:25:50.4303212-04:00",
+        "Discount": 0.0,
+        "Label": "HDD 3.5 Seagate Constellation 4TB"
+      },
+      {
         "Price": 195.00,
         "Features": [
           "Ultrastar DC",
@@ -1182,7 +1193,7 @@
           "6 Gbps"
         ],
         "Date": "2023-05-11T14:19:01.4001144-04:00",
-        "Update": "2023-06-07T16:09:24.8825976-04:00",
+        "Update": "2023-06-19T11:56:16.8701088-04:00",
         "Discount": 0.0,
         "Label": "HDD 3.5 WD 14TB HC530"
       },
@@ -1193,7 +1204,7 @@
           "6 Gbps"
         ],
         "Date": "2023-04-09T11:00:53.9233885-04:00",
-        "Update": "2023-06-07T16:09:24.8894849-04:00",
+        "Update": "2023-06-19T11:56:16.8770243-04:00",
         "Discount": 0.0,
         "Label": "HDD 2.5 Seagate BarraCuda 1TB"
       },
@@ -1204,20 +1215,9 @@
           "6 Gbps"
         ],
         "Date": "2023-05-12T07:53:01.7720075-04:00",
-        "Update": "2023-06-07T16:09:24.8971005-04:00",
+        "Update": "2023-06-19T11:56:16.8819024-04:00",
         "Discount": 0.0,
         "Label": "HDD 2.5 Seagate BarraCuda 2TB"
-      },
-      {
-        "Price": 85.00,
-        "Features": [
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-05-11T14:17:30.8616693-04:00",
-        "Update": "2023-06-19T11:25:50.4303212-04:00",
-        "Discount": 0.0,
-        "Label": "HDD 3.5 Seagate Constellation 4TB"
       }
     ],
     "Disipador Líquido": [
@@ -1855,27 +1855,6 @@
         "Label": "Teclado EVGA Z12 RGB"
       },
       {
-        "Price": 30.00,
-        "Features": [
-          "USB"
-        ],
-        "Date": "2023-05-11T20:29:33.0676825-04:00",
-        "Update": "2023-06-01T10:57:48.5593754-04:00",
-        "Discount": 0.0,
-        "Label": "COMBO Teclado + Mouse Asus"
-      },
-      {
-        "Price": 75.00,
-        "Features": [
-          "Inalámbrico",
-          "USB"
-        ],
-        "Date": "2023-05-11T20:29:43.7243784-04:00",
-        "Update": "2023-06-01T10:57:48.5621068-04:00",
-        "Discount": 0.0,
-        "Label": "COMBO Teclado + Mouse Logitech MK520"
-      },
-      {
         "Price": 85.00,
         "Features": [
           "Gaming",
@@ -1959,6 +1938,27 @@
         "Update": "2023-06-19T11:15:14.6918817-04:00",
         "Discount": 0.0,
         "Label": "Teclado Asus TUF Gaming K1"
+      },
+      {
+        "Price": 30.00,
+        "Features": [
+          "USB"
+        ],
+        "Date": "2023-05-11T20:29:33.0676825-04:00",
+        "Update": "2023-06-19T11:56:16.8360769-04:00",
+        "Discount": 0.0,
+        "Label": "COMBO Teclado + Mouse Asus"
+      },
+      {
+        "Price": 75.00,
+        "Features": [
+          "Inalámbrico",
+          "USB"
+        ],
+        "Date": "2023-05-11T20:29:43.7243784-04:00",
+        "Update": "2023-06-19T11:56:16.8409687-04:00",
+        "Discount": 0.0,
+        "Label": "COMBO Teclado + Mouse Logitech MK520"
       }
     ],
     "Backup": [
