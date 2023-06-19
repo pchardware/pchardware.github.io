@@ -184,19 +184,6 @@
         "Label": "MSI Ventus 3X RTX 4070Ti OC"
       },
       {
-        "Price": 1060.00,
-        "Features": [
-          "3xFan",
-          "12GB",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-05-11T13:37:29.9088676-04:00",
-        "Update": "2023-06-19T09:35:04.5870645-04:00",
-        "Discount": 0.0,
-        "Label": "Asus TUF Gaming RTX 4070Ti OC"
-      },
-      {
         "Price": 525.00,
         "Features": [
           "2xFan",
@@ -234,6 +221,19 @@
         "Update": "2023-06-19T09:35:04.7097736-04:00",
         "Discount": 0.0,
         "Label": "Asus Dual RTX 4070 OC"
+      },
+      {
+        "Price": 1060.00,
+        "Features": [
+          "3xFan",
+          "12GB",
+          "GeForce",
+          "NVIDIA"
+        ],
+        "Date": "2023-05-11T13:37:29.9088676-04:00",
+        "Update": "2023-06-19T09:39:54.5315772-04:00",
+        "Discount": 0.0,
+        "Label": "Asus TUF Gaming RTX 4070Ti OC"
       }
     ],
     "Microprocesador": [
