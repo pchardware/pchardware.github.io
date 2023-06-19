@@ -210,19 +210,6 @@
         "Label": "MSI Ventus 3X RTX 4070 OC"
       },
       {
-        "Price": 790.00,
-        "Features": [
-          "2xFan",
-          "12GB",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-06-19T07:49:38.2054403-04:00",
-        "Update": "2023-06-19T09:35:04.7097736-04:00",
-        "Discount": 0.0,
-        "Label": "Asus Dual RTX 4070 OC"
-      },
-      {
         "Price": 1060.00,
         "Features": [
           "3xFan",
@@ -231,9 +218,22 @@
           "NVIDIA"
         ],
         "Date": "2023-05-11T13:37:29.9088676-04:00",
-        "Update": "2023-06-19T09:39:54.5315772-04:00",
+        "Update": "2023-06-19T10:48:18.7805993-04:00",
         "Discount": 0.0,
         "Label": "Asus TUF Gaming RTX 4070Ti OC"
+      },
+      {
+        "Price": 790.00,
+        "Features": [
+          "2xFan",
+          "12GB",
+          "GeForce",
+          "NVIDIA"
+        ],
+        "Date": "2023-06-19T07:49:38.2054403-04:00",
+        "Update": "2023-06-19T10:48:18.7850541-04:00",
+        "Discount": 0.0,
+        "Label": "Asus Dual RTX 4070 OC"
       }
     ],
     "Microprocesador": [
@@ -337,22 +337,6 @@
         "Label": "Intel Core i9-13900K"
       },
       {
-        "Price": 215.00,
-        "Features": [
-          "12va Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "18MB L3",
-          "DDR4-DDR5",
-          "LGA 1700"
-        ],
-        "Date": "2023-02-17T09:45:29.425139-05:00",
-        "Update": "2023-06-09T16:50:28.9485426-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i5-12400 +Disipador"
-      },
-      {
         "Price": 420.00,
         "Features": [
           "12va Gen",
@@ -432,6 +416,22 @@
         "Update": "2023-06-19T09:35:04.6028742-04:00",
         "Discount": 0.0,
         "Label": "Intel Core i5-13600K"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "12va Gen",
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "18MB L3",
+          "DDR4-DDR5",
+          "LGA 1700"
+        ],
+        "Date": "2023-02-17T09:45:29.425139-05:00",
+        "Update": "2023-06-19T10:48:18.7758903-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i5-12400 +Disipador"
       }
     ],
     "Fuente": [
