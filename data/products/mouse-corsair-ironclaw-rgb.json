@@ -1,0 +1,30 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Mouse",
+  "Images": [
+    "/images/products/mouse-corsair-ironclaw-rgb-1.webp",
+    "/images/products/mouse-corsair-ironclaw-rgb-2.webp",
+    "/images/products/mouse-corsair-ironclaw-rgb-3.webp",
+    "/images/products/mouse-corsair-ironclaw-rgb-4.webp",
+    "/images/products/mouse-corsair-ironclaw-rgb-5.webp",
+    "/images/products/mouse-corsair-ironclaw-rgb-6.webp",
+    "/images/products/mouse-corsair-ironclaw-rgb-7.webp"
+  ],
+  "Description": "",
+  "Price": 95.00,
+  "Features": [
+    "FPS",
+    "MOBA",
+    "18000dpi",
+    "Optico",
+    "7 botones",
+    "105g",
+    "iCUE",
+    "Gaming",
+    "USB"
+  ],
+  "Date": "2023-06-19T07:49:07.3176421-04:00",
+  "Update": "2023-06-19T09:35:04.676426-04:00",
+  "Discount": 0.0,
+  "Label": "Mouse Corsair IRONCLAW RGB"
+}
