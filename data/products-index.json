@@ -1082,18 +1082,6 @@
         "Label": "SSD M.2 Corsair MP600 PRO NH 1TB"
       },
       {
-        "Price": 115.00,
-        "Features": [
-          "2100mbs",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-06-07T10:28:10.4293544-04:00",
-        "Update": "2023-06-07T16:09:24.9680549-04:00",
-        "Discount": 0.0,
-        "Label": "SSD M.2 PNY CS1030 2TB"
-      },
-      {
         "Price": 125.00,
         "Features": [
           "7100mbs",
@@ -1159,6 +1147,18 @@
         "Update": "2023-06-07T16:50:45.3847098-04:00",
         "Discount": 0.0,
         "Label": "SSD 2.5 Team Group T-FORCE VULCAN G 512GB"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "2100mbs",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-06-07T10:28:10.4293544-04:00",
+        "Update": "2023-06-19T11:25:50.441449-04:00",
+        "Discount": 0.0,
+        "Label": "SSD M.2 PNY CS1030 2TB"
       }
     ],
     "Disco Duro": [
@@ -1215,7 +1215,7 @@
           "6 Gbps"
         ],
         "Date": "2023-05-11T14:17:30.8616693-04:00",
-        "Update": "2023-06-07T16:09:24.9059895-04:00",
+        "Update": "2023-06-19T11:25:50.4303212-04:00",
         "Discount": 0.0,
         "Label": "HDD 3.5 Seagate Constellation 4TB"
       }
