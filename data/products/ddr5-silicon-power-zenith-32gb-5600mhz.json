@@ -1,0 +1,22 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Memoria RAM",
+  "Images": [
+    "/images/products/ddr5-silicon-power-zenith-32gb-5600mhz-1.webp",
+    "/images/products/ddr5-silicon-power-zenith-32gb-5600mhz-2.webp",
+    "/images/products/ddr5-silicon-power-zenith-32gb-5600mhz-3.webp",
+    "/images/products/ddr5-silicon-power-zenith-32gb-5600mhz-4.webp",
+    "/images/products/ddr5-silicon-power-zenith-32gb-5600mhz-5.webp",
+    "/images/products/ddr5-silicon-power-zenith-32gb-5600mhz-6.webp"
+  ],
+  "Description": "Model\nBrand: Silicon Power\nSeries: XPOWER Zenith\nModel: SP032GXLWU560FDE\n\n\nDetails\nCapacity: 32GB (2 x 16GB)\nType: 288-Pin PC RAM\nSpeed: DDR5 5600 (PC5 44800)\nCAS Latency: 40\nTiming: 40-40-40-76\nVoltage: 1.25V\nBuffered/Registered: Unbuffered\nColor: Metallic Black\nFeatures: Experience even faster frequencies, greater capacities, and lower voltages with the latest release in our Zenith Series, the XPOWER Zenith DDR5 UDIMM module. Take your gaming abilities to new high scores with turbo speeds of 5600MHz. \n\nThe aluminum heatsink, available in black or white and finished with a hairline texture, promotes maximum heat dissipation and thermal management. This effect is boosted even further by a low 1.25Vpower consumption, an On-Die Error Correction Code (ECC), and a power management integrated circuit (PMIC) to provide reliably stable and uninterrupted gameplay at the highest resolutions while keeping its cool no matter how heated the competition gets. \n\nThe XPOWER Zenith DDR5 UDIMM module is ready and certified to support Intel XMP 3.0 and one-click overclocking technology. Experience ultra-fast overclocking at the ease of a single click with fully customized, saved profiles. Spare the hassle of making manual adjustments to BIOS settings every time and get to overclocking faster than ever before. \n\nThe XPOWER Zenith DDR5 UDIMM module is compatible with 12th Gen Intel Core processors that support DDR5 and DDR5 compatible motherboards. And, it is 100% factory-tested to guarantee superior quality.\nLED Color: None",
+  "Price": 125.00,
+  "Features": [
+    "2x16GB",
+    "Disipadas"
+  ],
+  "Date": "2023-06-19T07:47:34.8001151-04:00",
+  "Update": "2023-06-19T09:35:04.6184657-04:00",
+  "Discount": 0.0,
+  "Label": "DDR5 Silicon Power Zenith 32GB 5600mhz"
+}
