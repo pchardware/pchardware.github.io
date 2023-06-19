@@ -1899,20 +1899,6 @@
         "Label": "COMBO Teclado Corsair K55 + Mouse Harpoon RGB"
       },
       {
-        "Price": 110.00,
-        "Features": [
-          "USB",
-          "Gaming",
-          "Membrane",
-          "Black",
-          "RGB"
-        ],
-        "Date": "2023-06-07T10:25:59.490678-04:00",
-        "Update": "2023-06-07T16:50:45.278579-04:00",
-        "Discount": 0.0,
-        "Label": "Teclado Asus TUF Gaming K1"
-      },
-      {
         "Price": 130.00,
         "Features": [
           "Mecanico",
@@ -1959,6 +1945,20 @@
         "Update": "2023-06-19T09:35:04.641047-04:00",
         "Discount": 0.0,
         "Label": "Teclado Asus TUF Gaming K3"
+      },
+      {
+        "Price": 110.00,
+        "Features": [
+          "USB",
+          "Gaming",
+          "Membrane",
+          "Black",
+          "RGB"
+        ],
+        "Date": "2023-06-07T10:25:59.490678-04:00",
+        "Update": "2023-06-19T11:04:21.5117596-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado Asus TUF Gaming K1"
       }
     ],
     "Backup": [
