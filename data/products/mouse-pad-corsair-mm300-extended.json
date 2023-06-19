@@ -1,0 +1,26 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Mouse",
+  "Images": [
+    "/images/products/mouse-pad-corsair-mm300-extended-1.webp",
+    "/images/products/mouse-pad-corsair-mm300-extended-2.webp",
+    "/images/products/mouse-pad-corsair-mm300-extended-3.webp",
+    "/images/products/mouse-pad-corsair-mm300-extended-4.webp",
+    "/images/products/mouse-pad-corsair-mm300-extended-5.webp",
+    "/images/products/mouse-pad-corsair-mm300-extended-6.webp",
+    "/images/products/mouse-pad-corsair-mm300-extended-7.webp",
+    "/images/products/mouse-pad-corsair-mm300-extended-8.webp",
+    "/images/products/mouse-pad-corsair-mm300-extended-9.webp"
+  ],
+  "Description": "",
+  "Price": 55.00,
+  "Features": [
+    "Reforzado",
+    "Tela",
+    "Anti-Fray"
+  ],
+  "Date": "2023-06-19T07:49:14.3324582-04:00",
+  "Update": "2023-06-19T09:35:04.6937868-04:00",
+  "Discount": 0.0,
+  "Label": "Mouse Pad Corsair MM300 Extended"
+}
