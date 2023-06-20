@@ -2091,20 +2091,6 @@
         "Label": "Mouse EVGA X17"
       },
       {
-        "Price": 70.00,
-        "Features": [
-          "12000dpi",
-          "Optico",
-          "8 botones",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-05-07T13:32:55.1106707-04:00",
-        "Update": "2023-06-19T09:35:04.5951537-04:00",
-        "Discount": 0.0,
-        "Label": "Corsair M65 Pro RGB"
-      },
-      {
         "Price": 95.00,
         "Features": [
           "FPS",
@@ -2147,6 +2133,20 @@
         "Update": "2023-06-19T09:35:04.6937868-04:00",
         "Discount": 0.0,
         "Label": "Mouse Pad Corsair MM300 Extended"
+      },
+      {
+        "Price": 70.00,
+        "Features": [
+          "12000dpi",
+          "Optico",
+          "8 botones",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-05-07T13:32:55.1106707-04:00",
+        "Update": "2023-06-19T20:54:31.3583619-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse Corsair M65 Pro RGB"
       }
     ],
     "Silla": [
