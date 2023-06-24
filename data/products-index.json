@@ -1,52 +1,6 @@
 {
   "Kits": {
-    "Moderado": [
-      {
-        "Price": 580.00,
-        "Features": [],
-        "Date": "2023-04-11T20:47:22.96229-04:00",
-        "Update": "2023-06-15T09:05:32.2823585-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-12600K + Gigabyte Z690 UD AX + 16GB RAM"
-      }
-    ],
-    "Esencial": [
-      {
-        "Price": 425.00,
-        "Features": [],
-        "Date": "2023-06-12T13:20:21.3256765-04:00",
-        "Update": "2023-06-15T09:05:32.2993097-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-12400 +Disipador + ASRock B660M PRO RS + 16GB RAM"
-      }
-    ],
-    "Rendimiento": [
-      {
-        "Price": 695.00,
-        "Features": [],
-        "Date": "2023-06-15T08:53:40.041805-04:00",
-        "Update": "2023-06-15T09:05:32.3074311-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i7-12700K + Asus Prime Z690-A + 32GB DDR5"
-      },
-      {
-        "Price": 905.00,
-        "Features": [],
-        "Date": "2023-06-15T09:00:56.7823874-04:00",
-        "Update": "2023-06-15T09:05:32.3156259-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i9-12900K + Gigabyte Z790 UD AC + 64GB DDR5"
-      }
-    ],
     "Entusiasta": [
-      {
-        "Price": 1200.00,
-        "Features": [],
-        "Date": "2023-06-15T09:02:58.8515588-04:00",
-        "Update": "2023-06-15T09:05:32.3320609-04:00",
-        "Discount": 15.0,
-        "Label": "Kit i9-13900K + Asus ROG Strix Z690-E Gaming Wifi + 32GB DDR5"
-      },
       {
         "Price": 970.00,
         "Features": [],
@@ -54,6 +8,98 @@
         "Update": "2023-06-15T09:06:52.1076839-04:00",
         "Discount": 10.0,
         "Label": "Kit i7-13700K + Asus ROG Strix Z690-F Gaming Wifi + 32GB DDR5"
+      },
+      {
+        "Price": 1199.00,
+        "Features": [],
+        "Date": "2023-06-15T09:02:58.8515588-04:00",
+        "Update": "2023-06-24T13:44:18.1007405-04:00",
+        "Discount": 16.0,
+        "Label": "Kit i9-13900K + Asus ROG Strix Z690-E Gaming Wifi + 32GB DDR5"
+      },
+      {
+        "Price": 1299.00,
+        "Features": [],
+        "Date": "2023-06-24T13:41:22.3656225-04:00",
+        "Update": "2023-06-24T13:44:18.1119769-04:00",
+        "Discount": 16.0,
+        "Label": "Kit i9-13900K + Asus ROG Maximus Z690 Hero + G.Skill Trident Z5 RGB 32GB 6400mhz"
+      }
+    ],
+    "Moderado": [
+      {
+        "Price": 580.00,
+        "Features": [
+          "12va Gen",
+          "3600mhz",
+          "Disipadas",
+          "Dual channel",
+          "Overclock"
+        ],
+        "Date": "2023-04-11T20:47:22.96229-04:00",
+        "Update": "2023-06-24T13:44:18.0762814-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i5-12600K + Gigabyte Z690 UD AX + 16GB RAM RGB"
+      },
+      {
+        "Price": 425.00,
+        "Features": [
+          "12va Gen",
+          "3200mhz",
+          "Disipadas",
+          "Micro ATX",
+          "Dual channel"
+        ],
+        "Date": "2023-06-12T13:20:21.3256765-04:00",
+        "Update": "2023-06-24T13:44:18.0858478-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i5-12400 +Disipador + ASRock B660M PRO RS + 16GB RAM"
+      }
+    ],
+    "Rendimiento": [
+      {
+        "Price": 695.00,
+        "Features": [
+          "12va Gen",
+          "Overclock",
+          "5200mhz",
+          "Disipadas",
+          "Dual channel"
+        ],
+        "Date": "2023-06-15T08:53:40.041805-04:00",
+        "Update": "2023-06-24T13:44:18.0920371-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i7-12700K + Asus Prime Z690-A + 32GB DDR5"
+      },
+      {
+        "Price": 905.00,
+        "Features": [
+          "12va Gen",
+          "Overclock",
+          "5200mhz",
+          "Disipadas",
+          "Dual channel"
+        ],
+        "Date": "2023-06-15T09:00:56.7823874-04:00",
+        "Update": "2023-06-24T13:44:18.0961507-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i9-12900K + Gigabyte Z790 UD AC + 64GB DDR5"
+      }
+    ],
+    "Esencial": [
+      {
+        "Price": 375.00,
+        "Features": [
+          "13ra Gen",
+          "3200mhz",
+          "Disipadas",
+          "Dual channel",
+          "Micro ATX"
+        ],
+        "Date": "2023-06-24T13:25:39.3935036-04:00",
+        "Update": "2023-06-24T13:44:18.1058644-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i3-13100 +Disipador + B660M + 16GB"
       }
     ]
   },
