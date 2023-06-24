@@ -1,0 +1,29 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Mouse",
+  "Images": [
+    "/images/products/mouse-evga-x20-1.webp",
+    "/images/products/mouse-evga-x20-2.webp",
+    "/images/products/mouse-evga-x20-3.webp",
+    "/images/products/mouse-evga-x20-4.webp",
+    "/images/products/mouse-evga-x20-5.webp",
+    "/images/products/mouse-evga-x20-6.webp",
+    "/images/products/mouse-evga-x20-7.webp",
+    "/images/products/mouse-evga-x20-8.webp"
+  ],
+  "Description": "Model\nBrand: EVGA\nName: X20\nModel: 903-T1-20BK-KR\n\n\nDetails\nType: 2.4Ghz / Bluetooth / USB wired\nInterface: USB\nTracking Method: Optical\nMaximum dpi: 16000 dpi\nButtons: 10\nColor: Black\n\n\nFeatures\nFeatures: Tripple Sensor 3-Dimension Array Tech\n\nQuick Responding Mechanism\n\nOn the fly DPI Settings + 5 Onboard Profiles\n\nErgomic Design with Sniper Button\n\n3 Modes of connection 2.4Ghz / Bluetooth / USB wired\n\n\nPackage Contents\nPackage Contents: Accessories:\nQuick Guide\nUSB Receiver\nUSB Charging/Data Cable\nExtension Adapter",
+  "Price": 85.00,
+  "Features": [
+    "Inalámbrico",
+    "16000dpi",
+    "Sniper Button",
+    "Optico",
+    "Ergonómico",
+    "10 botónes",
+    "USB"
+  ],
+  "Date": "2023-06-24T08:20:07.0510814-04:00",
+  "Update": "2023-06-24T10:51:11.4679659-04:00",
+  "Discount": 0.0,
+  "Label": "Mouse EVGA X20"
+}
