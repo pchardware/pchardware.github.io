@@ -13,16 +13,17 @@
   "Description": "",
   "Price": 145.00,
   "Features": [
-    "Mecanico",
+    "Mecánico",
     "Backlit",
     "Aluminio",
-    "USB Passthrough",
+    "USB passthrough",
     "Macros",
+    "Multimedia",
     "Gaming",
-    "USB"
+    "Full"
   ],
   "Date": "2023-06-07T10:25:01.2008677-04:00",
-  "Update": "2023-06-19T09:35:04.5794968-04:00",
+  "Update": "2023-06-24T10:51:11.3866713-04:00",
   "Discount": 0.0,
   "Label": "Teclado Logitech G413 Carbon"
 }
