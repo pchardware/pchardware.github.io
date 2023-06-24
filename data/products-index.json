@@ -1368,6 +1368,21 @@
         "Update": "2023-06-19T09:35:04.6658666-04:00",
         "Discount": 0.0,
         "Label": "D.Líquida ASUS ROG Strix LC II 360 ARGB"
+      },
+      {
+        "Price": 205.00,
+        "Features": [
+          "3xFan",
+          "360mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-06-24T08:20:11.3145153-04:00",
+        "Update": "2023-06-24T10:51:11.4753292-04:00",
+        "Discount": 0.0,
+        "Label": "D.Líquida MSI MAG Core Liquid 360R V2"
       }
     ],
     "Disipador por Aire": [
@@ -1704,139 +1719,39 @@
           "FreeSync"
         ],
         "Date": "2023-05-11T19:57:59.0739432-04:00",
-        "Update": "2023-06-07T16:28:39.1577623-04:00",
+        "Update": "2023-06-24T10:51:11.2006594-04:00",
         "Discount": 0.0,
-        "Label": "Gigabyte 32FHD G32QC"
-      }
-    ],
-    "Teclado": [
-      {
-        "Price": 105.00,
-        "Features": [
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-05-11T20:29:35.2925957-04:00",
-        "Update": "2023-06-01T10:49:59.7455388-04:00",
-        "Discount": 0.0,
-        "Label": "Teclado Corsair Gaming K55 RGB Pro"
+        "Label": "Gigabyte 32QHD G32QC-A"
       },
       {
-        "Price": 65.00,
+        "Price": 515.00,
         "Features": [
-          "Gaming",
-          "USB"
+          "144Hz",
+          "2K",
+          "Curvo",
+          "1440p",
+          "1ms",
+          "350cd",
+          "VA",
+          "FreeSync"
         ],
-        "Date": "2023-05-11T20:29:42.0758463-04:00",
-        "Update": "2023-06-01T10:49:59.7489732-04:00",
+        "Date": "2023-06-24T08:19:29.7799115-04:00",
+        "Update": "2023-06-24T10:51:11.4456842-04:00",
         "Discount": 0.0,
-        "Label": "Teclado EVGA Z12 RGB"
+        "Label": "Lenovo 32QHD G32QC-10"
       },
       {
-        "Price": 85.00,
+        "Price": 310.00,
         "Features": [
-          "Gaming",
-          "USB"
+          "165Hz",
+          "350cd",
+          "0.5ms",
+          "FreeSync"
         ],
-        "Date": "2023-05-11T20:29:45.5785203-04:00",
-        "Update": "2023-06-01T10:57:48.5668167-04:00",
+        "Date": "2023-06-24T08:20:03.8135275-04:00",
+        "Update": "2023-06-24T10:51:11.4605021-04:00",
         "Discount": 0.0,
-        "Label": "COMBO Teclado + Mouse Rosewill Fusion C40"
-      },
-      {
-        "Price": 150.00,
-        "Features": [
-          "6000dpi",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-05-11T20:29:37.4399996-04:00",
-        "Update": "2023-06-01T10:57:48.5700376-04:00",
-        "Discount": 0.0,
-        "Label": "COMBO Teclado Corsair K55 + Mouse Harpoon RGB"
-      },
-      {
-        "Price": 130.00,
-        "Features": [
-          "Mecanico",
-          "Cherry MX",
-          "Slim",
-          "Aluminio",
-          "iCUE",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-05-11T20:29:40.4508027-04:00",
-        "Update": "2023-06-19T09:35:04.4206471-04:00",
-        "Discount": 0.0,
-        "Label": "Teclado Corsair K60 RGB Pro"
-      },
-      {
-        "Price": 145.00,
-        "Features": [
-          "Mecanico",
-          "Backlit",
-          "Aluminio",
-          "USB Passthrough",
-          "Macros",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-06-07T10:25:01.2008677-04:00",
-        "Update": "2023-06-19T09:35:04.5794968-04:00",
-        "Discount": 0.0,
-        "Label": "Teclado Logitech G413 Carbon"
-      },
-      {
-        "Price": 155.00,
-        "Features": [
-          "Mecanico",
-          "RGB",
-          "Anti-ghosting",
-          "Aluminio",
-          "USB Passthrough",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-06-19T07:48:47.3789137-04:00",
-        "Update": "2023-06-19T09:35:04.641047-04:00",
-        "Discount": 0.0,
-        "Label": "Teclado Asus TUF Gaming K3"
-      },
-      {
-        "Price": 110.00,
-        "Features": [
-          "USB",
-          "Gaming",
-          "Membrane",
-          "Black",
-          "RGB"
-        ],
-        "Date": "2023-06-07T10:25:59.490678-04:00",
-        "Update": "2023-06-19T11:15:14.6918817-04:00",
-        "Discount": 0.0,
-        "Label": "Teclado Asus TUF Gaming K1"
-      },
-      {
-        "Price": 35.00,
-        "Features": [
-          "USB"
-        ],
-        "Date": "2023-05-11T20:29:33.0676825-04:00",
-        "Update": "2023-06-19T11:56:16.8360769-04:00",
-        "Discount": 0.0,
-        "Label": "COMBO Teclado + Mouse Asus"
-      },
-      {
-        "Price": 70.00,
-        "Features": [
-          "Inalámbrico",
-          "USB"
-        ],
-        "Date": "2023-05-11T20:29:43.7243784-04:00",
-        "Update": "2023-06-19T11:56:16.8409687-04:00",
-        "Discount": 0.0,
-        "Label": "COMBO Teclado + Mouse Logitech MK520"
+        "Label": "Asus TUF 24FHD VG24Q1B"
       }
     ],
     "Adaptadores": [
@@ -1925,68 +1840,6 @@
         "Label": "Mouse Pad Asus ROG Sheath Pink LTD"
       },
       {
-        "Price": 65.00,
-        "Features": [
-          "16000dpi",
-          "Optico",
-          "20 botones",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-05-12T07:07:58.0685539-04:00",
-        "Update": "2023-06-19T09:35:04.4301816-04:00",
-        "Discount": 0.0,
-        "Label": "Mouse EVGA X15 MMO"
-      },
-      {
-        "Price": 70.00,
-        "Features": [
-          "Sniper",
-          "16000dpi",
-          "Optico",
-          "10 botones",
-          "Peso ajustable",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-05-12T07:08:00.3280778-04:00",
-        "Update": "2023-06-19T09:35:04.4373331-04:00",
-        "Discount": 0.0,
-        "Label": "Mouse EVGA X17"
-      },
-      {
-        "Price": 95.00,
-        "Features": [
-          "FPS",
-          "MOBA",
-          "18000dpi",
-          "Optico",
-          "7 botones",
-          "105g",
-          "iCUE",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-06-19T07:49:07.3176421-04:00",
-        "Update": "2023-06-19T09:35:04.676426-04:00",
-        "Discount": 0.0,
-        "Label": "Mouse Corsair IRONCLAW RGB"
-      },
-      {
-        "Price": 65.00,
-        "Features": [
-          "16000dpi",
-          "Optico",
-          "11 botones",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-06-19T07:49:10.8952301-04:00",
-        "Update": "2023-06-19T09:35:04.6850694-04:00",
-        "Discount": 0.0,
-        "Label": "Mause Logitech G502 Hero"
-      },
-      {
         "Price": 55.00,
         "Features": [
           "Reforzado",
@@ -1999,18 +1852,121 @@
         "Label": "Mouse Pad Corsair MM300 Extended"
       },
       {
+        "Price": 65.00,
+        "Features": [
+          "16000dpi",
+          "Optico",
+          "20 botónes",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-05-12T07:07:58.0685539-04:00",
+        "Update": "2023-06-24T10:51:11.3718503-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse EVGA X15 MMO"
+      },
+      {
+        "Price": 70.00,
+        "Features": [
+          "Sniper",
+          "16000dpi",
+          "Optico",
+          "10 botónes",
+          "Peso ajustable",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-05-12T07:08:00.3280778-04:00",
+        "Update": "2023-06-24T10:51:11.3792408-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse EVGA X17"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "FPS",
+          "MOBA",
+          "18000dpi",
+          "Optico",
+          "7 botónes",
+          "105g",
+          "iCUE",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-06-19T07:49:07.3176421-04:00",
+        "Update": "2023-06-24T10:51:11.4014515-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse Corsair IRONCLAW RGB"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "16000dpi",
+          "Optico",
+          "11 botónes",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-06-19T07:49:10.8952301-04:00",
+        "Update": "2023-06-24T10:51:11.4088587-04:00",
+        "Discount": 0.0,
+        "Label": "Mause Logitech G502 Hero"
+      },
+      {
         "Price": 70.00,
         "Features": [
           "12000dpi",
           "Optico",
-          "8 botones",
+          "8 botónes",
           "Gaming",
           "USB"
         ],
         "Date": "2023-05-07T13:32:55.1106707-04:00",
-        "Update": "2023-06-19T20:54:31.3583619-04:00",
+        "Update": "2023-06-24T10:51:11.4383679-04:00",
         "Discount": 0.0,
         "Label": "Mouse Corsair M65 Pro RGB"
+      },
+      {
+        "Price": 25.00,
+        "Features": [
+          "Extended",
+          "Negro"
+        ],
+        "Date": "2023-06-24T08:19:53.1308907-04:00",
+        "Update": "2023-06-24T10:51:11.4531016-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse Pad Aukey Gaming XXL"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "Inalámbrico",
+          "16000dpi",
+          "Sniper Button",
+          "Optico",
+          "Ergonómico",
+          "10 botónes",
+          "USB"
+        ],
+        "Date": "2023-06-24T08:20:07.0510814-04:00",
+        "Update": "2023-06-24T10:51:11.4679659-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse EVGA X20"
+      },
+      {
+        "Price": 45.00,
+        "Features": [
+          "7000dpi",
+          "Optico",
+          "7 botónes",
+          "Palm-Claw",
+          "USB"
+        ],
+        "Date": "2023-06-24T08:20:19.9313716-04:00",
+        "Update": "2023-06-24T10:51:11.4827164-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse Asus TUF M3"
       }
     ],
     "Silla": [
@@ -2044,14 +2000,253 @@
         "Label": "Silla Gamer Ergoseat"
       }
     ],
+    "Teclado": [
+      {
+        "Price": 105.00,
+        "Features": [
+          "RGB",
+          "Macros",
+          "Palm rest",
+          "ICUE",
+          "Multimedia",
+          "Membrana",
+          "Gaming",
+          "Full"
+        ],
+        "Date": "2023-05-11T20:29:35.2925957-04:00",
+        "Update": "2023-06-24T10:51:11.170987-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado Corsair Gaming K55 RGB Pro"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "Gaming",
+          "Macros",
+          "Membrana",
+          "Full"
+        ],
+        "Date": "2023-05-11T20:29:42.0758463-04:00",
+        "Update": "2023-06-24T10:51:11.1783245-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado EVGA Z12 RGB"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "RGB",
+          "Gaming",
+          "Semi mecánico",
+          "Palm rest",
+          "Full",
+          "4000dpi",
+          "Optico"
+        ],
+        "Date": "2023-05-11T20:29:45.5785203-04:00",
+        "Update": "2023-06-24T10:51:11.185828-04:00",
+        "Discount": 0.0,
+        "Label": "COMBO Teclado + Mouse Rosewill Fusion C40"
+      },
+      {
+        "Price": 150.00,
+        "Features": [
+          "RGB",
+          "Macros",
+          "6000dpi",
+          "Palm rest",
+          "iCUE",
+          "Multimedia",
+          "Membrana",
+          "Gaming",
+          "Full",
+          "Optico"
+        ],
+        "Date": "2023-05-11T20:29:37.4399996-04:00",
+        "Update": "2023-06-24T10:51:11.1932112-04:00",
+        "Discount": 0.0,
+        "Label": "COMBO Teclado Corsair K55 + Mouse Harpoon RGB"
+      },
+      {
+        "Price": 130.00,
+        "Features": [
+          "Mecánico",
+          "Aluminio",
+          "RGB",
+          "Macros",
+          "iCUE",
+          "Gaming",
+          "Slim",
+          "Full"
+        ],
+        "Date": "2023-05-11T20:29:40.4508027-04:00",
+        "Update": "2023-06-24T10:51:11.3644903-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado Corsair K60 RGB Pro"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "Mecánico",
+          "Backlit",
+          "Aluminio",
+          "USB passthrough",
+          "Macros",
+          "Multimedia",
+          "Gaming",
+          "Full"
+        ],
+        "Date": "2023-06-07T10:25:01.2008677-04:00",
+        "Update": "2023-06-24T10:51:11.3866713-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado Logitech G413 Carbon"
+      },
+      {
+        "Price": 155.00,
+        "Features": [
+          "Mecánico",
+          "RGB",
+          "Anti ghosting",
+          "Aluminio",
+          "Macros",
+          "USB passthrough",
+          "Aura Sync",
+          "Palm rest",
+          "Multimedia",
+          "Full",
+          "Gaming"
+        ],
+        "Date": "2023-06-19T07:48:47.3789137-04:00",
+        "Update": "2023-06-24T10:51:11.3940285-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado Asus TUF Gaming K3"
+      },
+      {
+        "Price": 110.00,
+        "Features": [
+          "Membrana",
+          "RGB",
+          "Palm rest",
+          "Macros",
+          "Aura Sync",
+          "Gaming",
+          "Multimedia",
+          "Full"
+        ],
+        "Date": "2023-06-07T10:25:59.490678-04:00",
+        "Update": "2023-06-24T10:51:11.4163082-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado Asus TUF Gaming K1"
+      },
+      {
+        "Price": 35.00,
+        "Features": [
+          "Membrana",
+          "Optico",
+          "3 botónes",
+          "Full",
+          "USB"
+        ],
+        "Date": "2023-05-11T20:29:33.0676825-04:00",
+        "Update": "2023-06-24T10:51:11.4236226-04:00",
+        "Discount": 0.0,
+        "Label": "COMBO Teclado + Mouse Asus"
+      },
+      {
+        "Price": 70.00,
+        "Features": [
+          "Inalámbrico",
+          "Ergonómico",
+          "Palm rest",
+          "Membrana",
+          "Full",
+          "1000dpi",
+          "Laser"
+        ],
+        "Date": "2023-05-11T20:29:43.7243784-04:00",
+        "Update": "2023-06-24T10:51:11.4310383-04:00",
+        "Discount": 0.0,
+        "Label": "COMBO Teclado + Mouse Logitech MK520"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "Gaming",
+          "RGB",
+          "Aluminum",
+          "Anti ghosting",
+          "Multimedia",
+          "Macros",
+          "Membrana",
+          "Full"
+        ],
+        "Date": "2023-06-24T08:20:23.0275936-04:00",
+        "Update": "2023-06-24T10:51:11.4902179-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado Rosewill NEON K54"
+      },
+      {
+        "Price": 90.00,
+        "Features": [
+          "Gaming",
+          "RGB",
+          "Palm rest",
+          "Multimedia",
+          "Agua",
+          "Membrana",
+          "Full"
+        ],
+        "Date": "2023-06-24T08:20:25.9999089-04:00",
+        "Update": "2023-06-24T10:51:11.4976433-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado Logitech Prodigy G213"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "Mecánico",
+          "RGB",
+          "Macros",
+          "Palm rest",
+          "USB passthrough",
+          "Anti ghosting",
+          "Gaming",
+          "Multimedia",
+          "Full"
+        ],
+        "Date": "2023-06-24T08:20:47.5951092-04:00",
+        "Update": "2023-06-24T10:51:11.5125575-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado Rosewill NEON K90 RGB BR"
+      }
+    ],
     "Sonido": [
       {
         "Price": 125.00,
-        "Features": [],
+        "Features": [
+          "Noise Control",
+          "20Hz-30KHz",
+          "50mm",
+          "7.1",
+          "16H",
+          "iCUE"
+        ],
         "Date": "2023-05-12T07:52:40.6205045-04:00",
-        "Update": "2023-06-07T16:50:45.319181-04:00",
+        "Update": "2023-06-24T10:51:11.3567741-04:00",
         "Discount": 0.0,
-        "Label": "Audifonos Corsair VOID RGB Elite Wireless Carbon"
+        "Label": "Audífonos Corsair VOID RGB Elite Wireless Carbon"
+      },
+      {
+        "Price": 110.00,
+        "Features": [
+          "AI Noise Cancelling",
+          "20Hz-20KHz",
+          "40mm",
+          "15H"
+        ],
+        "Date": "2023-06-24T08:20:31.4230275-04:00",
+        "Update": "2023-06-24T10:51:11.5050638-04:00",
+        "Discount": 0.0,
+        "Label": "Audífonos Asus TUF H1 Wireless"
       }
     ]
   }
