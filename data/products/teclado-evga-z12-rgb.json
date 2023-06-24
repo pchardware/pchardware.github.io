@@ -10,10 +10,12 @@
   "Price": 65.00,
   "Features": [
     "Gaming",
-    "USB"
+    "Macros",
+    "Membrana",
+    "Full"
   ],
   "Date": "2023-05-11T20:29:42.0758463-04:00",
-  "Update": "2023-06-01T10:49:59.7489732-04:00",
+  "Update": "2023-06-24T10:51:11.1783245-04:00",
   "Discount": 0.0,
   "Label": "Teclado EVGA Z12 RGB"
 }
