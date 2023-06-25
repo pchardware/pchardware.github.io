@@ -1,4 +1,32 @@
 {
+  "Computadoras": {
+    "Entusiasta": [
+      {
+        "Price": 3799.00,
+        "Features": [],
+        "Date": "2023-06-25T15:29:47.8868431-04:00",
+        "Update": "2023-06-25T15:43:14.1358869-04:00",
+        "Discount": 86.0,
+        "Label": "Computadora i7-13700K, 4070Ti, 32QHD 165Hz, 32GB RAM, 1TB SSD, 14TB, 850W y más"
+      },
+      {
+        "Price": 4099.00,
+        "Features": [],
+        "Date": "2023-06-25T15:54:23.070873-04:00",
+        "Update": "2023-06-25T16:10:10.7698131-04:00",
+        "Discount": 75.0,
+        "Label": "Computadora i9-13900K, ROG Hero, 32GB DDR5, 1TB SSD, 4070Ti, 32QHD 144Hz, y mas"
+      },
+      {
+        "Price": 2699.00,
+        "Features": [],
+        "Date": "2023-06-25T16:04:36.2552607-04:00",
+        "Update": "2023-06-25T16:10:10.7773219-04:00",
+        "Discount": 56.0,
+        "Label": "Computadora i5-13600K, 32GB DDR5, 1TB SSD, 3080Ti, 24FHD 144Hz y más"
+      }
+    ]
+  },
   "Kits": {
     "Entusiasta": [
       {
