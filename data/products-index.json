@@ -5,25 +5,77 @@
         "Price": 3799.00,
         "Features": [],
         "Date": "2023-06-25T15:29:47.8868431-04:00",
-        "Update": "2023-06-25T15:43:14.1358869-04:00",
+        "Update": "2023-06-26T07:20:34.8169536-04:00",
         "Discount": 86.0,
-        "Label": "Computadora i7-13700K, 4070Ti, 32QHD 165Hz, 32GB RAM, 1TB SSD, 14TB, 850W y más"
+        "Label": "PC i7-13700K, 4070Ti, 32QHD 165Hz, 32GB RAM, 1TB SSD, 14TB, 850W y más"
       },
       {
         "Price": 4099.00,
         "Features": [],
         "Date": "2023-06-25T15:54:23.070873-04:00",
-        "Update": "2023-06-25T16:10:10.7698131-04:00",
+        "Update": "2023-06-26T07:20:34.8268258-04:00",
         "Discount": 75.0,
-        "Label": "Computadora i9-13900K, ROG Hero, 32GB DDR5, 1TB SSD, 4070Ti, 32QHD 144Hz, y mas"
+        "Label": "PC i9-13900K, ROG Hero, 32GB DDR5, 1TB SSD, 4070Ti, 32QHD 144Hz, y mas"
       },
       {
         "Price": 2699.00,
         "Features": [],
         "Date": "2023-06-25T16:04:36.2552607-04:00",
-        "Update": "2023-06-25T16:10:10.7773219-04:00",
+        "Update": "2023-06-26T07:20:34.8340319-04:00",
         "Discount": 56.0,
-        "Label": "Computadora i5-13600K, 32GB DDR5, 1TB SSD, 3080Ti, 24FHD 144Hz y más"
+        "Label": "PC i5-13600K, 32GB DDR5, 1TB SSD, 3080Ti, 24FHD 144Hz y más"
+      }
+    ],
+    "Rendimiento": [
+      {
+        "Price": 1759.00,
+        "Features": [],
+        "Date": "2023-06-26T07:24:43.5837441-04:00",
+        "Update": "2023-06-26T08:36:12.3855476-04:00",
+        "Discount": 41.0,
+        "Label": "PC 27FHD, i9-12900K, Asus Prime Z690-A, Líquida 360, 64GB DDR5, 1TB M.2 7000mbs"
+      },
+      {
+        "Price": 1499.00,
+        "Features": [],
+        "Date": "2023-06-26T07:32:41.1864671-04:00",
+        "Update": "2023-06-26T08:36:12.3912207-04:00",
+        "Discount": 45.0,
+        "Label": "PC 27FHD, i7-12700K, Líquida, ASRock Z690 Legend, 32GB DDR5, 1TB M.2 7000mbs"
+      },
+      {
+        "Price": 1095.00,
+        "Features": [],
+        "Date": "2023-06-26T07:59:38.678571-04:00",
+        "Update": "2023-06-26T08:36:12.4046072-04:00",
+        "Discount": 30.0,
+        "Label": "Intel Core i5-13500 +Disipador + Gigabyte Z690 UD AX DDR4 + DDR4 Patriot Viper Elite II 16GB 4000mhz + SSD M.2 ADATA XPG SX8100 512GB + Fuente Thermaltake Smart 500W 80+ + Chasis Unyka U2 + MSI Pro 24FHD MP242C + COMBO Teclado + Mouse Asus"
+      }
+    ],
+    "Gamer": [
+      {
+        "Price": 2495.00,
+        "Features": [],
+        "Date": "2023-06-26T08:04:01.5569379-04:00",
+        "Update": "2023-06-26T08:36:12.4096105-04:00",
+        "Discount": 45.0,
+        "Label": "PC Gamer 24FHD 165Hz, RTX 3080Ti, i5-12600K, Kit Líquido, 32GB DDR5, 2TB M.2"
+      },
+      {
+        "Price": 1395.00,
+        "Features": [],
+        "Date": "2023-06-26T08:10:58.9533774-04:00",
+        "Update": "2023-06-26T08:36:12.4186535-04:00",
+        "Discount": 35.0,
+        "Label": "PC Gamer 24FHD Curvo, Asus RTX 3060, 16GB RAM, 512GB SSD M.2, 13 Generación"
+      },
+      {
+        "Price": 2245.00,
+        "Features": [],
+        "Date": "2023-06-26T08:49:01.6689773-04:00",
+        "Update": "2023-06-26T08:53:17.7706095-04:00",
+        "Discount": 40.0,
+        "Label": "PC 24FHD TUF 165Hz, RTX 4070Ti 12GB, 16GB RGB 4000mhz, 2TB SSD M.2, i5 12va Gen"
       }
     ]
   },
@@ -79,7 +131,7 @@
           "Dual channel"
         ],
         "Date": "2023-06-12T13:20:21.3256765-04:00",
-        "Update": "2023-06-24T13:44:18.0858478-04:00",
+        "Update": "2023-06-26T06:59:24.4416923-04:00",
         "Discount": 10.0,
         "Label": "Kit i5-12400 +Disipador + ASRock B660M PRO RS + 16GB RAM"
       }
