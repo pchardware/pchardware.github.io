@@ -60,22 +60,6 @@
         "Update": "2023-06-26T08:36:12.4096105-04:00",
         "Discount": 45.0,
         "Label": "PC Gamer 24FHD 165Hz, RTX 3080Ti, i5-12600K, Kit Líquido, 32GB DDR5, 2TB M.2"
-      },
-      {
-        "Price": 1395.00,
-        "Features": [],
-        "Date": "2023-06-26T08:10:58.9533774-04:00",
-        "Update": "2023-06-26T08:36:12.4186535-04:00",
-        "Discount": 35.0,
-        "Label": "PC Gamer 24FHD Curvo, Asus RTX 3060, 16GB RAM, 512GB SSD M.2, 13 Generación"
-      },
-      {
-        "Price": 2245.00,
-        "Features": [],
-        "Date": "2023-06-26T08:49:01.6689773-04:00",
-        "Update": "2023-06-26T08:53:17.7706095-04:00",
-        "Discount": 40.0,
-        "Label": "PC 24FHD TUF 165Hz, RTX 4070Ti 12GB, 16GB RGB 4000mhz, 2TB SSD M.2, i5 12va Gen"
       }
     ]
   },
@@ -120,20 +104,6 @@
         "Update": "2023-06-24T13:44:18.0762814-04:00",
         "Discount": 10.0,
         "Label": "Kit i5-12600K + Gigabyte Z690 UD AX + 16GB RAM RGB"
-      },
-      {
-        "Price": 425.00,
-        "Features": [
-          "12va Gen",
-          "3200mhz",
-          "Disipadas",
-          "Micro ATX",
-          "Dual channel"
-        ],
-        "Date": "2023-06-12T13:20:21.3256765-04:00",
-        "Update": "2023-06-26T06:59:24.4416923-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-12400 +Disipador + ASRock B660M PRO RS + 16GB RAM"
       }
     ],
     "Rendimiento": [
@@ -210,19 +180,6 @@
         "Update": "2023-06-01T10:49:59.6571636-04:00",
         "Discount": 0.0,
         "Label": "EVGA RTX 3080Ti XC3 Hydro Copper"
-      },
-      {
-        "Price": 395.00,
-        "Features": [
-          "2xFan",
-          "8GB",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-05-11T13:36:03.9464604-04:00",
-        "Update": "2023-06-07T10:16:57.2555122-04:00",
-        "Discount": 0.0,
-        "Label": "Asus Dual RTX 3060 OC"
       },
       {
         "Price": 755.00,
@@ -496,22 +453,6 @@
         "Update": "2023-06-19T09:35:04.6028742-04:00",
         "Discount": 0.0,
         "Label": "Intel Core i5-13600K"
-      },
-      {
-        "Price": 215.00,
-        "Features": [
-          "12va Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "18MB L3",
-          "DDR4-DDR5",
-          "LGA 1700"
-        ],
-        "Date": "2023-02-17T09:45:29.425139-05:00",
-        "Update": "2023-06-19T10:48:18.7758903-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i5-12400 +Disipador"
       }
     ],
     "Fuente": [
@@ -1617,22 +1558,6 @@
         "Update": "2023-06-09T16:50:29.0094431-04:00",
         "Discount": 0.0,
         "Label": "Enfriamiento Intel Generic Plus"
-      },
-      {
-        "Price": 80.00,
-        "Features": [
-          "4 Heat Pipes",
-          "Cobre",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM5",
-          "AM4"
-        ],
-        "Date": "2023-06-19T07:49:47.5425532-04:00",
-        "Update": "2023-06-19T09:35:04.7184969-04:00",
-        "Discount": 0.0,
-        "Label": "Enfriamiento Cooler Master Hyper 212 Spectrum V3"
       }
     ],
     "Red": [
