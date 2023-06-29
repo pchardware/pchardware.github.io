@@ -659,21 +659,6 @@
         "Label": "Corsair Cable Kit Red"
       },
       {
-        "Price": 165.00,
-        "Features": [
-          "Fully Modular",
-          "80+ Gold",
-          "850W",
-          "71A",
-          "4x 6+2-Pin",
-          "9x SATA"
-        ],
-        "Date": "2023-06-29T07:39:28.1211607-04:00",
-        "Update": "2023-06-29T11:38:59.2594148-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente Rosewill CMG 850 80+ Gold"
-      },
-      {
         "Price": 120.00,
         "Features": [
           "54A",
@@ -684,6 +669,21 @@
         "Update": "2023-06-29T11:38:59.2679062-04:00",
         "Discount": 0.0,
         "Label": "Fuente Thermaltake Smart 700W 80+"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "Fully Modular",
+          "80+ Gold",
+          "850W",
+          "71A",
+          "4x 6+2-Pin",
+          "9x SATA"
+        ],
+        "Date": "2023-06-29T07:39:28.1211607-04:00",
+        "Update": "2023-06-29T16:09:59.9682123-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente Rosewill CMG850"
       }
     ],
     "Chasis": [
