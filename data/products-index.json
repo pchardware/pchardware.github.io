@@ -2,7 +2,7 @@
   "Computadoras": {
     "Entusiasta": [
       {
-        "Price": 3799.00,
+        "Price": 3795.00,
         "Features": [],
         "Date": "2023-06-25T15:29:47.8868431-04:00",
         "Update": "2023-06-26T07:20:34.8169536-04:00",
@@ -10,7 +10,7 @@
         "Label": "PC i7-13700K, 4070Ti, 32QHD 165Hz, 32GB RAM, 1TB SSD, 14TB, 850W y más"
       },
       {
-        "Price": 4099.00,
+        "Price": 4098.00,
         "Features": [],
         "Date": "2023-06-25T15:54:23.070873-04:00",
         "Update": "2023-06-26T07:20:34.8268258-04:00",
@@ -18,7 +18,7 @@
         "Label": "PC i9-13900K, ROG Hero, 32GB DDR5, 1TB SSD, 4070Ti, 32QHD 144Hz, y mas"
       },
       {
-        "Price": 2699.00,
+        "Price": 2718.00,
         "Features": [],
         "Date": "2023-06-25T16:04:36.2552607-04:00",
         "Update": "2023-06-26T07:20:34.8340319-04:00",
@@ -28,7 +28,7 @@
     ],
     "Rendimiento": [
       {
-        "Price": 1759.00,
+        "Price": 1748.00,
         "Features": [],
         "Date": "2023-06-26T07:24:43.5837441-04:00",
         "Update": "2023-06-26T08:36:12.3855476-04:00",
@@ -36,7 +36,7 @@
         "Label": "PC 27FHD, i9-12900K, Asus Prime Z690-A, Líquida 360, 64GB DDR5, 1TB M.2 7000mbs"
       },
       {
-        "Price": 1499.00,
+        "Price": 1493.00,
         "Features": [],
         "Date": "2023-06-26T07:32:41.1864671-04:00",
         "Update": "2023-06-26T08:36:12.3912207-04:00",
@@ -54,7 +54,7 @@
     ],
     "Gamer": [
       {
-        "Price": 2495.00,
+        "Price": 2505.00,
         "Features": [],
         "Date": "2023-06-26T08:04:01.5569379-04:00",
         "Update": "2023-06-26T08:36:12.4096105-04:00",
@@ -66,7 +66,7 @@
   "Kits": {
     "Entusiasta": [
       {
-        "Price": 970.00,
+        "Price": 965.00,
         "Features": [],
         "Date": "2023-06-15T09:02:14.0120703-04:00",
         "Update": "2023-06-15T09:06:52.1076839-04:00",
@@ -74,7 +74,7 @@
         "Label": "Kit i7-13700K + Asus ROG Strix Z690-F Gaming Wifi + 32GB DDR5"
       },
       {
-        "Price": 1199.00,
+        "Price": 1194.00,
         "Features": [],
         "Date": "2023-06-15T09:02:58.8515588-04:00",
         "Update": "2023-06-24T13:44:18.1007405-04:00",
@@ -82,7 +82,7 @@
         "Label": "Kit i9-13900K + Asus ROG Strix Z690-E Gaming Wifi + 32GB DDR5"
       },
       {
-        "Price": 1299.00,
+        "Price": 1294.00,
         "Features": [],
         "Date": "2023-06-24T13:41:22.3656225-04:00",
         "Update": "2023-06-24T13:44:18.1119769-04:00",
@@ -92,7 +92,7 @@
     ],
     "Moderado": [
       {
-        "Price": 580.00,
+        "Price": 575.00,
         "Features": [
           "12va Gen",
           "3600mhz",
@@ -108,7 +108,7 @@
     ],
     "Rendimiento": [
       {
-        "Price": 695.00,
+        "Price": 710.00,
         "Features": [
           "12va Gen",
           "Overclock",
@@ -271,6 +271,19 @@
         "Update": "2023-06-19T10:48:18.7850541-04:00",
         "Discount": 0.0,
         "Label": "Asus Dual RTX 4070 OC"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "8GB",
+          "3xFan",
+          "Radeon",
+          "AMD"
+        ],
+        "Date": "2023-05-11T19:24:18.7527581-04:00",
+        "Update": "2023-06-29T08:04:07.0948503-04:00",
+        "Discount": 0.0,
+        "Label": "Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
       }
     ],
     "Microprocesador": [
@@ -323,7 +336,7 @@
         "Label": "Intel Core i7-12700K"
       },
       {
-        "Price": 255.00,
+        "Price": 250.00,
         "Features": [
           "12va Gen",
           "16 Hilos",
@@ -340,7 +353,7 @@
         "Label": "Intel Core i5-12600K"
       },
       {
-        "Price": 455.00,
+        "Price": 450.00,
         "Features": [
           "13ra Gen",
           "24 Hilos",
@@ -357,7 +370,7 @@
         "Label": "Intel Core i7-13700K"
       },
       {
-        "Price": 625.00,
+        "Price": 620.00,
         "Features": [
           "13ra Gen",
           "32 Hilos",
@@ -374,7 +387,7 @@
         "Label": "Intel Core i9-13900K"
       },
       {
-        "Price": 415.00,
+        "Price": 410.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -453,6 +466,22 @@
         "Update": "2023-06-19T09:35:04.6028742-04:00",
         "Discount": 0.0,
         "Label": "Intel Core i5-13600K"
+      },
+      {
+        "Price": 155.00,
+        "Features": [
+          "12va Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700"
+        ],
+        "Date": "2023-05-11T07:28:15.7616729-04:00",
+        "Update": "2023-06-29T08:04:07.1548353-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i3-12100 +Disipador"
       }
     ],
     "Fuente": [
@@ -515,7 +544,7 @@
         "Label": "Fuente Asus TUF 850W"
       },
       {
-        "Price": 280.00,
+        "Price": 275.00,
         "Features": [
           "80+ Gold",
           "ATX 3.0",
@@ -657,6 +686,33 @@
         "Update": "2023-06-19T09:35:04.7030825-04:00",
         "Discount": 0.0,
         "Label": "Chasis Corsair iCUE 4000X RGB"
+      },
+      {
+        "Price": 70.00,
+        "Features": [
+          "ATX",
+          "4x HDD",
+          "USB 3.0",
+          "VGA 340mm",
+          "Mid Tower"
+        ],
+        "Date": "2023-06-26T07:41:41.0386166-04:00",
+        "Update": "2023-06-29T08:22:10.083069-04:00",
+        "Discount": 0.0,
+        "Label": "Chasis Unyka U2"
+      },
+      {
+        "Price": 265.00,
+        "Features": [
+          "Gamer",
+          "Tempered Glass",
+          "Mid Tower",
+          "ATX"
+        ],
+        "Date": "2023-06-29T07:38:28.5002459-04:00",
+        "Update": "2023-06-29T08:22:10.4881919-04:00",
+        "Discount": 0.0,
+        "Label": "Chasis Asus TUF GT301"
       }
     ],
     "Otros": [
@@ -1203,6 +1259,17 @@
         "Update": "2023-06-19T11:56:16.8819024-04:00",
         "Discount": 0.0,
         "Label": "HDD 2.5 Seagate BarraCuda 2TB"
+      },
+      {
+        "Price": 60.00,
+        "Features": [
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-06-29T07:38:17.9677885-04:00",
+        "Update": "2023-06-29T08:22:10.4805736-04:00",
+        "Discount": 0.0,
+        "Label": "HDD 3.5 Seagate Desktop 1TB"
       }
     ],
     "Disipador Líquido": [
@@ -1587,10 +1654,11 @@
           "12va-13ra",
           "DDR4",
           "4800mhz",
-          "LGA 1700"
+          "LGA 1700",
+          "Micro ATX"
         ],
         "Date": "2023-02-17T09:47:30.747913-05:00",
-        "Update": "2023-06-09T16:50:28.8612974-04:00",
+        "Update": "2023-06-29T08:04:07.1024432-04:00",
         "Discount": 0.0,
         "Label": "ASRock B660M PRO RS"
       },
@@ -1600,10 +1668,11 @@
           "12va-13ra",
           "DDR5",
           "6400mhz",
-          "LGA 1700"
+          "LGA 1700",
+          "ATX"
         ],
         "Date": "2023-05-11T07:52:19.4562926-04:00",
-        "Update": "2023-06-09T16:50:28.8675214-04:00",
+        "Update": "2023-06-29T08:04:07.1099288-04:00",
         "Discount": 0.0,
         "Label": "Asus ROG Strix Z690-F Gaming Wifi"
       },
@@ -1613,10 +1682,11 @@
           "12va-13ra",
           "DDR5",
           "6400mhz",
-          "LGA 1700"
+          "LGA 1700",
+          "ATX"
         ],
         "Date": "2023-05-11T07:51:07.1403838-04:00",
-        "Update": "2023-06-09T16:50:28.8799501-04:00",
+        "Update": "2023-06-29T08:04:07.1174079-04:00",
         "Discount": 0.0,
         "Label": "Asus ROG Strix Z690-E Gaming Wifi"
       },
@@ -1626,10 +1696,11 @@
           "12va-13ra",
           "DDR5",
           "7200mhz",
-          "LGA 1700"
+          "LGA 1700",
+          "ATX"
         ],
         "Date": "2023-06-07T13:42:34.7916197-04:00",
-        "Update": "2023-06-09T16:50:28.8925147-04:00",
+        "Update": "2023-06-29T08:04:07.124875-04:00",
         "Discount": 0.0,
         "Label": "Asus TUF Gaming Z790-Plus Wifi"
       },
@@ -1639,23 +1710,25 @@
           "12va-13ra",
           "DDR4",
           "5333mhz",
-          "LGA 1700"
+          "LGA 1700",
+          "ATX"
         ],
         "Date": "2023-02-17T09:46:18.404887-05:00",
-        "Update": "2023-06-09T16:50:28.8987853-04:00",
+        "Update": "2023-06-29T08:04:07.1323747-04:00",
         "Discount": 0.0,
         "Label": "Asus B660 ProArt Creator D4"
       },
       {
-        "Price": 270.00,
+        "Price": 285.00,
         "Features": [
           "12va-13ra",
           "DDR5",
           "6000mhz",
-          "LGA 1700"
+          "LGA 1700",
+          "ATX"
         ],
         "Date": "2023-03-29T20:09:08.1280491-04:00",
-        "Update": "2023-06-09T16:50:28.9050567-04:00",
+        "Update": "2023-06-29T08:04:07.1398488-04:00",
         "Discount": 0.0,
         "Label": "Asus Prime Z690-A"
       },
@@ -1664,23 +1737,25 @@
         "Features": [
           "12va-13ra",
           "5333mhz",
-          "LGA 1700"
+          "LGA 1700",
+          "ATX"
         ],
         "Date": "2023-03-29T20:18:25.1874798-04:00",
-        "Update": "2023-06-09T16:50:28.9177058-04:00",
+        "Update": "2023-06-29T08:04:07.1473825-04:00",
         "Discount": 0.0,
         "Label": "Gigabyte Z690 UD AX DDR4"
       },
       {
-        "Price": 285.00,
+        "Price": 290.00,
         "Features": [
           "12va-13ra",
           "DDR5",
           "7600mhz",
-          "LGA 1700"
+          "LGA 1700",
+          "ATX"
         ],
         "Date": "2023-05-14T10:52:20.5741642-04:00",
-        "Update": "2023-06-09T16:50:28.9973278-04:00",
+        "Update": "2023-06-29T08:04:07.1623398-04:00",
         "Discount": 0.0,
         "Label": "Gigabyte Z790 UD AC"
       },
@@ -1690,10 +1765,11 @@
           "12va-13ra",
           "DDR5",
           "7800mhz",
-          "LGA 1700"
+          "LGA 1700",
+          "ATX"
         ],
         "Date": "2023-03-29T20:18:17.8757341-04:00",
-        "Update": "2023-06-09T16:50:29.0033855-04:00",
+        "Update": "2023-06-29T08:04:07.1698436-04:00",
         "Discount": 0.0,
         "Label": "Asus ROG Strix Z790-H Gaming Wifi"
       },
@@ -1704,32 +1780,91 @@
           "12va-13ra",
           "DDR5",
           "6400mhz",
-          "LGA 1700"
+          "LGA 1700",
+          "ATX"
         ],
         "Date": "2023-06-19T07:50:08.4731323-04:00",
-        "Update": "2023-06-19T09:35:04.728473-04:00",
+        "Update": "2023-06-29T08:04:07.1773555-04:00",
         "Discount": 0.0,
         "Label": "Asus ROG Maximus Z690 Hero"
+      },
+      {
+        "Price": 270.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "6000mhz",
+          "LGA 1700",
+          "8x SATA",
+          "ATX"
+        ],
+        "Date": "2023-06-19T07:49:59.7312171-04:00",
+        "Update": "2023-06-29T08:04:07.1848773-04:00",
+        "Discount": 0.0,
+        "Label": "ASRock Z690 Steel Legend Wifi 6E D5"
       },
       {
         "Price": 255.00,
         "Features": [
           "12va-13ra",
           "DDR5",
-          "6000mhz",
-          "LGA 1700"
+          "6400mhz",
+          "LGA 1700",
+          "ATX"
         ],
-        "Date": "2023-06-19T07:49:59.7312171-04:00",
-        "Update": "2023-06-19T20:56:44.314662-04:00",
+        "Date": "2023-06-29T07:38:21.8556469-04:00",
+        "Update": "2023-06-29T08:04:07.1999978-04:00",
         "Discount": 0.0,
-        "Label": "ASRock Z690 Steel Legend Wifi 6E D5"
+        "Label": "MSI PRO Z690-A Wifi"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "AM4",
+          "DDR4",
+          "4733mhz",
+          "Micro ATX",
+          "AMD"
+        ],
+        "Date": "2023-06-29T07:38:57.1417711-04:00",
+        "Update": "2023-06-29T08:04:07.2076489-04:00",
+        "Discount": 0.0,
+        "Label": "Gigabyte B550M Aorus Elite"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "6400mhz",
+          "LGA 1700",
+          "ATX"
+        ],
+        "Date": "2023-06-29T07:39:00.0628217-04:00",
+        "Update": "2023-06-29T08:04:07.2151731-04:00",
+        "Discount": 0.0,
+        "Label": "MSI MAG Z690 Tomahawk Wifi"
+      },
+      {
+        "Price": 210.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "7600mhz",
+          "LGA 1700",
+          "Micro ATX"
+        ],
+        "Date": "2023-06-29T07:39:17.5627753-04:00",
+        "Update": "2023-06-29T08:04:07.2227246-04:00",
+        "Discount": 0.0,
+        "Label": "Gigabyte Aorus B760M Elite AX"
       }
     ]
   },
   "Periféricos": {
     "Monitor": [
       {
-        "Price": 320.00,
+        "Price": 299.00,
         "Features": [
           "VA",
           "75Hz",
@@ -1800,9 +1935,9 @@
           "FreeSync"
         ],
         "Date": "2023-06-24T08:20:03.8135275-04:00",
-        "Update": "2023-06-24T10:51:11.4605021-04:00",
+        "Update": "2023-06-29T08:04:07.1923784-04:00",
         "Discount": 0.0,
-        "Label": "Asus TUF 24FHD VG24Q1B"
+        "Label": "Asus TUF 24FHD VG248Q1B"
       }
     ],
     "Adaptadores": [
@@ -1903,7 +2038,7 @@
         "Label": "Mouse Pad Corsair MM300 Extended"
       },
       {
-        "Price": 65.00,
+        "Price": 66.00,
         "Features": [
           "16000dpi",
           "Optico",
@@ -1917,7 +2052,7 @@
         "Label": "Mouse EVGA X15 MMO"
       },
       {
-        "Price": 70.00,
+        "Price": 69.00,
         "Features": [
           "Sniper",
           "16000dpi",
@@ -1933,7 +2068,7 @@
         "Label": "Mouse EVGA X17"
       },
       {
-        "Price": 95.00,
+        "Price": 97.00,
         "Features": [
           "FPS",
           "MOBA",
@@ -1951,7 +2086,7 @@
         "Label": "Mouse Corsair IRONCLAW RGB"
       },
       {
-        "Price": 65.00,
+        "Price": 69.00,
         "Features": [
           "16000dpi",
           "Optico",
@@ -1965,7 +2100,7 @@
         "Label": "Mause Logitech G502 Hero"
       },
       {
-        "Price": 70.00,
+        "Price": 71.00,
         "Features": [
           "12000dpi",
           "Optico",
@@ -1990,7 +2125,7 @@
         "Label": "Mouse Pad Aukey Gaming XXL"
       },
       {
-        "Price": 85.00,
+        "Price": 87.00,
         "Features": [
           "Inalámbrico",
           "16000dpi",
@@ -2006,7 +2141,7 @@
         "Label": "Mouse EVGA X20"
       },
       {
-        "Price": 45.00,
+        "Price": 49.00,
         "Features": [
           "7000dpi",
           "Optico",
