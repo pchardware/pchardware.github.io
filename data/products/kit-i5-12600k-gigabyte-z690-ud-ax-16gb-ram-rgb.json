@@ -10,8 +10,8 @@
     "/images/products/kit-i5-12600k-gigabyte-z690-ud-ax-16gb-ram-rgb-6.webp",
     "/images/products/kit-i5-12600k-gigabyte-z690-ud-ax-16gb-ram-rgb-7.webp"
   ],
-  "Description": "+ Intel Core i5-12600K (12va Gen, 16 Hilos, 10 Core, 4.9GHz, 20MB L3, DDR4-DDR5, Unlocked, LGA 1700)\n+ Gigabyte Z690 UD AX DDR4 (12va-13ra, 5333mhz, LGA 1700)\n+ DDR4 Team T-Force Delta RGB 16GB 3600mhz (2x8GB, White, Disipadas)\n",
-  "Price": 580.00,
+  "Description": "+ Intel Core i5-12600K (12va Gen, 16 Hilos, 10 Core, 4.9GHz, 20MB L3, DDR4-DDR5, Unlocked, LGA 1700)\n+ Gigabyte Z690 UD AX DDR4 (12va-13ra, 5333mhz, LGA 1700, ATX)\n+ DDR4 Team T-Force Delta RGB 16GB 3600mhz (2x8GB, White, Disipadas)\n",
+  "Price": 575.00,
   "Features": [
     "12va Gen",
     "3600mhz",
