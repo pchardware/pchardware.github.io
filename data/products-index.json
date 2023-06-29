@@ -47,9 +47,9 @@
         "Price": 1095.00,
         "Features": [],
         "Date": "2023-06-26T07:59:38.678571-04:00",
-        "Update": "2023-06-26T08:36:12.4046072-04:00",
+        "Update": "2023-06-29T12:57:00.9120789-04:00",
         "Discount": 30.0,
-        "Label": "Intel Core i5-13500 +Disipador + Gigabyte Z690 UD AX DDR4 + DDR4 Patriot Viper Elite II 16GB 4000mhz + SSD M.2 ADATA XPG SX8100 512GB + Fuente Thermaltake Smart 500W 80+ + Chasis Unyka U2 + MSI Pro 24FHD MP242C + COMBO Teclado + Mouse Asus"
+        "Label": "PC 24FHD Curvo, i5-13500, Gigabyte Z690 UD AX, 16GB RAM, 512GB M.2 XPG y mas"
       }
     ],
     "Gamer": [
@@ -284,6 +284,44 @@
         "Update": "2023-06-29T08:04:07.0948503-04:00",
         "Discount": 0.0,
         "Label": "Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
+      },
+      {
+        "Price": 415.00,
+        "Features": [
+          "12GB",
+          "2xFan",
+          "Radeon",
+          "AMD"
+        ],
+        "Date": "2023-06-29T07:39:05.0557701-04:00",
+        "Update": "2023-06-29T11:38:59.2219806-04:00",
+        "Discount": 0.0,
+        "Label": "ASRock Challenger D RX 6700 XT"
+      },
+      {
+        "Price": 325.00,
+        "Features": [
+          "8GB",
+          "2xFan",
+          "Radeon",
+          "AMD"
+        ],
+        "Date": "2023-06-29T07:39:08.128815-04:00",
+        "Update": "2023-06-29T11:38:59.234539-04:00",
+        "Discount": 0.0,
+        "Label": "ASRock Challenger D RX 6650 XT"
+      },
+      {
+        "Price": 395.00,
+        "Features": [
+          "3xFan",
+          "GeForce",
+          "NVIDIA"
+        ],
+        "Date": "2023-06-29T07:39:14.2136094-04:00",
+        "Update": "2023-06-29T11:38:59.238853-04:00",
+        "Discount": 0.0,
+        "Label": "MSI Ventus 3x RTX 3060 12GB"
       }
     ],
     "Microprocesador": [
@@ -619,6 +657,33 @@
         "Update": "2023-06-07T16:28:39.2146787-04:00",
         "Discount": 0.0,
         "Label": "Corsair Cable Kit Red"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "Fully Modular",
+          "80+ Gold",
+          "850W",
+          "71A",
+          "4x 6+2-Pin",
+          "9x SATA"
+        ],
+        "Date": "2023-06-29T07:39:28.1211607-04:00",
+        "Update": "2023-06-29T11:38:59.2594148-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente Rosewill CMG 850 80+ Gold"
+      },
+      {
+        "Price": 120.00,
+        "Features": [
+          "54A",
+          "2x 6+2 Pin",
+          "6x SATA"
+        ],
+        "Date": "2023-06-29T07:39:33.0518165-04:00",
+        "Update": "2023-06-29T11:38:59.2679062-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente Thermaltake Smart 700W 80+"
       }
     ],
     "Chasis": [
@@ -1261,7 +1326,7 @@
         "Label": "HDD 2.5 Seagate BarraCuda 2TB"
       },
       {
-        "Price": 60.00,
+        "Price": 59.0,
         "Features": [
           "SATA 3",
           "6 Gbps"
@@ -1459,21 +1524,6 @@
         "Label": "D.Líquida Corsair H60x RGB Elite"
       },
       {
-        "Price": 175.00,
-        "Features": [
-          "2xFan",
-          "240mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4"
-        ],
-        "Date": "2023-03-27T12:00:02.0089284-04:00",
-        "Update": "2023-06-09T16:50:28.9906774-04:00",
-        "Discount": 0.0,
-        "Label": "D.Líquida Cooler Master MasterLiquid ML240L ARGB V2"
-      },
-      {
         "Price": 235.00,
         "Features": [
           "2xFan",
@@ -1517,6 +1567,21 @@
         "Update": "2023-06-24T10:51:11.4753292-04:00",
         "Discount": 0.0,
         "Label": "D.Líquida MSI MAG Core Liquid 360R V2"
+      },
+      {
+        "Price": 199.00,
+        "Features": [
+          "3xFan",
+          "360mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-06-29T07:38:53.691162-04:00",
+        "Update": "2023-06-29T11:38:59.2175286-04:00",
+        "Discount": 0.0,
+        "Label": "D.Líquida Cooler Master MasterLiquid ML360L V2 ARGB"
       }
     ],
     "Disipador por Aire": [
@@ -1691,20 +1756,6 @@
         "Label": "Asus ROG Strix Z690-E Gaming Wifi"
       },
       {
-        "Price": 345.00,
-        "Features": [
-          "12va-13ra",
-          "DDR5",
-          "7200mhz",
-          "LGA 1700",
-          "ATX"
-        ],
-        "Date": "2023-06-07T13:42:34.7916197-04:00",
-        "Update": "2023-06-29T08:04:07.124875-04:00",
-        "Discount": 0.0,
-        "Label": "Asus TUF Gaming Z790-Plus Wifi"
-      },
-      {
         "Price": 215.00,
         "Features": [
           "12va-13ra",
@@ -1832,20 +1883,6 @@
         "Label": "Gigabyte B550M Aorus Elite"
       },
       {
-        "Price": 275.00,
-        "Features": [
-          "12va-13ra",
-          "DDR5",
-          "6400mhz",
-          "LGA 1700",
-          "ATX"
-        ],
-        "Date": "2023-06-29T07:39:00.0628217-04:00",
-        "Update": "2023-06-29T08:04:07.2151731-04:00",
-        "Discount": 0.0,
-        "Label": "MSI MAG Z690 Tomahawk Wifi"
-      },
-      {
         "Price": 210.00,
         "Features": [
           "12va-13ra",
@@ -1858,88 +1895,38 @@
         "Update": "2023-06-29T08:04:07.2227246-04:00",
         "Discount": 0.0,
         "Label": "Gigabyte Aorus B760M Elite AX"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "6400mhz",
+          "LGA 1700",
+          "ATX"
+        ],
+        "Date": "2023-06-29T07:39:00.0628217-04:00",
+        "Update": "2023-06-29T12:09:37.2392665-04:00",
+        "Discount": 0.0,
+        "Label": "MSI MAG Z690 Tomahawk Wifi"
+      },
+      {
+        "Price": 345.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "7200mhz",
+          "LGA 1700",
+          "ATX"
+        ],
+        "Date": "2023-06-07T13:42:34.7916197-04:00",
+        "Update": "2023-06-29T12:30:04.4059508-04:00",
+        "Discount": 0.0,
+        "Label": "Asus TUF Gaming Z790-Plus Wifi"
       }
     ]
   },
   "Periféricos": {
-    "Monitor": [
-      {
-        "Price": 299.00,
-        "Features": [
-          "VA",
-          "75Hz",
-          "1ms",
-          "300cd",
-          "FreeSync"
-        ],
-        "Date": "2023-05-11T19:57:45.9857068-04:00",
-        "Update": "2023-06-01T10:49:59.7206892-04:00",
-        "Discount": 0.0,
-        "Label": "Acer Nitro 27FHD QG271"
-      },
-      {
-        "Price": 265.00,
-        "Features": [
-          "Curvo",
-          "VA",
-          "1ms",
-          "75Hz",
-          "250cd",
-          "FreeSync",
-          "Business"
-        ],
-        "Date": "2023-05-11T19:58:00.9741721-04:00",
-        "Update": "2023-06-01T10:49:59.7345209-04:00",
-        "Discount": 0.0,
-        "Label": "MSI Pro 24FHD MP242C"
-      },
-      {
-        "Price": 545.00,
-        "Features": [
-          "165Hz",
-          "2K",
-          "1ms",
-          "Curvo",
-          "350cd",
-          "VA",
-          "FreeSync"
-        ],
-        "Date": "2023-05-11T19:57:59.0739432-04:00",
-        "Update": "2023-06-24T10:51:11.2006594-04:00",
-        "Discount": 0.0,
-        "Label": "Gigabyte 32QHD G32QC-A"
-      },
-      {
-        "Price": 515.00,
-        "Features": [
-          "144Hz",
-          "2K",
-          "Curvo",
-          "1440p",
-          "1ms",
-          "350cd",
-          "VA",
-          "FreeSync"
-        ],
-        "Date": "2023-06-24T08:19:29.7799115-04:00",
-        "Update": "2023-06-24T10:51:11.4456842-04:00",
-        "Discount": 0.0,
-        "Label": "Lenovo 32QHD G32QC-10"
-      },
-      {
-        "Price": 310.00,
-        "Features": [
-          "165Hz",
-          "350cd",
-          "0.5ms",
-          "FreeSync"
-        ],
-        "Date": "2023-06-24T08:20:03.8135275-04:00",
-        "Update": "2023-06-29T08:04:07.1923784-04:00",
-        "Discount": 0.0,
-        "Label": "Asus TUF 24FHD VG248Q1B"
-      }
-    ],
     "Adaptadores": [
       {
         "Price": 17.00,
@@ -2114,17 +2101,6 @@
         "Label": "Mouse Corsair M65 Pro RGB"
       },
       {
-        "Price": 25.00,
-        "Features": [
-          "Extended",
-          "Negro"
-        ],
-        "Date": "2023-06-24T08:19:53.1308907-04:00",
-        "Update": "2023-06-24T10:51:11.4531016-04:00",
-        "Discount": 0.0,
-        "Label": "Mouse Pad Aukey Gaming XXL"
-      },
-      {
         "Price": 87.00,
         "Features": [
           "Inalámbrico",
@@ -2153,6 +2129,69 @@
         "Update": "2023-06-24T10:51:11.4827164-04:00",
         "Discount": 0.0,
         "Label": "Mouse Asus TUF M3"
+      },
+      {
+        "Price": 64.00,
+        "Features": [
+          "Wireless",
+          "12000dpi",
+          "6 botónes",
+          "Optico",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-06-29T07:38:38.0146289-04:00",
+        "Update": "2023-06-29T11:38:59.1886611-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse Logitech G305 Lightspeed"
+      },
+      {
+        "Price": 69.00,
+        "Features": [
+          "74g",
+          "18000dpi",
+          "Palm-Claw",
+          "6 botónes",
+          "Optico",
+          "Gaming",
+          "iCUE",
+          "USB"
+        ],
+        "Date": "2023-06-29T07:38:41.0713-04:00",
+        "Update": "2023-06-29T11:38:59.1947363-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse Corsair Sabre RGB Pro"
+      },
+      {
+        "Price": 72.00,
+        "Features": [
+          "RGB",
+          "82g",
+          "10000dpi",
+          "6 botónes",
+          "FPS",
+          "Battle",
+          "Royale",
+          "MOBA",
+          "Claw-Fingertip",
+          "Optico",
+          "USB"
+        ],
+        "Date": "2023-06-29T07:38:44.0694774-04:00",
+        "Update": "2023-06-29T11:38:59.2013601-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse Corsair Katar Pro Wireless"
+      },
+      {
+        "Price": 25.00,
+        "Features": [
+          "Extended",
+          "Negro"
+        ],
+        "Date": "2023-06-24T08:19:53.1308907-04:00",
+        "Update": "2023-06-29T12:58:02.8735131-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse Pad Aukey Gaming XXL"
       }
     ],
     "Silla": [
@@ -2188,36 +2227,6 @@
     ],
     "Teclado": [
       {
-        "Price": 105.00,
-        "Features": [
-          "RGB",
-          "Macros",
-          "Palm rest",
-          "ICUE",
-          "Multimedia",
-          "Membrana",
-          "Gaming",
-          "Full"
-        ],
-        "Date": "2023-05-11T20:29:35.2925957-04:00",
-        "Update": "2023-06-24T10:51:11.170987-04:00",
-        "Discount": 0.0,
-        "Label": "Teclado Corsair Gaming K55 RGB Pro"
-      },
-      {
-        "Price": 65.00,
-        "Features": [
-          "Gaming",
-          "Macros",
-          "Membrana",
-          "Full"
-        ],
-        "Date": "2023-05-11T20:29:42.0758463-04:00",
-        "Update": "2023-06-24T10:51:11.1783245-04:00",
-        "Discount": 0.0,
-        "Label": "Teclado EVGA Z12 RGB"
-      },
-      {
         "Price": 85.00,
         "Features": [
           "RGB",
@@ -2251,23 +2260,6 @@
         "Update": "2023-06-24T10:51:11.1932112-04:00",
         "Discount": 0.0,
         "Label": "COMBO Teclado Corsair K55 + Mouse Harpoon RGB"
-      },
-      {
-        "Price": 130.00,
-        "Features": [
-          "Mecánico",
-          "Aluminio",
-          "RGB",
-          "Macros",
-          "iCUE",
-          "Gaming",
-          "Slim",
-          "Full"
-        ],
-        "Date": "2023-05-11T20:29:40.4508027-04:00",
-        "Update": "2023-06-24T10:51:11.3644903-04:00",
-        "Discount": 0.0,
-        "Label": "Teclado Corsair K60 RGB Pro"
       },
       {
         "Price": 145.00,
@@ -2403,6 +2395,67 @@
         "Update": "2023-06-24T10:51:11.5125575-04:00",
         "Discount": 0.0,
         "Label": "Teclado Rosewill NEON K90 RGB BR"
+      },
+      {
+        "Price": 105.00,
+        "Features": [
+          "Macros",
+          "Palm rest",
+          "ICUE",
+          "Multimedia",
+          "Membrana",
+          "Gaming",
+          "Full"
+        ],
+        "Date": "2023-05-11T20:29:35.2925957-04:00",
+        "Update": "2023-06-29T11:38:59.1224765-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado Corsair Gaming K55 RGB Pro"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "RGB",
+          "Gaming",
+          "Macros",
+          "Membrana",
+          "Full"
+        ],
+        "Date": "2023-05-11T20:29:42.0758463-04:00",
+        "Update": "2023-06-29T11:38:59.1340749-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado EVGA Z12"
+      },
+      {
+        "Price": 130.00,
+        "Features": [
+          "Mecánico",
+          "Aluminio",
+          "Macros",
+          "iCUE",
+          "Gaming",
+          "Slim",
+          "Full"
+        ],
+        "Date": "2023-05-11T20:29:40.4508027-04:00",
+        "Update": "2023-06-29T11:38:59.1537814-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado Corsair K60 RGB Pro"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "Mecánico",
+          "RGB",
+          "Macros",
+          "Gaming",
+          "Palm rest",
+          "Full"
+        ],
+        "Date": "2023-06-29T07:38:50.1028263-04:00",
+        "Update": "2023-06-29T11:38:59.2059347-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado EVGA Z20"
       }
     ],
     "Sonido": [
@@ -2433,6 +2486,120 @@
         "Update": "2023-06-24T10:51:11.5050638-04:00",
         "Discount": 0.0,
         "Label": "Audífonos Asus TUF H1 Wireless"
+      }
+    ],
+    "Monitor": [
+      {
+        "Price": 299.00,
+        "Features": [
+          "300 Nit",
+          "1ms",
+          "FreeSync",
+          "VA",
+          "75Hz",
+          "Flat",
+          "Gaming"
+        ],
+        "Date": "2023-05-11T19:57:45.9857068-04:00",
+        "Update": "2023-06-29T11:38:59.0967982-04:00",
+        "Discount": 0.0,
+        "Label": "Acer Nitro 27FHD QG271"
+      },
+      {
+        "Price": 265.00,
+        "Features": [
+          "Curvo",
+          "VA",
+          "1ms",
+          "75Hz",
+          "250 Nit",
+          "FreeSync",
+          "Business"
+        ],
+        "Date": "2023-05-11T19:58:00.9741721-04:00",
+        "Update": "2023-06-29T11:38:59.1062319-04:00",
+        "Discount": 0.0,
+        "Label": "MSI Pro 24FHD MP242C"
+      },
+      {
+        "Price": 545.00,
+        "Features": [
+          "165Hz",
+          "2K",
+          "1ms",
+          "Curvo",
+          "350 Nit",
+          "VA",
+          "FreeSync",
+          "Gaming"
+        ],
+        "Date": "2023-05-11T19:57:59.0739432-04:00",
+        "Update": "2023-06-29T11:38:59.138445-04:00",
+        "Discount": 0.0,
+        "Label": "Gigabyte 32QHD G32QC-A"
+      },
+      {
+        "Price": 515.00,
+        "Features": [
+          "144Hz",
+          "2K",
+          "Curvo",
+          "1440p",
+          "1ms",
+          "350 Nit",
+          "VA",
+          "FreeSync",
+          "Gaming"
+        ],
+        "Date": "2023-06-24T08:19:29.7799115-04:00",
+        "Update": "2023-06-29T11:38:59.1583236-04:00",
+        "Discount": 0.0,
+        "Label": "Lenovo 32QHD G32QC-10"
+      },
+      {
+        "Price": 310.00,
+        "Features": [
+          "165Hz",
+          "350 Nit",
+          "0.5ms",
+          "FreeSync",
+          "Flat",
+          "Gaming"
+        ],
+        "Date": "2023-06-24T08:20:03.8135275-04:00",
+        "Update": "2023-06-29T11:38:59.1696303-04:00",
+        "Discount": 0.0,
+        "Label": "Asus TUF 24FHD VG248Q1B"
+      },
+      {
+        "Price": 550.00,
+        "Features": [
+          "4K",
+          "HDR10",
+          "300 Nit",
+          "VA",
+          "Flat"
+        ],
+        "Date": "2023-06-29T07:38:31.7423472-04:00",
+        "Update": "2023-06-29T11:38:59.1739791-04:00",
+        "Discount": 0.0,
+        "Label": "Samsung 32UHD S70A S32A70"
+      },
+      {
+        "Price": 445.00,
+        "Features": [
+          "HDR10",
+          "4K",
+          "IPS",
+          "FreeSync",
+          "300 Nit",
+          "Flat",
+          "Gaming"
+        ],
+        "Date": "2023-06-29T07:38:34.6760535-04:00",
+        "Update": "2023-06-29T11:38:59.1843409-04:00",
+        "Discount": 0.0,
+        "Label": "Acer Nitro 28UHD VG281K"
       }
     ]
   }
