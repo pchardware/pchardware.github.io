@@ -1,0 +1,28 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Monitor",
+  "Images": [
+    "/images/products/samsung-32uhd-s70a-s32a70-1.webp",
+    "/images/products/samsung-32uhd-s70a-s32a70-2.webp",
+    "/images/products/samsung-32uhd-s70a-s32a70-3.webp",
+    "/images/products/samsung-32uhd-s70a-s32a70-4.webp",
+    "/images/products/samsung-32uhd-s70a-s32a70-5.webp",
+    "/images/products/samsung-32uhd-s70a-s32a70-6.webp",
+    "/images/products/samsung-32uhd-s70a-s32a70-7.webp",
+    "/images/products/samsung-32uhd-s70a-s32a70-8.webp",
+    "/images/products/samsung-32uhd-s70a-s32a70-9.webp"
+  ],
+  "Description": "Model\nBrand: SAMSUNG\nSeries: S70A\nModel: S32A70\nPart Number: LS32A700NWNXZA\nCabinet Color: Black\nUsage: Consumer\n\n\nDisplay\nScreen Size: 32\"\nLED Backlight: Yes\nWidescreen: Yes\nRecommended Resolution: 3840 x 2160 (4K)\nRefresh Rate: 60 Hz\nViewing Angle: 178° (H) / 178° (V)\nDisplay Colors: 1.07 Billion\nBrightness: 300 cd/m2\nContrast Ratio: 2500:1\nAspect Ratio: 16:9\nResponse Time: 5 ms (GTG)\nPanel: VA\nDisplay Type: UHD\nCurved Surface Screen: Flat Panel\n\n\nConnectivity\nVideo Ports: 1 x DisplayPort 1.2 / 1 x HDMI 2.0\nInput Video Compatibility: Digital\nConnectors: HDMI, DisplayPort, Headphone\nHDMI: 1 x HDMI 2.0\nDisplayPort: 1 x DisplayPort 1.2\n\n\nPower\nPower Supply: 100 - 240 VAC, 50/60Hz\n\n\nConvenience\nStand Adjustments: Tilt\nVESA Compatibility - Mountable: 100 x 100mm\n\n\nFeatures\nFeatures: Eye Saver Mode\nFlicker Free\nLow Blue Light\nPicture-In-Picture\nPicture-By-Picture\nGame Mode\nEasy Setting Box\nEco Saving Plus\nAdaptive picture (by Color/Light Sensor)\n\n\nDimensions & Weight\nDimensions (H x W x D): 20.41\" x 28.19\" x 7.62\" w/ stand\n16.72\" x 28.19\" x 1.63\" w/o stand\n\n\nPackaging\nPackage Contents: Accessories: Power Cable, HDMI Cable",
+  "Price": 550.00,
+  "Features": [
+    "4K",
+    "HDR10",
+    "300 Nit",
+    "VA",
+    "Flat"
+  ],
+  "Date": "2023-06-29T07:38:31.7423472-04:00",
+  "Update": "2023-06-29T11:38:59.1739791-04:00",
+  "Discount": 0.0,
+  "Label": "Samsung 32UHD S70A S32A70"
+}
