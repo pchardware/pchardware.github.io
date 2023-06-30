@@ -104,6 +104,14 @@
         "Update": "2023-06-24T13:44:18.0762814-04:00",
         "Discount": 10.0,
         "Label": "Kit i5-12600K + Gigabyte Z690 UD AX + 16GB RAM RGB"
+      },
+      {
+        "Price": 469.00,
+        "Features": [],
+        "Date": "2023-06-29T19:08:23.1544102-04:00",
+        "Update": "2023-06-29T19:14:10.5384351-04:00",
+        "Discount": 11.0,
+        "Label": "Kit Ryzen 7 5700G + Gigabyte B550M Aorus Elite + 16GB Patriot Viper"
       }
     ],
     "Rendimiento": [
@@ -134,6 +142,14 @@
         "Update": "2023-06-24T13:44:18.0961507-04:00",
         "Discount": 10.0,
         "Label": "Kit i9-12900K + Gigabyte Z790 UD AC + 64GB DDR5"
+      },
+      {
+        "Price": 505.00,
+        "Features": [],
+        "Date": "2023-06-29T19:08:48.7337337-04:00",
+        "Update": "2023-06-29T19:14:10.5469413-04:00",
+        "Discount": 10.0,
+        "Label": "Kit Ryzen 7 5800X + Gigabyte B550M Aorus Elite + 16GB RAM 4000mhz"
       }
     ],
     "Esencial": [
