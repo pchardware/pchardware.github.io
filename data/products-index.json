@@ -36,7 +36,7 @@
         "Label": "PC 27FHD, i9-12900K, Asus Prime Z690-A, Líquida 360, 64GB DDR5, 1TB M.2 7000mbs"
       },
       {
-        "Price": 1095.00,
+        "Price": 1085.00,
         "Features": [],
         "Date": "2023-06-26T07:59:38.678571-04:00",
         "Update": "2023-06-29T12:57:00.9120789-04:00",
@@ -74,7 +74,7 @@
     ],
     "Moderado": [
       {
-        "Price": 575.00,
+        "Price": 570.00,
         "Features": [
           "12va Gen",
           "3600mhz",
@@ -126,7 +126,7 @@
         "Label": "Kit i9-12900K + Gigabyte Z790 UD AC + 64GB DDR5"
       },
       {
-        "Price": 505.00,
+        "Price": 500.00,
         "Features": [],
         "Date": "2023-06-29T19:08:48.7337337-04:00",
         "Update": "2023-06-29T19:14:10.5469413-04:00",
@@ -821,7 +821,7 @@
         "Label": "Cooler Fan Corsair Vengance LPX"
       },
       {
-        "Price": 85.00,
+        "Price": 80.00,
         "Features": [
           "2x8GB",
           "White",
@@ -844,7 +844,7 @@
         "Label": "DDR4 Patriot Viper 8GB 3200mhz"
       },
       {
-        "Price": 75.00,
+        "Price": 70.00,
         "Features": [
           "2x8GB",
           "Disipadas"
@@ -855,7 +855,7 @@
         "Label": "DDR4 Patriot Viper Elite II 16GB 4000mhz"
       },
       {
-        "Price": 85.00,
+        "Price": 80.00,
         "Features": [
           "2x8GB",
           "Disipadas"
@@ -866,7 +866,7 @@
         "Label": "DDR4 GeIL ORION RGB 16GB 3600mhz"
       },
       {
-        "Price": 100.00,
+        "Price": 95.00,
         "Features": [
           "2x8GB",
           "Disipadas"
@@ -877,7 +877,7 @@
         "Label": "DDR4 GeIL ORION RGB 16GB 4000mhz"
       },
       {
-        "Price": 95.00,
+        "Price": 90.00,
         "Features": [
           "2x8GB",
           "Disipadas"
@@ -899,7 +899,7 @@
         "Label": "DDR5 Corsair Vengeance 32GB 5200mhz"
       },
       {
-        "Price": 105.00,
+        "Price": 99.00,
         "Features": [
           "2x8GB",
           "Disipadas"
@@ -910,7 +910,7 @@
         "Label": "DDR4 Corsair Vengeance RGB RT 16GB 3600mhz"
       },
       {
-        "Price": 130.00,
+        "Price": 120.00,
         "Features": [
           "2x16GB",
           "Disipadas"
@@ -987,7 +987,7 @@
         "Label": "DDR5 Corsair Vengeance RGB 32GB 6400mhz"
       },
       {
-        "Price": 130.00,
+        "Price": 120.00,
         "Features": [
           "2x16GB",
           "Disipadas"
@@ -1033,7 +1033,7 @@
     ],
     "Disco Sólido": [
       {
-        "Price": 65.00,
+        "Price": 59.00,
         "Features": [
           "3500mbs",
           "PCIe 3",
@@ -1045,7 +1045,7 @@
         "Label": "SSD M.2 ADATA XPG GAMMIX S7 512GB"
       },
       {
-        "Price": 95.00,
+        "Price": 70.00,
         "Features": [
           "6600mbs",
           "PCIe 4",
@@ -1101,7 +1101,7 @@
         "Label": "SSD 2.5 Team Group DeltaMax RGB 500GB"
       },
       {
-        "Price": 75.00,
+        "Price": 65.00,
         "Features": [
           "3500mbs",
           "PCIe 3",
@@ -1113,7 +1113,7 @@
         "Label": "SSD M.2 Samsung 980 500GB"
       },
       {
-        "Price": 85.00,
+        "Price": 65.00,
         "Features": [
           "5000mbs",
           "PCIe 4",
@@ -1216,7 +1216,7 @@
         "Label": "SSD M.2 PNY CS1030 2TB"
       },
       {
-        "Price": 60.00,
+        "Price": 55.00,
         "Features": [
           "3500mbs",
           "PCIe 3",
@@ -1285,6 +1285,17 @@
         "Update": "2023-06-29T08:22:10.4805736-04:00",
         "Discount": 0.0,
         "Label": "HDD 3.5 Seagate Desktop 1TB"
+      },
+      {
+        "Price": 89.00,
+        "Features": [
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-05-11T14:17:30.8616693-04:00",
+        "Update": "2023-07-03T13:42:59.6163036-04:00",
+        "Discount": 0.0,
+        "Label": "HDD 3.5 Seagate Constellation 4TB"
       }
     ],
     "Disipador Líquido": [
@@ -1640,6 +1651,22 @@
         "Update": "2023-06-09T16:50:29.0094431-04:00",
         "Discount": 0.0,
         "Label": "Enfriamiento Intel Generic Plus"
+      },
+      {
+        "Price": 80.00,
+        "Features": [
+          "4 Heat Pipes",
+          "Cobre",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM5",
+          "AM4"
+        ],
+        "Date": "2023-06-19T07:49:47.5425532-04:00",
+        "Update": "2023-07-03T13:42:59.6064175-04:00",
+        "Discount": 0.0,
+        "Label": "Enfriamiento Cooler Master Hyper 212 Spectrum V3"
       }
     ],
     "Red": [
@@ -2521,6 +2548,21 @@
         "Update": "2023-06-29T11:38:59.1843409-04:00",
         "Discount": 0.0,
         "Label": "Acer Nitro 28UHD VG281K"
+      }
+    ],
+    "Webcam": [
+      {
+        "Price": 45.00,
+        "Features": [
+          "Black",
+          "2mp",
+          "30fps",
+          "Stereo"
+        ],
+        "Date": "2023-06-19T07:49:43.9179086-04:00",
+        "Update": "2023-07-03T13:42:59.6290784-04:00",
+        "Discount": 0.0,
+        "Label": "WebCam AUKEY 1080p"
       }
     ]
   }
