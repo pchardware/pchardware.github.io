@@ -36,30 +36,12 @@
         "Label": "PC 27FHD, i9-12900K, Asus Prime Z690-A, Líquida 360, 64GB DDR5, 1TB M.2 7000mbs"
       },
       {
-        "Price": 1493.00,
-        "Features": [],
-        "Date": "2023-06-26T07:32:41.1864671-04:00",
-        "Update": "2023-06-26T08:36:12.3912207-04:00",
-        "Discount": 45.0,
-        "Label": "PC 27FHD, i7-12700K, Líquida, ASRock Z690 Legend, 32GB DDR5, 1TB M.2 7000mbs"
-      },
-      {
         "Price": 1095.00,
         "Features": [],
         "Date": "2023-06-26T07:59:38.678571-04:00",
         "Update": "2023-06-29T12:57:00.9120789-04:00",
         "Discount": 30.0,
         "Label": "PC 24FHD Curvo, i5-13500, Gigabyte Z690 UD AX, 16GB RAM, 512GB M.2 XPG y mas"
-      }
-    ],
-    "Gamer": [
-      {
-        "Price": 2505.00,
-        "Features": [],
-        "Date": "2023-06-26T08:04:01.5569379-04:00",
-        "Update": "2023-06-26T08:36:12.4096105-04:00",
-        "Discount": 45.0,
-        "Label": "PC Gamer 24FHD 165Hz, RTX 3080Ti, i5-12600K, Kit Líquido, 32GB DDR5, 2TB M.2"
       }
     ]
   },
@@ -150,22 +132,6 @@
         "Update": "2023-06-29T19:14:10.5469413-04:00",
         "Discount": 10.0,
         "Label": "Kit Ryzen 7 5800X + Gigabyte B550M Aorus Elite + 16GB RAM 4000mhz"
-      }
-    ],
-    "Esencial": [
-      {
-        "Price": 375.00,
-        "Features": [
-          "13ra Gen",
-          "3200mhz",
-          "Disipadas",
-          "Dual channel",
-          "Micro ATX"
-        ],
-        "Date": "2023-06-24T13:25:39.3935036-04:00",
-        "Update": "2023-06-24T13:44:18.1058644-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i3-13100 +Disipador + B660M + 16GB"
       }
     ]
   },
@@ -458,22 +424,6 @@
         "Label": "Intel Core i9-12900K"
       },
       {
-        "Price": 165.00,
-        "Features": [
-          "13ra Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.5GHz",
-          "12MB L3",
-          "DDR4-DDR5",
-          "LGA 1700"
-        ],
-        "Date": "2023-03-22T09:04:00.899336-04:00",
-        "Update": "2023-06-09T16:50:28.9672988-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i3-13100 +Disipador"
-      },
-      {
         "Price": 285.00,
         "Features": [
           "13ra Gen",
@@ -520,22 +470,6 @@
         "Update": "2023-06-19T09:35:04.6028742-04:00",
         "Discount": 0.0,
         "Label": "Intel Core i5-13600K"
-      },
-      {
-        "Price": 155.00,
-        "Features": [
-          "12va Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.3GHz",
-          "12MB L3",
-          "DDR4-DDR5",
-          "LGA 1700"
-        ],
-        "Date": "2023-05-11T07:28:15.7616729-04:00",
-        "Update": "2023-06-29T08:04:07.1548353-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i3-12100 +Disipador"
       }
     ],
     "Fuente": [
@@ -1856,21 +1790,6 @@
         "Label": "Asus ROG Maximus Z690 Hero"
       },
       {
-        "Price": 270.00,
-        "Features": [
-          "12va-13ra",
-          "DDR5",
-          "6000mhz",
-          "LGA 1700",
-          "8x SATA",
-          "ATX"
-        ],
-        "Date": "2023-06-19T07:49:59.7312171-04:00",
-        "Update": "2023-06-29T08:04:07.1848773-04:00",
-        "Discount": 0.0,
-        "Label": "ASRock Z690 Steel Legend Wifi 6E D5"
-      },
-      {
         "Price": 255.00,
         "Features": [
           "12va-13ra",
@@ -2039,20 +1958,6 @@
         "Update": "2023-06-19T09:35:04.6937868-04:00",
         "Discount": 0.0,
         "Label": "Mouse Pad Corsair MM300 Extended"
-      },
-      {
-        "Price": 66.00,
-        "Features": [
-          "16000dpi",
-          "Optico",
-          "20 botónes",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-05-12T07:07:58.0685539-04:00",
-        "Update": "2023-06-24T10:51:11.3718503-04:00",
-        "Discount": 0.0,
-        "Label": "Mouse EVGA X15 MMO"
       },
       {
         "Price": 69.00,
