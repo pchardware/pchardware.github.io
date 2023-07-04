@@ -16,14 +16,6 @@
         "Update": "2023-06-26T07:20:34.8268258-04:00",
         "Discount": 75.0,
         "Label": "PC i9-13900K, ROG Hero, 32GB DDR5, 1TB SSD, 4070Ti, 32QHD 144Hz, y mas"
-      },
-      {
-        "Price": 2718.00,
-        "Features": [],
-        "Date": "2023-06-25T16:04:36.2552607-04:00",
-        "Update": "2023-06-26T07:20:34.8340319-04:00",
-        "Discount": 56.0,
-        "Label": "PC i5-13600K, 32GB DDR5, 1TB SSD, 3080Ti, 24FHD 144Hz y más"
       }
     ],
     "Rendimiento": [
@@ -2181,17 +2173,6 @@
         "Update": "2023-06-29T11:38:59.2013601-04:00",
         "Discount": 0.0,
         "Label": "Mouse Corsair Katar Pro Wireless"
-      },
-      {
-        "Price": 25.00,
-        "Features": [
-          "Extended",
-          "Negro"
-        ],
-        "Date": "2023-06-24T08:19:53.1308907-04:00",
-        "Update": "2023-06-29T12:58:02.8735131-04:00",
-        "Discount": 0.0,
-        "Label": "Mouse Pad Aukey Gaming XXL"
       }
     ],
     "Silla": [
@@ -2361,22 +2342,6 @@
         "Update": "2023-06-24T10:51:11.4902179-04:00",
         "Discount": 0.0,
         "Label": "Teclado Rosewill NEON K54"
-      },
-      {
-        "Price": 90.00,
-        "Features": [
-          "Gaming",
-          "RGB",
-          "Palm rest",
-          "Multimedia",
-          "Agua",
-          "Membrana",
-          "Full"
-        ],
-        "Date": "2023-06-24T08:20:25.9999089-04:00",
-        "Update": "2023-06-24T10:51:11.4976433-04:00",
-        "Discount": 0.0,
-        "Label": "Teclado Logitech Prodigy G213"
       },
       {
         "Price": 145.00,
