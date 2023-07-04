@@ -808,7 +808,7 @@
         "Label": "Fan Uphere 12BK3"
       },
       {
-        "Price": 19.0,
+        "Price": 19.00,
         "Features": [
           "2500rpm",
           "120mm",
@@ -1113,7 +1113,7 @@
         "Label": "HDD 3.5 Seagate Constellation 4TB"
       },
       {
-        "Price": 155.0,
+        "Price": 155.00,
         "Features": [
           "SATA 3",
           "6 Gbps"
