@@ -17,16 +17,6 @@
         "Discount": 75.0,
         "Label": "PC i9-13900K, ROG Hero, 32GB DDR5, 1TB SSD, 4070Ti, 32QHD 144Hz, y mas"
       }
-    ],
-    "Rendimiento": [
-      {
-        "Price": 1748.00,
-        "Features": [],
-        "Date": "2023-06-26T07:24:43.5837441-04:00",
-        "Update": "2023-06-26T08:36:12.3855476-04:00",
-        "Discount": 41.0,
-        "Label": "PC 27FHD, i9-12900K, Asus Prime Z690-A, Líquida 360, 64GB DDR5, 1TB M.2 7000mbs"
-      }
     ]
   },
   "Kits": {
@@ -645,19 +635,6 @@
         "Label": "Chasis Cougar MX440 Mesh RGB"
       },
       {
-        "Price": 205.00,
-        "Features": [
-          "Gamer",
-          "Tempered Glass",
-          "Mid Tower",
-          "ATX"
-        ],
-        "Date": "2023-05-11T19:31:57.3412017-04:00",
-        "Update": "2023-06-01T10:49:59.7180923-04:00",
-        "Discount": 0.0,
-        "Label": "Chasis Talius Gargola RGB"
-      },
-      {
         "Price": 135.00,
         "Features": [
           "8 GPU",
@@ -1155,21 +1132,6 @@
         "Update": "2023-06-09T16:50:28.7896342-04:00",
         "Discount": 0.0,
         "Label": "D.Líquida Asus TUF Gaming LC 120 RGB"
-      },
-      {
-        "Price": 140.00,
-        "Features": [
-          "3xFan",
-          "360mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4"
-        ],
-        "Date": "2023-03-27T12:00:13.1005683-04:00",
-        "Update": "2023-06-09T16:50:28.7958166-04:00",
-        "Discount": 0.0,
-        "Label": "D.Líquida Enermax AQUAFUSION 360 ARGB"
       },
       {
         "Price": 105.00,
@@ -1708,17 +1670,6 @@
         "Label": "DDR5 G.Skill Trident Z5 RGB 32GB 6400mhz"
       },
       {
-        "Price": 125.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-06-19T07:47:34.8001151-04:00",
-        "Update": "2023-06-19T09:35:04.6184657-04:00",
-        "Discount": 0.0,
-        "Label": "DDR5 Silicon Power Zenith 32GB 5600mhz"
-      },
-      {
         "Price": 15.00,
         "Features": [
           "RAM x4",
@@ -1915,20 +1866,6 @@
         "Update": "2023-06-29T12:09:37.2392665-04:00",
         "Discount": 0.0,
         "Label": "MSI MAG Z690 Tomahawk Wifi"
-      },
-      {
-        "Price": 345.00,
-        "Features": [
-          "12va-13ra",
-          "DDR5",
-          "7200mhz",
-          "LGA 1700",
-          "ATX"
-        ],
-        "Date": "2023-06-07T13:42:34.7916197-04:00",
-        "Update": "2023-06-29T12:30:04.4059508-04:00",
-        "Discount": 0.0,
-        "Label": "Asus TUF Gaming Z790-Plus Wifi"
       }
     ]
   },
