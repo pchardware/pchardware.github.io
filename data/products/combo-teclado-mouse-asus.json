@@ -5,12 +5,16 @@
     "/images/products/combo-teclado-mouse-asus-1.webp"
   ],
   "Description": "",
-  "Price": 30.00,
+  "Price": 35.00,
   "Features": [
+    "Membrana",
+    "Optico",
+    "3 botónes",
+    "Full",
     "USB"
   ],
   "Date": "2023-05-11T20:29:33.0676825-04:00",
-  "Update": "2023-06-01T10:57:48.5593754-04:00",
+  "Update": "2023-06-24T10:51:11.4236226-04:00",
   "Discount": 0.0,
   "Label": "COMBO Teclado + Mouse Asus"
 }
