@@ -1,0 +1,25 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Chasis",
+  "Images": [
+    "/images/products/chasis-talius-gargola-rgb-1.webp",
+    "/images/products/chasis-talius-gargola-rgb-2.webp",
+    "/images/products/chasis-talius-gargola-rgb-3.webp",
+    "/images/products/chasis-talius-gargola-rgb-4.webp",
+    "/images/products/chasis-talius-gargola-rgb-5.webp",
+    "/images/products/chasis-talius-gargola-rgb-6.webp",
+    "/images/products/chasis-talius-gargola-rgb-7.webp"
+  ],
+  "Description": "",
+  "Price": 205.00,
+  "Features": [
+    "Gamer",
+    "Tempered Glass",
+    "Mid Tower",
+    "ATX"
+  ],
+  "Date": "2023-05-11T19:31:57.3412017-04:00",
+  "Update": "2023-06-01T10:49:59.7180923-04:00",
+  "Discount": 0.0,
+  "Label": "Chasis Talius Gargola RGB"
+}
