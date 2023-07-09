@@ -11,14 +11,10 @@
   "Description": "Model\nBrand: CORSAIR\nSeries: Vengeance Pro Series\nModel: CMYAF\n\n\nDetails\nType: Fans\nCompatibility: Memory\nBearing Type: Ball\nRPM: 3500/2500 RPM (using included speed control cable)\nAir Flow: 14.5 CFM\nNoise Level: 21.0 dB(A) (25 dB(A) max)\nFan Color: Black\n\n\nFeatures\nFeatures: Large 60mm adjustable speed fan (Fan life: 80,000hrs/25 degr C)The large-diameter design incorporates a ball bearing to minimize vibration and quietly delivers 14.5 CFM at 3,500 RPM. The included cable attaches to a standard motherboard fan header for speed control.Airflow-optimized housingThe fan enclosure is designed to channel cool air across the top sides of the Vengeance modules while drawing hot air away from the socket area.Asymmetric, interchangeable mounting bracketsThe clever mounting system accommodates multiple motherboard configurations. It helps ensure a firm fit while minimizing potential interference with GPUs or liquid CPU coolers.Replaceable color accent coversEach kit includes red, blue and silver so you can match the fan enclosure color to your Vengeance memory or your system.\n\n\nDimensions & Weight\nFan Dimensions: 60mm",
   "Price": 15.00,
   "Features": [
-    "RAM x4",
-    "3500rpm",
-    "60mm",
-    "14cfm",
-    "25dB"
+    "RAM x4"
   ],
   "Date": "2023-06-07T15:04:43.4119901-04:00",
-  "Update": "2023-07-04T07:02:45.3005622-04:00",
+  "Update": "2023-06-07T15:55:09.4433063-04:00",
   "Discount": 0.0,
   "Label": "Cooler Fan Corsair Vengance LPX"
 }
