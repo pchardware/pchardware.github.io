@@ -1,0 +1,20 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Memoria RAM",
+  "Images": [
+    "/images/products/ddr4-patriot-viper-8gb-1.webp",
+    "/images/products/ddr4-patriot-viper-8gb-2.webp",
+    "/images/products/ddr4-patriot-viper-8gb-3.webp"
+  ],
+  "Description": "",
+  "Price": 35.00,
+  "Features": [
+    "3200mhz",
+    "1x8GB",
+    "Disipada"
+  ],
+  "Date": "2023-03-30T09:56:51.9497004-04:00",
+  "Update": "2023-06-01T10:49:59.5223048-04:00",
+  "Discount": 0.0,
+  "Label": "DDR4 Patriot Viper 8GB"
+}
