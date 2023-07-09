@@ -1,0 +1,24 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disipador Líquido",
+  "Images": [
+    "/images/products/dlquida-enermax-aquafusion-360-argb-1.webp",
+    "/images/products/dlquida-enermax-aquafusion-360-argb-2.webp",
+    "/images/products/dlquida-enermax-aquafusion-360-argb-3.webp",
+    "/images/products/dlquida-enermax-aquafusion-360-argb-4.webp"
+  ],
+  "Description": "Model\nBrand: Enermax\nSeries: AQUAFUSION 360\nModel: ELC-AQF360-SQA\nType: Liquid Cooling System\n\n\nBlock\nBlock Compatibility: Intel LGA 2066 / 2011(-3) Square ILM / 1700 / 1366 / 1200 / 115x AMD AM5 / AM4 / AM3(+) / AM2(+) / FM2(+) / FM1\nBlock Material: Nickel plated copper\n\n\nPump\nPump Bearing: Ceramic bearing\n\n\nRadiator\nRadiator Size: 394.00 x 120.00 x 27.00 mm\nRadiator Material: Aluminum\n\n\nFan\nFan Size: 3 Fan Slots (120 mm)\nFan Dim.: 120.00 x 120.00 x 26.00 mm\nFan RPM: 500 - 2,000 RPM\nFan Air Flow: 39 - 79.8 CFM\nFan Noise: 17 - 32.6 dBA\nFan Connector: 4 pin PWM (GND/12V/Tacho/PWM)\nColor: Black\nLED Color: ARGB\n\n\nTube\nTube Dim.: Length: 400mm\nTube Material: Rubber (Polyamide)\n\n\nFeatures\nFeatures: AQUAFUSION is an all-in-one CPU liquid cooler with individually addressable RGB LEDs.The RGB water block is equipped with a 3D Layer Design with Aurabelt for unique lighting effects.Together with ENERMAX SquA RGB addressable fans, AQUAFUSION can create dynamic visual experience via motherboard software or included control box.The ENERMAX SquA RGB fans create a strong centred air pressure through the Vortex Frame Design to quickly dissipate heat from the radiator.Thanks to ENERMAX's patented Dual-Chamber Design, Central Coolant Inlet (CCI) and Shunt-Channel Technology (SCT) the cooler achieves faster heat transfer and extended lifetime.AQUAFUSION is a one of a kind cooling solution for custom gaming rigs or stunning system builds for Intel and AMD CPUs.",
+  "Price": 150.00,
+  "Features": [
+    "3xFan",
+    "360mm",
+    "LGA 1700",
+    "LGA 1200",
+    "LGA 115X",
+    "AM4"
+  ],
+  "Date": "2023-03-27T12:00:13.1005683-04:00",
+  "Update": "2023-06-09T16:50:28.7958166-04:00",
+  "Discount": 0.0,
+  "Label": "D.Líquida Enermax AQUAFUSION 360 ARGB"
+}
