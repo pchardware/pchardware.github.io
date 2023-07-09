@@ -1,0 +1,24 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Monitor",
+  "Images": [
+    "/images/products/acer-ed0-27fhd-ed270r-1.webp",
+    "/images/products/acer-ed0-27fhd-ed270r-2.webp",
+    "/images/products/acer-ed0-27fhd-ed270r-3.webp",
+    "/images/products/acer-ed0-27fhd-ed270r-4.webp",
+    "/images/products/acer-ed0-27fhd-ed270r-5.webp"
+  ],
+  "Description": "Model\nBrand: Acer\nSeries: ED0\nModel: ED270R Pbiipx\nPart Number: UM.HE0AA.P01\nCabinet Color: Black\n\n\nDisplay\nScreen Size: 27\"\nWidescreen: Yes\nLED Backlight: Yes\nPanel: VA\nDisplay Type: FHD\nAdaptive Sync Technology: FreeSync (AMD Adaptive Sync)\nRecommended Resolution: 1920 x 1080\nViewing Angle: 178° (H) / 178° (V)\nAspect Ratio: 16:9\nBrightness: 250 cd/m2\nContrast Ratio: 4000:1\nResponse Time: 5 ms\nDisplay Colors: 16.7 Million\nRefresh Rate: 165 Hz\nCurvature Radius: 1500R\nCurved Surface Screen: Curved\n\n\nConnectivity\nInput Video Compatibility: Digital\nConnectors: HDMI, DisplayPort\nHDMI: 2\nDisplayPort: 2\nVideo Ports: 2 x DisplayPort / 2 x HDMI\n\n\nPower\nPower Supply: 100 - 240 VAC, 50/60Hz\n\n\nConvenience\nStand Adjustments: Tilt\nVESA Compatibility - Mountable: 75 x 75mm\n\n\nDimensions & Weight\nDimensions (H x W x D): 18.35\" x 24.61\" x 7.72\" w/ stand14.29\" x 24.61\" x 2.99\" w/o stand\nWeight: 8.36 lbs. w/ stand7.28 lbs. w/o stand",
+  "Price": 365.00,
+  "Features": [
+    "165Hz",
+    "Curvo",
+    "VA",
+    "250cd",
+    "FreeSync"
+  ],
+  "Date": "2023-05-11T19:57:48.2691264-04:00",
+  "Update": "2023-06-07T16:50:45.4151089-04:00",
+  "Discount": 0.0,
+  "Label": "Acer ED0 27FHD ED270R"
+}
