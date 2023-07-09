@@ -1,0 +1,22 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Board",
+  "Images": [
+    "/images/products/asrock-b760m-pg-riptide-1.webp",
+    "/images/products/asrock-b760m-pg-riptide-2.webp",
+    "/images/products/asrock-b760m-pg-riptide-3.webp",
+    "/images/products/asrock-b760m-pg-riptide-4.webp"
+  ],
+  "Description": "Model\nBrand: ASRock\nModel: B760M PG Riptide\n\n\nSupported CPU\nCPU Socket Type: LGA 1700\nCPU Type: Intel Core 12th Gen (LGA 1700) / Intel Core 13th Gen (LGA 1700)\n\n\nChipsets\nChipset: Intel B760\n\n\nMemory\nNumber of Memory Slots: 4x288pin (DDR5)\nMemory Standard: DDR5 4800\nMaximum Memory Supported: 128GB\nChannel Supported: Dual Channel\nMemory Feature: Supports DDR5 non-ECC, un-buffered memory up to 6800+(OC)*1DPC 1R Up to 6800+ MHz (OC), 4800 MHz Natively.1DPC 2R Up to 6000+ MHz (OC), 4400 MHz Natively.2DPC 1R Up to 5600+ MHz (OC), 4000 MHz Natively.2DPC 2R Up to 4800+ MHz (OC), 3600 MHz Natively.- Supports Intel Extreme Memory Profile (XMP) 3.0* Please refer to Memory Support List on ASRock's website for more information. (http://www.asrock.com/)\n\n\nExpansion Slots\nPCI Express 4.0 x16: 1 x PCIe 4.0 x16 Slot (PCIE1), supports x16 mode*\nPCI Express x1: 1 x PCIe 4.0 x1 Slot (PCIE2) ** Supports NVMe SSD as boot disks\n\n\nStorage Devices\nSATA 6Gb/s: 4 x SATA 6Gb/s\nM.2: CPU:- 1 x Hyper M.2 Socket (M2_1, Key M), supports type 2280 PCIe Gen4x4 (64 Gb/s) mode*Chipset:- 1 x Hyper M.2 Socket (M2_2, Key M), supports type 2280 PCIe Gen4x4 (64 Gb/s) mode** Supports Intel Volume Management Device (VMD)* Supports NVMe SSD as boot disks\nSATA RAID: 0/1/5/10\n\n\nOnboard Audio\nAudio Chipset: Realtek ALC897\nAudio Channels: 7.1 Channels\n\n\nOnboard LAN\nLAN Chipset: Dragon RTL8125BG\nMax LAN Speed: 2.5Gbps\n\n\nRear Panel Ports\nBack I/O Ports: 2 x Antenna Mounting Points1 x PS/2 Mouse/Keyboard Port1 x HDMI Port1 x DisplayPort 1.41 x USB 3.2 Gen1 Type-C Port3 x USB 3.2 Gen1 Type-A Ports4 x USB 2.0 Ports1 x RJ-45 LAN PortHD Audio Jacks: Line in / Front Speaker / Microphone\n\n\nInternal I/O Connectors\nOnboard USB: 2 x USB 2.0 Headers (Support 4 USB 2.0 ports)1 x USB 3.2 Gen1 Header (Supports 2 USB 3.2 Gen1 ports)1 x Front Panel Type C USB 3.2 Gen2 Header (10 Gb/s)\nOther Connectors: 1 x eDP Signal Connector1 x SPI TPM Header1 x Chassis Intrusion and Speaker Header1 x RGB LED Header*3 x Addressable LED Headers**1 x CPU Fan Connector (4-pin) ***1 x CPU/Water Pump Fan Connector (4-pin) (Smart Fan Speed Control) ****3 x Chassis/Water Pump Fan Connectors (4-pin) (Smart Fan Speed Control) *****1 x Front Panel Audio Connector* Supports in total up to 12V/3A, 36W LED Strip** Support in total up to 5V/3A, 15W LED Strip*** CPU_FAN1 supports the fan power up to 1A (12W).**** CPU_FAN2/WP supports the fan power up to 2A (24W).***** CHA_FAN1~3/WP support the fan power up to 2A (24W).***** CPU_FAN2/WP and CHA_FAN1~3/WP can auto detect if 3-pin or 4-pin fan is in use.\n\n\nPhysical Spec\nForm Factor: Micro ATX\nDimensions (W x L): 9.6\" x 9.6\"\nPower Pin: 1 x 8 pin 12V Power Connector (Hi-Density Power Connector)1 x 4 pin 12V Power Connector (Hi-Density Power Connector)\n\n\nWindows Compatibility\nWindows 11: Supported\n\n\nFeatures\nFeatures: Superb Productivity- Dual Channel DDR5Rock-Solid Durability- 14+1+1 Power Phase- Pre-Installed I/O ShieldUltrafast Connectivity- 2.5G LANEZ Update- ASRock Auto Driver InstallerEZ Troubleshooter- ASRock Post Status Checker\n\n\nPackaging\nPackage Contents: 1 x User Manual2 x SATA Data Cables2 x Screws for M.2 Sockets",
+  "Price": 185.00,
+  "Features": [
+    "12va-13ra",
+    "DDR5",
+    "6800mhz",
+    "LGA 1700"
+  ],
+  "Date": "2023-06-07T13:42:31.4460874-04:00",
+  "Update": "2023-06-09T16:50:28.8861942-04:00",
+  "Discount": 0.0,
+  "Label": "ASRock B760M PG Riptide"
+}
