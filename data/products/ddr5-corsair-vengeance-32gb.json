@@ -1,0 +1,21 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Memoria RAM",
+  "Images": [
+    "/images/products/ddr5-corsair-vengeance-32gb-1.webp",
+    "/images/products/ddr5-corsair-vengeance-32gb-2.webp",
+    "/images/products/ddr5-corsair-vengeance-32gb-3.webp",
+    "/images/products/ddr5-corsair-vengeance-32gb-4.webp"
+  ],
+  "Description": "Model\nBrand: CORSAIR\nSeries: Vengeance\nModel: CMK32GX5M2D6000Z36\n\n\nDetails\nCapacity: 32GB (2 x 16GB)\nSpeed: DDR5 6000 (PC5 48000)\nCAS Latency: 36\nTiming: 36-36-36-76\nVoltage: 1.35V\nChipset: AMD EXPO/XMP3.0\nColor: Black\nFeatures: AMD EXPO, EXtended Profiles for Overclocking ready\nRecommend Use: AMD X670, AMD B650, AMD 7000 series CPU\nLED Color: None",
+  "Price": 145.00,
+  "Features": [
+    "6000mhz",
+    "2x16GB",
+    "Disipadas"
+  ],
+  "Date": "2023-05-11T08:36:03.7462691-04:00",
+  "Update": "2023-06-07T16:28:39.0850192-04:00",
+  "Discount": 0.0,
+  "Label": "DDR5 Corsair Vengeance 32GB"
+}
