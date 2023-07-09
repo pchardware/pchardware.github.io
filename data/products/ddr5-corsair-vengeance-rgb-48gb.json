@@ -1,0 +1,24 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Memoria RAM",
+  "Images": [
+    "/images/products/ddr5-corsair-vengeance-rgb-48gb-1.webp",
+    "/images/products/ddr5-corsair-vengeance-rgb-48gb-2.webp",
+    "/images/products/ddr5-corsair-vengeance-rgb-48gb-3.webp",
+    "/images/products/ddr5-corsair-vengeance-rgb-48gb-4.webp",
+    "/images/products/ddr5-corsair-vengeance-rgb-48gb-5.webp",
+    "/images/products/ddr5-corsair-vengeance-rgb-48gb-6.webp",
+    "/images/products/ddr5-corsair-vengeance-rgb-48gb-7.webp"
+  ],
+  "Description": "Model\nBrand: CORSAIR\nSeries: Vengeance RGB\nModel: CMH48GX5M2B5600C40\nPart Number: CMH48GX5M2B5600C40\n\n\nDetails\nCapacity: 48GB (2 x 24GB)\nType: 288-Pin PC RAM\nSpeed: DDR5 5600 (PC5 44800)\nCAS Latency: 40\nTiming: 40-40-40-77\nVoltage: 1.25V\nMulti-channel Kit: Dual Channel Kit\nChipset: Intel XMP 3.0\nColor: Black\nFeatures: Welcome to the Cutting-Edge of Performance: Push the limits of your system like never before with CORSAIR DDR5 memory, unlocking even faster frequencies, greater capacities, and higher CPU processing.Dynamic Ten-Zone RGB Lighting: Illuminate your system with ten individually addressable, ultra-bright RGB LEDs per module, encased in a panoramic light bar for vivid RGB lighting from any viewing angle.Create and Customize: Choose from dozens of preset lighting profiles, or create your own in iCUE.Custom Intel XMP 3.0 Profiles: Customize and save your own XMP profiles via iCUE to tailor performance by app or task for greater efficiency.Maximum Bandwidth and Tight Response Times: Optimized for peak performance on the latest Intel DDR5 motherboards.Custom Performance PCB: Provides the highest signal quality for the greatest level of performance and stability.Tightly Screened Memory: Carefully screened memory chips for extended overclocking potential.Onboard Voltage Regulation: Enables easier, more finely-tuned, and more stable overclocking through CORSAIR iCUE software than previous generation motherboard control.Powerful CORSAIR iCUE Software: Dynamic RGB lighting control synchronized across your entire iCUE setup, real-time temperature and frequency readings, onboard voltage regulation, and custom XMP profiles.Stylish Solid Aluminum Heatspreader: Efficiently conducts heat away from your memory, with refined VENGEANCE styling to fit the look of modern systems.\nRecommend Use: Intel 700 Series & Some 600 SeriesMSI MB Compatible list: PRO Z690-A,  PRO Z690-A DDR4,  MPG Z690 CARBON WIFI,  MPG Z690 EDGE WIFI,  PRO Z690-A WIFI,  MAG Z690 TOMAHAWK WIFI,  MPG Z690 FORCE WIFI,  MEG Z690 UNIFY,  MEG Z690 ACE,  MAG Z790 TOMAHAWK WIFI,  PRO Z790-A WIFI,  MPG Z790 CARBON WIFI,  MPG Z790 EDGE WIFI,  PRO Z790-P WIFI,  MEG Z790 ACE,  MPG Z790I EDGE WIFI\nLED Color: RGB",
+  "Price": 190.00,
+  "Features": [
+    "5600mhz",
+    "2x24GB",
+    "Disipadas"
+  ],
+  "Date": "2023-05-11T08:37:27.4728146-04:00",
+  "Update": "2023-06-07T16:28:39.0816343-04:00",
+  "Discount": 0.0,
+  "Label": "DDR5 Corsair Vengeance RGB 48GB"
+}
