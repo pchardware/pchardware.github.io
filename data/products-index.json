@@ -46,30 +46,6 @@
         "Label": "Kit i9-13900K + Asus ROG Maximus Z690 Hero + G.Skill Trident Z5 RGB 32GB 6400mhz"
       }
     ],
-    "Moderado": [
-      {
-        "Price": 570.00,
-        "Features": [
-          "12va Gen",
-          "3600mhz",
-          "Disipadas",
-          "Dual channel",
-          "Overclock"
-        ],
-        "Date": "2023-04-11T20:47:22.96229-04:00",
-        "Update": "2023-06-24T13:44:18.0762814-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-12600K + Gigabyte Z690 UD AX + 16GB RAM RGB"
-      },
-      {
-        "Price": 469.00,
-        "Features": [],
-        "Date": "2023-06-29T19:08:23.1544102-04:00",
-        "Update": "2023-06-29T19:14:10.5384351-04:00",
-        "Discount": 11.0,
-        "Label": "Kit Ryzen 7 5700G + Gigabyte B550M Aorus Elite + 16GB Patriot Viper"
-      }
-    ],
     "Rendimiento": [
       {
         "Price": 905.00,
@@ -92,6 +68,16 @@
         "Update": "2023-06-29T19:14:10.5469413-04:00",
         "Discount": 10.0,
         "Label": "Kit Ryzen 7 5800X + Gigabyte B550M Aorus Elite + 16GB RAM 4000mhz"
+      }
+    ],
+    "Moderado": [
+      {
+        "Price": 469.00,
+        "Features": [],
+        "Date": "2023-06-29T19:08:23.1544102-04:00",
+        "Update": "2023-06-29T19:14:10.5384351-04:00",
+        "Discount": 11.0,
+        "Label": "Kit Ryzen 7 5700G + Gigabyte B550M Aorus Elite + 16GB Patriot Viper"
       }
     ]
   },
@@ -1732,19 +1718,6 @@
         "Label": "Asus Prime Z690-A"
       },
       {
-        "Price": 250.00,
-        "Features": [
-          "12va-13ra",
-          "5333mhz",
-          "LGA 1700",
-          "ATX"
-        ],
-        "Date": "2023-03-29T20:18:25.1874798-04:00",
-        "Update": "2023-06-29T08:04:07.1473825-04:00",
-        "Discount": 0.0,
-        "Label": "Gigabyte Z690 UD AX DDR4"
-      },
-      {
         "Price": 290.00,
         "Features": [
           "12va-13ra",
@@ -2139,21 +2112,6 @@
         "Update": "2023-06-07T16:50:45.3103227-04:00",
         "Discount": 0.0,
         "Label": "Silla YAHEETECH"
-      },
-      {
-        "Price": 380.00,
-        "Features": [
-          "ergonómica",
-          "reposacabezas",
-          "almohada lumbar",
-          "algodón interior",
-          "cuero transpirable",
-          "altura ajustable"
-        ],
-        "Date": "2023-06-07T10:26:58.9524997-04:00",
-        "Update": "2023-06-07T16:50:45.3270327-04:00",
-        "Discount": 0.0,
-        "Label": "Silla Gamer Ergoseat"
       }
     ],
     "Teclado": [
