@@ -1,0 +1,21 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disco Sólido",
+  "Images": [
+    "/images/products/ssd-m2-adata-premium-2tb-1.webp",
+    "/images/products/ssd-m2-adata-premium-2tb-2.webp",
+    "/images/products/ssd-m2-adata-premium-2tb-3.webp",
+    "/images/products/ssd-m2-adata-premium-2tb-4.webp"
+  ],
+  "Description": "Model\nBrand: ADATA\nModel: APSFG-2T-CSUS\nDevice Type: Internal Solid State Drive (SSD)\nUsed For: Consumer\n\n\nDetails\nForm Factor: M.2 2280\nCapacity: 2TB\nMemory Components: 3D NAND\nInterface: PCI-Express 4.0 x4, NVMe 1.4\nController: InnoGrit\nEncryption: AES 256-bit encryption\n\n\nPerformance\nMax Sequential Read: Up to 7400 MBps (PC/Laptop)\nUp to 6100 MBps (PS5)\nMax Sequential Write: Up to 6800 MBps\n4KB Random Read: Up to 750,000 IOPS\n4KB Random Write: Up to 750,000 IOPS\nTerabytes Written (TBW): 1480TB\nMTBF: 2,000,000 hours\n\n\nEnvironmental\nOperating Temperature: 0°C ~ +70°C\nStorage Temperature: -40°C ~ +85°C\nMax Shock Resistance: 1500G\n\n\nDimensions & Weight\nHeight: 4.30mm (with heat sink)\n3.3mm (without heat sink)\nWidth: 22.00mm\nDepth: 80.00mm\nWeight: 10.00g (with heat sink)\n7.00g (without heat sink)",
+  "Price": 140.00,
+  "Features": [
+    "7400mbs",
+    "PCIe 4",
+    "NVMe"
+  ],
+  "Date": "2023-07-09T16:53:43.4807497-04:00",
+  "Update": "2023-07-09T22:12:28.0222755-04:00",
+  "Discount": 0.0,
+  "Label": "SSD M.2 AData Premium 2TB"
+}
