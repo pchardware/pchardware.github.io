@@ -414,6 +414,19 @@
         "Update": "2023-07-09T16:42:13.6440648-04:00",
         "Discount": 0.0,
         "Label": "XFX Speedster QICK 210 RX 6500 XT"
+      },
+      {
+        "Price": 190.00,
+        "Features": [
+          "4GB",
+          "1xFan",
+          "Radeon",
+          "AMD"
+        ],
+        "Date": "2023-07-09T16:45:07.237632-04:00",
+        "Update": "2023-07-09T22:12:27.9403789-04:00",
+        "Discount": 0.0,
+        "Label": "ASRock Challenger ITX RX 6500 XT 4GB"
       }
     ],
     "Fuente": [
@@ -578,6 +591,14 @@
         "Update": "2023-06-29T16:09:59.9682123-04:00",
         "Discount": 0.0,
         "Label": "Fuente Rosewill CMG850"
+      },
+      {
+        "Price": 115.00,
+        "Features": [],
+        "Date": "2023-07-09T16:51:14.2364929-04:00",
+        "Update": "2023-07-09T22:12:28.0113713-04:00",
+        "Discount": 0.0,
+        "Label": "PSU - Raidmax Cobra 700W RX-700AC-B 80+ Bronze"
       }
     ],
     "Chasis": [
@@ -738,6 +759,16 @@
         "Update": "2023-06-19T11:56:16.8512304-04:00",
         "Discount": 0.0,
         "Label": "Pasta Termica"
+      },
+      {
+        "Price": 19.00,
+        "Features": [
+          "120mm"
+        ],
+        "Date": "2023-07-09T16:44:57.8203824-04:00",
+        "Update": "2023-07-09T22:12:27.935211-04:00",
+        "Discount": 0.0,
+        "Label": "Fan Asus ROG Ryuo Model 12"
       }
     ],
     "Memoria RAM": [
@@ -1123,6 +1154,42 @@
         "Update": "2023-06-19T11:56:16.862009-04:00",
         "Discount": 0.0,
         "Label": "SSD M.2 ADATA XPG SX8100 512GB"
+      },
+      {
+        "Price": 120.00,
+        "Features": [
+          "5000mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-07-09T16:45:24.2760094-04:00",
+        "Update": "2023-07-09T22:12:27.9879372-04:00",
+        "Discount": 0.0,
+        "Label": "SSD M.2 Silicon Power 2TB UD90"
+      },
+      {
+        "Price": 140.00,
+        "Features": [
+          "7400mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-07-09T16:53:43.4807497-04:00",
+        "Update": "2023-07-09T22:12:28.0222755-04:00",
+        "Discount": 0.0,
+        "Label": "SSD M.2 AData Premium 2TB"
+      },
+      {
+        "Price": 80.00,
+        "Features": [
+          "5000mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-07-09T16:53:54.2555832-04:00",
+        "Update": "2023-07-09T22:12:28.0274155-04:00",
+        "Discount": 0.0,
+        "Label": "SSD M.2 Silicon Power 1TB UD90"
       }
     ],
     "Disco Duro": [
@@ -1193,6 +1260,28 @@
         "Update": "2023-07-09T16:42:13.6495397-04:00",
         "Discount": 0.0,
         "Label": "HDD 3.5 Seagate Constellation 4TB"
+      },
+      {
+        "Price": 155.00,
+        "Features": [
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-07-09T16:45:20.2279999-04:00",
+        "Update": "2023-07-09T22:12:27.9762803-04:00",
+        "Discount": 0.0,
+        "Label": "HDD 3.5 Seagate BarraCuda 8TB"
+      },
+      {
+        "Price": 69.00,
+        "Features": [
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-07-09T16:45:29.3179876-04:00",
+        "Update": "2023-07-09T22:12:27.9953545-04:00",
+        "Discount": 0.0,
+        "Label": "HDD 3.5 Toshiba 2TB"
       }
     ],
     "Disipador Líquido": [
@@ -1753,6 +1842,20 @@
         "Update": "2023-06-29T12:09:37.2392665-04:00",
         "Discount": 0.0,
         "Label": "MSI MAG Z690 Tomahawk Wifi"
+      },
+      {
+        "Price": 210.00,
+        "Features": [
+          "10ma-11na",
+          "DDR4",
+          "4800mhz",
+          "LGA 1200",
+          "ATX"
+        ],
+        "Date": "2023-07-09T16:53:38.4898666-04:00",
+        "Update": "2023-07-09T22:12:28.0164915-04:00",
+        "Discount": 0.0,
+        "Label": "ASRock Z590 Extreme Wifi 6E"
       }
     ]
   },
@@ -1997,6 +2100,29 @@
         "Update": "2023-06-29T11:38:59.2013601-04:00",
         "Discount": 0.0,
         "Label": "Mouse Corsair Katar Pro Wireless"
+      },
+      {
+        "Price": 97.00,
+        "Features": [],
+        "Date": "2023-07-09T16:44:39.4151482-04:00",
+        "Update": "2023-07-09T22:12:27.922397-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse Razer Viper Ultimate"
+      },
+      {
+        "Price": 67.00,
+        "Features": [
+          "Optico",
+          "8500dpi",
+          "6 botónes",
+          "61g",
+          "RGB",
+          "USB"
+        ],
+        "Date": "2023-07-09T16:44:42.8536521-04:00",
+        "Update": "2023-07-09T22:12:27.9299035-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse Razer Viper Mini"
       }
     ],
     "Silla": [
@@ -2389,6 +2515,22 @@
         "Update": "2023-06-29T11:38:59.1843409-04:00",
         "Discount": 0.0,
         "Label": "Acer Nitro 28UHD VG281K"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "165Hz",
+          "1ms",
+          "Freesync",
+          "HDR10",
+          "VA",
+          "250 Nit",
+          "Gaming"
+        ],
+        "Date": "2023-07-09T16:44:32.5135505-04:00",
+        "Update": "2023-07-09T22:12:27.9136354-04:00",
+        "Discount": 0.0,
+        "Label": "Acer Nitro 24FHD QG241Y"
       }
     ],
     "Webcam": [
