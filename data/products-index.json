@@ -2160,37 +2160,6 @@
         "Label": "Teclado Asus TUF Gaming K3"
       },
       {
-        "Price": 110.00,
-        "Features": [
-          "Membrana",
-          "RGB",
-          "Palm rest",
-          "Macros",
-          "Aura Sync",
-          "Gaming",
-          "Multimedia",
-          "Full"
-        ],
-        "Date": "2023-06-07T10:25:59.490678-04:00",
-        "Update": "2023-06-24T10:51:11.4163082-04:00",
-        "Discount": 0.0,
-        "Label": "Teclado Asus TUF Gaming K1"
-      },
-      {
-        "Price": 35.00,
-        "Features": [
-          "Membrana",
-          "Optico",
-          "3 botónes",
-          "Full",
-          "USB"
-        ],
-        "Date": "2023-05-11T20:29:33.0676825-04:00",
-        "Update": "2023-06-24T10:51:11.4236226-04:00",
-        "Discount": 0.0,
-        "Label": "COMBO Teclado + Mouse Asus"
-      },
-      {
         "Price": 70.00,
         "Features": [
           "Inalámbrico",
@@ -2311,18 +2280,6 @@
         "Label": "Teclado Asus ROG Strix Flare"
       },
       {
-        "Price": 59.00,
-        "Features": [
-          "Inalámbrico",
-          "Membrana",
-          "Full"
-        ],
-        "Date": "2023-07-09T16:45:11.3382579-04:00",
-        "Update": "2023-07-11T00:46:41.4750214-04:00",
-        "Discount": 0.0,
-        "Label": "COMBO Teclado + Mouse Logitech MK270"
-      },
-      {
         "Price": 57.00,
         "Features": [
           "Inalámbrico",
@@ -2333,6 +2290,49 @@
         "Update": "2023-07-11T00:46:41.4816907-04:00",
         "Discount": 0.0,
         "Label": "COMBO Teclado + Mouse Lenovo 300"
+      },
+      {
+        "Price": 110.00,
+        "Features": [
+          "Membrana",
+          "RGB",
+          "Palm rest",
+          "Macros",
+          "Aura Sync",
+          "Gaming",
+          "Multimedia",
+          "Full"
+        ],
+        "Date": "2023-06-07T10:25:59.490678-04:00",
+        "Update": "2023-07-11T12:41:46.9692357-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado Asus TUF Gaming K1"
+      },
+      {
+        "Price": 35.00,
+        "Features": [
+          "Membrana",
+          "Optico",
+          "3 botónes",
+          "Full",
+          "USB"
+        ],
+        "Date": "2023-05-11T20:29:33.0676825-04:00",
+        "Update": "2023-07-11T12:41:46.9809036-04:00",
+        "Discount": 0.0,
+        "Label": "COMBO Teclado + Mouse Asus K49"
+      },
+      {
+        "Price": 59.00,
+        "Features": [
+          "Inalámbrico",
+          "Membrana",
+          "Full"
+        ],
+        "Date": "2023-07-09T16:45:11.3382579-04:00",
+        "Update": "2023-07-11T12:41:46.9909928-04:00",
+        "Discount": 0.0,
+        "Label": "COMBO Teclado + Mouse Logitech MK270"
       }
     ],
     "Sonido": [
