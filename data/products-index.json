@@ -2365,14 +2365,6 @@
         "Label": "Audífonos Asus TUF H1 Wireless"
       },
       {
-        "Price": 73.00,
-        "Features": [],
-        "Date": "2023-07-09T16:45:42.268062-04:00",
-        "Update": "2023-07-11T00:35:21.3380666-04:00",
-        "Discount": 0.0,
-        "Label": "Headset - Logitech G335"
-      },
-      {
         "Price": 64.00,
         "Features": [],
         "Date": "2023-07-09T16:45:46.4090102-04:00",
@@ -2395,6 +2387,14 @@
         "Update": "2023-07-11T16:27:21.721843-04:00",
         "Discount": 0.0,
         "Label": "Headset - Corsair HS65 Surround"
+      },
+      {
+        "Price": 73.00,
+        "Features": [],
+        "Date": "2023-07-09T16:45:42.268062-04:00",
+        "Update": "2023-07-11T16:46:22.6213767-04:00",
+        "Discount": 0.0,
+        "Label": "Headset - Logitech G335"
       }
     ],
     "Monitor": [
