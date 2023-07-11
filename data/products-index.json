@@ -2365,14 +2365,6 @@
         "Label": "Audífonos Asus TUF H1 Wireless"
       },
       {
-        "Price": 89.00,
-        "Features": [],
-        "Date": "2023-07-09T16:44:46.7059022-04:00",
-        "Update": "2023-07-11T00:35:21.3087114-04:00",
-        "Discount": 0.0,
-        "Label": "Headset - Razer BlackShark V2 X"
-      },
-      {
         "Price": 87.00,
         "Features": [],
         "Date": "2023-07-09T16:45:38.4980752-04:00",
@@ -2395,6 +2387,14 @@
         "Update": "2023-07-11T00:54:19.4786384-04:00",
         "Discount": 0.0,
         "Label": "Headset - Logitech G435 Lightspeed Wireless Rosa-Azul"
+      },
+      {
+        "Price": 89.00,
+        "Features": [],
+        "Date": "2023-07-09T16:44:46.7059022-04:00",
+        "Update": "2023-07-11T15:50:57.1003598-04:00",
+        "Discount": 0.0,
+        "Label": "Headset - Razer BlackShark V2 X"
       }
     ],
     "Monitor": [
