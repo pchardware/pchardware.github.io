@@ -1,0 +1,20 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Teclado",
+  "Images": [
+    "/images/products/combo-teclado-mouse-asus-k49-1.webp"
+  ],
+  "Description": "",
+  "Price": 35.00,
+  "Features": [
+    "Membrana",
+    "Optico",
+    "3 botónes",
+    "Full",
+    "USB"
+  ],
+  "Date": "2023-05-11T20:29:33.0676825-04:00",
+  "Update": "2023-07-11T12:41:46.9809036-04:00",
+  "Discount": 0.0,
+  "Label": "COMBO Teclado + Mouse Asus K49"
+}
