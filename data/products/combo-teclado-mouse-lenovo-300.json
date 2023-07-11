@@ -1,0 +1,21 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Teclado",
+  "Images": [
+    "/images/products/combo-teclado-mouse-lenovo-300-1.webp",
+    "/images/products/combo-teclado-mouse-lenovo-300-2.webp",
+    "/images/products/combo-teclado-mouse-lenovo-300-3.webp",
+    "/images/products/combo-teclado-mouse-lenovo-300-4.webp"
+  ],
+  "Description": "Model\nBrand: Lenovo\nModel: GX31C95738\nPart Number: GX31C95738\n\n\nKeyboard\nType: Wireless",
+  "Price": 57.00,
+  "Features": [
+    "Inalámbrico",
+    "Membrana",
+    "Full"
+  ],
+  "Date": "2023-07-09T16:45:14.9093916-04:00",
+  "Update": "2023-07-11T00:46:41.4816907-04:00",
+  "Discount": 0.0,
+  "Label": "COMBO Teclado + Mouse Lenovo 300"
+}
