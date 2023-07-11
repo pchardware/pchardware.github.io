@@ -2303,28 +2303,36 @@
         "Label": "Teclado EVGA Z20"
       },
       {
-        "Price": 59.00,
-        "Features": [],
-        "Date": "2023-07-09T16:45:11.3382579-04:00",
-        "Update": "2023-07-11T00:35:21.314343-04:00",
-        "Discount": 0.0,
-        "Label": "COMBO Logitech Inalambrico MK270 (+Mouse)"
-      },
-      {
-        "Price": 57.00,
-        "Features": [],
-        "Date": "2023-07-09T16:45:14.9093916-04:00",
-        "Update": "2023-07-11T00:35:21.3206454-04:00",
-        "Discount": 0.0,
-        "Label": "COMBO Lenovo 300 Wireless + Mouse"
-      },
-      {
         "Price": 175.00,
         "Features": [],
         "Date": "2023-07-09T16:45:34.7357644-04:00",
         "Update": "2023-07-11T00:35:21.3265736-04:00",
         "Discount": 0.0,
         "Label": "Teclado Asus ROG Strix Flare"
+      },
+      {
+        "Price": 59.00,
+        "Features": [
+          "Inalámbrico",
+          "Membrana",
+          "Full"
+        ],
+        "Date": "2023-07-09T16:45:11.3382579-04:00",
+        "Update": "2023-07-11T00:46:41.4750214-04:00",
+        "Discount": 0.0,
+        "Label": "COMBO Teclado + Mouse Logitech MK270"
+      },
+      {
+        "Price": 57.00,
+        "Features": [
+          "Inalámbrico",
+          "Membrana",
+          "Full"
+        ],
+        "Date": "2023-07-09T16:45:14.9093916-04:00",
+        "Update": "2023-07-11T00:46:41.4816907-04:00",
+        "Discount": 0.0,
+        "Label": "COMBO Teclado + Mouse Lenovo 300"
       }
     ],
     "Sonido": [
