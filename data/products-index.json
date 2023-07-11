@@ -2354,47 +2354,74 @@
       {
         "Price": 110.00,
         "Features": [
-          "AI Noise Cancelling",
+          "Noise Cancelling",
           "20Hz-20KHz",
           "40mm",
-          "15H"
+          "15H",
+          "Inalámbrico"
         ],
         "Date": "2023-06-24T08:20:31.4230275-04:00",
-        "Update": "2023-06-24T10:51:11.5050638-04:00",
+        "Update": "2023-07-11T17:03:45.258343-04:00",
         "Discount": 0.0,
         "Label": "Audífonos Asus TUF H1 Wireless"
       },
       {
-        "Price": 64.00,
-        "Features": [],
-        "Date": "2023-07-09T16:45:46.4090102-04:00",
-        "Update": "2023-07-11T00:54:19.4786384-04:00",
+        "Price": 73.00,
+        "Features": [
+          "Micrófono",
+          "3.5mm",
+          "40mm",
+          "240g"
+        ],
+        "Date": "2023-07-09T16:45:42.268062-04:00",
+        "Update": "2023-07-11T17:03:45.2639317-04:00",
         "Discount": 0.0,
-        "Label": "Headset - Logitech G435 Lightspeed Wireless Rosa-Azul"
+        "Label": "Audífonos Logitech G335"
+      },
+      {
+        "Price": 64.00,
+        "Features": [
+          "Inalámbrico",
+          "40mm",
+          "USB",
+          "Micrófono",
+          "18H",
+          "165g"
+        ],
+        "Date": "2023-07-09T16:45:46.4090102-04:00",
+        "Update": "2023-07-11T17:03:45.2693962-04:00",
+        "Discount": 0.0,
+        "Label": "Audífonos Logitech G435 Lightspeed Wireless"
       },
       {
         "Price": 89.00,
-        "Features": [],
+        "Features": [
+          "7.1",
+          "Micrófono",
+          "3.5mm",
+          "50mm",
+          "Noise Cancelling",
+          "240g"
+        ],
         "Date": "2023-07-09T16:44:46.7059022-04:00",
-        "Update": "2023-07-11T15:50:57.1003598-04:00",
+        "Update": "2023-07-11T17:03:45.2864551-04:00",
         "Discount": 0.0,
-        "Label": "Headset - Razer BlackShark V2 X"
+        "Label": "Audífonos Razer BlackShark V2 X"
       },
       {
         "Price": 87.00,
-        "Features": [],
+        "Features": [
+          "7.1",
+          "Micrófono",
+          "3.5mm",
+          "50mm",
+          "280g",
+          "USB"
+        ],
         "Date": "2023-07-09T16:45:38.4980752-04:00",
-        "Update": "2023-07-11T16:27:21.721843-04:00",
+        "Update": "2023-07-11T17:03:45.2937363-04:00",
         "Discount": 0.0,
-        "Label": "Headset - Corsair HS65 Surround"
-      },
-      {
-        "Price": 73.00,
-        "Features": [],
-        "Date": "2023-07-09T16:45:42.268062-04:00",
-        "Update": "2023-07-11T16:46:22.6213767-04:00",
-        "Discount": 0.0,
-        "Label": "Headset - Logitech G335"
+        "Label": "Audífonos Corsair HS65 Surround"
       }
     ],
     "Monitor": [
