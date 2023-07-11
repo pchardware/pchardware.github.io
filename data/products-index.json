@@ -2060,6 +2060,14 @@
         "Update": "2023-07-09T22:12:27.9299035-04:00",
         "Discount": 0.0,
         "Label": "Mouse Razer Viper Mini"
+      },
+      {
+        "Price": 68.00,
+        "Features": [],
+        "Date": "2023-07-09T16:44:35.9657005-04:00",
+        "Update": "2023-07-11T00:35:21.3039902-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse SteelSeries Rival 3 Wireless"
       }
     ],
     "Silla": [
@@ -2293,6 +2301,30 @@
         "Update": "2023-06-29T11:38:59.2059347-04:00",
         "Discount": 0.0,
         "Label": "Teclado EVGA Z20"
+      },
+      {
+        "Price": 59.00,
+        "Features": [],
+        "Date": "2023-07-09T16:45:11.3382579-04:00",
+        "Update": "2023-07-11T00:35:21.314343-04:00",
+        "Discount": 0.0,
+        "Label": "COMBO Logitech Inalambrico MK270 (+Mouse)"
+      },
+      {
+        "Price": 57.00,
+        "Features": [],
+        "Date": "2023-07-09T16:45:14.9093916-04:00",
+        "Update": "2023-07-11T00:35:21.3206454-04:00",
+        "Discount": 0.0,
+        "Label": "COMBO Lenovo 300 Wireless + Mouse"
+      },
+      {
+        "Price": 175.00,
+        "Features": [],
+        "Date": "2023-07-09T16:45:34.7357644-04:00",
+        "Update": "2023-07-11T00:35:21.3265736-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado Asus ROG Strix Flare"
       }
     ],
     "Sonido": [
@@ -2323,6 +2355,38 @@
         "Update": "2023-06-24T10:51:11.5050638-04:00",
         "Discount": 0.0,
         "Label": "Audífonos Asus TUF H1 Wireless"
+      },
+      {
+        "Price": 89.00,
+        "Features": [],
+        "Date": "2023-07-09T16:44:46.7059022-04:00",
+        "Update": "2023-07-11T00:35:21.3087114-04:00",
+        "Discount": 0.0,
+        "Label": "Headset - Razer BlackShark V2 X"
+      },
+      {
+        "Price": 87.00,
+        "Features": [],
+        "Date": "2023-07-09T16:45:38.4980752-04:00",
+        "Update": "2023-07-11T00:35:21.3319775-04:00",
+        "Discount": 0.0,
+        "Label": "Headset - Corsair HS65 Surround"
+      },
+      {
+        "Price": 73.00,
+        "Features": [],
+        "Date": "2023-07-09T16:45:42.268062-04:00",
+        "Update": "2023-07-11T00:35:21.3380666-04:00",
+        "Discount": 0.0,
+        "Label": "Headset - Logitech G335"
+      },
+      {
+        "Price": 64.00,
+        "Features": [],
+        "Date": "2023-07-09T16:45:46.4090102-04:00",
+        "Update": "2023-07-11T00:35:21.3435081-04:00",
+        "Discount": 0.0,
+        "Label": "Headset - Logitech G435 Lightspeed Wireless Rosa-Azul"
       }
     ],
     "Monitor": [
