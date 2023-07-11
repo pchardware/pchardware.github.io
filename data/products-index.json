@@ -2054,14 +2054,6 @@
         "Label": "Mouse Razer Viper Mini"
       },
       {
-        "Price": 68.00,
-        "Features": [],
-        "Date": "2023-07-09T16:44:35.9657005-04:00",
-        "Update": "2023-07-11T00:35:21.3039902-04:00",
-        "Discount": 0.0,
-        "Label": "Mouse SteelSeries Rival 3 Wireless"
-      },
-      {
         "Price": 97.00,
         "Features": [
           "20000dpi",
@@ -2079,6 +2071,14 @@
         "Update": "2023-07-11T17:12:10.1103147-04:00",
         "Discount": 0.0,
         "Label": "Mouse Razer Viper Ultimate"
+      },
+      {
+        "Price": 68.00,
+        "Features": [],
+        "Date": "2023-07-09T16:44:35.9657005-04:00",
+        "Update": "2023-07-11T19:07:38.4056722-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse SteelSeries Rival 3 Wireless"
       }
     ],
     "Silla": [
