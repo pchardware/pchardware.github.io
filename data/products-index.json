@@ -2,7 +2,7 @@
   "Computadoras": {
     "Entusiasta": [
       {
-        "Price": 4098.00,
+        "Price": 4057.00,
         "Features": [],
         "Date": "2023-06-25T15:54:23.070873-04:00",
         "Update": "2023-06-26T07:20:34.8268258-04:00",
@@ -14,7 +14,7 @@
   "Kits": {
     "Entusiasta": [
       {
-        "Price": 965.00,
+        "Price": 955.00,
         "Features": [],
         "Date": "2023-06-15T09:02:14.0120703-04:00",
         "Update": "2023-06-15T09:06:52.1076839-04:00",
@@ -22,7 +22,7 @@
         "Label": "Kit i7-13700K + Asus ROG Strix Z690-F Gaming Wifi + 32GB DDR5"
       },
       {
-        "Price": 1194.00,
+        "Price": 1178.00,
         "Features": [],
         "Date": "2023-06-15T09:02:58.8515588-04:00",
         "Update": "2023-06-24T13:44:18.1007405-04:00",
@@ -30,36 +30,12 @@
         "Label": "Kit i9-13900K + Asus ROG Strix Z690-E Gaming Wifi + 32GB DDR5"
       },
       {
-        "Price": 1294.00,
+        "Price": 1278.00,
         "Features": [],
         "Date": "2023-06-24T13:41:22.3656225-04:00",
         "Update": "2023-06-24T13:44:18.1119769-04:00",
         "Discount": 16.0,
         "Label": "Kit i9-13900K + Asus ROG Maximus Z690 Hero + G.Skill Trident Z5 RGB 32GB 6400mhz"
-      }
-    ],
-    "Rendimiento": [
-      {
-        "Price": 905.00,
-        "Features": [
-          "12va Gen",
-          "Overclock",
-          "5200mhz",
-          "Disipadas",
-          "Dual channel"
-        ],
-        "Date": "2023-06-15T09:00:56.7823874-04:00",
-        "Update": "2023-06-24T13:44:18.0961507-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i9-12900K + Gigabyte Z790 UD AC + 64GB DDR5"
-      },
-      {
-        "Price": 500.00,
-        "Features": [],
-        "Date": "2023-06-29T19:08:48.7337337-04:00",
-        "Update": "2023-06-29T19:14:10.5469413-04:00",
-        "Discount": 10.0,
-        "Label": "Kit Ryzen 7 5800X + Gigabyte B550M Aorus Elite + 16GB RAM 4000mhz"
       }
     ],
     "Moderado": [
@@ -70,6 +46,16 @@
         "Update": "2023-06-29T19:14:10.5384351-04:00",
         "Discount": 11.0,
         "Label": "Kit Ryzen 7 5700G + Gigabyte B550M Aorus Elite + 16GB Patriot Viper"
+      }
+    ],
+    "Rendimiento": [
+      {
+        "Price": 500.00,
+        "Features": [],
+        "Date": "2023-06-29T19:08:48.7337337-04:00",
+        "Update": "2023-06-29T19:14:10.5469413-04:00",
+        "Discount": 10.0,
+        "Label": "Kit Ryzen 7 5800X + Gigabyte B550M Aorus Elite + 16GB RAM 4000mhz"
       }
     ]
   },
@@ -239,7 +225,7 @@
         "Label": "EVGA RTX 3080Ti XC3 Hydro Copper"
       },
       {
-        "Price": 755.00,
+        "Price": 735.00,
         "Features": [
           "2xFan",
           "12GB",
@@ -252,7 +238,7 @@
         "Label": "Asus Dual RTX 4070"
       },
       {
-        "Price": 685.00,
+        "Price": 630.00,
         "Features": [
           "3xFan",
           "8GB",
@@ -265,7 +251,7 @@
         "Label": "Zotac Gaming RTX 3070Ti"
       },
       {
-        "Price": 950.00,
+        "Price": 945.00,
         "Features": [
           "3xFan",
           "12GB",
@@ -291,7 +277,7 @@
         "Label": "Asus Dual RTX 4060Ti OC"
       },
       {
-        "Price": 780.00,
+        "Price": 750.00,
         "Features": [
           "3xFan",
           "12GB",
@@ -304,7 +290,7 @@
         "Label": "MSI Ventus 3X RTX 4070 OC"
       },
       {
-        "Price": 999.00,
+        "Price": 975.00,
         "Features": [
           "3xFan",
           "12GB",
@@ -317,7 +303,7 @@
         "Label": "Asus TUF Gaming RTX 4070Ti OC"
       },
       {
-        "Price": 775.00,
+        "Price": 750.00,
         "Features": [
           "2xFan",
           "12GB",
@@ -343,7 +329,7 @@
         "Label": "Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
       },
       {
-        "Price": 415.00,
+        "Price": 399.00,
         "Features": [
           "12GB",
           "2xFan",
@@ -369,7 +355,7 @@
         "Label": "ASRock Challenger D RX 6650 XT"
       },
       {
-        "Price": 395.00,
+        "Price": 360.00,
         "Features": [
           "3xFan",
           "GeForce",
@@ -381,7 +367,7 @@
         "Label": "MSI Ventus 3x RTX 3060 12GB"
       },
       {
-        "Price": 225.00,
+        "Price": 210.00,
         "Features": [
           "4GB",
           "2xFan",
@@ -1496,7 +1482,7 @@
     ],
     "Disipador por Aire": [
       {
-        "Price": 40.00,
+        "Price": 35.00,
         "Features": [
           "AM4",
           "2 Heat Pipes",
@@ -1508,7 +1494,7 @@
         "Label": "Enfriamiento Asus 3 Headpipe AMD"
       },
       {
-        "Price": 45.00,
+        "Price": 39.00,
         "Features": [
           "LGA 1200",
           "2 Heat Pipes",
@@ -1535,7 +1521,7 @@
         "Label": "Enfriamiento Thermaltake TOUGHAIR 110 140W TDP"
       },
       {
-        "Price": 60.00,
+        "Price": 59.00,
         "Features": [
           "Black",
           "4 Heat Pipes",
@@ -1550,7 +1536,7 @@
         "Label": "Enfriamiento Thermalright Assassin X 120 R SE RGB"
       },
       {
-        "Price": 70.00,
+        "Price": 69.00,
         "Features": [
           "White",
           "4 Heat Pipes",
@@ -1602,7 +1588,7 @@
         "Label": "Enfriamiento Intel Generic Plus"
       },
       {
-        "Price": 80.00,
+        "Price": 79.00,
         "Features": [
           "4 Heat Pipes",
           "Cobre",
@@ -1640,7 +1626,7 @@
     ],
     "Board": [
       {
-        "Price": 160.00,
+        "Price": 159.00,
         "Features": [
           "12va-13ra",
           "DDR4",
@@ -1654,7 +1640,7 @@
         "Label": "ASRock B660M PRO RS"
       },
       {
-        "Price": 365.00,
+        "Price": 355.00,
         "Features": [
           "12va-13ra",
           "DDR5",
@@ -1668,7 +1654,7 @@
         "Label": "Asus ROG Strix Z690-F Gaming Wifi"
       },
       {
-        "Price": 415.00,
+        "Price": 399.00,
         "Features": [
           "12va-13ra",
           "DDR5",
@@ -1696,20 +1682,6 @@
         "Label": "Asus B660 ProArt Creator D4"
       },
       {
-        "Price": 290.00,
-        "Features": [
-          "12va-13ra",
-          "DDR5",
-          "7600mhz",
-          "LGA 1700",
-          "ATX"
-        ],
-        "Date": "2023-05-14T10:52:20.5741642-04:00",
-        "Update": "2023-06-29T08:04:07.1623398-04:00",
-        "Discount": 0.0,
-        "Label": "Gigabyte Z790 UD AC"
-      },
-      {
         "Price": 395.00,
         "Features": [
           "12va-13ra",
@@ -1724,7 +1696,7 @@
         "Label": "Asus ROG Strix Z790-H Gaming Wifi"
       },
       {
-        "Price": 515.00,
+        "Price": 499.00,
         "Features": [
           "Wifi 6E",
           "12va-13ra",
@@ -2115,7 +2087,7 @@
         "Label": "COMBO Teclado + Mouse Rosewill Fusion C40"
       },
       {
-        "Price": 150.00,
+        "Price": 149.00,
         "Features": [
           "RGB",
           "Macros",
@@ -2171,7 +2143,7 @@
         "Label": "Teclado Asus TUF Gaming K3"
       },
       {
-        "Price": 70.00,
+        "Price": 69.00,
         "Features": [
           "Inalámbrico",
           "Ergonómico",
@@ -2252,7 +2224,7 @@
         "Label": "Teclado EVGA Z12"
       },
       {
-        "Price": 130.00,
+        "Price": 129.00,
         "Features": [
           "Mecánico",
           "Aluminio",
@@ -2303,7 +2275,7 @@
         "Label": "COMBO Teclado + Mouse Lenovo 300"
       },
       {
-        "Price": 110.00,
+        "Price": 109.00,
         "Features": [
           "Membrana",
           "RGB",
@@ -2493,7 +2465,7 @@
     ],
     "Sonido": [
       {
-        "Price": 110.00,
+        "Price": 109.00,
         "Features": [
           "Noise Cancelling",
           "20Hz-20KHz",
