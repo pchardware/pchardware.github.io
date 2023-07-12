@@ -11,7 +11,7 @@
     "/images/products/msi-ventus-3x-rtx-3060-12gb-7.webp"
   ],
   "Description": "Model\nBrand: MSI\nSeries: Ventus\nModel: RTX 3060 Ventus 3X 12G OC\n\n\nInterface\nInterface: PCI Express 4.0\n\n\nChipset\nChipset Manufacturer: NVIDIA\nGPU Series: NVIDIA GeForce RTX 30 Series\nGPU: GeForce RTX 3060\nBoost Clock: 1807 MHz\nCUDA Cores: 3584 Cores\n\n\nMemory\nEffective Memory Clock: 15 Gbps\nMemory Size: 12GB\nMemory Interface: 192-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12 Ultimate\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 1 x HDMI 2.1\nDisplayPort: 3 x DisplayPort 1.4a\n\n\nDetails\nMax Resolution: 7680 x 4320\nVirtual Reality Ready: Yes\nCooler: Triple Fans\nThermal Design Power: 170W\nRecommended PSU Wattage: 550W\nPower Connector: 1 x 8-pin\nHDCP Ready: Yes\n\n\nFeatures\nFeatures: Triple Fan Thermal Design:\nTORX Fan 3.0: The award-winning MSI TORX Fan 3.0 design creates high static pressure and pushes the limits of thermal performance.\nZero Frozr: Calm before the storm, keeping fans still and maintaining silence until cooling is needed.\nThermal Padding: An abundance of thermal pads use any chance for additional heat transfer directly from the components.\n\nDragon Center:\nMSI's exclusive Dragon Center software lets you monitor, tweak and optimize MSI products in real-time.\n\n\nForm Factor & Dimensions\nMax GPU Length: 316 mm\nCard Dimensions (L x H): 12.44\" x 4.72\"",
-  "Price": 395.00,
+  "Price": 360.00,
   "Features": [
     "3xFan",
     "GeForce",
