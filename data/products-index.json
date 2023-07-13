@@ -731,6 +731,23 @@
         "Update": "2023-06-29T08:22:10.4881919-04:00",
         "Discount": 0.0,
         "Label": "Chasis Asus TUF GT301"
+      },
+      {
+        "Price": 295.00,
+        "Features": [
+          "8x HDD 3.5",
+          "4x USB",
+          "Docking",
+          "Black",
+          "Gamer",
+          "Full Tower",
+          "ATX",
+          "E-ATX"
+        ],
+        "Date": "2023-07-13T11:31:56.8717751-04:00",
+        "Update": "2023-07-13T12:01:33.7752908-04:00",
+        "Discount": 0.0,
+        "Label": "Chasis Rosewill NIGHTHAWK 117"
       }
     ],
     "Otros": [
@@ -1701,6 +1718,18 @@
         "Update": "2023-07-09T16:42:13.6621686-04:00",
         "Discount": 0.0,
         "Label": "Enfriamiento Cooler Master Hyper 212 Spectrum V3"
+      },
+      {
+        "Price": 29.00,
+        "Features": [
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-07-13T11:32:18.0721778-04:00",
+        "Update": "2023-07-13T12:01:33.7950648-04:00",
+        "Discount": 0.0,
+        "Label": "Enfriamiento Thermaltake UX100 5V ARGB"
       }
     ],
     "Red": [
@@ -1878,6 +1907,20 @@
         "Update": "2023-07-09T22:12:28.0164915-04:00",
         "Discount": 0.0,
         "Label": "ASRock Z590 Extreme Wifi 6E"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "AM4",
+          "DDR4",
+          "4733mhz",
+          "ATX",
+          "AMD"
+        ],
+        "Date": "2023-07-13T11:32:04.6371575-04:00",
+        "Update": "2023-07-13T12:01:33.7809254-04:00",
+        "Discount": 0.0,
+        "Label": "Gigabyte B550 Gaming X V2"
       }
     ]
   },
@@ -2417,6 +2460,38 @@
         "Update": "2023-07-12T22:26:29.6743045-04:00",
         "Discount": 0.0,
         "Label": "Teclado Asus ROG Strix Flare"
+      },
+      {
+        "Price": 75.00,
+        "Features": [
+          "Membrana",
+          "LED",
+          "Palm rest",
+          "Gaming",
+          "Optico",
+          "3200dpi",
+          "USB"
+        ],
+        "Date": "2023-07-13T11:32:08.835789-04:00",
+        "Update": "2023-07-13T12:01:33.7883075-04:00",
+        "Discount": 0.0,
+        "Label": "COMBO Teclado + Mouse + Pad GAMDIAS HERMES E1A 3-in-1"
+      },
+      {
+        "Price": 230.00,
+        "Features": [
+          "Mecánico",
+          "Aluminio",
+          "Macros",
+          "iCUE",
+          "Gaming",
+          "Full",
+          "USB"
+        ],
+        "Date": "2023-07-13T11:32:23.0770314-04:00",
+        "Update": "2023-07-13T12:01:33.8010668-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado Corsair K70 RGB PRO"
       }
     ],
     "Monitor": [
