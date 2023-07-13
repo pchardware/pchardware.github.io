@@ -15,9 +15,19 @@
   ],
   "Description": "Model\nBrand: ASUS\nName: ROG Strix Flare\nModel: 90MP00E0-B0UA00\n\n\nKeyboard\nKeyboard Interface: USB 2.0\nDesign Style: Gaming\nPalm Rest: Detachable\nMechanical Keyboard: Yes\nKey Switch Type: Cherry MX Red\nKeyboard Color: Gunmetal\nDimensions: 1.22\" x 17.87\" x 6.10\"\n\n\nMouse\nMouse Included: No\n\n\nFeatures\nFeatures: Cherry MX RGB switches for faster response times and enhanced gaming performance\n\n100% anti-ghosting, full key rollover, and onboard memory for on-the-fly macro recording\n\nCustomizable logo badge for adding your own flare to your gaming station\n\nASUS Aura Sync RGB lighting features a nearly endless spectrum of colors with the ability to synchronize effects across an ever-expanding ecosystem of Aura Sync enabled products\n\nIntegrated Media Controls keep your hands on the keyboard during intense gaming sessions",
   "Price": 175.00,
-  "Features": [],
+  "Features": [
+    "Mecánico",
+    "Macros",
+    "Aura Sync",
+    "RGB",
+    "Gaming",
+    "Slim",
+    "Multimedia",
+    "Palm rest",
+    "Full"
+  ],
   "Date": "2023-07-09T16:45:34.7357644-04:00",
-  "Update": "2023-07-11T00:35:21.3265736-04:00",
+  "Update": "2023-07-12T22:26:29.6743045-04:00",
   "Discount": 0.0,
   "Label": "Teclado Asus ROG Strix Flare"
 }
