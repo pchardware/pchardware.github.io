@@ -611,14 +611,6 @@
         "Label": "Fuente Rosewill CMG850"
       },
       {
-        "Price": 115.00,
-        "Features": [],
-        "Date": "2023-07-09T16:51:14.2364929-04:00",
-        "Update": "2023-07-09T22:12:28.0113713-04:00",
-        "Discount": 0.0,
-        "Label": "PSU - Raidmax Cobra 700W RX-700AC-B 80+ Bronze"
-      },
-      {
         "Price": 95.00,
         "Features": [
           "80+",
@@ -644,6 +636,20 @@
         "Update": "2023-07-12T22:15:22.9953991-04:00",
         "Discount": 0.0,
         "Label": "Fuente EVGA 800 GE, 80+ Gold"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "700W",
+          "80+ Bronze",
+          "4x 6+2",
+          "46A",
+          "5x SATA"
+        ],
+        "Date": "2023-07-09T16:51:14.2364929-04:00",
+        "Update": "2023-07-13T07:57:15.0381705-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente Raidmax Cobra RX-700AC-B"
       }
     ],
     "Chasis": [
