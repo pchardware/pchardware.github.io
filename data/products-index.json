@@ -421,6 +421,30 @@
         "Update": "2023-07-09T22:12:27.9403789-04:00",
         "Discount": 0.0,
         "Label": "ASRock Challenger ITX RX 6500 XT 4GB"
+      },
+      {
+        "Price": 385.00,
+        "Features": [
+          "2xFan",
+          "GeForce",
+          "NVIDIA"
+        ],
+        "Date": "2023-07-12T21:42:49.1798698-04:00",
+        "Update": "2023-07-12T22:15:23.0016561-04:00",
+        "Discount": 0.0,
+        "Label": "Asus Dual RTX 4060 8GB OC"
+      },
+      {
+        "Price": 299.00,
+        "Features": [
+          "2xFan",
+          "GeForce",
+          "NVIDIA"
+        ],
+        "Date": "2023-07-12T21:42:54.3752209-04:00",
+        "Update": "2023-07-12T22:15:23.0075796-04:00",
+        "Discount": 0.0,
+        "Label": "MSI Gaming RTX 3050 8GB"
       }
     ],
     "Fuente": [
@@ -606,6 +630,20 @@
         "Update": "2023-07-12T21:22:46.7112359-04:00",
         "Discount": 0.0,
         "Label": "Fuente Thermaltake SMART 600W"
+      },
+      {
+        "Price": 160.00,
+        "Features": [
+          "80+ Gold",
+          "800W",
+          "67A",
+          "4x 6+2-Pin",
+          "8x SATA"
+        ],
+        "Date": "2023-07-12T21:42:43.1904262-04:00",
+        "Update": "2023-07-12T22:15:22.9953991-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente EVGA 800 GE, 80+ Gold"
       }
     ],
     "Chasis": [
@@ -1197,6 +1235,18 @@
         "Update": "2023-07-09T22:12:28.0274155-04:00",
         "Discount": 0.0,
         "Label": "SSD M.2 Silicon Power 1TB UD90"
+      },
+      {
+        "Price": 105.00,
+        "Features": [
+          "7000mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-07-12T21:43:06.2525927-04:00",
+        "Update": "2023-07-12T22:15:23.0189532-04:00",
+        "Discount": 0.0,
+        "Label": "SSD M.2 SAMSUNG 980 PRO 1TB"
       }
     ],
     "Disco Duro": [
@@ -2594,6 +2644,20 @@
         "Update": "2023-07-11T17:12:10.0904474-04:00",
         "Discount": 0.0,
         "Label": "Audífonos Corsair VOID RGB Elite Wireless Carbon"
+      }
+    ],
+    "Backup": [
+      {
+        "Price": 125.00,
+        "Features": [
+          "255W",
+          "120V",
+          "6 out"
+        ],
+        "Date": "2023-07-12T21:43:00.109172-04:00",
+        "Update": "2023-07-12T22:15:23.0133333-04:00",
+        "Discount": 0.0,
+        "Label": "UPS APC 450VA"
       }
     ]
   }
