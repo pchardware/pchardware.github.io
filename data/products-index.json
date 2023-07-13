@@ -46,6 +46,20 @@
         "Update": "2023-06-29T19:14:10.5384351-04:00",
         "Discount": 11.0,
         "Label": "Kit Ryzen 7 5700G + Gigabyte B550M Aorus Elite + 16GB Patriot Viper"
+      },
+      {
+        "Price": 424.00,
+        "Features": [
+          "12va Gen",
+          "3200mhz",
+          "Disipadas",
+          "Micro ATX",
+          "Dual channel"
+        ],
+        "Date": "2023-06-12T13:20:21.3256765-04:00",
+        "Update": "2023-07-12T21:22:46.7263835-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i5-12400 +Disipador + ASRock B660M PRO RS + 16GB RAM"
       }
     ],
     "Rendimiento": [
@@ -208,6 +222,22 @@
         "Update": "2023-06-19T09:35:04.6028742-04:00",
         "Discount": 0.0,
         "Label": "Intel Core i5-13600K"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "12va Gen",
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "18MB L3",
+          "DDR4-DDR5",
+          "LGA 1700"
+        ],
+        "Date": "2023-02-17T09:45:29.425139-05:00",
+        "Update": "2023-07-12T21:22:46.7172585-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i5-12400 +Disipador"
       }
     ],
     "Tarjeta Gráfica": [
@@ -563,6 +593,19 @@
         "Update": "2023-07-09T22:12:28.0113713-04:00",
         "Discount": 0.0,
         "Label": "PSU - Raidmax Cobra 700W RX-700AC-B 80+ Bronze"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "80+",
+          "42A",
+          "2x 6+2-Pin",
+          "6x SATA"
+        ],
+        "Date": "2023-04-15T07:27:14.991735-04:00",
+        "Update": "2023-07-12T21:22:46.7112359-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente Thermaltake SMART 600W"
       }
     ],
     "Chasis": [
