@@ -1,0 +1,26 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Externos",
+  "Images": [
+    "/images/products/seagate-firecuda-rgb-2tb-1.webp",
+    "/images/products/seagate-firecuda-rgb-2tb-2.webp",
+    "/images/products/seagate-firecuda-rgb-2tb-3.webp",
+    "/images/products/seagate-firecuda-rgb-2tb-4.webp",
+    "/images/products/seagate-firecuda-rgb-2tb-5.webp",
+    "/images/products/seagate-firecuda-rgb-2tb-6.webp",
+    "/images/products/seagate-firecuda-rgb-2tb-7.webp",
+    "/images/products/seagate-firecuda-rgb-2tb-8.webp"
+  ],
+  "Description": "Model\nBrand: Seagate\nSeries: FireCuda\nModel: STKL2000400\n\n\nPerformance\nInterface: USB 3.2 Gen 1\nCapacity: 2TB\n\n\nFeatures\nFeatures: Create an epic gaming atmosphere with customizable RGB LED lighting\n\nA bold and refined design, crafted to compliment gaming battlestations\n\nCustomizable RGB with full color and pattern control with free Seagate Toolkit software\n\nWorks with Razer Chroma RGB to sync all your battlestation's compatible peripherals\n\nUp to 5TB of capacity builds the ultimate gaming library without sacrificing titles\n\nLightweight design makes it easy to take the whole library on the road\n\nSimple plug-and-play compatibility with USB 3.2 Gen 1\n\nUSB bus-powered for quick function and less clutter\nSystem Requirements: Compatible with most Windows and macOS systems. Visit seagate.com/os for details1,2\n\n1 Reformatting for Mac may be required.\n2 Compatibility may vary depending on user's hardware configuration and operating system.\n\n\nDimensions & Weight\nForm Factor: 3.5\"\nDimensions: 0.57\" x 3.15\" x 4.82\"\nWeight: 0.37 lb.\n\n\nPackaging\nPackage Contents: Seagate FireCuda Hard Drive\n18-inch (45.72cm) USB 3.0 cable\nQuick Install Guide",
+  "Price": 85.00,
+  "Features": [
+    "USB 3.2",
+    "SSD 8GB",
+    "Razer Chroma",
+    "Gaming"
+  ],
+  "Date": "2023-07-13T12:02:12.8255744-04:00",
+  "Update": "2023-07-13T12:06:44.2750373-04:00",
+  "Discount": 0.0,
+  "Label": "Seagate Firecuda RGB 2TB"
+}
