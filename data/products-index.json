@@ -2742,6 +2742,21 @@
         "Discount": 0.0,
         "Label": "UPS APC 450VA"
       }
+    ],
+    "Externos": [
+      {
+        "Price": 85.00,
+        "Features": [
+          "USB 3.2",
+          "SSD 8GB",
+          "Razer Chroma",
+          "Gaming"
+        ],
+        "Date": "2023-07-13T12:02:12.8255744-04:00",
+        "Update": "2023-07-13T12:06:44.2750373-04:00",
+        "Discount": 0.0,
+        "Label": "Seagate Firecuda RGB 2TB"
+      }
     ]
   }
 }
