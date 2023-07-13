@@ -4,15 +4,26 @@
   "Images": [
     "/images/products/mouse-steelseries-rival-3-wireless-1.webp",
     "/images/products/mouse-steelseries-rival-3-wireless-2.webp",
-    "/images/products/mouse-steelseries-rival-3-wireless-3.webp",
-    "/images/products/mouse-steelseries-rival-3-wireless-4.webp",
-    "/images/products/mouse-steelseries-rival-3-wireless-5.webp"
+    "/images/products/mouse-steelseries-rival-3-wireless-3.webp"
   ],
-  "Description": "Sobre este artículo\r\nMateriales muy duraderos: diseñado con polímero de alta calidad para mayor durabilidad\r\nInterruptores mecánicos que soportan 60 millones de clics: clics nítidos desde el primero hasta el último\r\nSensor óptico TrueMove Air para videojuegos: seguimiento verdadero 1 a 1 con 8,500 CPI, 300 IPS, 35 G\r\nCómoda estructura ergonómica: diseñado ergonómicamente para proporcionar comodidad para sesiones intensas de videojuegos\r\nIluminación Prism brillante: la iluminación rediseñada proporciona 3 zonas de 16.8 millones de colores bellamente nítidos\n\nEl mouse Rival 3 para videojuegos tiene el mejor rendimiento de su clase gracias a un sensor óptico TrueMove Core para torneos que fue diseñado junto con PixArt, el fabricante de sensores líder en la industria. Materiales hiperduraderos: el mouse tiene una vida útil de 60 millones de clics, tiene una estructura ligera y un sistema RGB rediseñado que proporciona la iluminación dinámica más brillante de cualquier mouse de Steelseries. Todo esto hace que el Rival 3 se destaque tanto por su estilo como por su rendimiento.\n\nMarca: SteelSeries\nSeries: Rival 3\nNúmero de modelo del producto: 62513\nPlataforma de hardware: PC\nSistema operativo: Windows, Mac, Linux, and Xbox. USB port required.\nDimensiones del producto: 1,49 x 2,64 x 4,74 pulgadas\nDimensiones del artículo Largo x Ancho x Altura: 1.49 x 2.64 x 4.74 pulgadas\nColor: Negro\nFabricante: SteelSeries\nIdioma: Italiano\n",
+  "Description": "Sobre este artículo\nBatería de larga duración para más de 400 horas de uso ininterrumpido con revolucionaria tecnología de eficiencia energética\nOptimizado para tener un rendimiento similar al de un mouse con cable, con latencia ultrabaja y la flexibilidad de dos tipos de conectividad: 2.4 GHz y Bluetooth\nFuncionalidad multiuso perfecta para cambiar entre videojuegos, para la escuela, el trabajo, viajes, espacio USB limitado y más\nSensor óptico TrueMove Air para videojuegos: seguimiento verdadero 1 a 1 con 18,000 CPI, 400 IPS, 40 G\nEstructura inteligente y duradera que incluye un compartimento para dongle e interruptores mecánicos que soportan 60 millones de clics (6 veces la cantidad estándar)\nRequisitos del sistema: Windows 7 o posterior, macOS 10.13 o posterior, iOS 13.7 o posterior, Chrome OS, Playstation 4 o 5, Xbox One, Xbox Series S o X\n\nEl mouse Rival 3 inalámbrico utiliza la tecnología Quantum 2.0 Dual Wireless para proporcionar latencia inalámbrica ultrabaja a través de 2.4 GHz y conectividad Bluetooth. Está optimizado para ser eficiente energéticamente, tiene una batería con una duración de 400 horas, líder en la industria. El sensor de juego centrado en el rendimiento, la memoria integrada, las notificaciones RGB y más lo hacen ideal para los jugadores que necesitan un mouse multiuso. Materiales muy duraderos e interruptores mecánicos que soportan 60 millones de clics que garantizan que el Rival 3 proporcione un rendimiento inigualable con la máxima versatilidad.\n\nDuración de la batería media (en horas): 400 Horas\nMarca: SteelSeries\nSeries: Rival 3\nNúmero de modelo del producto: 62521\nPlataforma de hardware: Consola de juegos\nSistema operativo: Windows 7\nDimensiones del producto: 4,75 x 2,64 x 1,5 pulgadas\nDimensiones del artículo Largo x Ancho x Altura: 4.75 x 2.64 x 1.5 pulgadas\nColor: Negro\nFuente de energía: Funciona con batería\nPilas: 2 AAA necesaria(s), incluida(s)\nFabricante: SteelSeries",
   "Price": 68.00,
-  "Features": [],
+  "Features": [
+    "Inalámbrico",
+    "18000dpi",
+    "400 ips",
+    "400H",
+    "RGB",
+    "2.4Ghz",
+    "Bluetooth",
+    "95g",
+    "1ms",
+    "6 botónes",
+    "Gaming",
+    "USB"
+  ],
   "Date": "2023-07-09T16:44:35.9657005-04:00",
-  "Update": "2023-07-11T19:07:38.4056722-04:00",
+  "Update": "2023-07-12T22:26:29.6821658-04:00",
   "Discount": 0.0,
   "Label": "Mouse SteelSeries Rival 3 Wireless"
 }
