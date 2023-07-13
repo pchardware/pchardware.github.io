@@ -60,6 +60,20 @@
         "Update": "2023-07-12T21:22:46.7263835-04:00",
         "Discount": 10.0,
         "Label": "Kit i5-12400 +Disipador + ASRock B660M PRO RS + 16GB RAM"
+      },
+      {
+        "Price": 460.00,
+        "Features": [
+          "11na Gen",
+          "4000mhz",
+          "Disipadas",
+          "ATX",
+          "Dual channel"
+        ],
+        "Date": "2023-07-13T12:48:41.6466579-04:00",
+        "Update": "2023-07-13T12:51:42.2988139-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i5-11400 +Disipador + Z590 Extreme + 16GB RAM"
       }
     ],
     "Rendimiento": [
