@@ -1101,17 +1101,6 @@
         "Label": "SSD 2.5 Kingston A400 480GB"
       },
       {
-        "Price": 60.00,
-        "Features": [
-          "560mbs",
-          "SATA 3"
-        ],
-        "Date": "2023-04-09T09:39:58.2011686-04:00",
-        "Update": "2023-06-07T16:09:24.8053965-04:00",
-        "Discount": 0.0,
-        "Label": "SSD 2.5 Samsung 870 EVO 500GB"
-      },
-      {
         "Price": 65.00,
         "Features": [
           "560mbs",
