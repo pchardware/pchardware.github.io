@@ -2139,9 +2139,22 @@
       },
       {
         "Price": 68.00,
-        "Features": [],
+        "Features": [
+          "Inalámbrico",
+          "18000dpi",
+          "400 ips",
+          "400H",
+          "RGB",
+          "2.4Ghz",
+          "Bluetooth",
+          "95g",
+          "1ms",
+          "6 botónes",
+          "Gaming",
+          "USB"
+        ],
         "Date": "2023-07-09T16:44:35.9657005-04:00",
-        "Update": "2023-07-11T19:07:38.4056722-04:00",
+        "Update": "2023-07-12T22:26:29.6821658-04:00",
         "Discount": 0.0,
         "Label": "Mouse SteelSeries Rival 3 Wireless"
       }
@@ -2348,14 +2361,6 @@
         "Label": "Teclado EVGA Z20"
       },
       {
-        "Price": 175.00,
-        "Features": [],
-        "Date": "2023-07-09T16:45:34.7357644-04:00",
-        "Update": "2023-07-11T00:35:21.3265736-04:00",
-        "Discount": 0.0,
-        "Label": "Teclado Asus ROG Strix Flare"
-      },
-      {
         "Price": 57.00,
         "Features": [
           "Inalámbrico",
@@ -2409,6 +2414,24 @@
         "Update": "2023-07-11T12:41:46.9909928-04:00",
         "Discount": 0.0,
         "Label": "COMBO Teclado + Mouse Logitech MK270"
+      },
+      {
+        "Price": 175.00,
+        "Features": [
+          "Mecánico",
+          "Macros",
+          "Aura Sync",
+          "RGB",
+          "Gaming",
+          "Slim",
+          "Multimedia",
+          "Palm rest",
+          "Full"
+        ],
+        "Date": "2023-07-09T16:45:34.7357644-04:00",
+        "Update": "2023-07-12T22:26:29.6743045-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado Asus ROG Strix Flare"
       }
     ],
     "Monitor": [
