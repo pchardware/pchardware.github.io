@@ -386,19 +386,6 @@
         "Label": "ASRock Challenger D RX 6700 XT"
       },
       {
-        "Price": 325.00,
-        "Features": [
-          "8GB",
-          "2xFan",
-          "Radeon",
-          "AMD"
-        ],
-        "Date": "2023-06-29T07:39:08.128815-04:00",
-        "Update": "2023-06-29T11:38:59.234539-04:00",
-        "Discount": 0.0,
-        "Label": "ASRock Challenger D RX 6650 XT"
-      },
-      {
         "Price": 360.00,
         "Features": [
           "3xFan",
@@ -1227,18 +1214,6 @@
         "Label": "SSD M.2 ADATA XPG SX8100 512GB"
       },
       {
-        "Price": 120.00,
-        "Features": [
-          "5000mbs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-07-09T16:45:24.2760094-04:00",
-        "Update": "2023-07-09T22:12:27.9879372-04:00",
-        "Discount": 0.0,
-        "Label": "SSD M.2 Silicon Power 2TB UD90"
-      },
-      {
         "Price": 140.00,
         "Features": [
           "7400mbs",
@@ -1321,17 +1296,6 @@
         "Update": "2023-06-19T11:56:16.8819024-04:00",
         "Discount": 0.0,
         "Label": "HDD 2.5 Seagate BarraCuda 2TB"
-      },
-      {
-        "Price": 59.0,
-        "Features": [
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-06-29T07:38:17.9677885-04:00",
-        "Update": "2023-06-29T08:22:10.4805736-04:00",
-        "Discount": 0.0,
-        "Label": "HDD 3.5 Seagate Desktop 1TB"
       },
       {
         "Price": 89.00,
