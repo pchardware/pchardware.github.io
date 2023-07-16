@@ -2,7 +2,7 @@
   "Computadoras": {
     "Entusiasta": [
       {
-        "Price": 4057.00,
+        "Price": 4037.00,
         "Features": [],
         "Date": "2023-06-25T15:54:23.070873-04:00",
         "Update": "2023-06-26T07:20:34.8268258-04:00",
@@ -269,7 +269,7 @@
         "Label": "EVGA RTX 3080Ti XC3 Hydro Copper"
       },
       {
-        "Price": 735.00,
+        "Price": 699.00,
         "Features": [
           "2xFan",
           "12GB",
@@ -282,7 +282,7 @@
         "Label": "Asus Dual RTX 4070"
       },
       {
-        "Price": 630.00,
+        "Price": 599.00,
         "Features": [
           "3xFan",
           "8GB",
@@ -295,7 +295,7 @@
         "Label": "Zotac Gaming RTX 3070Ti"
       },
       {
-        "Price": 945.00,
+        "Price": 935.00,
         "Features": [
           "3xFan",
           "12GB",
@@ -308,7 +308,7 @@
         "Label": "MSI Ventus 3X RTX 4070Ti OC"
       },
       {
-        "Price": 510.00,
+        "Price": 495.00,
         "Features": [
           "2xFan",
           "8GB",
@@ -321,7 +321,7 @@
         "Label": "Asus Dual RTX 4060Ti OC"
       },
       {
-        "Price": 750.00,
+        "Price": 720.00,
         "Features": [
           "3xFan",
           "12GB",
@@ -334,7 +334,7 @@
         "Label": "MSI Ventus 3X RTX 4070 OC"
       },
       {
-        "Price": 975.00,
+        "Price": 955.00,
         "Features": [
           "3xFan",
           "12GB",
@@ -347,7 +347,7 @@
         "Label": "Asus TUF Gaming RTX 4070Ti OC"
       },
       {
-        "Price": 750.00,
+        "Price": 715.00,
         "Features": [
           "2xFan",
           "12GB",
@@ -386,7 +386,7 @@
         "Label": "ASRock Challenger D RX 6700 XT"
       },
       {
-        "Price": 360.00,
+        "Price": 349.00,
         "Features": [
           "3xFan",
           "GeForce",
@@ -398,7 +398,7 @@
         "Label": "MSI Ventus 3x RTX 3060 12GB"
       },
       {
-        "Price": 210.00,
+        "Price": 199.00,
         "Features": [
           "4GB",
           "2xFan",
@@ -411,7 +411,7 @@
         "Label": "XFX Speedster QICK 210 RX 6500 XT"
       },
       {
-        "Price": 190.00,
+        "Price": 179.00,
         "Features": [
           "4GB",
           "1xFan",
