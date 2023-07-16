@@ -335,19 +335,6 @@
         "Label": "Asus Dual RTX 4070 OC"
       },
       {
-        "Price": 275.00,
-        "Features": [
-          "8GB",
-          "3xFan",
-          "Radeon",
-          "AMD"
-        ],
-        "Date": "2023-05-11T19:24:18.7527581-04:00",
-        "Update": "2023-06-29T08:04:07.0948503-04:00",
-        "Discount": 0.0,
-        "Label": "Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
-      },
-      {
         "Price": 399.00,
         "Features": [
           "12GB",
@@ -493,21 +480,6 @@
         "Update": "2023-06-07T15:26:56.6047427-04:00",
         "Discount": 0.0,
         "Label": "Fuente Asus TUF 1000W"
-      },
-      {
-        "Price": 165.00,
-        "Features": [
-          "Fully Modular",
-          "80+ Bronze",
-          "750W",
-          "63A",
-          "4x 6+2-Pin",
-          "8x SATA"
-        ],
-        "Date": "2023-04-15T07:27:08.3449497-04:00",
-        "Update": "2023-06-07T16:28:39.1228678-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente Corsair CX750F RGB"
       },
       {
         "Price": 295.00,
