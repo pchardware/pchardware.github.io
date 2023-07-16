@@ -423,18 +423,6 @@
         "Label": "Asus Dual RTX 4060 8GB OC"
       },
       {
-        "Price": 299.00,
-        "Features": [
-          "2xFan",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-07-12T21:42:54.3752209-04:00",
-        "Update": "2023-07-12T22:15:23.0075796-04:00",
-        "Discount": 0.0,
-        "Label": "MSI Gaming RTX 3050 8GB"
-      },
-      {
         "Price": 179.00,
         "Features": [
           "4GB",
@@ -446,6 +434,18 @@
         "Update": "2023-07-16T07:50:06.8689489-04:00",
         "Discount": 0.0,
         "Label": "ASRock Challenger ITX RX 6500 XT"
+      },
+      {
+        "Price": 299.00,
+        "Features": [
+          "2xFan",
+          "GeForce",
+          "NVIDIA"
+        ],
+        "Date": "2023-07-12T21:42:54.3752209-04:00",
+        "Update": "2023-07-16T08:03:46.7970896-04:00",
+        "Discount": 0.0,
+        "Label": "MSI Gaming X RTX 3050 8GB"
       }
     ],
     "Fuente": [
