@@ -411,19 +411,6 @@
         "Label": "XFX Speedster QICK 210 RX 6500 XT"
       },
       {
-        "Price": 179.00,
-        "Features": [
-          "4GB",
-          "1xFan",
-          "Radeon",
-          "AMD"
-        ],
-        "Date": "2023-07-09T16:45:07.237632-04:00",
-        "Update": "2023-07-09T22:12:27.9403789-04:00",
-        "Discount": 0.0,
-        "Label": "ASRock Challenger ITX RX 6500 XT 4GB"
-      },
-      {
         "Price": 385.00,
         "Features": [
           "2xFan",
@@ -446,6 +433,19 @@
         "Update": "2023-07-12T22:15:23.0075796-04:00",
         "Discount": 0.0,
         "Label": "MSI Gaming RTX 3050 8GB"
+      },
+      {
+        "Price": 179.00,
+        "Features": [
+          "4GB",
+          "1xFan",
+          "Radeon",
+          "AMD"
+        ],
+        "Date": "2023-07-09T16:45:07.237632-04:00",
+        "Update": "2023-07-16T07:50:06.8689489-04:00",
+        "Discount": 0.0,
+        "Label": "ASRock Challenger ITX RX 6500 XT"
       }
     ],
     "Fuente": [
