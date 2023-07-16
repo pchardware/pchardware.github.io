@@ -14,14 +14,6 @@
   "Kits": {
     "Entusiasta": [
       {
-        "Price": 955.00,
-        "Features": [],
-        "Date": "2023-06-15T09:02:14.0120703-04:00",
-        "Update": "2023-06-15T09:06:52.1076839-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i7-13700K + Asus ROG Strix Z690-F Gaming Wifi + 32GB DDR5"
-      },
-      {
         "Price": 1178.00,
         "Features": [],
         "Date": "2023-06-15T09:02:58.8515588-04:00",
@@ -153,23 +145,6 @@
         "Update": "2023-06-09T16:50:28.9301845-04:00",
         "Discount": 0.0,
         "Label": "Intel Core i5-12600K"
-      },
-      {
-        "Price": 450.00,
-        "Features": [
-          "13ra Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.4GHz",
-          "30MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700"
-        ],
-        "Date": "2023-03-22T09:04:14.8362359-04:00",
-        "Update": "2023-06-09T16:50:28.9364045-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i7-13700K"
       },
       {
         "Price": 620.00,
@@ -1733,20 +1708,6 @@
         "Update": "2023-06-29T08:04:07.1024432-04:00",
         "Discount": 0.0,
         "Label": "ASRock B660M PRO RS"
-      },
-      {
-        "Price": 355.00,
-        "Features": [
-          "12va-13ra",
-          "DDR5",
-          "6400mhz",
-          "LGA 1700",
-          "ATX"
-        ],
-        "Date": "2023-05-11T07:52:19.4562926-04:00",
-        "Update": "2023-06-29T08:04:07.1099288-04:00",
-        "Discount": 0.0,
-        "Label": "Asus ROG Strix Z690-F Gaming Wifi"
       },
       {
         "Price": 399.00,
