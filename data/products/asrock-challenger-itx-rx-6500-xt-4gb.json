@@ -8,7 +8,7 @@
     "/images/products/asrock-challenger-itx-rx-6500-xt-4gb-4.webp"
   ],
   "Description": "Model\nBrand: ASRock\nSeries: Challenger\nModel: RX6500XT CLI 4G\n\n\nInterface\nInterface: PCI Express 4.0\n\n\nChipset\nChipset Manufacturer: AMD\nGPU Series: AMD Radeon RX 6000 Series\nGPU: Radeon RX 6500 XT\nArchitechture: RDNA 2\nCore Clock: 2310 MHz\nGame Clock: 2610 MHz\nBoost Clock: 2815 MHz\nStream Processors: 1024 Stream Processors\n\n\nMemory\nEffective Memory Clock: 18 Gbps\nMemory Size: 4GB\nMemory Interface: 64-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12 Ultimate\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 2\nHDMI: 1 x HDMI 2.1\nDisplayPort: 1 x DisplayPort 1.4\n\n\nDetails\nMax Resolution: 7680 x 4320\nCooler: Single Fan\nThermal Design Power: 107W\nRecommended PSU Wattage: 400W\nPower Connector: 8-Pin\nHDCP Ready: Yes\n\n\nFeatures\nFeatures: Single Fan Design\nStriped Axial Fan\n0dB Silent Cooling\nSuper Alloy Graphics Card\nASRock Tweak 2.0\n8K Resolution Support\nAMD FidelityFX Super Resolution\nHardware Raytracing\n\n\nForm Factor & Dimensions\nForm Factor: ITX\nMax GPU Length: 179 mm\nCard Dimensions (L x H): 7.05\" x 4.88\"\nSlot Width: 2 Slots\n\n\nPackaging\nPackage Contents: Accessories:\n1 x Quick Installation Guide",
-  "Price": 190.00,
+  "Price": 179.00,
   "Features": [
     "4GB",
     "1xFan",
