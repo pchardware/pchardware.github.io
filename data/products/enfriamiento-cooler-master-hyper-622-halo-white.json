@@ -15,9 +15,17 @@
   ],
   "Description": "Model\nBrand: COOLER MASTER\nSeries: Hyper\nModel: Hyper 622 Halo White\nPart Number: RR-D6WW-20PA-R1\n\n\nDetails\nType: Fan & Heatsinks\nFan Size: 120mm\nCPU Socket Compatibility: Intel® LGA  1700 / 1200 / 1151 / 1150 / 1155 / 1156  \nAMD®  AM5 / AM4\nBearing Type: Rifle\nRPM: 650 ~ 2050 RPM ± 10%\nAir Flow: 51.88 CFM (88.14 m³/h )\nNoise Level: 27 dB(A)\nPower Connector: 4 Pin\nColor: White\nLED: Addressable RGB\n\n\nDimensions & Weight\nMax CPU Cooler Height: 154 mm",
   "Price": 119.00,
-  "Features": [],
+  "Features": [
+    "6 Heat Pipes",
+    "Cobre",
+    "LGA 1700",
+    "LGA 1200",
+    "LGA 115X",
+    "AM5",
+    "AM4"
+  ],
   "Date": "2023-07-17T23:40:13.7039736-04:00",
-  "Update": "2023-07-18T00:15:27.7795159-04:00",
+  "Update": "2023-07-18T00:35:15.5842137-04:00",
   "Discount": 0.0,
   "Label": "Enfriamiento Cooler Master Hyper 622 Halo White"
 }
