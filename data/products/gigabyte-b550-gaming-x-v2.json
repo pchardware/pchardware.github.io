@@ -16,13 +16,15 @@
   "Price": 199.00,
   "Features": [
     "AM4",
+    "6xSATA",
+    "6xUSB",
     "DDR4",
     "4733mhz",
     "ATX",
     "AMD"
   ],
   "Date": "2023-07-13T11:32:04.6371575-04:00",
-  "Update": "2023-07-13T12:01:33.7809254-04:00",
+  "Update": "2023-07-18T17:01:41.765462-04:00",
   "Discount": 0.0,
   "Label": "Gigabyte B550 Gaming X V2"
 }
