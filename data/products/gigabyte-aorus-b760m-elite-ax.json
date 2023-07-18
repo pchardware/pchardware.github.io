@@ -12,13 +12,15 @@
   "Price": 199.00,
   "Features": [
     "12va-13ra",
+    "4xSATA",
+    "8xUSB",
     "DDR5",
     "7600mhz",
     "LGA 1700",
     "Micro ATX"
   ],
   "Date": "2023-06-29T07:39:17.5627753-04:00",
-  "Update": "2023-06-29T08:04:07.2227246-04:00",
+  "Update": "2023-07-18T17:01:41.7101354-04:00",
   "Discount": 0.0,
   "Label": "Gigabyte Aorus B760M Elite AX"
 }
