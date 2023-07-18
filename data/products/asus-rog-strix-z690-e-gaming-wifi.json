@@ -13,13 +13,15 @@
   "Price": 375.00,
   "Features": [
     "12va-13ra",
+    "6xSATA",
+    "10xUSB",
     "DDR5",
     "6400mhz",
     "LGA 1700",
     "ATX"
   ],
   "Date": "2023-05-11T07:51:07.1403838-04:00",
-  "Update": "2023-06-29T08:04:07.1174079-04:00",
+  "Update": "2023-07-18T17:01:41.587718-04:00",
   "Discount": 0.0,
   "Label": "Asus ROG Strix Z690-E Gaming Wifi"
 }
