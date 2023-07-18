@@ -1,0 +1,19 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Fuente",
+  "Images": [
+    "/images/products/fuente-corsair-hx850-1.webp",
+    "/images/products/fuente-corsair-hx850-2.webp",
+    "/images/products/fuente-corsair-hx850-3.webp",
+    "/images/products/fuente-corsair-hx850-4.webp",
+    "/images/products/fuente-corsair-hx850-5.webp",
+    "/images/products/fuente-corsair-hx850-6.webp"
+  ],
+  "Description": "General\nBrand: CORSAIR\nSeries: HX Series\nModel: HX850\n\n\nModel\nPart Number: CP-9020213-NA\n\n\nDetails\nType: ATX\nMaximum Power: 850 W\nFans: 1 x 140 mm fluid dynamic bearing fan\nMain Connector: 24Pin\nMax PSU Length: 160 mm\nModular: Full Modular\nEnergy-Efficient: 80 PLUS PLATINUM Certified\nInput Voltage: 100 - 240 V\nInput Frequency Range: 47 - 63 Hz\nInput Current: 10A-5A\nOutput: +3.3V@25A, +5V@25A, +12V@70.8A, -12V@0.3A, +5VSB@3A\nConnectors: 1 x ATX CABLE 24-PIN\n3 x EPS/ATX12V CABLE 8-PIN (4+4)\n2 x PCIe CABLE 8-PIN (6+2): 600mm, 150mm\n2 x SATA CABLE (3 SATA - Right Angle):520mm, 115mm, 115mm\n2 x SATA CABLE (4 SATA - Right Angle): 505mm, 115mm, 115mm, 115mm\n1 x PATA CABLE (4-PIN):450mm, 100mm, 100mm,\n\n\nDimension & Weight\nDimensions: 6.30\"x5.91\"x3.39\"\nWeight: 3.97 lbs",
+  "Price": 229.00,
+  "Features": [],
+  "Date": "2023-07-17T23:37:46.1740196-04:00",
+  "Update": "2023-07-18T00:15:27.68819-04:00",
+  "Discount": 0.0,
+  "Label": "Fuente Corsair HX850"
+}
