@@ -1,0 +1,23 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Microprocesador",
+  "Images": [
+    "/images/products/amd-ryzen-7-5800x-disipador-1.webp",
+    "/images/products/amd-ryzen-7-5800x-disipador-2.webp",
+    "/images/products/amd-ryzen-7-5800x-disipador-3.webp"
+  ],
+  "Description": "Model\nBrand: AMD\nProcessors Type: Desktop\nSeries: Ryzen 7 5000 Series\nName: Ryzen 7 5800X\n\n\nDetails\nCPU Socket Type: Socket AM4\nCore Name: Vermeer (Zen 3)\n# of Cores: 8-Core\n# of Threads: 16\nOperating Frequency: 3.8 GHz\nMax Turbo Frequency: 4.7 GHz\nL2 Cache: 4MB\nL3 Cache: 32MB\nManufacturing Tech: 7nm\n64-Bit Support: Yes\nMemory Types: DDR4 3200\nVirtualization Technology Support: Yes\nIntegrated Graphics: None Integrated Graphics\nPCI Express Revision: 4.0 / 3.0\nThermal Design Power: 105W\nCooling Device: Cooling device not included - Processor Only",
+  "Price": 245.00,
+  "Features": [
+    "5000 Series",
+    "16 Hilos",
+    "8 Core",
+    "4.7GHz",
+    "32MB L3",
+    "AM4"
+  ],
+  "Date": "2023-05-11T07:44:14.6151541-04:00",
+  "Update": "2023-07-18T00:35:15.4513633-04:00",
+  "Discount": 0.0,
+  "Label": "AMD Ryzen 7 5800X +Disipador"
+}
