@@ -12,13 +12,15 @@
   "Price": 179.00,
   "Features": [
     "AM4",
+    "4xSATA",
+    "8xUSB",
     "DDR4",
     "4733mhz",
     "Micro ATX",
     "AMD"
   ],
   "Date": "2023-06-29T07:38:57.1417711-04:00",
-  "Update": "2023-06-29T08:04:07.2076489-04:00",
+  "Update": "2023-07-18T17:01:41.678471-04:00",
   "Discount": 0.0,
   "Label": "Gigabyte B550M Aorus Elite"
 }
