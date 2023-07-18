@@ -14,13 +14,15 @@
   "Price": 249.00,
   "Features": [
     "12va-13ra",
+    "4xSATA",
+    "7xUSB",
     "DDR5",
     "6400mhz",
     "LGA 1700",
     "ATX"
   ],
   "Date": "2023-06-29T07:39:00.0628217-04:00",
-  "Update": "2023-06-29T12:09:37.2392665-04:00",
+  "Update": "2023-07-18T17:01:41.7265407-04:00",
   "Discount": 0.0,
   "Label": "MSI MAG Z690 Tomahawk Wifi"
 }
