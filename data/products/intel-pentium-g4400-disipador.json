@@ -1,0 +1,21 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Microprocesador",
+  "Images": [
+    "/images/products/intel-pentium-g4400-disipador-1.webp"
+  ],
+  "Description": "Model\nBrand: Intel\nProcessors Type: Desktop\nSeries: Pentium\nName: Pentium G4400\nModel: BX80662G4400\n\n\nDetails\nCPU Socket Type: LGA 1151\nCore Name: Skylake\n# of Cores: Dual-Core\n# of Threads: 2\nOperating Frequency: 3.3 GHz\nL2 Cache: 2 x 256KB\nL3 Cache: 3MB\nManufacturing Tech: 14nm\n64-Bit Support: Yes\nHyper-Threading Support: No\nMemory Types: DDR4-1866 / 2133, DDR3L-1333 / 1600 @ 1.35V\nMemory Channel: 2\nVirtualization Technology Support: Yes\nIntegrated Graphics: Intel HD Graphics 510\nGraphics Base Frequency: 350 MHz\nGraphics Max Dynamic Frequency: 1.0 GHz\nPCI Express Revision: 3.0\nMax Number of PCI Express Lanes: 16\nThermal Design Power: 54W\nCooling Device: Heatsink and fan included",
+  "Price": 15.00,
+  "Features": [
+    "6ta Gen",
+    "2 Hilos",
+    "2 Cores",
+    "3.3GHz",
+    "3MB L3",
+    "LGA 1151"
+  ],
+  "Date": "2023-07-17T23:39:50.1879409-04:00",
+  "Update": "2023-07-18T00:35:15.5697329-04:00",
+  "Discount": 0.0,
+  "Label": "Intel Pentium G4400 +Disipador"
+}
