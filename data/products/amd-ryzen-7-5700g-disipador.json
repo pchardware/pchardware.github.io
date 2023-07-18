@@ -1,0 +1,24 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Microprocesador",
+  "Images": [
+    "/images/products/amd-ryzen-7-5700g-disipador-1.webp",
+    "/images/products/amd-ryzen-7-5700g-disipador-2.webp",
+    "/images/products/amd-ryzen-7-5700g-disipador-3.webp"
+  ],
+  "Description": "Model\nBrand: AMD\nProcessors Type: Desktop\nSeries: Ryzen 7 5000 G-Series\nName: Ryzen 7 5700G\nModel: 100-100000263BOX\n\n\nDetails\nCPU Socket Type: Socket AM4\nCore Name: Cezanne (Zen 3)\n# of Cores: 8-Core\n# of Threads: 16\nOperating Frequency: 3.8 GHz\nMax Turbo Frequency: 4.6 GHz\nL2 Cache: 4MB\nL3 Cache: 16MB\nManufacturing Tech: 7nm\n64-Bit Support: Yes\nMemory Types: DDR4 3200\nMemory Channel: 2\nVirtualization Technology Support: Yes\nIntegrated Graphics: AMD Radeon Graphics\nPCI Express Revision: 3.0\nThermal Design Power: 65W\nCooling Device: Wraith Stealth\nWindows 11: Supported",
+  "Price": 225.00,
+  "Features": [
+    "Radeon Graphics",
+    "5000 Series",
+    "16 Hilos",
+    "8 Core",
+    "4.6GHz",
+    "16MB L3",
+    "AM4"
+  ],
+  "Date": "2023-06-07T15:04:47.8071575-04:00",
+  "Update": "2023-07-18T00:35:15.4576334-04:00",
+  "Discount": 0.0,
+  "Label": "AMD Ryzen 7 5700G +Disipador"
+}
