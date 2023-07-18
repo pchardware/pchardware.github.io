@@ -12,13 +12,15 @@
   "Price": 389.00,
   "Features": [
     "12va-13ra",
+    "4xSATA",
+    "8xUSB",
     "DDR5",
     "7800mhz",
     "LGA 1700",
     "ATX"
   ],
   "Date": "2023-03-29T20:18:17.8757341-04:00",
-  "Update": "2023-06-29T08:04:07.1698436-04:00",
+  "Update": "2023-07-18T17:01:41.6256624-04:00",
   "Discount": 0.0,
   "Label": "Asus ROG Strix Z790-H Gaming Wifi"
 }
