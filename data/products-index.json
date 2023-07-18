@@ -408,6 +408,19 @@
         "Update": "2023-07-16T08:03:46.7970896-04:00",
         "Discount": 0.0,
         "Label": "MSI Gaming X RTX 3050 8GB"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "8GB",
+          "3xFan",
+          "Radeon",
+          "AMD"
+        ],
+        "Date": "2023-05-11T19:24:18.7527581-04:00",
+        "Update": "2023-07-17T23:36:25.7587609-04:00",
+        "Discount": 0.0,
+        "Label": "Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
       }
     ],
     "Fuente": [
@@ -1582,22 +1595,6 @@
         "Label": "Enfriamiento Zalman CNPS 10X Optima II RGB"
       },
       {
-        "Price": 55.00,
-        "Features": [
-          "White",
-          "4 Heat Pipes",
-          "Cobre",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4"
-        ],
-        "Date": "2023-05-11T12:34:41.3615219-04:00",
-        "Update": "2023-06-09T16:50:28.7830607-04:00",
-        "Discount": 0.0,
-        "Label": "Enfriamiento SAMA KA450DW RGB"
-      },
-      {
         "Price": 10.00,
         "Features": [
           "LGA 115X"
@@ -1821,6 +1818,18 @@
         "Update": "2023-07-13T12:01:33.7809254-04:00",
         "Discount": 0.0,
         "Label": "Gigabyte B550 Gaming X V2"
+      },
+      {
+        "Price": 279.00,
+        "Features": [
+          "12na y 13ra",
+          "6000mhz",
+          "LGA1700"
+        ],
+        "Date": "2023-05-11T07:56:36.6020035-04:00",
+        "Update": "2023-07-17T23:36:25.7304666-04:00",
+        "Discount": 0.0,
+        "Label": "Asus TUF Z690-Plus Wifi DDR5"
       }
     ]
   },
