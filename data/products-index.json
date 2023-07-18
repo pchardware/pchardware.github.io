@@ -2,7 +2,7 @@
   "Computadoras": {
     "Entusiasta": [
       {
-        "Price": 4037.00,
+        "Price": 3977.00,
         "Features": [],
         "Date": "2023-06-25T15:54:23.070873-04:00",
         "Update": "2023-06-26T07:20:34.8268258-04:00",
@@ -14,7 +14,7 @@
   "Kits": {
     "Entusiasta": [
       {
-        "Price": 1178.00,
+        "Price": 1148.00,
         "Features": [],
         "Date": "2023-06-15T09:02:58.8515588-04:00",
         "Update": "2023-06-24T13:44:18.1007405-04:00",
@@ -22,7 +22,7 @@
         "Label": "Kit i9-13900K + Asus ROG Strix Z690-E Gaming Wifi + 32GB DDR5"
       },
       {
-        "Price": 1278.00,
+        "Price": 1244.00,
         "Features": [],
         "Date": "2023-06-24T13:41:22.3656225-04:00",
         "Update": "2023-06-24T13:44:18.1119769-04:00",
@@ -412,7 +412,7 @@
     ],
     "Fuente": [
       {
-        "Price": 140.00,
+        "Price": 139.00,
         "Features": [
           "80+ Bronze",
           "Modular",
@@ -427,7 +427,7 @@
         "Label": "Fuente Corsair CX750M"
       },
       {
-        "Price": 185.00,
+        "Price": 179.00,
         "Features": [
           "80+ Bronze",
           "Modular",
@@ -455,7 +455,7 @@
         "Label": "Fuente Thermaltake Smart 500W 80+"
       },
       {
-        "Price": 235.00,
+        "Price": 225.00,
         "Features": [
           "80+ Gold",
           "Full Modular",
@@ -470,7 +470,7 @@
         "Label": "Fuente Asus TUF 850W"
       },
       {
-        "Price": 275.00,
+        "Price": 269.00,
         "Features": [
           "80+ Gold",
           "ATX 3.0",
@@ -482,7 +482,7 @@
         "Label": "Fuente Asus TUF 1000W"
       },
       {
-        "Price": 295.00,
+        "Price": 289.00,
         "Features": [
           "80+ Gold",
           "Full Modular",
@@ -507,7 +507,7 @@
         "Label": "Corsair Cable Kit Blue"
       },
       {
-        "Price": 215.00,
+        "Price": 209.00,
         "Features": [
           "Fully Modular",
           "80+ Gold",
@@ -572,7 +572,7 @@
         "Label": "Fuente Thermaltake SMART 600W"
       },
       {
-        "Price": 160.00,
+        "Price": 159.00,
         "Features": [
           "80+ Gold",
           "800W",
@@ -910,7 +910,7 @@
         "Label": "DDR5 Corsair Vengeance 64GB 5200mhz"
       },
       {
-        "Price": 190.00,
+        "Price": 179.00,
         "Features": [
           "2x24GB",
           "Disipadas"
@@ -921,7 +921,7 @@
         "Label": "DDR5 Corsair Vengeance RGB 48GB 5600mhz"
       },
       {
-        "Price": 145.00,
+        "Price": 129.00,
         "Features": [
           "2x16GB",
           "Disipadas"
@@ -932,7 +932,7 @@
         "Label": "DDR5 Corsair Vengeance 32GB 6000mhz"
       },
       {
-        "Price": 160.00,
+        "Price": 145.00,
         "Features": [
           "2x16GB",
           "Disipadas"
@@ -943,7 +943,7 @@
         "Label": "DDR5 Corsair Vengeance RGB 32GB 6000mhz"
       },
       {
-        "Price": 175.00,
+        "Price": 159.00,
         "Features": [
           "2x16GB",
           "Disipadas"
@@ -965,7 +965,7 @@
         "Label": "DDR4 G.Skill Sniper X 32GB 3600mhz"
       },
       {
-        "Price": 160.00,
+        "Price": 149.00,
         "Features": [
           "2x16GB",
           "Disipadas"
@@ -976,7 +976,7 @@
         "Label": "DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       },
       {
-        "Price": 175.00,
+        "Price": 165.00,
         "Features": [
           "2x16GB",
           "Disipadas"
@@ -1618,7 +1618,7 @@
         "Label": "Enfriamiento Intel Generic Plus"
       },
       {
-        "Price": 79.00,
+        "Price": 75.00,
         "Features": [
           "4 Heat Pipes",
           "Cobre",
@@ -1682,7 +1682,7 @@
         "Label": "ASRock B660M PRO RS"
       },
       {
-        "Price": 399.00,
+        "Price": 385.00,
         "Features": [
           "12va-13ra",
           "DDR5",
@@ -1724,7 +1724,7 @@
         "Label": "Asus ROG Strix Z790-H Gaming Wifi"
       },
       {
-        "Price": 499.00,
+        "Price": 475.00,
         "Features": [
           "Wifi 6E",
           "12va-13ra",
@@ -1739,7 +1739,7 @@
         "Label": "Asus ROG Maximus Z690 Hero"
       },
       {
-        "Price": 255.00,
+        "Price": 245.00,
         "Features": [
           "12va-13ra",
           "DDR5",
@@ -1781,7 +1781,7 @@
         "Label": "Gigabyte Aorus B760M Elite AX"
       },
       {
-        "Price": 275.00,
+        "Price": 265.00,
         "Features": [
           "12va-13ra",
           "DDR5",
@@ -1911,7 +1911,7 @@
         "Label": "Mouse Pad Asus ROG Sheath Pink LTD"
       },
       {
-        "Price": 55.00,
+        "Price": 49.00,
         "Features": [
           "Reforzado",
           "Tela",
@@ -2121,7 +2121,7 @@
         "Label": "COMBO Teclado + Mouse Rosewill Fusion C40"
       },
       {
-        "Price": 149.00,
+        "Price": 135.00,
         "Features": [
           "RGB",
           "Macros",
@@ -2140,7 +2140,7 @@
         "Label": "COMBO Teclado Corsair K55 + Mouse Harpoon RGB"
       },
       {
-        "Price": 145.00,
+        "Price": 105.00,
         "Features": [
           "Mecánico",
           "Backlit",
@@ -2157,7 +2157,7 @@
         "Label": "Teclado Logitech G413 Carbon"
       },
       {
-        "Price": 155.00,
+        "Price": 139.00,
         "Features": [
           "Mecánico",
           "RGB",
@@ -2177,7 +2177,7 @@
         "Label": "Teclado Asus TUF Gaming K3"
       },
       {
-        "Price": 69.00,
+        "Price": 67.00,
         "Features": [
           "Inalámbrico",
           "Ergonómico",
@@ -2193,7 +2193,7 @@
         "Label": "COMBO Teclado + Mouse Logitech MK520"
       },
       {
-        "Price": 65.00,
+        "Price": 62.00,
         "Features": [
           "Gaming",
           "RGB",
@@ -2210,7 +2210,7 @@
         "Label": "Teclado Rosewill NEON K54"
       },
       {
-        "Price": 145.00,
+        "Price": 110.00,
         "Features": [
           "Mecánico",
           "RGB",
@@ -2228,7 +2228,7 @@
         "Label": "Teclado Rosewill NEON K90 RGB BR"
       },
       {
-        "Price": 105.00,
+        "Price": 99.00,
         "Features": [
           "Macros",
           "Palm rest",
@@ -2244,7 +2244,7 @@
         "Label": "Teclado Corsair Gaming K55 RGB Pro"
       },
       {
-        "Price": 65.00,
+        "Price": 59.00,
         "Features": [
           "RGB",
           "Gaming",
@@ -2274,7 +2274,7 @@
         "Label": "Teclado Corsair K60 RGB Pro"
       },
       {
-        "Price": 135.00,
+        "Price": 115.00,
         "Features": [
           "Mecánico",
           "RGB",
@@ -2301,7 +2301,7 @@
         "Label": "COMBO Teclado + Mouse Lenovo 300"
       },
       {
-        "Price": 109.00,
+        "Price": 99.00,
         "Features": [
           "Membrana",
           "RGB",
@@ -2344,7 +2344,7 @@
         "Label": "COMBO Teclado + Mouse Logitech MK270"
       },
       {
-        "Price": 175.00,
+        "Price": 149.00,
         "Features": [
           "Mecánico",
           "Macros",
@@ -2362,7 +2362,7 @@
         "Label": "Teclado Asus ROG Strix Flare"
       },
       {
-        "Price": 75.00,
+        "Price": 69.00,
         "Features": [
           "Membrana",
           "LED",
@@ -2378,7 +2378,7 @@
         "Label": "COMBO Teclado + Mouse + Pad GAMDIAS HERMES E1A 3-in-1"
       },
       {
-        "Price": 230.00,
+        "Price": 219.00,
         "Features": [
           "Mecánico",
           "Aluminio",
