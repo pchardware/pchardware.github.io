@@ -227,6 +227,14 @@
         "Update": "2023-07-12T21:22:46.7172585-04:00",
         "Discount": 0.0,
         "Label": "Intel Core i5-12400 +Disipador"
+      },
+      {
+        "Price": 15.00,
+        "Features": [],
+        "Date": "2023-07-17T23:39:50.1879409-04:00",
+        "Update": "2023-07-18T00:15:27.7633674-04:00",
+        "Discount": 0.0,
+        "Label": "CPU Intel Pentium G4400"
       }
     ],
     "Tarjeta Gráfica": [
@@ -421,6 +429,22 @@
         "Update": "2023-07-17T23:36:25.7587609-04:00",
         "Discount": 0.0,
         "Label": "Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
+      },
+      {
+        "Price": 329.00,
+        "Features": [],
+        "Date": "2023-07-17T23:39:20.309564-04:00",
+        "Update": "2023-07-18T00:15:27.7448072-04:00",
+        "Discount": 0.0,
+        "Label": "ASRock Steel Legend Radeon RX 6650 XT 8GB"
+      },
+      {
+        "Price": 319.00,
+        "Features": [],
+        "Date": "2023-07-17T23:39:40.6107252-04:00",
+        "Update": "2023-07-18T00:15:27.7511873-04:00",
+        "Discount": 0.0,
+        "Label": "MSI Mech Radeon RX 6650 XT 8GB"
       }
     ],
     "Fuente": [
@@ -611,6 +635,14 @@
         "Update": "2023-07-13T07:57:15.0381705-04:00",
         "Discount": 0.0,
         "Label": "Fuente Raidmax Cobra RX-700AC-B"
+      },
+      {
+        "Price": 229.00,
+        "Features": [],
+        "Date": "2023-07-17T23:37:46.1740196-04:00",
+        "Update": "2023-07-18T00:15:27.68819-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente Corsair HX850"
       }
     ],
     "Chasis": [
@@ -798,6 +830,46 @@
         "Update": "2023-07-09T22:12:27.935211-04:00",
         "Discount": 0.0,
         "Label": "Fan Asus ROG Ryuo Model 12"
+      },
+      {
+        "Price": 11.00,
+        "Features": [],
+        "Date": "2023-07-17T23:37:33.911055-04:00",
+        "Update": "2023-07-18T00:15:27.6755036-04:00",
+        "Discount": 0.0,
+        "Label": "Cable EnLabs 1-to-5 3Pins Addressable RGB Splitter Y Cable"
+      },
+      {
+        "Price": 9.00,
+        "Features": [],
+        "Date": "2023-07-17T23:37:41.8646-04:00",
+        "Update": "2023-07-18T00:15:27.6816958-04:00",
+        "Discount": 0.0,
+        "Label": "Cable PWM Fan Hub PC 5 Way Splitter 4Pin"
+      },
+      {
+        "Price": 47.00,
+        "Features": [],
+        "Date": "2023-07-17T23:37:56.1110686-04:00",
+        "Update": "2023-07-18T00:15:27.6942343-04:00",
+        "Discount": 0.0,
+        "Label": "HUB - ORICO Type-C 10-Port USB 3.0"
+      },
+      {
+        "Price": 27.00,
+        "Features": [],
+        "Date": "2023-07-17T23:39:08.2912576-04:00",
+        "Update": "2023-07-18T00:15:27.731022-04:00",
+        "Discount": 0.0,
+        "Label": "EXTRA Cooler Master MasterFan ARGB and PWM Hub - 6 Ports"
+      },
+      {
+        "Price": 18.00,
+        "Features": [],
+        "Date": "2023-07-17T23:39:12.7295429-04:00",
+        "Update": "2023-07-18T00:15:27.7381083-04:00",
+        "Discount": 0.0,
+        "Label": "EXTRA EN-Labs GEKE PWM 4-pin Fan Hub 10 Ports Splitter"
       }
     ],
     "Memoria RAM": [
@@ -998,6 +1070,38 @@
         "Update": "2023-06-19T09:35:04.6107225-04:00",
         "Discount": 0.0,
         "Label": "DDR5 G.Skill Trident Z5 RGB 32GB 6400mhz"
+      },
+      {
+        "Price": 17.00,
+        "Features": [],
+        "Date": "2023-07-17T23:38:08.1781995-04:00",
+        "Update": "2023-07-18T00:15:27.7013486-04:00",
+        "Discount": 0.0,
+        "Label": "DDR3 G.Skill Trident X 8GB (2x4GB) 2400"
+      },
+      {
+        "Price": 105.00,
+        "Features": [],
+        "Date": "2023-07-17T23:38:49.930694-04:00",
+        "Update": "2023-07-18T00:15:27.7091506-04:00",
+        "Discount": 0.0,
+        "Label": "DDR4 G.SKILL Ripjaws V 16GB (2x8GB) 3600mHz"
+      },
+      {
+        "Price": 119.00,
+        "Features": [],
+        "Date": "2023-07-17T23:38:59.1422699-04:00",
+        "Update": "2023-07-18T00:15:27.7160488-04:00",
+        "Discount": 0.0,
+        "Label": "DDR5 G.SKILL Ripjaws S5 Series 32GB (2x16GB) 6400"
+      },
+      {
+        "Price": 135.00,
+        "Features": [],
+        "Date": "2023-07-17T23:39:03.8750592-04:00",
+        "Update": "2023-07-18T00:15:27.7237261-04:00",
+        "Discount": 0.0,
+        "Label": "DDR5 XPG Lancer 32GB (2x16GB) 6400"
       }
     ],
     "Disco Sólido": [
@@ -1641,6 +1745,22 @@
         "Update": "2023-07-13T12:01:33.7950648-04:00",
         "Discount": 0.0,
         "Label": "Enfriamiento Thermaltake UX100 5V ARGB"
+      },
+      {
+        "Price": 119.00,
+        "Features": [],
+        "Date": "2023-07-17T23:40:13.7039736-04:00",
+        "Update": "2023-07-18T00:15:27.7795159-04:00",
+        "Discount": 0.0,
+        "Label": "Enfriamiento Cooler Master Hyper 622 Halo White"
+      },
+      {
+        "Price": 17.00,
+        "Features": [],
+        "Date": "2023-07-17T23:40:19.2345723-04:00",
+        "Update": "2023-07-18T00:15:27.7869756-04:00",
+        "Discount": 0.0,
+        "Label": "Enfriamiento AMD Aluminio Basico AM4"
       }
     ],
     "Red": [
@@ -1830,6 +1950,22 @@
         "Update": "2023-07-17T23:36:25.7304666-04:00",
         "Discount": 0.0,
         "Label": "Asus TUF Z690-Plus Wifi DDR5"
+      },
+      {
+        "Price": 289.00,
+        "Features": [],
+        "Date": "2023-07-17T23:39:45.1712194-04:00",
+        "Update": "2023-07-18T00:15:27.7570694-04:00",
+        "Discount": 0.0,
+        "Label": "Board GIGABYTE Z690 AERO G"
+      },
+      {
+        "Price": 49.00,
+        "Features": [],
+        "Date": "2023-07-17T23:40:24.0138787-04:00",
+        "Update": "2023-07-18T00:15:27.7928945-04:00",
+        "Discount": 0.0,
+        "Label": "Board Asus Z87-Plus"
       }
     ]
   },
