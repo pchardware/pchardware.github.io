@@ -80,163 +80,6 @@
     ]
   },
   "Componentes": {
-    "Microprocesador": [
-      {
-        "Price": 245.00,
-        "Features": [
-          "5000 Series",
-          "16 Hilos",
-          "8 Core",
-          "4.7GHz",
-          "32MB L3",
-          "AM4"
-        ],
-        "Date": "2023-05-11T07:44:14.6151541-04:00",
-        "Update": "2023-06-01T10:49:59.5046022-04:00",
-        "Discount": 0.0,
-        "Label": "AMD Ryzen 7 5800X"
-      },
-      {
-        "Price": 225.00,
-        "Features": [
-          "Radeon Graphics",
-          "5000 Series",
-          "16 Hilos",
-          "8 Core",
-          "4.6GHz",
-          "16MB L3",
-          "AM4"
-        ],
-        "Date": "2023-06-07T15:04:47.8071575-04:00",
-        "Update": "2023-06-07T16:50:45.3577875-04:00",
-        "Discount": 0.0,
-        "Label": "AMD Ryzen 7 5700G"
-      },
-      {
-        "Price": 305.00,
-        "Features": [
-          "12va Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "25MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700"
-        ],
-        "Date": "2023-02-17T09:30:45.7586545-05:00",
-        "Update": "2023-06-09T16:50:28.9239247-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i7-12700K"
-      },
-      {
-        "Price": 250.00,
-        "Features": [
-          "12va Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "20MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700"
-        ],
-        "Date": "2023-02-17T09:44:28.156292-05:00",
-        "Update": "2023-06-09T16:50:28.9301845-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i5-12600K"
-      },
-      {
-        "Price": 620.00,
-        "Features": [
-          "13ra Gen",
-          "32 Hilos",
-          "24 Core",
-          "5.7GHz",
-          "30MB L3",
-          "DDR4 y DDR5",
-          "Unlocked",
-          "LGA 1700"
-        ],
-        "Date": "2023-03-22T09:04:16.5699219-04:00",
-        "Update": "2023-06-09T16:50:28.9426112-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i9-13900K"
-      },
-      {
-        "Price": 410.00,
-        "Features": [
-          "12va Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.2GHz",
-          "30MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700"
-        ],
-        "Date": "2023-05-11T07:00:48.0876416-04:00",
-        "Update": "2023-06-09T16:50:28.9612903-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i9-12900K"
-      },
-      {
-        "Price": 190.00,
-        "Features": [
-          "11th Gen",
-          "12 Hilos",
-          "6 Cores",
-          "4.4GHz",
-          "12MB L3",
-          "LGA 1200"
-        ],
-        "Date": "2023-03-22T09:04:03.4468877-04:00",
-        "Update": "2023-06-17T22:28:26.905897-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i5-11400 +Disipador"
-      },
-      {
-        "Price": 360.00,
-        "Features": [
-          "13ra Gen",
-          "20 Hilos",
-          "14 Core",
-          "5.1GHz",
-          "24MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700"
-        ],
-        "Date": "2023-06-19T07:47:08.4755764-04:00",
-        "Update": "2023-06-19T09:35:04.6028742-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i5-13600K"
-      },
-      {
-        "Price": 215.00,
-        "Features": [
-          "12va Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "18MB L3",
-          "DDR4-DDR5",
-          "LGA 1700"
-        ],
-        "Date": "2023-02-17T09:45:29.425139-05:00",
-        "Update": "2023-07-12T21:22:46.7172585-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i5-12400 +Disipador"
-      },
-      {
-        "Price": 15.00,
-        "Features": [],
-        "Date": "2023-07-17T23:39:50.1879409-04:00",
-        "Update": "2023-07-18T00:15:27.7633674-04:00",
-        "Discount": 0.0,
-        "Label": "CPU Intel Pentium G4400"
-      }
-    ],
     "Tarjeta Gráfica": [
       {
         "Price": 675.00,
@@ -381,18 +224,6 @@
         "Label": "XFX Speedster QICK 210 RX 6500 XT"
       },
       {
-        "Price": 385.00,
-        "Features": [
-          "2xFan",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-07-12T21:42:49.1798698-04:00",
-        "Update": "2023-07-12T22:15:23.0016561-04:00",
-        "Discount": 0.0,
-        "Label": "Asus Dual RTX 4060 8GB OC"
-      },
-      {
         "Price": 179.00,
         "Features": [
           "4GB",
@@ -404,18 +235,6 @@
         "Update": "2023-07-16T07:50:06.8689489-04:00",
         "Discount": 0.0,
         "Label": "ASRock Challenger ITX RX 6500 XT"
-      },
-      {
-        "Price": 299.00,
-        "Features": [
-          "2xFan",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-07-12T21:42:54.3752209-04:00",
-        "Update": "2023-07-16T08:03:46.7970896-04:00",
-        "Discount": 0.0,
-        "Label": "MSI Gaming X RTX 3050 8GB"
       },
       {
         "Price": 275.00,
@@ -431,20 +250,56 @@
         "Label": "Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
       },
       {
-        "Price": 329.00,
-        "Features": [],
-        "Date": "2023-07-17T23:39:20.309564-04:00",
-        "Update": "2023-07-18T00:15:27.7448072-04:00",
+        "Price": 385.00,
+        "Features": [
+          "8GB",
+          "2xFan",
+          "GeForce",
+          "NVIDIA"
+        ],
+        "Date": "2023-07-12T21:42:49.1798698-04:00",
+        "Update": "2023-07-18T00:35:15.4639095-04:00",
         "Discount": 0.0,
-        "Label": "ASRock Steel Legend Radeon RX 6650 XT 8GB"
+        "Label": "Asus Dual RTX 4060 OC"
+      },
+      {
+        "Price": 299.00,
+        "Features": [
+          "8GB",
+          "2xFan",
+          "GeForce",
+          "NVIDIA"
+        ],
+        "Date": "2023-07-12T21:42:54.3752209-04:00",
+        "Update": "2023-07-18T00:35:15.4702632-04:00",
+        "Discount": 0.0,
+        "Label": "MSI Gaming X RTX 3050"
+      },
+      {
+        "Price": 329.00,
+        "Features": [
+          "8GB",
+          "3xFan",
+          "Radeon",
+          "AMD"
+        ],
+        "Date": "2023-07-17T23:39:20.309564-04:00",
+        "Update": "2023-07-18T00:35:15.5479422-04:00",
+        "Discount": 0.0,
+        "Label": "ASRock Steel Legend Radeon RX 6650 XT"
       },
       {
         "Price": 319.00,
-        "Features": [],
+        "Features": [
+          "8GB",
+          "2xFan",
+          "Radeon",
+          "AMD"
+        ],
         "Date": "2023-07-17T23:39:40.6107252-04:00",
-        "Update": "2023-07-18T00:15:27.7511873-04:00",
+        "Update": "2023-07-18T00:35:15.5548237-04:00",
         "Discount": 0.0,
-        "Label": "MSI Mech Radeon RX 6650 XT 8GB"
+        "Label": "MSI Mech Radeon RX 6650 XT"
       }
     ],
     "Fuente": [
@@ -638,9 +493,15 @@
       },
       {
         "Price": 229.00,
-        "Features": [],
+        "Features": [
+          "80+ PLATINUM",
+          "Full Modular",
+          "71A",
+          "2x 8-Pin",
+          "14x SATA"
+        ],
         "Date": "2023-07-17T23:37:46.1740196-04:00",
-        "Update": "2023-07-18T00:15:27.68819-04:00",
+        "Update": "2023-07-18T00:35:15.4778424-04:00",
         "Discount": 0.0,
         "Label": "Fuente Corsair HX850"
       }
@@ -851,25 +712,25 @@
         "Price": 47.00,
         "Features": [],
         "Date": "2023-07-17T23:37:56.1110686-04:00",
-        "Update": "2023-07-18T00:15:27.6942343-04:00",
+        "Update": "2023-07-18T00:35:15.4907122-04:00",
         "Discount": 0.0,
-        "Label": "HUB - ORICO Type-C 10-Port USB 3.0"
+        "Label": "HUB ORICO Type-C 10-Port USB 3.0"
       },
       {
         "Price": 27.00,
         "Features": [],
         "Date": "2023-07-17T23:39:08.2912576-04:00",
-        "Update": "2023-07-18T00:15:27.731022-04:00",
+        "Update": "2023-07-18T00:35:15.5294629-04:00",
         "Discount": 0.0,
-        "Label": "EXTRA Cooler Master MasterFan ARGB and PWM Hub - 6 Ports"
+        "Label": "Cooler Master MasterFan ARGB and PWM Hub - 6 Ports"
       },
       {
         "Price": 18.00,
         "Features": [],
         "Date": "2023-07-17T23:39:12.7295429-04:00",
-        "Update": "2023-07-18T00:15:27.7381083-04:00",
+        "Update": "2023-07-18T00:35:15.536536-04:00",
         "Discount": 0.0,
-        "Label": "EXTRA EN-Labs GEKE PWM 4-pin Fan Hub 10 Ports Splitter"
+        "Label": "EN-Labs GEKE PWM 4-pin Fan Hub 10 Ports Splitter"
       }
     ],
     "Memoria RAM": [
@@ -1073,35 +934,47 @@
       },
       {
         "Price": 17.00,
-        "Features": [],
+        "Features": [
+          "2x4GB",
+          "Disipadas"
+        ],
         "Date": "2023-07-17T23:38:08.1781995-04:00",
-        "Update": "2023-07-18T00:15:27.7013486-04:00",
+        "Update": "2023-07-18T00:35:15.4966944-04:00",
         "Discount": 0.0,
-        "Label": "DDR3 G.Skill Trident X 8GB (2x4GB) 2400"
+        "Label": "DDR3 G.Skill Trident X 8GB 2400mhz"
       },
       {
         "Price": 105.00,
-        "Features": [],
+        "Features": [
+          "2x8GB",
+          "Disipadas"
+        ],
         "Date": "2023-07-17T23:38:49.930694-04:00",
-        "Update": "2023-07-18T00:15:27.7091506-04:00",
+        "Update": "2023-07-18T00:35:15.5032934-04:00",
         "Discount": 0.0,
-        "Label": "DDR4 G.SKILL Ripjaws V 16GB (2x8GB) 3600mHz"
+        "Label": "DDR4 G.SKILL Ripjaws V 16GB 3600mhz"
       },
       {
         "Price": 119.00,
-        "Features": [],
+        "Features": [
+          "2x16GB",
+          "Disipadas"
+        ],
         "Date": "2023-07-17T23:38:59.1422699-04:00",
-        "Update": "2023-07-18T00:15:27.7160488-04:00",
+        "Update": "2023-07-18T00:35:15.5092246-04:00",
         "Discount": 0.0,
-        "Label": "DDR5 G.SKILL Ripjaws S5 Series 32GB (2x16GB) 6400"
+        "Label": "DDR5 G.SKILL Ripjaws S5 Series 32GB 6400mhz"
       },
       {
         "Price": 135.00,
-        "Features": [],
+        "Features": [
+          "2x16GB",
+          "Disipadas"
+        ],
         "Date": "2023-07-17T23:39:03.8750592-04:00",
-        "Update": "2023-07-18T00:15:27.7237261-04:00",
+        "Update": "2023-07-18T00:35:15.5219184-04:00",
         "Discount": 0.0,
-        "Label": "DDR5 XPG Lancer 32GB (2x16GB) 6400"
+        "Label": "DDR5 XPG Lancer 32GB 6400mhz"
       }
     ],
     "Disco Sólido": [
@@ -1748,19 +1621,29 @@
       },
       {
         "Price": 119.00,
-        "Features": [],
+        "Features": [
+          "6 Heat Pipes",
+          "Cobre",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM5",
+          "AM4"
+        ],
         "Date": "2023-07-17T23:40:13.7039736-04:00",
-        "Update": "2023-07-18T00:15:27.7795159-04:00",
+        "Update": "2023-07-18T00:35:15.5842137-04:00",
         "Discount": 0.0,
         "Label": "Enfriamiento Cooler Master Hyper 622 Halo White"
       },
       {
         "Price": 17.00,
-        "Features": [],
+        "Features": [
+          "AM4"
+        ],
         "Date": "2023-07-17T23:40:19.2345723-04:00",
-        "Update": "2023-07-18T00:15:27.7869756-04:00",
+        "Update": "2023-07-18T00:35:15.5906845-04:00",
         "Discount": 0.0,
-        "Label": "Enfriamiento AMD Aluminio Basico AM4"
+        "Label": "Enfriamiento AMD Wraith Stealth"
       }
     ],
     "Red": [
@@ -1781,6 +1664,170 @@
         "Update": "2023-06-07T17:13:07.6998149-04:00",
         "Discount": 0.0,
         "Label": "PCIe x1 - TP-Link Wifi Adapter [TL-WN881ND]"
+      }
+    ],
+    "Microprocesador": [
+      {
+        "Price": 305.00,
+        "Features": [
+          "12va Gen",
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "25MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700"
+        ],
+        "Date": "2023-02-17T09:30:45.7586545-05:00",
+        "Update": "2023-06-09T16:50:28.9239247-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i7-12700K"
+      },
+      {
+        "Price": 250.00,
+        "Features": [
+          "12va Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "20MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700"
+        ],
+        "Date": "2023-02-17T09:44:28.156292-05:00",
+        "Update": "2023-06-09T16:50:28.9301845-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i5-12600K"
+      },
+      {
+        "Price": 620.00,
+        "Features": [
+          "13ra Gen",
+          "32 Hilos",
+          "24 Core",
+          "5.7GHz",
+          "30MB L3",
+          "DDR4 y DDR5",
+          "Unlocked",
+          "LGA 1700"
+        ],
+        "Date": "2023-03-22T09:04:16.5699219-04:00",
+        "Update": "2023-06-09T16:50:28.9426112-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i9-13900K"
+      },
+      {
+        "Price": 410.00,
+        "Features": [
+          "12va Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.2GHz",
+          "30MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700"
+        ],
+        "Date": "2023-05-11T07:00:48.0876416-04:00",
+        "Update": "2023-06-09T16:50:28.9612903-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i9-12900K"
+      },
+      {
+        "Price": 190.00,
+        "Features": [
+          "11th Gen",
+          "12 Hilos",
+          "6 Cores",
+          "4.4GHz",
+          "12MB L3",
+          "LGA 1200"
+        ],
+        "Date": "2023-03-22T09:04:03.4468877-04:00",
+        "Update": "2023-06-17T22:28:26.905897-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i5-11400 +Disipador"
+      },
+      {
+        "Price": 360.00,
+        "Features": [
+          "13ra Gen",
+          "20 Hilos",
+          "14 Core",
+          "5.1GHz",
+          "24MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700"
+        ],
+        "Date": "2023-06-19T07:47:08.4755764-04:00",
+        "Update": "2023-06-19T09:35:04.6028742-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i5-13600K"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "12va Gen",
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "18MB L3",
+          "DDR4-DDR5",
+          "LGA 1700"
+        ],
+        "Date": "2023-02-17T09:45:29.425139-05:00",
+        "Update": "2023-07-12T21:22:46.7172585-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i5-12400 +Disipador"
+      },
+      {
+        "Price": 245.00,
+        "Features": [
+          "5000 Series",
+          "16 Hilos",
+          "8 Core",
+          "4.7GHz",
+          "32MB L3",
+          "AM4"
+        ],
+        "Date": "2023-05-11T07:44:14.6151541-04:00",
+        "Update": "2023-07-18T00:35:15.4513633-04:00",
+        "Discount": 0.0,
+        "Label": "AMD Ryzen 7 5800X +Disipador"
+      },
+      {
+        "Price": 225.00,
+        "Features": [
+          "Radeon Graphics",
+          "5000 Series",
+          "16 Hilos",
+          "8 Core",
+          "4.6GHz",
+          "16MB L3",
+          "AM4"
+        ],
+        "Date": "2023-06-07T15:04:47.8071575-04:00",
+        "Update": "2023-07-18T00:35:15.4576334-04:00",
+        "Discount": 0.0,
+        "Label": "AMD Ryzen 7 5700G +Disipador"
+      },
+      {
+        "Price": 15.00,
+        "Features": [
+          "6ta Gen",
+          "2 Hilos",
+          "2 Cores",
+          "3.3GHz",
+          "3MB L3",
+          "LGA 1151"
+        ],
+        "Date": "2023-07-17T23:39:50.1879409-04:00",
+        "Update": "2023-07-18T00:35:15.5697329-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Pentium G4400 +Disipador"
       }
     ],
     "Board": [
@@ -1953,17 +2000,29 @@
       },
       {
         "Price": 289.00,
-        "Features": [],
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "6000mhz",
+          "LGA 1700",
+          "ATX"
+        ],
         "Date": "2023-07-17T23:39:45.1712194-04:00",
-        "Update": "2023-07-18T00:15:27.7570694-04:00",
+        "Update": "2023-07-18T00:35:15.5619024-04:00",
         "Discount": 0.0,
         "Label": "Board GIGABYTE Z690 AERO G"
       },
       {
         "Price": 49.00,
-        "Features": [],
+        "Features": [
+          "4ta",
+          "DDR3",
+          "3000mhz",
+          "LGA 1150",
+          "ATX"
+        ],
         "Date": "2023-07-17T23:40:24.0138787-04:00",
-        "Update": "2023-07-18T00:15:27.7928945-04:00",
+        "Update": "2023-07-18T00:35:15.5972758-04:00",
         "Discount": 0.0,
         "Label": "Board Asus Z87-Plus"
       }
@@ -2230,6 +2289,16 @@
         "Update": "2023-07-11T17:12:10.1103147-04:00",
         "Discount": 0.0,
         "Label": "Mouse Razer Viper Ultimate"
+      },
+      {
+        "Price": 37.00,
+        "Features": [
+          "Extended"
+        ],
+        "Date": "2023-07-17T23:37:51.7240033-04:00",
+        "Update": "2023-07-18T00:35:15.4844865-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse Pad Patriot Viper Super PV150C3K"
       }
     ],
     "Silla": [
