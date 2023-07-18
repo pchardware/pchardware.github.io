@@ -1,0 +1,16 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Memoria RAM",
+  "Images": [
+    "/images/products/ddr4-gskill-ripjaws-v-16gb-2x8gb-3600mhz-1.webp",
+    "/images/products/ddr4-gskill-ripjaws-v-16gb-2x8gb-3600mhz-2.webp",
+    "/images/products/ddr4-gskill-ripjaws-v-16gb-2x8gb-3600mhz-3.webp"
+  ],
+  "Description": "Model\nBrand: G.SKILL\nSeries: Ripjaws V Series\nModel: F4-3600C19D-16GVRB\n\n\nDetails\nCapacity: 16GB (2 x 8GB)\nType: 288-Pin PC RAM\nSpeed: DDR4 3600 (PC4 28800)\nCAS Latency: 19\nTiming: 19-20-20-40\nVoltage: 1.35V\nECC: No\nBuffered/Registered: Unbuffered\nMulti-channel Kit: Dual Channel Kit\nChipset: Intel XMP 2.0\nColor: Red\nHeat Spreader: Yes\nFeatures: Performance DDR4 memory designed for gaming and PC enthusiasts\n\nSleek and stylish aluminum heatspreader design\n\nIntel XMP 2.0 support\n\n* The memory kit will boot at the SPD speed when BIOS settings are at default.\n* Enable XMP/DOCP/A-XMP profile in the BIOS to reach up to the rated XMP overclock speed of the memory kit.\n* Reaching the rated XMP overclock speed and system stability depends on the capability of the motherboard & CPU.\n* It is recommended to check motherboard compatibility by referring to the QVL of the memory kit on the official G.SKILL website or by contacting G.SKILL tech support via email.\nRecommend Use: ntel Z590 / Z490 / Z390 / Z370 / Z27",
+  "Price": 105.00,
+  "Features": [],
+  "Date": "2023-07-17T23:38:49.930694-04:00",
+  "Update": "2023-07-18T00:15:27.7091506-04:00",
+  "Discount": 0.0,
+  "Label": "DDR4 G.SKILL Ripjaws V 16GB (2x8GB) 3600mHz"
+}
