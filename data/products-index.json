@@ -464,20 +464,6 @@
         "Label": "Fuente Thermaltake SMART 600W"
       },
       {
-        "Price": 159.00,
-        "Features": [
-          "80+ Gold",
-          "800W",
-          "67A",
-          "4x 6+2-Pin",
-          "8x SATA"
-        ],
-        "Date": "2023-07-12T21:42:43.1904262-04:00",
-        "Update": "2023-07-12T22:15:22.9953991-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente EVGA 800 GE, 80+ Gold"
-      },
-      {
         "Price": 115.00,
         "Features": [
           "700W",
@@ -504,6 +490,20 @@
         "Update": "2023-07-18T00:35:15.4778424-04:00",
         "Discount": 0.0,
         "Label": "Fuente Corsair HX850"
+      },
+      {
+        "Price": 159.00,
+        "Features": [
+          "80+ Gold",
+          "800W",
+          "67A",
+          "4x 6+2-Pin",
+          "8x SATA"
+        ],
+        "Date": "2023-07-12T21:42:43.1904262-04:00",
+        "Update": "2023-07-18T09:01:19.2698567-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente EVGA 800 GE"
       }
     ],
     "Chasis": [
