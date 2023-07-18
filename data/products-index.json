@@ -2,7 +2,7 @@
   "Computadoras": {
     "Entusiasta": [
       {
-        "Price": 3977.00,
+        "Price": 3967.00,
         "Features": [],
         "Date": "2023-06-25T15:54:23.070873-04:00",
         "Update": "2023-06-26T07:20:34.8268258-04:00",
@@ -14,7 +14,7 @@
   "Kits": {
     "Entusiasta": [
       {
-        "Price": 1148.00,
+        "Price": 1138.00,
         "Features": [],
         "Date": "2023-06-15T09:02:58.8515588-04:00",
         "Update": "2023-06-24T13:44:18.1007405-04:00",
@@ -22,7 +22,7 @@
         "Label": "Kit i9-13900K + Asus ROG Strix Z690-E Gaming Wifi + 32GB DDR5"
       },
       {
-        "Price": 1244.00,
+        "Price": 1234.00,
         "Features": [],
         "Date": "2023-06-24T13:41:22.3656225-04:00",
         "Update": "2023-06-24T13:44:18.1119769-04:00",
@@ -32,7 +32,7 @@
     ],
     "Moderado": [
       {
-        "Price": 469.00,
+        "Price": 453.00,
         "Features": [],
         "Date": "2023-06-29T19:08:23.1544102-04:00",
         "Update": "2023-06-29T19:14:10.5384351-04:00",
@@ -54,7 +54,7 @@
         "Label": "Kit i5-12400 +Disipador + ASRock B660M PRO RS + 16GB RAM"
       },
       {
-        "Price": 460.00,
+        "Price": 459.00,
         "Features": [
           "11na Gen",
           "4000mhz",
@@ -70,7 +70,7 @@
     ],
     "Rendimiento": [
       {
-        "Price": 500.00,
+        "Price": 484.00,
         "Features": [],
         "Date": "2023-06-29T19:08:48.7337337-04:00",
         "Update": "2023-06-29T19:14:10.5469413-04:00",
@@ -1682,7 +1682,7 @@
         "Label": "ASRock B660M PRO RS"
       },
       {
-        "Price": 385.00,
+        "Price": 375.00,
         "Features": [
           "12va-13ra",
           "DDR5",
@@ -1696,7 +1696,7 @@
         "Label": "Asus ROG Strix Z690-E Gaming Wifi"
       },
       {
-        "Price": 215.00,
+        "Price": 209.00,
         "Features": [
           "12va-13ra",
           "DDR4",
@@ -1710,7 +1710,7 @@
         "Label": "Asus B660 ProArt Creator D4"
       },
       {
-        "Price": 395.00,
+        "Price": 389.00,
         "Features": [
           "12va-13ra",
           "DDR5",
@@ -1724,7 +1724,7 @@
         "Label": "Asus ROG Strix Z790-H Gaming Wifi"
       },
       {
-        "Price": 475.00,
+        "Price": 465.00,
         "Features": [
           "Wifi 6E",
           "12va-13ra",
@@ -1739,7 +1739,7 @@
         "Label": "Asus ROG Maximus Z690 Hero"
       },
       {
-        "Price": 245.00,
+        "Price": 225.00,
         "Features": [
           "12va-13ra",
           "DDR5",
@@ -1753,7 +1753,7 @@
         "Label": "MSI PRO Z690-A Wifi"
       },
       {
-        "Price": 195.00,
+        "Price": 179.00,
         "Features": [
           "AM4",
           "DDR4",
@@ -1767,7 +1767,7 @@
         "Label": "Gigabyte B550M Aorus Elite"
       },
       {
-        "Price": 210.00,
+        "Price": 199.00,
         "Features": [
           "12va-13ra",
           "DDR5",
@@ -1781,7 +1781,7 @@
         "Label": "Gigabyte Aorus B760M Elite AX"
       },
       {
-        "Price": 265.00,
+        "Price": 249.00,
         "Features": [
           "12va-13ra",
           "DDR5",
@@ -1795,7 +1795,7 @@
         "Label": "MSI MAG Z690 Tomahawk Wifi"
       },
       {
-        "Price": 210.00,
+        "Price": 209.00,
         "Features": [
           "10ma-11na",
           "DDR4",
@@ -1809,7 +1809,7 @@
         "Label": "ASRock Z590 Extreme Wifi 6E"
       },
       {
-        "Price": 220.00,
+        "Price": 199.00,
         "Features": [
           "AM4",
           "DDR4",
