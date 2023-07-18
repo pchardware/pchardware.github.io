@@ -1,0 +1,18 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/asrock-steel-legend-radeon-rx-6650-xt-8gb-1.webp",
+    "/images/products/asrock-steel-legend-radeon-rx-6650-xt-8gb-2.webp",
+    "/images/products/asrock-steel-legend-radeon-rx-6650-xt-8gb-3.webp",
+    "/images/products/asrock-steel-legend-radeon-rx-6650-xt-8gb-4.webp",
+    "/images/products/asrock-steel-legend-radeon-rx-6650-xt-8gb-5.webp"
+  ],
+  "Description": "Model\nBrand: ASRock\nSeries: Steel Legend\nModel: RX6650XT SL 8GO\n\n\nInterface\nInterface: PCI Express 4.0\n\n\nChipset\nChipset Manufacturer: AMD\nGPU Series: AMD Radeon RX 6000 Series\nGPU: Radeon RX 6650 XT\nArchitechture: RDNA 2\nCore Clock: 2106 MHz\nGame Clock: 2447 MHz\nBoost Clock: 2669 MHz\nStream Processors: 2048 Stream Processors\n\n\nMemory\nEffective Memory Clock: 17.5 Gbps\nMemory Size: 8GB\nMemory Interface: 128-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12 Ultimate\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 1 x HDMI 2.1\nDisplayPort: 3 x DisplayPort 1.4\n\n\nDetails\nMax Resolution: 7680 x 4320\nCooler: Triple Fans\nThermal Design Power: 176W\nRecommended PSU Wattage: 550W\nPower Connector: 8-Pin\nHDCP Ready: Yes\n\n\nForm Factor & Dimensions\nMax GPU Length: 303 mm\nSlot Width: 2.25 Slots",
+  "Price": 329.00,
+  "Features": [],
+  "Date": "2023-07-17T23:39:20.309564-04:00",
+  "Update": "2023-07-18T00:15:27.7448072-04:00",
+  "Discount": 0.0,
+  "Label": "ASRock Steel Legend Radeon RX 6650 XT 8GB"
+}
