@@ -1784,6 +1784,21 @@
         "Label": "Intel Core i5-12400 +Disipador"
       },
       {
+        "Price": 15.00,
+        "Features": [
+          "6ta Gen",
+          "2 Hilos",
+          "2 Cores",
+          "3.3GHz",
+          "3MB L3",
+          "LGA 1151"
+        ],
+        "Date": "2023-07-17T23:39:50.1879409-04:00",
+        "Update": "2023-07-18T00:35:15.5697329-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Pentium G4400 +Disipador"
+      },
+      {
         "Price": 245.00,
         "Features": [
           "5000 Series",
@@ -1794,7 +1809,7 @@
           "AM4"
         ],
         "Date": "2023-05-11T07:44:14.6151541-04:00",
-        "Update": "2023-07-18T00:35:15.4513633-04:00",
+        "Update": "2023-07-18T00:39:58.1494147-04:00",
         "Discount": 0.0,
         "Label": "AMD Ryzen 7 5800X +Disipador"
       },
@@ -1810,24 +1825,9 @@
           "AM4"
         ],
         "Date": "2023-06-07T15:04:47.8071575-04:00",
-        "Update": "2023-07-18T00:35:15.4576334-04:00",
+        "Update": "2023-07-18T00:39:58.1562391-04:00",
         "Discount": 0.0,
         "Label": "AMD Ryzen 7 5700G +Disipador"
-      },
-      {
-        "Price": 15.00,
-        "Features": [
-          "6ta Gen",
-          "2 Hilos",
-          "2 Cores",
-          "3.3GHz",
-          "3MB L3",
-          "LGA 1151"
-        ],
-        "Date": "2023-07-17T23:39:50.1879409-04:00",
-        "Update": "2023-07-18T00:35:15.5697329-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Pentium G4400 +Disipador"
       }
     ],
     "Board": [
