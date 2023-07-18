@@ -1,0 +1,19 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Memoria RAM",
+  "Images": [
+    "/images/products/ddr3-gskill-trident-x-8gb-2400mhz-1.webp",
+    "/images/products/ddr3-gskill-trident-x-8gb-2400mhz-2.webp",
+    "/images/products/ddr3-gskill-trident-x-8gb-2400mhz-3.webp"
+  ],
+  "Description": "Model\nBrand: G.SKILL\nSeries: TridentX Series\nModel: F3-2400C10D-8GTX\n\n\nDetails\nCapacity: 8GB (2 x 4GB)\nSpeed: DDR3 2400 (PC3 19200)\nCAS Latency: 10\nTiming: 10-12-12-31\nVoltage: 1.65V\nECC: No\nBuffered/Registered: Unbuffered\nMulti-channel Kit: Dual Channel Kit\nFeatures: Designed for 3rd Generation Intel Core Processors and Z77 platform.\n\nIntel XMP 1.3 Ready for 3rd Generation Intel Core Processors.\n\nRecommended Intel Core i7-3770K processors & Core i5-3570K processors for best performance. \n\nPlease check gskill.com for motherboard compatibility chart.\nRecommend Use: High Performance or Gaming Memory",
+  "Price": 17.00,
+  "Features": [
+    "2x4GB",
+    "Disipadas"
+  ],
+  "Date": "2023-07-17T23:38:08.1781995-04:00",
+  "Update": "2023-07-18T00:35:15.4966944-04:00",
+  "Discount": 0.0,
+  "Label": "DDR3 G.Skill Trident X 8GB 2400mhz"
+}
