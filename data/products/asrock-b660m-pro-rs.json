@@ -15,13 +15,15 @@
   "Price": 159.00,
   "Features": [
     "12va-13ra",
+    "4xSATA",
+    "6xUSB",
     "DDR4",
     "4800mhz",
     "LGA 1700",
     "Micro ATX"
   ],
   "Date": "2023-02-17T09:47:30.747913-05:00",
-  "Update": "2023-06-29T08:04:07.1024432-04:00",
+  "Update": "2023-07-18T17:01:41.5598537-04:00",
   "Discount": 0.0,
   "Label": "ASRock B660M PRO RS"
 }
