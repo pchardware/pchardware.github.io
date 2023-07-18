@@ -1,0 +1,18 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Otros",
+  "Images": [
+    "/images/products/extra-en-labs-geke-pwm-4-pin-fan-hub-10-ports-spli-1.webp",
+    "/images/products/extra-en-labs-geke-pwm-4-pin-fan-hub-10-ports-spli-2.webp",
+    "/images/products/extra-en-labs-geke-pwm-4-pin-fan-hub-10-ports-spli-3.webp",
+    "/images/products/extra-en-labs-geke-pwm-4-pin-fan-hub-10-ports-spli-4.webp",
+    "/images/products/extra-en-labs-geke-pwm-4-pin-fan-hub-10-ports-spli-5.webp"
+  ],
+  "Description": "Model\nBrand: EN-Labs\nModel: PWMHUB10SMG\nType: 4Pin PWM Hub\nColor: Black\n\n\nFeatures\nFeatures: Designed for 12V 3/4 Pin FAN, support simultaneous starting of 10 channel 4Pin fans, solving the problem of shortage of motherboard. Support PWM function fan automatic speed regulation. Compatible with 3-pin / 4-pin Fans (Due 3pins no PWM controller, 3pin fans would run in full speed. ) PWM interface is connected to CPU FAN interface on motherboard by PWM cable. The Red 4PIN connector is the dedicated interface only for CPU fan, these black interface are conventional PWM fan interface. Magnetic standoff design for easily fixing the hub in steel & iron chassis.",
+  "Price": 18.00,
+  "Features": [],
+  "Date": "2023-07-17T23:39:12.7295429-04:00",
+  "Update": "2023-07-18T00:15:27.7381083-04:00",
+  "Discount": 0.0,
+  "Label": "EXTRA EN-Labs GEKE PWM 4-pin Fan Hub 10 Ports Splitter"
+}
