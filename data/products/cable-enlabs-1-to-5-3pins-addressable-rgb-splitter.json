@@ -1,0 +1,16 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Otros",
+  "Images": [
+    "/images/products/cable-enlabs-1-to-5-3pins-addressable-rgb-splitter-1.webp",
+    "/images/products/cable-enlabs-1-to-5-3pins-addressable-rgb-splitter-2.webp",
+    "/images/products/cable-enlabs-1-to-5-3pins-addressable-rgb-splitter-3.webp"
+  ],
+  "Description": "Model\nBrand: En-Labs\nModel: 5VRGBSPL1X5\nType: RGB Splitter\nColor: Black\n\n\nDetails\nLength: 1FT\n\n\nConnectors\nConnector A: 3pin  RGB Female\nConnector B: 3pin  RGB Female\n\n\nFeatures\nFeatures: Extend the rare RGB interface on your motherboard to five Allow you to Control 5 channels RGB fans and lightning synchronously 5V 3-pin AURA RGB Lighting extension cable 1FT female to female RGB extension cable, Male to Male pin adapter is incldued Does NOT Compatible with 12V 4pin RGB system Notes: 1. Generally, RGB interface in motherboard can provide at least 5V/3A,15W power to periphery RGB device. The RGB cable no extra power suplly capacity. 2. Suggest to connect RGB lightning less than 3.3ft 3. If Connected RGB devices are dimmed out, means motherboard RGB interface is overlaod, please reduce connected RGB devices 4.Make sure arrow mark on the plug corresponds to RGB 5V on bother motherboard correct",
+  "Price": 11.00,
+  "Features": [],
+  "Date": "2023-07-17T23:37:33.911055-04:00",
+  "Update": "2023-07-18T00:15:27.6755036-04:00",
+  "Discount": 0.0,
+  "Label": "Cable EnLabs 1-to-5 3Pins Addressable RGB Splitter Y Cable"
+}
