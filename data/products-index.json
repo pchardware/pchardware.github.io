@@ -1835,13 +1835,15 @@
         "Price": 159.00,
         "Features": [
           "12va-13ra",
+          "4xSATA",
+          "6xUSB",
           "DDR4",
           "4800mhz",
           "LGA 1700",
           "Micro ATX"
         ],
         "Date": "2023-02-17T09:47:30.747913-05:00",
-        "Update": "2023-06-29T08:04:07.1024432-04:00",
+        "Update": "2023-07-18T17:01:41.5598537-04:00",
         "Discount": 0.0,
         "Label": "ASRock B660M PRO RS"
       },
@@ -1849,13 +1851,15 @@
         "Price": 375.00,
         "Features": [
           "12va-13ra",
+          "6xSATA",
+          "10xUSB",
           "DDR5",
           "6400mhz",
           "LGA 1700",
           "ATX"
         ],
         "Date": "2023-05-11T07:51:07.1403838-04:00",
-        "Update": "2023-06-29T08:04:07.1174079-04:00",
+        "Update": "2023-07-18T17:01:41.587718-04:00",
         "Discount": 0.0,
         "Label": "Asus ROG Strix Z690-E Gaming Wifi"
       },
@@ -1863,13 +1867,15 @@
         "Price": 209.00,
         "Features": [
           "12va-13ra",
+          "4xSATA",
+          "8xUSB",
           "DDR4",
           "5333mhz",
           "LGA 1700",
           "ATX"
         ],
         "Date": "2023-02-17T09:46:18.404887-05:00",
-        "Update": "2023-06-29T08:04:07.1323747-04:00",
+        "Update": "2023-07-18T17:01:41.6057983-04:00",
         "Discount": 0.0,
         "Label": "Asus B660 ProArt Creator D4"
       },
@@ -1877,28 +1883,32 @@
         "Price": 389.00,
         "Features": [
           "12va-13ra",
+          "4xSATA",
+          "8xUSB",
           "DDR5",
           "7800mhz",
           "LGA 1700",
           "ATX"
         ],
         "Date": "2023-03-29T20:18:17.8757341-04:00",
-        "Update": "2023-06-29T08:04:07.1698436-04:00",
+        "Update": "2023-07-18T17:01:41.6256624-04:00",
         "Discount": 0.0,
         "Label": "Asus ROG Strix Z790-H Gaming Wifi"
       },
       {
         "Price": 465.00,
         "Features": [
-          "Wifi 6E",
           "12va-13ra",
+          "6xSATA",
+          "8xUSB",
           "DDR5",
           "6400mhz",
           "LGA 1700",
-          "ATX"
+          "ATX",
+          "Wifi 6E"
         ],
         "Date": "2023-06-19T07:50:08.4731323-04:00",
-        "Update": "2023-06-29T08:04:07.1773555-04:00",
+        "Update": "2023-07-18T17:01:41.6449572-04:00",
         "Discount": 0.0,
         "Label": "Asus ROG Maximus Z690 Hero"
       },
@@ -1906,13 +1916,15 @@
         "Price": 225.00,
         "Features": [
           "12va-13ra",
+          "6xSATA",
+          "7xUSB",
           "DDR5",
           "6400mhz",
           "LGA 1700",
           "ATX"
         ],
         "Date": "2023-06-29T07:38:21.8556469-04:00",
-        "Update": "2023-06-29T08:04:07.1999978-04:00",
+        "Update": "2023-07-18T17:01:41.6625167-04:00",
         "Discount": 0.0,
         "Label": "MSI PRO Z690-A Wifi"
       },
@@ -1920,13 +1932,15 @@
         "Price": 179.00,
         "Features": [
           "AM4",
+          "4xSATA",
+          "8xUSB",
           "DDR4",
           "4733mhz",
           "Micro ATX",
           "AMD"
         ],
         "Date": "2023-06-29T07:38:57.1417711-04:00",
-        "Update": "2023-06-29T08:04:07.2076489-04:00",
+        "Update": "2023-07-18T17:01:41.678471-04:00",
         "Discount": 0.0,
         "Label": "Gigabyte B550M Aorus Elite"
       },
@@ -1934,13 +1948,15 @@
         "Price": 199.00,
         "Features": [
           "12va-13ra",
+          "4xSATA",
+          "8xUSB",
           "DDR5",
           "7600mhz",
           "LGA 1700",
           "Micro ATX"
         ],
         "Date": "2023-06-29T07:39:17.5627753-04:00",
-        "Update": "2023-06-29T08:04:07.2227246-04:00",
+        "Update": "2023-07-18T17:01:41.7101354-04:00",
         "Discount": 0.0,
         "Label": "Gigabyte Aorus B760M Elite AX"
       },
@@ -1948,13 +1964,15 @@
         "Price": 249.00,
         "Features": [
           "12va-13ra",
+          "4xSATA",
+          "7xUSB",
           "DDR5",
           "6400mhz",
           "LGA 1700",
           "ATX"
         ],
         "Date": "2023-06-29T07:39:00.0628217-04:00",
-        "Update": "2023-06-29T12:09:37.2392665-04:00",
+        "Update": "2023-07-18T17:01:41.7265407-04:00",
         "Discount": 0.0,
         "Label": "MSI MAG Z690 Tomahawk Wifi"
       },
@@ -1962,13 +1980,15 @@
         "Price": 209.00,
         "Features": [
           "10ma-11na",
+          "6xSATA",
+          "5xUSB",
           "DDR4",
           "4800mhz",
           "LGA 1200",
           "ATX"
         ],
         "Date": "2023-07-09T16:53:38.4898666-04:00",
-        "Update": "2023-07-09T22:12:28.0164915-04:00",
+        "Update": "2023-07-18T17:01:41.7435915-04:00",
         "Discount": 0.0,
         "Label": "ASRock Z590 Extreme Wifi 6E"
       },
@@ -1976,13 +1996,15 @@
         "Price": 199.00,
         "Features": [
           "AM4",
+          "6xSATA",
+          "6xUSB",
           "DDR4",
           "4733mhz",
           "ATX",
           "AMD"
         ],
         "Date": "2023-07-13T11:32:04.6371575-04:00",
-        "Update": "2023-07-13T12:01:33.7809254-04:00",
+        "Update": "2023-07-18T17:01:41.765462-04:00",
         "Discount": 0.0,
         "Label": "Gigabyte B550 Gaming X V2"
       },
@@ -1990,11 +2012,13 @@
         "Price": 279.00,
         "Features": [
           "12na y 13ra",
+          "4xSATA",
+          "6xUSB",
           "6000mhz",
           "LGA1700"
         ],
         "Date": "2023-05-11T07:56:36.6020035-04:00",
-        "Update": "2023-07-17T23:36:25.7304666-04:00",
+        "Update": "2023-07-18T17:01:41.7978798-04:00",
         "Discount": 0.0,
         "Label": "Asus TUF Z690-Plus Wifi DDR5"
       },
@@ -2002,13 +2026,15 @@
         "Price": 289.00,
         "Features": [
           "12va-13ra",
+          "6xSATA",
+          "8xUSB",
           "DDR5",
           "6000mhz",
           "LGA 1700",
           "ATX"
         ],
         "Date": "2023-07-17T23:39:45.1712194-04:00",
-        "Update": "2023-07-18T00:35:15.5619024-04:00",
+        "Update": "2023-07-18T17:01:41.8484517-04:00",
         "Discount": 0.0,
         "Label": "Board GIGABYTE Z690 AERO G"
       },
@@ -2016,13 +2042,15 @@
         "Price": 49.00,
         "Features": [
           "4ta",
+          "8xSATA",
+          "6xUSB",
           "DDR3",
           "3000mhz",
           "LGA 1150",
           "ATX"
         ],
         "Date": "2023-07-17T23:40:24.0138787-04:00",
-        "Update": "2023-07-18T00:35:15.5972758-04:00",
+        "Update": "2023-07-18T17:01:41.8708855-04:00",
         "Discount": 0.0,
         "Label": "Board Asus Z87-Plus"
       }
