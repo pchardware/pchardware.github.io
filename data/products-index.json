@@ -547,20 +547,6 @@
         "Label": "Chasis Corsair iCUE 4000X RGB"
       },
       {
-        "Price": 70.00,
-        "Features": [
-          "ATX",
-          "4x HDD",
-          "USB 3.0",
-          "VGA 340mm",
-          "Mid Tower"
-        ],
-        "Date": "2023-06-26T07:41:41.0386166-04:00",
-        "Update": "2023-06-29T08:22:10.083069-04:00",
-        "Discount": 0.0,
-        "Label": "Chasis Unyka U2"
-      },
-      {
         "Price": 265.00,
         "Features": [
           "Gamer",
@@ -589,6 +575,20 @@
         "Update": "2023-07-13T12:01:33.7752908-04:00",
         "Discount": 0.0,
         "Label": "Chasis Rosewill NIGHTHAWK 117"
+      },
+      {
+        "Price": 70.00,
+        "Features": [
+          "ATX",
+          "4x HDD",
+          "USB 3.0",
+          "VGA 340mm",
+          "Mid Tower"
+        ],
+        "Date": "2023-06-26T07:41:41.0386166-04:00",
+        "Update": "2023-07-19T18:02:51.5977603-04:00",
+        "Discount": 0.0,
+        "Label": "Chasis Unyka 2U2"
       }
     ],
     "Otros": [
