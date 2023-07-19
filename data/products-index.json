@@ -2318,22 +2318,6 @@
         "Label": "Mause Logitech G502 Hero"
       }
     ],
-    "Silla": [
-      {
-        "Price": 225.00,
-        "Features": [
-          "oficina",
-          "ergonómica",
-          "reposabrazos",
-          "ruedas giratorias",
-          "negra"
-        ],
-        "Date": "2023-05-12T07:54:58.4743215-04:00",
-        "Update": "2023-06-07T16:50:45.3103227-04:00",
-        "Discount": 0.0,
-        "Label": "Silla YAHEETECH"
-      }
-    ],
     "Teclado": [
       {
         "Price": 85.00,
@@ -2888,6 +2872,22 @@
         "Update": "2023-07-13T12:09:17.8658215-04:00",
         "Discount": 0.0,
         "Label": "Externo 2.5 Seagate Firecuda RGB 2TB"
+      }
+    ],
+    "Silla": [
+      {
+        "Price": 225.00,
+        "Features": [
+          "Oficina",
+          "Ergonómica",
+          "Reposabrazos",
+          "Ruedas giratorias",
+          "Gris"
+        ],
+        "Date": "2023-05-12T07:54:58.4743215-04:00",
+        "Update": "2023-07-19T18:04:45.7136611-04:00",
+        "Discount": 0.0,
+        "Label": "Silla YAHEETECH"
       }
     ]
   }
