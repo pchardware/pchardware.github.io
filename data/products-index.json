@@ -2132,18 +2132,6 @@
         "Label": "Mouse Pad Asus ROG Sheath Pink LTD"
       },
       {
-        "Price": 49.00,
-        "Features": [
-          "Reforzado",
-          "Tela",
-          "Anti-Fray"
-        ],
-        "Date": "2023-06-19T07:49:14.3324582-04:00",
-        "Update": "2023-06-19T09:35:04.6937868-04:00",
-        "Discount": 0.0,
-        "Label": "Mouse Pad Corsair MM300 Extended"
-      },
-      {
         "Price": 69.00,
         "Features": [
           "Sniper",
@@ -2158,38 +2146,6 @@
         "Update": "2023-06-24T10:51:11.3792408-04:00",
         "Discount": 0.0,
         "Label": "Mouse EVGA X17"
-      },
-      {
-        "Price": 97.00,
-        "Features": [
-          "FPS",
-          "MOBA",
-          "18000dpi",
-          "Optico",
-          "7 botónes",
-          "105g",
-          "iCUE",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-06-19T07:49:07.3176421-04:00",
-        "Update": "2023-06-24T10:51:11.4014515-04:00",
-        "Discount": 0.0,
-        "Label": "Mouse Corsair IRONCLAW RGB"
-      },
-      {
-        "Price": 69.00,
-        "Features": [
-          "16000dpi",
-          "Optico",
-          "11 botónes",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-06-19T07:49:10.8952301-04:00",
-        "Update": "2023-06-24T10:51:11.4088587-04:00",
-        "Discount": 0.0,
-        "Label": "Mause Logitech G502 Hero"
       },
       {
         "Price": 87.00,
@@ -2316,6 +2272,50 @@
         "Update": "2023-07-18T00:35:15.4844865-04:00",
         "Discount": 0.0,
         "Label": "Mouse Pad Patriot Viper Super PV150C3K"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "Reforzado",
+          "Tela",
+          "Anti-Fray"
+        ],
+        "Date": "2023-06-19T07:49:14.3324582-04:00",
+        "Update": "2023-07-19T11:18:32.6612517-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse Pad Corsair MM300 Extended"
+      },
+      {
+        "Price": 97.00,
+        "Features": [
+          "FPS",
+          "MOBA",
+          "18000dpi",
+          "Optico",
+          "7 botónes",
+          "105g",
+          "iCUE",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-06-19T07:49:07.3176421-04:00",
+        "Update": "2023-07-19T11:18:32.6688411-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse Corsair IRONCLAW RGB"
+      },
+      {
+        "Price": 69.00,
+        "Features": [
+          "16000dpi",
+          "Optico",
+          "11 botónes",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-06-19T07:49:10.8952301-04:00",
+        "Update": "2023-07-19T11:18:32.6755555-04:00",
+        "Discount": 0.0,
+        "Label": "Mause Logitech G502 Hero"
       }
     ],
     "Silla": [
