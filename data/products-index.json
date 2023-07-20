@@ -2,7 +2,7 @@
   "Computadoras": {
     "Entusiasta": [
       {
-        "Price": 3967.00,
+        "Price": 3963.00,
         "Features": [],
         "Date": "2023-06-25T15:54:23.070873-04:00",
         "Update": "2023-06-26T07:20:34.8268258-04:00",
@@ -495,7 +495,7 @@
     ],
     "Chasis": [
       {
-        "Price": 205.00,
+        "Price": 199.00,
         "Features": [
           "Gamer",
           "Tempered Glass",
@@ -508,7 +508,7 @@
         "Label": "Chasis MSI Forge 100M MAG"
       },
       {
-        "Price": 225.00,
+        "Price": 209.00,
         "Features": [
           "Gamer",
           "Tempered Glass",
@@ -577,7 +577,7 @@
         "Label": "Chasis Rosewill NIGHTHAWK 117"
       },
       {
-        "Price": 70.00,
+        "Price": 59.00,
         "Features": [
           "ATX",
           "4x HDD",
@@ -1006,7 +1006,7 @@
         "Label": "SSD 2.5 Team Group DeltaMax RGB 500GB"
       },
       {
-        "Price": 60.00,
+        "Price": 59.00,
         "Features": [
           "3500mbs",
           "PCIe 3",
@@ -1183,7 +1183,7 @@
         "Label": "HDD 3.5 WD 14TB HC530"
       },
       {
-        "Price": 60.00,
+        "Price": 59.00,
         "Features": [
           "SATA 3",
           "6 Gbps"
@@ -1194,7 +1194,7 @@
         "Label": "HDD 2.5 Seagate BarraCuda 1TB"
       },
       {
-        "Price": 85.00,
+        "Price": 79.00,
         "Features": [
           "SATA 3",
           "6 Gbps"
@@ -2085,7 +2085,7 @@
         "Label": "Mouse Pad Asus ROG Sheath Pink LTD"
       },
       {
-        "Price": 69.00,
+        "Price": 63.00,
         "Features": [
           "Sniper",
           "16000dpi",
@@ -2101,7 +2101,7 @@
         "Label": "Mouse EVGA X17"
       },
       {
-        "Price": 87.00,
+        "Price": 79.00,
         "Features": [
           "Inalámbrico",
           "16000dpi",
@@ -2117,7 +2117,7 @@
         "Label": "Mouse EVGA X20"
       },
       {
-        "Price": 49.00,
+        "Price": 45.00,
         "Features": [
           "7000dpi",
           "Optico",
@@ -2131,7 +2131,7 @@
         "Label": "Mouse Asus TUF M3"
       },
       {
-        "Price": 64.00,
+        "Price": 55.00,
         "Features": [
           "Wireless",
           "12000dpi",
@@ -2146,7 +2146,7 @@
         "Label": "Mouse Logitech G305 Lightspeed"
       },
       {
-        "Price": 69.00,
+        "Price": 65.00,
         "Features": [
           "74g",
           "18000dpi",
@@ -2163,7 +2163,7 @@
         "Label": "Mouse Corsair Sabre RGB Pro"
       },
       {
-        "Price": 72.00,
+        "Price": 67.00,
         "Features": [
           "RGB",
           "82g",
@@ -2183,7 +2183,7 @@
         "Label": "Mouse Corsair Katar Pro Wireless"
       },
       {
-        "Price": 67.00,
+        "Price": 63.00,
         "Features": [
           "Optico",
           "8500dpi",
@@ -2198,7 +2198,7 @@
         "Label": "Mouse Razer Viper Mini"
       },
       {
-        "Price": 97.00,
+        "Price": 95.00,
         "Features": [
           "20000dpi",
           "Inalámbrico",
@@ -2239,7 +2239,7 @@
         "Label": "Mouse Pad Corsair MM300 Extended"
       },
       {
-        "Price": 97.00,
+        "Price": 93.00,
         "Features": [
           "FPS",
           "MOBA",
@@ -2257,7 +2257,7 @@
         "Label": "Mouse Corsair IRONCLAW RGB"
       },
       {
-        "Price": 69.00,
+        "Price": 62.00,
         "Features": [
           "16000dpi",
           "Optico",
