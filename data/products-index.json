@@ -40,7 +40,7 @@
         "Label": "Kit Ryzen 7 5700G + Gigabyte B550M Aorus Elite + 16GB Patriot Viper"
       },
       {
-        "Price": 414.00,
+        "Price": 410.00,
         "Features": [
           "12va Gen",
           "3200mhz",
@@ -1714,7 +1714,7 @@
         "Label": "Intel Core i5-12400 +Disipador"
       },
       {
-        "Price": 15.00,
+        "Price": 17.00,
         "Features": [
           "6ta Gen",
           "2 Hilos",
@@ -1762,7 +1762,7 @@
     ],
     "Board": [
       {
-        "Price": 159.00,
+        "Price": 155.00,
         "Features": [
           "12va-13ra",
           "4xSATA",
@@ -1794,7 +1794,7 @@
         "Label": "Asus ROG Strix Z690-E Gaming Wifi"
       },
       {
-        "Price": 209.00,
+        "Price": 199.00,
         "Features": [
           "12va-13ra",
           "4xSATA",
