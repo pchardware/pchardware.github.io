@@ -2,7 +2,7 @@
   "Computadoras": {
     "Entusiasta": [
       {
-        "Price": 3963.00,
+        "Price": 3947.00,
         "Features": [],
         "Date": "2023-06-25T15:54:23.070873-04:00",
         "Update": "2023-06-26T07:20:34.8268258-04:00",
@@ -2536,7 +2536,7 @@
     ],
     "Monitor": [
       {
-        "Price": 299.00,
+        "Price": 279.00,
         "Features": [
           "300 Nit",
           "1ms",
@@ -2552,7 +2552,7 @@
         "Label": "Acer Nitro 27FHD QG271"
       },
       {
-        "Price": 255.00,
+        "Price": 235.00,
         "Features": [
           "Curvo",
           "VA",
@@ -2568,7 +2568,7 @@
         "Label": "MSI Pro 24FHD MP242C"
       },
       {
-        "Price": 545.00,
+        "Price": 535.00,
         "Features": [
           "165Hz",
           "2K",
@@ -2585,7 +2585,7 @@
         "Label": "Gigabyte 32QHD G32QC-A"
       },
       {
-        "Price": 515.00,
+        "Price": 499.00,
         "Features": [
           "144Hz",
           "2K",
@@ -2603,7 +2603,7 @@
         "Label": "Lenovo 32QHD G32QC-10"
       },
       {
-        "Price": 310.00,
+        "Price": 299.00,
         "Features": [
           "165Hz",
           "350 Nit",
@@ -2618,7 +2618,7 @@
         "Label": "Asus TUF 24FHD VG248Q1B"
       },
       {
-        "Price": 550.00,
+        "Price": 539.00,
         "Features": [
           "4K",
           "HDR10",
@@ -2632,7 +2632,7 @@
         "Label": "Samsung 32UHD S70A S32A70"
       },
       {
-        "Price": 445.00,
+        "Price": 399.00,
         "Features": [
           "HDR10",
           "4K",
@@ -2648,7 +2648,7 @@
         "Label": "Acer Nitro 28UHD VG281K"
       },
       {
-        "Price": 275.00,
+        "Price": 259.00,
         "Features": [
           "165Hz",
           "1ms",
