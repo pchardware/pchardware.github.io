@@ -10,7 +10,7 @@
     "/images/products/ssd-m2-adata-xpg-sx8100-512gb-6.webp"
   ],
   "Description": "Model\nBrand: XPG\nSeries: SX8100\nModel: SX8100\nDevice Type: Internal Solid State Drive (SSD)\nUsed For: Consumer\n\n\nDetails\nForm Factor: M.2 2280\nCapacity: 512GB\nMemory Components: 3D NAND\nInterface: PCI-Express 3.0 x4\n\n\nPerformance\nMax Sequential Read: Up to 3500 MBps\nMax Sequential Write: ATTO: 1900 MBpsCDM: 2400 MBps\n4KB Random Read: Up to 300,000 IOPS\n4KB Random Write: Up to 240,000 IOPS\nMTBF: 2,000,000 hours\nHeatSink: Yes\n\n\nEnvironmental\nOperating Temperature: 0°C ~ +70°C\nStorage Temperature: -40°C ~ +85°C\nMax Shock Resistance: 1500G/0.5ms\n\n\nDimensions & Weight\nHeight: 0.640\nWidth: 4.000\nDepth: 5.000\nWeight: 0.0700",
-  "Price": 55.00,
+  "Price": 49.00,
   "Features": [
     "3500mbs",
     "PCIe 3",
