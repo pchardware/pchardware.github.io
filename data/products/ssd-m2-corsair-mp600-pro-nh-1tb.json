@@ -10,7 +10,7 @@
     "/images/products/ssd-m2-corsair-mp600-pro-nh-1tb-6.webp"
   ],
   "Description": "Model\nBrand: Corsair\nSeries: MP600 PRO NH\nDevice Type: Internal Solid State Drive (SSD)\nUsed For: Consumer\n\n\nDetails\nForm Factor: M.2 2280\nCapacity: 1TB\nMemory Components: 3D TLC\nInterface: PCI-Express 4.0 x4\nController: Phison\n\n\nPerformance\nMax Sequential Read: Up to 7000 MBps\nMax Sequential Write: Up to 6500MBps\n\n\nAdditional Information\nDate First Available: October 12, 2022",
-  "Price": 115.00,
+  "Price": 105.00,
   "Features": [
     "7000mbs",
     "PCIe 4",
