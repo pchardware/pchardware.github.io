@@ -236,19 +236,6 @@
         "Update": "2023-07-18T00:35:15.4702632-04:00",
         "Discount": 0.0,
         "Label": "MSI Gaming X RTX 3050"
-      },
-      {
-        "Price": 329.00,
-        "Features": [
-          "8GB",
-          "3xFan",
-          "Radeon",
-          "AMD"
-        ],
-        "Date": "2023-07-17T23:39:20.309564-04:00",
-        "Update": "2023-07-18T00:35:15.5479422-04:00",
-        "Discount": 0.0,
-        "Label": "ASRock Steel Legend Radeon RX 6650 XT"
       }
     ],
     "Fuente": [
@@ -1093,18 +1080,6 @@
         "Update": "2023-07-09T22:12:28.0274155-04:00",
         "Discount": 0.0,
         "Label": "SSD M.2 Silicon Power 1TB UD90"
-      },
-      {
-        "Price": 99.00,
-        "Features": [
-          "7000mbs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-07-12T21:43:06.2525927-04:00",
-        "Update": "2023-07-12T22:15:23.0189532-04:00",
-        "Discount": 0.0,
-        "Label": "SSD M.2 SAMSUNG 980 PRO 1TB"
       }
     ],
     "Disco Duro": [
