@@ -1696,6 +1696,54 @@
         "Update": "2023-07-18T00:39:58.1562391-04:00",
         "Discount": 0.0,
         "Label": "AMD Ryzen 7 5700G +Disipador"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "13ra Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.5GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700"
+        ],
+        "Date": "2023-03-22T09:04:00.899336-04:00",
+        "Update": "2023-07-26T18:58:17.4828818-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i3-13100 +Disipador"
+      },
+      {
+        "Price": 289.00,
+        "Features": [
+          "13ra Gen",
+          "20 Hilos",
+          "14 Core",
+          "4.8GHz",
+          "24MB L3",
+          "DDR4-DDR5",
+          "LGA 1700"
+        ],
+        "Date": "2023-06-07T15:04:52.0919704-04:00",
+        "Update": "2023-07-26T18:58:17.495003-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i5-13500 +Disipador"
+      },
+      {
+        "Price": 149.00,
+        "Features": [
+          "12va Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700"
+        ],
+        "Date": "2023-05-11T07:28:15.7616729-04:00",
+        "Update": "2023-07-26T18:58:17.5183022-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i3-12100 +Disipador"
       }
     ],
     "Board": [
@@ -2179,6 +2227,27 @@
         "Update": "2023-07-19T11:18:32.6755555-04:00",
         "Discount": 0.0,
         "Label": "Mause Logitech G502 Hero"
+      },
+      {
+        "Price": 59.00,
+        "Features": [
+          "Inalámbrico",
+          "18000dpi",
+          "400 ips",
+          "400H",
+          "RGB",
+          "2.4Ghz",
+          "Bluetooth",
+          "95g",
+          "1ms",
+          "6 botónes",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-07-09T16:44:35.9657005-04:00",
+        "Update": "2023-07-26T18:58:17.5417236-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse SteelSeries Rival 3 Wireless"
       }
     ],
     "Teclado": [
@@ -2470,6 +2539,14 @@
         "Update": "2023-07-13T12:01:33.8010668-04:00",
         "Discount": 0.0,
         "Label": "Teclado Corsair K70 RGB PRO"
+      },
+      {
+        "Price": 19.00,
+        "Features": [],
+        "Date": "2023-07-09T17:01:17.8411016-04:00",
+        "Update": "2023-07-26T18:58:17.5309679-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado Asus K49"
       }
     ],
     "Monitor": [
