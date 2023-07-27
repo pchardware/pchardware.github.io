@@ -12,15 +12,16 @@
     "/images/products/fuente-thermaltake-smart-500w-80-8.webp",
     "/images/products/fuente-thermaltake-smart-500w-80-9.webp"
   ],
-  "Description": "General\nBrand: Thermaltake\nSeries: Smart 500W\nModel: PS-SPD-0500NPCWUS-W\n\n\nDetails\nColor: Black\nType: Intel ATX 12V 2.31 & EPS 12V 2.92\nMaximum Power: 500 W\nFans: 1 x 120mm Intelligent Cooling Fan\nPFC: Active\nMain Connector: 20+4Pin\n+12V Rails: Single\nPCI-Express Connector: 2 x 6+2-Pin\nSATA Power Connector: 6\nSLI: SLI Ready\nHaswell Support: Yes\nCrossFire: CrossFire Ready\nMax PSU Length: 140 mm\nModular: Hardlined\nPower Good Signal: 100-500ms\nHold-up Time: 16.6ms min.\nEfficiency: 80% Efficiency\nEnergy-Efficient: 80 PLUS Certified\nOver Voltage Protection: Yes\nInput Voltage: 100 - 240 V\nInput Frequency Range: 50/60 Hz\nInput Current: 8A\nOutput: +3.3V@20A, +5V@15A, +12V@35A, -12V@0.5A, +5VSB@2.5A\nMTBF: >100,000 Hours\nApprovals: CE, CB, TUV, UL, FCC\nConnectors: 1 x 20+4-pin ATX1 x 4+4-pin EPS2 x 6+2-pin PCI-E6 x SATA3 x Peripheral1 x Floppy\n\n\nFeatures\nFeatures: Compliance with Intel ATX 12V 2.31 & EPS 12V 2.92 standards80 PLUS Certified - 80% efficiency under typical loadSingle +12V rail DesignSupports Intel C6 Status for improved efficiencyUltra-quiet 120mm fan with intelligent temperature controlHardlined cables for straight forward installation\n\n\nDimension & Weight\nDimensions: 3.40\" x 5.90\" x 5.50\"\nWeight: 4.25 lbs.\n\n\nDetails\nPFC: Active\nSLI: Ready\nCrossFire: Ready\n\n\nConnectors\nSATA Power Connector: 6\n\n\nFans\nRear Fans Size: 120 Millimeters\n\n\nProtection\nUnder Voltage Protection: ?120 Volts",
+  "Description": "General\nBrand: Thermaltake\nSeries: Smart 500W\nModel: PS-SPD-0500NPCWUS-W\n\n\nDetails\nColor: Black\nType: Intel ATX 12V 2.31 & EPS 12V 2.92\nMaximum Power: 500 W\nFans: 1 x 120mm Intelligent Cooling Fan\nPFC: Active\nMain Connector: 20+4Pin\n+12V Rails: Single\nPCI-Express Connector: 2 x 6+2-Pin\nSATA Power Connector: 6\nSLI: SLI Ready\nHaswell Support: Yes\nCrossFire: CrossFire Ready\nMax PSU Length: 140 mm\nModular: Hardlined\nPower Good Signal: 100-500ms\nHold-up Time: 16.6ms min.\nEfficiency: 80% Efficiency\nEnergy-Efficient: 80 PLUS Certified\nOver Voltage Protection: Yes\nInput Voltage: 100 - 240 V\nInput Frequency Range: 50/60 Hz\nInput Current: 8A\nOutput: +3.3V@20A, +5V@15A, +12V@35A, -12V@0.5A, +5VSB@2.5A\nMTBF: >100,000 Hours\nApprovals: CE, CB, TUV, UL, FCC\nConnectors: \n1 x 20+4-pin ATX\n1 x 4+4-pin EPS\n2 x 6+2-pin PCI-E\n6 x SATA\n3 x Peripheral\n1 x Floppy\n\n\nFeatures\nFeatures: Compliance with Intel ATX 12V 2.31 & EPS 12V 2.92 standards80 PLUS Certified - 80% efficiency under typical loadSingle +12V rail DesignSupports Intel C6 Status for improved efficiencyUltra-quiet 120mm fan with intelligent temperature controlHardlined cables for straight forward installation\n\n\nDimension & Weight\nDimensions: 3.40\" x 5.90\" x 5.50\"\nWeight: 4.25 lbs.\n\n\nDetails\nPFC: Active\nSLI: Ready\nCrossFire: Ready\n\n\nConnectors\nSATA Power Connector: 6\n\n\nFans\nRear Fans Size: 120 Millimeters\n\n\nProtection\nUnder Voltage Protection: ?120 Volts",
   "Price": 85.00,
   "Features": [
     "35A",
     "2x 6+2 Pin",
-    "6x SATA"
+    "6x SATA",
+    "1x 4+4 EPS"
   ],
   "Date": "2023-05-12T07:54:08.9581203-04:00",
-  "Update": "2023-06-01T10:49:59.78327-04:00",
+  "Update": "2023-07-27T09:58:48.4581796-04:00",
   "Discount": 0.0,
-  "Label": "Fuente Thermaltake Smart 500W 80+"
+  "Label": "Fuente Thermaltake SMART 500W 80+"
 }
