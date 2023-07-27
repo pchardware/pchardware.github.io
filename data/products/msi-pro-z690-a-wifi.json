@@ -16,15 +16,20 @@
   "Price": 225.00,
   "Features": [
     "12va-13ra",
+    "DDR5",
+    "Wifi",
+    "6xAudio",
     "6xSATA",
     "7xUSB",
-    "DDR5",
     "6400mhz",
     "LGA 1700",
-    "ATX"
+    "ATX",
+    "PS2",
+    "DisplayPort",
+    "HDMI"
   ],
   "Date": "2023-06-29T07:38:21.8556469-04:00",
-  "Update": "2023-07-18T17:01:41.6625167-04:00",
+  "Update": "2023-07-27T07:36:15.5537156-04:00",
   "Discount": 0.0,
   "Label": "MSI PRO Z690-A Wifi"
 }
