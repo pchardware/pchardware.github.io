@@ -16,11 +16,14 @@
   "Features": [
     "8GB",
     "2xFan",
+    "1x8Pin",
+    "550WR",
     "GeForce",
-    "NVIDIA"
+    "NVIDIA",
+    "GPU"
   ],
   "Date": "2023-07-12T21:42:54.3752209-04:00",
-  "Update": "2023-07-18T00:35:15.4702632-04:00",
+  "Update": "2023-07-27T10:54:59.83475-04:00",
   "Discount": 0.0,
   "Label": "MSI Gaming X RTX 3050"
 }
