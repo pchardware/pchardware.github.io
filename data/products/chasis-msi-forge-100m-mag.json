@@ -13,13 +13,17 @@
   "Description": "Model\nBrand: MSI\nModel: MAG FORGE 100M\n\n\nDetails\nType: ATX Mid Tower\nColor: Black\nCase Material: ABS Plastic / SPCC Steel / Tempered Glass\nWith Power Supply: No\nPower Supply Mounted: Bottom\nMotherboard Compatibility: Micro ATX / ATX / Mini-ITX\nSide Panel Window: Yes\nLED: RGB\nDust Filters: Bottom / Top\n\n\nExpansion\nInternal 3.5\" Drive Bays: 2 x 3.5\" (compatible with 2.5\")\nInternal 2.5\" Drive Bays: 3\nExpansion Slots: 7\n\n\nFront Panel Ports\nFront Ports: 2 x USB 3.2 Gen1 Type-A / 1 x HD Audio / 1 x Mic\n\n\nCooling System\nFan Options: Front: 3 x 120 mm (2 x 120 mm RGB LED Fan included) / 2 x 140 mmTop: 2 x 120 mm / 2 x 140 mmRear: 1 x 120 mm (1 x 120mm System Fan included)\nRadiator Options: Front: Up to 240 mmTop: Up to 240 mmRear: Up to 120mm\n\n\nDimensions & Weight\nMax GPU Length: 330 mm\nMax CPU Cooler Height: 160 mm\nMax PSU Length: Standard ATX 160 mm, max to 200 mm (without 3.5\" HDD case installed)\nDimensions (H x W x D): 19.53\" x 8.27\" x 17.05\"\nWeight: 12.43 lbs.\n\n\nAdditional Info\nFeatures: MSI MAG Forge 100M chassis can support up to ATX motherboard, side panel of 4mm tempered glass, up to 140 mm RGB fan, reserved cooling space and front USB 3.2 Gen 1 Type AOptimize AirflowARGB Fan included4mm Tempered Glass330 mm Radiator Support160 mm CPU Cooler Support",
   "Price": 199.00,
   "Features": [
-    "Gamer",
     "Tempered Glass",
+    "3xFan",
+    "RGB",
+    "Gamer",
     "Mid Tower",
-    "ATX"
+    "ATX",
+    "Negro",
+    "2xHDD"
   ],
   "Date": "2023-05-11T19:31:47.992231-04:00",
-  "Update": "2023-06-01T10:49:59.7106277-04:00",
+  "Update": "2023-07-27T07:54:42.9171046-04:00",
   "Discount": 0.0,
   "Label": "Chasis MSI Forge 100M MAG"
 }
