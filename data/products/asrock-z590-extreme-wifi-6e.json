@@ -14,15 +14,21 @@
   "Price": 209.00,
   "Features": [
     "10ma-11na",
+    "Dual Lan",
+    "Wifi",
+    "6xAudio",
     "6xSATA",
     "5xUSB",
     "DDR4",
     "4800mhz",
     "LGA 1200",
-    "ATX"
+    "ATX",
+    "PS2",
+    "HDMI",
+    "DisplayPort"
   ],
   "Date": "2023-07-09T16:53:38.4898666-04:00",
-  "Update": "2023-07-18T17:01:41.7435915-04:00",
+  "Update": "2023-07-27T07:36:15.6136581-04:00",
   "Discount": 0.0,
   "Label": "ASRock Z590 Extreme Wifi 6E"
 }
