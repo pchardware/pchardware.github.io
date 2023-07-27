@@ -1029,17 +1029,6 @@
         "Label": "SSD 2.5 Crucial BX500 480GB"
       },
       {
-        "Price": 45.00,
-        "Features": [
-          "500mbs",
-          "SATA 3"
-        ],
-        "Date": "2023-04-09T09:39:54.0884861-04:00",
-        "Update": "2023-06-07T16:09:24.8015469-04:00",
-        "Discount": 0.0,
-        "Label": "SSD 2.5 Kingston A400 480GB"
-      },
-      {
         "Price": 59.00,
         "Features": [
           "560mbs",
@@ -1087,18 +1076,6 @@
         "Label": "SSD M.2 Corsair MP600 PRO NH 1TB"
       },
       {
-        "Price": 109.00,
-        "Features": [
-          "7100mbs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-06-07T10:29:28.1707034-04:00",
-        "Update": "2023-06-07T16:09:24.9861144-04:00",
-        "Discount": 0.0,
-        "Label": "SSD M.2 Corsair MP600 PRO XT 1TB"
-      },
-      {
         "Price": 49.00,
         "Features": [
           "560mbs",
@@ -1108,50 +1085,6 @@
         "Update": "2023-06-07T16:09:25.0046225-04:00",
         "Discount": 0.0,
         "Label": "SSD 2.5 Silicon Power Ace A55 512GB"
-      },
-      {
-        "Price": 49.00,
-        "Features": [
-          "530mbs",
-          "SATA 3"
-        ],
-        "Date": "2023-06-07T13:42:05.5721644-04:00",
-        "Update": "2023-06-07T16:09:25.0233477-04:00",
-        "Discount": 0.0,
-        "Label": "SSD 2.5 Team Group CX2 512GB"
-      },
-      {
-        "Price": 49.00,
-        "Features": [
-          "550mbs",
-          "SATA 3"
-        ],
-        "Date": "2023-06-07T13:42:08.9262831-04:00",
-        "Update": "2023-06-07T16:09:25.0355309-04:00",
-        "Discount": 0.0,
-        "Label": "SSD 2.5 Team Group EX2 512GB"
-      },
-      {
-        "Price": 45.00,
-        "Features": [
-          "530mbs",
-          "SATA 3"
-        ],
-        "Date": "2023-06-07T13:42:02.617071-04:00",
-        "Update": "2023-06-07T16:50:45.3691842-04:00",
-        "Discount": 0.0,
-        "Label": "SSD 2.5 Team Group CX1 480GB"
-      },
-      {
-        "Price": 49.00,
-        "Features": [
-          "550mbs",
-          "SATA 3"
-        ],
-        "Date": "2023-06-07T13:43:23.553018-04:00",
-        "Update": "2023-06-07T16:50:45.3847098-04:00",
-        "Discount": 0.0,
-        "Label": "SSD 2.5 Team Group T-FORCE VULCAN G 512GB"
       },
       {
         "Price": 49.00,
@@ -1166,46 +1099,6 @@
         "Label": "SSD M.2 ADATA XPG SX8100 512GB"
       },
       {
-        "Price": 129.00,
-        "Features": [
-          "7400mbs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-07-09T16:53:43.4807497-04:00",
-        "Update": "2023-07-09T22:12:28.0222755-04:00",
-        "Discount": 0.0,
-        "Label": "SSD M.2 AData Premium 2TB"
-      },
-      {
-        "Price": 79.00,
-        "Features": [
-          "5000mbs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-07-09T16:53:54.2555832-04:00",
-        "Update": "2023-07-09T22:12:28.0274155-04:00",
-        "Discount": 0.0,
-        "Label": "SSD M.2 Silicon Power 1TB UD90"
-      },
-      {
-        "Price": 102.00,
-        "Features": [],
-        "Date": "2023-07-26T16:46:49.7122399-04:00",
-        "Update": "2023-07-26T21:07:00.8137811-04:00",
-        "Discount": 0.0,
-        "Label": "SSD M.2 Mushkin Tempest 2TB"
-      },
-      {
-        "Price": 95.00,
-        "Features": [],
-        "Date": "2023-07-26T16:46:54.426825-04:00",
-        "Update": "2023-07-26T21:07:00.8200021-04:00",
-        "Discount": 0.0,
-        "Label": "SSD 2.5 Team Group CX2 2TB"
-      },
-      {
         "Price": 65.00,
         "Features": [
           "560mbps",
@@ -1215,6 +1108,118 @@
         "Update": "2023-07-26T21:07:00.8262433-04:00",
         "Discount": 0.0,
         "Label": "SSD 2.5 Silicon Power Ace A55 1TB"
+      },
+      {
+        "Price": 109.00,
+        "Features": [
+          "7100mbs",
+          "700tbw",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-06-07T10:29:28.1707034-04:00",
+        "Update": "2023-07-27T09:48:00.5737298-04:00",
+        "Discount": 0.0,
+        "Label": "SSD M.2 Corsair MP600 PRO XT 1TB"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "530mbs",
+          "400tbw",
+          "SATA 3"
+        ],
+        "Date": "2023-06-07T13:42:05.5721644-04:00",
+        "Update": "2023-07-27T09:48:00.5828942-04:00",
+        "Discount": 0.0,
+        "Label": "SSD 2.5 Team Group CX2 512GB"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "550mbs",
+          "400tbw",
+          "SATA 3"
+        ],
+        "Date": "2023-06-07T13:42:08.9262831-04:00",
+        "Update": "2023-07-27T09:48:00.600383-04:00",
+        "Discount": 0.0,
+        "Label": "SSD 2.5 Team Group EX2 512GB"
+      },
+      {
+        "Price": 45.00,
+        "Features": [
+          "530mbs",
+          "400tbw",
+          "SATA 3"
+        ],
+        "Date": "2023-06-07T13:42:02.617071-04:00",
+        "Update": "2023-07-27T09:48:00.6358409-04:00",
+        "Discount": 0.0,
+        "Label": "SSD 2.5 Team Group CX1 480GB"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "550mbs",
+          "400tbw",
+          "SATA 3"
+        ],
+        "Date": "2023-06-07T13:43:23.553018-04:00",
+        "Update": "2023-07-27T09:48:00.6497566-04:00",
+        "Discount": 0.0,
+        "Label": "SSD 2.5 Team Group T-FORCE VULCAN G 512GB"
+      },
+      {
+        "Price": 129.00,
+        "Features": [
+          "7400mbs",
+          "1480tbw",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-07-09T16:53:43.4807497-04:00",
+        "Update": "2023-07-27T09:48:00.7472585-04:00",
+        "Discount": 0.0,
+        "Label": "SSD M.2 AData Premium 2TB"
+      },
+      {
+        "Price": 79.00,
+        "Features": [
+          "5000mbs",
+          "PCIe 4",
+          "600tbw",
+          "NVMe"
+        ],
+        "Date": "2023-07-09T16:53:54.2555832-04:00",
+        "Update": "2023-07-27T09:48:00.7662014-04:00",
+        "Discount": 0.0,
+        "Label": "SSD M.2 Silicon Power 1TB UD90"
+      },
+      {
+        "Price": 102.00,
+        "Features": [
+          "3250mbps",
+          "1000tbw",
+          "PCIe x3",
+          "NVMe"
+        ],
+        "Date": "2023-07-26T16:46:49.7122399-04:00",
+        "Update": "2023-07-27T09:48:00.8086587-04:00",
+        "Discount": 0.0,
+        "Label": "SSD M.2 Mushkin Tempest 2TB"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "540mbps",
+          "1600tbw",
+          "SATA 3"
+        ],
+        "Date": "2023-07-26T16:46:54.426825-04:00",
+        "Update": "2023-07-27T09:48:00.8250522-04:00",
+        "Discount": 0.0,
+        "Label": "SSD 2.5 Team Group CX2 2TB"
       }
     ],
     "Disipador Líquido": [
@@ -1447,141 +1452,6 @@
         "Update": "2023-06-29T11:38:59.2175286-04:00",
         "Discount": 0.0,
         "Label": "D.Líquida Cooler Master MasterLiquid ML360L V2 ARGB"
-      }
-    ],
-    "Disipador por Aire": [
-      {
-        "Price": 35.00,
-        "Features": [
-          "AM4",
-          "2 Heat Pipes",
-          "Cobre"
-        ],
-        "Date": "2023-05-11T12:52:15.0994337-04:00",
-        "Update": "2023-06-07T16:50:45.2221708-04:00",
-        "Discount": 0.0,
-        "Label": "Enfriamiento Asus 3 Headpipe AMD"
-      },
-      {
-        "Price": 39.00,
-        "Features": [
-          "LGA 1200",
-          "2 Heat Pipes",
-          "Cobre"
-        ],
-        "Date": "2023-05-11T12:52:16.9141688-04:00",
-        "Update": "2023-06-07T16:50:45.4005563-04:00",
-        "Discount": 0.0,
-        "Label": "Enfriamiento Asus 3 Headpipe Intel"
-      },
-      {
-        "Price": 59.00,
-        "Features": [
-          "Black",
-          "4 Heat Pipes",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4"
-        ],
-        "Date": "2023-03-27T10:59:27.7734094-04:00",
-        "Update": "2023-06-09T16:50:28.7625338-04:00",
-        "Discount": 0.0,
-        "Label": "Enfriamiento Thermalright Assassin X 120 R SE RGB"
-      },
-      {
-        "Price": 69.00,
-        "Features": [
-          "White",
-          "4 Heat Pipes",
-          "Cobre",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4"
-        ],
-        "Date": "2023-05-11T12:34:36.9113405-04:00",
-        "Update": "2023-06-09T16:50:28.7686592-04:00",
-        "Discount": 0.0,
-        "Label": "Enfriamiento Zalman CNPS 10X Optima II RGB"
-      },
-      {
-        "Price": 9.00,
-        "Features": [
-          "LGA 115X"
-        ],
-        "Date": "2023-06-07T15:04:28.5510666-04:00",
-        "Update": "2023-06-09T16:50:28.9776497-04:00",
-        "Discount": 0.0,
-        "Label": "Enfriamiento Intel Generic"
-      },
-      {
-        "Price": 13.00,
-        "Features": [
-          "LGA 1200"
-        ],
-        "Date": "2023-05-11T12:52:12.030034-04:00",
-        "Update": "2023-06-09T16:50:29.0094431-04:00",
-        "Discount": 0.0,
-        "Label": "Enfriamiento Intel Generic Plus"
-      },
-      {
-        "Price": 75.00,
-        "Features": [
-          "4 Heat Pipes",
-          "Cobre",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM5",
-          "AM4"
-        ],
-        "Date": "2023-06-19T07:49:47.5425532-04:00",
-        "Update": "2023-07-09T16:42:13.6621686-04:00",
-        "Discount": 0.0,
-        "Label": "Enfriamiento Cooler Master Hyper 212 Spectrum V3"
-      },
-      {
-        "Price": 119.00,
-        "Features": [
-          "6 Heat Pipes",
-          "Cobre",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM5",
-          "AM4"
-        ],
-        "Date": "2023-07-17T23:40:13.7039736-04:00",
-        "Update": "2023-07-18T00:35:15.5842137-04:00",
-        "Discount": 0.0,
-        "Label": "Enfriamiento Cooler Master Hyper 622 Halo White"
-      },
-      {
-        "Price": 17.00,
-        "Features": [
-          "AM4"
-        ],
-        "Date": "2023-07-17T23:40:19.2345723-04:00",
-        "Update": "2023-07-18T00:35:15.5906845-04:00",
-        "Discount": 0.0,
-        "Label": "Enfriamiento AMD Wraith Stealth"
-      },
-      {
-        "Price": 61.00,
-        "Features": [],
-        "Date": "2023-07-26T18:49:40.2918309-04:00",
-        "Update": "2023-07-26T21:33:12.7325182-04:00",
-        "Discount": 0.0,
-        "Label": "Enfriamiento Thermaltake UX200 SE"
-      },
-      {
-        "Price": 119.00,
-        "Features": [],
-        "Date": "2023-07-26T18:49:11.7802452-04:00",
-        "Update": "2023-07-27T06:47:19.2608106-04:00",
-        "Discount": 0.0,
-        "Label": "Enfriamiento Cooler Master Hyper 622 Halo Black"
       }
     ],
     "Red": [
@@ -2348,6 +2218,228 @@
         "Update": "2023-07-27T07:36:15.6936669-04:00",
         "Discount": 0.0,
         "Label": "ASRock B760M PRO RS"
+      }
+    ],
+    "Disipador por Aire": [
+      {
+        "Price": 35.00,
+        "Features": [
+          "AM4",
+          "3xPipes",
+          "Cobre",
+          "1xFan",
+          "Tower",
+          "Negro"
+        ],
+        "Date": "2023-05-11T12:52:15.0994337-04:00",
+        "Update": "2023-07-27T09:48:00.6176391-04:00",
+        "Discount": 0.0,
+        "Label": "Enfriamiento Asus 3 Headpipe AMD"
+      },
+      {
+        "Price": 39.00,
+        "Features": [
+          "LGA 1200",
+          "3xPipes",
+          "Cobre",
+          "1xFan",
+          "Tower",
+          "Negro"
+        ],
+        "Date": "2023-05-11T12:52:16.9141688-04:00",
+        "Update": "2023-07-27T09:48:00.6587795-04:00",
+        "Discount": 0.0,
+        "Label": "Enfriamiento Asus 3 Headpipe Intel"
+      },
+      {
+        "Price": 59.00,
+        "Features": [
+          "4xPipes",
+          "1550rpm",
+          "66cfm",
+          "26dBA",
+          "148mm",
+          "Negro",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4",
+          "AM5",
+          "Tower",
+          "1xFan"
+        ],
+        "Date": "2023-03-27T10:59:27.7734094-04:00",
+        "Update": "2023-07-27T09:48:00.6698431-04:00",
+        "Discount": 0.0,
+        "Label": "Enfriamiento Thermalright Assassin X 120 R SE ARGB"
+      },
+      {
+        "Price": 69.00,
+        "Features": [
+          "4xPipes",
+          "62cfm",
+          "30dBA",
+          "Cobre",
+          "158mm",
+          "Blanco",
+          "1500rpm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4",
+          "Tower",
+          "1xFan"
+        ],
+        "Date": "2023-05-11T12:34:36.9113405-04:00",
+        "Update": "2023-07-27T09:48:00.6935544-04:00",
+        "Discount": 0.0,
+        "Label": "Enfriamiento Zalman CNPS 10X Optima II RGB"
+      },
+      {
+        "Price": 9.00,
+        "Features": [
+          "LGA 115X",
+          "2800rpm",
+          "22dBA",
+          "Aluminio",
+          "1xFan",
+          "19mm",
+          "Top-flow",
+          "Negro"
+        ],
+        "Date": "2023-06-07T15:04:28.5510666-04:00",
+        "Update": "2023-07-27T09:48:00.7046018-04:00",
+        "Discount": 0.0,
+        "Label": "Enfriamiento Intel Stock Original"
+      },
+      {
+        "Price": 13.00,
+        "Features": [
+          "LGA 1200",
+          "Aluminio",
+          "1xFan",
+          "Top-flow",
+          "Negro"
+        ],
+        "Date": "2023-05-11T12:52:12.030034-04:00",
+        "Update": "2023-07-27T09:48:00.7189867-04:00",
+        "Discount": 0.0,
+        "Label": "Enfriamiento Intel Generic Plus"
+      },
+      {
+        "Price": 75.00,
+        "Features": [
+          "ARGB",
+          "4xPipes",
+          "72cfm",
+          "27dBA",
+          "Cobre",
+          "152mm",
+          "1750rpm",
+          "Negro",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4",
+          "AM5",
+          "Tower",
+          "1xFan"
+        ],
+        "Date": "2023-06-19T07:49:47.5425532-04:00",
+        "Update": "2023-07-27T09:48:00.7317406-04:00",
+        "Discount": 0.0,
+        "Label": "Enfriamiento Cooler Master Hyper 212 Spectrum V3"
+      },
+      {
+        "Price": 119.00,
+        "Features": [
+          "Dual",
+          "2xFan",
+          "6xPipes",
+          "ARGB",
+          "Premium",
+          "52cfm",
+          "27dBA",
+          "Cobre",
+          "157mm",
+          "2050rpm",
+          "Blanco",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4",
+          "AM5",
+          "Tower"
+        ],
+        "Date": "2023-07-17T23:40:13.7039736-04:00",
+        "Update": "2023-07-27T09:48:00.780345-04:00",
+        "Discount": 0.0,
+        "Label": "Enfriamiento Cooler Master Hyper 622 Halo White"
+      },
+      {
+        "Price": 17.00,
+        "Features": [
+          "AM4",
+          "90mm",
+          "Aluminio",
+          "1xFan",
+          "Top-flow",
+          "Negro"
+        ],
+        "Date": "2023-07-17T23:40:19.2345723-04:00",
+        "Update": "2023-07-27T09:48:00.7946922-04:00",
+        "Discount": 0.0,
+        "Label": "Enfriamiento AMD Wraith Stealth"
+      },
+      {
+        "Price": 119.00,
+        "Features": [
+          "Dual",
+          "2xFan",
+          "6xPipes",
+          "ARGB",
+          "Premium",
+          "52cfm",
+          "27dBA",
+          "Cobre",
+          "157mm",
+          "2050rpm",
+          "Negro",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4",
+          "AM5",
+          "Tower"
+        ],
+        "Date": "2023-07-26T18:49:11.7802452-04:00",
+        "Update": "2023-07-27T09:48:00.839669-04:00",
+        "Discount": 0.0,
+        "Label": "Enfriamiento Cooler Master Hyper 622 Halo Black"
+      },
+      {
+        "Price": 61.00,
+        "Features": [
+          "ARGB",
+          "63cfm",
+          "4xPipes",
+          "Cobre",
+          "1800rpm",
+          "25dBA",
+          "155mm",
+          "Negro",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4",
+          "AM5",
+          "Tower",
+          "1xFan"
+        ],
+        "Date": "2023-07-26T18:49:40.2918309-04:00",
+        "Update": "2023-07-27T09:48:00.8542752-04:00",
+        "Discount": 0.0,
+        "Label": "Enfriamiento Thermaltake UX200 SE"
       }
     ]
   },
