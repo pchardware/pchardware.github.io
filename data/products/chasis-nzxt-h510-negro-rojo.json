@@ -1,0 +1,25 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Chasis",
+  "Images": [
+    "/images/products/chasis-nzxt-h510-negro-rojo-1.webp",
+    "/images/products/chasis-nzxt-h510-negro-rojo-2.webp",
+    "/images/products/chasis-nzxt-h510-negro-rojo-3.webp",
+    "/images/products/chasis-nzxt-h510-negro-rojo-4.webp",
+    "/images/products/chasis-nzxt-h510-negro-rojo-5.webp",
+    "/images/products/chasis-nzxt-h510-negro-rojo-6.webp",
+    "/images/products/chasis-nzxt-h510-negro-rojo-7.webp",
+    "/images/products/chasis-nzxt-h510-negro-rojo-8.webp",
+    "/images/products/chasis-nzxt-h510-negro-rojo-9.webp"
+  ],
+  "Description": "Model\nBrand: NZXT\nSeries: H Series H510\nModel: CA-H510B-BR\n\n\nDetails\nType: ATX Mid Tower\nColor: Matte Black / Red\nCase Material: SGCC Steel / Tempered Glass\nWith Power Supply: No\nPower Supply Mounted: Bottom\nMotherboard Compatibility: Micro ATX / ATX / Mini-ITX\nSide Panel Window: Yes\nDust Filters: Bottom / Front\n\n\nExpansion\nInternal 3.5\" Drive Bays: 2+1\nInternal 2.5\" Drive Bays: 2+1\nHot-Swap Drive Bays: 0\nExpansion Slots: 7\n\n\nFront Panel Ports\nFront Ports: 1 x USB 3.0 Type-A / 1 x USB 3.1 Gen 2 Type-C / 1x Headset audio Jack\n\n\nCooling System\nFan Options: Front: 2 x 120mm or 2 x 140mm fan\n\nTop: 1 x 120mm (1 x 120mm Aer F120 Case Version included) or 1 x 140mm fan \n\nRear: 1 x 120mm fan (1 x 120mm Aer F120 Case Version included)\n\nFan Specs: Aer F120 (Case Version)\nSpeed: 1200 +/- 200 RPM\nAirflow: 50.42 CFM\nCFM Noise: 28 dBA\nBearing: Rifle Bearing\nRadiator Options: Front: 2 x 140mm or 2 x 120mm with Pull\nRear: 1 x 120mm\n80mm Fans: No\n120mm Fans: 2\n140mm Fans: No\nSide Air duct: Yes\n\n\nDimensions & Weight\nMax GPU Length: Up to 381mm w/o front watercooler installed\nUp to 325mm with front watercooler installed\nMax CPU Cooler Height: 165 mm\nMax PSU Length: 150 mm\nDimensions (H x W x D): 18.11\" x 8.27\" x 16.85\" w/ feet\n17.13\" x 8.27\" x 16.85\" w/o feet\nWeight: 14.55 lbs.\n\n\nAdditional Info\nFeatures: With a USB 3.1 Gen2-compatible USB-C connector on the front panel, it’s easier than ever to connect smartphones, high-speed external storage, or the latest peripherals to your PC\n\nThe clean, modern design, iconic cable management bar, and uninterrupted tempered-glass side panel showcase your stunning build.\n\nCable management can often take more time than assembly. We designed a cable routing kit with pre-installed channels and straps, for intuitive and easy wiring.\n\nTwo Aer F120mm fans are included for optimal internal airflow and the front panel and PSU intakes include removable filters. Includes a removeable bracket designed for radiators up to 280mm simplifies the installation of either closed-loop or custom-loop water cooling.",
+  "Price": 229.00,
+  "Features": [
+    "Mid Tower",
+    "ATX"
+  ],
+  "Date": "2023-07-26T16:41:43.3854558-04:00",
+  "Update": "2023-07-26T21:07:00.7953231-04:00",
+  "Discount": 0.0,
+  "Label": "Chasis NZXT H510 Negro-Rojo"
+}
