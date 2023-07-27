@@ -1,0 +1,22 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Teclado",
+  "Images": [
+    "/images/products/combo-teclado-k49-mouse-asus-jm3-1.webp",
+    "/images/products/combo-teclado-k49-mouse-asus-jm3-2.webp",
+    "/images/products/combo-teclado-k49-mouse-asus-jm3-3.webp"
+  ],
+  "Description": "",
+  "Price": 35.00,
+  "Features": [
+    "Membrana",
+    "Optico",
+    "3 botónes",
+    "Full",
+    "USB"
+  ],
+  "Date": "2023-05-11T20:29:33.0676825-04:00",
+  "Update": "2023-07-27T11:33:38.2338065-04:00",
+  "Discount": 0.0,
+  "Label": "COMBO Teclado K49 + Mouse Asus JM3"
+}
