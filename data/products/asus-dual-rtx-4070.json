@@ -16,11 +16,14 @@
   "Features": [
     "2xFan",
     "12GB",
+    "1x8Pin",
+    "650WR",
     "GeForce",
-    "NVIDIA"
+    "NVIDIA",
+    "GPU"
   ],
   "Date": "2023-05-11T13:36:49.3673823-04:00",
-  "Update": "2023-06-07T10:16:57.2586254-04:00",
+  "Update": "2023-07-27T10:54:59.738626-04:00",
   "Discount": 0.0,
   "Label": "Asus Dual RTX 4070"
 }
