@@ -15,9 +15,19 @@
   ],
   "Description": "Model\nBrand: Cooler Master\nModel: MH-630\nPart Number: MH630\n\n\nDetails\nColor: Black\n\n\nWireless\nWireless Type: Wired\n\n\nHeadphone\nDriver Unit: 50mm\nHeadphone Frequency Response: 15Hz-25KHz\nHeadphone Input Impedance: 32 ohm\nHeadphone Sensitivity: 107 +/- 3 dB\nConnector: 3.5mm\nEar Coupling: Circumaural\nCord Length: 4.92 ft. (1.5m) 3.5mm connector\t\n0.98 ft. (0.3m) 3.5m to dual 3.5mm cable\nWeight: 0.67 lb.\n\n\nMicrophone\nMicrophone Frequency Response: 50Hz-18KHz\nMicrophone Signal to Noise Ratio(SNR): 50 dB OR more\nMicrophone Sensitivity: -40 +/- 3 dB\n\n\nFeatures\nFeatures: Responsive, form-fitting Cushioning\nWith swiveling ear cups and fabric mesh cushioning, say goodbye to pinched ears, painful lobes, or awkward fits for your marathon battle royales.\n\nPortability Is Key\nNo more worrying about tangled cables. Everything on the MH630 is either detachable or foldable, giving you supreme portability and ridiculously easy storage in a backpack or computer bag.\n\nPowerful Sound Quality\n50mm Neodymium drivers deliver an incredibly rich soundstage to your eardrums for lush, powerful sound that's perfectly balanced for all game and music genres.\n\nCrystal Clear Communications\nYour squad orders will never be misheard with an adjustable omnidirectional boom microphone that prioritizes voice quality while simultaneously minimizing any annoying background noise.\n\nConnect With Any And Every Gaming Platform\nA 3.5mm jack pretty much means universal connectivity across all platforms - whether you're a PC, Console, or Mobile Gamer. You can even take the MH630 on the go for work, play, and everything in between.\n\nSleek, Understated Styling\nThe MH630 isn't all that bad looking either, with signature Cooler Master style, featuring sleek purple accents and stealth matte black finish throughout the body.\n\n\nPackage Contents\nPackage Contents: MH630\nMicrophone \nManuel",
   "Price": 93.00,
-  "Features": [],
+  "Features": [
+    "Micrófono",
+    "3.5mm",
+    "50mm",
+    "15Hz-18KHz",
+    "32ohm",
+    "3db",
+    "300g",
+    "Headset",
+    "Cascos"
+  ],
   "Date": "2023-07-26T16:42:49.9821955-04:00",
-  "Update": "2023-07-27T06:47:19.1829505-04:00",
+  "Update": "2023-07-27T11:12:22.897373-04:00",
   "Discount": 0.0,
   "Label": "Headset Cooler Master MH630"
 }
