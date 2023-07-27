@@ -1,0 +1,27 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Otros",
+  "Images": [
+    "/images/products/docking-orico-dual-bay-1.webp",
+    "/images/products/docking-orico-dual-bay-2.webp",
+    "/images/products/docking-orico-dual-bay-3.webp",
+    "/images/products/docking-orico-dual-bay-4.webp",
+    "/images/products/docking-orico-dual-bay-5.webp",
+    "/images/products/docking-orico-dual-bay-6.webp",
+    "/images/products/docking-orico-dual-bay-7.webp"
+  ],
+  "Description": "Model\nBrand: ORICO\nSeries: ORICO 6629 Series\nModel: ORICO 6629US3-C-BK\n\n\nDetails\nColor: Black\nSize: 2.5\" & 3.5\"\nAC Adapter: 12V4A Power Adapter Included\nMaterial: Plastic\nInternal Interface: SATA I/II/III\nExternal Interface: USB 3.0\nHDD Count Supported: Dual HDD\nNumber of Bay: 2 Bay\nFan: No\nSpecifications: Fit 2x 2.5 inch or 3.5 inch SATA Hard Drive allow to Access Two Drives at the Same Time\n\nFeatures\nFeatures: Stand Alone Clone Enable allow to Duplicate Drive without Attach to Computer\n\nDimensions & Weight\nDimensions: 135x121x65 mm\nWeight: 580 g\n\n\nPackage Contents\nPackage Contents: 1x ORICO 6629US3-C 2 Bay USB 3.0 Dock , 1x Power Adapter , 1x USB3.0 Cable , 1x User's Manual and 1x Service Card",
+  "Price": 49.00,
+  "Features": [
+    "2xDiscos",
+    "USB 3.0",
+    "Clonar",
+    "2.5",
+    "3.5",
+    "SATA 3"
+  ],
+  "Date": "2023-07-26T16:41:58.6548432-04:00",
+  "Update": "2023-07-27T11:12:22.8877103-04:00",
+  "Discount": 0.0,
+  "Label": "Docking Orico Dual Bay"
+}
