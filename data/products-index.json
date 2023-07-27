@@ -949,6 +949,22 @@
         "Update": "2023-07-18T00:35:15.5219184-04:00",
         "Discount": 0.0,
         "Label": "DDR5 XPG Lancer 32GB 6400mhz"
+      },
+      {
+        "Price": 125.00,
+        "Features": [],
+        "Date": "2023-07-26T16:41:33.8367838-04:00",
+        "Update": "2023-07-27T06:47:52.5214425-04:00",
+        "Discount": 0.0,
+        "Label": "DDR5 Team T-Force Delta RGB 32GB (2x16GB) 6000mhz"
+      },
+      {
+        "Price": 109.00,
+        "Features": [],
+        "Date": "2023-07-26T16:41:38.5061459-04:00",
+        "Update": "2023-07-27T06:47:52.5363947-04:00",
+        "Discount": 0.0,
+        "Label": "DDR5 Team T-CREATE EXPERT 32GB (2x16GB) 6000mhz"
       }
     ],
     "Disco Sólido": [
