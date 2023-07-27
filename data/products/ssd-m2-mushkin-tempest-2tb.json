@@ -3,17 +3,18 @@
   "SubCategory": "Disco Sólido",
   "Images": [
     "/images/products/ssd-m2-mushkin-tempest-2tb-1.webp",
-    "/images/products/ssd-m2-mushkin-tempest-2tb-2.webp",
-    "/images/products/ssd-m2-mushkin-tempest-2tb-3.webp",
-    "/images/products/ssd-m2-mushkin-tempest-2tb-4.webp",
-    "/images/products/ssd-m2-mushkin-tempest-2tb-5.webp",
-    "/images/products/ssd-m2-mushkin-tempest-2tb-6.webp"
+    "/images/products/ssd-m2-mushkin-tempest-2tb-2.webp"
   ],
-  "Description": "Model\nBrand: Mushkin Enhanced\nSeries: Tempest\nModel: MKNSSDTS2TB-D8\nPart Number: MKNSSDTS2TB-D8\nDevice Type: Internal Solid State Drive (SSD)\nUsed For: Consumer\n\n\nDetails\nForm Factor: M.2 2280\nCapacity: 2TB\nMemory Components: 3D NAND\nInterface: PCIe Gen3 x4 NVMe 1.4\nController: InnoGrit IG5216\nCache: 0MB\n\n\nPerformance\nMax Sequential Read: Up to 3250 MBps\nMax Sequential Write: Up to 2900 MBps\n4KB Random Read: Up to 344,000 IOPS\n4KB Random Write: Up to 343,000 IOPS\nSeek Time: < 0.1 ms\nTerabytes Written (TBW): 1000TB\nMTBF: 1,500,000 hours\n\n\nFeatures\nFeatures: MEDS (Mushkin Enhanced Data-protection Suite) ensures valuable data is protected\n- Built-in 4th Generation LDPC ECC provides the most-powerful data correction level in use today\n- End-to-end data path protection\n- SLC Caching\n- Data shaping increases endurance\n- StaticDataRefresh ensures data integrity\n- Global wear-leveling evens program/erase counts across data blocks to extend lifespan\n\nEnhanced Power Management\n\nNVMe Security Erase support\n\nNVMe Deallocate function support (NVMe equivalent of TRIM command)\n\nHigh-reliability 3D NAND flash\n\nS.M.A.R.T. support\n\nTemperature sensor\n\nRoHS, FCC, CE\n\n\nEnvironmental\nPower Consumption (Idle): 0.3W\nPower Consumption (Active): 3W\nOperating Temperature: 0°C ~ +70°C\nStorage Temperature: -40°C ~ +85°C\nMax Shock Resistance: 1500G\n\n\nDimensions & Weight\nHeight: 3.80mm\nWidth: 22.00mm\nDepth: 80.00mm\nWeight: 7.00g",
+  "Description": "Model\nBrand: Mushkin Enhanced\nSeries: Tempest\nModel: MKNSSDTS2TB-D8\nPart Number: MKNSSDTS2TB-D8\nDevice Type: Internal Solid State Drive (SSD)\nUsed For: Consumer\n\n\nDetails\nForm Factor: M.2 2280\nCapacity: 2TB\nMemory Components: 3D NAND\nInterface: PCIe Gen3 x4 NVMe 1.4\nController: InnoGrit IG5216\nCache: 0MB\n\n\nPerformance\nMax Sequential Read: Up to 3250 MBps\nMax Sequential Write: Up to 2900 MBps\n4KB Random Read: Up to 344,000 IOPS\n4KB Random Write: Up to 343,000 IOPS\nSeek Time: < 0.1 ms\nTerabytes Written (TBW): 1000TB\nMTBF: 1,500,000 hours\n\n\nFeatures\nFeatures: MEDS (Mushkin Enhanced Data-protection Suite) ensures valuable data is protected\n- Built-in 4th Generation LDPC ECC provides the most-powerful data correction level in use today\n- End-to-end data path protection\n- SLC Caching\n- Data shaping increases endurance\n- StaticDataRefresh ensures data integrity\n- Global wear-leveling evens program/erase counts across data blocks to extend lifespan\n\nEnhanced Power Management\n\nNVMe Security Erase support\n\nNVMe Deallocate function support (NVMe equivalent of TRIM command)\n\nHigh-reliability 3D NAND flash\n\nS.M.A.R.T. support\n\nTemperature sensor\n\nRoHS, FCC, CE\n\n\nEnvironmental\nPower Consumption (Idle): 0.3W\nPower Consumption (Active): 3W\nOperating Temperature: 0°C ~ +70°C\nStorage Temperature: -40°C ~ +85°C\nMax Shock Resistance: 1500G\n\n\nDimensions & Weight\nHeight: 3.80mm\nWidth: 22.00mm\nDepth: 80.00mm",
   "Price": 102.00,
-  "Features": [],
+  "Features": [
+    "3250mbps",
+    "1000tbw",
+    "PCIe x3",
+    "NVMe"
+  ],
   "Date": "2023-07-26T16:46:49.7122399-04:00",
-  "Update": "2023-07-26T21:07:00.8137811-04:00",
+  "Update": "2023-07-27T09:48:00.8086587-04:00",
   "Discount": 0.0,
   "Label": "SSD M.2 Mushkin Tempest 2TB"
 }
