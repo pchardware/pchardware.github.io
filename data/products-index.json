@@ -526,6 +526,17 @@
         "Update": "2023-07-19T18:02:51.5977603-04:00",
         "Discount": 0.0,
         "Label": "Chasis Unyka 2U2"
+      },
+      {
+        "Price": 229.00,
+        "Features": [
+          "Mid Tower",
+          "ATX"
+        ],
+        "Date": "2023-07-26T16:41:43.3854558-04:00",
+        "Update": "2023-07-26T21:07:00.7953231-04:00",
+        "Discount": 0.0,
+        "Label": "Chasis NZXT H510 Negro-Rojo"
       }
     ],
     "Otros": [
@@ -1080,6 +1091,33 @@
         "Update": "2023-07-09T22:12:28.0274155-04:00",
         "Discount": 0.0,
         "Label": "SSD M.2 Silicon Power 1TB UD90"
+      },
+      {
+        "Price": 102.00,
+        "Features": [],
+        "Date": "2023-07-26T16:46:49.7122399-04:00",
+        "Update": "2023-07-26T21:07:00.8137811-04:00",
+        "Discount": 0.0,
+        "Label": "SSD M.2 Mushkin Tempest 2TB"
+      },
+      {
+        "Price": 95.00,
+        "Features": [],
+        "Date": "2023-07-26T16:46:54.426825-04:00",
+        "Update": "2023-07-26T21:07:00.8200021-04:00",
+        "Discount": 0.0,
+        "Label": "SSD 2.5 Team Group CX2 2TB"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "560mbps",
+          "Sata3"
+        ],
+        "Date": "2023-07-26T16:47:01.0445879-04:00",
+        "Update": "2023-07-26T21:07:00.8262433-04:00",
+        "Discount": 0.0,
+        "Label": "SSD 2.5 Silicon Power Ace A55 1TB"
       }
     ],
     "Disco Duro": [
@@ -1161,6 +1199,26 @@
         "Update": "2023-07-09T22:12:27.9953545-04:00",
         "Discount": 0.0,
         "Label": "HDD 3.5 Toshiba 2TB"
+      },
+      {
+        "Price": 59.00,
+        "Features": [
+          "SAS"
+        ],
+        "Date": "2023-07-26T16:40:48.0920023-04:00",
+        "Update": "2023-07-26T21:07:00.7892625-04:00",
+        "Discount": 0.0,
+        "Label": "HDD 3.5 Seagate Constellation 2TB SAS"
+      },
+      {
+        "Price": 99.00,
+        "Features": [
+          "SATA3"
+        ],
+        "Date": "2023-07-26T16:42:02.7416925-04:00",
+        "Update": "2023-07-26T21:07:00.8014901-04:00",
+        "Discount": 0.0,
+        "Label": "HDD 3.5 Seagate Enterprise 6TB"
       }
     ],
     "Disipador Líquido": [
@@ -1953,6 +2011,120 @@
         "Update": "2023-07-23T11:50:36.1141701-04:00",
         "Discount": 0.0,
         "Label": "Gigabyte Z690 AERO G"
+      },
+      {
+        "Price": 99.00,
+        "Features": [
+          "Extreme",
+          "Quad Channel",
+          "Dual Lan",
+          "8xSATA",
+          "9xUSB",
+          "DDR4",
+          "4500mhz",
+          "LGA 2066",
+          "ATX"
+        ],
+        "Date": "2023-07-26T18:48:13.2024755-04:00",
+        "Update": "2023-07-26T21:07:00.8336903-04:00",
+        "Discount": 0.0,
+        "Label": "MSI X299 SLI PLUS"
+      },
+      {
+        "Price": 285.00,
+        "Features": [
+          "12va-13ra",
+          "6xSATA",
+          "9xUSB",
+          "DDR5",
+          "LGA 1700",
+          "ATX"
+        ],
+        "Date": "2023-07-26T18:48:17.6030093-04:00",
+        "Update": "2023-07-26T21:07:00.8510062-04:00",
+        "Discount": 0.0,
+        "Label": "Gigabyte Z790 UD AX"
+      },
+      {
+        "Price": 239.00,
+        "Features": [
+          "12va-13ra",
+          "8xSATA",
+          "5xUSB",
+          "DDR4",
+          "5000mhz",
+          "LGA 1700",
+          "ATX"
+        ],
+        "Date": "2023-07-26T18:48:41.3287682-04:00",
+        "Update": "2023-07-26T21:07:00.8567948-04:00",
+        "Discount": 0.0,
+        "Label": "ASRock Z690 Steel Legend"
+      },
+      {
+        "Price": 279.00,
+        "Features": [
+          "12va-13ra",
+          "8xSATA",
+          "8xUSB",
+          "DDR5",
+          "6800mhz",
+          "LGA 1700",
+          "ATX"
+        ],
+        "Date": "2023-07-26T18:48:46.1112283-04:00",
+        "Update": "2023-07-26T21:07:00.8625063-04:00",
+        "Discount": 0.0,
+        "Label": "ASRock Z790 PG RIPTIDE"
+      },
+      {
+        "Price": 69.00,
+        "Features": [
+          "3ra",
+          "8xSATA",
+          "6xUSB",
+          "DDR3",
+          "2800mhz",
+          "LGA 1155",
+          "ATX"
+        ],
+        "Date": "2023-07-26T18:48:52.0783039-04:00",
+        "Update": "2023-07-26T21:07:00.8680213-04:00",
+        "Discount": 0.0,
+        "Label": "ASRock Z77 Extreme 6"
+      },
+      {
+        "Price": 319.00,
+        "Features": [
+          "12va-13ra",
+          "8xSATA",
+          "9xUSB",
+          "Wifi",
+          "DDR5",
+          "6800mhz",
+          "LGA 1700",
+          "ATX"
+        ],
+        "Date": "2023-07-26T18:49:06.0246464-04:00",
+        "Update": "2023-07-26T21:07:00.8736084-04:00",
+        "Discount": 0.0,
+        "Label": "ASRock Z790 STEEL LEGEND WIFI"
+      },
+      {
+        "Price": 179.00,
+        "Features": [
+          "12va-13ra",
+          "4xSATA",
+          "5xUSB",
+          "DDR5",
+          "7200mhz",
+          "LGA 1700",
+          "Micro ATX"
+        ],
+        "Date": "2023-07-26T18:49:47.5277946-04:00",
+        "Update": "2023-07-26T21:07:00.8848985-04:00",
+        "Discount": 0.0,
+        "Label": "ASRock B760M PRO RS"
       }
     ]
   },
