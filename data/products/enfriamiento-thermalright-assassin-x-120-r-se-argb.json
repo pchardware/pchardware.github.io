@@ -1,0 +1,33 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disipador por Aire",
+  "Images": [
+    "/images/products/enfriamiento-thermalright-assassin-x-120-r-se-argb-1.webp",
+    "/images/products/enfriamiento-thermalright-assassin-x-120-r-se-argb-2.webp",
+    "/images/products/enfriamiento-thermalright-assassin-x-120-r-se-argb-3.webp",
+    "/images/products/enfriamiento-thermalright-assassin-x-120-r-se-argb-4.webp",
+    "/images/products/enfriamiento-thermalright-assassin-x-120-r-se-argb-5.webp",
+    "/images/products/enfriamiento-thermalright-assassin-x-120-r-se-argb-6.webp"
+  ],
+  "Description": "Type \tFan & Heatsinks\nFan Size \t120mm\nBearing Type \tFluid Dynamic\nRPM \t1550rpm±10%\nAir Flow \t66.17CFM(MAX)\nNoise Level \tmax.25.6dBA\nPower Connector \t4 Pin\nLED \tAddressable RGB\nHeatsink Material \tAluminum\nFan Mounting Types to Heatsink \tVertical\n\nMax CPU Cooler Height \t148 mm\nFan Dimensions \t120x120x25mm\nHeatsink Dimensions \t120(L)x71(W)x148(H)mm\nWeight \t645 g",
+  "Price": 59.00,
+  "Features": [
+    "4xPipes",
+    "1550rpm",
+    "66cfm",
+    "26dBA",
+    "148mm",
+    "Negro",
+    "LGA 1700",
+    "LGA 1200",
+    "LGA 115X",
+    "AM4",
+    "AM5",
+    "Tower",
+    "1xFan"
+  ],
+  "Date": "2023-03-27T10:59:27.7734094-04:00",
+  "Update": "2023-07-27T09:48:00.6698431-04:00",
+  "Discount": 0.0,
+  "Label": "Enfriamiento Thermalright Assassin X 120 R SE ARGB"
+}
