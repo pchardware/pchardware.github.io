@@ -16,11 +16,14 @@
   "Features": [
     "8GB",
     "2xFan",
+    "1x8Pin",
+    "550WR",
     "GeForce",
-    "NVIDIA"
+    "NVIDIA",
+    "GPU"
   ],
   "Date": "2023-07-12T21:42:49.1798698-04:00",
-  "Update": "2023-07-18T00:35:15.4639095-04:00",
+  "Update": "2023-07-27T10:54:59.8257395-04:00",
   "Discount": 0.0,
   "Label": "Asus Dual RTX 4060 OC"
 }
