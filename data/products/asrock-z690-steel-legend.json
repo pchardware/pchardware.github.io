@@ -16,14 +16,18 @@
   "Features": [
     "12va-13ra",
     "8xSATA",
+    "6xAudio",
     "5xUSB",
     "DDR4",
     "5000mhz",
     "LGA 1700",
-    "ATX"
+    "ATX",
+    "PS2",
+    "HDMI",
+    "DisplayPort"
   ],
   "Date": "2023-07-26T18:48:41.3287682-04:00",
-  "Update": "2023-07-26T21:07:00.8567948-04:00",
+  "Update": "2023-07-27T07:36:15.6600807-04:00",
   "Discount": 0.0,
   "Label": "ASRock Z690 Steel Legend"
 }
