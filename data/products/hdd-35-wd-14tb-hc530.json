@@ -12,11 +12,13 @@
   "Features": [
     "Ultrastar DC",
     "Enterprise",
+    "512mb",
+    "7200rpm",
     "SATA 3",
     "6 Gbps"
   ],
   "Date": "2023-05-11T14:19:01.4001144-04:00",
-  "Update": "2023-06-19T11:56:16.8701088-04:00",
+  "Update": "2023-07-27T08:17:37.3410438-04:00",
   "Discount": 0.0,
   "Label": "HDD 3.5 WD 14TB HC530"
 }
