@@ -84,192 +84,6 @@
     ]
   },
   "Componentes": {
-    "Tarjeta Gráfica": [
-      {
-        "Price": 655.00,
-        "Features": [
-          "12GB",
-          "Liquida",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-04-09T07:40:11.0980971-04:00",
-        "Update": "2023-06-01T10:49:59.6571636-04:00",
-        "Discount": 0.0,
-        "Label": "EVGA RTX 3080Ti XC3 Hydro Copper"
-      },
-      {
-        "Price": 699.00,
-        "Features": [
-          "2xFan",
-          "12GB",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-05-11T13:36:49.3673823-04:00",
-        "Update": "2023-06-07T10:16:57.2586254-04:00",
-        "Discount": 0.0,
-        "Label": "Asus Dual RTX 4070"
-      },
-      {
-        "Price": 599.00,
-        "Features": [
-          "3xFan",
-          "8GB",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-05-11T13:41:35.5997368-04:00",
-        "Update": "2023-06-19T09:35:04.4036275-04:00",
-        "Discount": 0.0,
-        "Label": "Zotac Gaming RTX 3070Ti"
-      },
-      {
-        "Price": 935.00,
-        "Features": [
-          "3xFan",
-          "12GB",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-05-11T13:47:38.0164911-04:00",
-        "Update": "2023-06-19T09:35:04.410594-04:00",
-        "Discount": 0.0,
-        "Label": "MSI Ventus 3X RTX 4070Ti OC"
-      },
-      {
-        "Price": 495.00,
-        "Features": [
-          "2xFan",
-          "8GB",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-06-19T07:48:26.3260961-04:00",
-        "Update": "2023-06-19T09:35:04.6257291-04:00",
-        "Discount": 0.0,
-        "Label": "Asus Dual RTX 4060Ti OC"
-      },
-      {
-        "Price": 720.00,
-        "Features": [
-          "3xFan",
-          "12GB",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-06-19T07:48:40.2408631-04:00",
-        "Update": "2023-06-19T09:35:04.6328267-04:00",
-        "Discount": 0.0,
-        "Label": "MSI Ventus 3X RTX 4070 OC"
-      },
-      {
-        "Price": 715.00,
-        "Features": [
-          "2xFan",
-          "12GB",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-06-19T07:49:38.2054403-04:00",
-        "Update": "2023-06-19T10:48:18.7850541-04:00",
-        "Discount": 0.0,
-        "Label": "Asus Dual RTX 4070 OC"
-      },
-      {
-        "Price": 399.00,
-        "Features": [
-          "12GB",
-          "2xFan",
-          "Radeon",
-          "AMD"
-        ],
-        "Date": "2023-06-29T07:39:05.0557701-04:00",
-        "Update": "2023-06-29T11:38:59.2219806-04:00",
-        "Discount": 0.0,
-        "Label": "ASRock Challenger D RX 6700 XT"
-      },
-      {
-        "Price": 349.00,
-        "Features": [
-          "3xFan",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-06-29T07:39:14.2136094-04:00",
-        "Update": "2023-06-29T11:38:59.238853-04:00",
-        "Discount": 0.0,
-        "Label": "MSI Ventus 3x RTX 3060 12GB"
-      },
-      {
-        "Price": 179.00,
-        "Features": [
-          "4GB",
-          "1xFan",
-          "Radeon",
-          "AMD"
-        ],
-        "Date": "2023-07-09T16:45:07.237632-04:00",
-        "Update": "2023-07-16T07:50:06.8689489-04:00",
-        "Discount": 0.0,
-        "Label": "ASRock Challenger ITX RX 6500 XT"
-      },
-      {
-        "Price": 275.00,
-        "Features": [
-          "8GB",
-          "3xFan",
-          "Radeon",
-          "AMD"
-        ],
-        "Date": "2023-05-11T19:24:18.7527581-04:00",
-        "Update": "2023-07-17T23:36:25.7587609-04:00",
-        "Discount": 0.0,
-        "Label": "Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
-      },
-      {
-        "Price": 385.00,
-        "Features": [
-          "8GB",
-          "2xFan",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-07-12T21:42:49.1798698-04:00",
-        "Update": "2023-07-18T00:35:15.4639095-04:00",
-        "Discount": 0.0,
-        "Label": "Asus Dual RTX 4060 OC"
-      },
-      {
-        "Price": 289.00,
-        "Features": [
-          "8GB",
-          "2xFan",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-07-12T21:42:54.3752209-04:00",
-        "Update": "2023-07-18T00:35:15.4702632-04:00",
-        "Discount": 0.0,
-        "Label": "MSI Gaming X RTX 3050"
-      },
-      {
-        "Price": 345.00,
-        "Features": [],
-        "Date": "2023-07-26T16:40:52.2609256-04:00",
-        "Update": "2023-07-27T06:47:19.126625-04:00",
-        "Discount": 0.0,
-        "Label": "XFX Swft 309 RX 6700 10GB"
-      },
-      {
-        "Price": 429.00,
-        "Features": [],
-        "Date": "2023-07-26T16:40:56.6283918-04:00",
-        "Update": "2023-07-27T06:47:19.1358421-04:00",
-        "Discount": 0.0,
-        "Label": "MSI Mech Radeon RX 6750 XT 12GB"
-      }
-    ],
     "Otros": [
       {
         "Price": 85.00,
@@ -300,17 +114,6 @@
         "Update": "2023-06-07T14:23:20.6655879-04:00",
         "Discount": 0.0,
         "Label": "Riser Coboc PCI Express"
-      },
-      {
-        "Price": 12.00,
-        "Features": [
-          "1.80m",
-          "4K"
-        ],
-        "Date": "2023-06-07T15:06:28.4028458-04:00",
-        "Update": "2023-06-07T15:26:56.648271-04:00",
-        "Discount": 0.0,
-        "Label": "Cable HDMI"
       },
       {
         "Price": 7.00,
@@ -383,38 +186,12 @@
         "Label": "EN-Labs GEKE PWM 4-pin Fan Hub 10 Ports Splitter"
       },
       {
-        "Price": 47.00,
-        "Features": [
-          "10xUSB 3.0"
-        ],
-        "Date": "2023-07-17T23:37:56.1110686-04:00",
-        "Update": "2023-07-18T17:56:14.0356982-04:00",
-        "Discount": 0.0,
-        "Label": "HUB ORICO Type-A 10-Port USB 3.0"
-      },
-      {
         "Price": 17.00,
         "Features": [],
         "Date": "2023-07-26T16:41:29.0221883-04:00",
-        "Update": "2023-07-27T06:47:19.1442426-04:00",
+        "Update": "2023-07-27T10:54:59.864733-04:00",
         "Discount": 0.0,
-        "Label": "Thermalright LGA1700-BCF black"
-      },
-      {
-        "Price": 10.00,
-        "Features": [],
-        "Date": "2023-07-26T16:41:47.7242065-04:00",
-        "Update": "2023-07-27T06:47:19.168563-04:00",
-        "Discount": 0.0,
-        "Label": "Cable HDMI 1.8mts"
-      },
-      {
-        "Price": 7.00,
-        "Features": [],
-        "Date": "2023-07-26T18:49:01.6603508-04:00",
-        "Update": "2023-07-27T06:47:19.2402625-04:00",
-        "Discount": 0.0,
-        "Label": "Adaptador HDMI a DVI"
+        "Label": "Thermalright LGA1700-BCF Black"
       }
     ],
     "Memoria RAM": [
@@ -2479,6 +2256,245 @@
         "Discount": 0.0,
         "Label": "Enfriamiento Thermaltake UX200 SE"
       }
+    ],
+    "Tarjeta Gráfica": [
+      {
+        "Price": 655.00,
+        "Features": [
+          "12GB",
+          "Liquida",
+          "2x8Pin",
+          "750WR",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-04-09T07:40:11.0980971-04:00",
+        "Update": "2023-07-27T10:54:59.7292857-04:00",
+        "Discount": 0.0,
+        "Label": "EVGA RTX 3080Ti XC3 Hydro Copper"
+      },
+      {
+        "Price": 699.00,
+        "Features": [
+          "2xFan",
+          "12GB",
+          "1x8Pin",
+          "650WR",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-05-11T13:36:49.3673823-04:00",
+        "Update": "2023-07-27T10:54:59.738626-04:00",
+        "Discount": 0.0,
+        "Label": "Asus Dual RTX 4070"
+      },
+      {
+        "Price": 599.00,
+        "Features": [
+          "3xFan",
+          "8GB",
+          "2x8Pin",
+          "750WR",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-05-11T13:41:35.5997368-04:00",
+        "Update": "2023-07-27T10:54:59.7530593-04:00",
+        "Discount": 0.0,
+        "Label": "Zotac Gaming RTX 3070Ti"
+      },
+      {
+        "Price": 935.00,
+        "Features": [
+          "3xFan",
+          "12GB",
+          "1x16Pin",
+          "750W",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-05-11T13:47:38.0164911-04:00",
+        "Update": "2023-07-27T10:54:59.7600811-04:00",
+        "Discount": 0.0,
+        "Label": "MSI Ventus 3X RTX 4070Ti OC"
+      },
+      {
+        "Price": 495.00,
+        "Features": [
+          "2xFan",
+          "8GB",
+          "1x8Pin",
+          "650WR",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-06-19T07:48:26.3260961-04:00",
+        "Update": "2023-07-27T10:54:59.7666448-04:00",
+        "Discount": 0.0,
+        "Label": "Asus Dual RTX 4060Ti OC"
+      },
+      {
+        "Price": 720.00,
+        "Features": [
+          "3xFan",
+          "12GB",
+          "1x8Pin",
+          "800WR",
+          "GeForce",
+          "NVIDIA"
+        ],
+        "Date": "2023-06-19T07:48:40.2408631-04:00",
+        "Update": "2023-07-27T10:54:59.7774889-04:00",
+        "Discount": 0.0,
+        "Label": "MSI Ventus 3X RTX 4070 OC"
+      },
+      {
+        "Price": 715.00,
+        "Features": [
+          "2xFan",
+          "12GB",
+          "1x8Pin",
+          "650WR",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-06-19T07:49:38.2054403-04:00",
+        "Update": "2023-07-27T10:54:59.785795-04:00",
+        "Discount": 0.0,
+        "Label": "Asus Dual RTX 4070 OC"
+      },
+      {
+        "Price": 399.00,
+        "Features": [
+          "12GB",
+          "2xFan",
+          "2x8Pin",
+          "650WR",
+          "Radeon",
+          "AMD",
+          "GPU"
+        ],
+        "Date": "2023-06-29T07:39:05.0557701-04:00",
+        "Update": "2023-07-27T10:54:59.7943338-04:00",
+        "Discount": 0.0,
+        "Label": "ASRock Challenger D RX 6700 XT"
+      },
+      {
+        "Price": 349.00,
+        "Features": [
+          "3xFan",
+          "1x8Pin",
+          "550WR",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-06-29T07:39:14.2136094-04:00",
+        "Update": "2023-07-27T10:54:59.8016493-04:00",
+        "Discount": 0.0,
+        "Label": "MSI Ventus 3x RTX 3060 12GB"
+      },
+      {
+        "Price": 179.00,
+        "Features": [
+          "4GB",
+          "1xFan",
+          "400WR",
+          "Radeon",
+          "AMD",
+          "GPU"
+        ],
+        "Date": "2023-07-09T16:45:07.237632-04:00",
+        "Update": "2023-07-27T10:54:59.8084655-04:00",
+        "Discount": 0.0,
+        "Label": "ASRock Challenger ITX RX 6500 XT"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "8GB",
+          "3xFan",
+          "1x8Pin",
+          "500WR",
+          "Radeon",
+          "AMD",
+          "GPU"
+        ],
+        "Date": "2023-05-11T19:24:18.7527581-04:00",
+        "Update": "2023-07-27T10:54:59.8170004-04:00",
+        "Discount": 0.0,
+        "Label": "Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
+      },
+      {
+        "Price": 385.00,
+        "Features": [
+          "8GB",
+          "2xFan",
+          "1x8Pin",
+          "550WR",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-07-12T21:42:49.1798698-04:00",
+        "Update": "2023-07-27T10:54:59.8257395-04:00",
+        "Discount": 0.0,
+        "Label": "Asus Dual RTX 4060 OC"
+      },
+      {
+        "Price": 289.00,
+        "Features": [
+          "8GB",
+          "2xFan",
+          "1x8Pin",
+          "550WR",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-07-12T21:42:54.3752209-04:00",
+        "Update": "2023-07-27T10:54:59.83475-04:00",
+        "Discount": 0.0,
+        "Label": "MSI Gaming X RTX 3050"
+      },
+      {
+        "Price": 345.00,
+        "Features": [
+          "10GB",
+          "3xFan",
+          "2x8Pin",
+          "650WR",
+          "Radeon",
+          "AMD",
+          "GPU"
+        ],
+        "Date": "2023-07-26T16:40:52.2609256-04:00",
+        "Update": "2023-07-27T10:54:59.8508103-04:00",
+        "Discount": 0.0,
+        "Label": "XFX Swft 309 RX 6700"
+      },
+      {
+        "Price": 429.00,
+        "Features": [
+          "12GB",
+          "2xFan",
+          "2x8Pin",
+          "650WR",
+          "Radeon",
+          "AMD",
+          "GPU"
+        ],
+        "Date": "2023-07-26T16:40:56.6283918-04:00",
+        "Update": "2023-07-27T10:54:59.8580148-04:00",
+        "Discount": 0.0,
+        "Label": "MSI Mech Radeon RX 6750 XT"
+      }
     ]
   },
   "Periféricos": {
@@ -2510,6 +2526,14 @@
         "Update": "2023-06-07T17:13:07.6811141-04:00",
         "Discount": 0.0,
         "Label": "Cable DisplayPort a HDMI"
+      },
+      {
+        "Price": 7.00,
+        "Features": [],
+        "Date": "2023-07-26T18:49:01.6603508-04:00",
+        "Update": "2023-07-27T10:54:59.8782677-04:00",
+        "Discount": 0.0,
+        "Label": "Adaptador HDMI a DVI"
       }
     ],
     "Red": [
@@ -2560,6 +2584,24 @@
         "Update": "2023-07-27T06:47:19.1758702-04:00",
         "Discount": 0.0,
         "Label": "Docking Orico Dual Bay USB3.0, 2.5 & 3.5 SATA [6629S3-V1-US-BK]"
+      },
+      {
+        "Price": 47.00,
+        "Features": [
+          "10xUSB 3.0"
+        ],
+        "Date": "2023-07-17T23:37:56.1110686-04:00",
+        "Update": "2023-07-27T10:54:59.8420792-04:00",
+        "Discount": 0.0,
+        "Label": "HUB ORICO Type-A 10-Port USB 3.0"
+      },
+      {
+        "Price": 10.00,
+        "Features": [],
+        "Date": "2023-07-26T16:41:47.7242065-04:00",
+        "Update": "2023-07-27T10:54:59.8709371-04:00",
+        "Discount": 0.0,
+        "Label": "Cable HDMI 1.8mts"
       }
     ],
     "Mouse": [
