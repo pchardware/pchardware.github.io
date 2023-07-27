@@ -9,9 +9,13 @@
   ],
   "Description": "Model\nBrand: Team Group\nSeries: CX2\nModel: T253X6002T0C101\nPart Number: T253X6002T0C101\nDevice Type: Internal Solid State Drive (SSD)\nUsed For: Consumer\n\n\nDetails\nForm Factor: 2.5\"\nCapacity: 2TB\nMemory Components: 3D TLC\nInterface: SATA III\nCache: 0MB\n\n\nPerformance\nMax Sequential Read: Up to 540 MBps\nMax Sequential Write: Up to 490 MBps\nTerabytes Written (TBW): 1600TB\nMTBF: 1,000,000 hours\n\n\nFeatures\nFeatures: Terabyte Written: >1600TB\n\nA must-have for beginners who want to replace their traditional mechanical hard drive\n\nAdvanced SLC Caching technology\n\nShock and drop resistant for safe use\n\nECC (Error Correction Code) function enhances efficiency\n\n\nEnvironmental\nOperating Temperature: 0°C ~ +70°C\nStorage Temperature: -40°C ~ +85°C\nMax Shock Resistance: 1500G\nMax Vibration Resistance: 20G (non-operating)\n\n\nDimensions & Weight\nHeight: 7.00mm\nWidth: 69.90mm\nDepth: 100.00mm",
   "Price": 95.00,
-  "Features": [],
+  "Features": [
+    "540mbps",
+    "1600tbw",
+    "SATA 3"
+  ],
   "Date": "2023-07-26T16:46:54.426825-04:00",
-  "Update": "2023-07-26T21:07:00.8200021-04:00",
+  "Update": "2023-07-27T09:48:00.8250522-04:00",
   "Discount": 0.0,
   "Label": "SSD 2.5 Team Group CX2 2TB"
 }
