@@ -3071,20 +3071,6 @@
         "Label": "Teclado Asus TUF Gaming K1"
       },
       {
-        "Price": 35.00,
-        "Features": [
-          "Membrana",
-          "Optico",
-          "3 botónes",
-          "Full",
-          "USB"
-        ],
-        "Date": "2023-05-11T20:29:33.0676825-04:00",
-        "Update": "2023-07-11T12:41:46.9809036-04:00",
-        "Discount": 0.0,
-        "Label": "COMBO Teclado + Mouse Asus K49"
-      },
-      {
         "Price": 59.00,
         "Features": [
           "Inalámbrico",
@@ -3148,25 +3134,67 @@
       },
       {
         "Price": 19.00,
-        "Features": [],
+        "Features": [
+          "Membrana",
+          "Full",
+          "USB"
+        ],
         "Date": "2023-07-09T17:01:17.8411016-04:00",
-        "Update": "2023-07-26T18:58:17.5309679-04:00",
+        "Update": "2023-07-27T11:33:38.2262823-04:00",
         "Discount": 0.0,
         "Label": "Teclado Asus K49"
       },
       {
-        "Price": 99.00,
-        "Features": [],
-        "Date": "2023-07-26T18:46:35.01659-04:00",
-        "Update": "2023-07-27T06:47:19.2084522-04:00",
+        "Price": 35.00,
+        "Features": [
+          "Membrana",
+          "Optico",
+          "3 botónes",
+          "Full",
+          "USB"
+        ],
+        "Date": "2023-05-11T20:29:33.0676825-04:00",
+        "Update": "2023-07-27T11:33:38.2338065-04:00",
         "Discount": 0.0,
-        "Label": "Teclado Cooler Master SK622 RGB"
+        "Label": "COMBO Teclado K49 + Mouse Asus JM3"
+      },
+      {
+        "Price": 99.00,
+        "Features": [
+          "60%",
+          "Mecánico",
+          "RGB",
+          "Inalámbrico",
+          "Macros",
+          "Gaming",
+          "TKL",
+          "Blanco",
+          "Cable"
+        ],
+        "Date": "2023-07-26T18:46:35.01659-04:00",
+        "Update": "2023-07-27T11:33:38.2466969-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado Cooler Master SK622 RGB White"
       },
       {
         "Price": 119.00,
-        "Features": [],
+        "Features": [
+          "Membrana",
+          "RGB",
+          "Palm rest",
+          "Macros",
+          "Aura Sync",
+          "Gaming",
+          "Multimedia",
+          "Full",
+          "7000dpi",
+          "Optico",
+          "7 botónes",
+          "Palm-Claw",
+          "USB"
+        ],
         "Date": "2023-07-26T18:48:03.9197668-04:00",
-        "Update": "2023-07-27T06:47:19.2177422-04:00",
+        "Update": "2023-07-27T11:33:38.2530039-04:00",
         "Discount": 0.0,
         "Label": "COMBO Teclado Asus TUF Gaming K1 + Mouse M3"
       }
@@ -3316,14 +3344,6 @@
         "Label": "WebCam AUKEY 1080p"
       },
       {
-        "Price": 39.00,
-        "Features": [],
-        "Date": "2023-07-26T16:42:54.3761933-04:00",
-        "Update": "2023-07-27T06:47:19.1904441-04:00",
-        "Discount": 0.0,
-        "Label": "Webcam Youlisn Full HD 1080P [‎C01-Black]"
-      },
-      {
         "Price": 49.00,
         "Features": [
           "USB"
@@ -3332,6 +3352,20 @@
         "Update": "2023-07-27T11:12:22.9422147-04:00",
         "Discount": 0.0,
         "Label": "Webcam Autofocus FHD HA501 +Tripode"
+      },
+      {
+        "Price": 39.00,
+        "Features": [
+          "30fps",
+          "HDR",
+          "Reducción de ruido",
+          "90 grados",
+          "USB"
+        ],
+        "Date": "2023-07-26T16:42:54.3761933-04:00",
+        "Update": "2023-07-27T11:33:38.2399585-04:00",
+        "Discount": 0.0,
+        "Label": "Webcam Full HD 1080P C01-Black"
       }
     ],
     "Backup": [
