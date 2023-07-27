@@ -14,11 +14,14 @@
   "Price": 349.00,
   "Features": [
     "3xFan",
+    "1x8Pin",
+    "550WR",
     "GeForce",
-    "NVIDIA"
+    "NVIDIA",
+    "GPU"
   ],
   "Date": "2023-06-29T07:39:14.2136094-04:00",
-  "Update": "2023-06-29T11:38:59.238853-04:00",
+  "Update": "2023-07-27T10:54:59.8016493-04:00",
   "Discount": 0.0,
   "Label": "MSI Ventus 3x RTX 3060 12GB"
 }
