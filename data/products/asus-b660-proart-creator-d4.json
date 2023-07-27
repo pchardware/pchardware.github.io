@@ -12,15 +12,19 @@
   "Price": 199.00,
   "Features": [
     "12va-13ra",
-    "4xSATA",
+    "Dual Lan",
     "8xUSB",
+    "6xAudio",
     "DDR4",
     "5333mhz",
+    "4xSATA",
     "LGA 1700",
-    "ATX"
+    "ATX",
+    "HDMI",
+    "DisplayPort"
   ],
   "Date": "2023-02-17T09:46:18.404887-05:00",
-  "Update": "2023-07-18T17:01:41.6057983-04:00",
+  "Update": "2023-07-27T07:36:15.523221-04:00",
   "Discount": 0.0,
   "Label": "Asus B660 ProArt Creator D4"
 }
