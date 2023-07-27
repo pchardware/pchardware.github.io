@@ -7,10 +7,14 @@
   "Description": "",
   "Price": 13.00,
   "Features": [
-    "LGA 1200"
+    "LGA 1200",
+    "Aluminio",
+    "1xFan",
+    "Top-flow",
+    "Negro"
   ],
   "Date": "2023-05-11T12:52:12.030034-04:00",
-  "Update": "2023-06-09T16:50:29.0094431-04:00",
+  "Update": "2023-07-27T09:48:00.7189867-04:00",
   "Discount": 0.0,
   "Label": "Enfriamiento Intel Generic Plus"
 }
