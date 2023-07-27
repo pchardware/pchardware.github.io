@@ -13,15 +13,19 @@
   "Price": 179.00,
   "Features": [
     "12va-13ra",
-    "4xSATA",
-    "5xUSB",
     "DDR5",
     "7200mhz",
+    "5xUSB",
+    "4xSATA",
     "LGA 1700",
-    "Micro ATX"
+    "Micro ATX",
+    "3xAudio",
+    "PS2",
+    "HDMI",
+    "DisplayPort"
   ],
   "Date": "2023-07-26T18:49:47.5277946-04:00",
-  "Update": "2023-07-26T21:07:00.8848985-04:00",
+  "Update": "2023-07-27T07:36:15.6936669-04:00",
   "Discount": 0.0,
   "Label": "ASRock B760M PRO RS"
 }
