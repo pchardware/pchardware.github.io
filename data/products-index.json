@@ -65,6 +65,22 @@
         "Discount": 10.0,
         "Label": "Kit Ryzen 7 5800X + Gigabyte B550M Aorus Elite + 16GB RAM 4000mhz"
       }
+    ],
+    "Esencial": [
+      {
+        "Price": 360.00,
+        "Features": [
+          "13ra Gen",
+          "3200mhz",
+          "Disipadas",
+          "Dual channel",
+          "Micro ATX"
+        ],
+        "Date": "2023-06-24T13:25:39.3935036-04:00",
+        "Update": "2023-07-27T06:47:19.1191228-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i3-13100 +Disipador + B660M + 16GB"
+      }
     ]
   },
   "Componentes": {
@@ -236,6 +252,22 @@
         "Update": "2023-07-18T00:35:15.4702632-04:00",
         "Discount": 0.0,
         "Label": "MSI Gaming X RTX 3050"
+      },
+      {
+        "Price": 345.00,
+        "Features": [],
+        "Date": "2023-07-26T16:40:52.2609256-04:00",
+        "Update": "2023-07-27T06:47:19.126625-04:00",
+        "Discount": 0.0,
+        "Label": "XFX Swft 309 RX 6700 10GB"
+      },
+      {
+        "Price": 429.00,
+        "Features": [],
+        "Date": "2023-07-26T16:40:56.6283918-04:00",
+        "Update": "2023-07-27T06:47:19.1358421-04:00",
+        "Discount": 0.0,
+        "Label": "MSI Mech Radeon RX 6750 XT 12GB"
       }
     ],
     "Fuente": [
@@ -660,6 +692,30 @@
         "Update": "2023-07-18T17:56:14.0356982-04:00",
         "Discount": 0.0,
         "Label": "HUB ORICO Type-A 10-Port USB 3.0"
+      },
+      {
+        "Price": 17.00,
+        "Features": [],
+        "Date": "2023-07-26T16:41:29.0221883-04:00",
+        "Update": "2023-07-27T06:47:19.1442426-04:00",
+        "Discount": 0.0,
+        "Label": "Thermalright LGA1700-BCF black"
+      },
+      {
+        "Price": 10.00,
+        "Features": [],
+        "Date": "2023-07-26T16:41:47.7242065-04:00",
+        "Update": "2023-07-27T06:47:19.168563-04:00",
+        "Discount": 0.0,
+        "Label": "Cable HDMI 1.8mts"
+      },
+      {
+        "Price": 7.00,
+        "Features": [],
+        "Date": "2023-07-26T18:49:01.6603508-04:00",
+        "Update": "2023-07-27T06:47:19.2402625-04:00",
+        "Discount": 0.0,
+        "Label": "Adaptador HDMI a DVI"
       }
     ],
     "Memoria RAM": [
@@ -1588,6 +1644,14 @@
         "Update": "2023-07-26T21:33:12.7325182-04:00",
         "Discount": 0.0,
         "Label": "Enfriamiento Thermaltake UX200 SE"
+      },
+      {
+        "Price": 119.00,
+        "Features": [],
+        "Date": "2023-07-26T18:49:11.7802452-04:00",
+        "Update": "2023-07-27T06:47:19.2608106-04:00",
+        "Discount": 0.0,
+        "Label": "Enfriamiento Cooler Master Hyper 622 Halo Black"
       }
     ],
     "Red": [
@@ -2217,6 +2281,14 @@
         "Update": "2023-06-07T15:55:09.4920948-04:00",
         "Discount": 0.0,
         "Label": "Corsair Voyager Slider X1 64GB"
+      },
+      {
+        "Price": 49.00,
+        "Features": [],
+        "Date": "2023-07-26T16:41:58.6548432-04:00",
+        "Update": "2023-07-27T06:47:19.1758702-04:00",
+        "Discount": 0.0,
+        "Label": "Docking Orico Dual Bay USB3.0, 2.5 & 3.5 SATA [6629S3-V1-US-BK]"
       }
     ],
     "Mouse": [
@@ -2438,6 +2510,14 @@
         "Update": "2023-07-26T18:58:17.5417236-04:00",
         "Discount": 0.0,
         "Label": "Mouse SteelSeries Rival 3 Wireless"
+      },
+      {
+        "Price": 19.00,
+        "Features": [],
+        "Date": "2023-07-26T16:47:06.143069-04:00",
+        "Update": "2023-07-27T06:47:19.1996738-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse Pad Asus TUF Gaming P3"
       }
     ],
     "Teclado": [
@@ -2737,6 +2817,22 @@
         "Update": "2023-07-26T18:58:17.5309679-04:00",
         "Discount": 0.0,
         "Label": "Teclado Asus K49"
+      },
+      {
+        "Price": 99.00,
+        "Features": [],
+        "Date": "2023-07-26T18:46:35.01659-04:00",
+        "Update": "2023-07-27T06:47:19.2084522-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado Cooler Master SK622 RGB"
+      },
+      {
+        "Price": 119.00,
+        "Features": [],
+        "Date": "2023-07-26T18:48:03.9197668-04:00",
+        "Update": "2023-07-27T06:47:19.2177422-04:00",
+        "Discount": 0.0,
+        "Label": "COMBO Teclado Asus TUF Gaming K1 + Mouse M3"
       }
     ],
     "Monitor": [
@@ -2882,6 +2978,14 @@
         "Update": "2023-07-09T16:42:13.6559435-04:00",
         "Discount": 0.0,
         "Label": "WebCam AUKEY 1080p"
+      },
+      {
+        "Price": 39.00,
+        "Features": [],
+        "Date": "2023-07-26T16:42:54.3761933-04:00",
+        "Update": "2023-07-27T06:47:19.1904441-04:00",
+        "Discount": 0.0,
+        "Label": "Webcam Youlisn Full HD 1080P [‎C01-Black]"
       }
     ],
     "Sonido": [
@@ -2972,6 +3076,14 @@
         "Update": "2023-07-11T17:12:10.0904474-04:00",
         "Discount": 0.0,
         "Label": "Audífonos Corsair VOID RGB Elite Wireless Carbon"
+      },
+      {
+        "Price": 93.00,
+        "Features": [],
+        "Date": "2023-07-26T16:42:49.9821955-04:00",
+        "Update": "2023-07-27T06:47:19.1829505-04:00",
+        "Discount": 0.0,
+        "Label": "Headset Cooler Master MH630"
       }
     ],
     "Backup": [
@@ -3018,6 +3130,16 @@
         "Update": "2023-07-19T18:04:45.7136611-04:00",
         "Discount": 0.0,
         "Label": "Silla YAHEETECH"
+      }
+    ],
+    "Periféricos": [
+      {
+        "Price": 49.00,
+        "Features": [],
+        "Date": "2023-07-26T18:48:21.8195038-04:00",
+        "Update": "2023-07-27T06:47:19.2339627-04:00",
+        "Discount": 0.0,
+        "Label": "WebCam Autofocus FHD [HA501] + Tripode"
       }
     ]
   }
