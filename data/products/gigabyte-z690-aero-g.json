@@ -13,15 +13,19 @@
   "Price": 289.00,
   "Features": [
     "12va-13ra",
-    "6xSATA",
-    "8xUSB",
     "DDR5",
+    "Wifi",
+    "8xUSB",
+    "6xSATA",
     "6000mhz",
     "LGA 1700",
-    "ATX"
+    "ATX",
+    "DisplayPort",
+    "HDMI",
+    "3xAudio"
   ],
   "Date": "2023-07-17T23:39:45.1712194-04:00",
-  "Update": "2023-07-23T11:50:36.1141701-04:00",
+  "Update": "2023-07-27T07:36:15.640121-04:00",
   "Discount": 0.0,
   "Label": "Gigabyte Z690 AERO G"
 }
