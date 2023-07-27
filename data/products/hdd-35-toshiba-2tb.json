@@ -14,11 +14,13 @@
   "Description": "Model\nBrand: TOSHIBA\nSeries: MG03ACA\nModel: MG03ACA200\nPackaging: Bare Drive\n\n\nPerformance\nInterface: SATA 6.0Gb/s\nCapacity: 2TB\nRPM: 7200 RPM\nCache: 64MB\nAverage Seek Time: 8.5ms\nAverage Write Time: 9.5ms\nAverage Latency: 4.17ms\n\n\nFeatures\nFeatures: 24x7 Operation\nError Correction Code\nOptional Fast and Secure Cryptographic Erase SED Function\nUsage: For Power Computing\n\n\nDimensions\nForm Factor: 3.5\"\nHeight (maximum): 1\"\nWidth (maximum): 4\"\nLength (maximum): 5.78\"",
   "Price": 69.00,
   "Features": [
+    "7200rpm",
+    "64mb",
     "SATA 3",
     "6 Gbps"
   ],
   "Date": "2023-07-09T16:45:29.3179876-04:00",
-  "Update": "2023-07-09T22:12:27.9953545-04:00",
+  "Update": "2023-07-27T08:17:37.3781616-04:00",
   "Discount": 0.0,
   "Label": "HDD 3.5 Toshiba 2TB"
 }
