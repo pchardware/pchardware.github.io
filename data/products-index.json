@@ -1219,6 +1219,16 @@
         "Update": "2023-07-26T21:07:00.8014901-04:00",
         "Discount": 0.0,
         "Label": "HDD 3.5 Seagate Enterprise 6TB"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "SATA3"
+        ],
+        "Date": "2023-07-26T16:42:06.8492862-04:00",
+        "Update": "2023-07-26T21:33:12.725553-04:00",
+        "Discount": 0.0,
+        "Label": "HDD 3.5 Seagate Pipeline 2TB"
       }
     ],
     "Disipador Líquido": [
@@ -1570,6 +1580,14 @@
         "Update": "2023-07-18T00:35:15.5906845-04:00",
         "Discount": 0.0,
         "Label": "Enfriamiento AMD Wraith Stealth"
+      },
+      {
+        "Price": 61.00,
+        "Features": [],
+        "Date": "2023-07-26T18:49:40.2918309-04:00",
+        "Update": "2023-07-26T21:33:12.7325182-04:00",
+        "Discount": 0.0,
+        "Label": "Enfriamiento Thermaltake UX200 SE"
       }
     ],
     "Red": [
