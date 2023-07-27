@@ -1,0 +1,20 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/xfx-swft-309-rx-6700-10gb-1.webp",
+    "/images/products/xfx-swft-309-rx-6700-10gb-2.webp",
+    "/images/products/xfx-swft-309-rx-6700-10gb-3.webp",
+    "/images/products/xfx-swft-309-rx-6700-10gb-4.webp",
+    "/images/products/xfx-swft-309-rx-6700-10gb-5.webp",
+    "/images/products/xfx-swft-309-rx-6700-10gb-6.webp",
+    "/images/products/xfx-swft-309-rx-6700-10gb-7.webp"
+  ],
+  "Description": "Model\nBrand: XFX\nSeries: SPEEDSTER SWFT309\nModel: RX-67XLKWFDV\n\n\nInterface\nInterface: PCI Express 4.0 x16\n\n\nChipset\nChipset Manufacturer: AMD\nGPU Series: AMD Radeon RX 6000 Series\nGPU: Radeon RX 6700\nCore Clock: 2132 MHz\nBoost Clock: 2425 MHz\nStream Processors: 2304 Stream Processors\n\n\nMemory\nEffective Memory Clock: 16 Gbps\nMemory Size: 10GB\nMemory Interface: 160-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12 Ultimate\n\n\nPorts\nHDMI: 1 x HDMI 2.1\nDisplayPort: 3 x DisplayPort 1.4\n\n\nDetails\nMax Resolution: 7680 x 4320\nVirtual Reality Ready: Yes\nCooler: Triple Fans\nThermal Design Power: 175W\nRecommended PSU Wattage: 650W\nPower Connector: 2 x 8-Pin\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 304 mm\nCard Dimensions (L x H): 11.97\" x 4.84\"\nSlot Width: 2 Slots\n\n\nPackaging\nPackage Contents: Manual",
+  "Price": 345.00,
+  "Features": [],
+  "Date": "2023-07-26T16:40:52.2609256-04:00",
+  "Update": "2023-07-27T06:47:19.126625-04:00",
+  "Discount": 0.0,
+  "Label": "XFX Swft 309 RX 6700 10GB"
+}
