@@ -468,6 +468,18 @@
         "Update": "2023-07-27T10:06:16.3562912-04:00",
         "Discount": 0.0,
         "Label": "DDR5 Team T-CREATE EXPERT 32GB 6000mhz"
+      },
+      {
+        "Price": 89.0,
+        "Features": [
+          "2x8GB",
+          "Disipadas",
+          "CL18"
+        ],
+        "Date": "2023-03-30T09:56:45.7624715-04:00",
+        "Update": "2023-07-27T11:39:36.4701683-04:00",
+        "Discount": 0.0,
+        "Label": "DDR4 Corsair Vengeance RGB RS 16GB 3600mhz"
       }
     ],
     "Chasis": [
