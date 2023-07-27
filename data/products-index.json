@@ -429,18 +429,6 @@
         "Label": "Cooler Fan Corsair Vengance LPX"
       },
       {
-        "Price": 79.0,
-        "Features": [
-          "2x8GB",
-          "White",
-          "Disipadas"
-        ],
-        "Date": "2023-02-17T19:36:51.2276383-05:00",
-        "Update": "2023-06-19T09:35:04.323797-04:00",
-        "Discount": 0.0,
-        "Label": "DDR4 Team T-Force Delta RGB 16GB 3600mhz"
-      },
-      {
         "Price": 25.0,
         "Features": [
           "1x8GB",
@@ -450,39 +438,6 @@
         "Update": "2023-06-19T09:35:04.3330407-04:00",
         "Discount": 0.0,
         "Label": "DDR4 Patriot Viper 8GB 3200mhz"
-      },
-      {
-        "Price": 69.0,
-        "Features": [
-          "2x8GB",
-          "Disipadas"
-        ],
-        "Date": "2023-03-30T09:56:53.3379201-04:00",
-        "Update": "2023-06-19T09:35:04.342246-04:00",
-        "Discount": 0.0,
-        "Label": "DDR4 Patriot Viper Elite II 16GB 4000mhz"
-      },
-      {
-        "Price": 79.0,
-        "Features": [
-          "2x8GB",
-          "Disipadas"
-        ],
-        "Date": "2023-03-30T09:56:49.769494-04:00",
-        "Update": "2023-06-19T09:35:04.3771225-04:00",
-        "Discount": 0.0,
-        "Label": "DDR4 GeIL ORION RGB 16GB 3600mhz"
-      },
-      {
-        "Price": 85.0,
-        "Features": [
-          "2x8GB",
-          "Disipadas"
-        ],
-        "Date": "2023-03-30T09:55:59.2434323-04:00",
-        "Update": "2023-06-19T09:35:04.3831244-04:00",
-        "Discount": 0.0,
-        "Label": "DDR4 GeIL ORION RGB 16GB 4000mhz"
       },
       {
         "Price": 79.0,
@@ -496,13 +451,64 @@
         "Label": "DDR4 XPG SPECTRIX D45G RGB 16GB 3600mhz"
       },
       {
+        "Price": 79.0,
+        "Features": [
+          "2x8GB",
+          "White",
+          "Disipadas",
+          "CL18",
+          "Blanco"
+        ],
+        "Date": "2023-02-17T19:36:51.2276383-05:00",
+        "Update": "2023-07-27T10:06:16.1955424-04:00",
+        "Discount": 0.0,
+        "Label": "DDR4 Team T-Force Delta RGB 16GB 3600mhz"
+      },
+      {
+        "Price": 69.0,
+        "Features": [
+          "2x8GB",
+          "Disipadas",
+          "CL20"
+        ],
+        "Date": "2023-03-30T09:56:53.3379201-04:00",
+        "Update": "2023-07-27T10:06:16.2039855-04:00",
+        "Discount": 0.0,
+        "Label": "DDR4 Patriot Viper Elite II 16GB 4000mhz"
+      },
+      {
+        "Price": 79.0,
+        "Features": [
+          "2x8GB",
+          "Disipadas",
+          "CL18"
+        ],
+        "Date": "2023-03-30T09:56:49.769494-04:00",
+        "Update": "2023-07-27T10:06:16.2131599-04:00",
+        "Discount": 0.0,
+        "Label": "DDR4 GeIL ORION RGB 16GB 3600mhz"
+      },
+      {
+        "Price": 85.0,
+        "Features": [
+          "2x8GB",
+          "Disipadas",
+          "CL18"
+        ],
+        "Date": "2023-03-30T09:55:59.2434323-04:00",
+        "Update": "2023-07-27T10:06:16.220988-04:00",
+        "Discount": 0.0,
+        "Label": "DDR4 GeIL ORION RGB 16GB 4000mhz"
+      },
+      {
         "Price": 89.0,
         "Features": [
           "2x8GB",
-          "Disipadas"
+          "Disipadas",
+          "CL16"
         ],
         "Date": "2023-03-30T09:55:40.6507732-04:00",
-        "Update": "2023-06-19T09:35:04.4634591-04:00",
+        "Update": "2023-07-27T10:06:16.2283789-04:00",
         "Discount": 0.0,
         "Label": "DDR4 Corsair Vengeance RGB RT 16GB 3600mhz"
       },
@@ -510,10 +516,11 @@
         "Price": 109.0,
         "Features": [
           "2x16GB",
-          "Disipadas"
+          "Disipadas",
+          "CL16"
         ],
         "Date": "2023-03-30T09:55:42.6288205-04:00",
-        "Update": "2023-06-19T09:35:04.4946083-04:00",
+        "Update": "2023-07-27T10:06:16.237127-04:00",
         "Discount": 0.0,
         "Label": "DDR4 G.Skill Ripjaws V 32GB 3600mhz"
       },
@@ -521,10 +528,11 @@
         "Price": 245.00,
         "Features": [
           "2x32GB",
-          "Disipadas"
+          "Disipadas",
+          "CL40"
         ],
         "Date": "2023-03-30T09:56:14.691824-04:00",
-        "Update": "2023-06-19T09:35:04.5153139-04:00",
+        "Update": "2023-07-27T10:06:16.2436237-04:00",
         "Discount": 0.0,
         "Label": "DDR5 Corsair Vengeance RGB 64GB 5200mhz"
       },
@@ -532,10 +540,11 @@
         "Price": 215.00,
         "Features": [
           "2x32GB",
-          "Disipadas"
+          "Disipadas",
+          "CL40"
         ],
         "Date": "2023-05-11T08:36:35.2792015-04:00",
-        "Update": "2023-06-19T09:35:04.5235167-04:00",
+        "Update": "2023-07-27T10:06:16.2501623-04:00",
         "Discount": 0.0,
         "Label": "DDR5 Corsair Vengeance 64GB 5200mhz"
       },
@@ -543,10 +552,11 @@
         "Price": 179.00,
         "Features": [
           "2x24GB",
-          "Disipadas"
+          "Disipadas",
+          "CL40"
         ],
         "Date": "2023-05-11T08:37:27.4728146-04:00",
-        "Update": "2023-06-19T09:35:04.5310114-04:00",
+        "Update": "2023-07-27T10:06:16.2570921-04:00",
         "Discount": 0.0,
         "Label": "DDR5 Corsair Vengeance RGB 48GB 5600mhz"
       },
@@ -554,10 +564,11 @@
         "Price": 129.00,
         "Features": [
           "2x16GB",
-          "Disipadas"
+          "Disipadas",
+          "CL36"
         ],
         "Date": "2023-05-11T08:36:03.7462691-04:00",
-        "Update": "2023-06-19T09:35:04.5387204-04:00",
+        "Update": "2023-07-27T10:06:16.2642602-04:00",
         "Discount": 0.0,
         "Label": "DDR5 Corsair Vengeance 32GB 6000mhz"
       },
@@ -565,10 +576,11 @@
         "Price": 145.00,
         "Features": [
           "2x16GB",
-          "Disipadas"
+          "Disipadas",
+          "CL36"
         ],
         "Date": "2023-03-30T09:56:12.5688722-04:00",
-        "Update": "2023-06-19T09:35:04.5461316-04:00",
+        "Update": "2023-07-27T10:06:16.2723892-04:00",
         "Discount": 0.0,
         "Label": "DDR5 Corsair Vengeance RGB 32GB 6000mhz"
       },
@@ -576,10 +588,11 @@
         "Price": 159.00,
         "Features": [
           "2x16GB",
-          "Disipadas"
+          "Disipadas",
+          "CL38"
         ],
         "Date": "2023-05-11T08:37:02.3477958-04:00",
-        "Update": "2023-06-19T09:35:04.554713-04:00",
+        "Update": "2023-07-27T10:06:16.2804757-04:00",
         "Discount": 0.0,
         "Label": "DDR5 Corsair Vengeance RGB 32GB 6400mhz"
       },
@@ -587,10 +600,11 @@
         "Price": 109.0,
         "Features": [
           "2x16GB",
-          "Disipadas"
+          "Disipadas",
+          "CL16"
         ],
         "Date": "2023-03-30T09:55:44.4799768-04:00",
-        "Update": "2023-06-19T09:35:04.5628785-04:00",
+        "Update": "2023-07-27T10:06:16.2885923-04:00",
         "Discount": 0.0,
         "Label": "DDR4 G.Skill Sniper X 32GB 3600mhz"
       },
@@ -598,10 +612,11 @@
         "Price": 149.00,
         "Features": [
           "2x16GB",
-          "Disipadas"
+          "Disipadas",
+          "CL36"
         ],
         "Date": "2023-05-11T08:37:56.7258334-04:00",
-        "Update": "2023-06-19T09:35:04.5718936-04:00",
+        "Update": "2023-07-27T10:06:16.3084185-04:00",
         "Discount": 0.0,
         "Label": "DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       },
@@ -609,10 +624,11 @@
         "Price": 165.00,
         "Features": [
           "2x16GB",
-          "Disipadas"
+          "Disipadas",
+          "CL32"
         ],
         "Date": "2023-06-19T07:47:31.4126097-04:00",
-        "Update": "2023-06-19T09:35:04.6107225-04:00",
+        "Update": "2023-07-27T10:06:16.3204448-04:00",
         "Discount": 0.0,
         "Label": "DDR5 G.Skill Trident Z5 RGB 32GB 6400mhz"
       },
@@ -620,50 +636,61 @@
         "Price": 69.0,
         "Features": [
           "2x8GB",
-          "Disipadas"
+          "Disipadas",
+          "CL19"
         ],
         "Date": "2023-07-17T23:38:49.930694-04:00",
-        "Update": "2023-07-18T00:35:15.5032934-04:00",
+        "Update": "2023-07-27T10:06:16.3299581-04:00",
         "Discount": 0.0,
-        "Label": "DDR4 G.SKILL Ripjaws V 16GB 3600mhz"
+        "Label": "DDR4 G.Skill Ripjaws V 16GB 3600mhz"
       },
       {
         "Price": 119.00,
         "Features": [
           "2x16GB",
-          "Disipadas"
+          "Disipadas",
+          "CL32"
         ],
         "Date": "2023-07-17T23:38:59.1422699-04:00",
-        "Update": "2023-07-18T00:35:15.5092246-04:00",
+        "Update": "2023-07-27T10:06:16.3358758-04:00",
         "Discount": 0.0,
-        "Label": "DDR5 G.SKILL Ripjaws S5 Series 32GB 6400mhz"
+        "Label": "DDR5 G.Skill Ripjaws S5 Series 32GB 6400mhz"
       },
       {
         "Price": 135.00,
         "Features": [
           "2x16GB",
-          "Disipadas"
+          "Disipadas",
+          "CL32"
         ],
         "Date": "2023-07-17T23:39:03.8750592-04:00",
-        "Update": "2023-07-18T00:35:15.5219184-04:00",
+        "Update": "2023-07-27T10:06:16.341813-04:00",
         "Discount": 0.0,
         "Label": "DDR5 XPG Lancer 32GB 6400mhz"
       },
       {
         "Price": 125.00,
-        "Features": [],
+        "Features": [
+          "2x16GB",
+          "Disipadas",
+          "CL38"
+        ],
         "Date": "2023-07-26T16:41:33.8367838-04:00",
-        "Update": "2023-07-27T06:47:52.5214425-04:00",
+        "Update": "2023-07-27T10:06:16.3488091-04:00",
         "Discount": 0.0,
-        "Label": "DDR5 Team T-Force Delta RGB 32GB (2x16GB) 6000mhz"
+        "Label": "DDR5 Team T-Force Delta RGB 32GB 6000mhz"
       },
       {
         "Price": 109.00,
-        "Features": [],
+        "Features": [
+          "2x16",
+          "Disipadas",
+          "CL38"
+        ],
         "Date": "2023-07-26T16:41:38.5061459-04:00",
-        "Update": "2023-07-27T06:47:52.5363947-04:00",
+        "Update": "2023-07-27T10:06:16.3562912-04:00",
         "Discount": 0.0,
-        "Label": "DDR5 Team T-CREATE EXPERT 32GB (2x16GB) 6000mhz"
+        "Label": "DDR5 Team T-CREATE EXPERT 32GB 6000mhz"
       }
     ],
     "Chasis": [
