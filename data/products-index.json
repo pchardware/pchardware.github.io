@@ -270,198 +270,6 @@
         "Label": "MSI Mech Radeon RX 6750 XT 12GB"
       }
     ],
-    "Fuente": [
-      {
-        "Price": 135.00,
-        "Features": [
-          "80+ Bronze",
-          "Modular",
-          "750W",
-          "62A",
-          "4x 6+2-Pin",
-          "8x SATA"
-        ],
-        "Date": "2023-04-15T07:27:10.1467554-04:00",
-        "Update": "2023-06-01T10:49:59.6851837-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente Corsair CX750M"
-      },
-      {
-        "Price": 169.00,
-        "Features": [
-          "80+ Bronze",
-          "Modular",
-          "850W",
-          "70A",
-          "3x 6-Pin",
-          "3x 6+2-Pin",
-          "10x SATA"
-        ],
-        "Date": "2023-05-11T14:26:41.8517332-04:00",
-        "Update": "2023-06-01T10:49:59.6983636-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente EVGA 850 BQ"
-      },
-      {
-        "Price": 85.00,
-        "Features": [
-          "35A",
-          "2x 6+2 Pin",
-          "6x SATA"
-        ],
-        "Date": "2023-05-12T07:54:08.9581203-04:00",
-        "Update": "2023-06-01T10:49:59.78327-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente Thermaltake Smart 500W 80+"
-      },
-      {
-        "Price": 209.00,
-        "Features": [
-          "80+ Gold",
-          "Full Modular",
-          "ATX 3.0",
-          "71A",
-          "3x 8-Pin",
-          "5x SATA"
-        ],
-        "Date": "2023-05-11T14:26:27.9739641-04:00",
-        "Update": "2023-06-07T10:07:15.7472756-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente Asus TUF 850W"
-      },
-      {
-        "Price": 285.00,
-        "Features": [
-          "80+ Gold",
-          "Full Modular",
-          "1000W",
-          "83A",
-          "8x 6+2-Pin",
-          "11x SATA"
-        ],
-        "Date": "2023-04-15T07:27:11.3654492-04:00",
-        "Update": "2023-06-07T16:28:39.1336472-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente Corsair RM1000X"
-      },
-      {
-        "Price": 85.00,
-        "Features": [
-          "juego de cables"
-        ],
-        "Date": "2023-06-07T13:43:16.5137084-04:00",
-        "Update": "2023-06-07T16:28:39.1999253-04:00",
-        "Discount": 0.0,
-        "Label": "Corsair Cable Kit Blue"
-      },
-      {
-        "Price": 199.00,
-        "Features": [
-          "Fully Modular",
-          "80+ Gold",
-          "850W",
-          "71A",
-          "3x 6+2-Pin",
-          "7x SATA"
-        ],
-        "Date": "2023-06-07T13:43:20.159516-04:00",
-        "Update": "2023-06-07T16:28:39.2042236-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente Corsair RM850e"
-      },
-      {
-        "Price": 85.00,
-        "Features": [
-          "juego de cables"
-        ],
-        "Date": "2023-06-07T15:05:59.7677961-04:00",
-        "Update": "2023-06-07T16:28:39.2146787-04:00",
-        "Discount": 0.0,
-        "Label": "Corsair Cable Kit Red"
-      },
-      {
-        "Price": 115.00,
-        "Features": [
-          "54A",
-          "2x 6+2 Pin",
-          "6x SATA"
-        ],
-        "Date": "2023-06-29T07:39:33.0518165-04:00",
-        "Update": "2023-06-29T11:38:59.2679062-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente Thermaltake Smart 700W 80+"
-      },
-      {
-        "Price": 159.00,
-        "Features": [
-          "Fully Modular",
-          "80+ Gold",
-          "850W",
-          "71A",
-          "4x 6+2-Pin",
-          "9x SATA"
-        ],
-        "Date": "2023-06-29T07:39:28.1211607-04:00",
-        "Update": "2023-06-29T16:09:59.9682123-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente Rosewill CMG850"
-      },
-      {
-        "Price": 95.00,
-        "Features": [
-          "80+",
-          "42A",
-          "2x 6+2-Pin",
-          "6x SATA"
-        ],
-        "Date": "2023-04-15T07:27:14.991735-04:00",
-        "Update": "2023-07-12T21:22:46.7112359-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente Thermaltake SMART 600W"
-      },
-      {
-        "Price": 109.00,
-        "Features": [
-          "700W",
-          "80+ Bronze",
-          "4x 6+2",
-          "46A",
-          "5x SATA"
-        ],
-        "Date": "2023-07-09T16:51:14.2364929-04:00",
-        "Update": "2023-07-13T07:57:15.0381705-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente Raidmax Cobra RX-700AC-B"
-      },
-      {
-        "Price": 215.00,
-        "Features": [
-          "80+ PLATINUM",
-          "Full Modular",
-          "71A",
-          "2x 8-Pin",
-          "14x SATA"
-        ],
-        "Date": "2023-07-17T23:37:46.1740196-04:00",
-        "Update": "2023-07-18T00:35:15.4778424-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente Corsair HX850"
-      },
-      {
-        "Price": 149.00,
-        "Features": [
-          "80+ Gold",
-          "800W",
-          "67A",
-          "4x 6+2-Pin",
-          "8x SATA"
-        ],
-        "Date": "2023-07-12T21:42:43.1904262-04:00",
-        "Update": "2023-07-18T09:01:19.2698567-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente EVGA 800 GE"
-      }
-    ],
     "Otros": [
       {
         "Price": 85.00,
@@ -1452,6 +1260,209 @@
         "Update": "2023-06-29T11:38:59.2175286-04:00",
         "Discount": 0.0,
         "Label": "D.Líquida Cooler Master MasterLiquid ML360L V2 ARGB"
+      }
+    ],
+    "Fuente": [
+      {
+        "Price": 85.00,
+        "Features": [
+          "juego de cables"
+        ],
+        "Date": "2023-06-07T13:43:16.5137084-04:00",
+        "Update": "2023-06-07T16:28:39.1999253-04:00",
+        "Discount": 0.0,
+        "Label": "Corsair Cable Kit Blue"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "juego de cables"
+        ],
+        "Date": "2023-06-07T15:05:59.7677961-04:00",
+        "Update": "2023-06-07T16:28:39.2146787-04:00",
+        "Discount": 0.0,
+        "Label": "Corsair Cable Kit Red"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "80+ Bronze",
+          "Modular",
+          "750W",
+          "62A",
+          "4x 6+2-Pin",
+          "8x SATA",
+          "1x 4+4 EPS"
+        ],
+        "Date": "2023-04-15T07:27:10.1467554-04:00",
+        "Update": "2023-07-27T09:58:48.4383658-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente Corsair CX750M"
+      },
+      {
+        "Price": 169.00,
+        "Features": [
+          "80+ Bronze",
+          "Modular",
+          "850W",
+          "70A",
+          "2x 4+4 EPS",
+          "10x SATA",
+          "3x 6-Pin",
+          "3x 6+2-Pin"
+        ],
+        "Date": "2023-05-11T14:26:41.8517332-04:00",
+        "Update": "2023-07-27T09:58:48.4496765-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente EVGA 850 BQ"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "35A",
+          "2x 6+2 Pin",
+          "6x SATA",
+          "1x 4+4 EPS"
+        ],
+        "Date": "2023-05-12T07:54:08.9581203-04:00",
+        "Update": "2023-07-27T09:58:48.4581796-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente Thermaltake SMART 500W 80+"
+      },
+      {
+        "Price": 209.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "ATX 3.0",
+          "71A",
+          "3x 8-Pin",
+          "5x SATA",
+          "2x 4+4 EPS"
+        ],
+        "Date": "2023-05-11T14:26:27.9739641-04:00",
+        "Update": "2023-07-27T09:58:48.4645451-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente Asus TUF 850W"
+      },
+      {
+        "Price": 285.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "1000W",
+          "83A",
+          "8x 6+2-Pin",
+          "11x SATA",
+          "2x 4+4 EPS"
+        ],
+        "Date": "2023-04-15T07:27:11.3654492-04:00",
+        "Update": "2023-07-27T09:58:48.4709384-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente Corsair RM1000X"
+      },
+      {
+        "Price": 199.00,
+        "Features": [
+          "Fully Modular",
+          "80+ Gold",
+          "850W",
+          "71A",
+          "3x 6+2 Pin",
+          "7x SATA",
+          "2x 4+4 EPS"
+        ],
+        "Date": "2023-06-07T13:43:20.159516-04:00",
+        "Update": "2023-07-27T09:58:48.4770496-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente Corsair RM850e"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "54A",
+          "2x 6+2 Pin",
+          "6x SATA",
+          "1x 4+4 EPS"
+        ],
+        "Date": "2023-06-29T07:39:33.0518165-04:00",
+        "Update": "2023-07-27T09:58:48.4831848-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente Thermaltake Smart 700W 80+"
+      },
+      {
+        "Price": 159.00,
+        "Features": [
+          "Fully Modular",
+          "80+ Gold",
+          "850W",
+          "71A",
+          "4x 6+2-Pin",
+          "9x SATA",
+          "2x 4+4 EPS"
+        ],
+        "Date": "2023-06-29T07:39:28.1211607-04:00",
+        "Update": "2023-07-27T09:58:48.490199-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente Rosewill CMG850"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "42A",
+          "2x 6+2-Pin",
+          "6x SATA",
+          "1x 4+4 EPS"
+        ],
+        "Date": "2023-04-15T07:27:14.991735-04:00",
+        "Update": "2023-07-27T09:58:48.4978398-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente Thermaltake SMART 600W 80+"
+      },
+      {
+        "Price": 109.00,
+        "Features": [
+          "700W",
+          "80+ Bronze",
+          "4x 6+2",
+          "46A",
+          "5x SATA",
+          "1x 4+4 EPS"
+        ],
+        "Date": "2023-07-09T16:51:14.2364929-04:00",
+        "Update": "2023-07-27T09:58:48.504347-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente Raidmax Cobra RX-700AC-B"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "80+ PLATINUM",
+          "Full Modular",
+          "71A",
+          "2x 8-Pin",
+          "14x SATA",
+          "3x 4+4 EPS"
+        ],
+        "Date": "2023-07-17T23:37:46.1740196-04:00",
+        "Update": "2023-07-27T09:58:48.5106377-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente Corsair HX850"
+      },
+      {
+        "Price": 149.00,
+        "Features": [
+          "80+ Gold",
+          "800W",
+          "67A",
+          "4x 6+2-Pin",
+          "8x SATA",
+          "2x 4+4 EPS"
+        ],
+        "Date": "2023-07-12T21:42:43.1904262-04:00",
+        "Update": "2023-07-27T09:58:48.5177287-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente EVGA 800 GE"
       }
     ],
     "Red": [
