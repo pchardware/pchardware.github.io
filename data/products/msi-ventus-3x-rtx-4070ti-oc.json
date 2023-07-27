@@ -17,11 +17,14 @@
   "Features": [
     "3xFan",
     "12GB",
+    "1x16Pin",
+    "750W",
     "GeForce",
-    "NVIDIA"
+    "NVIDIA",
+    "GPU"
   ],
   "Date": "2023-05-11T13:47:38.0164911-04:00",
-  "Update": "2023-06-19T09:35:04.410594-04:00",
+  "Update": "2023-07-27T10:54:59.7600811-04:00",
   "Discount": 0.0,
   "Label": "MSI Ventus 3X RTX 4070Ti OC"
 }
