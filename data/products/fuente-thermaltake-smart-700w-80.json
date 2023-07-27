@@ -15,10 +15,11 @@
   "Features": [
     "54A",
     "2x 6+2 Pin",
-    "6x SATA"
+    "6x SATA",
+    "1x 4+4 EPS"
   ],
   "Date": "2023-06-29T07:39:33.0518165-04:00",
-  "Update": "2023-06-29T11:38:59.2679062-04:00",
+  "Update": "2023-07-27T09:58:48.4831848-04:00",
   "Discount": 0.0,
   "Label": "Fuente Thermaltake Smart 700W 80+"
 }
