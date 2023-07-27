@@ -14,11 +14,14 @@
   "Features": [
     "3xFan",
     "8GB",
+    "2x8Pin",
+    "750WR",
     "GeForce",
-    "NVIDIA"
+    "NVIDIA",
+    "GPU"
   ],
   "Date": "2023-05-11T13:41:35.5997368-04:00",
-  "Update": "2023-06-19T09:35:04.4036275-04:00",
+  "Update": "2023-07-27T10:54:59.7530593-04:00",
   "Discount": 0.0,
   "Label": "Zotac Gaming RTX 3070Ti"
 }
