@@ -13,20 +13,22 @@
     "/images/products/chasis-rosewill-nighthawk-117-9.webp",
     "/images/products/chasis-rosewill-nighthawk-117-10.webp"
   ],
-  "Description": "Model\nBrand: Rosewill\nModel: NIGHTHAWK 117\n\n\nDetails\nType: ATX Full Tower\nColor: Black\nCase Material: Steel / Plastic\nWith Power Supply: No\nPower Supply Mounted: Bottom\nMotherboard Compatibility: Micro ATX / ATX / Mini ITX / E-ATX\nSide Panel Window: Yes\nLED: Blue\nDust Filters: Bottom\n\n\nExpansion\nExternal 5.25\" Drive Bays: 3\nInternal 3.5\" Drive Bays: 8 (0)\nInternal 2.5\" Drive Bays: 0 (8)\nExpansion Slots: 10\n\n\nFront Panel Ports\nFront Ports: 2 x USB 3.0 / 4 x USB 2.0 / Audio In/Out / Fan Speed Control / 3.5\" & 2.5\" HDD Dock\n\n\nCooling System\nFan Options: Top: 2 x 120 / 140mm Fan (2 x 140mm Blue LED fan pre-installed)\n\nFront: 2 x 120 / 140mm Fan (2 x 140mm fan pre-installed)\n\nRear: 1 x 120 / 140mm Fan (1 x 140mm fan pre-installed)\n\nBottom: 1 x 120 / 140mm Fan (optional)\n\n\nDimensions & Weight\nMax GPU Length: 420 mm\nMax CPU Cooler Height: 180 mm\nDimensions (H x W x D): 23.23\" x 9.13\" x 22.24\"\nWeight: 18.00 lbs.\n\n\nAdditional Info\nFeatures: NOTICE: Please make sure your motherboard is equipped with on-board USB 3.0 sockets before purchasing.\n\nATX Full Tower Gaming Computer Case with Side Panel Window\n\nMicro ATX / ATX / Mini ITX / E-ATX Motherboard Compatibility \n\nSupports up to 180mm High CPU Cooler\n\nSupports up to 280mm Long Liquid-cooling Radiator on Top\n\nTool-less Design Installation for 5.25\" and 3.5\" Devices\n\nTotal 8 HDD Trays Support Both 3.5\" and 2.5\"\n\nEasy-Access Dust Filter\n\nDesigned with Top Fins to Allow Maximum Air Flow\n\nCooling System:\nTop - 2 x 120 / 140mm Fan (2 x 140mm Blue LED fan pre-installed)\nFront - 2 x 120 / 140mm Fan (2 x 140mm Fan pre-installed)\nRear - 1 x 120 / 140mm Fan (1 x 140mm Fan pre-installed)\nBottom - 1 x 120 / 140mm Fan (optional)",
+  "Description": "Model\nBrand: Rosewill\nModel: NIGHTHAWK 117\n\n\nDetails\nType: ATX Full Tower\nColor: Black\nCase Material: Steel / Plastic\nWith Power Supply: No\nPower Supply Mounted: Bottom\nMotherboard Compatibility: Micro ATX / ATX / Mini ITX / E-ATX\nSide Panel Window: Yes\nLED: Blue\nDust Filters: Bottom\n\n\nExpansion\nExternal 5.25\" Drive Bays: 3\nInternal 3.5\" Drive Bays: 8 (0)\nInternal 2.5\" Drive Bays: 0 (8)\nExpansion Slots: 10\n\n\nFront Panel Ports\nFront Ports: 2 x USB 3.0 / 4 x USB 2.0 / Audio In/Out / Fan Speed Control / 3.5\" & 2.5\" HDD Dock\n\n\nCooling System\nFan Options: Top: 2 x 120 / 140mm Fan (2 x 140mm Blue LED fan pre-installed)\n\nFront: 2 x 120 / 140mm Fan (2 x 140mm fan pre-installed)\n\nRear: 1 x 120 / 140mm Fan (1 x 140mm fan pre-installed)\n\nBottom: 1 x 120 / 140mm Fan (optional)\n\n\nDimensions & Weight\nMax GPU Length: 420 mm\nMax CPU Cooler Height: 180 mm\nDimensions (H x W x D): 23.23\" x 9.13\" x 22.24\"\n\n\nAdditional Info\nFeatures: NOTICE: Please make sure your motherboard is equipped with on-board USB 3.0 sockets before purchasing.\n\nATX Full Tower Gaming Computer Case with Side Panel Window\n\nMicro ATX / ATX / Mini ITX / E-ATX Motherboard Compatibility \n\nSupports up to 180mm High CPU Cooler\n\nSupports up to 280mm Long Liquid-cooling Radiator on Top\n\nTool-less Design Installation for 5.25\" and 3.5\" Devices\n\nTotal 8 HDD Trays Support Both 3.5\" and 2.5\"\n\nEasy-Access Dust Filter\n\nDesigned with Top Fins to Allow Maximum Air Flow\n\nCooling System:\nTop - 2 x 120 / 140mm Fan (2 x 140mm Blue LED fan pre-installed)\nFront - 2 x 120 / 140mm Fan (2 x 140mm Fan pre-installed)\nRear - 1 x 120 / 140mm Fan (1 x 140mm Fan pre-installed)\nBottom - 1 x 120 / 140mm Fan (optional)",
   "Price": 295.00,
   "Features": [
-    "8x HDD 3.5",
-    "4x USB",
+    "8xHDD",
+    "5xFan",
+    "4xUSB",
     "Docking",
-    "Black",
-    "Gamer",
     "Full Tower",
+    "LED",
+    "Gamer",
     "ATX",
-    "E-ATX"
+    "E-ATX",
+    "Negro"
   ],
   "Date": "2023-07-13T11:31:56.8717751-04:00",
-  "Update": "2023-07-13T12:01:33.7752908-04:00",
+  "Update": "2023-07-27T07:54:42.9549049-04:00",
   "Discount": 0.0,
   "Label": "Chasis Rosewill NIGHTHAWK 117"
 }
