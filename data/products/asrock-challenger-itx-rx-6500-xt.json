@@ -12,11 +12,13 @@
   "Features": [
     "4GB",
     "1xFan",
+    "400WR",
     "Radeon",
-    "AMD"
+    "AMD",
+    "GPU"
   ],
   "Date": "2023-07-09T16:45:07.237632-04:00",
-  "Update": "2023-07-16T07:50:06.8689489-04:00",
+  "Update": "2023-07-27T10:54:59.8084655-04:00",
   "Discount": 0.0,
   "Label": "ASRock Challenger ITX RX 6500 XT"
 }
