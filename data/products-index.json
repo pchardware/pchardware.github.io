@@ -1907,15 +1907,19 @@
         "Price": 155.00,
         "Features": [
           "12va-13ra",
-          "4xSATA",
           "6xUSB",
           "DDR4",
           "4800mhz",
+          "4xSATA",
           "LGA 1700",
-          "Micro ATX"
+          "Micro ATX",
+          "PS2",
+          "HDMI",
+          "DisplayPort",
+          "3xAudio"
         ],
         "Date": "2023-02-17T09:47:30.747913-05:00",
-        "Update": "2023-07-18T17:01:41.5598537-04:00",
+        "Update": "2023-07-27T07:36:15.5097159-04:00",
         "Discount": 0.0,
         "Label": "ASRock B660M PRO RS"
       },
@@ -1923,15 +1927,19 @@
         "Price": 375.00,
         "Features": [
           "12va-13ra",
-          "6xSATA",
           "10xUSB",
           "DDR5",
+          "Wifi",
+          "6xAudio",
+          "6xSATA",
           "6400mhz",
           "LGA 1700",
-          "ATX"
+          "ATX",
+          "DisplayPort",
+          "HDMI"
         ],
         "Date": "2023-05-11T07:51:07.1403838-04:00",
-        "Update": "2023-07-18T17:01:41.587718-04:00",
+        "Update": "2023-07-27T07:36:15.5166602-04:00",
         "Discount": 0.0,
         "Label": "Asus ROG Strix Z690-E Gaming Wifi"
       },
@@ -1939,15 +1947,19 @@
         "Price": 199.00,
         "Features": [
           "12va-13ra",
-          "4xSATA",
+          "Dual Lan",
           "8xUSB",
+          "6xAudio",
           "DDR4",
           "5333mhz",
+          "4xSATA",
           "LGA 1700",
-          "ATX"
+          "ATX",
+          "HDMI",
+          "DisplayPort"
         ],
         "Date": "2023-02-17T09:46:18.404887-05:00",
-        "Update": "2023-07-18T17:01:41.6057983-04:00",
+        "Update": "2023-07-27T07:36:15.523221-04:00",
         "Discount": 0.0,
         "Label": "Asus B660 ProArt Creator D4"
       },
@@ -1955,15 +1967,19 @@
         "Price": 389.00,
         "Features": [
           "12va-13ra",
-          "4xSATA",
-          "8xUSB",
           "DDR5",
           "7800mhz",
+          "8xUSB",
+          "Wifi",
+          "6xAudio",
+          "4xSATA",
           "LGA 1700",
-          "ATX"
+          "ATX",
+          "DisplayPort",
+          "HDMI"
         ],
         "Date": "2023-03-29T20:18:17.8757341-04:00",
-        "Update": "2023-07-18T17:01:41.6256624-04:00",
+        "Update": "2023-07-27T07:36:15.5366321-04:00",
         "Discount": 0.0,
         "Label": "Asus ROG Strix Z790-H Gaming Wifi"
       },
@@ -1971,16 +1987,18 @@
         "Price": 465.00,
         "Features": [
           "12va-13ra",
-          "6xSATA",
-          "8xUSB",
           "DDR5",
+          "8xUSB",
+          "Wifi",
+          "6xAudio",
+          "6xSATA",
           "6400mhz",
           "LGA 1700",
           "ATX",
-          "Wifi 6E"
+          "HDMI"
         ],
         "Date": "2023-06-19T07:50:08.4731323-04:00",
-        "Update": "2023-07-18T17:01:41.6449572-04:00",
+        "Update": "2023-07-27T07:36:15.5467743-04:00",
         "Discount": 0.0,
         "Label": "Asus ROG Maximus Z690 Hero"
       },
@@ -1988,15 +2006,20 @@
         "Price": 225.00,
         "Features": [
           "12va-13ra",
+          "DDR5",
+          "Wifi",
+          "6xAudio",
           "6xSATA",
           "7xUSB",
-          "DDR5",
           "6400mhz",
           "LGA 1700",
-          "ATX"
+          "ATX",
+          "PS2",
+          "DisplayPort",
+          "HDMI"
         ],
         "Date": "2023-06-29T07:38:21.8556469-04:00",
-        "Update": "2023-07-18T17:01:41.6625167-04:00",
+        "Update": "2023-07-27T07:36:15.5537156-04:00",
         "Discount": 0.0,
         "Label": "MSI PRO Z690-A Wifi"
       },
@@ -2004,15 +2027,19 @@
         "Price": 179.00,
         "Features": [
           "AM4",
-          "4xSATA",
+          "AMD",
           "8xUSB",
           "DDR4",
           "4733mhz",
+          "4xSATA",
           "Micro ATX",
-          "AMD"
+          "PS2",
+          "DVI",
+          "HDMI",
+          "3xAudio"
         ],
         "Date": "2023-06-29T07:38:57.1417711-04:00",
-        "Update": "2023-07-18T17:01:41.678471-04:00",
+        "Update": "2023-07-27T07:36:15.5611922-04:00",
         "Discount": 0.0,
         "Label": "Gigabyte B550M Aorus Elite"
       },
@@ -2020,15 +2047,19 @@
         "Price": 199.00,
         "Features": [
           "12va-13ra",
-          "4xSATA",
-          "8xUSB",
           "DDR5",
+          "8xUSB",
+          "Wifi",
           "7600mhz",
+          "4xSATA",
           "LGA 1700",
-          "Micro ATX"
+          "Micro ATX",
+          "HDMI",
+          "DisplayPort",
+          "3xAudio"
         ],
         "Date": "2023-06-29T07:39:17.5627753-04:00",
-        "Update": "2023-07-18T17:01:41.7101354-04:00",
+        "Update": "2023-07-27T07:36:15.5994416-04:00",
         "Discount": 0.0,
         "Label": "Gigabyte Aorus B760M Elite AX"
       },
@@ -2036,15 +2067,19 @@
         "Price": 249.00,
         "Features": [
           "12va-13ra",
-          "4xSATA",
-          "7xUSB",
           "DDR5",
+          "Wifi",
+          "6xAudio",
+          "7xUSB",
+          "4xSATA",
           "6400mhz",
           "LGA 1700",
-          "ATX"
+          "ATX",
+          "DisplayPort",
+          "HDMI"
         ],
         "Date": "2023-06-29T07:39:00.0628217-04:00",
-        "Update": "2023-07-18T17:01:41.7265407-04:00",
+        "Update": "2023-07-27T07:36:15.6072565-04:00",
         "Discount": 0.0,
         "Label": "MSI MAG Z690 Tomahawk Wifi"
       },
@@ -2052,15 +2087,21 @@
         "Price": 209.00,
         "Features": [
           "10ma-11na",
+          "Dual Lan",
+          "Wifi",
+          "6xAudio",
           "6xSATA",
           "5xUSB",
           "DDR4",
           "4800mhz",
           "LGA 1200",
-          "ATX"
+          "ATX",
+          "PS2",
+          "HDMI",
+          "DisplayPort"
         ],
         "Date": "2023-07-09T16:53:38.4898666-04:00",
-        "Update": "2023-07-18T17:01:41.7435915-04:00",
+        "Update": "2023-07-27T07:36:15.6136581-04:00",
         "Discount": 0.0,
         "Label": "ASRock Z590 Extreme Wifi 6E"
       },
@@ -2068,29 +2109,37 @@
         "Price": 199.00,
         "Features": [
           "AM4",
+          "AMD",
           "6xSATA",
           "6xUSB",
           "DDR4",
           "4733mhz",
           "ATX",
-          "AMD"
+          "PS2",
+          "DVI",
+          "HDMI",
+          "3xAudio"
         ],
         "Date": "2023-07-13T11:32:04.6371575-04:00",
-        "Update": "2023-07-18T17:01:41.765462-04:00",
+        "Update": "2023-07-27T07:36:15.6238273-04:00",
         "Discount": 0.0,
         "Label": "Gigabyte B550 Gaming X V2"
       },
       {
         "Price": 279.00,
         "Features": [
-          "12na y 13ra",
-          "4xSATA",
+          "12va-13ra",
+          "Wifi",
+          "6xAudio",
           "6xUSB",
+          "4xSATA",
           "6000mhz",
-          "LGA1700"
+          "LGA1700",
+          "HDMI",
+          "DisplayPort"
         ],
         "Date": "2023-05-11T07:56:36.6020035-04:00",
-        "Update": "2023-07-18T17:01:41.7978798-04:00",
+        "Update": "2023-07-27T07:36:15.6336734-04:00",
         "Discount": 0.0,
         "Label": "Asus TUF Z690-Plus Wifi DDR5"
       },
@@ -2098,15 +2147,19 @@
         "Price": 289.00,
         "Features": [
           "12va-13ra",
-          "6xSATA",
-          "8xUSB",
           "DDR5",
+          "Wifi",
+          "8xUSB",
+          "6xSATA",
           "6000mhz",
           "LGA 1700",
-          "ATX"
+          "ATX",
+          "DisplayPort",
+          "HDMI",
+          "3xAudio"
         ],
         "Date": "2023-07-17T23:39:45.1712194-04:00",
-        "Update": "2023-07-23T11:50:36.1141701-04:00",
+        "Update": "2023-07-27T07:36:15.640121-04:00",
         "Discount": 0.0,
         "Label": "Gigabyte Z690 AERO G"
       },
@@ -2118,13 +2171,15 @@
           "Dual Lan",
           "8xSATA",
           "9xUSB",
+          "6xAudio",
           "DDR4",
           "4500mhz",
           "LGA 2066",
-          "ATX"
+          "ATX",
+          "PS2"
         ],
         "Date": "2023-07-26T18:48:13.2024755-04:00",
-        "Update": "2023-07-26T21:07:00.8336903-04:00",
+        "Update": "2023-07-27T07:36:15.6468176-04:00",
         "Discount": 0.0,
         "Label": "MSI X299 SLI PLUS"
       },
@@ -2132,14 +2187,20 @@
         "Price": 285.00,
         "Features": [
           "12va-13ra",
-          "6xSATA",
-          "9xUSB",
           "DDR5",
+          "7600mhz",
+          "Wifi",
+          "9xUSB",
+          "6xSATA",
           "LGA 1700",
-          "ATX"
+          "ATX",
+          "PS2",
+          "DisplayPort",
+          "HDMI",
+          "3xAudio"
         ],
         "Date": "2023-07-26T18:48:17.6030093-04:00",
-        "Update": "2023-07-26T21:07:00.8510062-04:00",
+        "Update": "2023-07-27T07:36:15.6533519-04:00",
         "Discount": 0.0,
         "Label": "Gigabyte Z790 UD AX"
       },
@@ -2148,14 +2209,18 @@
         "Features": [
           "12va-13ra",
           "8xSATA",
+          "6xAudio",
           "5xUSB",
           "DDR4",
           "5000mhz",
           "LGA 1700",
-          "ATX"
+          "ATX",
+          "PS2",
+          "HDMI",
+          "DisplayPort"
         ],
         "Date": "2023-07-26T18:48:41.3287682-04:00",
-        "Update": "2023-07-26T21:07:00.8567948-04:00",
+        "Update": "2023-07-27T07:36:15.6600807-04:00",
         "Discount": 0.0,
         "Label": "ASRock Z690 Steel Legend"
       },
@@ -2168,26 +2233,35 @@
           "DDR5",
           "6800mhz",
           "LGA 1700",
-          "ATX"
+          "ATX",
+          "DisplayPort",
+          "HDMI",
+          "3xAudio"
         ],
         "Date": "2023-07-26T18:48:46.1112283-04:00",
-        "Update": "2023-07-26T21:07:00.8625063-04:00",
+        "Update": "2023-07-27T07:36:15.6665036-04:00",
         "Discount": 0.0,
         "Label": "ASRock Z790 PG RIPTIDE"
       },
       {
         "Price": 69.00,
         "Features": [
-          "3ra",
+          "2da-3ra",
           "8xSATA",
           "6xUSB",
           "DDR3",
+          "6xAudio",
           "2800mhz",
           "LGA 1155",
-          "ATX"
+          "ATX",
+          "PS2",
+          "VGA",
+          "DVI",
+          "HDMI",
+          "DisplayPort"
         ],
         "Date": "2023-07-26T18:48:52.0783039-04:00",
-        "Update": "2023-07-26T21:07:00.8680213-04:00",
+        "Update": "2023-07-27T07:36:15.6730428-04:00",
         "Discount": 0.0,
         "Label": "ASRock Z77 Extreme 6"
       },
@@ -2199,12 +2273,15 @@
           "9xUSB",
           "Wifi",
           "DDR5",
+          "6xAudio",
           "6800mhz",
           "LGA 1700",
-          "ATX"
+          "ATX",
+          "DisplayPort",
+          "HDMI"
         ],
         "Date": "2023-07-26T18:49:06.0246464-04:00",
-        "Update": "2023-07-26T21:07:00.8736084-04:00",
+        "Update": "2023-07-27T07:36:15.6837167-04:00",
         "Discount": 0.0,
         "Label": "ASRock Z790 STEEL LEGEND WIFI"
       },
@@ -2212,15 +2289,19 @@
         "Price": 179.00,
         "Features": [
           "12va-13ra",
-          "4xSATA",
-          "5xUSB",
           "DDR5",
           "7200mhz",
+          "5xUSB",
+          "4xSATA",
           "LGA 1700",
-          "Micro ATX"
+          "Micro ATX",
+          "3xAudio",
+          "PS2",
+          "HDMI",
+          "DisplayPort"
         ],
         "Date": "2023-07-26T18:49:47.5277946-04:00",
-        "Update": "2023-07-26T21:07:00.8848985-04:00",
+        "Update": "2023-07-27T07:36:15.6936669-04:00",
         "Discount": 0.0,
         "Label": "ASRock B760M PRO RS"
       }
