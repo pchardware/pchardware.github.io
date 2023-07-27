@@ -15,11 +15,14 @@
   "Features": [
     "12GB",
     "2xFan",
+    "2x8Pin",
+    "650WR",
     "Radeon",
-    "AMD"
+    "AMD",
+    "GPU"
   ],
   "Date": "2023-06-29T07:39:05.0557701-04:00",
-  "Update": "2023-06-29T11:38:59.2219806-04:00",
+  "Update": "2023-07-27T10:54:59.7943338-04:00",
   "Discount": 0.0,
   "Label": "ASRock Challenger D RX 6700 XT"
 }
