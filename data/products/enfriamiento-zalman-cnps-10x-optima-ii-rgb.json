@@ -9,16 +9,22 @@
   "Description": "Model\nBrand: Zalman\nSeries: CNPS Series\nModel: 10X Optima II\n\n\nDetails\nType: Fan & Heatsinks\nFan Size: 120mm\nCPU Socket Compatibility: AMD Socket AM3 / AMD Socket AM3+ / AMD Socket AM4 / AMD Socket FM2 / AMD Socket FM2+ / Intel LGA 1150 / Intel LGA 1151 / Intel LGA 1155 / Intel LGA 1156 / Intel LGA 1366 / Intel LGA 2011 / Intel LGA 2011-v3 / Intel LGA 2066\nBearing Type: Hydraulic\nRPM: 800 ~ 1,500RPM +-10%\nAir Flow: 61.52CFM\nNoise Level: 25-30 dBA\nPower Connector: 4 Pin\nColor: White\nLED: RGB\nHeatsink Material: Aluminum & Copper\nFan Mounting Types to Heatsink: Vertical\n\n\nDimensions & Weight\nMax CPU Cooler Height: 158 mm\nFan Dimensions: 120 x 120 x 25(H)mm\nHeatsink Dimensions: 132(L) x 85(W) x 158(H)mm\nWeight: 740g",
   "Price": 69.00,
   "Features": [
-    "White",
-    "4 Heat Pipes",
+    "4xPipes",
+    "62cfm",
+    "30dBA",
     "Cobre",
+    "158mm",
+    "Blanco",
+    "1500rpm",
     "LGA 1700",
     "LGA 1200",
     "LGA 115X",
-    "AM4"
+    "AM4",
+    "Tower",
+    "1xFan"
   ],
   "Date": "2023-05-11T12:34:36.9113405-04:00",
-  "Update": "2023-06-09T16:50:28.7686592-04:00",
+  "Update": "2023-07-27T09:48:00.6935544-04:00",
   "Discount": 0.0,
   "Label": "Enfriamiento Zalman CNPS 10X Optima II RGB"
 }
