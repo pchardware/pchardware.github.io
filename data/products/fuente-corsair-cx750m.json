@@ -11,7 +11,7 @@
     "/images/products/fuente-corsair-cx750m-7.webp",
     "/images/products/fuente-corsair-cx750m-8.webp"
   ],
-  "Description": "General\nBrand: CORSAIR\nSeries: CX series\nModel: CX750M\n\n\nDetails\nType: ATX12V v2.3\nMaximum Power: 750 W\nFans: 1 x 135mm Sleeve Bearing Fan\nPFC: Active\nMain Connector: 24Pin\n+12V Rails: Single\nPCI-Express Connector: 4 x 6+2-Pin\nSATA Power Connector: 8\nSLI: SLI Ready\nHaswell Support: Yes\nCrossFire: CrossFire Ready\nMax PSU Length: 160 mm\nModular: Semi-Modular\nEfficiency: Up to 85%\nEnergy-Efficient: 80 PLUS BRONZE Certified\nOver Voltage Protection: Yes\nInput Voltage: 100 - 240 V\nInput Frequency Range: 47 - 63 Hz\nInput Current: 12 - 6A\nOutput: +3.3V@25A, +5V@25A, +12V@62A, -12V@0.8A, +5VSB@3A\nMTBF: 100,000 hours\nConnectors: 1 x 24-Pin main connector1 x 8-Pin EPS12V CPU4 x PCI-E8 x SATA6 x Peripheral2 x Floppy\n\n\nFeatures\nFeatures: Up to 85% energy efficiency means less heat generation and lower energy bills.0.99 Active Power Factor Correction provides clean and reliable power.Universal AC input from 90 - 264V.A dedicated single +12V rail offers maximum compatibility with the latest components.Over-voltage and over-power protection, under-voltage protection, and short circuit protection provide maximum safety to your critical system components.Extra long fully-sleeved cables support full tower chassis.ErP Lot 6 Compliant.\n\n\nDimension & Weight\nDimensions: 3.39\" x 5.91\" x 6.30\"\nWeight: 7.80 lbs.",
+  "Description": "General\nBrand: CORSAIR\nSeries: CX series\nModel: CX750M\n\n\nDetails\nType: ATX12V v2.3\nMaximum Power: 750 W\nFans: 1 x 135mm Sleeve Bearing Fan\nPFC: Active\nMain Connector: 24Pin\n+12V Rails: Single\nPCI-Express Connector: 4 x 6+2-Pin\nSATA Power Connector: 8\nSLI: SLI Ready\nHaswell Support: Yes\nCrossFire: CrossFire Ready\nMax PSU Length: 160 mm\nModular: Semi-Modular\nEfficiency: Up to 85%\nEnergy-Efficient: 80 PLUS BRONZE Certified\nOver Voltage Protection: Yes\nInput Voltage: 100 - 240 V\nInput Frequency Range: 47 - 63 Hz\nInput Current: 12 - 6A\nOutput: +3.3V@25A, +5V@25A, +12V@62A, -12V@0.8A, +5VSB@3A\nMTBF: 100,000 hours\nConnectors: \n1 x 24-Pin main connector\n1 x 8-Pin EPS 12V CPU\n4 x PCI-E\n8 x SATA\n6 x Peripheral\n2 x Floppy\n\n\nFeatures\nFeatures: Up to 85% energy efficiency means less heat generation and lower energy bills.0.99 Active Power Factor Correction provides clean and reliable power.Universal AC input from 90 - 264V.A dedicated single +12V rail offers maximum compatibility with the latest components.Over-voltage and over-power protection, under-voltage protection, and short circuit protection provide maximum safety to your critical system components.Extra long fully-sleeved cables support full tower chassis.ErP Lot 6 Compliant.\n\n\nDimension & Weight\nDimensions: 3.39\" x 5.91\" x 6.30\"\nWeight: 7.80 lbs.",
   "Price": 135.00,
   "Features": [
     "80+ Bronze",
@@ -19,10 +19,11 @@
     "750W",
     "62A",
     "4x 6+2-Pin",
-    "8x SATA"
+    "8x SATA",
+    "1x 4+4 EPS"
   ],
   "Date": "2023-04-15T07:27:10.1467554-04:00",
-  "Update": "2023-06-01T10:49:59.6851837-04:00",
+  "Update": "2023-07-27T09:58:48.4383658-04:00",
   "Discount": 0.0,
   "Label": "Fuente Corsair CX750M"
 }
