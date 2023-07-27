@@ -1,0 +1,25 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Board",
+  "Images": [
+    "/images/products/asrock-z77-extreme-6-1.webp",
+    "/images/products/asrock-z77-extreme-6-2.webp",
+    "/images/products/asrock-z77-extreme-6-3.webp",
+    "/images/products/asrock-z77-extreme-6-4.webp"
+  ],
+  "Description": "Model\nBrand: ASRock\nModel: Z77 Extreme6\n\n\nSupported CPU\nCPU Socket Type: LGA 1155\nCPU Type: Celeron / Core i3 / Core i5 / Core i7 / Intel Core 2nd gen (LGA 1155) / Intel Core 3rd Gen (LGA 1155) / Xeon (LGA1155)\nSupported CPU Technologies: Turbo Boost Technology 2.0\n\n\nChipsets\nChipset: Intel Z77\n\n\nOnboard Video\nOnboard Video Chipset: Supported only by CPU with integrated graphic\n\n\nMemory\nNumber of Memory Slots: 4x240pin\nMemory Standard: DDR3 2800+(OC)/2400(OC)/2133(OC)/1866(OC)/1600/1333/1066\nMaximum Memory Supported: 32GB\nChannel Supported: Dual Channel\n\n\nExpansion Slots\nPCI Express 3.0 x16: 2 (x16/0 or x8/x8)\nPCI Express 2.0 x16: 1 @x4\nPCI Express x1: 1 x PCI Express x1\nPCI Slots: 2 x PCI Slots\nMini Card Slots: 1 x Mini PCIe\n\n\nStorage Devices\nSATA 3Gb/s: 4 x SATA 3Gb/s\nSATA 6Gb/s: 4 x SATA 6Gb/s\nSATA RAID: 4 x SATA2 3.0 Gb/s and 2 x SATA3 6.0 Gb/s by Intel Z77, support RAID 0, RAID 1, RAID 5, RAID 10\n\n\nOnboard Audio\nAudio Chipset: Realtek ALC898\nAudio Channels: 8 Channels\n\n\nOnboard LAN\nLAN Chipset: Broadcom BCM57781\nMax LAN Speed: 1Gbps\n\n\nRear Panel Ports\nBack I/O Ports: 1 x DisplayPort / 1 x eSATA 6GB/S / 1 x HDMI / 1 x Optical S/PDIF Out / 1 x PS/2 Keyboard/Mouse Combo / 2 x USB 2.0/1.1 / 4 x USB 3.0\nPS/2: 1 x PS/2 keyboard/mouse port\nVideo Ports: D-Sub + DVI\nHDMI: 1 x HDMI\nDisplayPort: 1 x DisplayPort\nUSB 3.0: 4 x USB 3.0\nUSB 1.1/2.0: 2 x USB 2.0\nIEEE 1394: 1 x IEEE 1394\neSATA: 1 x eSATA 6Gb/s\nS/PDIF Out: 1 x Optical\nAudio Ports: 5 Ports\n\n\nInternal I/O Connectors\nOnboard USB: 2 x USB 3.0 + 6 x USB 2.0\nOnboard 1394: 1 x 1394\nOther Connectors: 1 x Floppy connector\n1 x IR header\n1 x CIR header\n1 x COM port header\n1 x HDMI_SPDIF header\n1 x Power LED header\nCPU/Chassis/Power FAN connector\n24 pin ATX power connector\n8 pin 12V power connector\nSLI/XFire power connector\nFront panel audio connector\n1 x Dr. Debug with LED\n\n\nPhysical Spec\nForm Factor: ATX\nDimensions (W x L): 12.0\" x 9.6\"\nPower Pin: 24 Pin\n\n\nFeatures\nFeatures: Premium Gold Caps\n\nDigi Power Design, 8 + 4 Power Phase Design\n\nSupports Dual Channel DDR3 2800+(OC)\n\n2 x PCIe 3.0 x16 Slots, 1 x mini-PCI Express slot\n\nSupports AMD Quad CrossFireX, CrossFireX and NVIDIA Quad SLI, SLI\n\nPCIE Gigabit LAN\n\nSupports Intel HD Graphics with Built-in Visuals\n\nMulti VGA Output options: D-Sub, DVI-D, HDMI and DisplayPort\n\nCombo Cooler Option (C.C.O.)\n\n7.1 CH HD Audio with Content Protection (Realtek ALC898 Audio Codec), Supports THX TruStudio\n\nSupports ASRock XFast RAM, XFast LAN, XFast USB, OMG, Internet Flash, UEFI System Browser\n\nSupports Intel Smart Connect, Intel Rapid Start, Lucid Virtu Universal MVP\n\nFree Bundle : 1 x Front USB 3.0 Panel, 1 x Rear USB 3.0 Bracket, CyberLink MediaEspresso 6.5 Trial, ASRock MAGIX Multimedia Suite",
+  "Price": 69.00,
+  "Features": [
+    "3ra",
+    "8xSATA",
+    "6xUSB",
+    "DDR3",
+    "2800mhz",
+    "LGA 1155",
+    "ATX"
+  ],
+  "Date": "2023-07-26T18:48:52.0783039-04:00",
+  "Update": "2023-07-26T21:07:00.8680213-04:00",
+  "Discount": 0.0,
+  "Label": "ASRock Z77 Extreme 6"
+}
