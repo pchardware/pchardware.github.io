@@ -1289,218 +1289,6 @@
         "Label": "PCIe x1 - TP-Link Wifi Adapter [TL-WN881ND]"
       }
     ],
-    "Microprocesador": [
-      {
-        "Price": 289.00,
-        "Features": [
-          "12va Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "25MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700"
-        ],
-        "Date": "2023-02-17T09:30:45.7586545-05:00",
-        "Update": "2023-06-09T16:50:28.9239247-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i7-12700K"
-      },
-      {
-        "Price": 239.00,
-        "Features": [
-          "12va Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "20MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700"
-        ],
-        "Date": "2023-02-17T09:44:28.156292-05:00",
-        "Update": "2023-06-09T16:50:28.9301845-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i5-12600K"
-      },
-      {
-        "Price": 599.00,
-        "Features": [
-          "13ra Gen",
-          "32 Hilos",
-          "24 Core",
-          "5.7GHz",
-          "30MB L3",
-          "DDR4 y DDR5",
-          "Unlocked",
-          "LGA 1700"
-        ],
-        "Date": "2023-03-22T09:04:16.5699219-04:00",
-        "Update": "2023-06-09T16:50:28.9426112-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i9-13900K"
-      },
-      {
-        "Price": 389.00,
-        "Features": [
-          "12va Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.2GHz",
-          "30MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700"
-        ],
-        "Date": "2023-05-11T07:00:48.0876416-04:00",
-        "Update": "2023-06-09T16:50:28.9612903-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i9-12900K"
-      },
-      {
-        "Price": 189.00,
-        "Features": [
-          "11th Gen",
-          "12 Hilos",
-          "6 Cores",
-          "4.4GHz",
-          "12MB L3",
-          "LGA 1200"
-        ],
-        "Date": "2023-03-22T09:04:03.4468877-04:00",
-        "Update": "2023-06-17T22:28:26.905897-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i5-11400 +Disipador"
-      },
-      {
-        "Price": 355.00,
-        "Features": [
-          "13ra Gen",
-          "20 Hilos",
-          "14 Core",
-          "5.1GHz",
-          "24MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700"
-        ],
-        "Date": "2023-06-19T07:47:08.4755764-04:00",
-        "Update": "2023-06-19T09:35:04.6028742-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i5-13600K"
-      },
-      {
-        "Price": 215.00,
-        "Features": [
-          "12va Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "18MB L3",
-          "DDR4-DDR5",
-          "LGA 1700"
-        ],
-        "Date": "2023-02-17T09:45:29.425139-05:00",
-        "Update": "2023-07-12T21:22:46.7172585-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i5-12400 +Disipador"
-      },
-      {
-        "Price": 17.00,
-        "Features": [
-          "6ta Gen",
-          "2 Hilos",
-          "2 Cores",
-          "3.3GHz",
-          "3MB L3",
-          "LGA 1151"
-        ],
-        "Date": "2023-07-17T23:39:50.1879409-04:00",
-        "Update": "2023-07-18T00:35:15.5697329-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Pentium G4400 +Disipador"
-      },
-      {
-        "Price": 245.00,
-        "Features": [
-          "5000 Series",
-          "16 Hilos",
-          "8 Core",
-          "4.7GHz",
-          "32MB L3",
-          "AM4"
-        ],
-        "Date": "2023-05-11T07:44:14.6151541-04:00",
-        "Update": "2023-07-18T00:39:58.1494147-04:00",
-        "Discount": 0.0,
-        "Label": "AMD Ryzen 7 5800X +Disipador"
-      },
-      {
-        "Price": 225.00,
-        "Features": [
-          "Radeon Graphics",
-          "5000 Series",
-          "16 Hilos",
-          "8 Core",
-          "4.6GHz",
-          "16MB L3",
-          "AM4"
-        ],
-        "Date": "2023-06-07T15:04:47.8071575-04:00",
-        "Update": "2023-07-18T00:39:58.1562391-04:00",
-        "Discount": 0.0,
-        "Label": "AMD Ryzen 7 5700G +Disipador"
-      },
-      {
-        "Price": 165.00,
-        "Features": [
-          "13ra Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.5GHz",
-          "12MB L3",
-          "DDR4-DDR5",
-          "LGA 1700"
-        ],
-        "Date": "2023-03-22T09:04:00.899336-04:00",
-        "Update": "2023-07-26T18:58:17.4828818-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i3-13100 +Disipador"
-      },
-      {
-        "Price": 289.00,
-        "Features": [
-          "13ra Gen",
-          "20 Hilos",
-          "14 Core",
-          "4.8GHz",
-          "24MB L3",
-          "DDR4-DDR5",
-          "LGA 1700"
-        ],
-        "Date": "2023-06-07T15:04:52.0919704-04:00",
-        "Update": "2023-07-26T18:58:17.495003-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i5-13500 +Disipador"
-      },
-      {
-        "Price": 149.00,
-        "Features": [
-          "12va Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.3GHz",
-          "12MB L3",
-          "DDR4-DDR5",
-          "LGA 1700"
-        ],
-        "Date": "2023-05-11T07:28:15.7616729-04:00",
-        "Update": "2023-07-26T18:58:17.5183022-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i3-12100 +Disipador"
-      }
-    ],
     "Disco Duro": [
       {
         "Price": 59.00,
@@ -2495,6 +2283,231 @@
         "Discount": 0.0,
         "Label": "MSI Mech Radeon RX 6750 XT"
       }
+    ],
+    "Microprocesador": [
+      {
+        "Price": 289.00,
+        "Features": [
+          "12va Gen",
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "25MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-02-17T09:30:45.7586545-05:00",
+        "Update": "2023-07-27T11:12:22.72822-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i7-12700K"
+      },
+      {
+        "Price": 239.00,
+        "Features": [
+          "12va Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "20MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-02-17T09:44:28.156292-05:00",
+        "Update": "2023-07-27T11:12:22.7362041-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i5-12600K"
+      },
+      {
+        "Price": 599.00,
+        "Features": [
+          "13ra Gen",
+          "32 Hilos",
+          "24 Core",
+          "5.7GHz",
+          "30MB L3",
+          "DDR4 y DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-03-22T09:04:16.5699219-04:00",
+        "Update": "2023-07-27T11:12:22.743155-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i9-13900K"
+      },
+      {
+        "Price": 389.00,
+        "Features": [
+          "12va Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.2GHz",
+          "30MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-05-11T07:00:48.0876416-04:00",
+        "Update": "2023-07-27T11:12:22.7531535-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i9-12900K"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "13ra Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.5GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-03-22T09:04:00.899336-04:00",
+        "Update": "2023-07-27T11:12:22.76257-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i3-13100 +Disipador"
+      },
+      {
+        "Price": 289.00,
+        "Features": [
+          "13ra Gen",
+          "20 Hilos",
+          "14 Core",
+          "4.8GHz",
+          "24MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-06-07T15:04:52.0919704-04:00",
+        "Update": "2023-07-27T11:12:22.7814514-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i5-13500 +Disipador"
+      },
+      {
+        "Price": 189.00,
+        "Features": [
+          "11na Gen",
+          "12 Hilos",
+          "6 Cores",
+          "4.4GHz",
+          "12MB L3",
+          "LGA 1200",
+          "CPU"
+        ],
+        "Date": "2023-03-22T09:04:03.4468877-04:00",
+        "Update": "2023-07-27T11:12:22.7905704-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i5-11400 +Disipador"
+      },
+      {
+        "Price": 355.00,
+        "Features": [
+          "13ra Gen",
+          "20 Hilos",
+          "14 Core",
+          "5.1GHz",
+          "24MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-06-19T07:47:08.4755764-04:00",
+        "Update": "2023-07-27T11:12:22.7970402-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i5-13600K"
+      },
+      {
+        "Price": 149.00,
+        "Features": [
+          "12va Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-05-11T07:28:15.7616729-04:00",
+        "Update": "2023-07-27T11:12:22.803389-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i3-12100 +Disipador"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "12va Gen",
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "18MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-02-17T09:45:29.425139-05:00",
+        "Update": "2023-07-27T11:12:22.855332-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i5-12400 +Disipador"
+      },
+      {
+        "Price": 17.00,
+        "Features": [
+          "6ta Gen",
+          "2 Hilos",
+          "2 Cores",
+          "3.3GHz",
+          "3MB L3",
+          "LGA 1151",
+          "CPU"
+        ],
+        "Date": "2023-07-17T23:39:50.1879409-04:00",
+        "Update": "2023-07-27T11:12:22.8632687-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Pentium G4400 +Disipador"
+      },
+      {
+        "Price": 245.00,
+        "Features": [
+          "5000 Series",
+          "16 Hilos",
+          "8 Core",
+          "4.7GHz",
+          "32MB L3",
+          "AM4",
+          "CPU"
+        ],
+        "Date": "2023-05-11T07:44:14.6151541-04:00",
+        "Update": "2023-07-27T11:12:22.8697064-04:00",
+        "Discount": 0.0,
+        "Label": "AMD Ryzen 7 5800X +Disipador"
+      },
+      {
+        "Price": 225.00,
+        "Features": [
+          "Radeon Graphics",
+          "5000 Series",
+          "16 Hilos",
+          "8 Core",
+          "4.6GHz",
+          "16MB L3",
+          "AM4",
+          "CPU"
+        ],
+        "Date": "2023-06-07T15:04:47.8071575-04:00",
+        "Update": "2023-07-27T11:12:22.8762112-04:00",
+        "Discount": 0.0,
+        "Label": "AMD Ryzen 7 5700G +Disipador"
+      }
     ]
   },
   "Periféricos": {
@@ -2578,14 +2591,6 @@
         "Label": "Corsair Voyager Slider X1 64GB"
       },
       {
-        "Price": 49.00,
-        "Features": [],
-        "Date": "2023-07-26T16:41:58.6548432-04:00",
-        "Update": "2023-07-27T06:47:19.1758702-04:00",
-        "Discount": 0.0,
-        "Label": "Docking Orico Dual Bay USB3.0, 2.5 & 3.5 SATA [6629S3-V1-US-BK]"
-      },
-      {
         "Price": 47.00,
         "Features": [
           "10xUSB 3.0"
@@ -2602,6 +2607,21 @@
         "Update": "2023-07-27T10:54:59.8709371-04:00",
         "Discount": 0.0,
         "Label": "Cable HDMI 1.8mts"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "2xDiscos",
+          "USB 3.0",
+          "Clonar",
+          "2.5",
+          "3.5",
+          "SATA 3"
+        ],
+        "Date": "2023-07-26T16:41:58.6548432-04:00",
+        "Update": "2023-07-27T11:12:22.8877103-04:00",
+        "Discount": 0.0,
+        "Label": "Docking Orico Dual Bay"
       }
     ],
     "Mouse": [
@@ -2826,9 +2846,12 @@
       },
       {
         "Price": 19.00,
-        "Features": [],
+        "Features": [
+          "2mm",
+          "Regular"
+        ],
         "Date": "2023-07-26T16:47:06.143069-04:00",
-        "Update": "2023-07-27T06:47:19.1996738-04:00",
+        "Update": "2023-07-27T11:12:22.9074412-04:00",
         "Discount": 0.0,
         "Label": "Mouse Pad Asus TUF Gaming P3"
       }
@@ -3299,104 +3322,16 @@
         "Update": "2023-07-27T06:47:19.1904441-04:00",
         "Discount": 0.0,
         "Label": "Webcam Youlisn Full HD 1080P [‎C01-Black]"
-      }
-    ],
-    "Sonido": [
-      {
-        "Price": 109.00,
-        "Features": [
-          "Noise Cancelling",
-          "20Hz-20KHz",
-          "40mm",
-          "15H",
-          "Inalámbrico"
-        ],
-        "Date": "2023-06-24T08:20:31.4230275-04:00",
-        "Update": "2023-07-11T17:03:45.258343-04:00",
-        "Discount": 0.0,
-        "Label": "Audífonos Asus TUF H1 Wireless"
       },
       {
-        "Price": 73.00,
+        "Price": 49.00,
         "Features": [
-          "Micrófono",
-          "3.5mm",
-          "40mm",
-          "240g"
-        ],
-        "Date": "2023-07-09T16:45:42.268062-04:00",
-        "Update": "2023-07-11T17:03:45.2639317-04:00",
-        "Discount": 0.0,
-        "Label": "Audífonos Logitech G335"
-      },
-      {
-        "Price": 64.00,
-        "Features": [
-          "Inalámbrico",
-          "40mm",
-          "USB",
-          "Micrófono",
-          "18H",
-          "165g"
-        ],
-        "Date": "2023-07-09T16:45:46.4090102-04:00",
-        "Update": "2023-07-11T17:03:45.2693962-04:00",
-        "Discount": 0.0,
-        "Label": "Audífonos Logitech G435 Lightspeed Wireless"
-      },
-      {
-        "Price": 89.00,
-        "Features": [
-          "7.1",
-          "Micrófono",
-          "3.5mm",
-          "50mm",
-          "Noise Cancelling",
-          "240g"
-        ],
-        "Date": "2023-07-09T16:44:46.7059022-04:00",
-        "Update": "2023-07-11T17:03:45.2864551-04:00",
-        "Discount": 0.0,
-        "Label": "Audífonos Razer BlackShark V2 X"
-      },
-      {
-        "Price": 87.00,
-        "Features": [
-          "7.1",
-          "Micrófono",
-          "3.5mm",
-          "50mm",
-          "280g",
           "USB"
         ],
-        "Date": "2023-07-09T16:45:38.4980752-04:00",
-        "Update": "2023-07-11T17:03:45.2937363-04:00",
+        "Date": "2023-07-26T18:48:21.8195038-04:00",
+        "Update": "2023-07-27T11:12:22.9422147-04:00",
         "Discount": 0.0,
-        "Label": "Audífonos Corsair HS65 Surround"
-      },
-      {
-        "Price": 125.00,
-        "Features": [
-          "Noise Control",
-          "20Hz-30KHz",
-          "50mm",
-          "7.1",
-          "16H",
-          "iCUE",
-          "Inalámbrico"
-        ],
-        "Date": "2023-05-12T07:52:40.6205045-04:00",
-        "Update": "2023-07-11T17:12:10.0904474-04:00",
-        "Discount": 0.0,
-        "Label": "Audífonos Corsair VOID RGB Elite Wireless Carbon"
-      },
-      {
-        "Price": 93.00,
-        "Features": [],
-        "Date": "2023-07-26T16:42:49.9821955-04:00",
-        "Update": "2023-07-27T06:47:19.1829505-04:00",
-        "Discount": 0.0,
-        "Label": "Headset Cooler Master MH630"
+        "Label": "Webcam Autofocus FHD HA501 +Tripode"
       }
     ],
     "Backup": [
@@ -3445,14 +3380,124 @@
         "Label": "Silla YAHEETECH"
       }
     ],
-    "Periféricos": [
+    "Sonido": [
       {
-        "Price": 49.00,
-        "Features": [],
-        "Date": "2023-07-26T18:48:21.8195038-04:00",
-        "Update": "2023-07-27T06:47:19.2339627-04:00",
+        "Price": 109.00,
+        "Features": [
+          "Noise Cancelling",
+          "20Hz-20KHz",
+          "40mm",
+          "15H",
+          "Inalámbrico",
+          "Headset",
+          "Cascos"
+        ],
+        "Date": "2023-06-24T08:20:31.4230275-04:00",
+        "Update": "2023-07-27T11:12:22.8129554-04:00",
         "Discount": 0.0,
-        "Label": "WebCam Autofocus FHD [HA501] + Tripode"
+        "Label": "Audífonos Asus TUF H1 Wireless"
+      },
+      {
+        "Price": 73.00,
+        "Features": [
+          "Micrófono",
+          "3.5mm",
+          "40mm",
+          "240g",
+          "Headset",
+          "Cascos"
+        ],
+        "Date": "2023-07-09T16:45:42.268062-04:00",
+        "Update": "2023-07-27T11:12:22.8201282-04:00",
+        "Discount": 0.0,
+        "Label": "Audífonos Logitech G335"
+      },
+      {
+        "Price": 64.00,
+        "Features": [
+          "Inalámbrico",
+          "40mm",
+          "USB",
+          "18H",
+          "165g",
+          "Headset",
+          "Micrófono",
+          "Cascos"
+        ],
+        "Date": "2023-07-09T16:45:46.4090102-04:00",
+        "Update": "2023-07-27T11:12:22.8268883-04:00",
+        "Discount": 0.0,
+        "Label": "Audífonos Logitech G435 Lightspeed Wireless"
+      },
+      {
+        "Price": 89.00,
+        "Features": [
+          "7.1",
+          "Micrófono",
+          "3.5mm",
+          "50mm",
+          "Noise Cancelling",
+          "240g",
+          "Headset",
+          "Cascos"
+        ],
+        "Date": "2023-07-09T16:44:46.7059022-04:00",
+        "Update": "2023-07-27T11:12:22.8337468-04:00",
+        "Discount": 0.0,
+        "Label": "Audífonos Razer BlackShark V2 X"
+      },
+      {
+        "Price": 87.00,
+        "Features": [
+          "7.1",
+          "Micrófono",
+          "3.5mm",
+          "50mm",
+          "280g",
+          "USB",
+          "Headset",
+          "Cascos"
+        ],
+        "Date": "2023-07-09T16:45:38.4980752-04:00",
+        "Update": "2023-07-27T11:12:22.841678-04:00",
+        "Discount": 0.0,
+        "Label": "Audífonos Corsair HS65 Surround"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "Noise Control",
+          "20Hz-30KHz",
+          "50mm",
+          "7.1",
+          "16H",
+          "iCUE",
+          "Inalámbrico",
+          "Headset",
+          "Cascos"
+        ],
+        "Date": "2023-05-12T07:52:40.6205045-04:00",
+        "Update": "2023-07-27T11:12:22.8480749-04:00",
+        "Discount": 0.0,
+        "Label": "Audífonos Corsair VOID RGB Elite Wireless Carbon"
+      },
+      {
+        "Price": 93.00,
+        "Features": [
+          "Micrófono",
+          "3.5mm",
+          "50mm",
+          "15Hz-18KHz",
+          "32ohm",
+          "3db",
+          "300g",
+          "Headset",
+          "Cascos"
+        ],
+        "Date": "2023-07-26T16:42:49.9821955-04:00",
+        "Update": "2023-07-27T11:12:22.897373-04:00",
+        "Discount": 0.0,
+        "Label": "Headset Cooler Master MH630"
       }
     ]
   }
