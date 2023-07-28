@@ -15,7 +15,6 @@
     "12va-13ra",
     "10xUSB",
     "DDR5",
-    "Wifi",
     "6xAudio",
     "6xSATA",
     "6400mhz",
@@ -25,7 +24,7 @@
     "HDMI"
   ],
   "Date": "2023-05-11T07:51:07.1403838-04:00",
-  "Update": "2023-07-27T07:36:15.5166602-04:00",
+  "Update": "2023-07-28T14:40:04.0469058-04:00",
   "Discount": 0.0,
   "Label": "Asus ROG Strix Z690-E Gaming Wifi"
 }
