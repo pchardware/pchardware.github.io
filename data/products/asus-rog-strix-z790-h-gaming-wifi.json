@@ -15,7 +15,6 @@
     "DDR5",
     "7800mhz",
     "8xUSB",
-    "Wifi",
     "6xAudio",
     "4xSATA",
     "LGA 1700",
@@ -24,7 +23,7 @@
     "HDMI"
   ],
   "Date": "2023-03-29T20:18:17.8757341-04:00",
-  "Update": "2023-07-27T07:36:15.5366321-04:00",
+  "Update": "2023-07-28T14:40:04.0615788-04:00",
   "Discount": 0.0,
   "Label": "Asus ROG Strix Z790-H Gaming Wifi"
 }
