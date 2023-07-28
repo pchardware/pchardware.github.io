@@ -13,7 +13,6 @@
   "Price": 279.00,
   "Features": [
     "12va-13ra",
-    "Wifi",
     "6xAudio",
     "6xUSB",
     "4xSATA",
@@ -23,7 +22,7 @@
     "DisplayPort"
   ],
   "Date": "2023-05-11T07:56:36.6020035-04:00",
-  "Update": "2023-07-27T07:36:15.6336734-04:00",
+  "Update": "2023-07-28T14:40:04.1127819-04:00",
   "Discount": 0.0,
   "Label": "Asus TUF Z690-Plus Wifi DDR5"
 }
