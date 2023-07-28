@@ -40,20 +40,6 @@
         "Update": "2023-07-12T21:22:46.7263835-04:00",
         "Discount": 10.0,
         "Label": "Kit i5-12400 +Disipador + ASRock B660M PRO RS + 16GB RAM"
-      },
-      {
-        "Price": 457.00,
-        "Features": [
-          "11na Gen",
-          "4000mhz",
-          "Disipadas",
-          "ATX",
-          "Dual channel"
-        ],
-        "Date": "2023-07-13T12:48:41.6466579-04:00",
-        "Update": "2023-07-13T12:51:42.2988139-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-11400 +Disipador + Z590 Extreme + 16GB RAM"
       }
     ],
     "Rendimiento": [
@@ -1889,28 +1875,6 @@
         "Label": "Enfriamiento Thermalright Assassin X 120 R SE ARGB"
       },
       {
-        "Price": 69.00,
-        "Features": [
-          "4xPipes",
-          "62cfm",
-          "30dBA",
-          "Cobre",
-          "158mm",
-          "Blanco",
-          "1500rpm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4",
-          "Tower",
-          "1xFan"
-        ],
-        "Date": "2023-05-11T12:34:36.9113405-04:00",
-        "Update": "2023-07-27T09:48:00.6935544-04:00",
-        "Discount": 0.0,
-        "Label": "Enfriamiento Zalman CNPS 10X Optima II RGB"
-      },
-      {
         "Price": 9.00,
         "Features": [
           "LGA 115X",
@@ -2385,39 +2349,6 @@
         "Update": "2023-07-27T11:12:22.76257-04:00",
         "Discount": 0.0,
         "Label": "Intel Core i3-13100 +Disipador"
-      },
-      {
-        "Price": 289.00,
-        "Features": [
-          "13ra Gen",
-          "20 Hilos",
-          "14 Core",
-          "4.8GHz",
-          "24MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-06-07T15:04:52.0919704-04:00",
-        "Update": "2023-07-27T11:12:22.7814514-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i5-13500 +Disipador"
-      },
-      {
-        "Price": 189.00,
-        "Features": [
-          "11na Gen",
-          "12 Hilos",
-          "6 Cores",
-          "4.4GHz",
-          "12MB L3",
-          "LGA 1200",
-          "CPU"
-        ],
-        "Date": "2023-03-22T09:04:03.4468877-04:00",
-        "Update": "2023-07-27T11:12:22.7905704-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i5-11400 +Disipador"
       },
       {
         "Price": 355.00,
