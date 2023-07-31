@@ -2447,44 +2447,6 @@
     ]
   },
   "Periféricos": {
-    "Adaptadores": [
-      {
-        "Price": 9.00,
-        "Features": [
-          "DCA106-HV"
-        ],
-        "Date": "2023-06-07T14:58:54.5233761-04:00",
-        "Update": "2023-06-07T15:55:09.3933373-04:00",
-        "Discount": 0.0,
-        "Label": "Conversor DINO HDMI a VGA"
-      },
-      {
-        "Price": 9.00,
-        "Features": [],
-        "Date": "2023-06-07T15:04:34.6091688-04:00",
-        "Update": "2023-06-07T15:55:09.4385575-04:00",
-        "Discount": 0.0,
-        "Label": "Conversor HDMI a VGA"
-      },
-      {
-        "Price": 15.00,
-        "Features": [
-          "1m"
-        ],
-        "Date": "2023-06-07T15:03:27.0791363-04:00",
-        "Update": "2023-06-07T17:13:07.6811141-04:00",
-        "Discount": 0.0,
-        "Label": "Cable DisplayPort a HDMI"
-      },
-      {
-        "Price": 7.00,
-        "Features": [],
-        "Date": "2023-07-26T18:49:01.6603508-04:00",
-        "Update": "2023-07-27T10:54:59.8782677-04:00",
-        "Discount": 0.0,
-        "Label": "Adaptador HDMI a DVI"
-      }
-    ],
     "Red": [
       {
         "Price": 21.00,
@@ -3279,22 +3241,6 @@
         "Label": "UPS APC 450VA"
       }
     ],
-    "Externos": [
-      {
-        "Price": 85.00,
-        "Features": [
-          "USB 3.2",
-          "Híbrido",
-          "SSD 8GB",
-          "Razer Chroma",
-          "Gaming"
-        ],
-        "Date": "2023-07-13T12:02:12.8255744-04:00",
-        "Update": "2023-07-13T12:09:17.8658215-04:00",
-        "Discount": 0.0,
-        "Label": "Externo 2.5 Seagate Firecuda RGB 2TB"
-      }
-    ],
     "Silla": [
       {
         "Price": 189.00,
@@ -3468,6 +3414,60 @@
         "Update": "2023-07-31T14:21:04.9749775-04:00",
         "Discount": 0.0,
         "Label": "Cooler Master MH630"
+      }
+    ],
+    "Adaptador": [
+      {
+        "Price": 9.00,
+        "Features": [
+          "DCA106-HV"
+        ],
+        "Date": "2023-06-07T14:58:54.5233761-04:00",
+        "Update": "2023-07-31T14:53:37.2541874-04:00",
+        "Discount": 0.0,
+        "Label": "Conversor DINO HDMI a VGA"
+      },
+      {
+        "Price": 9.00,
+        "Features": [],
+        "Date": "2023-06-07T15:04:34.6091688-04:00",
+        "Update": "2023-07-31T14:53:37.2639633-04:00",
+        "Discount": 0.0,
+        "Label": "Conversor HDMI a VGA"
+      },
+      {
+        "Price": 15.00,
+        "Features": [
+          "1m"
+        ],
+        "Date": "2023-06-07T15:03:27.0791363-04:00",
+        "Update": "2023-07-31T14:53:37.2703465-04:00",
+        "Discount": 0.0,
+        "Label": "Cable DisplayPort a HDMI"
+      },
+      {
+        "Price": 7.00,
+        "Features": [],
+        "Date": "2023-07-26T18:49:01.6603508-04:00",
+        "Update": "2023-07-31T14:53:37.2835019-04:00",
+        "Discount": 0.0,
+        "Label": "Adaptador HDMI a DVI"
+      }
+    ],
+    "Externo": [
+      {
+        "Price": 85.00,
+        "Features": [
+          "USB 3.2",
+          "Híbrido",
+          "SSD 8GB",
+          "Razer Chroma",
+          "Gaming"
+        ],
+        "Date": "2023-07-13T12:02:12.8255744-04:00",
+        "Update": "2023-07-31T14:53:37.2771859-04:00",
+        "Discount": 0.0,
+        "Label": "Externo 2.5 Seagate Firecuda RGB 2TB"
       }
     ]
   }
