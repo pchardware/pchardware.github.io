@@ -1,6 +1,6 @@
 {
   "Category": "Periféricos",
-  "SubCategory": "Adaptadores",
+  "SubCategory": "Adaptador",
   "Images": [
     "/images/products/conversor-hdmi-a-vga-1.webp",
     "/images/products/conversor-hdmi-a-vga-2.webp",
@@ -11,7 +11,7 @@
   "Price": 9.00,
   "Features": [],
   "Date": "2023-06-07T15:04:34.6091688-04:00",
-  "Update": "2023-06-07T15:55:09.4385575-04:00",
+  "Update": "2023-07-31T14:53:37.2639633-04:00",
   "Discount": 0.0,
   "Label": "Conversor HDMI a VGA"
 }
