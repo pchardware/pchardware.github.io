@@ -3265,45 +3265,6 @@
         "Label": "Acer Nitro 24FHD QG241Y"
       }
     ],
-    "Webcam": [
-      {
-        "Price": 45.00,
-        "Features": [
-          "Black",
-          "2mp",
-          "30fps",
-          "Stereo"
-        ],
-        "Date": "2023-06-19T07:49:43.9179086-04:00",
-        "Update": "2023-07-09T16:42:13.6559435-04:00",
-        "Discount": 0.0,
-        "Label": "WebCam AUKEY 1080p"
-      },
-      {
-        "Price": 49.00,
-        "Features": [
-          "USB"
-        ],
-        "Date": "2023-07-26T18:48:21.8195038-04:00",
-        "Update": "2023-07-27T11:12:22.9422147-04:00",
-        "Discount": 0.0,
-        "Label": "Webcam Autofocus FHD HA501 +Tripode"
-      },
-      {
-        "Price": 39.00,
-        "Features": [
-          "30fps",
-          "HDR",
-          "Reducción de ruido",
-          "90 grados",
-          "USB"
-        ],
-        "Date": "2023-07-26T16:42:54.3761933-04:00",
-        "Update": "2023-07-27T11:33:38.2399585-04:00",
-        "Discount": 0.0,
-        "Label": "Webcam Full HD 1080P C01-Black"
-      }
-    ],
     "Backup": [
       {
         "Price": 125.00,
@@ -3350,7 +3311,46 @@
         "Label": "Silla YAHEETECH"
       }
     ],
-    "Sonido": [
+    "Webcam": [
+      {
+        "Price": 49.00,
+        "Features": [
+          "USB"
+        ],
+        "Date": "2023-07-26T18:48:21.8195038-04:00",
+        "Update": "2023-07-27T11:12:22.9422147-04:00",
+        "Discount": 0.0,
+        "Label": "Webcam Autofocus FHD HA501 +Tripode"
+      },
+      {
+        "Price": 39.00,
+        "Features": [
+          "30fps",
+          "HDR",
+          "Reducción de ruido",
+          "90 grados",
+          "USB"
+        ],
+        "Date": "2023-07-26T16:42:54.3761933-04:00",
+        "Update": "2023-07-27T11:33:38.2399585-04:00",
+        "Discount": 0.0,
+        "Label": "Webcam Full HD 1080P C01-Black"
+      },
+      {
+        "Price": 45.00,
+        "Features": [
+          "Black",
+          "2mp",
+          "30fps",
+          "Stereo"
+        ],
+        "Date": "2023-06-19T07:49:43.9179086-04:00",
+        "Update": "2023-07-31T14:21:04.9114331-04:00",
+        "Discount": 0.0,
+        "Label": "Webcam AUKEY 1080p"
+      }
+    ],
+    "Audífonos": [
       {
         "Price": 109.00,
         "Features": [
@@ -3363,9 +3363,9 @@
           "Cascos"
         ],
         "Date": "2023-06-24T08:20:31.4230275-04:00",
-        "Update": "2023-07-27T11:12:22.8129554-04:00",
+        "Update": "2023-07-31T14:21:04.9205753-04:00",
         "Discount": 0.0,
-        "Label": "Audífonos Asus TUF H1 Wireless"
+        "Label": "Asus TUF H1 Wireless"
       },
       {
         "Price": 73.00,
@@ -3378,9 +3378,9 @@
           "Cascos"
         ],
         "Date": "2023-07-09T16:45:42.268062-04:00",
-        "Update": "2023-07-27T11:12:22.8201282-04:00",
+        "Update": "2023-07-31T14:21:04.934129-04:00",
         "Discount": 0.0,
-        "Label": "Audífonos Logitech G335"
+        "Label": "Logitech G335"
       },
       {
         "Price": 64.00,
@@ -3395,9 +3395,9 @@
           "Cascos"
         ],
         "Date": "2023-07-09T16:45:46.4090102-04:00",
-        "Update": "2023-07-27T11:12:22.8268883-04:00",
+        "Update": "2023-07-31T14:21:04.9418143-04:00",
         "Discount": 0.0,
-        "Label": "Audífonos Logitech G435 Lightspeed Wireless"
+        "Label": "Logitech G435 Lightspeed Wireless"
       },
       {
         "Price": 89.00,
@@ -3412,9 +3412,9 @@
           "Cascos"
         ],
         "Date": "2023-07-09T16:44:46.7059022-04:00",
-        "Update": "2023-07-27T11:12:22.8337468-04:00",
+        "Update": "2023-07-31T14:21:04.949115-04:00",
         "Discount": 0.0,
-        "Label": "Audífonos Razer BlackShark V2 X"
+        "Label": "Razer BlackShark V2 X"
       },
       {
         "Price": 87.00,
@@ -3429,9 +3429,9 @@
           "Cascos"
         ],
         "Date": "2023-07-09T16:45:38.4980752-04:00",
-        "Update": "2023-07-27T11:12:22.841678-04:00",
+        "Update": "2023-07-31T14:21:04.9567331-04:00",
         "Discount": 0.0,
-        "Label": "Audífonos Corsair HS65 Surround"
+        "Label": "Corsair HS65 Surround"
       },
       {
         "Price": 125.00,
@@ -3447,9 +3447,9 @@
           "Cascos"
         ],
         "Date": "2023-05-12T07:52:40.6205045-04:00",
-        "Update": "2023-07-27T11:12:22.8480749-04:00",
+        "Update": "2023-07-31T14:21:04.9674978-04:00",
         "Discount": 0.0,
-        "Label": "Audífonos Corsair VOID RGB Elite Wireless Carbon"
+        "Label": "Corsair VOID RGB Elite Wireless Carbon"
       },
       {
         "Price": 93.00,
@@ -3465,9 +3465,9 @@
           "Cascos"
         ],
         "Date": "2023-07-26T16:42:49.9821955-04:00",
-        "Update": "2023-07-31T14:10:22.1980826-04:00",
+        "Update": "2023-07-31T14:21:04.9749775-04:00",
         "Discount": 0.0,
-        "Label": "Audífonos Cooler Master MH630"
+        "Label": "Cooler Master MH630"
       }
     ]
   }
