@@ -1,6 +1,6 @@
 {
   "Category": "Periféricos",
-  "SubCategory": "Adaptadores",
+  "SubCategory": "Adaptador",
   "Images": [
     "/images/products/conversor-dino-hdmi-a-vga-1.webp",
     "/images/products/conversor-dino-hdmi-a-vga-2.webp",
@@ -12,7 +12,7 @@
     "DCA106-HV"
   ],
   "Date": "2023-06-07T14:58:54.5233761-04:00",
-  "Update": "2023-06-07T15:55:09.3933373-04:00",
+  "Update": "2023-07-31T14:53:37.2541874-04:00",
   "Discount": 0.0,
   "Label": "Conversor DINO HDMI a VGA"
 }
