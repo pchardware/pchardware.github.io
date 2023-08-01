@@ -1,0 +1,17 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disco Sólido",
+  "Images": [
+    "/images/products/ssd-25-samsung-870-evo-500gb-1.webp"
+  ],
+  "Description": "",
+  "Price": 60.00,
+  "Features": [
+    "560mbs",
+    "SATA 3"
+  ],
+  "Date": "2023-04-09T09:39:58.2011686-04:00",
+  "Update": "2023-08-01T11:12:54.6789141-04:00",
+  "Discount": 0.0,
+  "Label": "SSD 2.5 Samsung 870 EVO 500GB"
+}
