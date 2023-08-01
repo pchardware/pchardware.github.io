@@ -162,14 +162,6 @@
         "Update": "2023-07-27T10:54:59.864733-04:00",
         "Discount": 0.0,
         "Label": "Thermalright LGA1700-BCF Black"
-      },
-      {
-        "Price": 37.00,
-        "Features": [],
-        "Date": "2023-08-01T11:15:00.5691684-04:00",
-        "Update": "2023-08-01T12:24:37.9621226-04:00",
-        "Discount": 0.0,
-        "Label": "PCIe x1 - ORICO 7xUSB 3.0"
       }
     ],
     "Memoria RAM": [
@@ -314,18 +306,6 @@
         "Update": "2023-07-27T10:06:16.2570921-04:00",
         "Discount": 0.0,
         "Label": "DDR5 Corsair Vengeance RGB 48GB 5600mhz"
-      },
-      {
-        "Price": 129.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL36"
-        ],
-        "Date": "2023-05-11T08:36:03.7462691-04:00",
-        "Update": "2023-07-27T10:06:16.2642602-04:00",
-        "Discount": 0.0,
-        "Label": "DDR5 Corsair Vengeance 32GB 6000mhz"
       },
       {
         "Price": 145.00,
@@ -648,18 +628,6 @@
         "Update": "2023-06-07T16:09:24.8126722-04:00",
         "Discount": 0.0,
         "Label": "SSD M.2 Samsung 980 500GB"
-      },
-      {
-        "Price": 60.00,
-        "Features": [
-          "5000mbs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-04-09T10:02:30.6829059-04:00",
-        "Update": "2023-06-07T16:09:24.8160342-04:00",
-        "Discount": 0.0,
-        "Label": "SSD M.2 Seagate FireCuda 520 500GB"
       },
       {
         "Price": 105.00,
@@ -1256,14 +1224,6 @@
         "Update": "2023-08-01T12:24:37.8995625-04:00",
         "Discount": 0.0,
         "Label": "Fuente ASUS ROG STRIX 1000W Gold"
-      },
-      {
-        "Price": 365.00,
-        "Features": [],
-        "Date": "2023-08-01T11:14:49.4464577-04:00",
-        "Update": "2023-08-01T12:24:37.9410657-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente EVGA SuperNOVA 1600 G+, 80+ GOLD 1600W"
       }
     ],
     "Red": [
@@ -1566,27 +1526,6 @@
         "Update": "2023-07-27T07:36:15.640121-04:00",
         "Discount": 0.0,
         "Label": "Gigabyte Z690 AERO G"
-      },
-      {
-        "Price": 285.00,
-        "Features": [
-          "12va-13ra",
-          "DDR5",
-          "7600mhz",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "LGA 1700",
-          "ATX",
-          "PS2",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio"
-        ],
-        "Date": "2023-07-26T18:48:17.6030093-04:00",
-        "Update": "2023-07-27T07:36:15.6533519-04:00",
-        "Discount": 0.0,
-        "Label": "Gigabyte Z790 UD AX"
       },
       {
         "Price": 239.00,
