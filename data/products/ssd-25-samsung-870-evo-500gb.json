@@ -2,16 +2,22 @@
   "Category": "Componentes",
   "SubCategory": "Disco Sólido",
   "Images": [
-    "/images/products/ssd-25-samsung-870-evo-500gb-1.webp"
+    "/images/products/ssd-25-samsung-870-evo-500gb-1.webp",
+    "/images/products/ssd-25-samsung-870-evo-500gb-2.webp",
+    "/images/products/ssd-25-samsung-870-evo-500gb-3.webp",
+    "/images/products/ssd-25-samsung-870-evo-500gb-4.webp",
+    "/images/products/ssd-25-samsung-870-evo-500gb-5.webp",
+    "/images/products/ssd-25-samsung-870-evo-500gb-6.webp"
   ],
-  "Description": "",
+  "Description": "Model\nBrand: SAMSUNG\nSeries: 870 EVO Series\nModel: MZ-77E500B/AM\nPart Number: MZ-77E500B/AM\nDevice Type: Internal Solid State Drive (SSD)\nUsed For: Consumer\n\n\nDetails\nForm Factor: 2.5\"\nCapacity: 500GB\nMemory Components: V-NAND\nInterface: SATA III\nCache: Samsung 512MB Low Power DDR4 SDRAM\nEncryption: Class 0 (AES 256) TCG/Opal v2.0, MS eDrive (IEEE1667)\n\n\nPerformance\nMax Sequential Read: Up to 560 MBps\nMax Sequential Write: Up to 530 MBps\nMTBF: 1,500,000 hours\n\n\nFeatures\nFeatures: THE SSD ALL-STAR - The latest 870 EVO has indisputable performance, reliability and compatibility built upon Samsung's pioneering technology.\n\nEXCELLENCE IN PERFORMANCE - Enjoy professional-level SSD performance with 870 EVO, which maximizes the SATA interface limit to 560/530 MB/s sequential speeds, accelerates write speeds and maintains long-term high performance with a larger variable buffer.\n\nINDUSTRY-DEFINING RELIABILITY - Meet the demands of every task - from everyday computing to 8K video processing, with up to 300 TBW.\n\nMORE COMPATIBLE THAN EVER - 870 EVO has been compatibility tested for major host systems and applications, including chipsets, motherboards, NAS, and video recording devices.\n\nUPGRADE WITH EASE - Simply plug 870 EVO into the standard 2.5-inch SATA form factor on your desktop PC or laptop and let the renewed migration software takes care of the rest.\n\nSAMSUNG MAGICIAN SOFTWARE - Make your drive work smoothly with enhanced Samsung Magician 6 software that helps you easily manage your drive, keep up with the latest updates, monitor the drive's health and status, or even enhance its performance.\n\n\nEnvironmental\nPower Consumption (Idle): Max. 30 mW\nPower Consumption (Active): Average: 2.2W\nMaximum: 3.5W\nMax Shock Resistance: 1500G\n\n\nDimensions & Weight\nHeight: 7.00mm\nWidth: 69.85mm\nDepth: 100.00mm\nWeight: 86.18g",
   "Price": 60.00,
   "Features": [
     "560mbs",
+    "300tbw",
     "SATA 3"
   ],
   "Date": "2023-04-09T09:39:58.2011686-04:00",
-  "Update": "2023-08-01T11:12:54.6789141-04:00",
+  "Update": "2023-08-01T12:24:37.8780269-04:00",
   "Discount": 0.0,
   "Label": "SSD 2.5 Samsung 870 EVO 500GB"
 }
