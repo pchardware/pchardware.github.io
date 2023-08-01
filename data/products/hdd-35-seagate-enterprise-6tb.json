@@ -2,9 +2,7 @@
   "Category": "Componentes",
   "SubCategory": "Disco Duro",
   "Images": [
-    "/images/products/hdd-35-seagate-enterprise-6tb-1.webp",
-    "/images/products/hdd-35-seagate-enterprise-6tb-2.webp",
-    "/images/products/hdd-35-seagate-enterprise-6tb-3.webp"
+    "/images/products/hdd-35-seagate-enterprise-6tb-1.webp"
   ],
   "Description": "Model\nBrand: Seagate\nModel: ST6000NM0044\nPackaging: Bare Drive\n\n\nPerformance\nInterface: SATA 6.0Gb/s\nCapacity: 6TB\nRPM: 7200 RPM\nCache: 128MB\nAverage Latency: 4.16ms\n\n\nFeatures\nFeatures: Fastest high-capacity HDD with best-in-class random and sequential read/write performance.\n\nEighth-generation drive technology for reliable access to bulk storage of unstructured data.\n\nIndustry-leading rotational vibration tolerance ensures consistent performance.\n\nImproved power and cooling efficiencies with low power consumption and on-demand PowerChoice technology based on T10/T13 power management standards.\n\nEngineered for 24x7 workloads of 550TB/yr-10 x that of desktop drives.\n\nRobust performance with dual processors, ramp load technology, top-coverattached motor and humidity sensor for optimum performance in all chassis.\nUsage: For Enterprise Storage\n\n\nDimensions\nForm Factor: 3.5\"",
   "Price": 99.00,
@@ -15,7 +13,7 @@
     "6 Gbps"
   ],
   "Date": "2023-07-26T16:42:02.7416925-04:00",
-  "Update": "2023-07-27T08:17:37.3920469-04:00",
+  "Update": "2023-08-01T18:41:17.203195-04:00",
   "Discount": 0.0,
   "Label": "HDD 3.5 Seagate Enterprise 6TB"
 }
