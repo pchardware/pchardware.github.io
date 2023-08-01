@@ -1365,19 +1365,6 @@
         "Label": "HDD 3.5 Seagate Constellation 2TB SAS"
       },
       {
-        "Price": 99.00,
-        "Features": [
-          "128mb",
-          "7200rpm",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-07-26T16:42:02.7416925-04:00",
-        "Update": "2023-07-27T08:17:37.3920469-04:00",
-        "Discount": 0.0,
-        "Label": "HDD 3.5 Seagate Enterprise 6TB"
-      },
-      {
         "Price": 65.00,
         "Features": [
           "64mb",
@@ -1400,6 +1387,19 @@
         "Update": "2023-08-01T11:12:54.6876326-04:00",
         "Discount": 0.0,
         "Label": "HDD 3.5 Seagate Desktop 1TB"
+      },
+      {
+        "Price": 99.00,
+        "Features": [
+          "128mb",
+          "7200rpm",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-07-26T16:42:02.7416925-04:00",
+        "Update": "2023-08-01T18:41:17.203195-04:00",
+        "Discount": 0.0,
+        "Label": "HDD 3.5 Seagate Enterprise 6TB"
       }
     ],
     "Board": [
@@ -1831,23 +1831,6 @@
         "Label": "Enfriamiento Thermalright Assassin X 120 R SE ARGB"
       },
       {
-        "Price": 9.00,
-        "Features": [
-          "LGA 115X",
-          "2800rpm",
-          "22dBA",
-          "Aluminio",
-          "1xFan",
-          "19mm",
-          "Top-flow",
-          "Negro"
-        ],
-        "Date": "2023-06-07T15:04:28.5510666-04:00",
-        "Update": "2023-07-27T09:48:00.7046018-04:00",
-        "Discount": 0.0,
-        "Label": "Enfriamiento Intel Stock Original"
-      },
-      {
         "Price": 13.00,
         "Features": [
           "LGA 1200",
@@ -1993,6 +1976,23 @@
         "Update": "2023-08-01T12:24:37.9124436-04:00",
         "Discount": 0.0,
         "Label": "Enfriamiento Cooler Master Hyper 620S Dual"
+      },
+      {
+        "Price": 9.00,
+        "Features": [
+          "LGA 115X",
+          "2800rpm",
+          "22dBA",
+          "Aluminio",
+          "1xFan",
+          "19mm",
+          "Top-flow",
+          "Negro"
+        ],
+        "Date": "2023-06-07T15:04:28.5510666-04:00",
+        "Update": "2023-08-01T18:41:17.2112059-04:00",
+        "Discount": 0.0,
+        "Label": "Enfriamiento Intel Stock Original"
       }
     ],
     "Tarjeta Gráfica": [
