@@ -1,0 +1,25 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Otros",
+  "Images": [
+    "/images/products/docking-orico-single-bay-1.webp",
+    "/images/products/docking-orico-single-bay-2.webp",
+    "/images/products/docking-orico-single-bay-3.webp",
+    "/images/products/docking-orico-single-bay-4.webp",
+    "/images/products/docking-orico-single-bay-5.webp",
+    "/images/products/docking-orico-single-bay-6.webp",
+    "/images/products/docking-orico-single-bay-7.webp"
+  ],
+  "Description": "Model\nBrand: ORICO\nSeries: ORICO-6619C3-G2\nModel: ORICO-6619C3-G2\n\n\nDetails\nColor: Black\nSize: 2.5\" & 3.5\"\nType: Enclosure\nAC Adapter: Yes\nMaterial: Plastic\nInternal Interface: SATA I/II/III\nExternal Interface: SATA\nHDD Count Supported: Single HDD\nNumber of Bay: 1\nMaximum Capacity (per Bay): Up to  12TB\n\n\nDimensions & Weight\nDimensions: 135.5*80*66.5mm",
+  "Price": 32.00,
+  "Features": [
+    "USB3.1 Gen2",
+    "2.5",
+    "3.5",
+    "SATA 3"
+  ],
+  "Date": "2023-08-01T11:14:56.8228446-04:00",
+  "Update": "2023-08-01T18:30:20.3944963-04:00",
+  "Discount": 0.0,
+  "Label": "Docking Orico Single Bay"
+}
