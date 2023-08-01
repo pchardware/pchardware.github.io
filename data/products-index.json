@@ -777,6 +777,17 @@
         "Update": "2023-07-27T09:48:00.8250522-04:00",
         "Discount": 0.0,
         "Label": "SSD 2.5 Team Group CX2 2TB"
+      },
+      {
+        "Price": 60.00,
+        "Features": [
+          "560mbs",
+          "SATA 3"
+        ],
+        "Date": "2023-04-09T09:39:58.2011686-04:00",
+        "Update": "2023-08-01T11:12:54.6789141-04:00",
+        "Discount": 0.0,
+        "Label": "SSD 2.5 Samsung 870 EVO 500GB"
       }
     ],
     "Disipador Líquido": [
@@ -1346,6 +1357,17 @@
         "Update": "2023-07-27T08:17:37.4003846-04:00",
         "Discount": 0.0,
         "Label": "HDD 3.5 Seagate Pipeline 2TB"
+      },
+      {
+        "Price": 59.0,
+        "Features": [
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-06-29T07:38:17.9677885-04:00",
+        "Update": "2023-08-01T11:12:54.6876326-04:00",
+        "Discount": 0.0,
+        "Label": "HDD 3.5 Seagate Desktop 1TB"
       }
     ],
     "Board": [
