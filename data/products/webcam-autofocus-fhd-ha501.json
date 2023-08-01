@@ -1,0 +1,23 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Webcam",
+  "Images": [
+    "/images/products/webcam-autofocus-fhd-ha501-1.webp",
+    "/images/products/webcam-autofocus-fhd-ha501-2.webp",
+    "/images/products/webcam-autofocus-fhd-ha501-3.webp",
+    "/images/products/webcam-autofocus-fhd-ha501-4.webp",
+    "/images/products/webcam-autofocus-fhd-ha501-5.webp",
+    "/images/products/webcam-autofocus-fhd-ha501-6.webp",
+    "/images/products/webcam-autofocus-fhd-ha501-7.webp"
+  ],
+  "Description": "Details\nColor: Black",
+  "Price": 49.00,
+  "Features": [
+    "Trípode",
+    "USB"
+  ],
+  "Date": "2023-07-26T18:48:21.8195038-04:00",
+  "Update": "2023-08-01T18:30:20.3657324-04:00",
+  "Discount": 0.0,
+  "Label": "Webcam Autofocus FHD HA501"
+}
