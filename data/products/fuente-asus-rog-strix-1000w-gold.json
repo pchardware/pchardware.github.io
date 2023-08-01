@@ -11,9 +11,17 @@
   ],
   "Description": "General\nBrand: ASUS\nSeries: ROG Strix Series\nModel: ROG-STRIX-1000G\n\n\nDetails\nType: ATX12V\nMaximum Power: 1000 W\nFans: 1 x 135mm Dual Ball Bearing Fan\nMain Connector: 20+4Pin\n+12V Rails: Single\nPCI-Express Connector: 6 x 6+2-Pin\nSATA Power Connector: 8\nMax PSU Length: 160 mm\nModular: Full Modular\nEnergy-Efficient: 80 PLUS GOLD Certified\nProtection: OPP / OVP / UVP / SCP / OCP / OTP\nInput Voltage: 100 - 240 V\nOutput: +3.3V@25A, +5V@25A, +12V@83A, -12V@0.3A, +5VSB@3A\nConnectors: 1 x MB 24/20-pin\n2 x CPU 4+4-pin\n6 x PCI-E 6+2-pin\n8 x SATA\n6 x Peripheral\n\n\nFeatures\nFeatures: ROG heatsinks cover critical components. Lower temps result in a longer lifespan and reduced noise.\n\nAxial-tech fan design features a smaller fan hub that facilitates longer blades and a barrier ring that increases downward air pressure.\n\nDual ball fan bearings can last up to twice as long as sleeve bearing designs.\n\n0dB Technology lets you enjoy light gaming in relative silence.\n\nAn 80 Plus Gold Certification is the result of Japanese capacitors and other premium components.\n\nCosmetic customization is enabled by a magnetic logo and stickers that help you reskin the visible side to your liking.\n\nFully modular cables keep your rig neat and tidy.\n\n10-year warranty included.\n\n\nDimension & Weight\nDimensions: 3.39\" x 5.91\" x 6.30\"\nWeight: 4.16 lbs.\n\n\nPackage\nPackage Content: 1 x Power Cord \n1 x Motherboard Power Cable\n2 x CPU Cable 1000mm\n3 x PCI-E Cable\n2 x SATA Cable\n2 x Peripheral\n\n2 x ROG badge\n1 x ROG logo magnet\n3 x ROG label \n\n*MB/ CPU/ PCI-E cables come with embedded capacitors in the middle.",
   "Price": 255.00,
-  "Features": [],
+  "Features": [
+    "80+ Gold",
+    "Full Modular",
+    "1000W",
+    "83A",
+    "6x 6+2-Pin",
+    "2x 4+4 EPS",
+    "8x SATA"
+  ],
   "Date": "2023-08-01T11:14:26.7187573-04:00",
-  "Update": "2023-08-01T12:24:37.8995625-04:00",
+  "Update": "2023-08-01T18:30:20.3792357-04:00",
   "Discount": 0.0,
   "Label": "Fuente ASUS ROG STRIX 1000W Gold"
 }
