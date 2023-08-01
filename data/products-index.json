@@ -56,14 +56,6 @@
   "Componentes": {
     "Otros": [
       {
-        "Price": 85.00,
-        "Features": [],
-        "Date": "2023-06-07T10:26:52.1301364-04:00",
-        "Update": "2023-06-07T12:21:23.7777065-04:00",
-        "Discount": 0.0,
-        "Label": "Corsair Comander Pro"
-      },
-      {
         "Price": 30.00,
         "Features": [
           "200mm",
@@ -94,16 +86,6 @@
         "Update": "2023-06-07T15:55:09.4573643-04:00",
         "Discount": 0.0,
         "Label": "Fan Uphere 12BK3"
-      },
-      {
-        "Price": 30.00,
-        "Features": [
-          "PCIe x1"
-        ],
-        "Date": "2023-06-07T15:06:32.5341385-04:00",
-        "Update": "2023-06-07T15:55:09.4819085-04:00",
-        "Discount": 0.0,
-        "Label": "HUB Rosewill 4xUSB 3.0"
       },
       {
         "Price": 5.00,
@@ -162,6 +144,27 @@
         "Update": "2023-07-27T10:54:59.864733-04:00",
         "Discount": 0.0,
         "Label": "Thermalright LGA1700-BCF Black"
+      },
+      {
+        "Price": 85.00,
+        "Features": [],
+        "Date": "2023-06-07T10:26:52.1301364-04:00",
+        "Update": "2023-08-01T18:30:20.3375283-04:00",
+        "Discount": 0.0,
+        "Label": "Corsair Comander Pro"
+      },
+      {
+        "Price": 30.00,
+        "Features": [
+          "PCIe x1",
+          "Alimentación IDE",
+          "Interna",
+          "Adaptador"
+        ],
+        "Date": "2023-06-07T15:06:32.5341385-04:00",
+        "Update": "2023-08-01T18:30:20.3446254-04:00",
+        "Discount": 0.0,
+        "Label": "Expansión Rosewill 4xUSB 3.0"
       }
     ],
     "Memoria RAM": [
@@ -1219,9 +1222,17 @@
       },
       {
         "Price": 255.00,
-        "Features": [],
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "1000W",
+          "83A",
+          "6x 6+2-Pin",
+          "2x 4+4 EPS",
+          "8x SATA"
+        ],
         "Date": "2023-08-01T11:14:26.7187573-04:00",
-        "Update": "2023-08-01T12:24:37.8995625-04:00",
+        "Update": "2023-08-01T18:30:20.3792357-04:00",
         "Discount": 0.0,
         "Label": "Fuente ASUS ROG STRIX 1000W Gold"
       }
@@ -1239,11 +1250,15 @@
       },
       {
         "Price": 40.00,
-        "Features": [],
+        "Features": [
+          "PCIe x1",
+          "300Mbps",
+          "2.4GHz"
+        ],
         "Date": "2023-06-07T15:04:18.9988293-04:00",
-        "Update": "2023-06-07T17:13:07.6998149-04:00",
+        "Update": "2023-08-01T18:30:20.3509442-04:00",
         "Discount": 0.0,
-        "Label": "PCIe x1 - TP-Link Wifi Adapter [TL-WN881ND]"
+        "Label": "TP-Link Wifi Adapter 300N"
       }
     ],
     "Disco Duro": [
@@ -2456,11 +2471,16 @@
       },
       {
         "Price": 32.00,
-        "Features": [],
+        "Features": [
+          "USB3.1 Gen2",
+          "2.5",
+          "3.5",
+          "SATA 3"
+        ],
         "Date": "2023-08-01T11:14:56.8228446-04:00",
-        "Update": "2023-08-01T12:24:37.9546482-04:00",
+        "Update": "2023-08-01T18:30:20.3944963-04:00",
         "Discount": 0.0,
-        "Label": "Docking - Orico 1xBay, 2.5/3.5, USB 3.1 Gen2"
+        "Label": "Docking Orico Single Bay"
       }
     ],
     "Mouse": [
@@ -2682,27 +2702,39 @@
       },
       {
         "Price": 49.00,
-        "Features": [],
+        "Features": [
+          "Optico",
+          "6 botónes"
+        ],
         "Date": "2023-08-01T11:15:18.2472734-04:00",
-        "Update": "2023-08-01T12:24:37.9687924-04:00",
+        "Update": "2023-08-01T18:30:20.4143725-04:00",
         "Discount": 0.0,
         "Label": "Mouse SteelSeries Rival 3"
       },
       {
         "Price": 39.00,
-        "Features": [],
+        "Features": [
+          "53g",
+          "PTFE",
+          "Omron Switches",
+          "Ultralight",
+          "Pro-Grade"
+        ],
         "Date": "2023-08-01T11:15:22.0148333-04:00",
-        "Update": "2023-08-01T12:24:37.9758822-04:00",
+        "Update": "2023-08-01T18:30:20.4219489-04:00",
         "Discount": 0.0,
         "Label": "Mouse Cooler Master M710"
       },
       {
         "Price": 57.00,
-        "Features": [],
+        "Features": [
+          "Limited Edition",
+          "Extra-Large"
+        ],
         "Date": "2023-08-01T11:15:25.8644328-04:00",
-        "Update": "2023-08-01T12:24:37.9850545-04:00",
+        "Update": "2023-08-01T18:30:20.4296613-04:00",
         "Discount": 0.0,
-        "Label": "Mouse Pad ASUS NC01 ROG Sheath BLK Limited Edition Extra-Large"
+        "Label": "Mouse Pad Asus NC01 ROG Sheath BLK"
       }
     ],
     "Teclado": [
@@ -2966,22 +2998,6 @@
         "Label": "COMBO Teclado + Mouse + Pad GAMDIAS HERMES E1A 3-in-1"
       },
       {
-        "Price": 219.00,
-        "Features": [
-          "Mecánico",
-          "Aluminio",
-          "Macros",
-          "iCUE",
-          "Gaming",
-          "Full",
-          "USB"
-        ],
-        "Date": "2023-07-13T11:32:23.0770314-04:00",
-        "Update": "2023-07-13T12:01:33.8010668-04:00",
-        "Discount": 0.0,
-        "Label": "Teclado Corsair K70 RGB PRO"
-      },
-      {
         "Price": 19.00,
         "Features": [
           "Membrana",
@@ -3048,12 +3064,36 @@
         "Label": "COMBO Teclado Asus TUF Gaming K1 + Mouse M3"
       },
       {
-        "Price": 89.00,
-        "Features": [],
-        "Date": "2023-08-01T11:15:29.6304071-04:00",
-        "Update": "2023-08-01T12:24:37.9919944-04:00",
+        "Price": 219.00,
+        "Features": [
+          "Mecánico",
+          "Aluminio",
+          "Macros",
+          "iCUE",
+          "Gaming",
+          "Full",
+          "USB"
+        ],
+        "Date": "2023-07-13T11:32:23.0770314-04:00",
+        "Update": "2023-08-01T18:30:20.3582813-04:00",
         "Discount": 0.0,
-        "Label": "Teclado NZXT Function TKL Mechanical KB-1TKUS-BR - PC"
+        "Label": "Teclado Corsair K70 RGB PRO"
+      },
+      {
+        "Price": 89.00,
+        "Features": [
+          "Mecánico",
+          "RGB",
+          "Aluminio",
+          "Gaming",
+          "Palm rest",
+          "Multimedia",
+          "USB"
+        ],
+        "Date": "2023-08-01T11:15:29.6304071-04:00",
+        "Update": "2023-08-01T18:30:20.4369867-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado NZXT Function TKL"
       }
     ],
     "Monitor": [
@@ -3218,16 +3258,6 @@
     ],
     "Webcam": [
       {
-        "Price": 49.00,
-        "Features": [
-          "USB"
-        ],
-        "Date": "2023-07-26T18:48:21.8195038-04:00",
-        "Update": "2023-07-27T11:12:22.9422147-04:00",
-        "Discount": 0.0,
-        "Label": "Webcam Autofocus FHD HA501 +Tripode"
-      },
-      {
         "Price": 39.00,
         "Features": [
           "30fps",
@@ -3255,12 +3285,27 @@
         "Label": "Webcam AUKEY 1080p"
       },
       {
-        "Price": 76.00,
-        "Features": [],
-        "Date": "2023-08-01T11:14:11.0346434-04:00",
-        "Update": "2023-08-01T12:24:37.8847866-04:00",
+        "Price": 49.00,
+        "Features": [
+          "Trípode",
+          "USB"
+        ],
+        "Date": "2023-07-26T18:48:21.8195038-04:00",
+        "Update": "2023-08-01T18:30:20.3657324-04:00",
         "Discount": 0.0,
-        "Label": "Webcam Goaic L32C 4K, 2 Speakers + Tripode"
+        "Label": "Webcam Autofocus FHD HA501"
+      },
+      {
+        "Price": 76.00,
+        "Features": [
+          "Trípode",
+          "2 Speakers",
+          "USB"
+        ],
+        "Date": "2023-08-01T11:14:11.0346434-04:00",
+        "Update": "2023-08-01T18:30:20.3726124-04:00",
+        "Discount": 0.0,
+        "Label": "Webcam Goaic L32C 4K"
       }
     ],
     "Audífonos": [
