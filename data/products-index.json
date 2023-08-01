@@ -162,6 +162,14 @@
         "Update": "2023-07-27T10:54:59.864733-04:00",
         "Discount": 0.0,
         "Label": "Thermalright LGA1700-BCF Black"
+      },
+      {
+        "Price": 37.00,
+        "Features": [],
+        "Date": "2023-08-01T11:15:00.5691684-04:00",
+        "Update": "2023-08-01T12:24:37.9621226-04:00",
+        "Discount": 0.0,
+        "Label": "PCIe x1 - ORICO 7xUSB 3.0"
       }
     ],
     "Memoria RAM": [
@@ -572,6 +580,26 @@
         "Update": "2023-07-27T07:54:42.9679828-04:00",
         "Discount": 0.0,
         "Label": "Chasis NZXT H510 Negro-Rojo"
+      },
+      {
+        "Price": 169.00,
+        "Features": [
+          "V-GPU",
+          "DualPSU",
+          "5xUSB",
+          "4xFan",
+          "FanSpeed",
+          "Full Tower",
+          "Gamer",
+          "ATX",
+          "E-ATX",
+          "3xHDD",
+          "Negro"
+        ],
+        "Date": "2023-08-01T11:14:45.7434962-04:00",
+        "Update": "2023-08-01T12:24:37.9343726-04:00",
+        "Discount": 0.0,
+        "Label": "Chasis Rosewill Rise"
       }
     ],
     "Disco Sólido": [
@@ -782,12 +810,25 @@
         "Price": 60.00,
         "Features": [
           "560mbs",
+          "300tbw",
           "SATA 3"
         ],
         "Date": "2023-04-09T09:39:58.2011686-04:00",
-        "Update": "2023-08-01T11:12:54.6789141-04:00",
+        "Update": "2023-08-01T12:24:37.8780269-04:00",
         "Discount": 0.0,
         "Label": "SSD 2.5 Samsung 870 EVO 500GB"
+      },
+      {
+        "Price": 84.00,
+        "Features": [
+          "560mbps",
+          "600tbw",
+          "SATA 3"
+        ],
+        "Date": "2023-08-01T11:14:15.2077979-04:00",
+        "Update": "2023-08-01T12:24:37.8928476-04:00",
+        "Discount": 0.0,
+        "Label": "SSD 2.5 SAMSUNG 870 EVO 1TB"
       }
     ],
     "Disipador Líquido": [
@@ -1207,6 +1248,22 @@
         "Update": "2023-07-27T09:58:48.5177287-04:00",
         "Discount": 0.0,
         "Label": "Fuente EVGA 800 GE"
+      },
+      {
+        "Price": 255.00,
+        "Features": [],
+        "Date": "2023-08-01T11:14:26.7187573-04:00",
+        "Update": "2023-08-01T12:24:37.8995625-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente ASUS ROG STRIX 1000W Gold"
+      },
+      {
+        "Price": 365.00,
+        "Features": [],
+        "Date": "2023-08-01T11:14:49.4464577-04:00",
+        "Update": "2023-08-01T12:24:37.9410657-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente EVGA SuperNOVA 1600 G+, 80+ GOLD 1600W"
       }
     ],
     "Red": [
@@ -1726,6 +1783,44 @@
         "Update": "2023-07-28T14:40:04.1210973-04:00",
         "Discount": 0.0,
         "Label": "ASRock Z790 STEEL LEGEND WIFI"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "12va-13ra",
+          "8xSATA",
+          "5000mhz",
+          "ATX",
+          "6xUSB",
+          "PS2",
+          "LGA 1700",
+          "DisplayPort",
+          "HDMI",
+          "3xAudio"
+        ],
+        "Date": "2023-08-01T11:14:37.8225714-04:00",
+        "Update": "2023-08-01T12:24:37.9207759-04:00",
+        "Discount": 0.0,
+        "Label": "ASRock Z690 Pro RS DDR4"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "10ma-11na",
+          "9xUSB",
+          "5333mhz",
+          "6xAudio",
+          "DDR4",
+          "LGA 1200",
+          "6xSATA",
+          "ATX",
+          "HDMI",
+          "DisplayPort"
+        ],
+        "Date": "2023-08-01T11:14:41.678567-04:00",
+        "Update": "2023-08-01T12:24:37.9277004-04:00",
+        "Discount": 0.0,
+        "Label": "MSI MPG Z590 Gaming Carbon Wifi"
       }
     ],
     "Disipador por Aire": [
@@ -1926,6 +2021,24 @@
         "Update": "2023-07-27T09:48:00.8542752-04:00",
         "Discount": 0.0,
         "Label": "Enfriamiento Thermaltake UX200 SE"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "ARGB",
+          "Dual Tower",
+          "6 Head Pipes",
+          "72cfm",
+          "27dba",
+          "AM5",
+          "LGA1700",
+          "155mm",
+          "1750rpm"
+        ],
+        "Date": "2023-08-01T11:14:33.9125632-04:00",
+        "Update": "2023-08-01T12:24:37.9124436-04:00",
+        "Discount": 0.0,
+        "Label": "Enfriamiento Cooler Master Hyper 620S Dual"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2401,6 +2514,14 @@
         "Update": "2023-07-27T11:12:22.8877103-04:00",
         "Discount": 0.0,
         "Label": "Docking Orico Dual Bay"
+      },
+      {
+        "Price": 32.00,
+        "Features": [],
+        "Date": "2023-08-01T11:14:56.8228446-04:00",
+        "Update": "2023-08-01T12:24:37.9546482-04:00",
+        "Discount": 0.0,
+        "Label": "Docking - Orico 1xBay, 2.5/3.5, USB 3.1 Gen2"
       }
     ],
     "Mouse": [
@@ -2619,6 +2740,30 @@
         "Update": "2023-07-27T11:12:22.9074412-04:00",
         "Discount": 0.0,
         "Label": "Mouse Pad Asus TUF Gaming P3"
+      },
+      {
+        "Price": 49.00,
+        "Features": [],
+        "Date": "2023-08-01T11:15:18.2472734-04:00",
+        "Update": "2023-08-01T12:24:37.9687924-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse SteelSeries Rival 3"
+      },
+      {
+        "Price": 39.00,
+        "Features": [],
+        "Date": "2023-08-01T11:15:22.0148333-04:00",
+        "Update": "2023-08-01T12:24:37.9758822-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse Cooler Master M710"
+      },
+      {
+        "Price": 57.00,
+        "Features": [],
+        "Date": "2023-08-01T11:15:25.8644328-04:00",
+        "Update": "2023-08-01T12:24:37.9850545-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse Pad ASUS NC01 ROG Sheath BLK Limited Edition Extra-Large"
       }
     ],
     "Teclado": [
@@ -2962,6 +3107,14 @@
         "Update": "2023-07-27T11:33:38.2530039-04:00",
         "Discount": 0.0,
         "Label": "COMBO Teclado Asus TUF Gaming K1 + Mouse M3"
+      },
+      {
+        "Price": 89.00,
+        "Features": [],
+        "Date": "2023-08-01T11:15:29.6304071-04:00",
+        "Update": "2023-08-01T12:24:37.9919944-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado NZXT Function TKL Mechanical KB-1TKUS-BR - PC"
       }
     ],
     "Monitor": [
@@ -3161,6 +3314,14 @@
         "Update": "2023-07-31T14:21:04.9114331-04:00",
         "Discount": 0.0,
         "Label": "Webcam AUKEY 1080p"
+      },
+      {
+        "Price": 76.00,
+        "Features": [],
+        "Date": "2023-08-01T11:14:11.0346434-04:00",
+        "Update": "2023-08-01T12:24:37.8847866-04:00",
+        "Discount": 0.0,
+        "Label": "Webcam Goaic L32C 4K, 2 Speakers + Tripode"
       }
     ],
     "Audífonos": [
@@ -3335,6 +3496,21 @@
         "Update": "2023-07-31T14:53:37.2771859-04:00",
         "Discount": 0.0,
         "Label": "Externo 2.5 Seagate Firecuda RGB 2TB"
+      },
+      {
+        "Price": 26.00,
+        "Features": [
+          "USB3.2 Gen2",
+          "NVMe",
+          "10Gbps",
+          "2-in-1",
+          "USB-A",
+          "USB-C"
+        ],
+        "Date": "2023-08-01T11:14:53.1196595-04:00",
+        "Update": "2023-08-01T12:24:37.9481722-04:00",
+        "Discount": 0.0,
+        "Label": "Enclosure Orico M.2 USB-A/C"
       }
     ]
   }
