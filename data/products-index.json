@@ -311,18 +311,6 @@
         "Label": "DDR5 Corsair Vengeance RGB 48GB 5600mhz"
       },
       {
-        "Price": 145.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL36"
-        ],
-        "Date": "2023-03-30T09:56:12.5688722-04:00",
-        "Update": "2023-07-27T10:06:16.2723892-04:00",
-        "Discount": 0.0,
-        "Label": "DDR5 Corsair Vengeance RGB 32GB 6000mhz"
-      },
-      {
         "Price": 155.00,
         "Features": [
           "2x16GB",
@@ -429,6 +417,30 @@
         "Update": "2023-07-27T11:39:36.4701683-04:00",
         "Discount": 0.0,
         "Label": "DDR4 Corsair Vengeance RGB RS 16GB 3600mhz"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "CL36",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-30T09:56:12.5688722-04:00",
+        "Update": "2023-08-02T11:51:57.1247765-04:00",
+        "Discount": 0.0,
+        "Label": "DDR5 Corsair Vengeance RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 139.00,
+        "Features": [
+          "2x16GB",
+          "Disipadas",
+          "CL40"
+        ],
+        "Date": "2023-08-02T11:15:17.4685317-04:00",
+        "Update": "2023-08-02T11:51:57.140149-04:00",
+        "Discount": 0.0,
+        "Label": "DDR5 CORSAIR Vengeance RGB 32GB 6000mhz C40"
       }
     ],
     "Chasis": [
@@ -3467,7 +3479,9 @@
       {
         "Price": 26.00,
         "Features": [
-          "USB3.2 Gen2",
+          "USB3.1 Gen2",
+          "UASP",
+          "ToolFree",
           "NVMe",
           "10Gbps",
           "2-in-1",
@@ -3475,9 +3489,40 @@
           "USB-C"
         ],
         "Date": "2023-08-01T11:14:53.1196595-04:00",
-        "Update": "2023-08-01T12:24:37.9481722-04:00",
+        "Update": "2023-08-02T11:51:57.1329172-04:00",
         "Discount": 0.0,
-        "Label": "Enclosure Orico M.2 USB-A/C"
+        "Label": "Enclosure M.2 Orico USB-A/C"
+      },
+      {
+        "Price": 17.00,
+        "Features": [
+          "UASP",
+          "AntiShock",
+          "Aluminio",
+          "ABS",
+          "SATA3"
+        ],
+        "Date": "2023-08-02T11:15:58.9847451-04:00",
+        "Update": "2023-08-02T11:51:57.1471849-04:00",
+        "Discount": 0.0,
+        "Label": "Enclosure 2.5 Orico USB3.0 Gen2"
+      },
+      {
+        "Price": 29.00,
+        "Features": [
+          "USB3.1 Gen2",
+          "UASP",
+          "ToolFree",
+          "NVMe",
+          "10Gbps",
+          "2-in-1",
+          "USB-A",
+          "USB-C"
+        ],
+        "Date": "2023-08-02T11:16:03.5595981-04:00",
+        "Update": "2023-08-02T11:51:57.1546128-04:00",
+        "Discount": 0.0,
+        "Label": "Enclosure M.2 Orico USB3.1 Gen2"
       }
     ]
   }
