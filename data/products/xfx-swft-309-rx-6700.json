@@ -11,7 +11,7 @@
     "/images/products/xfx-swft-309-rx-6700-7.webp"
   ],
   "Description": "Model\nBrand: XFX\nSeries: SPEEDSTER SWFT309\nModel: RX-67XLKWFDV\n\n\nInterface\nInterface: PCI Express 4.0 x16\n\n\nChipset\nChipset Manufacturer: AMD\nGPU Series: AMD Radeon RX 6000 Series\nGPU: Radeon RX 6700\nCore Clock: 2132 MHz\nBoost Clock: 2425 MHz\nStream Processors: 2304 Stream Processors\n\n\nMemory\nEffective Memory Clock: 16 Gbps\nMemory Size: 10GB\nMemory Interface: 160-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12 Ultimate\n\n\nPorts\nHDMI: 1 x HDMI 2.1\nDisplayPort: 3 x DisplayPort 1.4\n\n\nDetails\nMax Resolution: 7680 x 4320\nVirtual Reality Ready: Yes\nCooler: Triple Fans\nThermal Design Power: 175W\nRecommended PSU Wattage: 650W\nPower Connector: 2 x 8-Pin\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 304 mm\nCard Dimensions (L x H): 11.97\" x 4.84\"\nSlot Width: 2 Slots\n\n\nPackaging\nPackage Contents: Manual",
-  "Price": 345.00,
+  "Price": 339.00,
   "Features": [
     "10GB",
     "3xFan",
