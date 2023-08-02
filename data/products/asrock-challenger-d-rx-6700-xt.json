@@ -11,7 +11,7 @@
     "/images/products/asrock-challenger-d-rx-6700-xt-7.webp"
   ],
   "Description": "Model\nBrand: ASRock\nSeries: Challenger D\nModel: RX6700XT CLD 12GO\n\n\nInterface\nInterface: PCI Express 4.0\n\n\nChipset\nChipset Manufacturer: AMD\nGPU Series: AMD Radeon RX 6000 Series\nGPU: Radeon RX 6700 XT\nCore Clock: 2330 MHz\nBoost Clock: 2615 MHz\nStream Processors: 2560 Stream Processors\n\n\nMemory\nEffective Memory Clock: 16 Gbps\nMemory Size: 12GB\nMemory Interface: 192-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12 Ultimate\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 1 x HDMI 2.1\nDisplayPort: 3 x DisplayPort 1.4\n\n\nDetails\nMax Resolution: 7680 x 4320\nCooler: Double Fans\nThermal Design Power: 230W\nRecommended PSU Wattage: 650W\nPower Connector: 2 x 8-Pin\nHDCP Ready: Yes\n\n\nFeatures\nFeatures: 7nm AMD Radeon RX 6700 XT Graphics\n\n12GB 192-bit GDDR6\n\nAMD RDNA 2 Architecture\n\nDirectX 12 Ultimate\n\nPCI Express 4.0 Support\n\n2 x 8-pin Power Connectors\n\n3 x DisplayPort 1.4 with DSC / 1 x HDMI 2.1 VRR\n\nDual Fan Design\n\nStriped Axial Fan\n\nUltra-fit Heatpipe\n\nStylish Metal Backplate\n\n0dB Silent Cooling\n\nSuper Alloy Graphics Card\n\n\nForm Factor & Dimensions\nMax GPU Length: 269 mm\nCard Dimensions (L x H): 10.59\" x 5.28\"\nSlot Width: 2 Slots\n\n\nPackaging\nPackage Contents: Accessories:\n- 1 x Quick Installation Guide",
-  "Price": 399.00,
+  "Price": 389.00,
   "Features": [
     "12GB",
     "2xFan",
