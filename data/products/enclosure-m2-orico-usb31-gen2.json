@@ -1,0 +1,23 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Externo",
+  "Images": [
+    "/images/products/enclosure-m2-orico-usb31-gen2-1.webp"
+  ],
+  "Description": "Model\nBrand: ORICO\n\n\nDetails\nColor: Blue\nType: Enclosure\nAC Adapter: No\nMaterial: Aluminum / Plastic\nInternal Interface: M.2 NVME M-Key\nExternal Interface: USB 3.1 (10Gbps) (USB-C)\nHDD Count Supported: Single SSD\nNumber of Bay: 1\nMaximum Capacity (per Bay): Up to 2TB\nFan: No\nPower: No",
+  "Price": 29.00,
+  "Features": [
+    "USB3.1 Gen2",
+    "UASP",
+    "ToolFree",
+    "NVMe",
+    "10Gbps",
+    "2-in-1",
+    "USB-A",
+    "USB-C"
+  ],
+  "Date": "2023-08-02T11:16:03.5595981-04:00",
+  "Update": "2023-08-02T11:51:57.1546128-04:00",
+  "Discount": 0.0,
+  "Label": "Enclosure M.2 Orico USB3.1 Gen2"
+}
