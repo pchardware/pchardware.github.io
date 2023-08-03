@@ -2,7 +2,7 @@
   "Kits": {
     "Entusiasta": [
       {
-        "Price": 1093.00,
+        "Price": 1078.00,
         "Features": [],
         "Date": "2023-06-15T09:02:58.8515588-04:00",
         "Update": "2023-06-24T13:44:18.1007405-04:00",
@@ -10,7 +10,7 @@
         "Label": "Kit i9-13900K + Asus ROG Strix Z690-E Gaming Wifi + 32GB DDR5"
       },
       {
-        "Price": 1173.00,
+        "Price": 1142.00,
         "Features": [],
         "Date": "2023-06-24T13:41:22.3656225-04:00",
         "Update": "2023-06-24T13:44:18.1119769-04:00",
@@ -20,7 +20,7 @@
     ],
     "Moderado": [
       {
-        "Price": 433.00,
+        "Price": 423.00,
         "Features": [],
         "Date": "2023-06-29T19:08:23.1544102-04:00",
         "Update": "2023-06-29T19:14:10.5384351-04:00",
@@ -28,7 +28,7 @@
         "Label": "Kit Ryzen 7 5700G + Gigabyte B550M Aorus Elite + 16GB Patriot Viper"
       },
       {
-        "Price": 410.00,
+        "Price": 398.00,
         "Features": [
           "12va Gen",
           "3200mhz",
@@ -44,7 +44,7 @@
     ],
     "Rendimiento": [
       {
-        "Price": 469.00,
+        "Price": 459.00,
         "Features": [],
         "Date": "2023-06-29T19:08:48.7337337-04:00",
         "Update": "2023-06-29T19:14:10.5469413-04:00",
@@ -335,7 +335,7 @@
         "Label": "DDR4 G.Skill Sniper X 32GB 3600mhz"
       },
       {
-        "Price": 139.00,
+        "Price": 145.00,
         "Features": [
           "2x16GB",
           "Disipadas",
@@ -347,7 +347,7 @@
         "Label": "DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       },
       {
-        "Price": 155.00,
+        "Price": 160.00,
         "Features": [
           "2x16GB",
           "Disipadas",
@@ -383,7 +383,7 @@
         "Label": "DDR5 G.Skill Ripjaws S5 Series 32GB 6400mhz"
       },
       {
-        "Price": 129.00,
+        "Price": 135.00,
         "Features": [
           "2x16GB",
           "Disipadas",
@@ -1416,7 +1416,7 @@
     ],
     "Board": [
       {
-        "Price": 155.00,
+        "Price": 149.00,
         "Features": [
           "12va-13ra",
           "6xUSB",
@@ -1436,7 +1436,7 @@
         "Label": "ASRock B660M PRO RS"
       },
       {
-        "Price": 199.00,
+        "Price": 189.00,
         "Features": [
           "12va-13ra",
           "Dual Lan",
@@ -1456,7 +1456,7 @@
         "Label": "Asus B660 ProArt Creator D4"
       },
       {
-        "Price": 435.00,
+        "Price": 399.00,
         "Features": [
           "12va-13ra",
           "DDR5",
@@ -1475,7 +1475,7 @@
         "Label": "Asus ROG Maximus Z690 Hero"
       },
       {
-        "Price": 179.00,
+        "Price": 169.00,
         "Features": [
           "AM4",
           "AMD",
@@ -1495,7 +1495,7 @@
         "Label": "Gigabyte B550M Aorus Elite"
       },
       {
-        "Price": 199.00,
+        "Price": 185.00,
         "Features": [
           "12va-13ra",
           "DDR5",
@@ -1515,7 +1515,7 @@
         "Label": "Gigabyte Aorus B760M Elite AX"
       },
       {
-        "Price": 199.00,
+        "Price": 189.00,
         "Features": [
           "AM4",
           "AMD",
@@ -1535,7 +1535,7 @@
         "Label": "Gigabyte B550 Gaming X V2"
       },
       {
-        "Price": 289.00,
+        "Price": 269.00,
         "Features": [
           "12va-13ra",
           "DDR5",
@@ -1555,7 +1555,7 @@
         "Label": "Gigabyte Z690 AERO G"
       },
       {
-        "Price": 229.00,
+        "Price": 219.00,
         "Features": [
           "12va-13ra",
           "8xSATA",
@@ -1575,7 +1575,7 @@
         "Label": "ASRock Z690 Steel Legend"
       },
       {
-        "Price": 279.00,
+        "Price": 259.00,
         "Features": [
           "12va-13ra",
           "8xSATA",
@@ -1616,7 +1616,7 @@
         "Label": "ASRock Z77 Extreme 6"
       },
       {
-        "Price": 179.00,
+        "Price": 169.00,
         "Features": [
           "12va-13ra",
           "DDR5",
@@ -1636,7 +1636,7 @@
         "Label": "ASRock B760M PRO RS"
       },
       {
-        "Price": 355.00,
+        "Price": 340.00,
         "Features": [
           "12va-13ra",
           "10xUSB",
@@ -1655,7 +1655,7 @@
         "Label": "Asus ROG Strix Z690-E Gaming Wifi"
       },
       {
-        "Price": 369.00,
+        "Price": 365.00,
         "Features": [
           "12va-13ra",
           "DDR5",
@@ -1674,7 +1674,7 @@
         "Label": "Asus ROG Strix Z790-H Gaming Wifi"
       },
       {
-        "Price": 225.00,
+        "Price": 209.00,
         "Features": [
           "12va-13ra",
           "DDR5",
@@ -1694,7 +1694,7 @@
         "Label": "MSI PRO Z690-A Wifi"
       },
       {
-        "Price": 199.00,
+        "Price": 189.00,
         "Features": [
           "10ma-11na",
           "Dual Lan",
@@ -1715,7 +1715,7 @@
         "Label": "ASRock Z590 Extreme Wifi 6E"
       },
       {
-        "Price": 259.00,
+        "Price": 235.00,
         "Features": [
           "12va-13ra",
           "6xAudio",
@@ -1732,7 +1732,7 @@
         "Label": "Asus TUF Z690-Plus Wifi DDR5"
       },
       {
-        "Price": 319.00,
+        "Price": 299.00,
         "Features": [
           "12va-13ra",
           "8xSATA",
@@ -1751,7 +1751,7 @@
         "Label": "ASRock Z790 STEEL LEGEND WIFI"
       },
       {
-        "Price": 185.00,
+        "Price": 175.00,
         "Features": [
           "12va-13ra",
           "8xSATA",
@@ -1770,7 +1770,7 @@
         "Label": "ASRock Z690 Pro RS DDR4"
       },
       {
-        "Price": 209.00,
+        "Price": 199.00,
         "Features": [
           "10ma-11na",
           "9xUSB",
@@ -2232,7 +2232,7 @@
     ],
     "Microprocesador": [
       {
-        "Price": 289.00,
+        "Price": 285.00,
         "Features": [
           "12va Gen",
           "20 Hilos",
@@ -2286,7 +2286,7 @@
         "Label": "Intel Core i9-13900K"
       },
       {
-        "Price": 385.00,
+        "Price": 379.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -2304,7 +2304,7 @@
         "Label": "Intel Core i9-12900K"
       },
       {
-        "Price": 349.00,
+        "Price": 329.00,
         "Features": [
           "13ra Gen",
           "20 Hilos",
@@ -2322,7 +2322,7 @@
         "Label": "Intel Core i5-13600K"
       },
       {
-        "Price": 149.00,
+        "Price": 145.00,
         "Features": [
           "12va Gen",
           "8 Hilos",
@@ -2339,7 +2339,7 @@
         "Label": "Intel Core i3-12100 +Disipador"
       },
       {
-        "Price": 215.00,
+        "Price": 209.00,
         "Features": [
           "12va Gen",
           "12 Hilos",
