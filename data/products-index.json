@@ -1594,28 +1594,6 @@
         "Label": "ASRock Z790 PG RIPTIDE"
       },
       {
-        "Price": 69.00,
-        "Features": [
-          "2da-3ra",
-          "8xSATA",
-          "6xUSB",
-          "DDR3",
-          "6xAudio",
-          "2800mhz",
-          "LGA 1155",
-          "ATX",
-          "PS2",
-          "VGA",
-          "DVI",
-          "HDMI",
-          "DisplayPort"
-        ],
-        "Date": "2023-07-26T18:48:52.0783039-04:00",
-        "Update": "2023-07-27T07:36:15.6730428-04:00",
-        "Discount": 0.0,
-        "Label": "ASRock Z77 Extreme 6"
-      },
-      {
         "Price": 169.00,
         "Features": [
           "12va-13ra",
