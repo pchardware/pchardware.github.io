@@ -1,4 +1,50 @@
 {
+  "Computadoras": {
+    "Gamer": [
+      {
+        "Price": 1099.00,
+        "Features": [],
+        "Date": "2023-08-06T08:27:54.2095953-04:00",
+        "Update": "2023-08-06T12:55:00.7380679-04:00",
+        "Discount": 37.0,
+        "Label": "PC Gamer 24\" Curvo, RX 6600 8GB, ASRock B660M, 500GB SSD, 16GB, Cooler Master"
+      },
+      {
+        "Price": 1315.00,
+        "Features": [],
+        "Date": "2023-08-06T08:32:55.2569207-04:00",
+        "Update": "2023-08-06T12:55:00.7451401-04:00",
+        "Discount": 34.0,
+        "Label": "PC Gamer 24\" 165Hz, RX 6600, 32GB RGB 6400mhz, 512GB NVMe, Aorus B760M Elite"
+      },
+      {
+        "Price": 1385.00,
+        "Features": [],
+        "Date": "2023-08-06T09:09:40.6406043-04:00",
+        "Update": "2023-08-06T12:55:00.7717808-04:00",
+        "Discount": 35.0,
+        "Label": "PC Gamer MSI 3060 12GB, 24\" 165Hz, 5800X, B550M Aorus Elite, 16GB Corsair RGB, 500GB NVMe"
+      },
+      {
+        "Price": 2395.00,
+        "Features": [],
+        "Date": "2023-08-06T12:17:01.9671182-04:00",
+        "Update": "2023-08-06T12:55:00.7787728-04:00",
+        "Discount": 60.0,
+        "Label": "PC Gamer 32QHD, RTX 3070Ti, 32GB DDR5, D.Liquida, 1TB SSD, 14TB, T.Mecánico"
+      }
+    ],
+    "Rendimiento": [
+      {
+        "Price": 1099.00,
+        "Features": [],
+        "Date": "2023-08-06T09:01:24.5504665-04:00",
+        "Update": "2023-08-06T12:55:00.7607319-04:00",
+        "Discount": 34.0,
+        "Label": "PC Pro 27FHD, Ryzen 7 5700G, G.Skill 32GB, B550M Aorus Elite, 1TB PCIe4, Inalámbrico"
+      }
+    ]
+  },
   "Kits": {
     "Entusiasta": [
       {
@@ -1941,6 +1987,20 @@
         "Update": "2023-08-01T18:41:17.2112059-04:00",
         "Discount": 0.0,
         "Label": "Enfriamiento Intel Stock Original"
+      },
+      {
+        "Price": 25.00,
+        "Features": [
+          "AM4",
+          "Cobre",
+          "1xFan",
+          "Top-flow",
+          "Negro"
+        ],
+        "Date": "2023-08-06T08:56:55.5336259-04:00",
+        "Update": "2023-08-06T12:55:00.7526694-04:00",
+        "Discount": 0.0,
+        "Label": "Enfriamiento AMD Wraith MAX RGB LED"
       }
     ],
     "Tarjeta Gráfica": [
