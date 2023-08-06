@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Entusiasta",
+  "Images": [
+    "/images/products/pc-asus-tuf-24165hz-rtx-4060-z690-plus-wifi-i5-126-1.webp",
+    "/images/products/pc-asus-tuf-24165hz-rtx-4060-z690-plus-wifi-i5-126-2.webp",
+    "/images/products/pc-asus-tuf-24165hz-rtx-4060-z690-plus-wifi-i5-126-3.webp",
+    "/images/products/pc-asus-tuf-24165hz-rtx-4060-z690-plus-wifi-i5-126-4.webp",
+    "/images/products/pc-asus-tuf-24165hz-rtx-4060-z690-plus-wifi-i5-126-5.webp",
+    "/images/products/pc-asus-tuf-24165hz-rtx-4060-z690-plus-wifi-i5-126-6.webp",
+    "/images/products/pc-asus-tuf-24165hz-rtx-4060-z690-plus-wifi-i5-126-7.webp",
+    "/images/products/pc-asus-tuf-24165hz-rtx-4060-z690-plus-wifi-i5-126-8.webp",
+    "/images/products/pc-asus-tuf-24165hz-rtx-4060-z690-plus-wifi-i5-126-9.webp",
+    "/images/products/pc-asus-tuf-24165hz-rtx-4060-z690-plus-wifi-i5-126-10.webp"
+  ],
+  "Description": "+ Intel Core i5-12600K (12va Gen, 16 Hilos, 10 Core, 4.9GHz, 20MB L3, DDR4-DDR5, Unlocked, LGA 1700, CPU)\n+ D.Líquida Asus TUF Gaming LC 120 RGB (1xFan, 120mm, LGA 1700, LGA 1200, LGA 115X, AM4)\n+ Asus TUF Z690-Plus Wifi DDR5 (12va-13ra, 6xAudio, 6xUSB, 4xSATA, 6000mhz, LGA1700, HDMI, DisplayPort)\n+ DDR5 XPG Lancer 32GB 6400mhz (2x16GB, Disipadas, CL32)\n+ SSD M.2 Samsung 980 500GB (3500mbs, PCIe 3, NVMe)\n+ Asus Dual RTX 4060 OC (8GB, 2xFan, 1x8Pin, 550WR, GeForce, NVIDIA, GPU)\n+ Fuente Asus TUF 850W (80+ Gold, Full Modular, ATX 3.0, 71A, 3x 8-Pin, 5x SATA, 2x 4+4 EPS)\n+ Chasis Asus TUF GT301 (Tempered Glass, 4xFan, ARGB, 2xHDD, Gamer, Mid Tower, ATX, Negro)\n+ Asus TUF 24FHD VG248Q1B (165Hz, 350 Nit, 0.5ms, FreeSync, Flat, Gaming)\n+ Teclado Asus TUF Gaming K3 (Mecánico, RGB, Anti ghosting, Aluminio, Macros, USB passthrough, Aura Sync, Palm rest, Multimedia, Full, Gaming)\n+ Mouse Asus TUF M3 (7000dpi, Optico, 7 botónes, Palm-Claw, USB)\n+ Asus TUF H1 Wireless (Noise Cancelling, 20Hz-20KHz, 40mm, 15H, Inalámbrico, Headset, Cascos)\n",
+  "Price": 2135.00,
+  "Features": [],
+  "Date": "2023-08-06T13:31:40.0596587-04:00",
+  "Update": "2023-08-06T15:01:08.3966779-04:00",
+  "Discount": 51.0,
+  "Label": "PC ASUS TUF 24\"165Hz, RTX 4060, Z690-Plus Wifi, i5-12600K, 850W, 500SSD, Cascos, T.Mecánico"
+}
