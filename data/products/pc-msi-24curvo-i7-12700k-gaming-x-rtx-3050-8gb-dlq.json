@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Entusiasta",
+  "Images": [
+    "/images/products/pc-msi-24curvo-i7-12700k-gaming-x-rtx-3050-8gb-dlq-1.webp",
+    "/images/products/pc-msi-24curvo-i7-12700k-gaming-x-rtx-3050-8gb-dlq-2.webp",
+    "/images/products/pc-msi-24curvo-i7-12700k-gaming-x-rtx-3050-8gb-dlq-3.webp",
+    "/images/products/pc-msi-24curvo-i7-12700k-gaming-x-rtx-3050-8gb-dlq-4.webp",
+    "/images/products/pc-msi-24curvo-i7-12700k-gaming-x-rtx-3050-8gb-dlq-5.webp",
+    "/images/products/pc-msi-24curvo-i7-12700k-gaming-x-rtx-3050-8gb-dlq-6.webp",
+    "/images/products/pc-msi-24curvo-i7-12700k-gaming-x-rtx-3050-8gb-dlq-7.webp",
+    "/images/products/pc-msi-24curvo-i7-12700k-gaming-x-rtx-3050-8gb-dlq-8.webp",
+    "/images/products/pc-msi-24curvo-i7-12700k-gaming-x-rtx-3050-8gb-dlq-9.webp",
+    "/images/products/pc-msi-24curvo-i7-12700k-gaming-x-rtx-3050-8gb-dlq-10.webp"
+  ],
+  "Description": "+ Intel Core i7-12700K (12va Gen, 20 Hilos, 12 Core, 5GHz, 25MB L3, DDR4-DDR5, Unlocked, LGA 1700, CPU)\n+ D.Líquida MSI MAG Core Liquid 360R V2 (3xFan, 360mm, LGA 1700, LGA 1200, LGA 115X, AM4)\n+ MSI PRO Z690-A Wifi (12va-13ra, DDR5, 6xAudio, 6xSATA, 7xUSB, 6400mhz, LGA 1700, ATX, PS2, DisplayPort, HDMI)\n+ DDR5 XPG Lancer 32GB 6400mhz (2x16GB, Disipadas, CL32)\n+ SSD M.2 ADATA XPG SX8100 512GB (3500mbs, PCIe 3, NVMe)\n+ MSI Gaming X RTX 3050 (8GB, 2xFan, 1x8Pin, 550WR, GeForce, NVIDIA, GPU)\n+ Fuente Thermaltake SMART 600W 80+ (42A, 2x 6+2-Pin, 6x SATA, 1x 4+4 EPS)\n+ Chasis MSI Forge 100M MAG (Tempered Glass, 3xFan, RGB, Gamer, Mid Tower, ATX, Negro, 2xHDD)\n+ MSI Pro 24FHD MP242C (Curvo, VA, 1ms, 75Hz, 250 Nit, FreeSync, Business)\n+ Teclado EVGA Z12 (RGB, Gaming, Macros, Membrana, Full)\n+ Mouse EVGA X20 (Inalámbrico, 16000dpi, Sniper Button, Optico, Ergonómico, 10 botónes, USB)\n",
+  "Price": 1755.00,
+  "Features": [],
+  "Date": "2023-08-06T13:39:37.711696-04:00",
+  "Update": "2023-08-06T15:01:08.409089-04:00",
+  "Discount": 44.0,
+  "Label": "PC MSI 24\"Curvo, i7-12700K, Gaming X RTX 3050 8GB, D.Líquida 360, 32GB RGB 6400mhz, 512SSD NVMe"
+}
