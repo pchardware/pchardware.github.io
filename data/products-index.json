@@ -18,7 +18,7 @@
         "Label": "PC Gamer 24\" 165Hz, RX 6600, 32GB RGB 6400mhz, 512GB NVMe, Aorus B760M Elite"
       },
       {
-        "Price": 1385.00,
+        "Price": 1395.00,
         "Features": [],
         "Date": "2023-08-06T09:09:40.6406043-04:00",
         "Update": "2023-08-06T12:55:00.7717808-04:00",
@@ -44,7 +44,7 @@
     ],
     "Pro": [
       {
-        "Price": 1099.00,
+        "Price": 1109.00,
         "Features": [],
         "Date": "2023-08-06T09:01:24.5504665-04:00",
         "Update": "2023-08-06T15:01:08.3490187-04:00",
@@ -2063,7 +2063,7 @@
         "Label": "Enfriamiento Intel Stock Original"
       },
       {
-        "Price": 25.00,
+        "Price": 35.00,
         "Features": [
           "AM4",
           "Cobre",
@@ -3457,24 +3457,6 @@
         "Update": "2023-07-31T14:21:04.9674978-04:00",
         "Discount": 0.0,
         "Label": "Corsair VOID RGB Elite Wireless Carbon"
-      },
-      {
-        "Price": 93.00,
-        "Features": [
-          "Micrófono",
-          "3.5mm",
-          "50mm",
-          "15Hz-18KHz",
-          "32ohm",
-          "3db",
-          "300g",
-          "Headset",
-          "Cascos"
-        ],
-        "Date": "2023-07-26T16:42:49.9821955-04:00",
-        "Update": "2023-07-31T14:21:04.9749775-04:00",
-        "Discount": 0.0,
-        "Label": "Cooler Master MH630"
       }
     ],
     "Adaptador": [
