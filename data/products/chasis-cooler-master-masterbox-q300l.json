@@ -1,0 +1,35 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Chasis",
+  "Images": [
+    "/images/products/chasis-cooler-master-masterbox-q300l-1.webp",
+    "/images/products/chasis-cooler-master-masterbox-q300l-2.webp",
+    "/images/products/chasis-cooler-master-masterbox-q300l-3.webp",
+    "/images/products/chasis-cooler-master-masterbox-q300l-4.webp",
+    "/images/products/chasis-cooler-master-masterbox-q300l-5.webp",
+    "/images/products/chasis-cooler-master-masterbox-q300l-6.webp",
+    "/images/products/chasis-cooler-master-masterbox-q300l-7.webp",
+    "/images/products/chasis-cooler-master-masterbox-q300l-8.webp",
+    "/images/products/chasis-cooler-master-masterbox-q300l-9.webp",
+    "/images/products/chasis-cooler-master-masterbox-q300l-10.webp"
+  ],
+  "Description": "Model\nBrand: Cooler Master\nSeries: MasterBox Q300L\nModel: MCB-Q300L-KANN-S00\n\n\nDetails\nType: Micro ATX Tower\nColor: Black\nCase Material: Steel / Plastic\nWith Power Supply: No\nPower Supply Mounted: Bottom\nMotherboard Compatibility: Micro-ATX / Mini-ITX\nSide Panel Window: Yes\nDust Filters: Bottom\n\n\nExpansion\nInternal 3.5\" Drive Bays: 1\nInternal 2.5\" Drive Bays: 2\nHot-Swap Drive Bays: 0\nExpansion Slots: 4\n\n\nFront Panel Ports\nFront Ports: 2 x USB 3.0 / Audio In & Out\n\n\nCooling System\nFan Options: Front - 2 x 120mm / 2 x 140mm fan\n\nRear: 1 x 120mm fan (Pre-installed)\n\nTop: 2 x 120mm fan\n\nBottom: 1 x 120mm fan\nRadiator Options: Front - Up to 240mm / Rear - Up to 120mm\n80mm Fans: No\n140mm Fans: No\nSide Air duct: Yes\n\n\nDimensions & Weight\nMax GPU Length: 360 mm\nMax CPU Cooler Height: 157 mm\nMax PSU Length: 160 mm\nDimensions (H x W x D): 15.00\" x 9.06\" x 15.24\"\nWeight: 8.16 lbs.\n\n\nAdditional Info\nFeatures: High Flexibility for System Building: The I/O panel can be adjusted to six different locations. On both side of the body you can install the I/O panel at the front, top or bottom.\n\nMinimized Dimension with ATX PSU Support: Despite the Micro-ATX form factor and the body depth and height of only 370mm x 370mm, the MasterBox Q300L can accommodate a normal ATX PSU.\n\nPatterned Dust Filter: Special pattern on the dust filter creates a unique outlook for the chassis.\n\nClean Routing Space: Behind the motherboard tray, it offers 28mm wide and spacy room for hidden cable management.\n\nExcellent Thermal Performance: The open design of the perforated front, top and bottom guarantees excellent thermal performance.\n\nEdgo-to-Edge Acrylic Transparent Side Panel: Show off your build through the full size transparent side panel.\n\nVertical and Horizontal position: The case can be put in vertical and horizontal position.",
+  "Price": 139.00,
+  "Features": [
+    "Modular",
+    "GPU 360mm",
+    "CPU 157mm",
+    "PSU 160mm",
+    "Micro Tower",
+    "Gamer",
+    "M-ATX",
+    "Negro",
+    "2xUSB",
+    "1xFan",
+    "1xHDD"
+  ],
+  "Date": "2023-08-06T08:09:13.8638279-04:00",
+  "Update": "2023-08-06T08:19:53.9301884-04:00",
+  "Discount": 0.0,
+  "Label": "Chasis Cooler Master MasterBox Q300L"
+}
