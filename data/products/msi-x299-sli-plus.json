@@ -1,0 +1,29 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Board",
+  "Images": [
+    "/images/products/msi-x299-sli-plus-1.webp",
+    "/images/products/msi-x299-sli-plus-2.webp",
+    "/images/products/msi-x299-sli-plus-3.webp",
+    "/images/products/msi-x299-sli-plus-4.webp"
+  ],
+  "Description": "Model\nBrand: MSI\nSeries: PRO\nModel: X299 SLI PLUS\n\n\nSupported CPU\nCPU Socket Type: LGA 2066\nCPU Type: Core X series (LGA2066)\n\n\nChipsets\nChipset: Intel X299\n\n\nMemory\nNumber of Memory Slots: 8x288pin (DDR4)\nMemory Standard: Quad channel memory architecture with the CPU that supports up to 4-channel DDR4\n- X-series processor support DDR4 4133+(OC)/ 4000(OC)/ 3866(OC)/ 3800(OC)/ 3733(OC)/ 3600(OC)/ 3466(OC)/ 3400(OC)/ 3333(OC)/ 3200(OC)/ 3000(OC)/ 2933(OC)/ 2800(OC)/ 2667/ 2400/ 2133 MHz*\nDual channel memory architecture with the CPU that supports up to 2-channel DDR4\n- X-series processor support DDR4 4500+(OC)/ 4400(OC)/ 4333(OC)/ 4266(OC)/ 4200(OC)/ 4133(OC)/ 4000(OC)/ 3866(OC)/ 3800(OC)/ 3733(OC)/ 3600(OC)/ 3466(OC)/ 3400(OC)/ 3333(OC)/ 3200(OC)/ 3000(OC)/ 2933(OC)/ 2800(OC)/ 2667/ 2400/ 2133 MHz* \n* For the latest information about memory, please visit http://www.msi.com\nMaximum Memory Supported: 128GB\nChannel Supported: Quad Channel\n\n\nExpansion Slots\nPCI Express 3.0 x16: 4 x PCIe 3.0 x16 slots\n- Support x16/x16/x8 mode with the 44-lane CPU.\n- Support x16/x8/x4 modes with the 28-lane CPU.\n- Support x8/x8/x0, x8/x4/x4 modes with the 16-lane CPU.\nPCI Express x1: 2 x PCIe 3.0 x1 slots\n\n\nStorage Devices\nSATA 6Gb/s: 8 x SATA 6Gb/s ports*\n* M.2 slots and SATA ports share the same bandwidth. Please refer to user manual for U.2, M.2 & SATA combination table.\nM.2: 2 x M.2 slots (Key M)\n- Supports up to PCIe 3.0 x4 and SATA 6Gb/s\n- M2_1 slot supports 2242/2260/2280 storage devices\n- M2_2 slot supports 2242/2260/2280/22110 storage devices\n- Supports Intel Optane Memory Ready for all M.2 slots **\n1 x U.2 port ***\n- Supports PCIe 3.0 x4 NVMe storage\n\n** Please refer to user manual for Intel Optane Memory Configuration.\n*** PCI_E2 shares bandwidth with U2_1. If you install a PCE_E2 device, the U2_1 will be disabled.\nIntel Optane Ready: Yes\nSATA RAID: 0/1/5/10\n\n\nOnboard Audio\nAudio Chipset: Realtek ALC1220\nAudio Channels: 7.1-Channel High Definition Audio\nSupports S/PDIF output\n\n\nOnboard LAN\nLAN Chipset: Intel I219-V\nSecond LAN Chipset: Intel I211\nMax LAN Speed: 2 x 1Gbps\n\n\nRear Panel Ports\nBack I/O Ports: 1 x PS/2 keyboard/mouse combo port\n4 x USB 2.0 Type-A ports\n4 x USB 3.1 Gen1 Type-A ports\n2 x LAN (RJ45) ports\n1 x USB 3.1 Gen2 Type-A port\n1 x USB 3.1 Gen2 Type-C port\n5 x OFC audio jacks\n1 x Optical S/PDIF OUT connector\n\n\nInternal I/O Connectors\nOnboard USB: 2 x USB 2.0 connectors (supports additional 4 USB 2.0 ports)\n2 x USB 3.1 Gen1 connectors (supports additional 4 USB 3.1 Gen1 ports)\n1 x USB 3.1 Gen2 Type-C port\nOther Connectors: 1 x 4-pin CPU fan connector\n1 x 4-pin Water Pump connector\n4 x 4-pin system fan connectors\n2 x Front panel connectors\n1 x Front panel audio connector\n1 x RGB LED connector\n1 x TPM module connector\n1 x Virtual RAID on CPU connector\n1 x Thunderbolt add-on card connector\n\n\nPhysical Spec\nForm Factor: ATX\nLED Lighting: RGB\nDimensions (W x L): 12.0\" x 9.6\"\nPower Pin: 1 x 24-pin ATX main power connector\n1 x 8-pin ATX 12V power connector\n\n\nFeatures\nFeatures: Supports Intel Core X-Series Processor Family for LGA2066 Socket\n\nSupport Quad Channel DDR4-4133(OC)+, Dual Channel DDR4-4500(OC)+\n\nDual Intel LAN: The best solution for both Intranet and Internet through hardware design and bandwidth management offering the lowest latency\n\nM.2 SHIELD: Keep M.2 SSDs safe while preventing throttling, making them run cooler & faster\n\nDDR4 BOOST: Give your DDR4 memory a performance boost\n\nDesigned for Extreme Performance: TURBO SOCKET with OC Genie 4, DIGITALL POWER Design\n\nLightning Fast Experience: TWIN TURBO M.2 and Intel Optane Memory Ready, Turbo U.2, LIGHTNING USB 3.1 GEN2\n\nMYSTIC LIGHT: 7 mixed color schemes / 8 LED effects controlled in one click\n\nSYSTEM SAVER: 3 easy-to-use options to successfully boot your system again\n\nAUDIO BOOST 4: Reward your ears with studio grade sound quality for the most immersive audio experience\n\nMULTI-GPU: With STEEL ARMOR PCI-E slots. Supports 3-way NVIDIA SLI / AMD Crossfire\n\nVR READY: Best virtual reality experience without latency, reduces motion sickness\n\nEZ Debug LED: Easiest way to troubleshoot",
+  "Price": 145.00,
+  "Features": [
+    "Extreme",
+    "Quad Channel",
+    "Dual Lan",
+    "8xSATA",
+    "9xUSB",
+    "6xAudio",
+    "DDR4",
+    "4500mhz",
+    "LGA 2066",
+    "ATX",
+    "PS2"
+  ],
+  "Date": "2023-07-26T18:48:13.2024755-04:00",
+  "Update": "2023-08-06T08:19:53.9065233-04:00",
+  "Discount": 0.0,
+  "Label": "MSI X299 SLI PLUS"
+}
