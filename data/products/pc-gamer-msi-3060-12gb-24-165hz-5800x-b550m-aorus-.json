@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-gamer-msi-3060-12gb-24-165hz-5800x-b550m-aorus--1.webp",
+    "/images/products/pc-gamer-msi-3060-12gb-24-165hz-5800x-b550m-aorus--2.webp",
+    "/images/products/pc-gamer-msi-3060-12gb-24-165hz-5800x-b550m-aorus--3.webp",
+    "/images/products/pc-gamer-msi-3060-12gb-24-165hz-5800x-b550m-aorus--4.webp",
+    "/images/products/pc-gamer-msi-3060-12gb-24-165hz-5800x-b550m-aorus--5.webp",
+    "/images/products/pc-gamer-msi-3060-12gb-24-165hz-5800x-b550m-aorus--6.webp",
+    "/images/products/pc-gamer-msi-3060-12gb-24-165hz-5800x-b550m-aorus--7.webp",
+    "/images/products/pc-gamer-msi-3060-12gb-24-165hz-5800x-b550m-aorus--8.webp",
+    "/images/products/pc-gamer-msi-3060-12gb-24-165hz-5800x-b550m-aorus--9.webp",
+    "/images/products/pc-gamer-msi-3060-12gb-24-165hz-5800x-b550m-aorus--10.webp"
+  ],
+  "Description": "+ AMD Ryzen 7 5800X +Disipador (5000 Series, 16 Hilos, 8 Core, 4.7GHz, 32MB L3, AM4, CPU)\n+ Enfriamiento AMD Wraith MAX RGB LED (AM4, Cobre, 1xFan, Top-flow, Negro)\n+ Gigabyte B550M Aorus Elite (AM4, AMD, 8xUSB, DDR4, 4733mhz, 4xSATA, Micro ATX, PS2, DVI, HDMI, 3xAudio)\n+ DDR4 Corsair Vengeance RGB RS 16GB 3600mhz (2x8GB, Disipadas, CL18)\n+ SSD M.2 Samsung 980 500GB (3500mbs, PCIe 3, NVMe)\n+ MSI Ventus 3x RTX 3060 12GB (3xFan, 1x8Pin, 550WR, GeForce, NVIDIA, GPU)\n+ Fuente Thermaltake SMART 600W 80+ (42A, 2x 6+2-Pin, 6x SATA, 1x 4+4 EPS)\n+ Chasis Cooler Master MasterBox Q300L (Modular, GPU 360mm, CPU 157mm, PSU 160mm, Micro Tower, Gamer, M-ATX, Negro, 2xUSB, 1xFan, 1xHDD)\n+ Acer Nitro 24FHD QG241Y (165Hz, 1ms, Freesync, HDR10, VA, 250 Nit, Gaming)\n+ COMBO Teclado K49 + Mouse Asus JM3 (Membrana, Optico, 3 botónes, Full, USB)\n",
+  "Price": 1385.00,
+  "Features": [],
+  "Date": "2023-08-06T09:09:40.6406043-04:00",
+  "Update": "2023-08-06T12:55:00.7717808-04:00",
+  "Discount": 35.0,
+  "Label": "PC Gamer MSI 3060 12GB, 24\" 165Hz, 5800X, B550M Aorus Elite, 16GB Corsair RGB, 500GB NVMe"
+}
