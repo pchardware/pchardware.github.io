@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Pro",
+  "Images": [
+    "/images/products/pc-pro-27fhd-i9-13900k-tuf-z690-plus-corsair-64gb--1.webp",
+    "/images/products/pc-pro-27fhd-i9-13900k-tuf-z690-plus-corsair-64gb--2.webp",
+    "/images/products/pc-pro-27fhd-i9-13900k-tuf-z690-plus-corsair-64gb--3.webp",
+    "/images/products/pc-pro-27fhd-i9-13900k-tuf-z690-plus-corsair-64gb--4.webp",
+    "/images/products/pc-pro-27fhd-i9-13900k-tuf-z690-plus-corsair-64gb--5.webp",
+    "/images/products/pc-pro-27fhd-i9-13900k-tuf-z690-plus-corsair-64gb--6.webp",
+    "/images/products/pc-pro-27fhd-i9-13900k-tuf-z690-plus-corsair-64gb--7.webp",
+    "/images/products/pc-pro-27fhd-i9-13900k-tuf-z690-plus-corsair-64gb--8.webp",
+    "/images/products/pc-pro-27fhd-i9-13900k-tuf-z690-plus-corsair-64gb--9.webp",
+    "/images/products/pc-pro-27fhd-i9-13900k-tuf-z690-plus-corsair-64gb--10.webp"
+  ],
+  "Description": "+ Intel Core i9-13900K (13ra Gen, 32 Hilos, 24 Core, 5.7GHz, 30MB L3, DDR4 y DDR5, Unlocked, LGA 1700, CPU)\n+ D.Líquida Cooler Master MasterLiquid ML360L V2 ARGB (3xFan, 360mm, LGA 1700, LGA 1200, LGA 115X, AM4)\n+ Asus TUF Z690-Plus Wifi DDR5 (12va-13ra, 6xAudio, 6xUSB, 4xSATA, 6000mhz, LGA1700, HDMI, DisplayPort)\n+ DDR5 Corsair Vengeance 64GB 5200mhz (2x32GB, Disipadas, CL40)\n+ SSD M.2 Corsair MP600 PRO NH 1TB (7000mbs, PCIe 4, NVMe)\n+ Fuente Thermaltake SMART 500W 80+ (35A, 2x 6+2 Pin, 6x SATA, 1x 4+4 EPS)\n+ Chasis Cougar MX440 Mesh RGB (Tempered Glass, 3xFan, RGB, Gamer, Mid Tower, ATX, Negro, 2xHDD)\n+ Acer Nitro 27FHD QG271 (300 Nit, 1ms, FreeSync, VA, 75Hz, Flat, Gaming)\n+ Teclado Corsair K60 RGB Pro (Mecánico, Aluminio, Macros, iCUE, Gaming, Slim, Full)\n+ Mouse Cooler Master M710 (53g, PTFE, Omron Switches, Ultralight, Pro-Grade)\n",
+  "Price": 1959.00,
+  "Features": [],
+  "Date": "2023-08-06T13:56:49.606387-04:00",
+  "Update": "2023-08-06T15:01:08.4309993-04:00",
+  "Discount": 42.0,
+  "Label": "PC Pro 27FHD, i9-13900K, TUF Z690-Plus, Corsair 64GB DDR5, MP600 1TB, Enf.Liquido x360"
+}
