@@ -32,16 +32,90 @@
         "Update": "2023-08-06T12:55:00.7787728-04:00",
         "Discount": 60.0,
         "Label": "PC Gamer 32QHD, RTX 3070Ti, 32GB DDR5, D.Liquida, 1TB SSD, 14TB, T.Mecánico"
+      },
+      {
+        "Price": 2585.00,
+        "Features": [],
+        "Date": "2023-08-06T13:45:53.8593334-04:00",
+        "Update": "2023-08-06T15:01:08.4211692-04:00",
+        "Discount": 54.0,
+        "Label": "PC Gamer 32\" 144Hz, RTX 4070Ti, EVGA 850W, G.Skill 32GB 6400mhz, i5-12600K, PRO Z690-A, 1TB PCIe4"
       }
     ],
-    "Rendimiento": [
+    "Pro": [
       {
         "Price": 1099.00,
         "Features": [],
         "Date": "2023-08-06T09:01:24.5504665-04:00",
-        "Update": "2023-08-06T12:55:00.7607319-04:00",
+        "Update": "2023-08-06T15:01:08.3490187-04:00",
         "Discount": 34.0,
         "Label": "PC Pro 27FHD, Ryzen 7 5700G, G.Skill 32GB, B550M Aorus Elite, 1TB PCIe4, Inalámbrico"
+      },
+      {
+        "Price": 1959.00,
+        "Features": [],
+        "Date": "2023-08-06T13:56:49.606387-04:00",
+        "Update": "2023-08-06T15:01:08.4309993-04:00",
+        "Discount": 42.0,
+        "Label": "PC Pro 27FHD, i9-13900K, TUF Z690-Plus, Corsair 64GB DDR5, MP600 1TB, Enf.Liquido x360"
+      },
+      {
+        "Price": 1259.00,
+        "Features": [],
+        "Date": "2023-08-06T14:01:22.9583812-04:00",
+        "Update": "2023-08-06T15:01:08.4399926-04:00",
+        "Discount": 34.0,
+        "Label": "PC Pro 24FHD Curvo, i9-12900K, G.Skill 32GB, Samsung 980 500GB, ASRock Z690 Pro RS, Thermaltake UX200"
+      }
+    ],
+    "Entusiasta": [
+      {
+        "Price": 3779.00,
+        "Features": [],
+        "Date": "2023-08-06T13:08:08.4712116-04:00",
+        "Update": "2023-08-06T15:01:08.3573783-04:00",
+        "Discount": 75.0,
+        "Label": "PC Gamer RTX 3080Ti, 32\" 165Hz, i9-13900K, Enf.Custom, Maximus Z690 Hero, 1TB Corsair, 4000X, 14TB HDD"
+      },
+      {
+        "Price": 3079.00,
+        "Features": [],
+        "Date": "2023-08-06T13:11:47.7506295-04:00",
+        "Update": "2023-08-06T15:01:08.366621-04:00",
+        "Discount": 64.0,
+        "Label": "PC Gamer 32\" 144Hz, RTX 3080Ti, Enfr.Custom, Strix Z690-E, 32GB RGB, HX850 Platinum, iCUE 4000X, 1TB NVMe"
+      },
+      {
+        "Price": 2299.00,
+        "Features": [],
+        "Date": "2023-08-06T13:24:03.9391658-04:00",
+        "Update": "2023-08-06T15:01:08.3758606-04:00",
+        "Discount": 54.0,
+        "Label": "PC Gamer 28\" 4K, RTX 3070Ti, i7-12700K, Z690 AERO, G.Skill 32GB RGB, 500GB Samsung, 850W, T.Mecánico"
+      },
+      {
+        "Price": 2919.00,
+        "Features": [],
+        "Date": "2023-08-06T13:28:59.6256009-04:00",
+        "Update": "2023-08-06T15:01:08.3851949-04:00",
+        "Discount": 53.0,
+        "Label": "PC Gamer 32\"2K, RTX 4070, i5-13600K, ROG Strix Z690-E, G.Skill 32GB RGB, 1TB Corsair, 1000W, T.Mecánico"
+      },
+      {
+        "Price": 2135.00,
+        "Features": [],
+        "Date": "2023-08-06T13:31:40.0596587-04:00",
+        "Update": "2023-08-06T15:01:08.3966779-04:00",
+        "Discount": 51.0,
+        "Label": "PC ASUS TUF 24\"165Hz, RTX 4060, Z690-Plus Wifi, i5-12600K, 850W, 500SSD, Cascos, T.Mecánico"
+      },
+      {
+        "Price": 1755.00,
+        "Features": [],
+        "Date": "2023-08-06T13:39:37.711696-04:00",
+        "Update": "2023-08-06T15:01:08.409089-04:00",
+        "Discount": 44.0,
+        "Label": "PC MSI 24\"Curvo, i7-12700K, Gaming X RTX 3050 8GB, D.Líquida 360, 32GB RGB 6400mhz, 512SSD NVMe"
       }
     ]
   },
