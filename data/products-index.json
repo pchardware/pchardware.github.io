@@ -275,18 +275,6 @@
         "Label": "DDR4 G.Skill Ripjaws V 32GB 3600mhz"
       },
       {
-        "Price": 235.00,
-        "Features": [
-          "2x32GB",
-          "Disipadas",
-          "CL40"
-        ],
-        "Date": "2023-03-30T09:56:14.691824-04:00",
-        "Update": "2023-07-27T10:06:16.2436237-04:00",
-        "Discount": 0.0,
-        "Label": "DDR5 Corsair Vengeance RGB 64GB 5200mhz"
-      },
-      {
         "Price": 199.00,
         "Features": [
           "2x32GB",
@@ -689,19 +677,6 @@
         "Update": "2023-07-26T21:07:00.8262433-04:00",
         "Discount": 0.0,
         "Label": "SSD 2.5 Silicon Power Ace A55 1TB"
-      },
-      {
-        "Price": 109.00,
-        "Features": [
-          "7100mbs",
-          "700tbw",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-06-07T10:29:28.1707034-04:00",
-        "Update": "2023-07-27T09:48:00.5737298-04:00",
-        "Discount": 0.0,
-        "Label": "SSD M.2 Corsair MP600 PRO XT 1TB"
       },
       {
         "Price": 49.00,
@@ -1146,19 +1121,6 @@
         "Label": "Fuente Corsair RM850e"
       },
       {
-        "Price": 110.00,
-        "Features": [
-          "54A",
-          "2x 6+2 Pin",
-          "6x SATA",
-          "1x 4+4 EPS"
-        ],
-        "Date": "2023-06-29T07:39:33.0518165-04:00",
-        "Update": "2023-07-27T09:58:48.4831848-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente Thermaltake Smart 700W 80+"
-      },
-      {
         "Price": 155.00,
         "Features": [
           "Fully Modular",
@@ -1297,19 +1259,6 @@
         "Label": "HDD 2.5 Seagate BarraCuda 2TB"
       },
       {
-        "Price": 155.00,
-        "Features": [
-          "7200rpm",
-          "256mb",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-05-11T14:18:10.4016902-04:00",
-        "Update": "2023-07-27T08:17:37.3336192-04:00",
-        "Discount": 0.0,
-        "Label": "HDD 3.5 Seagate EXOS 8TB"
-      },
-      {
         "Price": 195.00,
         "Features": [
           "Ultrastar DC",
@@ -1323,32 +1272,6 @@
         "Update": "2023-07-27T08:17:37.3410438-04:00",
         "Discount": 0.0,
         "Label": "HDD 3.5 WD 14TB HC530"
-      },
-      {
-        "Price": 89.00,
-        "Features": [
-          "128mb",
-          "7200rpm",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-05-11T14:17:30.8616693-04:00",
-        "Update": "2023-07-27T08:17:37.3560875-04:00",
-        "Discount": 0.0,
-        "Label": "HDD 3.5 Seagate Constellation 4TB"
-      },
-      {
-        "Price": 149.00,
-        "Features": [
-          "256mb",
-          "5400rpm",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-07-09T16:45:20.2279999-04:00",
-        "Update": "2023-07-27T08:17:37.3696403-04:00",
-        "Discount": 0.0,
-        "Label": "HDD 3.5 Seagate BarraCuda 8TB"
       },
       {
         "Price": 69.00,
@@ -1900,32 +1823,6 @@
         "Label": "Enfriamiento AMD Wraith Stealth"
       },
       {
-        "Price": 119.00,
-        "Features": [
-          "Dual",
-          "2xFan",
-          "6xPipes",
-          "ARGB",
-          "Premium",
-          "52cfm",
-          "27dBA",
-          "Cobre",
-          "157mm",
-          "2050rpm",
-          "Negro",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4",
-          "AM5",
-          "Tower"
-        ],
-        "Date": "2023-07-26T18:49:11.7802452-04:00",
-        "Update": "2023-07-27T09:48:00.839669-04:00",
-        "Discount": 0.0,
-        "Label": "Enfriamiento Cooler Master Hyper 622 Halo Black"
-      },
-      {
         "Price": 61.00,
         "Features": [
           "ARGB",
@@ -2051,22 +1948,6 @@
         "Label": "MSI Ventus 3X RTX 4070Ti OC"
       },
       {
-        "Price": 465.00,
-        "Features": [
-          "2xFan",
-          "8GB",
-          "1x8Pin",
-          "650WR",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-06-19T07:48:26.3260961-04:00",
-        "Update": "2023-07-27T10:54:59.7666448-04:00",
-        "Discount": 0.0,
-        "Label": "Asus Dual RTX 4060Ti OC"
-      },
-      {
         "Price": 699.00,
         "Features": [
           "3xFan",
@@ -2114,7 +1995,7 @@
         "Label": "ASRock Challenger D RX 6700 XT"
       },
       {
-        "Price": 345.00,
+        "Price": 339.00,
         "Features": [
           "3xFan",
           "1x8Pin",
