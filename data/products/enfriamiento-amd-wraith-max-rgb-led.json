@@ -1,0 +1,20 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disipador por Aire",
+  "Images": [
+    "/images/products/enfriamiento-amd-wraith-max-rgb-led-1.webp"
+  ],
+  "Description": "Model\nBrand: AMD\nSeries: Wraith Coolers\nModel: 199-999575\n\n\nDetails\nType: Fan & Heatsinks\nCPU Socket Compatibility: AMD Socket AM4 / AM3+ / FM2+\nLED: RGB or Red\n\n\nDimensions & Weight\nWeight: 0.5\n\n\nFeatures\nFeatures: The AMD Wraith Max represents AMD’s ultimate cooling solution for air-cooled processors. Now available for purchase as a standalone product, the Wraith Max is compatible with AMD Ryzen and 7th Gen A-Series and Athlon processors (socket AM4), and supports user-controlled RGB illumination on socket AM4 motherboards like the ASUS Aura sync, Gigabyte RGB Fusion, MSI Mystic Light, Biostar VIVID LED DJ, and ASRock RGB LED?.\n\nThe Wraith Max is also compatible with AMD FX 4000/6000/8000-series processors (socket AM3+) and AMD A-Series and Athlon Processors (socket FM2+). On motherboards that do not support RGB illumination control, the cooler will not be color configurable and will illuminate red.\n\nNote: A unique version of the Wraith Max cooler with RGB programmable LED is also available as a pre-installed thermal solution in select partner systems.  If you have one of these pre-installed Wraith Max coolers that use USB-based RGB control, you can download the RGB illumination control utility for AMD Wraith Max cooler . This utility will *not* work on boxed Wraith Max coolers purchased at retail, which require motherboard software support for RGB control.",
+  "Price": 25.00,
+  "Features": [
+    "AM4",
+    "Cobre",
+    "1xFan",
+    "Top-flow",
+    "Negro"
+  ],
+  "Date": "2023-08-06T08:56:55.5336259-04:00",
+  "Update": "2023-08-06T12:55:00.7526694-04:00",
+  "Discount": 0.0,
+  "Label": "Enfriamiento AMD Wraith MAX RGB LED"
+}
