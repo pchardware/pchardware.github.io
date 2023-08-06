@@ -1,6 +1,6 @@
 {
   "Category": "Computadoras",
-  "SubCategory": "Rendimiento",
+  "SubCategory": "Pro",
   "Images": [
     "/images/products/pc-pro-27fhd-ryzen-7-5700g-gskill-32gb-b550m-aorus-1.webp",
     "/images/products/pc-pro-27fhd-ryzen-7-5700g-gskill-32gb-b550m-aorus-2.webp",
@@ -17,7 +17,7 @@
   "Price": 1099.00,
   "Features": [],
   "Date": "2023-08-06T09:01:24.5504665-04:00",
-  "Update": "2023-08-06T12:55:00.7607319-04:00",
+  "Update": "2023-08-06T15:01:08.3490187-04:00",
   "Discount": 34.0,
   "Label": "PC Pro 27FHD, Ryzen 7 5700G, G.Skill 32GB, B550M Aorus Elite, 1TB PCIe4, Inalámbrico"
 }
