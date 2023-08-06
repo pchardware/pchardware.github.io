@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-gamer-32-144hz-rtx-4070ti-evga-850w-gskill-32gb-1.webp",
+    "/images/products/pc-gamer-32-144hz-rtx-4070ti-evga-850w-gskill-32gb-2.webp",
+    "/images/products/pc-gamer-32-144hz-rtx-4070ti-evga-850w-gskill-32gb-3.webp",
+    "/images/products/pc-gamer-32-144hz-rtx-4070ti-evga-850w-gskill-32gb-4.webp",
+    "/images/products/pc-gamer-32-144hz-rtx-4070ti-evga-850w-gskill-32gb-5.webp",
+    "/images/products/pc-gamer-32-144hz-rtx-4070ti-evga-850w-gskill-32gb-6.webp",
+    "/images/products/pc-gamer-32-144hz-rtx-4070ti-evga-850w-gskill-32gb-7.webp",
+    "/images/products/pc-gamer-32-144hz-rtx-4070ti-evga-850w-gskill-32gb-8.webp",
+    "/images/products/pc-gamer-32-144hz-rtx-4070ti-evga-850w-gskill-32gb-9.webp",
+    "/images/products/pc-gamer-32-144hz-rtx-4070ti-evga-850w-gskill-32gb-10.webp"
+  ],
+  "Description": "+ Intel Core i5-12600K (12va Gen, 16 Hilos, 10 Core, 4.9GHz, 20MB L3, DDR4-DDR5, Unlocked, LGA 1700, CPU)\n+ Enfriamiento Cooler Master Hyper 212 Spectrum V3 (ARGB, 4xPipes, 72cfm, 27dBA, Cobre, 152mm, 1750rpm, Negro, LGA 1700, LGA 1200, LGA 115X, AM4, AM5, Tower, 1xFan)\n+ MSI PRO Z690-A Wifi (12va-13ra, DDR5, 6xAudio, 6xSATA, 7xUSB, 6400mhz, LGA 1700, ATX, PS2, DisplayPort, HDMI)\n+ DDR5 G.Skill Ripjaws S5 Series 32GB 6400mhz (2x16GB, Disipadas, CL32)\n+ SSD M.2 Silicon Power 1TB UD90 (5000mbs, PCIe 4, 600tbw, NVMe)\n+ MSI Ventus 3X RTX 4070Ti OC (3xFan, 12GB, 1x16Pin, 750W, GeForce, NVIDIA, GPU)\n+ Fuente EVGA 850 BQ (80+ Bronze, Modular, 850W, 70A, 2x 4+4 EPS, 10x SATA, 3x 6-Pin, 3x 6+2-Pin)\n+ Chasis MSI Forge 100M MAG (Tempered Glass, 3xFan, RGB, Gamer, Mid Tower, ATX, Negro, 2xHDD)\n+ Lenovo 32QHD G32QC-10 (144Hz, 2K, Curvo, 1440p, 1ms, 350 Nit, VA, FreeSync, Gaming)\n+ Teclado EVGA Z20 (Mecánico, RGB, Macros, Gaming, Palm rest, Full)\n+ Mouse EVGA X20 (Inalámbrico, 16000dpi, Sniper Button, Optico, Ergonómico, 10 botónes, USB)\n",
+  "Price": 2585.00,
+  "Features": [],
+  "Date": "2023-08-06T13:45:53.8593334-04:00",
+  "Update": "2023-08-06T15:01:08.4211692-04:00",
+  "Discount": 54.0,
+  "Label": "PC Gamer 32\" 144Hz, RTX 4070Ti, EVGA 850W, G.Skill 32GB 6400mhz, i5-12600K, PRO Z690-A, 1TB PCIe4"
+}
