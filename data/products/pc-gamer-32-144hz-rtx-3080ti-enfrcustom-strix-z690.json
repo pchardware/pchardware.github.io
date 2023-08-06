@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Entusiasta",
+  "Images": [
+    "/images/products/pc-gamer-32-144hz-rtx-3080ti-enfrcustom-strix-z690-1.webp",
+    "/images/products/pc-gamer-32-144hz-rtx-3080ti-enfrcustom-strix-z690-2.webp",
+    "/images/products/pc-gamer-32-144hz-rtx-3080ti-enfrcustom-strix-z690-3.webp",
+    "/images/products/pc-gamer-32-144hz-rtx-3080ti-enfrcustom-strix-z690-4.webp",
+    "/images/products/pc-gamer-32-144hz-rtx-3080ti-enfrcustom-strix-z690-5.webp",
+    "/images/products/pc-gamer-32-144hz-rtx-3080ti-enfrcustom-strix-z690-6.webp",
+    "/images/products/pc-gamer-32-144hz-rtx-3080ti-enfrcustom-strix-z690-7.webp",
+    "/images/products/pc-gamer-32-144hz-rtx-3080ti-enfrcustom-strix-z690-8.webp",
+    "/images/products/pc-gamer-32-144hz-rtx-3080ti-enfrcustom-strix-z690-9.webp",
+    "/images/products/pc-gamer-32-144hz-rtx-3080ti-enfrcustom-strix-z690-10.webp"
+  ],
+  "Description": "+ Intel Core i5-12600K (12va Gen, 16 Hilos, 10 Core, 4.9GHz, 20MB L3, DDR4-DDR5, Unlocked, LGA 1700, CPU)\n+ Kit Líquido Corsair Hydro XH303i (360mm, Premium, RGB, CUSTOM, CPU + GPU, LGA 1700, LGA 1200, LGA 115X, AM4)\n+ Asus ROG Strix Z690-E Gaming Wifi (12va-13ra, 10xUSB, DDR5, 6xAudio, 6xSATA, 6400mhz, LGA 1700, ATX, DisplayPort, HDMI)\n+ DDR5 CORSAIR Vengeance RGB 32GB 6000mhz C40 (2x16GB, Disipadas, CL40)\n+ SSD M.2 Corsair MP600 PRO NH 1TB (7000mbs, PCIe 4, NVMe)\n+ EVGA RTX 3080Ti XC3 Hydro Copper (12GB, Liquida, 2x8Pin, 750WR, GeForce, NVIDIA, GPU)\n+ Fuente Corsair HX850 (80+ PLATINUM, Full Modular, 71A, 2x 8-Pin, 14x SATA, 3x 4+4 EPS)\n+ Chasis Corsair iCUE 4000X RGB (Vertical, Tempered Glass, 3xFan, RGB, Gamer, Mid Tower, ATX, 2xHDD, Negro)\n+ Lenovo 32QHD G32QC-10 (144Hz, 2K, Curvo, 1440p, 1ms, 350 Nit, VA, FreeSync, Gaming)\n+ Teclado Corsair K60 RGB Pro (Mecánico, Aluminio, Macros, iCUE, Gaming, Slim, Full)\n+ Mouse Corsair Sabre RGB Pro (74g, 18000dpi, Palm-Claw, 6 botónes, Optico, Gaming, iCUE, USB)\n+ Mouse Pad Corsair MM300 Extended (Reforzado, Tela, Anti-Fray)\n",
+  "Price": 3079.00,
+  "Features": [],
+  "Date": "2023-08-06T13:11:47.7506295-04:00",
+  "Update": "2023-08-06T15:01:08.366621-04:00",
+  "Discount": 64.0,
+  "Label": "PC Gamer 32\" 144Hz, RTX 3080Ti, Enfr.Custom, Strix Z690-E, 32GB RGB, HX850 Platinum, iCUE 4000X, 1TB NVMe"
+}
