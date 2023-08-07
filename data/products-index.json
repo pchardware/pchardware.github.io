@@ -32,14 +32,6 @@
         "Update": "2023-08-06T12:55:00.7787728-04:00",
         "Discount": 60.0,
         "Label": "PC Gamer 32QHD, RTX 3070Ti, 32GB DDR5, D.Liquida, 1TB SSD, 14TB, T.Mecánico"
-      },
-      {
-        "Price": 2585.00,
-        "Features": [],
-        "Date": "2023-08-06T13:45:53.8593334-04:00",
-        "Update": "2023-08-06T15:01:08.4211692-04:00",
-        "Discount": 54.0,
-        "Label": "PC Gamer 32\" 144Hz, RTX 4070Ti, EVGA 850W, G.Skill 32GB 6400mhz, i5-12600K, PRO Z690-A, 1TB PCIe4"
       }
     ],
     "Pro": [
@@ -58,14 +50,6 @@
         "Update": "2023-08-06T15:01:08.4309993-04:00",
         "Discount": 42.0,
         "Label": "PC Pro 27FHD, i9-13900K, TUF Z690-Plus, Corsair 64GB DDR5, MP600 1TB, Enf.Liquido x360"
-      },
-      {
-        "Price": 1259.00,
-        "Features": [],
-        "Date": "2023-08-06T14:01:22.9583812-04:00",
-        "Update": "2023-08-06T15:01:08.4399926-04:00",
-        "Discount": 34.0,
-        "Label": "PC Pro 24FHD Curvo, i9-12900K, G.Skill 32GB, Samsung 980 500GB, ASRock Z690 Pro RS, Thermaltake UX200"
       }
     ],
     "Entusiasta": [
@@ -108,14 +92,6 @@
         "Update": "2023-08-06T15:01:08.3966779-04:00",
         "Discount": 51.0,
         "Label": "PC ASUS TUF 24\"165Hz, RTX 4060, Z690-Plus Wifi, i5-12600K, 850W, 500SSD, Cascos, T.Mecánico"
-      },
-      {
-        "Price": 1755.00,
-        "Features": [],
-        "Date": "2023-08-06T13:39:37.711696-04:00",
-        "Update": "2023-08-06T15:01:08.409089-04:00",
-        "Discount": 44.0,
-        "Label": "PC MSI 24\"Curvo, i7-12700K, Gaming X RTX 3050 8GB, D.Líquida 360, 32GB RGB 6400mhz, 512SSD NVMe"
       }
     ]
   },
@@ -563,23 +539,6 @@
         "Update": "2023-06-07T15:55:09.471115-04:00",
         "Discount": 0.0,
         "Label": "Chasis MLLIQUEA Mining Rig Frame"
-      },
-      {
-        "Price": 185.00,
-        "Features": [
-          "Tempered Glass",
-          "3xFan",
-          "RGB",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro",
-          "2xHDD"
-        ],
-        "Date": "2023-05-11T19:31:47.992231-04:00",
-        "Update": "2023-07-27T07:54:42.9171046-04:00",
-        "Discount": 0.0,
-        "Label": "Chasis MSI Forge 100M MAG"
       },
       {
         "Price": 199.00,
@@ -2804,22 +2763,6 @@
       }
     ],
     "Teclado": [
-      {
-        "Price": 85.00,
-        "Features": [
-          "RGB",
-          "Gaming",
-          "Semi mecánico",
-          "Palm rest",
-          "Full",
-          "4000dpi",
-          "Optico"
-        ],
-        "Date": "2023-05-11T20:29:45.5785203-04:00",
-        "Update": "2023-06-24T10:51:11.185828-04:00",
-        "Discount": 0.0,
-        "Label": "COMBO Teclado + Mouse Rosewill Fusion C40"
-      },
       {
         "Price": 135.00,
         "Features": [
