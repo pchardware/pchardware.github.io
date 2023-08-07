@@ -16,59 +16,9 @@
         "Update": "2023-08-06T12:55:00.7451401-04:00",
         "Discount": 34.0,
         "Label": "PC Gamer 24\" 165Hz, RX 6600, 32GB RGB 6400mhz, 512GB NVMe, Aorus B760M Elite"
-      },
-      {
-        "Price": 1395.00,
-        "Features": [],
-        "Date": "2023-08-06T09:09:40.6406043-04:00",
-        "Update": "2023-08-06T12:55:00.7717808-04:00",
-        "Discount": 35.0,
-        "Label": "PC Gamer MSI 3060 12GB, 24\" 165Hz, 5800X, B550M Aorus Elite, 16GB Corsair RGB, 500GB NVMe"
-      },
-      {
-        "Price": 2395.00,
-        "Features": [],
-        "Date": "2023-08-06T12:17:01.9671182-04:00",
-        "Update": "2023-08-06T12:55:00.7787728-04:00",
-        "Discount": 60.0,
-        "Label": "PC Gamer 32QHD, RTX 3070Ti, 32GB DDR5, D.Liquida, 1TB SSD, 14TB, T.Mecánico"
-      }
-    ],
-    "Pro": [
-      {
-        "Price": 1109.00,
-        "Features": [],
-        "Date": "2023-08-06T09:01:24.5504665-04:00",
-        "Update": "2023-08-06T15:01:08.3490187-04:00",
-        "Discount": 34.0,
-        "Label": "PC Pro 27FHD, Ryzen 7 5700G, G.Skill 32GB, B550M Aorus Elite, 1TB PCIe4, Inalámbrico"
-      },
-      {
-        "Price": 1959.00,
-        "Features": [],
-        "Date": "2023-08-06T13:56:49.606387-04:00",
-        "Update": "2023-08-06T15:01:08.4309993-04:00",
-        "Discount": 42.0,
-        "Label": "PC Pro 27FHD, i9-13900K, TUF Z690-Plus, Corsair 64GB DDR5, MP600 1TB, Enf.Liquido x360"
       }
     ],
     "Entusiasta": [
-      {
-        "Price": 3779.00,
-        "Features": [],
-        "Date": "2023-08-06T13:08:08.4712116-04:00",
-        "Update": "2023-08-06T15:01:08.3573783-04:00",
-        "Discount": 75.0,
-        "Label": "PC Gamer RTX 3080Ti, 32\" 165Hz, i9-13900K, Enf.Custom, Maximus Z690 Hero, 1TB Corsair, 4000X, 14TB HDD"
-      },
-      {
-        "Price": 3079.00,
-        "Features": [],
-        "Date": "2023-08-06T13:11:47.7506295-04:00",
-        "Update": "2023-08-06T15:01:08.366621-04:00",
-        "Discount": 64.0,
-        "Label": "PC Gamer 32\" 144Hz, RTX 3080Ti, Enfr.Custom, Strix Z690-E, 32GB RGB, HX850 Platinum, iCUE 4000X, 1TB NVMe"
-      },
       {
         "Price": 2299.00,
         "Features": [],
@@ -84,14 +34,6 @@
         "Update": "2023-08-06T15:01:08.3851949-04:00",
         "Discount": 53.0,
         "Label": "PC Gamer 32\"2K, RTX 4070, i5-13600K, ROG Strix Z690-E, G.Skill 32GB RGB, 1TB Corsair, 1000W, T.Mecánico"
-      },
-      {
-        "Price": 2135.00,
-        "Features": [],
-        "Date": "2023-08-06T13:31:40.0596587-04:00",
-        "Update": "2023-08-06T15:01:08.3966779-04:00",
-        "Discount": 51.0,
-        "Label": "PC ASUS TUF 24\"165Hz, RTX 4060, Z690-Plus Wifi, i5-12600K, 850W, 500SSD, Cascos, T.Mecánico"
       }
     ]
   },
@@ -513,18 +455,6 @@
         "Update": "2023-08-02T11:51:57.1247765-04:00",
         "Discount": 0.0,
         "Label": "DDR5 Corsair Vengeance RGB 32GB 6000mhz"
-      },
-      {
-        "Price": 139.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL40"
-        ],
-        "Date": "2023-08-02T11:15:17.4685317-04:00",
-        "Update": "2023-08-02T11:51:57.140149-04:00",
-        "Discount": 0.0,
-        "Label": "DDR5 CORSAIR Vengeance RGB 32GB 6000mhz C40"
       }
     ],
     "Chasis": [
@@ -556,24 +486,6 @@
         "Update": "2023-07-27T07:54:42.9231306-04:00",
         "Discount": 0.0,
         "Label": "Chasis Cougar MX440 Mesh RGB"
-      },
-      {
-        "Price": 315.00,
-        "Features": [
-          "Vertical",
-          "Tempered Glass",
-          "3xFan",
-          "RGB",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "2xHDD",
-          "Negro"
-        ],
-        "Date": "2023-06-19T07:49:30.2036169-04:00",
-        "Update": "2023-07-27T07:54:42.9293354-04:00",
-        "Discount": 0.0,
-        "Label": "Chasis Corsair iCUE 4000X RGB"
       },
       {
         "Price": 245.00,
@@ -1087,21 +999,6 @@
         "Update": "2023-06-24T10:51:11.4753292-04:00",
         "Discount": 0.0,
         "Label": "D.Líquida MSI MAG Core Liquid 360R V2"
-      },
-      {
-        "Price": 185.00,
-        "Features": [
-          "3xFan",
-          "360mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4"
-        ],
-        "Date": "2023-06-29T07:38:53.691162-04:00",
-        "Update": "2023-06-29T11:38:59.2175286-04:00",
-        "Discount": 0.0,
-        "Label": "D.Líquida Cooler Master MasterLiquid ML360L V2 ARGB"
       }
     ],
     "Fuente": [
@@ -1234,19 +1131,6 @@
         "Update": "2023-07-27T09:58:48.490199-04:00",
         "Discount": 0.0,
         "Label": "Fuente Rosewill CMG850"
-      },
-      {
-        "Price": 95.00,
-        "Features": [
-          "42A",
-          "2x 6+2-Pin",
-          "6x SATA",
-          "1x 4+4 EPS"
-        ],
-        "Date": "2023-04-15T07:27:14.991735-04:00",
-        "Update": "2023-07-27T09:58:48.4978398-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente Thermaltake SMART 600W 80+"
       },
       {
         "Price": 105.00,
@@ -1715,23 +1599,6 @@
         "Label": "ASRock Z590 Extreme Wifi 6E"
       },
       {
-        "Price": 235.00,
-        "Features": [
-          "12va-13ra",
-          "6xAudio",
-          "6xUSB",
-          "4xSATA",
-          "6000mhz",
-          "LGA1700",
-          "HDMI",
-          "DisplayPort"
-        ],
-        "Date": "2023-05-11T07:56:36.6020035-04:00",
-        "Update": "2023-07-28T14:40:04.1127819-04:00",
-        "Discount": 0.0,
-        "Label": "Asus TUF Z690-Plus Wifi DDR5"
-      },
-      {
         "Price": 299.00,
         "Features": [
           "12va-13ra",
@@ -2193,22 +2060,6 @@
         "Update": "2023-07-27T10:54:59.8170004-04:00",
         "Discount": 0.0,
         "Label": "Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
-      },
-      {
-        "Price": 375.00,
-        "Features": [
-          "8GB",
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-07-12T21:42:49.1798698-04:00",
-        "Update": "2023-07-27T10:54:59.8257395-04:00",
-        "Discount": 0.0,
-        "Label": "Asus Dual RTX 4060 OC"
       },
       {
         "Price": 285.00,
@@ -3106,22 +2957,6 @@
       }
     ],
     "Monitor": [
-      {
-        "Price": 265.00,
-        "Features": [
-          "300 Nit",
-          "1ms",
-          "FreeSync",
-          "VA",
-          "75Hz",
-          "Flat",
-          "Gaming"
-        ],
-        "Date": "2023-05-11T19:57:45.9857068-04:00",
-        "Update": "2023-06-29T11:38:59.0967982-04:00",
-        "Discount": 0.0,
-        "Label": "Acer Nitro 27FHD QG271"
-      },
       {
         "Price": 225.00,
         "Features": [
