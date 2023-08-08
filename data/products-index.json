@@ -2389,7 +2389,7 @@
         "Label": "Mouse EVGA X17"
       },
       {
-        "Price": 73.00,
+        "Price": 69.00,
         "Features": [
           "Inalámbrico",
           "16000dpi",
@@ -2417,21 +2417,6 @@
         "Update": "2023-06-24T10:51:11.4827164-04:00",
         "Discount": 0.0,
         "Label": "Mouse Asus TUF M3"
-      },
-      {
-        "Price": 55.00,
-        "Features": [
-          "Wireless",
-          "12000dpi",
-          "6 botónes",
-          "Optico",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-06-29T07:38:38.0146289-04:00",
-        "Update": "2023-06-29T11:38:59.1886611-04:00",
-        "Discount": 0.0,
-        "Label": "Mouse Logitech G305 Lightspeed"
       },
       {
         "Price": 65.00,
@@ -2484,25 +2469,6 @@
         "Update": "2023-07-09T22:12:27.9299035-04:00",
         "Discount": 0.0,
         "Label": "Mouse Razer Viper Mini"
-      },
-      {
-        "Price": 95.00,
-        "Features": [
-          "20000dpi",
-          "Inalámbrico",
-          "Optico",
-          "70H",
-          "74g",
-          "Ambidiestro",
-          "8 botónes",
-          "650ips",
-          "RGB",
-          "USB"
-        ],
-        "Date": "2023-07-09T16:44:39.4151482-04:00",
-        "Update": "2023-07-11T17:12:10.1103147-04:00",
-        "Discount": 0.0,
-        "Label": "Mouse Razer Viper Ultimate"
       },
       {
         "Price": 37.00,
