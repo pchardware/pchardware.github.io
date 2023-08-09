@@ -1,0 +1,25 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Otros",
+  "Images": [
+    "/images/products/hub-orico-usb-c-4xusb-pw4u-1.webp",
+    "/images/products/hub-orico-usb-c-4xusb-pw4u-2.webp",
+    "/images/products/hub-orico-usb-c-4xusb-pw4u-3.webp",
+    "/images/products/hub-orico-usb-c-4xusb-pw4u-4.webp",
+    "/images/products/hub-orico-usb-c-4xusb-pw4u-5.webp",
+    "/images/products/hub-orico-usb-c-4xusb-pw4u-6.webp",
+    "/images/products/hub-orico-usb-c-4xusb-pw4u-7.webp"
+  ],
+  "Description": "Model\nBrand: ORICO\n\n\nDetails\nColor: Black\nType: USB\nStandards: USB 3.0\nMax Devices Supported: 127\nPorts: 4 x USB 3.0\nTransfer Rate: Up to 5 Gbps\nLEDs: Power/Activity\nTemperature: 5° C~ 40° C",
+  "Price": 17.00,
+  "Features": [
+    "Negro",
+    "USB3.0",
+    "5Gbps",
+    "LED"
+  ],
+  "Date": "2023-08-08T10:08:25.6723245-04:00",
+  "Update": "2023-08-09T11:38:47.3567026-04:00",
+  "Discount": 0.0,
+  "Label": "HUB Orico USB-C, 4xUSB [PW4U]"
+}
