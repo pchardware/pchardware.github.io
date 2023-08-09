@@ -1,0 +1,30 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/msi-rtx-4060-gaming-x-1.webp",
+    "/images/products/msi-rtx-4060-gaming-x-2.webp",
+    "/images/products/msi-rtx-4060-gaming-x-3.webp",
+    "/images/products/msi-rtx-4060-gaming-x-4.webp",
+    "/images/products/msi-rtx-4060-gaming-x-5.webp",
+    "/images/products/msi-rtx-4060-gaming-x-6.webp",
+    "/images/products/msi-rtx-4060-gaming-x-7.webp"
+  ],
+  "Description": "Model\nBrand: MSI\nSeries: Gaming\nModel: RTX 4060 GAMING X 8G\n\n\nInterface\nInterface: PCI Express 4.0 x8\n\n\nChipset\nChipset Manufacturer: NVIDIA\nGPU Series: NVIDIA GeForce RTX 40 Series\nGPU: GeForce RTX 4060\nBoost Clock: 2595 MHz\nCUDA Cores: 3072 Cores\n\n\nMemory\nEffective Memory Clock: 17000 MHz\nMemory Size: 8GB\nMemory Interface: 128-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12 Ultimate\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 1 x HDMI 2.1a\nDisplayPort: 3 x DisplayPort 1.4a\n\n\nDetails\nMax Resolution: 7680 x 4320\nCooler: Double Fans\nThermal Design Power: 115W\nRecommended PSU Wattage: 550W\nPower Connector: 8-Pin\nHDCP Ready: Yes\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 247 mm",
+  "Price": 395.00,
+  "Features": [
+    "2xFan",
+    "8GB",
+    "1x8Pin",
+    "DLSS3",
+    "550WR",
+    "247mm",
+    "GeForce",
+    "NVIDIA",
+    "GPU"
+  ],
+  "Date": "2023-08-08T10:08:12.7346355-04:00",
+  "Update": "2023-08-09T11:38:47.3430726-04:00",
+  "Discount": 0.0,
+  "Label": "MSI RTX 4060 Gaming X"
+}
