@@ -1,0 +1,31 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Teclado",
+  "Images": [
+    "/images/products/teclado-cooler-master-sk653-1.webp",
+    "/images/products/teclado-cooler-master-sk653-2.webp",
+    "/images/products/teclado-cooler-master-sk653-3.webp",
+    "/images/products/teclado-cooler-master-sk653-4.webp",
+    "/images/products/teclado-cooler-master-sk653-5.webp",
+    "/images/products/teclado-cooler-master-sk653-6.webp",
+    "/images/products/teclado-cooler-master-sk653-7.webp"
+  ],
+  "Description": "Interruptores de perfil bajo: una distancia de viaje reducida y punto de accionamiento con la misma durabilidad y precisión distintivas.\n\nDiseño de aluminio cepillado: placa superior delgada, teclas flotantes y diseño minimalista construido pensando en la funcionalidad.\n\nHíbrido inalámbrico: elige entre conectividad tipo C con cable o Bluetooth 4.0 inalámbrico para hasta 3 dispositivos.\n\nActualizaciones ergonómicas: teclas ergonómicas nuevas y mejoradas en comparación con su predecesor y pies ajustables ahora te dan una experiencia de escritura aún más cómoda.\nSoporte de múltiples sistemas operativos: compatible con Windows 8 y superior, Mac OS X, iOS y Android, y cambia fácilmente entre todos los dispositivos con un simple combo de teclas.",
+  "Price": 97.00,
+  "Features": [
+    "Mecánico",
+    "RGB",
+    "Inalámbrico",
+    "Slim",
+    "Aluminio",
+    "Macros",
+    "Gaming",
+    "Blanco",
+    "Cable",
+    "Full"
+  ],
+  "Date": "2023-08-08T10:02:40.1291313-04:00",
+  "Update": "2023-08-09T11:38:47.2741868-04:00",
+  "Discount": 0.0,
+  "Label": "Teclado Cooler Master SK653"
+}
