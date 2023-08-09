@@ -1,0 +1,32 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/msi-rtx-4070-ti-gaming-trio-1.webp",
+    "/images/products/msi-rtx-4070-ti-gaming-trio-2.webp",
+    "/images/products/msi-rtx-4070-ti-gaming-trio-3.webp",
+    "/images/products/msi-rtx-4070-ti-gaming-trio-4.webp",
+    "/images/products/msi-rtx-4070-ti-gaming-trio-5.webp",
+    "/images/products/msi-rtx-4070-ti-gaming-trio-6.webp",
+    "/images/products/msi-rtx-4070-ti-gaming-trio-7.webp",
+    "/images/products/msi-rtx-4070-ti-gaming-trio-8.webp",
+    "/images/products/msi-rtx-4070-ti-gaming-trio-9.webp"
+  ],
+  "Description": "Model\nBrand: MSI\nSeries: Gaming\nModel: RTX 4070 Ti GAMING TRIO 12G\n\n\nInterface\nInterface: PCI Express 4.0\n\n\nChipset\nChipset Manufacturer: NVIDIA\nGPU Series: NVIDIA GeForce RTX 40 Series\nGPU: GeForce RTX 4070 Ti\nBoost Clock: 2610 MHz\nCUDA Cores: 7680\n\n\nMemory\nEffective Memory Clock: 21000 MHz\nMemory Size: 12GB\nMemory Interface: 192-Bit\nMemory Type: GDDR6X\n\n\n3D API\nDirectX: DirectX 12 Ultimate\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 1 x HDMI 2.1a\nDisplayPort: 3 x DisplayPort 1.4a\n\n\nDetails\nMax Resolution: 7680 x 4320\nCooler: Triple Fans\nThermal Design Power: 285W\nRecommended PSU Wattage: 750W\nPower Connector: 1 x 16-Pin\nHDCP Ready: Yes\n\n\nForm Factor & Dimensions\nMax GPU Length: 337 mm",
+  "Price": 995.00,
+  "Features": [
+    "DLSS3",
+    "3xFan",
+    "12GB",
+    "1x16Pin",
+    "750WR",
+    "337mm",
+    "GeForce",
+    "NVIDIA",
+    "GPU"
+  ],
+  "Date": "2023-08-08T10:08:35.8891088-04:00",
+  "Update": "2023-08-09T11:38:47.3836299-04:00",
+  "Discount": 0.0,
+  "Label": "MSI RTX 4070 Ti Gaming TRIO"
+}
