@@ -190,19 +190,6 @@
         "Update": "2023-08-01T18:30:20.3375283-04:00",
         "Discount": 0.0,
         "Label": "Corsair Comander Pro"
-      },
-      {
-        "Price": 30.00,
-        "Features": [
-          "PCIe x1",
-          "Alimentación IDE",
-          "Interna",
-          "Adaptador"
-        ],
-        "Date": "2023-06-07T15:06:32.5341385-04:00",
-        "Update": "2023-08-01T18:30:20.3446254-04:00",
-        "Discount": 0.0,
-        "Label": "Expansión Rosewill 4xUSB 3.0"
       }
     ],
     "Memoria RAM": [
@@ -774,18 +761,6 @@
         "Update": "2023-07-27T09:48:00.8250522-04:00",
         "Discount": 0.0,
         "Label": "SSD 2.5 Team Group CX2 2TB"
-      },
-      {
-        "Price": 60.00,
-        "Features": [
-          "560mbs",
-          "300tbw",
-          "SATA 3"
-        ],
-        "Date": "2023-04-09T09:39:58.2011686-04:00",
-        "Update": "2023-08-01T12:24:37.8780269-04:00",
-        "Discount": 0.0,
-        "Label": "SSD 2.5 Samsung 870 EVO 500GB"
       },
       {
         "Price": 84.00,
@@ -1971,21 +1946,6 @@
       {
         "Price": 699.00,
         "Features": [
-          "3xFan",
-          "12GB",
-          "1x8Pin",
-          "800WR",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-06-19T07:48:40.2408631-04:00",
-        "Update": "2023-07-27T10:54:59.7774889-04:00",
-        "Discount": 0.0,
-        "Label": "MSI Ventus 3X RTX 4070 OC"
-      },
-      {
-        "Price": 699.00,
-        "Features": [
           "2xFan",
           "12GB",
           "1x8Pin",
@@ -2284,19 +2244,6 @@
         "Update": "2023-06-07T15:55:09.4786695-04:00",
         "Discount": 0.0,
         "Label": "TP-LINK Archer T2U Nano"
-      },
-      {
-        "Price": 13.00,
-        "Features": [
-          "Wireless",
-          "N150",
-          "USB",
-          "Nano"
-        ],
-        "Date": "2023-06-07T15:07:38.6374368-04:00",
-        "Update": "2023-06-07T15:55:09.5042115-04:00",
-        "Discount": 0.0,
-        "Label": "TP-LINK TL-WN725N"
       }
     ],
     "Otros": [
