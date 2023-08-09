@@ -442,6 +442,19 @@
         "Update": "2023-08-02T11:51:57.1247765-04:00",
         "Discount": 0.0,
         "Label": "DDR5 Corsair Vengeance RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "16GBx2",
+          "CL40",
+          "Blanco",
+          "Disipadas"
+        ],
+        "Date": "2023-08-08T10:03:09.2905788-04:00",
+        "Update": "2023-08-09T11:38:47.294445-04:00",
+        "Discount": 0.0,
+        "Label": "DDR5 Silicon Power Zenith RGB 32GB 6000mhz"
       }
     ],
     "Chasis": [
@@ -1004,12 +1017,12 @@
           "Modular",
           "750W",
           "62A",
-          "4x 6+2-Pin",
+          "4x 6+2Pin",
           "8x SATA",
           "1x 4+4 EPS"
         ],
         "Date": "2023-04-15T07:27:10.1467554-04:00",
-        "Update": "2023-07-27T09:58:48.4383658-04:00",
+        "Update": "2023-08-09T11:38:47.0945669-04:00",
         "Discount": 0.0,
         "Label": "Fuente Corsair CX750M"
       },
@@ -1022,11 +1035,11 @@
           "70A",
           "2x 4+4 EPS",
           "10x SATA",
-          "3x 6-Pin",
-          "3x 6+2-Pin"
+          "3x 6Pin",
+          "3x 6+2Pin"
         ],
         "Date": "2023-05-11T14:26:41.8517332-04:00",
-        "Update": "2023-07-27T09:58:48.4496765-04:00",
+        "Update": "2023-08-09T11:38:47.1017039-04:00",
         "Discount": 0.0,
         "Label": "Fuente EVGA 850 BQ"
       },
@@ -1034,12 +1047,12 @@
         "Price": 85.00,
         "Features": [
           "35A",
-          "2x 6+2 Pin",
+          "2x 6+2Pin",
           "6x SATA",
           "1x 4+4 EPS"
         ],
         "Date": "2023-05-12T07:54:08.9581203-04:00",
-        "Update": "2023-07-27T09:58:48.4581796-04:00",
+        "Update": "2023-08-09T11:38:47.1091296-04:00",
         "Discount": 0.0,
         "Label": "Fuente Thermaltake SMART 500W 80+"
       },
@@ -1049,13 +1062,13 @@
           "80+ Gold",
           "Full Modular",
           "ATX 3.0",
+          "2x 4+4 EPS",
           "71A",
-          "3x 8-Pin",
-          "5x SATA",
-          "2x 4+4 EPS"
+          "3x 6+2Pin",
+          "5x SATA"
         ],
         "Date": "2023-05-11T14:26:27.9739641-04:00",
-        "Update": "2023-07-27T09:58:48.4645451-04:00",
+        "Update": "2023-08-09T11:38:47.1159003-04:00",
         "Discount": 0.0,
         "Label": "Fuente Asus TUF 850W"
       },
@@ -1066,12 +1079,12 @@
           "Full Modular",
           "1000W",
           "83A",
-          "8x 6+2-Pin",
+          "8x 6+2Pin",
           "11x SATA",
           "2x 4+4 EPS"
         ],
         "Date": "2023-04-15T07:27:11.3654492-04:00",
-        "Update": "2023-07-27T09:58:48.4709384-04:00",
+        "Update": "2023-08-09T11:38:47.1228052-04:00",
         "Discount": 0.0,
         "Label": "Fuente Corsair RM1000X"
       },
@@ -1082,12 +1095,12 @@
           "80+ Gold",
           "850W",
           "71A",
-          "3x 6+2 Pin",
+          "3x 6+2Pin",
           "7x SATA",
           "2x 4+4 EPS"
         ],
         "Date": "2023-06-07T13:43:20.159516-04:00",
-        "Update": "2023-07-27T09:58:48.4770496-04:00",
+        "Update": "2023-08-09T11:38:47.1294847-04:00",
         "Discount": 0.0,
         "Label": "Fuente Corsair RM850e"
       },
@@ -1098,12 +1111,12 @@
           "80+ Gold",
           "850W",
           "71A",
-          "4x 6+2-Pin",
+          "4x 6+2Pin",
           "9x SATA",
           "2x 4+4 EPS"
         ],
         "Date": "2023-06-29T07:39:28.1211607-04:00",
-        "Update": "2023-07-27T09:58:48.490199-04:00",
+        "Update": "2023-08-09T11:38:47.1365222-04:00",
         "Discount": 0.0,
         "Label": "Fuente Rosewill CMG850"
       },
@@ -1112,13 +1125,13 @@
         "Features": [
           "700W",
           "80+ Bronze",
-          "4x 6+2",
+          "4x 6+2Pin",
           "46A",
           "5x SATA",
           "1x 4+4 EPS"
         ],
         "Date": "2023-07-09T16:51:14.2364929-04:00",
-        "Update": "2023-07-27T09:58:48.504347-04:00",
+        "Update": "2023-08-09T11:38:47.1439846-04:00",
         "Discount": 0.0,
         "Label": "Fuente Raidmax Cobra RX-700AC-B"
       },
@@ -1128,12 +1141,12 @@
           "80+ PLATINUM",
           "Full Modular",
           "71A",
-          "2x 8-Pin",
+          "2x 6+2Pin",
           "14x SATA",
           "3x 4+4 EPS"
         ],
         "Date": "2023-07-17T23:37:46.1740196-04:00",
-        "Update": "2023-07-27T09:58:48.5106377-04:00",
+        "Update": "2023-08-09T11:38:47.1510667-04:00",
         "Discount": 0.0,
         "Label": "Fuente Corsair HX850"
       },
@@ -1143,12 +1156,12 @@
           "80+ Gold",
           "800W",
           "67A",
-          "4x 6+2-Pin",
+          "4x 6+2Pin",
           "8x SATA",
           "2x 4+4 EPS"
         ],
         "Date": "2023-07-12T21:42:43.1904262-04:00",
-        "Update": "2023-07-27T09:58:48.5177287-04:00",
+        "Update": "2023-08-09T11:38:47.1581961-04:00",
         "Discount": 0.0,
         "Label": "Fuente EVGA 800 GE"
       },
@@ -1159,14 +1172,52 @@
           "Full Modular",
           "1000W",
           "83A",
-          "6x 6+2-Pin",
+          "6x 6+2Pin",
           "2x 4+4 EPS",
           "8x SATA"
         ],
         "Date": "2023-08-01T11:14:26.7187573-04:00",
-        "Update": "2023-08-01T18:30:20.3792357-04:00",
+        "Update": "2023-08-09T11:38:47.2671936-04:00",
         "Discount": 0.0,
         "Label": "Fuente ASUS ROG STRIX 1000W Gold"
+      },
+      {
+        "Price": 295.00,
+        "Features": [
+          "80+ PLATINUM",
+          "ARGB",
+          "Full Modular",
+          "1x 16-Pin",
+          "71A",
+          "2x 4+4 EPS",
+          "3x 6+2Pin",
+          "10x SATA",
+          "160mm"
+        ],
+        "Date": "2023-08-08T10:02:44.4021387-04:00",
+        "Update": "2023-08-09T11:38:47.2810415-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente Asus ROG Thor 850W Platinum III"
+      },
+      {
+        "Price": 259.00,
+        "Features": [
+          "ATX 3.0",
+          "80+ Gold",
+          "Full Modular",
+          "Zero RPM",
+          "6x 6+2Pin",
+          "1000W",
+          "83A",
+          "2x 4+4 EPS",
+          "151mm",
+          "7xSATA",
+          "4x PATA"
+        ],
+        "Date": "2023-08-08T10:08:04.4203937-04:00",
+        "Update": "2023-08-09T11:38:47.3298998-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente Corsair RM1000e"
       }
     ],
     "Red": [
@@ -1670,6 +1721,23 @@
         "Update": "2023-08-06T08:19:53.923068-04:00",
         "Discount": 0.0,
         "Label": "Gigabyte Z790 UD AX"
+      },
+      {
+        "Price": 235.00,
+        "Features": [
+          "12va-13ra",
+          "6xAudio",
+          "6xUSB",
+          "4xSATA",
+          "6000mhz",
+          "LGA1700",
+          "HDMI",
+          "DisplayPort"
+        ],
+        "Date": "2023-05-11T07:56:36.6020035-04:00",
+        "Update": "2023-08-09T11:38:47.2593926-04:00",
+        "Discount": 0.0,
+        "Label": "Asus TUF Z690-Plus Wifi DDR5"
       }
     ],
     "Disipador por Aire": [
@@ -1876,182 +1944,48 @@
         "Update": "2023-08-06T12:55:00.7526694-04:00",
         "Discount": 0.0,
         "Label": "Enfriamiento AMD Wraith MAX RGB LED"
-      }
-    ],
-    "Tarjeta Gráfica": [
-      {
-        "Price": 635.00,
-        "Features": [
-          "12GB",
-          "Liquida",
-          "2x8Pin",
-          "750WR",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-04-09T07:40:11.0980971-04:00",
-        "Update": "2023-07-27T10:54:59.7292857-04:00",
-        "Discount": 0.0,
-        "Label": "EVGA RTX 3080Ti XC3 Hydro Copper"
       },
       {
-        "Price": 689.00,
+        "Price": 50.00,
         "Features": [
-          "2xFan",
-          "12GB",
-          "1x8Pin",
-          "650WR",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
+          "Cobre",
+          "33cfm",
+          "130mm",
+          "LGA1700",
+          "LGA1200",
+          "LGA115X",
+          "AM5",
+          "AM4",
+          "2xPipes",
+          "Tower",
+          "Blanco"
         ],
-        "Date": "2023-05-11T13:36:49.3673823-04:00",
-        "Update": "2023-07-27T10:54:59.738626-04:00",
+        "Date": "2023-03-27T10:59:30.2839721-04:00",
+        "Update": "2023-08-09T11:38:47.0869399-04:00",
         "Discount": 0.0,
-        "Label": "Asus Dual RTX 4070"
+        "Label": "Disipador Thermaltake Contac 9 SE 120W"
       },
       {
-        "Price": 549.00,
+        "Price": 39.00,
         "Features": [
-          "3xFan",
-          "8GB",
-          "2x8Pin",
-          "750WR",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
+          "ARGB",
+          "Cobre",
+          "36cfm",
+          "26dBa",
+          "130mm",
+          "LGA1700",
+          "LGA1200",
+          "LGA115X",
+          "AM5",
+          "AM4",
+          "2xPipes",
+          "Tower",
+          "Negro"
         ],
-        "Date": "2023-05-11T13:41:35.5997368-04:00",
-        "Update": "2023-07-27T10:54:59.7530593-04:00",
+        "Date": "2023-08-08T10:08:41.3850156-04:00",
+        "Update": "2023-08-09T11:38:47.3979064-04:00",
         "Discount": 0.0,
-        "Label": "Zotac Gaming RTX 3070Ti"
-      },
-      {
-        "Price": 899.00,
-        "Features": [
-          "3xFan",
-          "12GB",
-          "1x16Pin",
-          "750W",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-05-11T13:47:38.0164911-04:00",
-        "Update": "2023-07-27T10:54:59.7600811-04:00",
-        "Discount": 0.0,
-        "Label": "MSI Ventus 3X RTX 4070Ti OC"
-      },
-      {
-        "Price": 699.00,
-        "Features": [
-          "2xFan",
-          "12GB",
-          "1x8Pin",
-          "650WR",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-06-19T07:49:38.2054403-04:00",
-        "Update": "2023-07-27T10:54:59.785795-04:00",
-        "Discount": 0.0,
-        "Label": "Asus Dual RTX 4070 OC"
-      },
-      {
-        "Price": 389.00,
-        "Features": [
-          "12GB",
-          "2xFan",
-          "2x8Pin",
-          "650WR",
-          "Radeon",
-          "AMD",
-          "GPU"
-        ],
-        "Date": "2023-06-29T07:39:05.0557701-04:00",
-        "Update": "2023-07-27T10:54:59.7943338-04:00",
-        "Discount": 0.0,
-        "Label": "ASRock Challenger D RX 6700 XT"
-      },
-      {
-        "Price": 339.00,
-        "Features": [
-          "3xFan",
-          "1x8Pin",
-          "550WR",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-06-29T07:39:14.2136094-04:00",
-        "Update": "2023-07-27T10:54:59.8016493-04:00",
-        "Discount": 0.0,
-        "Label": "MSI Ventus 3x RTX 3060 12GB"
-      },
-      {
-        "Price": 175.00,
-        "Features": [
-          "4GB",
-          "1xFan",
-          "400WR",
-          "Radeon",
-          "AMD",
-          "GPU"
-        ],
-        "Date": "2023-07-09T16:45:07.237632-04:00",
-        "Update": "2023-07-27T10:54:59.8084655-04:00",
-        "Discount": 0.0,
-        "Label": "ASRock Challenger ITX RX 6500 XT"
-      },
-      {
-        "Price": 269.00,
-        "Features": [
-          "8GB",
-          "3xFan",
-          "1x8Pin",
-          "500WR",
-          "Radeon",
-          "AMD",
-          "GPU"
-        ],
-        "Date": "2023-05-11T19:24:18.7527581-04:00",
-        "Update": "2023-07-27T10:54:59.8170004-04:00",
-        "Discount": 0.0,
-        "Label": "Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
-      },
-      {
-        "Price": 285.00,
-        "Features": [
-          "8GB",
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-07-12T21:42:54.3752209-04:00",
-        "Update": "2023-07-27T10:54:59.83475-04:00",
-        "Discount": 0.0,
-        "Label": "MSI Gaming X RTX 3050"
-      },
-      {
-        "Price": 339.00,
-        "Features": [
-          "10GB",
-          "3xFan",
-          "2x8Pin",
-          "650WR",
-          "Radeon",
-          "AMD",
-          "GPU"
-        ],
-        "Date": "2023-07-26T16:40:52.2609256-04:00",
-        "Update": "2023-07-27T10:54:59.8508103-04:00",
-        "Discount": 0.0,
-        "Label": "XFX Swft 309 RX 6700"
+        "Label": "Enfriamiento Sama KA200D RGB"
       }
     ],
     "Microprocesador": [
@@ -2227,6 +2161,282 @@
         "Update": "2023-07-27T11:12:22.8762112-04:00",
         "Discount": 0.0,
         "Label": "AMD Ryzen 7 5700G +Disipador"
+      },
+      {
+        "Price": 289.00,
+        "Features": [
+          "13ra Gen",
+          "20 Hilos",
+          "14 Core",
+          "4.8GHz",
+          "24MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-06-07T15:04:52.0919704-04:00",
+        "Update": "2023-08-09T11:38:47.252344-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i5-13500 +Disipador"
+      },
+      {
+        "Price": 189.00,
+        "Features": [
+          "12va Gen",
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "18MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-08-08T10:07:50.0509327-04:00",
+        "Update": "2023-08-09T11:38:47.3166843-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i5-12400F +Disipador"
+      }
+    ],
+    "Tarjeta Gráfica": [
+      {
+        "Price": 635.00,
+        "Features": [
+          "12GB",
+          "Liquida",
+          "2x8Pin",
+          "750WR",
+          "263mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-04-09T07:40:11.0980971-04:00",
+        "Update": "2023-08-09T11:38:47.1643663-04:00",
+        "Discount": 0.0,
+        "Label": "EVGA RTX 3080Ti XC3 Hydro Copper"
+      },
+      {
+        "Price": 689.00,
+        "Features": [
+          "DLSS3",
+          "2xFan",
+          "12GB",
+          "1x8Pin",
+          "650WR",
+          "269mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-05-11T13:36:49.3673823-04:00",
+        "Update": "2023-08-09T11:38:47.170834-04:00",
+        "Discount": 0.0,
+        "Label": "Asus Dual RTX 4070"
+      },
+      {
+        "Price": 549.00,
+        "Features": [
+          "3xFan",
+          "8GB",
+          "2x8Pin",
+          "750WR",
+          "318mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-05-11T13:41:35.5997368-04:00",
+        "Update": "2023-08-09T11:38:47.1773655-04:00",
+        "Discount": 0.0,
+        "Label": "Zotac Gaming RTX 3070Ti"
+      },
+      {
+        "Price": 899.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "12GB",
+          "1x16Pin",
+          "750W",
+          "308mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-05-11T13:47:38.0164911-04:00",
+        "Update": "2023-08-09T11:38:47.1845069-04:00",
+        "Discount": 0.0,
+        "Label": "MSI Ventus 3X RTX 4070Ti OC"
+      },
+      {
+        "Price": 699.00,
+        "Features": [
+          "DLSS3",
+          "2xFan",
+          "12GB",
+          "1x8Pin",
+          "650WR",
+          "269mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-06-19T07:49:38.2054403-04:00",
+        "Update": "2023-08-09T11:38:47.2001364-04:00",
+        "Discount": 0.0,
+        "Label": "Asus Dual RTX 4070 OC"
+      },
+      {
+        "Price": 389.00,
+        "Features": [
+          "12GB",
+          "2xFan",
+          "2x8Pin",
+          "650WR",
+          "269mm",
+          "Radeon",
+          "AMD",
+          "GPU"
+        ],
+        "Date": "2023-06-29T07:39:05.0557701-04:00",
+        "Update": "2023-08-09T11:38:47.2086273-04:00",
+        "Discount": 0.0,
+        "Label": "ASRock Challenger D RX 6700 XT"
+      },
+      {
+        "Price": 339.00,
+        "Features": [
+          "3xFan",
+          "1x8Pin",
+          "550WR",
+          "316mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-06-29T07:39:14.2136094-04:00",
+        "Update": "2023-08-09T11:38:47.2151959-04:00",
+        "Discount": 0.0,
+        "Label": "MSI Ventus 3x RTX 3060 12GB"
+      },
+      {
+        "Price": 175.00,
+        "Features": [
+          "4GB",
+          "1xFan",
+          "400WR",
+          "179mm",
+          "Radeon",
+          "AMD",
+          "GPU"
+        ],
+        "Date": "2023-07-09T16:45:07.237632-04:00",
+        "Update": "2023-08-09T11:38:47.2226607-04:00",
+        "Discount": 0.0,
+        "Label": "ASRock Challenger ITX RX 6500 XT"
+      },
+      {
+        "Price": 269.00,
+        "Features": [
+          "8GB",
+          "3xFan",
+          "1x8Pin",
+          "500WR",
+          "282mm",
+          "Radeon",
+          "AMD",
+          "GPU"
+        ],
+        "Date": "2023-05-11T19:24:18.7527581-04:00",
+        "Update": "2023-08-09T11:38:47.2295958-04:00",
+        "Discount": 0.0,
+        "Label": "Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
+      },
+      {
+        "Price": 285.00,
+        "Features": [
+          "8GB",
+          "2xFan",
+          "1x8Pin",
+          "550WR",
+          "278mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-07-12T21:42:54.3752209-04:00",
+        "Update": "2023-08-09T11:38:47.2365837-04:00",
+        "Discount": 0.0,
+        "Label": "MSI Gaming X RTX 3050"
+      },
+      {
+        "Price": 339.00,
+        "Features": [
+          "10GB",
+          "3xFan",
+          "2x8Pin",
+          "650WR",
+          "304mm",
+          "Radeon",
+          "AMD",
+          "GPU"
+        ],
+        "Date": "2023-07-26T16:40:52.2609256-04:00",
+        "Update": "2023-08-09T11:38:47.2446163-04:00",
+        "Discount": 0.0,
+        "Label": "XFX Swft 309 RX 6700"
+      },
+      {
+        "Price": 395.00,
+        "Features": [
+          "2xFan",
+          "8GB",
+          "1x8Pin",
+          "DLSS3",
+          "550WR",
+          "247mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-08-08T10:08:12.7346355-04:00",
+        "Update": "2023-08-09T11:38:47.3430726-04:00",
+        "Discount": 0.0,
+        "Label": "MSI RTX 4060 Gaming X"
+      },
+      {
+        "Price": 495.00,
+        "Features": [
+          "3xFan",
+          "650WR",
+          "2x8Pin",
+          "327mm",
+          "Radeon",
+          "AMD",
+          "GPU"
+        ],
+        "Date": "2023-08-08T10:08:31.2983243-04:00",
+        "Update": "2023-08-09T11:38:47.3703194-04:00",
+        "Discount": 0.0,
+        "Label": "MSI RX 6750 XT Gaming X TRIO 12G"
+      },
+      {
+        "Price": 995.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "12GB",
+          "1x16Pin",
+          "750WR",
+          "337mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-08-08T10:08:35.8891088-04:00",
+        "Update": "2023-08-09T11:38:47.3836299-04:00",
+        "Discount": 0.0,
+        "Label": "MSI RTX 4070 Ti Gaming TRIO"
       }
     ]
   },
@@ -2304,6 +2514,37 @@
         "Update": "2023-08-01T18:30:20.3944963-04:00",
         "Discount": 0.0,
         "Label": "Docking Orico Single Bay"
+      },
+      {
+        "Price": 29.00,
+        "Features": [
+          "HDMI",
+          "VGA",
+          "RJ45",
+          "SD",
+          "MicroSD",
+          "1xUSB3.0",
+          "2xUSB2.0",
+          "USB-C",
+          "3.5mm"
+        ],
+        "Date": "2023-08-08T10:02:55.1490571-04:00",
+        "Update": "2023-08-09T11:38:47.2878929-04:00",
+        "Discount": 0.0,
+        "Label": "Docking Orico 10-in-1 USB-C [MDK-10P]"
+      },
+      {
+        "Price": 17.00,
+        "Features": [
+          "Negro",
+          "USB3.0",
+          "5Gbps",
+          "LED"
+        ],
+        "Date": "2023-08-08T10:08:25.6723245-04:00",
+        "Update": "2023-08-09T11:38:47.3567026-04:00",
+        "Discount": 0.0,
+        "Label": "HUB Orico USB-C, 4xUSB [PW4U]"
       }
     ],
     "Mouse": [
@@ -2524,6 +2765,16 @@
         "Update": "2023-08-01T18:30:20.4296613-04:00",
         "Discount": 0.0,
         "Label": "Mouse Pad Asus NC01 ROG Sheath BLK"
+      },
+      {
+        "Price": 45.00,
+        "Features": [
+          "Extended 2XL"
+        ],
+        "Date": "2023-08-08T10:07:08.5417566-04:00",
+        "Update": "2023-08-09T11:38:47.3016559-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse Pad Aukey RGB Gaming Large"
       }
     ],
     "Teclado": [
@@ -2867,6 +3118,25 @@
         "Update": "2023-08-01T18:30:20.4369867-04:00",
         "Discount": 0.0,
         "Label": "Teclado NZXT Function TKL"
+      },
+      {
+        "Price": 97.00,
+        "Features": [
+          "Mecánico",
+          "RGB",
+          "Inalámbrico",
+          "Slim",
+          "Aluminio",
+          "Macros",
+          "Gaming",
+          "Blanco",
+          "Cable",
+          "Full"
+        ],
+        "Date": "2023-08-08T10:02:40.1291313-04:00",
+        "Update": "2023-08-09T11:38:47.2741868-04:00",
+        "Discount": 0.0,
+        "Label": "Teclado Cooler Master SK653"
       }
     ],
     "Monitor": [
