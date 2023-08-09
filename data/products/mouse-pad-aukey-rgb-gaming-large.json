@@ -1,0 +1,22 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Mouse",
+  "Images": [
+    "/images/products/mouse-pad-aukey-rgb-gaming-large-1.webp",
+    "/images/products/mouse-pad-aukey-rgb-gaming-large-2.webp",
+    "/images/products/mouse-pad-aukey-rgb-gaming-large-3.webp",
+    "/images/products/mouse-pad-aukey-rgb-gaming-large-4.webp",
+    "/images/products/mouse-pad-aukey-rgb-gaming-large-5.webp",
+    "/images/products/mouse-pad-aukey-rgb-gaming-large-6.webp",
+    "/images/products/mouse-pad-aukey-rgb-gaming-large-7.webp"
+  ],
+  "Description": "Model\nBrand: Aukey\nSeries: KM-P6\nModel: KM-P6\n\n\nDetails\nType: Mousepad\nDimensions: 0.15\" x 31.50\" x 11.80\"\nSurface: Cloth\nBase: Rubber\nColor: Black\nThickness: 4mm\nSize: Extended 2XL",
+  "Price": 45.00,
+  "Features": [
+    "Extended 2XL"
+  ],
+  "Date": "2023-08-08T10:07:08.5417566-04:00",
+  "Update": "2023-08-09T11:38:47.3016559-04:00",
+  "Discount": 0.0,
+  "Label": "Mouse Pad Aukey RGB Gaming Large"
+}
