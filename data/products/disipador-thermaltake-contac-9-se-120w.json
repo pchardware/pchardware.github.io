@@ -1,0 +1,31 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disipador por Aire",
+  "Images": [
+    "/images/products/disipador-thermaltake-contac-9-se-120w-1.webp",
+    "/images/products/disipador-thermaltake-contac-9-se-120w-2.webp",
+    "/images/products/disipador-thermaltake-contac-9-se-120w-3.webp",
+    "/images/products/disipador-thermaltake-contac-9-se-120w-4.webp",
+    "/images/products/disipador-thermaltake-contac-9-se-120w-5.webp",
+    "/images/products/disipador-thermaltake-contac-9-se-120w-6.webp"
+  ],
+  "Description": "Model\nBrand: Thermaltake\nSeries: Contac\nModel: Contac 9 SE\nPart Number: CL-P106-AL09WT-A\n\n\nDetails\nType: Fan & Heatsinks\nFan Size: 92mm\nCPU Socket Compatibility: Intel LGA 1700 / 1200 / 1156 / 1155 / 1151 / 1150 AMD AM5 / AM4 / AM3+ / AM3 / AM2+ / AM2 / FM2 / FM1\nAir Flow: 33.12 CFM\nColor: White\nHeatsink Material: Aluminum & Copper\nFan Mounting Types to Heatsink: Vertical\n\n\nDimensions & Weight\nMax CPU Cooler Height: 130 mm\nFan Dimensions: 92.00 x 92.00 x 25.00 mm",
+  "Price": 50.00,
+  "Features": [
+    "Cobre",
+    "33cfm",
+    "130mm",
+    "LGA1700",
+    "LGA1200",
+    "LGA115X",
+    "AM5",
+    "AM4",
+    "2xPipes",
+    "Tower",
+    "Blanco"
+  ],
+  "Date": "2023-03-27T10:59:30.2839721-04:00",
+  "Update": "2023-08-09T11:38:47.0869399-04:00",
+  "Discount": 0.0,
+  "Label": "Disipador Thermaltake Contac 9 SE 120W"
+}
