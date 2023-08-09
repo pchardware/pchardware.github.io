@@ -1,0 +1,29 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Otros",
+  "Images": [
+    "/images/products/docking-orico-10-in-1-usb-c-mdk-10p-1.webp",
+    "/images/products/docking-orico-10-in-1-usb-c-mdk-10p-2.webp",
+    "/images/products/docking-orico-10-in-1-usb-c-mdk-10p-3.webp",
+    "/images/products/docking-orico-10-in-1-usb-c-mdk-10p-4.webp",
+    "/images/products/docking-orico-10-in-1-usb-c-mdk-10p-5.webp",
+    "/images/products/docking-orico-10-in-1-usb-c-mdk-10p-6.webp"
+  ],
+  "Description": "Model\nBrand: ORICO\n\n\nDetails\nColor: Black",
+  "Price": 29.00,
+  "Features": [
+    "HDMI",
+    "VGA",
+    "RJ45",
+    "SD",
+    "MicroSD",
+    "1xUSB3.0",
+    "2xUSB2.0",
+    "USB-C",
+    "3.5mm"
+  ],
+  "Date": "2023-08-08T10:02:55.1490571-04:00",
+  "Update": "2023-08-09T11:38:47.2878929-04:00",
+  "Discount": 0.0,
+  "Label": "Docking Orico 10-in-1 USB-C [MDK-10P]"
+}
