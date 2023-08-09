@@ -1,0 +1,34 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disipador por Aire",
+  "Images": [
+    "/images/products/enfriamiento-sama-ka200d-rgb-1.webp",
+    "/images/products/enfriamiento-sama-ka200d-rgb-2.webp",
+    "/images/products/enfriamiento-sama-ka200d-rgb-3.webp",
+    "/images/products/enfriamiento-sama-ka200d-rgb-4.webp",
+    "/images/products/enfriamiento-sama-ka200d-rgb-5.webp",
+    "/images/products/enfriamiento-sama-ka200d-rgb-6.webp",
+    "/images/products/enfriamiento-sama-ka200d-rgb-7.webp"
+  ],
+  "Description": "Model\nBrand: SAMA\nSeries: KA Series\nModel: KA200D\n\nDetails\nType: Fan & Heatsinks\nFan Size: 90*90*25MM\nCPU Socket Compatibility: AMD Socket AM5\nBearing Type: Hydro Bearing\nRPM: 800RPM士10%\nAir Flow: 36CFM(Max)\nNoise Level: 26.5dBA\nPower Connector: 3Pin\nColor: Black\nLED: RGB\nHeatsink Material: Aluminum & Copper\n\nDimensions & Weight\nMax CPU Cooler Height: 130 mm\nFan Dimensions: 95*38*130MM\nHeatsink Dimensions: 95*38*130MM\nWeight: More than 160g\n\nFeatures\nFeatures: 1.Better Heat Dissipation: CPU cooler comes with 2heat pipes and 90mm fan to make sure excellent heat transfer from CPU Fan: The 90mm \n\n2.2 Direct Contact Heat Pipes: 2 direct contact heat pipes with exclusive direct contact Technology effectively provide excellent heat dissipation\n3.fan delivers Low-Noise for automatic speed control and ultra-quiet operation for extreme CPU cooling performance.\n\n4.90mm FanThe fan blade is a detachable design for easy cleaning and maintenance. \n\n5.Addressable RGB motherboard Sync: The lighting can sync with motherboard via 5V 3pin interface, provide even and rich illumination. \n\n6.CPU socket \nsupportIntel:LGA755/115X/1366/1200/1700;AMD:FM2/FM1/AM4/AM5/AM3/AM2+/AM2",
+  "Price": 39.00,
+  "Features": [
+    "ARGB",
+    "Cobre",
+    "36cfm",
+    "26dBa",
+    "130mm",
+    "LGA1700",
+    "LGA1200",
+    "LGA115X",
+    "AM5",
+    "AM4",
+    "2xPipes",
+    "Tower",
+    "Negro"
+  ],
+  "Date": "2023-08-08T10:08:41.3850156-04:00",
+  "Update": "2023-08-09T11:38:47.3979064-04:00",
+  "Discount": 0.0,
+  "Label": "Enfriamiento Sama KA200D RGB"
+}
