@@ -20,14 +20,6 @@
     ],
     "Entusiasta": [
       {
-        "Price": 2299.00,
-        "Features": [],
-        "Date": "2023-08-06T13:24:03.9391658-04:00",
-        "Update": "2023-08-06T15:01:08.3758606-04:00",
-        "Discount": 54.0,
-        "Label": "PC Gamer 28\" 4K, RTX 3070Ti, i7-12700K, Z690 AERO, G.Skill 32GB RGB, 500GB Samsung, 850W, T.Mecánico"
-      },
-      {
         "Price": 2919.00,
         "Features": [],
         "Date": "2023-08-06T13:28:59.6256009-04:00",
@@ -1182,25 +1174,7 @@
         "Label": "Fuente ASUS ROG STRIX 1000W Gold"
       },
       {
-        "Price": 295.00,
-        "Features": [
-          "80+ PLATINUM",
-          "ARGB",
-          "Full Modular",
-          "1x 16-Pin",
-          "71A",
-          "2x 4+4 EPS",
-          "3x 6+2Pin",
-          "10x SATA",
-          "160mm"
-        ],
-        "Date": "2023-08-08T10:02:44.4021387-04:00",
-        "Update": "2023-08-09T11:38:47.2810415-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente Asus ROG Thor 850W Platinum III"
-      },
-      {
-        "Price": 259.00,
+        "Price": 249.00,
         "Features": [
           "ATX 3.0",
           "80+ Gold",
@@ -1723,7 +1697,7 @@
         "Label": "Gigabyte Z790 UD AX"
       },
       {
-        "Price": 235.00,
+        "Price": 245.00,
         "Features": [
           "12va-13ra",
           "6xAudio",
@@ -1757,7 +1731,7 @@
         "Label": "Enfriamiento Asus 3 Headpipe AMD"
       },
       {
-        "Price": 39.00,
+        "Price": 37.00,
         "Features": [
           "LGA 1200",
           "3xPipes",
@@ -1946,7 +1920,7 @@
         "Label": "Enfriamiento AMD Wraith MAX RGB LED"
       },
       {
-        "Price": 50.00,
+        "Price": 41.00,
         "Features": [
           "Cobre",
           "33cfm",
@@ -2478,14 +2452,6 @@
         "Update": "2023-07-27T10:54:59.8420792-04:00",
         "Discount": 0.0,
         "Label": "HUB ORICO Type-A 10-Port USB 3.0"
-      },
-      {
-        "Price": 10.00,
-        "Features": [],
-        "Date": "2023-07-26T16:41:47.7242065-04:00",
-        "Update": "2023-07-27T10:54:59.8709371-04:00",
-        "Discount": 0.0,
-        "Label": "Cable HDMI 1.8mts"
       },
       {
         "Price": 49.00,
@@ -3219,22 +3185,6 @@
         "Update": "2023-06-29T11:38:59.1739791-04:00",
         "Discount": 0.0,
         "Label": "Samsung 32UHD S70A S32A70"
-      },
-      {
-        "Price": 385.00,
-        "Features": [
-          "HDR10",
-          "4K",
-          "IPS",
-          "FreeSync",
-          "300 Nit",
-          "Flat",
-          "Gaming"
-        ],
-        "Date": "2023-06-29T07:38:34.6760535-04:00",
-        "Update": "2023-06-29T11:38:59.1843409-04:00",
-        "Discount": 0.0,
-        "Label": "Acer Nitro 28UHD VG281K"
       },
       {
         "Price": 249.00,
