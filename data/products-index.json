@@ -755,19 +755,6 @@
         "Label": "SSD M.2 Silicon Power 1TB UD90"
       },
       {
-        "Price": 102.00,
-        "Features": [
-          "3250mbps",
-          "1000tbw",
-          "PCIe x3",
-          "NVMe"
-        ],
-        "Date": "2023-07-26T16:46:49.7122399-04:00",
-        "Update": "2023-07-27T09:48:00.8086587-04:00",
-        "Discount": 0.0,
-        "Label": "SSD M.2 Mushkin Tempest 2TB"
-      },
-      {
         "Price": 95.00,
         "Features": [
           "540mbps",
@@ -1155,21 +1142,6 @@
         "Label": "Fuente Corsair HX850"
       },
       {
-        "Price": 149.00,
-        "Features": [
-          "80+ Gold",
-          "800W",
-          "67A",
-          "4x 6+2Pin",
-          "8x SATA",
-          "2x 4+4 EPS"
-        ],
-        "Date": "2023-07-12T21:42:43.1904262-04:00",
-        "Update": "2023-08-09T11:38:47.1581961-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente EVGA 800 GE"
-      },
-      {
         "Price": 255.00,
         "Features": [
           "80+ Gold",
@@ -1471,26 +1443,6 @@
         "Update": "2023-07-27T07:36:15.640121-04:00",
         "Discount": 0.0,
         "Label": "Gigabyte Z690 AERO G"
-      },
-      {
-        "Price": 219.00,
-        "Features": [
-          "12va-13ra",
-          "8xSATA",
-          "6xAudio",
-          "5xUSB",
-          "DDR4",
-          "5000mhz",
-          "LGA 1700",
-          "ATX",
-          "PS2",
-          "HDMI",
-          "DisplayPort"
-        ],
-        "Date": "2023-07-26T18:48:41.3287682-04:00",
-        "Update": "2023-07-27T07:36:15.6600807-04:00",
-        "Discount": 0.0,
-        "Label": "ASRock Z690 Steel Legend"
       },
       {
         "Price": 259.00,
@@ -2290,22 +2242,6 @@
         "Label": "ASRock Challenger D RX 6700 XT"
       },
       {
-        "Price": 339.00,
-        "Features": [
-          "3xFan",
-          "1x8Pin",
-          "550WR",
-          "316mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-06-29T07:39:14.2136094-04:00",
-        "Update": "2023-08-09T11:38:47.2151959-04:00",
-        "Discount": 0.0,
-        "Label": "MSI Ventus 3x RTX 3060 12GB"
-      },
-      {
         "Price": 175.00,
         "Features": [
           "4GB",
@@ -2354,23 +2290,6 @@
         "Update": "2023-08-09T11:38:47.2365837-04:00",
         "Discount": 0.0,
         "Label": "MSI Gaming X RTX 3050"
-      },
-      {
-        "Price": 339.00,
-        "Features": [
-          "10GB",
-          "3xFan",
-          "2x8Pin",
-          "650WR",
-          "304mm",
-          "Radeon",
-          "AMD",
-          "GPU"
-        ],
-        "Date": "2023-07-26T16:40:52.2609256-04:00",
-        "Update": "2023-08-09T11:38:47.2446163-04:00",
-        "Discount": 0.0,
-        "Label": "XFX Swft 309 RX 6700"
       },
       {
         "Price": 395.00,
@@ -3026,24 +2945,6 @@
         "Label": "COMBO Teclado K49 + Mouse Asus JM3"
       },
       {
-        "Price": 99.00,
-        "Features": [
-          "60%",
-          "Mecánico",
-          "RGB",
-          "Inalámbrico",
-          "Macros",
-          "Gaming",
-          "TKL",
-          "Blanco",
-          "Cable"
-        ],
-        "Date": "2023-07-26T18:46:35.01659-04:00",
-        "Update": "2023-07-27T11:33:38.2466969-04:00",
-        "Discount": 0.0,
-        "Label": "Teclado Cooler Master SK622 RGB White"
-      },
-      {
         "Price": 119.00,
         "Features": [
           "Membrana",
@@ -3465,23 +3366,6 @@
         "Update": "2023-08-02T11:51:57.1471849-04:00",
         "Discount": 0.0,
         "Label": "Enclosure 2.5 Orico USB3.0 Gen2"
-      },
-      {
-        "Price": 29.00,
-        "Features": [
-          "USB3.1 Gen2",
-          "UASP",
-          "ToolFree",
-          "NVMe",
-          "10Gbps",
-          "2-in-1",
-          "USB-A",
-          "USB-C"
-        ],
-        "Date": "2023-08-02T11:16:03.5595981-04:00",
-        "Update": "2023-08-02T11:51:57.1546128-04:00",
-        "Discount": 0.0,
-        "Label": "Enclosure M.2 Orico USB3.1 Gen2"
       }
     ]
   }
