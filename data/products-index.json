@@ -2,7 +2,7 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 1099.00,
+        "Price": 1095.00,
         "Features": [],
         "Date": "2023-08-06T08:27:54.2095953-04:00",
         "Update": "2023-08-06T12:55:00.7380679-04:00",
@@ -10,7 +10,7 @@
         "Label": "PC Gamer 24\" Curvo, RX 6600 8GB, ASRock B660M, 500GB SSD, 16GB, Cooler Master"
       },
       {
-        "Price": 1315.00,
+        "Price": 1311.00,
         "Features": [],
         "Date": "2023-08-06T08:32:55.2569207-04:00",
         "Update": "2023-08-06T12:55:00.7451401-04:00",
@@ -1601,7 +1601,7 @@
         "Label": "ASRock Z690 Pro RS DDR4"
       },
       {
-        "Price": 199.00,
+        "Price": 195.00,
         "Features": [
           "10ma-11na",
           "9xUSB",
@@ -2137,7 +2137,7 @@
     ],
     "Tarjeta Gráfica": [
       {
-        "Price": 635.00,
+        "Price": 599.00,
         "Features": [
           "12GB",
           "Liquida",
@@ -2172,7 +2172,7 @@
         "Label": "Asus Dual RTX 4070"
       },
       {
-        "Price": 549.00,
+        "Price": 535.00,
         "Features": [
           "3xFan",
           "8GB",
@@ -2242,7 +2242,7 @@
         "Label": "ASRock Challenger D RX 6700 XT"
       },
       {
-        "Price": 175.00,
+        "Price": 169.00,
         "Features": [
           "4GB",
           "1xFan",
@@ -2258,7 +2258,7 @@
         "Label": "ASRock Challenger ITX RX 6500 XT"
       },
       {
-        "Price": 269.00,
+        "Price": 265.00,
         "Features": [
           "8GB",
           "3xFan",
@@ -3148,7 +3148,7 @@
     ],
     "Webcam": [
       {
-        "Price": 39.00,
+        "Price": 35.00,
         "Features": [
           "30fps",
           "HDR",
@@ -3162,7 +3162,7 @@
         "Label": "Webcam Full HD 1080P C01-Black"
       },
       {
-        "Price": 45.00,
+        "Price": 43.00,
         "Features": [
           "Black",
           "2mp",
