@@ -17,37 +17,9 @@
         "Discount": 34.0,
         "Label": "PC Gamer 24\" 165Hz, RX 6600, 32GB RGB 6400mhz, 512GB NVMe, Aorus B760M Elite"
       }
-    ],
-    "Entusiasta": [
-      {
-        "Price": 2919.00,
-        "Features": [],
-        "Date": "2023-08-06T13:28:59.6256009-04:00",
-        "Update": "2023-08-06T15:01:08.3851949-04:00",
-        "Discount": 53.0,
-        "Label": "PC Gamer 32\"2K, RTX 4070, i5-13600K, ROG Strix Z690-E, G.Skill 32GB RGB, 1TB Corsair, 1000W, T.Mecánico"
-      }
     ]
   },
   "Kits": {
-    "Entusiasta": [
-      {
-        "Price": 1078.00,
-        "Features": [],
-        "Date": "2023-06-15T09:02:58.8515588-04:00",
-        "Update": "2023-06-24T13:44:18.1007405-04:00",
-        "Discount": 16.0,
-        "Label": "Kit i9-13900K + Asus ROG Strix Z690-E Gaming Wifi + 32GB DDR5"
-      },
-      {
-        "Price": 1142.00,
-        "Features": [],
-        "Date": "2023-06-24T13:41:22.3656225-04:00",
-        "Update": "2023-06-24T13:44:18.1119769-04:00",
-        "Discount": 16.0,
-        "Label": "Kit i9-13900K + Asus ROG Maximus Z690 Hero + G.Skill Trident Z5 RGB 32GB 6400mhz"
-      }
-    ],
     "Moderado": [
       {
         "Price": 423.00,
@@ -376,18 +348,6 @@
         "Label": "DDR4 G.Skill Ripjaws V 16GB 3600mhz"
       },
       {
-        "Price": 115.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL32"
-        ],
-        "Date": "2023-07-17T23:38:59.1422699-04:00",
-        "Update": "2023-07-27T10:06:16.3358758-04:00",
-        "Discount": 0.0,
-        "Label": "DDR5 G.Skill Ripjaws S5 Series 32GB 6400mhz"
-      },
-      {
         "Price": 135.00,
         "Features": [
           "2x16GB",
@@ -646,18 +606,6 @@
         "Update": "2023-06-07T16:09:24.8126722-04:00",
         "Discount": 0.0,
         "Label": "SSD M.2 Samsung 980 500GB"
-      },
-      {
-        "Price": 105.00,
-        "Features": [
-          "7000mbs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-04-09T10:02:00.2968299-04:00",
-        "Update": "2023-06-07T16:09:24.9166129-04:00",
-        "Discount": 0.0,
-        "Label": "SSD M.2 Corsair MP600 PRO NH 1TB"
       },
       {
         "Price": 49.00,
@@ -1964,24 +1912,6 @@
         "Label": "Intel Core i5-12600K"
       },
       {
-        "Price": 599.00,
-        "Features": [
-          "13ra Gen",
-          "32 Hilos",
-          "24 Core",
-          "5.7GHz",
-          "30MB L3",
-          "DDR4 y DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-03-22T09:04:16.5699219-04:00",
-        "Update": "2023-07-27T11:12:22.743155-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i9-13900K"
-      },
-      {
         "Price": 379.00,
         "Features": [
           "12va Gen",
@@ -2273,23 +2203,6 @@
         "Update": "2023-08-09T11:38:47.2295958-04:00",
         "Discount": 0.0,
         "Label": "Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
-      },
-      {
-        "Price": 285.00,
-        "Features": [
-          "8GB",
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "278mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-07-12T21:42:54.3752209-04:00",
-        "Update": "2023-08-09T11:38:47.2365837-04:00",
-        "Discount": 0.0,
-        "Label": "MSI Gaming X RTX 3050"
       },
       {
         "Price": 395.00,
