@@ -15,11 +15,15 @@
   "Features": [
     "8GB",
     "2xFan",
+    "1x8Pin",
+    "550WR",
+    "235mm",
     "Radeon",
-    "AMD"
+    "AMD",
+    "GPU"
   ],
   "Date": "2023-07-17T23:39:40.6107252-04:00",
-  "Update": "2023-08-16T10:03:07.0995509-04:00",
+  "Update": "2023-08-16T11:17:10.2327626-04:00",
   "Discount": 0.0,
   "Label": "MSI Mech Radeon RX 6650 XT"
 }
