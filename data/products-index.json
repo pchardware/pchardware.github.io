@@ -16,6 +16,56 @@
         "Update": "2023-08-06T12:55:00.7451401-04:00",
         "Discount": 34.0,
         "Label": "PC Gamer 24\" 165Hz, RX 6600, 32GB RGB 6400mhz, 512GB NVMe, Aorus B760M Elite"
+      },
+      {
+        "Price": 3687.00,
+        "Features": [],
+        "Date": "2023-08-16T12:05:11.1732808-04:00",
+        "Update": "2023-08-16T12:56:28.9886734-04:00",
+        "Discount": 59.0,
+        "Label": "PC Gamer 32\" 4K, RTX 4070Ti Gaming Trio, i9-12900K, Z690 Hero, ROG 360 ARGB, 980 PRO 2TB, y más"
+      },
+      {
+        "Price": 3199.00,
+        "Features": [],
+        "Date": "2023-08-16T12:43:24.6326301-04:00",
+        "Update": "2023-08-16T12:56:28.9965787-04:00",
+        "Discount": 61.0,
+        "Label": "PC Gamer 32QHD, 4070Ti TRIO, i5-13600K, Z790-H, 32GB 7200mhz, 1TB M.2, HX850, TUF GT301, K60 RGB Pro"
+      },
+      {
+        "Price": 1756.00,
+        "Features": [],
+        "Date": "2023-08-16T12:51:57.0476553-04:00",
+        "Update": "2023-08-16T12:56:29.0087651-04:00",
+        "Discount": 42.0,
+        "Label": "PC Gamer 24FHD 165Hz, RTX 3070Ti, i5 12Gen, Asus ProArt, Corsair RGB 16GB, 500SSD, CX750M, NZXT"
+      }
+    ],
+    "Multimedia": [
+      {
+        "Price": 2695.00,
+        "Features": [],
+        "Date": "2023-08-16T11:32:00.8554983-04:00",
+        "Update": "2023-08-16T12:56:28.9620407-04:00",
+        "Discount": 59.0,
+        "Label": "PC i9-12900K, 70 Teras*, Z790 Steel, 32GB 6400mhz, 1TB M.2, 1000W, FullTower, 24FHD Curvo"
+      },
+      {
+        "Price": 2060.00,
+        "Features": [],
+        "Date": "2023-08-16T11:49:48.396459-04:00",
+        "Update": "2023-08-16T12:56:28.9706071-04:00",
+        "Discount": 46.0,
+        "Label": "PC i7 12Gen, 42 Teras*, Z790 RIPTIDE, 32GB DDR5, 512SSD, Corsair HX850, NIGHTHAWK 117, 24FHD"
+      },
+      {
+        "Price": 1417.00,
+        "Features": [],
+        "Date": "2023-08-16T11:54:55.2483466-04:00",
+        "Update": "2023-08-16T12:56:28.9777508-04:00",
+        "Discount": 39.0,
+        "Label": "PC i5 12Gen, 28 Teras*, ASRock Z690, 16GB 3600mhz, 512SSD, 850W Gold, 24FHD Curvo"
       }
     ]
   },
