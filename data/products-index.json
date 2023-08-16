@@ -725,6 +725,18 @@
         "Update": "2023-08-01T12:24:37.8928476-04:00",
         "Discount": 0.0,
         "Label": "SSD 2.5 SAMSUNG 870 EVO 1TB"
+      },
+      {
+        "Price": 69.00,
+        "Features": [
+          "????MBs",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-04-09T10:02:38.0091639-04:00",
+        "Update": "2023-08-16T09:18:54.7042595-04:00",
+        "Discount": 0.0,
+        "Label": "SSD M.2 WD Green SN350 1TB"
       }
     ],
     "Disipador Líquido": [
