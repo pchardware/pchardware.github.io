@@ -1,0 +1,30 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/gigabyte-rtx-3060-gaming-windforce-oc-1.webp",
+    "/images/products/gigabyte-rtx-3060-gaming-windforce-oc-2.webp",
+    "/images/products/gigabyte-rtx-3060-gaming-windforce-oc-3.webp",
+    "/images/products/gigabyte-rtx-3060-gaming-windforce-oc-4.webp",
+    "/images/products/gigabyte-rtx-3060-gaming-windforce-oc-5.webp",
+    "/images/products/gigabyte-rtx-3060-gaming-windforce-oc-6.webp",
+    "/images/products/gigabyte-rtx-3060-gaming-windforce-oc-7.webp",
+    "/images/products/gigabyte-rtx-3060-gaming-windforce-oc-8.webp"
+  ],
+  "Description": "Model\nBrand: GIGABYTE\nSeries: Gaming\nModel: GV-N3060GAMING OC-8GD\n\n\nInterface\nInterface: PCI Express 4.0 x16\n\n\nChipset\nChipset Manufacturer: NVIDIA\nGPU Series: NVIDIA GeForce RTX 30 Series\nGPU: GeForce RTX 3060\nCore Clock: 1807 MHz\nCUDA Cores: 3584 Cores\n\n\nMemory\nEffective Memory Clock: 15000 MHz\nMemory Size: 8GB\nMemory Interface: 128-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 2 x HDMI\nDisplayPort: 2 x DisplayPort\n\n\nDetails\nMax Resolution: 7680 x 4320\nCooler: Double Fans\nThermal Design Power: 148W\nRecommended PSU Wattage: 550W\nPower Connector: 8-Pin\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 198 mm\nSlot Width: 2.7 Slots",
+  "Price": 309.00,
+  "Features": [
+    "2xFan",
+    "8GB",
+    "1x8Pin",
+    "550WR",
+    "198mm",
+    "GeForce",
+    "NVIDIA",
+    "GPU"
+  ],
+  "Date": "2023-08-16T09:17:25.4599546-04:00",
+  "Update": "2023-08-16T11:17:10.3090932-04:00",
+  "Discount": 0.0,
+  "Label": "Gigabyte RTX 3060 Gaming WindForce OC"
+}
