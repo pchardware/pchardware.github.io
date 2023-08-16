@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Multimedia",
+  "Images": [
+    "/images/products/pc-i9-12900k-70-teras-z790-steel-32gb-6400mhz-1tb--1.webp",
+    "/images/products/pc-i9-12900k-70-teras-z790-steel-32gb-6400mhz-1tb--2.webp",
+    "/images/products/pc-i9-12900k-70-teras-z790-steel-32gb-6400mhz-1tb--3.webp",
+    "/images/products/pc-i9-12900k-70-teras-z790-steel-32gb-6400mhz-1tb--4.webp",
+    "/images/products/pc-i9-12900k-70-teras-z790-steel-32gb-6400mhz-1tb--5.webp",
+    "/images/products/pc-i9-12900k-70-teras-z790-steel-32gb-6400mhz-1tb--6.webp",
+    "/images/products/pc-i9-12900k-70-teras-z790-steel-32gb-6400mhz-1tb--7.webp",
+    "/images/products/pc-i9-12900k-70-teras-z790-steel-32gb-6400mhz-1tb--8.webp",
+    "/images/products/pc-i9-12900k-70-teras-z790-steel-32gb-6400mhz-1tb--9.webp",
+    "/images/products/pc-i9-12900k-70-teras-z790-steel-32gb-6400mhz-1tb--10.webp"
+  ],
+  "Description": "+ Intel Core i9-12900K (12va Gen, 24 Hilos, 16 Core, 5.2GHz, 30MB L3, DDR4-DDR5, Unlocked, LGA 1700, CPU)\n+ Enfriamiento Thermalright Assassin X 120 R SE ARGB (4xPipes, 1550rpm, 66cfm, 26dBA, 148mm, Negro, LGA 1700, LGA 1200, LGA 115X, AM4, AM5, Tower, 1xFan)\n+ ASRock Z790 STEEL LEGEND WIFI (12va-13ra, 8xSATA, 9xUSB, DDR5, 6xAudio, 6800mhz, LGA 1700, ATX, DisplayPort, HDMI)\n+ DDR5 XPG Lancer 32GB 6400mhz (2x16GB, Disipadas, CL32)\n+ SSD M.2 Silicon Power 1TB UD90 (5000mbs, PCIe 4, 600tbw, NVMe)\n+ 5x HDD 3.5 WD 14TB HC530 (Ultrastar DC, Enterprise, 512mb, 7200rpm, SATA 3, 6 Gbps)\n+ Fuente Corsair RM1000X (80+ Gold, Full Modular, 1000W, 83A, 8x 6+2Pin, 11x SATA, 2x 4+4 EPS)\n+ Chasis Rosewill NIGHTHAWK 117 (8xHDD, 5xFan, 4xUSB, Docking, Full Tower, LED, Gamer, ATX, E-ATX, Negro)\n+ MSI Pro 24FHD MP242C (Curvo, VA, 1ms, 75Hz, 250 Nit, FreeSync, Business)\n+ COMBO Teclado K49 + Mouse Asus JM3 (Membrana, Optico, 3 botónes, Full, USB)\n",
+  "Price": 2695.00,
+  "Features": [],
+  "Date": "2023-08-16T11:32:00.8554983-04:00",
+  "Update": "2023-08-16T12:56:28.9620407-04:00",
+  "Discount": 59.0,
+  "Label": "PC i9-12900K, 70 Teras*, Z790 Steel, 32GB 6400mhz, 1TB M.2, 1000W, FullTower, 24FHD Curvo"
+}
