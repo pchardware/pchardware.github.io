@@ -1,0 +1,20 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Memoria RAM",
+  "Images": [
+    "/images/products/ddr5-gskill-trident-z5-rgb-32gb-7200mhz-1.webp",
+    "/images/products/ddr5-gskill-trident-z5-rgb-32gb-7200mhz-2.webp",
+    "/images/products/ddr5-gskill-trident-z5-rgb-32gb-7200mhz-3.webp"
+  ],
+  "Description": "Model\nBrand: G.SKILL\nSeries: Trident Z5 RGB Series\nModel: F5-7200J3445G16GX2-TZ5RS\nPart Number: F5-7200J3445G16GX2-TZ5RS\n\n\nDetails\nCapacity: 32GB (2 x 16GB)\nType: 288-Pin PC RAM\nSpeed: DDR5 7200 (PC5 57600)\nCAS Latency: 34\nTiming: 34-45-45-115\nVoltage: 1.40V\nECC: No\nBuffered/Registered: Unbuffered / Unregistered\nMulti-channel Kit: Dual Channel Kit\nChipset: XMP 3.0\nColor: Silver\nHeat Spreader: Yes\nRecommend Use: Trident Z5 RGB series is the flagship DDR5 memory designed for ultra-high overclock\nperformance on compatible DDR5-enabled Intel platforms.\nFeaturing a sleeker and streamlined aluminum heatspreader design, available in metallic\nsilver or matte black, as well as customizable RGB lighting support, the Trident Z5 RGB\nDDR5 memory is the ideal choice for gamers, overclockers, content creators, and\nenthusiasts to build a high-performance system.\n• Extreme overclock performance DDR5 memory designed for gaming and PC enthusiasts\n• Customizable RGB lighting support\n• Intel XMP 3.0 Support\nLED Color: RGB",
+  "Price": 189.00,
+  "Features": [
+    "CL34",
+    "2x16GB",
+    "Disipadas"
+  ],
+  "Date": "2023-08-16T09:17:00.7000046-04:00",
+  "Update": "2023-08-16T11:17:10.2861384-04:00",
+  "Discount": 0.0,
+  "Label": "DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
+}
