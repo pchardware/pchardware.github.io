@@ -1,0 +1,26 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disipador Líquido",
+  "Images": [
+    "/images/products/dlquida-sama-cy-360mm-argb-1.webp",
+    "/images/products/dlquida-sama-cy-360mm-argb-2.webp",
+    "/images/products/dlquida-sama-cy-360mm-argb-3.webp",
+    "/images/products/dlquida-sama-cy-360mm-argb-4.webp",
+    "/images/products/dlquida-sama-cy-360mm-argb-5.webp",
+    "/images/products/dlquida-sama-cy-360mm-argb-6.webp"
+  ],
+  "Description": "",
+  "Price": 145.00,
+  "Features": [
+    "3xFan",
+    "LGA 1700",
+    "LGA 1200",
+    "LGA 115X",
+    "LGA 20XX",
+    "AM4"
+  ],
+  "Date": "2023-08-16T09:16:43.4918386-04:00",
+  "Update": "2023-08-16T11:17:10.2769657-04:00",
+  "Discount": 0.0,
+  "Label": "D.Líquida SAMA CY 360mm ARGB"
+}
