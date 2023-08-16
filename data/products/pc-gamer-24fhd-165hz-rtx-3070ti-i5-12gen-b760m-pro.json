@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-gamer-24fhd-165hz-rtx-3070ti-i5-12gen-b760m-pro-1.webp",
+    "/images/products/pc-gamer-24fhd-165hz-rtx-3070ti-i5-12gen-b760m-pro-2.webp",
+    "/images/products/pc-gamer-24fhd-165hz-rtx-3070ti-i5-12gen-b760m-pro-3.webp",
+    "/images/products/pc-gamer-24fhd-165hz-rtx-3070ti-i5-12gen-b760m-pro-4.webp",
+    "/images/products/pc-gamer-24fhd-165hz-rtx-3070ti-i5-12gen-b760m-pro-5.webp",
+    "/images/products/pc-gamer-24fhd-165hz-rtx-3070ti-i5-12gen-b760m-pro-6.webp",
+    "/images/products/pc-gamer-24fhd-165hz-rtx-3070ti-i5-12gen-b760m-pro-7.webp",
+    "/images/products/pc-gamer-24fhd-165hz-rtx-3070ti-i5-12gen-b760m-pro-8.webp",
+    "/images/products/pc-gamer-24fhd-165hz-rtx-3070ti-i5-12gen-b760m-pro-9.webp",
+    "/images/products/pc-gamer-24fhd-165hz-rtx-3070ti-i5-12gen-b760m-pro-10.webp"
+  ],
+  "Description": "+ Intel Core i5-12400F +Disipador\n+ ASRock B760M PRO RS\n+ DDR5 Team T-Force Delta RGB 32GB 6000mhz\n+ SSD M.2 WD Green SN350 1TB\n+ Zotac Gaming RTX 3070Ti\n+ Fuente EVGA 750W\n+ Chasis Cooler Master MasterBox Q300L\n+ Acer Nitro 24FHD QG241Y\n+ COMBO Teclado K49 + Mouse Asus JM3\n",
+  "Price": 1589.00,
+  "Features": [],
+  "Date": "2023-08-16T17:23:26.9943186-04:00",
+  "Update": "2023-08-16T17:59:07.4241792-04:00",
+  "Discount": 38.0,
+  "Label": "PC Gamer 24FHD 165Hz, RTX 3070Ti, i5 12Gen, B760M PRO RS, 32GB DDR5 RGB 6000mhz, 1TB WD NVMe, 750W EVGA"
+}
