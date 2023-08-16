@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-gamer-24fhd-165hz-rtx-3070ti-i5-12gen-asus-proa-1.webp",
+    "/images/products/pc-gamer-24fhd-165hz-rtx-3070ti-i5-12gen-asus-proa-2.webp",
+    "/images/products/pc-gamer-24fhd-165hz-rtx-3070ti-i5-12gen-asus-proa-3.webp",
+    "/images/products/pc-gamer-24fhd-165hz-rtx-3070ti-i5-12gen-asus-proa-4.webp",
+    "/images/products/pc-gamer-24fhd-165hz-rtx-3070ti-i5-12gen-asus-proa-5.webp",
+    "/images/products/pc-gamer-24fhd-165hz-rtx-3070ti-i5-12gen-asus-proa-6.webp",
+    "/images/products/pc-gamer-24fhd-165hz-rtx-3070ti-i5-12gen-asus-proa-7.webp",
+    "/images/products/pc-gamer-24fhd-165hz-rtx-3070ti-i5-12gen-asus-proa-8.webp",
+    "/images/products/pc-gamer-24fhd-165hz-rtx-3070ti-i5-12gen-asus-proa-9.webp",
+    "/images/products/pc-gamer-24fhd-165hz-rtx-3070ti-i5-12gen-asus-proa-10.webp"
+  ],
+  "Description": "+ Intel Core i5-12400F +Disipador (12va Gen, 12 Hilos, 6 Core, 4.4GHz, 18MB L3, DDR4-DDR5, LGA 1700, CPU)\n+ Asus B660 ProArt Creator D4 (12va-13ra, Dual Lan, 8xUSB, 6xAudio, DDR4, 5333mhz, 4xSATA, LGA 1700, ATX, HDMI, DisplayPort)\n+ DDR4 Corsair Vengeance RGB RT 16GB 3600mhz (2x8GB, Disipadas, CL16)\n+ SSD M.2 Samsung 980 500GB (3500mbs, PCIe 3, NVMe)\n+ Zotac Gaming RTX 3070Ti (3xFan, 8GB, 2x8Pin, 750WR, 318mm, GeForce, NVIDIA, GPU)\n+ Fuente Corsair CX750M (80+ Bronze, Modular, 750W, 62A, 4x 6+2Pin, 8x SATA, 1x 4+4 EPS)\n+ Chasis NZXT H510 Negro-Rojo (Tempered Glass, 2xFan, Gamer, Mid Tower, ATX, Negro, Rojo, 2xHDD)\n+ Acer Nitro 24FHD QG241Y (165Hz, 1ms, Freesync, HDR10, VA, 250 Nit, Gaming)\n+ Teclado NZXT Function TKL (Mecánico, RGB, Aluminio, Gaming, Palm rest, Multimedia, USB)\n+ Mouse Razer Viper Mini (Optico, 8500dpi, 6 botónes, 61g, RGB, USB)\n",
+  "Price": 1756.00,
+  "Features": [],
+  "Date": "2023-08-16T12:51:57.0476553-04:00",
+  "Update": "2023-08-16T12:56:29.0087651-04:00",
+  "Discount": 42.0,
+  "Label": "PC Gamer 24FHD 165Hz, RTX 3070Ti, i5 12Gen, Asus ProArt, Corsair RGB 16GB, 500SSD, CX750M, NZXT"
+}
