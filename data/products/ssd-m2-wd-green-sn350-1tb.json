@@ -1,0 +1,23 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disco Sólido",
+  "Images": [
+    "/images/products/ssd-m2-wd-green-sn350-1tb-1.webp",
+    "/images/products/ssd-m2-wd-green-sn350-1tb-2.webp",
+    "/images/products/ssd-m2-wd-green-sn350-1tb-3.webp",
+    "/images/products/ssd-m2-wd-green-sn350-1tb-4.webp",
+    "/images/products/ssd-m2-wd-green-sn350-1tb-5.webp",
+    "/images/products/ssd-m2-wd-green-sn350-1tb-6.webp"
+  ],
+  "Description": "Model\nBrand: Western Digital\nSeries: Green SN350 NVMe\nModel: WDS100T3G0C\nDevice Type: Internal Solid State Drive (SSD)\nUsed For: Consumer\n\n\nDetails\nForm Factor: M.2 2280\nCapacity: 1TB\nInterface: PCI-Express 3.0 x4\n\n\nPerformance\nMax Sequential Read: Up to 3200 MBps\nMax Sequential Write: Up to 2500 MBps\n4KB Random Read: Up to 300,000 IOPS\n4KB Random Write: Up to 400,000 IOPS\nTerabytes Written (TBW): 100TB\nMTTF: 1M hours\n\n\nFeatures\nFeatures: NVMe Power is Now Within ReachExperience fast performance with cost-effective NVMe technology that outperforms traditional SATA drives.Help Protect Your DataBecause there are no moving parts, solid-state drives help to protect your data against day-to-day bumps or drops.A Quick UpgradeUpgrading your system is simple with the slim M.2 2280 form factor. All you need is an NVMe slot and about 10 minutes.Monitor Your Drive's HealthThe Western Digital SSD Dashboard is free, downloadable software that monitors current performance, space availability, temperature and more to help ensure peak performance.More Room for What's ImportantThe WD Green SN350 NVMe SSD offers several choices of capacities up to 2TB.\n\n\nEnvironmental\nPower Consumption (Idle): PS3 (Low Power): 25 mWPS4 (Sleep): 5 mW\nPower Consumption (Active): 5W\nOperating Temperature: 0°C ~ +70°C\nStorage Temperature: -40°C ~ +85°C\nMax Shock Resistance: 1,500G @0.5 ms half sine\nMax Vibration Resistance: Operating Vibration: 5 gRMS, 10-2000 Hz, 3 axesNon-operating Vibration: 4.9 gRMS, 7-800 Hz, 3 axes\n\n\nDimensions & Weight\nHeight: 2.38mm\nWidth: 22.00mm\nDepth: 80.00mm\nWeight: 7.50g",
+  "Price": 69.00,
+  "Features": [
+    "????MBs",
+    "PCIe 3",
+    "NVMe"
+  ],
+  "Date": "2023-04-09T10:02:38.0091639-04:00",
+  "Update": "2023-08-16T09:18:54.7042595-04:00",
+  "Discount": 0.0,
+  "Label": "SSD M.2 WD Green SN350 1TB"
+}
