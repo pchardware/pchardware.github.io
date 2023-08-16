@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-gamer-32qhd-144hz-rtx-4070ti-ryzen-7-5800x-giga-1.webp",
+    "/images/products/pc-gamer-32qhd-144hz-rtx-4070ti-ryzen-7-5800x-giga-2.webp",
+    "/images/products/pc-gamer-32qhd-144hz-rtx-4070ti-ryzen-7-5800x-giga-3.webp",
+    "/images/products/pc-gamer-32qhd-144hz-rtx-4070ti-ryzen-7-5800x-giga-4.webp",
+    "/images/products/pc-gamer-32qhd-144hz-rtx-4070ti-ryzen-7-5800x-giga-5.webp",
+    "/images/products/pc-gamer-32qhd-144hz-rtx-4070ti-ryzen-7-5800x-giga-6.webp",
+    "/images/products/pc-gamer-32qhd-144hz-rtx-4070ti-ryzen-7-5800x-giga-7.webp",
+    "/images/products/pc-gamer-32qhd-144hz-rtx-4070ti-ryzen-7-5800x-giga-8.webp",
+    "/images/products/pc-gamer-32qhd-144hz-rtx-4070ti-ryzen-7-5800x-giga-9.webp",
+    "/images/products/pc-gamer-32qhd-144hz-rtx-4070ti-ryzen-7-5800x-giga-10.webp"
+  ],
+  "Description": "+ AMD Ryzen 7 5800X +Disipador\n+ Enfriamiento AMD Wraith MAX RGB LED\n+ Gigabyte B550M Aorus Elite\n+ DDR4 GeIL ORION RGB 16GB 4000mhz\n+ SSD M.2 AData Premium 2TB\n+ MSI Ventus 3X RTX 4070Ti OC\n+ Fuente EVGA 750W\n+ Chasis Cooler Master MasterBox Q300L\n+ Lenovo 32QHD G32QC-10\n+ COMBO Teclado + Mouse Lenovo 300\n",
+  "Price": 2299.00,
+  "Features": [],
+  "Date": "2023-08-16T18:05:27.1539528-04:00",
+  "Update": "2023-08-16T18:15:43.7545643-04:00",
+  "Discount": 57.0,
+  "Label": "PC Gamer 32QHD 144Hz, RTX 4070Ti, Ryzen 7 5800X, Gigabyte B550M Aorus Elite, 16GB RAM, 2TB PCIe4, 750W"
+}
