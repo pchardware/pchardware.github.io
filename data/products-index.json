@@ -422,19 +422,27 @@
       },
       {
         "Price": 189.00,
-        "Features": [],
+        "Features": [
+          "CL34",
+          "2x16GB",
+          "Disipadas"
+        ],
         "Date": "2023-08-16T09:17:00.7000046-04:00",
-        "Update": "2023-08-16T10:03:07.1758428-04:00",
+        "Update": "2023-08-16T11:17:10.2861384-04:00",
         "Discount": 0.0,
-        "Label": "DDR5 - G.SKILL Trident Z5 RGB 32GB (2x16GB) 7200mhz C34"
+        "Label": "DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
       },
       {
         "Price": 115.00,
-        "Features": [],
+        "Features": [
+          "2x16GB",
+          "Disipadas",
+          "CL38"
+        ],
         "Date": "2023-08-16T09:17:10.601305-04:00",
-        "Update": "2023-08-16T10:03:07.1892962-04:00",
+        "Update": "2023-08-16T11:17:10.3012766-04:00",
         "Discount": 0.0,
-        "Label": "DDR5 - GeIL ORION RGB 32GB (2x16GB) 6000mhz C38"
+        "Label": "DDR5 GeIL ORION RGB 32GB 6000mhz"
       }
     ],
     "Chasis": [
@@ -743,18 +751,6 @@
         "Label": "SSD 2.5 SAMSUNG 870 EVO 1TB"
       },
       {
-        "Price": 69.00,
-        "Features": [
-          "????MBs",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-04-09T10:02:38.0091639-04:00",
-        "Update": "2023-08-16T09:18:54.7042595-04:00",
-        "Discount": 0.0,
-        "Label": "SSD M.2 WD Green SN350 1TB"
-      },
-      {
         "Price": 129.00,
         "Features": [
           "7400mbs",
@@ -768,20 +764,42 @@
         "Label": "SSD M.2 AData Premium 2TB"
       },
       {
-        "Price": 159.00,
-        "Features": [],
-        "Date": "2023-08-16T09:17:42.5509882-04:00",
-        "Update": "2023-08-16T10:03:07.2250846-04:00",
+        "Price": 69.00,
+        "Features": [
+          "3200mbs",
+          "PCIe 3",
+          "NVMe",
+          "100tbw"
+        ],
+        "Date": "2023-04-09T10:02:38.0091639-04:00",
+        "Update": "2023-08-16T11:17:10.2412842-04:00",
         "Discount": 0.0,
-        "Label": "SSD M.2 - SAMSUNG 980 PRO 2TB (7000/5000)"
+        "Label": "SSD M.2 WD Green SN350 1TB"
+      },
+      {
+        "Price": 159.00,
+        "Features": [
+          "7000mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-08-16T09:17:42.5509882-04:00",
+        "Update": "2023-08-16T11:17:10.323595-04:00",
+        "Discount": 0.0,
+        "Label": "SSD M.2 SAMSUNG 980 PRO 2TB"
       },
       {
         "Price": 99.00,
-        "Features": [],
+        "Features": [
+          "7300mbs",
+          "600tbw",
+          "PCIe 4",
+          "NVMe"
+        ],
         "Date": "2023-08-16T09:17:48.5783952-04:00",
-        "Update": "2023-08-16T10:03:07.2450531-04:00",
+        "Update": "2023-08-16T11:17:10.3309638-04:00",
         "Discount": 0.0,
-        "Label": "SSD M.2 - WD BLACK SN850X 1TB (7300/???)"
+        "Label": "SSD M.2 WD BLACK SN850X 1TB"
       }
     ],
     "Disipador Líquido": [
@@ -986,19 +1004,33 @@
       },
       {
         "Price": 145.00,
-        "Features": [],
+        "Features": [
+          "3xFan",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "LGA 20XX",
+          "AM4"
+        ],
         "Date": "2023-08-16T09:16:43.4918386-04:00",
-        "Update": "2023-08-16T10:03:07.1555227-04:00",
+        "Update": "2023-08-16T11:17:10.2769657-04:00",
         "Discount": 0.0,
-        "Label": "L.Cooling - SAMA 360mm ARGB"
+        "Label": "D.Líquida SAMA CY 360mm ARGB"
       },
       {
         "Price": 155.00,
-        "Features": [],
+        "Features": [
+          "3xFan",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM5",
+          "AM4"
+        ],
         "Date": "2023-08-16T09:17:35.0132441-04:00",
-        "Update": "2023-08-16T10:03:07.2158725-04:00",
+        "Update": "2023-08-16T11:17:10.3164477-04:00",
         "Discount": 0.0,
-        "Label": "L.Cooling - CoolerMaster MasterLiquid 240L Core ARGB White"
+        "Label": "D.Líquida CoolerMaster MasterLiquid 240L Core ARGB White"
       }
     ],
     "Fuente": [
@@ -1200,11 +1232,16 @@
       },
       {
         "Price": 130.00,
-        "Features": [],
+        "Features": [
+          "2x 6+2Pin",
+          "59A",
+          "9x SATA",
+          "1x 4+4 EPS"
+        ],
         "Date": "2023-08-16T09:16:30.0204629-04:00",
-        "Update": "2023-08-16T10:03:07.1471014-04:00",
+        "Update": "2023-08-16T11:17:10.2612755-04:00",
         "Discount": 0.0,
-        "Label": "PSU - EVGA 750W 59A"
+        "Label": "Fuente EVGA 750W"
       }
     ],
     "Red": [
@@ -2368,11 +2405,15 @@
         "Features": [
           "8GB",
           "3xFan",
+          "1x8Pin",
+          "550WR",
+          "303mm",
           "Radeon",
-          "AMD"
+          "AMD",
+          "GPU"
         ],
         "Date": "2023-07-17T23:39:20.309564-04:00",
-        "Update": "2023-08-16T10:03:07.0923635-04:00",
+        "Update": "2023-08-16T11:17:10.2219955-04:00",
         "Discount": 0.0,
         "Label": "ASRock Steel Legend Radeon RX 6650 XT"
       },
@@ -2381,21 +2422,34 @@
         "Features": [
           "8GB",
           "2xFan",
+          "1x8Pin",
+          "550WR",
+          "235mm",
           "Radeon",
-          "AMD"
+          "AMD",
+          "GPU"
         ],
         "Date": "2023-07-17T23:39:40.6107252-04:00",
-        "Update": "2023-08-16T10:03:07.0995509-04:00",
+        "Update": "2023-08-16T11:17:10.2327626-04:00",
         "Discount": 0.0,
         "Label": "MSI Mech Radeon RX 6650 XT"
       },
       {
         "Price": 309.00,
-        "Features": [],
+        "Features": [
+          "2xFan",
+          "8GB",
+          "1x8Pin",
+          "550WR",
+          "198mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
         "Date": "2023-08-16T09:17:25.4599546-04:00",
-        "Update": "2023-08-16T10:03:07.2000354-04:00",
+        "Update": "2023-08-16T11:17:10.3090932-04:00",
         "Discount": 0.0,
-        "Label": "GPU - Gigabyte RTX 3060 Gaming WindForce 8GB (2xFan) OC"
+        "Label": "Gigabyte RTX 3060 Gaming WindForce OC"
       }
     ]
   },
@@ -3170,20 +3224,6 @@
         "Label": "Acer Nitro 24FHD QG241Y"
       }
     ],
-    "Backup": [
-      {
-        "Price": 119.00,
-        "Features": [
-          "255W",
-          "120V",
-          "6 out"
-        ],
-        "Date": "2023-07-12T21:43:00.109172-04:00",
-        "Update": "2023-07-12T22:32:18.1139796-04:00",
-        "Discount": 0.0,
-        "Label": "UPS APC 450VA"
-      }
-    ],
     "Silla": [
       {
         "Price": 189.00,
@@ -3420,6 +3460,20 @@
         "Update": "2023-08-02T11:51:57.1471849-04:00",
         "Discount": 0.0,
         "Label": "Enclosure 2.5 Orico USB3.0 Gen2"
+      }
+    ],
+    "Backup": [
+      {
+        "Price": 119.00,
+        "Features": [
+          "255W",
+          "120V",
+          "6 out"
+        ],
+        "Date": "2023-07-12T21:43:00.109172-04:00",
+        "Update": "2023-08-16T11:17:10.2148657-04:00",
+        "Discount": 0.0,
+        "Label": "Backup UPS APC 450VA"
       }
     ]
   }
