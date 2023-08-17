@@ -42,30 +42,6 @@
         "Label": "PC Gamer 24FHD 165Hz, RTX 3070Ti, i5 12Gen, Asus ProArt, Corsair RGB 16GB, 500SSD, CX750M, NZXT"
       },
       {
-        "Price": 1199.00,
-        "Features": [],
-        "Date": "2023-08-16T16:55:18.3666371-04:00",
-        "Update": "2023-08-16T17:59:07.4014915-04:00",
-        "Discount": 60.0,
-        "Label": "PC Gamer 24\" 165Hz, RX 6600 8GB, i5 12Gen, B660M PRO RS, 16GB G.Skill, M.2 512GB, Chasis Cooler Master"
-      },
-      {
-        "Price": 1399.00,
-        "Features": [],
-        "Date": "2023-08-16T17:10:35.6457594-04:00",
-        "Update": "2023-08-16T17:59:07.4139613-04:00",
-        "Discount": 74.0,
-        "Label": "PC Gamer 24\" 165Hz, RX 6650 XT 8GB, Ryzen 7 5800X, B550M Aorus, 16GB RGB, 512SSD, 700W, MasterBox Q300L"
-      },
-      {
-        "Price": 1589.00,
-        "Features": [],
-        "Date": "2023-08-16T17:23:26.9943186-04:00",
-        "Update": "2023-08-16T17:59:07.4241792-04:00",
-        "Discount": 38.0,
-        "Label": "PC Gamer 24FHD 165Hz, RTX 3070Ti, i5 12Gen, B760M PRO RS, 32GB DDR5 RGB 6000mhz, 1TB WD NVMe, 750W EVGA"
-      },
-      {
         "Price": 1799.00,
         "Features": [],
         "Date": "2023-08-16T17:36:34.8595148-04:00",
@@ -82,20 +58,44 @@
         "Label": "PC Gamer 24FHD 165Hz, RTX 4070Ti OC, i5 12Gen, ASRock Z690, 16GB G.Skill, 480SSD, 750W, EVGA Z12"
       },
       {
+        "Price": 1199.00,
+        "Features": [],
+        "Date": "2023-08-16T16:55:18.3666371-04:00",
+        "Update": "2023-08-17T08:24:46.1575164-04:00",
+        "Discount": 60.0,
+        "Label": "PC Gamer 24\" 165Hz, RX 6600 8GB, i5 12Gen, B660M PRO RS, 16GB G.Skill, M.2 512GB, Chasis C.Master"
+      },
+      {
+        "Price": 1399.00,
+        "Features": [],
+        "Date": "2023-08-16T17:10:35.6457594-04:00",
+        "Update": "2023-08-17T08:24:46.1661278-04:00",
+        "Discount": 74.0,
+        "Label": "PC Gamer 24\" 165Hz, RX 6650 XT 8GB, Ryzen 7 5800X, B550M Aorus, 16GB RGB, 512SSD, 700W, MasterBox"
+      },
+      {
+        "Price": 1589.00,
+        "Features": [],
+        "Date": "2023-08-16T17:23:26.9943186-04:00",
+        "Update": "2023-08-17T08:24:46.1742601-04:00",
+        "Discount": 38.0,
+        "Label": "PC Gamer 24FHD 165Hz, RTX 3070Ti, i5 12Gen, B760M PRO, 32GB DDR5 RGB 6000mhz, 1TB WD NVMe, 750W EVGA"
+      },
+      {
         "Price": 2299.00,
         "Features": [],
         "Date": "2023-08-16T18:05:27.1539528-04:00",
-        "Update": "2023-08-16T18:15:43.7545643-04:00",
+        "Update": "2023-08-17T08:24:46.1824619-04:00",
         "Discount": 57.0,
-        "Label": "PC Gamer 32QHD 144Hz, RTX 4070Ti, Ryzen 7 5800X, Gigabyte B550M Aorus Elite, 16GB RAM, 2TB PCIe4, 750W"
+        "Label": "PC Gamer 32QHD 144Hz, RTX 4070Ti, Ryzen 7 5800X, Gigabyte B550M Aorus, 16GB RAM, 2TB PCIe4, 750W"
       },
       {
         "Price": 999.00,
         "Features": [],
         "Date": "2023-08-16T16:47:02.7960051-04:00",
-        "Update": "2023-08-17T07:43:51.478583-04:00",
+        "Update": "2023-08-17T08:24:46.1912377-04:00",
         "Discount": 37.0,
-        "Label": "PC Gamer 24FHD Curvo, RX 6500XT, i3 12Gen, ASRock B660M, 16GB 3200mhz, 480SSD, 500W 80+ , CM MasterBox"
+        "Label": "PC Gamer 24FHD Curvo, RX 6500XT, i3 12Gen, ASRock B660M, 16GB 3200mhz, 480SSD, 500W 80+, MasterBox"
       }
     ],
     "Multimedia": [
