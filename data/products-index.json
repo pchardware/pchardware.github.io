@@ -42,14 +42,6 @@
         "Label": "PC Gamer 24FHD 165Hz, RTX 3070Ti, i5 12Gen, Asus ProArt, Corsair RGB 16GB, 500SSD, CX750M, NZXT"
       },
       {
-        "Price": 999.00,
-        "Features": [],
-        "Date": "2023-08-16T16:47:02.7960051-04:00",
-        "Update": "2023-08-16T17:59:07.3919945-04:00",
-        "Discount": 37.0,
-        "Label": "PC Gamer 24FHD Curvo, RX 6500XT, i3 12Gen, ASRock B660M, 16GB 3200mhz, 480SSD, 500W 80+, CM MasterBox"
-      },
-      {
         "Price": 1199.00,
         "Features": [],
         "Date": "2023-08-16T16:55:18.3666371-04:00",
@@ -96,6 +88,14 @@
         "Update": "2023-08-16T18:15:43.7545643-04:00",
         "Discount": 57.0,
         "Label": "PC Gamer 32QHD 144Hz, RTX 4070Ti, Ryzen 7 5800X, Gigabyte B550M Aorus Elite, 16GB RAM, 2TB PCIe4, 750W"
+      },
+      {
+        "Price": 999.00,
+        "Features": [],
+        "Date": "2023-08-16T16:47:02.7960051-04:00",
+        "Update": "2023-08-17T07:43:51.478583-04:00",
+        "Discount": 37.0,
+        "Label": "PC Gamer 24FHD Curvo, RX 6500XT, i3 12Gen, ASRock B660M, 16GB 3200mhz, 480SSD, 500W 80+ , CM MasterBox"
       }
     ],
     "Multimedia": [
