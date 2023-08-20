@@ -17,13 +17,16 @@
     "Curvo",
     "1440p",
     "1ms",
-    "350 Nit",
+    "350nit",
     "VA",
     "FreeSync",
-    "Gaming"
+    "Gaming",
+    "Monitor",
+    "HDMI",
+    "DP"
   ],
   "Date": "2023-06-24T08:19:29.7799115-04:00",
-  "Update": "2023-06-29T11:38:59.1583236-04:00",
+  "Update": "2023-08-20T11:36:57.2085914-04:00",
   "Discount": 0.0,
   "Label": "Lenovo 32QHD G32QC-10"
 }
