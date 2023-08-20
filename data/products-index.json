@@ -151,6 +151,40 @@
         "Discount": 32.0,
         "Label": "PC Pro i5-13500, 27\" FHD, ASRock B760M PRO, DDR5 32GB 6000mhz, M.2 Premium 2TB, TM Inalámbrico"
       }
+    ],
+    "Entusiasta": [
+      {
+        "Price": 1529.00,
+        "Features": [],
+        "Date": "2023-08-20T13:32:33.8852707-04:00",
+        "Update": "2023-08-20T13:57:33.2456648-04:00",
+        "Discount": 44.0,
+        "Label": "PC Ent TUF 24\", i5 12Gen, Asus B660 ProArt, 16GB RGB, 980 500GB, RX 6650 XT, CX750M, H510, Gaming K1"
+      },
+      {
+        "Price": 2279.00,
+        "Features": [],
+        "Date": "2023-08-20T13:38:25.8686393-04:00",
+        "Update": "2023-08-20T13:57:33.2524034-04:00",
+        "Discount": 64.0,
+        "Label": "PC Ent 27 2K IPS, i5-12600K, H100x, TUF Z690-Plus, DDR5 RGB 48GB, WD 1TB, RX 6750 XT Gaming X TRIO"
+      },
+      {
+        "Price": 3323.00,
+        "Features": [],
+        "Date": "2023-08-20T13:43:03.74108-04:00",
+        "Update": "2023-08-20T13:57:33.259071-04:00",
+        "Discount": 62.0,
+        "Label": "PC Ent 27\" 1440p, i5-13600K, Strix Z790, Trident 32GB 7200mhz, 980 PRO 2TB, RTX 4070 Ti Gaming TRIO"
+      },
+      {
+        "Price": 3627.00,
+        "Features": [],
+        "Date": "2023-08-20T13:54:17.9421185-04:00",
+        "Update": "2023-08-20T13:57:33.2659745-04:00",
+        "Discount": 57.0,
+        "Label": "PC Ent 32\" 4K, i9-12900K, Strix 360, Z690 Hero, 32GB DDR5, 980 PRO 2TB, RTX 4070Ti, K70 RGB PRO"
+      }
     ]
   },
   "Kits": {
