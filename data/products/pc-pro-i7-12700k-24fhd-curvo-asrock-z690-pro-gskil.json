@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "",
+  "Images": [
+    "/images/products/pc-pro-i7-12700k-24fhd-curvo-asrock-z690-pro-gskil-1.webp",
+    "/images/products/pc-pro-i7-12700k-24fhd-curvo-asrock-z690-pro-gskil-2.webp",
+    "/images/products/pc-pro-i7-12700k-24fhd-curvo-asrock-z690-pro-gskil-3.webp",
+    "/images/products/pc-pro-i7-12700k-24fhd-curvo-asrock-z690-pro-gskil-4.webp",
+    "/images/products/pc-pro-i7-12700k-24fhd-curvo-asrock-z690-pro-gskil-5.webp",
+    "/images/products/pc-pro-i7-12700k-24fhd-curvo-asrock-z690-pro-gskil-6.webp",
+    "/images/products/pc-pro-i7-12700k-24fhd-curvo-asrock-z690-pro-gskil-7.webp",
+    "/images/products/pc-pro-i7-12700k-24fhd-curvo-asrock-z690-pro-gskil-8.webp",
+    "/images/products/pc-pro-i7-12700k-24fhd-curvo-asrock-z690-pro-gskil-9.webp",
+    "/images/products/pc-pro-i7-12700k-24fhd-curvo-asrock-z690-pro-gskil-10.webp"
+  ],
+  "Description": "+ Intel Core i7-12700K\n+ Disipador Thermaltake Contac 9 SE 120W\n+ ASRock Z690 Pro RS DDR4\n+ DDR4 G.Skill Sniper X 32GB 3600mhz\n+ SSD M.2 ADATA XPG SX8100 512GB\n+ Fuente Thermaltake SMART 500W 80+\n+ Chasis Unyka 2U2\n+ MSI Pro 24FHD MP242C\n+ COMBO Teclado K49 + Mouse Asus JM3\n",
+  "Price": 999.00,
+  "Features": [],
+  "Date": "2023-08-20T12:58:02.8807277-04:00",
+  "Update": "2023-08-20T13:28:01.3419559-04:00",
+  "Discount": 32.0,
+  "Label": "PC Pro i7-12700K, 24FHD Curvo, ASRock Z690 Pro, G.Skill 32GB 3600mhz, M.2 512GB, 500W 80+"
+}
