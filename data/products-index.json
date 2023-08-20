@@ -2,15 +2,7 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 1095.00,
-        "Features": [],
-        "Date": "2023-08-06T08:27:54.2095953-04:00",
-        "Update": "2023-08-06T12:55:00.7380679-04:00",
-        "Discount": 37.0,
-        "Label": "PC Gamer 24\" Curvo, RX 6600 8GB, ASRock B660M, 500GB SSD, 16GB, Cooler Master"
-      },
-      {
-        "Price": 1311.00,
+        "Price": 1291.00,
         "Features": [],
         "Date": "2023-08-06T08:32:55.2569207-04:00",
         "Update": "2023-08-06T12:55:00.7451401-04:00",
@@ -18,7 +10,7 @@
         "Label": "PC Gamer 24\" 165Hz, RX 6600, 32GB RGB 6400mhz, 512GB NVMe, Aorus B760M Elite"
       },
       {
-        "Price": 3687.00,
+        "Price": 3654.00,
         "Features": [],
         "Date": "2023-08-16T12:05:11.1732808-04:00",
         "Update": "2023-08-16T12:56:28.9886734-04:00",
@@ -26,7 +18,7 @@
         "Label": "PC Gamer 32\" 4K, RTX 4070Ti Gaming Trio, i9-12900K, Z690 Hero, ROG 360 ARGB, 980 PRO 2TB, y más"
       },
       {
-        "Price": 3199.00,
+        "Price": 3192.00,
         "Features": [],
         "Date": "2023-08-16T12:43:24.6326301-04:00",
         "Update": "2023-08-16T12:56:28.9965787-04:00",
@@ -34,15 +26,7 @@
         "Label": "PC Gamer 32QHD, 4070Ti TRIO, i5-13600K, Z790-H, 32GB 7200mhz, 1TB M.2, HX850, TUF GT301, K60 RGB Pro"
       },
       {
-        "Price": 1756.00,
-        "Features": [],
-        "Date": "2023-08-16T12:51:57.0476553-04:00",
-        "Update": "2023-08-16T12:56:29.0087651-04:00",
-        "Discount": 42.0,
-        "Label": "PC Gamer 24FHD 165Hz, RTX 3070Ti, i5 12Gen, Asus ProArt, Corsair RGB 16GB, 500SSD, CX750M, NZXT"
-      },
-      {
-        "Price": 1799.00,
+        "Price": 1789.00,
         "Features": [],
         "Date": "2023-08-16T17:36:34.8595148-04:00",
         "Update": "2023-08-16T17:59:07.4333745-04:00",
@@ -50,23 +34,7 @@
         "Label": "PC Gamer 24\" 165Hz, Asus RTX 4070, i5-12600K, ASRock Z690, RAM 16GB, Samsung 980 500GB, Cougar RGB"
       },
       {
-        "Price": 1999.00,
-        "Features": [],
-        "Date": "2023-08-16T17:56:26.5804475-04:00",
-        "Update": "2023-08-16T17:59:33.1964442-04:00",
-        "Discount": 49.0,
-        "Label": "PC Gamer 24FHD 165Hz, RTX 4070Ti OC, i5 12Gen, ASRock Z690, 16GB G.Skill, 480SSD, 750W, EVGA Z12"
-      },
-      {
-        "Price": 1199.00,
-        "Features": [],
-        "Date": "2023-08-16T16:55:18.3666371-04:00",
-        "Update": "2023-08-17T08:24:46.1575164-04:00",
-        "Discount": 60.0,
-        "Label": "PC Gamer 24\" 165Hz, RX 6600 8GB, i5 12Gen, B660M PRO RS, 16GB G.Skill, M.2 512GB, Chasis C.Master"
-      },
-      {
-        "Price": 1399.00,
+        "Price": 1369.00,
         "Features": [],
         "Date": "2023-08-16T17:10:35.6457594-04:00",
         "Update": "2023-08-17T08:24:46.1661278-04:00",
@@ -74,15 +42,7 @@
         "Label": "PC Gamer 24\" 165Hz, RX 6650 XT 8GB, Ryzen 7 5800X, B550M Aorus, 16GB RGB, 512SSD, 700W, MasterBox"
       },
       {
-        "Price": 1589.00,
-        "Features": [],
-        "Date": "2023-08-16T17:23:26.9943186-04:00",
-        "Update": "2023-08-17T08:24:46.1742601-04:00",
-        "Discount": 38.0,
-        "Label": "PC Gamer 24FHD 165Hz, RTX 3070Ti, i5 12Gen, B760M PRO, 32GB DDR5 RGB 6000mhz, 1TB WD NVMe, 750W EVGA"
-      },
-      {
-        "Price": 2299.00,
+        "Price": 2277.00,
         "Features": [],
         "Date": "2023-08-16T18:05:27.1539528-04:00",
         "Update": "2023-08-17T08:24:46.1824619-04:00",
@@ -90,15 +50,7 @@
         "Label": "PC Gamer 32QHD 144Hz, RTX 4070Ti, Ryzen 7 5800X, Gigabyte B550M Aorus, 16GB RAM, 2TB PCIe4, 750W"
       },
       {
-        "Price": 999.00,
-        "Features": [],
-        "Date": "2023-08-16T16:47:02.7960051-04:00",
-        "Update": "2023-08-17T08:24:46.1912377-04:00",
-        "Discount": 37.0,
-        "Label": "PC Gamer 24FHD Curvo, RX 6500XT, i3 12Gen, ASRock B660M, 16GB 3200mhz, 480SSD, 500W 80+, MasterBox"
-      },
-      {
-        "Price": 2599.00,
+        "Price": 2595.00,
         "Features": [],
         "Date": "2023-08-17T11:16:47.3845005-04:00",
         "Update": "2023-08-17T11:27:30.4540344-04:00",
@@ -108,7 +60,7 @@
     ],
     "Multimedia": [
       {
-        "Price": 2695.00,
+        "Price": 2673.00,
         "Features": [],
         "Date": "2023-08-16T11:32:00.8554983-04:00",
         "Update": "2023-08-16T12:56:28.9620407-04:00",
@@ -116,7 +68,7 @@
         "Label": "PC i9-12900K, 70 Teras*, Z790 Steel, 32GB 6400mhz, 1TB M.2, 1000W, FullTower, 24FHD Curvo"
       },
       {
-        "Price": 2060.00,
+        "Price": 2038.00,
         "Features": [],
         "Date": "2023-08-16T11:49:48.396459-04:00",
         "Update": "2023-08-16T12:56:28.9706071-04:00",
@@ -124,7 +76,7 @@
         "Label": "PC i7 12Gen, 42 Teras*, Z790 RIPTIDE, 32GB DDR5, 512SSD, Corsair HX850, NIGHTHAWK 117, 24FHD"
       },
       {
-        "Price": 1417.00,
+        "Price": 1395.00,
         "Features": [],
         "Date": "2023-08-16T11:54:55.2483466-04:00",
         "Update": "2023-08-16T12:56:28.9777508-04:00",
@@ -134,33 +86,9 @@
     ]
   },
   "Kits": {
-    "Moderado": [
-      {
-        "Price": 423.00,
-        "Features": [],
-        "Date": "2023-06-29T19:08:23.1544102-04:00",
-        "Update": "2023-06-29T19:14:10.5384351-04:00",
-        "Discount": 11.0,
-        "Label": "Kit Ryzen 7 5700G + Gigabyte B550M Aorus Elite + 16GB Patriot Viper"
-      },
-      {
-        "Price": 398.00,
-        "Features": [
-          "12va Gen",
-          "3200mhz",
-          "Disipadas",
-          "Micro ATX",
-          "Dual channel"
-        ],
-        "Date": "2023-06-12T13:20:21.3256765-04:00",
-        "Update": "2023-07-12T21:22:46.7263835-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-12400 +Disipador + ASRock B660M PRO RS + 16GB RAM"
-      }
-    ],
     "Rendimiento": [
       {
-        "Price": 459.00,
+        "Price": 449.00,
         "Features": [],
         "Date": "2023-06-29T19:08:48.7337337-04:00",
         "Update": "2023-06-29T19:14:10.5469413-04:00",
@@ -282,17 +210,6 @@
         "Label": "Cooler Fan Corsair Vengance LPX"
       },
       {
-        "Price": 25.0,
-        "Features": [
-          "1x8GB",
-          "Disipadas"
-        ],
-        "Date": "2023-03-30T09:56:51.9497004-04:00",
-        "Update": "2023-06-19T09:35:04.3330407-04:00",
-        "Discount": 0.0,
-        "Label": "DDR4 Patriot Viper 8GB 3200mhz"
-      },
-      {
         "Price": 75.00,
         "Features": [
           "2x8GB",
@@ -330,7 +247,7 @@
         "Label": "DDR4 Patriot Viper Elite II 16GB 4000mhz"
       },
       {
-        "Price": 75.00,
+        "Price": 69.00,
         "Features": [
           "2x8GB",
           "Disipadas",
@@ -438,7 +355,7 @@
         "Label": "DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       },
       {
-        "Price": 160.00,
+        "Price": 159.00,
         "Features": [
           "2x16GB",
           "Disipadas",
@@ -450,7 +367,7 @@
         "Label": "DDR5 G.Skill Trident Z5 RGB 32GB 6400mhz"
       },
       {
-        "Price": 65.00,
+        "Price": 59.00,
         "Features": [
           "2x8GB",
           "Disipadas",
@@ -561,7 +478,7 @@
     ],
     "Chasis": [
       {
-        "Price": 135.00,
+        "Price": 99.00,
         "Features": [
           "8 GPU",
           "Acero",
@@ -590,7 +507,7 @@
         "Label": "Chasis Cougar MX440 Mesh RGB"
       },
       {
-        "Price": 245.00,
+        "Price": 239.00,
         "Features": [
           "Tempered Glass",
           "4xFan",
@@ -607,7 +524,7 @@
         "Label": "Chasis Asus TUF GT301"
       },
       {
-        "Price": 295.00,
+        "Price": 279.00,
         "Features": [
           "8xHDD",
           "5xFan",
@@ -626,7 +543,7 @@
         "Label": "Chasis Rosewill NIGHTHAWK 117"
       },
       {
-        "Price": 59.00,
+        "Price": 49.00,
         "Features": [
           "4xHDD",
           "VGA 340mm",
@@ -658,7 +575,7 @@
         "Label": "Chasis NZXT H510 Negro-Rojo"
       },
       {
-        "Price": 159.00,
+        "Price": 149.00,
         "Features": [
           "V-GPU",
           "DualPSU",
@@ -678,7 +595,7 @@
         "Label": "Chasis Rosewill Rise"
       },
       {
-        "Price": 139.00,
+        "Price": 135.00,
         "Features": [
           "Modular",
           "GPU 360mm",
@@ -976,7 +893,7 @@
         "Label": "D.Líquida Enermax LIQMAX III 120 ARGB"
       },
       {
-        "Price": 339.00,
+        "Price": 299.00,
         "Features": [
           "360mm",
           "RGB",
@@ -1026,7 +943,7 @@
         "Label": "D.Líquida Corsair H100x RGB Elite"
       },
       {
-        "Price": 470.00,
+        "Price": 399.00,
         "Features": [
           "360mm",
           "Premium",
@@ -1057,22 +974,7 @@
         "Label": "Cooler Master Kits LGA 1700"
       },
       {
-        "Price": 125.00,
-        "Features": [
-          "1xFan",
-          "120mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4"
-        ],
-        "Date": "2023-05-11T13:08:14.7226355-04:00",
-        "Update": "2023-06-09T16:50:28.9841433-04:00",
-        "Discount": 0.0,
-        "Label": "D.Líquida Corsair H60x RGB Elite"
-      },
-      {
-        "Price": 215.00,
+        "Price": 199.00,
         "Features": [
           "2xFan",
           "240mm",
@@ -1087,7 +989,7 @@
         "Label": "D.Líquida ASUS ROG Strix LC II 240 ARGB"
       },
       {
-        "Price": 265.00,
+        "Price": 249.00,
         "Features": [
           "3xFan",
           "360mm",
@@ -1102,7 +1004,7 @@
         "Label": "D.Líquida ASUS ROG Strix LC II 360 ARGB"
       },
       {
-        "Price": 199.00,
+        "Price": 189.00,
         "Features": [
           "3xFan",
           "360mm",
@@ -1545,7 +1447,7 @@
         "Label": "Asus ROG Maximus Z690 Hero"
       },
       {
-        "Price": 169.00,
+        "Price": 159.00,
         "Features": [
           "AM4",
           "AMD",
@@ -1585,7 +1487,7 @@
         "Label": "Gigabyte Aorus B760M Elite AX"
       },
       {
-        "Price": 189.00,
+        "Price": 185.00,
         "Features": [
           "AM4",
           "AMD",
@@ -1800,7 +1702,7 @@
         "Label": "MSI MPG Z590 Gaming Carbon Wifi"
       },
       {
-        "Price": 145.00,
+        "Price": 135.00,
         "Features": [
           "Extreme",
           "Quad Channel",
@@ -2015,7 +1917,7 @@
         "Label": "Enfriamiento Thermaltake UX200 SE"
       },
       {
-        "Price": 115.00,
+        "Price": 109.00,
         "Features": [
           "ARGB",
           "Dual Tower",
@@ -2304,23 +2206,6 @@
         "Update": "2023-08-09T11:38:47.252344-04:00",
         "Discount": 0.0,
         "Label": "Intel Core i5-13500 +Disipador"
-      },
-      {
-        "Price": 189.00,
-        "Features": [
-          "12va Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "18MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-08-08T10:07:50.0509327-04:00",
-        "Update": "2023-08-09T11:38:47.3166843-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Core i5-12400F +Disipador"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2446,7 +2331,7 @@
         "Label": "ASRock Challenger ITX RX 6500 XT"
       },
       {
-        "Price": 265.00,
+        "Price": 259.00,
         "Features": [
           "8GB",
           "3xFan",
@@ -2549,7 +2434,7 @@
         "Label": "MSI Mech Radeon RX 6650 XT"
       },
       {
-        "Price": 309.00,
+        "Price": 305.00,
         "Features": [
           "2xFan",
           "8GB",
@@ -2585,7 +2470,7 @@
     ],
     "Otros": [
       {
-        "Price": 19.00,
+        "Price": 14.00,
         "Features": [
           "130Mbps",
           "Flash",
@@ -2898,7 +2783,7 @@
     ],
     "Teclado": [
       {
-        "Price": 135.00,
+        "Price": 119.00,
         "Features": [
           "RGB",
           "Macros",
@@ -2917,7 +2802,7 @@
         "Label": "COMBO Teclado Corsair K55 + Mouse Harpoon RGB"
       },
       {
-        "Price": 105.00,
+        "Price": 99.00,
         "Features": [
           "Mecánico",
           "Backlit",
@@ -2934,7 +2819,7 @@
         "Label": "Teclado Logitech G413 Carbon"
       },
       {
-        "Price": 139.00,
+        "Price": 129.00,
         "Features": [
           "Mecánico",
           "RGB",
@@ -2954,7 +2839,7 @@
         "Label": "Teclado Asus TUF Gaming K3"
       },
       {
-        "Price": 67.00,
+        "Price": 65.00,
         "Features": [
           "Inalámbrico",
           "Ergonómico",
@@ -2987,7 +2872,7 @@
         "Label": "Teclado Rosewill NEON K54"
       },
       {
-        "Price": 110.00,
+        "Price": 105.00,
         "Features": [
           "Mecánico",
           "RGB",
@@ -3005,7 +2890,7 @@
         "Label": "Teclado Rosewill NEON K90 RGB BR"
       },
       {
-        "Price": 99.00,
+        "Price": 93.00,
         "Features": [
           "Macros",
           "Palm rest",
@@ -3035,7 +2920,7 @@
         "Label": "Teclado EVGA Z12"
       },
       {
-        "Price": 90.0,
+        "Price": 89.00,
         "Features": [
           "Mecánico",
           "Aluminio",
@@ -3051,7 +2936,7 @@
         "Label": "Teclado Corsair K60 RGB Pro"
       },
       {
-        "Price": 115.00,
+        "Price": 109.00,
         "Features": [
           "Mecánico",
           "RGB",
@@ -3066,7 +2951,7 @@
         "Label": "Teclado EVGA Z20"
       },
       {
-        "Price": 57.00,
+        "Price": 49.00,
         "Features": [
           "Inalámbrico",
           "Membrana",
@@ -3078,7 +2963,7 @@
         "Label": "COMBO Teclado + Mouse Lenovo 300"
       },
       {
-        "Price": 99.00,
+        "Price": 87.00,
         "Features": [
           "Membrana",
           "RGB",
@@ -3095,7 +2980,7 @@
         "Label": "Teclado Asus TUF Gaming K1"
       },
       {
-        "Price": 59.00,
+        "Price": 55.00,
         "Features": [
           "Inalámbrico",
           "Membrana",
@@ -3107,7 +2992,7 @@
         "Label": "COMBO Teclado + Mouse Logitech MK270"
       },
       {
-        "Price": 149.00,
+        "Price": 139.00,
         "Features": [
           "Mecánico",
           "Macros",
@@ -3125,7 +3010,7 @@
         "Label": "Teclado Asus ROG Strix Flare"
       },
       {
-        "Price": 69.00,
+        "Price": 67.00,
         "Features": [
           "Membrana",
           "LED",
@@ -3167,7 +3052,7 @@
         "Label": "COMBO Teclado K49 + Mouse Asus JM3"
       },
       {
-        "Price": 119.00,
+        "Price": 103.00,
         "Features": [
           "Membrana",
           "RGB",
@@ -3189,7 +3074,7 @@
         "Label": "COMBO Teclado Asus TUF Gaming K1 + Mouse M3"
       },
       {
-        "Price": 219.00,
+        "Price": 185.00,
         "Features": [
           "Mecánico",
           "Aluminio",
@@ -3205,7 +3090,7 @@
         "Label": "Teclado Corsair K70 RGB PRO"
       },
       {
-        "Price": 89.00,
+        "Price": 85.00,
         "Features": [
           "Mecánico",
           "RGB",
@@ -3242,7 +3127,7 @@
     ],
     "Monitor": [
       {
-        "Price": 225.00,
+        "Price": 219.00,
         "Features": [
           "Curvo",
           "VA",
@@ -3293,7 +3178,7 @@
         "Label": "Lenovo 32QHD G32QC-10"
       },
       {
-        "Price": 289.00,
+        "Price": 269.00,
         "Features": [
           "165Hz",
           "350 Nit",
@@ -3322,7 +3207,7 @@
         "Label": "Samsung 32UHD S70A S32A70"
       },
       {
-        "Price": 249.00,
+        "Price": 239.00,
         "Features": [
           "165Hz",
           "1ms",
@@ -3340,7 +3225,7 @@
     ],
     "Silla": [
       {
-        "Price": 189.00,
+        "Price": 169.00,
         "Features": [
           "Oficina",
           "Ergonómica",
@@ -3356,7 +3241,7 @@
     ],
     "Webcam": [
       {
-        "Price": 35.00,
+        "Price": 29.00,
         "Features": [
           "30fps",
           "HDR",
@@ -3370,7 +3255,7 @@
         "Label": "Webcam Full HD 1080P C01-Black"
       },
       {
-        "Price": 43.00,
+        "Price": 39.00,
         "Features": [
           "Black",
           "2mp",
@@ -3383,7 +3268,7 @@
         "Label": "Webcam AUKEY 1080p"
       },
       {
-        "Price": 49.00,
+        "Price": 45.00,
         "Features": [
           "Trípode",
           "USB"
@@ -3394,7 +3279,7 @@
         "Label": "Webcam Autofocus FHD HA501"
       },
       {
-        "Price": 76.00,
+        "Price": 67.00,
         "Features": [
           "Trípode",
           "2 Speakers",
