@@ -1,14 +1,32 @@
 {
   "Computadoras": {
-    "Gamer": [
+    "Multimedia": [
       {
-        "Price": 1291.00,
+        "Price": 2673.00,
         "Features": [],
-        "Date": "2023-08-06T08:32:55.2569207-04:00",
-        "Update": "2023-08-06T12:55:00.7451401-04:00",
-        "Discount": 34.0,
-        "Label": "PC Gamer 24\" 165Hz, RX 6600, 32GB RGB 6400mhz, 512GB NVMe, Aorus B760M Elite"
+        "Date": "2023-08-16T11:32:00.8554983-04:00",
+        "Update": "2023-08-16T12:56:28.9620407-04:00",
+        "Discount": 59.0,
+        "Label": "PC i9-12900K, 70 Teras*, Z790 Steel, 32GB 6400mhz, 1TB M.2, 1000W, FullTower, 24FHD Curvo"
       },
+      {
+        "Price": 2038.00,
+        "Features": [],
+        "Date": "2023-08-16T11:49:48.396459-04:00",
+        "Update": "2023-08-16T12:56:28.9706071-04:00",
+        "Discount": 46.0,
+        "Label": "PC i7 12Gen, 42 Teras*, Z790 RIPTIDE, 32GB DDR5, 512SSD, Corsair HX850, NIGHTHAWK 117, 24FHD"
+      },
+      {
+        "Price": 1395.00,
+        "Features": [],
+        "Date": "2023-08-16T11:54:55.2483466-04:00",
+        "Update": "2023-08-16T12:56:28.9777508-04:00",
+        "Discount": 39.0,
+        "Label": "PC i5 12Gen, 28 Teras*, ASRock Z690, 16GB 3600mhz, 512SSD, 850W Gold, 24FHD Curvo"
+      }
+    ],
+    "Gamer": [
       {
         "Price": 3654.00,
         "Features": [],
@@ -56,32 +74,46 @@
         "Update": "2023-08-17T11:27:30.4540344-04:00",
         "Discount": 70.0,
         "Label": "PC Gamer 32\" 2K 165Hz, RTX 4070Ti, i7-12700K, MSI Z690, RGB 32GB, 1TB M.2, CX750M, NZXT, Razer Viper"
-      }
-    ],
-    "Multimedia": [
-      {
-        "Price": 2673.00,
-        "Features": [],
-        "Date": "2023-08-16T11:32:00.8554983-04:00",
-        "Update": "2023-08-16T12:56:28.9620407-04:00",
-        "Discount": 59.0,
-        "Label": "PC i9-12900K, 70 Teras*, Z790 Steel, 32GB 6400mhz, 1TB M.2, 1000W, FullTower, 24FHD Curvo"
       },
       {
-        "Price": 2038.00,
+        "Price": 1099.00,
         "Features": [],
-        "Date": "2023-08-16T11:49:48.396459-04:00",
-        "Update": "2023-08-16T12:56:28.9706071-04:00",
-        "Discount": 46.0,
-        "Label": "PC i7 12Gen, 42 Teras*, Z790 RIPTIDE, 32GB DDR5, 512SSD, Corsair HX850, NIGHTHAWK 117, 24FHD"
+        "Date": "2023-08-06T08:27:54.2095953-04:00",
+        "Update": "2023-08-20T12:46:38.7418399-04:00",
+        "Discount": 36.0,
+        "Label": "PC Gamer 24\" Curvo, RX 6600 8GB, ASRock B660M, 500GB SSD, 16GB RGB, i3 12Gen, Cooler Master"
       },
       {
-        "Price": 1395.00,
+        "Price": 1289.00,
         "Features": [],
-        "Date": "2023-08-16T11:54:55.2483466-04:00",
-        "Update": "2023-08-16T12:56:28.9777508-04:00",
-        "Discount": 39.0,
-        "Label": "PC i5 12Gen, 28 Teras*, ASRock Z690, 16GB 3600mhz, 512SSD, 850W Gold, 24FHD Curvo"
+        "Date": "2023-08-06T08:32:55.2569207-04:00",
+        "Update": "2023-08-20T12:46:38.753534-04:00",
+        "Discount": 36.0,
+        "Label": "PC Gamer 24\" 165Hz, RX 6600, 32GB RGB 6400mhz, 512GB NVMe, Aorus B760M Elite"
+      },
+      {
+        "Price": 899.00,
+        "Features": [],
+        "Date": "2023-08-16T16:47:02.7960051-04:00",
+        "Update": "2023-08-20T12:46:38.7767365-04:00",
+        "Discount": 50.0,
+        "Label": "PC Gamer 24FHD Curvo, RX 6500XT, i3 12Gen, ASRock B660M, G.Skill 16GB 3600mhz, 480SSD, 500W 80+"
+      },
+      {
+        "Price": 1499.00,
+        "Features": [],
+        "Date": "2023-08-20T12:36:54.6062158-04:00",
+        "Update": "2023-08-20T12:46:38.8019447-04:00",
+        "Discount": 36.0,
+        "Label": "PC Gamer 24FHD 144Hz, RX 6750 XT Gaming X TRIO 12GB, i5 12Gen, B760M PRO, 32GB 6000mhz, 512GB M.2"
+      },
+      {
+        "Price": 1629.00,
+        "Features": [],
+        "Date": "2023-08-20T12:39:40.0720139-04:00",
+        "Update": "2023-08-20T12:46:38.8135746-04:00",
+        "Discount": 37.0,
+        "Label": "PC Gamer 27\" 100Hz, RTX 3070Ti, Ryzen 7 5800X, B550M Aorus Elite, 16GB 4000mhz, M.2 512GB, EVGA 750W"
       }
     ]
   },
