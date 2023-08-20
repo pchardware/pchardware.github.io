@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-gamer-24fhd-144hz-rx-6750-xt-gaming-x-trio-12gb-1.webp",
+    "/images/products/pc-gamer-24fhd-144hz-rx-6750-xt-gaming-x-trio-12gb-2.webp",
+    "/images/products/pc-gamer-24fhd-144hz-rx-6750-xt-gaming-x-trio-12gb-3.webp",
+    "/images/products/pc-gamer-24fhd-144hz-rx-6750-xt-gaming-x-trio-12gb-4.webp",
+    "/images/products/pc-gamer-24fhd-144hz-rx-6750-xt-gaming-x-trio-12gb-5.webp",
+    "/images/products/pc-gamer-24fhd-144hz-rx-6750-xt-gaming-x-trio-12gb-6.webp",
+    "/images/products/pc-gamer-24fhd-144hz-rx-6750-xt-gaming-x-trio-12gb-7.webp",
+    "/images/products/pc-gamer-24fhd-144hz-rx-6750-xt-gaming-x-trio-12gb-8.webp",
+    "/images/products/pc-gamer-24fhd-144hz-rx-6750-xt-gaming-x-trio-12gb-9.webp",
+    "/images/products/pc-gamer-24fhd-144hz-rx-6750-xt-gaming-x-trio-12gb-10.webp"
+  ],
+  "Description": "+ Intel Core i5-12400 +Disipador\n+ ASRock B760M PRO RS\n+ DDR5 Team T-CREATE EXPERT 32GB 6000mhz\n+ SSD M.2 ADATA XPG SX8100 512GB\n+ MSI RX 6750 XT Gaming X TRIO 12G\n+ Fuente Raidmax Cobra RX-700AC-B\n+ Chasis Cooler Master MasterBox Q300L\n+ Acer Nitro 24FHD QG241Y\n+ COMBO Teclado K49 + Mouse Asus JM3\n",
+  "Price": 1499.00,
+  "Features": [],
+  "Date": "2023-08-20T12:36:54.6062158-04:00",
+  "Update": "2023-08-20T12:46:38.8019447-04:00",
+  "Discount": 36.0,
+  "Label": "PC Gamer 24FHD 144Hz, RX 6750 XT Gaming X TRIO 12GB, i5 12Gen, B760M PRO, 32GB 6000mhz, 512GB M.2"
+}
