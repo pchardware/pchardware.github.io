@@ -1,0 +1,29 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Monitor",
+  "Images": [
+    "/images/products/acer-27fhd-100hz-ek1-1.webp",
+    "/images/products/acer-27fhd-100hz-ek1-2.webp",
+    "/images/products/acer-27fhd-100hz-ek1-3.webp",
+    "/images/products/acer-27fhd-100hz-ek1-4.webp",
+    "/images/products/acer-27fhd-100hz-ek1-5.webp"
+  ],
+  "Description": "Model\nBrand: Acer\nSeries: EK1\nModel: EK271 Hbi\nCabinet Color: Black\nBezel Design: Standard Frame\n\n\nDisplay\nScreen Size: 27\"\nWidescreen: Yes\nPanel: VA\nDisplay Type: FHD\nMaximum Resolution: VGA: 1920x1080@75Hz\nHDMI: 1920x1080@100Hz\nRecommended Resolution: 1920 x 1080\nViewing Angle: 178° (H) / 178° (V)\nAspect Ratio: 16:9\nBrightness: 250 cd/m2\nContrast Ratio: ACM 100000000:1 Max (3000:1 Native)\nResponse Time: 1 ms (VRB)\nColor Gamut: 72% NTSC\nDisplay Colors: 16.7 Million / 6bit+FRC\nPixel Pitch: 0.311mm\nRefresh Rate: 100 Hz (HDMI)\nVESA Certified DisplayHDR: NA\nCurved Surface Screen: Flat Panel\n\n\nConnectivity\nD-Sub: NA\nDVI: No\nVideo: NA\nHDMI: Yes\nThunderbolt 3: No\nDisplayPort: No\nVideo Ports: 1 x D-Sub / 1 x HDMI 1.4\nUSB Ports: NA\nUSB 2.0: NA\nUSB 3.0: NA\n\n\nPower\nPower Consumption: Power Consumption (Energystar On) (typ.): 21W\nPower Consumption (Max.): 48W\n\n\nConvenience\nStand Adjustments: Tilt: -5°~20°\nBuilt-in Speakers: No\nBuilt-in Webcam: No\nHDCP Support: No\nVESA Compatibility - Mountable: 100 x 100mm\n\n\nDimensions & Weight\nDimensions (H x W x D): 17.97\" x 24.15\" x 9.94\" w/ stand\n14.20\" x 24.15\" x 1.71\" w/o stand\nWeight: 7.72  lbs. w/ stand\n6.61  lbs. w/o stand\n\n\nPackaging\nPackage Contents: QSG, Warranty card, Power cord, HDMI cable",
+  "Price": 275.00,
+  "Features": [
+    "100Hz",
+    "1ms",
+    "VA",
+    "250nit",
+    "72%",
+    "Flat",
+    "HDMI",
+    "D-Sub",
+    "Monitor",
+    "1080p"
+  ],
+  "Date": "2023-08-20T10:12:36.7139467-04:00",
+  "Update": "2023-08-20T11:36:57.2807158-04:00",
+  "Discount": 0.0,
+  "Label": "Acer 27FHD 100Hz EK1"
+}
