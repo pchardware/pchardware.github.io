@@ -14,12 +14,16 @@
     "VA",
     "1ms",
     "75Hz",
-    "250 Nit",
     "FreeSync",
-    "Business"
+    "250nit",
+    "Business",
+    "Monitor",
+    "D-Sub",
+    "HDMI",
+    "1080p"
   ],
   "Date": "2023-05-11T19:58:00.9741721-04:00",
-  "Update": "2023-06-29T11:38:59.1062319-04:00",
+  "Update": "2023-08-20T11:36:57.1918562-04:00",
   "Discount": 0.0,
   "Label": "MSI Pro 24FHD MP242C"
 }
