@@ -196,6 +196,17 @@
         "Update": "2023-08-01T18:30:20.3375283-04:00",
         "Discount": 0.0,
         "Label": "Corsair Comander Pro"
+      },
+      {
+        "Price": 13.00,
+        "Features": [
+          "Mining",
+          "Riser Adapter"
+        ],
+        "Date": "2023-08-20T10:13:12.2031617-04:00",
+        "Update": "2023-08-20T11:36:57.2958607-04:00",
+        "Discount": 0.0,
+        "Label": "Thsion NGFF M.2 a USB"
       }
     ],
     "Memoria RAM": [
@@ -613,6 +624,25 @@
         "Update": "2023-08-06T08:19:53.9301884-04:00",
         "Discount": 0.0,
         "Label": "Chasis Cooler Master MasterBox Q300L"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "2x140mm",
+          "ARGB",
+          "Tempered Glass",
+          "Mesh",
+          "2xFan",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "Negro",
+          "2xHDD"
+        ],
+        "Date": "2023-08-20T10:12:26.8379058-04:00",
+        "Update": "2023-08-20T11:36:57.2582587-04:00",
+        "Discount": 0.0,
+        "Label": "Chasis Fractal Design Focus 2 RGB Black"
       }
     ],
     "Disco Sólido": [
@@ -1258,6 +1288,31 @@
         "Update": "2023-08-16T11:17:10.2612755-04:00",
         "Discount": 0.0,
         "Label": "Fuente EVGA 750W"
+      },
+      {
+        "Price": 130.00,
+        "Features": [
+          "80+ Platinum",
+          "Servidor",
+          "Hot Plug"
+        ],
+        "Date": "2023-08-20T10:12:14.5675243-04:00",
+        "Update": "2023-08-20T11:36:57.2440411-04:00",
+        "Discount": 0.0,
+        "Label": "Fuente HP 578322-B21 1200W"
+      },
+      {
+        "Price": 140.00,
+        "Features": [
+          "200A",
+          "24pin ATX",
+          "16x PCIe",
+          "ASIC Mining"
+        ],
+        "Date": "2023-08-20T10:12:58.5856752-04:00",
+        "Update": "2023-08-20T11:36:57.2882648-04:00",
+        "Discount": 0.0,
+        "Label": "ZSX AMP Breakout Board with PCIE Power Cables"
       }
     ],
     "Red": [
@@ -1282,6 +1337,18 @@
         "Update": "2023-08-01T18:30:20.3509442-04:00",
         "Discount": 0.0,
         "Label": "TP-Link Wifi Adapter 300N"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "PCIe x1",
+          "2.4GHz",
+          "5GHz"
+        ],
+        "Date": "2023-08-20T10:12:22.3957444-04:00",
+        "Update": "2023-08-20T11:36:57.2510845-04:00",
+        "Discount": 0.0,
+        "Label": "ASRock 802.11 AC Dual Band Wifi Adapter"
       }
     ],
     "Disco Duro": [
@@ -3125,104 +3192,6 @@
         "Label": "Teclado Cooler Master SK653"
       }
     ],
-    "Monitor": [
-      {
-        "Price": 219.00,
-        "Features": [
-          "Curvo",
-          "VA",
-          "1ms",
-          "75Hz",
-          "250 Nit",
-          "FreeSync",
-          "Business"
-        ],
-        "Date": "2023-05-11T19:58:00.9741721-04:00",
-        "Update": "2023-06-29T11:38:59.1062319-04:00",
-        "Discount": 0.0,
-        "Label": "MSI Pro 24FHD MP242C"
-      },
-      {
-        "Price": 525.00,
-        "Features": [
-          "165Hz",
-          "2K",
-          "1ms",
-          "Curvo",
-          "350 Nit",
-          "VA",
-          "FreeSync",
-          "Gaming"
-        ],
-        "Date": "2023-05-11T19:57:59.0739432-04:00",
-        "Update": "2023-06-29T11:38:59.138445-04:00",
-        "Discount": 0.0,
-        "Label": "Gigabyte 32QHD G32QC-A"
-      },
-      {
-        "Price": 485.00,
-        "Features": [
-          "144Hz",
-          "2K",
-          "Curvo",
-          "1440p",
-          "1ms",
-          "350 Nit",
-          "VA",
-          "FreeSync",
-          "Gaming"
-        ],
-        "Date": "2023-06-24T08:19:29.7799115-04:00",
-        "Update": "2023-06-29T11:38:59.1583236-04:00",
-        "Discount": 0.0,
-        "Label": "Lenovo 32QHD G32QC-10"
-      },
-      {
-        "Price": 269.00,
-        "Features": [
-          "165Hz",
-          "350 Nit",
-          "0.5ms",
-          "FreeSync",
-          "Flat",
-          "Gaming"
-        ],
-        "Date": "2023-06-24T08:20:03.8135275-04:00",
-        "Update": "2023-06-29T11:38:59.1696303-04:00",
-        "Discount": 0.0,
-        "Label": "Asus TUF 24FHD VG248Q1B"
-      },
-      {
-        "Price": 539.00,
-        "Features": [
-          "4K",
-          "HDR10",
-          "300 Nit",
-          "VA",
-          "Flat"
-        ],
-        "Date": "2023-06-29T07:38:31.7423472-04:00",
-        "Update": "2023-06-29T11:38:59.1739791-04:00",
-        "Discount": 0.0,
-        "Label": "Samsung 32UHD S70A S32A70"
-      },
-      {
-        "Price": 239.00,
-        "Features": [
-          "165Hz",
-          "1ms",
-          "Freesync",
-          "HDR10",
-          "VA",
-          "250 Nit",
-          "Gaming"
-        ],
-        "Date": "2023-07-09T16:44:32.5135505-04:00",
-        "Update": "2023-07-09T22:12:27.9136354-04:00",
-        "Discount": 0.0,
-        "Label": "Acer Nitro 24FHD QG241Y"
-      }
-    ],
     "Silla": [
       {
         "Price": 169.00,
@@ -3473,6 +3442,165 @@
         "Update": "2023-08-16T11:17:10.2148657-04:00",
         "Discount": 0.0,
         "Label": "Backup UPS APC 450VA"
+      }
+    ],
+    "Monitor": [
+      {
+        "Price": 219.00,
+        "Features": [
+          "Curvo",
+          "VA",
+          "1ms",
+          "75Hz",
+          "FreeSync",
+          "250nit",
+          "Business",
+          "Monitor",
+          "D-Sub",
+          "HDMI",
+          "1080p"
+        ],
+        "Date": "2023-05-11T19:58:00.9741721-04:00",
+        "Update": "2023-08-20T11:36:57.1918562-04:00",
+        "Discount": 0.0,
+        "Label": "MSI Pro 24FHD MP242C"
+      },
+      {
+        "Price": 525.00,
+        "Features": [
+          "165Hz",
+          "2K",
+          "1ms",
+          "Curvo",
+          "350nit",
+          "VA",
+          "FreeSync",
+          "Gaming",
+          "2x HDMI",
+          "DP",
+          "USB",
+          "Monitor"
+        ],
+        "Date": "2023-05-11T19:57:59.0739432-04:00",
+        "Update": "2023-08-20T11:36:57.1993679-04:00",
+        "Discount": 0.0,
+        "Label": "Gigabyte 32QHD G32QC-A"
+      },
+      {
+        "Price": 485.00,
+        "Features": [
+          "144Hz",
+          "2K",
+          "Curvo",
+          "1440p",
+          "1ms",
+          "350nit",
+          "VA",
+          "FreeSync",
+          "Gaming",
+          "Monitor",
+          "HDMI",
+          "DP"
+        ],
+        "Date": "2023-06-24T08:19:29.7799115-04:00",
+        "Update": "2023-08-20T11:36:57.2085914-04:00",
+        "Discount": 0.0,
+        "Label": "Lenovo 32QHD G32QC-10"
+      },
+      {
+        "Price": 269.00,
+        "Features": [
+          "165Hz",
+          "350nit",
+          "0.5ms",
+          "FreeSync",
+          "Flat",
+          "Gaming",
+          "HDMI",
+          "DP",
+          "Monitor",
+          "1080p"
+        ],
+        "Date": "2023-06-24T08:20:03.8135275-04:00",
+        "Update": "2023-08-20T11:36:57.2192416-04:00",
+        "Discount": 0.0,
+        "Label": "Asus TUF 24FHD VG248Q1B"
+      },
+      {
+        "Price": 539.00,
+        "Features": [
+          "4K",
+          "2160p",
+          "HDR10",
+          "300nit",
+          "VA",
+          "Flat",
+          "DP",
+          "HDMI",
+          "Monitor"
+        ],
+        "Date": "2023-06-29T07:38:31.7423472-04:00",
+        "Update": "2023-08-20T11:36:57.2279139-04:00",
+        "Discount": 0.0,
+        "Label": "Samsung 32UHD S70A S32A70"
+      },
+      {
+        "Price": 239.00,
+        "Features": [
+          "165Hz",
+          "1ms",
+          "HDR10",
+          "Freesync",
+          "Gaming",
+          "VA",
+          "250nit",
+          "Monitor",
+          "DP",
+          "HDMI",
+          "1080p"
+        ],
+        "Date": "2023-07-09T16:44:32.5135505-04:00",
+        "Update": "2023-08-20T11:36:57.2362613-04:00",
+        "Discount": 0.0,
+        "Label": "Acer Nitro 24FHD QG241Y"
+      },
+      {
+        "Price": 449.00,
+        "Features": [
+          "1440p",
+          "350nit",
+          "1ms",
+          "HDR400",
+          "Flat",
+          "2x HDMI",
+          "DP",
+          "USB",
+          "Speakers",
+          "Monitor"
+        ],
+        "Date": "2023-08-20T10:12:32.3834228-04:00",
+        "Update": "2023-08-20T11:36:57.2671699-04:00",
+        "Discount": 0.0,
+        "Label": "Gigabyte G27Q 144Hz IPS"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "100Hz",
+          "1ms",
+          "VA",
+          "250nit",
+          "72%",
+          "Flat",
+          "HDMI",
+          "D-Sub",
+          "Monitor",
+          "1080p"
+        ],
+        "Date": "2023-08-20T10:12:36.7139467-04:00",
+        "Update": "2023-08-20T11:36:57.2807158-04:00",
+        "Discount": 0.0,
+        "Label": "Acer 27FHD 100Hz EK1"
       }
     ]
   }
