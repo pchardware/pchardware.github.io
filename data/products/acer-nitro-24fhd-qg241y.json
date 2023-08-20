@@ -16,14 +16,18 @@
   "Features": [
     "165Hz",
     "1ms",
-    "Freesync",
     "HDR10",
+    "Freesync",
+    "Gaming",
     "VA",
-    "250 Nit",
-    "Gaming"
+    "250nit",
+    "Monitor",
+    "DP",
+    "HDMI",
+    "1080p"
   ],
   "Date": "2023-07-09T16:44:32.5135505-04:00",
-  "Update": "2023-07-09T22:12:27.9136354-04:00",
+  "Update": "2023-08-20T11:36:57.2362613-04:00",
   "Discount": 0.0,
   "Label": "Acer Nitro 24FHD QG241Y"
 }
