@@ -115,6 +115,42 @@
         "Discount": 37.0,
         "Label": "PC Gamer 27\" 100Hz, RTX 3070Ti, Ryzen 7 5800X, B550M Aorus Elite, 16GB 4000mhz, M.2 512GB, EVGA 750W"
       }
+    ],
+    "": [
+      {
+        "Price": 999.00,
+        "Features": [],
+        "Date": "2023-08-20T12:58:02.8807277-04:00",
+        "Update": "2023-08-20T13:28:01.3419559-04:00",
+        "Discount": 32.0,
+        "Label": "PC Pro i7-12700K, 24FHD Curvo, ASRock Z690 Pro, G.Skill 32GB 3600mhz, M.2 512GB, 500W 80+"
+      }
+    ],
+    "Pro": [
+      {
+        "Price": 849.00,
+        "Features": [],
+        "Date": "2023-08-20T13:00:48.5910147-04:00",
+        "Update": "2023-08-20T13:28:01.3488251-04:00",
+        "Discount": 28.0,
+        "Label": "PC Pro Ryzen 7 5700G, 24FHD Curvo, G.Skill 16GB 3600mhz, 480GB SSD, Gigabyte B550M, Thermaltake 500W"
+      },
+      {
+        "Price": 1455.00,
+        "Features": [],
+        "Date": "2023-08-20T13:08:10.0661855-04:00",
+        "Update": "2023-08-20T13:28:01.3563412-04:00",
+        "Discount": 34.0,
+        "Label": "PC Pro i9-12900K, Acer 27FHD, MSI PRO Z690, DDR5 32GB 6000mhz, 2TB Ultra SSD 7400mbs, 850W 80+ Gold"
+      },
+      {
+        "Price": 1210.00,
+        "Features": [],
+        "Date": "2023-08-20T13:13:07.5747053-04:00",
+        "Update": "2023-08-20T13:28:01.3655442-04:00",
+        "Discount": 32.0,
+        "Label": "PC Pro i5-13500, 27\" FHD, ASRock B760M PRO, DDR5 32GB 6000mhz, M.2 Premium 2TB, TM Inalámbrico"
+      }
     ]
   },
   "Kits": {
