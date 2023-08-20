@@ -13,14 +13,18 @@
   "Price": 269.00,
   "Features": [
     "165Hz",
-    "350 Nit",
+    "350nit",
     "0.5ms",
     "FreeSync",
     "Flat",
-    "Gaming"
+    "Gaming",
+    "HDMI",
+    "DP",
+    "Monitor",
+    "1080p"
   ],
   "Date": "2023-06-24T08:20:03.8135275-04:00",
-  "Update": "2023-06-29T11:38:59.1696303-04:00",
+  "Update": "2023-08-20T11:36:57.2192416-04:00",
   "Discount": 0.0,
   "Label": "Asus TUF 24FHD VG248Q1B"
 }
