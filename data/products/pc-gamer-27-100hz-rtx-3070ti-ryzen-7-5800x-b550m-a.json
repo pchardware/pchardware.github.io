@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-gamer-27-100hz-rtx-3070ti-ryzen-7-5800x-b550m-a-1.webp",
+    "/images/products/pc-gamer-27-100hz-rtx-3070ti-ryzen-7-5800x-b550m-a-2.webp",
+    "/images/products/pc-gamer-27-100hz-rtx-3070ti-ryzen-7-5800x-b550m-a-3.webp",
+    "/images/products/pc-gamer-27-100hz-rtx-3070ti-ryzen-7-5800x-b550m-a-4.webp",
+    "/images/products/pc-gamer-27-100hz-rtx-3070ti-ryzen-7-5800x-b550m-a-5.webp",
+    "/images/products/pc-gamer-27-100hz-rtx-3070ti-ryzen-7-5800x-b550m-a-6.webp",
+    "/images/products/pc-gamer-27-100hz-rtx-3070ti-ryzen-7-5800x-b550m-a-7.webp",
+    "/images/products/pc-gamer-27-100hz-rtx-3070ti-ryzen-7-5800x-b550m-a-8.webp",
+    "/images/products/pc-gamer-27-100hz-rtx-3070ti-ryzen-7-5800x-b550m-a-9.webp",
+    "/images/products/pc-gamer-27-100hz-rtx-3070ti-ryzen-7-5800x-b550m-a-10.webp"
+  ],
+  "Description": "+ AMD Ryzen 7 5800X +Disipador\n+ Enfriamiento AMD Wraith MAX RGB LED\n+ Gigabyte B550M Aorus Elite\n+ DDR4 GeIL ORION RGB 16GB 4000mhz\n+ SSD M.2 ADATA XPG GAMMIX S7 512GB\n+ Zotac Gaming RTX 3070Ti\n+ Fuente EVGA 750W\n+ Chasis Cooler Master MasterBox Q300L\n+ Acer 27FHD 100Hz EK1\n+ COMBO Teclado K49 + Mouse Asus JM3\n",
+  "Price": 1629.00,
+  "Features": [],
+  "Date": "2023-08-20T12:39:40.0720139-04:00",
+  "Update": "2023-08-20T12:46:38.8135746-04:00",
+  "Discount": 37.0,
+  "Label": "PC Gamer 27\" 100Hz, RTX 3070Ti, Ryzen 7 5800X, B550M Aorus Elite, 16GB 4000mhz, M.2 512GB, EVGA 750W"
+}
