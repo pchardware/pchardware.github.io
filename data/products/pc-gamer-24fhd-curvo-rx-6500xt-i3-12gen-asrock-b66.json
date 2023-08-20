@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-gamer-24fhd-curvo-rx-6500xt-i3-12gen-asrock-b66-1.webp",
+    "/images/products/pc-gamer-24fhd-curvo-rx-6500xt-i3-12gen-asrock-b66-2.webp",
+    "/images/products/pc-gamer-24fhd-curvo-rx-6500xt-i3-12gen-asrock-b66-3.webp",
+    "/images/products/pc-gamer-24fhd-curvo-rx-6500xt-i3-12gen-asrock-b66-4.webp",
+    "/images/products/pc-gamer-24fhd-curvo-rx-6500xt-i3-12gen-asrock-b66-5.webp",
+    "/images/products/pc-gamer-24fhd-curvo-rx-6500xt-i3-12gen-asrock-b66-6.webp",
+    "/images/products/pc-gamer-24fhd-curvo-rx-6500xt-i3-12gen-asrock-b66-7.webp",
+    "/images/products/pc-gamer-24fhd-curvo-rx-6500xt-i3-12gen-asrock-b66-8.webp",
+    "/images/products/pc-gamer-24fhd-curvo-rx-6500xt-i3-12gen-asrock-b66-9.webp",
+    "/images/products/pc-gamer-24fhd-curvo-rx-6500xt-i3-12gen-asrock-b66-10.webp"
+  ],
+  "Description": "+ Intel Core i3-12100 +Disipador\n+ ASRock B660M PRO RS\n+ DDR4 G.Skill Ripjaws V 16GB 3600mhz\n+ SSD 2.5 Crucial BX500 480GB\n+ ASRock Challenger ITX RX 6500 XT\n+ Fuente Thermaltake SMART 500W 80+\n+ Chasis Unyka 2U2\n+ MSI Pro 24FHD MP242C\n+ COMBO Teclado K49 + Mouse Asus JM3\n",
+  "Price": 899.00,
+  "Features": [],
+  "Date": "2023-08-16T16:47:02.7960051-04:00",
+  "Update": "2023-08-20T12:46:38.7767365-04:00",
+  "Discount": 50.0,
+  "Label": "PC Gamer 24FHD Curvo, RX 6500XT, i3 12Gen, ASRock B660M, G.Skill 16GB 3600mhz, 480SSD, 500W 80+"
+}
