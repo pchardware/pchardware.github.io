@@ -1,0 +1,32 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Monitor",
+  "Images": [
+    "/images/products/gigabyte-g27q-144hz-ips-1.webp",
+    "/images/products/gigabyte-g27q-144hz-ips-2.webp",
+    "/images/products/gigabyte-g27q-144hz-ips-3.webp",
+    "/images/products/gigabyte-g27q-144hz-ips-4.webp",
+    "/images/products/gigabyte-g27q-144hz-ips-5.webp",
+    "/images/products/gigabyte-g27q-144hz-ips-6.webp",
+    "/images/products/gigabyte-g27q-144hz-ips-7.webp",
+    "/images/products/gigabyte-g27q-144hz-ips-8.webp"
+  ],
+  "Description": "Model\nBrand: GIGABYTE\nModel: G27Q\nCabinet Color: Black\n\n\nDisplay\nScreen Size: 27\"\nWidescreen: Yes\nGlare Screen: Non-glare\nLED Backlight: Yes\nPanel: IPS\nDisplay Type: QHD\nAdaptive Sync Technology: AMD FreeSync Premium\nRecommended Resolution: 2560 x 1440 (2K)\nViewing Angle: 178° (H) / 178° (V)\nAspect Ratio: 16:9\nBrightness: 350 cd/m2\nContrast Ratio: DCR 12,000,000:1 (1,000:1)\nResponse Time: 1ms (MPRT)\nPixel Pitch: 0.2331mm\nRefresh Rate: 144 Hz\nVESA Certified DisplayHDR: DisplayHDR 400\nCurved Surface Screen: Flat Panel\n\n\nConnectivity\nInput Video Compatibility: Digital\nConnectors: 2 x HDMI, DisplayPort, USB\nHDMI: 2 x HDMI 2.0\nDisplayPort: 1 x DisplayPort 1.2\nVideo Ports: 1 x DisplayPort 1.2 / 2 x HDMI 2.0\nUSB Ports: 1 x USB 3.0 Type-B Upstream / 2 x USB 3.0 Type-A Downstream\nUSB 3.0: 2\n\n\nPower\nPower Supply: 100 - 240 VAC, 50/60Hz\nPower Consumption: 65W (Max.)\n\n\nConvenience\nStand Adjustments: Height & Tilt\nBuilt-in Speakers: 2 x 2W\nVESA Compatibility - Mountable: 100 x 100mm\nFeatures: Safety FW update\nBlack Equalizer\nAim Stabilizer\nDashboard\nOSD Sidekick\nGameAssist\nPiP/PbP\n\n\nDimensions & Weight\nDimensions (H x W x D): 20.43\" x 24.37\" x 7.99\" w/ stand\n14.39\" x 24.37\" x 2.20\" w/o stand\nWeight: 13.23 lbs.\n\n\nPackaging\nPackage Contents: Accessories: Power cable, HDMI cable, DP cable,  USB cable, QSG, Warranty card",
+  "Price": 449.00,
+  "Features": [
+    "1440p",
+    "350nit",
+    "1ms",
+    "HDR400",
+    "Flat",
+    "2x HDMI",
+    "DP",
+    "USB",
+    "Speakers",
+    "Monitor"
+  ],
+  "Date": "2023-08-20T10:12:32.3834228-04:00",
+  "Update": "2023-08-20T11:36:57.2671699-04:00",
+  "Discount": 0.0,
+  "Label": "Gigabyte G27Q 144Hz IPS"
+}
