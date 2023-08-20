@@ -1,0 +1,21 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Red",
+  "Images": [
+    "/images/products/asrock-80211-ac-dual-band-wifi-adapter-1.webp",
+    "/images/products/asrock-80211-ac-dual-band-wifi-adapter-2.webp",
+    "/images/products/asrock-80211-ac-dual-band-wifi-adapter-3.webp",
+    "/images/products/asrock-80211-ac-dual-band-wifi-adapter-4.webp"
+  ],
+  "Description": "802.11ac Dual Band WiFi Adapter\n\n    High-speed WiFi Dual-Band (2.4/5 GHz)\n    Internet Connectivity\n    Bluetooth v4.2 Technology\n    IEEE 802.11a/b/g/n/ac Standard\n    An Upgradeable Type 2230 M.2 Socket (Key E)\n\n\n    Dimensions\n    - 2.6-in x 2.7-in, 6.6 cm x 6.9 cm\n    Discrete module\n    - Intel® Dual Band Wireless-AC 3168\n    PCIE\n    - PCI Express x1 Connector\n    Connector\n    - 1 x Type 2230 M.2 Socket (Key E)\n    - 1 x USB 2.0 Header\n    Wireless LAN\n    - Intel® 802.11ac WiFi Module\n    - Supports IEEE 802.11a/b/g/n/ac\n    - Supports Dual-Band (2.4/5 GHz)\n    - Supports high speed wireless connections up to 433Mbps\n    - Supports Bluetooth 4.2 / 3.0 + High speed class II\n    OS\n    - Microsoft® Windows® 10 64-bit / 7 32-bit / 7 64-bit\n    Accessory\n    - Quick Installation Guide, Support CD\n    - 1 x USB Cable (30 cm)\n    - 2 x ASRock WiFi 2.4/5 GHz Antennas",
+  "Price": 65.00,
+  "Features": [
+    "PCIe x1",
+    "2.4GHz",
+    "5GHz"
+  ],
+  "Date": "2023-08-20T10:12:22.3957444-04:00",
+  "Update": "2023-08-20T11:36:57.2510845-04:00",
+  "Discount": 0.0,
+  "Label": "ASRock 802.11 AC Dual Band Wifi Adapter"
+}
