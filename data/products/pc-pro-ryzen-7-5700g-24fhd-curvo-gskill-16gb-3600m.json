@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Pro",
+  "Images": [
+    "/images/products/pc-pro-ryzen-7-5700g-24fhd-curvo-gskill-16gb-3600m-1.webp",
+    "/images/products/pc-pro-ryzen-7-5700g-24fhd-curvo-gskill-16gb-3600m-2.webp",
+    "/images/products/pc-pro-ryzen-7-5700g-24fhd-curvo-gskill-16gb-3600m-3.webp",
+    "/images/products/pc-pro-ryzen-7-5700g-24fhd-curvo-gskill-16gb-3600m-4.webp",
+    "/images/products/pc-pro-ryzen-7-5700g-24fhd-curvo-gskill-16gb-3600m-5.webp",
+    "/images/products/pc-pro-ryzen-7-5700g-24fhd-curvo-gskill-16gb-3600m-6.webp",
+    "/images/products/pc-pro-ryzen-7-5700g-24fhd-curvo-gskill-16gb-3600m-7.webp",
+    "/images/products/pc-pro-ryzen-7-5700g-24fhd-curvo-gskill-16gb-3600m-8.webp",
+    "/images/products/pc-pro-ryzen-7-5700g-24fhd-curvo-gskill-16gb-3600m-9.webp",
+    "/images/products/pc-pro-ryzen-7-5700g-24fhd-curvo-gskill-16gb-3600m-10.webp"
+  ],
+  "Description": "+ AMD Ryzen 7 5700G +Disipador\n+ Enfriamiento AMD Wraith Stealth\n+ Gigabyte B550M Aorus Elite\n+ DDR4 G.Skill Ripjaws V 16GB 3600mhz\n+ SSD 2.5 Crucial BX500 480GB\n+ Fuente Thermaltake SMART 500W 80+\n+ Chasis Unyka 2U2\n+ MSI Pro 24FHD MP242C\n+ COMBO Teclado K49 + Mouse Asus JM3\n",
+  "Price": 849.00,
+  "Features": [],
+  "Date": "2023-08-20T13:00:48.5910147-04:00",
+  "Update": "2023-08-20T13:28:01.3488251-04:00",
+  "Discount": 28.0,
+  "Label": "PC Pro Ryzen 7 5700G, 24FHD Curvo, G.Skill 16GB 3600mhz, 480GB SSD, Gigabyte B550M, Thermaltake 500W"
+}
