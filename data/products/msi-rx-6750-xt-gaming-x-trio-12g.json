@@ -12,7 +12,7 @@
     "/images/products/msi-rx-6750-xt-gaming-x-trio-12g-8.webp"
   ],
   "Description": "Model\nBrand: MSI\nSeries: Gaming\nModel: RX 6750 XT GAMING X TRIO 12G\n\n\nInterface\nInterface: PCI Express 4.0\n\n\nChipset\nChipset Manufacturer: AMD\nGPU Series: AMD Radeon RX 6000 Series\nGPU: Radeon RX 6750 XT\nArchitechture: RDNA 2\nGame Clock: 2554 MHz\nBoost Clock: 2623 MHz\nStream Processors: 2560 Stream Processors\n\n\nMemory\nEffective Memory Clock: 18 Gbps\nMemory Size: 12GB\nMemory Interface: 192-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12 Ultimate\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 1 x HDMI 2.1\nDisplayPort: 3 x DisplayPort 1.4a\n\n\nDetails\nMax Resolution: 7680 x 4320\nVirtual Reality Ready: Yes\nCooler: Triple Fans\nThermal Design Power: 250W\nPower Connector: 2 x 8-Pin\nHDCP Ready: Yes\n\n\nForm Factor & Dimensions\nMax GPU Length: 327 mm\nCard Dimensions (L x H): 12.87\" x 5.39\"",
-  "Price": 495.00,
+  "Price": 489.00,
   "Features": [
     "3xFan",
     "650WR",
