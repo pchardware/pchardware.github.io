@@ -1,0 +1,23 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disco Sólido",
+  "Images": [
+    "/images/products/ssd-m2-samsung-970-evo-plus-2tb-1.webp",
+    "/images/products/ssd-m2-samsung-970-evo-plus-2tb-2.webp",
+    "/images/products/ssd-m2-samsung-970-evo-plus-2tb-3.webp",
+    "/images/products/ssd-m2-samsung-970-evo-plus-2tb-4.webp",
+    "/images/products/ssd-m2-samsung-970-evo-plus-2tb-5.webp"
+  ],
+  "Description": "Model\nBrand: SAMSUNG\nSeries: 970 EVO PLUS\nModel: MZ-V7S2T0B/AM\nPart Number: MZ-V7S2T0B/AM\nDevice Type: Internal Solid State Drive (SSD)\nUsed For: Consumer\n\n\nDetails\nForm Factor: M.2 2280\nCapacity: 2TB\nMemory Components: Samsung V-NAND 3-bit MLC\nInterface: PCIe Gen 3.0 x4, NVMe 1.3\nController: Samsung Phoenix Controller\nCache: Samsung 1GB Low Power DDR4 SDRAM\nEncryption: AES 256-bit Encryption (Class 0)\nTCG/Opal IEEE1667 (Encrypted drive)\n\n\nPerformance\nMax Sequential Read: Up to 3500 MBps\nMax Sequential Write: Up to 3300 MBps\n4KB Random Read: 4KB, QD32: Up to 620,000 IOPS\n4KB, QD1: Up to 19,000 IOPS\n4KB Random Write: 4KB, QD32: Up to 560,000 IOPS\n4KB, QD1: Up to 62,000 IOPS\nMTBF: 1,500,000 hours\n\n\nFeatures\nFeatures: Reliability: 1200 TBW\n\n\nEnvironmental\nPower Consumption (Idle): Max. 30 mW\nPower Consumption (Active): Average: 6W\nMaximum: 9W (Burst mode)\nOperating Temperature: 0°C ~ +70°C\nMax Shock Resistance: 1,500G & 0.5 ms (Half sine)\n\n\nDimensions & Weight\nHeight: 2.38mm\nWidth: 22.15mm\nDepth: 80.15mm\nWeight: 8.00g",
+  "Price": 119.00,
+  "Features": [
+    "3500mbs",
+    "1200tbw",
+    "PCIe 3",
+    "NVMe"
+  ],
+  "Date": "2023-08-21T08:57:58.9451638-04:00",
+  "Update": "2023-08-21T12:54:21.1442818-04:00",
+  "Discount": 0.0,
+  "Label": "SSD M.2 Samsung 970 EVO PLUS 2TB"
+}
