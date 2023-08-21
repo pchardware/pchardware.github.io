@@ -2,7 +2,7 @@
   "Computadoras": {
     "Multimedia": [
       {
-        "Price": 2673.00,
+        "Price": 2667.00,
         "Features": [],
         "Date": "2023-08-16T11:32:00.8554983-04:00",
         "Update": "2023-08-16T12:56:28.9620407-04:00",
@@ -10,7 +10,7 @@
         "Label": "PC i9-12900K, 70 Teras*, Z790 Steel, 32GB 6400mhz, 1TB M.2, 1000W, FullTower, 24FHD Curvo"
       },
       {
-        "Price": 2038.00,
+        "Price": 2030.00,
         "Features": [],
         "Date": "2023-08-16T11:49:48.396459-04:00",
         "Update": "2023-08-16T12:56:28.9706071-04:00",
@@ -28,7 +28,7 @@
     ],
     "Gamer": [
       {
-        "Price": 3654.00,
+        "Price": 3624.00,
         "Features": [],
         "Date": "2023-08-16T12:05:11.1732808-04:00",
         "Update": "2023-08-16T12:56:28.9886734-04:00",
@@ -36,7 +36,7 @@
         "Label": "PC Gamer 32\" 4K, RTX 4070Ti Gaming Trio, i9-12900K, Z690 Hero, ROG 360 ARGB, 980 PRO 2TB, y más"
       },
       {
-        "Price": 3192.00,
+        "Price": 3168.00,
         "Features": [],
         "Date": "2023-08-16T12:43:24.6326301-04:00",
         "Update": "2023-08-16T12:56:28.9965787-04:00",
@@ -44,7 +44,7 @@
         "Label": "PC Gamer 32QHD, 4070Ti TRIO, i5-13600K, Z790-H, 32GB 7200mhz, 1TB M.2, HX850, TUF GT301, K60 RGB Pro"
       },
       {
-        "Price": 1789.00,
+        "Price": 1783.00,
         "Features": [],
         "Date": "2023-08-16T17:36:34.8595148-04:00",
         "Update": "2023-08-16T17:59:07.4333745-04:00",
@@ -52,7 +52,7 @@
         "Label": "PC Gamer 24\" 165Hz, Asus RTX 4070, i5-12600K, ASRock Z690, RAM 16GB, Samsung 980 500GB, Cougar RGB"
       },
       {
-        "Price": 1369.00,
+        "Price": 1359.00,
         "Features": [],
         "Date": "2023-08-16T17:10:35.6457594-04:00",
         "Update": "2023-08-17T08:24:46.1661278-04:00",
@@ -68,7 +68,7 @@
         "Label": "PC Gamer 32QHD 144Hz, RTX 4070Ti, Ryzen 7 5800X, Gigabyte B550M Aorus, 16GB RAM, 2TB PCIe4, 750W"
       },
       {
-        "Price": 2595.00,
+        "Price": 2583.00,
         "Features": [],
         "Date": "2023-08-17T11:16:47.3845005-04:00",
         "Update": "2023-08-17T11:27:30.4540344-04:00",
@@ -76,7 +76,7 @@
         "Label": "PC Gamer 32\" 2K 165Hz, RTX 4070Ti, i7-12700K, MSI Z690, RGB 32GB, 1TB M.2, CX750M, NZXT, Razer Viper"
       },
       {
-        "Price": 1099.00,
+        "Price": 1095.00,
         "Features": [],
         "Date": "2023-08-06T08:27:54.2095953-04:00",
         "Update": "2023-08-20T12:46:38.7418399-04:00",
@@ -84,7 +84,7 @@
         "Label": "PC Gamer 24\" Curvo, RX 6600 8GB, ASRock B660M, 500GB SSD, 16GB RGB, i3 12Gen, Cooler Master"
       },
       {
-        "Price": 1289.00,
+        "Price": 1285.00,
         "Features": [],
         "Date": "2023-08-06T08:32:55.2569207-04:00",
         "Update": "2023-08-20T12:46:38.753534-04:00",
@@ -92,7 +92,7 @@
         "Label": "PC Gamer 24\" 165Hz, RX 6600, 32GB RGB 6400mhz, 512GB NVMe, Aorus B760M Elite"
       },
       {
-        "Price": 899.00,
+        "Price": 895.00,
         "Features": [],
         "Date": "2023-08-16T16:47:02.7960051-04:00",
         "Update": "2023-08-20T12:46:38.7767365-04:00",
@@ -100,7 +100,7 @@
         "Label": "PC Gamer 24FHD Curvo, RX 6500XT, i3 12Gen, ASRock B660M, G.Skill 16GB 3600mhz, 480SSD, 500W 80+"
       },
       {
-        "Price": 1499.00,
+        "Price": 1493.00,
         "Features": [],
         "Date": "2023-08-20T12:36:54.6062158-04:00",
         "Update": "2023-08-20T12:46:38.8019447-04:00",
@@ -118,7 +118,7 @@
     ],
     "": [
       {
-        "Price": 999.00,
+        "Price": 993.00,
         "Features": [],
         "Date": "2023-08-20T12:58:02.8807277-04:00",
         "Update": "2023-08-20T13:28:01.3419559-04:00",
@@ -136,7 +136,7 @@
         "Label": "PC Pro Ryzen 7 5700G, 24FHD Curvo, G.Skill 16GB 3600mhz, 480GB SSD, Gigabyte B550M, Thermaltake 500W"
       },
       {
-        "Price": 1455.00,
+        "Price": 1453.00,
         "Features": [],
         "Date": "2023-08-20T13:08:10.0661855-04:00",
         "Update": "2023-08-20T13:28:01.3563412-04:00",
@@ -144,7 +144,7 @@
         "Label": "PC Pro i9-12900K, Acer 27FHD, MSI PRO Z690, DDR5 32GB 6000mhz, 2TB Ultra SSD 7400mbs, 850W 80+ Gold"
       },
       {
-        "Price": 1210.00,
+        "Price": 1206.00,
         "Features": [],
         "Date": "2023-08-20T13:13:07.5747053-04:00",
         "Update": "2023-08-20T13:28:01.3655442-04:00",
@@ -162,7 +162,7 @@
         "Label": "PC Ent TUF 24\", i5 12Gen, Asus B660 ProArt, 16GB RGB, 980 500GB, RX 6650 XT, CX750M, H510, Gaming K1"
       },
       {
-        "Price": 2279.00,
+        "Price": 2263.00,
         "Features": [],
         "Date": "2023-08-20T13:38:25.8686393-04:00",
         "Update": "2023-08-20T13:57:33.2524034-04:00",
@@ -170,7 +170,7 @@
         "Label": "PC Ent 27 2K IPS, i5-12600K, H100x, TUF Z690-Plus, DDR5 RGB 48GB, WD 1TB, RX 6750 XT Gaming X TRIO"
       },
       {
-        "Price": 3323.00,
+        "Price": 3299.00,
         "Features": [],
         "Date": "2023-08-20T13:43:03.74108-04:00",
         "Update": "2023-08-20T13:57:33.259071-04:00",
@@ -178,7 +178,7 @@
         "Label": "PC Ent 27\" 1440p, i5-13600K, Strix Z790, Trident 32GB 7200mhz, 980 PRO 2TB, RTX 4070 Ti Gaming TRIO"
       },
       {
-        "Price": 3627.00,
+        "Price": 3605.00,
         "Features": [],
         "Date": "2023-08-20T13:54:17.9421185-04:00",
         "Update": "2023-08-20T13:57:33.2659745-04:00",
@@ -456,7 +456,7 @@
         "Label": "DDR4 G.Skill Sniper X 32GB 3600mhz"
       },
       {
-        "Price": 145.00,
+        "Price": 139.00,
         "Features": [
           "2x16GB",
           "Disipadas",
@@ -528,7 +528,7 @@
         "Label": "DDR4 Corsair Vengeance RGB RS 16GB 3600mhz"
       },
       {
-        "Price": 145.00,
+        "Price": 139.00,
         "Features": [
           "CL36",
           "2x16GB",
@@ -565,7 +565,7 @@
         "Label": "DDR5 Team T-CREATE EXPERT 32GB 6000mhz"
       },
       {
-        "Price": 189.00,
+        "Price": 179.00,
         "Features": [
           "CL34",
           "2x16GB",
@@ -877,7 +877,7 @@
         "Label": "SSD 2.5 Team Group T-FORCE VULCAN G 512GB"
       },
       {
-        "Price": 79.00,
+        "Price": 75.00,
         "Features": [
           "5000mbs",
           "PCIe 4",
@@ -927,7 +927,7 @@
         "Label": "SSD M.2 AData Premium 2TB"
       },
       {
-        "Price": 69.00,
+        "Price": 65.00,
         "Features": [
           "3200mbs",
           "PCIe 3",
@@ -940,7 +940,7 @@
         "Label": "SSD M.2 WD Green SN350 1TB"
       },
       {
-        "Price": 159.00,
+        "Price": 149.00,
         "Features": [
           "7000mbs",
           "PCIe 4",
@@ -952,7 +952,7 @@
         "Label": "SSD M.2 SAMSUNG 980 PRO 2TB"
       },
       {
-        "Price": 99.00,
+        "Price": 95.00,
         "Features": [
           "7300mbs",
           "600tbw",
@@ -1343,7 +1343,7 @@
         "Label": "Fuente Corsair HX850"
       },
       {
-        "Price": 255.00,
+        "Price": 249.00,
         "Features": [
           "80+ Gold",
           "Full Modular",
@@ -1359,7 +1359,7 @@
         "Label": "Fuente ASUS ROG STRIX 1000W Gold"
       },
       {
-        "Price": 249.00,
+        "Price": 245.00,
         "Features": [
           "ATX 3.0",
           "80+ Gold",
@@ -1392,7 +1392,7 @@
         "Label": "Fuente EVGA 750W"
       },
       {
-        "Price": 130.00,
+        "Price": 115.00,
         "Features": [
           "80+ Platinum",
           "Servidor",
@@ -1404,7 +1404,7 @@
         "Label": "Fuente HP 578322-B21 1200W"
       },
       {
-        "Price": 140.00,
+        "Price": 119.00,
         "Features": [
           "200A",
           "24pin ATX",
@@ -1871,26 +1871,6 @@
         "Label": "MSI MPG Z590 Gaming Carbon Wifi"
       },
       {
-        "Price": 135.00,
-        "Features": [
-          "Extreme",
-          "Quad Channel",
-          "Dual Lan",
-          "8xSATA",
-          "9xUSB",
-          "6xAudio",
-          "DDR4",
-          "4500mhz",
-          "LGA 2066",
-          "ATX",
-          "PS2"
-        ],
-        "Date": "2023-07-26T18:48:13.2024755-04:00",
-        "Update": "2023-08-06T08:19:53.9065233-04:00",
-        "Discount": 0.0,
-        "Label": "MSI X299 SLI PLUS"
-      },
-      {
         "Price": 285.00,
         "Features": [
           "12va-13ra",
@@ -1931,7 +1911,7 @@
     ],
     "Disipador por Aire": [
       {
-        "Price": 35.00,
+        "Price": 32.00,
         "Features": [
           "AM4",
           "3xPipes",
@@ -1946,7 +1926,7 @@
         "Label": "Enfriamiento Asus 3 Headpipe AMD"
       },
       {
-        "Price": 37.00,
+        "Price": 35.00,
         "Features": [
           "LGA 1200",
           "3xPipes",
@@ -1961,7 +1941,7 @@
         "Label": "Enfriamiento Asus 3 Headpipe Intel"
       },
       {
-        "Price": 59.00,
+        "Price": 57.00,
         "Features": [
           "4xPipes",
           "1550rpm",
@@ -2062,7 +2042,7 @@
         "Label": "Enfriamiento AMD Wraith Stealth"
       },
       {
-        "Price": 61.00,
+        "Price": 59.00,
         "Features": [
           "ARGB",
           "63cfm",
@@ -2205,7 +2185,7 @@
     ],
     "Microprocesador": [
       {
-        "Price": 285.00,
+        "Price": 279.00,
         "Features": [
           "12va Gen",
           "20 Hilos",
@@ -2223,7 +2203,7 @@
         "Label": "Intel Core i7-12700K"
       },
       {
-        "Price": 235.00,
+        "Price": 229.00,
         "Features": [
           "12va Gen",
           "16 Hilos",
@@ -2360,7 +2340,7 @@
         "Label": "AMD Ryzen 7 5700G +Disipador"
       },
       {
-        "Price": 289.00,
+        "Price": 285.00,
         "Features": [
           "13ra Gen",
           "20 Hilos",
@@ -2484,7 +2464,7 @@
         "Label": "ASRock Challenger D RX 6700 XT"
       },
       {
-        "Price": 169.00,
+        "Price": 165.00,
         "Features": [
           "4GB",
           "1xFan",
@@ -2500,7 +2480,7 @@
         "Label": "ASRock Challenger ITX RX 6500 XT"
       },
       {
-        "Price": 259.00,
+        "Price": 255.00,
         "Features": [
           "8GB",
           "3xFan",
@@ -2535,7 +2515,7 @@
         "Label": "MSI RTX 4060 Gaming X"
       },
       {
-        "Price": 495.00,
+        "Price": 489.00,
         "Features": [
           "3xFan",
           "650WR",
@@ -2734,7 +2714,7 @@
         "Label": "Mouse Pad Asus ROG Sheath Pink LTD"
       },
       {
-        "Price": 63.00,
+        "Price": 49.00,
         "Features": [
           "Sniper",
           "16000dpi",
@@ -2750,7 +2730,7 @@
         "Label": "Mouse EVGA X17"
       },
       {
-        "Price": 69.00,
+        "Price": 55.00,
         "Features": [
           "Inalámbrico",
           "16000dpi",
@@ -2766,7 +2746,7 @@
         "Label": "Mouse EVGA X20"
       },
       {
-        "Price": 45.00,
+        "Price": 35.00,
         "Features": [
           "7000dpi",
           "Optico",
@@ -2780,7 +2760,7 @@
         "Label": "Mouse Asus TUF M3"
       },
       {
-        "Price": 65.00,
+        "Price": 61.00,
         "Features": [
           "74g",
           "18000dpi",
@@ -2797,7 +2777,7 @@
         "Label": "Mouse Corsair Sabre RGB Pro"
       },
       {
-        "Price": 67.00,
+        "Price": 63.00,
         "Features": [
           "RGB",
           "82g",
@@ -2854,7 +2834,7 @@
         "Label": "Mouse Pad Corsair MM300 Extended"
       },
       {
-        "Price": 93.00,
+        "Price": 87.00,
         "Features": [
           "FPS",
           "MOBA",
@@ -2872,7 +2852,7 @@
         "Label": "Mouse Corsair IRONCLAW RGB"
       },
       {
-        "Price": 61.00,
+        "Price": 47.00,
         "Features": [
           "Inalámbrico",
           "18000dpi",
@@ -2904,7 +2884,7 @@
         "Label": "Mouse Pad Asus TUF Gaming P3"
       },
       {
-        "Price": 49.00,
+        "Price": 39.00,
         "Features": [
           "Optico",
           "6 botónes"
@@ -2915,7 +2895,7 @@
         "Label": "Mouse SteelSeries Rival 3"
       },
       {
-        "Price": 39.00,
+        "Price": 29.00,
         "Features": [
           "53g",
           "PTFE",
@@ -3364,7 +3344,7 @@
     ],
     "Audífonos": [
       {
-        "Price": 109.00,
+        "Price": 105.00,
         "Features": [
           "Noise Cancelling",
           "20Hz-20KHz",
