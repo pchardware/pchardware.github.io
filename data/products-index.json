@@ -343,6 +343,51 @@
         "Update": "2023-08-20T11:36:57.2958607-04:00",
         "Discount": 0.0,
         "Label": "Thsion NGFF M.2 a USB"
+      },
+      {
+        "Price": 18.00,
+        "Features": [
+          "1800rpm",
+          "65cfm",
+          "27dba",
+          "120mm"
+        ],
+        "Date": "2023-08-21T08:58:21.6545554-04:00",
+        "Update": "2023-08-21T12:54:21.1710668-04:00",
+        "Discount": 0.0,
+        "Label": "Fan Cooler Master SickleFlow 120 V2 ARGB"
+      },
+      {
+        "Price": 13.00,
+        "Features": [],
+        "Date": "2023-08-21T08:58:46.2630253-04:00",
+        "Update": "2023-08-21T12:54:21.1943627-04:00",
+        "Discount": 0.0,
+        "Label": "Cable HDMI 2.1, 0.9m"
+      },
+      {
+        "Price": 10.00,
+        "Features": [],
+        "Date": "2023-08-21T08:58:50.8949152-04:00",
+        "Update": "2023-08-21T12:54:21.2024349-04:00",
+        "Discount": 0.0,
+        "Label": "Cable HDMI 2.0, 1.8m"
+      },
+      {
+        "Price": 19.00,
+        "Features": [],
+        "Date": "2023-08-21T08:58:55.8070561-04:00",
+        "Update": "2023-08-21T12:54:21.2104835-04:00",
+        "Discount": 0.0,
+        "Label": "Cable DisplayPort 1.4, 1.8m"
+      },
+      {
+        "Price": 16.00,
+        "Features": [],
+        "Date": "2023-08-21T08:59:01.7749952-04:00",
+        "Update": "2023-08-21T12:54:21.2186206-04:00",
+        "Discount": 0.0,
+        "Label": "Cable DisplayPort 1.4, 0.9m"
       }
     ],
     "Memoria RAM": [
@@ -633,6 +678,18 @@
         "Update": "2023-08-21T08:57:21.975614-04:00",
         "Discount": 0.0,
         "Label": "DDR5 Corsair Vengeance RGB 64GB 5200mhz"
+      },
+      {
+        "Price": 249.00,
+        "Features": [
+          "CL28",
+          "2x32GB",
+          "Disipadas"
+        ],
+        "Date": "2023-08-21T08:58:29.7000117-04:00",
+        "Update": "2023-08-21T12:54:21.1789409-04:00",
+        "Discount": 0.0,
+        "Label": "DDR5 G.SKILL Trident Z5 RGB 64GB 5600mhz"
       }
     ],
     "Chasis": [
@@ -986,18 +1043,6 @@
         "Label": "SSD M.2 WD Green SN350 1TB"
       },
       {
-        "Price": 149.00,
-        "Features": [
-          "7000mbs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-08-16T09:17:42.5509882-04:00",
-        "Update": "2023-08-16T11:17:10.323595-04:00",
-        "Discount": 0.0,
-        "Label": "SSD M.2 SAMSUNG 980 PRO 2TB"
-      },
-      {
         "Price": 95.00,
         "Features": [
           "7300mbs",
@@ -1026,13 +1071,64 @@
         "Price": 99.00,
         "Features": [
           "7000mbs",
+          "600tbw",
           "PCIe 4",
           "NVMe"
         ],
         "Date": "2023-07-12T21:43:06.2525927-04:00",
-        "Update": "2023-08-21T08:57:21.906053-04:00",
+        "Update": "2023-08-21T12:54:21.1074952-04:00",
         "Discount": 0.0,
         "Label": "SSD M.2 SAMSUNG 980 PRO 1TB"
+      },
+      {
+        "Price": 149.00,
+        "Features": [
+          "7000mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-08-16T09:17:42.5509882-04:00",
+        "Update": "2023-08-21T12:54:21.115578-04:00",
+        "Discount": 0.0,
+        "Label": "SSD M.2 Samsung 980 PRO 2TB"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "7450mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-08-21T08:57:50.0608494-04:00",
+        "Update": "2023-08-21T12:54:21.1236453-04:00",
+        "Discount": 0.0,
+        "Label": "SSD M.2 Samsung 990 PRO 1TB"
+      },
+      {
+        "Price": 109.00,
+        "Features": [
+          "3500mbs",
+          "740tbw",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-08-21T08:57:54.5361201-04:00",
+        "Update": "2023-08-21T12:54:21.1326564-04:00",
+        "Discount": 0.0,
+        "Label": "SSD M.2 Intel 670P 2TB"
+      },
+      {
+        "Price": 119.00,
+        "Features": [
+          "3500mbs",
+          "1200tbw",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-08-21T08:57:58.9451638-04:00",
+        "Update": "2023-08-21T12:54:21.1442818-04:00",
+        "Discount": 0.0,
+        "Label": "SSD M.2 Samsung 970 EVO PLUS 2TB"
       }
     ],
     "Disipador Líquido": [
@@ -2033,6 +2129,24 @@
         "Update": "2023-08-09T11:38:47.2593926-04:00",
         "Discount": 0.0,
         "Label": "Asus TUF Z690-Plus Wifi DDR5"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "12va-13ra",
+          "9xUSB",
+          "6xSATA",
+          "Wifi",
+          "6000mhz",
+          "LGA1700",
+          "HDMI",
+          "DisplayPort",
+          "3xAudio"
+        ],
+        "Date": "2023-08-21T08:58:08.2009183-04:00",
+        "Update": "2023-08-21T12:54:21.1617066-04:00",
+        "Discount": 0.0,
+        "Label": "Gigabyte Z690 Aorus Elite AX"
       }
     ],
     "Disipador por Aire": [
@@ -2774,6 +2888,22 @@
         "Update": "2023-08-21T08:57:22.0092619-04:00",
         "Discount": 0.0,
         "Label": "Asus Dual RTX 4060 OC"
+      },
+      {
+        "Price": 495.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "650WR",
+          "247mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-08-21T08:58:03.7946257-04:00",
+        "Update": "2023-08-21T12:54:21.1533225-04:00",
+        "Discount": 0.0,
+        "Label": "GPU MSI RTX 4060 Ti Gaming X 8GB"
       }
     ]
   },
@@ -3118,6 +3248,23 @@
         "Update": "2023-08-21T08:57:21.9231179-04:00",
         "Discount": 0.0,
         "Label": "Mause Logitech G502 Hero"
+      },
+      {
+        "Price": 53.00,
+        "Features": [
+          "18000dpi",
+          "Claw",
+          "8 botónes",
+          "97g",
+          "Optico",
+          "Gaming",
+          "iCUE",
+          "USB"
+        ],
+        "Date": "2023-08-21T08:58:41.5573667-04:00",
+        "Update": "2023-08-21T12:54:21.1867027-04:00",
+        "Discount": 0.0,
+        "Label": "Mouse Corsair M65 ELITE RGB Black"
       }
     ],
     "Teclado": [
