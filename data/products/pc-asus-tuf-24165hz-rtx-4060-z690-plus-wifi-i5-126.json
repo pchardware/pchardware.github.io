@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Entusiasta",
+  "Images": [
+    "/images/products/pc-asus-tuf-24165hz-rtx-4060-z690-plus-wifi-i5-126-1.webp",
+    "/images/products/pc-asus-tuf-24165hz-rtx-4060-z690-plus-wifi-i5-126-2.webp",
+    "/images/products/pc-asus-tuf-24165hz-rtx-4060-z690-plus-wifi-i5-126-3.webp",
+    "/images/products/pc-asus-tuf-24165hz-rtx-4060-z690-plus-wifi-i5-126-4.webp",
+    "/images/products/pc-asus-tuf-24165hz-rtx-4060-z690-plus-wifi-i5-126-5.webp",
+    "/images/products/pc-asus-tuf-24165hz-rtx-4060-z690-plus-wifi-i5-126-6.webp",
+    "/images/products/pc-asus-tuf-24165hz-rtx-4060-z690-plus-wifi-i5-126-7.webp",
+    "/images/products/pc-asus-tuf-24165hz-rtx-4060-z690-plus-wifi-i5-126-8.webp",
+    "/images/products/pc-asus-tuf-24165hz-rtx-4060-z690-plus-wifi-i5-126-9.webp",
+    "/images/products/pc-asus-tuf-24165hz-rtx-4060-z690-plus-wifi-i5-126-10.webp"
+  ],
+  "Description": "+ Intel Core i5-12600K\n+ D.Líquida Asus TUF Gaming LC 120 RGB\n+ Asus TUF Z690-Plus Wifi DDR5\n+ DDR5 XPG Lancer 32GB 6400mhz\n+ SSD M.2 Samsung 980 500GB\n+ Asus Dual RTX 4060 OC\n+ Fuente Asus TUF 850W\n+ Chasis Asus TUF GT301\n+ Asus TUF 24FHD VG248Q1B\n+ Teclado Asus TUF Gaming K3\n+ Mouse Asus TUF M3\n+ Asus TUF H1 Wireless\n",
+  "Price": 2089.00,
+  "Features": [],
+  "Date": "2023-08-06T13:31:40.0596587-04:00",
+  "Update": "2023-08-21T08:57:22.0434456-04:00",
+  "Discount": 51.0,
+  "Label": "PC ASUS TUF 24\"165Hz, RTX 4060, Z690-Plus Wifi, i5-12600K, 850W, 500SSD, Cascos, T.Mecánico"
+}
