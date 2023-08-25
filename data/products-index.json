@@ -8,22 +8,6 @@
         "Update": "2023-08-16T12:56:28.9620407-04:00",
         "Discount": 59.0,
         "Label": "PC i9-12900K, 70 Teras*, Z790 Steel, 32GB 6400mhz, 1TB M.2, 1000W, FullTower, 24FHD Curvo"
-      },
-      {
-        "Price": 2030.00,
-        "Features": [],
-        "Date": "2023-08-16T11:49:48.396459-04:00",
-        "Update": "2023-08-16T12:56:28.9706071-04:00",
-        "Discount": 46.0,
-        "Label": "PC i7 12Gen, 42 Teras*, Z790 RIPTIDE, 32GB DDR5, 512SSD, Corsair HX850, NIGHTHAWK 117, 24FHD"
-      },
-      {
-        "Price": 1395.00,
-        "Features": [],
-        "Date": "2023-08-16T11:54:55.2483466-04:00",
-        "Update": "2023-08-16T12:56:28.9777508-04:00",
-        "Discount": 39.0,
-        "Label": "PC i5 12Gen, 28 Teras*, ASRock Z690, 16GB 3600mhz, 512SSD, 850W Gold, 24FHD Curvo"
       }
     ],
     "Gamer": [
@@ -42,14 +26,6 @@
         "Update": "2023-08-16T17:59:07.4333745-04:00",
         "Discount": 41.0,
         "Label": "PC Gamer 24\" 165Hz, Asus RTX 4070, i5-12600K, ASRock Z690, RAM 16GB, Samsung 980 500GB, Cougar RGB"
-      },
-      {
-        "Price": 1359.00,
-        "Features": [],
-        "Date": "2023-08-16T17:10:35.6457594-04:00",
-        "Update": "2023-08-17T08:24:46.1661278-04:00",
-        "Discount": 74.0,
-        "Label": "PC Gamer 24\" 165Hz, RX 6650 XT 8GB, Ryzen 7 5800X, B550M Aorus, 16GB RGB, 512SSD, 700W, MasterBox"
       },
       {
         "Price": 2277.00,
@@ -76,14 +52,6 @@
         "Label": "PC Gamer 24\" Curvo, RX 6600 8GB, ASRock B660M, 500GB SSD, 16GB RGB, i3 12Gen, Cooler Master"
       },
       {
-        "Price": 1285.00,
-        "Features": [],
-        "Date": "2023-08-06T08:32:55.2569207-04:00",
-        "Update": "2023-08-20T12:46:38.753534-04:00",
-        "Discount": 36.0,
-        "Label": "PC Gamer 24\" 165Hz, RX 6600, 32GB RGB 6400mhz, 512GB NVMe, Aorus B760M Elite"
-      },
-      {
         "Price": 895.00,
         "Features": [],
         "Date": "2023-08-16T16:47:02.7960051-04:00",
@@ -92,30 +60,12 @@
         "Label": "PC Gamer 24FHD Curvo, RX 6500XT, i3 12Gen, ASRock B660M, G.Skill 16GB 3600mhz, 480SSD, 500W 80+"
       },
       {
-        "Price": 1493.00,
-        "Features": [],
-        "Date": "2023-08-20T12:36:54.6062158-04:00",
-        "Update": "2023-08-20T12:46:38.8019447-04:00",
-        "Discount": 36.0,
-        "Label": "PC Gamer 24FHD 144Hz, RX 6750 XT Gaming X TRIO 12GB, i5 12Gen, B760M PRO, 32GB 6000mhz, 512GB M.2"
-      },
-      {
-        "Price": 1629.00,
+        "Price": 1623.00,
         "Features": [],
         "Date": "2023-08-20T12:39:40.0720139-04:00",
         "Update": "2023-08-20T12:46:38.8135746-04:00",
         "Discount": 37.0,
         "Label": "PC Gamer 27\" 100Hz, RTX 3070Ti, Ryzen 7 5800X, B550M Aorus Elite, 16GB 4000mhz, M.2 512GB, EVGA 750W"
-      }
-    ],
-    "": [
-      {
-        "Price": 993.00,
-        "Features": [],
-        "Date": "2023-08-20T12:58:02.8807277-04:00",
-        "Update": "2023-08-20T13:28:01.3419559-04:00",
-        "Discount": 32.0,
-        "Label": "PC Pro i7-12700K, 24FHD Curvo, ASRock Z690 Pro, G.Skill 32GB 3600mhz, M.2 512GB, 500W 80+"
       }
     ],
     "Pro": [
@@ -778,7 +728,7 @@
     ],
     "Disco Sólido": [
       {
-        "Price": 55.00,
+        "Price": 49.00,
         "Features": [
           "3500mbs",
           "PCIe 3",
@@ -833,18 +783,6 @@
         "Update": "2023-06-07T16:09:25.0046225-04:00",
         "Discount": 0.0,
         "Label": "SSD 2.5 Silicon Power Ace A55 512GB"
-      },
-      {
-        "Price": 49.00,
-        "Features": [
-          "3500mbs",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-05-11T14:06:12.1179887-04:00",
-        "Update": "2023-06-19T11:56:16.862009-04:00",
-        "Discount": 0.0,
-        "Label": "SSD M.2 ADATA XPG SX8100 512GB"
       },
       {
         "Price": 65.00,
