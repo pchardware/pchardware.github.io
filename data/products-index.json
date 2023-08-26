@@ -28,14 +28,6 @@
         "Label": "PC Gamer 24\" 165Hz, Asus RTX 4070, i5-12600K, ASRock Z690, RAM 16GB, Samsung 980 500GB, Cougar RGB"
       },
       {
-        "Price": 2277.00,
-        "Features": [],
-        "Date": "2023-08-16T18:05:27.1539528-04:00",
-        "Update": "2023-08-17T08:24:46.1824619-04:00",
-        "Discount": 57.0,
-        "Label": "PC Gamer 32QHD 144Hz, RTX 4070Ti, Ryzen 7 5800X, Gigabyte B550M Aorus, 16GB RAM, 2TB PCIe4, 750W"
-      },
-      {
         "Price": 2583.00,
         "Features": [],
         "Date": "2023-08-17T11:16:47.3845005-04:00",
@@ -58,25 +50,9 @@
         "Update": "2023-08-20T12:46:38.7767365-04:00",
         "Discount": 50.0,
         "Label": "PC Gamer 24FHD Curvo, RX 6500XT, i3 12Gen, ASRock B660M, G.Skill 16GB 3600mhz, 480SSD, 500W 80+"
-      },
-      {
-        "Price": 1623.00,
-        "Features": [],
-        "Date": "2023-08-20T12:39:40.0720139-04:00",
-        "Update": "2023-08-20T12:46:38.8135746-04:00",
-        "Discount": 37.0,
-        "Label": "PC Gamer 27\" 100Hz, RTX 3070Ti, Ryzen 7 5800X, B550M Aorus Elite, 16GB 4000mhz, M.2 512GB, EVGA 750W"
       }
     ],
     "Pro": [
-      {
-        "Price": 849.00,
-        "Features": [],
-        "Date": "2023-08-20T13:00:48.5910147-04:00",
-        "Update": "2023-08-20T13:28:01.3488251-04:00",
-        "Discount": 28.0,
-        "Label": "PC Pro Ryzen 7 5700G, 24FHD Curvo, G.Skill 16GB 3600mhz, 480GB SSD, Gigabyte B550M, Thermaltake 500W"
-      },
       {
         "Price": 1453.00,
         "Features": [],
@@ -118,18 +94,6 @@
         "Update": "2023-08-21T08:57:22.0434456-04:00",
         "Discount": 51.0,
         "Label": "PC ASUS TUF 24\"165Hz, RTX 4060, Z690-Plus Wifi, i5-12600K, 850W, 500SSD, Cascos, T.Mecánico"
-      }
-    ]
-  },
-  "Kits": {
-    "Rendimiento": [
-      {
-        "Price": 449.00,
-        "Features": [],
-        "Date": "2023-06-29T19:08:48.7337337-04:00",
-        "Update": "2023-06-29T19:14:10.5469413-04:00",
-        "Discount": 10.0,
-        "Label": "Kit Ryzen 7 5800X + Gigabyte B550M Aorus Elite + 16GB RAM 4000mhz"
       }
     ]
   },
@@ -1650,26 +1614,6 @@
         "Update": "2023-07-27T07:36:15.5467743-04:00",
         "Discount": 0.0,
         "Label": "Asus ROG Maximus Z690 Hero"
-      },
-      {
-        "Price": 159.00,
-        "Features": [
-          "AM4",
-          "AMD",
-          "8xUSB",
-          "DDR4",
-          "4733mhz",
-          "4xSATA",
-          "Micro ATX",
-          "PS2",
-          "DVI",
-          "HDMI",
-          "3xAudio"
-        ],
-        "Date": "2023-06-29T07:38:57.1417711-04:00",
-        "Update": "2023-07-27T07:36:15.5611922-04:00",
-        "Discount": 0.0,
-        "Label": "Gigabyte B550M Aorus Elite"
       },
       {
         "Price": 185.00,
