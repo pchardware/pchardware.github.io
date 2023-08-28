@@ -20,14 +20,6 @@
         "Label": "PC Gamer 32QHD, 4070Ti TRIO, i5-13600K, Z790-H, 32GB 7200mhz, 1TB M.2, HX850, TUF GT301, K60 RGB Pro"
       },
       {
-        "Price": 1783.00,
-        "Features": [],
-        "Date": "2023-08-16T17:36:34.8595148-04:00",
-        "Update": "2023-08-16T17:59:07.4333745-04:00",
-        "Discount": 41.0,
-        "Label": "PC Gamer 24\" 165Hz, Asus RTX 4070, i5-12600K, ASRock Z690, RAM 16GB, Samsung 980 500GB, Cougar RGB"
-      },
-      {
         "Price": 2583.00,
         "Features": [],
         "Date": "2023-08-17T11:16:47.3845005-04:00",
@@ -42,14 +34,6 @@
         "Update": "2023-08-20T12:46:38.7418399-04:00",
         "Discount": 36.0,
         "Label": "PC Gamer 24\" Curvo, RX 6600 8GB, ASRock B660M, 500GB SSD, 16GB RGB, i3 12Gen, Cooler Master"
-      },
-      {
-        "Price": 895.00,
-        "Features": [],
-        "Date": "2023-08-16T16:47:02.7960051-04:00",
-        "Update": "2023-08-20T12:46:38.7767365-04:00",
-        "Discount": 50.0,
-        "Label": "PC Gamer 24FHD Curvo, RX 6500XT, i3 12Gen, ASRock B660M, G.Skill 16GB 3600mhz, 480SSD, 500W 80+"
       }
     ],
     "Pro": [
@@ -86,14 +70,6 @@
         "Update": "2023-08-21T08:57:22.035719-04:00",
         "Discount": 53.0,
         "Label": "PC Gamer 32\"2K, RTX 4070, i5-13600K, ROG Strix Z690-E, G.Skill 32GB RGB, 1TB Corsair, 1000W, T.Mecánico"
-      },
-      {
-        "Price": 2089.00,
-        "Features": [],
-        "Date": "2023-08-06T13:31:40.0596587-04:00",
-        "Update": "2023-08-21T08:57:22.0434456-04:00",
-        "Discount": 51.0,
-        "Label": "PC ASUS TUF 24\"165Hz, RTX 4060, Z690-Plus Wifi, i5-12600K, 850W, 500SSD, Cascos, T.Mecánico"
       }
     ]
   },
@@ -409,18 +385,6 @@
         "Update": "2023-07-27T10:06:16.3204448-04:00",
         "Discount": 0.0,
         "Label": "DDR5 G.Skill Trident Z5 RGB 32GB 6400mhz"
-      },
-      {
-        "Price": 59.00,
-        "Features": [
-          "2x8GB",
-          "Disipadas",
-          "CL19"
-        ],
-        "Date": "2023-07-17T23:38:49.930694-04:00",
-        "Update": "2023-07-27T10:06:16.3299581-04:00",
-        "Discount": 0.0,
-        "Label": "DDR4 G.Skill Ripjaws V 16GB 3600mhz"
       },
       {
         "Price": 135.00,
@@ -883,19 +847,6 @@
         "Label": "SSD M.2 Corsair MP600 PRO NH 1TB"
       },
       {
-        "Price": 99.00,
-        "Features": [
-          "7000mbs",
-          "600tbw",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-07-12T21:43:06.2525927-04:00",
-        "Update": "2023-08-21T12:54:21.1074952-04:00",
-        "Discount": 0.0,
-        "Label": "SSD M.2 SAMSUNG 980 PRO 1TB"
-      },
-      {
         "Price": 109.00,
         "Features": [
           "3500mbs",
@@ -1270,21 +1221,6 @@
         "Update": "2023-08-09T11:38:47.1365222-04:00",
         "Discount": 0.0,
         "Label": "Fuente Rosewill CMG850"
-      },
-      {
-        "Price": 105.00,
-        "Features": [
-          "700W",
-          "80+ Bronze",
-          "4x 6+2Pin",
-          "46A",
-          "5x SATA",
-          "1x 4+4 EPS"
-        ],
-        "Date": "2023-07-09T16:51:14.2364929-04:00",
-        "Update": "2023-08-09T11:38:47.1439846-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente Raidmax Cobra RX-700AC-B"
       },
       {
         "Price": 215.00,
@@ -2391,23 +2327,6 @@
         "Label": "Asus Dual RTX 4070"
       },
       {
-        "Price": 535.00,
-        "Features": [
-          "3xFan",
-          "8GB",
-          "2x8Pin",
-          "750WR",
-          "318mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-05-11T13:41:35.5997368-04:00",
-        "Update": "2023-08-09T11:38:47.1773655-04:00",
-        "Discount": 0.0,
-        "Label": "Zotac Gaming RTX 3070Ti"
-      },
-      {
         "Price": 899.00,
         "Features": [
           "DLSS3",
@@ -2492,24 +2411,6 @@
         "Update": "2023-08-09T11:38:47.2295958-04:00",
         "Discount": 0.0,
         "Label": "Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
-      },
-      {
-        "Price": 395.00,
-        "Features": [
-          "2xFan",
-          "8GB",
-          "1x8Pin",
-          "DLSS3",
-          "550WR",
-          "247mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-08-08T10:08:12.7346355-04:00",
-        "Update": "2023-08-09T11:38:47.3430726-04:00",
-        "Discount": 0.0,
-        "Label": "MSI RTX 4060 Gaming X"
       },
       {
         "Price": 489.00,
@@ -2611,22 +2512,6 @@
         "Update": "2023-08-21T08:57:21.9901121-04:00",
         "Discount": 0.0,
         "Label": "Asus Dual RTX 4060Ti OC"
-      },
-      {
-        "Price": 375.00,
-        "Features": [
-          "8GB",
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-07-12T21:42:49.1798698-04:00",
-        "Update": "2023-08-21T08:57:22.0092619-04:00",
-        "Discount": 0.0,
-        "Label": "Asus Dual RTX 4060 OC"
       },
       {
         "Price": 495.00,
