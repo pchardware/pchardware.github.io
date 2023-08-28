@@ -786,18 +786,6 @@
         "Label": "SSD 2.5 Team Group CX2 2TB"
       },
       {
-        "Price": 84.00,
-        "Features": [
-          "560mbps",
-          "600tbw",
-          "SATA 3"
-        ],
-        "Date": "2023-08-01T11:14:15.2077979-04:00",
-        "Update": "2023-08-01T12:24:37.8928476-04:00",
-        "Discount": 0.0,
-        "Label": "SSD 2.5 SAMSUNG 870 EVO 1TB"
-      },
-      {
         "Price": 129.00,
         "Features": [
           "7400mbs",
