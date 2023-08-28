@@ -713,17 +713,6 @@
         "Label": "SSD 2.5 Silicon Power Ace A55 512GB"
       },
       {
-        "Price": 65.00,
-        "Features": [
-          "560mbps",
-          "Sata3"
-        ],
-        "Date": "2023-07-26T16:47:01.0445879-04:00",
-        "Update": "2023-07-26T21:07:00.8262433-04:00",
-        "Discount": 0.0,
-        "Label": "SSD 2.5 Silicon Power Ace A55 1TB"
-      },
-      {
         "Price": 49.00,
         "Features": [
           "530mbs",
