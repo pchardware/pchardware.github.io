@@ -20,20 +20,12 @@
         "Label": "PC Gamer 32QHD, 4070Ti TRIO, i5-13600K, Z790-H, 32GB 7200mhz, 1TB M.2, HX850, TUF GT301, K60 RGB Pro"
       },
       {
-        "Price": 2583.00,
+        "Price": 2619.00,
         "Features": [],
         "Date": "2023-08-17T11:16:47.3845005-04:00",
         "Update": "2023-08-17T11:27:30.4540344-04:00",
         "Discount": 70.0,
         "Label": "PC Gamer 32\" 2K 165Hz, RTX 4070Ti, i7-12700K, MSI Z690, RGB 32GB, 1TB M.2, CX750M, NZXT, Razer Viper"
-      },
-      {
-        "Price": 1095.00,
-        "Features": [],
-        "Date": "2023-08-06T08:27:54.2095953-04:00",
-        "Update": "2023-08-20T12:46:38.7418399-04:00",
-        "Discount": 36.0,
-        "Label": "PC Gamer 24\" Curvo, RX 6600 8GB, ASRock B660M, 500GB SSD, 16GB RGB, i3 12Gen, Cooler Master"
       }
     ],
     "Pro": [
@@ -44,14 +36,6 @@
         "Update": "2023-08-20T13:28:01.3563412-04:00",
         "Discount": 34.0,
         "Label": "PC Pro i9-12900K, Acer 27FHD, MSI PRO Z690, DDR5 32GB 6000mhz, 2TB Ultra SSD 7400mbs, 850W 80+ Gold"
-      },
-      {
-        "Price": 1206.00,
-        "Features": [],
-        "Date": "2023-08-20T13:13:07.5747053-04:00",
-        "Update": "2023-08-20T13:28:01.3655442-04:00",
-        "Discount": 32.0,
-        "Label": "PC Pro i5-13500, 27\" FHD, ASRock B760M PRO, DDR5 32GB 6000mhz, M.2 Premium 2TB, TM Inalámbrico"
       }
     ],
     "Entusiasta": [
@@ -1123,19 +1107,6 @@
         "Label": "Fuente EVGA 850 BQ"
       },
       {
-        "Price": 85.00,
-        "Features": [
-          "35A",
-          "2x 6+2Pin",
-          "6x SATA",
-          "1x 4+4 EPS"
-        ],
-        "Date": "2023-05-12T07:54:08.9581203-04:00",
-        "Update": "2023-08-09T11:38:47.1091296-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente Thermaltake SMART 500W 80+"
-      },
-      {
         "Price": 209.00,
         "Features": [
           "80+ Gold",
@@ -1249,19 +1220,6 @@
         "Update": "2023-08-09T11:38:47.3298998-04:00",
         "Discount": 0.0,
         "Label": "Fuente Corsair RM1000e"
-      },
-      {
-        "Price": 129.00,
-        "Features": [
-          "2x 6+2Pin",
-          "59A",
-          "9x SATA",
-          "1x 4+4 EPS"
-        ],
-        "Date": "2023-08-16T09:16:30.0204629-04:00",
-        "Update": "2023-08-16T11:17:10.2612755-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente EVGA 750W"
       },
       {
         "Price": 115.00,
@@ -2304,7 +2262,7 @@
         "Label": "Asus Dual RTX 4070"
       },
       {
-        "Price": 899.00,
+        "Price": 935.00,
         "Features": [
           "DLSS3",
           "3xFan",
