@@ -2658,7 +2658,7 @@
         "Label": "Asus Dual RTX 4060Ti OC"
       },
       {
-        "Price": 329.00,
+        "Price": 339.00,
         "Features": [
           "3xFan",
           "12GB",
@@ -3624,20 +3624,6 @@
       }
     ],
     "Externo": [
-      {
-        "Price": 85.00,
-        "Features": [
-          "USB 3.2",
-          "Híbrido",
-          "SSD 8GB",
-          "Razer Chroma",
-          "Gaming"
-        ],
-        "Date": "2023-07-13T12:02:12.8255744-04:00",
-        "Update": "2023-07-31T14:53:37.2771859-04:00",
-        "Discount": 0.0,
-        "Label": "Externo 2.5 Seagate Firecuda RGB 2TB"
-      },
       {
         "Price": 26.00,
         "Features": [
