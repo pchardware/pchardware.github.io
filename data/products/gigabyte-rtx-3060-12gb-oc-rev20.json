@@ -1,0 +1,29 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/gigabyte-rtx-3060-12gb-oc-rev20-1.webp",
+    "/images/products/gigabyte-rtx-3060-12gb-oc-rev20-2.webp",
+    "/images/products/gigabyte-rtx-3060-12gb-oc-rev20-3.webp",
+    "/images/products/gigabyte-rtx-3060-12gb-oc-rev20-4.webp",
+    "/images/products/gigabyte-rtx-3060-12gb-oc-rev20-5.webp",
+    "/images/products/gigabyte-rtx-3060-12gb-oc-rev20-6.webp",
+    "/images/products/gigabyte-rtx-3060-12gb-oc-rev20-7.webp"
+  ],
+  "Description": "Model\nBrand: GIGABYTE\nSeries: Gaming\nModel: GV-N3060GAMING OC-12GD\n\n\nInterface\nInterface: PCI Express 4.0 x16\n\n\nChipset\nChipset Manufacturer: NVIDIA\nGPU Series: NVIDIA GeForce RTX 30 Series\nGPU: GeForce RTX 3060\nArchitechture: Ampere\nCore Clock: 1320 MHz\nBoost Clock: 1837 MHz\nCUDA Cores: 3584 Cores\n\n\nMemory\nEffective Memory Clock: 15000 MHz\nMemory Size: 12GB\nMemory Interface: 192-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12 Ultimate\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 2 x HDMI 2.1\nDisplayPort: 2 x DisplayPort 1.4a\n\n\nDetails\nMax Resolution: 7680 x 4320\nSLI Support: No\nCooler: Triple Fans\nThermal Design Power: 170W\nRecommended PSU Wattage: 450W\nPower Connector: 1 x 8-Pin\n\n\nFeatures\nFeatures: NVIDIA Ampere Streaming Multiprocessors  2nd Generation RT Cores  3rd Generation Tensor Cores  Powered by GeForce RTX 3060  Integrated with 12GB GDDR6 192-bit memory interface  WINDFORCE 3X Cooling System with alternate spinning fans  RGB Fusion 2.0  Protection metal back plate\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 282 mm\nCard Dimensions (L x H): 11.10\" x 4.61\"\nSlot Width: 2 Slots",
+  "Price": 329.00,
+  "Features": [
+    "3xFan",
+    "12GB",
+    "1x8Pin",
+    "450WR",
+    "282mm",
+    "GeForce",
+    "NVIDIA",
+    "GPU"
+  ],
+  "Date": "2023-08-29T08:42:02.7248757-04:00",
+  "Update": "2023-08-29T09:46:36.145514-04:00",
+  "Discount": 0.0,
+  "Label": "Gigabyte RTX 3060 12GB OC REV2.0"
+}
