@@ -2658,22 +2658,6 @@
         "Label": "Asus Dual RTX 4060Ti OC"
       },
       {
-        "Price": 495.00,
-        "Features": [
-          "2xFan",
-          "1x8Pin",
-          "650WR",
-          "247mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-08-21T08:58:03.7946257-04:00",
-        "Update": "2023-08-21T12:54:21.1533225-04:00",
-        "Discount": 0.0,
-        "Label": "GPU MSI RTX 4060 Ti Gaming X 8GB"
-      },
-      {
         "Price": 329.00,
         "Features": [
           "3xFan",
@@ -2709,24 +2693,6 @@
         "Label": "Gigabyte RTX 4070 Aorus Master OC"
       },
       {
-        "Price": 739.00,
-        "Features": [
-          "DLSS3",
-          "3xFan",
-          "12GB",
-          "1x16Pin",
-          "700WR",
-          "300mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-08-29T08:42:12.9727616-04:00",
-        "Update": "2023-08-29T09:46:36.1624606-04:00",
-        "Discount": 0.0,
-        "Label": "Gigabyte RTX 4070 Gaming OC"
-      },
-      {
         "Price": 1299.00,
         "Features": [
           "850WR",
@@ -2743,6 +2709,40 @@
         "Update": "2023-08-29T09:46:36.1777402-04:00",
         "Discount": 0.0,
         "Label": "Gigabyte RTX 4080 Gaming OC"
+      },
+      {
+        "Price": 495.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "650WR",
+          "247mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-08-21T08:58:03.7946257-04:00",
+        "Update": "2023-08-29T10:22:03.7436865-04:00",
+        "Discount": 0.0,
+        "Label": "GPU MSI RTX 4060 Ti Gaming X 8GB"
+      },
+      {
+        "Price": 739.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "12GB",
+          "1x16Pin",
+          "700WR",
+          "300mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-08-29T08:42:12.9727616-04:00",
+        "Update": "2023-08-29T10:22:03.7596664-04:00",
+        "Discount": 0.0,
+        "Label": "Gigabyte RTX 4070 Gaming OC"
       }
     ]
   },
@@ -3096,7 +3096,7 @@
           "USB"
         ],
         "Date": "2023-08-29T08:41:18.737807-04:00",
-        "Update": "2023-08-29T09:46:36.0896129-04:00",
+        "Update": "2023-08-29T10:22:03.7512821-04:00",
         "Discount": 0.0,
         "Label": "Mouse EVGA X17 Gray"
       }
