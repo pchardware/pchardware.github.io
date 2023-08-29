@@ -26,6 +26,14 @@
         "Update": "2023-08-17T11:27:30.4540344-04:00",
         "Discount": 70.0,
         "Label": "PC Gamer 32\" 2K 165Hz, RTX 4070Ti, i7-12700K, MSI Z690, RGB 32GB, 1TB M.2, CX750M, NZXT, Razer Viper"
+      },
+      {
+        "Price": 3624.00,
+        "Features": [],
+        "Date": "2023-08-16T12:05:11.1732808-04:00",
+        "Update": "2023-08-29T08:44:58.6116473-04:00",
+        "Discount": 59.0,
+        "Label": "PC Gamer 32\" 4K, RTX 4070Ti Gaming Trio, i9-12900K, Z690 Hero, ROG 360 ARGB, 980 PRO 2TB, y más"
       }
     ],
     "Pro": [
@@ -54,6 +62,14 @@
         "Update": "2023-08-21T08:57:22.035719-04:00",
         "Discount": 53.0,
         "Label": "PC Gamer 32\"2K, RTX 4070, i5-13600K, ROG Strix Z690-E, G.Skill 32GB RGB, 1TB Corsair, 1000W, T.Mecánico"
+      },
+      {
+        "Price": 1529.00,
+        "Features": [],
+        "Date": "2023-08-20T13:32:33.8852707-04:00",
+        "Update": "2023-08-29T08:44:58.6211412-04:00",
+        "Discount": 44.0,
+        "Label": "PC Ent TUF 24\", i5 12Gen, Asus B660 ProArt, 16GB RGB, 980 500GB, RX 6650 XT, CX750M, H510, Gaming K1"
       }
     ]
   },
@@ -478,6 +494,18 @@
         "Update": "2023-08-21T12:54:21.1789409-04:00",
         "Discount": 0.0,
         "Label": "DDR5 G.SKILL Trident Z5 RGB 64GB 5600mhz"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "2x8GB",
+          "Disipadas",
+          "CL18"
+        ],
+        "Date": "2023-03-30T09:56:45.7624715-04:00",
+        "Update": "2023-08-29T08:44:58.5985155-04:00",
+        "Discount": 0.0,
+        "Label": "DDR4 Corsair Vengeance RGB RS 16GB 3600mhz"
       }
     ],
     "Chasis": [
@@ -819,6 +847,31 @@
         "Update": "2023-08-21T12:54:21.1326564-04:00",
         "Discount": 0.0,
         "Label": "SSD M.2 Intel 670P 2TB"
+      },
+      {
+        "Price": 149.00,
+        "Features": [
+          "7000mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-08-16T09:17:42.5509882-04:00",
+        "Update": "2023-08-29T08:44:58.6306867-04:00",
+        "Discount": 0.0,
+        "Label": "SSD M.2 Samsung 980 PRO 2TB"
+      },
+      {
+        "Price": 119.00,
+        "Features": [
+          "3500mbs",
+          "1200tbw",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-08-21T08:57:58.9451638-04:00",
+        "Update": "2023-08-29T08:44:58.6397929-04:00",
+        "Discount": 0.0,
+        "Label": "SSD M.2 Samsung 970 EVO PLUS 2TB"
       }
     ],
     "Disipador Líquido": [
@@ -2223,6 +2276,23 @@
         "Update": "2023-08-09T11:38:47.252344-04:00",
         "Discount": 0.0,
         "Label": "Intel Core i5-13500 +Disipador"
+      },
+      {
+        "Price": 449.00,
+        "Features": [
+          "13ra Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.4GHz",
+          "30MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700"
+        ],
+        "Date": "2023-03-22T09:04:14.8362359-04:00",
+        "Update": "2023-08-29T08:44:58.5899202-04:00",
+        "Discount": 0.0,
+        "Label": "Intel Core i7-13700K"
       }
     ],
     "Tarjeta Gráfica": [
