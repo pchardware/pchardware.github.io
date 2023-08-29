@@ -7,15 +7,7 @@
     "/images/products/mouse-evga-x17-gray-3.webp",
     "/images/products/mouse-evga-x17-gray-4.webp",
     "/images/products/mouse-evga-x17-gray-5.webp",
-    "/images/products/mouse-evga-x17-gray-6.webp",
-    "/images/products/mouse-evga-x17-gray-7.webp",
-    "/images/products/mouse-evga-x17-gray-8.webp",
-    "/images/products/mouse-evga-x17-gray-9.webp",
-    "/images/products/mouse-evga-x17-gray-10.webp",
-    "/images/products/mouse-evga-x17-gray-11.webp",
-    "/images/products/mouse-evga-x17-gray-12.webp",
-    "/images/products/mouse-evga-x17-gray-13.webp",
-    "/images/products/mouse-evga-x17-gray-14.webp"
+    "/images/products/mouse-evga-x17-gray-6.webp"
   ],
   "Description": "Model\nBrand: EVGA\nName: X17\nModel: 903-W1-17GR-KR\n\n\nDetails\nType: Wired\nInterface: USB\nTracking Method: Optical\nMaximum dpi: 16000 dpi\nButtons: 10\nMouse Adjustable Weight: Yes\nColor: Grey\n\n\nFeatures\nFeatures: Tripple Sensor 3-Dimension Array Tech\n\nQuick Responding Mechanism\n\nOn the fly DPI Settings + 5 Onboard Profiles\n\nErgomic Design with Sniper Button\n\nHigh Speed USB Max Polling/Report Rate: 8,000Hz\n\nCustomizable Weight System\n\n\nPackage Contents\nPackage Contents: Accessories:\nQuick Guide\nWeight box with five 5-gram Weight",
   "Price": 49.00,
@@ -29,7 +21,7 @@
     "USB"
   ],
   "Date": "2023-08-29T08:41:18.737807-04:00",
-  "Update": "2023-08-29T09:46:36.0896129-04:00",
+  "Update": "2023-08-29T10:22:03.7512821-04:00",
   "Discount": 0.0,
   "Label": "Mouse EVGA X17 Gray"
 }
