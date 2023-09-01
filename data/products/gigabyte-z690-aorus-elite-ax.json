@@ -13,6 +13,7 @@
   "Features": [
     "12va-13ra",
     "9xUSB",
+    "DDR5",
     "6xSATA",
     "Wifi",
     "6000mhz",
@@ -22,7 +23,7 @@
     "3xAudio"
   ],
   "Date": "2023-08-21T08:58:08.2009183-04:00",
-  "Update": "2023-08-21T12:54:21.1617066-04:00",
+  "Update": "2023-09-01T08:16:39.848437-04:00",
   "Discount": 0.0,
   "Label": "Gigabyte Z690 Aorus Elite AX"
 }
