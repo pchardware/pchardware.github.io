@@ -262,23 +262,6 @@
         "Label": "Expansión Orico 7xUSB 3.0"
       },
       {
-        "Price": 89.00,
-        "Features": [
-          "Magnetic",
-          "120mm",
-          "3xFan",
-          "2000rpm",
-          "58cfm",
-          "30db",
-          "4Pin",
-          "ARGB"
-        ],
-        "Date": "2023-09-02T12:38:22.05203-04:00",
-        "Update": "2023-09-02T13:38:05.5480009-04:00",
-        "Discount": 0.0,
-        "Label": "Fan Corsair ML120 RGB Elite, Kit +Lighting Node CORE"
-      },
-      {
         "Price": 16.00,
         "Features": [
           "Magnetic",
@@ -346,6 +329,23 @@
         "Update": "2023-09-02T13:38:05.6532531-04:00",
         "Discount": 0.0,
         "Label": "Corsair LC100 Accent Lighting Panels, 9x Mini Triangles, Starter Kit"
+      },
+      {
+        "Price": 89.00,
+        "Features": [
+          "Magnetic",
+          "120mm",
+          "3xFan",
+          "2000rpm",
+          "58cfm",
+          "30db",
+          "4Pin",
+          "ARGB"
+        ],
+        "Date": "2023-09-02T12:38:22.05203-04:00",
+        "Update": "2023-09-02T13:48:00.4393479-04:00",
+        "Discount": 0.0,
+        "Label": "Fan Corsair ML120 RGB Elite, Kit +Lighting Node CORE"
       }
     ],
     "Memoria RAM": [
