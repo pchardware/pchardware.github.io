@@ -12,7 +12,7 @@
     ],
     "Entusiasta": [
       {
-        "Price": 2263.00,
+        "Price": 2249.00,
         "Features": [],
         "Date": "2023-08-20T13:38:25.8686393-04:00",
         "Update": "2023-08-20T13:57:33.2524034-04:00",
@@ -28,7 +28,7 @@
         "Label": "PC Gamer 32\"2K, RTX 4070, i5-13600K, ROG Strix Z690-E, G.Skill 32GB RGB, 1TB Corsair, 1000W, T.Mecánico"
       },
       {
-        "Price": 1529.00,
+        "Price": 1515.00,
         "Features": [],
         "Date": "2023-08-20T13:32:33.8852707-04:00",
         "Update": "2023-08-29T08:44:58.6211412-04:00",
@@ -128,14 +128,6 @@
         "Update": "2023-07-18T00:35:15.536536-04:00",
         "Discount": 0.0,
         "Label": "EN-Labs GEKE PWM 4-pin Fan Hub 10 Ports Splitter"
-      },
-      {
-        "Price": 17.00,
-        "Features": [],
-        "Date": "2023-07-26T16:41:29.0221883-04:00",
-        "Update": "2023-07-27T10:54:59.864733-04:00",
-        "Discount": 0.0,
-        "Label": "Thermalright LGA1700-BCF Black"
       },
       {
         "Price": 85.00,
@@ -258,18 +250,6 @@
         "Update": "2023-07-27T10:06:16.1955424-04:00",
         "Discount": 0.0,
         "Label": "DDR4 Team T-Force Delta RGB 16GB 3600mhz"
-      },
-      {
-        "Price": 65.00,
-        "Features": [
-          "2x8GB",
-          "Disipadas",
-          "CL20"
-        ],
-        "Date": "2023-03-30T09:56:53.3379201-04:00",
-        "Update": "2023-07-27T10:06:16.2039855-04:00",
-        "Discount": 0.0,
-        "Label": "DDR4 Patriot Viper Elite II 16GB 4000mhz"
       },
       {
         "Price": 69.00,
@@ -929,7 +909,7 @@
         "Label": "Fuente Corsair CX750M"
       },
       {
-        "Price": 169.00,
+        "Price": 159.00,
         "Features": [
           "80+ Bronze",
           "Modular",
@@ -946,7 +926,7 @@
         "Label": "Fuente EVGA 850 BQ"
       },
       {
-        "Price": 209.00,
+        "Price": 199.00,
         "Features": [
           "80+ Gold",
           "Full Modular",
@@ -978,7 +958,7 @@
         "Label": "Fuente Corsair RM1000X"
       },
       {
-        "Price": 215.00,
+        "Price": 205.00,
         "Features": [
           "80+ PLATINUM",
           "Full Modular",
@@ -2255,7 +2235,7 @@
         "Label": "Intel Pentium G4400 +Disipador"
       },
       {
-        "Price": 235.00,
+        "Price": 219.00,
         "Features": [
           "5000 Series",
           "16 Hilos",
@@ -2271,7 +2251,7 @@
         "Label": "AMD Ryzen 7 5800X +Disipador"
       },
       {
-        "Price": 215.00,
+        "Price": 199.00,
         "Features": [
           "Radeon Graphics",
           "5000 Series",
@@ -2305,7 +2285,7 @@
         "Label": "Intel Core i5-13500 +Disipador"
       },
       {
-        "Price": 449.00,
+        "Price": 439.00,
         "Features": [
           "13ra Gen",
           "24 Hilos",
@@ -2324,7 +2304,7 @@
     ],
     "Tarjeta Gráfica": [
       {
-        "Price": 599.00,
+        "Price": 575.00,
         "Features": [
           "12GB",
           "Liquida",
@@ -2395,7 +2375,7 @@
         "Label": "Asus Dual RTX 4070 OC"
       },
       {
-        "Price": 389.00,
+        "Price": 379.00,
         "Features": [
           "12GB",
           "2xFan",
@@ -2428,7 +2408,7 @@
         "Label": "ASRock Challenger ITX RX 6500 XT"
       },
       {
-        "Price": 255.00,
+        "Price": 249.00,
         "Features": [
           "8GB",
           "3xFan",
@@ -2445,7 +2425,7 @@
         "Label": "Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
       },
       {
-        "Price": 489.00,
+        "Price": 475.00,
         "Features": [
           "3xFan",
           "650WR",
@@ -2479,7 +2459,7 @@
         "Label": "MSI RTX 4070 Ti Gaming TRIO"
       },
       {
-        "Price": 329.00,
+        "Price": 315.00,
         "Features": [
           "8GB",
           "3xFan",
@@ -2496,7 +2476,7 @@
         "Label": "ASRock Steel Legend Radeon RX 6650 XT"
       },
       {
-        "Price": 319.00,
+        "Price": 305.00,
         "Features": [
           "8GB",
           "2xFan",
@@ -2544,23 +2524,6 @@
         "Update": "2023-08-21T08:57:21.9901121-04:00",
         "Discount": 0.0,
         "Label": "Asus Dual RTX 4060Ti OC"
-      },
-      {
-        "Price": 339.00,
-        "Features": [
-          "3xFan",
-          "12GB",
-          "1x8Pin",
-          "450WR",
-          "282mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-08-29T08:42:02.7248757-04:00",
-        "Update": "2023-08-29T09:46:36.145514-04:00",
-        "Discount": 0.0,
-        "Label": "Gigabyte RTX 3060 12GB OC REV2.0"
       },
       {
         "Price": 775.00,
