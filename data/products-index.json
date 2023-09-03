@@ -150,7 +150,7 @@
         "Label": "EN-Labs GEKE PWM 4-pin Fan Hub 10 Ports Splitter"
       },
       {
-        "Price": 85.00,
+        "Price": 59.00,
         "Features": [],
         "Date": "2023-06-07T10:26:52.1301364-04:00",
         "Update": "2023-08-01T18:30:20.3375283-04:00",
@@ -2571,22 +2571,6 @@
         "Update": "2023-08-09T11:38:47.2086273-04:00",
         "Discount": 0.0,
         "Label": "ASRock Challenger D RX 6700 XT"
-      },
-      {
-        "Price": 165.00,
-        "Features": [
-          "4GB",
-          "1xFan",
-          "400WR",
-          "179mm",
-          "Radeon",
-          "AMD",
-          "GPU"
-        ],
-        "Date": "2023-07-09T16:45:07.237632-04:00",
-        "Update": "2023-08-09T11:38:47.2226607-04:00",
-        "Discount": 0.0,
-        "Label": "ASRock Challenger ITX RX 6500 XT"
       },
       {
         "Price": 249.00,
