@@ -20,38 +20,12 @@
         "Label": "PC Ent 27 2K IPS, i5-12600K, H100x, TUF Z690-Plus, DDR5 RGB 48GB, WD 1TB, RX 6750 XT Gaming X TRIO"
       },
       {
-        "Price": 2880.00,
-        "Features": [],
-        "Date": "2023-08-06T13:28:59.6256009-04:00",
-        "Update": "2023-08-21T08:57:22.035719-04:00",
-        "Discount": 53.0,
-        "Label": "PC Gamer 32\"2K, RTX 4070, i5-13600K, ROG Strix Z690-E, G.Skill 32GB RGB, 1TB Corsair, 1000W, T.Mecánico"
-      },
-      {
         "Price": 1515.00,
         "Features": [],
         "Date": "2023-08-20T13:32:33.8852707-04:00",
         "Update": "2023-08-29T08:44:58.6211412-04:00",
         "Discount": 44.0,
         "Label": "PC Ent TUF 24\", i5 12Gen, Asus B660 ProArt, 16GB RGB, 980 500GB, RX 6650 XT, CX750M, H510, Gaming K1"
-      },
-      {
-        "Price": 3605.00,
-        "Features": [],
-        "Date": "2023-08-20T13:54:17.9421185-04:00",
-        "Update": "2023-08-29T09:46:36.06484-04:00",
-        "Discount": 57.0,
-        "Label": "PC Ent 32\" 4K, i9-12900K, Strix 360, Z690 Hero, 32GB DDR5, 980 PRO 2TB, RTX 4070Ti, K70 RGB PRO"
-      }
-    ],
-    "Gamer": [
-      {
-        "Price": 3624.00,
-        "Features": [],
-        "Date": "2023-08-16T12:05:11.1732808-04:00",
-        "Update": "2023-08-29T08:44:58.6116473-04:00",
-        "Discount": 59.0,
-        "Label": "PC Gamer 32\" 4K, RTX 4070Ti Gaming Trio, i9-12900K, Z690 Hero, ROG 360 ARGB, 980 PRO 2TB, y más"
       }
     ]
   },
@@ -1116,22 +1090,6 @@
         "Update": "2023-08-09T11:38:47.1510667-04:00",
         "Discount": 0.0,
         "Label": "Fuente Corsair HX850"
-      },
-      {
-        "Price": 249.00,
-        "Features": [
-          "80+ Gold",
-          "Full Modular",
-          "1000W",
-          "83A",
-          "6x 6+2Pin",
-          "2x 4+4 EPS",
-          "8x SATA"
-        ],
-        "Date": "2023-08-01T11:14:26.7187573-04:00",
-        "Update": "2023-08-09T11:38:47.2671936-04:00",
-        "Discount": 0.0,
-        "Label": "Fuente ASUS ROG STRIX 1000W Gold"
       },
       {
         "Price": 245.00,
@@ -2707,24 +2665,6 @@
         "Update": "2023-08-29T09:46:36.1541499-04:00",
         "Discount": 0.0,
         "Label": "Gigabyte RTX 4070 Aorus Master OC"
-      },
-      {
-        "Price": 1299.00,
-        "Features": [
-          "850WR",
-          "342mm",
-          "1x16Pin",
-          "DLSS3",
-          "16GB",
-          "3xFan",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-08-29T08:42:19.8132967-04:00",
-        "Update": "2023-08-29T09:46:36.1777402-04:00",
-        "Discount": 0.0,
-        "Label": "Gigabyte RTX 4080 Gaming OC"
       },
       {
         "Price": 495.00,
