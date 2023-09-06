@@ -2112,30 +2112,6 @@
         "Label": "Enfriamiento AMD Wraith Stealth"
       },
       {
-        "Price": 59.00,
-        "Features": [
-          "ARGB",
-          "63cfm",
-          "4xPipes",
-          "Cobre",
-          "1800rpm",
-          "25dBA",
-          "155mm",
-          "Negro",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4",
-          "AM5",
-          "Tower",
-          "1xFan"
-        ],
-        "Date": "2023-07-26T18:49:40.2918309-04:00",
-        "Update": "2023-07-27T09:48:00.8542752-04:00",
-        "Discount": 0.0,
-        "Label": "Enfriamiento Thermaltake UX200 SE"
-      },
-      {
         "Price": 109.00,
         "Features": [
           "ARGB",
@@ -2337,22 +2313,6 @@
         "Update": "2023-07-27T11:12:22.855332-04:00",
         "Discount": 0.0,
         "Label": "Intel Core i5-12400 +Disipador"
-      },
-      {
-        "Price": 17.00,
-        "Features": [
-          "6ta Gen",
-          "2 Hilos",
-          "2 Cores",
-          "3.3GHz",
-          "3MB L3",
-          "LGA 1151",
-          "CPU"
-        ],
-        "Date": "2023-07-17T23:39:50.1879409-04:00",
-        "Update": "2023-07-27T11:12:22.8632687-04:00",
-        "Discount": 0.0,
-        "Label": "Intel Pentium G4400 +Disipador"
       },
       {
         "Price": 219.00,
@@ -3431,20 +3391,6 @@
     ],
     "Webcam": [
       {
-        "Price": 29.00,
-        "Features": [
-          "30fps",
-          "HDR",
-          "Reducción de ruido",
-          "90 grados",
-          "USB"
-        ],
-        "Date": "2023-07-26T16:42:54.3761933-04:00",
-        "Update": "2023-07-27T11:33:38.2399585-04:00",
-        "Discount": 0.0,
-        "Label": "Webcam Full HD 1080P C01-Black"
-      },
-      {
         "Price": 39.00,
         "Features": [
           "Black",
@@ -3512,23 +3458,6 @@
         "Update": "2023-07-31T14:21:04.934129-04:00",
         "Discount": 0.0,
         "Label": "Logitech G335"
-      },
-      {
-        "Price": 89.00,
-        "Features": [
-          "7.1",
-          "Micrófono",
-          "3.5mm",
-          "50mm",
-          "Noise Cancelling",
-          "240g",
-          "Headset",
-          "Cascos"
-        ],
-        "Date": "2023-07-09T16:44:46.7059022-04:00",
-        "Update": "2023-07-31T14:21:04.949115-04:00",
-        "Discount": 0.0,
-        "Label": "Razer BlackShark V2 X"
       },
       {
         "Price": 87.00,
