@@ -891,18 +891,6 @@
         "Label": "SSD M.2 Samsung 980 PRO 2TB"
       },
       {
-        "Price": 119.00,
-        "Features": [
-          "3500mbs",
-          "1200tbw",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-08-21T08:57:58.9451638-04:00",
-        "Update": "2023-08-29T08:44:58.6397929-04:00",
-        "Label": "SSD M.2 Samsung 970 EVO PLUS 2TB"
-      },
-      {
         "Price": 189.00,
         "Features": [
           "7450mbs",
@@ -1428,18 +1416,6 @@
         "Date": "2023-07-26T16:40:48.0920023-04:00",
         "Update": "2023-07-27T08:17:37.3850414-04:00",
         "Label": "HDD 3.5 Seagate Constellation 2TB SAS"
-      },
-      {
-        "Price": 65.00,
-        "Features": [
-          "64mb",
-          "5900rpm",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-07-26T16:42:06.8492862-04:00",
-        "Update": "2023-07-27T08:17:37.4003846-04:00",
-        "Label": "HDD 3.5 Seagate Pipeline 2TB"
       },
       {
         "Price": 59.0,
@@ -1987,19 +1963,6 @@
         "Label": "Enfriamiento Intel Stock Original"
       },
       {
-        "Price": 35.00,
-        "Features": [
-          "AM4",
-          "Cobre",
-          "1xFan",
-          "Top-flow",
-          "Negro"
-        ],
-        "Date": "2023-08-06T08:56:55.5336259-04:00",
-        "Update": "2023-08-06T12:55:00.7526694-04:00",
-        "Label": "Enfriamiento AMD Wraith MAX RGB LED"
-      },
-      {
         "Price": 41.00,
         "Features": [
           "Cobre",
@@ -2495,20 +2458,6 @@
         "Label": "HUB ORICO Type-A 10-Port USB 3.0"
       },
       {
-        "Price": 49.00,
-        "Features": [
-          "2xDiscos",
-          "USB 3.0",
-          "Clonar",
-          "2.5",
-          "3.5",
-          "SATA 3"
-        ],
-        "Date": "2023-07-26T16:41:58.6548432-04:00",
-        "Update": "2023-07-27T11:12:22.8877103-04:00",
-        "Label": "Docking Orico Dual Bay"
-      },
-      {
         "Price": 32.00,
         "Features": [
           "USB3.1 Gen2",
@@ -2693,16 +2642,6 @@
         "Date": "2023-07-09T16:44:35.9657005-04:00",
         "Update": "2023-07-26T18:58:17.5417236-04:00",
         "Label": "Mouse SteelSeries Rival 3 Wireless"
-      },
-      {
-        "Price": 39.00,
-        "Features": [
-          "Optico",
-          "6 botónes"
-        ],
-        "Date": "2023-08-01T11:15:18.2472734-04:00",
-        "Update": "2023-08-01T18:30:20.4143725-04:00",
-        "Label": "Mouse SteelSeries Rival 3"
       },
       {
         "Price": 29.00,
@@ -3273,19 +3212,6 @@
         "Date": "2023-08-01T11:14:53.1196595-04:00",
         "Update": "2023-08-02T11:51:57.1329172-04:00",
         "Label": "Enclosure M.2 Orico USB-A/C"
-      },
-      {
-        "Price": 17.00,
-        "Features": [
-          "UASP",
-          "AntiShock",
-          "Aluminio",
-          "ABS",
-          "SATA3"
-        ],
-        "Date": "2023-08-02T11:15:58.9847451-04:00",
-        "Update": "2023-08-02T11:51:57.1471849-04:00",
-        "Label": "Enclosure 2.5 Orico USB3.0 Gen2"
       }
     ],
     "Backup": [
