@@ -833,18 +833,6 @@
         "Label": "SSD 2.5 Team Group CX2 2TB"
       },
       {
-        "Price": 129.00,
-        "Features": [
-          "7400mbs",
-          "1480tbw",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-07-09T16:53:43.4807497-04:00",
-        "Update": "2023-08-16T10:03:07.1204722-04:00",
-        "Label": "SSD M.2 AData Premium 2TB"
-      },
-      {
         "Price": 95.00,
         "Features": [
           "7300mbs",
