@@ -2086,21 +2086,6 @@
         "Label": "Intel Core i5-12400 +Disipador"
       },
       {
-        "Price": 219.00,
-        "Features": [
-          "5000 Series",
-          "16 Hilos",
-          "8 Core",
-          "4.7GHz",
-          "32MB L3",
-          "AM4",
-          "CPU"
-        ],
-        "Date": "2023-05-11T07:44:14.6151541-04:00",
-        "Update": "2023-07-27T11:12:22.8697064-04:00",
-        "Label": "AMD Ryzen 7 5800X +Disipador"
-      },
-      {
         "Price": 199.00,
         "Features": [
           "Radeon Graphics",
@@ -2165,6 +2150,21 @@
         "Date": "2023-03-22T09:04:14.8362359-04:00",
         "Update": "2023-09-02T13:38:05.5208206-04:00",
         "Label": "Intel Core i7-13700K"
+      },
+      {
+        "Price": 219.00,
+        "Features": [
+          "5000 Series",
+          "16 Hilos",
+          "8 Core",
+          "4.7GHz",
+          "32MB L3",
+          "AM4",
+          "CPU"
+        ],
+        "Date": "2023-05-11T07:44:14.6151541-04:00",
+        "Update": "2023-09-09T09:35:01.1252563-04:00",
+        "Label": "AMD Ryzen 7 5800X"
       }
     ],
     "Tarjeta Gráfica": [
