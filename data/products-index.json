@@ -2,7 +2,7 @@
   "Computadoras": {
     "Multimedia": [
       {
-        "Price": 2667.00,
+        "Price": 2657.00,
         "Features": [],
         "Date": "2023-08-16T11:32:00.8554983-04:00",
         "Update": "2023-08-16T12:56:28.9620407-04:00",
@@ -12,7 +12,7 @@
     ],
     "Entusiasta": [
       {
-        "Price": 2253.00,
+        "Price": 2247.00,
         "Features": [],
         "Date": "2023-08-20T13:38:25.8686393-04:00",
         "Update": "2023-08-20T13:57:33.2524034-04:00",
@@ -747,16 +747,6 @@
       {
         "Price": 45.00,
         "Features": [
-          "560mbs",
-          "SATA 3"
-        ],
-        "Date": "2023-06-07T13:41:58.996169-04:00",
-        "Update": "2023-06-07T16:09:25.0046225-04:00",
-        "Label": "SSD 2.5 Silicon Power Ace A55 512GB"
-      },
-      {
-        "Price": 45.00,
-        "Features": [
           "530mbs",
           "400tbw",
           "SATA 3"
@@ -1427,18 +1417,6 @@
         "Date": "2023-05-11T14:17:30.8616693-04:00",
         "Update": "2023-08-21T08:57:21.9436672-04:00",
         "Label": "HDD 3.5 Seagate Constellation 4TB"
-      },
-      {
-        "Price": 165.00,
-        "Features": [
-          "256mb",
-          "7200rpm",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-08-29T08:42:27.5578715-04:00",
-        "Update": "2023-08-29T09:46:36.1922768-04:00",
-        "Label": "HDD 3.5 Seagate Exos 10TB"
       }
     ],
     "Board": [
@@ -1499,7 +1477,7 @@
         "Label": "Asus ROG Maximus Z690 Hero"
       },
       {
-        "Price": 185.00,
+        "Price": 179.00,
         "Features": [
           "12va-13ra",
           "DDR5",
@@ -1537,7 +1515,7 @@
         "Label": "Gigabyte B550 Gaming X V2"
       },
       {
-        "Price": 269.00,
+        "Price": 259.00,
         "Features": [
           "12va-13ra",
           "DDR5",
@@ -1556,7 +1534,7 @@
         "Label": "Gigabyte Z690 AERO G"
       },
       {
-        "Price": 259.00,
+        "Price": 255.00,
         "Features": [
           "12va-13ra",
           "8xSATA",
@@ -1574,7 +1552,7 @@
         "Label": "ASRock Z790 PG RIPTIDE"
       },
       {
-        "Price": 169.00,
+        "Price": 165.00,
         "Features": [
           "12va-13ra",
           "DDR5",
@@ -1629,7 +1607,7 @@
         "Label": "Asus ROG Strix Z790-H Gaming Wifi"
       },
       {
-        "Price": 209.00,
+        "Price": 199.00,
         "Features": [
           "12va-13ra",
           "DDR5",
@@ -1668,7 +1646,7 @@
         "Label": "ASRock Z590 Extreme Wifi 6E"
       },
       {
-        "Price": 299.00,
+        "Price": 289.00,
         "Features": [
           "12va-13ra",
           "8xSATA",
@@ -1722,7 +1700,7 @@
         "Label": "MSI MPG Z590 Gaming Carbon Wifi"
       },
       {
-        "Price": 285.00,
+        "Price": 279.00,
         "Features": [
           "12va-13ra",
           "DDR5",
@@ -1742,7 +1720,7 @@
         "Label": "Gigabyte Z790 UD AX"
       },
       {
-        "Price": 245.00,
+        "Price": 239.00,
         "Features": [
           "12va-13ra",
           "6xAudio",
@@ -1758,7 +1736,7 @@
         "Label": "Asus TUF Z690-Plus Wifi DDR5"
       },
       {
-        "Price": 309.00,
+        "Price": 305.00,
         "Features": [
           "12va-13ra",
           "7600mhz",
@@ -1775,24 +1753,6 @@
         "Date": "2023-08-29T08:42:33.8858294-04:00",
         "Update": "2023-08-29T09:46:36.2019666-04:00",
         "Label": "Gigabyte Z790 Gaming X AX"
-      },
-      {
-        "Price": 255.00,
-        "Features": [
-          "12va-13ra",
-          "9xUSB",
-          "DDR5",
-          "6xSATA",
-          "Wifi",
-          "6000mhz",
-          "LGA1700",
-          "HDMI",
-          "DisplayPort",
-          "3xAudio"
-        ],
-        "Date": "2023-08-21T08:58:08.2009183-04:00",
-        "Update": "2023-09-01T08:16:39.848437-04:00",
-        "Label": "Gigabyte Z690 Aorus Elite AX"
       }
     ],
     "Disipador por Aire": [
