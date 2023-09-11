@@ -2,7 +2,7 @@
   "Computadoras": {
     "Multimedia": [
       {
-        "Price": 2657.00,
+        "Price": 2663.00,
         "Features": [],
         "Date": "2023-08-16T11:32:00.8554983-04:00",
         "Update": "2023-08-16T12:56:28.9620407-04:00",
@@ -12,7 +12,7 @@
     ],
     "Entusiasta": [
       {
-        "Price": 2247.00,
+        "Price": 2217.00,
         "Features": [],
         "Date": "2023-08-20T13:38:25.8686393-04:00",
         "Update": "2023-08-20T13:57:33.2524034-04:00",
@@ -20,7 +20,7 @@
         "Label": "PC Ent 27 2K IPS, i5-12600K, H100x, TUF Z690-Plus, DDR5 RGB 48GB, WD 1TB, RX 6750 XT Gaming X TRIO"
       },
       {
-        "Price": 1519.00,
+        "Price": 1513.00,
         "Features": [],
         "Date": "2023-08-20T13:32:33.8852707-04:00",
         "Update": "2023-08-29T08:44:58.6211412-04:00",
@@ -52,7 +52,7 @@
   "Componentes": {
     "Otros": [
       {
-        "Price": 30.00,
+        "Price": 19.00,
         "Features": [
           "200mm",
           "montaje vertical"
@@ -79,13 +79,6 @@
         "Date": "2023-06-07T15:06:05.815869-04:00",
         "Update": "2023-06-07T15:55:09.4573643-04:00",
         "Label": "Fan Uphere 12BK3"
-      },
-      {
-        "Price": 5.00,
-        "Features": [],
-        "Date": "2023-06-07T15:03:43.1820356-04:00",
-        "Update": "2023-06-19T11:56:16.8512304-04:00",
-        "Label": "Pasta Termica"
       },
       {
         "Price": 11.00,
@@ -333,6 +326,15 @@
         "Date": "2023-09-11T09:09:53.366551-04:00",
         "Update": "2023-09-11T10:29:56.1172652-04:00",
         "Label": "Expansión Weastlinks 4xSATA"
+      },
+      {
+        "Price": 5.00,
+        "Features": [
+          "Jeringuilla"
+        ],
+        "Date": "2023-06-07T15:03:43.1820356-04:00",
+        "Update": "2023-09-11T11:17:59.1789125-04:00",
+        "Label": "Pasta Termica Protronix Series 9 Extreme"
       }
     ],
     "Memoria RAM": [
@@ -872,7 +874,7 @@
         "Label": "SSD 2.5 Team Group CX2 2TB"
       },
       {
-        "Price": 95.00,
+        "Price": 89.00,
         "Features": [
           "7300mbs",
           "600tbw",
@@ -929,7 +931,7 @@
         "Label": "SSD M.2 Samsung 990 Pro 2TB"
       },
       {
-        "Price": 119.00,
+        "Price": 115.00,
         "Features": [
           "5000mbs",
           "PCIe 4",
@@ -940,7 +942,7 @@
         "Label": "SSD M.2 Silicon Power 2TB UD90"
       },
       {
-        "Price": 67.00,
+        "Price": 65.00,
         "Features": [
           "3200mbs",
           "PCIe 3",
@@ -952,7 +954,7 @@
         "Label": "SSD M.2 WD Green SN350 1TB"
       },
       {
-        "Price": 129.00,
+        "Price": 125.00,
         "Features": [
           "5000mbs",
           "PCIe 4",
@@ -963,14 +965,14 @@
         "Label": "SSD M.2 Corsair MP600 CORE XT 2TB"
       },
       {
-        "Price": 65.00,
+        "Price": 67.00,
         "Features": [
           "4125mbs",
           "PCIe 4",
           "NVMe"
         ],
         "Date": "2023-09-11T09:09:15.3220665-04:00",
-        "Update": "2023-09-11T10:29:56.0472036-04:00",
+        "Update": "2023-09-11T11:17:59.1953642-04:00",
         "Label": "SSD M.2 Solidigm P41 Plus 1TB"
       }
     ],
@@ -1040,7 +1042,7 @@
         "Label": "Fuente Asus TUF 850W"
       },
       {
-        "Price": 279.00,
+        "Price": 275.00,
         "Features": [
           "80+ Gold",
           "Full Modular",
@@ -1137,7 +1139,7 @@
         "Label": "Fuente EVGA 800 GE"
       },
       {
-        "Price": 239.00,
+        "Price": 235.00,
         "Features": [
           "80+ Gold",
           "ATX 3.0",
@@ -1203,7 +1205,7 @@
         "Label": "TP-Link Wifi Adapter 300N"
       },
       {
-        "Price": 65.00,
+        "Price": 27.00,
         "Features": [
           "PCIe x1",
           "2.4GHz",
@@ -1419,25 +1421,6 @@
         "Date": "2023-06-29T07:38:53.691162-04:00",
         "Update": "2023-08-29T09:46:36.0729965-04:00",
         "Label": "D.Líquida Cooler Master MasterLiquid ML360L V2 ARGB"
-      },
-      {
-        "Price": 239.00,
-        "Features": [
-          "LCD",
-          "2xFan",
-          "240mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "LGA 2066",
-          "LGA 2011",
-          "AM4",
-          "TR4",
-          "sTRX4"
-        ],
-        "Date": "2023-08-29T08:41:25.9385748-04:00",
-        "Update": "2023-08-29T09:46:36.0987558-04:00",
-        "Label": "D.Líquida Gigabyte GP-AORUS Waterforce X 240"
       },
       {
         "Price": 269.00,
@@ -1909,7 +1892,7 @@
     ],
     "Disipador por Aire": [
       {
-        "Price": 32.00,
+        "Price": 29.00,
         "Features": [
           "AM4",
           "3xPipes",
@@ -1923,7 +1906,7 @@
         "Label": "Enfriamiento Asus 3 Headpipe AMD"
       },
       {
-        "Price": 35.00,
+        "Price": 32.00,
         "Features": [
           "LGA 1200",
           "3xPipes",
@@ -1958,7 +1941,7 @@
         "Label": "Enfriamiento Thermalright Assassin X 120 R SE ARGB"
       },
       {
-        "Price": 13.00,
+        "Price": 11.00,
         "Features": [
           "LGA 1200",
           "Aluminio",
@@ -2036,7 +2019,7 @@
         "Label": "Enfriamiento Cooler Master Hyper 620S Dual"
       },
       {
-        "Price": 9.00,
+        "Price": 7.00,
         "Features": [
           "LGA 115X",
           "2800rpm",
@@ -2052,7 +2035,7 @@
         "Label": "Enfriamiento Intel Stock Original"
       },
       {
-        "Price": 41.00,
+        "Price": 39.00,
         "Features": [
           "Cobre",
           "33cfm",
@@ -2138,7 +2121,7 @@
         "Label": "Intel Core i7-12700K"
       },
       {
-        "Price": 229.00,
+        "Price": 225.00,
         "Features": [
           "12va Gen",
           "16 Hilos",
@@ -2189,7 +2172,7 @@
         "Label": "Intel Core i5-13600K"
       },
       {
-        "Price": 145.00,
+        "Price": 149.00,
         "Features": [
           "12va Gen",
           "8 Hilos",
@@ -2271,7 +2254,7 @@
         "Label": "Intel Core i7-13700K"
       },
       {
-        "Price": 219.00,
+        "Price": 210.00,
         "Features": [
           "5000 Series",
           "16 Hilos",
@@ -2301,7 +2284,7 @@
         "Label": "Intel Core i5-11400 +Disipador"
       },
       {
-        "Price": 199.00,
+        "Price": 189.00,
         "Features": [
           "Radeon Graphics",
           "5000 Series",
@@ -2352,7 +2335,7 @@
         "Label": "Asus Dual RTX 4070"
       },
       {
-        "Price": 935.00,
+        "Price": 915.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -2386,7 +2369,7 @@
         "Label": "Asus Dual RTX 4070 OC"
       },
       {
-        "Price": 379.00,
+        "Price": 375.00,
         "Features": [
           "12GB",
           "2xFan",
@@ -2402,7 +2385,7 @@
         "Label": "ASRock Challenger D RX 6700 XT"
       },
       {
-        "Price": 249.00,
+        "Price": 255.00,
         "Features": [
           "8GB",
           "3xFan",
@@ -2418,7 +2401,7 @@
         "Label": "Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
       },
       {
-        "Price": 475.00,
+        "Price": 455.00,
         "Features": [
           "3xFan",
           "650WR",
@@ -2433,7 +2416,7 @@
         "Label": "MSI RX 6750 XT Gaming X TRIO 12G"
       },
       {
-        "Price": 995.00,
+        "Price": 975.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -2450,7 +2433,7 @@
         "Label": "MSI RTX 4070 Ti Gaming TRIO"
       },
       {
-        "Price": 315.00,
+        "Price": 309.00,
         "Features": [
           "8GB",
           "3xFan",
@@ -2466,7 +2449,7 @@
         "Label": "ASRock Steel Legend Radeon RX 6650 XT"
       },
       {
-        "Price": 305.00,
+        "Price": 299.00,
         "Features": [
           "8GB",
           "2xFan",
@@ -2532,7 +2515,7 @@
         "Label": "Gigabyte RTX 4070 Gaming OC"
       },
       {
-        "Price": 429.00,
+        "Price": 409.00,
         "Features": [
           "12GB",
           "2xFan",
@@ -3387,7 +3370,7 @@
     ],
     "Monitor": [
       {
-        "Price": 219.00,
+        "Price": 229.00,
         "Features": [
           "Curvo",
           "VA",
