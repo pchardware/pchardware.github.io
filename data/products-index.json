@@ -677,20 +677,6 @@
         "Label": "Chasis Rosewill NIGHTHAWK 117"
       },
       {
-        "Price": 49.00,
-        "Features": [
-          "4xHDD",
-          "VGA 340mm",
-          "USB 3.0",
-          "ATX",
-          "Mid Tower",
-          "Negro"
-        ],
-        "Date": "2023-06-26T07:41:41.0386166-04:00",
-        "Update": "2023-07-27T07:54:42.9616437-04:00",
-        "Label": "Chasis Unyka 2U2"
-      },
-      {
         "Price": 209.00,
         "Features": [
           "Tempered Glass",
@@ -724,25 +710,6 @@
         "Date": "2023-08-01T11:14:45.7434962-04:00",
         "Update": "2023-08-01T12:24:37.9343726-04:00",
         "Label": "Chasis Rosewill Rise"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "Modular",
-          "GPU 360mm",
-          "CPU 157mm",
-          "PSU 160mm",
-          "Micro Tower",
-          "Gamer",
-          "M-ATX",
-          "Negro",
-          "2xUSB",
-          "1xFan",
-          "1xHDD"
-        ],
-        "Date": "2023-08-06T08:09:13.8638279-04:00",
-        "Update": "2023-08-06T08:19:53.9301884-04:00",
-        "Label": "Chasis Cooler Master MasterBox Q300L"
       },
       {
         "Price": 215.00,
@@ -1069,25 +1036,6 @@
         "Date": "2023-07-17T23:37:46.1740196-04:00",
         "Update": "2023-08-09T11:38:47.1510667-04:00",
         "Label": "Fuente Corsair HX850"
-      },
-      {
-        "Price": 245.00,
-        "Features": [
-          "ATX 3.0",
-          "80+ Gold",
-          "Full Modular",
-          "Zero RPM",
-          "6x 6+2Pin",
-          "1000W",
-          "83A",
-          "2x 4+4 EPS",
-          "151mm",
-          "7xSATA",
-          "4x PATA"
-        ],
-        "Date": "2023-08-08T10:08:04.4203937-04:00",
-        "Update": "2023-08-09T11:38:47.3298998-04:00",
-        "Label": "Fuente Corsair RM1000e"
       },
       {
         "Price": 115.00,
@@ -1906,20 +1854,6 @@
         "Label": "Enfriamiento Asus 3 Headpipe AMD"
       },
       {
-        "Price": 32.00,
-        "Features": [
-          "LGA 1200",
-          "3xPipes",
-          "Cobre",
-          "1xFan",
-          "Tower",
-          "Negro"
-        ],
-        "Date": "2023-05-11T12:52:16.9141688-04:00",
-        "Update": "2023-07-27T09:48:00.6587795-04:00",
-        "Label": "Enfriamiento Asus 3 Headpipe Intel"
-      },
-      {
         "Price": 57.00,
         "Features": [
           "4xPipes",
@@ -2385,7 +2319,7 @@
         "Label": "ASRock Challenger D RX 6700 XT"
       },
       {
-        "Price": 255.00,
+        "Price": 259.00,
         "Features": [
           "8GB",
           "3xFan",
@@ -3284,23 +3218,6 @@
         "Date": "2023-07-09T16:45:46.4090102-04:00",
         "Update": "2023-08-21T08:57:22.0279613-04:00",
         "Label": "Logitech G435 Lightspeed Wireless"
-      },
-      {
-        "Price": 125.00,
-        "Features": [
-          "Noise Control",
-          "20Hz-30KHz",
-          "50mm",
-          "7.1",
-          "16H",
-          "iCUE",
-          "Inalámbrico",
-          "Headset",
-          "Cascos"
-        ],
-        "Date": "2023-05-12T07:52:40.6205045-04:00",
-        "Update": "2023-09-02T13:38:05.424723-04:00",
-        "Label": "Corsair VOID RGB Elite Wireless Carbon"
       }
     ],
     "Adaptador": [
