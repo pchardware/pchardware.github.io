@@ -2685,23 +2685,6 @@
         "Label": "Mouse Pad Corsair MM300 Extended"
       },
       {
-        "Price": 87.00,
-        "Features": [
-          "FPS",
-          "MOBA",
-          "18000dpi",
-          "Optico",
-          "7 botónes",
-          "105g",
-          "iCUE",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-06-19T07:49:07.3176421-04:00",
-        "Update": "2023-07-19T11:18:32.6688411-04:00",
-        "Label": "Mouse Corsair IRONCLAW RGB"
-      },
-      {
         "Price": 47.00,
         "Features": [
           "Inalámbrico",
@@ -2824,6 +2807,23 @@
         "Date": "2023-06-19T07:49:10.8952301-04:00",
         "Update": "2023-09-11T10:29:55.9745899-04:00",
         "Label": "Mause Logitech G502 Hero"
+      },
+      {
+        "Price": 97.00,
+        "Features": [
+          "Macros",
+          "50H",
+          "Recargable",
+          "18000dpi",
+          "Optico",
+          "10 botónes",
+          "iCUE",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-06-19T07:49:07.3176421-04:00",
+        "Update": "2023-09-12T13:13:29.6696943-04:00",
+        "Label": "Mouse Corsair IRONCLAW RGB Wireless"
       }
     ],
     "Teclado": [
