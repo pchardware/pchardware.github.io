@@ -1,0 +1,20 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Entusiasta",
+  "Images": [
+    "/images/products/kit-i5-12600k-gigabyte-z690-aorus-elite-ax-ddr5-co-1.webp",
+    "/images/products/kit-i5-12600k-gigabyte-z690-aorus-elite-ax-ddr5-co-2.webp",
+    "/images/products/kit-i5-12600k-gigabyte-z690-aorus-elite-ax-ddr5-co-3.webp",
+    "/images/products/kit-i5-12600k-gigabyte-z690-aorus-elite-ax-ddr5-co-4.webp",
+    "/images/products/kit-i5-12600k-gigabyte-z690-aorus-elite-ax-ddr5-co-5.webp",
+    "/images/products/kit-i5-12600k-gigabyte-z690-aorus-elite-ax-ddr5-co-6.webp",
+    "/images/products/kit-i5-12600k-gigabyte-z690-aorus-elite-ax-ddr5-co-7.webp"
+  ],
+  "Description": "+ Intel Core i5-12600K\n+ Gigabyte Z690 Aorus Elite AX\n+ DDR5 Corsair Dominator Platinum RGB 32GB 5200mhz\n",
+  "Price": 599.00,
+  "Features": [],
+  "Date": "2023-09-13T13:18:14.7097442-04:00",
+  "Update": "2023-09-13T13:58:13.1065923-04:00",
+  "Discount": 20.0,
+  "Label": "Kit i5-12600K + Gigabyte Z690 Aorus Elite AX + DDR5 Corsair Dominator Platinum RGB 32GB"
+}
