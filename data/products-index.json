@@ -1283,21 +1283,6 @@
         "Label": "D.Líquida Asus TUF Gaming LC 120 RGB"
       },
       {
-        "Price": 95.00,
-        "Features": [
-          "1xFan",
-          "120mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM5",
-          "AM4"
-        ],
-        "Date": "2023-05-11T13:08:41.9000968-04:00",
-        "Update": "2023-08-29T09:46:36.012582-04:00",
-        "Label": "D.Líquida Enermax LIQMAX III 120 ARGB"
-      },
-      {
         "Price": 159.00,
         "Features": [
           "2xFan",
@@ -1387,6 +1372,21 @@
         "Date": "2023-08-29T08:41:32.7866809-04:00",
         "Update": "2023-08-29T09:46:36.1072899-04:00",
         "Label": "D.Líquida Corsair iCUE H150i ELITE CAPELLIX XT"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "1xFan",
+          "120mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM5",
+          "AM4"
+        ],
+        "Date": "2023-05-11T13:08:41.9000968-04:00",
+        "Update": "2023-09-13T10:43:42.1367765-04:00",
+        "Label": "D.Líquida Enermax LIQMAX III 120 RGB"
       }
     ],
     "Disco Duro": [
@@ -1969,25 +1969,6 @@
         "Label": "Enfriamiento Intel Stock Original"
       },
       {
-        "Price": 39.00,
-        "Features": [
-          "Cobre",
-          "33cfm",
-          "130mm",
-          "LGA1700",
-          "LGA1200",
-          "LGA115X",
-          "AM5",
-          "AM4",
-          "2xPipes",
-          "Tower",
-          "Blanco"
-        ],
-        "Date": "2023-03-27T10:59:30.2839721-04:00",
-        "Update": "2023-08-09T11:38:47.0869399-04:00",
-        "Label": "Disipador Thermaltake Contac 9 SE 120W"
-      },
-      {
         "Price": 119.00,
         "Features": [
           "Dual",
@@ -2034,6 +2015,25 @@
         "Date": "2023-07-26T18:49:40.2918309-04:00",
         "Update": "2023-09-11T10:29:55.9217176-04:00",
         "Label": "Enfriamiento Thermaltake UX200 SE"
+      },
+      {
+        "Price": 39.00,
+        "Features": [
+          "Cobre",
+          "33cfm",
+          "130mm",
+          "LGA1700",
+          "LGA1200",
+          "LGA115X",
+          "AM5",
+          "AM4",
+          "2xPipes",
+          "Tower",
+          "Blanco"
+        ],
+        "Date": "2023-03-27T10:59:30.2839721-04:00",
+        "Update": "2023-09-13T10:43:42.1269613-04:00",
+        "Label": "Enfriamiento Thermaltake Contac 9 SE 120W"
       }
     ],
     "Microprocesador": [
@@ -3411,8 +3411,8 @@
           "Flat"
         ],
         "Date": "2023-09-11T09:09:41.0989166-04:00",
-        "Update": "2023-09-11T10:29:56.0972348-04:00",
-        "Label": "Monitor MSI Pro 24FHD MP241X"
+        "Update": "2023-09-13T10:43:42.1484911-04:00",
+        "Label": "MSI Pro 24FHD MP241X"
       }
     ]
   }
