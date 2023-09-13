@@ -130,14 +130,6 @@
     ],
     "Rendimiento": [
       {
-        "Price": 845.00,
-        "Features": [],
-        "Date": "2023-09-13T13:05:47.5051318-04:00",
-        "Update": "2023-09-13T13:58:13.0555549-04:00",
-        "Discount": 12.0,
-        "Label": "Intel Core i7-13700K + Gigabyte Z790 UD AX + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
-      },
-      {
         "Price": 599.00,
         "Features": [],
         "Date": "2023-09-13T13:16:31.3080477-04:00",
@@ -176,6 +168,14 @@
         "Update": "2023-09-13T13:58:13.2212223-04:00",
         "Discount": 10.0,
         "Label": "Kit i5-12400 +Disipador + ASRock B760M PRO RS + DDR5 Viper Venom 32GB 6000mhz"
+      },
+      {
+        "Price": 845.00,
+        "Features": [],
+        "Date": "2023-09-13T13:05:47.5051318-04:00",
+        "Update": "2023-09-13T14:04:08.7608385-04:00",
+        "Discount": 12.0,
+        "Label": "Kit i7-13700K + Gigabyte Z790 UD AX + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
       }
     ],
     "Moderado": [
