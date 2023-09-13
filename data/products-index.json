@@ -32,20 +32,186 @@
   "Kits": {
     "Entusiasta": [
       {
-        "Price": 1104.00,
+        "Price": 1105.00,
         "Features": [],
         "Date": "2023-06-15T09:02:58.8515588-04:00",
-        "Update": "2023-09-02T13:38:05.4755544-04:00",
-        "Discount": 16.0,
+        "Update": "2023-09-13T13:58:13.0160128-04:00",
+        "Discount": 15.0,
         "Label": "Kit i9-13900K + Asus ROG Strix Z690-E Gaming Wifi + 32GB DDR5"
       },
       {
-        "Price": 1167.00,
+        "Price": 1169.00,
         "Features": [],
         "Date": "2023-06-24T13:41:22.3656225-04:00",
-        "Update": "2023-09-02T13:38:05.4910667-04:00",
-        "Discount": 16.0,
+        "Update": "2023-09-13T13:58:13.0266978-04:00",
+        "Discount": 14.0,
         "Label": "Kit i9-13900K + Asus ROG Maximus Z690 Hero + G.Skill Trident Z5 RGB 32GB 6400mhz"
+      },
+      {
+        "Price": 1159.00,
+        "Features": [],
+        "Date": "2023-09-13T12:55:25.5938136-04:00",
+        "Update": "2023-09-13T13:58:13.0358862-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i9-13900K + Asus ROG Strix Z790-H Gaming Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
+      },
+      {
+        "Price": 1075.00,
+        "Features": [],
+        "Date": "2023-09-13T12:58:34.210276-04:00",
+        "Update": "2023-09-13T13:58:13.0455283-04:00",
+        "Discount": 12.0,
+        "Label": "Kit i7-13700K + Asus ROG Maximus Z690 Hero + DDR5 G.SKILL Trident Z5 RGB 64GB"
+      },
+      {
+        "Price": 799.00,
+        "Features": [],
+        "Date": "2023-09-13T13:09:37.0111333-04:00",
+        "Update": "2023-09-13T13:58:13.0663484-04:00",
+        "Discount": 15.0,
+        "Label": "Kit i5-13600K + Asus ROG Strix Z690-E Gaming Wifi + DDR5 Corsair Dominator Platinum RGB 32GB"
+      },
+      {
+        "Price": 795.00,
+        "Features": [],
+        "Date": "2023-09-13T13:12:09.7340595-04:00",
+        "Update": "2023-09-13T13:58:13.0753337-04:00",
+        "Discount": 12.0,
+        "Label": "Kit i9-12900K + Gigabyte Z690 AERO G + DDR5 Corsair Vengeance RGB 48GB"
+      },
+      {
+        "Price": 645.00,
+        "Features": [],
+        "Date": "2023-09-13T13:15:22.925563-04:00",
+        "Update": "2023-09-13T13:58:13.0853983-04:00",
+        "Discount": 12.0,
+        "Label": "Kit i7-12700K + Asus TUF Z690-Plus Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 599.00,
+        "Features": [],
+        "Date": "2023-09-13T13:18:14.7097442-04:00",
+        "Update": "2023-09-13T13:58:13.1065923-04:00",
+        "Discount": 20.0,
+        "Label": "Kit i5-12600K + Gigabyte Z690 Aorus Elite AX + DDR5 Corsair Dominator Platinum RGB 32GB"
+      },
+      {
+        "Price": 549.00,
+        "Features": [],
+        "Date": "2023-09-13T13:25:18.8793114-04:00",
+        "Update": "2023-09-13T13:58:13.1383769-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i5-13500 +Disipador + Asus B660 ProArt Creator + DDR4 Corsair Vengeance RGB 16GB"
+      },
+      {
+        "Price": 599.00,
+        "Features": [],
+        "Date": "2023-09-13T13:27:28.397107-04:00",
+        "Update": "2023-09-13T13:58:13.1648562-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i5-13500 +Disipador + Gigabyte Aorus B760M Elite AX + DDR5 Corsair Dominator Platinum RGB 32GB"
+      },
+      {
+        "Price": 459.00,
+        "Features": [],
+        "Date": "2023-09-13T13:46:12.8965052-04:00",
+        "Update": "2023-09-13T13:58:13.2129813-04:00",
+        "Discount": 14.0,
+        "Label": "Kit i5-12400 +Disipador + Asus B660 ProArt Creator D4 + XPG SPECTRIX D45G RGB 16GB 3600mhz"
+      },
+      {
+        "Price": 465.00,
+        "Features": [],
+        "Date": "2023-09-13T13:49:34.7102932-04:00",
+        "Update": "2023-09-13T13:58:13.275707-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i5-11400 +Disipador + MSI MPG Z590 Gaming Carbon Wifi + DDR4 Corsair Vengeance RGB RS 16GB"
+      }
+    ],
+    "Rendimiento": [
+      {
+        "Price": 845.00,
+        "Features": [],
+        "Date": "2023-09-13T13:05:47.5051318-04:00",
+        "Update": "2023-09-13T13:58:13.0555549-04:00",
+        "Discount": 12.0,
+        "Label": "Intel Core i7-13700K + Gigabyte Z790 UD AX + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 599.00,
+        "Features": [],
+        "Date": "2023-09-13T13:16:31.3080477-04:00",
+        "Update": "2023-09-13T13:58:13.097448-04:00",
+        "Discount": 14.0,
+        "Label": "Kit i7-12700K + MSI PRO Z690-A Wifi + DDR5 XPG Lancer 32GB 6400mhz"
+      },
+      {
+        "Price": 1199.00,
+        "Features": [],
+        "Date": "2023-09-13T13:21:55.0677382-04:00",
+        "Update": "2023-09-13T13:58:13.1169758-04:00",
+        "Discount": 19.0,
+        "Label": "Kit i9-13900K + ASRock Z790 PG RIPTIDE + DDR5 Corsair Vengeance RGB 96GB"
+      },
+      {
+        "Price": 669.00,
+        "Features": [],
+        "Date": "2023-09-13T13:23:40.1950077-04:00",
+        "Update": "2023-09-13T13:58:13.1282885-04:00",
+        "Discount": 14.0,
+        "Label": "Kit i9-12900K + MSI PRO Z690-A Wifi + DDR5 Viper Venom 32GB 6000mhz"
+      },
+      {
+        "Price": 465.00,
+        "Features": [],
+        "Date": "2023-09-13T13:45:05.2130634-04:00",
+        "Update": "2023-09-13T13:58:13.195589-04:00",
+        "Discount": 9.0,
+        "Label": "Kit Ryzen 7 5800X + Gigabyte B550 Gaming X V2 + DDR4 GeIL ORION RGB 16GB 4000mhz"
+      },
+      {
+        "Price": 469.00,
+        "Features": [],
+        "Date": "2023-09-13T13:46:31.7853715-04:00",
+        "Update": "2023-09-13T13:58:13.2212223-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i5-12400 +Disipador + ASRock B760M PRO RS + DDR5 Viper Venom 32GB 6000mhz"
+      }
+    ],
+    "Moderado": [
+      {
+        "Price": 485.00,
+        "Features": [],
+        "Date": "2023-09-13T13:44:12.3460847-04:00",
+        "Update": "2023-09-13T13:58:13.1857196-04:00",
+        "Discount": 8.0,
+        "Label": "Kit i5-13500 +Disipador + ASRock B660M PRO RS + DDR4 Silicon Power 16GB 3200mhz"
+      },
+      {
+        "Price": 379.00,
+        "Features": [],
+        "Date": "2023-09-13T13:45:31.5295564-04:00",
+        "Update": "2023-09-13T13:58:13.2045028-04:00",
+        "Discount": 8.0,
+        "Label": "Kit Ryzen 7 5700G + Gigabyte B550M K + Silicon Power 16GB 3200mhz"
+      },
+      {
+        "Price": 449.00,
+        "Features": [],
+        "Date": "2023-09-13T13:48:54.5300436-04:00",
+        "Update": "2023-09-13T13:58:13.2573149-04:00",
+        "Discount": 10.0,
+        "Label": "Kits i5-11400 +Disipador + ASRock Z590 Extreme Wifi 6E + Team T-Force Delta RGB 16GB 3600mhz"
+      }
+    ],
+    "Esencial": [
+      {
+        "Price": 349.00,
+        "Features": [],
+        "Date": "2023-09-13T13:47:32.3099333-04:00",
+        "Update": "2023-09-13T13:58:13.2356967-04:00",
+        "Discount": 8.0,
+        "Label": "Kit i3-12100 +Disipador + ASRock B660M PRO RS + Silicon Power 16GB 3200mhz"
       }
     ]
   },
