@@ -32,7 +32,7 @@
   "Kits": {
     "Entusiasta": [
       {
-        "Price": 1105.00,
+        "Price": 1110.00,
         "Features": [],
         "Date": "2023-06-15T09:02:58.8515588-04:00",
         "Update": "2023-09-13T13:58:13.0160128-04:00",
@@ -64,7 +64,7 @@
         "Label": "Kit i7-13700K + Asus ROG Maximus Z690 Hero + DDR5 G.SKILL Trident Z5 RGB 64GB"
       },
       {
-        "Price": 799.00,
+        "Price": 804.00,
         "Features": [],
         "Date": "2023-09-13T13:09:37.0111333-04:00",
         "Update": "2023-09-13T13:58:13.0663484-04:00",
@@ -1464,20 +1464,6 @@
         "Label": "D.Líquida Corsair H100x RGB Elite"
       },
       {
-        "Price": 199.00,
-        "Features": [
-          "2xFan",
-          "240mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4"
-        ],
-        "Date": "2023-06-19T07:48:51.0981438-04:00",
-        "Update": "2023-08-29T09:46:36.0275971-04:00",
-        "Label": "D.Líquida ASUS ROG Strix LC II 240 ARGB"
-      },
-      {
         "Price": 189.00,
         "Features": [
           "3xFan",
@@ -1801,7 +1787,7 @@
         "Label": "ASRock B760M PRO RS"
       },
       {
-        "Price": 340.00,
+        "Price": 345.00,
         "Features": [
           "12va-13ra",
           "10xUSB",
@@ -2960,19 +2946,6 @@
         "Date": "2023-09-02T12:38:48.8628172-04:00",
         "Update": "2023-09-02T13:38:05.6192543-04:00",
         "Label": "Mouse Corsair Harpoon RGB"
-      },
-      {
-        "Price": 57.00,
-        "Features": [
-          "16000dpi",
-          "Optico",
-          "11 botónes",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-06-19T07:49:10.8952301-04:00",
-        "Update": "2023-09-11T10:29:55.9745899-04:00",
-        "Label": "Mause Logitech G502 Hero"
       },
       {
         "Price": 97.00,
