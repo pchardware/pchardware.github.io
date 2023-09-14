@@ -18,14 +18,6 @@
         "Update": "2023-08-20T13:57:33.2524034-04:00",
         "Discount": 64.0,
         "Label": "PC Ent 27 2K IPS, i5-12600K, H100x, TUF Z690-Plus, DDR5 RGB 48GB, WD 1TB, RX 6750 XT Gaming X TRIO"
-      },
-      {
-        "Price": 1513.00,
-        "Features": [],
-        "Date": "2023-08-20T13:32:33.8852707-04:00",
-        "Update": "2023-08-29T08:44:58.6211412-04:00",
-        "Discount": 44.0,
-        "Label": "PC Ent TUF 24\", i5 12Gen, Asus B660 ProArt, 16GB RGB, 980 500GB, RX 6650 XT, CX750M, H510, Gaming K1"
       }
     ]
   },
@@ -38,14 +30,6 @@
         "Update": "2023-09-13T13:58:13.0455283-04:00",
         "Discount": 12.0,
         "Label": "Kit i7-13700K + Asus ROG Maximus Z690 Hero + DDR5 G.SKILL Trident Z5 RGB 64GB"
-      },
-      {
-        "Price": 804.00,
-        "Features": [],
-        "Date": "2023-09-13T13:09:37.0111333-04:00",
-        "Update": "2023-09-13T13:58:13.0663484-04:00",
-        "Discount": 15.0,
-        "Label": "Kit i5-13600K + Asus ROG Strix Z690-E Gaming Wifi + DDR5 Corsair Dominator Platinum RGB 32GB"
       },
       {
         "Price": 795.00,
@@ -629,17 +613,6 @@
         "Date": "2023-08-08T10:03:09.2905788-04:00",
         "Update": "2023-08-09T11:38:47.294445-04:00",
         "Label": "DDR5 Silicon Power Zenith RGB 32GB 6000mhz"
-      },
-      {
-        "Price": 179.00,
-        "Features": [
-          "CL34",
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-08-16T09:17:00.7000046-04:00",
-        "Update": "2023-08-16T11:17:10.2861384-04:00",
-        "Label": "DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
       },
       {
         "Price": 115.00,
@@ -1700,24 +1673,6 @@
         "Label": "Gigabyte Z690 AERO G"
       },
       {
-        "Price": 255.00,
-        "Features": [
-          "12va-13ra",
-          "8xSATA",
-          "8xUSB",
-          "DDR5",
-          "6800mhz",
-          "LGA 1700",
-          "ATX",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio"
-        ],
-        "Date": "2023-07-26T18:48:46.1112283-04:00",
-        "Update": "2023-07-27T07:36:15.6665036-04:00",
-        "Label": "ASRock Z790 PG RIPTIDE"
-      },
-      {
         "Price": 165.00,
         "Features": [
           "12va-13ra",
@@ -2012,31 +1967,6 @@
         "Label": "Enfriamiento Cooler Master Hyper 212 Spectrum V3"
       },
       {
-        "Price": 119.00,
-        "Features": [
-          "Dual",
-          "2xFan",
-          "6xPipes",
-          "ARGB",
-          "Premium",
-          "52cfm",
-          "27dBA",
-          "Cobre",
-          "157mm",
-          "2050rpm",
-          "Blanco",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4",
-          "AM5",
-          "Tower"
-        ],
-        "Date": "2023-07-17T23:40:13.7039736-04:00",
-        "Update": "2023-07-27T09:48:00.780345-04:00",
-        "Label": "Enfriamiento Cooler Master Hyper 622 Halo White"
-      },
-      {
         "Price": 109.00,
         "Features": [
           "ARGB",
@@ -2163,23 +2093,6 @@
         "Date": "2023-05-11T07:00:48.0876416-04:00",
         "Update": "2023-07-27T11:12:22.7531535-04:00",
         "Label": "Intel Core i9-12900K"
-      },
-      {
-        "Price": 329.00,
-        "Features": [
-          "13ra Gen",
-          "20 Hilos",
-          "14 Core",
-          "5.1GHz",
-          "24MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-06-19T07:47:08.4755764-04:00",
-        "Update": "2023-07-27T11:12:22.7970402-04:00",
-        "Label": "Intel Core i5-13600K"
       },
       {
         "Price": 149.00,
@@ -2424,22 +2337,6 @@
         "Date": "2023-08-08T10:08:35.8891088-04:00",
         "Update": "2023-08-09T11:38:47.3836299-04:00",
         "Label": "MSI RTX 4070 Ti Gaming TRIO"
-      },
-      {
-        "Price": 299.00,
-        "Features": [
-          "8GB",
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "235mm",
-          "Radeon",
-          "AMD",
-          "GPU"
-        ],
-        "Date": "2023-07-17T23:39:40.6107252-04:00",
-        "Update": "2023-08-16T11:17:10.2327626-04:00",
-        "Label": "MSI Mech Radeon RX 6650 XT"
       },
       {
         "Price": 305.00,
