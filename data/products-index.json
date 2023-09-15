@@ -196,20 +196,20 @@
         "Label": "Kit Ryzen 7 5700G + Gigabyte B550M K + Silicon Power 16GB 3200mhz"
       },
       {
-        "Price": 449.00,
-        "Features": [],
-        "Date": "2023-09-13T13:48:54.5300436-04:00",
-        "Update": "2023-09-13T13:58:13.2573149-04:00",
-        "Discount": 10.0,
-        "Label": "Kits i5-11400 +Disipador + ASRock Z590 Extreme Wifi 6E + Team T-Force Delta RGB 16GB 3600mhz"
-      },
-      {
         "Price": 473.00,
         "Features": [],
         "Date": "2023-09-15T11:03:08.0452878-04:00",
         "Update": "2023-09-15T11:24:21.6894632-04:00",
         "Discount": 10.0,
         "Label": "Kit i5 11na +Disipador + ASRock Z590 Extreme Wifi 6E + G.Skill Sniper X 32GB 3600mhz"
+      },
+      {
+        "Price": 449.00,
+        "Features": [],
+        "Date": "2023-09-13T13:48:54.5300436-04:00",
+        "Update": "2023-09-15T11:27:25.4384809-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i5-11400 +Disipador + ASRock Z590 Extreme Wifi 6E + Team T-Force Delta RGB 16GB 3600mhz"
       }
     ],
     "Esencial": [
