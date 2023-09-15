@@ -1,0 +1,20 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-i5-12600k-msi-pro-z690-a-wifi-ddr5-viper-venom-1.webp",
+    "/images/products/kit-i5-12600k-msi-pro-z690-a-wifi-ddr5-viper-venom-2.webp",
+    "/images/products/kit-i5-12600k-msi-pro-z690-a-wifi-ddr5-viper-venom-3.webp",
+    "/images/products/kit-i5-12600k-msi-pro-z690-a-wifi-ddr5-viper-venom-4.webp",
+    "/images/products/kit-i5-12600k-msi-pro-z690-a-wifi-ddr5-viper-venom-5.webp",
+    "/images/products/kit-i5-12600k-msi-pro-z690-a-wifi-ddr5-viper-venom-6.webp",
+    "/images/products/kit-i5-12600k-msi-pro-z690-a-wifi-ddr5-viper-venom-7.webp"
+  ],
+  "Description": "+ Intel Core i5-12600K\n+ MSI PRO Z690-A Wifi\n+ DDR5 Viper Venom 32GB 6000mhz\n",
+  "Price": 519.00,
+  "Features": [],
+  "Date": "2023-09-15T11:09:09.9915543-04:00",
+  "Update": "2023-09-15T11:24:21.7229116-04:00",
+  "Discount": 10.0,
+  "Label": "Kit i5-12600K + MSI PRO Z690-A Wifi + DDR5 Viper Venom 32GB 6000mhz"
+}
