@@ -1,0 +1,20 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-i7-12700k-asrock-z690-pro-rs-geil-orion-rgb-16-1.webp",
+    "/images/products/kit-i7-12700k-asrock-z690-pro-rs-geil-orion-rgb-16-2.webp",
+    "/images/products/kit-i7-12700k-asrock-z690-pro-rs-geil-orion-rgb-16-3.webp",
+    "/images/products/kit-i7-12700k-asrock-z690-pro-rs-geil-orion-rgb-16-4.webp",
+    "/images/products/kit-i7-12700k-asrock-z690-pro-rs-geil-orion-rgb-16-5.webp",
+    "/images/products/kit-i7-12700k-asrock-z690-pro-rs-geil-orion-rgb-16-6.webp",
+    "/images/products/kit-i7-12700k-asrock-z690-pro-rs-geil-orion-rgb-16-7.webp"
+  ],
+  "Description": "+ Intel Core i7-12700K\n+ ASRock Z690 Pro RS DDR4\n+ DDR4 GeIL ORION RGB 16GB 3600mhz\n",
+  "Price": 509.00,
+  "Features": [],
+  "Date": "2023-09-15T11:17:40.3954585-04:00",
+  "Update": "2023-09-15T11:24:21.7838988-04:00",
+  "Discount": 14.0,
+  "Label": "Kit i7-12700K + ASRock Z690 Pro RS + GeIL ORION RGB 16GB 3600mhz"
+}
