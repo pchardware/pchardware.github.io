@@ -1,0 +1,20 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-i5-12600k-asrock-z690-pro-rs-silicon-power-16g-1.webp",
+    "/images/products/kit-i5-12600k-asrock-z690-pro-rs-silicon-power-16g-2.webp",
+    "/images/products/kit-i5-12600k-asrock-z690-pro-rs-silicon-power-16g-3.webp",
+    "/images/products/kit-i5-12600k-asrock-z690-pro-rs-silicon-power-16g-4.webp",
+    "/images/products/kit-i5-12600k-asrock-z690-pro-rs-silicon-power-16g-5.webp",
+    "/images/products/kit-i5-12600k-asrock-z690-pro-rs-silicon-power-16g-6.webp",
+    "/images/products/kit-i5-12600k-asrock-z690-pro-rs-silicon-power-16g-7.webp"
+  ],
+  "Description": "+ Intel Core i5-12600K\n+ ASRock Z690 Pro RS DDR4\n+ DDR4 Silicon Power 16GB 3200mhz\n",
+  "Price": 449.00,
+  "Features": [],
+  "Date": "2023-09-15T11:05:50.9156015-04:00",
+  "Update": "2023-09-15T11:24:21.7041921-04:00",
+  "Discount": 10.0,
+  "Label": "Kit i5-12600K + ASRock Z690 Pro RS + Silicon Power 16GB 3200mhz"
+}
