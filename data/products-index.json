@@ -645,17 +645,6 @@
         "Label": "DDR5 XPG Lancer 32GB 6400mhz"
       },
       {
-        "Price": 119.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL38"
-        ],
-        "Date": "2023-07-26T16:41:33.8367838-04:00",
-        "Update": "2023-07-27T10:06:16.3488091-04:00",
-        "Label": "DDR5 Team T-Force Delta RGB 32GB 6000mhz"
-      },
-      {
         "Price": 139.00,
         "Features": [
           "CL36",
@@ -1212,18 +1201,6 @@
         "Date": "2023-08-20T10:12:58.5856752-04:00",
         "Update": "2023-08-20T11:36:57.2882648-04:00",
         "Label": "ZSX AMP Breakout Board with PCIE Power Cables"
-      },
-      {
-        "Price": 99.00,
-        "Features": [
-          "42A",
-          "2x 6+2-Pin",
-          "6x SATA",
-          "1x 4+4 EPS"
-        ],
-        "Date": "2023-04-15T07:27:14.991735-04:00",
-        "Update": "2023-08-21T08:57:21.9635507-04:00",
-        "Label": "Fuente Thermaltake SMART 600W 80+"
       },
       {
         "Price": 149.00,
@@ -1948,20 +1925,6 @@
     ],
     "Disipador por Aire": [
       {
-        "Price": 29.00,
-        "Features": [
-          "AM4",
-          "3xPipes",
-          "Cobre",
-          "1xFan",
-          "Tower",
-          "Negro"
-        ],
-        "Date": "2023-05-11T12:52:15.0994337-04:00",
-        "Update": "2023-07-27T09:48:00.6176391-04:00",
-        "Label": "Enfriamiento Asus 3 Headpipe AMD"
-      },
-      {
         "Price": 57.00,
         "Features": [
           "4xPipes",
@@ -2073,25 +2036,6 @@
         "Date": "2023-07-26T18:49:40.2918309-04:00",
         "Update": "2023-09-11T10:29:55.9217176-04:00",
         "Label": "Enfriamiento Thermaltake UX200 SE"
-      },
-      {
-        "Price": 39.00,
-        "Features": [
-          "Cobre",
-          "33cfm",
-          "130mm",
-          "LGA1700",
-          "LGA1200",
-          "LGA115X",
-          "AM5",
-          "AM4",
-          "2xPipes",
-          "Tower",
-          "Blanco"
-        ],
-        "Date": "2023-03-27T10:59:30.2839721-04:00",
-        "Update": "2023-09-13T10:43:42.1269613-04:00",
-        "Label": "Enfriamiento Thermaltake Contac 9 SE 120W"
       }
     ],
     "Microprocesador": [
@@ -2675,26 +2619,6 @@
         "Date": "2023-06-19T07:49:14.3324582-04:00",
         "Update": "2023-07-19T11:18:32.6612517-04:00",
         "Label": "Mouse Pad Corsair MM300 Extended"
-      },
-      {
-        "Price": 47.00,
-        "Features": [
-          "Inalámbrico",
-          "18000dpi",
-          "400 ips",
-          "400H",
-          "RGB",
-          "2.4Ghz",
-          "Bluetooth",
-          "95g",
-          "1ms",
-          "6 botónes",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-07-09T16:44:35.9657005-04:00",
-        "Update": "2023-07-26T18:58:17.5417236-04:00",
-        "Label": "Mouse SteelSeries Rival 3 Wireless"
       },
       {
         "Price": 29.00,
