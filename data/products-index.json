@@ -9,16 +9,6 @@
         "Discount": 59.0,
         "Label": "PC i9-12900K, 70 Teras*, Z790 Steel, 32GB 6400mhz, 1TB M.2, 1000W, FullTower, 24FHD Curvo"
       }
-    ],
-    "Entusiasta": [
-      {
-        "Price": 2217.00,
-        "Features": [],
-        "Date": "2023-08-20T13:38:25.8686393-04:00",
-        "Update": "2023-08-20T13:57:33.2524034-04:00",
-        "Discount": 64.0,
-        "Label": "PC Ent 27 2K IPS, i5-12600K, H100x, TUF Z690-Plus, DDR5 RGB 48GB, WD 1TB, RX 6750 XT Gaming X TRIO"
-      }
     ]
   },
   "Kits": {
@@ -38,14 +28,6 @@
         "Update": "2023-09-13T13:58:13.0753337-04:00",
         "Discount": 12.0,
         "Label": "Kit i9-12900K + Gigabyte Z690 AERO G + DDR5 Corsair Vengeance RGB 48GB"
-      },
-      {
-        "Price": 645.00,
-        "Features": [],
-        "Date": "2023-09-13T13:15:22.925563-04:00",
-        "Update": "2023-09-13T13:58:13.0853983-04:00",
-        "Discount": 12.0,
-        "Label": "Kit i7-12700K + Asus TUF Z690-Plus Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       },
       {
         "Price": 599.00,
@@ -78,14 +60,6 @@
         "Update": "2023-09-13T13:58:13.275707-04:00",
         "Discount": 10.0,
         "Label": "Kit i5-11400 +Disipador + MSI MPG Z590 Gaming Carbon Wifi + DDR4 Corsair Vengeance RGB RS 16GB"
-      },
-      {
-        "Price": 589.00,
-        "Features": [],
-        "Date": "2023-09-15T11:12:21.3730357-04:00",
-        "Update": "2023-09-15T11:24:21.7404658-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i5-12600K + Asus TUF Z690-Plus Wifi + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
       },
       {
         "Price": 719.00,
@@ -1870,22 +1844,6 @@
         "Label": "Gigabyte Z790 UD AX"
       },
       {
-        "Price": 239.00,
-        "Features": [
-          "12va-13ra",
-          "6xAudio",
-          "6xUSB",
-          "4xSATA",
-          "6000mhz",
-          "LGA1700",
-          "HDMI",
-          "DisplayPort"
-        ],
-        "Date": "2023-05-11T07:56:36.6020035-04:00",
-        "Update": "2023-08-09T11:38:47.2593926-04:00",
-        "Label": "Asus TUF Z690-Plus Wifi DDR5"
-      },
-      {
         "Price": 139.00,
         "Features": [
           "AM4",
@@ -2531,21 +2489,6 @@
         "Date": "2023-05-12T07:54:27.4081446-04:00",
         "Update": "2023-06-07T16:50:45.239396-04:00",
         "Label": "Mouse Pad Asus ROG Sheath Pink LTD"
-      },
-      {
-        "Price": 55.00,
-        "Features": [
-          "Inalámbrico",
-          "16000dpi",
-          "Sniper Button",
-          "Optico",
-          "Ergonómico",
-          "10 botónes",
-          "USB"
-        ],
-        "Date": "2023-06-24T08:20:07.0510814-04:00",
-        "Update": "2023-06-24T10:51:11.4679659-04:00",
-        "Label": "Mouse EVGA X20"
       },
       {
         "Price": 35.00,
