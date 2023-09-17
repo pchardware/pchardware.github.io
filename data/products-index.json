@@ -128,28 +128,12 @@
         "Label": "Kit i7-13700K + Gigabyte Z790 UD AX + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
       },
       {
-        "Price": 449.00,
-        "Features": [],
-        "Date": "2023-09-15T11:05:50.9156015-04:00",
-        "Update": "2023-09-15T11:24:21.7041921-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-12600K + ASRock Z690 Pro RS + Silicon Power 16GB 3200mhz"
-      },
-      {
         "Price": 519.00,
         "Features": [],
         "Date": "2023-09-15T11:09:09.9915543-04:00",
         "Update": "2023-09-15T11:24:21.7229116-04:00",
         "Discount": 10.0,
         "Label": "Kit i5-12600K + MSI PRO Z690-A Wifi + DDR5 Viper Venom 32GB 6000mhz"
-      },
-      {
-        "Price": 509.00,
-        "Features": [],
-        "Date": "2023-09-15T11:17:40.3954585-04:00",
-        "Update": "2023-09-15T11:24:21.7838988-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i7-12700K + ASRock Z690 Pro RS + GeIL ORION RGB 16GB 3600mhz"
       }
     ],
     "Moderado": [
@@ -1786,24 +1770,6 @@
         "Date": "2023-07-26T18:49:06.0246464-04:00",
         "Update": "2023-07-28T14:40:04.1210973-04:00",
         "Label": "ASRock Z790 STEEL LEGEND WIFI"
-      },
-      {
-        "Price": 175.00,
-        "Features": [
-          "12va-13ra",
-          "8xSATA",
-          "5000mhz",
-          "ATX",
-          "6xUSB",
-          "PS2",
-          "LGA 1700",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio"
-        ],
-        "Date": "2023-08-01T11:14:37.8225714-04:00",
-        "Update": "2023-08-01T12:24:37.9207759-04:00",
-        "Label": "ASRock Z690 Pro RS DDR4"
       },
       {
         "Price": 195.00,
