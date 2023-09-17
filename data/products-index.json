@@ -30,14 +30,6 @@
         "Label": "Kit i9-12900K + Gigabyte Z690 AERO G + DDR5 Corsair Vengeance RGB 48GB"
       },
       {
-        "Price": 599.00,
-        "Features": [],
-        "Date": "2023-09-13T13:18:14.7097442-04:00",
-        "Update": "2023-09-13T13:58:13.1065923-04:00",
-        "Discount": 20.0,
-        "Label": "Kit i5-12600K + Gigabyte Z690 Aorus Elite AX + DDR5 Corsair Dominator Platinum RGB 32GB"
-      },
-      {
         "Price": 549.00,
         "Features": [],
         "Date": "2023-09-13T13:25:18.8793114-04:00",
@@ -52,14 +44,6 @@
         "Update": "2023-09-13T13:58:13.1648562-04:00",
         "Discount": 10.0,
         "Label": "Kit i5-13500 +Disipador + Gigabyte Aorus B760M Elite AX + DDR5 Corsair Dominator Platinum RGB 32GB"
-      },
-      {
-        "Price": 465.00,
-        "Features": [],
-        "Date": "2023-09-13T13:49:34.7102932-04:00",
-        "Update": "2023-09-13T13:58:13.275707-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-11400 +Disipador + MSI MPG Z590 Gaming Carbon Wifi + DDR4 Corsair Vengeance RGB RS 16GB"
       },
       {
         "Price": 719.00,
@@ -152,22 +136,6 @@
         "Update": "2023-09-13T13:58:13.2045028-04:00",
         "Discount": 8.0,
         "Label": "Kit Ryzen 7 5700G + Gigabyte B550M K + Silicon Power 16GB 3200mhz"
-      },
-      {
-        "Price": 473.00,
-        "Features": [],
-        "Date": "2023-09-15T11:03:08.0452878-04:00",
-        "Update": "2023-09-15T11:24:21.6894632-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i5 11na +Disipador + ASRock Z590 Extreme Wifi 6E + G.Skill Sniper X 32GB 3600mhz"
-      },
-      {
-        "Price": 449.00,
-        "Features": [],
-        "Date": "2023-09-13T13:48:54.5300436-04:00",
-        "Update": "2023-09-15T11:27:25.4384809-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-11400 +Disipador + ASRock Z590 Extreme Wifi 6E + Team T-Force Delta RGB 16GB 3600mhz"
       }
     ],
     "Esencial": [
@@ -1772,24 +1740,6 @@
         "Label": "ASRock Z790 STEEL LEGEND WIFI"
       },
       {
-        "Price": 195.00,
-        "Features": [
-          "10ma-11na",
-          "9xUSB",
-          "5333mhz",
-          "6xAudio",
-          "DDR4",
-          "LGA 1200",
-          "6xSATA",
-          "ATX",
-          "HDMI",
-          "DisplayPort"
-        ],
-        "Date": "2023-08-01T11:14:41.678567-04:00",
-        "Update": "2023-08-01T12:24:37.9277004-04:00",
-        "Label": "MSI MPG Z590 Gaming Carbon Wifi"
-      },
-      {
         "Price": 279.00,
         "Features": [
           "12va-13ra",
@@ -1827,24 +1777,6 @@
         "Date": "2023-09-11T09:08:42.5651484-04:00",
         "Update": "2023-09-11T10:29:55.9946264-04:00",
         "Label": "Gigabyte B550M K"
-      },
-      {
-        "Price": 249.00,
-        "Features": [
-          "12va-13ra",
-          "9xUSB",
-          "DDR5",
-          "6xSATA",
-          "Wifi",
-          "6000mhz",
-          "LGA1700",
-          "HDMI",
-          "DisplayPort",
-          "3xAudio"
-        ],
-        "Date": "2023-08-21T08:58:08.2009183-04:00",
-        "Update": "2023-09-13T14:27:02.1914478-04:00",
-        "Label": "Gigabyte Z690 Aorus Elite AX"
       }
     ],
     "Disipador por Aire": [
@@ -2093,21 +2025,6 @@
         "Date": "2023-05-11T07:44:14.6151541-04:00",
         "Update": "2023-09-09T09:35:01.1252563-04:00",
         "Label": "AMD Ryzen 7 5800X"
-      },
-      {
-        "Price": 195.00,
-        "Features": [
-          "11na Gen",
-          "12 Hilos",
-          "6 Cores",
-          "4.4GHz",
-          "12MB L3",
-          "LGA 1200",
-          "CPU"
-        ],
-        "Date": "2023-03-22T09:04:03.4468877-04:00",
-        "Update": "2023-09-11T10:29:55.9322798-04:00",
-        "Label": "Intel Core i5-11400 +Disipador"
       },
       {
         "Price": 189.00,
