@@ -88,14 +88,6 @@
         "Label": "Kit i9-12900K + MSI PRO Z690-A Wifi + DDR5 Viper Venom 32GB 6000mhz"
       },
       {
-        "Price": 465.00,
-        "Features": [],
-        "Date": "2023-09-13T13:45:05.2130634-04:00",
-        "Update": "2023-09-13T13:58:13.195589-04:00",
-        "Discount": 9.0,
-        "Label": "Kit Ryzen 7 5800X + Gigabyte B550 Gaming X V2 + DDR4 GeIL ORION RGB 16GB 4000mhz"
-      },
-      {
         "Price": 469.00,
         "Features": [],
         "Date": "2023-09-13T13:46:31.7853715-04:00",
@@ -514,17 +506,6 @@
         "Date": "2023-05-11T08:37:27.4728146-04:00",
         "Update": "2023-07-27T10:06:16.2570921-04:00",
         "Label": "DDR5 Corsair Vengeance RGB 48GB 5600mhz"
-      },
-      {
-        "Price": 155.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL38"
-        ],
-        "Date": "2023-05-11T08:37:02.3477958-04:00",
-        "Update": "2023-07-27T10:06:16.2804757-04:00",
-        "Label": "DDR5 Corsair Vengeance RGB 32GB 6400mhz"
       },
       {
         "Price": 99.00,
@@ -1228,23 +1209,6 @@
         "Label": "Kit Líquido Corsair Hydro XH305i"
       },
       {
-        "Price": 399.00,
-        "Features": [
-          "360mm",
-          "Premium",
-          "RGB",
-          "CUSTOM",
-          "CPU + GPU",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4"
-        ],
-        "Date": "2023-03-27T12:00:08.8338454-04:00",
-        "Update": "2023-06-09T16:50:28.848719-04:00",
-        "Label": "Kit Líquido Corsair Hydro XH303i"
-      },
-      {
         "Price": 10.00,
         "Features": [
           "LGA 1700",
@@ -1561,25 +1525,6 @@
         "Date": "2023-06-29T07:39:17.5627753-04:00",
         "Update": "2023-07-27T07:36:15.5994416-04:00",
         "Label": "Gigabyte Aorus B760M Elite AX"
-      },
-      {
-        "Price": 185.00,
-        "Features": [
-          "AM4",
-          "AMD",
-          "6xSATA",
-          "6xUSB",
-          "DDR4",
-          "4733mhz",
-          "ATX",
-          "PS2",
-          "DVI",
-          "HDMI",
-          "3xAudio"
-        ],
-        "Date": "2023-07-13T11:32:04.6371575-04:00",
-        "Update": "2023-07-27T07:36:15.6238273-04:00",
-        "Label": "Gigabyte B550 Gaming X V2"
       },
       {
         "Price": 259.00,
@@ -1983,21 +1928,6 @@
         "Date": "2023-03-22T09:04:14.8362359-04:00",
         "Update": "2023-09-02T13:38:05.5208206-04:00",
         "Label": "Intel Core i7-13700K"
-      },
-      {
-        "Price": 210.00,
-        "Features": [
-          "5000 Series",
-          "16 Hilos",
-          "8 Core",
-          "4.7GHz",
-          "32MB L3",
-          "AM4",
-          "CPU"
-        ],
-        "Date": "2023-05-11T07:44:14.6151541-04:00",
-        "Update": "2023-09-09T09:35:01.1252563-04:00",
-        "Label": "AMD Ryzen 7 5800X"
       },
       {
         "Price": 189.00,
@@ -2712,21 +2642,6 @@
         "Label": "Teclado Asus ROG Strix Flare"
       },
       {
-        "Price": 67.00,
-        "Features": [
-          "Membrana",
-          "LED",
-          "Palm rest",
-          "Gaming",
-          "Optico",
-          "3200dpi",
-          "USB"
-        ],
-        "Date": "2023-07-13T11:32:08.835789-04:00",
-        "Update": "2023-07-13T12:01:33.7883075-04:00",
-        "Label": "COMBO Teclado + Mouse + Pad GAMDIAS HERMES E1A 3-in-1"
-      },
-      {
         "Price": 29.00,
         "Features": [
           "Membrana",
@@ -2939,24 +2854,6 @@
         "Date": "2023-07-26T18:49:01.6603508-04:00",
         "Update": "2023-07-31T14:53:37.2835019-04:00",
         "Label": "Adaptador HDMI a DVI"
-      }
-    ],
-    "Externo": [
-      {
-        "Price": 26.00,
-        "Features": [
-          "USB3.1 Gen2",
-          "UASP",
-          "ToolFree",
-          "NVMe",
-          "10Gbps",
-          "2-in-1",
-          "USB-A",
-          "USB-C"
-        ],
-        "Date": "2023-08-01T11:14:53.1196595-04:00",
-        "Update": "2023-08-02T11:51:57.1329172-04:00",
-        "Label": "Enclosure M.2 Orico USB-A/C"
       }
     ],
     "Backup": [
