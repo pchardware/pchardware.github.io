@@ -2,7 +2,7 @@
   "Computadoras": {
     "Multimedia": [
       {
-        "Price": 2663.00,
+        "Price": 2657.00,
         "Features": [],
         "Date": "2023-08-16T11:32:00.8554983-04:00",
         "Update": "2023-08-16T12:56:28.9620407-04:00",
@@ -72,7 +72,7 @@
     ],
     "Rendimiento": [
       {
-        "Price": 599.00,
+        "Price": 593.00,
         "Features": [],
         "Date": "2023-09-13T13:16:31.3080477-04:00",
         "Update": "2023-09-13T13:58:13.097448-04:00",
@@ -408,18 +408,6 @@
         "Label": "Fan Thermalright KIT ARGB"
       },
       {
-        "Price": 37.00,
-        "Features": [
-          "PCIe x1",
-          "6.0 Gbs",
-          "Interna",
-          "Adaptador"
-        ],
-        "Date": "2023-09-11T09:09:53.366551-04:00",
-        "Update": "2023-09-11T10:29:56.1172652-04:00",
-        "Label": "Expansión Weastlinks 4xSATA"
-      },
-      {
         "Price": 5.00,
         "Features": [
           "Jeringuilla"
@@ -541,7 +529,7 @@
         "Label": "DDR5 G.Skill Trident Z5 RGB 32GB 6400mhz"
       },
       {
-        "Price": 135.00,
+        "Price": 129.00,
         "Features": [
           "2x16GB",
           "Disipadas",
@@ -639,17 +627,6 @@
         "Date": "2023-09-02T12:39:07.9391974-04:00",
         "Update": "2023-09-02T13:38:05.6420843-04:00",
         "Label": "DDR5 Viper Venom 32GB 6000mhz"
-      },
-      {
-        "Price": 87.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL16"
-        ],
-        "Date": "2023-09-11T09:09:34.8583822-04:00",
-        "Update": "2023-09-11T10:29:56.0875077-04:00",
-        "Label": "DDR4 Silicon Power 32GB 3200mhz"
       },
       {
         "Price": 59.00,
@@ -1436,18 +1413,6 @@
         "Date": "2023-06-29T07:38:17.9677885-04:00",
         "Update": "2023-08-01T11:12:54.6876326-04:00",
         "Label": "HDD 3.5 Seagate Desktop 1TB"
-      },
-      {
-        "Price": 89.00,
-        "Features": [
-          "128mb",
-          "7200rpm",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-05-11T14:17:30.8616693-04:00",
-        "Update": "2023-08-21T08:57:21.9436672-04:00",
-        "Label": "HDD 3.5 Seagate Constellation 4TB"
       }
     ],
     "Board": [
@@ -2348,19 +2313,6 @@
         "Date": "2023-06-19T07:49:14.3324582-04:00",
         "Update": "2023-07-19T11:18:32.6612517-04:00",
         "Label": "Mouse Pad Corsair MM300 Extended"
-      },
-      {
-        "Price": 29.00,
-        "Features": [
-          "53g",
-          "PTFE",
-          "Omron Switches",
-          "Ultralight",
-          "Pro-Grade"
-        ],
-        "Date": "2023-08-01T11:15:22.0148333-04:00",
-        "Update": "2023-08-01T18:30:20.4219489-04:00",
-        "Label": "Mouse Cooler Master M710"
       },
       {
         "Price": 57.00,
