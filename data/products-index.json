@@ -9,6 +9,16 @@
         "Discount": 59.0,
         "Label": "PC i9-12900K, 70 Teras*, Z790 Steel, 32GB 6400mhz, 1TB M.2, 1000W, FullTower, 24FHD Curvo"
       }
+    ],
+    "Entusiasta": [
+      {
+        "Price": 2176.00,
+        "Features": [],
+        "Date": "2023-09-21T22:02:46.059702-04:00",
+        "Update": "2023-09-21T22:07:05.0852204-04:00",
+        "Discount": 50.0,
+        "Label": "PC Gamer i5-12600K + RTX 4060 + Gigabyte Z690 AERO G + 32GB + M.2 1TB + 27\" 1440p 144Hz"
+      }
     ]
   },
   "Kits": {
