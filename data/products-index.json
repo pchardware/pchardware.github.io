@@ -68,6 +68,30 @@
         "Update": "2023-09-15T11:24:21.8097102-04:00",
         "Discount": 14.0,
         "Label": "Kit i7-12700K + Asus ROG Maximus Z690 Hero + DDR5 Corsair Dominator Platinum RGB 32GB"
+      },
+      {
+        "Price": 939.00,
+        "Features": [],
+        "Date": "2023-09-21T21:15:59.7347414-04:00",
+        "Update": "2023-09-21T21:38:08.9265097-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i7-13700K + Asus ROG Strix Z790-H Gaming + DDR5 Corsair Dominator Platinum RGB 32GB"
+      },
+      {
+        "Price": 749.00,
+        "Features": [],
+        "Date": "2023-09-21T21:28:29.9270677-04:00",
+        "Update": "2023-09-21T21:38:08.9456013-04:00",
+        "Discount": 14.0,
+        "Label": "Kit i7-12700K + Asus ROG Strix Z690-E Gaming Wifi + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 1015.00,
+        "Features": [],
+        "Date": "2023-09-21T21:29:53.6548989-04:00",
+        "Update": "2023-09-21T21:38:08.9551923-04:00",
+        "Discount": 12.0,
+        "Label": "Kit i9-12900K + Asus ROG Maximus Z690 Hero + DDR5 G.SKILL Trident Z5 RGB 64GB"
       }
     ],
     "Rendimiento": [
@@ -110,6 +134,14 @@
         "Update": "2023-09-15T11:24:21.7229116-04:00",
         "Discount": 10.0,
         "Label": "Kit i5-12600K + MSI PRO Z690-A Wifi + DDR5 Viper Venom 32GB 6000mhz"
+      },
+      {
+        "Price": 729.00,
+        "Features": [],
+        "Date": "2023-09-21T21:13:15.8512304-04:00",
+        "Update": "2023-09-21T21:38:08.9175494-04:00",
+        "Discount": 14.0,
+        "Label": "Kit i7-13700K + MSI PRO Z690-A Wifi + DDR5 Viper Venom 32GB 6000mhz"
       }
     ],
     "Moderado": [
@@ -128,6 +160,22 @@
         "Update": "2023-09-13T13:58:13.2045028-04:00",
         "Discount": 8.0,
         "Label": "Kit Ryzen 7 5700G + Gigabyte B550M K + Silicon Power 16GB 3200mhz"
+      },
+      {
+        "Price": 589.00,
+        "Features": [],
+        "Date": "2023-09-21T21:24:23.5231727-04:00",
+        "Update": "2023-09-21T21:38:08.9353872-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i5-12600K + Gigabyte Z690 AERO G + DDR5 Silicon Power Zenith RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 555.00,
+        "Features": [],
+        "Date": "2023-09-21T21:31:35.7338367-04:00",
+        "Update": "2023-09-21T21:38:08.9667932-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i5-13500 +Disipador + ASRock B760M PRO RS + DDR5 Silicon Power Zenith RGB 32GB 6000mhz"
       }
     ],
     "Esencial": [
