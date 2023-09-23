@@ -94,14 +94,6 @@
         "Label": "Kit i5-13500 +Disipador + ASRock B660M PRO RS + DDR4 Silicon Power 16GB 3200mhz"
       },
       {
-        "Price": 379.00,
-        "Features": [],
-        "Date": "2023-09-13T13:45:31.5295564-04:00",
-        "Update": "2023-09-13T13:58:13.2045028-04:00",
-        "Discount": 8.0,
-        "Label": "Kit Ryzen 7 5700G + Gigabyte B550M K + Silicon Power 16GB 3200mhz"
-      },
-      {
         "Price": 589.00,
         "Features": [],
         "Date": "2023-09-21T21:24:23.5231727-04:00",
@@ -132,16 +124,6 @@
         "Update": "2023-09-23T12:07:14.3946554-04:00",
         "Discount": 10.0,
         "Label": "Kit i5-11400 +Disipador + ASRock Z590 Extreme Wifi 6E + Team T-Force Delta RGB 16GB 3600mhz"
-      }
-    ],
-    "Esencial": [
-      {
-        "Price": 349.00,
-        "Features": [],
-        "Date": "2023-09-13T13:47:32.3099333-04:00",
-        "Update": "2023-09-13T13:58:13.2356967-04:00",
-        "Discount": 8.0,
-        "Label": "Kit i3-12100 +Disipador + ASRock B660M PRO RS + Silicon Power 16GB 3200mhz"
       }
     ]
   },
@@ -567,17 +549,6 @@
         "Label": "DDR5 GeIL ORION RGB 32GB 6000mhz"
       },
       {
-        "Price": 235.00,
-        "Features": [
-          "2x32GB",
-          "Disipadas",
-          "CL40"
-        ],
-        "Date": "2023-03-30T09:56:14.691824-04:00",
-        "Update": "2023-08-21T08:57:21.975614-04:00",
-        "Label": "DDR5 Corsair Vengeance RGB 64GB 5200mhz"
-      },
-      {
         "Price": 249.00,
         "Features": [
           "CL28",
@@ -622,7 +593,7 @@
         "Label": "DDR4 Silicon Power 16GB 3200mhz"
       },
       {
-        "Price": 120.00,
+        "Price": 119.00,
         "Features": [
           "2x16GB",
           "Disipadas",
@@ -1605,25 +1576,6 @@
         "Date": "2023-07-26T18:48:17.6030093-04:00",
         "Update": "2023-08-06T08:19:53.923068-04:00",
         "Label": "Gigabyte Z790 UD AX"
-      },
-      {
-        "Price": 139.00,
-        "Features": [
-          "AM4",
-          "AMD",
-          "4xSATA",
-          "8xUSB",
-          "DDR4",
-          "4733mhz",
-          "Micro ATX",
-          "PS2",
-          "DisplpayPort",
-          "HDMI",
-          "3xAudio"
-        ],
-        "Date": "2023-09-11T09:08:42.5651484-04:00",
-        "Update": "2023-09-11T10:29:55.9946264-04:00",
-        "Label": "Gigabyte B550M K"
       }
     ],
     "Disipador por Aire": [
@@ -1769,22 +1721,6 @@
         "Date": "2023-05-11T07:00:48.0876416-04:00",
         "Update": "2023-07-27T11:12:22.7531535-04:00",
         "Label": "Intel Core i9-12900K"
-      },
-      {
-        "Price": 149.00,
-        "Features": [
-          "12va Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.3GHz",
-          "12MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-05-11T07:28:15.7616729-04:00",
-        "Update": "2023-07-27T11:12:22.803389-04:00",
-        "Label": "Intel Core i3-12100 +Disipador"
       },
       {
         "Price": 209.00,
@@ -2630,7 +2566,7 @@
         "Label": "Teclado Cooler Master SK653"
       },
       {
-        "Price": 180.00,
+        "Price": 169.00,
         "Features": [
           "RGB",
           "agua-polvo",
