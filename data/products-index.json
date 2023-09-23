@@ -1,15 +1,5 @@
 {
   "Computadoras": {
-    "Multimedia": [
-      {
-        "Price": 2655.00,
-        "Features": [],
-        "Date": "2023-08-16T11:32:00.8554983-04:00",
-        "Update": "2023-09-21T22:16:19.2697071-04:00",
-        "Discount": 61.0,
-        "Label": "PC i9-12900K, 70 Teras*, Z790 Steel, 32GB 6400mhz, 1TB M.2, 1000W, FullTower, 24FHD Curvo"
-      }
-    ],
     "Entusiasta": [
       {
         "Price": 2175.00,
@@ -114,44 +104,12 @@
         "Label": "Kit i7-12700K + MSI PRO Z690-A Wifi + DDR5 XPG Lancer 32GB 6400mhz"
       },
       {
-        "Price": 669.00,
-        "Features": [],
-        "Date": "2023-09-13T13:23:40.1950077-04:00",
-        "Update": "2023-09-13T13:58:13.1282885-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i9-12900K + MSI PRO Z690-A Wifi + DDR5 Viper Venom 32GB 6000mhz"
-      },
-      {
-        "Price": 469.00,
-        "Features": [],
-        "Date": "2023-09-13T13:46:31.7853715-04:00",
-        "Update": "2023-09-13T13:58:13.2212223-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-12400 +Disipador + ASRock B760M PRO RS + DDR5 Viper Venom 32GB 6000mhz"
-      },
-      {
         "Price": 845.00,
         "Features": [],
         "Date": "2023-09-13T13:05:47.5051318-04:00",
         "Update": "2023-09-13T14:04:08.7608385-04:00",
         "Discount": 12.0,
         "Label": "Kit i7-13700K + Gigabyte Z790 UD AX + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
-      },
-      {
-        "Price": 519.00,
-        "Features": [],
-        "Date": "2023-09-15T11:09:09.9915543-04:00",
-        "Update": "2023-09-15T11:24:21.7229116-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-12600K + MSI PRO Z690-A Wifi + DDR5 Viper Venom 32GB 6000mhz"
-      },
-      {
-        "Price": 729.00,
-        "Features": [],
-        "Date": "2023-09-21T21:13:15.8512304-04:00",
-        "Update": "2023-09-21T21:38:08.9175494-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i7-13700K + MSI PRO Z690-A Wifi + DDR5 Viper Venom 32GB 6000mhz"
       }
     ],
     "Moderado": [
@@ -676,17 +634,6 @@
         "Label": "DDR5 Corsair Dominator Platinum RGB 32GB 5200mhz"
       },
       {
-        "Price": 105.00,
-        "Features": [
-          "2x16GB",
-          "C36",
-          "Disipadas"
-        ],
-        "Date": "2023-09-02T12:39:07.9391974-04:00",
-        "Update": "2023-09-02T13:38:05.6420843-04:00",
-        "Label": "DDR5 Viper Venom 32GB 6000mhz"
-      },
-      {
         "Price": 59.00,
         "Features": [
           "2x8GB",
@@ -775,25 +722,6 @@
         "Date": "2023-07-26T16:41:43.3854558-04:00",
         "Update": "2023-07-27T07:54:42.9679828-04:00",
         "Label": "Chasis NZXT H510 Negro-Rojo"
-      },
-      {
-        "Price": 149.00,
-        "Features": [
-          "V-GPU",
-          "DualPSU",
-          "5xUSB",
-          "4xFan",
-          "FanSpeed",
-          "Full Tower",
-          "Gamer",
-          "ATX",
-          "E-ATX",
-          "3xHDD",
-          "Negro"
-        ],
-        "Date": "2023-08-01T11:14:45.7434962-04:00",
-        "Update": "2023-08-01T12:24:37.9343726-04:00",
-        "Label": "Chasis Rosewill Rise"
       },
       {
         "Price": 215.00,
@@ -991,17 +919,6 @@
         "Date": "2023-04-09T10:02:38.0091639-04:00",
         "Update": "2023-09-11T10:29:55.9635525-04:00",
         "Label": "SSD M.2 WD Green SN350 1TB"
-      },
-      {
-        "Price": 125.00,
-        "Features": [
-          "5000mbs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-09-11T09:08:58.7388503-04:00",
-        "Update": "2023-09-11T10:29:56.0100312-04:00",
-        "Label": "SSD M.2 Corsair MP600 CORE XT 2TB"
       },
       {
         "Price": 67.00,
@@ -1325,21 +1242,6 @@
         "Date": "2023-08-16T09:17:35.0132441-04:00",
         "Update": "2023-08-29T09:46:36.0522295-04:00",
         "Label": "D.Líquida CoolerMaster MasterLiquid 240L Core ARGB White"
-      },
-      {
-        "Price": 179.00,
-        "Features": [
-          "3xFan",
-          "360mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM5",
-          "AM4"
-        ],
-        "Date": "2023-06-29T07:38:53.691162-04:00",
-        "Update": "2023-08-29T09:46:36.0729965-04:00",
-        "Label": "D.Líquida Cooler Master MasterLiquid ML360L V2 ARGB"
       },
       {
         "Price": 269.00,
@@ -1694,27 +1596,6 @@
     ],
     "Disipador por Aire": [
       {
-        "Price": 57.00,
-        "Features": [
-          "4xPipes",
-          "1550rpm",
-          "66cfm",
-          "26dBA",
-          "148mm",
-          "Negro",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4",
-          "AM5",
-          "Tower",
-          "1xFan"
-        ],
-        "Date": "2023-03-27T10:59:27.7734094-04:00",
-        "Update": "2023-07-27T09:48:00.6698431-04:00",
-        "Label": "Enfriamiento Thermalright Assassin X 120 R SE ARGB"
-      },
-      {
         "Price": 11.00,
         "Features": [
           "LGA 1200",
@@ -2057,23 +1938,6 @@
         "Label": "MSI RX 6750 XT Gaming X TRIO 12G"
       },
       {
-        "Price": 975.00,
-        "Features": [
-          "DLSS3",
-          "3xFan",
-          "12GB",
-          "1x16Pin",
-          "750WR",
-          "337mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-08-08T10:08:35.8891088-04:00",
-        "Update": "2023-08-09T11:38:47.3836299-04:00",
-        "Label": "MSI RTX 4070 Ti Gaming TRIO"
-      },
-      {
         "Price": 305.00,
         "Features": [
           "2xFan",
@@ -2380,21 +2244,6 @@
         "Label": "Mouse Corsair M65 ELITE RGB Black"
       },
       {
-        "Price": 49.00,
-        "Features": [
-          "Sniper",
-          "16000dpi",
-          "Optico",
-          "10 botónes",
-          "Peso ajustable",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-08-29T08:41:18.737807-04:00",
-        "Update": "2023-08-29T10:22:03.7512821-04:00",
-        "Label": "Mouse EVGA X17 Gray"
-      },
-      {
         "Price": 37.00,
         "Features": [
           "Gaming",
@@ -2477,22 +2326,6 @@
         "Date": "2023-05-11T20:29:43.7243784-04:00",
         "Update": "2023-06-24T10:51:11.4310383-04:00",
         "Label": "COMBO Teclado + Mouse Logitech MK520"
-      },
-      {
-        "Price": 62.00,
-        "Features": [
-          "Gaming",
-          "RGB",
-          "Aluminum",
-          "Anti ghosting",
-          "Multimedia",
-          "Macros",
-          "Membrana",
-          "Full"
-        ],
-        "Date": "2023-06-24T08:20:23.0275936-04:00",
-        "Update": "2023-06-24T10:51:11.4902179-04:00",
-        "Label": "Teclado Rosewill NEON K54"
       },
       {
         "Price": 105.00,
@@ -2859,26 +2692,6 @@
         "Date": "2023-05-11T19:58:00.9741721-04:00",
         "Update": "2023-08-20T11:36:57.1918562-04:00",
         "Label": "MSI Pro 24FHD MP242C"
-      },
-      {
-        "Price": 485.00,
-        "Features": [
-          "144Hz",
-          "2K",
-          "Curvo",
-          "1440p",
-          "1ms",
-          "350nit",
-          "VA",
-          "FreeSync",
-          "Gaming",
-          "Monitor",
-          "HDMI",
-          "DP"
-        ],
-        "Date": "2023-06-24T08:19:29.7799115-04:00",
-        "Update": "2023-08-20T11:36:57.2085914-04:00",
-        "Label": "Lenovo 32QHD G32QC-10"
       },
       {
         "Price": 269.00,
