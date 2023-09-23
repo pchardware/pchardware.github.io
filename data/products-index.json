@@ -1,4 +1,16 @@
 {
+  "Computadoras": {
+    "Entusiasta": [
+      {
+        "Price": 1525.00,
+        "Features": [],
+        "Date": "2023-08-20T13:32:33.8852707-04:00",
+        "Update": "2023-09-23T18:19:21.5887938-04:00",
+        "Discount": 42.0,
+        "Label": "PC Ent TUF 24\", i5 12Gen, Asus B660 ProArt, 16GB RGB, 980 500GB, RX 6650 XT, CX750M, H510, Gaming K1"
+      }
+    ]
+  },
   "Kits": {
     "Entusiasta": [
       {
@@ -72,6 +84,14 @@
         "Update": "2023-09-21T21:38:08.9551923-04:00",
         "Discount": 12.0,
         "Label": "Kit i9-12900K + Asus ROG Maximus Z690 Hero + DDR5 G.SKILL Trident Z5 RGB 64GB"
+      },
+      {
+        "Price": 645.00,
+        "Features": [],
+        "Date": "2023-09-13T13:15:22.925563-04:00",
+        "Update": "2023-09-23T18:19:21.6493424-04:00",
+        "Discount": 12.0,
+        "Label": "Kit i7-12700K + Asus TUF Z690-Plus Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       }
     ],
     "Rendimiento": [
@@ -602,6 +622,28 @@
         "Date": "2023-07-17T23:38:59.1422699-04:00",
         "Update": "2023-09-23T12:07:14.2329126-04:00",
         "Label": "DDR5 G.Skill Ripjaws S5 Series 32GB 6400mhz"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "2x16GB",
+          "CL40",
+          "Disipadas"
+        ],
+        "Date": "2023-05-11T08:38:23.3870937-04:00",
+        "Update": "2023-09-23T18:19:21.4805144-04:00",
+        "Label": "DDR5 Gigabyte AORUS 32GB 5200mhz"
+      },
+      {
+        "Price": 73.00,
+        "Features": [
+          "2x8GB",
+          "Disipadas",
+          "CL19"
+        ],
+        "Date": "2023-09-23T17:45:32.1937207-04:00",
+        "Update": "2023-09-23T18:19:21.7084149-04:00",
+        "Label": "DDR4 Neo Forza FAYE 16GB 4600mhz"
       }
     ],
     "Chasis": [
@@ -878,6 +920,52 @@
         "Date": "2023-09-11T09:09:15.3220665-04:00",
         "Update": "2023-09-11T11:17:59.1953642-04:00",
         "Label": "SSD M.2 Solidigm P41 Plus 1TB"
+      },
+      {
+        "Price": 129.00,
+        "Features": [
+          "7400mbs",
+          "1480tbw",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-07-09T16:53:43.4807497-04:00",
+        "Update": "2023-09-23T18:19:21.5390998-04:00",
+        "Label": "SSD M.2 AData Premium 2TB"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "5000mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-09-11T09:08:58.7388503-04:00",
+        "Update": "2023-09-23T18:19:21.6390035-04:00",
+        "Label": "SSD M.2 Corsair MP600 CORE XT 2TB"
+      },
+      {
+        "Price": 89.00,
+        "Features": [
+          "7400mbs",
+          "PCIe 4",
+          "1450tbw",
+          "NVMe"
+        ],
+        "Date": "2023-09-23T17:40:17.7101762-04:00",
+        "Update": "2023-09-23T18:19:21.6733146-04:00",
+        "Label": "SSD M.2 Team Group MP44 1TB"
+      },
+      {
+        "Price": 149.00,
+        "Features": [
+          "7000mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-09-23T17:40:22.4977195-04:00",
+        "Update": "2023-09-23T18:19:21.6821981-04:00",
+        "Label": "SSD M.2 Corsair MP600 PRO NH 2TB"
       }
     ],
     "Fuente": [
@@ -1034,6 +1122,23 @@
         "Date": "2023-06-29T07:39:33.0518165-04:00",
         "Update": "2023-09-23T12:07:14.2118923-04:00",
         "Label": "Fuente Thermaltake Smart 700W 80+"
+      },
+      {
+        "Price": 295.00,
+        "Features": [
+          "80+ PLATINUM",
+          "ARGB",
+          "Full Modular",
+          "1x 16-Pin",
+          "71A",
+          "2x 4+4 EPS",
+          "3x 6+2Pin",
+          "10x SATA",
+          "160mm"
+        ],
+        "Date": "2023-08-08T10:02:44.4021387-04:00",
+        "Update": "2023-09-23T18:19:21.5295023-04:00",
+        "Label": "Fuente Asus ROG Thor 850W Platinum III"
       }
     ],
     "Red": [
@@ -1250,6 +1355,23 @@
         "Date": "2023-09-23T14:08:19.3847491-04:00",
         "Update": "2023-09-23T15:28:21.1532772-04:00",
         "Label": "D.Líquida ID-COOLING AURAFLOW X 240"
+      },
+      {
+        "Price": 269.00,
+        "Features": [
+          "2xFan",
+          "280mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "LGA 2066",
+          "LGA 2011",
+          "AM4",
+          "sTRX4"
+        ],
+        "Date": "2023-09-23T17:40:28.0287573-04:00",
+        "Update": "2023-09-23T18:19:21.6908304-04:00",
+        "Label": "D.Líquida Gigabyte AORUS WATERFORCE X 280"
       }
     ],
     "Disco Duro": [
@@ -1348,6 +1470,18 @@
         "Date": "2023-09-23T14:09:03.2481261-04:00",
         "Update": "2023-09-23T15:28:21.227746-04:00",
         "Label": "HDD 3.5 Seagate EXOS 16TB Recertified"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "64mb",
+          "5900rpm",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-07-26T16:42:06.8492862-04:00",
+        "Update": "2023-09-23T18:19:21.5033902-04:00",
+        "Label": "HDD 3.5 Seagate Pipeline 2TB"
       }
     ],
     "Board": [
@@ -1576,6 +1710,22 @@
         "Date": "2023-07-26T18:48:17.6030093-04:00",
         "Update": "2023-08-06T08:19:53.923068-04:00",
         "Label": "Gigabyte Z790 UD AX"
+      },
+      {
+        "Price": 239.00,
+        "Features": [
+          "12va-13ra",
+          "6xAudio",
+          "6xUSB",
+          "4xSATA",
+          "6000mhz",
+          "LGA1700",
+          "HDMI",
+          "DisplayPort"
+        ],
+        "Date": "2023-05-11T07:56:36.6020035-04:00",
+        "Update": "2023-09-23T18:19:21.5166026-04:00",
+        "Label": "Asus TUF Z690-Plus Wifi DDR5"
       }
     ],
     "Disipador por Aire": [
@@ -1649,6 +1799,31 @@
         "Label": "Enfriamiento Intel Stock Original"
       },
       {
+        "Price": 119.00,
+        "Features": [
+          "Dual",
+          "2xFan",
+          "6xPipes",
+          "ARGB",
+          "Premium",
+          "52cfm",
+          "27dBA",
+          "Cobre",
+          "157mm",
+          "2050rpm",
+          "Negro",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4",
+          "AM5",
+          "Tower"
+        ],
+        "Date": "2023-07-26T18:49:11.7802452-04:00",
+        "Update": "2023-09-23T18:19:21.5526423-04:00",
+        "Label": "Enfriamiento Cooler Master Hyper 622 Halo Black"
+      },
+      {
         "Price": 61.00,
         "Features": [
           "ARGB",
@@ -1666,8 +1841,25 @@
           "1xFan"
         ],
         "Date": "2023-09-23T14:09:08.5628773-04:00",
-        "Update": "2023-09-23T15:28:21.2406088-04:00",
+        "Update": "2023-09-23T18:19:21.6602849-04:00",
         "Label": "Enfriamiento ID-COOLING SE-214-XT ARGB"
+      },
+      {
+        "Price": 43.00,
+        "Features": [
+          "2xPipes",
+          "48cfm",
+          "21dBA",
+          "2000rpm",
+          "Hydraulic",
+          "LGA 115X",
+          "AM4",
+          "Tower",
+          "1xFan"
+        ],
+        "Date": "2023-09-23T17:45:41.9069858-04:00",
+        "Update": "2023-09-23T18:19:21.7260434-04:00",
+        "Label": "Enfriamiento Sama SC125"
       }
     ],
     "Microprocesador": [
@@ -2047,6 +2239,52 @@
         "Date": "2023-09-23T14:08:44.7733868-04:00",
         "Update": "2023-09-23T15:28:21.1767037-04:00",
         "Label": "Asus Dual RX 6600"
+      },
+      {
+        "Price": 309.00,
+        "Features": [
+          "8GB",
+          "2xFan",
+          "1x8Pin",
+          "550WR",
+          "235mm",
+          "Radeon",
+          "AMD",
+          "GPU"
+        ],
+        "Date": "2023-07-17T23:39:40.6107252-04:00",
+        "Update": "2023-09-23T18:19:21.5692198-04:00",
+        "Label": "MSI Mech Radeon RX 6650 XT"
+      },
+      {
+        "Price": 495.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "650WR",
+          "247mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-08-21T08:58:03.7946257-04:00",
+        "Update": "2023-09-23T18:19:21.6032521-04:00",
+        "Label": "GPU MSI RTX 4060 Ti Gaming X 8GB"
+      },
+      {
+        "Price": 209.00,
+        "Features": [
+          "2xFan",
+          "1x6Pin",
+          "400WR",
+          "194mm",
+          "Radeon",
+          "AMD",
+          "GPU"
+        ],
+        "Date": "2023-09-23T17:45:37.2322879-04:00",
+        "Update": "2023-09-23T18:19:21.7169018-04:00",
+        "Label": "Sapphire PULSE RX 6500 XT 4GB"
       }
     ]
   },
@@ -2133,6 +2371,20 @@
         "Date": "2023-08-16T09:17:21.5276421-04:00",
         "Update": "2023-09-02T13:38:05.4498334-04:00",
         "Label": "Hub ORICO 4-Port USB 3.0"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "USB3.0",
+          "2.5",
+          "3.5",
+          "SATA 3",
+          "UASP",
+          "3A"
+        ],
+        "Date": "2023-09-23T17:40:33.4339482-04:00",
+        "Update": "2023-09-23T18:19:21.6998353-04:00",
+        "Label": "Docking MAIWO Dual Bay"
       }
     ],
     "Mouse": [
@@ -2299,6 +2551,33 @@
         "Date": "2023-09-23T14:08:24.2497001-04:00",
         "Update": "2023-09-23T15:28:21.1671243-04:00",
         "Label": "Mouse EVGA X12 White"
+      },
+      {
+        "Price": 55.00,
+        "Features": [
+          "Wireless",
+          "12000dpi",
+          "6 botónes",
+          "Optico",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-06-29T07:38:38.0146289-04:00",
+        "Update": "2023-09-23T18:19:21.4900266-04:00",
+        "Label": "Mouse Logitech G305 Lightspeed"
+      },
+      {
+        "Price": 57.00,
+        "Features": [
+          "16000dpi",
+          "Optico",
+          "11 botónes",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-06-19T07:49:10.8952301-04:00",
+        "Update": "2023-09-23T18:19:21.623126-04:00",
+        "Label": "Mause Logitech G502 Hero"
       }
     ],
     "Teclado": [
