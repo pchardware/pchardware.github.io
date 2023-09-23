@@ -116,6 +116,22 @@
         "Update": "2023-09-21T21:38:08.9667932-04:00",
         "Discount": 10.0,
         "Label": "Kit i5-13500 +Disipador + ASRock B760M PRO RS + DDR5 Silicon Power Zenith RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 473.00,
+        "Features": [],
+        "Date": "2023-09-15T11:03:08.0452878-04:00",
+        "Update": "2023-09-23T12:07:14.3775833-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i5 11na +Disipador + ASRock Z590 Extreme Wifi 6E + G.Skill Sniper X 32GB 3600mhz"
+      },
+      {
+        "Price": 449.00,
+        "Features": [],
+        "Date": "2023-09-13T13:48:54.5300436-04:00",
+        "Update": "2023-09-23T12:07:14.3946554-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i5-11400 +Disipador + ASRock Z590 Extreme Wifi 6E + Team T-Force Delta RGB 16GB 3600mhz"
       }
     ],
     "Esencial": [
@@ -604,6 +620,17 @@
         "Date": "2023-09-11T09:09:45.8694223-04:00",
         "Update": "2023-09-11T10:29:56.1063899-04:00",
         "Label": "DDR4 Silicon Power 16GB 3200mhz"
+      },
+      {
+        "Price": 120.00,
+        "Features": [
+          "2x16GB",
+          "Disipadas",
+          "CL32"
+        ],
+        "Date": "2023-07-17T23:38:59.1422699-04:00",
+        "Update": "2023-09-23T12:07:14.2329126-04:00",
+        "Label": "DDR5 G.Skill Ripjaws S5 Series 32GB 6400mhz"
       }
     ],
     "Chasis": [
@@ -1024,6 +1051,18 @@
         "Date": "2023-09-11T09:09:29.0343419-04:00",
         "Update": "2023-09-11T10:45:33.5758621-04:00",
         "Label": "Fuente Apevia Spirit 600W"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "54A",
+          "2x 6+2 Pin",
+          "6x SATA",
+          "1x 4+4 EPS"
+        ],
+        "Date": "2023-06-29T07:39:33.0518165-04:00",
+        "Update": "2023-09-23T12:07:14.2118923-04:00",
+        "Label": "Fuente Thermaltake Smart 700W 80+"
       }
     ],
     "Red": [
@@ -1747,6 +1786,21 @@
         "Date": "2023-06-07T15:04:47.8071575-04:00",
         "Update": "2023-09-11T10:29:55.9438334-04:00",
         "Label": "AMD Ryzen 7 5700G"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "11na Gen",
+          "12 Hilos",
+          "6 Cores",
+          "4.4GHz",
+          "12MB L3",
+          "LGA 1200",
+          "CPU"
+        ],
+        "Date": "2023-03-22T09:04:03.4468877-04:00",
+        "Update": "2023-09-23T12:07:14.3494685-04:00",
+        "Label": "Intel Core i5-11400 +Disipador"
       }
     ],
     "Tarjeta Gráfica": [
@@ -1962,6 +2016,21 @@
         "Date": "2023-09-11T09:09:04.0927141-04:00",
         "Update": "2023-09-11T10:29:56.0210254-04:00",
         "Label": "Gigabyte Aorus RTX 4060 Elite"
+      },
+      {
+        "Price": 379.00,
+        "Features": [
+          "8GB",
+          "2xFan",
+          "1x8Pin",
+          "550WR",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-07-12T21:42:49.1798698-04:00",
+        "Update": "2023-09-23T12:07:14.2593049-04:00",
+        "Label": "Asus Dual RTX 4060 OC"
       }
     ]
   },
@@ -2551,6 +2620,23 @@
         "Date": "2023-07-09T16:45:46.4090102-04:00",
         "Update": "2023-08-21T08:57:22.0279613-04:00",
         "Label": "Logitech G435 Lightspeed Wireless"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "Noise Control",
+          "20Hz-30KHz",
+          "50mm",
+          "7.1",
+          "16H",
+          "iCUE",
+          "Inalámbrico",
+          "Headset",
+          "Cascos"
+        ],
+        "Date": "2023-05-12T07:52:40.6205045-04:00",
+        "Update": "2023-09-23T12:07:14.3255593-04:00",
+        "Label": "Corsair VOID RGB Elite Wireless Carbon"
       }
     ],
     "Adaptador": [
