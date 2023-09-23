@@ -1264,6 +1264,21 @@
         "Date": "2023-05-11T13:08:41.9000968-04:00",
         "Update": "2023-09-13T10:43:42.1367765-04:00",
         "Label": "D.Líquida Enermax LIQMAX III 120 RGB"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "2xFan",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "LGA 20XX",
+          "AM5",
+          "AM4"
+        ],
+        "Date": "2023-09-23T14:08:19.3847491-04:00",
+        "Update": "2023-09-23T15:28:21.1532772-04:00",
+        "Label": "D.Líquida ID-COOLING AURAFLOW X 240"
       }
     ],
     "Disco Duro": [
@@ -1334,6 +1349,34 @@
         "Date": "2023-06-29T07:38:17.9677885-04:00",
         "Update": "2023-08-01T11:12:54.6876326-04:00",
         "Label": "HDD 3.5 Seagate Desktop 1TB"
+      },
+      {
+        "Price": 139.00,
+        "Features": [
+          "Enterprise",
+          "7200rpm",
+          "256mb",
+          "Helium",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-09-23T14:08:58.7274436-04:00",
+        "Update": "2023-09-23T15:28:21.2162108-04:00",
+        "Label": "HDD 3.5 Seagate EXOS 12TB Recertified"
+      },
+      {
+        "Price": 169.00,
+        "Features": [
+          "Enterprise",
+          "7200rpm",
+          "256mb",
+          "Helium",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-09-23T14:09:03.2481261-04:00",
+        "Update": "2023-09-23T15:28:21.227746-04:00",
+        "Label": "HDD 3.5 Seagate EXOS 16TB Recertified"
       }
     ],
     "Board": [
@@ -1652,6 +1695,27 @@
         "Date": "2023-06-07T15:04:28.5510666-04:00",
         "Update": "2023-08-01T18:41:17.2112059-04:00",
         "Label": "Enfriamiento Intel Stock Original"
+      },
+      {
+        "Price": 61.00,
+        "Features": [
+          "ARGB",
+          "4xPipes",
+          "68cfm",
+          "30dBA",
+          "2500rpm",
+          "Negro",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4",
+          "AM5",
+          "Tower",
+          "1xFan"
+        ],
+        "Date": "2023-09-23T14:09:08.5628773-04:00",
+        "Update": "2023-09-23T15:28:21.2406088-04:00",
+        "Label": "Enfriamiento ID-COOLING SE-214-XT ARGB"
       }
     ],
     "Microprocesador": [
@@ -2031,6 +2095,22 @@
         "Date": "2023-07-12T21:42:49.1798698-04:00",
         "Update": "2023-09-23T12:07:14.2593049-04:00",
         "Label": "Asus Dual RTX 4060 OC"
+      },
+      {
+        "Price": 279.00,
+        "Features": [
+          "2xFan",
+          "8GB",
+          "1x8Pin",
+          "500WR",
+          "243mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-09-23T14:08:44.7733868-04:00",
+        "Update": "2023-09-23T15:28:21.1767037-04:00",
+        "Label": "Asus Dual RX 6600"
       }
     ]
   },
@@ -2268,6 +2348,21 @@
         "Date": "2023-06-19T07:49:07.3176421-04:00",
         "Update": "2023-09-12T13:13:29.6696943-04:00",
         "Label": "Mouse Corsair IRONCLAW RGB Wireless"
+      },
+      {
+        "Price": 39.00,
+        "Features": [
+          "RGB",
+          "16000dpi",
+          "400ips",
+          "8 botónes",
+          "Gaming",
+          "Optico",
+          "USB"
+        ],
+        "Date": "2023-09-23T14:08:24.2497001-04:00",
+        "Update": "2023-09-23T15:28:21.1671243-04:00",
+        "Label": "Mouse EVGA X12 White"
       }
     ],
     "Teclado": [
@@ -2533,6 +2628,25 @@
         "Date": "2023-08-08T10:02:40.1291313-04:00",
         "Update": "2023-08-09T11:38:47.2741868-04:00",
         "Label": "Teclado Cooler Master SK653"
+      },
+      {
+        "Price": 180.00,
+        "Features": [
+          "RGB",
+          "agua-polvo",
+          "Mecánico",
+          "Aluminio",
+          "Macros",
+          "iCUE",
+          "Palm rest",
+          "Gaming",
+          "Multimedia",
+          "Full",
+          "USB"
+        ],
+        "Date": "2023-09-23T14:08:49.6528943-04:00",
+        "Update": "2023-09-23T15:28:21.1886075-04:00",
+        "Label": "Teclado Corsair Gaming K68"
       }
     ],
     "Silla": [
@@ -2637,6 +2751,23 @@
         "Date": "2023-05-12T07:52:40.6205045-04:00",
         "Update": "2023-09-23T12:07:14.3255593-04:00",
         "Label": "Corsair VOID RGB Elite Wireless Carbon"
+      },
+      {
+        "Price": 129.00,
+        "Features": [
+          "Noise Control",
+          "20Hz-30KHz",
+          "50mm",
+          "7.1",
+          "16H",
+          "iCUE",
+          "Inalámbrico",
+          "Headset",
+          "Cascos"
+        ],
+        "Date": "2023-09-23T14:08:54.0159291-04:00",
+        "Update": "2023-09-23T15:28:21.2061293-04:00",
+        "Label": "Corsair VOID RGB Elite Wireless White"
       }
     ],
     "Adaptador": [
