@@ -1,16 +1,4 @@
 {
-  "Computadoras": {
-    "Entusiasta": [
-      {
-        "Price": 2175.00,
-        "Features": [],
-        "Date": "2023-09-21T22:02:46.059702-04:00",
-        "Update": "2023-09-21T22:16:19.2805888-04:00",
-        "Discount": 51.0,
-        "Label": "PC Gamer i5-12600K + RTX 4060 + Gigabyte Z690 AERO G + 32GB + M.2 1TB + 27\" 1440p 144Hz"
-      }
-    ]
-  },
   "Kits": {
     "Entusiasta": [
       {
@@ -78,14 +66,6 @@
         "Label": "Kit i7-13700K + Asus ROG Strix Z790-H Gaming + DDR5 Corsair Dominator Platinum RGB 32GB"
       },
       {
-        "Price": 749.00,
-        "Features": [],
-        "Date": "2023-09-21T21:28:29.9270677-04:00",
-        "Update": "2023-09-21T21:38:08.9456013-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i7-12700K + Asus ROG Strix Z690-E Gaming Wifi + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
-      },
-      {
         "Price": 1015.00,
         "Features": [],
         "Date": "2023-09-21T21:29:53.6548989-04:00",
@@ -102,14 +82,6 @@
         "Update": "2023-09-13T13:58:13.097448-04:00",
         "Discount": 14.0,
         "Label": "Kit i7-12700K + MSI PRO Z690-A Wifi + DDR5 XPG Lancer 32GB 6400mhz"
-      },
-      {
-        "Price": 845.00,
-        "Features": [],
-        "Date": "2023-09-13T13:05:47.5051318-04:00",
-        "Update": "2023-09-13T14:04:08.7608385-04:00",
-        "Discount": 12.0,
-        "Label": "Kit i7-13700K + Gigabyte Z790 UD AX + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
       }
     ],
     "Moderado": [
@@ -556,17 +528,6 @@
         "Label": "DDR5 XPG Lancer 32GB 6400mhz"
       },
       {
-        "Price": 139.00,
-        "Features": [
-          "CL36",
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-03-30T09:56:12.5688722-04:00",
-        "Update": "2023-08-02T11:51:57.1247765-04:00",
-        "Label": "DDR5 Corsair Vengeance RGB 32GB 6000mhz"
-      },
-      {
         "Price": 115.00,
         "Features": [
           "16GBx2",
@@ -851,17 +812,6 @@
         "Date": "2023-07-26T16:46:54.426825-04:00",
         "Update": "2023-07-27T09:48:00.8250522-04:00",
         "Label": "SSD 2.5 Team Group CX2 2TB"
-      },
-      {
-        "Price": 105.00,
-        "Features": [
-          "7000mbs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-04-09T10:02:00.2968299-04:00",
-        "Update": "2023-08-21T08:57:21.8530988-04:00",
-        "Label": "SSD M.2 Corsair MP600 PRO NH 1TB"
       },
       {
         "Price": 109.00,
@@ -1663,29 +1613,6 @@
         "Date": "2023-06-07T15:04:28.5510666-04:00",
         "Update": "2023-08-01T18:41:17.2112059-04:00",
         "Label": "Enfriamiento Intel Stock Original"
-      },
-      {
-        "Price": 61.00,
-        "Features": [
-          "ARGB",
-          "63cfm",
-          "4xPipes",
-          "Cobre",
-          "1800rpm",
-          "25dBA",
-          "155mm",
-          "Negro",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4",
-          "AM5",
-          "Tower",
-          "1xFan"
-        ],
-        "Date": "2023-07-26T18:49:40.2918309-04:00",
-        "Update": "2023-09-11T10:29:55.9217176-04:00",
-        "Label": "Enfriamiento Thermaltake UX200 SE"
       }
     ],
     "Microprocesador": [
