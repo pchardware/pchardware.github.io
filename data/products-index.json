@@ -30,22 +30,6 @@
         "Label": "Kit i9-12900K + Gigabyte Z690 AERO G + DDR5 Corsair Vengeance RGB 48GB"
       },
       {
-        "Price": 549.00,
-        "Features": [],
-        "Date": "2023-09-13T13:25:18.8793114-04:00",
-        "Update": "2023-09-13T13:58:13.1383769-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-13500 +Disipador + Asus B660 ProArt Creator + DDR4 Corsair Vengeance RGB 16GB"
-      },
-      {
-        "Price": 599.00,
-        "Features": [],
-        "Date": "2023-09-13T13:27:28.397107-04:00",
-        "Update": "2023-09-13T13:58:13.1648562-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-13500 +Disipador + Gigabyte Aorus B760M Elite AX + DDR5 Corsair Dominator Platinum RGB 32GB"
-      },
-      {
         "Price": 719.00,
         "Features": [],
         "Date": "2023-09-15T11:15:14.5969005-04:00",
@@ -105,30 +89,6 @@
       }
     ],
     "Moderado": [
-      {
-        "Price": 485.00,
-        "Features": [],
-        "Date": "2023-09-13T13:44:12.3460847-04:00",
-        "Update": "2023-09-13T13:58:13.1857196-04:00",
-        "Discount": 8.0,
-        "Label": "Kit i5-13500 +Disipador + ASRock B660M PRO RS + DDR4 Silicon Power 16GB 3200mhz"
-      },
-      {
-        "Price": 589.00,
-        "Features": [],
-        "Date": "2023-09-21T21:24:23.5231727-04:00",
-        "Update": "2023-09-21T21:38:08.9353872-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-12600K + Gigabyte Z690 AERO G + DDR5 Silicon Power Zenith RGB 32GB 6000mhz"
-      },
-      {
-        "Price": 555.00,
-        "Features": [],
-        "Date": "2023-09-21T21:31:35.7338367-04:00",
-        "Update": "2023-09-21T21:38:08.9667932-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-13500 +Disipador + ASRock B760M PRO RS + DDR5 Silicon Power Zenith RGB 32GB 6000mhz"
-      },
       {
         "Price": 473.00,
         "Features": [],
@@ -402,18 +362,6 @@
         "Label": "Fan Kit Asus TUF Gaming TF120 ARGB +Controller"
       },
       {
-        "Price": 37.00,
-        "Features": [
-          "3x120mm",
-          "PWM",
-          "1550rpm",
-          "66cfm"
-        ],
-        "Date": "2023-09-11T09:09:09.8558272-04:00",
-        "Update": "2023-09-11T10:29:56.0316646-04:00",
-        "Label": "Fan Thermalright KIT ARGB"
-      },
-      {
         "Price": 5.00,
         "Features": [
           "Jeringuilla"
@@ -548,18 +496,6 @@
       {
         "Price": 115.00,
         "Features": [
-          "16GBx2",
-          "CL40",
-          "Blanco",
-          "Disipadas"
-        ],
-        "Date": "2023-08-08T10:03:09.2905788-04:00",
-        "Update": "2023-08-09T11:38:47.294445-04:00",
-        "Label": "DDR5 Silicon Power Zenith RGB 32GB 6000mhz"
-      },
-      {
-        "Price": 115.00,
-        "Features": [
           "2x16GB",
           "Disipadas",
           "CL38"
@@ -657,22 +593,6 @@
         "Date": "2023-06-07T15:06:17.9384399-04:00",
         "Update": "2023-06-07T15:55:09.471115-04:00",
         "Label": "Chasis MLLIQUEA Mining Rig Frame"
-      },
-      {
-        "Price": 199.00,
-        "Features": [
-          "Tempered Glass",
-          "3xFan",
-          "RGB",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro",
-          "2xHDD"
-        ],
-        "Date": "2023-05-11T19:31:54.4325471-04:00",
-        "Update": "2023-07-27T07:54:42.9231306-04:00",
-        "Label": "Chasis Cougar MX440 Mesh RGB"
       },
       {
         "Price": 239.00,
@@ -831,18 +751,6 @@
         "Label": "SSD 2.5 Team Group T-FORCE VULCAN G 512GB"
       },
       {
-        "Price": 75.00,
-        "Features": [
-          "5000mbs",
-          "PCIe 4",
-          "600tbw",
-          "NVMe"
-        ],
-        "Date": "2023-07-09T16:53:54.2555832-04:00",
-        "Update": "2023-07-27T09:48:00.7662014-04:00",
-        "Label": "SSD M.2 Silicon Power 1TB UD90"
-      },
-      {
         "Price": 95.00,
         "Features": [
           "540mbps",
@@ -897,18 +805,6 @@
         "Date": "2023-07-09T16:45:24.2760094-04:00",
         "Update": "2023-09-11T10:29:55.908247-04:00",
         "Label": "SSD M.2 Silicon Power 2TB UD90"
-      },
-      {
-        "Price": 65.00,
-        "Features": [
-          "3200mbs",
-          "PCIe 3",
-          "NVMe",
-          "100tbw"
-        ],
-        "Date": "2023-04-09T10:02:38.0091639-04:00",
-        "Update": "2023-09-11T10:29:55.9635525-04:00",
-        "Label": "SSD M.2 WD Green SN350 1TB"
       },
       {
         "Price": 67.00,
@@ -1580,25 +1476,6 @@
         "Label": "Gigabyte Z690 AERO G"
       },
       {
-        "Price": 165.00,
-        "Features": [
-          "12va-13ra",
-          "DDR5",
-          "7200mhz",
-          "5xUSB",
-          "4xSATA",
-          "LGA 1700",
-          "Micro ATX",
-          "3xAudio",
-          "PS2",
-          "HDMI",
-          "DisplayPort"
-        ],
-        "Date": "2023-07-26T18:49:47.5277946-04:00",
-        "Update": "2023-07-27T07:36:15.6936669-04:00",
-        "Label": "ASRock B760M PRO RS"
-      },
-      {
         "Price": 345.00,
         "Features": [
           "12va-13ra",
@@ -1931,22 +1808,6 @@
         "Label": "Intel Core i5-12400 +Disipador"
       },
       {
-        "Price": 285.00,
-        "Features": [
-          "13ra Gen",
-          "20 Hilos",
-          "14 Core",
-          "4.8GHz",
-          "24MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-06-07T15:04:52.0919704-04:00",
-        "Update": "2023-08-09T11:38:47.252344-04:00",
-        "Label": "Intel Core i5-13500 +Disipador"
-      },
-      {
         "Price": 439.00,
         "Features": [
           "13ra Gen",
@@ -2062,22 +1923,6 @@
         "Date": "2023-06-19T07:49:38.2054403-04:00",
         "Update": "2023-08-09T11:38:47.2001364-04:00",
         "Label": "Asus Dual RTX 4070 OC"
-      },
-      {
-        "Price": 375.00,
-        "Features": [
-          "12GB",
-          "2xFan",
-          "2x8Pin",
-          "650WR",
-          "269mm",
-          "Radeon",
-          "AMD",
-          "GPU"
-        ],
-        "Date": "2023-06-29T07:39:05.0557701-04:00",
-        "Update": "2023-08-09T11:38:47.2086273-04:00",
-        "Label": "ASRock Challenger D RX 6700 XT"
       },
       {
         "Price": 259.00,
@@ -2538,21 +2383,6 @@
         "Label": "Mouse Corsair IRONCLAW RGB Wireless"
       },
       {
-        "Price": 39.00,
-        "Features": [
-          "RGB",
-          "16000dpi",
-          "400ips",
-          "8 botónes",
-          "Gaming",
-          "Optico",
-          "USB"
-        ],
-        "Date": "2023-09-23T14:08:24.2497001-04:00",
-        "Update": "2023-09-23T15:28:21.1671243-04:00",
-        "Label": "Mouse EVGA X12 White"
-      },
-      {
         "Price": 55.00,
         "Features": [
           "Wireless",
@@ -2891,16 +2721,6 @@
         "Date": "2023-06-19T07:49:43.9179086-04:00",
         "Update": "2023-07-31T14:21:04.9114331-04:00",
         "Label": "Webcam AUKEY 1080p"
-      },
-      {
-        "Price": 45.00,
-        "Features": [
-          "Trípode",
-          "USB"
-        ],
-        "Date": "2023-07-26T18:48:21.8195038-04:00",
-        "Update": "2023-08-01T18:30:20.3657324-04:00",
-        "Label": "Webcam Autofocus FHD HA501"
       }
     ],
     "Audífonos": [
@@ -2917,22 +2737,6 @@
         "Date": "2023-07-09T16:45:42.268062-04:00",
         "Update": "2023-07-31T14:21:04.934129-04:00",
         "Label": "Logitech G335"
-      },
-      {
-        "Price": 87.00,
-        "Features": [
-          "7.1",
-          "Micrófono",
-          "3.5mm",
-          "50mm",
-          "280g",
-          "USB",
-          "Headset",
-          "Cascos"
-        ],
-        "Date": "2023-07-09T16:45:38.4980752-04:00",
-        "Update": "2023-07-31T14:21:04.9567331-04:00",
-        "Label": "Corsair HS65 Surround"
       },
       {
         "Price": 64.00,
@@ -3033,25 +2837,6 @@
       }
     ],
     "Monitor": [
-      {
-        "Price": 229.00,
-        "Features": [
-          "Curvo",
-          "VA",
-          "1ms",
-          "75Hz",
-          "FreeSync",
-          "250nit",
-          "Business",
-          "Monitor",
-          "D-Sub",
-          "HDMI",
-          "1080p"
-        ],
-        "Date": "2023-05-11T19:58:00.9741721-04:00",
-        "Update": "2023-08-20T11:36:57.1918562-04:00",
-        "Label": "MSI Pro 24FHD MP242C"
-      },
       {
         "Price": 269.00,
         "Features": [
