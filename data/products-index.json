@@ -1085,6 +1085,21 @@
         "Date": "2023-08-08T10:08:04.4203937-04:00",
         "Update": "2023-09-26T11:26:56.7049419-04:00",
         "Label": "Fuente Corsair RM1000e"
+      },
+      {
+        "Price": 189.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "ATX 3.0",
+          "2x 4+4 EPS",
+          "71A",
+          "4x 6+2Pin",
+          "12x SATA"
+        ],
+        "Date": "2023-09-26T11:28:55.5740236-04:00",
+        "Update": "2023-09-26T12:08:30.1270634-04:00",
+        "Label": "Fuente Cooler Master MWE 850 V2"
       }
     ],
     "Red": [
@@ -1337,6 +1352,16 @@
         "Date": "2023-08-29T08:41:25.9385748-04:00",
         "Update": "2023-09-26T11:26:56.7777353-04:00",
         "Label": "D.Líquida Gigabyte GP-AORUS Waterforce X 240"
+      },
+      {
+        "Price": 110.00,
+        "Features": [
+          "2xFan",
+          "240mm"
+        ],
+        "Date": "2023-09-26T11:28:46.2055097-04:00",
+        "Update": "2023-09-26T12:08:30.1049194-04:00",
+        "Label": "D.Líquida InWin 240 RGB para AM4"
       }
     ],
     "Disco Duro": [
@@ -1944,6 +1969,23 @@
         "Date": "2023-03-22T09:04:03.4468877-04:00",
         "Update": "2023-09-23T12:07:14.3494685-04:00",
         "Label": "Intel Core i5-11400 +Disipador"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "13ra Gen",
+          "20 Hilos",
+          "14 Core",
+          "4.6GHz",
+          "24MB L3",
+          "11.5MB L2",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-09-26T11:28:40.6931036-04:00",
+        "Update": "2023-09-26T12:08:30.1048457-04:00",
+        "Label": "Intel Core i5-13500T"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2489,6 +2531,25 @@
         "Date": "2023-06-19T07:49:10.8952301-04:00",
         "Update": "2023-09-23T18:19:21.623126-04:00",
         "Label": "Mause Logitech G502 Hero"
+      },
+      {
+        "Price": 39.00,
+        "Features": [
+          "12000dpi",
+          "Palm",
+          "Claw",
+          "Blanco",
+          "RGB",
+          "220ips",
+          "6 botónes",
+          "50g",
+          "Gaming",
+          "Optico",
+          "USB"
+        ],
+        "Date": "2023-09-26T11:29:01.6985294-04:00",
+        "Update": "2023-09-26T12:08:30.143387-04:00",
+        "Label": "Mouse Cooler Master MM310 White"
       }
     ],
     "Teclado": [
