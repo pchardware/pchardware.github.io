@@ -2124,23 +2124,6 @@
         "Label": "MSI RTX 4060 Gaming X"
       },
       {
-        "Price": 435.00,
-        "Features": [
-          "3xFan",
-          "8GB",
-          "1x8Pin",
-          "DLSS3",
-          "450WR",
-          "299mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-09-11T09:09:04.0927141-04:00",
-        "Update": "2023-09-11T10:29:56.0210254-04:00",
-        "Label": "Gigabyte Aorus RTX 4060 Elite"
-      },
-      {
         "Price": 379.00,
         "Features": [
           "8GB",
@@ -2486,24 +2469,6 @@
       }
     ],
     "Teclado": [
-      {
-        "Price": 119.00,
-        "Features": [
-          "RGB",
-          "Macros",
-          "6000dpi",
-          "Palm rest",
-          "iCUE",
-          "Multimedia",
-          "Membrana",
-          "Gaming",
-          "Full",
-          "Optico"
-        ],
-        "Date": "2023-05-11T20:29:37.4399996-04:00",
-        "Update": "2023-06-24T10:51:11.1932112-04:00",
-        "Label": "COMBO Teclado Corsair K55 + Mouse Harpoon RGB"
-      },
       {
         "Price": 129.00,
         "Features": [
