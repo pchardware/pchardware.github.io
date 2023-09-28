@@ -8,14 +8,6 @@
         "Update": "2023-09-23T18:19:21.5887938-04:00",
         "Discount": 42.0,
         "Label": "PC Ent TUF 24\", i5 12Gen, Asus B660 ProArt, 16GB RGB, 980 500GB, RX 6650 XT, CX750M, H510, Gaming K1"
-      },
-      {
-        "Price": 2217.00,
-        "Features": [],
-        "Date": "2023-08-20T13:38:25.8686393-04:00",
-        "Update": "2023-09-26T11:26:56.7439248-04:00",
-        "Discount": 64.0,
-        "Label": "PC Ent 27 2K IPS, i5-12600K, H100x, TUF Z690-Plus, DDR5 RGB 48GB, WD 1TB, RX 6750 XT Gaming X TRIO"
       }
     ]
   },
@@ -76,14 +68,6 @@
         "Update": "2023-09-21T21:38:08.9551923-04:00",
         "Discount": 12.0,
         "Label": "Kit i9-12900K + Asus ROG Maximus Z690 Hero + DDR5 G.SKILL Trident Z5 RGB 64GB"
-      },
-      {
-        "Price": 645.00,
-        "Features": [],
-        "Date": "2023-09-13T13:15:22.925563-04:00",
-        "Update": "2023-09-23T18:19:21.6493424-04:00",
-        "Discount": 12.0,
-        "Label": "Kit i7-12700K + Asus TUF Z690-Plus Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       }
     ],
     "Rendimiento": [
@@ -960,20 +944,6 @@
         "Label": "Fuente Corsair RM1000X"
       },
       {
-        "Price": 205.00,
-        "Features": [
-          "80+ PLATINUM",
-          "Full Modular",
-          "71A",
-          "2x 6+2Pin",
-          "14x SATA",
-          "3x 4+4 EPS"
-        ],
-        "Date": "2023-07-17T23:37:46.1740196-04:00",
-        "Update": "2023-08-09T11:38:47.1510667-04:00",
-        "Label": "Fuente Corsair HX850"
-      },
-      {
         "Price": 115.00,
         "Features": [
           "80+ Platinum",
@@ -1681,22 +1651,6 @@
         "Date": "2023-07-26T18:48:17.6030093-04:00",
         "Update": "2023-08-06T08:19:53.923068-04:00",
         "Label": "Gigabyte Z790 UD AX"
-      },
-      {
-        "Price": 239.00,
-        "Features": [
-          "12va-13ra",
-          "6xAudio",
-          "6xUSB",
-          "4xSATA",
-          "6000mhz",
-          "LGA1700",
-          "HDMI",
-          "DisplayPort"
-        ],
-        "Date": "2023-05-11T07:56:36.6020035-04:00",
-        "Update": "2023-09-23T18:19:21.5166026-04:00",
-        "Label": "Asus TUF Z690-Plus Wifi DDR5"
       }
     ],
     "Disipador por Aire": [
@@ -2291,27 +2245,6 @@
         "Date": "2023-06-07T15:06:36.3165573-04:00",
         "Update": "2023-06-07T15:55:09.4920948-04:00",
         "Label": "Corsair Voyager Slider X1 64GB"
-      },
-      {
-        "Price": 47.00,
-        "Features": [
-          "10xUSB 3.0"
-        ],
-        "Date": "2023-07-17T23:37:56.1110686-04:00",
-        "Update": "2023-07-27T10:54:59.8420792-04:00",
-        "Label": "HUB ORICO Type-A 10-Port USB 3.0"
-      },
-      {
-        "Price": 32.00,
-        "Features": [
-          "USB3.1 Gen2",
-          "2.5",
-          "3.5",
-          "SATA 3"
-        ],
-        "Date": "2023-08-01T11:14:56.8228446-04:00",
-        "Update": "2023-08-01T18:30:20.3944963-04:00",
-        "Label": "Docking Orico Single Bay"
       },
       {
         "Price": 29.00,
