@@ -11,6 +11,46 @@
       }
     ]
   },
+  "Torres": {
+    "Entusiasta": [
+      {
+        "Price": 1189.00,
+        "Features": [],
+        "Date": "2023-09-29T15:55:28.9723233-04:00",
+        "Update": "2023-09-29T16:14:53.5740589-04:00",
+        "Discount": 31.0,
+        "Label": "Torre i5 13Gen, Asus ProArt Creator, Corsair RGB 16GB, M.2 Samsung 980, RX 6600 8GB, 750W, NZXT"
+      }
+    ],
+    "Pro": [
+      {
+        "Price": 1139.00,
+        "Features": [],
+        "Date": "2023-09-29T16:02:10.5757914-04:00",
+        "Update": "2023-09-29T16:14:53.6002038-04:00",
+        "Discount": 37.0,
+        "Label": "Torre i7-12700K, D.Líquida, MSI Z690, DDR5 Ripjaws 32GB, M.2 WD BLACK SN850X 1TB, Seagate 12TB, NZXT"
+      },
+      {
+        "Price": 1185.00,
+        "Features": [],
+        "Date": "2023-09-29T16:08:01.6164971-04:00",
+        "Update": "2023-09-29T16:14:53.6411191-04:00",
+        "Discount": 32.0,
+        "Label": "Torre i9-12900K, D.Líquida, MSI Pro Z690, DDR5 Corsair RGB 48GB, SSD M.2 2TB, 600W, Chasis NZXT"
+      }
+    ],
+    "Gamer": [
+      {
+        "Price": 969.00,
+        "Features": [],
+        "Date": "2023-09-29T16:12:50.1450677-04:00",
+        "Update": "2023-09-29T16:14:53.668062-04:00",
+        "Discount": 24.0,
+        "Label": "Torre i5 12Gen, Gigabyte RX 6600 8GB, 16GB 3200mhz, SSD 2.5 Crucial 480GB, 600W, Chasis H510"
+      }
+    ]
+  },
   "Kits": {
     "Entusiasta": [
       {
