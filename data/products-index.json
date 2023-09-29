@@ -1009,18 +1009,6 @@
         "Label": "Fuente Apevia Spirit 600W"
       },
       {
-        "Price": 115.00,
-        "Features": [
-          "54A",
-          "2x 6+2 Pin",
-          "6x SATA",
-          "1x 4+4 EPS"
-        ],
-        "Date": "2023-06-29T07:39:33.0518165-04:00",
-        "Update": "2023-09-23T12:07:14.2118923-04:00",
-        "Label": "Fuente Thermaltake Smart 700W 80+"
-      },
-      {
         "Price": 295.00,
         "Features": [
           "80+ PLATINUM",
@@ -2042,22 +2030,6 @@
         "Label": "MSI RX 6750 XT Gaming X TRIO 12G"
       },
       {
-        "Price": 305.00,
-        "Features": [
-          "2xFan",
-          "8GB",
-          "1x8Pin",
-          "550WR",
-          "198mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-08-16T09:17:25.4599546-04:00",
-        "Update": "2023-08-16T11:17:10.3090932-04:00",
-        "Label": "Gigabyte RTX 3060 Gaming WindForce OC"
-      },
-      {
         "Price": 775.00,
         "Features": [
           "DLSS3",
@@ -2376,22 +2348,6 @@
         "Label": "Mouse Pad Asus NC01 ROG Sheath BLK"
       },
       {
-        "Price": 53.00,
-        "Features": [
-          "18000dpi",
-          "Claw",
-          "8 botónes",
-          "97g",
-          "Optico",
-          "Gaming",
-          "iCUE",
-          "USB"
-        ],
-        "Date": "2023-08-21T08:58:41.5573667-04:00",
-        "Update": "2023-08-21T12:54:21.1867027-04:00",
-        "Label": "Mouse Corsair M65 ELITE RGB Black"
-      },
-      {
         "Price": 37.00,
         "Features": [
           "Gaming",
@@ -2536,19 +2492,6 @@
         "Label": "Teclado Corsair Gaming K55 RGB Pro"
       },
       {
-        "Price": 59.00,
-        "Features": [
-          "RGB",
-          "Gaming",
-          "Macros",
-          "Membrana",
-          "Full"
-        ],
-        "Date": "2023-05-11T20:29:42.0758463-04:00",
-        "Update": "2023-06-29T11:38:59.1340749-04:00",
-        "Label": "Teclado EVGA Z12"
-      },
-      {
         "Price": 89.00,
         "Features": [
           "Mecánico",
@@ -2665,21 +2608,6 @@
         "Date": "2023-07-26T18:48:03.9197668-04:00",
         "Update": "2023-07-27T11:33:38.2530039-04:00",
         "Label": "COMBO Teclado Asus TUF Gaming K1 + Mouse M3"
-      },
-      {
-        "Price": 185.00,
-        "Features": [
-          "Mecánico",
-          "Aluminio",
-          "Macros",
-          "iCUE",
-          "Gaming",
-          "Full",
-          "USB"
-        ],
-        "Date": "2023-07-13T11:32:23.0770314-04:00",
-        "Update": "2023-08-01T18:30:20.3582813-04:00",
-        "Label": "Teclado Corsair K70 RGB PRO"
       },
       {
         "Price": 85.00,
