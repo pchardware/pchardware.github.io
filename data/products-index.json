@@ -12,16 +12,6 @@
     ]
   },
   "Torres": {
-    "Entusiasta": [
-      {
-        "Price": 1189.00,
-        "Features": [],
-        "Date": "2023-09-29T15:55:28.9723233-04:00",
-        "Update": "2023-09-29T16:14:53.5740589-04:00",
-        "Discount": 31.0,
-        "Label": "Torre i5 13Gen, Asus ProArt Creator, Corsair RGB 16GB, M.2 Samsung 980, RX 6600 8GB, 750W, NZXT"
-      }
-    ],
     "Pro": [
       {
         "Price": 1139.00,
@@ -42,12 +32,92 @@
     ],
     "Gamer": [
       {
+        "Price": 1189.00,
+        "Features": [],
+        "Date": "2023-09-29T15:55:28.9723233-04:00",
+        "Update": "2023-09-29T17:39:47.5430436-04:00",
+        "Discount": 31.0,
+        "Label": "Torre Gamer i5 13Gen, RX 6600, Asus ProArt Creator, Corsair RGB 16GB, M.2 Samsung 980, 750W, NZXT"
+      },
+      {
         "Price": 969.00,
         "Features": [],
         "Date": "2023-09-29T16:12:50.1450677-04:00",
-        "Update": "2023-09-29T16:14:53.668062-04:00",
+        "Update": "2023-09-29T17:39:47.5782095-04:00",
         "Discount": 24.0,
-        "Label": "Torre i5 12Gen, Gigabyte RX 6600 8GB, 16GB 3200mhz, SSD 2.5 Crucial 480GB, 600W, Chasis H510"
+        "Label": "Torre Gamer i5 12Gen, Gigabyte RX 6600, 16GB 3200mhz, SSD Crucial 480GB, 600W, Chasis H510"
+      },
+      {
+        "Price": 1269.00,
+        "Features": [],
+        "Date": "2023-09-29T16:39:33.2055338-04:00",
+        "Update": "2023-09-29T17:39:47.5946921-04:00",
+        "Discount": 26.0,
+        "Label": "Torre i5 12Gen, RTX 4060 Gaming X, Aorus Elite, DDR5 32GB, M.2 XPG 512GB, Corsair 750W, Fractal RGB"
+      },
+      {
+        "Price": 1135.00,
+        "Features": [],
+        "Date": "2023-09-29T16:48:10.6114177-04:00",
+        "Update": "2023-09-29T17:39:47.6112372-04:00",
+        "Discount": 28.0,
+        "Label": "Torre Gamer i5 11na, RX 6650 XT, Z590 Extreme, 16GB RGB , M.2 Samsung 500GB, EVGA 800W, Fractal RGB"
+      },
+      {
+        "Price": 1965.00,
+        "Features": [],
+        "Date": "2023-09-29T17:03:00.2643331-04:00",
+        "Update": "2023-09-29T17:39:47.629888-04:00",
+        "Discount": 37.0,
+        "Label": "Torre Gamer i7-12700K, Kit Líquido, Z690 AERO, DDR5 AORUS 32GB, M.2 1TB, RTX 3080Ti Hydro, Focus RGB"
+      },
+      {
+        "Price": 2485.00,
+        "Features": [],
+        "Date": "2023-09-29T17:11:41.4627107-04:00",
+        "Update": "2023-09-29T17:39:47.6481483-04:00",
+        "Discount": 39.0,
+        "Label": "Torre Gamer i7-13700K, RTX 4070 Aorus Master, Z690 AERO, DDR5 Z5 RGB 64GB, 980 PRO 2TB, TUF 850W"
+      },
+      {
+        "Price": 2135.00,
+        "Features": [],
+        "Date": "2023-09-29T17:16:15.2763524-04:00",
+        "Update": "2023-09-29T17:39:47.6655034-04:00",
+        "Discount": 35.0,
+        "Label": "Torre Gamer i5-12600K, Strix 360, Strix Z690-E, Dominator 32GB, 1TB BLACK, Asus RTX 4070, TUF 850W"
+      },
+      {
+        "Price": 1965.00,
+        "Features": [],
+        "Date": "2023-09-29T17:21:30.5557939-04:00",
+        "Update": "2023-09-29T17:39:47.6831467-04:00",
+        "Discount": 33.0,
+        "Label": "Torre Gamer i5-12600K, MSI Z690, DDR5 RGB 32GB, M.2 2TB, RTX 4070Ti, TUF 850W, Chasis NZXT H510"
+      },
+      {
+        "Price": 1689.00,
+        "Features": [],
+        "Date": "2023-09-29T17:27:44.9593019-04:00",
+        "Update": "2023-09-29T17:39:47.7018009-04:00",
+        "Discount": 33.0,
+        "Label": "Torre Gamer i5 13Gen, ProArt Creator, Corsair RGB 16GB, M.2 980 500GB, Asus Dual RTX 4070, TUF 850W"
+      },
+      {
+        "Price": 1539.00,
+        "Features": [],
+        "Date": "2023-09-29T17:29:26.7906381-04:00",
+        "Update": "2023-09-29T17:39:47.7193908-04:00",
+        "Discount": 33.0,
+        "Label": "Torre Gamer i5 13Gen, Gigabyte Z790, AORUS 32GB, M.2 1TB, RTX 4060 Ti Gaming X, Corsair CX750M, NZXT"
+      },
+      {
+        "Price": 1429.00,
+        "Features": [],
+        "Date": "2023-09-29T17:31:25.5033533-04:00",
+        "Update": "2023-09-29T17:39:47.7362796-04:00",
+        "Discount": 35.0,
+        "Label": "Torre Gamer i5-12600K, Z690 AERO, RX6750 XT 12GB, DDR5 XPG 32GB 6400mhz, M.2 980 500GB, Corsair 750W"
       }
     ]
   },
