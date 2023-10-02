@@ -90,22 +90,6 @@
     ],
     "Gamer": [
       {
-        "Price": 969.00,
-        "Features": [],
-        "Date": "2023-09-29T16:12:50.1450677-04:00",
-        "Update": "2023-10-01T15:01:31.5584586-04:00",
-        "Discount": 24.0,
-        "Label": "Torre Gamer Gigabyte RX 6600 8GB, i5 12Gen, 16GB 3200mhz, SSD 480GB, ASRock B660, 600W, Chasis H510"
-      },
-      {
-        "Price": 1045.00,
-        "Features": [],
-        "Date": "2023-09-29T16:48:10.6114177-04:00",
-        "Update": "2023-10-01T15:01:31.6089427-04:00",
-        "Discount": 26.0,
-        "Label": "Torre Gamer RX 6650 XT 8GB, i5 11na, RGB 16GB 3600mhz, SSD 480GB, Z590 Extreme, 600W, Chasis NZXT"
-      },
-      {
         "Price": 1719.00,
         "Features": [],
         "Date": "2023-09-29T17:21:30.5557939-04:00",
@@ -216,14 +200,6 @@
         "Update": "2023-09-23T12:07:14.3775833-04:00",
         "Discount": 10.0,
         "Label": "Kit i5 11na +Disipador + ASRock Z590 Extreme Wifi 6E + G.Skill Sniper X 32GB 3600mhz"
-      },
-      {
-        "Price": 429.00,
-        "Features": [],
-        "Date": "2023-09-13T13:48:54.5300436-04:00",
-        "Update": "2023-09-23T12:07:14.3946554-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-11400 +Disipador + ASRock Z590 Extreme Wifi 6E + Team T-Force Delta RGB 16GB 3600mhz"
       }
     ]
   },
@@ -500,19 +476,6 @@
         "Date": "2023-06-07T15:04:43.4119901-04:00",
         "Update": "2023-06-07T15:55:09.4433063-04:00",
         "Label": "Cooler Fan Corsair Vengance LPX"
-      },
-      {
-        "Price": 69.00,
-        "Features": [
-          "2x8GB",
-          "White",
-          "Disipadas",
-          "CL18",
-          "Blanco"
-        ],
-        "Date": "2023-02-17T19:36:51.2276383-05:00",
-        "Update": "2023-07-27T10:06:16.1955424-04:00",
-        "Label": "DDR4 Team T-Force Delta RGB 16GB 3600mhz"
       },
       {
         "Price": 65.00,
@@ -1498,16 +1461,6 @@
         "Label": "HDD 3.5 Seagate Constellation 2TB SAS"
       },
       {
-        "Price": 55.00,
-        "Features": [
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-06-29T07:38:17.9677885-04:00",
-        "Update": "2023-08-01T11:12:54.6876326-04:00",
-        "Label": "HDD 3.5 Seagate Desktop 1TB"
-      },
-      {
         "Price": 125.00,
         "Features": [
           "Enterprise",
@@ -1534,40 +1487,9 @@
         "Date": "2023-09-23T14:09:03.2481261-04:00",
         "Update": "2023-09-23T15:28:21.227746-04:00",
         "Label": "HDD 3.5 Seagate EXOS 16TB Recertified"
-      },
-      {
-        "Price": 65.00,
-        "Features": [
-          "64mb",
-          "5900rpm",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-07-26T16:42:06.8492862-04:00",
-        "Update": "2023-09-23T18:19:21.5033902-04:00",
-        "Label": "HDD 3.5 Seagate Pipeline 2TB"
       }
     ],
     "Board": [
-      {
-        "Price": 149.00,
-        "Features": [
-          "12va-13ra",
-          "6xUSB",
-          "DDR4",
-          "4800mhz",
-          "4xSATA",
-          "LGA 1700",
-          "Micro ATX",
-          "PS2",
-          "HDMI",
-          "DisplayPort",
-          "3xAudio"
-        ],
-        "Date": "2023-02-17T09:47:30.747913-05:00",
-        "Update": "2023-07-27T07:36:15.5097159-04:00",
-        "Label": "ASRock B660M PRO RS"
-      },
       {
         "Price": 189.00,
         "Features": [
@@ -2508,19 +2430,6 @@
         "Label": "Mouse Logitech G305 Lightspeed"
       },
       {
-        "Price": 57.00,
-        "Features": [
-          "16000dpi",
-          "Optico",
-          "11 botónes",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-06-19T07:49:10.8952301-04:00",
-        "Update": "2023-09-23T18:19:21.623126-04:00",
-        "Label": "Mause Logitech G502 Hero"
-      },
-      {
         "Price": 39.00,
         "Features": [
           "12000dpi",
@@ -2904,19 +2813,6 @@
         "Date": "2023-07-26T18:49:01.6603508-04:00",
         "Update": "2023-07-31T14:53:37.2835019-04:00",
         "Label": "Adaptador HDMI a DVI"
-      }
-    ],
-    "Backup": [
-      {
-        "Price": 119.00,
-        "Features": [
-          "255W",
-          "120V",
-          "6 out"
-        ],
-        "Date": "2023-07-12T21:43:00.109172-04:00",
-        "Update": "2023-08-16T11:17:10.2148657-04:00",
-        "Label": "Backup UPS APC 450VA"
       }
     ],
     "Monitor": [
