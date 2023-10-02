@@ -732,6 +732,17 @@
         "Date": "2023-08-16T09:17:00.7000046-04:00",
         "Update": "2023-10-02T14:22:58.9946079-04:00",
         "Label": "DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "2x16GB",
+          "CL36",
+          "Disipadas"
+        ],
+        "Date": "2023-10-02T14:28:55.7243127-04:00",
+        "Update": "2023-10-02T15:13:13.669231-04:00",
+        "Label": "DDR5 Corsair Vengenance RGB 32GB 6000mhz White"
       }
     ],
     "Chasis": [
@@ -1049,6 +1060,44 @@
         "Date": "2023-07-12T21:43:06.2525927-04:00",
         "Update": "2023-10-02T14:22:59.0056229-04:00",
         "Label": "SSD M.2 SAMSUNG 980 PRO 1TB"
+      },
+      {
+        "Price": 79.00,
+        "Features": [
+          "3500mbps",
+          "600tbw",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-10-02T14:29:38.4356357-04:00",
+        "Update": "2023-10-02T15:13:13.8279567-04:00",
+        "Label": "SSD M.2 Samsung 970 EVO Plus 1TB"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "7000mbps",
+          "HeatSink",
+          "700tbw",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-10-02T14:29:40.7946679-04:00",
+        "Update": "2023-10-02T15:13:13.8457032-04:00",
+        "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 1TB"
+      },
+      {
+        "Price": 109.00,
+        "Features": [
+          "7100mbps",
+          "HeatSink",
+          "700tbw",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-10-02T14:29:43.5652436-04:00",
+        "Update": "2023-10-02T15:13:13.8636858-04:00",
+        "Label": "SSD M.2 Corsair MP600 PRO LPX 1TB White"
       }
     ],
     "Fuente": [
@@ -1232,6 +1281,22 @@
         "Date": "2023-07-17T23:37:46.1740196-04:00",
         "Update": "2023-10-02T14:22:58.9844199-04:00",
         "Label": "Fuente Corsair HX850"
+      },
+      {
+        "Price": 375.00,
+        "Features": [
+          "1500W",
+          "80+ PLATINUM",
+          "125A",
+          "9x 6+2Pin",
+          "3x 4+4 EPS",
+          "Full Modular",
+          "200mm",
+          "8x SATA"
+        ],
+        "Date": "2023-10-02T14:28:39.3910059-04:00",
+        "Update": "2023-10-02T15:13:13.5928968-04:00",
+        "Label": "Fuente Corsair HX1500i"
       }
     ],
     "Red": [
@@ -1582,6 +1647,34 @@
         "Date": "2023-09-23T14:09:03.2481261-04:00",
         "Update": "2023-09-23T15:28:21.227746-04:00",
         "Label": "HDD 3.5 Seagate EXOS 16TB Recertified"
+      },
+      {
+        "Price": 139.00,
+        "Features": [
+          "Ultrastar DC",
+          "Enterprise",
+          "512mb",
+          "7200rpm",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-10-02T14:29:17.3385611-04:00",
+        "Update": "2023-10-02T15:13:13.7065447-04:00",
+        "Label": "HDD 3.5 WD 14TB HC530 Recertified"
+      },
+      {
+        "Price": 139.00,
+        "Features": [
+          "Enterprise",
+          "7200rpm",
+          "256mb",
+          "Helium",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-10-02T14:29:22.3106257-04:00",
+        "Update": "2023-10-02T15:13:13.7352308-04:00",
+        "Label": "HDD 3.5 Seagate EXOS 14TB Recertified"
       }
     ],
     "Board": [
@@ -1788,6 +1881,25 @@
         "Date": "2023-05-11T07:56:36.6020035-04:00",
         "Update": "2023-10-02T14:22:59.0270755-04:00",
         "Label": "Asus TUF Z690-Plus Wifi DDR5"
+      },
+      {
+        "Price": 189.00,
+        "Features": [
+          "12va-13ra",
+          "7xUSB",
+          "6xAudio",
+          "DDR4",
+          "5200mhz",
+          "6xSATA",
+          "LGA 1700",
+          "ATX",
+          "HDMI",
+          "DisplayPort",
+          "PS2"
+        ],
+        "Date": "2023-10-02T14:29:29.7747771-04:00",
+        "Update": "2023-10-02T15:13:13.7618866-04:00",
+        "Label": "MSI PRO Z690-A Wifi DDR4"
       }
     ],
     "Disipador por Aire": [
@@ -2111,6 +2223,39 @@
         "Date": "2023-03-22T09:04:16.5699219-04:00",
         "Update": "2023-10-02T14:22:59.0181114-04:00",
         "Label": "Intel Core i9-13900K"
+      },
+      {
+        "Price": 225.00,
+        "Features": [
+          "11na Gen",
+          "12 Hilos",
+          "6 Cores",
+          "4.9GHz",
+          "12MB L3",
+          "Unlocked",
+          "LGA 1200",
+          "CPU"
+        ],
+        "Date": "2023-10-02T14:28:41.5445614-04:00",
+        "Update": "2023-10-02T15:13:13.6226541-04:00",
+        "Label": "CPU Intel Core i5-11600K"
+      },
+      {
+        "Price": 265.00,
+        "Features": [
+          "13ra Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.6GHz",
+          "20MB L3",
+          "9.5MB L2",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-10-02T14:28:46.4986141-04:00",
+        "Update": "2023-10-02T15:13:13.646382-04:00",
+        "Label": "CPU - Intel Core i5-13400 +Disipador"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2354,6 +2499,38 @@
         "Date": "2023-09-23T17:45:37.2322879-04:00",
         "Update": "2023-09-23T18:19:21.7169018-04:00",
         "Label": "Sapphire PULSE RX 6500 XT 4GB"
+      },
+      {
+        "Price": 409.00,
+        "Features": [
+          "3xFan",
+          "8GB",
+          "1x8Pin + 1x6Pin",
+          "650WR",
+          "286mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-10-02T14:29:14.5916934-04:00",
+        "Update": "2023-10-02T15:13:13.6793269-04:00",
+        "Label": "Gigabyte RTX 3060 Ti Gaming OC Pro"
+      },
+      {
+        "Price": 419.00,
+        "Features": [
+          "2xFan",
+          "8GB",
+          "1x8Pin",
+          "650WR",
+          "286mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-10-02T14:29:19.7541549-04:00",
+        "Update": "2023-10-02T15:13:13.7243914-04:00",
+        "Label": "GPU NVidia RTX 3060 Ti Founders Edition"
       }
     ]
   },
@@ -2620,6 +2797,32 @@
         "Date": "2023-08-01T11:15:22.0148333-04:00",
         "Update": "2023-10-02T14:22:58.9744973-04:00",
         "Label": "Mouse Cooler Master M710"
+      },
+      {
+        "Price": 15.00,
+        "Features": [
+          "Reforzado",
+          "Tela",
+          "Anti-Fray"
+        ],
+        "Date": "2023-10-02T14:28:43.989663-04:00",
+        "Update": "2023-10-02T15:13:13.6367838-04:00",
+        "Label": "Mouse Pad Corsair MM100"
+      },
+      {
+        "Price": 55.00,
+        "Features": [
+          "Inalámbrico",
+          "16000dpi",
+          "Sniper Button",
+          "Optico",
+          "Ergonómico",
+          "10 botónes",
+          "USB"
+        ],
+        "Date": "2023-10-02T14:29:32.4826293-04:00",
+        "Update": "2023-10-02T15:13:13.7841987-04:00",
+        "Label": "Mouse EVGA X20 Gray"
       }
     ],
     "Teclado": [
@@ -2899,6 +3102,18 @@
         "Date": "2023-05-12T07:54:32.8971269-04:00",
         "Update": "2023-10-02T14:22:58.9637863-04:00",
         "Label": "WebCam Logitech C920s Pro"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "FHD",
+          "30fps",
+          "USB",
+          "Black"
+        ],
+        "Date": "2023-10-02T14:29:35.5469005-04:00",
+        "Update": "2023-10-02T15:13:13.8095982-04:00",
+        "Label": "WebCam Asus C3 1080p"
       }
     ],
     "Audífonos": [
@@ -3039,6 +3254,31 @@
         "Date": "2023-09-11T09:09:41.0989166-04:00",
         "Update": "2023-09-13T10:43:42.1484911-04:00",
         "Label": "MSI Pro 24FHD MP241X"
+      },
+      {
+        "Price": 375.00,
+        "Features": [
+          "1440p",
+          "250nit",
+          "1ms",
+          "VA",
+          "Flat",
+          "2x HDMI",
+          "DP",
+          "Monitor"
+        ],
+        "Date": "2023-10-02T14:28:51.2536902-04:00",
+        "Update": "2023-10-02T15:13:13.6576702-04:00",
+        "Label": "Monitor Acer Nitro KG271U"
+      }
+    ],
+    "Externo": [
+      {
+        "Price": 49.00,
+        "Features": [],
+        "Date": "2023-10-02T14:29:27.3170143-04:00",
+        "Update": "2023-10-02T15:13:13.7444109-04:00",
+        "Label": "Enclosure 3.5 ORICO USB 3.0"
       }
     ]
   }
