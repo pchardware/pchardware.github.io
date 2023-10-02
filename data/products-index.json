@@ -465,6 +465,13 @@
         "Date": "2023-06-07T15:03:43.1820356-04:00",
         "Update": "2023-09-11T11:17:59.1789125-04:00",
         "Label": "Pasta Termica Protronix Series 9 Extreme"
+      },
+      {
+        "Price": 17.00,
+        "Features": [],
+        "Date": "2023-07-26T16:41:29.0221883-04:00",
+        "Update": "2023-10-02T14:22:58.9441219-04:00",
+        "Label": "Thermalright LGA1700-BCF Black"
       }
     ],
     "Memoria RAM": [
@@ -663,6 +670,28 @@
         "Date": "2023-09-23T17:45:32.1937207-04:00",
         "Update": "2023-09-23T18:19:21.7084149-04:00",
         "Label": "DDR4 Neo Forza FAYE 16GB 4600mhz"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "2x8GB",
+          "Disipadas",
+          "CL19"
+        ],
+        "Date": "2023-07-17T23:38:49.930694-04:00",
+        "Update": "2023-10-02T14:22:58.9344342-04:00",
+        "Label": "DDR4 G.Skill Ripjaws V 16GB 3600mhz"
+      },
+      {
+        "Price": 179.00,
+        "Features": [
+          "CL34",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-08-16T09:17:00.7000046-04:00",
+        "Update": "2023-10-02T14:22:58.9946079-04:00",
+        "Label": "DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
       }
     ],
     "Chasis": [
@@ -968,6 +997,18 @@
         "Date": "2023-08-21T08:57:50.0608494-04:00",
         "Update": "2023-09-26T11:26:56.7605795-04:00",
         "Label": "SSD M.2 Samsung 990 PRO 1TB"
+      },
+      {
+        "Price": 99.00,
+        "Features": [
+          "7000mbs",
+          "600tbw",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-07-12T21:43:06.2525927-04:00",
+        "Update": "2023-10-02T14:22:59.0056229-04:00",
+        "Label": "SSD M.2 SAMSUNG 980 PRO 1TB"
       }
     ],
     "Fuente": [
@@ -1137,6 +1178,20 @@
         "Date": "2023-09-26T11:28:55.5740236-04:00",
         "Update": "2023-09-26T12:08:30.1270634-04:00",
         "Label": "Fuente Cooler Master MWE 850 V2"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "80+ PLATINUM",
+          "Full Modular",
+          "71A",
+          "2x 6+2Pin",
+          "14x SATA",
+          "3x 4+4 EPS"
+        ],
+        "Date": "2023-07-17T23:37:46.1740196-04:00",
+        "Update": "2023-10-02T14:22:58.9844199-04:00",
+        "Label": "Fuente Corsair HX850"
       }
     ],
     "Red": [
@@ -1677,6 +1732,22 @@
         "Date": "2023-07-26T18:48:17.6030093-04:00",
         "Update": "2023-08-06T08:19:53.923068-04:00",
         "Label": "Gigabyte Z790 UD AX"
+      },
+      {
+        "Price": 239.00,
+        "Features": [
+          "12va-13ra",
+          "6xAudio",
+          "6xUSB",
+          "4xSATA",
+          "6000mhz",
+          "LGA1700",
+          "HDMI",
+          "DisplayPort"
+        ],
+        "Date": "2023-05-11T07:56:36.6020035-04:00",
+        "Update": "2023-10-02T14:22:59.0270755-04:00",
+        "Label": "Asus TUF Z690-Plus Wifi DDR5"
       }
     ],
     "Disipador por Aire": [
@@ -1966,6 +2037,40 @@
         "Date": "2023-09-26T11:28:40.6931036-04:00",
         "Update": "2023-09-26T12:08:30.1048457-04:00",
         "Label": "Intel Core i5-13500T"
+      },
+      {
+        "Price": 329.00,
+        "Features": [
+          "13ra Gen",
+          "20 Hilos",
+          "14 Core",
+          "5.1GHz",
+          "24MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-06-19T07:47:08.4755764-04:00",
+        "Update": "2023-10-02T14:22:58.9534793-04:00",
+        "Label": "Intel Core i5-13600K"
+      },
+      {
+        "Price": 625.00,
+        "Features": [
+          "13ra Gen",
+          "32 Hilos",
+          "24 Core",
+          "5.7GHz",
+          "30MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-03-22T09:04:16.5699219-04:00",
+        "Update": "2023-10-02T14:22:59.0181114-04:00",
+        "Label": "Intel Core i9-13900K"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2462,6 +2567,19 @@
         "Date": "2023-09-23T14:08:24.2497001-04:00",
         "Update": "2023-09-29T15:51:20.0198906-04:00",
         "Label": "Mouse EVGA X12 White"
+      },
+      {
+        "Price": 29.00,
+        "Features": [
+          "53g",
+          "PTFE",
+          "Omron Switches",
+          "Ultralight",
+          "Pro-Grade"
+        ],
+        "Date": "2023-08-01T11:15:22.0148333-04:00",
+        "Update": "2023-10-02T14:22:58.9744973-04:00",
+        "Label": "Mouse Cooler Master M710"
       }
     ],
     "Teclado": [
@@ -2729,6 +2847,18 @@
         "Date": "2023-06-19T07:49:43.9179086-04:00",
         "Update": "2023-07-31T14:21:04.9114331-04:00",
         "Label": "Webcam AUKEY 1080p"
+      },
+      {
+        "Price": 99.00,
+        "Features": [
+          "1080p",
+          "Autofocus",
+          "stereo",
+          "USB"
+        ],
+        "Date": "2023-05-12T07:54:32.8971269-04:00",
+        "Update": "2023-10-02T14:22:58.9637863-04:00",
+        "Label": "WebCam Logitech C920s Pro"
       }
     ],
     "Audífonos": [
