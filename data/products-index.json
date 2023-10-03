@@ -30,22 +30,6 @@
         "Label": "Torre i5 12Gen, RTX 4060 Gaming X, Aorus B760M, DDR5 Aorus 32GB, M.2 XPG 512GB, Corsair 750W, RGB"
       },
       {
-        "Price": 2115.00,
-        "Features": [],
-        "Date": "2023-09-29T17:03:00.2643331-04:00",
-        "Update": "2023-10-01T15:01:31.6308888-04:00",
-        "Discount": 35.0,
-        "Label": "Torre i7-12700K, Pacific C360, Strix Z690-E, Dominator 32GB, 1TB BLACK, RTX 3080Ti, 850W, TUF GT301"
-      },
-      {
-        "Price": 2465.00,
-        "Features": [],
-        "Date": "2023-09-29T17:11:41.4627107-04:00",
-        "Update": "2023-10-01T15:01:31.6578511-04:00",
-        "Discount": 39.0,
-        "Label": "Torre i7-13700K, RTX 4070 Aorus Master, Z690 AERO, Z5 RGB 64GB, 980 PRO 2TB, TUF 850W"
-      },
-      {
         "Price": 1695.00,
         "Features": [],
         "Date": "2023-09-29T17:16:15.2763524-04:00",
@@ -86,14 +70,6 @@
         "Update": "2023-10-01T15:01:31.7464074-04:00",
         "Discount": 30.0,
         "Label": "Torre Gamer RX 6750 XT 12GB, i5 12Gen, 16GB 3600mhz RGB, M.2 512GB, Asus ProArt, Corsair 750W, NZXT"
-      },
-      {
-        "Price": 2033.00,
-        "Features": [],
-        "Date": "2023-10-01T14:03:32.5149266-04:00",
-        "Update": "2023-10-01T15:01:31.7645066-04:00",
-        "Discount": 37.0,
-        "Label": "Torre Gamer RTX 4070Ti, i7-12700K, DDR5 32GB 6400mhz, M.2 Gen4 2TB, MSI PRO Z690, Asus TUF 850W"
       }
     ]
   },
@@ -362,18 +338,6 @@
         "Date": "2023-06-07T15:05:05.0466396-04:00",
         "Update": "2023-09-02T13:38:05.4028918-04:00",
         "Label": "Fan Cougar Vortex FCB 120 RGB"
-      },
-      {
-        "Price": 39.00,
-        "Features": [
-          "PCIe x1",
-          "Alimentación SATA",
-          "Interna",
-          "Adaptador"
-        ],
-        "Date": "2023-08-01T11:15:00.5691684-04:00",
-        "Update": "2023-09-02T13:38:05.4384287-04:00",
-        "Label": "Expansión Orico 7xUSB 3.0"
       },
       {
         "Price": 16.00,
@@ -1183,21 +1147,6 @@
         "Date": "2023-04-15T07:27:10.1467554-04:00",
         "Update": "2023-08-09T11:38:47.0945669-04:00",
         "Label": "Fuente Corsair CX750M"
-      },
-      {
-        "Price": 199.00,
-        "Features": [
-          "80+ Gold",
-          "Full Modular",
-          "ATX 3.0",
-          "2x 4+4 EPS",
-          "71A",
-          "3x 6+2Pin",
-          "5x SATA"
-        ],
-        "Date": "2023-05-11T14:26:27.9739641-04:00",
-        "Update": "2023-08-09T11:38:47.1159003-04:00",
-        "Label": "Fuente Asus TUF 850W"
       },
       {
         "Price": 275.00,
