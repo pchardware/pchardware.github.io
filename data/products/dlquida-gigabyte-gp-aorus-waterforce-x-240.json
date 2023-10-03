@@ -12,18 +12,22 @@
   "Price": 249.00,
   "Features": [
     "LCD",
+    "2500rpm",
+    "60cfm",
+    "38db",
+    "Graphene",
     "2xFan",
     "240mm",
     "LGA 1700",
     "LGA 1200",
     "LGA 115X",
-    "LGA 2066",
-    "LGA 2011",
+    "LGA 20XX",
+    "LGA 1366",
     "AM4",
     "TR4",
     "sTRX4"
   ],
   "Date": "2023-08-29T08:41:25.9385748-04:00",
-  "Update": "2023-09-26T11:26:56.7777353-04:00",
+  "Update": "2023-10-03T09:09:19.4531625-04:00",
   "Label": "D.Líquida Gigabyte GP-AORUS Waterforce X 240"
 }
