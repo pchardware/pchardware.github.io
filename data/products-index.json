@@ -8,36 +8,10 @@
         "Update": "2023-09-23T18:19:21.5887938-04:00",
         "Discount": 42.0,
         "Label": "PC Ent TUF 24\", i5 12Gen, Asus B660 ProArt, 16GB RGB, 980 500GB, RX 6650 XT, CX750M, H510, Gaming K1"
-      },
-      {
-        "Price": 2199.00,
-        "Features": [],
-        "Date": "2023-08-20T13:38:25.8686393-04:00",
-        "Update": "2023-10-02T14:27:31.8296341-04:00",
-        "Discount": 68.0,
-        "Label": "PC Ent 27 2K IPS, i5-12600K, H100x, TUF Z690-Plus, DDR5 RGB 48GB, WD 1TB, RX 6750 XT Gaming X TRIO"
       }
     ]
   },
   "Torres": {
-    "Pro": [
-      {
-        "Price": 1139.00,
-        "Features": [],
-        "Date": "2023-09-29T16:02:10.5757914-04:00",
-        "Update": "2023-09-29T16:14:53.6002038-04:00",
-        "Discount": 37.0,
-        "Label": "Torre i7-12700K, D.Líquida, MSI Z690, DDR5 Ripjaws 32GB, M.2 WD BLACK SN850X 1TB, Seagate 12TB, NZXT"
-      },
-      {
-        "Price": 1185.00,
-        "Features": [],
-        "Date": "2023-09-29T16:08:01.6164971-04:00",
-        "Update": "2023-09-29T16:14:53.6411191-04:00",
-        "Discount": 32.0,
-        "Label": "Torre i9-12900K, D.Líquida, MSI Pro Z690, DDR5 Corsair RGB 48GB, SSD M.2 2TB, 600W, Chasis NZXT"
-      }
-    ],
     "Entusiasta": [
       {
         "Price": 1235.00,
@@ -48,7 +22,7 @@
         "Label": "Torre i5 13Gen, Hyper212, B660 ProArt, Corsair RGB 16GB, M.2 980 500GB, Asus RX 6600, Corsair CX750M"
       },
       {
-        "Price": 1269.00,
+        "Price": 1265.00,
         "Features": [],
         "Date": "2023-09-29T16:39:33.2055338-04:00",
         "Update": "2023-10-01T15:01:31.5820261-04:00",
@@ -56,7 +30,7 @@
         "Label": "Torre i5 12Gen, RTX 4060 Gaming X, Aorus B760M, DDR5 Aorus 32GB, M.2 XPG 512GB, Corsair 750W, RGB"
       },
       {
-        "Price": 2119.00,
+        "Price": 2115.00,
         "Features": [],
         "Date": "2023-09-29T17:03:00.2643331-04:00",
         "Update": "2023-10-01T15:01:31.6308888-04:00",
@@ -64,7 +38,7 @@
         "Label": "Torre i7-12700K, Pacific C360, Strix Z690-E, Dominator 32GB, 1TB BLACK, RTX 3080Ti, 850W, TUF GT301"
       },
       {
-        "Price": 2485.00,
+        "Price": 2465.00,
         "Features": [],
         "Date": "2023-09-29T17:11:41.4627107-04:00",
         "Update": "2023-10-01T15:01:31.6578511-04:00",
@@ -72,7 +46,7 @@
         "Label": "Torre i7-13700K, RTX 4070 Aorus Master, Z690 AERO, Z5 RGB 64GB, 980 PRO 2TB, TUF 850W"
       },
       {
-        "Price": 1699.00,
+        "Price": 1695.00,
         "Features": [],
         "Date": "2023-09-29T17:16:15.2763524-04:00",
         "Update": "2023-10-01T15:01:31.6763279-04:00",
@@ -80,25 +54,17 @@
         "Label": "Torre i5-12600K, Corsair H100x RGB, Z690 AERO, Dominator 32GB, WD 1TB, RTX 4060 Ti Gaming X, 850W CM"
       },
       {
-        "Price": 1579.00,
+        "Price": 1573.00,
         "Features": [],
         "Date": "2023-09-29T17:27:44.9593019-04:00",
         "Update": "2023-10-01T15:01:31.7025326-04:00",
         "Discount": 35.0,
         "Label": "Torre i5-12600K, Hyper 212, Z690 AERO, Trident Z5 32GB, WD BLACK 1TB, RX 6750 XT TRIO 12G, 850W CM"
-      },
-      {
-        "Price": 1106.00,
-        "Features": [],
-        "Date": "2023-10-01T14:19:34.7215442-04:00",
-        "Update": "2023-10-01T15:01:31.7837754-04:00",
-        "Discount": 27.0,
-        "Label": "Torre i5 11na, ASRock Z590 Extreme, Corsair 16GB, Samsung 980 500GB, Asus RX 6600, Corsair CX750M"
       }
     ],
     "Gamer": [
       {
-        "Price": 1719.00,
+        "Price": 1713.00,
         "Features": [],
         "Date": "2023-09-29T17:21:30.5557939-04:00",
         "Update": "2023-10-01T15:01:31.6884266-04:00",
@@ -122,7 +88,7 @@
         "Label": "Torre Gamer RX 6750 XT 12GB, i5 12Gen, 16GB 3600mhz RGB, M.2 512GB, Asus ProArt, Corsair 750W, NZXT"
       },
       {
-        "Price": 2039.00,
+        "Price": 2033.00,
         "Features": [],
         "Date": "2023-10-01T14:03:32.5149266-04:00",
         "Update": "2023-10-01T15:01:31.7645066-04:00",
@@ -134,7 +100,7 @@
   "Kits": {
     "Entusiasta": [
       {
-        "Price": 709.00,
+        "Price": 699.00,
         "Features": [],
         "Date": "2023-09-15T11:15:14.5969005-04:00",
         "Update": "2023-09-15T11:24:21.7664845-04:00",
@@ -142,7 +108,7 @@
         "Label": "Kit i5-12600K + Asus ROG Strix Z690-E Gaming Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6400mhz"
       },
       {
-        "Price": 799.00,
+        "Price": 795.00,
         "Features": [],
         "Date": "2023-09-15T11:22:05.4087649-04:00",
         "Update": "2023-09-15T11:24:21.8097102-04:00",
@@ -150,7 +116,7 @@
         "Label": "Kit i7-12700K + Asus ROG Maximus Z690 Hero + DDR5 Corsair Dominator Platinum RGB 32GB"
       },
       {
-        "Price": 1165.00,
+        "Price": 1155.00,
         "Features": [],
         "Date": "2023-06-24T13:41:22.3656225-04:00",
         "Update": "2023-10-02T14:27:31.6812931-04:00",
@@ -158,7 +124,7 @@
         "Label": "Kit i9-13900K + Asus ROG Maximus Z690 Hero + G.Skill Trident Z5 RGB 32GB 6400mhz"
       },
       {
-        "Price": 1149.00,
+        "Price": 1139.00,
         "Features": [],
         "Date": "2023-09-13T12:55:25.5938136-04:00",
         "Update": "2023-10-02T14:27:31.6930785-04:00",
@@ -166,7 +132,7 @@
         "Label": "Kit i9-13900K + Asus ROG Strix Z790-H Gaming Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
       },
       {
-        "Price": 1065.00,
+        "Price": 1045.00,
         "Features": [],
         "Date": "2023-09-13T12:58:34.210276-04:00",
         "Update": "2023-10-02T14:27:31.7081936-04:00",
@@ -174,7 +140,7 @@
         "Label": "Kit i7-13700K + Asus ROG Maximus Z690 Hero + DDR5 G.SKILL Trident Z5 RGB 64GB"
       },
       {
-        "Price": 789.00,
+        "Price": 785.00,
         "Features": [],
         "Date": "2023-09-13T13:09:37.0111333-04:00",
         "Update": "2023-10-02T14:27:31.7273825-04:00",
@@ -190,7 +156,7 @@
         "Label": "Kit i9-12900K + Gigabyte Z690 AERO G + DDR5 Corsair Vengeance RGB 48GB"
       },
       {
-        "Price": 749.00,
+        "Price": 729.00,
         "Features": [],
         "Date": "2023-09-15T11:20:08.6484654-04:00",
         "Update": "2023-10-02T14:27:31.7898075-04:00",
@@ -198,7 +164,7 @@
         "Label": "Kit i7-12700K + Gigabyte Z690 AERO G + DDR5 G.SKILL Trident Z5 RGB 64GB CL28"
       },
       {
-        "Price": 919.00,
+        "Price": 915.00,
         "Features": [],
         "Date": "2023-09-21T21:15:59.7347414-04:00",
         "Update": "2023-10-02T14:27:31.7998312-04:00",
@@ -206,35 +172,17 @@
         "Label": "Kit i7-13700K + Asus ROG Strix Z790-H Gaming + DDR5 Corsair Dominator Platinum RGB 32GB"
       },
       {
-        "Price": 1005.00,
+        "Price": 985.00,
         "Features": [],
         "Date": "2023-09-21T21:29:53.6548989-04:00",
         "Update": "2023-10-02T14:27:31.8096441-04:00",
         "Discount": 14.0,
         "Label": "Kit i9-12900K + Asus ROG Maximus Z690 Hero + DDR5 G.SKILL Trident Z5 RGB 64GB"
-      },
-      {
-        "Price": 635.00,
-        "Features": [],
-        "Date": "2023-09-13T13:15:22.925563-04:00",
-        "Update": "2023-10-02T14:27:31.8190791-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i7-12700K + Asus TUF Z690-Plus Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
-      }
-    ],
-    "Moderado": [
-      {
-        "Price": 455.00,
-        "Features": [],
-        "Date": "2023-09-15T11:03:08.0452878-04:00",
-        "Update": "2023-09-23T12:07:14.3775833-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i5 11na +Disipador + ASRock Z590 Extreme Wifi 6E + G.Skill Sniper X 32GB 3600mhz"
       }
     ],
     "Rendimiento": [
       {
-        "Price": 579.00,
+        "Price": 573.00,
         "Features": [],
         "Date": "2023-09-13T13:16:31.3080477-04:00",
         "Update": "2023-10-02T14:27:31.7737734-04:00",
@@ -558,17 +506,6 @@
         "Label": "DDR4 Corsair Vengeance RGB RT 16GB 3600mhz"
       },
       {
-        "Price": 95.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL16"
-        ],
-        "Date": "2023-03-30T09:55:42.6288205-04:00",
-        "Update": "2023-07-27T10:06:16.237127-04:00",
-        "Label": "DDR4 G.Skill Ripjaws V 32GB 3600mhz"
-      },
-      {
         "Price": 165.00,
         "Features": [
           "2x24GB",
@@ -591,7 +528,7 @@
         "Label": "DDR4 G.Skill Sniper X 32GB 3600mhz"
       },
       {
-        "Price": 135.00,
+        "Price": 129.00,
         "Features": [
           "2x16GB",
           "Disipadas",
@@ -602,7 +539,7 @@
         "Label": "DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       },
       {
-        "Price": 155.00,
+        "Price": 145.00,
         "Features": [
           "2x16GB",
           "Disipadas",
@@ -613,7 +550,7 @@
         "Label": "DDR5 G.Skill Trident Z5 RGB 32GB 6400mhz"
       },
       {
-        "Price": 125.00,
+        "Price": 119.00,
         "Features": [
           "2x16GB",
           "Disipadas",
@@ -624,7 +561,7 @@
         "Label": "DDR5 XPG Lancer 32GB 6400mhz"
       },
       {
-        "Price": 109.00,
+        "Price": 105.00,
         "Features": [
           "2x16GB",
           "Disipadas",
@@ -635,7 +572,7 @@
         "Label": "DDR5 GeIL ORION RGB 32GB 6000mhz"
       },
       {
-        "Price": 245.00,
+        "Price": 225.00,
         "Features": [
           "CL28",
           "2x32GB",
@@ -657,7 +594,7 @@
         "Label": "DDR4 Corsair Vengeance RGB RS 16GB 3600mhz"
       },
       {
-        "Price": 139.00,
+        "Price": 135.00,
         "Features": [
           "2x16GB",
           "Disipadas",
@@ -690,7 +627,7 @@
         "Label": "DDR5 G.Skill Ripjaws S5 Series 32GB 6400mhz"
       },
       {
-        "Price": 119.00,
+        "Price": 115.00,
         "Features": [
           "2x16GB",
           "CL40",
@@ -723,7 +660,7 @@
         "Label": "DDR4 G.Skill Ripjaws V 16GB 3600mhz"
       },
       {
-        "Price": 179.00,
+        "Price": 169.00,
         "Features": [
           "CL34",
           "2x16GB",
@@ -734,7 +671,7 @@
         "Label": "DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
       },
       {
-        "Price": 135.00,
+        "Price": 129.00,
         "Features": [
           "2x16GB",
           "CL36",
@@ -1004,7 +941,7 @@
         "Label": "SSD M.2 Corsair MP600 CORE XT 2TB"
       },
       {
-        "Price": 89.00,
+        "Price": 87.00,
         "Features": [
           "7400mbs",
           "PCIe 4",
@@ -1062,7 +999,7 @@
         "Label": "SSD M.2 SAMSUNG 980 PRO 1TB"
       },
       {
-        "Price": 79.00,
+        "Price": 77.00,
         "Features": [
           "3500mbps",
           "600tbw",
@@ -1074,7 +1011,7 @@
         "Label": "SSD M.2 Samsung 970 EVO Plus 1TB"
       },
       {
-        "Price": 95.00,
+        "Price": 91.00,
         "Features": [
           "7000mbps",
           "HeatSink",
@@ -1204,18 +1141,6 @@
         "Date": "2023-06-07T15:03:30.731139-04:00",
         "Update": "2023-09-02T13:38:05.3889953-04:00",
         "Label": "Fuente Asus TUF 1000W"
-      },
-      {
-        "Price": 79.00,
-        "Features": [
-          "45A",
-          "2x 6+2Pin",
-          "4x SATA",
-          "1x 4+4 EPS"
-        ],
-        "Date": "2023-09-11T09:09:29.0343419-04:00",
-        "Update": "2023-09-11T10:45:33.5758621-04:00",
-        "Label": "Fuente Apevia Spirit 600W"
       },
       {
         "Price": 295.00,
@@ -1809,26 +1734,6 @@
         "Label": "MSI PRO Z690-A Wifi"
       },
       {
-        "Price": 185.00,
-        "Features": [
-          "10ma-11na",
-          "Dual Lan",
-          "6xAudio",
-          "6xSATA",
-          "5xUSB",
-          "DDR4",
-          "4800mhz",
-          "LGA 1200",
-          "ATX",
-          "PS2",
-          "HDMI",
-          "DisplayPort"
-        ],
-        "Date": "2023-07-09T16:53:38.4898666-04:00",
-        "Update": "2023-07-28T14:40:04.1053233-04:00",
-        "Label": "ASRock Z590 Extreme Wifi 6E"
-      },
-      {
         "Price": 285.00,
         "Features": [
           "12va-13ra",
@@ -1865,22 +1770,6 @@
         "Date": "2023-07-26T18:48:17.6030093-04:00",
         "Update": "2023-08-06T08:19:53.923068-04:00",
         "Label": "Gigabyte Z790 UD AX"
-      },
-      {
-        "Price": 239.00,
-        "Features": [
-          "12va-13ra",
-          "6xAudio",
-          "6xUSB",
-          "4xSATA",
-          "6000mhz",
-          "LGA1700",
-          "HDMI",
-          "DisplayPort"
-        ],
-        "Date": "2023-05-11T07:56:36.6020035-04:00",
-        "Update": "2023-10-02T14:22:59.0270755-04:00",
-        "Label": "Asus TUF Z690-Plus Wifi DDR5"
       },
       {
         "Price": 189.00,
@@ -2241,7 +2130,7 @@
         "Label": "CPU Intel Core i5-11600K"
       },
       {
-        "Price": 265.00,
+        "Price": 259.00,
         "Features": [
           "13ra Gen",
           "16 Hilos",
