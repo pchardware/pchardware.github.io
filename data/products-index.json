@@ -294,13 +294,6 @@
         "Label": "Cable HDMI 2.0, 1.8m"
       },
       {
-        "Price": 19.00,
-        "Features": [],
-        "Date": "2023-08-21T08:58:55.8070561-04:00",
-        "Update": "2023-08-21T12:54:21.2104835-04:00",
-        "Label": "Cable DisplayPort 1.4, 1.8m"
-      },
-      {
         "Price": 16.00,
         "Features": [],
         "Date": "2023-08-21T08:59:01.7749952-04:00",
@@ -489,17 +482,6 @@
         "Date": "2023-03-30T09:56:49.769494-04:00",
         "Update": "2023-07-27T10:06:16.2131599-04:00",
         "Label": "DDR4 GeIL ORION RGB 16GB 3600mhz"
-      },
-      {
-        "Price": 75.00,
-        "Features": [
-          "2x8GB",
-          "Disipadas",
-          "CL18"
-        ],
-        "Date": "2023-03-30T09:55:59.2434323-04:00",
-        "Update": "2023-07-27T10:06:16.220988-04:00",
-        "Label": "DDR4 GeIL ORION RGB 16GB 4000mhz"
       },
       {
         "Price": 79.00,
@@ -2780,13 +2762,6 @@
         "Label": "HUB Orico USB-C, 4xUSB [PW4U]"
       },
       {
-        "Price": 14.00,
-        "Features": [],
-        "Date": "2023-08-16T09:17:21.5276421-04:00",
-        "Update": "2023-09-02T13:38:05.4498334-04:00",
-        "Label": "Hub ORICO 4-Port USB 3.0"
-      },
-      {
         "Price": 49.00,
         "Features": [
           "USB3.0",
@@ -3050,23 +3025,6 @@
         "Label": "COMBO Teclado + Mouse Logitech MK520"
       },
       {
-        "Price": 105.00,
-        "Features": [
-          "Mecánico",
-          "RGB",
-          "Macros",
-          "Palm rest",
-          "USB passthrough",
-          "Anti ghosting",
-          "Gaming",
-          "Multimedia",
-          "Full"
-        ],
-        "Date": "2023-06-24T08:20:47.5951092-04:00",
-        "Update": "2023-06-24T10:51:11.5125575-04:00",
-        "Label": "Teclado Rosewill NEON K90 RGB BR"
-      },
-      {
         "Price": 93.00,
         "Features": [
           "Macros",
@@ -3109,17 +3067,6 @@
         "Date": "2023-06-29T07:38:50.1028263-04:00",
         "Update": "2023-06-29T11:38:59.2059347-04:00",
         "Label": "Teclado EVGA Z20"
-      },
-      {
-        "Price": 49.00,
-        "Features": [
-          "Inalámbrico",
-          "Membrana",
-          "Full"
-        ],
-        "Date": "2023-07-09T16:45:14.9093916-04:00",
-        "Update": "2023-07-11T00:46:41.4816907-04:00",
-        "Label": "COMBO Teclado + Mouse Lenovo 300"
       },
       {
         "Price": 87.00,
