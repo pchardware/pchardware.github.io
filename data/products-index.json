@@ -20,41 +20,9 @@
         "Update": "2023-10-01T15:01:31.5334837-04:00",
         "Discount": 31.0,
         "Label": "Torre i5 13Gen, Hyper212, B660 ProArt, Corsair RGB 16GB, M.2 980 500GB, Asus RX 6600, Corsair CX750M"
-      },
-      {
-        "Price": 1265.00,
-        "Features": [],
-        "Date": "2023-09-29T16:39:33.2055338-04:00",
-        "Update": "2023-10-01T15:01:31.5820261-04:00",
-        "Discount": 26.0,
-        "Label": "Torre i5 12Gen, RTX 4060 Gaming X, Aorus B760M, DDR5 Aorus 32GB, M.2 XPG 512GB, Corsair 750W, RGB"
-      },
-      {
-        "Price": 1695.00,
-        "Features": [],
-        "Date": "2023-09-29T17:16:15.2763524-04:00",
-        "Update": "2023-10-01T15:01:31.6763279-04:00",
-        "Discount": 37.0,
-        "Label": "Torre i5-12600K, Corsair H100x RGB, Z690 AERO, Dominator 32GB, WD 1TB, RTX 4060 Ti Gaming X, 850W CM"
-      },
-      {
-        "Price": 1573.00,
-        "Features": [],
-        "Date": "2023-09-29T17:27:44.9593019-04:00",
-        "Update": "2023-10-01T15:01:31.7025326-04:00",
-        "Discount": 35.0,
-        "Label": "Torre i5-12600K, Hyper 212, Z690 AERO, Trident Z5 32GB, WD BLACK 1TB, RX 6750 XT TRIO 12G, 850W CM"
       }
     ],
     "Gamer": [
-      {
-        "Price": 1713.00,
-        "Features": [],
-        "Date": "2023-09-29T17:21:30.5557939-04:00",
-        "Update": "2023-10-01T15:01:31.6884266-04:00",
-        "Discount": 31.0,
-        "Label": "Torre Gamer Asus RTX 4070, i5-12600K, DDR5 XPG 32GB 6400mhz RGB, M.2 2TB, MSI PRO Z690, EVGA 800W"
-      },
       {
         "Price": 1349.00,
         "Features": [],
@@ -62,14 +30,6 @@
         "Update": "2023-10-01T15:01:31.7239937-04:00",
         "Discount": 37.0,
         "Label": "Torre Gamer Asus RTX 4060, i5-12600K, G.Skill 32GB 6400mhz, M.2 1TB, MSI Z690, Corsair CX750M, NZXT"
-      },
-      {
-        "Price": 1229.00,
-        "Features": [],
-        "Date": "2023-09-29T17:31:25.5033533-04:00",
-        "Update": "2023-10-01T15:01:31.7464074-04:00",
-        "Discount": 30.0,
-        "Label": "Torre Gamer RX 6750 XT 12GB, i5 12Gen, 16GB 3600mhz RGB, M.2 512GB, Asus ProArt, Corsair 750W, NZXT"
       }
     ]
   },
@@ -798,27 +758,6 @@
     ],
     "Disco Sólido": [
       {
-        "Price": 49.00,
-        "Features": [
-          "3500mbs",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-04-09T10:01:55.7163005-04:00",
-        "Update": "2023-06-07T16:09:24.7877438-04:00",
-        "Label": "SSD M.2 ADATA XPG GAMMIX S7 512GB"
-      },
-      {
-        "Price": 39.00,
-        "Features": [
-          "540mbs",
-          "SATA 3"
-        ],
-        "Date": "2023-04-09T09:39:51.3408305-04:00",
-        "Update": "2023-06-07T16:09:24.7974415-04:00",
-        "Label": "SSD 2.5 Crucial BX500 480GB"
-      },
-      {
         "Price": 55.00,
         "Features": [
           "560mbs",
@@ -882,17 +821,6 @@
         "Date": "2023-06-07T13:43:23.553018-04:00",
         "Update": "2023-07-27T09:48:00.6497566-04:00",
         "Label": "SSD 2.5 Team Group T-FORCE VULCAN G 512GB"
-      },
-      {
-        "Price": 95.00,
-        "Features": [
-          "540mbps",
-          "1600tbw",
-          "SATA 3"
-        ],
-        "Date": "2023-07-26T16:46:54.426825-04:00",
-        "Update": "2023-07-27T09:48:00.8250522-04:00",
-        "Label": "SSD 2.5 Team Group CX2 2TB"
       },
       {
         "Price": 105.00,
@@ -1263,21 +1191,6 @@
         "Date": "2023-08-16T09:16:30.0204629-04:00",
         "Update": "2023-10-03T09:09:19.0854626-04:00",
         "Label": "Fuente EVGA 750W"
-      },
-      {
-        "Price": 185.00,
-        "Features": [
-          "80+ Gold",
-          "Full Modular",
-          "ATX 3.0",
-          "2x 4+4 EPS",
-          "71A",
-          "4x 6+2Pin",
-          "12x SATA"
-        ],
-        "Date": "2023-09-26T11:28:55.5740236-04:00",
-        "Update": "2023-10-03T09:09:19.4643101-04:00",
-        "Label": "Fuente Cooler Master MWE 850 V2"
       },
       {
         "Price": 175.00,
@@ -2099,27 +2012,6 @@
         "Label": "Enfriamiento Sama SC125"
       },
       {
-        "Price": 57.00,
-        "Features": [
-          "4xPipes",
-          "1550rpm",
-          "66cfm",
-          "26dBA",
-          "148mm",
-          "Negro",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4",
-          "AM5",
-          "Tower",
-          "1xFan"
-        ],
-        "Date": "2023-03-27T10:59:27.7734094-04:00",
-        "Update": "2023-09-26T11:26:56.6809593-04:00",
-        "Label": "Enfriamiento Thermalright Assassin X 120 R SE ARGB"
-      },
-      {
         "Price": 39.00,
         "Features": [
           "Cobre",
@@ -2673,21 +2565,6 @@
         "Label": "NVidia RTX 3060 Ti Founders Edition"
       },
       {
-        "Price": 465.00,
-        "Features": [
-          "3xFan",
-          "DLSS3",
-          "500WR",
-          "1x8Pin",
-          "281mm",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-10-03T06:56:18.8836302-04:00",
-        "Update": "2023-10-03T09:09:19.6027619-04:00",
-        "Label": "Gigabyte RTX 4060 Ti Gaming OC 8GB"
-      },
-      {
         "Price": 525.00,
         "Features": [
           "12GB",
@@ -2760,20 +2637,6 @@
         "Date": "2023-08-08T10:08:25.6723245-04:00",
         "Update": "2023-08-09T11:38:47.3567026-04:00",
         "Label": "HUB Orico USB-C, 4xUSB [PW4U]"
-      },
-      {
-        "Price": 49.00,
-        "Features": [
-          "USB3.0",
-          "2.5",
-          "3.5",
-          "SATA 3",
-          "UASP",
-          "3A"
-        ],
-        "Date": "2023-09-23T17:40:33.4339482-04:00",
-        "Update": "2023-09-23T18:19:21.6998353-04:00",
-        "Label": "Docking MAIWO Dual Bay"
       }
     ],
     "Mouse": [
@@ -2900,20 +2763,6 @@
         "Date": "2023-06-19T07:49:07.3176421-04:00",
         "Update": "2023-09-12T13:13:29.6696943-04:00",
         "Label": "Mouse Corsair IRONCLAW RGB Wireless"
-      },
-      {
-        "Price": 55.00,
-        "Features": [
-          "Wireless",
-          "12000dpi",
-          "6 botónes",
-          "Optico",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-06-29T07:38:38.0146289-04:00",
-        "Update": "2023-09-23T18:19:21.4900266-04:00",
-        "Label": "Mouse Logitech G305 Lightspeed"
       },
       {
         "Price": 39.00,
@@ -3266,23 +3115,6 @@
         "Date": "2023-07-09T16:45:42.268062-04:00",
         "Update": "2023-07-31T14:21:04.934129-04:00",
         "Label": "Logitech G335"
-      },
-      {
-        "Price": 125.00,
-        "Features": [
-          "Noise Control",
-          "20Hz-30KHz",
-          "50mm",
-          "7.1",
-          "16H",
-          "iCUE",
-          "Inalámbrico",
-          "Headset",
-          "Cascos"
-        ],
-        "Date": "2023-05-12T07:52:40.6205045-04:00",
-        "Update": "2023-09-23T12:07:14.3255593-04:00",
-        "Label": "Corsair VOID RGB Elite Wireless Carbon"
       },
       {
         "Price": 129.00,
