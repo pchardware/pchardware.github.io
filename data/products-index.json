@@ -398,13 +398,6 @@
       {
         "Price": 17.00,
         "Features": [],
-        "Date": "2023-07-26T16:41:29.0221883-04:00",
-        "Update": "2023-10-02T14:22:58.9441219-04:00",
-        "Label": "Thermalright LGA1700-BCF Black"
-      },
-      {
-        "Price": 17.00,
-        "Features": [],
         "Date": "2023-10-02T14:29:08.3286216-04:00",
         "Update": "2023-10-03T09:09:19.5109387-04:00",
         "Label": "Thermalright AM5 Secure Frame RED"
@@ -1820,25 +1813,6 @@
         "Date": "2023-07-26T18:48:17.6030093-04:00",
         "Update": "2023-08-06T08:19:53.923068-04:00",
         "Label": "Gigabyte Z790 UD AX"
-      },
-      {
-        "Price": 189.00,
-        "Features": [
-          "12va-13ra",
-          "7xUSB",
-          "6xAudio",
-          "DDR4",
-          "5200mhz",
-          "6xSATA",
-          "LGA 1700",
-          "ATX",
-          "HDMI",
-          "DisplayPort",
-          "PS2"
-        ],
-        "Date": "2023-10-02T14:29:29.7747771-04:00",
-        "Update": "2023-10-02T15:13:13.7618866-04:00",
-        "Label": "MSI PRO Z690-A Wifi DDR4"
       },
       {
         "Price": 315.00,
