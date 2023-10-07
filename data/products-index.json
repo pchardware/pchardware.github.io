@@ -2030,29 +2030,6 @@
         "Date": "2023-08-08T10:08:41.3850156-04:00",
         "Update": "2023-10-03T09:09:19.14036-04:00",
         "Label": "Enfriamiento Sama KA200D"
-      },
-      {
-        "Price": 65.00,
-        "Features": [
-          "ARGB",
-          "63cfm",
-          "4xPipes",
-          "Cobre",
-          "1800rpm",
-          "25dBA",
-          "155mm",
-          "Negro",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4",
-          "AM5",
-          "Tower",
-          "1xFan"
-        ],
-        "Date": "2023-07-26T18:49:40.2918309-04:00",
-        "Update": "2023-10-03T09:09:19.2368385-04:00",
-        "Label": "Enfriamiento Thermaltake UX200 SE"
       }
     ],
     "Microprocesador": [
@@ -2355,22 +2332,6 @@
         "Date": "2023-06-19T07:49:38.2054403-04:00",
         "Update": "2023-08-09T11:38:47.2001364-04:00",
         "Label": "Asus Dual RTX 4070 OC"
-      },
-      {
-        "Price": 249.00,
-        "Features": [
-          "8GB",
-          "3xFan",
-          "1x8Pin",
-          "500WR",
-          "282mm",
-          "Radeon",
-          "AMD",
-          "GPU"
-        ],
-        "Date": "2023-05-11T19:24:18.7527581-04:00",
-        "Update": "2023-08-09T11:38:47.2295958-04:00",
-        "Label": "Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
       },
       {
         "Price": 775.00,
@@ -3220,26 +3181,6 @@
         "Date": "2023-10-02T14:28:51.2536902-04:00",
         "Update": "2023-10-02T15:13:13.6576702-04:00",
         "Label": "Monitor Acer Nitro KG271U"
-      },
-      {
-        "Price": 449.00,
-        "Features": [
-          "1440p",
-          "144Hz",
-          "IPS",
-          "350nit",
-          "1ms",
-          "HDR400",
-          "Flat",
-          "2x HDMI",
-          "DP",
-          "USB",
-          "Speakers",
-          "Monitor"
-        ],
-        "Date": "2023-08-20T10:12:32.3834228-04:00",
-        "Update": "2023-10-03T09:09:19.1130434-04:00",
-        "Label": "Gigabyte 27\" G27Q"
       },
       {
         "Price": 399.00,
