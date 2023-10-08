@@ -36,28 +36,12 @@
   "Kits": {
     "Entusiasta": [
       {
-        "Price": 699.00,
-        "Features": [],
-        "Date": "2023-09-15T11:15:14.5969005-04:00",
-        "Update": "2023-09-15T11:24:21.7664845-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-12600K + Asus ROG Strix Z690-E Gaming Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6400mhz"
-      },
-      {
         "Price": 795.00,
         "Features": [],
         "Date": "2023-09-15T11:22:05.4087649-04:00",
         "Update": "2023-09-15T11:24:21.8097102-04:00",
         "Discount": 14.0,
         "Label": "Kit i7-12700K + Asus ROG Maximus Z690 Hero + DDR5 Corsair Dominator Platinum RGB 32GB"
-      },
-      {
-        "Price": 1155.00,
-        "Features": [],
-        "Date": "2023-06-24T13:41:22.3656225-04:00",
-        "Update": "2023-10-02T14:27:31.6812931-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i9-13900K + Asus ROG Maximus Z690 Hero + G.Skill Trident Z5 RGB 32GB 6400mhz"
       },
       {
         "Price": 1139.00,
@@ -457,17 +441,6 @@
         "Date": "2023-05-11T08:37:27.4728146-04:00",
         "Update": "2023-07-27T10:06:16.2570921-04:00",
         "Label": "DDR5 Corsair Vengeance RGB 48GB 5600mhz"
-      },
-      {
-        "Price": 145.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL32"
-        ],
-        "Date": "2023-06-19T07:47:31.4126097-04:00",
-        "Update": "2023-07-27T10:06:16.3204448-04:00",
-        "Label": "DDR5 G.Skill Trident Z5 RGB 32GB 6400mhz"
       },
       {
         "Price": 119.00,
@@ -963,19 +936,6 @@
         "Date": "2023-10-02T14:29:38.4356357-04:00",
         "Update": "2023-10-02T15:13:13.8279567-04:00",
         "Label": "SSD M.2 Samsung 970 EVO Plus 1TB"
-      },
-      {
-        "Price": 91.00,
-        "Features": [
-          "7000mbps",
-          "HeatSink",
-          "700tbw",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-10-02T14:29:40.7946679-04:00",
-        "Update": "2023-10-02T15:13:13.8457032-04:00",
-        "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 1TB"
       },
       {
         "Price": 109.00,
@@ -1507,26 +1467,6 @@
         "Date": "2023-08-29T08:41:25.9385748-04:00",
         "Update": "2023-10-03T09:09:19.4531625-04:00",
         "Label": "D.Líquida Gigabyte GP-AORUS Waterforce X 240"
-      },
-      {
-        "Price": 139.00,
-        "Features": [
-          "2000rpm",
-          "57cfm",
-          "26db",
-          "Hydraulic",
-          "2xFan",
-          "240mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "LGA 20XX",
-          "AM5",
-          "AM4"
-        ],
-        "Date": "2023-10-03T06:56:22.9075693-04:00",
-        "Update": "2023-10-03T09:09:19.6199553-04:00",
-        "Label": "D.Líquida Thermaltake TH240 ARGB"
       }
     ],
     "Disco Duro": [
@@ -1775,24 +1715,6 @@
         "Date": "2023-06-29T07:38:21.8556469-04:00",
         "Update": "2023-07-28T14:40:04.0794809-04:00",
         "Label": "MSI PRO Z690-A Wifi"
-      },
-      {
-        "Price": 285.00,
-        "Features": [
-          "12va-13ra",
-          "8xSATA",
-          "9xUSB",
-          "DDR5",
-          "6xAudio",
-          "6800mhz",
-          "LGA 1700",
-          "ATX",
-          "DisplayPort",
-          "HDMI"
-        ],
-        "Date": "2023-07-26T18:49:06.0246464-04:00",
-        "Update": "2023-07-28T14:40:04.1210973-04:00",
-        "Label": "ASRock Z790 STEEL LEGEND WIFI"
       },
       {
         "Price": 259.00,
@@ -2545,23 +2467,6 @@
         "Label": "Corsair Voyager Slider X1 64GB"
       },
       {
-        "Price": 29.00,
-        "Features": [
-          "HDMI",
-          "VGA",
-          "RJ45",
-          "SD",
-          "MicroSD",
-          "1xUSB3.0",
-          "2xUSB2.0",
-          "USB-C",
-          "3.5mm"
-        ],
-        "Date": "2023-08-08T10:02:55.1490571-04:00",
-        "Update": "2023-08-09T11:38:47.2878929-04:00",
-        "Label": "Docking Orico 10-in-1 USB-C [MDK-10P]"
-      },
-      {
         "Price": 17.00,
         "Features": [
           "Negro",
@@ -2572,205 +2477,6 @@
         "Date": "2023-08-08T10:08:25.6723245-04:00",
         "Update": "2023-08-09T11:38:47.3567026-04:00",
         "Label": "HUB Orico USB-C, 4xUSB [PW4U]"
-      }
-    ],
-    "Mouse": [
-      {
-        "Price": 65.00,
-        "Features": [
-          "Extended",
-          "Rosado",
-          "Strix"
-        ],
-        "Date": "2023-05-12T07:54:27.4081446-04:00",
-        "Update": "2023-06-07T16:50:45.239396-04:00",
-        "Label": "Mouse Pad Asus ROG Sheath Pink LTD"
-      },
-      {
-        "Price": 35.00,
-        "Features": [
-          "7000dpi",
-          "Optico",
-          "7 botónes",
-          "Palm-Claw",
-          "USB"
-        ],
-        "Date": "2023-06-24T08:20:19.9313716-04:00",
-        "Update": "2023-06-24T10:51:11.4827164-04:00",
-        "Label": "Mouse Asus TUF M3"
-      },
-      {
-        "Price": 61.00,
-        "Features": [
-          "74g",
-          "18000dpi",
-          "Palm-Claw",
-          "6 botónes",
-          "Optico",
-          "Gaming",
-          "iCUE",
-          "USB"
-        ],
-        "Date": "2023-06-29T07:38:41.0713-04:00",
-        "Update": "2023-06-29T11:38:59.1947363-04:00",
-        "Label": "Mouse Corsair Sabre RGB Pro"
-      },
-      {
-        "Price": 63.00,
-        "Features": [
-          "RGB",
-          "82g",
-          "10000dpi",
-          "6 botónes",
-          "FPS",
-          "Battle",
-          "Royale",
-          "MOBA",
-          "Claw-Fingertip",
-          "Optico",
-          "USB"
-        ],
-        "Date": "2023-06-29T07:38:44.0694774-04:00",
-        "Update": "2023-06-29T11:38:59.2013601-04:00",
-        "Label": "Mouse Corsair Katar Pro Wireless"
-      },
-      {
-        "Price": 63.00,
-        "Features": [
-          "Optico",
-          "8500dpi",
-          "6 botónes",
-          "61g",
-          "RGB",
-          "USB"
-        ],
-        "Date": "2023-07-09T16:44:42.8536521-04:00",
-        "Update": "2023-07-09T22:12:27.9299035-04:00",
-        "Label": "Mouse Razer Viper Mini"
-      },
-      {
-        "Price": 49.00,
-        "Features": [
-          "Reforzado",
-          "Tela",
-          "Anti-Fray"
-        ],
-        "Date": "2023-06-19T07:49:14.3324582-04:00",
-        "Update": "2023-07-19T11:18:32.6612517-04:00",
-        "Label": "Mouse Pad Corsair MM300 Extended"
-      },
-      {
-        "Price": 57.00,
-        "Features": [
-          "Limited Edition",
-          "Extra-Large"
-        ],
-        "Date": "2023-08-01T11:15:25.8644328-04:00",
-        "Update": "2023-08-01T18:30:20.4296613-04:00",
-        "Label": "Mouse Pad Asus NC01 ROG Sheath BLK"
-      },
-      {
-        "Price": 37.00,
-        "Features": [
-          "Gaming",
-          "6 botónes",
-          "6000dpi",
-          "Optico",
-          "USB"
-        ],
-        "Date": "2023-09-02T12:38:48.8628172-04:00",
-        "Update": "2023-09-02T13:38:05.6192543-04:00",
-        "Label": "Mouse Corsair Harpoon RGB"
-      },
-      {
-        "Price": 97.00,
-        "Features": [
-          "Macros",
-          "50H",
-          "Recargable",
-          "18000dpi",
-          "Optico",
-          "10 botónes",
-          "iCUE",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-06-19T07:49:07.3176421-04:00",
-        "Update": "2023-09-12T13:13:29.6696943-04:00",
-        "Label": "Mouse Corsair IRONCLAW RGB Wireless"
-      },
-      {
-        "Price": 39.00,
-        "Features": [
-          "12000dpi",
-          "Palm",
-          "Claw",
-          "Blanco",
-          "RGB",
-          "220ips",
-          "6 botónes",
-          "50g",
-          "Gaming",
-          "Optico",
-          "USB"
-        ],
-        "Date": "2023-09-26T11:29:01.6985294-04:00",
-        "Update": "2023-09-26T12:08:30.143387-04:00",
-        "Label": "Mouse Cooler Master MM310 White"
-      },
-      {
-        "Price": 39.00,
-        "Features": [
-          "RGB",
-          "16000dpi",
-          "400ips",
-          "8 botónes",
-          "Gaming",
-          "Optico",
-          "USB"
-        ],
-        "Date": "2023-09-23T14:08:24.2497001-04:00",
-        "Update": "2023-09-29T15:51:20.0198906-04:00",
-        "Label": "Mouse EVGA X12 White"
-      },
-      {
-        "Price": 29.00,
-        "Features": [
-          "53g",
-          "PTFE",
-          "Omron Switches",
-          "Ultralight",
-          "Pro-Grade"
-        ],
-        "Date": "2023-08-01T11:15:22.0148333-04:00",
-        "Update": "2023-10-02T14:22:58.9744973-04:00",
-        "Label": "Mouse Cooler Master M710"
-      },
-      {
-        "Price": 15.00,
-        "Features": [
-          "Reforzado",
-          "Tela",
-          "Anti-Fray"
-        ],
-        "Date": "2023-10-02T14:28:43.989663-04:00",
-        "Update": "2023-10-02T15:13:13.6367838-04:00",
-        "Label": "Mouse Pad Corsair MM100"
-      },
-      {
-        "Price": 55.00,
-        "Features": [
-          "Inalámbrico",
-          "16000dpi",
-          "Sniper Button",
-          "Optico",
-          "Ergonómico",
-          "10 botónes",
-          "USB"
-        ],
-        "Date": "2023-10-02T14:29:32.4826293-04:00",
-        "Update": "2023-10-02T15:13:13.7841987-04:00",
-        "Label": "Mouse EVGA X20 Gray"
       }
     ],
     "Teclado": [
@@ -2981,6 +2687,194 @@
         "Date": "2023-09-23T14:08:49.6528943-04:00",
         "Update": "2023-09-23T15:28:21.1886075-04:00",
         "Label": "Teclado Corsair Gaming K68"
+      }
+    ],
+    "Mouse": [
+      {
+        "Price": 35.00,
+        "Features": [
+          "7000dpi",
+          "Optico",
+          "7 botónes",
+          "Palm-Claw",
+          "USB"
+        ],
+        "Date": "2023-06-24T08:20:19.9313716-04:00",
+        "Update": "2023-06-24T10:51:11.4827164-04:00",
+        "Label": "Mouse Asus TUF M3"
+      },
+      {
+        "Price": 61.00,
+        "Features": [
+          "74g",
+          "18000dpi",
+          "Palm-Claw",
+          "6 botónes",
+          "Optico",
+          "Gaming",
+          "iCUE",
+          "USB"
+        ],
+        "Date": "2023-06-29T07:38:41.0713-04:00",
+        "Update": "2023-06-29T11:38:59.1947363-04:00",
+        "Label": "Mouse Corsair Sabre RGB Pro"
+      },
+      {
+        "Price": 63.00,
+        "Features": [
+          "RGB",
+          "82g",
+          "10000dpi",
+          "6 botónes",
+          "FPS",
+          "Battle",
+          "Royale",
+          "MOBA",
+          "Claw-Fingertip",
+          "Optico",
+          "USB"
+        ],
+        "Date": "2023-06-29T07:38:44.0694774-04:00",
+        "Update": "2023-06-29T11:38:59.2013601-04:00",
+        "Label": "Mouse Corsair Katar Pro Wireless"
+      },
+      {
+        "Price": 63.00,
+        "Features": [
+          "Optico",
+          "8500dpi",
+          "6 botónes",
+          "61g",
+          "RGB",
+          "USB"
+        ],
+        "Date": "2023-07-09T16:44:42.8536521-04:00",
+        "Update": "2023-07-09T22:12:27.9299035-04:00",
+        "Label": "Mouse Razer Viper Mini"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "Reforzado",
+          "Tela",
+          "Anti-Fray"
+        ],
+        "Date": "2023-06-19T07:49:14.3324582-04:00",
+        "Update": "2023-07-19T11:18:32.6612517-04:00",
+        "Label": "Mouse Pad Corsair MM300 Extended"
+      },
+      {
+        "Price": 57.00,
+        "Features": [
+          "Limited Edition",
+          "Extra-Large"
+        ],
+        "Date": "2023-08-01T11:15:25.8644328-04:00",
+        "Update": "2023-08-01T18:30:20.4296613-04:00",
+        "Label": "Mouse Pad Asus NC01 ROG Sheath BLK"
+      },
+      {
+        "Price": 37.00,
+        "Features": [
+          "Gaming",
+          "6 botónes",
+          "6000dpi",
+          "Optico",
+          "USB"
+        ],
+        "Date": "2023-09-02T12:38:48.8628172-04:00",
+        "Update": "2023-09-02T13:38:05.6192543-04:00",
+        "Label": "Mouse Corsair Harpoon RGB"
+      },
+      {
+        "Price": 97.00,
+        "Features": [
+          "Macros",
+          "50H",
+          "Recargable",
+          "18000dpi",
+          "Optico",
+          "10 botónes",
+          "iCUE",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-06-19T07:49:07.3176421-04:00",
+        "Update": "2023-09-12T13:13:29.6696943-04:00",
+        "Label": "Mouse Corsair IRONCLAW RGB Wireless"
+      },
+      {
+        "Price": 39.00,
+        "Features": [
+          "12000dpi",
+          "Palm",
+          "Claw",
+          "Blanco",
+          "RGB",
+          "220ips",
+          "6 botónes",
+          "50g",
+          "Gaming",
+          "Optico",
+          "USB"
+        ],
+        "Date": "2023-09-26T11:29:01.6985294-04:00",
+        "Update": "2023-09-26T12:08:30.143387-04:00",
+        "Label": "Mouse Cooler Master MM310 White"
+      },
+      {
+        "Price": 39.00,
+        "Features": [
+          "RGB",
+          "16000dpi",
+          "400ips",
+          "8 botónes",
+          "Gaming",
+          "Optico",
+          "USB"
+        ],
+        "Date": "2023-09-23T14:08:24.2497001-04:00",
+        "Update": "2023-09-29T15:51:20.0198906-04:00",
+        "Label": "Mouse EVGA X12 White"
+      },
+      {
+        "Price": 29.00,
+        "Features": [
+          "53g",
+          "PTFE",
+          "Omron Switches",
+          "Ultralight",
+          "Pro-Grade"
+        ],
+        "Date": "2023-08-01T11:15:22.0148333-04:00",
+        "Update": "2023-10-02T14:22:58.9744973-04:00",
+        "Label": "Mouse Cooler Master M710"
+      },
+      {
+        "Price": 15.00,
+        "Features": [
+          "Reforzado",
+          "Tela",
+          "Anti-Fray"
+        ],
+        "Date": "2023-10-02T14:28:43.989663-04:00",
+        "Update": "2023-10-02T15:13:13.6367838-04:00",
+        "Label": "Mouse Pad Corsair MM100"
+      },
+      {
+        "Price": 55.00,
+        "Features": [
+          "Inalámbrico",
+          "16000dpi",
+          "Sniper Button",
+          "Optico",
+          "Ergonómico",
+          "10 botónes",
+          "USB"
+        ],
+        "Date": "2023-10-02T14:29:32.4826293-04:00",
+        "Update": "2023-10-02T15:13:13.7841987-04:00",
+        "Label": "Mouse EVGA X20 Gray"
       }
     ],
     "Silla": [
