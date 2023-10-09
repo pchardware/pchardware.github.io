@@ -1,0 +1,17 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disco Sólido",
+  "Images": [
+    "/images/products/ssd-m2-adata-xpg-gammix-s7-512gb-1.webp"
+  ],
+  "Description": "",
+  "Price": 49.00,
+  "Features": [
+    "3500mbs",
+    "PCIe 3",
+    "NVMe"
+  ],
+  "Date": "2023-04-09T10:01:55.7163005-04:00",
+  "Update": "2023-10-09T15:58:28.3222592-04:00",
+  "Label": "SSD M.2 ADATA XPG GAMMIX S7 512GB"
+}
