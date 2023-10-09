@@ -1,0 +1,28 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Fuente",
+  "Images": [
+    "/images/products/fuente-asus-rog-thor-1000w-platinum-ii-1.webp",
+    "/images/products/fuente-asus-rog-thor-1000w-platinum-ii-2.webp",
+    "/images/products/fuente-asus-rog-thor-1000w-platinum-ii-3.webp",
+    "/images/products/fuente-asus-rog-thor-1000w-platinum-ii-4.webp",
+    "/images/products/fuente-asus-rog-thor-1000w-platinum-ii-5.webp",
+    "/images/products/fuente-asus-rog-thor-1000w-platinum-ii-6.webp",
+    "/images/products/fuente-asus-rog-thor-1000w-platinum-ii-7.webp"
+  ],
+  "Description": "General\nBrand: ASUS\nSeries: ROG Thor\nModel: ROG-THOR-1000P2-GAMING\n\n\nDetails\nType: ATX12V\nMaximum Power: 1000 W\nFans: 1 x 135 mm\nMax PSU Length: 190 mm\nModular: Full Modular\nEnergy-Efficient: 80 PLUS PLATINUM Certified\nProtection: OPP / OVP / UVP / SCP / OCP / OTP\nInput Voltage: 100 - 240 V\n\n\nDimension & Weight\nDimensions: 3.39\" x 5.91\" x 7.48\"\nWeight: 5.22 lbs.\n\n\n\nROG-THOR-1000P2-GAMING\nROG Thor 1000W Platinum II es la fuente de poder más silenciosa de su clase.\n\n    La Certificación Lambda A++ confirma que la fuente de poder Thor ejerce un poder amenazante en absoluto sigilo.\n    Los disipadores térmicos ROG cubren los componentes críticos y ofrecen temperaturas más bajas y menos ruido.\n    Un ventilador Axial-tech de 135 mm con control PWM genera menos ruido y mantiene las temperaturas bajo control.\n    Construido con capacitores de baja ESR y otros componentes premium para lograr la certificación 80 Plus Platinum.\n    La Pantalla OLED supervisa el consumo de energía en tiempo real.\n    La compatibilidad Aura Sync te permite personalizar y sincronizar los efectos de iluminación con otro hardware compatible.",
+  "Price": 395.00,
+  "Features": [
+    "1x 16Pin",
+    "80+ Platinum",
+    "Full Modular",
+    "1000W",
+    "83A",
+    "8x 6+2Pin",
+    "12x SATA",
+    "2x 4+4 EPS"
+  ],
+  "Date": "2023-09-11T09:09:22.0492744-04:00",
+  "Update": "2023-10-09T15:58:28.3326513-04:00",
+  "Label": "Fuente Asus ROG Thor 1000W Platinum II"
+}
