@@ -1,0 +1,30 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Mouse",
+  "Images": [
+    "/images/products/mouse-logitech-pro-wireless-black-1.webp",
+    "/images/products/mouse-logitech-pro-wireless-black-2.webp",
+    "/images/products/mouse-logitech-pro-wireless-black-3.webp",
+    "/images/products/mouse-logitech-pro-wireless-black-4.webp",
+    "/images/products/mouse-logitech-pro-wireless-black-5.webp",
+    "/images/products/mouse-logitech-pro-wireless-black-6.webp",
+    "/images/products/mouse-logitech-pro-wireless-black-7.webp",
+    "/images/products/mouse-logitech-pro-wireless-black-8.webp"
+  ],
+  "Description": "Model\nBrand: Logitech\nName: PRO Wireless Gaming Mouse\nModel: 910-005270\n\n\nDetails\nType: LIGHTSPEED Wireless\nTracking Method: Optical\nMaximum dpi: 25600 dpi\nHand Orientation: Both Hands\nButtons: 6\nColor: Black\n\n\nPackage Contents\nPackage Contents: PRO Wireless Gaming Mouse\nLIGHTSPEED USB receiver\nUSB charging/data cable\nOptional receiver extension adapter\nOptional button covers (2x left, 2x right)\nUser documentation",
+  "Price": 97.00,
+  "Features": [
+    "25600dpi",
+    "Inmalámbrico",
+    "Híbrido",
+    "Hero",
+    "RGB",
+    "Gaming",
+    "6 botónes",
+    "Optico",
+    "USB"
+  ],
+  "Date": "2023-10-09T15:58:43.1814204-04:00",
+  "Update": "2023-10-09T17:48:21.8737839-04:00",
+  "Label": "Mouse Logitech Pro Wireless Black"
+}
