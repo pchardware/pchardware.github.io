@@ -1,0 +1,23 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disco Sólido",
+  "Images": [
+    "/images/products/ssd-25-pny-cs900-1tb-1.webp",
+    "/images/products/ssd-25-pny-cs900-1tb-2.webp",
+    "/images/products/ssd-25-pny-cs900-1tb-3.webp",
+    "/images/products/ssd-25-pny-cs900-1tb-4.webp",
+    "/images/products/ssd-25-pny-cs900-1tb-5.webp",
+    "/images/products/ssd-25-pny-cs900-1tb-6.webp",
+    "/images/products/ssd-25-pny-cs900-1tb-7.webp",
+    "/images/products/ssd-25-pny-cs900-1tb-8.webp"
+  ],
+  "Description": "Model\nBrand: PNY\nSeries: CS900\nModel: SSD7CS900-1TB-RB\nDevice Type: Internal Solid State Drive (SSD)\nUsed For: Consumer\n\n\nDetails\nForm Factor: 2.5\"\nCapacity: 1TB\nMemory Components: 3D NAND\nInterface: SATA III\n\n\nPerformance\nMax Sequential Read: Up to 535 MBps\nMax Sequential Write: Up to 515 MBps\nMTBF: 2,000,000 hours\n\n\nFeatures\nFeatures: Sequential Read of up to 535 MB/s and Write of up to 515 MB/s\n\nFaster boot up and quicker application launch\n\nBetter overall system performance\n\nReliable storage\n\nLow power consumption, cool and quiet operation\n\n\nEnvironmental\nOperating Temperature: 0°C ~ +70°C\nStorage Temperature: -40°C ~ +85°C\n\n\nDimensions & Weight\nHeight: 7.00mm\nWidth: 69.85mm\nDepth: 100.00mm\nWeight: 45.00g",
+  "Price": 69.00,
+  "Features": [
+    "535mbs",
+    "SATA 3"
+  ],
+  "Date": "2023-10-09T15:58:45.9668788-04:00",
+  "Update": "2023-10-09T17:48:21.8840093-04:00",
+  "Label": "SSD 2.5 PNY CS900 1TB"
+}
