@@ -1,0 +1,31 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Monitor",
+  "Images": [
+    "/images/products/monitor-gigabyte-27-g27f-2-1.webp",
+    "/images/products/monitor-gigabyte-27-g27f-2-2.webp",
+    "/images/products/monitor-gigabyte-27-g27f-2-3.webp",
+    "/images/products/monitor-gigabyte-27-g27f-2-4.webp",
+    "/images/products/monitor-gigabyte-27-g27f-2-5.webp",
+    "/images/products/monitor-gigabyte-27-g27f-2-6.webp",
+    "/images/products/monitor-gigabyte-27-g27f-2-7.webp"
+  ],
+  "Description": "Model\nBrand: GIGABYTE\nModel: G27F 2\n\n\nDisplay\nScreen Size: 27\"\nWidescreen: Yes\nGlare Screen: Non-glare\nLED Backlight: Edge\nPanel: SS IPS\nDisplay Type: FHD\nAdaptive Sync Technology: FreeSync Premium (AMD Adaptive Sync)\nRecommended Resolution: 1920 x 1080\nViewing Angle: 178° (H) / 178° (V)\nAspect Ratio: 16:9\nBrightness: 400 cd/m2 (TYP)\nContrast Ratio: 1,000:1\nResponse Time: 1 ms MPRT\nColor Gamut: 95% DCI-P3, 130% sRGB\nDisplay Colors: 16.7 Million\nPixel Pitch: 0.3108(H) x 0.3108(V) mm\nRefresh Rate: 165Hz / OC 170Hz\nHDR Standard: HDR ready\nCurved Surface Screen: Flat Panel\n\n\nConnectivity\nConnectors: \nHDMI, DisplayPort, USB, Audio\nVideo Ports:\n- 2 x HDMI 2.0\n- 1 x DisplayPort 1.2 (capable for HDR)\nUSB Ports: \n- 2 x USB 3.2 Gen 1 Downstream ports\n- 1 x USB 3.2 Gen 1 Upstream port\nHeadphone: 1 x Earphone Jack\n\n\nPower\nPower Supply: 19VDC 3.42A\nPower Consumption: Power Consumption: 21W*\nPower Saving Mode: 0.5W\nPower Off Mode: 0.3W\n\n\nConvenience\nStand Adjustments: Tilt (angle): -5°~+20° \nHeight Adjustment (mm): 130 mm\nVESA Compatibility - Mountable: 100 x 100mm\nFeatures: Flicker-free\n\n\nDimensions & Weight\nDimensions (H x W x D): 21.09\" x 24.22\" x 7.62\" w/ stand\n14.46\" x 24.22\" x 1.66\" w/o stand\nWeight: 11.46 lbs. w/ stand\n7.72 lbs. w/o stand\n\n\nPackaging\nPackage Contents: Power cable\nHDMI cable\nDP cable\nUSB cable\nQSG\nWarranty card",
+  "Price": 399.00,
+  "Features": [
+    "170Hz",
+    "IPS",
+    "400nit",
+    "1ms",
+    "FreeSync",
+    "1080p",
+    "FHD",
+    "Flat",
+    "2x HDMI",
+    "DP",
+    "Gaming"
+  ],
+  "Date": "2023-10-03T06:56:38.0508252-04:00",
+  "Update": "2023-10-09T17:48:21.8638471-04:00",
+  "Label": "Monitor Gigabyte 27\" G27F-2"
+}
