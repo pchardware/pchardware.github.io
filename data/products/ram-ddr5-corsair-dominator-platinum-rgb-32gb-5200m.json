@@ -1,0 +1,20 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Memoria RAM",
+  "Images": [
+    "/images/products/ram-ddr5-corsair-dominator-platinum-rgb-32gb-5200m-1.webp",
+    "/images/products/ram-ddr5-corsair-dominator-platinum-rgb-32gb-5200m-2.webp",
+    "/images/products/ram-ddr5-corsair-dominator-platinum-rgb-32gb-5200m-3.webp",
+    "/images/products/ram-ddr5-corsair-dominator-platinum-rgb-32gb-5200m-4.webp"
+  ],
+  "Description": "Model\nBrand: CORSAIR\nSeries: Dominator Platinum RGB\nModel: CMT32GX5M2B5200C40\n\n\nDetails\nCapacity: 32GB (2 x 16GB)\nType: 288-Pin PC RAM\nSpeed: DDR5 5200 (PC5 41600)\nCAS Latency: 40\nTiming: 40-40-40-77\nVoltage: 1.25V\nECC: No\nBuffered/Registered: Unbuffered / Unregistered\nMulti-channel Kit: Dual Channel Kit\nChipset: Intel XMP 3.0\nColor: Black\nHeat Spreader: Anodized Aluminum\nFeatures: Welcome to the Cutting-Edge of Performance: Push the limits of your system like never before with DDR5 memory, unlocking even faster frequencies, greater capacities, and better performance.\n\nDo it All, and Do it Faster: As modern CPUs feature more and more cores, the unprecedented speed of DDR5 ensures your high-end CPU gets data quickly, enabling faster processing, rendering, and buffering than ever before.\n\nOnboard Voltage Regulation: Makes for easier, finely-tuned, and more stable overclocking through CORSAIR iCUE software than ever.\n\nPatented CORSAIR DHX Cooling: Keeps DDR5 temperatures down by cooling both the ICs and the ground plane of the PCB itself with its own dedicated heatspreader, ensuring high performance even under extreme loads.\n\nCustom Intel XMP 3.0 Profiles: Customize and save your own XMP profiles via iCUE to tailor performance by app or task for greater efficiency.\n\nPowerful CORSAIR iCUE Software: Enables dynamic RGB lighting control synchronized across your entire iCUE setup, real-time temperature and frequency readings, onboard voltage regulation, and custom XMP profiles.\n\nWorld-Renowned Style and Design: DOMINATOR PLATINUM RGB DDR5 combines precision forged aluminum, die-casting, and anodization, complementing the most powerful and refined high-end system builds.\n\n12 Ultra-Bright CAPELLIX RGB LEDs: Each module is lined with 12 individually addressable LEDs to illuminate your PC with spectacular customizable lighting and low power consumption.\n\nHand-Sorted, Tightly-Screened Memory Chips: Ensures consistent high-frequency performance with aggressive timing options.\n\nCustom High-Performance PCB: Guarantees signal quality and stability for superior overclocking ability.\n\nOptimized for Intel DDR5 Motherboards: For wide compatibility with the latest motherboards.\nRecommend Use: Intel 600 Series\nLED Color: RGB",
+  "Price": 135.00,
+  "Features": [
+    "2x16GB",
+    "Disipadas",
+    "CL40"
+  ],
+  "Date": "2023-08-29T08:41:38.0676822-04:00",
+  "Update": "2023-10-09T17:48:20.9890588-04:00",
+  "Label": "RAM DDR5 Corsair Dominator Platinum RGB 32GB 5200mhz"
+}
