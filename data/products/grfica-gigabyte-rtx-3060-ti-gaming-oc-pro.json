@@ -1,0 +1,30 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/grfica-gigabyte-rtx-3060-ti-gaming-oc-pro-1.webp",
+    "/images/products/grfica-gigabyte-rtx-3060-ti-gaming-oc-pro-2.webp",
+    "/images/products/grfica-gigabyte-rtx-3060-ti-gaming-oc-pro-3.webp",
+    "/images/products/grfica-gigabyte-rtx-3060-ti-gaming-oc-pro-4.webp",
+    "/images/products/grfica-gigabyte-rtx-3060-ti-gaming-oc-pro-5.webp",
+    "/images/products/grfica-gigabyte-rtx-3060-ti-gaming-oc-pro-6.webp",
+    "/images/products/grfica-gigabyte-rtx-3060-ti-gaming-oc-pro-7.webp",
+    "/images/products/grfica-gigabyte-rtx-3060-ti-gaming-oc-pro-8.webp"
+  ],
+  "Description": "",
+  "Price": 409.00,
+  "Features": [
+    "3xFan",
+    "8GB",
+    "1x8Pin + 1x6Pin",
+    "650WR",
+    "286mm",
+    "GeForce",
+    "NVIDIA",
+    "GPU",
+    "Tarjeta de Video"
+  ],
+  "Date": "2023-10-02T14:29:14.5916934-04:00",
+  "Update": "2023-10-09T17:48:21.4987771-04:00",
+  "Label": "Gráfica Gigabyte RTX 3060 Ti Gaming OC Pro"
+}
