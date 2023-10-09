@@ -100,6 +100,14 @@
         "Update": "2023-10-03T09:09:19.3097855-04:00",
         "Discount": 10.0,
         "Label": "Kit i5-13500 +Disipador + Gigabyte Aorus B760M Elite AX + DDR5 Corsair Dominator Platinum RGB 32GB"
+      },
+      {
+        "Price": 629.00,
+        "Features": [],
+        "Date": "2023-09-13T13:15:22.925563-04:00",
+        "Update": "2023-10-09T15:58:28.3590343-04:00",
+        "Discount": 14.0,
+        "Label": "Kit i7-12700K + Asus TUF Z690-Plus Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       }
     ]
   },
@@ -921,6 +929,42 @@
         "Date": "2023-10-03T06:56:34.7397369-04:00",
         "Update": "2023-10-03T09:09:19.6389703-04:00",
         "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 2TB"
+      },
+      {
+        "Price": 107.00,
+        "Features": [
+          "7000mbs",
+          "HeatSink",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-05-11T14:03:36.5510535-04:00",
+        "Update": "2023-10-09T15:58:28.3107208-04:00",
+        "Label": "SSD M.2 SAMSUNG 980 PRO 1TB +Heatsink"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "3500mbs",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-04-09T10:01:55.7163005-04:00",
+        "Update": "2023-10-09T15:58:28.3222592-04:00",
+        "Label": "SSD M.2 ADATA XPG GAMMIX S7 512GB"
+      },
+      {
+        "Price": 91.00,
+        "Features": [
+          "7000mbps",
+          "HeatSink",
+          "700tbw",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-10-02T14:29:40.7946679-04:00",
+        "Update": "2023-10-09T15:58:28.3703427-04:00",
+        "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 1TB"
       }
     ],
     "Fuente": [
@@ -1107,6 +1151,22 @@
         "Date": "2023-10-03T06:55:40.1387236-04:00",
         "Update": "2023-10-03T09:09:19.5335383-04:00",
         "Label": "Fuente Gigabyte UD850GM"
+      },
+      {
+        "Price": 395.00,
+        "Features": [
+          "1x 16Pin",
+          "80+ Platinum",
+          "Full Modular",
+          "1000W",
+          "83A",
+          "8x 6+2Pin",
+          "12x SATA",
+          "2x 4+4 EPS"
+        ],
+        "Date": "2023-09-11T09:09:22.0492744-04:00",
+        "Update": "2023-10-09T15:58:28.3326513-04:00",
+        "Label": "Fuente Asus ROG Thor 1000W Platinum II"
       }
     ],
     "Red": [
@@ -1699,6 +1759,22 @@
         "Date": "2023-10-03T06:55:51.8601602-04:00",
         "Update": "2023-10-03T09:09:19.5625344-04:00",
         "Label": "Asus TUF B650-Plus Wifi"
+      },
+      {
+        "Price": 239.00,
+        "Features": [
+          "12va-13ra",
+          "6xAudio",
+          "6xUSB",
+          "4xSATA",
+          "6000mhz",
+          "LGA1700",
+          "HDMI",
+          "DisplayPort"
+        ],
+        "Date": "2023-05-11T07:56:36.6020035-04:00",
+        "Update": "2023-10-09T15:58:28.3445186-04:00",
+        "Label": "Asus TUF Z690-Plus Wifi DDR5"
       }
     ],
     "Disipador por Aire": [
