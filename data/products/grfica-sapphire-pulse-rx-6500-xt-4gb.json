@@ -1,0 +1,28 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/grfica-sapphire-pulse-rx-6500-xt-4gb-1.webp",
+    "/images/products/grfica-sapphire-pulse-rx-6500-xt-4gb-2.webp",
+    "/images/products/grfica-sapphire-pulse-rx-6500-xt-4gb-3.webp",
+    "/images/products/grfica-sapphire-pulse-rx-6500-xt-4gb-4.webp",
+    "/images/products/grfica-sapphire-pulse-rx-6500-xt-4gb-5.webp",
+    "/images/products/grfica-sapphire-pulse-rx-6500-xt-4gb-6.webp",
+    "/images/products/grfica-sapphire-pulse-rx-6500-xt-4gb-7.webp"
+  ],
+  "Description": "Model\nBrand: SAPPHIRE\nSeries: PULSE\nModel: 11314-01-20G\n\n\nInterface\nInterface: PCI Express 4.0\n\n\nChipset\nChipset Manufacturer: AMD\nGPU Series: AMD Radeon RX 6000 Series\nGPU: Radeon RX 6500 XT\nArchitecture: RDNA 2\nGame Clock: 2685 MHz\nBoost Clock: 2825 MHz\nStream Processors: 1024 Stream Processors\n\n\nMemory\nEffective Memory Clock: 18 Gbps\nMemory Size: 4GB\nMemory Interface: 64-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12 Ultimate\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 2\nHDMI: 1 x HDMI\nDisplayPort: 1 x DisplayPort\n\n\nDetails\nMax Resolution: 7680 x 4320\nCooler: Double Fans\nOperating Systems Supported: Linux, Windows 7*, Windows 10, and Windows 11 64-bit operating system required\n\n* Does not support all features including but not limited to Hardware Raytracing.\nThermal Design Power: 130W\nSystem Requirements: Minimum 400 Watt Power Supply.\n1 x 6-pin Power Connector.\nPCI Express based PC is required with one X16 lane graphics slot available on the motherboard.\nMinimum 8GB of system memory. 16GB recommended.\nRecommended PSU Wattage: 400W\nPower Connector: 6-Pin\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 194 mm\nCard Dimensions (L x H): 7.64\" x 4.21\"\nSlot Width: 2 Slots",
+  "Price": 205.00,
+  "Features": [
+    "2xFan",
+    "1x6Pin",
+    "400WR",
+    "194mm",
+    "Radeon",
+    "AMD",
+    "GPU",
+    "Tarjeta de Video"
+  ],
+  "Date": "2023-09-23T17:45:37.2322879-04:00",
+  "Update": "2023-10-09T17:48:21.2506226-04:00",
+  "Label": "Gráfica Sapphire PULSE RX 6500 XT 4GB"
+}
