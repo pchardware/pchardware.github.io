@@ -14,10 +14,11 @@
   "Features": [
     "1080p",
     "Autofocus",
-    "stereo",
+    "Stereo",
+    "Micrófono",
     "USB"
   ],
   "Date": "2023-05-12T07:54:32.8971269-04:00",
-  "Update": "2023-10-02T14:22:58.9637863-04:00",
+  "Update": "2023-10-09T17:48:21.3470979-04:00",
   "Label": "WebCam Logitech C920s Pro"
 }
