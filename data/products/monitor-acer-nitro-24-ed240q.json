@@ -1,0 +1,39 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Monitor",
+  "Images": [
+    "/images/products/monitor-acer-nitro-24-ed240q-1.webp",
+    "/images/products/monitor-acer-nitro-24-ed240q-2.webp",
+    "/images/products/monitor-acer-nitro-24-ed240q-3.webp",
+    "/images/products/monitor-acer-nitro-24-ed240q-4.webp",
+    "/images/products/monitor-acer-nitro-24-ed240q-5.webp",
+    "/images/products/monitor-acer-nitro-24-ed240q-6.webp",
+    "/images/products/monitor-acer-nitro-24-ed240q-7.webp",
+    "/images/products/monitor-acer-nitro-24-ed240q-8.webp",
+    "/images/products/monitor-acer-nitro-24-ed240q-9.webp",
+    "/images/products/monitor-acer-nitro-24-ed240q-10.webp",
+    "/images/products/monitor-acer-nitro-24-ed240q-11.webp",
+    "/images/products/monitor-acer-nitro-24-ed240q-12.webp",
+    "/images/products/monitor-acer-nitro-24-ed240q-13.webp"
+  ],
+  "Description": "Model\nBrand: Acer\nModel: ED240Q Sbiip\nPart Number: UM.UE0AA.S01\nBezel Design: Frameless\n\n\nDisplay\nScreen Size: 23.6\"\nWidescreen: No\nPanel: VA\nDisplay Type: FHD\nAdaptive Sync Technology: AMD FreeSync Premium\nRecommended Resolution: 1920 x 1080\nViewing Angle: 178° (H) / 178° (V)\nBrightness: 250 Nit\nContrast Ratio: 100,000,000:1\nResponse Time: 1ms (VRB)\nColor Gamut: NTSC 72%\nDisplay Colors: 16.7 Million\nPixel Pitch: 0.272mm\nRefresh Rate: 165 Hz\nCurvature Radius: 1500R\nCurved Surface Screen: Curved\n\n\nConnectivity\nHDMI: 2 x HDMI 2.0\nDisplayPort: 1 x DisplayPort 1.4\n\n\nConvenience\nStand Adjustments: Tilt\nBuilt-in Speakers: No\nBuilt-in Webcam: No\nVESA Compatibility - Mountable: 100 x 100mm\n\n\nDimensions & Weight\nDimensions (H x W x D): Monitor Dimensions WxHxD (inch)\": 21.25x16.30x7.99\nMonitor Dimensions w/o stand WxHxD (inch)\": 21.25x12.67x2.92\nPackage Dimensions(inch) WxHxD (inch)\": 23.62x5.24x15.39\nWeight: Weight  (lb.): 6.6\nWeight  w/o stand (lb.): 5.7\nGross Weight (lb.): 8.82\n\n\nPackaging\nPackage Contents: Power cord & HDMI cable",
+  "Price": 245.00,
+  "Features": [
+    "165Hz",
+    "1ms",
+    "Curvo",
+    "FreeSync",
+    "VESA",
+    "VA",
+    "1500R",
+    "2x HDMI",
+    "DP",
+    "FHD",
+    "250nit",
+    "1080p",
+    "Gaming"
+  ],
+  "Date": "2023-10-09T15:59:30.9767274-04:00",
+  "Update": "2023-10-09T17:48:21.9971115-04:00",
+  "Label": "Monitor Acer Nitro 24\" ED240Q"
+}
