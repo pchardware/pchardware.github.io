@@ -1,0 +1,24 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Webcam",
+  "Images": [
+    "/images/products/webcam-logitech-c270-hd-1.webp",
+    "/images/products/webcam-logitech-c270-hd-2.webp",
+    "/images/products/webcam-logitech-c270-hd-3.webp",
+    "/images/products/webcam-logitech-c270-hd-4.webp",
+    "/images/products/webcam-logitech-c270-hd-5.webp",
+    "/images/products/webcam-logitech-c270-hd-6.webp"
+  ],
+  "Description": "Disclaimer\nDisclaimer: The package and the logo could be different for the producing time.It couldn't be the reason to apply for return and refund or replacement.\n\n\nModel\nBrand: Logitech\nName: C270\nModel: 960-000694\nPart Number: LOG960000694\n\n\nDetails\nColor: Gray\nInterface: USB 2.0\nMax. Image Resolution: 3.0 MP (Software Enhanced)\nVideo Capture Resolution: 1280 x 720\nFrame Rate: 30 fps\nOperating Systems Supported: Windows XP (SP2 or higher), Windows Vista or Windows 7 (32-bit or 64-bit)\n\n\nFeatures\nFeatures: HD video calls\n\n3-megapixel snapshots\n\nIncludes Logitech Vid HD\n\nBuilt-in mic with RightSound\n\nRightLight technology\n\nIM compatibility\n\nFree video editing software\n\nSmoother. Sharper. Richer. Clearer.\n\n\nPackage Contents\nPackage Contents: Webcam with 5-foot cable\nLogitech webcam software with Logitech Vid HD\nUser documentation",
+  "Price": 61.00,
+  "Features": [
+    "USB",
+    "3mp",
+    "Micrófono",
+    "720p",
+    "30fps"
+  ],
+  "Date": "2023-10-09T15:59:49.8284237-04:00",
+  "Update": "2023-10-09T17:48:22.0356999-04:00",
+  "Label": "WebCam Logitech C270 HD"
+}
