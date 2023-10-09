@@ -1,0 +1,18 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Memoria RAM",
+  "Images": [
+    "/images/products/ram-ddr5-gigabyte-aorus-32gb-5200mhz-1.webp",
+    "/images/products/ram-ddr5-gigabyte-aorus-32gb-5200mhz-2.webp"
+  ],
+  "Description": "Model\nBrand: Gigabyte\nSeries: AORUS\nModel: GP-ARS32G52D5\n\n\nDetails\nCapacity: 32GB (2 x 16GB)\nType: 288-Pin PC RAM\nSpeed: DDR5 5200 (PC5 41600)\nCAS Latency: 40\nTiming: 40-40-40-80\nVoltage: 1.25V\nECC: No\nMulti-channel Kit: Dual Channel Kit\nChipset: Intel XMP 3.0\nColor: Gray\nHeat Spreader: Yes\nRecommend Use: Intel Z690",
+  "Price": 115.00,
+  "Features": [
+    "2x16GB",
+    "CL40",
+    "Disipadas"
+  ],
+  "Date": "2023-05-11T08:38:23.3870937-04:00",
+  "Update": "2023-10-09T17:48:21.1505023-04:00",
+  "Label": "RAM DDR5 Gigabyte AORUS 32GB 5200mhz"
+}
