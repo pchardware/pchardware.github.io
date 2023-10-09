@@ -1,0 +1,26 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disipador por Aire",
+  "Images": [
+    "/images/products/disipador-intel-stock-original-1.webp",
+    "/images/products/disipador-intel-stock-original-2.webp",
+    "/images/products/disipador-intel-stock-original-3.webp",
+    "/images/products/disipador-intel-stock-original-4.webp",
+    "/images/products/disipador-intel-stock-original-5.webp"
+  ],
+  "Description": "",
+  "Price": 6.00,
+  "Features": [
+    "LGA 115X",
+    "2800rpm",
+    "22dBA",
+    "Aluminio",
+    "1xFan",
+    "19mm",
+    "Top-flow",
+    "Negro"
+  ],
+  "Date": "2023-06-07T15:04:28.5510666-04:00",
+  "Update": "2023-10-09T17:48:20.8414306-04:00",
+  "Label": "Disipador Intel Stock Original"
+}
