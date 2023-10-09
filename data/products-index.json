@@ -1,16 +1,4 @@
 {
-  "Computadoras": {
-    "Entusiasta": [
-      {
-        "Price": 1515.00,
-        "Features": [],
-        "Date": "2023-08-20T13:32:33.8852707-04:00",
-        "Update": "2023-09-23T18:19:21.5887938-04:00",
-        "Discount": 42.0,
-        "Label": "PC Ent TUF 24\", i5 12Gen, Asus B660 ProArt, 16GB RGB, 980 500GB, RX 6650 XT, CX750M, H510, Gaming K1"
-      }
-    ]
-  },
   "Torres": {
     "Entusiasta": [
       {
@@ -20,16 +8,6 @@
         "Update": "2023-10-01T15:01:31.5334837-04:00",
         "Discount": 31.0,
         "Label": "Torre i5 13Gen, Hyper212, B660 ProArt, Corsair RGB 16GB, M.2 980 500GB, Asus RX 6600, Corsair CX750M"
-      }
-    ],
-    "Gamer": [
-      {
-        "Price": 1349.00,
-        "Features": [],
-        "Date": "2023-09-29T17:29:26.7906381-04:00",
-        "Update": "2023-10-01T15:01:31.7239937-04:00",
-        "Discount": 37.0,
-        "Label": "Torre Gamer Asus RTX 4060, i5-12600K, G.Skill 32GB 6400mhz, M.2 1TB, MSI Z690, Corsair CX750M, NZXT"
       }
     ]
   },
@@ -122,16 +100,6 @@
         "Update": "2023-10-03T09:09:19.3097855-04:00",
         "Discount": 10.0,
         "Label": "Kit i5-13500 +Disipador + Gigabyte Aorus B760M Elite AX + DDR5 Corsair Dominator Platinum RGB 32GB"
-      }
-    ],
-    "Rendimiento": [
-      {
-        "Price": 573.00,
-        "Features": [],
-        "Date": "2023-09-13T13:16:31.3080477-04:00",
-        "Update": "2023-10-02T14:27:31.7737734-04:00",
-        "Discount": 16.0,
-        "Label": "Kit i7-12700K + MSI PRO Z690-A Wifi + DDR5 XPG Lancer 32GB 6400mhz"
       }
     ]
   },
@@ -628,17 +596,6 @@
         "Date": "2023-10-03T06:56:13.4449074-04:00",
         "Update": "2023-10-03T09:09:19.5812017-04:00",
         "Label": "DDR5 G.Skill Trident Z5 RGB 64GB 6000mhz"
-      },
-      {
-        "Price": 109.00,
-        "Features": [
-          "2x16GB",
-          "CL30",
-          "Disipadas"
-        ],
-        "Date": "2023-10-03T06:56:16.0979857-04:00",
-        "Update": "2023-10-03T09:09:19.5921395-04:00",
-        "Label": "DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
       }
     ],
     "Chasis": [
@@ -832,17 +789,6 @@
         "Date": "2023-07-09T16:45:24.2760094-04:00",
         "Update": "2023-09-11T10:29:55.908247-04:00",
         "Label": "SSD M.2 Silicon Power 2TB UD90"
-      },
-      {
-        "Price": 67.00,
-        "Features": [
-          "4125mbs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-09-11T09:09:15.3220665-04:00",
-        "Update": "2023-09-11T11:17:59.1953642-04:00",
-        "Label": "SSD M.2 Solidigm P41 Plus 1TB"
       },
       {
         "Price": 129.00,
@@ -1698,25 +1644,6 @@
         "Label": "Asus ROG Strix Z790-H Gaming Wifi"
       },
       {
-        "Price": 195.00,
-        "Features": [
-          "12va-13ra",
-          "DDR5",
-          "6xAudio",
-          "6xSATA",
-          "7xUSB",
-          "6400mhz",
-          "LGA 1700",
-          "ATX",
-          "PS2",
-          "DisplayPort",
-          "HDMI"
-        ],
-        "Date": "2023-06-29T07:38:21.8556469-04:00",
-        "Update": "2023-07-28T14:40:04.0794809-04:00",
-        "Label": "MSI PRO Z690-A Wifi"
-      },
-      {
         "Price": 259.00,
         "Features": [
           "12va-13ra",
@@ -1979,22 +1906,6 @@
         "Date": "2023-05-11T07:00:48.0876416-04:00",
         "Update": "2023-07-27T11:12:22.7531535-04:00",
         "Label": "Intel Core i9-12900K"
-      },
-      {
-        "Price": 209.00,
-        "Features": [
-          "12va Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "18MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-02-17T09:45:29.425139-05:00",
-        "Update": "2023-07-27T11:12:22.855332-04:00",
-        "Label": "Intel Core i5-12400 +Disipador"
       },
       {
         "Price": 435.00,
@@ -2262,21 +2173,6 @@
         "Date": "2023-08-29T08:42:12.9727616-04:00",
         "Update": "2023-08-29T10:22:03.7596664-04:00",
         "Label": "Gigabyte RTX 4070 Gaming OC"
-      },
-      {
-        "Price": 399.00,
-        "Features": [
-          "12GB",
-          "2xFan",
-          "2x8Pin",
-          "650WR",
-          "Radeon",
-          "AMD",
-          "GPU"
-        ],
-        "Date": "2023-07-26T16:40:56.6283918-04:00",
-        "Update": "2023-09-02T13:38:05.4133593-04:00",
-        "Label": "MSI Mech Radeon RX 6750 XT"
       },
       {
         "Price": 389.00,
