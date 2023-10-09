@@ -1,0 +1,17 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Memoria RAM",
+  "Images": [
+    "/images/products/ram-ddr4-neo-forza-faye-16gb-4600mhz-1.webp"
+  ],
+  "Description": "Model\nBrand: Neo Forza\nSeries: Faye\nModel: NMUD480E82-4600CG20\n\n\nDetails\nCapacity: 16GB (2 x 8GB)\nSpeed: DDR4 4600 (PC4 36800)\nCAS Latency: 19\nTiming: 19-26-26-46\nVoltage: 1.50V\nECC: No\nBuffered/Registered: Unbuffered\nMulti-channel Kit: Dual Channel Kit\nChipset: Intel XMP 2.0\nColor: Black\nHeat Spreader: Yes\nRecommend Use: High Performance or Gaming Memory\nLED Color: None",
+  "Price": 73.00,
+  "Features": [
+    "2x8GB",
+    "Disipadas",
+    "CL19"
+  ],
+  "Date": "2023-09-23T17:45:32.1937207-04:00",
+  "Update": "2023-10-09T17:48:21.2187114-04:00",
+  "Label": "RAM DDR4 Neo Forza FAYE 16GB 4600mhz"
+}
