@@ -746,7 +746,7 @@
         "Label": "SSD 2.5 Team Group T-FORCE VULCAN G 512GB"
       },
       {
-        "Price": 105.00,
+        "Price": 99.00,
         "Features": [
           "3500mbs",
           "740tbw",
@@ -769,7 +769,7 @@
         "Label": "SSD M.2 Samsung 980 PRO 2TB"
       },
       {
-        "Price": 185.00,
+        "Price": 179.00,
         "Features": [
           "7450mbs",
           "PCIe 4",
@@ -780,7 +780,7 @@
         "Label": "SSD M.2 Samsung 990 Pro 2TB"
       },
       {
-        "Price": 113.00,
+        "Price": 109.00,
         "Features": [
           "5000mbs",
           "PCIe 4",
@@ -860,7 +860,7 @@
         "Label": "SSD M.2 Samsung 990 PRO 1TB"
       },
       {
-        "Price": 99.00,
+        "Price": 97.00,
         "Features": [
           "7000mbs",
           "600tbw",
@@ -884,7 +884,7 @@
         "Label": "SSD M.2 Samsung 970 EVO Plus 1TB"
       },
       {
-        "Price": 109.00,
+        "Price": 105.00,
         "Features": [
           "7100mbps",
           "HeatSink",
@@ -1203,7 +1203,7 @@
         "Label": "Kit Líquido Corsair Hydro XH305i"
       },
       {
-        "Price": 255.00,
+        "Price": 259.00,
         "Features": [
           "2500rpm",
           "81cfm",
@@ -2840,23 +2840,6 @@
         "Date": "2023-07-09T16:45:42.268062-04:00",
         "Update": "2023-07-31T14:21:04.934129-04:00",
         "Label": "Logitech G335"
-      },
-      {
-        "Price": 129.00,
-        "Features": [
-          "Noise Control",
-          "20Hz-30KHz",
-          "50mm",
-          "7.1",
-          "16H",
-          "iCUE",
-          "Inalámbrico",
-          "Headset",
-          "Cascos"
-        ],
-        "Date": "2023-09-23T14:08:54.0159291-04:00",
-        "Update": "2023-09-23T15:28:21.2061293-04:00",
-        "Label": "Corsair VOID RGB Elite Wireless White"
       }
     ],
     "Adaptador": [
