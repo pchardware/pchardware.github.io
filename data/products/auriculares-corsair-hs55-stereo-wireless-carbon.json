@@ -1,0 +1,37 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Auriculares",
+  "Images": [
+    "/images/products/auriculares-corsair-hs55-stereo-wireless-carbon-1.webp",
+    "/images/products/auriculares-corsair-hs55-stereo-wireless-carbon-2.webp",
+    "/images/products/auriculares-corsair-hs55-stereo-wireless-carbon-3.webp",
+    "/images/products/auriculares-corsair-hs55-stereo-wireless-carbon-4.webp",
+    "/images/products/auriculares-corsair-hs55-stereo-wireless-carbon-5.webp",
+    "/images/products/auriculares-corsair-hs55-stereo-wireless-carbon-6.webp",
+    "/images/products/auriculares-corsair-hs55-stereo-wireless-carbon-7.webp",
+    "/images/products/auriculares-corsair-hs55-stereo-wireless-carbon-8.webp",
+    "/images/products/auriculares-corsair-hs55-stereo-wireless-carbon-9.webp",
+    "/images/products/auriculares-corsair-hs55-stereo-wireless-carbon-10.webp"
+  ],
+  "Description": "Model\nBrand: Corsair\nModel: HS55 WIRELESS\nPart Number: CA-9011280-NA\n\n\nDetails\nCompatibility: Mac / PC / PlayStation 4 / PlayStation 5\nColor: Carbon\nLED: No\nPower Source: Built-in lithium-ion polymer, rechargeable\nOperating Time: Up to 24 hours\n\n\nConnectivity\nConnection Type: Wireless\nConnector: USB\nCord Length: USB charging cable, 1.8m\nWireless Type: Low-latency 2.4GHz wireless or Bluetooth®\nconnection\nWireless Range: 2.4Ghz wireless range Up to 50 feet (15m)\nBluetooth wireless range Up to 30 feet (9m)\n\n\nHeadphone\nAudio Type: 7.1 Surround Sound\nDriver Unit: 50mm\nHeadphone Frequency Response: 20Hz-20KHz\nHeadphone Input Impedance: 32 ohm\nHeadphone Sensitivity: 114dB S.P.L. at 1KHz\nNoise Cancelling: Passive\nEar Coupling: Circumaural\nWeight: 266g / 0.59 lb\n\n\nMicrophone\nMicrophone Impedance: ~2.2K ohm\nMicrophone Frequency Response: 100Hz-10KHz\nMicrophone Sensitivity: -41 dB (± 2 dB)\n\n\nFeatures\nFeatures: Low-latency 2.4GHz wireless or Bluetooth® connection\nLightweight construction for hours of comfort \nPlush leatherette adjustable memory foam ear pads\nDolby ® Audio 7.1 surround sound on PC and Mac\nHigh-quality custom-tuned 50mm neodymium audio drivers\nOmni-directional microphone with flip-to-mute function\nEasy-access on-ear volume and mute controls\nPowerful CORSAIR iCUE software\n\n\nPackage Contents\nPackage Contents: CORSAIR HS55 WIRELESS headset\nWireless USB receiver\nUSB charging cable, 1.8m\nSafety leaflet\nWarranty card",
+  "Price": 99.00,
+  "Features": [
+    "Inalámbricos",
+    "2.4Ghz",
+    "Bluetooth",
+    "7.1",
+    "20Hz-20KHz",
+    "32ohm",
+    "114dB",
+    "Micrófono",
+    "3.5mm",
+    "50mm",
+    "266g",
+    "Headset",
+    "Cascos",
+    "Audífonos"
+  ],
+  "Date": "2023-10-09T15:59:40.6389722-04:00",
+  "Update": "2023-10-09T17:48:22.0065148-04:00",
+  "Label": "Auriculares Corsair HS55 Stereo Wireless Carbon"
+}
