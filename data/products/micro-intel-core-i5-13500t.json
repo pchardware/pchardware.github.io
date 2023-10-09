@@ -1,0 +1,24 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Microprocesador",
+  "Images": [
+    "/images/products/micro-intel-core-i5-13500t-1.webp",
+    "/images/products/micro-intel-core-i5-13500t-2.webp"
+  ],
+  "Description": "",
+  "Price": 239.00,
+  "Features": [
+    "13ra Gen",
+    "20 Hilos",
+    "14 Core",
+    "4.6GHz",
+    "24MB L3",
+    "11.5MB L2",
+    "DDR4-DDR5",
+    "LGA 1700",
+    "CPU"
+  ],
+  "Date": "2023-09-26T11:28:40.6931036-04:00",
+  "Update": "2023-10-09T17:48:21.3084392-04:00",
+  "Label": "Micro Intel Core i5-13500T"
+}
