@@ -1,0 +1,26 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disco Sólido",
+  "Images": [
+    "/images/products/ssd-m2-team-group-t-force-gaming-cardea-a440-1tb-1.webp",
+    "/images/products/ssd-m2-team-group-t-force-gaming-cardea-a440-1tb-2.webp",
+    "/images/products/ssd-m2-team-group-t-force-gaming-cardea-a440-1tb-3.webp",
+    "/images/products/ssd-m2-team-group-t-force-gaming-cardea-a440-1tb-4.webp",
+    "/images/products/ssd-m2-team-group-t-force-gaming-cardea-a440-1tb-5.webp",
+    "/images/products/ssd-m2-team-group-t-force-gaming-cardea-a440-1tb-6.webp",
+    "/images/products/ssd-m2-team-group-t-force-gaming-cardea-a440-1tb-7.webp",
+    "/images/products/ssd-m2-team-group-t-force-gaming-cardea-a440-1tb-8.webp"
+  ],
+  "Description": "Model\nBrand: Team Group\nSeries: T-FORCE CARDEA A440\nModel: TM8FPZ001T0C327\nDevice Type: Internal Solid State Drive (SSD)\nUsed For: Consumer\n\n\nDetails\nForm Factor: M.2 2280\nCapacity: 1TB\nInterface: PCIe Gen 4.0 x4 NVMe 1.4\n\n\nPerformance\nMax Sequential Read: Up to 7000 MBps\nMax Sequential Write: Up to 5500 MBps\n4KB Random Read: Up to 650,000 IOPS\n4KB Random Write: Up to 700,000 IOPS\nTerabytes Written (TBW): 700TB\nMTBF: 3,000,000 hours\nHeatSink: Aluminum and graphene heat sink\n\n\nFeatures\nFeatures: Enjoy the lightning speed of the PCIe Gen4 x4\n\nFeaturing two patented heat sinks\n\nEffective cooling - flexible installation\n\nSupports the latest NVMe 1.4 standard\n\n\nEnvironmental\nOperating Temperature: 0°C ~ +70°C\nStorage Temperature: -40°C ~ +85°C\nOperating Humidity: RH 90% under 40°C\nMax Shock Resistance: 1,500G/0.5ms\nMax Vibration Resistance: 80Hz~2,000Hz/20G\n\n\nDimensions & Weight\nHeight: 12.90mm (with Aluminum heat sink)\n3.70mm (with Graphene heat sink)\nWidth: 22.00mm (with Aluminum heat sink)\n23.40mm (with Graphene heat sink)\nDepth: 80.00mm\nWeight: 13.00g (with Graphene heat sink)\n46.00g (with Aluminum heat sink)",
+  "Price": 91.00,
+  "Features": [
+    "7000mbps",
+    "HeatSink",
+    "700tbw",
+    "PCIe 4",
+    "NVMe"
+  ],
+  "Date": "2023-10-02T14:29:40.7946679-04:00",
+  "Update": "2023-10-09T15:58:28.3703427-04:00",
+  "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 1TB"
+}
