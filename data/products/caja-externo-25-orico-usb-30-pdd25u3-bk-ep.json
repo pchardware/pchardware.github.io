@@ -1,0 +1,22 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Externo",
+  "Images": [
+    "/images/products/caja-externo-25-orico-usb-30-pdd25u3-bk-ep-1.webp",
+    "/images/products/caja-externo-25-orico-usb-30-pdd25u3-bk-ep-2.webp",
+    "/images/products/caja-externo-25-orico-usb-30-pdd25u3-bk-ep-3.webp",
+    "/images/products/caja-externo-25-orico-usb-30-pdd25u3-bk-ep-4.webp",
+    "/images/products/caja-externo-25-orico-usb-30-pdd25u3-bk-ep-5.webp",
+    "/images/products/caja-externo-25-orico-usb-30-pdd25u3-bk-ep-6.webp",
+    "/images/products/caja-externo-25-orico-usb-30-pdd25u3-bk-ep-7.webp"
+  ],
+  "Description": "Details\nColor: Black\nType: Enclosure\nMaterial: Plastic\nExternal Interface: USB 3.0\nHDD Count Supported: Single HDD\nNumber of Bay: 1 Bay",
+  "Price": 17.00,
+  "Features": [
+    "USB-A",
+    "Enclosure"
+  ],
+  "Date": "2023-10-09T15:59:09.8737048-04:00",
+  "Update": "2023-10-09T17:48:21.9573653-04:00",
+  "Label": "Caja Externo 2.5 Orico USB 3.0 PDD25U3-BK-EP"
+}
