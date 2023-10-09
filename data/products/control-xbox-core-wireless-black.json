@@ -1,0 +1,18 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Control",
+  "Images": [
+    "/images/products/control-xbox-core-wireless-black-1.webp",
+    "/images/products/control-xbox-core-wireless-black-2.webp",
+    "/images/products/control-xbox-core-wireless-black-3.webp",
+    "/images/products/control-xbox-core-wireless-black-4.webp"
+  ],
+  "Description": "",
+  "Price": 77.00,
+  "Features": [
+    "Controller"
+  ],
+  "Date": "2023-10-09T15:59:03.9375048-04:00",
+  "Update": "2023-10-09T17:48:21.9386761-04:00",
+  "Label": "Control Xbox Core Wireless Black"
+}
