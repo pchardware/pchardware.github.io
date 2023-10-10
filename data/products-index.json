@@ -2091,22 +2091,6 @@
         "Label": "Micro Intel Core i7-13700K"
       },
       {
-        "Price": 189.00,
-        "Features": [
-          "Radeon Graphics",
-          "5000 Series",
-          "16 Hilos",
-          "8 Core",
-          "4.6GHz",
-          "16MB L3",
-          "AM4",
-          "CPU"
-        ],
-        "Date": "2023-06-07T15:04:47.8071575-04:00",
-        "Update": "2023-10-09T17:48:21.0409267-04:00",
-        "Label": "Micro AMD Ryzen 7 5700G"
-      },
-      {
         "Price": 185.00,
         "Features": [
           "11na Gen",
@@ -2238,7 +2222,7 @@
         "Label": "Micro Intel Core i5-13500 +Disipador"
       },
       {
-        "Price": 415.00,
+        "Price": 445.00,
         "Features": [
           "Radeon Graphics",
           "AM5",
@@ -2275,24 +2259,6 @@
         "Date": "2023-04-09T07:40:11.0980971-04:00",
         "Update": "2023-10-09T17:48:20.9075479-04:00",
         "Label": "Gráfica EVGA RTX 3080Ti XC3 Hydro Copper"
-      },
-      {
-        "Price": 685.00,
-        "Features": [
-          "DLSS3",
-          "2xFan",
-          "12GB",
-          "1x8Pin",
-          "650WR",
-          "269mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Tarjeta de Video"
-        ],
-        "Date": "2023-05-11T13:36:49.3673823-04:00",
-        "Update": "2023-10-09T17:48:20.9181985-04:00",
-        "Label": "Gráfica Asus Dual RTX 4070"
       },
       {
         "Price": 899.00,
