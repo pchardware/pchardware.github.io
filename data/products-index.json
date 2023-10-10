@@ -532,17 +532,6 @@
         "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 6400mhz"
       },
       {
-        "Price": 95.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL16"
-        ],
-        "Date": "2023-03-30T09:55:44.4799768-04:00",
-        "Update": "2023-10-09T17:48:21.5680087-04:00",
-        "Label": "RAM DDR4 G.Skill Sniper X 32GB 3600mhz"
-      },
-      {
         "Price": 129.00,
         "Features": [
           "2x16GB",
@@ -574,17 +563,6 @@
         "Date": "2023-08-21T08:58:29.7000117-04:00",
         "Update": "2023-10-09T17:48:21.6444092-04:00",
         "Label": "RAM DDR5 G.Skill Trident Z5 RGB 64GB 5600mhz"
-      },
-      {
-        "Price": 87.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL16"
-        ],
-        "Date": "2023-09-11T09:09:34.8583822-04:00",
-        "Update": "2023-10-09T17:48:21.7128306-04:00",
-        "Label": "RAM DDR4 Silicon Power 32GB 3200mhz"
       },
       {
         "Price": 115.00,
@@ -977,17 +955,6 @@
         "Date": "2023-05-11T14:03:36.5510535-04:00",
         "Update": "2023-10-09T15:58:28.3107208-04:00",
         "Label": "SSD M.2 SAMSUNG 980 PRO 1TB +Heatsink"
-      },
-      {
-        "Price": 49.00,
-        "Features": [
-          "3500mbs",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-04-09T10:01:55.7163005-04:00",
-        "Update": "2023-10-09T15:58:28.3222592-04:00",
-        "Label": "SSD M.2 ADATA XPG GAMMIX S7 512GB"
       },
       {
         "Price": 91.00,
@@ -1845,26 +1812,6 @@
         "Date": "2023-10-03T06:55:51.8601602-04:00",
         "Update": "2023-10-09T17:48:21.8339963-04:00",
         "Label": "Motherboard Asus TUF B650-Plus Wifi"
-      },
-      {
-        "Price": 215.00,
-        "Features": [
-          "10ma-11na",
-          "9xUSB",
-          "Dual Lan",
-          "4800mhz",
-          "6xAudio",
-          "Wifi",
-          "6xSATA",
-          "Display Port",
-          "HDMI",
-          "DDR4",
-          "ATX",
-          "LGA 1200"
-        ],
-        "Date": "2023-10-09T15:59:53.3045844-04:00",
-        "Update": "2023-10-09T17:48:22.0535822-04:00",
-        "Label": "Motherboard ASRock Z590 PG VELOCITA"
       }
     ],
     "Disipador por Aire": [
@@ -2155,39 +2102,6 @@
         "Date": "2023-03-22T09:04:16.5699219-04:00",
         "Update": "2023-10-09T17:48:21.386944-04:00",
         "Label": "Micro Intel Core i9-13900K"
-      },
-      {
-        "Price": 225.00,
-        "Features": [
-          "11na Gen",
-          "12 Hilos",
-          "6 Cores",
-          "4.9GHz",
-          "12MB L3",
-          "Unlocked",
-          "LGA 1200",
-          "CPU"
-        ],
-        "Date": "2023-10-02T14:28:41.5445614-04:00",
-        "Update": "2023-10-09T17:48:21.4456691-04:00",
-        "Label": "Micro Intel Core i5-11600K"
-      },
-      {
-        "Price": 259.00,
-        "Features": [
-          "13ra Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.6GHz",
-          "20MB L3",
-          "9.5MB L2",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-10-02T14:28:46.4986141-04:00",
-        "Update": "2023-10-09T17:48:21.4648823-04:00",
-        "Label": "Micro Intel Core i5-13400 +Disipador"
       },
       {
         "Price": 149.00,
