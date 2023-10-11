@@ -1521,6 +1521,45 @@
         "Date": "2023-08-29T08:41:25.9385748-04:00",
         "Update": "2023-10-09T17:48:21.7860964-04:00",
         "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce X 240"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "2200rpm",
+          "71cfm",
+          "36db",
+          "2xFan",
+          "240mm",
+          "Copper",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "LGA 20XX",
+          "AM5",
+          "AM4",
+          "TR4"
+        ],
+        "Date": "2023-10-11T10:56:20.6230943-04:00",
+        "Update": "2023-10-11T14:20:31.0498786-04:00",
+        "Label": "Disipador Líquido ASUS ROG RYUO III 240 ARGB"
+      },
+      {
+        "Price": 179.00,
+        "Features": [
+          "1750rpm",
+          "72cfm",
+          "27db",
+          "3xFan",
+          "360mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM5",
+          "AM4"
+        ],
+        "Date": "2023-10-11T10:56:44.8974468-04:00",
+        "Update": "2023-10-11T14:20:31.1068731-04:00",
+        "Label": "Disipador Líquido Cooler Master MasterLiquid 360L Core"
       }
     ],
     "Disco Duro": [
@@ -1835,6 +1874,41 @@
         "Date": "2023-10-03T06:55:51.8601602-04:00",
         "Update": "2023-10-09T17:48:21.8339963-04:00",
         "Label": "Motherboard Asus TUF B650-Plus Wifi"
+      },
+      {
+        "Price": 159.00,
+        "Features": [
+          "12va-13ra",
+          "4800mhz",
+          "VGA",
+          "5xUSB",
+          "HDMI",
+          "DisplayPort",
+          "Micro ATX",
+          "LGA 1700",
+          "4xSATA",
+          "3xAudio"
+        ],
+        "Date": "2023-10-11T10:56:24.0277774-04:00",
+        "Update": "2023-10-11T14:20:31.0614391-04:00",
+        "Label": "Motherboard MSI Pro B760M-P DDR4"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "AM4",
+          "4533mhz",
+          "6xUSB",
+          "DDR4",
+          "4xSATA",
+          "Micro ATX",
+          "HDMI",
+          "DisplayPort",
+          "3xAudio"
+        ],
+        "Date": "2023-10-11T10:56:39.5272184-04:00",
+        "Update": "2023-10-11T14:20:31.0836927-04:00",
+        "Label": "Motherboard ASRock B550M Pro SE"
       }
     ],
     "Disipador por Aire": [
@@ -2439,6 +2513,24 @@
         "Date": "2023-08-29T08:42:19.8132967-04:00",
         "Update": "2023-10-11T10:54:04.6724546-04:00",
         "Label": "Gigabyte RTX 4080 Gaming OC"
+      },
+      {
+        "Price": 1095.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "12GB",
+          "1x16Pin",
+          "750W",
+          "336mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Tarjeta de Video"
+        ],
+        "Date": "2023-10-11T10:56:42.3732311-04:00",
+        "Update": "2023-10-11T14:20:31.0959931-04:00",
+        "Label": "Gráfica Asus ROG Strix RTX 4070 Ti OC"
       }
     ]
   },
@@ -3155,6 +3247,27 @@
         "Date": "2023-10-09T15:59:30.9767274-04:00",
         "Update": "2023-10-09T17:48:21.9971115-04:00",
         "Label": "Monitor Acer Nitro 24\" ED240Q"
+      },
+      {
+        "Price": 355.00,
+        "Features": [
+          "180Hz",
+          "G-Sync",
+          "400nit",
+          "IPS",
+          "1ms",
+          "HDR400",
+          "VESA",
+          "FreeSync",
+          "2x HDMI",
+          "DP",
+          "Flat",
+          "FHD",
+          "Gaming"
+        ],
+        "Date": "2023-10-11T10:57:33.5321275-04:00",
+        "Update": "2023-10-11T14:20:31.1192527-04:00",
+        "Label": "Monitor Asus ROG Strix 24\" XG256Q"
       }
     ],
     "Externo": [
@@ -3188,6 +3301,16 @@
         "Date": "2023-10-09T15:59:09.8737048-04:00",
         "Update": "2023-10-09T17:48:21.9573653-04:00",
         "Label": "Caja Externo 2.5 Orico USB 3.0 PDD25U3-BK-EP"
+      },
+      {
+        "Price": 25.00,
+        "Features": [
+          "USB-C",
+          "Enclosure"
+        ],
+        "Date": "2023-10-11T10:56:26.9169261-04:00",
+        "Update": "2023-10-11T14:20:31.072592-04:00",
+        "Label": "Caja Externo 2.5 Orico USB 3.0 PDD25C3-BK-EP"
       }
     ],
     "Control": [
