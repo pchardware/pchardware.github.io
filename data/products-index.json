@@ -618,6 +618,17 @@
         "Date": "2023-10-09T15:59:22.4913756-04:00",
         "Update": "2023-10-09T17:48:21.9873265-04:00",
         "Label": "RAM DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
+      },
+      {
+        "Price": 109.00,
+        "Features": [
+          "2x16GB",
+          "CL30",
+          "Disipadas"
+        ],
+        "Date": "2023-10-03T06:56:16.0979857-04:00",
+        "Update": "2023-10-11T10:54:04.7212699-04:00",
+        "Label": "DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
       }
     ],
     "Chasis": [
@@ -1626,6 +1637,18 @@
         "Date": "2023-10-02T14:29:22.3106257-04:00",
         "Update": "2023-10-02T15:13:13.7352308-04:00",
         "Label": "HDD 3.5 Seagate EXOS 14TB Recertified"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "64mb",
+          "5900rpm",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-07-26T16:42:06.8492862-04:00",
+        "Update": "2023-10-11T10:54:04.711221-04:00",
+        "Label": "HDD 3.5 Seagate Pipeline 2TB"
       }
     ],
     "Board": [
@@ -2139,6 +2162,22 @@
         "Date": "2023-10-09T15:59:15.4094076-04:00",
         "Update": "2023-10-09T17:48:21.976668-04:00",
         "Label": "Micro AMD Ryzen 9 7900X"
+      },
+      {
+        "Price": 225.00,
+        "Features": [
+          "11na Gen",
+          "12 Hilos",
+          "6 Cores",
+          "4.9GHz",
+          "12MB L3",
+          "Unlocked",
+          "LGA 1200",
+          "CPU"
+        ],
+        "Date": "2023-10-02T14:28:41.5445614-04:00",
+        "Update": "2023-10-11T10:54:04.7308032-04:00",
+        "Label": "Micro Intel Core i5-11600K"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2383,6 +2422,23 @@
         "Date": "2023-10-03T06:56:26.0545013-04:00",
         "Update": "2023-10-09T17:48:21.8539182-04:00",
         "Label": "Gráfica Gigabyte RX 7700XT Gaming OC"
+      },
+      {
+        "Price": 1475.00,
+        "Features": [
+          "850WR",
+          "342mm",
+          "1x16Pin",
+          "DLSS3",
+          "16GB",
+          "3xFan",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-08-29T08:42:19.8132967-04:00",
+        "Update": "2023-10-11T10:54:04.6724546-04:00",
+        "Label": "Gigabyte RTX 4080 Gaming OC"
       }
     ]
   },
@@ -2814,6 +2870,20 @@
         "Date": "2023-10-09T15:58:43.1814204-04:00",
         "Update": "2023-10-09T17:48:21.8737839-04:00",
         "Label": "Mouse Logitech Pro Wireless Black"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "Wireless",
+          "12000dpi",
+          "6 botónes",
+          "Optico",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-06-29T07:38:38.0146289-04:00",
+        "Update": "2023-10-11T10:54:04.6827983-04:00",
+        "Label": "Mouse Logitech G305 Lightspeed"
       }
     ],
     "Silla": [
@@ -2940,6 +3010,15 @@
         "Date": "2023-06-07T15:06:36.3165573-04:00",
         "Update": "2023-10-09T17:48:20.6185397-04:00",
         "Label": "Memoria Flash Corsair Voyager Slider X1 64GB"
+      },
+      {
+        "Price": 57.00,
+        "Features": [
+          "10xUSB 3.0"
+        ],
+        "Date": "2023-07-17T23:37:56.1110686-04:00",
+        "Update": "2023-10-11T10:54:04.6615286-04:00",
+        "Label": "HUB ORICO Type-A 10-Port USB 3.0"
       }
     ],
     "Auriculares": [
