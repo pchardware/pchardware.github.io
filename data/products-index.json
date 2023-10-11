@@ -94,7 +94,7 @@
         "Label": "Kit i5-13500 +Disipador + Asus B660 ProArt Creator + DDR4 Corsair Vengeance RGB 16GB"
       },
       {
-        "Price": 585.00,
+        "Price": 595.00,
         "Features": [],
         "Date": "2023-09-13T13:27:28.397107-04:00",
         "Update": "2023-10-03T09:09:19.3097855-04:00",
@@ -894,7 +894,7 @@
         "Label": "SSD M.2 SAMSUNG 980 PRO 1TB"
       },
       {
-        "Price": 77.00,
+        "Price": 79.00,
         "Features": [
           "3500mbps",
           "600tbw",
@@ -1667,7 +1667,7 @@
         "Label": "Motherboard Asus ROG Maximus Z690 Hero"
       },
       {
-        "Price": 175.00,
+        "Price": 185.00,
         "Features": [
           "12va-13ra",
           "DDR5",
@@ -2038,21 +2038,6 @@
         "Label": "Micro Intel Core i7-13700K"
       },
       {
-        "Price": 185.00,
-        "Features": [
-          "11na Gen",
-          "12 Hilos",
-          "6 Cores",
-          "4.4GHz",
-          "12MB L3",
-          "LGA 1200",
-          "CPU"
-        ],
-        "Date": "2023-03-22T09:04:03.4468877-04:00",
-        "Update": "2023-10-09T17:48:21.1070581-04:00",
-        "Label": "Micro Intel Core i5-11400 +Disipador"
-      },
-      {
         "Price": 239.00,
         "Features": [
           "13ra Gen",
@@ -2381,22 +2366,6 @@
         "Date": "2023-08-21T08:58:03.7946257-04:00",
         "Update": "2023-10-09T17:48:21.7638452-04:00",
         "Label": "Gráfica MSI RTX 4060 Ti Gaming X 8GB"
-      },
-      {
-        "Price": 419.00,
-        "Features": [
-          "2xFan",
-          "8GB",
-          "1x8Pin",
-          "650WR",
-          "286mm",
-          "GeForce",
-          "GPU",
-          "Tarjeta de Video"
-        ],
-        "Date": "2023-10-02T14:29:19.7541549-04:00",
-        "Update": "2023-10-09T17:48:21.8056223-04:00",
-        "Label": "Gráfica NVidia RTX 3060 Ti Founders Edition"
       },
       {
         "Price": 525.00,
