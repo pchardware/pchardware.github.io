@@ -1,0 +1,28 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-i7-12700k-board-asus-tuf-z690-32gb-ddr5-gskill-1.webp",
+    "/images/products/kit-i7-12700k-board-asus-tuf-z690-32gb-ddr5-gskill-2.webp",
+    "/images/products/kit-i7-12700k-board-asus-tuf-z690-32gb-ddr5-gskill-3.webp",
+    "/images/products/kit-i7-12700k-board-asus-tuf-z690-32gb-ddr5-gskill-4.webp",
+    "/images/products/kit-i7-12700k-board-asus-tuf-z690-32gb-ddr5-gskill-5.webp",
+    "/images/products/kit-i7-12700k-board-asus-tuf-z690-32gb-ddr5-gskill-6.webp",
+    "/images/products/kit-i7-12700k-board-asus-tuf-z690-32gb-ddr5-gskill-7.webp"
+  ],
+  "Description": "",
+  "Price": 609.00,
+  "Features": [
+    "20 Hilos",
+    "5GHz",
+    "6000mhz",
+    "Wifi",
+    "6xAudio",
+    "Dual Channel",
+    "2x16GB"
+  ],
+  "Date": "2023-10-12T12:29:48.249782-04:00",
+  "Update": "2023-10-12T12:45:40.8171806-04:00",
+  "Discount": 14.0,
+  "Label": "Kit i7-12700K +Board Asus TUF Z690 + 32GB DDR5 G.Skill"
+}
