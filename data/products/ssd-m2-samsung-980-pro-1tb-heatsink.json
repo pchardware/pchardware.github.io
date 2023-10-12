@@ -9,7 +9,7 @@
     "/images/products/ssd-m2-samsung-980-pro-1tb-heatsink-5.webp"
   ],
   "Description": "Model\nBrand: SAMSUNG\nSeries: 980 PRO\nModel: MZ-V8P1T0CW\nDevice Type: Internal Solid State Drive (SSD)\nUsed For: Consumer\n\n\nDetails\nForm Factor: M.2 2280\nCapacity: 1TB\nMemory Components: V6(12xL) V-NAND 3bit MLC\nInterface: PCIe Gen4. X4, NVMe 1.3c\nController: Elpis\nCache: 1GB LPDDR4 DRAM\n\n\nPerformance\nMax Sequential Read: Up to 7000 MBps\nMax Sequential Write: Up to 5100 MBps\n4KB Random Read: Up to 1,000,000 IOPS\n4KB Random Write: Up to 1,000,000 IOPS\nTerabytes Written (TBW): 600TB\nHeatSink: Yes\n\n\nEnvironmental\nPower Consumption (Idle): 5 mW\n\n\nDimensions & Weight\nHeight: 8.60mm\nWidth: 24.00mm\nDepth: 80.00mm\nWeight: 30.50g",
-  "Price": 107.00,
+  "Price": 105.00,
   "Features": [
     "7000mbs",
     "HeatSink",
