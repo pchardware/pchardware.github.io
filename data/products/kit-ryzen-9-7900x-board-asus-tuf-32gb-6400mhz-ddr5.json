@@ -1,0 +1,26 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-ryzen-9-7900x-board-asus-tuf-32gb-6400mhz-ddr5-1.webp",
+    "/images/products/kit-ryzen-9-7900x-board-asus-tuf-32gb-6400mhz-ddr5-2.webp",
+    "/images/products/kit-ryzen-9-7900x-board-asus-tuf-32gb-6400mhz-ddr5-3.webp",
+    "/images/products/kit-ryzen-9-7900x-board-asus-tuf-32gb-6400mhz-ddr5-4.webp",
+    "/images/products/kit-ryzen-9-7900x-board-asus-tuf-32gb-6400mhz-ddr5-5.webp",
+    "/images/products/kit-ryzen-9-7900x-board-asus-tuf-32gb-6400mhz-ddr5-6.webp",
+    "/images/products/kit-ryzen-9-7900x-board-asus-tuf-32gb-6400mhz-ddr5-7.webp"
+  ],
+  "Description": "",
+  "Price": 839.00,
+  "Features": [
+    "24 Hilos",
+    "5.6GHz",
+    "Dual Channel",
+    "Wifi",
+    "2x16GB"
+  ],
+  "Date": "2023-10-12T12:27:47.680871-04:00",
+  "Update": "2023-10-12T12:45:40.7950363-04:00",
+  "Discount": 10.0,
+  "Label": "Kit Ryzen 9 7900X +Board Asus TUF + 32GB 6400mhz DDR5 Corsair Vengeance RGB"
+}
