@@ -1,6 +1,6 @@
 {
   "Category": "Kits",
-  "SubCategory": "Entusiasta",
+  "SubCategory": "Moderado",
   "Images": [
     "/images/products/kit-i7-12700k-gigabyte-z690-aero-g-ddr5-gskill-tri-1.webp",
     "/images/products/kit-i7-12700k-gigabyte-z690-aero-g-ddr5-gskill-tri-2.webp",
@@ -14,7 +14,7 @@
   "Price": 729.00,
   "Features": [],
   "Date": "2023-09-15T11:20:08.6484654-04:00",
-  "Update": "2023-10-02T14:27:31.7898075-04:00",
+  "Update": "2023-10-12T12:45:40.7044842-04:00",
   "Discount": 16.0,
   "Label": "Kit i7-12700K + Gigabyte Z690 AERO G + DDR5 G.SKILL Trident Z5 RGB 64GB CL28"
 }
