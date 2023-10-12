@@ -9,7 +9,7 @@
     "/images/products/ssd-m2-corsair-mp600-pro-nh-2tb-5.webp"
   ],
   "Description": "Model\nBrand: Corsair\nSeries: MP600 PRO NH\nModel: CSSD-F2000GBMP600PNH\nUsed For: Consumer\n\n\nDetails\nForm Factor: M.2 2280\nCapacity: 2TB\nMemory Components: 3D TLC\nInterface: PCI-Express 4.0 x4\nController: Phison\nEncryption: AES 256-bit encryption\n\n\nPerformance\nMax Sequential Read: Up to 7000 MBps\nMax Sequential Write: Up to 6500MBps",
-  "Price": 149.00,
+  "Price": 145.00,
   "Features": [
     "7000mbs",
     "PCIe 4",
