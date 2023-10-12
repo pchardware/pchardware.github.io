@@ -1,6 +1,6 @@
 {
   "Category": "Kits",
-  "SubCategory": "Entusiasta",
+  "SubCategory": "Moderado",
   "Images": [
     "/images/products/kit-i5-13500-disipador-asus-b660-proart-creator-dd-1.webp",
     "/images/products/kit-i5-13500-disipador-asus-b660-proart-creator-dd-2.webp",
@@ -11,10 +11,10 @@
     "/images/products/kit-i5-13500-disipador-asus-b660-proart-creator-dd-7.webp"
   ],
   "Description": "",
-  "Price": 543.00,
+  "Price": 539.00,
   "Features": [],
   "Date": "2023-09-13T13:25:18.8793114-04:00",
-  "Update": "2023-10-03T09:09:19.2991659-04:00",
-  "Discount": 10.0,
+  "Update": "2023-10-12T12:45:40.717091-04:00",
+  "Discount": 14.0,
   "Label": "Kit i5-13500 +Disipador + Asus B660 ProArt Creator + DDR4 Corsair Vengeance RGB 16GB"
 }
