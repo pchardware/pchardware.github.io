@@ -1,0 +1,32 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Monitor",
+  "Images": [
+    "/images/products/monitor-msi-24-g2412-1.webp",
+    "/images/products/monitor-msi-24-g2412-2.webp",
+    "/images/products/monitor-msi-24-g2412-3.webp",
+    "/images/products/monitor-msi-24-g2412-4.webp",
+    "/images/products/monitor-msi-24-g2412-5.webp",
+    "/images/products/monitor-msi-24-g2412-6.webp",
+    "/images/products/monitor-msi-24-g2412-7.webp",
+    "/images/products/monitor-msi-24-g2412-8.webp",
+    "/images/products/monitor-msi-24-g2412-9.webp"
+  ],
+  "Description": "Model\nBrand: MSI\nSeries: Optix\nModel: G2412\nPart Number: G2412\nCabinet Color: Metallic Black\n\n\nDisplay\nScreen Size: 24\" (23.8\" Viewable)\nWidescreen: Yes\nGlare Screen: Non-glare\nPanel: IPS\nDisplay Type: FHD\nAdaptive Sync Technology: FreeSync Premium (AMD Adaptive Sync)\nRecommended Resolution: 1920 x 1080\nViewing Angle: 178° (H) / 178° (V)\nAspect Ratio: 16:9\nBrightness: 250 cd/m2\nContrast Ratio: 3000:1\nResponse Time: 1ms (MPRT) / 4ms (GTG)\nColor Gamut: 86.52% Adobe RGB / 81.64% DCI-P3 / 102.58% sRGB\nDisplay Colors: 16.7 Million\nPixel Pitch: 0.271mm\nRefresh Rate: 170 Hz\nCurved Surface Screen: Flat Panel\n\n\nConnectivity\nVideo Ports: 2 x HDMI (Supports FHD@144Hz as specified in HDMI 1.4b)\n1 x DP (Supports FHD@170Hz as specified in DisplayPort 1.2a with overclocking)\n\n\nPower\nPower Consumption: Power On: 45W\nPower Saving/Off: <0.5W\n\n\nConvenience\nStand Adjustments: Tilt: -5° ~ 20°\nVESA Compatibility - Mountable: 100 x 100mm\nFeatures: IPS Panel - Optimize screen colors and brightness to enhance your viewing experience.\n170Hz Refresh Rate - Respond faster with smoother frames.\n1ms Response Time - Eliminate screen tearing and choppy frame rates.\nWide Color Gamut - Game colors and details will look more realistic and refined.\nNight Vision - Smart black tuner to brighten your day by bringing out the fine details in dark areas.\nAMD FreeSync Technology - Prevent screen tearing or stuttering, producing ultra-smooth lag-free gameplay.\nNight Vision - Smart black tuner to brighten your day by bringing out the fine details in dark areas.\nFrameless design - Enjoy the ultimate gaming experience with super narrow bezels.\nAnti-Flicker and Less Blue Light - Game even longer and prevent eye strain and fatigue.\n178° Wide Viewing Angle - Colors and details will stay sharp at more angles with a 178° wide viewing angle.\n\n\nDimensions & Weight\nDimensions (H x W x D): 17.80\" x 21.27\" x 8.98\" w/ stand\n14.15\" x 21.27\" x 2.40\" w/o stand\nWeight: 7.34 lbs.\n\n\nPackaging\nPackage Contents: Power Cord, HDMI Cable\n\n\nConsumer Alert\nConsumer Alert: Display Port: 1920 x 1080 (Up to 170Hz)\nHDMI: 1920 x 1080 (Up to 144Hz)\n\nAdobe RGB, DCI-P3 and sRGB follow CIE1976 Standard",
+  "Price": 279.00,
+  "Features": [
+    "170Hz",
+    "IPS",
+    "1ms",
+    "FreeSync",
+    "VESA",
+    "2x HDMI",
+    "Flat",
+    "FHD",
+    "DP",
+    "250nit"
+  ],
+  "Date": "2023-10-13T09:28:44.9787355-04:00",
+  "Update": "2023-10-13T10:18:40.0450802-04:00",
+  "Label": "Monitor MSI 24\" G2412"
+}
