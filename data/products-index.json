@@ -133,6 +133,20 @@
         "Update": "2023-10-13T09:28:02.2483128-04:00",
         "Discount": 14.0,
         "Label": "Kit i7-12700K + Gigabyte Z690 AERO G + DDR5 G.SKILL Trident Z5 RGB 64GB CL28"
+      },
+      {
+        "Price": 495.00,
+        "Features": [
+          "12 Hilos",
+          "9xUSB",
+          "Wifi",
+          "6xSATA",
+          "6xAudio"
+        ],
+        "Date": "2023-10-13T10:35:45.6753993-04:00",
+        "Update": "2023-10-13T10:43:26.0626751-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i5-11600K +Board ASRock Z590 PG VELOCITA +16GB RAM RGB 3600mhz"
       }
     ],
     "Esencial": [
@@ -162,6 +176,19 @@
         "Update": "2023-10-13T09:28:02.2776445-04:00",
         "Discount": 13.0,
         "Label": "Kit i5 13Gen +Disipador +Board MSI Pro + 16GB DDR4 Silicon Power 3200mhz"
+      },
+      {
+        "Price": 385.00,
+        "Features": [
+          "12 Hilos",
+          "Dual Channel",
+          "6xUSB",
+          "DDR4"
+        ],
+        "Date": "2023-10-13T10:30:02.7910857-04:00",
+        "Update": "2023-10-13T10:43:26.0488326-04:00",
+        "Discount": 10.0,
+        "Label": "Kit Ryzen 5 5600G +Disipador +Board ASRock B550M Pro SE +16GB G.Skill 3600mhz"
       }
     ],
     "Rendimiento": [
@@ -239,6 +266,35 @@
         "Update": "2023-10-13T09:28:02.3099082-04:00",
         "Discount": 8.0,
         "Label": "Kit i7-13700K +Board Z790 + 32GB 7200mhz DDR5 Trident Z5 RGB"
+      },
+      {
+        "Price": 535.00,
+        "Features": [
+          "20 Hilos",
+          "12 Gen",
+          "Unlocked",
+          "Wifi",
+          "3200mhz"
+        ],
+        "Date": "2023-10-13T10:38:34.0109196-04:00",
+        "Update": "2023-10-13T10:43:26.0725258-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i7-12700K +Board MSI PRO Z690 + 32GB RAM"
+      },
+      {
+        "Price": 631.00,
+        "Features": [
+          "24 Hilos",
+          "12 Gen",
+          "Unlocked",
+          "7xUSB",
+          "Dual Channel",
+          "6xSATA"
+        ],
+        "Date": "2023-10-13T10:41:01.0044269-04:00",
+        "Update": "2023-10-13T10:43:26.0827552-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i9-12900K +Board MSI Z690-A Wifi + RAM 32GB Silicon Power"
       }
     ]
   },
