@@ -1,0 +1,29 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/grfica-xfx-qick-308-rx-7600-1.webp",
+    "/images/products/grfica-xfx-qick-308-rx-7600-2.webp",
+    "/images/products/grfica-xfx-qick-308-rx-7600-3.webp",
+    "/images/products/grfica-xfx-qick-308-rx-7600-4.webp",
+    "/images/products/grfica-xfx-qick-308-rx-7600-5.webp",
+    "/images/products/grfica-xfx-qick-308-rx-7600-6.webp",
+    "/images/products/grfica-xfx-qick-308-rx-7600-7.webp"
+  ],
+  "Description": "Model\nBrand: XFX\nSeries: Speedster\nModel: RX-76PQICKBY\n\n\nInterface\nInterface: PCI Express 4.0 x8\n\n\nChipset\nChipset Manufacturer: AMD\nGPU Series: AMD Radeon RX 7000 Series\nGPU: Radeon RX 7600\nArchitecture: RDNA 3\nCore Clock: 1875MHz\nGame Clock: 2355MHz\nBoost Clock: 2755MHz\nStream Processors: 2048 Stream Processors\n\n\nMemory\nMemory Size: 8GB\nMemory Interface: 128-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12 Ultimate\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 1 x HDMI 2.1\nDisplayPort: 3 x DisplayPort 2.1\n\n\nDetails\nMax Resolution: 7680 x 4320\nCooler: Triple Fans\nThermal Design Power: 165W\nRecommended PSU Wattage: 550W\nPower Connector: 8-Pin\nHDCP Ready: Yes\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 274 mm\nSlot Width: 2.5 Slots",
+  "Price": 315.00,
+  "Features": [
+    "8GB",
+    "3xFan",
+    "1x8Pin",
+    "550WR",
+    "274mm",
+    "Radeon",
+    "AMD",
+    "GPU",
+    "Tarjeta de Video"
+  ],
+  "Date": "2023-10-13T09:28:55.7781232-04:00",
+  "Update": "2023-10-13T10:18:40.1100851-04:00",
+  "Label": "Gráfica XFX Qick 308 RX 7600"
+}
