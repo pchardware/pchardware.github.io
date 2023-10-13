@@ -518,6 +518,18 @@
         "Date": "2023-10-09T15:58:58.5199723-04:00",
         "Update": "2023-10-09T17:48:21.91735-04:00",
         "Label": "Corsair PCIe Gen 5 Cable"
+      },
+      {
+        "Price": 39.00,
+        "Features": [
+          "PCIe x1",
+          "6.0 Gbs",
+          "Interna",
+          "Adaptador"
+        ],
+        "Date": "2023-09-11T09:09:53.366551-04:00",
+        "Update": "2023-10-13T09:24:44.4358011-04:00",
+        "Label": "Expansión Weastlinks 4xSATA"
       }
     ],
     "Memoria RAM": [
@@ -760,6 +772,17 @@
         "Date": "2023-10-03T06:56:16.0979857-04:00",
         "Update": "2023-10-11T10:54:04.7212699-04:00",
         "Label": "DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
+      },
+      {
+        "Price": 87.00,
+        "Features": [
+          "2x16GB",
+          "Disipadas",
+          "CL16"
+        ],
+        "Date": "2023-09-11T09:09:34.8583822-04:00",
+        "Update": "2023-10-13T09:24:44.5138575-04:00",
+        "Label": "RAM DDR4 Silicon Power 32GB 3200mhz"
       }
     ],
     "Chasis": [
@@ -1346,6 +1369,33 @@
         "Date": "2023-10-03T06:55:40.1387236-04:00",
         "Update": "2023-10-09T17:48:21.8153901-04:00",
         "Label": "Fuente Gigabyte UD850GM"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "35A",
+          "2x 6+2Pin",
+          "6x SATA",
+          "1x 4+4 EPS"
+        ],
+        "Date": "2023-05-12T07:54:08.9581203-04:00",
+        "Update": "2023-10-13T09:24:44.394031-04:00",
+        "Label": "Fuente Thermaltake SMART 500W 80+"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "Fully Modular",
+          "80+ Gold",
+          "850W",
+          "71A",
+          "3x 6+2Pin",
+          "7x SATA",
+          "2x 4+4 EPS"
+        ],
+        "Date": "2023-06-07T13:43:20.159516-04:00",
+        "Update": "2023-10-13T09:24:44.4151043-04:00",
+        "Label": "Fuente Corsair RM850e"
       }
     ],
     "Red": [
@@ -2040,6 +2090,45 @@
         "Date": "2023-10-11T10:56:39.5272184-04:00",
         "Update": "2023-10-11T14:20:31.0836927-04:00",
         "Label": "Motherboard ASRock B550M Pro SE"
+      },
+      {
+        "Price": 189.00,
+        "Features": [
+          "12va-13ra",
+          "7xUSB",
+          "6xAudio",
+          "DDR4",
+          "5200mhz",
+          "6xSATA",
+          "LGA 1700",
+          "ATX",
+          "HDMI",
+          "DisplayPort",
+          "PS2"
+        ],
+        "Date": "2023-10-02T14:29:29.7747771-04:00",
+        "Update": "2023-10-13T09:24:44.4678717-04:00",
+        "Label": "MSI PRO Z690-A Wifi DDR4"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "10ma-11na",
+          "9xUSB",
+          "Dual Lan",
+          "4800mhz",
+          "6xAudio",
+          "Wifi",
+          "6xSATA",
+          "Display Port",
+          "HDMI",
+          "DDR4",
+          "ATX",
+          "LGA 1200"
+        ],
+        "Date": "2023-10-09T15:59:53.3045844-04:00",
+        "Update": "2023-10-13T09:24:44.5381718-04:00",
+        "Label": "Motherboard ASRock Z590 PG VELOCITA"
       }
     ],
     "Disipador por Aire": [
@@ -2888,6 +2977,21 @@
         "Date": "2023-09-23T14:08:49.6528943-04:00",
         "Update": "2023-09-23T15:28:21.1886075-04:00",
         "Label": "Teclado Corsair Gaming K68"
+      },
+      {
+        "Price": 75.00,
+        "Features": [
+          "RGB",
+          "Gaming",
+          "Semi mecánico",
+          "Palm rest",
+          "Full",
+          "4000dpi",
+          "Optico"
+        ],
+        "Date": "2023-05-11T20:29:45.5785203-04:00",
+        "Update": "2023-10-13T09:24:44.3739117-04:00",
+        "Label": "COMBO Teclado + Mouse Rosewill Fusion C40"
       }
     ],
     "Mouse": [
