@@ -1,0 +1,20 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Memoria RAM",
+  "Images": [
+    "/images/products/ram-ddr5-corsair-vengeance-32gb-6000mhz-1.webp",
+    "/images/products/ram-ddr5-corsair-vengeance-32gb-6000mhz-2.webp",
+    "/images/products/ram-ddr5-corsair-vengeance-32gb-6000mhz-3.webp",
+    "/images/products/ram-ddr5-corsair-vengeance-32gb-6000mhz-4.webp"
+  ],
+  "Description": "Model\nBrand: CORSAIR\nSeries: Vengeance\nModel: CMK32GX5M2E6000C36\nPart Number: CMK32GX5M2E6000C36\n\n\nDetails\nCapacity: 32GB (2 x 16GB)\nType: 288-Pin PC RAM\nSpeed: DDR5 6000 (PC5 48000)\nCAS Latency: 36\nTiming: 36-44-44-96\nVoltage: 1.40V\nMulti-channel Kit: Dual Channel Kit\nChipset: Intel XMP 3.0\nColor: Black\nRecommend Use: Intel 600 Series and 700 Series\nLED Color: None",
+  "Price": 105.00,
+  "Features": [
+    "2x16GB",
+    "Disipadas",
+    "CL36"
+  ],
+  "Date": "2023-10-13T09:28:49.0242623-04:00",
+  "Update": "2023-10-13T10:18:40.0718385-04:00",
+  "Label": "RAM DDR5 Corsair Vengeance 32GB 6000mhz"
+}
