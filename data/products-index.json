@@ -783,6 +783,28 @@
         "Date": "2023-09-11T09:09:34.8583822-04:00",
         "Update": "2023-10-13T09:24:44.5138575-04:00",
         "Label": "RAM DDR4 Silicon Power 32GB 3200mhz"
+      },
+      {
+        "Price": 105.00,
+        "Features": [
+          "2x16GB",
+          "Disipadas",
+          "CL36"
+        ],
+        "Date": "2023-10-13T09:28:49.0242623-04:00",
+        "Update": "2023-10-13T10:18:40.0718385-04:00",
+        "Label": "RAM DDR5 Corsair Vengeance 32GB 6000mhz"
+      },
+      {
+        "Price": 199.00,
+        "Features": [
+          "2x32GB",
+          "Disipadas",
+          "CL40"
+        ],
+        "Date": "2023-10-13T09:28:52.4115364-04:00",
+        "Update": "2023-10-13T10:18:40.0960046-04:00",
+        "Label": "RAM DDR5 G.Skill Flare X5 64GB 6000mhz C40"
       }
     ],
     "Chasis": [
@@ -1084,19 +1106,6 @@
         "Label": "SSD M.2 Corsair MP600 PRO LPX 1TB White"
       },
       {
-        "Price": 149.00,
-        "Features": [
-          "7100mbs",
-          "1400tbw",
-          "HeatSink",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-10-03T06:56:05.5050265-04:00",
-        "Update": "2023-10-03T09:09:19.5719665-04:00",
-        "Label": "SSD M.2 Corsair MP600 PRO LPX 2TB White"
-      },
-      {
         "Price": 127.00,
         "Features": [
           "7000mbs",
@@ -1155,6 +1164,34 @@
         "Date": "2023-10-09T15:59:46.8994939-04:00",
         "Update": "2023-10-09T17:48:22.0159372-04:00",
         "Label": "SSD M.2 MSI SPATIUM M450 1TB"
+      },
+      {
+        "Price": 149.00,
+        "Features": [
+          "7100mbs",
+          "1400tbw",
+          "Disipador",
+          "HeatSink",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-10-03T06:56:05.5050265-04:00",
+        "Update": "2023-10-13T10:18:39.9057359-04:00",
+        "Label": "SSD M.2 Corsair MP600 PRO LPX 2TB White"
+      },
+      {
+        "Price": 149.00,
+        "Features": [
+          "7100mbs",
+          "1400tbw",
+          "Disipador",
+          "Heatsink",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-10-13T09:28:29.8930928-04:00",
+        "Update": "2023-10-13T10:18:39.9791691-04:00",
+        "Label": "SSD M.2 Corsair MP600 Pro XT 2TB"
       }
     ],
     "Fuente": [
@@ -1719,6 +1756,46 @@
         "Date": "2023-10-11T10:56:44.8974468-04:00",
         "Update": "2023-10-11T14:20:31.1068731-04:00",
         "Label": "Disipador Líquido Cooler Master MasterLiquid 360L Core"
+      },
+      {
+        "Price": 299.00,
+        "Features": [
+          "LCD",
+          "2500rpm",
+          "38db",
+          "Graphene",
+          "3xFan",
+          "360mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "LGA 20XX",
+          "LGA 1366",
+          "AM4",
+          "TR4",
+          "sTRX4"
+        ],
+        "Date": "2023-10-13T09:28:20.4727456-04:00",
+        "Update": "2023-10-13T10:18:39.9470146-04:00",
+        "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce X 360"
+      },
+      {
+        "Price": 149.00,
+        "Features": [
+          "1750rpm",
+          "72cfm",
+          "27db",
+          "2xFan",
+          "240mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM5",
+          "AM4"
+        ],
+        "Date": "2023-10-13T09:28:41.1429363-04:00",
+        "Update": "2023-10-13T10:18:40.0066359-04:00",
+        "Label": "Disipador Líquido CoolerMaster MasterLiquid 240L Core ARGB"
       }
     ],
     "Disco Duro": [
@@ -1860,6 +1937,20 @@
         "Date": "2023-06-07T15:04:18.9988293-04:00",
         "Update": "2023-08-01T18:30:20.3509442-04:00",
         "Label": "TP-Link Wifi Adapter 300N"
+      },
+      {
+        "Price": 37.00,
+        "Features": [
+          "1200Mbps",
+          "PCIe x1",
+          "2.4Ghz",
+          "5Ghz",
+          "Interna",
+          "Adaptador"
+        ],
+        "Date": "2023-10-13T09:28:37.8953004-04:00",
+        "Update": "2023-10-13T10:18:39.9916156-04:00",
+        "Label": "Expansión Derapid Wifi AC1200 Dual Band + Bluetooth"
       }
     ],
     "Board": [
@@ -2463,6 +2554,24 @@
         "Date": "2023-10-02T14:28:41.5445614-04:00",
         "Update": "2023-10-11T10:54:04.7308032-04:00",
         "Label": "Micro Intel Core i5-11600K"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "Radeon Graphics",
+          "AM4",
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "16MB L3",
+          "65W",
+          "DDR4",
+          "Serie 5000",
+          "CPU"
+        ],
+        "Date": "2023-10-13T09:28:27.261681-04:00",
+        "Update": "2023-10-13T10:18:39.9669105-04:00",
+        "Label": "Micro AMD Ryzen 5 5600G +Disipador"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2742,6 +2851,23 @@
         "Date": "2023-10-11T10:56:42.3732311-04:00",
         "Update": "2023-10-11T18:17:29.9522283-04:00",
         "Label": "Gráfica Asus ROG Strix RTX 4070 Ti OC"
+      },
+      {
+        "Price": 315.00,
+        "Features": [
+          "8GB",
+          "3xFan",
+          "1x8Pin",
+          "550WR",
+          "274mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Tarjeta de Video"
+        ],
+        "Date": "2023-10-13T09:28:55.7781232-04:00",
+        "Update": "2023-10-13T10:18:40.1100851-04:00",
+        "Label": "Gráfica XFX Qick 308 RX 7600"
       }
     ]
   },
@@ -3202,6 +3328,21 @@
         "Date": "2023-06-29T07:38:38.0146289-04:00",
         "Update": "2023-10-11T10:54:04.6827983-04:00",
         "Label": "Mouse Logitech G305 Lightspeed"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "420ips",
+          "8 botónes",
+          "1ms",
+          "Gaming",
+          "Optico",
+          "USB",
+          "4000dpi"
+        ],
+        "Date": "2023-10-13T09:28:17.4558563-04:00",
+        "Update": "2023-10-13T10:18:39.9221324-04:00",
+        "Label": "Mouse Logitech G402 Hyperion Fury Black"
       }
     ],
     "Silla": [
@@ -3485,6 +3626,24 @@
         "Date": "2023-10-11T10:57:33.5321275-04:00",
         "Update": "2023-10-11T14:20:31.1192527-04:00",
         "Label": "Monitor Asus ROG Strix 24\" XG256Q"
+      },
+      {
+        "Price": 279.00,
+        "Features": [
+          "170Hz",
+          "IPS",
+          "1ms",
+          "FreeSync",
+          "VESA",
+          "2x HDMI",
+          "Flat",
+          "FHD",
+          "DP",
+          "250nit"
+        ],
+        "Date": "2023-10-13T09:28:44.9787355-04:00",
+        "Update": "2023-10-13T10:18:40.0450802-04:00",
+        "Label": "Monitor MSI 24\" G2412"
       }
     ],
     "Externo": [
