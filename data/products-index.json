@@ -2,11 +2,11 @@
   "Torres": {
     "Entusiasta": [
       {
-        "Price": 1221.00,
+        "Price": 1219.00,
         "Features": [],
         "Date": "2023-09-29T15:55:28.9723233-04:00",
-        "Update": "2023-10-01T15:01:31.5334837-04:00",
-        "Discount": 31.0,
+        "Update": "2023-10-13T09:28:02.0896423-04:00",
+        "Discount": 33.0,
         "Label": "Torre i5 13Gen, Hyper212, B660 ProArt, Corsair RGB 16GB, M.2 980 500GB, Asus RX 6600, Corsair CX750M"
       }
     ]
@@ -46,54 +46,125 @@
         "Label": "Kit i5-13600K + Asus ROG Strix Z690-E Gaming Wifi + DDR5 Corsair Dominator Platinum RGB 32GB"
       },
       {
-        "Price": 863.00,
-        "Features": [],
-        "Date": "2023-09-21T21:15:59.7347414-04:00",
-        "Update": "2023-10-02T14:27:31.7998312-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i7-13700K + Asus ROG Strix Z790-H Gaming + DDR5 Corsair Dominator Platinum RGB 32GB"
-      },
-      {
-        "Price": 961.00,
-        "Features": [],
-        "Date": "2023-09-21T21:29:53.6548989-04:00",
-        "Update": "2023-10-02T14:27:31.8096441-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i9-12900K + Asus ROG Maximus Z690 Hero + DDR5 G.SKILL Trident Z5 RGB 64GB"
-      },
-      {
-        "Price": 1074.00,
-        "Features": [],
-        "Date": "2023-06-15T09:02:58.8515588-04:00",
-        "Update": "2023-10-03T09:09:19.2876166-04:00",
-        "Discount": 15.0,
-        "Label": "Kit i9-13900K + Asus ROG Strix Z690-E Gaming Wifi + 32GB DDR5"
-      },
-      {
         "Price": 589.00,
         "Features": [],
         "Date": "2023-09-13T13:27:28.397107-04:00",
         "Update": "2023-10-03T09:09:19.3097855-04:00",
         "Discount": 10.0,
         "Label": "Kit i5-13500 +Disipador + Gigabyte Aorus B760M Elite AX + DDR5 Corsair Dominator Platinum RGB 32GB"
+      },
+      {
+        "Price": 865.00,
+        "Features": [],
+        "Date": "2023-09-21T21:15:59.7347414-04:00",
+        "Update": "2023-10-13T09:28:02.10465-04:00",
+        "Discount": 12.0,
+        "Label": "Kit i7-13700K + Asus ROG Strix Z790-H Gaming + DDR5 Corsair Dominator Platinum RGB 32GB"
+      },
+      {
+        "Price": 965.00,
+        "Features": [],
+        "Date": "2023-09-21T21:29:53.6548989-04:00",
+        "Update": "2023-10-13T09:28:02.1304726-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i9-12900K + Asus ROG Maximus Z690 Hero + DDR5 G.SKILL Trident Z5 RGB 64GB"
+      },
+      {
+        "Price": 1075.00,
+        "Features": [],
+        "Date": "2023-06-15T09:02:58.8515588-04:00",
+        "Update": "2023-10-13T09:28:02.2018438-04:00",
+        "Discount": 14.0,
+        "Label": "Kit i9-13900K + Asus ROG Strix Z690-E Gaming Wifi + 32GB DDR5"
+      }
+    ],
+    "Moderado": [
+      {
+        "Price": 539.00,
+        "Features": [],
+        "Date": "2023-09-13T13:25:18.8793114-04:00",
+        "Update": "2023-10-12T12:45:40.717091-04:00",
+        "Discount": 14.0,
+        "Label": "Kit i5-13500 +Disipador + Asus B660 ProArt Creator + DDR4 Corsair Vengeance RGB 16GB"
+      },
+      {
+        "Price": 619.00,
+        "Features": [],
+        "Date": "2023-09-13T13:15:22.925563-04:00",
+        "Update": "2023-10-12T12:45:40.7292708-04:00",
+        "Discount": 14.0,
+        "Label": "Kit i7-12700K + Asus TUF Z690-Plus Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 575.00,
+        "Features": [
+          "20 Hilos",
+          "Wifi",
+          "8xUSB",
+          "Gamer",
+          "Dual Channel",
+          "2x16GB"
+        ],
+        "Date": "2023-10-12T12:08:31.6154709-04:00",
+        "Update": "2023-10-12T12:45:40.7709995-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i5 13Gen +Disipador +Board Gigabyte Aorus B760M +32GB DDR5 AORUS"
+      },
+      {
+        "Price": 405.00,
+        "Features": [
+          "3600mhz",
+          "8xUSB",
+          "Dual Lan",
+          "8 Hilos",
+          "Dual Channel",
+          "2x8GB",
+          "6xAudio"
+        ],
+        "Date": "2023-10-12T12:14:09.2169239-04:00",
+        "Update": "2023-10-12T12:45:40.7838716-04:00",
+        "Discount": 12.0,
+        "Label": "Kit i3 12Gen +Disipador +Board Asus B660 ProArt + 16GB RAM Corsair RGB"
+      },
+      {
+        "Price": 705.00,
+        "Features": [],
+        "Date": "2023-09-15T11:20:08.6484654-04:00",
+        "Update": "2023-10-13T09:28:02.2483128-04:00",
+        "Discount": 14.0,
+        "Label": "Kit i7-12700K + Gigabyte Z690 AERO G + DDR5 G.SKILL Trident Z5 RGB 64GB CL28"
+      }
+    ],
+    "Esencial": [
+      {
+        "Price": 359.00,
+        "Features": [
+          "2x8GB",
+          "8 hilos",
+          "Dual Channel",
+          "VGA",
+          "HDMI",
+          "4xSATA"
+        ],
+        "Date": "2023-10-12T11:57:20.759658-04:00",
+        "Update": "2023-10-12T12:45:40.7433069-04:00",
+        "Discount": 8.0,
+        "Label": "Kit i3 12Gen +Disipador +Board MSI B760M +RAM DDR4 16GB 3200mhz"
+      },
+      {
+        "Price": 479.00,
+        "Features": [
+          "20 Hilos",
+          "Dual Channel",
+          "2x8GB"
+        ],
+        "Date": "2023-10-12T12:02:21.7155899-04:00",
+        "Update": "2023-10-13T09:28:02.2776445-04:00",
+        "Discount": 13.0,
+        "Label": "Kit i5 13Gen +Disipador +Board MSI Pro + 16GB DDR4 Silicon Power 3200mhz"
       }
     ],
     "Rendimiento": [
-      {
-        "Price": 743.00,
-        "Features": [
-          "24 Hilos",
-          "5.2GHz",
-          "Wifi",
-          "8xUSB",
-          "6xSATA",
-          "5600mhz"
-        ],
-        "Date": "2023-09-13T13:12:09.7340595-04:00",
-        "Update": "2023-10-12T12:45:40.6729973-04:00",
-        "Discount": 16.0,
-        "Label": "Kit i9-12900K +Gigabyte Z690 AERO +DDR5 Corsair Vengeance RGB 48GB"
-      },
       {
         "Price": 835.00,
         "Features": [
@@ -141,7 +212,22 @@
         "Label": "Kit i7-12700K +Board Asus TUF Z690 + 32GB DDR5 G.Skill"
       },
       {
-        "Price": 813.00,
+        "Price": 745.00,
+        "Features": [
+          "24 Hilos",
+          "5.2GHz",
+          "Wifi",
+          "8xUSB",
+          "6xSATA",
+          "5600mhz"
+        ],
+        "Date": "2023-09-13T13:12:09.7340595-04:00",
+        "Update": "2023-10-13T09:28:02.2323226-04:00",
+        "Discount": 14.0,
+        "Label": "Kit i9-12900K +Gigabyte Z690 AERO +DDR5 Corsair Vengeance RGB 48GB"
+      },
+      {
+        "Price": 815.00,
         "Features": [
           "24 Hilos",
           "5.4GHz",
@@ -150,95 +236,9 @@
           "2x16GB"
         ],
         "Date": "2023-10-12T12:41:46.1677891-04:00",
-        "Update": "2023-10-12T12:45:40.828519-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i7-13700K +Board Z790 + 32GB 7200mhz DDR5 Trident Z5 RGB"
-      }
-    ],
-    "Moderado": [
-      {
-        "Price": 703.00,
-        "Features": [],
-        "Date": "2023-09-15T11:20:08.6484654-04:00",
-        "Update": "2023-10-12T12:45:40.7044842-04:00",
-        "Discount": 16.0,
-        "Label": "Kit i7-12700K + Gigabyte Z690 AERO G + DDR5 G.SKILL Trident Z5 RGB 64GB CL28"
-      },
-      {
-        "Price": 539.00,
-        "Features": [],
-        "Date": "2023-09-13T13:25:18.8793114-04:00",
-        "Update": "2023-10-12T12:45:40.717091-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i5-13500 +Disipador + Asus B660 ProArt Creator + DDR4 Corsair Vengeance RGB 16GB"
-      },
-      {
-        "Price": 619.00,
-        "Features": [],
-        "Date": "2023-09-13T13:15:22.925563-04:00",
-        "Update": "2023-10-12T12:45:40.7292708-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i7-12700K + Asus TUF Z690-Plus Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
-      },
-      {
-        "Price": 575.00,
-        "Features": [
-          "20 Hilos",
-          "Wifi",
-          "8xUSB",
-          "Gamer",
-          "Dual Channel",
-          "2x16GB"
-        ],
-        "Date": "2023-10-12T12:08:31.6154709-04:00",
-        "Update": "2023-10-12T12:45:40.7709995-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i5 13Gen +Disipador +Board Gigabyte Aorus B760M +32GB DDR5 AORUS"
-      },
-      {
-        "Price": 405.00,
-        "Features": [
-          "3600mhz",
-          "8xUSB",
-          "Dual Lan",
-          "8 Hilos",
-          "Dual Channel",
-          "2x8GB",
-          "6xAudio"
-        ],
-        "Date": "2023-10-12T12:14:09.2169239-04:00",
-        "Update": "2023-10-12T12:45:40.7838716-04:00",
-        "Discount": 12.0,
-        "Label": "Kit i3 12Gen +Disipador +Board Asus B660 ProArt + 16GB RAM Corsair RGB"
-      }
-    ],
-    "Esencial": [
-      {
-        "Price": 359.00,
-        "Features": [
-          "2x8GB",
-          "8 hilos",
-          "Dual Channel",
-          "VGA",
-          "HDMI",
-          "4xSATA"
-        ],
-        "Date": "2023-10-12T11:57:20.759658-04:00",
-        "Update": "2023-10-12T12:45:40.7433069-04:00",
+        "Update": "2023-10-13T09:28:02.3099082-04:00",
         "Discount": 8.0,
-        "Label": "Kit i3 12Gen +Disipador +Board MSI B760M +RAM DDR4 16GB 3200mhz"
-      },
-      {
-        "Price": 481.00,
-        "Features": [
-          "20 Hilos",
-          "Dual Channel",
-          "2x8GB"
-        ],
-        "Date": "2023-10-12T12:02:21.7155899-04:00",
-        "Update": "2023-10-12T12:45:40.7554191-04:00",
-        "Discount": 11.0,
-        "Label": "Kit i5 13Gen +Disipador +Board MSI Pro + 16GB DDR4 Silicon Power 3200mhz"
+        "Label": "Kit i7-13700K +Board Z790 + 32GB 7200mhz DDR5 Trident Z5 RGB"
       }
     ]
   },
@@ -1398,28 +1398,6 @@
         "Label": "Fuente Corsair RM850e"
       }
     ],
-    "Red": [
-      {
-        "Price": 29.00,
-        "Features": [
-          "PCIe x1"
-        ],
-        "Date": "2023-06-07T15:04:12.3798994-04:00",
-        "Update": "2023-06-07T17:13:07.6901895-04:00",
-        "Label": "Gigabyte PCIe Expansion Card Bluetooth y WiFi"
-      },
-      {
-        "Price": 19.00,
-        "Features": [
-          "PCIe x1",
-          "300Mbps",
-          "2.4GHz"
-        ],
-        "Date": "2023-06-07T15:04:18.9988293-04:00",
-        "Update": "2023-08-01T18:30:20.3509442-04:00",
-        "Label": "TP-Link Wifi Adapter 300N"
-      }
-    ],
     "Disipador Líquido": [
       {
         "Price": 10.00,
@@ -1871,6 +1849,19 @@
         "Label": "HDD 3.5 Seagate Pipeline 2TB"
       }
     ],
+    "Red": [
+      {
+        "Price": 19.00,
+        "Features": [
+          "PCIe x1",
+          "300Mbps",
+          "2.4GHz"
+        ],
+        "Date": "2023-06-07T15:04:18.9988293-04:00",
+        "Update": "2023-08-01T18:30:20.3509442-04:00",
+        "Label": "TP-Link Wifi Adapter 300N"
+      }
+    ],
     "Board": [
       {
         "Price": 189.00,
@@ -2092,25 +2083,6 @@
         "Label": "Motherboard ASRock B550M Pro SE"
       },
       {
-        "Price": 189.00,
-        "Features": [
-          "12va-13ra",
-          "7xUSB",
-          "6xAudio",
-          "DDR4",
-          "5200mhz",
-          "6xSATA",
-          "LGA 1700",
-          "ATX",
-          "HDMI",
-          "DisplayPort",
-          "PS2"
-        ],
-        "Date": "2023-10-02T14:29:29.7747771-04:00",
-        "Update": "2023-10-13T09:24:44.4678717-04:00",
-        "Label": "MSI PRO Z690-A Wifi DDR4"
-      },
-      {
         "Price": 215.00,
         "Features": [
           "10ma-11na",
@@ -2129,6 +2101,25 @@
         "Date": "2023-10-09T15:59:53.3045844-04:00",
         "Update": "2023-10-13T09:24:44.5381718-04:00",
         "Label": "Motherboard ASRock Z590 PG VELOCITA"
+      },
+      {
+        "Price": 189.00,
+        "Features": [
+          "12va-13ra",
+          "7xUSB",
+          "6xAudio",
+          "DDR4",
+          "5200mhz",
+          "6xSATA",
+          "LGA 1700",
+          "ATX",
+          "HDMI",
+          "DisplayPort",
+          "PS2"
+        ],
+        "Date": "2023-10-02T14:29:29.7747771-04:00",
+        "Update": "2023-10-13T09:28:02.1758954-04:00",
+        "Label": "Motherboard MSI PRO Z690-A Wifi DDR4"
       }
     ],
     "Disipador por Aire": [
