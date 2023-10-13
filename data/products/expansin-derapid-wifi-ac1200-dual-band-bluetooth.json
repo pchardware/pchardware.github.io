@@ -1,0 +1,26 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Red",
+  "Images": [
+    "/images/products/expansin-derapid-wifi-ac1200-dual-band-bluetooth-1.webp",
+    "/images/products/expansin-derapid-wifi-ac1200-dual-band-bluetooth-2.webp",
+    "/images/products/expansin-derapid-wifi-ac1200-dual-band-bluetooth-3.webp",
+    "/images/products/expansin-derapid-wifi-ac1200-dual-band-bluetooth-4.webp",
+    "/images/products/expansin-derapid-wifi-ac1200-dual-band-bluetooth-5.webp",
+    "/images/products/expansin-derapid-wifi-ac1200-dual-band-bluetooth-6.webp",
+    "/images/products/expansin-derapid-wifi-ac1200-dual-band-bluetooth-7.webp"
+  ],
+  "Description": "Model\nBrand: DERAPID\nModel: PCE-AC1200\nPart Number: 16746\n\n\nDetails\nColor: N/A\nStandards: IEEE 802.11ac, IEEE 802.11a/b/g/n\nWiFi Generation: Wi-Fi 5\nInterface: PCI-E X1 X4 X8 X16\nFrequency Band: 2.4 GHz / 5 GHz\nAntenna: External Antenna\nBluetooth: Bluetooth 4.0\nOperating Range: Wifi + Bluetooth 4.0\nSystem Requirements: Windows 7/8/10\n\n\nFeature\nFeatures: Wireless",
+  "Price": 37.00,
+  "Features": [
+    "1200Mbps",
+    "PCIe x1",
+    "2.4Ghz",
+    "5Ghz",
+    "Interna",
+    "Adaptador"
+  ],
+  "Date": "2023-10-13T09:28:37.8953004-04:00",
+  "Update": "2023-10-13T10:18:39.9916156-04:00",
+  "Label": "Expansión Derapid Wifi AC1200 Dual Band + Bluetooth"
+}
