@@ -1,0 +1,25 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Mouse",
+  "Images": [
+    "/images/products/mouse-logitech-g402-hyperion-fury-black-1.webp",
+    "/images/products/mouse-logitech-g402-hyperion-fury-black-2.webp",
+    "/images/products/mouse-logitech-g402-hyperion-fury-black-3.webp",
+    "/images/products/mouse-logitech-g402-hyperion-fury-black-4.webp",
+    "/images/products/mouse-logitech-g402-hyperion-fury-black-5.webp"
+  ],
+  "Description": "Model\nBrand: Logitech\nName: G402\nModel: 910-004069\n\n\nDetails\nType: Wired\nInterface: USB\nTracking Method: Optical\nMaximum dpi: 4000 dpi\nButtons: 8\nScrolling Capability: 1 x Wheel\nColor: Black\n\n\nOS / System Requirement\nOperating System Supported: Windows 8, Windows 8.1, Windows 7 or Windows Vista\nSystem Requirement: Powered USB port\nInternet connection and 100MB hard drive space (for optional software download)\n\n\nFeatures\nFeatures: Fusion Engine high-speed tracking \n\n8 programmable buttons\n\nOn-the-fly DPI switching \n\n32-bit ARM processor \n\n1ms Report rate \n\nComfortable design \n\nHigh-speed clicking\n\n\nPackage Contents\nPackage Contents: Mouse\nUser documentation",
+  "Price": 49.00,
+  "Features": [
+    "420ips",
+    "8 botónes",
+    "1ms",
+    "Gaming",
+    "Optico",
+    "USB",
+    "4000dpi"
+  ],
+  "Date": "2023-10-13T09:28:17.4558563-04:00",
+  "Update": "2023-10-13T10:18:39.9221324-04:00",
+  "Label": "Mouse Logitech G402 Hyperion Fury Black"
+}
