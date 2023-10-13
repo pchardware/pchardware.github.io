@@ -1,0 +1,33 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disipador Líquido",
+  "Images": [
+    "/images/products/disipador-lquido-gigabyte-gp-aorus-waterforce-x-36-1.webp",
+    "/images/products/disipador-lquido-gigabyte-gp-aorus-waterforce-x-36-2.webp",
+    "/images/products/disipador-lquido-gigabyte-gp-aorus-waterforce-x-36-3.webp",
+    "/images/products/disipador-lquido-gigabyte-gp-aorus-waterforce-x-36-4.webp",
+    "/images/products/disipador-lquido-gigabyte-gp-aorus-waterforce-x-36-5.webp",
+    "/images/products/disipador-lquido-gigabyte-gp-aorus-waterforce-x-36-6.webp"
+  ],
+  "Description": "Model\nBrand: GIGABYTE\nModel: GP-AORUS WATERFORCE X 360\nType: Liquid Cooling System\n\n\nBlock\nBlock Compatibility: Intel LGA 2066 / 2011 / 1700 / 1366 / 1200 / 115x\n\nAMD AM4 / TR4 / sTRX4 / AM5\n\n\nPump\nPump Dim.: 82.00 x 82.00 x 74.00 mm\n\n\nRadiator\nRadiator Size: 394.00 x 119.20 x 27.00 mm\nRadiator Material: Aluminum\n\n\nFan\nFan Size: 3 Fan Slots (120 mm)\nFan Dim.: 120.00 x 120.00 x 25.00 mm\nBearing Type: Graphene Nano Lubricant\nFan RPM: 800~2500 RPM +/-10%\nFan Noise: 7.9~37.6 dBA",
+  "Price": 299.00,
+  "Features": [
+    "LCD",
+    "2500rpm",
+    "38db",
+    "Graphene",
+    "3xFan",
+    "360mm",
+    "LGA 1700",
+    "LGA 1200",
+    "LGA 115X",
+    "LGA 20XX",
+    "LGA 1366",
+    "AM4",
+    "TR4",
+    "sTRX4"
+  ],
+  "Date": "2023-10-13T09:28:20.4727456-04:00",
+  "Update": "2023-10-13T10:18:39.9470146-04:00",
+  "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce X 360"
+}
