@@ -1,0 +1,23 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Otros",
+  "Images": [
+    "/images/products/expansin-weastlinks-4xsata-1.webp",
+    "/images/products/expansin-weastlinks-4xsata-2.webp",
+    "/images/products/expansin-weastlinks-4xsata-3.webp",
+    "/images/products/expansin-weastlinks-4xsata-4.webp",
+    "/images/products/expansin-weastlinks-4xsata-5.webp",
+    "/images/products/expansin-weastlinks-4xsata-6.webp"
+  ],
+  "Description": "Details\nType: PCI Express to SATA Card\nExternal USB Ports: 4x SATA III",
+  "Price": 39.00,
+  "Features": [
+    "PCIe x1",
+    "6.0 Gbs",
+    "Interna",
+    "Adaptador"
+  ],
+  "Date": "2023-09-11T09:09:53.366551-04:00",
+  "Update": "2023-10-13T09:24:44.4358011-04:00",
+  "Label": "Expansión Weastlinks 4xSATA"
+}
