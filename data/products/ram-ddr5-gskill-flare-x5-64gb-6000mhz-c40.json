@@ -1,0 +1,20 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Memoria RAM",
+  "Images": [
+    "/images/products/ram-ddr5-gskill-flare-x5-64gb-6000mhz-c40-1.webp",
+    "/images/products/ram-ddr5-gskill-flare-x5-64gb-6000mhz-c40-2.webp",
+    "/images/products/ram-ddr5-gskill-flare-x5-64gb-6000mhz-c40-3.webp",
+    "/images/products/ram-ddr5-gskill-flare-x5-64gb-6000mhz-c40-4.webp"
+  ],
+  "Description": "Model\nBrand: G.SKILL\nSeries: Flare X Series\nModel: F5-6000J3040G32GX2-FX5\n\n\nDetails\nCapacity: 64GB (2 x 32GB)\nType: 288-Pin PC RAM\nSpeed: DDR5 6000 (PC5 48000)\nCAS Latency: 30\nTiming: 30-40-40-96\nVoltage: 1.40V\nMulti-channel Kit: Dual Channel Kit\nChipset: AMD EXPO\nColor: Black\nHeat Spreader: Yes\nFeatures: Flare X5 series DDR5 memory is designed and optimized for high performance on compatible\nDDR5-enabled AMD Ryzen platforms, and supports AMD EXPO overclocking profiles to enable\neasy memory overclocking by simply enabling the EXPO profile in the BIOS with a compatible\nmotherboard and processor.\nFeaturing a 33mm low-profile height and built with hand-screened IC chips tested for quality\nand performance, the Flare X5 is an excellent choice for compact performance PC builds.\n• Optimized for AMD Ryzen 7000 series processors or later\n• 33mm Low-profile module height design\n• AMD EXPO Support\nRecommend Use: AMD Ryzen 7000 Series Processor\nLED Color: None",
+  "Price": 199.00,
+  "Features": [
+    "2x32GB",
+    "Disipadas",
+    "CL40"
+  ],
+  "Date": "2023-10-13T09:28:52.4115364-04:00",
+  "Update": "2023-10-13T10:18:40.0960046-04:00",
+  "Label": "RAM DDR5 G.Skill Flare X5 64GB 6000mhz C40"
+}
