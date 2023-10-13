@@ -173,7 +173,7 @@
         "Label": "Kit i5-13500 +Disipador + Asus B660 ProArt Creator + DDR4 Corsair Vengeance RGB 16GB"
       },
       {
-        "Price": 623.00,
+        "Price": 619.00,
         "Features": [],
         "Date": "2023-09-13T13:15:22.925563-04:00",
         "Update": "2023-10-12T12:45:40.7292708-04:00",
@@ -663,7 +663,7 @@
         "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 6400mhz"
       },
       {
-        "Price": 129.00,
+        "Price": 125.00,
         "Features": [
           "2x16GB",
           "Disipadas",
@@ -729,7 +729,7 @@
         "Label": "RAM DDR5 G.Skill Trident Z5 RGB 64GB 6000mhz"
       },
       {
-        "Price": 105.00,
+        "Price": 99.00,
         "Features": [
           "2x16GB",
           "Disipadas",
@@ -751,7 +751,7 @@
         "Label": "RAM DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
       },
       {
-        "Price": 105.00,
+        "Price": 107.00,
         "Features": [
           "2x16GB",
           "CL30",
@@ -1136,7 +1136,7 @@
     ],
     "Fuente": [
       {
-        "Price": 85.00,
+        "Price": 49.00,
         "Features": [
           "juego de cables"
         ],
@@ -1145,7 +1145,7 @@
         "Label": "Corsair Cable Kit Blue"
       },
       {
-        "Price": 85.00,
+        "Price": 49.00,
         "Features": [
           "juego de cables"
         ],
