@@ -18,11 +18,12 @@
   "Features": [
     "7100mbs",
     "1400tbw",
+    "Disipador",
     "HeatSink",
     "PCIe 4",
     "NVMe"
   ],
   "Date": "2023-10-03T06:56:05.5050265-04:00",
-  "Update": "2023-10-03T09:09:19.5719665-04:00",
+  "Update": "2023-10-13T10:18:39.9057359-04:00",
   "Label": "SSD M.2 Corsair MP600 PRO LPX 2TB White"
 }
