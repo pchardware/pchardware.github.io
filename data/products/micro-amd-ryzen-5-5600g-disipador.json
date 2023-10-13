@@ -1,0 +1,26 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Microprocesador",
+  "Images": [
+    "/images/products/micro-amd-ryzen-5-5600g-disipador-1.webp",
+    "/images/products/micro-amd-ryzen-5-5600g-disipador-2.webp",
+    "/images/products/micro-amd-ryzen-5-5600g-disipador-3.webp"
+  ],
+  "Description": "Model\nBrand: AMD\nProcessors Type: Desktop\nSeries: Ryzen 5 5000 G-Series\nName: Ryzen 5 5600G\nModel: 100-100000252BOX\n\n\nDetails\nCPU Socket Type: Socket AM4\nCore Name: Cezanne (Zen 3)\n# of Cores: 6-Core\n# of Threads: 12-Threads\nOperating Frequency: 3.9 GHz\nMax Turbo Frequency: 4.4 GHz\nL2 Cache: 3MB\nL3 Cache: 16MB\nManufacturing Tech: 7nm\n64-Bit Support: Yes\nMemory Types: DDR4 3200\nMemory Channel: 2\nVirtualization Technology Support: Yes\nIntegrated Graphics: AMD Radeon Graphics\nPCI Express Revision: 3.0\nThermal Design Power: 65W\nCooling Device: Wraith Stealth\nWindows 11: Supported",
+  "Price": 185.00,
+  "Features": [
+    "Radeon Graphics",
+    "AM4",
+    "12 Hilos",
+    "6 Core",
+    "4.4GHz",
+    "16MB L3",
+    "65W",
+    "DDR4",
+    "Serie 5000",
+    "CPU"
+  ],
+  "Date": "2023-10-13T09:28:27.261681-04:00",
+  "Update": "2023-10-13T10:18:39.9669105-04:00",
+  "Label": "Micro AMD Ryzen 5 5600G +Disipador"
+}
