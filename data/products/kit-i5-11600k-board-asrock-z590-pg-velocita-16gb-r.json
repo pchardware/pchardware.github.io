@@ -1,0 +1,26 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Moderado",
+  "Images": [
+    "/images/products/kit-i5-11600k-board-asrock-z590-pg-velocita-16gb-r-1.webp",
+    "/images/products/kit-i5-11600k-board-asrock-z590-pg-velocita-16gb-r-2.webp",
+    "/images/products/kit-i5-11600k-board-asrock-z590-pg-velocita-16gb-r-3.webp",
+    "/images/products/kit-i5-11600k-board-asrock-z590-pg-velocita-16gb-r-4.webp",
+    "/images/products/kit-i5-11600k-board-asrock-z590-pg-velocita-16gb-r-5.webp",
+    "/images/products/kit-i5-11600k-board-asrock-z590-pg-velocita-16gb-r-6.webp",
+    "/images/products/kit-i5-11600k-board-asrock-z590-pg-velocita-16gb-r-7.webp"
+  ],
+  "Description": "",
+  "Price": 495.00,
+  "Features": [
+    "12 Hilos",
+    "9xUSB",
+    "Wifi",
+    "6xSATA",
+    "6xAudio"
+  ],
+  "Date": "2023-10-13T10:35:45.6753993-04:00",
+  "Update": "2023-10-13T10:43:26.0626751-04:00",
+  "Discount": 10.0,
+  "Label": "Kit i5-11600K +Board ASRock Z590 PG VELOCITA +16GB RAM RGB 3600mhz"
+}
