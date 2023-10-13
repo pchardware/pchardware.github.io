@@ -1,0 +1,26 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-i7-12700k-board-msi-pro-z690-32gb-ram-1.webp",
+    "/images/products/kit-i7-12700k-board-msi-pro-z690-32gb-ram-2.webp",
+    "/images/products/kit-i7-12700k-board-msi-pro-z690-32gb-ram-3.webp",
+    "/images/products/kit-i7-12700k-board-msi-pro-z690-32gb-ram-4.webp",
+    "/images/products/kit-i7-12700k-board-msi-pro-z690-32gb-ram-5.webp",
+    "/images/products/kit-i7-12700k-board-msi-pro-z690-32gb-ram-6.webp",
+    "/images/products/kit-i7-12700k-board-msi-pro-z690-32gb-ram-7.webp"
+  ],
+  "Description": "",
+  "Price": 535.00,
+  "Features": [
+    "20 Hilos",
+    "12 Gen",
+    "Unlocked",
+    "Wifi",
+    "3200mhz"
+  ],
+  "Date": "2023-10-13T10:38:34.0109196-04:00",
+  "Update": "2023-10-13T10:43:26.0725258-04:00",
+  "Discount": 10.0,
+  "Label": "Kit i7-12700K +Board MSI PRO Z690 + 32GB RAM"
+}
