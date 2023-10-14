@@ -65,6 +65,18 @@
         "Update": "2023-10-14T13:55:57.5436904-04:00",
         "Discount": 28.0,
         "Label": "Torre i9-13900K +Hyper Dual +Z690 AERO +64GB DDR5 G.Skill +M.2 WD BLACK 1TB +Cooler Master"
+      },
+      {
+        "Price": 815.00,
+        "Features": [
+          "20 Hilos",
+          "13Gen",
+          "NVMe"
+        ],
+        "Date": "2023-10-14T13:58:18.6675168-04:00",
+        "Update": "2023-10-14T14:01:36.0871124-04:00",
+        "Discount": 21.0,
+        "Label": "Torre i5-13500 +Board Asus ProArt +16GB G.Skill +M.2 500GB Samsung 980 +Cooler Master"
       }
     ]
   },
