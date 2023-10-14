@@ -2625,6 +2625,21 @@
         "Date": "2023-10-13T09:28:27.261681-04:00",
         "Update": "2023-10-13T10:18:39.9669105-04:00",
         "Label": "Micro AMD Ryzen 5 5600G +Disipador"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "11na Gen",
+          "12 Hilos",
+          "6 Cores",
+          "4.4GHz",
+          "12MB L3",
+          "LGA 1200",
+          "CPU"
+        ],
+        "Date": "2023-03-22T09:04:03.4468877-04:00",
+        "Update": "2023-10-14T14:41:17.8362317-04:00",
+        "Label": "Micro Intel Core i5-11400 +Disipador"
       }
     ],
     "Tarjeta Gráfica": [
