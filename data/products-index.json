@@ -149,48 +149,6 @@
         "Label": "Kit i5-11600K +Board ASRock Z590 PG VELOCITA +16GB RAM RGB 3600mhz"
       }
     ],
-    "Esencial": [
-      {
-        "Price": 359.00,
-        "Features": [
-          "2x8GB",
-          "8 hilos",
-          "Dual Channel",
-          "VGA",
-          "HDMI",
-          "4xSATA"
-        ],
-        "Date": "2023-10-12T11:57:20.759658-04:00",
-        "Update": "2023-10-12T12:45:40.7433069-04:00",
-        "Discount": 8.0,
-        "Label": "Kit i3 12Gen +Disipador +Board MSI B760M +RAM DDR4 16GB 3200mhz"
-      },
-      {
-        "Price": 479.00,
-        "Features": [
-          "20 Hilos",
-          "Dual Channel",
-          "2x8GB"
-        ],
-        "Date": "2023-10-12T12:02:21.7155899-04:00",
-        "Update": "2023-10-13T09:28:02.2776445-04:00",
-        "Discount": 13.0,
-        "Label": "Kit i5 13Gen +Disipador +Board MSI Pro + 16GB DDR4 Silicon Power 3200mhz"
-      },
-      {
-        "Price": 385.00,
-        "Features": [
-          "12 Hilos",
-          "Dual Channel",
-          "6xUSB",
-          "DDR4"
-        ],
-        "Date": "2023-10-13T10:30:02.7910857-04:00",
-        "Update": "2023-10-13T10:43:26.0488326-04:00",
-        "Discount": 10.0,
-        "Label": "Kit Ryzen 5 5600G +Disipador +Board ASRock B550M Pro SE +16GB G.Skill 3600mhz"
-      }
-    ],
     "Rendimiento": [
       {
         "Price": 835.00,
@@ -266,35 +224,21 @@
         "Update": "2023-10-13T09:28:02.3099082-04:00",
         "Discount": 8.0,
         "Label": "Kit i7-13700K +Board Z790 + 32GB 7200mhz DDR5 Trident Z5 RGB"
-      },
+      }
+    ],
+    "Esencial": [
       {
-        "Price": 535.00,
+        "Price": 385.00,
         "Features": [
-          "20 Hilos",
-          "12 Gen",
-          "Unlocked",
-          "Wifi",
-          "3200mhz"
-        ],
-        "Date": "2023-10-13T10:38:34.0109196-04:00",
-        "Update": "2023-10-13T10:43:26.0725258-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i7-12700K +Board MSI PRO Z690 + 32GB RAM"
-      },
-      {
-        "Price": 631.00,
-        "Features": [
-          "24 Hilos",
-          "12 Gen",
-          "Unlocked",
-          "7xUSB",
+          "12 Hilos",
           "Dual Channel",
-          "6xSATA"
+          "6xUSB",
+          "DDR4"
         ],
-        "Date": "2023-10-13T10:41:01.0044269-04:00",
-        "Update": "2023-10-13T10:43:26.0827552-04:00",
+        "Date": "2023-10-13T10:30:02.7910857-04:00",
+        "Update": "2023-10-13T10:43:26.0488326-04:00",
         "Discount": 10.0,
-        "Label": "Kit i9-12900K +Board MSI Z690-A Wifi + RAM 32GB Silicon Power"
+        "Label": "Kit Ryzen 5 5600G +Disipador +Board ASRock B550M Pro SE +16GB G.Skill 3600mhz"
       }
     ]
   },
@@ -1712,23 +1656,6 @@
         "Label": "Disipador Líquido Enermax LIQMAX III 120 RGB"
       },
       {
-        "Price": 129.00,
-        "Features": [
-          "2xFan",
-          "240mm",
-          "1800rpm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "LGA 20XX",
-          "AM5",
-          "AM4"
-        ],
-        "Date": "2023-09-23T14:08:19.3847491-04:00",
-        "Update": "2023-10-09T17:48:21.7503702-04:00",
-        "Label": "Disipador Líquido ID-COOLING AURAFLOW X 240"
-      },
-      {
         "Price": 265.00,
         "Features": [
           "LCD",
@@ -2195,24 +2122,6 @@
         "Label": "Motherboard Asus TUF B650-Plus Wifi"
       },
       {
-        "Price": 159.00,
-        "Features": [
-          "12va-13ra",
-          "4800mhz",
-          "VGA",
-          "5xUSB",
-          "HDMI",
-          "DisplayPort",
-          "Micro ATX",
-          "LGA 1700",
-          "4xSATA",
-          "3xAudio"
-        ],
-        "Date": "2023-10-11T10:56:24.0277774-04:00",
-        "Update": "2023-10-11T14:20:31.0614391-04:00",
-        "Label": "Motherboard MSI Pro B760M-P DDR4"
-      },
-      {
         "Price": 145.00,
         "Features": [
           "AM4",
@@ -2248,25 +2157,6 @@
         "Date": "2023-10-09T15:59:53.3045844-04:00",
         "Update": "2023-10-13T09:24:44.5381718-04:00",
         "Label": "Motherboard ASRock Z590 PG VELOCITA"
-      },
-      {
-        "Price": 189.00,
-        "Features": [
-          "12va-13ra",
-          "7xUSB",
-          "6xAudio",
-          "DDR4",
-          "5200mhz",
-          "6xSATA",
-          "LGA 1700",
-          "ATX",
-          "HDMI",
-          "DisplayPort",
-          "PS2"
-        ],
-        "Date": "2023-10-02T14:29:29.7747771-04:00",
-        "Update": "2023-10-13T09:28:02.1758954-04:00",
-        "Label": "Motherboard MSI PRO Z690-A Wifi DDR4"
       }
     ],
     "Disipador por Aire": [
@@ -2907,41 +2797,10 @@
         "Date": "2023-10-11T10:56:42.3732311-04:00",
         "Update": "2023-10-11T18:17:29.9522283-04:00",
         "Label": "Gráfica Asus ROG Strix RTX 4070 Ti OC"
-      },
-      {
-        "Price": 315.00,
-        "Features": [
-          "8GB",
-          "3xFan",
-          "1x8Pin",
-          "550WR",
-          "274mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Tarjeta de Video"
-        ],
-        "Date": "2023-10-13T09:28:55.7781232-04:00",
-        "Update": "2023-10-13T10:18:40.1100851-04:00",
-        "Label": "Gráfica XFX Qick 308 RX 7600"
       }
     ]
   },
   "Periféricos": {
-    "Red": [
-      {
-        "Price": 17.00,
-        "Features": [
-          "AC600",
-          "USB",
-          "Wireless",
-          "Adaptador"
-        ],
-        "Date": "2023-06-07T15:06:24.0343083-04:00",
-        "Update": "2023-06-07T15:55:09.4786695-04:00",
-        "Label": "TP-LINK Archer T2U Nano"
-      }
-    ],
     "Teclado": [
       {
         "Price": 129.00,
@@ -3168,19 +3027,6 @@
       }
     ],
     "Mouse": [
-      {
-        "Price": 35.00,
-        "Features": [
-          "7000dpi",
-          "Optico",
-          "7 botónes",
-          "Palm-Claw",
-          "USB"
-        ],
-        "Date": "2023-06-24T08:20:19.9313716-04:00",
-        "Update": "2023-06-24T10:51:11.4827164-04:00",
-        "Label": "Mouse Asus TUF M3"
-      },
       {
         "Price": 61.00,
         "Features": [
@@ -3663,27 +3509,6 @@
         "Label": "Monitor Acer Nitro 24\" ED240Q"
       },
       {
-        "Price": 355.00,
-        "Features": [
-          "180Hz",
-          "G-Sync",
-          "400nit",
-          "IPS",
-          "1ms",
-          "HDR400",
-          "VESA",
-          "FreeSync",
-          "2x HDMI",
-          "DP",
-          "Flat",
-          "FHD",
-          "Gaming"
-        ],
-        "Date": "2023-10-11T10:57:33.5321275-04:00",
-        "Update": "2023-10-11T14:20:31.1192527-04:00",
-        "Label": "Monitor Asus ROG Strix 24\" XG256Q"
-      },
-      {
         "Price": 279.00,
         "Features": [
           "170Hz",
@@ -3754,15 +3579,6 @@
         "Date": "2023-10-09T15:59:03.9375048-04:00",
         "Update": "2023-10-09T17:48:21.9386761-04:00",
         "Label": "Control Xbox Core Wireless Black"
-      },
-      {
-        "Price": 77.00,
-        "Features": [
-          "Controller"
-        ],
-        "Date": "2023-10-09T15:59:06.8382669-04:00",
-        "Update": "2023-10-09T17:48:21.9479468-04:00",
-        "Label": "Control Xbox Core Wireless Red"
       }
     ]
   }
