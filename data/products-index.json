@@ -1,24 +1,4 @@
 {
-  "Computadoras": {
-    "Pro": [
-      {
-        "Price": 855.00,
-        "Features": [],
-        "Date": "2023-10-14T09:23:47.5429848-04:00",
-        "Update": "2023-10-14T09:28:29.8336584-04:00",
-        "Discount": 25.0,
-        "Label": "PC 24\" +Ryzen 5 +16GB RAM +500GB SSD +Chasis y Fuente C.Master +Combo Teclado Mouse Asus"
-      },
-      {
-        "Price": 899.00,
-        "Features": [],
-        "Date": "2023-10-14T10:25:00.3996662-04:00",
-        "Update": "2023-10-14T10:38:21.5292702-04:00",
-        "Discount": 27.0,
-        "Label": "PC 24\" +i3 12Gen +16GB DDR5 +500GB SSD +Fuente y Chasis Cooler Master +Teclado Mouse Rosewill RGB"
-      }
-    ]
-  },
   "Torres": {
     "Entusiasta": [
       {
@@ -31,14 +11,6 @@
       }
     ],
     "Pro": [
-      {
-        "Price": 775.00,
-        "Features": [],
-        "Date": "2023-10-14T10:31:27.7369039-04:00",
-        "Update": "2023-10-14T10:38:21.5530791-04:00",
-        "Discount": 24.0,
-        "Label": "Torre i5 13Gen +Board Aorus +16GB DDR5 G.Skill +500GB M.2 Samsung 980 +Fuente y Chasis Cooler Master"
-      },
       {
         "Price": 893.00,
         "Features": [
@@ -937,25 +909,6 @@
         "Date": "2023-08-20T10:12:26.8379058-04:00",
         "Update": "2023-08-20T11:36:57.2582587-04:00",
         "Label": "Chasis Fractal Design Focus 2 RGB Black"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "Modular",
-          "GPU 360mm",
-          "CPU 157mm",
-          "PSU 160mm",
-          "Micro Tower",
-          "Gamer",
-          "M-ATX",
-          "Negro",
-          "2xUSB",
-          "1xFan",
-          "1xHDD"
-        ],
-        "Date": "2023-08-06T08:09:13.8638279-04:00",
-        "Update": "2023-10-14T08:49:32.3506215-04:00",
-        "Label": "Chasis Cooler Master MasterBox Q300L"
       },
       {
         "Price": 169.00,
