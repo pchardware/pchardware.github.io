@@ -177,38 +177,6 @@
         "Label": "Kit Ryzen 9 7900X +Board Asus TUF + 32GB 6400mhz DDR5 Corsair Vengeance RGB"
       },
       {
-        "Price": 979.00,
-        "Features": [
-          "32 Hilos",
-          "5.7GHz",
-          "Wifi",
-          "6000mhz",
-          "9xUSB",
-          "Dual Channel",
-          "2x16GB"
-        ],
-        "Date": "2023-10-12T12:29:08.0744086-04:00",
-        "Update": "2023-10-12T12:45:40.8059421-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i9-13900K +Board Gigabyte Z790 + 32GB DDR5 G.Skill"
-      },
-      {
-        "Price": 599.00,
-        "Features": [
-          "20 Hilos",
-          "5GHz",
-          "6000mhz",
-          "Wifi",
-          "6xAudio",
-          "Dual Channel",
-          "2x16GB"
-        ],
-        "Date": "2023-10-12T12:29:48.249782-04:00",
-        "Update": "2023-10-12T12:45:40.8171806-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i7-12700K +Board Asus TUF Z690 + 32GB DDR5 G.Skill"
-      },
-      {
         "Price": 745.00,
         "Features": [
           "24 Hilos",
@@ -762,17 +730,6 @@
         "Date": "2023-10-09T15:59:12.4893615-04:00",
         "Update": "2023-10-09T17:48:21.9673865-04:00",
         "Label": "RAM DDR5 Patriot Viper Venom 32GB 6200mhz"
-      },
-      {
-        "Price": 105.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL36"
-        ],
-        "Date": "2023-10-09T15:59:22.4913756-04:00",
-        "Update": "2023-10-09T17:48:21.9873265-04:00",
-        "Label": "RAM DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
       },
       {
         "Price": 107.00,
