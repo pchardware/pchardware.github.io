@@ -1,4 +1,16 @@
 {
+  "Computadoras": {
+    "Pro": [
+      {
+        "Price": 855.00,
+        "Features": [],
+        "Date": "2023-10-14T09:23:47.5429848-04:00",
+        "Update": "2023-10-14T09:28:29.8336584-04:00",
+        "Discount": 25.0,
+        "Label": "PC 24\" +Ryzen 5 +16GB RAM +500GB SSD +Chasis y Fuente C.Master +Combo Teclado Mouse Asus"
+      }
+    ]
+  },
   "Torres": {
     "Entusiasta": [
       {
