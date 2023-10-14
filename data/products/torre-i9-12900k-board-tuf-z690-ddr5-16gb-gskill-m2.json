@@ -1,0 +1,27 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Pro",
+  "Images": [
+    "/images/products/torre-i9-12900k-board-tuf-z690-ddr5-16gb-gskill-m2-1.webp",
+    "/images/products/torre-i9-12900k-board-tuf-z690-ddr5-16gb-gskill-m2-2.webp",
+    "/images/products/torre-i9-12900k-board-tuf-z690-ddr5-16gb-gskill-m2-3.webp",
+    "/images/products/torre-i9-12900k-board-tuf-z690-ddr5-16gb-gskill-m2-4.webp",
+    "/images/products/torre-i9-12900k-board-tuf-z690-ddr5-16gb-gskill-m2-5.webp",
+    "/images/products/torre-i9-12900k-board-tuf-z690-ddr5-16gb-gskill-m2-6.webp",
+    "/images/products/torre-i9-12900k-board-tuf-z690-ddr5-16gb-gskill-m2-7.webp",
+    "/images/products/torre-i9-12900k-board-tuf-z690-ddr5-16gb-gskill-m2-8.webp"
+  ],
+  "Description": "",
+  "Price": 999.00,
+  "Features": [
+    "24 Hilos",
+    "12 Gen",
+    "6000mhz",
+    "Wifi",
+    "NVMe"
+  ],
+  "Date": "2023-10-14T13:25:23.942041-04:00",
+  "Update": "2023-10-14T13:30:10.718082-04:00",
+  "Discount": 38.0,
+  "Label": "Torre i9-12900K +Board TUF Z690 +DDR5 16GB G.Skill +M.2 1TB +Cooler Master"
+}
