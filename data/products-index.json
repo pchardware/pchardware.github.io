@@ -1650,24 +1650,6 @@
         "Label": "Disipador Líquido SAMA CY 360mm ARGB"
       },
       {
-        "Price": 109.00,
-        "Features": [
-          "2000rpm",
-          "67cfm",
-          "29db",
-          "Copper",
-          "1xFan",
-          "120mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4"
-        ],
-        "Date": "2023-03-27T11:59:58.6808365-04:00",
-        "Update": "2023-10-09T17:48:21.6638503-04:00",
-        "Label": "Disipador Líquido TUF Gaming LC 120 RGB"
-      },
-      {
         "Price": 159.00,
         "Features": [
           "1500rpm",
@@ -1886,6 +1868,24 @@
         "Date": "2023-10-13T09:28:41.1429363-04:00",
         "Update": "2023-10-13T10:18:40.0066359-04:00",
         "Label": "Disipador Líquido CoolerMaster MasterLiquid 240L Core ARGB"
+      },
+      {
+        "Price": 109.00,
+        "Features": [
+          "2000rpm",
+          "67cfm",
+          "29db",
+          "Copper",
+          "1xFan",
+          "120mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-03-27T11:59:58.6808365-04:00",
+        "Update": "2023-10-15T13:54:06.2799293-04:00",
+        "Label": "Disipador Líquido Asus TUF Gaming LC 120 RGB"
       }
     ],
     "Disco Duro": [
