@@ -2627,7 +2627,7 @@
         "Label": "Micro AMD Ryzen 5 5600G +Disipador"
       },
       {
-        "Price": 185.00,
+        "Price": 195.00,
         "Features": [
           "11na Gen",
           "12 Hilos",
@@ -2661,7 +2661,7 @@
         "Label": "Gráfica EVGA RTX 3080Ti XC3 Hydro Copper"
       },
       {
-        "Price": 895.00,
+        "Price": 849.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -2785,22 +2785,6 @@
         "Label": "Gráfica MSI Mech Radeon RX 6650 XT"
       },
       {
-        "Price": 205.00,
-        "Features": [
-          "2xFan",
-          "1x6Pin",
-          "400WR",
-          "194mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Tarjeta de Video"
-        ],
-        "Date": "2023-09-23T17:45:37.2322879-04:00",
-        "Update": "2023-10-09T17:48:21.2506226-04:00",
-        "Label": "Gráfica Sapphire PULSE RX 6500 XT 4GB"
-      },
-      {
         "Price": 409.00,
         "Features": [
           "3xFan",
@@ -2886,7 +2870,7 @@
         "Label": "Gráfica Gigabyte RX 7700XT Gaming OC"
       },
       {
-        "Price": 1475.00,
+        "Price": 1449.00,
         "Features": [
           "850WR",
           "342mm",
@@ -2903,7 +2887,7 @@
         "Label": "Gigabyte RTX 4080 Gaming OC"
       },
       {
-        "Price": 1095.00,
+        "Price": 1065.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -3282,19 +3266,6 @@
         "Date": "2023-09-23T14:08:24.2497001-04:00",
         "Update": "2023-09-29T15:51:20.0198906-04:00",
         "Label": "Mouse EVGA X12 White"
-      },
-      {
-        "Price": 29.00,
-        "Features": [
-          "53g",
-          "PTFE",
-          "Omron Switches",
-          "Ultralight",
-          "Pro-Grade"
-        ],
-        "Date": "2023-08-01T11:15:22.0148333-04:00",
-        "Update": "2023-10-02T14:22:58.9744973-04:00",
-        "Label": "Mouse Cooler Master M710"
       },
       {
         "Price": 15.00,
