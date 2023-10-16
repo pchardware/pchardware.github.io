@@ -1,15 +1,5 @@
 {
   "Torres": {
-    "Entusiasta": [
-      {
-        "Price": 1219.00,
-        "Features": [],
-        "Date": "2023-09-29T15:55:28.9723233-04:00",
-        "Update": "2023-10-13T09:28:02.0896423-04:00",
-        "Discount": 33.0,
-        "Label": "Torre i5 13Gen, Hyper212, B660 ProArt, Corsair RGB 16GB, M.2 980 500GB, Asus RX 6600, Corsair CX750M"
-      }
-    ],
     "Pro": [
       {
         "Price": 997.00,
@@ -460,21 +450,6 @@
         "Label": "Fan Cougar Vortex FCB 120 RGB"
       },
       {
-        "Price": 16.00,
-        "Features": [
-          "Magnetic",
-          "120mm",
-          "Hydraulic",
-          "2000rpm",
-          "58cfm",
-          "30db",
-          "4Pin"
-        ],
-        "Date": "2023-09-02T12:38:28.5352117-04:00",
-        "Update": "2023-09-02T13:38:05.5578254-04:00",
-        "Label": "Fan Corsair ML120 LED Elite Red"
-      },
-      {
         "Price": 93.00,
         "Features": [
           "Hydraulic",
@@ -580,13 +555,6 @@
         "Date": "2023-10-03T06:55:42.9522312-04:00",
         "Update": "2023-10-03T09:09:19.5438403-04:00",
         "Label": "Fan Asus TUF Gaming TF120 ARGB"
-      },
-      {
-        "Price": 25.00,
-        "Features": [],
-        "Date": "2023-10-09T15:58:54.823495-04:00",
-        "Update": "2023-10-09T17:48:21.9060716-04:00",
-        "Label": "PBT Backlit Keycap Upgrade Set White"
       },
       {
         "Price": 17.00,
@@ -895,7 +863,7 @@
         "Label": "RAM DDR5 G.Skill Ripjaws S5 16GB 6000mhz"
       },
       {
-        "Price": 150.00,
+        "Price": 115.00,
         "Features": [
           "2x16GB",
           "CL16",
@@ -962,22 +930,6 @@
         "Date": "2023-07-13T11:31:56.8717751-04:00",
         "Update": "2023-07-27T07:54:42.9549049-04:00",
         "Label": "Chasis Rosewill NIGHTHAWK 117"
-      },
-      {
-        "Price": 209.00,
-        "Features": [
-          "Tempered Glass",
-          "2xFan",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro",
-          "Rojo",
-          "2xHDD"
-        ],
-        "Date": "2023-07-26T16:41:43.3854558-04:00",
-        "Update": "2023-07-27T07:54:42.9679828-04:00",
-        "Label": "Chasis NZXT H510 Negro-Rojo"
       },
       {
         "Price": 215.00,
@@ -1113,17 +1065,6 @@
         "Date": "2023-08-29T08:42:45.4600847-04:00",
         "Update": "2023-08-29T09:46:36.2100783-04:00",
         "Label": "SSD M.2 Samsung 990 Pro 2TB"
-      },
-      {
-        "Price": 105.00,
-        "Features": [
-          "5000mbs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-07-09T16:45:24.2760094-04:00",
-        "Update": "2023-09-11T10:29:55.908247-04:00",
-        "Label": "SSD M.2 Silicon Power 2TB UD90"
       },
       {
         "Price": 125.00,
@@ -2952,23 +2893,6 @@
         "Label": "Tarjeta de Video MSI RTX 4060 Gaming X"
       },
       {
-        "Price": 275.00,
-        "Features": [
-          "2xFan",
-          "8GB",
-          "1x8Pin",
-          "500WR",
-          "243mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-09-23T14:08:44.7733868-04:00",
-        "Update": "2023-10-16T12:23:12.6160846-04:00",
-        "Label": "Tarjeta de Video Asus Dual RX 6600"
-      },
-      {
         "Price": 305.00,
         "Features": [
           "8GB",
@@ -3472,23 +3396,6 @@
         "Label": "Mouse Corsair Harpoon RGB"
       },
       {
-        "Price": 97.00,
-        "Features": [
-          "Macros",
-          "50H",
-          "Recargable",
-          "18000dpi",
-          "Optico",
-          "10 botónes",
-          "iCUE",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-06-19T07:49:07.3176421-04:00",
-        "Update": "2023-09-12T13:13:29.6696943-04:00",
-        "Label": "Mouse Corsair IRONCLAW RGB Wireless"
-      },
-      {
         "Price": 39.00,
         "Features": [
           "12000dpi",
@@ -3829,25 +3736,6 @@
         "Date": "2023-09-11T09:09:41.0989166-04:00",
         "Update": "2023-10-09T17:48:21.0863334-04:00",
         "Label": "Monitor MSI Pro 24\" MP241X"
-      },
-      {
-        "Price": 375.00,
-        "Features": [
-          "1440p",
-          "170Hz",
-          "2K",
-          "1ms",
-          "FreeSync",
-          "Gaming",
-          "VA",
-          "250nit",
-          "Flat",
-          "2x HDMI",
-          "DP"
-        ],
-        "Date": "2023-10-02T14:28:51.2536902-04:00",
-        "Update": "2023-10-09T17:48:21.4762927-04:00",
-        "Label": "Monitor Acer Nitro 27\" KG271U"
       },
       {
         "Price": 399.00,
