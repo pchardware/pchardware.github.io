@@ -606,6 +606,18 @@
         "Date": "2023-09-11T09:09:53.366551-04:00",
         "Update": "2023-10-13T09:24:44.4358011-04:00",
         "Label": "Expansión Weastlinks 4xSATA"
+      },
+      {
+        "Price": 43.00,
+        "Features": [
+          "PCIe x1",
+          "Alimentación SATA",
+          "Interna",
+          "Adaptador"
+        ],
+        "Date": "2023-08-01T11:15:00.5691684-04:00",
+        "Update": "2023-10-16T12:23:12.4249837-04:00",
+        "Label": "Expansión Orico 7xUSB 3.0"
       }
     ],
     "Memoria RAM": [
@@ -881,6 +893,28 @@
         "Date": "2023-10-14T10:09:22.7542158-04:00",
         "Update": "2023-10-14T10:19:20.27698-04:00",
         "Label": "RAM DDR5 G.Skill Ripjaws S5 16GB 6000mhz"
+      },
+      {
+        "Price": 150.00,
+        "Features": [
+          "2x16GB",
+          "CL16",
+          "Disipadas"
+        ],
+        "Date": "2023-03-09T12:28:03.6250501-05:00",
+        "Update": "2023-10-16T12:23:12.3911305-04:00",
+        "Label": "DDR4 G.SKILL TridentZ RGB 32GB 3600mhz"
+      },
+      {
+        "Price": 33.00,
+        "Features": [
+          "1x8GB",
+          "CL16",
+          "Disipadas"
+        ],
+        "Date": "2023-10-16T10:24:18.3365215-04:00",
+        "Update": "2023-10-16T12:23:12.7897271-04:00",
+        "Label": "RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz"
       }
     ],
     "Chasis": [
@@ -1284,6 +1318,17 @@
         "Date": "2023-10-13T09:28:29.8930928-04:00",
         "Update": "2023-10-13T10:18:39.9791691-04:00",
         "Label": "SSD M.2 Corsair MP600 Pro XT 2TB"
+      },
+      {
+        "Price": 69.00,
+        "Features": [
+          "540mbps",
+          "800tbw",
+          "SATA 3"
+        ],
+        "Date": "2023-10-16T10:23:41.2113735-04:00",
+        "Update": "2023-10-16T12:23:12.7578087-04:00",
+        "Label": "SSD 2.5 Team Group CX2 1TB"
       }
     ],
     "Fuente": [
@@ -1540,6 +1585,32 @@
         "Date": "2023-10-14T08:42:13.5961404-04:00",
         "Update": "2023-10-14T08:49:32.362053-04:00",
         "Label": "Fuente Cooler Master Elite 500 ver.3"
+      },
+      {
+        "Price": 79.00,
+        "Features": [
+          "45A",
+          "2x 6+2Pin",
+          "4x SATA",
+          "1x 4+4 EPS",
+          "PSU"
+        ],
+        "Date": "2023-09-11T09:09:29.0343419-04:00",
+        "Update": "2023-10-16T12:23:12.4669582-04:00",
+        "Label": "Fuente Apevia Spirit 600W"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "54A",
+          "2x 6+2 Pin",
+          "6x SATA",
+          "1x 4+4 EPS",
+          "PSU"
+        ],
+        "Date": "2023-06-29T07:39:33.0518165-04:00",
+        "Update": "2023-10-16T12:23:12.4772004-04:00",
+        "Label": "Fuente Thermaltake Smart 700W 80+"
       }
     ],
     "Disipador Líquido": [
@@ -2264,6 +2335,42 @@
         "Date": "2023-10-09T15:59:53.3045844-04:00",
         "Update": "2023-10-13T09:24:44.5381718-04:00",
         "Label": "Motherboard ASRock Z590 PG VELOCITA"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "12va-13ra",
+          "7200mhz",
+          "DDR5",
+          "Wifi",
+          "Dual Lan",
+          "7xUSB",
+          "4xSATA",
+          "HDMI",
+          "LGA 1700",
+          "6xAudio",
+          "ATX"
+        ],
+        "Date": "2023-10-16T10:24:22.1843395-04:00",
+        "Update": "2023-10-16T12:23:12.8070251-04:00",
+        "Label": "Motherboard MSI Z790 Gaming Pro Wifi"
+      },
+      {
+        "Price": 169.00,
+        "Features": [
+          "12va-13ra",
+          "4800mhz",
+          "DDR4",
+          "6xUSB",
+          "4xSATA",
+          "HDMI",
+          "LGA 1700",
+          "3xAudio",
+          "Micro ATX"
+        ],
+        "Date": "2023-10-16T10:24:36.0269962-04:00",
+        "Update": "2023-10-16T12:23:12.851385-04:00",
+        "Label": "Motherboard ASRock Z690M Phantom Gaming 4"
       }
     ],
     "Disipador por Aire": [
@@ -2418,6 +2525,48 @@
         "Date": "2023-08-08T10:08:41.3850156-04:00",
         "Update": "2023-10-10T07:59:16.9799082-04:00",
         "Label": "Disipador Sama KA200D"
+      },
+      {
+        "Price": 66.00,
+        "Features": [
+          "ARGB",
+          "63cfm",
+          "4xPipes",
+          "Cobre",
+          "1800rpm",
+          "25dBA",
+          "155mm",
+          "Blanco",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4",
+          "AM5",
+          "Tower",
+          "1xFan"
+        ],
+        "Date": "2023-10-16T10:24:39.6367232-04:00",
+        "Update": "2023-10-16T12:23:12.8620368-04:00",
+        "Label": "Disipador Thermaltake UX200 SE White"
+      },
+      {
+        "Price": 83.00,
+        "Features": [
+          "ARGB",
+          "4 Head Pipes",
+          "52cfm",
+          "27dba",
+          "154mm",
+          "1800rpm",
+          "AM5",
+          "AM4",
+          "LGA1700",
+          "LGA1200",
+          "LGA115X"
+        ],
+        "Date": "2023-10-16T10:24:42.0527807-04:00",
+        "Update": "2023-10-16T12:23:12.872414-04:00",
+        "Label": "Disipador Cooler Master 212 Halo Black"
       }
     ],
     "Microprocesador": [
@@ -2640,9 +2789,61 @@
         "Date": "2023-03-22T09:04:03.4468877-04:00",
         "Update": "2023-10-14T14:41:17.8362317-04:00",
         "Label": "Micro Intel Core i5-11400 +Disipador"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "AM4",
+          "12 Hilos",
+          "6 Core",
+          "4.1GHz",
+          "8MB L3",
+          "65W",
+          "DDR4",
+          "Serie 4000",
+          "CPU"
+        ],
+        "Date": "2023-10-16T10:24:11.3473945-04:00",
+        "Update": "2023-10-16T12:23:12.7681587-04:00",
+        "Label": "Micro AMD Ryzen 5 4500 +Disipador"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "12va Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "20MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-10-16T10:24:13.8080802-04:00",
+        "Update": "2023-10-16T12:23:12.7787105-04:00",
+        "Label": "Micro Intel Core i5-12600KF"
       }
     ],
     "Tarjeta Gráfica": [
+      {
+        "Price": 435.00,
+        "Features": [
+          "3xFan",
+          "8GB",
+          "1x8Pin",
+          "DLSS3",
+          "450WR",
+          "299mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-09-11T09:09:04.0927141-04:00",
+        "Update": "2023-10-16T12:23:12.4364851-04:00",
+        "Label": "Tarjeta de Video Gigabyte Aorus RTX 4060 Elite"
+      },
       {
         "Price": 555.00,
         "Features": [
@@ -2654,11 +2855,11 @@
           "GeForce",
           "NVIDIA",
           "GPU",
-          "Tarjeta de Video"
+          "Gráfica"
         ],
         "Date": "2023-04-09T07:40:11.0980971-04:00",
-        "Update": "2023-10-09T17:48:20.9075479-04:00",
-        "Label": "Gráfica EVGA RTX 3080Ti XC3 Hydro Copper"
+        "Update": "2023-10-16T12:23:12.5105976-04:00",
+        "Label": "Tarjeta de Video EVGA RTX 3080Ti XC3 Hydro Copper"
       },
       {
         "Price": 849.00,
@@ -2672,11 +2873,11 @@
           "GeForce",
           "NVIDIA",
           "GPU",
-          "Tarjeta de Video"
+          "Gráfica"
         ],
         "Date": "2023-05-11T13:47:38.0164911-04:00",
-        "Update": "2023-10-09T17:48:20.9272977-04:00",
-        "Label": "Gráfica MSI Ventus 3X RTX 4070Ti OC"
+        "Update": "2023-10-16T12:23:12.5317569-04:00",
+        "Label": "Tarjeta de Video MSI Ventus 3X RTX 4070Ti OC"
       },
       {
         "Price": 675.00,
@@ -2690,11 +2891,11 @@
           "GeForce",
           "NVIDIA",
           "GPU",
-          "Tarjeta de Video"
+          "Gráfica"
         ],
         "Date": "2023-06-19T07:49:38.2054403-04:00",
-        "Update": "2023-10-09T17:48:20.9365429-04:00",
-        "Label": "Gráfica Asus Dual RTX 4070 OC"
+        "Update": "2023-10-16T12:23:12.5639104-04:00",
+        "Label": "Tarjeta de Video Asus Dual RTX 4070 OC"
       },
       {
         "Price": 755.00,
@@ -2708,11 +2909,11 @@
           "GeForce",
           "NVIDIA",
           "GPU",
-          "Tarjeta de Video"
+          "Gráfica"
         ],
         "Date": "2023-08-29T08:42:07.9225906-04:00",
-        "Update": "2023-10-09T17:48:21.0002608-04:00",
-        "Label": "Gráfica Gigabyte RTX 4070 Aorus Master OC"
+        "Update": "2023-10-16T12:23:12.5764375-04:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4070 Aorus Master OC"
       },
       {
         "Price": 719.00,
@@ -2726,11 +2927,11 @@
           "GeForce",
           "NVIDIA",
           "GPU",
-          "Tarjeta de Video"
+          "Gráfica"
         ],
         "Date": "2023-08-29T08:42:12.9727616-04:00",
-        "Update": "2023-10-09T17:48:21.0107099-04:00",
-        "Label": "Gráfica Gigabyte RTX 4070 Gaming OC"
+        "Update": "2023-10-16T12:23:12.5912361-04:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4070 Gaming OC"
       },
       {
         "Price": 385.00,
@@ -2744,11 +2945,11 @@
           "GeForce",
           "NVIDIA",
           "GPU",
-          "Tarjeta de Video"
+          "Gráfica"
         ],
         "Date": "2023-08-08T10:08:12.7346355-04:00",
-        "Update": "2023-10-09T17:48:21.0513004-04:00",
-        "Label": "Gráfica MSI RTX 4060 Gaming X"
+        "Update": "2023-10-16T12:23:12.6029379-04:00",
+        "Label": "Tarjeta de Video MSI RTX 4060 Gaming X"
       },
       {
         "Price": 275.00,
@@ -2761,11 +2962,11 @@
           "GeForce",
           "NVIDIA",
           "GPU",
-          "Tarjeta de Video"
+          "Gráfica"
         ],
         "Date": "2023-09-23T14:08:44.7733868-04:00",
-        "Update": "2023-10-09T17:48:21.1279507-04:00",
-        "Label": "Gráfica Asus Dual RX 6600"
+        "Update": "2023-10-16T12:23:12.6160846-04:00",
+        "Label": "Tarjeta de Video Asus Dual RX 6600"
       },
       {
         "Price": 305.00,
@@ -2778,11 +2979,11 @@
           "Radeon",
           "AMD",
           "GPU",
-          "Tarjeta de Video"
+          "Gráfica"
         ],
         "Date": "2023-07-17T23:39:40.6107252-04:00",
-        "Update": "2023-10-09T17:48:21.1943259-04:00",
-        "Label": "Gráfica MSI Mech Radeon RX 6650 XT"
+        "Update": "2023-10-16T12:23:12.6286728-04:00",
+        "Label": "Tarjeta de Video MSI Mech Radeon RX 6650 XT"
       },
       {
         "Price": 409.00,
@@ -2795,11 +2996,11 @@
           "GeForce",
           "NVIDIA",
           "GPU",
-          "Tarjeta de Video"
+          "Gráfica"
         ],
         "Date": "2023-10-02T14:29:14.5916934-04:00",
-        "Update": "2023-10-09T17:48:21.4987771-04:00",
-        "Label": "Gráfica Gigabyte RTX 3060 Ti Gaming OC Pro"
+        "Update": "2023-10-16T12:23:12.6408545-04:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 3060 Ti Gaming OC Pro"
       },
       {
         "Price": 445.00,
@@ -2812,11 +3013,11 @@
           "Radeon",
           "AMD",
           "GPU",
-          "Tarjeta de Video"
+          "Gráfica"
         ],
         "Date": "2023-08-08T10:08:31.2983243-04:00",
-        "Update": "2023-10-09T17:48:21.6063669-04:00",
-        "Label": "Gráfica MSI RX 6750 XT Gaming X TRIO"
+        "Update": "2023-10-16T12:23:12.6548727-04:00",
+        "Label": "Tarjeta de Video MSI RX 6750 XT Gaming X TRIO"
       },
       {
         "Price": 375.00,
@@ -2829,11 +3030,11 @@
           "GeForce",
           "NVIDIA",
           "GPU",
-          "Tarjeta de Video"
+          "Gráfica"
         ],
         "Date": "2023-07-12T21:42:49.1798698-04:00",
-        "Update": "2023-10-09T17:48:21.7407297-04:00",
-        "Label": "Gráfica Asus Dual RTX 4060 OC"
+        "Update": "2023-10-16T12:23:12.6693262-04:00",
+        "Label": "Tarjeta de Video Asus Dual RTX 4060 OC"
       },
       {
         "Price": 479.00,
@@ -2846,11 +3047,11 @@
           "GeForce",
           "NVIDIA",
           "GPU",
-          "Tarjeta de Video"
+          "Gráfica"
         ],
         "Date": "2023-08-21T08:58:03.7946257-04:00",
-        "Update": "2023-10-09T17:48:21.7638452-04:00",
-        "Label": "Gráfica MSI RTX 4060 Ti Gaming X 8GB"
+        "Update": "2023-10-16T12:23:12.6834321-04:00",
+        "Label": "Tarjeta de Video MSI RTX 4060 Ti Gaming X 8GB"
       },
       {
         "Price": 499.00,
@@ -2863,11 +3064,11 @@
           "Radeon",
           "AMD",
           "GPU",
-          "Tarjeta de Video"
+          "Gráfica"
         ],
         "Date": "2023-10-03T06:56:26.0545013-04:00",
-        "Update": "2023-10-09T17:48:21.8539182-04:00",
-        "Label": "Gráfica Gigabyte RX 7700XT Gaming OC"
+        "Update": "2023-10-16T12:23:12.7042355-04:00",
+        "Label": "Tarjeta de Video Gigabyte RX 7700XT Gaming OC"
       },
       {
         "Price": 1449.00,
@@ -2880,11 +3081,12 @@
           "3xFan",
           "GeForce",
           "NVIDIA",
-          "GPU"
+          "GPU",
+          "Gráfica"
         ],
         "Date": "2023-08-29T08:42:19.8132967-04:00",
-        "Update": "2023-10-11T10:54:04.6724546-04:00",
-        "Label": "Gigabyte RTX 4080 Gaming OC"
+        "Update": "2023-10-16T12:23:12.7279923-04:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4080 Gaming OC"
       },
       {
         "Price": 1065.00,
@@ -2898,11 +3100,64 @@
           "GeForce",
           "NVIDIA",
           "GPU",
-          "Tarjeta de Video"
+          "Gráfica"
         ],
         "Date": "2023-10-11T10:56:42.3732311-04:00",
-        "Update": "2023-10-11T18:17:29.9522283-04:00",
-        "Label": "Gráfica Asus ROG Strix RTX 4070 Ti OC"
+        "Update": "2023-10-16T12:23:12.7460059-04:00",
+        "Label": "Tarjeta de Video Asus ROG Strix RTX 4070 Ti OC"
+      },
+      {
+        "Price": 999.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "12GB",
+          "1x16Pin",
+          "750W",
+          "342mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-10-16T10:24:27.1132383-04:00",
+        "Update": "2023-10-16T12:23:12.8175658-04:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Elite"
+      },
+      {
+        "Price": 1049.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "12GB",
+          "1x16Pin",
+          "750W",
+          "342mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-10-16T10:24:29.9709108-04:00",
+        "Update": "2023-10-16T12:23:12.8288146-04:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Master"
+      },
+      {
+        "Price": 325.00,
+        "Features": [
+          "8GB",
+          "3xFan",
+          "1x8Pin",
+          "550WR",
+          "274mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-10-16T10:24:33.0618949-04:00",
+        "Update": "2023-10-16T12:23:12.8397006-04:00",
+        "Label": "Tarjeta de Video Gigabyte RX 7600"
       }
     ]
   },
@@ -3338,6 +3593,39 @@
         "Date": "2023-10-13T09:28:17.4558563-04:00",
         "Update": "2023-10-13T10:18:39.9221324-04:00",
         "Label": "Mouse Logitech G402 Hyperion Fury Black"
+      },
+      {
+        "Price": 59.00,
+        "Features": [
+          "Inalámbrico",
+          "18000dpi",
+          "400 ips",
+          "400H",
+          "RGB",
+          "2.4Ghz",
+          "Bluetooth",
+          "95g",
+          "1ms",
+          "6 botónes",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-07-09T16:44:35.9657005-04:00",
+        "Update": "2023-10-16T12:23:12.4022952-04:00",
+        "Label": "Mouse SteelSeries Rival 3 Wireless"
+      },
+      {
+        "Price": 63.00,
+        "Features": [
+          "16000dpi",
+          "Optico",
+          "11 botónes",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-06-19T07:49:10.8952301-04:00",
+        "Update": "2023-10-16T12:23:12.4876497-04:00",
+        "Label": "Mause Logitech G502 Hero"
       }
     ],
     "Silla": [
@@ -3672,6 +3960,25 @@
         "Date": "2023-10-09T15:59:03.9375048-04:00",
         "Update": "2023-10-09T17:48:21.9386761-04:00",
         "Label": "Control Xbox Core Wireless Black"
+      }
+    ],
+    "Audífonos": [
+      {
+        "Price": 87.00,
+        "Features": [
+          "7.1",
+          "Micrófono",
+          "3.5mm",
+          "50mm",
+          "280g",
+          "USB",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-07-09T16:45:38.4980752-04:00",
+        "Update": "2023-10-16T12:23:12.413538-04:00",
+        "Label": "Auriculares Corsair HS65 Surround"
       }
     ]
   }
