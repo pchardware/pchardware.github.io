@@ -1,0 +1,24 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Microprocesador",
+  "Images": [
+    "/images/products/micro-amd-ryzen-5-4500-disipador-1.webp",
+    "/images/products/micro-amd-ryzen-5-4500-disipador-2.webp"
+  ],
+  "Description": "Model\nBrand: AMD\nProcessors Type: Desktop\nSeries: AMD Ryzen™ 5 4500\nName: AMD Ryzen™ 5 4500\nModel: 100-100000644BOX\n\n\nDetails\nCPU Socket Type: Socket AM4\n# of Cores: 6-Core\n# of Threads: 12-Threads\nOperating Frequency: 3.6 GHz\nMax Turbo Frequency: Up to 4.1GHz\nL1 Cache: 384KB\nL2 Cache: 3MB\nL3 Cache: 8MB\nManufacturing Tech: 7nm\nIntegrated Memory Controller Speed: Up to 3200MHz\nMemory Channel: 2\nThermal Design Power: 65W\nCooling Device: Heatsink and fan included",
+  "Price": 125.00,
+  "Features": [
+    "AM4",
+    "12 Hilos",
+    "6 Core",
+    "4.1GHz",
+    "8MB L3",
+    "65W",
+    "DDR4",
+    "Serie 4000",
+    "CPU"
+  ],
+  "Date": "2023-10-16T10:24:11.3473945-04:00",
+  "Update": "2023-10-16T12:23:12.7681587-04:00",
+  "Label": "Micro AMD Ryzen 5 4500 +Disipador"
+}
