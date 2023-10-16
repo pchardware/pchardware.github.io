@@ -12,7 +12,7 @@
     ],
     "Pro": [
       {
-        "Price": 999.00,
+        "Price": 997.00,
         "Features": [
           "24 Hilos",
           "12 Gen",
@@ -65,7 +65,7 @@
         "Label": "Torre i5-13500 +Board Asus ProArt +16GB G.Skill +M.2 500GB Samsung 980 +Cooler Master"
       },
       {
-        "Price": 895.00,
+        "Price": 893.00,
         "Features": [
           "20 Hilos",
           "12Gen",
@@ -596,7 +596,7 @@
         "Label": "Corsair PCIe Gen 5 Cable"
       },
       {
-        "Price": 39.00,
+        "Price": 41.00,
         "Features": [
           "PCIe x1",
           "6.0 Gbs",
@@ -2362,7 +2362,7 @@
         "Label": "Disipador Cooler Master Hyper 622 Halo Black"
       },
       {
-        "Price": 61.00,
+        "Price": 59.00,
         "Features": [
           "ARGB",
           "4xPipes",
