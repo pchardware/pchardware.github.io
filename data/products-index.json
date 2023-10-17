@@ -89,14 +89,6 @@
         "Label": "Kit i9-13900K + Asus ROG Strix Z790-H Gaming Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
       },
       {
-        "Price": 995.00,
-        "Features": [],
-        "Date": "2023-09-13T12:58:34.210276-04:00",
-        "Update": "2023-10-02T14:27:31.7081936-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i7-13700K + Asus ROG Maximus Z690 Hero + DDR5 G.SKILL Trident Z5 RGB 64GB"
-      },
-      {
         "Price": 769.00,
         "Features": [],
         "Date": "2023-09-13T13:09:37.0111333-04:00",
@@ -121,14 +113,6 @@
         "Label": "Kit i7-13700K + Asus ROG Strix Z790-H Gaming + DDR5 Corsair Dominator Platinum RGB 32GB"
       },
       {
-        "Price": 965.00,
-        "Features": [],
-        "Date": "2023-09-21T21:29:53.6548989-04:00",
-        "Update": "2023-10-13T09:28:02.1304726-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i9-12900K + Asus ROG Maximus Z690 Hero + DDR5 G.SKILL Trident Z5 RGB 64GB"
-      },
-      {
         "Price": 1075.00,
         "Features": [],
         "Date": "2023-06-15T09:02:58.8515588-04:00",
@@ -138,14 +122,6 @@
       }
     ],
     "Moderado": [
-      {
-        "Price": 539.00,
-        "Features": [],
-        "Date": "2023-09-13T13:25:18.8793114-04:00",
-        "Update": "2023-10-12T12:45:40.717091-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i5-13500 +Disipador + Asus B660 ProArt Creator + DDR4 Corsair Vengeance RGB 16GB"
-      },
       {
         "Price": 619.00,
         "Features": [],
@@ -184,28 +160,6 @@
         "Update": "2023-10-12T12:45:40.7838716-04:00",
         "Discount": 12.0,
         "Label": "Kit i3 12Gen +Disipador +Board Asus B660 ProArt + 16GB RAM Corsair RGB"
-      },
-      {
-        "Price": 705.00,
-        "Features": [],
-        "Date": "2023-09-15T11:20:08.6484654-04:00",
-        "Update": "2023-10-13T09:28:02.2483128-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i7-12700K + Gigabyte Z690 AERO G + DDR5 G.SKILL Trident Z5 RGB 64GB CL28"
-      },
-      {
-        "Price": 495.00,
-        "Features": [
-          "12 Hilos",
-          "9xUSB",
-          "Wifi",
-          "6xSATA",
-          "6xAudio"
-        ],
-        "Date": "2023-10-13T10:35:45.6753993-04:00",
-        "Update": "2023-10-13T10:43:26.0626751-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-11600K +Board ASRock Z590 PG VELOCITA +16GB RAM RGB 3600mhz"
       },
       {
         "Price": 468.00,
@@ -610,17 +564,6 @@
         "Label": "RAM DDR4 GeIL ORION RGB 16GB 3600mhz"
       },
       {
-        "Price": 79.00,
-        "Features": [
-          "2x8GB",
-          "Disipadas",
-          "CL16"
-        ],
-        "Date": "2023-03-30T09:55:40.6507732-04:00",
-        "Update": "2023-10-09T17:48:20.7127149-04:00",
-        "Label": "RAM DDR4 Corsair Vengeance RGB RT 16GB 3600mhz"
-      },
-      {
         "Price": 159.00,
         "Features": [
           "2x24GB",
@@ -751,17 +694,6 @@
         "Date": "2023-08-16T09:17:10.601305-04:00",
         "Update": "2023-10-09T17:48:21.6350716-04:00",
         "Label": "RAM DDR5 GeIL ORION RGB 32GB 6000mhz"
-      },
-      {
-        "Price": 215.00,
-        "Features": [
-          "CL28",
-          "2x32GB",
-          "Disipadas"
-        ],
-        "Date": "2023-08-21T08:58:29.7000117-04:00",
-        "Update": "2023-10-09T17:48:21.6444092-04:00",
-        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 64GB 5600mhz"
       },
       {
         "Price": 115.00,
@@ -2258,26 +2190,6 @@
         "Label": "Motherboard ASRock B550M Pro SE"
       },
       {
-        "Price": 215.00,
-        "Features": [
-          "10ma-11na",
-          "9xUSB",
-          "Dual Lan",
-          "4800mhz",
-          "6xAudio",
-          "Wifi",
-          "6xSATA",
-          "Display Port",
-          "HDMI",
-          "DDR4",
-          "ATX",
-          "LGA 1200"
-        ],
-        "Date": "2023-10-09T15:59:53.3045844-04:00",
-        "Update": "2023-10-13T09:24:44.5381718-04:00",
-        "Label": "Motherboard ASRock Z590 PG VELOCITA"
-      },
-      {
         "Price": 275.00,
         "Features": [
           "12va-13ra",
@@ -2925,23 +2837,6 @@
         "Date": "2023-10-02T14:29:14.5916934-04:00",
         "Update": "2023-10-16T12:23:12.6408545-04:00",
         "Label": "Tarjeta de Video Gigabyte RTX 3060 Ti Gaming OC Pro"
-      },
-      {
-        "Price": 445.00,
-        "Features": [
-          "12GB",
-          "3xFan",
-          "650WR",
-          "2x8Pin",
-          "327mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-08-08T10:08:31.2983243-04:00",
-        "Update": "2023-10-16T12:23:12.6548727-04:00",
-        "Label": "Tarjeta de Video MSI RX 6750 XT Gaming X TRIO"
       },
       {
         "Price": 375.00,
