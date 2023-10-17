@@ -3002,21 +3002,6 @@
         "Label": "Teclado Asus TUF Gaming K3"
       },
       {
-        "Price": 65.00,
-        "Features": [
-          "Inalámbrico",
-          "Ergonómico",
-          "Palm rest",
-          "Membrana",
-          "Full",
-          "1000dpi",
-          "Laser"
-        ],
-        "Date": "2023-05-11T20:29:43.7243784-04:00",
-        "Update": "2023-06-24T10:51:11.4310383-04:00",
-        "Label": "COMBO Teclado + Mouse Logitech MK520"
-      },
-      {
         "Price": 93.00,
         "Features": [
           "Macros",
@@ -3075,17 +3060,6 @@
         "Date": "2023-06-07T10:25:59.490678-04:00",
         "Update": "2023-07-11T12:41:46.9692357-04:00",
         "Label": "Teclado Asus TUF Gaming K1"
-      },
-      {
-        "Price": 55.00,
-        "Features": [
-          "Inalámbrico",
-          "Membrana",
-          "Full"
-        ],
-        "Date": "2023-07-09T16:45:11.3382579-04:00",
-        "Update": "2023-07-11T12:41:46.9909928-04:00",
-        "Label": "COMBO Teclado + Mouse Logitech MK270"
       },
       {
         "Price": 139.00,
