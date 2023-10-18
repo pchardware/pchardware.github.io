@@ -1,0 +1,30 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-i9-12900k-gigabyte-z690-aero-ddr5-corsair-veng-a174dv-1.webp",
+    "/images/products/kit-i9-12900k-gigabyte-z690-aero-ddr5-corsair-veng-a174dv-2.webp",
+    "/images/products/kit-i9-12900k-gigabyte-z690-aero-ddr5-corsair-veng-a174dv-3.webp",
+    "/images/products/kit-i9-12900k-gigabyte-z690-aero-ddr5-corsair-veng-a174dv-4.webp",
+    "/images/products/kit-i9-12900k-gigabyte-z690-aero-ddr5-corsair-veng-a174dv-5.webp",
+    "/images/products/kit-i9-12900k-gigabyte-z690-aero-ddr5-corsair-veng-a174dv-6.webp",
+    "/images/products/kit-i9-12900k-gigabyte-z690-aero-ddr5-corsair-veng-a174dv-7.webp",
+    "/images/products/kit-i9-12900k-gigabyte-z690-aero-ddr5-corsair-veng-a174dv-8.webp",
+    "/images/products/kit-i9-12900k-gigabyte-z690-aero-ddr5-corsair-veng-a174dv-9.webp",
+    "/images/products/kit-i9-12900k-gigabyte-z690-aero-ddr5-corsair-veng-a174dv-10.webp"
+  ],
+  "Description": "",
+  "Price": 745.00,
+  "Features": [
+    "24 Hilos",
+    "5.2GHz",
+    "Wifi",
+    "8xUSB",
+    "6xSATA",
+    "5600mhz"
+  ],
+  "Date": "2023-09-13T13:12:09.7340595-04:00",
+  "Update": "2023-10-13T09:28:02.2323226-04:00",
+  "Discount": 14.0,
+  "Label": "Kit i9-12900K +Gigabyte Z690 AERO +DDR5 Corsair Vengeance RGB 48GB"
+}
