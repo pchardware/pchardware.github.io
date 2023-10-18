@@ -1,0 +1,22 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Esencial",
+  "Images": [
+    "/images/products/kit-ryzen-5-5600g-disipador-board-asrock-b550m-pro-9od9sf-1.webp",
+    "/images/products/kit-ryzen-5-5600g-disipador-board-asrock-b550m-pro-9od9sf-2.webp",
+    "/images/products/kit-ryzen-5-5600g-disipador-board-asrock-b550m-pro-9od9sf-3.webp",
+    "/images/products/kit-ryzen-5-5600g-disipador-board-asrock-b550m-pro-9od9sf-4.webp"
+  ],
+  "Description": "",
+  "Price": 385.00,
+  "Features": [
+    "12 Hilos",
+    "Dual Channel",
+    "6xUSB",
+    "DDR4"
+  ],
+  "Date": "2023-10-13T10:30:02.7910857-04:00",
+  "Update": "2023-10-13T10:43:26.0488326-04:00",
+  "Discount": 10.0,
+  "Label": "Kit Ryzen 5 5600G +Disipador +Board ASRock B550M Pro SE +16GB G.Skill 3600mhz"
+}
