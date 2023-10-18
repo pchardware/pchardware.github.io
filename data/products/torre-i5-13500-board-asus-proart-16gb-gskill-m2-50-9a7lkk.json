@@ -1,0 +1,24 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Pro",
+  "Images": [
+    "/images/products/torre-i5-13500-board-asus-proart-16gb-gskill-m2-50-9a7lkk-1.webp",
+    "/images/products/torre-i5-13500-board-asus-proart-16gb-gskill-m2-50-9a7lkk-2.webp",
+    "/images/products/torre-i5-13500-board-asus-proart-16gb-gskill-m2-50-9a7lkk-3.webp",
+    "/images/products/torre-i5-13500-board-asus-proart-16gb-gskill-m2-50-9a7lkk-4.webp",
+    "/images/products/torre-i5-13500-board-asus-proart-16gb-gskill-m2-50-9a7lkk-5.webp",
+    "/images/products/torre-i5-13500-board-asus-proart-16gb-gskill-m2-50-9a7lkk-6.webp",
+    "/images/products/torre-i5-13500-board-asus-proart-16gb-gskill-m2-50-9a7lkk-7.webp"
+  ],
+  "Description": "",
+  "Price": 815.00,
+  "Features": [
+    "20 Hilos",
+    "13Gen",
+    "NVMe"
+  ],
+  "Date": "2023-10-14T13:58:18.6675168-04:00",
+  "Update": "2023-10-14T14:01:36.0871124-04:00",
+  "Discount": 21.0,
+  "Label": "Torre i5-13500 +Board Asus ProArt +16GB G.Skill +M.2 500GB Samsung 980 +Cooler Master"
+}
