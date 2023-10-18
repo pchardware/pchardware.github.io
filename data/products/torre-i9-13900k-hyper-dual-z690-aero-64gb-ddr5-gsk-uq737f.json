@@ -1,0 +1,28 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Pro",
+  "Images": [
+    "/images/products/torre-i9-13900k-hyper-dual-z690-aero-64gb-ddr5-gsk-uq737f-1.webp",
+    "/images/products/torre-i9-13900k-hyper-dual-z690-aero-64gb-ddr5-gsk-uq737f-2.webp",
+    "/images/products/torre-i9-13900k-hyper-dual-z690-aero-64gb-ddr5-gsk-uq737f-3.webp",
+    "/images/products/torre-i9-13900k-hyper-dual-z690-aero-64gb-ddr5-gsk-uq737f-4.webp",
+    "/images/products/torre-i9-13900k-hyper-dual-z690-aero-64gb-ddr5-gsk-uq737f-5.webp",
+    "/images/products/torre-i9-13900k-hyper-dual-z690-aero-64gb-ddr5-gsk-uq737f-6.webp",
+    "/images/products/torre-i9-13900k-hyper-dual-z690-aero-64gb-ddr5-gsk-uq737f-7.webp",
+    "/images/products/torre-i9-13900k-hyper-dual-z690-aero-64gb-ddr5-gsk-uq737f-8.webp"
+  ],
+  "Description": "",
+  "Price": 1475.00,
+  "Features": [
+    "32 Hilos",
+    "13Gen",
+    "Wifi",
+    "5.7Ghz",
+    "6000mhz",
+    "8xUSB"
+  ],
+  "Date": "2023-10-14T13:53:10.0046209-04:00",
+  "Update": "2023-10-14T13:55:57.5436904-04:00",
+  "Discount": 28.0,
+  "Label": "Torre i9-13900K +Hyper Dual +Z690 AERO +64GB DDR5 G.Skill +M.2 WD BLACK 1TB +Cooler Master"
+}
