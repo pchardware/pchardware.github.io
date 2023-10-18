@@ -1,0 +1,26 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Fuente",
+  "Images": [
+    "/images/products/fuente-cooler-master-elite-500-ver3-500w-1.webp",
+    "/images/products/fuente-cooler-master-elite-500-ver3-500w-2.webp",
+    "/images/products/fuente-cooler-master-elite-500-ver3-500w-3.webp",
+    "/images/products/fuente-cooler-master-elite-500-ver3-500w-4.webp",
+    "/images/products/fuente-cooler-master-elite-500-ver3-500w-5.webp",
+    "/images/products/fuente-cooler-master-elite-500-ver3-500w-6.webp"
+  ],
+  "Description": "General\nBrand: Cooler Master\n\n\nDetails\nType: ATX12V\nMaximum Power: 500 W\nMax PSU Length: 140 mm",
+  "Price": 79.00,
+  "Features": [
+    "38A",
+    "2x 6+2Pin",
+    "4x SATA",
+    "1x 4+4 EPS",
+    "140mm",
+    "ATX",
+    "PSU"
+  ],
+  "Date": "2023-10-14T08:42:13.5961404-04:00",
+  "Update": "2023-10-18T07:33:52.1359839-04:00",
+  "Label": "Fuente Cooler Master Elite 500 ver.3 500W"
+}
