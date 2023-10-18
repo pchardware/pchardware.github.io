@@ -1,0 +1,25 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Mouse",
+  "Images": [
+    "/images/products/mouse-cooler-master-m710-1.webp",
+    "/images/products/mouse-cooler-master-m710-2.webp",
+    "/images/products/mouse-cooler-master-m710-3.webp",
+    "/images/products/mouse-cooler-master-m710-4.webp",
+    "/images/products/mouse-cooler-master-m710-5.webp",
+    "/images/products/mouse-cooler-master-m710-6.webp",
+    "/images/products/mouse-cooler-master-m710-7.webp"
+  ],
+  "Description": "Model\nBrand: Cooler Master\nName: MM-710-KKOL1\nModel: MM-710-KKOL1\n\n\nDetails\nColor: Black\n\n\nGroup\nOption: Normal Edition",
+  "Price": 33.00,
+  "Features": [
+    "53g",
+    "PTFE",
+    "Omron Switches",
+    "Ultralight",
+    "Pro-Grade"
+  ],
+  "Date": "2023-08-01T11:15:22.0148333-04:00",
+  "Update": "2023-10-18T07:33:51.8538616-04:00",
+  "Label": "Mouse Cooler Master M710"
+}
