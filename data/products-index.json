@@ -1876,24 +1876,6 @@
         "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce X 360"
       },
       {
-        "Price": 149.00,
-        "Features": [
-          "1750rpm",
-          "72cfm",
-          "27db",
-          "2xFan",
-          "240mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM5",
-          "AM4"
-        ],
-        "Date": "2023-10-13T09:28:41.1429363-04:00",
-        "Update": "2023-10-13T10:18:40.0066359-04:00",
-        "Label": "Disipador Líquido CoolerMaster MasterLiquid 240L Core ARGB"
-      },
-      {
         "Price": 109.00,
         "Features": [
           "2000rpm",
@@ -1930,6 +1912,24 @@
         "Date": "2023-05-11T13:08:14.7226355-04:00",
         "Update": "2023-10-18T07:33:51.8116302-04:00",
         "Label": "Disipador Líquido Corsair H60x RGB Elite"
+      },
+      {
+        "Price": 149.00,
+        "Features": [
+          "1750rpm",
+          "72cfm",
+          "27db",
+          "2xFan",
+          "240mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM5",
+          "AM4"
+        ],
+        "Date": "2023-10-13T09:28:41.1429363-04:00",
+        "Update": "2023-10-18T14:45:39.1243009-04:00",
+        "Label": "Disipador Líquido CoolerMaster MasterLiquid 240L Core ARGB Black"
       }
     ],
     "Disco Duro": [
