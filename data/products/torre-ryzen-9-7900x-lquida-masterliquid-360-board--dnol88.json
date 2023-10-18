@@ -1,0 +1,25 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Pro",
+  "Images": [
+    "/images/products/torre-ryzen-9-7900x-lquida-masterliquid-360-board--dnol88-1.webp",
+    "/images/products/torre-ryzen-9-7900x-lquida-masterliquid-360-board--dnol88-2.webp",
+    "/images/products/torre-ryzen-9-7900x-lquida-masterliquid-360-board--dnol88-3.webp",
+    "/images/products/torre-ryzen-9-7900x-lquida-masterliquid-360-board--dnol88-4.webp",
+    "/images/products/torre-ryzen-9-7900x-lquida-masterliquid-360-board--dnol88-5.webp",
+    "/images/products/torre-ryzen-9-7900x-lquida-masterliquid-360-board--dnol88-6.webp",
+    "/images/products/torre-ryzen-9-7900x-lquida-masterliquid-360-board--dnol88-7.webp",
+    "/images/products/torre-ryzen-9-7900x-lquida-masterliquid-360-board--dnol88-8.webp"
+  ],
+  "Description": "",
+  "Price": 1319.00,
+  "Features": [
+    "24 Hilos",
+    "6400mhz",
+    "Wifi"
+  ],
+  "Date": "2023-10-14T13:36:36.8482036-04:00",
+  "Update": "2023-10-14T13:44:17.79558-04:00",
+  "Discount": 32.0,
+  "Label": "Torre Ryzen 9 7900X +Líquida MasterLiquid 360 +Board TUF +32GB DDR5 G.Skill + 2TB M.2"
+}
