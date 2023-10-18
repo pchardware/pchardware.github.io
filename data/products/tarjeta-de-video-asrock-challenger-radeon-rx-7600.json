@@ -1,0 +1,28 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/tarjeta-de-video-asrock-challenger-radeon-rx-7600-1.webp",
+    "/images/products/tarjeta-de-video-asrock-challenger-radeon-rx-7600-2.webp",
+    "/images/products/tarjeta-de-video-asrock-challenger-radeon-rx-7600-3.webp",
+    "/images/products/tarjeta-de-video-asrock-challenger-radeon-rx-7600-4.webp",
+    "/images/products/tarjeta-de-video-asrock-challenger-radeon-rx-7600-5.webp",
+    "/images/products/tarjeta-de-video-asrock-challenger-radeon-rx-7600-6.webp"
+  ],
+  "Description": "Model\nBrand: ASRock\nSeries: Challenger\nModel: RX7600 CL 8GO\n\n\nInterface\nInterface: PCI Express 4.0 x8\n\n\nChipset\nChipset Manufacturer: AMD\nGPU Series: AMD Radeon RX 7000 Series\nGPU: Radeon RX 7600\nArchitecture: RDNA 3\nStream Processors: 2048 Stream Processors\n\n\nMemory\nMemory Size: 8GB\nMemory Interface: 128-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12 Ultimate\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 1 x HDMI 2.1\nDisplayPort: 3 x DisplayPort 1.4a\n\n\nDetails\nMax Resolution: 7680 x 4320\nCooler: Double Fans\nThermal Design Power: 165W\nRecommended PSU Wattage: 550W\nPower Connector: 8-Pin\nHDCP Ready: Yes\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 269 mm\nSlot Width: 2 Slots",
+  "Price": 305.00,
+  "Features": [
+    "8GB",
+    "2xFan",
+    "1x8Pin",
+    "550WR",
+    "269mm",
+    "Radeon",
+    "AMD",
+    "GPU",
+    "Gráfica"
+  ],
+  "Date": "2023-10-18T06:47:31.7784746-04:00",
+  "Update": "2023-10-18T07:33:52.3616942-04:00",
+  "Label": "Tarjeta de Video ASRock Challenger Radeon RX 7600"
+}
