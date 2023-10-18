@@ -540,6 +540,13 @@
         "Date": "2023-08-01T11:15:00.5691684-04:00",
         "Update": "2023-10-16T12:23:12.4249837-04:00",
         "Label": "Expansión Orico 7xUSB 3.0"
+      },
+      {
+        "Price": 25.00,
+        "Features": [],
+        "Date": "2023-10-09T15:58:54.823495-04:00",
+        "Update": "2023-10-18T07:33:52.046563-04:00",
+        "Label": "PBT Backlit Keycap Upgrade Set White"
       }
     ],
     "Memoria RAM": [
@@ -1202,6 +1209,17 @@
         "Date": "2023-10-16T10:23:41.2113735-04:00",
         "Update": "2023-10-16T12:23:12.7578087-04:00",
         "Label": "SSD 2.5 Team Group CX2 1TB"
+      },
+      {
+        "Price": 84.00,
+        "Features": [
+          "560mbps",
+          "600tbw",
+          "SATA 3"
+        ],
+        "Date": "2023-08-01T11:14:15.2077979-04:00",
+        "Update": "2023-10-18T07:33:51.8334103-04:00",
+        "Label": "SSD 2.5 SAMSUNG 870 EVO 1TB"
       }
     ],
     "Fuente": [
@@ -1224,38 +1242,6 @@
         "Label": "Corsair Cable Kit Red"
       },
       {
-        "Price": 135.00,
-        "Features": [
-          "80+ Bronze",
-          "Modular",
-          "750W",
-          "62A",
-          "4x 6+2Pin",
-          "8x SATA",
-          "1x 4+4 EPS",
-          "PSU"
-        ],
-        "Date": "2023-04-15T07:27:10.1467554-04:00",
-        "Update": "2023-10-09T17:48:20.8737587-04:00",
-        "Label": "Fuente Corsair CX750M"
-      },
-      {
-        "Price": 265.00,
-        "Features": [
-          "80+ Gold",
-          "Full Modular",
-          "1000W",
-          "83A",
-          "8x 6+2Pin",
-          "11x SATA",
-          "2x 4+4 EPS",
-          "PSU"
-        ],
-        "Date": "2023-04-15T07:27:11.3654492-04:00",
-        "Update": "2023-10-09T17:48:20.8907672-04:00",
-        "Label": "Fuente Corsair RM1000X"
-      },
-      {
         "Price": 99.00,
         "Features": [
           "80+ Platinum",
@@ -1268,19 +1254,54 @@
         "Label": "Fuente de Servidor HP 578322-B21 1200W"
       },
       {
+        "Price": 135.00,
+        "Features": [
+          "80+ Bronze",
+          "Modular",
+          "62A",
+          "4x 6+2Pin",
+          "8x SATA",
+          "1x 4+4 EPS",
+          "160mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-04-15T07:27:10.1467554-04:00",
+        "Update": "2023-10-18T07:33:51.8719475-04:00",
+        "Label": "Fuente Corsair CX750M 750W"
+      },
+      {
+        "Price": 265.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "83A",
+          "8x 6+2Pin",
+          "11x SATA",
+          "2x 4+4 EPS",
+          "180mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-04-15T07:27:11.3654492-04:00",
+        "Update": "2023-10-18T07:33:51.8844871-04:00",
+        "Label": "Fuente Corsair RM1000X 1000W"
+      },
+      {
         "Price": 145.00,
         "Features": [
           "80+ Gold",
-          "800W",
           "67A",
           "4x 6+2Pin",
           "8x SATA",
           "2x 4+4 EPS",
-          "PSU"
+          "150mm",
+          "PSU",
+          "ATX"
         ],
         "Date": "2023-07-12T21:42:43.1904262-04:00",
-        "Update": "2023-10-09T17:48:20.9677519-04:00",
-        "Label": "Fuente EVGA 800 GE"
+        "Update": "2023-10-18T07:33:51.895866-04:00",
+        "Label": "Fuente EVGA 800 GE 800W"
       },
       {
         "Price": 239.00,
@@ -1293,10 +1314,12 @@
           "4x 6+2Pin",
           "2x 4+4 EPS",
           "5x SATA",
-          "PSU"
+          "150mm",
+          "PSU",
+          "ATX"
         ],
         "Date": "2023-06-07T15:03:30.731139-04:00",
-        "Update": "2023-10-09T17:48:21.0211715-04:00",
+        "Update": "2023-10-18T07:33:51.9110198-04:00",
         "Label": "Fuente Asus TUF 1000W"
       },
       {
@@ -1310,10 +1333,12 @@
           "8x 6+2Pin",
           "12x SATA",
           "2x 4+4 EPS",
-          "PSU"
+          "190mm",
+          "PSU",
+          "ATX"
         ],
         "Date": "2023-09-11T09:09:22.0492744-04:00",
-        "Update": "2023-10-09T17:48:21.0631645-04:00",
+        "Update": "2023-10-18T07:33:51.9299147-04:00",
         "Label": "Fuente Asus ROG Thor 1000W Platinum II"
       },
       {
@@ -1322,17 +1347,18 @@
           "80+ PLATINUM",
           "ARGB",
           "Full Modular",
-          "1x 16-Pin",
+          "1x 16Pin",
           "71A",
           "2x 4+4 EPS",
           "3x 6+2Pin",
           "10x SATA",
           "160mm",
-          "PSU"
+          "PSU",
+          "ATX"
         ],
         "Date": "2023-08-08T10:02:44.4021387-04:00",
-        "Update": "2023-10-09T17:48:21.1668942-04:00",
-        "Label": "Fuente Asus ROG Thor 850W Platinum III"
+        "Update": "2023-10-18T07:33:51.9409578-04:00",
+        "Label": "Fuente Asus ROG Thor 850W Platinum II"
       },
       {
         "Price": 245.00,
@@ -1341,18 +1367,19 @@
           "80+ Gold",
           "Full Modular",
           "Zero RPM",
+          "1x 16Pin",
           "6x 6+2Pin",
-          "1000W",
           "83A",
           "2x 4+4 EPS",
           "151mm",
           "7xSATA",
           "4x PATA",
-          "PSU"
+          "PSU",
+          "ATX"
         ],
         "Date": "2023-08-08T10:08:04.4203937-04:00",
-        "Update": "2023-10-09T17:48:21.2909591-04:00",
-        "Label": "Fuente Corsair RM1000e"
+        "Update": "2023-10-18T07:33:51.9608239-04:00",
+        "Label": "Fuente Corsair RM1000e 1000W"
       },
       {
         "Price": 215.00,
@@ -1363,16 +1390,17 @@
           "2x 6+2Pin",
           "14x SATA",
           "3x 4+4 EPS",
-          "PSU"
+          "160mm",
+          "PSU",
+          "ATX"
         ],
         "Date": "2023-07-17T23:37:46.1740196-04:00",
-        "Update": "2023-10-09T17:48:21.3593334-04:00",
-        "Label": "Fuente Corsair HX850"
+        "Update": "2023-10-18T07:33:51.9743761-04:00",
+        "Label": "Fuente Corsair HX850 850W"
       },
       {
         "Price": 375.00,
         "Features": [
-          "1500W",
           "80+ PLATINUM",
           "125A",
           "9x 6+2Pin",
@@ -1380,11 +1408,12 @@
           "Full Modular",
           "200mm",
           "8x SATA",
-          "PSU"
+          "PSU",
+          "ATX"
         ],
         "Date": "2023-10-02T14:28:39.3910059-04:00",
-        "Update": "2023-10-09T17:48:21.4202508-04:00",
-        "Label": "Fuente Corsair HX1500i"
+        "Update": "2023-10-18T07:33:51.9875266-04:00",
+        "Label": "Fuente Corsair HX1500i 1500W"
       },
       {
         "Price": 129.00,
@@ -1393,10 +1422,12 @@
           "59A",
           "9x SATA",
           "1x 4+4 EPS",
-          "PSU"
+          "140mm",
+          "PSU",
+          "ATX"
         ],
         "Date": "2023-08-16T09:16:30.0204629-04:00",
-        "Update": "2023-10-09T17:48:21.6154909-04:00",
+        "Update": "2023-10-18T07:33:52.0035321-04:00",
         "Label": "Fuente EVGA 750W"
       },
       {
@@ -1404,18 +1435,18 @@
         "Features": [
           "80+ Gold",
           "Full Modular",
-          "850W",
           "71A",
           "4x 6+2Pin",
           "8x SATA",
           "2x 4+4 EPS",
           "Hydraulic",
           "140mm",
-          "PSU"
+          "PSU",
+          "ATX"
         ],
         "Date": "2023-10-03T06:55:40.1387236-04:00",
-        "Update": "2023-10-09T17:48:21.8153901-04:00",
-        "Label": "Fuente Gigabyte UD850GM"
+        "Update": "2023-10-18T07:33:52.0223902-04:00",
+        "Label": "Fuente Gigabyte UD850GM 850W"
       },
       {
         "Price": 85.00,
@@ -1423,10 +1454,13 @@
           "35A",
           "2x 6+2Pin",
           "6x SATA",
-          "1x 4+4 EPS"
+          "1x 4+4 EPS",
+          "140mm",
+          "PSU",
+          "ATX"
         ],
         "Date": "2023-05-12T07:54:08.9581203-04:00",
-        "Update": "2023-10-13T09:24:44.394031-04:00",
+        "Update": "2023-10-18T07:33:52.0916142-04:00",
         "Label": "Fuente Thermaltake SMART 500W 80+"
       },
       {
@@ -1434,30 +1468,32 @@
         "Features": [
           "Fully Modular",
           "80+ Gold",
-          "850W",
           "71A",
           "3x 6+2Pin",
           "7x SATA",
-          "2x 4+4 EPS"
+          "2x 4+4 EPS",
+          "151mm",
+          "PSU",
+          "ATX"
         ],
         "Date": "2023-06-07T13:43:20.159516-04:00",
-        "Update": "2023-10-13T09:24:44.4151043-04:00",
-        "Label": "Fuente Corsair RM850e"
+        "Update": "2023-10-18T07:33:52.1131299-04:00",
+        "Label": "Fuente Corsair RM850e 850W"
       },
       {
         "Price": 79.00,
         "Features": [
-          "500W",
           "38A",
           "2x 6+2Pin",
           "4x SATA",
           "1x 4+4 EPS",
           "140mm",
+          "ATX",
           "PSU"
         ],
         "Date": "2023-10-14T08:42:13.5961404-04:00",
-        "Update": "2023-10-14T08:49:32.362053-04:00",
-        "Label": "Fuente Cooler Master Elite 500 ver.3"
+        "Update": "2023-10-18T07:33:52.1359839-04:00",
+        "Label": "Fuente Cooler Master Elite 500 ver.3 500W"
       },
       {
         "Price": 79.00,
@@ -1466,10 +1502,11 @@
           "2x 6+2Pin",
           "4x SATA",
           "1x 4+4 EPS",
-          "PSU"
+          "PSU",
+          "ATX"
         ],
         "Date": "2023-09-11T09:09:29.0343419-04:00",
-        "Update": "2023-10-16T12:23:12.4669582-04:00",
+        "Update": "2023-10-18T07:33:52.203212-04:00",
         "Label": "Fuente Apevia Spirit 600W"
       },
       {
@@ -1479,11 +1516,54 @@
           "2x 6+2 Pin",
           "6x SATA",
           "1x 4+4 EPS",
-          "PSU"
+          "140mm",
+          "PSU",
+          "ATX"
         ],
         "Date": "2023-06-29T07:39:33.0518165-04:00",
-        "Update": "2023-10-16T12:23:12.4772004-04:00",
+        "Update": "2023-10-18T07:33:52.224266-04:00",
         "Label": "Fuente Thermaltake Smart 700W 80+"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "ATX 3.0",
+          "80+ Gold",
+          "Full Modular",
+          "Zero RPM",
+          "100A",
+          "1x 16Pin",
+          "6x 6+2Pin",
+          "2x 4+4 EPS",
+          "150mm",
+          "7xSATA",
+          "4x PATA",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-10-18T06:47:22.7546286-04:00",
+        "Update": "2023-10-18T07:33:52.296769-04:00",
+        "Label": "Fuente Corsair RM1200e 1200W"
+      },
+      {
+        "Price": 205.00,
+        "Features": [
+          "PCIe 5.0",
+          "80+ Gold",
+          "Full Modular",
+          "100A",
+          "1x 16Pin",
+          "4x 6+2Pin",
+          "8x SATA",
+          "2x 4+4 EPS",
+          "140mm",
+          "ATX 3.0",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-10-18T06:47:45.3587452-04:00",
+        "Update": "2023-10-18T07:33:52.4067701-04:00",
+        "Label": "Fuente Rosewill CMG1200G5 1200W"
       }
     ],
     "Disipador Líquido": [
@@ -1830,6 +1910,26 @@
         "Date": "2023-03-27T11:59:58.6808365-04:00",
         "Update": "2023-10-15T13:54:06.2799293-04:00",
         "Label": "Disipador Líquido Asus TUF Gaming LC 120 RGB"
+      },
+      {
+        "Price": 129.00,
+        "Features": [
+          "1500rpm",
+          "48cfm",
+          "28db",
+          "Copper",
+          "1xFan",
+          "120mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "LGA 20XX",
+          "AM5",
+          "AM4"
+        ],
+        "Date": "2023-05-11T13:08:14.7226355-04:00",
+        "Update": "2023-10-18T07:33:51.8116302-04:00",
+        "Label": "Disipador Líquido Corsair H60x RGB Elite"
       }
     ],
     "Disco Duro": [
@@ -2224,6 +2324,42 @@
         "Date": "2023-10-16T10:24:36.0269962-04:00",
         "Update": "2023-10-16T12:23:12.851385-04:00",
         "Label": "Motherboard ASRock Z690M Phantom Gaming 4"
+      },
+      {
+        "Price": 269.00,
+        "Features": [
+          "12va-13ra",
+          "6666mhz",
+          "9xUSB",
+          "Wifi",
+          "6xAudio",
+          "DDR5",
+          "6xSATA",
+          "DisplayPort",
+          "HDMI",
+          "LGA 1700",
+          "ATX"
+        ],
+        "Date": "2023-10-18T06:47:25.7897533-04:00",
+        "Update": "2023-10-18T07:33:52.3151266-04:00",
+        "Label": "Motherboard MSI MPG Z690 Force Wifi"
+      },
+      {
+        "Price": 249.00,
+        "Features": [
+          "AM4",
+          "5100mhz",
+          "7xUSB",
+          "DDR4",
+          "6xSATA",
+          "ATX",
+          "HDMI",
+          "DisplayPort",
+          "6xAudio"
+        ],
+        "Date": "2023-10-18T06:47:41.8989573-04:00",
+        "Update": "2023-10-18T07:33:52.3825641-04:00",
+        "Label": "Motherboard Asus ROG Strix B550-A Gaming"
       }
     ],
     "Disipador por Aire": [
@@ -2420,6 +2556,25 @@
         "Date": "2023-10-16T10:24:42.0527807-04:00",
         "Update": "2023-10-16T12:23:12.872414-04:00",
         "Label": "Disipador Cooler Master 212 Halo Black"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "ARGB",
+          "4 Head Pipes",
+          "52cfm",
+          "27dba",
+          "154mm",
+          "1800rpm",
+          "AM5",
+          "AM4",
+          "LGA1700",
+          "LGA1200",
+          "LGA115X"
+        ],
+        "Date": "2023-10-18T06:47:53.8475463-04:00",
+        "Update": "2023-10-18T07:33:52.4555278-04:00",
+        "Label": "Disipador Cooler Master 212 Halo White"
       }
     ],
     "Microprocesador": [
@@ -2680,24 +2835,6 @@
     ],
     "Tarjeta Gráfica": [
       {
-        "Price": 435.00,
-        "Features": [
-          "3xFan",
-          "8GB",
-          "1x8Pin",
-          "DLSS3",
-          "450WR",
-          "299mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-09-11T09:09:04.0927141-04:00",
-        "Update": "2023-10-16T12:23:12.4364851-04:00",
-        "Label": "Tarjeta de Video Gigabyte Aorus RTX 4060 Elite"
-      },
-      {
         "Price": 555.00,
         "Features": [
           "12GB",
@@ -2926,6 +3063,41 @@
         "Label": "Tarjeta de Video Asus ROG Strix RTX 4070 Ti OC"
       },
       {
+        "Price": 325.00,
+        "Features": [
+          "8GB",
+          "3xFan",
+          "1x8Pin",
+          "550WR",
+          "274mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-10-16T10:24:33.0618949-04:00",
+        "Update": "2023-10-16T12:23:12.8397006-04:00",
+        "Label": "Tarjeta de Video Gigabyte RX 7600"
+      },
+      {
+        "Price": 435.00,
+        "Features": [
+          "3xFan",
+          "8GB",
+          "1x8Pin",
+          "DLSS3",
+          "450WR",
+          "299mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-09-11T09:09:04.0927141-04:00",
+        "Update": "2023-10-18T07:33:52.180293-04:00",
+        "Label": "Tarjeta de Video Gigabyte Aorus RTX 4060 Elite"
+      },
+      {
         "Price": 999.00,
         "Features": [
           "DLSS3",
@@ -2940,7 +3112,7 @@
           "Gráfica"
         ],
         "Date": "2023-10-16T10:24:27.1132383-04:00",
-        "Update": "2023-10-16T12:23:12.8175658-04:00",
+        "Update": "2023-10-18T07:33:52.2497044-04:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Elite"
       },
       {
@@ -2958,25 +3130,25 @@
           "Gráfica"
         ],
         "Date": "2023-10-16T10:24:29.9709108-04:00",
-        "Update": "2023-10-16T12:23:12.8288146-04:00",
+        "Update": "2023-10-18T07:33:52.2745785-04:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Master"
       },
       {
-        "Price": 325.00,
+        "Price": 305.00,
         "Features": [
           "8GB",
-          "3xFan",
+          "2xFan",
           "1x8Pin",
           "550WR",
-          "274mm",
+          "269mm",
           "Radeon",
           "AMD",
           "GPU",
           "Gráfica"
         ],
-        "Date": "2023-10-16T10:24:33.0618949-04:00",
-        "Update": "2023-10-16T12:23:12.8397006-04:00",
-        "Label": "Tarjeta de Video Gigabyte RX 7600"
+        "Date": "2023-10-18T06:47:31.7784746-04:00",
+        "Update": "2023-10-18T07:33:52.3616942-04:00",
+        "Label": "Tarjeta de Video ASRock Challenger Radeon RX 7600"
       }
     ]
   },
@@ -3402,6 +3574,19 @@
         "Date": "2023-06-19T07:49:10.8952301-04:00",
         "Update": "2023-10-16T12:23:12.4876497-04:00",
         "Label": "Mause Logitech G502 Hero"
+      },
+      {
+        "Price": 33.00,
+        "Features": [
+          "53g",
+          "PTFE",
+          "Omron Switches",
+          "Ultralight",
+          "Pro-Grade"
+        ],
+        "Date": "2023-08-01T11:15:22.0148333-04:00",
+        "Update": "2023-10-18T07:33:51.8538616-04:00",
+        "Label": "Mouse Cooler Master M710"
       }
     ],
     "Silla": [
@@ -3528,6 +3713,17 @@
         "Date": "2023-06-07T15:06:36.3165573-04:00",
         "Update": "2023-10-09T17:48:20.6185397-04:00",
         "Label": "Memoria Flash Corsair Voyager Slider X1 64GB"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "2.5",
+          "3.5",
+          "USB3"
+        ],
+        "Date": "2023-10-18T06:47:28.3292927-04:00",
+        "Update": "2023-10-18T07:33:52.342629-04:00",
+        "Label": "Docking NEXIN 1xBay NEX-DS1U3"
       }
     ],
     "Auriculares": [
@@ -3708,18 +3904,24 @@
         "Label": "Caja Externo 2.5 Orico USB 3.0 PDD25C3-BK-EP"
       }
     ],
-    "Control": [
-      {
-        "Price": 77.00,
-        "Features": [
-          "Controller"
-        ],
-        "Date": "2023-10-09T15:59:03.9375048-04:00",
-        "Update": "2023-10-09T17:48:21.9386761-04:00",
-        "Label": "Control Xbox Core Wireless Black"
-      }
-    ],
     "Audífonos": [
+      {
+        "Price": 89.00,
+        "Features": [
+          "7.1",
+          "Micrófono",
+          "3.5mm",
+          "50mm",
+          "Noise Cancelling",
+          "240g",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-07-09T16:44:46.7059022-04:00",
+        "Update": "2023-10-18T07:33:51.8226933-04:00",
+        "Label": "Auriculares Razer BlackShark V2 X"
+      },
       {
         "Price": 87.00,
         "Features": [
@@ -3734,8 +3936,37 @@
           "Audífonos"
         ],
         "Date": "2023-07-09T16:45:38.4980752-04:00",
-        "Update": "2023-10-16T12:23:12.413538-04:00",
+        "Update": "2023-10-18T07:33:52.1576897-04:00",
         "Label": "Auriculares Corsair HS65 Surround"
+      },
+      {
+        "Price": 89.00,
+        "Features": [
+          "7.1",
+          "Micrófono",
+          "3.5mm",
+          "30KHz",
+          "50mm",
+          "USB",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-10-18T06:47:49.8643507-04:00",
+        "Update": "2023-10-18T07:33:52.4312766-04:00",
+        "Label": "Auriculares Corsair VOID RGB Elite Carbon"
+      }
+    ],
+    "Control": [
+      {
+        "Price": 77.00,
+        "Features": [
+          "Controller",
+          "2x AA Battery"
+        ],
+        "Date": "2023-10-09T15:59:03.9375048-04:00",
+        "Update": "2023-10-18T07:33:52.0679811-04:00",
+        "Label": "Control Xbox Core Wireless Black"
       }
     ]
   }
