@@ -10,8 +10,7 @@
     "/images/products/tarjeta-de-video-gigabyte-aorus-rtx-4060-elite-6.webp",
     "/images/products/tarjeta-de-video-gigabyte-aorus-rtx-4060-elite-7.webp",
     "/images/products/tarjeta-de-video-gigabyte-aorus-rtx-4060-elite-8.webp",
-    "/images/products/tarjeta-de-video-gigabyte-aorus-rtx-4060-elite-9.webp",
-    "/images/products/tarjeta-de-video-gigabyte-aorus-rtx-4060-elite-10.webp"
+    "/images/products/tarjeta-de-video-gigabyte-aorus-rtx-4060-elite-9.webp"
   ],
   "Description": "Model\nBrand: GIGABYTE\nSeries: AORUS\nModel: GV-N4060AORUS E-8GD\n\n\nInterface\nInterface: PCI Express 4.0 x8\n\n\nChipset\nChipset Manufacturer: NVIDIA\nGPU Series: NVIDIA GeForce RTX 40 Series\nGPU: GeForce RTX 4060\nCUDA Cores: 3072 Cores\n\n\nMemory\nEffective Memory Clock: 17000 MHz\nMemory Size: 8GB\nMemory Interface: 128-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 2 x HDMI\nDisplayPort: 2 x DisplayPort\n\n\nDetails\nMax Resolution: 7680 x 4320\nCooler: Triple Fans\nThermal Design Power: 115W\nRecommended PSU Wattage: 450W\nPower Connector: 8-Pin\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 299 mm\nSlot Width: 2.5 Slots",
   "Price": 435.00,
@@ -28,6 +27,6 @@
     "Gráfica"
   ],
   "Date": "2023-09-11T09:09:04.0927141-04:00",
-  "Update": "2023-10-16T12:23:12.4364851-04:00",
+  "Update": "2023-10-18T07:33:52.180293-04:00",
   "Label": "Tarjeta de Video Gigabyte Aorus RTX 4060 Elite"
 }
