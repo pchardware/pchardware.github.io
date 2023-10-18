@@ -1,0 +1,26 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-i7-12700k-board-gigabyte-z690-aero-16gb-ddr5-g-d4hd7-1.webp",
+    "/images/products/kit-i7-12700k-board-gigabyte-z690-aero-16gb-ddr5-g-d4hd7-2.webp",
+    "/images/products/kit-i7-12700k-board-gigabyte-z690-aero-16gb-ddr5-g-d4hd7-3.webp",
+    "/images/products/kit-i7-12700k-board-gigabyte-z690-aero-16gb-ddr5-g-d4hd7-4.webp",
+    "/images/products/kit-i7-12700k-board-gigabyte-z690-aero-16gb-ddr5-g-d4hd7-5.webp",
+    "/images/products/kit-i7-12700k-board-gigabyte-z690-aero-16gb-ddr5-g-d4hd7-6.webp",
+    "/images/products/kit-i7-12700k-board-gigabyte-z690-aero-16gb-ddr5-g-d4hd7-7.webp"
+  ],
+  "Description": "",
+  "Price": 552.00,
+  "Features": [
+    "20 Hilos",
+    "Wifi",
+    "6000mhz",
+    "12Gen",
+    "8xUSB"
+  ],
+  "Date": "2023-10-14T11:09:12.9146554-04:00",
+  "Update": "2023-10-14T11:15:54.5215311-04:00",
+  "Discount": 7.0,
+  "Label": "Kit i7-12700K +Board Gigabyte Z690 AERO +16GB DDR5 G.Skill"
+}
