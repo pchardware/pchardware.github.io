@@ -1,0 +1,28 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Fuente",
+  "Images": [
+    "/images/products/fuente-corsair-hx1500i-1500w-1.webp",
+    "/images/products/fuente-corsair-hx1500i-1500w-2.webp",
+    "/images/products/fuente-corsair-hx1500i-1500w-3.webp",
+    "/images/products/fuente-corsair-hx1500i-1500w-4.webp",
+    "/images/products/fuente-corsair-hx1500i-1500w-5.webp",
+    "/images/products/fuente-corsair-hx1500i-1500w-6.webp"
+  ],
+  "Description": "General\nBrand: CORSAIR\nSeries: HX1500i\nModel: CP-9020215-NA\n\n\nDetails\nType: ATX12V 2.52 / EPS12V 2.92\nMaximum Power: 1500 W\nFans: 1 x 140 mm FDB\nMain Connector: 24Pin\n+12V Rails: Single\nPCI-Express Connector: 9 x 6+2-Pin\nSATA Power Connector: 8\nMax PSU Length: 200 mm\nModular: Full Modular\nEnergy-Efficient: 80 PLUS PLATINUM Certified\nPSU Noise Level: Cybenetics A-\nInput Voltage: 100 - 240 V\nInput Frequency Range: 47 - 63 Hz\nInput Current: 15-9A\nOutput: +3.3V@25A, +5V@25A, +12V@125A, -12V@0.3A, +5VSB@3.5A\nConnectors: 1 x 24 pin ATX\n3 x 8 pin (4+4) EPS (CPU)\n9 x 8 pin (6+2) PCIe\n8 x SATA\n8 x PATA\nCable Spec: 24Pin MB: One cable (610mm)\n4+4Pin CPU: Three cables (650mm)\nPCI-E 6+2Pin: Three cables (650mm) \n2 x PCI-E 6+2Pin: Three cables (675+100mm) \n4 x SATA: Two cables (455+115+115+115mm)\n4 x PATA: Two cables (450+100+100+100mm)\nUSB (TYPE C) to 10-1PIN: One cable (525mm)\n\n\nFeatures\nFeatures: Fully Modular Cabling: Connect only the cables your system needs, making clean and tidy builds easy.\n\nTriple EPS12V Connectors: For full compatibility with modern motherboards.\n\n140mm Fluid Dynamic Bearing (FDB) Fan: Delivers extremely quiet and long-lasting fan performance.\n\nPowerful CORSAIR iCUE Software: Create custom fan curves, monitor power settings, and toggle between single to multi-rail overcurrent protection (OCP) on-thefly.\n\nZero RPM Fan Mode: At low and medium loads the cooling fan switches off entirely for near-silent operation.\n\n80 PLUS Platinum Certified: Up to 92% efficiency for exceptional low power consumption, less noise, and cooler temperatures.\n\n100% Japanese 105°C Electrolytic Capacitors: Premium internal components ensure unwavering power delivery and long-term reliability.\n\nModern Standby Compatible: Extremely fast wake-from-sleep times and better low-load efficiency.\n\nFully Digital Platform: Resonant LLC topology and DC-to-DC conversion provides clean, consistent power and minimizes coil whine and noise for quiet operation.\n\n\nDimension & Weight\nDimensions: 3.39\" x 5.91\" x 7.87\"\nWeight: 5.30 lbs.\n\n\nPackage\nPackage Content: HXi Series ATX Power Supply\nPower cord\nMounting screws\nCable ties\nUser manual",
+  "Price": 375.00,
+  "Features": [
+    "80+ PLATINUM",
+    "125A",
+    "9x 6+2Pin",
+    "3x 4+4 EPS",
+    "Full Modular",
+    "200mm",
+    "8x SATA",
+    "PSU",
+    "ATX"
+  ],
+  "Date": "2023-10-02T14:28:39.3910059-04:00",
+  "Update": "2023-10-18T07:33:51.9875266-04:00",
+  "Label": "Fuente Corsair HX1500i 1500W"
+}
