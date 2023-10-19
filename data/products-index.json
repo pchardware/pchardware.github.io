@@ -903,6 +903,24 @@
         "Date": "2023-10-14T08:42:09.5719454-04:00",
         "Update": "2023-10-14T09:17:58.345715-04:00",
         "Label": "Chasis Cooler Master MasterBox MB511"
+      },
+      {
+        "Price": 225.00,
+        "Features": [
+          "2x140mm",
+          "ARGB",
+          "Tempered Glass",
+          "Mesh",
+          "2xFan",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "Blanco",
+          "2xHDD"
+        ],
+        "Date": "2023-10-19T09:32:02.3777136-04:00",
+        "Update": "2023-10-19T12:33:04.5750652-04:00",
+        "Label": "Case - Fractal Design Focus 2 RGB White"
       }
     ],
     "Disco Sólido": [
@@ -2341,6 +2359,24 @@
         "Date": "2023-10-18T06:47:41.8989573-04:00",
         "Update": "2023-10-18T07:33:52.3825641-04:00",
         "Label": "Motherboard Asus ROG Strix B550-A Gaming"
+      },
+      {
+        "Price": 205.00,
+        "Features": [
+          "12va-13ra",
+          "8xSATA",
+          "4800mhz",
+          "6xAudio",
+          "DDR4",
+          "6xUSB",
+          "HDMI",
+          "PS2",
+          "LGA 1700",
+          "ATX"
+        ],
+        "Date": "2023-10-19T09:32:16.7888545-04:00",
+        "Update": "2023-10-19T12:33:04.6711589-04:00",
+        "Label": "Motherboard ASRock Z690 PG Riptide DDR4"
       }
     ],
     "Disipador por Aire": [
@@ -3331,6 +3367,32 @@
         "Date": "2023-05-11T20:29:45.5785203-04:00",
         "Update": "2023-10-13T09:24:44.3739117-04:00",
         "Label": "COMBO Teclado + Mouse Rosewill Fusion C40"
+      },
+      {
+        "Price": 55.00,
+        "Features": [
+          "Inalámbrico",
+          "Membrana",
+          "Full"
+        ],
+        "Date": "2023-07-09T16:45:11.3382579-04:00",
+        "Update": "2023-10-19T12:33:04.3884532-04:00",
+        "Label": "COMBO Teclado + Mouse Logitech MK270"
+      },
+      {
+        "Price": 53.00,
+        "Features": [
+          "Inalámbrico",
+          "Membrana",
+          "Full",
+          "Slim",
+          "Black",
+          "1200dpi",
+          "Optico"
+        ],
+        "Date": "2023-10-19T09:32:13.4570865-04:00",
+        "Update": "2023-10-19T12:33:04.6277773-04:00",
+        "Label": "COMBO Teclado + Mouse Rosewill Wireless RKM-1000"
       }
     ],
     "Mouse": [
@@ -3568,6 +3630,19 @@
         "Date": "2023-08-01T11:15:22.0148333-04:00",
         "Update": "2023-10-18T07:33:51.8538616-04:00",
         "Label": "Mouse Cooler Master M710"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "16000dpi",
+          "Optico",
+          "11 botónes",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-10-19T09:31:57.0129789-04:00",
+        "Update": "2023-10-19T12:33:04.4956254-04:00",
+        "Label": "Mouse Logitech G502 SE Hero"
       }
     ],
     "Silla": [
@@ -3936,6 +4011,23 @@
         "Date": "2023-10-18T06:47:49.8643507-04:00",
         "Update": "2023-10-18T07:33:52.4312766-04:00",
         "Label": "Auriculares Corsair VOID RGB Elite Carbon"
+      },
+      {
+        "Price": 67.00,
+        "Features": [
+          "Inalámbrico",
+          "40mm",
+          "USB",
+          "18H",
+          "165g",
+          "Headset",
+          "Micrófono",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-07-09T16:45:46.4090102-04:00",
+        "Update": "2023-10-19T12:33:04.4346547-04:00",
+        "Label": "Auriculares Logitech G435 Lightspeed Wireless"
       }
     ],
     "Control": [
