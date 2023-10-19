@@ -1,0 +1,25 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Mouse",
+  "Images": [
+    "/images/products/mouse-logitech-g502-se-hero-1.webp",
+    "/images/products/mouse-logitech-g502-se-hero-2.webp",
+    "/images/products/mouse-logitech-g502-se-hero-3.webp",
+    "/images/products/mouse-logitech-g502-se-hero-4.webp",
+    "/images/products/mouse-logitech-g502-se-hero-5.webp",
+    "/images/products/mouse-logitech-g502-se-hero-6.webp",
+    "/images/products/mouse-logitech-g502-se-hero-7.webp"
+  ],
+  "Description": "",
+  "Price": 65.00,
+  "Features": [
+    "16000dpi",
+    "Optico",
+    "11 botónes",
+    "Gaming",
+    "USB"
+  ],
+  "Date": "2023-10-19T09:31:57.0129789-04:00",
+  "Update": "2023-10-19T12:33:04.4956254-04:00",
+  "Label": "Mouse Logitech G502 SE Hero"
+}
