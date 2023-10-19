@@ -1,0 +1,28 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Teclado",
+  "Images": [
+    "/images/products/combo-teclado-mouse-rosewill-wireless-rkm-1000-1.webp",
+    "/images/products/combo-teclado-mouse-rosewill-wireless-rkm-1000-2.webp",
+    "/images/products/combo-teclado-mouse-rosewill-wireless-rkm-1000-3.webp",
+    "/images/products/combo-teclado-mouse-rosewill-wireless-rkm-1000-4.webp",
+    "/images/products/combo-teclado-mouse-rosewill-wireless-rkm-1000-5.webp",
+    "/images/products/combo-teclado-mouse-rosewill-wireless-rkm-1000-6.webp",
+    "/images/products/combo-teclado-mouse-rosewill-wireless-rkm-1000-7.webp",
+    "/images/products/combo-teclado-mouse-rosewill-wireless-rkm-1000-8.webp"
+  ],
+  "Description": "Model\nBrand: Rosewill\nModel: RKM-1000\n\n\nKeyboard\nKeyboard Interface: USB\nDesign Style: Slim\nPalm Rest: Yes\nNormal Keys: 104\nFunction Keys: 6\nKeyboard Color: Black\nDimensions: Keyboard: 0.71\" x 17.52\" x 6.89\"\nMouse: 1.46\" x 2.20\" x 3.94\"\nType: RF Wireless\n\n\nMouse\nMouse Included: Yes\nMouse Interface: RF Wireless\nMouse DPI: 1200 dpi\nHand Orientation: Both Hands\nTracking Method: Optical\nButtons: 3\nScrolling Capability: 1 x Wheel\nMouse Color: Black\n\n\nWireless\nPower Supply: Keyboard: 1 x AAA (not included)\nMouse: 2 x AAA (not included)\n\n\nOS / System Requirement\nOperating System Supported: Windows XP / Vista / 7 / 8 / 10 or later\n\n\nFeatures\nFeatures: Wireless USB Keyboard and Mouse Combo\n\n2.4 GHz Reliable Connection\n\nUp to 32.0 Feet / 10m Wireless Range\n\nLong Battery Life: Keyboard and mouse battery life may vary based on user and computing conditions",
+  "Price": 53.00,
+  "Features": [
+    "Inalámbrico",
+    "Membrana",
+    "Full",
+    "Slim",
+    "Black",
+    "1200dpi",
+    "Optico"
+  ],
+  "Date": "2023-10-19T09:32:13.4570865-04:00",
+  "Update": "2023-10-19T12:33:04.6277773-04:00",
+  "Label": "COMBO Teclado + Mouse Rosewill Wireless RKM-1000"
+}
