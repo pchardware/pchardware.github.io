@@ -1024,29 +1024,6 @@
         "Label": "SSD M.2 Samsung 990 Pro 2TB"
       },
       {
-        "Price": 125.00,
-        "Features": [
-          "7400mbs",
-          "1480tbw",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-07-09T16:53:43.4807497-04:00",
-        "Update": "2023-09-23T18:19:21.5390998-04:00",
-        "Label": "SSD M.2 AData Premium 2TB"
-      },
-      {
-        "Price": 115.00,
-        "Features": [
-          "5000mbs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-09-11T09:08:58.7388503-04:00",
-        "Update": "2023-09-23T18:19:21.6390035-04:00",
-        "Label": "SSD M.2 Corsair MP600 CORE XT 2TB"
-      },
-      {
         "Price": 83.00,
         "Features": [
           "7400mbs",
@@ -3984,17 +3961,6 @@
         "Date": "2023-10-02T14:29:27.3170143-04:00",
         "Update": "2023-10-09T17:48:21.5099705-04:00",
         "Label": "Caja Externo 3.5 Orico USB 3.0 3588US3-BK"
-      },
-      {
-        "Price": 27.00,
-        "Features": [
-          "USB-A",
-          "USB-C",
-          "Enclosure"
-        ],
-        "Date": "2023-10-09T15:59:01.1975225-04:00",
-        "Update": "2023-10-09T17:48:21.9290134-04:00",
-        "Label": "Caja Externo M.2 Orico USB-C/A 3.1 Gen2 M2PV-C3-BBK-EP"
       },
       {
         "Price": 17.00,
