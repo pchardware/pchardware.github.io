@@ -3819,6 +3819,74 @@
         "Date": "2023-10-09T15:59:40.6389722-04:00",
         "Update": "2023-10-09T17:48:22.0065148-04:00",
         "Label": "Auriculares Corsair HS55 Stereo Wireless Carbon"
+      },
+      {
+        "Price": 67.00,
+        "Features": [
+          "Inalámbrico",
+          "40mm",
+          "USB",
+          "18H",
+          "165g",
+          "Headset",
+          "Micrófono",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-07-09T16:45:46.4090102-04:00",
+        "Update": "2023-10-19T12:52:18.6041154-04:00",
+        "Label": "Auriculares Logitech G435 Lightspeed Wireless"
+      },
+      {
+        "Price": 89.00,
+        "Features": [
+          "7.1",
+          "Micrófono",
+          "3.5mm",
+          "50mm",
+          "Noise Cancelling",
+          "240g",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-07-09T16:44:46.7059022-04:00",
+        "Update": "2023-10-19T12:52:18.6153386-04:00",
+        "Label": "Auriculares Razer BlackShark V2 X"
+      },
+      {
+        "Price": 87.00,
+        "Features": [
+          "7.1",
+          "Micrófono",
+          "3.5mm",
+          "50mm",
+          "280g",
+          "USB",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-07-09T16:45:38.4980752-04:00",
+        "Update": "2023-10-19T12:52:18.6390616-04:00",
+        "Label": "Auriculares Corsair HS65 Surround"
+      },
+      {
+        "Price": 89.00,
+        "Features": [
+          "7.1",
+          "Micrófono",
+          "3.5mm",
+          "30KHz",
+          "50mm",
+          "USB",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-10-18T06:47:49.8643507-04:00",
+        "Update": "2023-10-19T12:52:18.6703333-04:00",
+        "Label": "Auriculares Corsair VOID RGB Elite Carbon"
       }
     ],
     "Monitor": [
@@ -3958,76 +4026,6 @@
         "Date": "2023-10-11T10:56:26.9169261-04:00",
         "Update": "2023-10-11T14:20:31.072592-04:00",
         "Label": "Caja Externo 2.5 Orico USB 3.0 PDD25C3-BK-EP"
-      }
-    ],
-    "Audífonos": [
-      {
-        "Price": 89.00,
-        "Features": [
-          "7.1",
-          "Micrófono",
-          "3.5mm",
-          "50mm",
-          "Noise Cancelling",
-          "240g",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-07-09T16:44:46.7059022-04:00",
-        "Update": "2023-10-18T07:33:51.8226933-04:00",
-        "Label": "Auriculares Razer BlackShark V2 X"
-      },
-      {
-        "Price": 87.00,
-        "Features": [
-          "7.1",
-          "Micrófono",
-          "3.5mm",
-          "50mm",
-          "280g",
-          "USB",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-07-09T16:45:38.4980752-04:00",
-        "Update": "2023-10-18T07:33:52.1576897-04:00",
-        "Label": "Auriculares Corsair HS65 Surround"
-      },
-      {
-        "Price": 89.00,
-        "Features": [
-          "7.1",
-          "Micrófono",
-          "3.5mm",
-          "30KHz",
-          "50mm",
-          "USB",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-10-18T06:47:49.8643507-04:00",
-        "Update": "2023-10-18T07:33:52.4312766-04:00",
-        "Label": "Auriculares Corsair VOID RGB Elite Carbon"
-      },
-      {
-        "Price": 67.00,
-        "Features": [
-          "Inalámbrico",
-          "40mm",
-          "USB",
-          "18H",
-          "165g",
-          "Headset",
-          "Micrófono",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-07-09T16:45:46.4090102-04:00",
-        "Update": "2023-10-19T12:33:04.4346547-04:00",
-        "Label": "Auriculares Logitech G435 Lightspeed Wireless"
       }
     ],
     "Control": [
