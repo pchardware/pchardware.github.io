@@ -1,0 +1,26 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Moderado",
+  "Images": [
+    "/images/products/kit-i7-12700k-asrock-z690-phantom-ram-8gb-t-force-1.webp",
+    "/images/products/kit-i7-12700k-asrock-z690-phantom-ram-8gb-t-force-2.webp",
+    "/images/products/kit-i7-12700k-asrock-z690-phantom-ram-8gb-t-force-3.webp",
+    "/images/products/kit-i7-12700k-asrock-z690-phantom-ram-8gb-t-force-4.webp",
+    "/images/products/kit-i7-12700k-asrock-z690-phantom-ram-8gb-t-force-5.webp",
+    "/images/products/kit-i7-12700k-asrock-z690-phantom-ram-8gb-t-force-6.webp",
+    "/images/products/kit-i7-12700k-asrock-z690-phantom-ram-8gb-t-force-7.webp"
+  ],
+  "Description": "",
+  "Price": 465.00,
+  "Features": [
+    "20 Hilos",
+    "12 Gen",
+    "Overclock",
+    "3200mhz",
+    "6xUSB"
+  ],
+  "Date": "2023-10-20T09:06:57.5474984-04:00",
+  "Update": "2023-10-20T09:21:46.6067951-04:00",
+  "Discount": 6.0,
+  "Label": "Kit i7-12700K +ASRock Z690 Phantom +RAM 8GB T-Force"
+}
