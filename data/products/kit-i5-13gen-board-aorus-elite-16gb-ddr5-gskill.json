@@ -11,14 +11,15 @@
     "/images/products/kit-i5-13gen-board-aorus-elite-16gb-ddr5-gskill-7.webp"
   ],
   "Description": "",
-  "Price": 468.00,
+  "Price": 469.00,
   "Features": [
     "20 Hilos",
     "Wifi",
+    "6000mhz",
     "8xUSB"
   ],
   "Date": "2023-10-14T10:29:25.7664079-04:00",
-  "Update": "2023-10-14T10:38:21.5411413-04:00",
-  "Discount": 7.0,
-  "Label": "Kit i5 13Gen +Board Aorus Elite + 16GB DDR5 G.Skill"
+  "Update": "2023-10-20T09:21:46.5754356-04:00",
+  "Discount": 6.0,
+  "Label": "Kit i5 13Gen +Board Aorus Elite +16GB DDR5 G.Skill"
 }
