@@ -1,0 +1,27 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-i7-12700k-board-z690-16gb-ram-silicon-power-1.webp",
+    "/images/products/kit-i7-12700k-board-z690-16gb-ram-silicon-power-2.webp",
+    "/images/products/kit-i7-12700k-board-z690-16gb-ram-silicon-power-3.webp",
+    "/images/products/kit-i7-12700k-board-z690-16gb-ram-silicon-power-4.webp",
+    "/images/products/kit-i7-12700k-board-z690-16gb-ram-silicon-power-5.webp",
+    "/images/products/kit-i7-12700k-board-z690-16gb-ram-silicon-power-6.webp",
+    "/images/products/kit-i7-12700k-board-z690-16gb-ram-silicon-power-7.webp"
+  ],
+  "Description": "",
+  "Price": 489.00,
+  "Features": [
+    "20 Hilos",
+    "12 Gen",
+    "3200mhz",
+    "Disipadas",
+    "Dual Channel",
+    "6xUSB"
+  ],
+  "Date": "2023-10-20T09:07:38.5260983-04:00",
+  "Update": "2023-10-20T09:25:12.9533829-04:00",
+  "Discount": 8.0,
+  "Label": "Kit i7-12700K +Board Z690 +16GB RAM Silicon Power"
+}
