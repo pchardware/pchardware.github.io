@@ -1,0 +1,26 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Esencial",
+  "Images": [
+    "/images/products/kit-ryzen-5-disipador-8gb-ram-disipada-3200mhz-boa-xybds2-1.webp",
+    "/images/products/kit-ryzen-5-disipador-8gb-ram-disipada-3200mhz-boa-xybds2-2.webp",
+    "/images/products/kit-ryzen-5-disipador-8gb-ram-disipada-3200mhz-boa-xybds2-3.webp",
+    "/images/products/kit-ryzen-5-disipador-8gb-ram-disipada-3200mhz-boa-xybds2-4.webp",
+    "/images/products/kit-ryzen-5-disipador-8gb-ram-disipada-3200mhz-boa-xybds2-5.webp",
+    "/images/products/kit-ryzen-5-disipador-8gb-ram-disipada-3200mhz-boa-xybds2-6.webp",
+    "/images/products/kit-ryzen-5-disipador-8gb-ram-disipada-3200mhz-boa-xybds2-7.webp"
+  ],
+  "Description": "",
+  "Price": 295.00,
+  "Features": [
+    "12 Hilos",
+    "6xUSB",
+    "AM4",
+    "Serie 4000",
+    "DDR4"
+  ],
+  "Date": "2023-10-20T08:46:11.4169226-04:00",
+  "Update": "2023-10-20T09:03:03.3693655-04:00",
+  "Discount": 8.0,
+  "Label": "Kit Ryzen 5 +Disipador +8GB RAM Disipada 3200mhz +Board B550M"
+}
