@@ -1,0 +1,25 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Moderado",
+  "Images": [
+    "/images/products/kit-ryzen-5-5600g-disipador-board-asus-rog-strix-1-enou61-1.webp",
+    "/images/products/kit-ryzen-5-5600g-disipador-board-asus-rog-strix-1-enou61-2.webp",
+    "/images/products/kit-ryzen-5-5600g-disipador-board-asus-rog-strix-1-enou61-3.webp",
+    "/images/products/kit-ryzen-5-5600g-disipador-board-asus-rog-strix-1-enou61-4.webp"
+  ],
+  "Description": "",
+  "Price": 489.00,
+  "Features": [
+    "Blaco",
+    "Dual Channel",
+    "12 Hilos",
+    "Serie 5000",
+    "7xUSB",
+    "6xSATA",
+    "6xAudio"
+  ],
+  "Date": "2023-10-20T09:05:03.7760642-04:00",
+  "Update": "2023-10-20T09:21:46.5858939-04:00",
+  "Discount": 10.0,
+  "Label": "Kit Ryzen 5 5600G +Disipador +Board Asus ROG Strix +16GB G.Skill 3600mhz"
+}
