@@ -256,20 +256,6 @@
         "Label": "Kit i7-13700K +Board Z790 + 32GB 7200mhz DDR5 Trident Z5 RGB"
       },
       {
-        "Price": 552.00,
-        "Features": [
-          "20 Hilos",
-          "Wifi",
-          "6000mhz",
-          "12Gen",
-          "8xUSB"
-        ],
-        "Date": "2023-10-14T11:09:12.9146554-04:00",
-        "Update": "2023-10-14T11:15:54.5215311-04:00",
-        "Discount": 7.0,
-        "Label": "Kit i7-12700K +Board Gigabyte Z690 AERO +16GB DDR5 G.Skill"
-      },
-      {
         "Price": 619.00,
         "Features": [],
         "Date": "2023-09-13T13:15:22.925563-04:00",
@@ -278,12 +264,33 @@
         "Label": "Kit i7-12700K + Asus TUF Z690-Plus Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       },
       {
-        "Price": 490.00,
-        "Features": [],
+        "Price": 549.00,
+        "Features": [
+          "20 Hilos",
+          "Wifi",
+          "6000mhz",
+          "12Gen",
+          "8xUSB"
+        ],
+        "Date": "2023-10-14T11:09:12.9146554-04:00",
+        "Update": "2023-10-20T09:25:12.9323304-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i7-12700K +Board Gigabyte Z690 AERO +16GB DDR5 G.Skill"
+      },
+      {
+        "Price": 489.00,
+        "Features": [
+          "20 Hilos",
+          "12 Gen",
+          "3200mhz",
+          "Disipadas",
+          "Dual Channel",
+          "6xUSB"
+        ],
         "Date": "2023-10-20T09:07:38.5260983-04:00",
-        "Update": "2023-10-20T09:21:46.6178408-04:00",
-        "Discount": 7.0,
-        "Label": "Micro Intel Core i7-12700K + Motherboard ASRock Z690M Phantom Gaming 4 + RAM DDR4 Silicon Power 16GB 3200mhz"
+        "Update": "2023-10-20T09:25:12.9533829-04:00",
+        "Discount": 8.0,
+        "Label": "Kit i7-12700K +Board Z690 +16GB RAM Silicon Power"
       }
     ],
     "Esencial": [
