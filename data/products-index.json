@@ -248,7 +248,7 @@
         "Label": "Kit Ryzen 5 5600G +Disipador +Board ASRock B550M Pro SE +16GB G.Skill 3600mhz"
       },
       {
-        "Price": 382.00,
+        "Price": 379.00,
         "Features": [
           "8 hilos",
           "12 Gen",
@@ -256,9 +256,49 @@
           "8xUSB"
         ],
         "Date": "2023-10-14T10:19:58.5127456-04:00",
-        "Update": "2023-10-14T10:38:21.5181508-04:00",
-        "Discount": 7.0,
+        "Update": "2023-10-20T09:03:03.3562063-04:00",
+        "Discount": 10.0,
         "Label": "Kit i3-12100 +Disipador +Board Aorus Elite AX +16GB DDR5 G.Skill 6000mhz"
+      },
+      {
+        "Price": 295.00,
+        "Features": [
+          "12 Hilos",
+          "6xUSB",
+          "AM4",
+          "Serie 4000",
+          "DDR4"
+        ],
+        "Date": "2023-10-20T08:46:11.4169226-04:00",
+        "Update": "2023-10-20T09:03:03.3693655-04:00",
+        "Discount": 8.0,
+        "Label": "Kit Ryzen 5 +Disipador +8GB RAM Disipada 3200mhz +Board B550M"
+      },
+      {
+        "Price": 345.00,
+        "Features": [
+          "8 Hilos",
+          "6xUSB",
+          "DDR4",
+          "Disipada"
+        ],
+        "Date": "2023-10-20T08:53:27.1294814-04:00",
+        "Update": "2023-10-20T09:03:03.3826582-04:00",
+        "Discount": 6.0,
+        "Label": "Kit i3 12Gen +8GB RAM 3200mhz +Disipador +Board ASRock Z690"
+      },
+      {
+        "Price": 355.00,
+        "Features": [
+          "12 Hilos",
+          "Serie 5000",
+          "3200mhz",
+          "ASRock"
+        ],
+        "Date": "2023-10-20T08:54:09.0884384-04:00",
+        "Update": "2023-10-20T09:03:03.3970265-04:00",
+        "Discount": 8.0,
+        "Label": "Kit Ryzen 5 +8GB DDR4 Disipadas +Disipador +Board B550M Pro"
       }
     ]
   },
