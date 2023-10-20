@@ -134,6 +134,40 @@
         "Discount": 33.0,
         "Label": "Torre Gamer RTX 4070Ti +i5-12600KF + 32GB RAM +1TB M.2 +EVGA 750W +Chasis MB511"
       }
+    ],
+    "Entusiasta": [
+      {
+        "Price": 1220.00,
+        "Features": [],
+        "Date": "2023-10-20T11:56:20.3118624-04:00",
+        "Update": "2023-10-20T12:24:54.973534-04:00",
+        "Discount": 27.0,
+        "Label": "Micro AMD Ryzen 5 5600G +Disipador + Motherboard Asus ROG Strix B550-A Gaming + RAM DDR4 Corsair Vengeance RGB RS 16GB 3600mhz + SSD M.2 Samsung 980 500GB + Tarjeta de Video Gigabyte RX 7600 + Fuente Corsair CX750M 750W + Case - Fractal Design Focus 2 RGB White"
+      },
+      {
+        "Price": 1506.00,
+        "Features": [],
+        "Date": "2023-10-20T12:06:24.5396332-04:00",
+        "Update": "2023-10-20T12:24:54.9892859-04:00",
+        "Discount": 35.0,
+        "Label": "Micro Intel Core i5-12600KF + Disipador Thermaltake UX200 SE White + Motherboard Gigabyte Z690 AERO G + RAM DDR5 Corsair Vengenance RGB 32GB 6000mhz White + SSD M.2 WD BLACK SN850X 1TB + Tarjeta de Video Gigabyte Aorus RTX 4060 Elite + Fuente Gigabyte UD850GM 850W + Case - Fractal Design Focus 2 RGB White"
+      },
+      {
+        "Price": 2099.00,
+        "Features": [],
+        "Date": "2023-10-20T12:12:39.5699611-04:00",
+        "Update": "2023-10-20T12:24:55.0071368-04:00",
+        "Discount": 37.0,
+        "Label": "Torre i5-13600K +Z690 +32GB DDR5 Vengenance +M.2 Corsair 1TB +RTX 4070 Aorus Master +850W Corsair"
+      },
+      {
+        "Price": 1779.00,
+        "Features": [],
+        "Date": "2023-10-20T12:17:27.6393811-04:00",
+        "Update": "2023-10-20T12:24:55.034958-04:00",
+        "Discount": 37.0,
+        "Label": "Torre i5-12600KF +Kit Líquido +Z690 AERO +32GB Trident Z5 +M.2 1TB +EVGA RTX 3080Ti +Gigabyte 850W"
+      }
     ]
   },
   "Kits": {
