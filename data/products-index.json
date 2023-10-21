@@ -71,23 +71,7 @@
     ],
     "Gamer": [
       {
-        "Price": 869.00,
-        "Features": [],
-        "Date": "2023-10-20T09:40:55.3114118-04:00",
-        "Update": "2023-10-20T11:51:11.7195662-04:00",
-        "Discount": 26.0,
-        "Label": "Torre Gamer Radeon RX 7600 +Ryzen 5 +8GB 3200mhz +500GB SSD +600W +Cooler Master"
-      },
-      {
-        "Price": 979.00,
-        "Features": [],
-        "Date": "2023-10-20T09:42:03.9365946-04:00",
-        "Update": "2023-10-20T11:51:11.7360876-04:00",
-        "Discount": 22.0,
-        "Label": "Torre Gamer RTX 4060 +Ryzen 5 +16GB 3200mhz +M.2 500GB +600W +Chasis MB511"
-      },
-      {
-        "Price": 1079.00,
+        "Price": 1067.00,
         "Features": [],
         "Date": "2023-10-20T09:43:34.4575956-04:00",
         "Update": "2023-10-20T11:51:11.7519088-04:00",
@@ -101,14 +85,6 @@
         "Update": "2023-10-20T11:51:11.7741312-04:00",
         "Discount": 24.0,
         "Label": "Torre Gamer Radeon RX 6650 XT +i3 12Gen +8GB 3200mhz +500GB SSD +500W + Chasis MasterBox"
-      },
-      {
-        "Price": 1069.00,
-        "Features": [],
-        "Date": "2023-10-20T09:45:53.3545857-04:00",
-        "Update": "2023-10-20T11:51:11.7987768-04:00",
-        "Discount": 29.0,
-        "Label": "Torre Gamer Radeon RX 7600 +i5-12600KF +8GB RAM 3200mhz +M.2 1TB +600W +Chasis Cooler Master"
       },
       {
         "Price": 1325.00,
@@ -151,14 +127,6 @@
         "Update": "2023-10-20T12:24:55.034958-04:00",
         "Discount": 37.0,
         "Label": "Torre i5-12600KF +Kit Líquido +Z690 AERO +32GB Trident Z5 +M.2 1TB +EVGA RTX 3080Ti +Gigabyte 850W"
-      },
-      {
-        "Price": 1219.00,
-        "Features": [],
-        "Date": "2023-10-20T11:56:20.3118624-04:00",
-        "Update": "2023-10-20T12:29:37.7721147-04:00",
-        "Discount": 28.0,
-        "Label": "Torre Ryzen 5 5600G +ROG Strix B550-A +16GB Vengeance RGB +M.2 500GB +RX 7600 + Corsair CX750M"
       },
       {
         "Price": 1505.00,
@@ -265,22 +233,6 @@
         "Update": "2023-10-20T09:21:46.5754356-04:00",
         "Discount": 6.0,
         "Label": "Kit i5 13Gen +Board Aorus Elite +16GB DDR5 G.Skill"
-      },
-      {
-        "Price": 489.00,
-        "Features": [
-          "Blaco",
-          "Dual Channel",
-          "12 Hilos",
-          "Serie 5000",
-          "7xUSB",
-          "6xSATA",
-          "6xAudio"
-        ],
-        "Date": "2023-10-20T09:05:03.7760642-04:00",
-        "Update": "2023-10-20T09:21:46.5858939-04:00",
-        "Discount": 10.0,
-        "Label": "Kit Ryzen 5 5600G +Disipador +Board Asus ROG Strix +16GB G.Skill 3600mhz"
       },
       {
         "Price": 389.00,
@@ -395,7 +347,7 @@
     ],
     "Esencial": [
       {
-        "Price": 385.00,
+        "Price": 373.00,
         "Features": [
           "12 Hilos",
           "Dual Channel",
@@ -421,7 +373,7 @@
         "Label": "Kit i3-12100 +Disipador +Board Aorus Elite AX +16GB DDR5 G.Skill 6000mhz"
       },
       {
-        "Price": 295.00,
+        "Price": 289.00,
         "Features": [
           "12 Hilos",
           "6xUSB",
@@ -448,7 +400,7 @@
         "Label": "Kit i3 12Gen +8GB RAM 3200mhz +Disipador +Board ASRock Z690"
       },
       {
-        "Price": 355.00,
+        "Price": 343.00,
         "Features": [
           "12 Hilos",
           "Serie 5000",
@@ -947,17 +899,6 @@
         "Label": "RAM DDR5 Patriot Viper Venom 32GB 6200mhz"
       },
       {
-        "Price": 107.00,
-        "Features": [
-          "2x16GB",
-          "CL30",
-          "Disipadas"
-        ],
-        "Date": "2023-10-03T06:56:16.0979857-04:00",
-        "Update": "2023-10-11T10:54:04.7212699-04:00",
-        "Label": "DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
-      },
-      {
         "Price": 87.00,
         "Features": [
           "2x16GB",
@@ -1000,17 +941,6 @@
         "Date": "2023-10-14T10:09:22.7542158-04:00",
         "Update": "2023-10-14T10:19:20.27698-04:00",
         "Label": "RAM DDR5 G.Skill Ripjaws S5 16GB 6000mhz"
-      },
-      {
-        "Price": 115.00,
-        "Features": [
-          "2x16GB",
-          "CL16",
-          "Disipadas"
-        ],
-        "Date": "2023-03-09T12:28:03.6250501-05:00",
-        "Update": "2023-10-16T12:23:12.3911305-04:00",
-        "Label": "DDR4 G.SKILL TridentZ RGB 32GB 3600mhz"
       },
       {
         "Price": 33.00,
@@ -1670,20 +1600,6 @@
         "Date": "2023-10-14T08:42:13.5961404-04:00",
         "Update": "2023-10-18T07:33:52.1359839-04:00",
         "Label": "Fuente Cooler Master Elite 500 ver.3 500W"
-      },
-      {
-        "Price": 79.00,
-        "Features": [
-          "45A",
-          "2x 6+2Pin",
-          "4x SATA",
-          "1x 4+4 EPS",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-09-11T09:09:29.0343419-04:00",
-        "Update": "2023-10-18T07:33:52.203212-04:00",
-        "Label": "Fuente Apevia Spirit 600W"
       },
       {
         "Price": 115.00,
@@ -2449,7 +2365,7 @@
         "Label": "Motherboard Asus TUF B650-Plus Wifi"
       },
       {
-        "Price": 145.00,
+        "Price": 139.00,
         "Features": [
           "AM4",
           "4533mhz",
@@ -2519,23 +2435,6 @@
         "Date": "2023-10-18T06:47:25.7897533-04:00",
         "Update": "2023-10-18T07:33:52.3151266-04:00",
         "Label": "Motherboard MSI MPG Z690 Force Wifi"
-      },
-      {
-        "Price": 249.00,
-        "Features": [
-          "AM4",
-          "5100mhz",
-          "7xUSB",
-          "DDR4",
-          "6xSATA",
-          "ATX",
-          "HDMI",
-          "DisplayPort",
-          "6xAudio"
-        ],
-        "Date": "2023-10-18T06:47:41.8989573-04:00",
-        "Update": "2023-10-18T07:33:52.3825641-04:00",
-        "Label": "Motherboard Asus ROG Strix B550-A Gaming"
       },
       {
         "Price": 205.00,
@@ -2960,7 +2859,7 @@
         "Label": "Micro Intel Core i5-11600K"
       },
       {
-        "Price": 185.00,
+        "Price": 179.00,
         "Features": [
           "Radeon Graphics",
           "AM4",
@@ -3838,19 +3737,6 @@
         "Date": "2023-06-19T07:49:43.9179086-04:00",
         "Update": "2023-07-31T14:21:04.9114331-04:00",
         "Label": "Webcam AUKEY 1080p"
-      },
-      {
-        "Price": 99.00,
-        "Features": [
-          "1080p",
-          "Autofocus",
-          "Stereo",
-          "Micrófono",
-          "USB"
-        ],
-        "Date": "2023-05-12T07:54:32.8971269-04:00",
-        "Update": "2023-10-09T17:48:21.3470979-04:00",
-        "Label": "WebCam Logitech C920s Pro"
       },
       {
         "Price": 85.00,
