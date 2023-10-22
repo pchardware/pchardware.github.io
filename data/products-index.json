@@ -98,28 +98,12 @@
     ],
     "Entusiasta": [
       {
-        "Price": 2099.00,
-        "Features": [],
-        "Date": "2023-10-20T12:12:39.5699611-04:00",
-        "Update": "2023-10-20T12:24:55.0071368-04:00",
-        "Discount": 37.0,
-        "Label": "Torre i5-13600K +Z690 +32GB DDR5 Vengenance +M.2 Corsair 1TB +RTX 4070 Aorus Master +850W Corsair"
-      },
-      {
         "Price": 1779.00,
         "Features": [],
         "Date": "2023-10-20T12:17:27.6393811-04:00",
         "Update": "2023-10-20T12:24:55.034958-04:00",
         "Discount": 37.0,
         "Label": "Torre i5-12600KF +Kit Líquido +Z690 AERO +32GB Trident Z5 +M.2 1TB +EVGA RTX 3080Ti +Gigabyte 850W"
-      },
-      {
-        "Price": 1505.00,
-        "Features": [],
-        "Date": "2023-10-20T12:06:24.5396332-04:00",
-        "Update": "2023-10-20T12:29:37.78235-04:00",
-        "Discount": 36.0,
-        "Label": "Torre i5-12600KF +Z690 AERO +DDR5 Vengenance RGB 32GB +1TB M.2 +Aorus RTX 4060 Elite +850W"
       }
     ]
   },
@@ -189,19 +173,6 @@
         "Update": "2023-10-20T09:21:46.5645433-04:00",
         "Discount": 12.0,
         "Label": "Kit i3 12Gen +Disipador +Board Asus B660 ProArt +16GB RAM Corsair RGB"
-      },
-      {
-        "Price": 469.00,
-        "Features": [
-          "20 Hilos",
-          "Wifi",
-          "6000mhz",
-          "8xUSB"
-        ],
-        "Date": "2023-10-14T10:29:25.7664079-04:00",
-        "Update": "2023-10-20T09:21:46.5754356-04:00",
-        "Discount": 6.0,
-        "Label": "Kit i5 13Gen +Board Aorus Elite +16GB DDR5 G.Skill"
       },
       {
         "Price": 389.00,
@@ -753,17 +724,6 @@
         "Date": "2023-09-23T17:45:32.1937207-04:00",
         "Update": "2023-10-09T17:48:21.2187114-04:00",
         "Label": "RAM DDR4 Neo Forza FAYE 16GB 4600mhz"
-      },
-      {
-        "Price": 129.00,
-        "Features": [
-          "2x16GB",
-          "CL36",
-          "Disipadas"
-        ],
-        "Date": "2023-10-02T14:28:55.7243127-04:00",
-        "Update": "2023-10-09T17:48:21.4883033-04:00",
-        "Label": "RAM DDR5 Corsair Vengenance RGB 32GB 6000mhz White"
       },
       {
         "Price": 135.00,
@@ -2553,29 +2513,6 @@
         "Label": "Disipador Sama KA200D"
       },
       {
-        "Price": 66.00,
-        "Features": [
-          "ARGB",
-          "63cfm",
-          "4xPipes",
-          "Cobre",
-          "1800rpm",
-          "25dBA",
-          "155mm",
-          "Blanco",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4",
-          "AM5",
-          "Tower",
-          "1xFan"
-        ],
-        "Date": "2023-10-16T10:24:39.6367232-04:00",
-        "Update": "2023-10-16T12:23:12.8620368-04:00",
-        "Label": "Disipador Thermaltake UX200 SE White"
-      },
-      {
         "Price": 83.00,
         "Features": [
           "ARGB",
@@ -2682,23 +2619,6 @@
         "Date": "2023-03-22T09:04:14.8362359-04:00",
         "Update": "2023-10-09T17:48:21.0316178-04:00",
         "Label": "Micro Intel Core i7-13700K"
-      },
-      {
-        "Price": 235.00,
-        "Features": [
-          "13ra Gen",
-          "20 Hilos",
-          "14 Core",
-          "4.6GHz",
-          "24MB L3",
-          "11.5MB L2",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-09-26T11:28:40.6931036-04:00",
-        "Update": "2023-10-09T17:48:21.3084392-04:00",
-        "Label": "Micro Intel Core i5-13500T"
       },
       {
         "Price": 329.00,
