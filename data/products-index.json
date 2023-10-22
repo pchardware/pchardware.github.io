@@ -28,21 +28,6 @@
         "Label": "Torre Ryzen 9 7900X +Líquida MasterLiquid 360 +Board TUF +32GB DDR5 G.Skill + 2TB M.2"
       },
       {
-        "Price": 1475.00,
-        "Features": [
-          "32 Hilos",
-          "13Gen",
-          "Wifi",
-          "5.7Ghz",
-          "6000mhz",
-          "8xUSB"
-        ],
-        "Date": "2023-10-14T13:53:10.0046209-04:00",
-        "Update": "2023-10-14T13:55:57.5436904-04:00",
-        "Discount": 28.0,
-        "Label": "Torre i9-13900K +Hyper Dual +Z690 AERO +64GB DDR5 G.Skill +M.2 WD BLACK 1TB +Cooler Master"
-      },
-      {
         "Price": 815.00,
         "Features": [
           "20 Hilos",
@@ -149,14 +134,6 @@
         "Label": "Kit i7-12700K + Asus ROG Maximus Z690 Hero + DDR5 Corsair Dominator Platinum RGB 32GB"
       },
       {
-        "Price": 1125.00,
-        "Features": [],
-        "Date": "2023-09-13T12:55:25.5938136-04:00",
-        "Update": "2023-10-02T14:27:31.6930785-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i9-13900K + Asus ROG Strix Z790-H Gaming Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
-      },
-      {
         "Price": 769.00,
         "Features": [],
         "Date": "2023-09-13T13:09:37.0111333-04:00",
@@ -179,14 +156,6 @@
         "Update": "2023-10-13T09:28:02.10465-04:00",
         "Discount": 12.0,
         "Label": "Kit i7-13700K + Asus ROG Strix Z790-H Gaming + DDR5 Corsair Dominator Platinum RGB 32GB"
-      },
-      {
-        "Price": 1075.00,
-        "Features": [],
-        "Date": "2023-06-15T09:02:58.8515588-04:00",
-        "Update": "2023-10-13T09:28:02.2018438-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i9-13900K + Asus ROG Strix Z690-E Gaming Wifi + 32GB DDR5"
       }
     ],
     "Moderado": [
@@ -292,20 +261,6 @@
         "Update": "2023-10-13T09:28:02.2323226-04:00",
         "Discount": 14.0,
         "Label": "Kit i9-12900K +Gigabyte Z690 AERO +DDR5 Corsair Vengeance RGB 48GB"
-      },
-      {
-        "Price": 815.00,
-        "Features": [
-          "24 Hilos",
-          "5.4GHz",
-          "Wifi",
-          "9xUSB",
-          "2x16GB"
-        ],
-        "Date": "2023-10-12T12:41:46.1677891-04:00",
-        "Update": "2023-10-13T09:28:02.3099082-04:00",
-        "Discount": 8.0,
-        "Label": "Kit i7-13700K +Board Z790 + 32GB 7200mhz DDR5 Trident Z5 RGB"
       },
       {
         "Price": 619.00,
@@ -798,17 +753,6 @@
         "Date": "2023-09-23T17:45:32.1937207-04:00",
         "Update": "2023-10-09T17:48:21.2187114-04:00",
         "Label": "RAM DDR4 Neo Forza FAYE 16GB 4600mhz"
-      },
-      {
-        "Price": 165.00,
-        "Features": [
-          "CL34",
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-08-16T09:17:00.7000046-04:00",
-        "Update": "2023-10-09T17:48:21.3716692-04:00",
-        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
       },
       {
         "Price": 129.00,
@@ -2774,23 +2718,6 @@
         "Label": "Micro Intel Core i5-13600K"
       },
       {
-        "Price": 625.00,
-        "Features": [
-          "13ra Gen",
-          "32 Hilos",
-          "24 Core",
-          "5.7GHz",
-          "30MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-03-22T09:04:16.5699219-04:00",
-        "Update": "2023-10-09T17:48:21.386944-04:00",
-        "Label": "Micro Intel Core i9-13900K"
-      },
-      {
         "Price": 149.00,
         "Features": [
           "12va Gen",
@@ -2841,22 +2768,6 @@
         "Date": "2023-10-09T15:59:15.4094076-04:00",
         "Update": "2023-10-09T17:48:21.976668-04:00",
         "Label": "Micro AMD Ryzen 9 7900X"
-      },
-      {
-        "Price": 225.00,
-        "Features": [
-          "11na Gen",
-          "12 Hilos",
-          "6 Cores",
-          "4.9GHz",
-          "12MB L3",
-          "Unlocked",
-          "LGA 1200",
-          "CPU"
-        ],
-        "Date": "2023-10-02T14:28:41.5445614-04:00",
-        "Update": "2023-10-11T10:54:04.7308032-04:00",
-        "Label": "Micro Intel Core i5-11600K"
       },
       {
         "Price": 179.00,
