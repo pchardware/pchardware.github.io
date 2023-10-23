@@ -663,6 +663,13 @@
         "Date": "2023-08-21T08:58:55.8070561-04:00",
         "Update": "2023-10-23T00:56:09.4129511-04:00",
         "Label": "Cable DisplayPort 1.4, 1.8m"
+      },
+      {
+        "Price": 17.00,
+        "Features": [],
+        "Date": "2023-10-23T12:32:08.5379608-04:00",
+        "Update": "2023-10-23T13:26:42.3700618-04:00",
+        "Label": "Thermalright LGA1700-BCF Gray"
       }
     ],
     "Memoria RAM": [
@@ -916,6 +923,17 @@
         "Date": "2023-10-23T12:31:52.8124739-04:00",
         "Update": "2023-10-23T13:18:33.9131624-04:00",
         "Label": "RAM DDR5 G.Skill Flare X5 32GB 6000mhz"
+      },
+      {
+        "Price": 57.00,
+        "Features": [
+          "2x8GB",
+          "CL16",
+          "Disipadas"
+        ],
+        "Date": "2023-10-23T12:31:49.0776908-04:00",
+        "Update": "2023-10-23T13:26:42.338948-04:00",
+        "Label": "RAM DDR4 OLOy OWL 16GB 3200mhz"
       }
     ],
     "Chasis": [
@@ -1615,6 +1633,22 @@
         "Date": "2023-10-18T06:47:45.3587452-04:00",
         "Update": "2023-10-18T07:33:52.4067701-04:00",
         "Label": "Fuente Rosewill CMG1200G5 1200W"
+      },
+      {
+        "Price": 99.00,
+        "Features": [
+          "80+ Bronze",
+          "52A",
+          "2x 6+2Pin",
+          "5x SATA",
+          "1x 4+4 EPS",
+          "150mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-10-23T12:32:26.5256364-04:00",
+        "Update": "2023-10-23T13:26:42.3798536-04:00",
+        "Label": "Fuente Raidmax Vortex Power 700W RX-700AC-V"
       }
     ],
     "Disipador Líquido": [
@@ -3735,6 +3769,47 @@
         "Date": "2023-08-21T08:58:41.5573667-04:00",
         "Update": "2023-10-23T00:56:09.4024801-04:00",
         "Label": "Mouse Corsair M65 ELITE RGB Black"
+      },
+      {
+        "Price": 105.00,
+        "Features": [
+          "Inmalámbrico",
+          "USB",
+          "1ms",
+          "Bluetooth",
+          "Híbrido",
+          "RGB",
+          "Gaming",
+          "iCUE",
+          "18k dpi",
+          "USB-C",
+          "Omron",
+          "Recargable",
+          "8 botónes",
+          "50H",
+          "Optico"
+        ],
+        "Date": "2023-10-23T12:31:56.2102743-04:00",
+        "Update": "2023-10-23T13:26:42.3492379-04:00",
+        "Label": "Mouse Corsair Dark Core RGB Pro"
+      },
+      {
+        "Price": 61.00,
+        "Features": [
+          "Blanco",
+          "10K dpi",
+          "Inmalámbrico",
+          "Ambidiestro",
+          "77g",
+          "PTFE",
+          "Gaming",
+          "5 botónes",
+          "Optico",
+          "USB"
+        ],
+        "Date": "2023-10-23T12:32:00.8586361-04:00",
+        "Update": "2023-10-23T13:26:42.3598298-04:00",
+        "Label": "Mouse Cooler Master MM311 Mate White"
       }
     ],
     "Silla": [
@@ -4081,6 +4156,25 @@
         "Date": "2023-08-20T10:12:36.7139467-04:00",
         "Update": "2023-10-22T13:51:22.8050198-04:00",
         "Label": "Monitor Acer 27\" EK1"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "Curvo",
+          "1ms",
+          "75Hz",
+          "DP",
+          "Business",
+          "250nit",
+          "1080p",
+          "HDMI",
+          "VA",
+          "FHD",
+          "VESA"
+        ],
+        "Date": "2023-10-23T12:31:38.9180493-04:00",
+        "Update": "2023-10-23T13:26:42.3287958-04:00",
+        "Label": "Monitor MSI 24\" MP241C"
       }
     ],
     "Externo": [
