@@ -1,0 +1,24 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disco Sólido",
+  "Images": [
+    "/images/products/ssd-m2-adata-premium-1tb-1.webp",
+    "/images/products/ssd-m2-adata-premium-1tb-2.webp",
+    "/images/products/ssd-m2-adata-premium-1tb-3.webp",
+    "/images/products/ssd-m2-adata-premium-1tb-4.webp",
+    "/images/products/ssd-m2-adata-premium-1tb-5.webp",
+    "/images/products/ssd-m2-adata-premium-1tb-6.webp",
+    "/images/products/ssd-m2-adata-premium-1tb-7.webp"
+  ],
+  "Description": "Model\nBrand: ADATA\nSeries: PREMIUM SSD FOR PS5\nModel: PREMIUM SSD FOR PS5\nDevice Type: Internal Solid State Drive (SSD)\nUsed For: Consumer\n\n\nDetails\nForm Factor: M.2 2280\nCapacity: 1TB\nMemory Components: 3D NAND\nInterface: PCIe Gen4 x4\nController: InnoGrit IG5236A1\n\n\nPerformance\nMax Sequential Read: 7400MBps\nMax Sequential Write: 5500MBps\n4KB Random Read: Up to 740,000 IOPS\n4KB Random Write: Up to 740,000 IOPS\nMTBF: 2000000\nHeatSink: Yes\n\n\nEnvironmental\nOperating Temperature: 0 C ~ +70 C\nStorage Temperature: -40 C ~ +85 C\nMax Shock Resistance: 1500G\n\n\nDimensions & Weight\nHeight: 4.000\nWidth: 2.000\nDepth: 2.000\nWeight: 1.0000\n\n\nAdditional Information\nDate First Available: February 08, 2022",
+  "Price": 89.00,
+  "Features": [
+    "7400mbps",
+    "Gen4",
+    "Hyper M.2",
+    "NVMe"
+  ],
+  "Date": "2023-10-23T12:32:43.5315319-04:00",
+  "Update": "2023-10-23T13:18:33.9387522-04:00",
+  "Label": "SSD M.2 AData Premium 1TB"
+}
