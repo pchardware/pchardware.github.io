@@ -95,16 +95,6 @@
         "Discount": 33.0,
         "Label": "Torre Gamer RTX 4070Ti +i5-12600KF + 32GB RAM +1TB M.2 +EVGA 750W +Chasis MB511"
       }
-    ],
-    "Entusiasta": [
-      {
-        "Price": 1779.00,
-        "Features": [],
-        "Date": "2023-10-20T12:17:27.6393811-04:00",
-        "Update": "2023-10-20T12:24:55.034958-04:00",
-        "Discount": 37.0,
-        "Label": "Torre i5-12600KF +Kit Líquido +Z690 AERO +32GB Trident Z5 +M.2 1TB +EVGA RTX 3080Ti +Gigabyte 850W"
-      }
     ]
   },
   "Kits": {
@@ -132,14 +122,6 @@
         "Update": "2023-10-03T09:09:19.3097855-04:00",
         "Discount": 10.0,
         "Label": "Kit i5-13500 +Disipador + Gigabyte Aorus B760M Elite AX + DDR5 Corsair Dominator Platinum RGB 32GB"
-      },
-      {
-        "Price": 865.00,
-        "Features": [],
-        "Date": "2023-09-21T21:15:59.7347414-04:00",
-        "Update": "2023-10-13T09:28:02.10465-04:00",
-        "Discount": 12.0,
-        "Label": "Kit i7-13700K + Asus ROG Strix Z790-H Gaming + DDR5 Corsair Dominator Platinum RGB 32GB"
       }
     ],
     "Moderado": [
@@ -232,14 +214,6 @@
         "Update": "2023-10-13T09:28:02.2323226-04:00",
         "Discount": 14.0,
         "Label": "Kit i9-12900K +Gigabyte Z690 AERO +DDR5 Corsair Vengeance RGB 48GB"
-      },
-      {
-        "Price": 619.00,
-        "Features": [],
-        "Date": "2023-09-13T13:15:22.925563-04:00",
-        "Update": "2023-10-20T09:21:46.5536265-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i7-12700K + Asus TUF Z690-Plus Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       },
       {
         "Price": 549.00,
@@ -801,17 +775,6 @@
         "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 6400mhz"
       },
       {
-        "Price": 125.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL36"
-        ],
-        "Date": "2023-05-11T08:37:56.7258334-04:00",
-        "Update": "2023-10-09T17:48:21.5776063-04:00",
-        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
-      },
-      {
         "Price": 99.00,
         "Features": [
           "2x16GB",
@@ -843,17 +806,6 @@
         "Date": "2023-07-17T23:38:49.930694-04:00",
         "Update": "2023-10-09T17:48:21.7955701-04:00",
         "Label": "RAM DDR4 G.Skill Ripjaws V 16GB 3600mhz"
-      },
-      {
-        "Price": 225.00,
-        "Features": [
-          "2x32GB",
-          "CL30",
-          "Disipadas"
-        ],
-        "Date": "2023-10-03T06:56:13.4449074-04:00",
-        "Update": "2023-10-09T17:48:21.8439298-04:00",
-        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 64GB 6000mhz"
       },
       {
         "Price": 99.00,
@@ -1002,24 +954,6 @@
         "Label": "Chasis Rosewill NIGHTHAWK 117"
       },
       {
-        "Price": 215.00,
-        "Features": [
-          "2x140mm",
-          "ARGB",
-          "Tempered Glass",
-          "Mesh",
-          "2xFan",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro",
-          "2xHDD"
-        ],
-        "Date": "2023-08-20T10:12:26.8379058-04:00",
-        "Update": "2023-08-20T11:36:57.2582587-04:00",
-        "Label": "Chasis Fractal Design Focus 2 RGB Black"
-      },
-      {
         "Price": 169.00,
         "Features": [
           "Tempered Glass",
@@ -1142,17 +1076,6 @@
         "Date": "2023-08-16T09:17:42.5509882-04:00",
         "Update": "2023-08-29T08:44:58.6306867-04:00",
         "Label": "SSD M.2 Samsung 980 PRO 2TB"
-      },
-      {
-        "Price": 175.00,
-        "Features": [
-          "7450mbs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-08-29T08:42:45.4600847-04:00",
-        "Update": "2023-08-29T09:46:36.2100783-04:00",
-        "Label": "SSD M.2 Samsung 990 Pro 2TB"
       },
       {
         "Price": 83.00,
@@ -1278,16 +1201,6 @@
       {
         "Price": 69.00,
         "Features": [
-          "535mbs",
-          "SATA 3"
-        ],
-        "Date": "2023-10-09T15:58:45.9668788-04:00",
-        "Update": "2023-10-09T17:48:21.8840093-04:00",
-        "Label": "SSD 2.5 PNY CS900 1TB"
-      },
-      {
-        "Price": 69.00,
-        "Features": [
           "3600mbps",
           "600tbw",
           "PCIe 3",
@@ -1324,17 +1237,6 @@
         "Date": "2023-10-13T09:28:29.8930928-04:00",
         "Update": "2023-10-13T10:18:39.9791691-04:00",
         "Label": "SSD M.2 Corsair MP600 Pro XT 2TB"
-      },
-      {
-        "Price": 69.00,
-        "Features": [
-          "540mbps",
-          "800tbw",
-          "SATA 3"
-        ],
-        "Date": "2023-10-16T10:23:41.2113735-04:00",
-        "Update": "2023-10-16T12:23:12.7578087-04:00",
-        "Label": "SSD 2.5 Team Group CX2 1TB"
       },
       {
         "Price": 84.00,
@@ -1459,25 +1361,6 @@
         "Date": "2023-06-07T15:03:30.731139-04:00",
         "Update": "2023-10-18T07:33:51.9110198-04:00",
         "Label": "Fuente Asus TUF 1000W"
-      },
-      {
-        "Price": 395.00,
-        "Features": [
-          "1x 16Pin",
-          "80+ Platinum",
-          "Full Modular",
-          "1000W",
-          "83A",
-          "8x 6+2Pin",
-          "12x SATA",
-          "2x 4+4 EPS",
-          "190mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-09-11T09:09:22.0492744-04:00",
-        "Update": "2023-10-18T07:33:51.9299147-04:00",
-        "Label": "Fuente Asus ROG Thor 1000W Platinum II"
       },
       {
         "Price": 245.00,
@@ -2465,25 +2348,6 @@
         "Label": "Motherboard ASRock Z690M Phantom Gaming 4"
       },
       {
-        "Price": 269.00,
-        "Features": [
-          "12va-13ra",
-          "6666mhz",
-          "9xUSB",
-          "Wifi",
-          "6xAudio",
-          "DDR5",
-          "6xSATA",
-          "DisplayPort",
-          "HDMI",
-          "LGA 1700",
-          "ATX"
-        ],
-        "Date": "2023-10-18T06:47:25.7897533-04:00",
-        "Update": "2023-10-18T07:33:52.3151266-04:00",
-        "Label": "Motherboard MSI MPG Z690 Force Wifi"
-      },
-      {
         "Price": 205.00,
         "Features": [
           "12va-13ra",
@@ -2823,23 +2687,6 @@
         "Date": "2023-05-11T07:00:48.0876416-04:00",
         "Update": "2023-10-09T17:48:20.760625-04:00",
         "Label": "Micro Intel Core i9-12900K"
-      },
-      {
-        "Price": 399.00,
-        "Features": [
-          "13ra Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.4GHz",
-          "30MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-03-22T09:04:14.8362359-04:00",
-        "Update": "2023-10-09T17:48:21.0316178-04:00",
-        "Label": "Micro Intel Core i7-13700K"
       },
       {
         "Price": 329.00,
@@ -4187,25 +4034,6 @@
         "Date": "2023-09-11T09:09:41.0989166-04:00",
         "Update": "2023-10-09T17:48:21.0863334-04:00",
         "Label": "Monitor MSI Pro 24\" MP241X"
-      },
-      {
-        "Price": 399.00,
-        "Features": [
-          "170Hz",
-          "IPS",
-          "400nit",
-          "1ms",
-          "FreeSync",
-          "1080p",
-          "FHD",
-          "Flat",
-          "2x HDMI",
-          "DP",
-          "Gaming"
-        ],
-        "Date": "2023-10-03T06:56:38.0508252-04:00",
-        "Update": "2023-10-09T17:48:21.8638471-04:00",
-        "Label": "Monitor Gigabyte 27\" G27F-2"
       },
       {
         "Price": 245.00,
