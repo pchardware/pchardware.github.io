@@ -1,0 +1,26 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Fuente",
+  "Images": [
+    "/images/products/fuente-raidmax-vortex-power-700w-rx-700ac-v-1.webp",
+    "/images/products/fuente-raidmax-vortex-power-700w-rx-700ac-v-2.webp",
+    "/images/products/fuente-raidmax-vortex-power-700w-rx-700ac-v-3.webp",
+    "/images/products/fuente-raidmax-vortex-power-700w-rx-700ac-v-4.webp",
+    "/images/products/fuente-raidmax-vortex-power-700w-rx-700ac-v-5.webp"
+  ],
+  "Description": "General\nBrand: Raidmax\nSeries: Vortex\nModel: RX-700AC-V\n\n\nDetails\nType: ATX12V / EPS12V\nMaximum Power: 700 W\nFans: 1\nFan LED: No\nMain Connector: 20+4Pin\n+12V Rails: Single\nPCI-Express Connector: 2 x 6+2-Pin\nSATA Power Connector: 5\nSLI: No\nHaswell Support: Yes\nCrossFire: No\nMax PSU Length: 150 mm\nModular: Non-Modular\nEnergy-Efficient: 80 PLUS BRONZE Certified\nOver Voltage Protection: Yes\nOverload Protection: Yes\n\n\nAdditional Information\nDate First Available: February 12, 2020",
+  "Price": 99.00,
+  "Features": [
+    "80+ Bronze",
+    "52A",
+    "2x 6+2Pin",
+    "5x SATA",
+    "1x 4+4 EPS",
+    "150mm",
+    "PSU",
+    "ATX"
+  ],
+  "Date": "2023-10-23T12:32:26.5256364-04:00",
+  "Update": "2023-10-23T13:26:42.3798536-04:00",
+  "Label": "Fuente Raidmax Vortex Power 700W RX-700AC-V"
+}
