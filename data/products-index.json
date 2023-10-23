@@ -905,6 +905,17 @@
         "Date": "2023-10-03T06:56:16.0979857-04:00",
         "Update": "2023-10-23T00:56:09.4585217-04:00",
         "Label": "RAM DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
+      },
+      {
+        "Price": 109.00,
+        "Features": [
+          "2x16GB",
+          "CL36",
+          "Disipadas"
+        ],
+        "Date": "2023-10-23T12:31:52.8124739-04:00",
+        "Update": "2023-10-23T13:18:33.9131624-04:00",
+        "Label": "RAM DDR5 G.Skill Flare X5 32GB 6000mhz"
       }
     ],
     "Chasis": [
@@ -1298,6 +1309,18 @@
         "Date": "2023-08-01T11:14:15.2077979-04:00",
         "Update": "2023-10-18T07:33:51.8334103-04:00",
         "Label": "SSD 2.5 SAMSUNG 870 EVO 1TB"
+      },
+      {
+        "Price": 89.00,
+        "Features": [
+          "7400mbps",
+          "Gen4",
+          "Hyper M.2",
+          "NVMe"
+        ],
+        "Date": "2023-10-23T12:32:43.5315319-04:00",
+        "Update": "2023-10-23T13:18:33.9387522-04:00",
+        "Label": "SSD M.2 AData Premium 1TB"
       }
     ],
     "Fuente": [
@@ -2445,6 +2468,27 @@
         "Date": "2023-10-11T10:56:24.0277774-04:00",
         "Update": "2023-10-23T00:56:09.4737925-04:00",
         "Label": "Motherboard MSI Pro B760M-P DDR4"
+      },
+      {
+        "Price": 199.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "5800mhz",
+          "PCIe 5.0",
+          "M.2 Gen4",
+          "Bios Flashback",
+          "3xM.2",
+          "7xUSB",
+          "HDMI",
+          "4xSATA",
+          "LGA 1700",
+          "3xAudio",
+          "PS2"
+        ],
+        "Date": "2023-10-23T12:32:47.8333341-04:00",
+        "Update": "2023-10-23T13:18:33.9510723-04:00",
+        "Label": "Motherboard ASRock Z690 Phantom Gaming 4 D5"
       }
     ],
     "Disipador por Aire": [
@@ -2859,6 +2903,38 @@
         "Date": "2023-02-17T09:45:29.425139-05:00",
         "Update": "2023-10-23T00:56:09.3810404-04:00",
         "Label": "Micro Intel Core i5-12400 +Disipador"
+      },
+      {
+        "Price": 509.00,
+        "Features": [
+          "14va Gen",
+          "28 Hilos",
+          "5.6Ghz",
+          "33mb L3",
+          "253W",
+          "LGA 1700",
+          "DDR4-DDR5",
+          "CPU"
+        ],
+        "Date": "2023-10-23T12:31:42.2126394-04:00",
+        "Update": "2023-10-23T13:18:33.8766268-04:00",
+        "Label": "Micro Intel Core i7-14700K"
+      },
+      {
+        "Price": 715.00,
+        "Features": [
+          "14va Gen",
+          "32 Hilos",
+          "6Ghz",
+          "36mb L3",
+          "253W",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-10-23T12:31:45.6342687-04:00",
+        "Update": "2023-10-23T13:18:33.8894814-04:00",
+        "Label": "Micro Intel Core i9-14900K"
       }
     ],
     "Tarjeta Gráfica": [
