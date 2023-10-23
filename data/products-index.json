@@ -670,6 +670,25 @@
         "Date": "2023-10-23T12:32:08.5379608-04:00",
         "Update": "2023-10-23T13:26:42.3700618-04:00",
         "Label": "Thermalright LGA1700-BCF Gray"
+      },
+      {
+        "Price": 11.00,
+        "Features": [
+          "Jeringuilla",
+          "Aplicador"
+        ],
+        "Date": "2023-10-23T12:31:30.6202501-04:00",
+        "Update": "2023-10-23T14:55:22.6439496-04:00",
+        "Label": "Pasta Termica HY510 30g"
+      },
+      {
+        "Price": 6.00,
+        "Features": [
+          "Jeringuilla"
+        ],
+        "Date": "2023-10-23T12:31:34.5436933-04:00",
+        "Update": "2023-10-23T14:55:22.6566477-04:00",
+        "Label": "Pasta Termica HY510 1g"
       }
     ],
     "Memoria RAM": [
@@ -1649,6 +1668,21 @@
         "Date": "2023-10-23T12:32:26.5256364-04:00",
         "Update": "2023-10-23T13:26:42.3798536-04:00",
         "Label": "Fuente Raidmax Vortex Power 700W RX-700AC-V"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "1x 6+2Pin",
+          "4x SATA",
+          "1x 4+4 EPS",
+          "150mm",
+          "80+",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-10-23T12:31:26.0970288-04:00",
+        "Update": "2023-10-23T14:55:22.5123968-04:00",
+        "Label": "Fuente Raidmax Vortex 600W RX-600AC-V"
       }
     ],
     "Disipador Líquido": [
@@ -2621,27 +2655,6 @@
         "Label": "Disipador Cooler Master Hyper 622 Halo Black"
       },
       {
-        "Price": 59.00,
-        "Features": [
-          "ARGB",
-          "4xPipes",
-          "68cfm",
-          "30dBA",
-          "2500rpm",
-          "Negro",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4",
-          "AM5",
-          "Tower",
-          "1xFan"
-        ],
-        "Date": "2023-09-23T14:09:08.5628773-04:00",
-        "Update": "2023-10-09T17:48:21.2052819-04:00",
-        "Label": "Disipador ID-COOLING SE-214-XT ARGB"
-      },
-      {
         "Price": 43.00,
         "Features": [
           "2xPipes",
@@ -2715,6 +2728,48 @@
         "Date": "2023-10-18T06:47:53.8475463-04:00",
         "Update": "2023-10-18T07:33:52.4555278-04:00",
         "Label": "Disipador Cooler Master 212 Halo White"
+      },
+      {
+        "Price": 59.00,
+        "Features": [
+          "ARGB",
+          "4xPipes",
+          "68cfm",
+          "30dBA",
+          "2500rpm",
+          "Negro",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4",
+          "AM5",
+          "Tower",
+          "1xFan"
+        ],
+        "Date": "2023-09-23T14:09:08.5628773-04:00",
+        "Update": "2023-10-23T14:55:22.4925578-04:00",
+        "Label": "Disipador ID-COOLING SE-214-XT ARGB Black"
+      },
+      {
+        "Price": 62.00,
+        "Features": [
+          "ARGB",
+          "4xPipes",
+          "68cfm",
+          "30dBA",
+          "2500rpm",
+          "Blanco",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4",
+          "AM5",
+          "Tower",
+          "1xFan"
+        ],
+        "Date": "2023-10-23T12:33:07.4846202-04:00",
+        "Update": "2023-10-23T14:55:22.6270095-04:00",
+        "Label": "Disipador ID-COOLING SE-214-XT ARGB White"
       }
     ],
     "Microprocesador": [
@@ -3287,6 +3342,38 @@
         "Date": "2023-10-18T06:47:31.7784746-04:00",
         "Update": "2023-10-18T07:33:52.3616942-04:00",
         "Label": "Tarjeta de Video ASRock Challenger Radeon RX 7600"
+      },
+      {
+        "Price": 455.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "1x8Pin",
+          "550WR",
+          "312mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-10-23T12:32:13.7726731-04:00",
+        "Update": "2023-10-23T14:55:22.545892-04:00",
+        "Label": "Tarjeta de Video Asus ROG Strix RTX 4060 OC"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "1xFan",
+          "300WR",
+          "145mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-10-23T12:32:17.3770137-04:00",
+        "Update": "2023-10-23T14:55:22.5768316-04:00",
+        "Label": "Tarjeta de Video EVGA GT 730 2GB"
       }
     ]
   },
@@ -4041,6 +4128,27 @@
         "Date": "2023-10-18T06:47:49.8643507-04:00",
         "Update": "2023-10-19T12:52:18.6703333-04:00",
         "Label": "Auriculares Corsair VOID RGB Elite Carbon"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "Hi-Res",
+          "7.1",
+          "RGB",
+          "USB-C",
+          "USB-A",
+          "50mm",
+          "20hz-40khz",
+          "32ohm",
+          "310g",
+          "Micrófono",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-10-23T12:32:21.2274943-04:00",
+        "Update": "2023-10-23T14:55:22.5992253-04:00",
+        "Label": "Auriculares Asus ROG Fusion II 300 Gaming"
       }
     ],
     "Monitor": [
