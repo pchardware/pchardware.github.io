@@ -2,20 +2,6 @@
   "Torres": {
     "Pro": [
       {
-        "Price": 997.00,
-        "Features": [
-          "24 Hilos",
-          "12 Gen",
-          "6000mhz",
-          "Wifi",
-          "NVMe"
-        ],
-        "Date": "2023-10-14T13:25:23.942041-04:00",
-        "Update": "2023-10-14T13:30:10.718082-04:00",
-        "Discount": 38.0,
-        "Label": "Torre i9-12900K +Board TUF Z690 +DDR5 16GB G.Skill +M.2 1TB +Cooler Master"
-      },
-      {
         "Price": 1319.00,
         "Features": [
           "24 Hilos",
@@ -64,36 +50,12 @@
         "Label": "Torre Gamer RTX 3060 Ti +Ryzen 5 5600G +8GB DDR4 Vulcan Z +M.2 500GB +700W +MasterBox MB511"
       },
       {
-        "Price": 919.00,
-        "Features": [],
-        "Date": "2023-10-20T09:45:00.0639223-04:00",
-        "Update": "2023-10-20T11:51:11.7741312-04:00",
-        "Discount": 24.0,
-        "Label": "Torre Gamer Radeon RX 6650 XT +i3 12Gen +8GB 3200mhz +500GB SSD +500W + Chasis MasterBox"
-      },
-      {
-        "Price": 1325.00,
-        "Features": [],
-        "Date": "2023-10-20T09:47:27.808234-04:00",
-        "Update": "2023-10-20T11:51:11.8260699-04:00",
-        "Discount": 31.0,
-        "Label": "Torre Gamer RTX 4060 Ti +i5-12600KF +16GB G.Skill 3600mhz +M.2 1TB +700W +MasterBox"
-      },
-      {
         "Price": 1565.00,
         "Features": [],
         "Date": "2023-10-20T09:48:56.4254652-04:00",
         "Update": "2023-10-20T11:51:11.8483674-04:00",
         "Discount": 33.0,
         "Label": "Torre Gamer RTX 4070 +i5-12600KF +32GB 3200mhz +2TB M.2 +Thermaltake 700W +MasterBox"
-      },
-      {
-        "Price": 1729.00,
-        "Features": [],
-        "Date": "2023-10-20T09:50:31.6176039-04:00",
-        "Update": "2023-10-20T11:51:11.8714729-04:00",
-        "Discount": 33.0,
-        "Label": "Torre Gamer RTX 4070Ti +i5-12600KF + 32GB RAM +1TB M.2 +EVGA 750W +Chasis MB511"
       }
     ]
   },
@@ -139,22 +101,6 @@
         "Update": "2023-10-12T12:45:40.7709995-04:00",
         "Discount": 10.0,
         "Label": "Kit i5 13Gen +Disipador +Board Gigabyte Aorus B760M +32GB DDR5 AORUS"
-      },
-      {
-        "Price": 405.00,
-        "Features": [
-          "3600mhz",
-          "8xUSB",
-          "Dual Lan",
-          "8 Hilos",
-          "Dual Channel",
-          "2x8GB",
-          "6xAudio"
-        ],
-        "Date": "2023-10-12T12:14:09.2169239-04:00",
-        "Update": "2023-10-20T09:21:46.5645433-04:00",
-        "Discount": 12.0,
-        "Label": "Kit i3 12Gen +Disipador +Board Asus B660 ProArt +16GB RAM Corsair RGB"
       },
       {
         "Price": 389.00,
@@ -709,17 +655,6 @@
         "Label": "RAM DDR5 XPG Lancer 32GB 6400mhz"
       },
       {
-        "Price": 79.00,
-        "Features": [
-          "2x8GB",
-          "Disipadas",
-          "CL18"
-        ],
-        "Date": "2023-03-30T09:56:45.7624715-04:00",
-        "Update": "2023-10-09T17:48:20.9781073-04:00",
-        "Label": "RAM DDR4 Corsair Vengeance RGB RS 16GB 3600mhz"
-      },
-      {
         "Price": 129.00,
         "Features": [
           "2x16GB",
@@ -1033,17 +968,6 @@
         "Label": "SSD 2.5 Team Group EX2 512GB"
       },
       {
-        "Price": 39.00,
-        "Features": [
-          "530mbs",
-          "400tbw",
-          "SATA 3"
-        ],
-        "Date": "2023-06-07T13:42:02.617071-04:00",
-        "Update": "2023-07-27T09:48:00.6358409-04:00",
-        "Label": "SSD 2.5 Team Group CX1 480GB"
-      },
-      {
         "Price": 45.00,
         "Features": [
           "550mbs",
@@ -1197,18 +1121,6 @@
         "Date": "2023-10-02T14:29:40.7946679-04:00",
         "Update": "2023-10-09T15:58:28.3703427-04:00",
         "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 1TB"
-      },
-      {
-        "Price": 69.00,
-        "Features": [
-          "3600mbps",
-          "600tbw",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-10-09T15:59:46.8994939-04:00",
-        "Update": "2023-10-09T17:48:22.0159372-04:00",
-        "Label": "SSD M.2 MSI SPATIUM M450 1TB"
       },
       {
         "Price": 149.00,
@@ -3687,22 +3599,6 @@
         "Date": "2023-10-19T09:31:57.0129789-04:00",
         "Update": "2023-10-19T12:33:04.4956254-04:00",
         "Label": "Mouse Logitech G502 SE Hero"
-      },
-      {
-        "Price": 53.00,
-        "Features": [
-          "18000dpi",
-          "Claw",
-          "8 botónes",
-          "97g",
-          "Optico",
-          "Gaming",
-          "iCUE",
-          "USB"
-        ],
-        "Date": "2023-08-21T08:58:41.5573667-04:00",
-        "Update": "2023-10-23T00:56:09.4024801-04:00",
-        "Label": "Mouse Corsair M65 ELITE RGB Black"
       },
       {
         "Price": 105.00,
