@@ -764,17 +764,6 @@
         "Label": "RAM DDR5 G.Skill Ripjaws S5 16GB 6000mhz"
       },
       {
-        "Price": 33.00,
-        "Features": [
-          "1x8GB",
-          "CL16",
-          "Disipadas"
-        ],
-        "Date": "2023-10-16T10:24:18.3365215-04:00",
-        "Update": "2023-10-16T12:23:12.7897271-04:00",
-        "Label": "RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz"
-      },
-      {
         "Price": 107.00,
         "Features": [
           "2x16GB",
@@ -806,6 +795,17 @@
         "Date": "2023-10-23T12:31:49.0776908-04:00",
         "Update": "2023-10-23T13:26:42.338948-04:00",
         "Label": "RAM DDR4 OLOy OWL 16GB 3200mhz"
+      },
+      {
+        "Price": 33.00,
+        "Features": [
+          "1x8GB",
+          "CL16",
+          "Disipadas"
+        ],
+        "Date": "2023-10-16T10:24:18.3365215-04:00",
+        "Update": "2023-10-24T17:16:59.0523113-04:00",
+        "Label": "RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz"
       }
     ],
     "Chasis": [
