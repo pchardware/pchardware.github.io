@@ -3,7 +3,10 @@
   "SubCategory": "Otros",
   "Images": [
     "/images/products/pasta-termica-hy510-30g-1.webp",
-    "/images/products/pasta-termica-hy510-30g-2.webp"
+    "/images/products/pasta-termica-hy510-30g-2.webp",
+    "/images/products/pasta-termica-hy510-30g-3.webp",
+    "/images/products/pasta-termica-hy510-30g-4.webp",
+    "/images/products/pasta-termica-hy510-30g-5.webp"
   ],
   "Description": "Alta conductividad térmica: pasta termoconductora HY510, enfriamiento flash, rendimiento estable y temperatura de trabajo de hasta 446.0 °F. El coeficiente de conductividad térmica es mayor que 1.93w/m-k, lo que puede lograr una conductividad térmica óptima, reducir eficazmente la temperatura de la GPU y la CPU de la computadora, garantizar un funcionamiento estable de la computadora, extender la vida útil de la computadora y despedirse de la pantalla azul.\n\nFuerte durabilidad, resistencia a altas temperaturas: la resistencia instantánea a la temperatura puede alcanzar hasta 536.0 °F. La alta temperatura no se solidifica, la baja temperatura no se solidifica.\n\nHY510 está aislado y respetuoso con el medio ambiente, proporcionando raspador de instalación, cubierta para los dedos y papel de limpieza, lo que hace que la instalación sea cómoda, limpia e higiénica.\n\nLarga vida útil: HY510 tiene alta estabilidad y se puede utilizar continuamente durante mucho tiempo sin secarse ni agrietarse.\n\nAplicación segura: no contiene metales ni conductividad, eliminando cualquier riesgo de causar cortocircuitos. La resistencia a altas temperaturas, la baja resistencia térmica y la alta conductividad pueden lograr excelentes efectos de transferencia de calor. Adecuado para CPU, GPU y otros componentes de PC.",
   "Price": 11.00,
@@ -12,6 +15,6 @@
     "Aplicador"
   ],
   "Date": "2023-10-23T12:31:30.6202501-04:00",
-  "Update": "2023-10-23T14:55:22.6439496-04:00",
+  "Update": "2023-10-24T16:52:34.9968724-04:00",
   "Label": "Pasta Termica HY510 30g"
 }
