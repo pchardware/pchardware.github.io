@@ -558,16 +558,6 @@
         "Label": "Thermalright LGA1700-BCF Gray"
       },
       {
-        "Price": 11.00,
-        "Features": [
-          "Jeringuilla",
-          "Aplicador"
-        ],
-        "Date": "2023-10-23T12:31:30.6202501-04:00",
-        "Update": "2023-10-23T14:55:22.6439496-04:00",
-        "Label": "Pasta Termica HY510 30g"
-      },
-      {
         "Price": 6.00,
         "Features": [
           "Jeringuilla"
@@ -575,6 +565,16 @@
         "Date": "2023-10-23T12:31:34.5436933-04:00",
         "Update": "2023-10-24T16:44:55.0841781-04:00",
         "Label": "Pasta Termica HY510 1g"
+      },
+      {
+        "Price": 11.00,
+        "Features": [
+          "Jeringuilla",
+          "Aplicador"
+        ],
+        "Date": "2023-10-23T12:31:30.6202501-04:00",
+        "Update": "2023-10-24T16:52:34.9968724-04:00",
+        "Label": "Pasta Termica HY510 30g"
       }
     ],
     "Memoria RAM": [
