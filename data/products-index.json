@@ -2856,23 +2856,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 3060 Ti Gaming OC Pro"
       },
       {
-        "Price": 375.00,
-        "Features": [
-          "8GB",
-          "DLSS3",
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-07-12T21:42:49.1798698-04:00",
-        "Update": "2023-10-16T12:23:12.6693262-04:00",
-        "Label": "Tarjeta de Video Asus Dual RTX 4060 OC"
-      },
-      {
         "Price": 479.00,
         "Features": [
           "2xFan",
@@ -3061,6 +3044,23 @@
         "Date": "2023-10-23T12:32:17.3770137-04:00",
         "Update": "2023-10-23T14:55:22.5768316-04:00",
         "Label": "Tarjeta de Video EVGA GT 730 2GB"
+      },
+      {
+        "Price": 375.00,
+        "Features": [
+          "8GB",
+          "DLSS3",
+          "2xFan",
+          "1x8Pin",
+          "550WR",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-07-12T21:42:49.1798698-04:00",
+        "Update": "2023-10-25T08:54:02.8737727-04:00",
+        "Label": "Tarjeta de Video Asus Dual RTX 4060 OC"
       }
     ]
   },
