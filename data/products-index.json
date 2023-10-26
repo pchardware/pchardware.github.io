@@ -2277,24 +2277,6 @@
         "Label": "Motherboard Gigabyte Z790 Aorus Elite AX"
       },
       {
-        "Price": 265.00,
-        "Features": [
-          "AM5",
-          "DDR5",
-          "6400mhz",
-          "Wifi",
-          "5xAudio",
-          "6xUSB",
-          "4xSATA",
-          "DisplayPort",
-          "HDMI",
-          "ATX"
-        ],
-        "Date": "2023-10-03T06:55:51.8601602-04:00",
-        "Update": "2023-10-09T17:48:21.8339963-04:00",
-        "Label": "Motherboard Asus TUF B650-Plus Wifi"
-      },
-      {
         "Price": 139.00,
         "Features": [
           "AM4",
@@ -2421,6 +2403,24 @@
         "Date": "2023-10-23T12:32:47.8333341-04:00",
         "Update": "2023-10-23T13:18:33.9510723-04:00",
         "Label": "Motherboard ASRock Z690 Phantom Gaming 4 D5"
+      },
+      {
+        "Price": 265.00,
+        "Features": [
+          "AM5",
+          "DDR5",
+          "6400mhz",
+          "Wifi",
+          "5xAudio",
+          "6xUSB",
+          "4xSATA",
+          "DisplayPort",
+          "HDMI",
+          "ATX"
+        ],
+        "Date": "2023-10-03T06:55:51.8601602-04:00",
+        "Update": "2023-10-26T09:01:25.8509468-04:00",
+        "Label": "Motherboard Asus TUF Gaming B650-Plus Wifi"
       }
     ],
     "Disipador por Aire": [
@@ -4017,27 +4017,6 @@
         "Label": "Monitor MSI Pro 24\" MP241X"
       },
       {
-        "Price": 245.00,
-        "Features": [
-          "165Hz",
-          "1ms",
-          "Curvo",
-          "FreeSync",
-          "VESA",
-          "VA",
-          "1500R",
-          "2x HDMI",
-          "DP",
-          "FHD",
-          "250nit",
-          "1080p",
-          "Gaming"
-        ],
-        "Date": "2023-10-09T15:59:30.9767274-04:00",
-        "Update": "2023-10-09T17:48:21.9971115-04:00",
-        "Label": "Monitor Acer Nitro 24\" ED240Q"
-      },
-      {
         "Price": 279.00,
         "Features": [
           "170Hz",
@@ -4111,6 +4090,27 @@
         "Date": "2023-10-03T06:56:38.0508252-04:00",
         "Update": "2023-10-25T15:46:32.5936591-04:00",
         "Label": "Monitor Gigabyte 27\" G27F-2"
+      },
+      {
+        "Price": 245.00,
+        "Features": [
+          "165Hz",
+          "1ms",
+          "Curvo",
+          "FreeSync",
+          "VESA",
+          "VA",
+          "1500R",
+          "2x HDMI",
+          "DP",
+          "FHD",
+          "250nit",
+          "1080p",
+          "Gaming"
+        ],
+        "Date": "2023-10-09T15:59:30.9767274-04:00",
+        "Update": "2023-10-26T09:01:25.8633291-04:00",
+        "Label": "Monitor Acer Nitro 24\" ED240Q"
       }
     ],
     "Externo": [
