@@ -795,17 +795,6 @@
         "Label": "RAM DDR5 G.Skill Flare X5 64GB 6000mhz"
       },
       {
-        "Price": 55.0,
-        "Features": [
-          "1x16GB",
-          "CL36",
-          "Disipadas"
-        ],
-        "Date": "2023-10-14T10:09:22.7542158-04:00",
-        "Update": "2023-10-14T10:19:20.27698-04:00",
-        "Label": "RAM DDR5 G.Skill Ripjaws S5 16GB 6000mhz"
-      },
-      {
         "Price": 107.00,
         "Features": [
           "2x16GB",
@@ -859,6 +848,17 @@
         "Date": "2023-10-03T06:56:13.4449074-04:00",
         "Update": "2023-10-25T15:46:32.5792727-04:00",
         "Label": "RAM DDR5 G.Skill Trident Z5 RGB 64GB 6000mhz"
+      },
+      {
+        "Price": 55.0,
+        "Features": [
+          "1x16GB",
+          "CL36",
+          "Disipadas"
+        ],
+        "Date": "2023-10-14T10:09:22.7542158-04:00",
+        "Update": "2023-10-26T08:41:13.3214539-04:00",
+        "Label": "RAM DDR5 G.Skill Ripjaws S5 16GB 6000mhz"
       }
     ],
     "Chasis": [
