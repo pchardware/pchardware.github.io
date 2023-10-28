@@ -2863,24 +2863,6 @@
         "Label": "Tarjeta de Video MSI Ventus 3X RTX 4070Ti OC"
       },
       {
-        "Price": 675.00,
-        "Features": [
-          "DLSS3",
-          "2xFan",
-          "12GB",
-          "1x8Pin",
-          "650WR",
-          "269mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-06-19T07:49:38.2054403-04:00",
-        "Update": "2023-10-16T12:23:12.5639104-04:00",
-        "Label": "Tarjeta de Video Asus Dual RTX 4070 OC"
-      },
-      {
         "Price": 755.00,
         "Features": [
           "DLSS3",
