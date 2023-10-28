@@ -551,18 +551,6 @@
         "Label": "Thermalright AM5 Secure Frame RED"
       },
       {
-        "Price": 23.00,
-        "Features": [
-          "1900rpm",
-          "76cfm",
-          "29db",
-          "3 Pin"
-        ],
-        "Date": "2023-10-03T06:55:42.9522312-04:00",
-        "Update": "2023-10-03T09:09:19.5438403-04:00",
-        "Label": "Fan Asus TUF Gaming TF120 ARGB"
-      },
-      {
         "Price": 17.00,
         "Features": [],
         "Date": "2023-10-09T15:58:58.5199723-04:00",
@@ -1874,20 +1862,6 @@
         "Date": "2023-10-02T14:29:17.3385611-04:00",
         "Update": "2023-10-02T15:13:13.7065447-04:00",
         "Label": "HDD 3.5 WD 14TB HC530 Recertified"
-      },
-      {
-        "Price": 139.00,
-        "Features": [
-          "Enterprise",
-          "7200rpm",
-          "256mb",
-          "Helium",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-10-02T14:29:22.3106257-04:00",
-        "Update": "2023-10-02T15:13:13.7352308-04:00",
-        "Label": "HDD 3.5 Seagate EXOS 14TB Recertified"
       },
       {
         "Price": 65.00,
@@ -3295,23 +3269,6 @@
         "Date": "2023-10-16T10:24:29.9709108-04:00",
         "Update": "2023-10-18T07:33:52.2745785-04:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Master"
-      },
-      {
-        "Price": 299.00,
-        "Features": [
-          "8GB",
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "269mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-10-18T06:47:31.7784746-04:00",
-        "Update": "2023-10-18T07:33:52.3616942-04:00",
-        "Label": "Tarjeta de Video ASRock Challenger Radeon RX 7600"
       },
       {
         "Price": 455.00,
