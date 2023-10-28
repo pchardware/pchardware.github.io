@@ -38,6 +38,21 @@
         "Update": "2023-10-14T14:38:32.7175729-04:00",
         "Discount": 22.0,
         "Label": "Torre i7-12700K +Z690 AERO +16GB DDR5 Ripjaws +M.2 Samsung 980 500GB +Cooler Master"
+      },
+      {
+        "Price": 1475.00,
+        "Features": [
+          "32 Hilos",
+          "13Gen",
+          "Wifi",
+          "5.7Ghz",
+          "6000mhz",
+          "8xUSB"
+        ],
+        "Date": "2023-10-14T13:53:10.0046209-04:00",
+        "Update": "2023-10-28T09:10:46.4235066-04:00",
+        "Discount": 28.0,
+        "Label": "Torre i9-13900K +Hyper Dual +Z690 AERO +64GB DDR5 G.Skill +M.2 WD BLACK 1TB +Cooler Master"
       }
     ],
     "Gamer": [
@@ -84,6 +99,14 @@
         "Update": "2023-10-25T15:46:32.6266091-04:00",
         "Discount": 12.0,
         "Label": "Kit i7-13700K + Asus ROG Strix Z790-H Gaming + DDR5 Corsair Dominator Platinum RGB 32GB"
+      },
+      {
+        "Price": 1075.00,
+        "Features": [],
+        "Date": "2023-06-15T09:02:58.8515588-04:00",
+        "Update": "2023-10-28T09:10:46.4086304-04:00",
+        "Discount": 14.0,
+        "Label": "Kit i9-13900K + Asus ROG Strix Z690-E Gaming Wifi + 32GB DDR5"
       }
     ],
     "Moderado": [
@@ -609,6 +632,13 @@
         "Date": "2023-10-23T12:31:30.6202501-04:00",
         "Update": "2023-10-24T16:52:34.9968724-04:00",
         "Label": "Pasta Termica HY510 30g"
+      },
+      {
+        "Price": 17.00,
+        "Features": [],
+        "Date": "2023-07-26T16:41:29.0221883-04:00",
+        "Update": "2023-10-28T09:10:46.326184-04:00",
+        "Label": "Thermalright LGA1700-BCF Black"
       }
     ],
     "Chasis": [
@@ -708,6 +738,23 @@
         "Date": "2023-08-20T10:12:26.8379058-04:00",
         "Update": "2023-10-25T15:46:32.5351458-04:00",
         "Label": "Chasis Fractal Design Focus 2 RGB Black"
+      },
+      {
+        "Price": 325.00,
+        "Features": [
+          "Vertical",
+          "Tempered Glass",
+          "3xFan",
+          "RGB",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "2xHDD",
+          "Negro"
+        ],
+        "Date": "2023-06-19T07:49:30.2036169-04:00",
+        "Update": "2023-10-28T09:10:46.2683164-04:00",
+        "Label": "Chasis Corsair iCUE 4000X RGB"
       }
     ],
     "Disco Sólido": [
@@ -2348,6 +2395,29 @@
         "Date": "2023-10-23T12:33:07.4846202-04:00",
         "Update": "2023-10-23T14:55:22.6270095-04:00",
         "Label": "Disipador ID-COOLING SE-214-XT ARGB White"
+      },
+      {
+        "Price": 66.00,
+        "Features": [
+          "ARGB",
+          "63cfm",
+          "4xPipes",
+          "Cobre",
+          "1800rpm",
+          "25dBA",
+          "155mm",
+          "Blanco",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4",
+          "AM5",
+          "Tower",
+          "1xFan"
+        ],
+        "Date": "2023-10-16T10:24:39.6367232-04:00",
+        "Update": "2023-10-28T09:10:46.4417538-04:00",
+        "Label": "Disipador Thermaltake UX200 SE White"
       }
     ],
     "Memoria RAM": [
@@ -2824,6 +2894,56 @@
         "Date": "2023-03-22T09:04:14.8362359-04:00",
         "Update": "2023-10-25T15:46:32.5622691-04:00",
         "Label": "Micro Intel Core i7-13700K"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "13ra Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.5GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-03-22T09:04:00.899336-04:00",
+        "Update": "2023-10-28T09:10:46.27933-04:00",
+        "Label": "Micro Intel Core i3-13100 +Disipador"
+      },
+      {
+        "Price": 625.00,
+        "Features": [
+          "13ra Gen",
+          "32 Hilos",
+          "24 Core",
+          "5.7GHz",
+          "30MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-03-22T09:04:16.5699219-04:00",
+        "Update": "2023-10-28T09:10:46.3433153-04:00",
+        "Label": "Micro Intel Core i9-13900K"
+      },
+      {
+        "Price": 259.00,
+        "Features": [
+          "13ra Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.6GHz",
+          "20MB L3",
+          "9.5MB L2",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-10-02T14:28:46.4986141-04:00",
+        "Update": "2023-10-28T09:10:46.3716993-04:00",
+        "Label": "Micro Intel Core i5-13400 +Disipador"
       }
     ],
     "Tarjeta Gráfica": [
@@ -3156,6 +3276,23 @@
         "Date": "2023-07-12T21:42:49.1798698-04:00",
         "Update": "2023-10-25T10:36:56.5063339-04:00",
         "Label": "Tarjeta de Video Asus Dual RTX 4060 OC"
+      },
+      {
+        "Price": 249.00,
+        "Features": [
+          "8GB",
+          "3xFan",
+          "1x8Pin",
+          "500WR",
+          "282mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-05-11T19:24:18.7527581-04:00",
+        "Update": "2023-10-28T09:10:46.2908578-04:00",
+        "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
       }
     ]
   },
@@ -3372,6 +3509,17 @@
         "Date": "2023-10-19T09:32:13.4570865-04:00",
         "Update": "2023-10-19T12:33:04.6277773-04:00",
         "Label": "COMBO Teclado + Mouse Rosewill Wireless RKM-1000"
+      },
+      {
+        "Price": 55.00,
+        "Features": [
+          "Inalámbrico",
+          "Membrana",
+          "Full"
+        ],
+        "Date": "2023-07-09T16:45:11.3382579-04:00",
+        "Update": "2023-10-28T09:10:46.4704015-04:00",
+        "Label": "COMBO Teclado + Mouse Logitech MK270"
       }
     ],
     "Mouse": [
@@ -3663,6 +3811,22 @@
         "Date": "2023-10-23T12:32:00.8586361-04:00",
         "Update": "2023-10-23T13:26:42.3598298-04:00",
         "Label": "Mouse Cooler Master MM311 Mate White"
+      },
+      {
+        "Price": 56.00,
+        "Features": [
+          "18000dpi",
+          "Claw",
+          "8 botónes",
+          "97g",
+          "Optico",
+          "Gaming",
+          "iCUE",
+          "USB"
+        ],
+        "Date": "2023-08-21T08:58:41.5573667-04:00",
+        "Update": "2023-10-28T09:10:46.4920289-04:00",
+        "Label": "Mouse Corsair M65 ELITE RGB Black"
       }
     ],
     "Silla": [
@@ -4093,6 +4257,26 @@
         "Date": "2023-10-09T15:59:03.9375048-04:00",
         "Update": "2023-10-18T07:33:52.0679811-04:00",
         "Label": "Control Xbox Core Wireless Black"
+      }
+    ],
+    "Audífonos": [
+      {
+        "Price": 129.00,
+        "Features": [
+          "Noise Control",
+          "20Hz-30KHz",
+          "50mm",
+          "7.1",
+          "16H",
+          "iCUE",
+          "Inalámbrico",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-09-23T14:08:54.0159291-04:00",
+        "Update": "2023-10-28T09:10:46.3074884-04:00",
+        "Label": "Auriculares Corsair VOID RGB Elite Wireless White"
       }
     ]
   }
