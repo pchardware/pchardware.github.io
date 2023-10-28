@@ -1347,6 +1347,24 @@
         "Date": "2023-09-11T09:09:22.0492744-04:00",
         "Update": "2023-10-25T15:46:32.655781-04:00",
         "Label": "Fuente Asus ROG Thor 1000W Platinum II"
+      },
+      {
+        "Price": 249.0,
+        "Features": [
+          "ATX 3.0",
+          "1x16Pin",
+          "80+ Gold",
+          "Full Modular",
+          "83A",
+          "2x 4+4 EPS",
+          "140mm",
+          "4x 6+2-Pin",
+          "8x SATA",
+          "PSU"
+        ],
+        "Date": "2023-05-11T14:27:13.3514196-04:00",
+        "Update": "2023-10-28T11:51:01.5669565-04:00",
+        "Label": "Fuente Gigabyte UD1000GM 1000W"
       }
     ],
     "Disipador Líquido": [
@@ -2202,6 +2220,25 @@
         "Date": "2023-10-03T06:55:51.8601602-04:00",
         "Update": "2023-10-26T09:01:25.8509468-04:00",
         "Label": "Motherboard Asus TUF Gaming B650-Plus Wifi"
+      },
+      {
+        "Price": 299.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "6400mhz",
+          "BIOS FlashBack",
+          "8xUSB",
+          "6xAudio",
+          "6xSATA",
+          "HDMI",
+          "DisplayPort",
+          "LGA 1700",
+          "ATX"
+        ],
+        "Date": "2023-05-11T07:52:19.4562926-04:00",
+        "Update": "2023-10-28T11:51:01.5879235-04:00",
+        "Label": "Motherboard Asus ROG Strix Z690-F Gaming Wifi"
       }
     ],
     "Disipador por Aire": [
