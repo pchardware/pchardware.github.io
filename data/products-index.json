@@ -3074,23 +3074,6 @@
         "Label": "Tarjeta de Video MSI RTX 4060 Gaming X"
       },
       {
-        "Price": 295.00,
-        "Features": [
-          "8GB",
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "235mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-07-17T23:39:40.6107252-04:00",
-        "Update": "2023-10-16T12:23:12.6286728-04:00",
-        "Label": "Tarjeta de Video MSI Mech Radeon RX 6650 XT"
-      },
-      {
         "Price": 405.00,
         "Features": [
           "3xFan",
@@ -3313,23 +3296,6 @@
         "Date": "2023-07-12T21:42:49.1798698-04:00",
         "Update": "2023-10-25T10:36:56.5063339-04:00",
         "Label": "Tarjeta de Video Asus Dual RTX 4060 OC"
-      },
-      {
-        "Price": 249.00,
-        "Features": [
-          "8GB",
-          "3xFan",
-          "1x8Pin",
-          "500WR",
-          "282mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-05-11T19:24:18.7527581-04:00",
-        "Update": "2023-10-28T09:10:46.2908578-04:00",
-        "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
       }
     ]
   },
