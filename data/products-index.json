@@ -639,6 +639,27 @@
         "Date": "2023-07-26T16:41:29.0221883-04:00",
         "Update": "2023-10-28T09:10:46.326184-04:00",
         "Label": "Thermalright LGA1700-BCF Black"
+      },
+      {
+        "Price": 13.00,
+        "Features": [
+          "120mm",
+          "ARGB",
+          "1550rpm",
+          "9 Blades",
+          "66cfm",
+          "PWM"
+        ],
+        "Date": "2023-10-28T11:51:54.5660223-04:00",
+        "Update": "2023-10-28T13:51:53.4035202-04:00",
+        "Label": "Fan Thermalright 120 ARGB PWM TL-C12C-S"
+      },
+      {
+        "Price": 4.00,
+        "Features": [],
+        "Date": "2023-10-28T11:52:05.3851766-04:00",
+        "Update": "2023-10-28T13:51:53.4442695-04:00",
+        "Label": "Cable USB-C Extension ASUS ROG"
       }
     ],
     "Chasis": [
@@ -2239,6 +2260,26 @@
         "Date": "2023-05-11T07:52:19.4562926-04:00",
         "Update": "2023-10-28T11:51:01.5879235-04:00",
         "Label": "Motherboard Asus ROG Strix Z690-F Gaming Wifi"
+      },
+      {
+        "Price": 189.00,
+        "Features": [
+          "10ma-11na",
+          "7xUSB",
+          "BIOS FlashBack",
+          "Wifi",
+          "6xAudio",
+          "6xSATA",
+          "DDR4",
+          "LGA 1200",
+          "ATX",
+          "HDMI",
+          "DisplayPort",
+          "PS2"
+        ],
+        "Date": "2023-10-28T11:52:00.1054489-04:00",
+        "Update": "2023-10-28T13:51:53.4228633-04:00",
+        "Label": "Motherboard MSI Z590 Pro Wifi CEC"
       }
     ],
     "Disipador por Aire": [
@@ -2455,6 +2496,30 @@
         "Date": "2023-10-16T10:24:39.6367232-04:00",
         "Update": "2023-10-28T09:10:46.4417538-04:00",
         "Label": "Disipador Thermaltake UX200 SE White"
+      },
+      {
+        "Price": 67.00,
+        "Features": [
+          "5 Head Pipes",
+          "1550rpm",
+          "PWM",
+          "67cfm",
+          "26db",
+          "235w",
+          "bronce",
+          "Tower",
+          "1xFan",
+          "Blanco",
+          "ARGB",
+          "148mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-10-28T11:53:27.2541098-04:00",
+        "Update": "2023-10-28T13:51:53.488839-04:00",
+        "Label": "Disipador Thermalright Assassin King 120 SE White"
       }
     ],
     "Memoria RAM": [
@@ -3296,6 +3361,22 @@
         "Date": "2023-07-12T21:42:49.1798698-04:00",
         "Update": "2023-10-25T10:36:56.5063339-04:00",
         "Label": "Tarjeta de Video Asus Dual RTX 4060 OC"
+      },
+      {
+        "Price": 335.00,
+        "Features": [
+          "2xFan",
+          "450WR",
+          "2x8Pin",
+          "231mm",
+          "NVIDIA",
+          "GPU",
+          "Gráfica",
+          "DLSS2"
+        ],
+        "Date": "2023-10-28T11:53:16.4380613-04:00",
+        "Update": "2023-10-28T13:51:53.4752189-04:00",
+        "Label": "Tarjeta de Video Zotac Gaming RTX 3060 AMP 12GB White"
       }
     ]
   },
@@ -4260,6 +4341,13 @@
         "Date": "2023-10-09T15:59:03.9375048-04:00",
         "Update": "2023-10-18T07:33:52.0679811-04:00",
         "Label": "Control Xbox Core Wireless Black"
+      },
+      {
+        "Price": 85.00,
+        "Features": [],
+        "Date": "2023-10-28T11:52:16.1019156-04:00",
+        "Update": "2023-10-28T13:51:53.4610228-04:00",
+        "Label": "Control Xbox Core Wireless Black + USB-C Cable"
       }
     ],
     "Audífonos": [
