@@ -1115,22 +1115,6 @@
         "Label": "Fuente Corsair RM1000X 1000W"
       },
       {
-        "Price": 145.00,
-        "Features": [
-          "80+ Gold",
-          "67A",
-          "4x 6+2Pin",
-          "8x SATA",
-          "2x 4+4 EPS",
-          "150mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-07-12T21:42:43.1904262-04:00",
-        "Update": "2023-10-18T07:33:51.895866-04:00",
-        "Label": "Fuente EVGA 800 GE 800W"
-      },
-      {
         "Price": 239.00,
         "Features": [
           "80+ Gold",
@@ -3095,24 +3079,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Gaming OC"
       },
       {
-        "Price": 385.00,
-        "Features": [
-          "2xFan",
-          "8GB",
-          "1x8Pin",
-          "DLSS3",
-          "550WR",
-          "247mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-08-08T10:08:12.7346355-04:00",
-        "Update": "2023-10-16T12:23:12.6029379-04:00",
-        "Label": "Tarjeta de Video MSI RTX 4060 Gaming X"
-      },
-      {
         "Price": 405.00,
         "Features": [
           "3xFan",
@@ -3301,23 +3267,6 @@
         "Date": "2023-10-23T12:32:17.3770137-04:00",
         "Update": "2023-10-23T14:55:22.5768316-04:00",
         "Label": "Tarjeta de Video EVGA GT 730 2GB"
-      },
-      {
-        "Price": 375.00,
-        "Features": [
-          "8GB",
-          "DLSS3",
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-07-12T21:42:49.1798698-04:00",
-        "Update": "2023-10-25T10:36:56.5063339-04:00",
-        "Label": "Tarjeta de Video Asus Dual RTX 4060 OC"
       },
       {
         "Price": 335.00,
