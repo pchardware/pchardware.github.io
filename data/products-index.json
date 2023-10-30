@@ -1,81 +1,6 @@
 {
-  "Torres": {
-    "Pro": [
-      {
-        "Price": 1319.00,
-        "Features": [
-          "24 Hilos",
-          "6400mhz",
-          "Wifi"
-        ],
-        "Date": "2023-10-14T13:36:36.8482036-04:00",
-        "Update": "2023-10-14T13:44:17.79558-04:00",
-        "Discount": 32.0,
-        "Label": "Torre Ryzen 9 7900X +Líquida MasterLiquid 360 +Board TUF +32GB DDR5 G.Skill + 2TB M.2"
-      },
-      {
-        "Price": 815.00,
-        "Features": [
-          "20 Hilos",
-          "13Gen",
-          "NVMe"
-        ],
-        "Date": "2023-10-14T13:58:18.6675168-04:00",
-        "Update": "2023-10-14T14:01:36.0871124-04:00",
-        "Discount": 21.0,
-        "Label": "Torre i5-13500 +Board Asus ProArt +16GB G.Skill +M.2 500GB Samsung 980 +Cooler Master"
-      },
-      {
-        "Price": 893.00,
-        "Features": [
-          "20 Hilos",
-          "12Gen",
-          "6000mhz",
-          "Wifi",
-          "8xUSB"
-        ],
-        "Date": "2023-10-14T11:11:40.0128368-04:00",
-        "Update": "2023-10-14T14:38:32.7175729-04:00",
-        "Discount": 22.0,
-        "Label": "Torre i7-12700K +Z690 AERO +16GB DDR5 Ripjaws +M.2 Samsung 980 500GB +Cooler Master"
-      },
-      {
-        "Price": 1475.00,
-        "Features": [
-          "32 Hilos",
-          "13Gen",
-          "Wifi",
-          "5.7Ghz",
-          "6000mhz",
-          "8xUSB"
-        ],
-        "Date": "2023-10-14T13:53:10.0046209-04:00",
-        "Update": "2023-10-28T09:10:46.4235066-04:00",
-        "Discount": 28.0,
-        "Label": "Torre i9-13900K +Hyper Dual +Z690 AERO +64GB DDR5 G.Skill +M.2 WD BLACK 1TB +Cooler Master"
-      }
-    ],
-    "Gamer": [
-      {
-        "Price": 1063.00,
-        "Features": [],
-        "Date": "2023-10-20T09:43:34.4575956-04:00",
-        "Update": "2023-10-25T13:26:44.8308196-04:00",
-        "Discount": 26.0,
-        "Label": "Torre Gamer RTX 3060 Ti +Ryzen 5 5600G +8GB DDR4 Vulcan Z +M.2 500GB +700W +MasterBox MB511"
-      }
-    ]
-  },
   "Kits": {
     "Entusiasta": [
-      {
-        "Price": 779.00,
-        "Features": [],
-        "Date": "2023-09-15T11:22:05.4087649-04:00",
-        "Update": "2023-09-15T11:24:21.8097102-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i7-12700K + Asus ROG Maximus Z690 Hero + DDR5 Corsair Dominator Platinum RGB 32GB"
-      },
       {
         "Price": 769.00,
         "Features": [],
@@ -99,14 +24,6 @@
         "Update": "2023-10-25T15:46:32.6266091-04:00",
         "Discount": 12.0,
         "Label": "Kit i7-13700K + Asus ROG Strix Z790-H Gaming + DDR5 Corsair Dominator Platinum RGB 32GB"
-      },
-      {
-        "Price": 1075.00,
-        "Features": [],
-        "Date": "2023-06-15T09:02:58.8515588-04:00",
-        "Update": "2023-10-28T09:10:46.4086304-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i9-13900K + Asus ROG Strix Z690-E Gaming Wifi + 32GB DDR5"
       }
     ],
     "Moderado": [
@@ -138,20 +55,6 @@
         "Update": "2023-10-20T09:21:46.5961193-04:00",
         "Discount": 8.0,
         "Label": "Kit i5-12600KF +ASRock Z690 +8GB DDR4 Vulcan Z"
-      },
-      {
-        "Price": 461.00,
-        "Features": [
-          "20 Hilos",
-          "12 Gen",
-          "Overclock",
-          "3200mhz",
-          "6xUSB"
-        ],
-        "Date": "2023-10-20T09:06:57.5474984-04:00",
-        "Update": "2023-10-20T09:21:46.6067951-04:00",
-        "Discount": 6.0,
-        "Label": "Kit i7-12700K +ASRock Z690 Phantom +RAM 8GB T-Force"
       }
     ],
     "Rendimiento": [
@@ -168,66 +71,6 @@
         "Update": "2023-10-12T12:45:40.7950363-04:00",
         "Discount": 10.0,
         "Label": "Kit Ryzen 9 7900X +Board Asus TUF + 32GB 6400mhz DDR5 Corsair Vengeance RGB"
-      },
-      {
-        "Price": 745.00,
-        "Features": [
-          "24 Hilos",
-          "5.2GHz",
-          "Wifi",
-          "8xUSB",
-          "6xSATA",
-          "5600mhz"
-        ],
-        "Date": "2023-09-13T13:12:09.7340595-04:00",
-        "Update": "2023-10-13T09:28:02.2323226-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i9-12900K +Gigabyte Z690 AERO +DDR5 Corsair Vengeance RGB 48GB"
-      },
-      {
-        "Price": 549.00,
-        "Features": [
-          "20 Hilos",
-          "Wifi",
-          "6000mhz",
-          "12Gen",
-          "8xUSB"
-        ],
-        "Date": "2023-10-14T11:09:12.9146554-04:00",
-        "Update": "2023-10-20T09:25:12.9323304-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i7-12700K +Board Gigabyte Z690 AERO +16GB DDR5 G.Skill"
-      },
-      {
-        "Price": 485.00,
-        "Features": [
-          "20 Hilos",
-          "12 Gen",
-          "3200mhz",
-          "Disipadas",
-          "Dual Channel",
-          "6xUSB"
-        ],
-        "Date": "2023-10-20T09:07:38.5260983-04:00",
-        "Update": "2023-10-20T09:25:12.9533829-04:00",
-        "Discount": 8.0,
-        "Label": "Kit i7-12700K +Board Z690 +16GB RAM Silicon Power"
-      },
-      {
-        "Price": 459.00,
-        "Features": [],
-        "Date": "2023-09-15T11:05:50.9156015-04:00",
-        "Update": "2023-10-23T00:56:09.4371588-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-12600K + ASRock Z690 Pro RS + Silicon Power 16GB 3200mhz"
-      },
-      {
-        "Price": 505.00,
-        "Features": [],
-        "Date": "2023-09-15T11:17:40.3954585-04:00",
-        "Update": "2023-10-23T00:56:09.4477963-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i7-12700K + ASRock Z690 Pro RS + GeIL ORION RGB 16GB 3600mhz"
       }
     ],
     "Esencial": [
@@ -570,18 +413,6 @@
         "Label": "Expansión Weastlinks 4xSATA"
       },
       {
-        "Price": 43.00,
-        "Features": [
-          "PCIe x1",
-          "Alimentación SATA",
-          "Interna",
-          "Adaptador"
-        ],
-        "Date": "2023-08-01T11:15:00.5691684-04:00",
-        "Update": "2023-10-16T12:23:12.4249837-04:00",
-        "Label": "Expansión Orico 7xUSB 3.0"
-      },
-      {
         "Price": 25.00,
         "Features": [],
         "Date": "2023-10-09T15:58:54.823495-04:00",
@@ -697,22 +528,6 @@
         "Label": "Chasis Rosewill NIGHTHAWK 117"
       },
       {
-        "Price": 169.00,
-        "Features": [
-          "Tempered Glass",
-          "2xUSB",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro",
-          "2xHDD",
-          "1xFan"
-        ],
-        "Date": "2023-10-14T08:42:09.5719454-04:00",
-        "Update": "2023-10-14T09:17:58.345715-04:00",
-        "Label": "Chasis Cooler Master MasterBox MB511"
-      },
-      {
         "Price": 225.00,
         "Features": [
           "2x140mm",
@@ -806,17 +621,6 @@
           "400tbw",
           "SATA 3"
         ],
-        "Date": "2023-06-07T13:42:08.9262831-04:00",
-        "Update": "2023-07-27T09:48:00.600383-04:00",
-        "Label": "SSD 2.5 Team Group EX2 512GB"
-      },
-      {
-        "Price": 45.00,
-        "Features": [
-          "550mbs",
-          "400tbw",
-          "SATA 3"
-        ],
         "Date": "2023-06-07T13:43:23.553018-04:00",
         "Update": "2023-07-27T09:48:00.6497566-04:00",
         "Label": "SSD 2.5 Team Group T-FORCE VULCAN G 512GB"
@@ -866,18 +670,6 @@
         "Date": "2023-09-23T17:40:22.4977195-04:00",
         "Update": "2023-09-23T18:19:21.6821981-04:00",
         "Label": "SSD M.2 Corsair MP600 PRO NH 2TB"
-      },
-      {
-        "Price": 87.00,
-        "Features": [
-          "7300mbs",
-          "600tbw",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-08-16T09:17:48.5783952-04:00",
-        "Update": "2023-09-26T11:26:56.7219918-04:00",
-        "Label": "SSD M.2 WD BLACK SN850X 1TB"
       },
       {
         "Price": 109.00,
@@ -1708,24 +1500,6 @@
         "Label": "Disipador Líquido Corsair H60x RGB Elite"
       },
       {
-        "Price": 149.00,
-        "Features": [
-          "1750rpm",
-          "72cfm",
-          "27db",
-          "2xFan",
-          "240mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM5",
-          "AM4"
-        ],
-        "Date": "2023-10-13T09:28:41.1429363-04:00",
-        "Update": "2023-10-18T14:45:39.1243009-04:00",
-        "Label": "Disipador Líquido CoolerMaster MasterLiquid 240L Core ARGB Black"
-      },
-      {
         "Price": 199.00,
         "Features": [
           "2xFan",
@@ -1945,25 +1719,6 @@
         "Label": "Motherboard Gigabyte Aorus B760M Elite AX"
       },
       {
-        "Price": 235.00,
-        "Features": [
-          "12va-13ra",
-          "DDR5",
-          "Wifi",
-          "8xUSB",
-          "6xSATA",
-          "6000mhz",
-          "LGA 1700",
-          "ATX",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio"
-        ],
-        "Date": "2023-07-17T23:39:45.1712194-04:00",
-        "Update": "2023-10-09T17:48:20.6734869-04:00",
-        "Label": "Motherboard Gigabyte Z690 AERO G"
-      },
-      {
         "Price": 329.00,
         "Features": [
           "12va-13ra",
@@ -2124,24 +1879,6 @@
         "Date": "2023-10-19T09:32:16.7888545-04:00",
         "Update": "2023-10-19T12:33:04.6711589-04:00",
         "Label": "Motherboard ASRock Z690 PG Riptide DDR4"
-      },
-      {
-        "Price": 185.00,
-        "Features": [
-          "12va-13ra",
-          "8xSATA",
-          "5000mhz",
-          "ATX",
-          "6xUSB",
-          "PS2",
-          "LGA 1700",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio"
-        ],
-        "Date": "2023-08-01T11:14:37.8225714-04:00",
-        "Update": "2023-10-23T00:56:09.3918386-04:00",
-        "Label": "Motherboard ASRock Z690 Pro RS DDR4"
       },
       {
         "Price": 159.00,
@@ -2625,17 +2362,6 @@
         "Label": "RAM DDR5 Corsair Vengeance 32GB 6000mhz"
       },
       {
-        "Price": 199.00,
-        "Features": [
-          "2x32GB",
-          "Disipadas",
-          "CL40"
-        ],
-        "Date": "2023-10-13T09:28:52.4115364-04:00",
-        "Update": "2023-10-13T10:23:23.865108-04:00",
-        "Label": "RAM DDR5 G.Skill Flare X5 64GB 6000mhz"
-      },
-      {
         "Price": 107.00,
         "Features": [
           "2x16GB",
@@ -2656,17 +2382,6 @@
         "Date": "2023-10-23T12:31:52.8124739-04:00",
         "Update": "2023-10-23T13:18:33.9131624-04:00",
         "Label": "RAM DDR5 G.Skill Flare X5 32GB 6000mhz"
-      },
-      {
-        "Price": 57.00,
-        "Features": [
-          "2x8GB",
-          "CL16",
-          "Disipadas"
-        ],
-        "Date": "2023-10-23T12:31:49.0776908-04:00",
-        "Update": "2023-10-23T13:26:42.338948-04:00",
-        "Label": "RAM DDR4 OLOy OWL 16GB 3200mhz"
       },
       {
         "Price": 33.00,
@@ -2704,23 +2419,6 @@
     ],
     "Microprocesador": [
       {
-        "Price": 269.00,
-        "Features": [
-          "12va Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "25MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-02-17T09:30:45.7586545-05:00",
-        "Update": "2023-10-09T17:48:20.741396-04:00",
-        "Label": "Micro Intel Core i7-12700K"
-      },
-      {
         "Price": 225.00,
         "Features": [
           "12va Gen",
@@ -2736,23 +2434,6 @@
         "Date": "2023-02-17T09:44:28.156292-05:00",
         "Update": "2023-10-09T17:48:20.7506517-04:00",
         "Label": "Micro Intel Core i5-12600K"
-      },
-      {
-        "Price": 365.00,
-        "Features": [
-          "12va Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.2GHz",
-          "30MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-05-11T07:00:48.0876416-04:00",
-        "Update": "2023-10-09T17:48:20.760625-04:00",
-        "Label": "Micro Intel Core i9-12900K"
       },
       {
         "Price": 329.00,
@@ -2970,23 +2651,6 @@
         "Date": "2023-03-22T09:04:00.899336-04:00",
         "Update": "2023-10-28T09:10:46.27933-04:00",
         "Label": "Micro Intel Core i3-13100 +Disipador"
-      },
-      {
-        "Price": 625.00,
-        "Features": [
-          "13ra Gen",
-          "32 Hilos",
-          "24 Core",
-          "5.7GHz",
-          "30MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-03-22T09:04:16.5699219-04:00",
-        "Update": "2023-10-28T09:10:46.3433153-04:00",
-        "Label": "Micro Intel Core i9-13900K"
       },
       {
         "Price": 259.00,
