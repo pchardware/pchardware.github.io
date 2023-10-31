@@ -122,7 +122,7 @@
         "Label": "Kit i3 12Gen +Disipador +Board MSI B760M +RAM DDR4 16GB 3200mhz"
       },
       {
-        "Price": 373.00,
+        "Price": 369.00,
         "Features": [
           "12 Hilos",
           "Dual Channel",
@@ -135,7 +135,7 @@
         "Label": "Kit Ryzen 5 5600G +Disipador +Board ASRock B550M Pro SE +16GB G.Skill 3600mhz"
       },
       {
-        "Price": 343.00,
+        "Price": 339.00,
         "Features": [
           "12 Hilos",
           "Serie 5000",
@@ -2529,7 +2529,7 @@
         "Label": "Micro Intel Core i9-14900K"
       },
       {
-        "Price": 179.00,
+        "Price": 175.00,
         "Features": [
           "Radeon Graphics",
           "AM4",
