@@ -3781,6 +3781,42 @@
         "Date": "2023-10-23T12:32:21.2274943-04:00",
         "Update": "2023-10-23T14:55:22.5992253-04:00",
         "Label": "Auriculares Asus ROG Fusion II 300 Gaming"
+      },
+      {
+        "Price": 129.00,
+        "Features": [
+          "Noise Control",
+          "20Hz-30KHz",
+          "50mm",
+          "7.1",
+          "16H",
+          "iCUE",
+          "Inalámbrico",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-05-12T07:52:40.6205045-04:00",
+        "Update": "2023-10-31T15:04:42.8798518-04:00",
+        "Label": "Auriculares Corsair VOID RGB Elite Wireless Carbon"
+      },
+      {
+        "Price": 129.00,
+        "Features": [
+          "Noise Control",
+          "20Hz-30KHz",
+          "50mm",
+          "7.1",
+          "16H",
+          "iCUE",
+          "Inalámbrico",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-09-23T14:08:54.0159291-04:00",
+        "Update": "2023-10-31T15:04:42.8934079-04:00",
+        "Label": "Auriculares Corsair VOID RGB Elite Wireless White"
       }
     ],
     "Monitor": [
@@ -3966,44 +4002,6 @@
         "Date": "2023-10-28T11:52:16.1019156-04:00",
         "Update": "2023-10-28T13:51:53.4610228-04:00",
         "Label": "Control Xbox Core Wireless Black + USB-C Cable"
-      }
-    ],
-    "Audífonos": [
-      {
-        "Price": 129.00,
-        "Features": [
-          "Noise Control",
-          "20Hz-30KHz",
-          "50mm",
-          "7.1",
-          "16H",
-          "iCUE",
-          "Inalámbrico",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-09-23T14:08:54.0159291-04:00",
-        "Update": "2023-10-28T09:10:46.3074884-04:00",
-        "Label": "Auriculares Corsair VOID RGB Elite Wireless White"
-      },
-      {
-        "Price": 129.00,
-        "Features": [
-          "Noise Control",
-          "20Hz-30KHz",
-          "50mm",
-          "7.1",
-          "16H",
-          "iCUE",
-          "Inalámbrico",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-05-12T07:52:40.6205045-04:00",
-        "Update": "2023-10-31T11:23:29.2378107-04:00",
-        "Label": "Auriculares Corsair VOID RGB Elite Wireless Carbon"
       }
     ],
     "Backup": [
