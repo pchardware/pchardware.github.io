@@ -2936,23 +2936,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Master"
       },
       {
-        "Price": 445.00,
-        "Features": [
-          "DLSS3",
-          "3xFan",
-          "1x8Pin",
-          "550WR",
-          "312mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-10-23T12:32:13.7726731-04:00",
-        "Update": "2023-10-23T14:55:22.545892-04:00",
-        "Label": "Tarjeta de Video Asus ROG Strix RTX 4060 OC"
-      },
-      {
         "Price": 79.00,
         "Features": [
           "1xFan",
@@ -2982,6 +2965,23 @@
         "Date": "2023-10-28T11:53:16.4380613-04:00",
         "Update": "2023-10-28T13:51:53.4752189-04:00",
         "Label": "Tarjeta de Video Zotac Gaming RTX 3060 AMP 12GB White"
+      },
+      {
+        "Price": 445.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "1x8Pin",
+          "550WR",
+          "312mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-10-23T12:32:13.7726731-04:00",
+        "Update": "2023-10-31T15:34:36.143716-04:00",
+        "Label": "Tarjeta de Video Asus ROG Strix RTX 4060 OC"
       }
     ]
   },
