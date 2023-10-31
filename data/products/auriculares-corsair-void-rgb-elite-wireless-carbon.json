@@ -1,6 +1,6 @@
 {
   "Category": "Periféricos",
-  "SubCategory": "Audífonos",
+  "SubCategory": "Auriculares",
   "Images": [
     "/images/products/auriculares-corsair-void-rgb-elite-wireless-carbon-1.webp",
     "/images/products/auriculares-corsair-void-rgb-elite-wireless-carbon-2.webp",
@@ -25,6 +25,6 @@
     "Audífonos"
   ],
   "Date": "2023-05-12T07:52:40.6205045-04:00",
-  "Update": "2023-10-31T11:23:29.2378107-04:00",
+  "Update": "2023-10-31T15:04:42.8798518-04:00",
   "Label": "Auriculares Corsair VOID RGB Elite Wireless Carbon"
 }
