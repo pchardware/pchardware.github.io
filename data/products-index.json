@@ -2349,17 +2349,6 @@
         "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 6400mhz"
       },
       {
-        "Price": 99.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL38"
-        ],
-        "Date": "2023-08-16T09:17:10.601305-04:00",
-        "Update": "2023-10-09T17:48:21.6350716-04:00",
-        "Label": "RAM DDR5 GeIL ORION RGB 32GB 6000mhz"
-      },
-      {
         "Price": 115.00,
         "Features": [
           "2x16GB",
@@ -2687,23 +2676,6 @@
         "Date": "2023-03-22T09:04:00.899336-04:00",
         "Update": "2023-10-28T09:10:46.27933-04:00",
         "Label": "Micro Intel Core i3-13100 +Disipador"
-      },
-      {
-        "Price": 255.00,
-        "Features": [
-          "13ra Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.6GHz",
-          "20MB L3",
-          "9.5MB L2",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-10-02T14:28:46.4986141-04:00",
-        "Update": "2023-10-28T09:10:46.3716993-04:00",
-        "Label": "Micro Intel Core i5-13400 +Disipador"
       },
       {
         "Price": 229.00,
