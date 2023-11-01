@@ -2679,6 +2679,17 @@
         "Date": "2023-10-13T09:28:52.4115364-04:00",
         "Update": "2023-10-31T23:27:31.078534-04:00",
         "Label": "RAM DDR5 G.Skill Flare X5 64GB 6000mhz"
+      },
+      {
+        "Price": 99.00,
+        "Features": [
+          "2x16GB",
+          "Disipadas",
+          "CL38"
+        ],
+        "Date": "2023-08-16T09:17:10.601305-04:00",
+        "Update": "2023-11-01T07:24:34.3258412-04:00",
+        "Label": "RAM DDR5 GeIL ORION RGB 32GB 6000mhz"
       }
     ],
     "Microprocesador": [
@@ -2949,6 +2960,23 @@
         "Date": "2023-03-22T09:04:16.5699219-04:00",
         "Update": "2023-10-31T23:27:31.1992336-04:00",
         "Label": "Micro Intel Core i9-13900K"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "13ra Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.6GHz",
+          "20MB L3",
+          "9.5MB L2",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-10-02T14:28:46.4986141-04:00",
+        "Update": "2023-11-01T07:24:34.3387853-04:00",
+        "Label": "Micro Intel Core i5-13400 +Disipador"
       }
     ],
     "Tarjeta Gráfica": [
