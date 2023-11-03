@@ -578,6 +578,13 @@
         "Label": "Thermalright LGA1700-BCF Black"
       },
       {
+        "Price": 4.00,
+        "Features": [],
+        "Date": "2023-10-28T11:52:05.3851766-04:00",
+        "Update": "2023-10-28T13:51:53.4442695-04:00",
+        "Label": "Cable USB-C Extension ASUS ROG"
+      },
+      {
         "Price": 13.00,
         "Features": [
           "120mm",
@@ -588,15 +595,50 @@
           "PWM"
         ],
         "Date": "2023-10-28T11:51:54.5660223-04:00",
-        "Update": "2023-10-28T13:51:53.4035202-04:00",
-        "Label": "Fan Thermalright 120 ARGB PWM TL-C12C-S"
+        "Update": "2023-11-03T14:29:33.0853718-04:00",
+        "Label": "Fan Thermalright TL-C12C-S"
       },
       {
-        "Price": 4.00,
+        "Price": 13.00,
+        "Features": [
+          "120mm",
+          "ARGB",
+          "PWM",
+          "1550rpm",
+          "9 Blades",
+          "66cfm"
+        ],
+        "Date": "2023-11-03T12:22:32.2416969-04:00",
+        "Update": "2023-11-03T14:29:33.0972036-04:00",
+        "Label": "Fan Thermalright TL-C12CW White"
+      },
+      {
+        "Price": 12.00,
+        "Features": [
+          "120mm",
+          "LED Rojo",
+          "1300rpm",
+          "54cfm"
+        ],
+        "Date": "2023-11-03T12:22:35.3715047-04:00",
+        "Update": "2023-11-03T14:29:33.1129477-04:00",
+        "Label": "Fan Phanteks PH-F120SP RLED 120mm"
+      },
+      {
+        "Price": 13.00,
+        "Features": [
+          "Extension"
+        ],
+        "Date": "2023-11-03T12:22:45.5376533-04:00",
+        "Update": "2023-11-03T14:29:33.1528206-04:00",
+        "Label": "Cable Omni Gear USB 3.0 Extender 0.9m"
+      },
+      {
+        "Price": 70.0,
         "Features": [],
-        "Date": "2023-10-28T11:52:05.3851766-04:00",
-        "Update": "2023-10-28T13:51:53.4442695-04:00",
-        "Label": "Cable USB-C Extension ASUS ROG"
+        "Date": "2023-11-03T12:23:39.265693-04:00",
+        "Update": "2023-11-03T14:29:33.2508702-04:00",
+        "Label": "Adapter Phanteks Modular HDD Bracket PH-HDDKT_02"
       }
     ],
     "Chasis": [
@@ -713,6 +755,22 @@
         "Date": "2023-10-14T08:42:09.5719454-04:00",
         "Update": "2023-10-31T23:27:31.0906944-04:00",
         "Label": "Chasis Cooler Master MasterBox MB511"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "Tempered Glass",
+          "3xFan ARGB",
+          "3xUSB",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "Negro",
+          "2xHDD"
+        ],
+        "Date": "2023-11-03T12:22:56.9620417-04:00",
+        "Update": "2023-11-03T14:29:33.1682156-04:00",
+        "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
       }
     ],
     "Disco Sólido": [
@@ -1635,6 +1693,34 @@
         "Date": "2023-06-19T07:48:51.0981438-04:00",
         "Update": "2023-10-23T00:56:09.423423-04:00",
         "Label": "Disipador Líquido ASUS ROG Strix LC II 240 ARGB"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "2500rpm",
+          "81cfm",
+          "38db",
+          "Copper",
+          "3xFan",
+          "360mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "LGA 20XX",
+          "LGA 1366",
+          "AM4",
+          "TR4"
+        ],
+        "Date": "2023-11-03T12:22:39.1132927-04:00",
+        "Update": "2023-11-03T14:29:33.1325138-04:00",
+        "Label": "Disipador Líquido Asus ROG Strix LC II 360 ARGB White"
+      },
+      {
+        "Price": 10.0,
+        "Features": [],
+        "Date": "2023-11-03T12:23:24.2344408-04:00",
+        "Update": "2023-11-03T14:29:33.2358759-04:00",
+        "Label": "Enermax Mounting Bracket for LIQMAX III and AQUAFUSION on Intel LGA 1700"
       }
     ],
     "Disco Duro": [
@@ -2610,6 +2696,17 @@
         "Date": "2023-03-09T12:28:03.6250501-05:00",
         "Update": "2023-11-03T12:22:11.7182178-04:00",
         "Label": "DDR4 G.SKILL TridentZ RGB 32GB 3600mhz"
+      },
+      {
+        "Price": 175.00,
+        "Features": [
+          "2x16GB",
+          "CL36",
+          "Disipadas"
+        ],
+        "Date": "2023-11-03T12:23:00.2905889-04:00",
+        "Update": "2023-11-03T14:29:33.1862691-04:00",
+        "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 7000mhz"
       }
     ],
     "Microprocesador": [
@@ -2897,6 +2994,22 @@
         "Date": "2023-02-17T09:30:45.7586545-05:00",
         "Update": "2023-11-03T12:22:11.772838-04:00",
         "Label": "Micro Intel Core i7-12700K"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "12va Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.5GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-11-03T12:23:09.4506592-04:00",
+        "Update": "2023-11-03T14:29:33.2232174-04:00",
+        "Label": "Micro Intel Core i3-13100F +Disipador"
       }
     ],
     "Tarjeta Gráfica": [
@@ -3742,6 +3855,19 @@
         "Date": "2023-05-12T07:54:32.8971269-04:00",
         "Update": "2023-10-31T11:23:29.2617157-04:00",
         "Label": "WebCam Logitech C920s Pro"
+      },
+      {
+        "Price": 87.00,
+        "Features": [
+          "QHD",
+          "30fps",
+          "Micrófono",
+          "USB",
+          "Black"
+        ],
+        "Date": "2023-11-03T12:23:42.4690359-04:00",
+        "Update": "2023-11-03T14:29:33.2660947-04:00",
+        "Label": "WebCam Creative Live! Sync V3 2K"
       }
     ],
     "Adaptador": [
@@ -3975,6 +4101,24 @@
         "Date": "2023-09-23T14:08:54.0159291-04:00",
         "Update": "2023-10-31T15:04:42.8934079-04:00",
         "Label": "Auriculares Corsair VOID RGB Elite Wireless White"
+      },
+      {
+        "Price": 139.00,
+        "Features": [
+          "Noise Control",
+          "7.1",
+          "16H",
+          "iCUE",
+          "20Hz-20KHz",
+          "50mm",
+          "Inalámbrico",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-11-03T12:23:45.8463765-04:00",
+        "Update": "2023-11-03T14:29:33.2957812-04:00",
+        "Label": "Auriculares Corsair HS70 Pro Wireless"
       }
     ],
     "Monitor": [
@@ -4127,6 +4271,24 @@
         "Date": "2023-07-09T16:44:32.5135505-04:00",
         "Update": "2023-11-03T12:22:11.6979672-04:00",
         "Label": "Monitor Acer Nitro 24FHD QG241Y"
+      },
+      {
+        "Price": 295.00,
+        "Features": [
+          "170Hz",
+          "IPS",
+          "1ms",
+          "FreeSync",
+          "VESA",
+          "2x HDMI",
+          "Flat",
+          "FHD",
+          "DP",
+          "250nit"
+        ],
+        "Date": "2023-11-03T12:23:06.3579366-04:00",
+        "Update": "2023-11-03T14:29:33.2097078-04:00",
+        "Label": "Monitor MSI 24\" G2422P"
       }
     ],
     "Externo": [
