@@ -24,55 +24,6 @@
         "Update": "2023-10-31T23:27:31.1156094-04:00",
         "Discount": 21.0,
         "Label": "Torre i5-13500 +Board Asus ProArt +16GB G.Skill +M.2 500GB Samsung 980 +Cooler Master"
-      },
-      {
-        "Price": 891.00,
-        "Features": [
-          "20 Hilos",
-          "12Gen",
-          "6000mhz",
-          "Wifi",
-          "8xUSB"
-        ],
-        "Date": "2023-10-14T11:11:40.0128368-04:00",
-        "Update": "2023-10-31T23:27:31.127953-04:00",
-        "Discount": 22.0,
-        "Label": "Torre i7-12700K +Z690 AERO +16GB DDR5 Ripjaws +M.2 Samsung 980 500GB +Cooler Master"
-      },
-      {
-        "Price": 1475.00,
-        "Features": [
-          "32 Hilos",
-          "13Gen",
-          "Wifi",
-          "5.7Ghz",
-          "6000mhz",
-          "8xUSB"
-        ],
-        "Date": "2023-10-14T13:53:10.0046209-04:00",
-        "Update": "2023-10-31T23:27:31.22043-04:00",
-        "Discount": 28.0,
-        "Label": "Torre i9-13900K +Hyper Dual +Z690 AERO +64GB DDR5 G.Skill +M.2 WD BLACK 1TB +Cooler Master"
-      }
-    ],
-    "Entusiasta": [
-      {
-        "Price": 1497.00,
-        "Features": [],
-        "Date": "2023-10-20T12:06:24.5396332-04:00",
-        "Update": "2023-10-31T23:27:31.1759321-04:00",
-        "Discount": 36.0,
-        "Label": "Torre i5-12600KF +Z690 AERO +DDR5 Vengenance RGB 32GB +1TB M.2 +Aorus RTX 4060 Elite +850W"
-      }
-    ],
-    "Gamer": [
-      {
-        "Price": 1043.00,
-        "Features": [],
-        "Date": "2023-10-20T09:43:34.4575956-04:00",
-        "Update": "2023-10-31T23:27:31.1882837-04:00",
-        "Discount": 26.0,
-        "Label": "Torre Gamer RTX 3060 Ti +Ryzen 5 5600G +8GB DDR4 Vulcan Z +M.2 500GB +700W +MasterBox MB511"
       }
     ]
   },
@@ -93,14 +44,6 @@
         "Update": "2023-10-25T15:46:32.6266091-04:00",
         "Discount": 12.0,
         "Label": "Kit i7-13700K + Asus ROG Strix Z790-H Gaming + DDR5 Corsair Dominator Platinum RGB 32GB"
-      },
-      {
-        "Price": 779.00,
-        "Features": [],
-        "Date": "2023-09-15T11:22:05.4087649-04:00",
-        "Update": "2023-10-31T23:27:31.0228981-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i7-12700K + Asus ROG Maximus Z690 Hero + DDR5 Corsair Dominator Platinum RGB 32GB"
       },
       {
         "Price": 1071.00,
@@ -169,20 +112,6 @@
         "Update": "2023-10-31T11:23:29.3842081-04:00",
         "Discount": 10.0,
         "Label": "Kit Ryzen 5 5600G +Disipador +Board Asus ROG Strix +16GB G.Skill 3600mhz"
-      },
-      {
-        "Price": 455.00,
-        "Features": [
-          "20 Hilos",
-          "12 Gen",
-          "Overclock",
-          "3200mhz",
-          "6xUSB"
-        ],
-        "Date": "2023-10-20T09:06:57.5474984-04:00",
-        "Update": "2023-10-31T23:27:31.1399788-04:00",
-        "Discount": 6.0,
-        "Label": "Kit i7-12700K +ASRock Z690 Phantom +RAM 8GB T-Force"
       }
     ],
     "Rendimiento": [
@@ -199,35 +128,6 @@
         "Update": "2023-10-12T12:45:40.7950363-04:00",
         "Discount": 10.0,
         "Label": "Kit Ryzen 9 7900X +Board Asus TUF + 32GB 6400mhz DDR5 Corsair Vengeance RGB"
-      },
-      {
-        "Price": 549.00,
-        "Features": [
-          "20 Hilos",
-          "Wifi",
-          "6000mhz",
-          "12Gen",
-          "8xUSB"
-        ],
-        "Date": "2023-10-14T11:09:12.9146554-04:00",
-        "Update": "2023-10-31T23:27:31.1516996-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i7-12700K +Board Gigabyte Z690 AERO +16GB DDR5 G.Skill"
-      },
-      {
-        "Price": 479.00,
-        "Features": [
-          "20 Hilos",
-          "12 Gen",
-          "3200mhz",
-          "Disipadas",
-          "Dual Channel",
-          "6xUSB"
-        ],
-        "Date": "2023-10-20T09:07:38.5260983-04:00",
-        "Update": "2023-10-31T23:27:31.1629158-04:00",
-        "Discount": 8.0,
-        "Label": "Kit i7-12700K +Board Z690 +16GB RAM Silicon Power"
       }
     ],
     "Esencial": [
@@ -800,17 +700,6 @@
         "Label": "SSD 2.5 Team Group CX2 512GB"
       },
       {
-        "Price": 45.00,
-        "Features": [
-          "550mbs",
-          "400tbw",
-          "SATA 3"
-        ],
-        "Date": "2023-06-07T13:43:23.553018-04:00",
-        "Update": "2023-07-27T09:48:00.6497566-04:00",
-        "Label": "SSD 2.5 Team Group T-FORCE VULCAN G 512GB"
-      },
-      {
         "Price": 89.00,
         "Features": [
           "3500mbs",
@@ -948,20 +837,6 @@
           "7100mbs",
           "1400tbw",
           "Disipador",
-          "HeatSink",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-10-03T06:56:05.5050265-04:00",
-        "Update": "2023-10-13T10:18:39.9057359-04:00",
-        "Label": "SSD M.2 Corsair MP600 PRO LPX 2TB White"
-      },
-      {
-        "Price": 145.00,
-        "Features": [
-          "7100mbs",
-          "1400tbw",
-          "Disipador",
           "Heatsink",
           "PCIe 4",
           "NVMe"
@@ -1035,18 +910,6 @@
         "Date": "2023-06-07T13:42:08.9262831-04:00",
         "Update": "2023-10-31T23:27:31.0076816-04:00",
         "Label": "SSD 2.5 Team Group EX2 512GB"
-      },
-      {
-        "Price": 87.00,
-        "Features": [
-          "7300mbs",
-          "600tbw",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-08-16T09:17:48.5783952-04:00",
-        "Update": "2023-10-31T23:27:31.034049-04:00",
-        "Label": "SSD M.2 WD BLACK SN850X 1TB"
       }
     ],
     "Fuente": [
@@ -1252,21 +1115,6 @@
         "Label": "Fuente Cooler Master Elite 500 ver.3 500W"
       },
       {
-        "Price": 109.00,
-        "Features": [
-          "54A",
-          "2x 6+2 Pin",
-          "6x SATA",
-          "1x 4+4 EPS",
-          "140mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-06-29T07:39:33.0518165-04:00",
-        "Update": "2023-10-18T07:33:52.224266-04:00",
-        "Label": "Fuente Thermaltake Smart 700W 80+"
-      },
-      {
         "Price": 269.00,
         "Features": [
           "ATX 3.0",
@@ -1466,25 +1314,6 @@
         "Date": "2023-08-16T09:16:43.4918386-04:00",
         "Update": "2023-10-09T17:48:21.6246044-04:00",
         "Label": "Disipador Líquido SAMA CY 360mm ARGB"
-      },
-      {
-        "Price": 159.00,
-        "Features": [
-          "1500rpm",
-          "48cfm",
-          "28db",
-          "2xFan",
-          "240mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "LGA 20XX",
-          "AM5",
-          "AM4"
-        ],
-        "Date": "2023-03-27T12:00:05.9787174-04:00",
-        "Update": "2023-10-09T17:48:21.6738183-04:00",
-        "Label": "Disipador Líquido Corsair H100x RGB Elite"
       },
       {
         "Price": 189.00,
@@ -2144,25 +1973,6 @@
         "Date": "2023-10-03T06:55:51.8601602-04:00",
         "Update": "2023-10-26T09:01:25.8509468-04:00",
         "Label": "Motherboard Asus TUF Gaming B650-Plus Wifi"
-      },
-      {
-        "Price": 295.00,
-        "Features": [
-          "12va-13ra",
-          "DDR5",
-          "6400mhz",
-          "BIOS FlashBack",
-          "8xUSB",
-          "6xAudio",
-          "6xSATA",
-          "HDMI",
-          "DisplayPort",
-          "LGA 1700",
-          "ATX"
-        ],
-        "Date": "2023-05-11T07:52:19.4562926-04:00",
-        "Update": "2023-10-28T11:51:01.5879235-04:00",
-        "Label": "Motherboard Asus ROG Strix Z690-F Gaming Wifi"
       },
       {
         "Price": 235.00,
@@ -2928,23 +2738,6 @@
         "Label": "Micro Intel Core i5-13500T"
       },
       {
-        "Price": 269.00,
-        "Features": [
-          "12va Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "25MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-02-17T09:30:45.7586545-05:00",
-        "Update": "2023-10-31T23:27:31.0550467-04:00",
-        "Label": "Micro Intel Core i7-12700K"
-      },
-      {
         "Price": 625.00,
         "Features": [
           "13ra Gen",
@@ -3068,23 +2861,6 @@
         "Label": "Tarjeta de Video MSI RTX 4060 Ti Gaming X 8GB"
       },
       {
-        "Price": 485.00,
-        "Features": [
-          "12GB",
-          "3xFan",
-          "700WR",
-          "2x8Pin",
-          "302mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-10-03T06:56:26.0545013-04:00",
-        "Update": "2023-10-16T12:23:12.7042355-04:00",
-        "Label": "Tarjeta de Video Gigabyte RX 7700XT Gaming OC"
-      },
-      {
         "Price": 1399.00,
         "Features": [
           "850WR",
@@ -3136,24 +2912,6 @@
         "Date": "2023-10-16T10:24:33.0618949-04:00",
         "Update": "2023-10-16T12:23:12.8397006-04:00",
         "Label": "Tarjeta de Video Gigabyte RX 7600"
-      },
-      {
-        "Price": 425.00,
-        "Features": [
-          "3xFan",
-          "8GB",
-          "1x8Pin",
-          "DLSS3",
-          "450WR",
-          "299mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-09-11T09:09:04.0927141-04:00",
-        "Update": "2023-10-18T07:33:52.180293-04:00",
-        "Label": "Tarjeta de Video Gigabyte Aorus RTX 4060 Elite"
       },
       {
         "Price": 975.00,
@@ -4239,25 +3997,6 @@
         "Date": "2023-10-11T10:56:26.9169261-04:00",
         "Update": "2023-10-11T14:20:31.072592-04:00",
         "Label": "Caja Externo 2.5 Orico USB 3.0 PDD25C3-BK-EP"
-      }
-    ],
-    "Control": [
-      {
-        "Price": 77.00,
-        "Features": [
-          "Controller",
-          "2x AA Battery"
-        ],
-        "Date": "2023-10-09T15:59:03.9375048-04:00",
-        "Update": "2023-10-18T07:33:52.0679811-04:00",
-        "Label": "Control Xbox Core Wireless Black"
-      },
-      {
-        "Price": 85.00,
-        "Features": [],
-        "Date": "2023-10-28T11:52:16.1019156-04:00",
-        "Update": "2023-10-28T13:51:53.4610228-04:00",
-        "Label": "Control Xbox Core Wireless Black + USB-C Cable"
       }
     ],
     "Backup": [
