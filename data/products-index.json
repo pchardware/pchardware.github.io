@@ -634,7 +634,7 @@
         "Label": "Cable Omni Gear USB 3.0 Extender 0.9m"
       },
       {
-        "Price": 70.0,
+        "Price": 13.00,
         "Features": [],
         "Date": "2023-11-03T12:23:39.265693-04:00",
         "Update": "2023-11-03T14:29:33.2508702-04:00",
@@ -2457,23 +2457,6 @@
         "Date": "2023-08-08T10:08:41.3850156-04:00",
         "Update": "2023-10-31T11:23:29.2932721-04:00",
         "Label": "Disipador Sama KA200D"
-      },
-      {
-        "Price": 109.00,
-        "Features": [
-          "ARGB",
-          "Dual Tower",
-          "6 Head Pipes",
-          "72cfm",
-          "27dba",
-          "AM5",
-          "LGA1700",
-          "155mm",
-          "1750rpm"
-        ],
-        "Date": "2023-08-01T11:14:33.9125632-04:00",
-        "Update": "2023-10-31T23:27:31.0654595-04:00",
-        "Label": "Disipador Cooler Master Hyper 620S Dual"
       }
     ],
     "Memoria RAM": [
@@ -3137,7 +3120,7 @@
         "Label": "Tarjeta de Video Asus ROG Strix RTX 4070 Ti OC"
       },
       {
-        "Price": 315.00,
+        "Price": 325.00,
         "Features": [
           "8GB",
           "3xFan",
@@ -3385,24 +3368,6 @@
         "Date": "2023-08-01T11:15:29.6304071-04:00",
         "Update": "2023-08-01T18:30:20.4369867-04:00",
         "Label": "Teclado NZXT Function TKL"
-      },
-      {
-        "Price": 97.00,
-        "Features": [
-          "Mecánico",
-          "RGB",
-          "Inalámbrico",
-          "Slim",
-          "Aluminio",
-          "Macros",
-          "Gaming",
-          "Blanco",
-          "Cable",
-          "Full"
-        ],
-        "Date": "2023-08-08T10:02:40.1291313-04:00",
-        "Update": "2023-08-09T11:38:47.2741868-04:00",
-        "Label": "Teclado Cooler Master SK653"
       },
       {
         "Price": 169.00,
@@ -4044,27 +4009,6 @@
         "Date": "2023-10-18T06:47:49.8643507-04:00",
         "Update": "2023-10-19T12:52:18.6703333-04:00",
         "Label": "Auriculares Corsair VOID RGB Elite Carbon"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "Hi-Res",
-          "7.1",
-          "RGB",
-          "USB-C",
-          "USB-A",
-          "50mm",
-          "20hz-40khz",
-          "32ohm",
-          "310g",
-          "Micrófono",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-10-23T12:32:21.2274943-04:00",
-        "Update": "2023-10-23T14:55:22.5992253-04:00",
-        "Label": "Auriculares Asus ROG Fusion II 300 Gaming"
       },
       {
         "Price": 129.00,
