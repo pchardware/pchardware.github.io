@@ -1,0 +1,29 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Mouse",
+  "Images": [
+    "/images/products/mouse-razer-orochi-v2-black-1.webp",
+    "/images/products/mouse-razer-orochi-v2-black-2.webp",
+    "/images/products/mouse-razer-orochi-v2-black-3.webp",
+    "/images/products/mouse-razer-orochi-v2-black-4.webp",
+    "/images/products/mouse-razer-orochi-v2-black-5.webp",
+    "/images/products/mouse-razer-orochi-v2-black-6.webp"
+  ],
+  "Description": "",
+  "Price": 71.00,
+  "Features": [
+    "60g",
+    "Wifi",
+    "Bluetooth",
+    "Dual",
+    "950H",
+    "PTFE",
+    "Inmalámbrico",
+    "Gaming",
+    "6 botónes",
+    "Optico"
+  ],
+  "Date": "2023-11-05T07:48:32.4491843-05:00",
+  "Update": "2023-11-05T10:12:40.6869655-05:00",
+  "Label": "Mouse Razer Orochi V2 Black"
+}
