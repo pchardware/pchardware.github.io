@@ -74,6 +74,14 @@
         "Update": "2023-11-03T12:22:11.7583481-04:00",
         "Discount": 14.0,
         "Label": "Kit i7-12700K + Asus ROG Maximus Z690 Hero + DDR5 Corsair Dominator Platinum RGB 32GB"
+      },
+      {
+        "Price": 809.00,
+        "Features": [],
+        "Date": "2023-06-15T09:02:14.0120703-04:00",
+        "Update": "2023-11-05T07:47:36.6636044-05:00",
+        "Discount": 10.0,
+        "Label": "Kit i7-13700K + Asus ROG Strix Z690-F Gaming Wifi + 32GB DDR5"
       }
     ],
     "Moderado": [
@@ -193,6 +201,14 @@
         "Update": "2023-11-03T12:22:11.8253872-04:00",
         "Discount": 8.0,
         "Label": "Kit i7-12700K +Board Z690 +16GB RAM Silicon Power"
+      },
+      {
+        "Price": 619.00,
+        "Features": [],
+        "Date": "2023-09-13T13:15:22.925563-04:00",
+        "Update": "2023-11-05T07:47:36.719435-05:00",
+        "Discount": 14.0,
+        "Label": "Kit i7-12700K + Asus TUF Z690-Plus Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       }
     ],
     "Esencial": [
@@ -2214,6 +2230,25 @@
         "Date": "2023-05-11T07:52:19.4562926-04:00",
         "Update": "2023-11-03T12:22:11.7387057-04:00",
         "Label": "Motherboard Asus ROG Strix Z690-F Gaming Wifi"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "AM4",
+          "AMD",
+          "6xSATA",
+          "6xUSB",
+          "DDR4",
+          "4733mhz",
+          "ATX",
+          "PS2",
+          "DVI",
+          "HDMI",
+          "3xAudio"
+        ],
+        "Date": "2023-07-13T11:32:04.6371575-04:00",
+        "Update": "2023-11-05T07:47:36.6852756-05:00",
+        "Label": "Motherboard Gigabyte B550 Gaming X V2"
       }
     ],
     "Disipador por Aire": [
@@ -2690,6 +2725,17 @@
         "Date": "2023-11-03T12:23:00.2905889-04:00",
         "Update": "2023-11-03T14:29:33.1862691-04:00",
         "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 7000mhz"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "2x16GB",
+          "Disipadas",
+          "CL36"
+        ],
+        "Date": "2023-05-11T08:37:56.7258334-04:00",
+        "Update": "2023-11-05T07:47:36.7079821-05:00",
+        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       }
     ],
     "Microprocesador": [
@@ -3833,6 +3879,17 @@
         "Date": "2023-11-03T12:23:42.4690359-04:00",
         "Update": "2023-11-03T14:29:33.2660947-04:00",
         "Label": "WebCam Creative Live! Sync V3 2K"
+      },
+      {
+        "Price": 77.00,
+        "Features": [
+          "Trípode",
+          "2 Speakers",
+          "USB"
+        ],
+        "Date": "2023-08-01T11:14:11.0346434-04:00",
+        "Update": "2023-11-05T07:47:36.6970219-05:00",
+        "Label": "Webcam Goaic L32C 4K"
       }
     ],
     "Adaptador": [
@@ -4233,6 +4290,21 @@
         "Date": "2023-11-03T12:23:06.3579366-04:00",
         "Update": "2023-11-03T14:29:33.2097078-04:00",
         "Label": "Monitor MSI 24\" G2422P"
+      },
+      {
+        "Price": 415.00,
+        "Features": [
+          "IPS",
+          "300nit",
+          "HDR10",
+          "FreeSync",
+          "UHD",
+          "Flat",
+          "Gaming"
+        ],
+        "Date": "2023-06-29T07:38:34.6760535-04:00",
+        "Update": "2023-11-05T07:47:36.6745593-05:00",
+        "Label": "Monitor Acer Nitro 28\" 4K VG281K"
       }
     ],
     "Externo": [
