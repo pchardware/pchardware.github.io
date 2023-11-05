@@ -1,0 +1,31 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Mouse",
+  "Images": [
+    "/images/products/mouse-razer-basilisk-x-hyperspeed-black-1.webp",
+    "/images/products/mouse-razer-basilisk-x-hyperspeed-black-2.webp",
+    "/images/products/mouse-razer-basilisk-x-hyperspeed-black-3.webp",
+    "/images/products/mouse-razer-basilisk-x-hyperspeed-black-4.webp",
+    "/images/products/mouse-razer-basilisk-x-hyperspeed-black-5.webp",
+    "/images/products/mouse-razer-basilisk-x-hyperspeed-black-6.webp",
+    "/images/products/mouse-razer-basilisk-x-hyperspeed-black-7.webp"
+  ],
+  "Description": "",
+  "Price": 89.00,
+  "Features": [
+    "Wifi",
+    "Bluetooth",
+    "Dual",
+    "16000dpi",
+    "450ips",
+    "450H",
+    "Mecánico",
+    "Inmalámbrico",
+    "Gaming",
+    "6 botónes",
+    "Optico"
+  ],
+  "Date": "2023-11-05T07:48:29.4035139-05:00",
+  "Update": "2023-11-05T10:12:40.6745155-05:00",
+  "Label": "Mouse Razer Basilisk X Hyperspeed Black"
+}
