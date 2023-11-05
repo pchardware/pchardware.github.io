@@ -2249,6 +2249,25 @@
         "Date": "2023-07-13T11:32:04.6371575-04:00",
         "Update": "2023-11-05T07:47:36.6852756-05:00",
         "Label": "Motherboard Gigabyte B550 Gaming X V2"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "12va-13ra-14va",
+          "5333mhz",
+          "4xSATA",
+          "5xUSB",
+          "Micro ATX",
+          "HDMI",
+          "2xDisplayPort",
+          "VGA",
+          "PS2",
+          "LGA 1700",
+          "3xAudio"
+        ],
+        "Date": "2023-11-05T07:48:41.4514786-05:00",
+        "Update": "2023-11-05T10:12:40.6998087-05:00",
+        "Label": "Motherboard Gigabyte B660M DS3H DDR4"
       }
     ],
     "Disipador por Aire": [
@@ -3043,76 +3062,6 @@
     ],
     "Tarjeta Gráfica": [
       {
-        "Price": 535.00,
-        "Features": [
-          "12GB",
-          "Liquida",
-          "2x8Pin",
-          "750WR",
-          "263mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-04-09T07:40:11.0980971-04:00",
-        "Update": "2023-10-16T12:23:12.5105976-04:00",
-        "Label": "Tarjeta de Video EVGA RTX 3080Ti XC3 Hydro Copper"
-      },
-      {
-        "Price": 849.00,
-        "Features": [
-          "DLSS3",
-          "3xFan",
-          "12GB",
-          "1x16Pin",
-          "750W",
-          "308mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-05-11T13:47:38.0164911-04:00",
-        "Update": "2023-10-16T12:23:12.5317569-04:00",
-        "Label": "Tarjeta de Video MSI Ventus 3X RTX 4070Ti OC"
-      },
-      {
-        "Price": 745.00,
-        "Features": [
-          "DLSS3",
-          "3xFan",
-          "12GB",
-          "1x16Pin",
-          "700WR",
-          "342mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-08-29T08:42:07.9225906-04:00",
-        "Update": "2023-10-16T12:23:12.5764375-04:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4070 Aorus Master OC"
-      },
-      {
-        "Price": 399.00,
-        "Features": [
-          "3xFan",
-          "8GB",
-          "1x8Pin + 1x6Pin",
-          "650WR",
-          "286mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-10-02T14:29:14.5916934-04:00",
-        "Update": "2023-10-16T12:23:12.6408545-04:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 3060 Ti Gaming OC Pro"
-      },
-      {
         "Price": 469.00,
         "Features": [
           "2xFan",
@@ -3128,95 +3077,6 @@
         "Date": "2023-08-21T08:58:03.7946257-04:00",
         "Update": "2023-10-16T12:23:12.6834321-04:00",
         "Label": "Tarjeta de Video MSI RTX 4060 Ti Gaming X 8GB"
-      },
-      {
-        "Price": 1399.00,
-        "Features": [
-          "850WR",
-          "342mm",
-          "1x16Pin",
-          "DLSS3",
-          "16GB",
-          "3xFan",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-08-29T08:42:19.8132967-04:00",
-        "Update": "2023-10-16T12:23:12.7279923-04:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4080 Gaming OC"
-      },
-      {
-        "Price": 1065.00,
-        "Features": [
-          "DLSS3",
-          "3xFan",
-          "12GB",
-          "1x16Pin",
-          "750W",
-          "336mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-10-11T10:56:42.3732311-04:00",
-        "Update": "2023-10-16T12:23:12.7460059-04:00",
-        "Label": "Tarjeta de Video Asus ROG Strix RTX 4070 Ti OC"
-      },
-      {
-        "Price": 325.00,
-        "Features": [
-          "8GB",
-          "3xFan",
-          "1x8Pin",
-          "550WR",
-          "274mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-10-16T10:24:33.0618949-04:00",
-        "Update": "2023-10-16T12:23:12.8397006-04:00",
-        "Label": "Tarjeta de Video Gigabyte RX 7600"
-      },
-      {
-        "Price": 975.00,
-        "Features": [
-          "DLSS3",
-          "3xFan",
-          "12GB",
-          "1x16Pin",
-          "750W",
-          "342mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-10-16T10:24:27.1132383-04:00",
-        "Update": "2023-10-18T07:33:52.2497044-04:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Elite"
-      },
-      {
-        "Price": 1035.00,
-        "Features": [
-          "DLSS3",
-          "3xFan",
-          "12GB",
-          "1x16Pin",
-          "750W",
-          "342mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-10-16T10:24:29.9709108-04:00",
-        "Update": "2023-10-18T07:33:52.2745785-04:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Master"
       },
       {
         "Price": 79.00,
@@ -3250,6 +3110,156 @@
         "Label": "Tarjeta de Video Zotac Gaming RTX 3060 AMP 12GB White"
       },
       {
+        "Price": 535.00,
+        "Features": [
+          "Liquida",
+          "2x8Pin",
+          "750WR",
+          "263mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-04-09T07:40:11.0980971-04:00",
+        "Update": "2023-11-05T10:12:40.4613739-05:00",
+        "Label": "Tarjeta de Video EVGA RTX 3080Ti XC3 Hydro Copper 12GB"
+      },
+      {
+        "Price": 849.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "1x16Pin",
+          "750W",
+          "308mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-05-11T13:47:38.0164911-04:00",
+        "Update": "2023-11-05T10:12:40.4743779-05:00",
+        "Label": "Tarjeta de Video MSI Ventus 3X RTX 4070Ti OC 12GB"
+      },
+      {
+        "Price": 745.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "1x16Pin",
+          "700WR",
+          "342mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-08-29T08:42:07.9225906-04:00",
+        "Update": "2023-11-05T10:12:40.4879146-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4070 Aorus Master OC 12GB"
+      },
+      {
+        "Price": 399.00,
+        "Features": [
+          "3xFan",
+          "1x8Pin + 1x6Pin",
+          "650WR",
+          "286mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-10-02T14:29:14.5916934-04:00",
+        "Update": "2023-11-05T10:12:40.5025389-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 3060 Ti Gaming OC Pro 8GB"
+      },
+      {
+        "Price": 1399.00,
+        "Features": [
+          "850WR",
+          "342mm",
+          "1x16Pin",
+          "DLSS3",
+          "3xFan",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-08-29T08:42:19.8132967-04:00",
+        "Update": "2023-11-05T10:12:40.513716-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4080 Gaming OC 16GB"
+      },
+      {
+        "Price": 1065.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "1x16Pin",
+          "750W",
+          "336mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-10-11T10:56:42.3732311-04:00",
+        "Update": "2023-11-05T10:12:40.5270867-05:00",
+        "Label": "Tarjeta de Video Asus ROG Strix RTX 4070 Ti OC 12GB"
+      },
+      {
+        "Price": 325.00,
+        "Features": [
+          "3xFan",
+          "1x8Pin",
+          "550WR",
+          "274mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-10-16T10:24:33.0618949-04:00",
+        "Update": "2023-11-05T10:12:40.539594-05:00",
+        "Label": "Tarjeta de Video Gigabyte RX 7600 8GB"
+      },
+      {
+        "Price": 975.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "1x16Pin",
+          "750W",
+          "342mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-10-16T10:24:27.1132383-04:00",
+        "Update": "2023-11-05T10:12:40.5522189-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Elite 12GB"
+      },
+      {
+        "Price": 1035.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "1x16Pin",
+          "750W",
+          "342mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-10-16T10:24:29.9709108-04:00",
+        "Update": "2023-11-05T10:12:40.5657515-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Master 12GB"
+      },
+      {
         "Price": 445.00,
         "Features": [
           "DLSS3",
@@ -3263,8 +3273,57 @@
           "Gráfica"
         ],
         "Date": "2023-10-23T12:32:13.7726731-04:00",
-        "Update": "2023-10-31T15:34:36.143716-04:00",
-        "Label": "Tarjeta de Video Asus ROG Strix RTX 4060 OC"
+        "Update": "2023-11-05T10:12:40.5776011-05:00",
+        "Label": "Tarjeta de Video Asus ROG Strix RTX 4060 OC 8GB"
+      },
+      {
+        "Price": 1299.00,
+        "Features": [
+          "850WR",
+          "342mm",
+          "1x16Pin",
+          "DLSS3",
+          "3xFan",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-05T07:48:09.3555923-05:00",
+        "Update": "2023-11-05T10:12:40.5903682-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4080 Eagle OC 16GB"
+      },
+      {
+        "Price": 245.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "500WR",
+          "200mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-05T07:48:12.4491481-05:00",
+        "Update": "2023-11-05T10:12:40.6055295-05:00",
+        "Label": "Tarjeta de Video PowerColor RX 6600 Fighter 8GB"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "450WR",
+          "216mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-05T07:48:15.4031658-05:00",
+        "Update": "2023-11-05T10:12:40.6186783-05:00",
+        "Label": "Tarjeta de Video Zotac Gaming GTX 1660 6GB"
       }
     ]
   },
@@ -3474,6 +3533,21 @@
         "Date": "2023-07-09T16:45:11.3382579-04:00",
         "Update": "2023-10-28T09:10:46.4704015-04:00",
         "Label": "COMBO Teclado + Mouse Logitech MK270"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "Macros",
+          "Aluminio",
+          "PBT",
+          "RGB",
+          "Opticos",
+          "Clicky",
+          "Gaming"
+        ],
+        "Date": "2023-11-05T07:48:21.938533-05:00",
+        "Update": "2023-11-05T10:12:40.6440254-05:00",
+        "Label": "Teclado Razer Huntsman Mini 60%"
       }
     ],
     "Mouse": [
@@ -3798,6 +3872,58 @@
         "Date": "2023-06-19T07:49:07.3176421-04:00",
         "Update": "2023-11-03T12:22:11.708199-04:00",
         "Label": "Mouse Corsair IRONCLAW RGB Wireless"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "30000dpi",
+          "Multi devices",
+          "RGB",
+          "11 botónes",
+          "Inmalámbrico",
+          "Gaming",
+          "Optico"
+        ],
+        "Date": "2023-11-05T07:48:26.031639-05:00",
+        "Update": "2023-11-05T10:12:40.6596145-05:00",
+        "Label": "Mouse Razer Basilisk V3 Pro Black"
+      },
+      {
+        "Price": 89.00,
+        "Features": [
+          "Wifi",
+          "Bluetooth",
+          "Dual",
+          "16000dpi",
+          "450ips",
+          "450H",
+          "Mecánico",
+          "Inmalámbrico",
+          "Gaming",
+          "6 botónes",
+          "Optico"
+        ],
+        "Date": "2023-11-05T07:48:29.4035139-05:00",
+        "Update": "2023-11-05T10:12:40.6745155-05:00",
+        "Label": "Mouse Razer Basilisk X Hyperspeed Black"
+      },
+      {
+        "Price": 71.00,
+        "Features": [
+          "60g",
+          "Wifi",
+          "Bluetooth",
+          "Dual",
+          "950H",
+          "PTFE",
+          "Inmalámbrico",
+          "Gaming",
+          "6 botónes",
+          "Optico"
+        ],
+        "Date": "2023-11-05T07:48:32.4491843-05:00",
+        "Update": "2023-11-05T10:12:40.6869655-05:00",
+        "Label": "Mouse Razer Orochi V2 Black"
       }
     ],
     "Silla": [
@@ -3890,6 +4016,19 @@
         "Date": "2023-08-01T11:14:11.0346434-04:00",
         "Update": "2023-11-05T07:47:36.6970219-05:00",
         "Label": "Webcam Goaic L32C 4K"
+      },
+      {
+        "Price": 79.00,
+        "Features": [
+          "1080p",
+          "Autofocus",
+          "Stereo",
+          "Micrófono",
+          "USB"
+        ],
+        "Date": "2023-11-05T07:48:45.3109671-05:00",
+        "Update": "2023-11-05T10:12:40.7130244-05:00",
+        "Label": "Webcam Logitech C922x"
       }
     ],
     "Adaptador": [
@@ -4120,6 +4259,25 @@
         "Date": "2023-11-03T12:23:45.8463765-04:00",
         "Update": "2023-11-03T14:29:33.2957812-04:00",
         "Label": "Auriculares Corsair HS70 Pro Wireless"
+      },
+      {
+        "Price": 109.00,
+        "Features": [
+          "Wifi",
+          "Bluetooth",
+          "Dual",
+          "250g",
+          "40mm",
+          "50H",
+          "USB-C",
+          "Inalámbrico",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-11-05T07:48:18.724385-05:00",
+        "Update": "2023-11-05T10:12:40.6318065-05:00",
+        "Label": "Auriculares Razer Barracuda X Wireless Black"
       }
     ],
     "Monitor": [
