@@ -82,6 +82,14 @@
         "Update": "2023-11-05T07:47:36.6636044-05:00",
         "Discount": 10.0,
         "Label": "Kit i7-13700K + Asus ROG Strix Z690-F Gaming Wifi + 32GB DDR5"
+      },
+      {
+        "Price": 1125.00,
+        "Features": [],
+        "Date": "2023-09-13T12:55:25.5938136-04:00",
+        "Update": "2023-11-06T10:17:44.399151-05:00",
+        "Discount": 14.0,
+        "Label": "Kit i9-13900K + Asus ROG Strix Z790-H Gaming Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
       }
     ],
     "Moderado": [
@@ -209,6 +217,20 @@
         "Update": "2023-11-05T07:47:36.719435-05:00",
         "Discount": 14.0,
         "Label": "Kit i7-12700K + Asus TUF Z690-Plus Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 811.00,
+        "Features": [
+          "24 Hilos",
+          "5.4GHz",
+          "Wifi",
+          "9xUSB",
+          "2x16GB"
+        ],
+        "Date": "2023-10-12T12:41:46.1677891-04:00",
+        "Update": "2023-11-06T10:17:44.4300527-05:00",
+        "Discount": 8.0,
+        "Label": "Kit i7-13700K +Board Z790 + 32GB 7200mhz DDR5 Trident Z5 RGB"
       }
     ],
     "Esencial": [
@@ -1341,6 +1363,25 @@
         "Date": "2023-09-11T09:09:29.0343419-04:00",
         "Update": "2023-11-03T12:22:11.728327-04:00",
         "Label": "Fuente Apevia Spirit 600W"
+      },
+      {
+        "Price": 289.00,
+        "Features": [
+          "80+ PLATINUM",
+          "ARGB",
+          "Full Modular",
+          "1x 16Pin",
+          "71A",
+          "2x 4+4 EPS",
+          "3x 6+2Pin",
+          "10x SATA",
+          "160mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-08-08T10:02:44.4021387-04:00",
+        "Update": "2023-11-06T10:17:44.4414449-05:00",
+        "Label": "Fuente Asus ROG Thor 850W Platinum II"
       }
     ],
     "Disipador Líquido": [
@@ -2662,6 +2703,17 @@
         "Date": "2023-05-11T08:37:56.7258334-04:00",
         "Update": "2023-11-05T07:47:36.7079821-05:00",
         "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "CL34",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-08-16T09:17:00.7000046-04:00",
+        "Update": "2023-11-06T10:17:44.4174324-05:00",
+        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
       }
     ],
     "Microprocesador": [
@@ -3231,6 +3283,23 @@
         "Date": "2023-11-05T07:48:15.4031658-05:00",
         "Update": "2023-11-05T10:12:40.6186783-05:00",
         "Label": "Tarjeta de Video Zotac Gaming GTX 1660 6GB"
+      },
+      {
+        "Price": 269.00,
+        "Features": [
+          "8GB",
+          "3xFan",
+          "1x8Pin",
+          "500WR",
+          "282mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-05-11T19:24:18.7527581-04:00",
+        "Update": "2023-11-06T10:17:44.4532976-05:00",
+        "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
       }
     ]
   },
@@ -3436,6 +3505,23 @@
         "Date": "2023-11-05T07:48:21.938533-05:00",
         "Update": "2023-11-05T10:12:40.6440254-05:00",
         "Label": "Teclado Razer Huntsman Mini 60%"
+      },
+      {
+        "Price": 109.00,
+        "Features": [
+          "60%",
+          "Mecánico",
+          "RGB",
+          "Inalámbrico",
+          "Macros",
+          "Gaming",
+          "TKL",
+          "Blanco",
+          "Cable"
+        ],
+        "Date": "2023-07-26T18:46:35.01659-04:00",
+        "Update": "2023-11-06T10:17:44.3830659-05:00",
+        "Label": "Teclado Cooler Master SK622 RGB White"
       }
     ],
     "Mouse": [
