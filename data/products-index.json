@@ -292,18 +292,6 @@
         "Update": "2023-10-25T13:26:44.7875189-04:00",
         "Discount": 8.0,
         "Label": "Kit Ryzen 5 +8GB DDR4 Disipadas +Disipador +Board B550M Pro"
-      },
-      {
-        "Price": 469.00,
-        "Features": [
-          "20 Hilos",
-          "Dual Channel",
-          "2x8GB"
-        ],
-        "Date": "2023-10-12T12:02:21.7155899-04:00",
-        "Update": "2023-10-31T11:23:29.3256493-04:00",
-        "Discount": 13.0,
-        "Label": "Kit i5 13Gen +Disipador +Board MSI Pro + 16GB DDR4 Silicon Power 3200mhz"
       }
     ]
   },
@@ -351,13 +339,6 @@
         "Date": "2023-07-17T23:37:41.8646-04:00",
         "Update": "2023-07-18T00:15:27.6816958-04:00",
         "Label": "Cable PWM Fan Hub PC 5 Way Splitter 4Pin"
-      },
-      {
-        "Price": 27.00,
-        "Features": [],
-        "Date": "2023-07-17T23:39:08.2912576-04:00",
-        "Update": "2023-07-18T00:35:15.5294629-04:00",
-        "Label": "Cooler Master MasterFan ARGB and PWM Hub - 6 Ports"
       },
       {
         "Price": 18.00,
@@ -1741,16 +1722,6 @@
     ],
     "Disco Duro": [
       {
-        "Price": 59.00,
-        "Features": [
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-04-09T11:00:53.9233885-04:00",
-        "Update": "2023-06-19T11:56:16.8770243-04:00",
-        "Label": "HDD 2.5 Seagate BarraCuda 1TB"
-      },
-      {
         "Price": 79.00,
         "Features": [
           "SATA 3",
@@ -2232,25 +2203,6 @@
         "Label": "Motherboard Asus ROG Strix Z690-F Gaming Wifi"
       },
       {
-        "Price": 185.00,
-        "Features": [
-          "AM4",
-          "AMD",
-          "6xSATA",
-          "6xUSB",
-          "DDR4",
-          "4733mhz",
-          "ATX",
-          "PS2",
-          "DVI",
-          "HDMI",
-          "3xAudio"
-        ],
-        "Date": "2023-07-13T11:32:04.6371575-04:00",
-        "Update": "2023-11-05T07:47:36.6852756-05:00",
-        "Label": "Motherboard Gigabyte B550 Gaming X V2"
-      },
-      {
         "Price": 135.00,
         "Features": [
           "12va-13ra-14va",
@@ -2322,31 +2274,6 @@
         "Date": "2023-06-07T15:04:28.5510666-04:00",
         "Update": "2023-10-09T17:48:20.8414306-04:00",
         "Label": "Disipador Intel Stock Original"
-      },
-      {
-        "Price": 119.00,
-        "Features": [
-          "Dual",
-          "2xFan",
-          "6xPipes",
-          "ARGB",
-          "Premium",
-          "52cfm",
-          "27dBA",
-          "Cobre",
-          "157mm",
-          "2050rpm",
-          "Negro",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4",
-          "AM5",
-          "Tower"
-        ],
-        "Date": "2023-07-26T18:49:11.7802452-04:00",
-        "Update": "2023-10-09T17:48:21.1813499-04:00",
-        "Label": "Disipador Cooler Master Hyper 622 Halo Black"
       },
       {
         "Price": 43.00,
@@ -2491,26 +2418,6 @@
         "Date": "2023-10-28T11:53:27.2541098-04:00",
         "Update": "2023-10-28T13:51:53.488839-04:00",
         "Label": "Disipador Thermalright Assassin King 120 SE White"
-      },
-      {
-        "Price": 39.00,
-        "Features": [
-          "Cobre",
-          "36cfm",
-          "26dBa",
-          "130mm",
-          "LGA1700",
-          "LGA1200",
-          "LGA115X",
-          "AM5",
-          "AM4",
-          "2xPipes",
-          "Tower",
-          "Negro"
-        ],
-        "Date": "2023-08-08T10:08:41.3850156-04:00",
-        "Update": "2023-10-31T11:23:29.2932721-04:00",
-        "Label": "Disipador Sama KA200D"
       }
     ],
     "Memoria RAM": [
@@ -3475,25 +3382,6 @@
         "Label": "Teclado NZXT Function TKL"
       },
       {
-        "Price": 169.00,
-        "Features": [
-          "RGB",
-          "agua-polvo",
-          "Mecánico",
-          "Aluminio",
-          "Macros",
-          "iCUE",
-          "Palm rest",
-          "Gaming",
-          "Multimedia",
-          "Full",
-          "USB"
-        ],
-        "Date": "2023-09-23T14:08:49.6528943-04:00",
-        "Update": "2023-09-23T15:28:21.1886075-04:00",
-        "Label": "Teclado Corsair Gaming K68"
-      },
-      {
         "Price": 75.00,
         "Features": [
           "RGB",
@@ -4450,7 +4338,7 @@
         "Label": "Monitor MSI 24\" G2422P"
       },
       {
-        "Price": 415.00,
+        "Price": 425.00,
         "Features": [
           "IPS",
           "300nit",
@@ -4475,16 +4363,6 @@
         "Date": "2023-10-02T14:29:27.3170143-04:00",
         "Update": "2023-10-09T17:48:21.5099705-04:00",
         "Label": "Caja Externo 3.5 Orico USB 3.0 3588US3-BK"
-      },
-      {
-        "Price": 17.00,
-        "Features": [
-          "USB-A",
-          "Enclosure"
-        ],
-        "Date": "2023-10-09T15:59:09.8737048-04:00",
-        "Update": "2023-10-09T17:48:21.9573653-04:00",
-        "Label": "Caja Externo 2.5 Orico USB 3.0 PDD25U3-BK-EP"
       },
       {
         "Price": 25.00,
