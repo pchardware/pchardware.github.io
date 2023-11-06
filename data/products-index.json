@@ -84,7 +84,7 @@
         "Label": "Kit i7-13700K + Asus ROG Strix Z690-F Gaming Wifi + 32GB DDR5"
       },
       {
-        "Price": 1125.00,
+        "Price": 1135.00,
         "Features": [],
         "Date": "2023-09-13T12:55:25.5938136-04:00",
         "Update": "2023-11-06T10:17:44.399151-05:00",
@@ -219,7 +219,7 @@
         "Label": "Kit i7-12700K + Asus TUF Z690-Plus Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       },
       {
-        "Price": 811.00,
+        "Price": 821.00,
         "Features": [
           "24 Hilos",
           "5.4GHz",
@@ -1058,7 +1058,7 @@
         "Label": "Corsair Cable Kit Red"
       },
       {
-        "Price": 99.00,
+        "Price": 79.00,
         "Features": [
           "80+ Platinum",
           "Servidor",
@@ -1262,7 +1262,7 @@
         "Label": "Fuente Corsair RM1200e 1200W"
       },
       {
-        "Price": 199.00,
+        "Price": 195.00,
         "Features": [
           "PCIe 5.0",
           "80+ Gold",
@@ -2683,7 +2683,7 @@
         "Label": "DDR4 G.SKILL TridentZ RGB 32GB 3600mhz"
       },
       {
-        "Price": 175.00,
+        "Price": 165.00,
         "Features": [
           "2x16GB",
           "CL36",
@@ -2705,7 +2705,7 @@
         "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       },
       {
-        "Price": 165.00,
+        "Price": 175.00,
         "Features": [
           "CL34",
           "2x16GB",
@@ -3053,7 +3053,7 @@
         "Label": "Tarjeta de Video EVGA GT 730 2GB"
       },
       {
-        "Price": 335.00,
+        "Price": 329.00,
         "Features": [
           "2xFan",
           "450WR",
@@ -3085,7 +3085,7 @@
         "Label": "Tarjeta de Video EVGA RTX 3080Ti XC3 Hydro Copper 12GB"
       },
       {
-        "Price": 849.00,
+        "Price": 835.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -3102,7 +3102,7 @@
         "Label": "Tarjeta de Video MSI Ventus 3X RTX 4070Ti OC 12GB"
       },
       {
-        "Price": 745.00,
+        "Price": 735.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -3152,7 +3152,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4080 Gaming OC 16GB"
       },
       {
-        "Price": 1065.00,
+        "Price": 1035.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -3185,7 +3185,7 @@
         "Label": "Tarjeta de Video Gigabyte RX 7600 8GB"
       },
       {
-        "Price": 975.00,
+        "Price": 955.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -3202,7 +3202,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Elite 12GB"
       },
       {
-        "Price": 1035.00,
+        "Price": 999.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -3269,7 +3269,7 @@
         "Label": "Tarjeta de Video PowerColor RX 6600 Fighter 8GB"
       },
       {
-        "Price": 215.00,
+        "Price": 209.00,
         "Features": [
           "2xFan",
           "1x8Pin",
