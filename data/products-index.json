@@ -1382,6 +1382,26 @@
         "Date": "2023-08-08T10:02:44.4021387-04:00",
         "Update": "2023-11-06T10:17:44.4414449-05:00",
         "Label": "Fuente Asus ROG Thor 850W Platinum II"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "ATX 3.0",
+          "80+ Gold",
+          "Full Modular",
+          "100A",
+          "1x 16Pin",
+          "6x 6+2Pin",
+          "2x 4+4 EPS",
+          "150mm",
+          "8xSATA",
+          "4x PATA",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-11-06T10:30:16.8475505-05:00",
+        "Update": "2023-11-06T11:07:44.0628266-05:00",
+        "Label": "Fuente NZXT C1200 1200W"
       }
     ],
     "Disipador Líquido": [
@@ -2261,6 +2281,24 @@
         "Date": "2023-11-05T07:48:41.4514786-05:00",
         "Update": "2023-11-05T10:12:40.6998087-05:00",
         "Label": "Motherboard Gigabyte B660M DS3H DDR4"
+      },
+      {
+        "Price": 249.00,
+        "Features": [
+          "AM4",
+          "5100mhz",
+          "7xUSB",
+          "6xSATA",
+          "BIOS Flashback",
+          "HDMI",
+          "DisplayPort",
+          "6xAudio",
+          "DDR4",
+          "ATX"
+        ],
+        "Date": "2023-11-06T10:29:25.1579455-05:00",
+        "Update": "2023-11-06T11:07:44.01735-05:00",
+        "Label": "Motherboard Asus ROG Strix B550-F Gaming Wifi II"
       }
     ],
     "Disipador por Aire": [
@@ -2714,6 +2752,39 @@
         "Date": "2023-08-16T09:17:00.7000046-04:00",
         "Update": "2023-11-06T10:17:44.4174324-05:00",
         "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
+      },
+      {
+        "Price": 139.00,
+        "Features": [
+          "2x16GB",
+          "CL40",
+          "Disipadas"
+        ],
+        "Date": "2023-11-06T10:30:04.8515348-05:00",
+        "Update": "2023-11-06T11:07:44.0284691-05:00",
+        "Label": "RAM DDR5 Corsair Vengeance 32GB 7000mhz"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "2x16GB",
+          "CL34",
+          "Disipadas"
+        ],
+        "Date": "2023-11-06T10:30:08.3285573-05:00",
+        "Update": "2023-11-06T11:07:44.0403353-05:00",
+        "Label": "RAM DDR5 Corsair Dominator Titanium RGB 32GB 7200mhz"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "2x16GB",
+          "C18",
+          "Disipadas"
+        ],
+        "Date": "2023-11-06T10:30:23.8952546-05:00",
+        "Update": "2023-11-06T11:07:44.0852671-05:00",
+        "Label": "RAM DDR4 Patriot Viper Steel 32GB 3600mhz"
       }
     ],
     "Microprocesador": [
@@ -3300,6 +3371,22 @@
         "Date": "2023-05-11T19:24:18.7527581-04:00",
         "Update": "2023-11-06T10:17:44.4532976-05:00",
         "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
+      },
+      {
+        "Price": 259.00,
+        "Features": [
+          "2xFan",
+          "500WR",
+          "1x6Pin",
+          "205mm",
+          "NVIDIA",
+          "GPU",
+          "Gráfica",
+          "DLSS2"
+        ],
+        "Date": "2023-11-06T10:30:19.884438-05:00",
+        "Update": "2023-11-06T11:07:44.0742199-05:00",
+        "Label": "Tarjeta de Video MSI Ventus RTX 3050 2X XS 8GB OC"
       }
     ]
   },
