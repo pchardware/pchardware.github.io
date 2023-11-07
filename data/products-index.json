@@ -497,18 +497,6 @@
         "Label": "Corsair PCIe Gen 5 Cable"
       },
       {
-        "Price": 41.00,
-        "Features": [
-          "PCIe x1",
-          "6.0 Gbs",
-          "Interna",
-          "Adaptador"
-        ],
-        "Date": "2023-09-11T09:09:53.366551-04:00",
-        "Update": "2023-10-13T09:24:44.4358011-04:00",
-        "Label": "Expansión Weastlinks 4xSATA"
-      },
-      {
         "Price": 25.00,
         "Features": [],
         "Date": "2023-10-09T15:58:54.823495-04:00",
@@ -1784,7 +1772,7 @@
         "Label": "HDD 3.5 Seagate EXOS 12TB Recertified"
       },
       {
-        "Price": 149.00,
+        "Price": 159.00,
         "Features": [
           "Enterprise",
           "7200rpm",
@@ -4337,24 +4325,6 @@
         "Date": "2023-05-12T07:52:40.6205045-04:00",
         "Update": "2023-10-31T15:04:42.8798518-04:00",
         "Label": "Auriculares Corsair VOID RGB Elite Wireless Carbon"
-      },
-      {
-        "Price": 129.00,
-        "Features": [
-          "Noise Control",
-          "20Hz-30KHz",
-          "50mm",
-          "7.1",
-          "16H",
-          "iCUE",
-          "Inalámbrico",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-09-23T14:08:54.0159291-04:00",
-        "Update": "2023-10-31T15:04:42.8934079-04:00",
-        "Label": "Auriculares Corsair VOID RGB Elite Wireless White"
       },
       {
         "Price": 139.00,
