@@ -1839,377 +1839,6 @@
         "Label": "Expansión Derapid Wifi AC1200 Dual Band + Bluetooth"
       }
     ],
-    "Board": [
-      {
-        "Price": 189.00,
-        "Features": [
-          "12va-13ra",
-          "Dual Lan",
-          "8xUSB",
-          "6xAudio",
-          "DDR4",
-          "5333mhz",
-          "4xSATA",
-          "LGA 1700",
-          "ATX",
-          "HDMI",
-          "DisplayPort"
-        ],
-        "Date": "2023-02-17T09:46:18.404887-05:00",
-        "Update": "2023-10-09T17:48:20.6354754-04:00",
-        "Label": "Motherboard Asus B660 ProArt Creator D4"
-      },
-      {
-        "Price": 395.00,
-        "Features": [
-          "12va-13ra",
-          "DDR5",
-          "8xUSB",
-          "Wifi",
-          "6xAudio",
-          "6xSATA",
-          "6400mhz",
-          "LGA 1700",
-          "ATX",
-          "HDMI"
-        ],
-        "Date": "2023-06-19T07:50:08.4731323-04:00",
-        "Update": "2023-10-09T17:48:20.650251-04:00",
-        "Label": "Motherboard Asus ROG Maximus Z690 Hero"
-      },
-      {
-        "Price": 185.00,
-        "Features": [
-          "12va-13ra",
-          "DDR5",
-          "8xUSB",
-          "Wifi",
-          "7600mhz",
-          "4xSATA",
-          "LGA 1700",
-          "Micro ATX",
-          "HDMI",
-          "DisplayPort",
-          "3xAudio"
-        ],
-        "Date": "2023-06-29T07:39:17.5627753-04:00",
-        "Update": "2023-10-09T17:48:20.6625757-04:00",
-        "Label": "Motherboard Gigabyte Aorus B760M Elite AX"
-      },
-      {
-        "Price": 325.00,
-        "Features": [
-          "12va-13ra",
-          "10xUSB",
-          "DDR5",
-          "6xAudio",
-          "6xSATA",
-          "6400mhz",
-          "LGA 1700",
-          "ATX",
-          "DisplayPort",
-          "HDMI"
-        ],
-        "Date": "2023-05-11T07:51:07.1403838-04:00",
-        "Update": "2023-10-09T17:48:20.7776486-04:00",
-        "Label": "Motherboard Asus ROG Strix Z690-E Gaming Wifi"
-      },
-      {
-        "Price": 349.00,
-        "Features": [
-          "12va-13ra",
-          "DDR5",
-          "7800mhz",
-          "8xUSB",
-          "6xAudio",
-          "4xSATA",
-          "LGA 1700",
-          "ATX",
-          "DisplayPort",
-          "HDMI"
-        ],
-        "Date": "2023-03-29T20:18:17.8757341-04:00",
-        "Update": "2023-10-09T17:48:20.7933469-04:00",
-        "Label": "Motherboard Asus ROG Strix Z790-H Gaming Wifi"
-      },
-      {
-        "Price": 255.00,
-        "Features": [
-          "12va-13ra",
-          "DDR5",
-          "7600mhz",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "LGA 1700",
-          "ATX",
-          "PS2",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio"
-        ],
-        "Date": "2023-07-26T18:48:17.6030093-04:00",
-        "Update": "2023-10-09T17:48:20.8572039-04:00",
-        "Label": "Motherboard Gigabyte Z790 UD AX"
-      },
-      {
-        "Price": 239.00,
-        "Features": [
-          "12va-13ra",
-          "6xAudio",
-          "6xUSB",
-          "4xSATA",
-          "6000mhz",
-          "LGA1700",
-          "HDMI",
-          "DisplayPort"
-        ],
-        "Date": "2023-05-11T07:56:36.6020035-04:00",
-        "Update": "2023-10-09T17:48:21.3993427-04:00",
-        "Label": "Motherboard Asus TUF Z690-Plus Wifi DDR5"
-      },
-      {
-        "Price": 289.00,
-        "Features": [
-          "12va-13ra",
-          "DDR5",
-          "7600mhz",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "LGA 1700",
-          "ATX",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio"
-        ],
-        "Date": "2023-10-03T06:55:49.2464488-04:00",
-        "Update": "2023-10-09T17:48:21.82472-04:00",
-        "Label": "Motherboard Gigabyte Z790 Aorus Elite AX"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "AM4",
-          "4533mhz",
-          "6xUSB",
-          "DDR4",
-          "4xSATA",
-          "Micro ATX",
-          "HDMI",
-          "DisplayPort",
-          "3xAudio"
-        ],
-        "Date": "2023-10-11T10:56:39.5272184-04:00",
-        "Update": "2023-10-11T14:20:31.0836927-04:00",
-        "Label": "Motherboard ASRock B550M Pro SE"
-      },
-      {
-        "Price": 269.00,
-        "Features": [
-          "12va-13ra",
-          "7200mhz",
-          "DDR5",
-          "Wifi",
-          "Dual Lan",
-          "7xUSB",
-          "4xSATA",
-          "HDMI",
-          "LGA 1700",
-          "6xAudio",
-          "ATX"
-        ],
-        "Date": "2023-10-16T10:24:22.1843395-04:00",
-        "Update": "2023-10-16T12:23:12.8070251-04:00",
-        "Label": "Motherboard MSI Z790 Gaming Pro Wifi"
-      },
-      {
-        "Price": 159.00,
-        "Features": [
-          "12va-13ra",
-          "4800mhz",
-          "DDR4",
-          "6xUSB",
-          "4xSATA",
-          "HDMI",
-          "LGA 1700",
-          "3xAudio",
-          "Micro ATX"
-        ],
-        "Date": "2023-10-16T10:24:36.0269962-04:00",
-        "Update": "2023-10-16T12:23:12.851385-04:00",
-        "Label": "Motherboard ASRock Z690M Phantom Gaming 4"
-      },
-      {
-        "Price": 195.00,
-        "Features": [
-          "12va-13ra",
-          "8xSATA",
-          "4800mhz",
-          "6xAudio",
-          "DDR4",
-          "6xUSB",
-          "HDMI",
-          "PS2",
-          "LGA 1700",
-          "ATX"
-        ],
-        "Date": "2023-10-19T09:32:16.7888545-04:00",
-        "Update": "2023-10-19T12:33:04.6711589-04:00",
-        "Label": "Motherboard ASRock Z690 PG Riptide DDR4"
-      },
-      {
-        "Price": 183.00,
-        "Features": [
-          "12va-13ra",
-          "DDR5",
-          "5800mhz",
-          "PCIe 5.0",
-          "M.2 Gen4",
-          "Bios Flashback",
-          "3xM.2",
-          "7xUSB",
-          "HDMI",
-          "4xSATA",
-          "LGA 1700",
-          "3xAudio",
-          "PS2"
-        ],
-        "Date": "2023-10-23T12:32:47.8333341-04:00",
-        "Update": "2023-10-23T13:18:33.9510723-04:00",
-        "Label": "Motherboard ASRock Z690 Phantom Gaming 4 D5"
-      },
-      {
-        "Price": 255.00,
-        "Features": [
-          "AM5",
-          "DDR5",
-          "6400mhz",
-          "Wifi",
-          "5xAudio",
-          "6xUSB",
-          "4xSATA",
-          "DisplayPort",
-          "HDMI",
-          "ATX"
-        ],
-        "Date": "2023-10-03T06:55:51.8601602-04:00",
-        "Update": "2023-10-26T09:01:25.8509468-04:00",
-        "Label": "Motherboard Asus TUF Gaming B650-Plus Wifi"
-      },
-      {
-        "Price": 235.00,
-        "Features": [
-          "AM4",
-          "5100mhz",
-          "7xUSB",
-          "DDR4",
-          "6xSATA",
-          "ATX",
-          "HDMI",
-          "DisplayPort",
-          "6xAudio"
-        ],
-        "Date": "2023-10-18T06:47:41.8989573-04:00",
-        "Update": "2023-10-31T11:23:29.3510905-04:00",
-        "Label": "Motherboard Asus ROG Strix B550-A Gaming"
-      },
-      {
-        "Price": 189.00,
-        "Features": [
-          "10ma-11na",
-          "7xUSB",
-          "BIOS FlashBack",
-          "Wifi",
-          "6xAudio",
-          "6xSATA",
-          "DDR4",
-          "LGA 1200",
-          "ATX",
-          "HDMI",
-          "DisplayPort",
-          "PS2"
-        ],
-        "Date": "2023-10-28T11:52:00.1054489-04:00",
-        "Update": "2023-10-31T11:23:29.4076233-04:00",
-        "Label": "Motherboard MSI Z590 Pro Wifi CEC"
-      },
-      {
-        "Price": 235.00,
-        "Features": [
-          "12va-13ra",
-          "DDR5",
-          "Wifi",
-          "8xUSB",
-          "6xSATA",
-          "6000mhz",
-          "LGA 1700",
-          "ATX",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio"
-        ],
-        "Date": "2023-07-17T23:39:45.1712194-04:00",
-        "Update": "2023-10-31T23:27:31.0447749-04:00",
-        "Label": "Motherboard Gigabyte Z690 AERO G"
-      },
-      {
-        "Price": 295.00,
-        "Features": [
-          "12va-13ra",
-          "DDR5",
-          "6400mhz",
-          "BIOS FlashBack",
-          "8xUSB",
-          "6xAudio",
-          "6xSATA",
-          "HDMI",
-          "DisplayPort",
-          "LGA 1700",
-          "ATX"
-        ],
-        "Date": "2023-05-11T07:52:19.4562926-04:00",
-        "Update": "2023-11-03T12:22:11.7387057-04:00",
-        "Label": "Motherboard Asus ROG Strix Z690-F Gaming Wifi"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "12va-13ra-14va",
-          "5333mhz",
-          "4xSATA",
-          "5xUSB",
-          "Micro ATX",
-          "HDMI",
-          "2xDisplayPort",
-          "VGA",
-          "PS2",
-          "LGA 1700",
-          "3xAudio"
-        ],
-        "Date": "2023-11-05T07:48:41.4514786-05:00",
-        "Update": "2023-11-05T10:12:40.6998087-05:00",
-        "Label": "Motherboard Gigabyte B660M DS3H DDR4"
-      },
-      {
-        "Price": 249.00,
-        "Features": [
-          "AM4",
-          "5100mhz",
-          "7xUSB",
-          "6xSATA",
-          "BIOS Flashback",
-          "HDMI",
-          "DisplayPort",
-          "6xAudio",
-          "DDR4",
-          "ATX"
-        ],
-        "Date": "2023-11-06T10:29:25.1579455-05:00",
-        "Update": "2023-11-06T11:07:44.01735-05:00",
-        "Label": "Motherboard Asus ROG Strix B550-F Gaming Wifi II"
-      }
-    ],
     "Disipador por Aire": [
       {
         "Price": 9.00,
@@ -3247,6 +2876,398 @@
         "Date": "2023-11-06T10:30:19.884438-05:00",
         "Update": "2023-11-06T11:07:44.0742199-05:00",
         "Label": "Tarjeta de Video MSI Ventus RTX 3050 2X XS 8GB OC"
+      }
+    ],
+    "Board": [
+      {
+        "Price": 189.00,
+        "Features": [
+          "12va-13ra",
+          "Dual Lan",
+          "8xUSB",
+          "6xAudio",
+          "DDR4",
+          "5333mhz",
+          "4xSATA",
+          "LGA 1700",
+          "ATX",
+          "HDMI",
+          "DisplayPort",
+          "MOBO"
+        ],
+        "Date": "2023-02-17T09:46:18.404887-05:00",
+        "Update": "2023-11-07T17:32:40.2417728-05:00",
+        "Label": "Board Asus B660 ProArt Creator D4"
+      },
+      {
+        "Price": 395.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "8xUSB",
+          "Wifi",
+          "6xAudio",
+          "6xSATA",
+          "6400mhz",
+          "LGA 1700",
+          "ATX",
+          "HDMI",
+          "MOBO"
+        ],
+        "Date": "2023-06-19T07:50:08.4731323-04:00",
+        "Update": "2023-11-07T17:32:40.2568825-05:00",
+        "Label": "Board Asus ROG Maximus Z690 Hero"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "8xUSB",
+          "Wifi",
+          "7600mhz",
+          "4xSATA",
+          "LGA 1700",
+          "Micro ATX",
+          "HDMI",
+          "DisplayPort",
+          "3xAudio",
+          "MOBO"
+        ],
+        "Date": "2023-06-29T07:39:17.5627753-04:00",
+        "Update": "2023-11-07T17:32:40.2753127-05:00",
+        "Label": "Board Gigabyte Aorus B760M Elite AX"
+      },
+      {
+        "Price": 325.00,
+        "Features": [
+          "12va-13ra",
+          "10xUSB",
+          "DDR5",
+          "6xAudio",
+          "6xSATA",
+          "6400mhz",
+          "LGA 1700",
+          "ATX",
+          "DisplayPort",
+          "HDMI",
+          "MOBO"
+        ],
+        "Date": "2023-05-11T07:51:07.1403838-04:00",
+        "Update": "2023-11-07T17:32:40.2967103-05:00",
+        "Label": "Board Asus ROG Strix Z690-E Gaming Wifi"
+      },
+      {
+        "Price": 349.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "7800mhz",
+          "8xUSB",
+          "6xAudio",
+          "4xSATA",
+          "LGA 1700",
+          "ATX",
+          "DisplayPort",
+          "HDMI",
+          "MOBO"
+        ],
+        "Date": "2023-03-29T20:18:17.8757341-04:00",
+        "Update": "2023-11-07T17:32:40.3121814-05:00",
+        "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "7600mhz",
+          "Wifi",
+          "9xUSB",
+          "6xSATA",
+          "LGA 1700",
+          "ATX",
+          "PS2",
+          "DisplayPort",
+          "HDMI",
+          "3xAudio",
+          "MOBO"
+        ],
+        "Date": "2023-07-26T18:48:17.6030093-04:00",
+        "Update": "2023-11-07T17:32:40.3269567-05:00",
+        "Label": "Board Gigabyte Z790 UD AX"
+      },
+      {
+        "Price": 239.00,
+        "Features": [
+          "12va-13ra",
+          "6xAudio",
+          "6xUSB",
+          "4xSATA",
+          "6000mhz",
+          "LGA1700",
+          "HDMI",
+          "DisplayPort",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-05-11T07:56:36.6020035-04:00",
+        "Update": "2023-11-07T17:32:40.3432246-05:00",
+        "Label": "Board Asus TUF Z690-Plus Wifi DDR5"
+      },
+      {
+        "Price": 289.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "7600mhz",
+          "Wifi",
+          "9xUSB",
+          "6xSATA",
+          "LGA 1700",
+          "ATX",
+          "DisplayPort",
+          "HDMI",
+          "3xAudio",
+          "MOBO"
+        ],
+        "Date": "2023-10-03T06:55:49.2464488-04:00",
+        "Update": "2023-11-07T17:32:40.3579339-05:00",
+        "Label": "Board Gigabyte Z790 Aorus Elite AX"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "AM4",
+          "4533mhz",
+          "6xUSB",
+          "DDR4",
+          "4xSATA",
+          "Micro ATX",
+          "HDMI",
+          "DisplayPort",
+          "3xAudio",
+          "MOBO"
+        ],
+        "Date": "2023-10-11T10:56:39.5272184-04:00",
+        "Update": "2023-11-07T17:32:40.3740019-05:00",
+        "Label": "Board ASRock B550M Pro SE"
+      },
+      {
+        "Price": 269.00,
+        "Features": [
+          "12va-13ra",
+          "7200mhz",
+          "DDR5",
+          "Wifi",
+          "Dual Lan",
+          "7xUSB",
+          "4xSATA",
+          "HDMI",
+          "LGA 1700",
+          "6xAudio",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-10-16T10:24:22.1843395-04:00",
+        "Update": "2023-11-07T17:32:40.3908107-05:00",
+        "Label": "Board MSI Z790 Gaming Pro Wifi"
+      },
+      {
+        "Price": 159.00,
+        "Features": [
+          "12va-13ra",
+          "4800mhz",
+          "DDR4",
+          "6xUSB",
+          "4xSATA",
+          "HDMI",
+          "LGA 1700",
+          "3xAudio",
+          "Micro ATX",
+          "MOBO"
+        ],
+        "Date": "2023-10-16T10:24:36.0269962-04:00",
+        "Update": "2023-11-07T17:32:40.4159227-05:00",
+        "Label": "Board ASRock Z690M Phantom Gaming 4"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "12va-13ra",
+          "8xSATA",
+          "4800mhz",
+          "6xAudio",
+          "DDR4",
+          "6xUSB",
+          "HDMI",
+          "PS2",
+          "LGA 1700",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-10-19T09:32:16.7888545-04:00",
+        "Update": "2023-11-07T17:32:40.4451818-05:00",
+        "Label": "Board ASRock Z690 PG Riptide DDR4"
+      },
+      {
+        "Price": 183.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "5800mhz",
+          "PCIe 5.0",
+          "M.2 Gen4",
+          "Bios Flashback",
+          "3xM.2",
+          "7xUSB",
+          "HDMI",
+          "4xSATA",
+          "LGA 1700",
+          "3xAudio",
+          "PS2",
+          "MOBO"
+        ],
+        "Date": "2023-10-23T12:32:47.8333341-04:00",
+        "Update": "2023-11-07T17:32:40.4705536-05:00",
+        "Label": "Board ASRock Z690 Phantom Gaming 4 D5"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "AM5",
+          "DDR5",
+          "6400mhz",
+          "Wifi",
+          "5xAudio",
+          "6xUSB",
+          "4xSATA",
+          "DisplayPort",
+          "HDMI",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-10-03T06:55:51.8601602-04:00",
+        "Update": "2023-11-07T17:32:40.4930836-05:00",
+        "Label": "Board Asus TUF Gaming B650-Plus Wifi"
+      },
+      {
+        "Price": 235.00,
+        "Features": [
+          "AM4",
+          "5100mhz",
+          "7xUSB",
+          "DDR4",
+          "6xSATA",
+          "ATX",
+          "HDMI",
+          "DisplayPort",
+          "6xAudio",
+          "MOBO"
+        ],
+        "Date": "2023-10-18T06:47:41.8989573-04:00",
+        "Update": "2023-11-07T17:32:40.5200972-05:00",
+        "Label": "Board Asus ROG Strix B550-A Gaming"
+      },
+      {
+        "Price": 189.00,
+        "Features": [
+          "10ma-11na",
+          "7xUSB",
+          "BIOS FlashBack",
+          "Wifi",
+          "6xAudio",
+          "6xSATA",
+          "DDR4",
+          "LGA 1200",
+          "ATX",
+          "HDMI",
+          "DisplayPort",
+          "PS2",
+          "MOBO"
+        ],
+        "Date": "2023-10-28T11:52:00.1054489-04:00",
+        "Update": "2023-11-07T17:32:40.5409977-05:00",
+        "Label": "Board MSI Z590 Pro Wifi CEC"
+      },
+      {
+        "Price": 235.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "Wifi",
+          "8xUSB",
+          "6xSATA",
+          "6000mhz",
+          "LGA 1700",
+          "ATX",
+          "DisplayPort",
+          "HDMI",
+          "3xAudio",
+          "MOBO"
+        ],
+        "Date": "2023-07-17T23:39:45.1712194-04:00",
+        "Update": "2023-11-07T17:32:40.5612733-05:00",
+        "Label": "Board Gigabyte Z690 AERO G"
+      },
+      {
+        "Price": 295.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "6400mhz",
+          "BIOS FlashBack",
+          "8xUSB",
+          "6xAudio",
+          "6xSATA",
+          "HDMI",
+          "DisplayPort",
+          "LGA 1700",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-05-11T07:52:19.4562926-04:00",
+        "Update": "2023-11-07T17:32:40.5816108-05:00",
+        "Label": "Board Asus ROG Strix Z690-F Gaming Wifi"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "12va-13ra-14va",
+          "5333mhz",
+          "4xSATA",
+          "5xUSB",
+          "Micro ATX",
+          "HDMI",
+          "2xDisplayPort",
+          "VGA",
+          "PS2",
+          "LGA 1700",
+          "3xAudio",
+          "MOBO"
+        ],
+        "Date": "2023-11-05T07:48:41.4514786-05:00",
+        "Update": "2023-11-07T17:32:40.6026333-05:00",
+        "Label": "Board Gigabyte B660M DS3H DDR4"
+      },
+      {
+        "Price": 249.00,
+        "Features": [
+          "AM4",
+          "5100mhz",
+          "7xUSB",
+          "6xSATA",
+          "BIOS Flashback",
+          "HDMI",
+          "DisplayPort",
+          "6xAudio",
+          "DDR4",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-11-06T10:29:25.1579455-05:00",
+        "Update": "2023-11-07T17:32:40.6221018-05:00",
+        "Label": "Board Asus ROG Strix B550-F Gaming Wifi II"
       }
     ]
   },
