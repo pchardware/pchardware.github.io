@@ -235,19 +235,6 @@
     ],
     "Esencial": [
       {
-        "Price": 379.00,
-        "Features": [
-          "8 hilos",
-          "12 Gen",
-          "Wifi",
-          "8xUSB"
-        ],
-        "Date": "2023-10-14T10:19:58.5127456-04:00",
-        "Update": "2023-10-20T09:03:03.3562063-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i3-12100 +Disipador +Board Aorus Elite AX +16GB DDR5 G.Skill 6000mhz"
-      },
-      {
         "Price": 279.00,
         "Features": [
           "12 Hilos",
@@ -260,34 +247,6 @@
         "Update": "2023-10-20T09:03:03.3693655-04:00",
         "Discount": 8.0,
         "Label": "Kit Ryzen 5 +Disipador +8GB RAM Disipada 3200mhz +Board B550M"
-      },
-      {
-        "Price": 335.00,
-        "Features": [
-          "8 Hilos",
-          "6xUSB",
-          "DDR4",
-          "Disipada"
-        ],
-        "Date": "2023-10-20T08:53:27.1294814-04:00",
-        "Update": "2023-10-20T09:03:03.3826582-04:00",
-        "Discount": 6.0,
-        "Label": "Kit i3 12Gen +8GB RAM 3200mhz +Disipador +Board ASRock Z690"
-      },
-      {
-        "Price": 355.00,
-        "Features": [
-          "2x8GB",
-          "8 hilos",
-          "Dual Channel",
-          "VGA",
-          "HDMI",
-          "4xSATA"
-        ],
-        "Date": "2023-10-12T11:57:20.759658-04:00",
-        "Update": "2023-10-23T00:56:09.4850681-04:00",
-        "Discount": 8.0,
-        "Label": "Kit i3 12Gen +Disipador +Board MSI B760M +RAM DDR4 16GB 3200mhz"
       },
       {
         "Price": 365.00,
@@ -1713,26 +1672,6 @@
         "Label": "Disipador Líquido Asus TUF Gaming LC 120 RGB"
       },
       {
-        "Price": 125.00,
-        "Features": [
-          "1500rpm",
-          "48cfm",
-          "28db",
-          "Copper",
-          "1xFan",
-          "120mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "LGA 20XX",
-          "AM5",
-          "AM4"
-        ],
-        "Date": "2023-05-11T13:08:14.7226355-04:00",
-        "Update": "2023-10-18T07:33:51.8116302-04:00",
-        "Label": "Disipador Líquido Corsair H60x RGB Elite"
-      },
-      {
         "Price": 195.00,
         "Features": [
           "2xFan",
@@ -2132,24 +2071,6 @@
         "Label": "Motherboard ASRock Z690 PG Riptide DDR4"
       },
       {
-        "Price": 155.00,
-        "Features": [
-          "12va-13ra",
-          "4800mhz",
-          "VGA",
-          "5xUSB",
-          "HDMI",
-          "DisplayPort",
-          "Micro ATX",
-          "LGA 1700",
-          "4xSATA",
-          "3xAudio"
-        ],
-        "Date": "2023-10-11T10:56:24.0277774-04:00",
-        "Update": "2023-10-23T00:56:09.4737925-04:00",
-        "Label": "Motherboard MSI Pro B760M-P DDR4"
-      },
-      {
         "Price": 183.00,
         "Features": [
           "12va-13ra",
@@ -2501,17 +2422,6 @@
     ],
     "Memoria RAM": [
       {
-        "Price": 65.00,
-        "Features": [
-          "2x8GB",
-          "Disipadas",
-          "CL18"
-        ],
-        "Date": "2023-03-30T09:56:49.769494-04:00",
-        "Update": "2023-10-09T17:48:20.7030087-04:00",
-        "Label": "RAM DDR4 GeIL ORION RGB 16GB 3600mhz"
-      },
-      {
         "Price": 119.00,
         "Features": [
           "2x16GB",
@@ -2554,17 +2464,6 @@
         "Date": "2023-05-11T08:38:23.3870937-04:00",
         "Update": "2023-10-09T17:48:21.1505023-04:00",
         "Label": "RAM DDR5 Gigabyte AORUS 32GB 5200mhz"
-      },
-      {
-        "Price": 69.00,
-        "Features": [
-          "2x8GB",
-          "Disipadas",
-          "CL19"
-        ],
-        "Date": "2023-09-23T17:45:32.1937207-04:00",
-        "Update": "2023-10-09T17:48:21.2187114-04:00",
-        "Label": "RAM DDR4 Neo Forza FAYE 16GB 4600mhz"
       },
       {
         "Price": 135.00,
@@ -2774,17 +2673,6 @@
         "Date": "2023-11-06T10:30:08.3285573-05:00",
         "Update": "2023-11-06T11:07:44.0403353-05:00",
         "Label": "RAM DDR5 Corsair Dominator Titanium RGB 32GB 7200mhz"
-      },
-      {
-        "Price": 95.00,
-        "Features": [
-          "2x16GB",
-          "C18",
-          "Disipadas"
-        ],
-        "Date": "2023-11-06T10:30:23.8952546-05:00",
-        "Update": "2023-11-06T11:07:44.0852671-05:00",
-        "Label": "RAM DDR4 Patriot Viper Steel 32GB 3600mhz"
       }
     ],
     "Microprocesador": [
@@ -2804,22 +2692,6 @@
         "Date": "2023-02-17T09:44:28.156292-05:00",
         "Update": "2023-10-09T17:48:20.7506517-04:00",
         "Label": "Micro Intel Core i5-12600K"
-      },
-      {
-        "Price": 149.00,
-        "Features": [
-          "12va Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.3GHz",
-          "12MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-05-11T07:28:15.7616729-04:00",
-        "Update": "2023-10-09T17:48:21.5875802-04:00",
-        "Label": "Micro Intel Core i3-12100 +Disipador"
       },
       {
         "Price": 279.00,
@@ -4068,17 +3940,6 @@
         "Label": "WebCam Creative Live! Sync V3 2K"
       },
       {
-        "Price": 77.00,
-        "Features": [
-          "Trípode",
-          "2 Speakers",
-          "USB"
-        ],
-        "Date": "2023-08-01T11:14:11.0346434-04:00",
-        "Update": "2023-11-05T07:47:36.6970219-05:00",
-        "Label": "Webcam Goaic L32C 4K"
-      },
-      {
         "Price": 79.00,
         "Features": [
           "1080p",
@@ -4159,186 +4020,6 @@
         "Date": "2023-10-18T06:47:28.3292927-04:00",
         "Update": "2023-10-18T07:33:52.342629-04:00",
         "Label": "Docking NEXIN 1xBay NEX-DS1U3"
-      }
-    ],
-    "Auriculares": [
-      {
-        "Price": 73.00,
-        "Features": [
-          "Micrófono",
-          "3.5mm",
-          "40mm",
-          "240g",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-07-09T16:45:42.268062-04:00",
-        "Update": "2023-10-09T17:48:20.8092249-04:00",
-        "Label": "Auriculares Logitech G335"
-      },
-      {
-        "Price": 99.00,
-        "Features": [
-          "Inalámbricos",
-          "2.4Ghz",
-          "Bluetooth",
-          "7.1",
-          "20Hz-20KHz",
-          "32ohm",
-          "114dB",
-          "Micrófono",
-          "3.5mm",
-          "50mm",
-          "266g",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-10-09T15:59:40.6389722-04:00",
-        "Update": "2023-10-09T17:48:22.0065148-04:00",
-        "Label": "Auriculares Corsair HS55 Stereo Wireless Carbon"
-      },
-      {
-        "Price": 67.00,
-        "Features": [
-          "Inalámbrico",
-          "40mm",
-          "USB",
-          "18H",
-          "165g",
-          "Headset",
-          "Micrófono",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-07-09T16:45:46.4090102-04:00",
-        "Update": "2023-10-19T12:52:18.6041154-04:00",
-        "Label": "Auriculares Logitech G435 Lightspeed Wireless"
-      },
-      {
-        "Price": 89.00,
-        "Features": [
-          "7.1",
-          "Micrófono",
-          "3.5mm",
-          "50mm",
-          "Noise Cancelling",
-          "240g",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-07-09T16:44:46.7059022-04:00",
-        "Update": "2023-10-19T12:52:18.6153386-04:00",
-        "Label": "Auriculares Razer BlackShark V2 X"
-      },
-      {
-        "Price": 87.00,
-        "Features": [
-          "7.1",
-          "Micrófono",
-          "3.5mm",
-          "50mm",
-          "280g",
-          "USB",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-07-09T16:45:38.4980752-04:00",
-        "Update": "2023-10-19T12:52:18.6390616-04:00",
-        "Label": "Auriculares Corsair HS65 Surround"
-      },
-      {
-        "Price": 89.00,
-        "Features": [
-          "7.1",
-          "Micrófono",
-          "3.5mm",
-          "30KHz",
-          "50mm",
-          "USB",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-10-18T06:47:49.8643507-04:00",
-        "Update": "2023-10-19T12:52:18.6703333-04:00",
-        "Label": "Auriculares Corsair VOID RGB Elite Carbon"
-      },
-      {
-        "Price": 129.00,
-        "Features": [
-          "Noise Control",
-          "20Hz-30KHz",
-          "50mm",
-          "7.1",
-          "16H",
-          "iCUE",
-          "Inalámbrico",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-05-12T07:52:40.6205045-04:00",
-        "Update": "2023-10-31T15:04:42.8798518-04:00",
-        "Label": "Auriculares Corsair VOID RGB Elite Wireless Carbon"
-      },
-      {
-        "Price": 129.00,
-        "Features": [
-          "Noise Control",
-          "20Hz-30KHz",
-          "50mm",
-          "7.1",
-          "16H",
-          "iCUE",
-          "Inalámbrico",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-09-23T14:08:54.0159291-04:00",
-        "Update": "2023-10-31T15:04:42.8934079-04:00",
-        "Label": "Auriculares Corsair VOID RGB Elite Wireless White"
-      },
-      {
-        "Price": 139.00,
-        "Features": [
-          "Noise Control",
-          "7.1",
-          "16H",
-          "iCUE",
-          "20Hz-20KHz",
-          "50mm",
-          "Inalámbrico",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-11-03T12:23:45.8463765-04:00",
-        "Update": "2023-11-03T14:29:33.2957812-04:00",
-        "Label": "Auriculares Corsair HS70 Pro Wireless"
-      },
-      {
-        "Price": 109.00,
-        "Features": [
-          "Wifi",
-          "Bluetooth",
-          "Dual",
-          "250g",
-          "40mm",
-          "50H",
-          "USB-C",
-          "Inalámbrico",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-11-05T07:48:18.724385-05:00",
-        "Update": "2023-11-05T10:12:40.6318065-05:00",
-        "Label": "Auriculares Razer Barracuda X Wireless Black"
       }
     ],
     "Monitor": [
@@ -4546,6 +4227,171 @@
         "Date": "2023-10-11T10:56:26.9169261-04:00",
         "Update": "2023-10-11T14:20:31.072592-04:00",
         "Label": "Caja Externo 2.5 Orico USB 3.0 PDD25C3-BK-EP"
+      }
+    ],
+    "Auriculares": [
+      {
+        "Price": 99.00,
+        "Features": [
+          "Inalámbricos",
+          "2.4Ghz",
+          "Bluetooth",
+          "7.1",
+          "20Hz-20KHz",
+          "32ohm",
+          "114dB",
+          "Micrófono",
+          "3.5mm",
+          "50mm",
+          "266g",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-10-09T15:59:40.6389722-04:00",
+        "Update": "2023-10-09T17:48:22.0065148-04:00",
+        "Label": "Auriculares Corsair HS55 Stereo Wireless Carbon"
+      },
+      {
+        "Price": 67.00,
+        "Features": [
+          "Inalámbrico",
+          "40mm",
+          "USB",
+          "18H",
+          "165g",
+          "Headset",
+          "Micrófono",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-07-09T16:45:46.4090102-04:00",
+        "Update": "2023-10-19T12:52:18.6041154-04:00",
+        "Label": "Auriculares Logitech G435 Lightspeed Wireless"
+      },
+      {
+        "Price": 89.00,
+        "Features": [
+          "7.1",
+          "Micrófono",
+          "3.5mm",
+          "50mm",
+          "Noise Cancelling",
+          "240g",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-07-09T16:44:46.7059022-04:00",
+        "Update": "2023-10-19T12:52:18.6153386-04:00",
+        "Label": "Auriculares Razer BlackShark V2 X"
+      },
+      {
+        "Price": 87.00,
+        "Features": [
+          "7.1",
+          "Micrófono",
+          "3.5mm",
+          "50mm",
+          "280g",
+          "USB",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-07-09T16:45:38.4980752-04:00",
+        "Update": "2023-10-19T12:52:18.6390616-04:00",
+        "Label": "Auriculares Corsair HS65 Surround"
+      },
+      {
+        "Price": 89.00,
+        "Features": [
+          "7.1",
+          "Micrófono",
+          "3.5mm",
+          "30KHz",
+          "50mm",
+          "USB",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-10-18T06:47:49.8643507-04:00",
+        "Update": "2023-10-19T12:52:18.6703333-04:00",
+        "Label": "Auriculares Corsair VOID RGB Elite Carbon"
+      },
+      {
+        "Price": 129.00,
+        "Features": [
+          "Noise Control",
+          "20Hz-30KHz",
+          "50mm",
+          "7.1",
+          "16H",
+          "iCUE",
+          "Inalámbrico",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-05-12T07:52:40.6205045-04:00",
+        "Update": "2023-10-31T15:04:42.8798518-04:00",
+        "Label": "Auriculares Corsair VOID RGB Elite Wireless Carbon"
+      },
+      {
+        "Price": 129.00,
+        "Features": [
+          "Noise Control",
+          "20Hz-30KHz",
+          "50mm",
+          "7.1",
+          "16H",
+          "iCUE",
+          "Inalámbrico",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-09-23T14:08:54.0159291-04:00",
+        "Update": "2023-10-31T15:04:42.8934079-04:00",
+        "Label": "Auriculares Corsair VOID RGB Elite Wireless White"
+      },
+      {
+        "Price": 139.00,
+        "Features": [
+          "Noise Control",
+          "7.1",
+          "16H",
+          "iCUE",
+          "20Hz-20KHz",
+          "50mm",
+          "Inalámbrico",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-11-03T12:23:45.8463765-04:00",
+        "Update": "2023-11-03T14:29:33.2957812-04:00",
+        "Label": "Auriculares Corsair HS70 Pro Wireless"
+      },
+      {
+        "Price": 109.00,
+        "Features": [
+          "Wifi",
+          "Bluetooth",
+          "Dual",
+          "250g",
+          "40mm",
+          "50H",
+          "USB-C",
+          "Inalámbrico",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-11-05T07:48:18.724385-05:00",
+        "Update": "2023-11-05T10:12:40.6318065-05:00",
+        "Label": "Auriculares Razer Barracuda X Wireless Black"
       }
     ],
     "Backup": [
