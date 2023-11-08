@@ -52,14 +52,6 @@
         "Label": "Kit i5-13500 +Disipador + Gigabyte Aorus B760M Elite AX + DDR5 Corsair Dominator Platinum RGB 32GB"
       },
       {
-        "Price": 865.00,
-        "Features": [],
-        "Date": "2023-09-21T21:15:59.7347414-04:00",
-        "Update": "2023-10-25T15:46:32.6266091-04:00",
-        "Discount": 12.0,
-        "Label": "Kit i7-13700K + Asus ROG Strix Z790-H Gaming + DDR5 Corsair Dominator Platinum RGB 32GB"
-      },
-      {
         "Price": 1071.00,
         "Features": [],
         "Date": "2023-06-15T09:02:58.8515588-04:00",
@@ -74,14 +66,6 @@
         "Update": "2023-11-03T12:22:11.7583481-04:00",
         "Discount": 14.0,
         "Label": "Kit i7-12700K + Asus ROG Maximus Z690 Hero + DDR5 Corsair Dominator Platinum RGB 32GB"
-      },
-      {
-        "Price": 809.00,
-        "Features": [],
-        "Date": "2023-06-15T09:02:14.0120703-04:00",
-        "Update": "2023-11-05T07:47:36.6636044-05:00",
-        "Discount": 10.0,
-        "Label": "Kit i7-13700K + Asus ROG Strix Z690-F Gaming Wifi + 32GB DDR5"
       },
       {
         "Price": 1135.00,
@@ -217,20 +201,6 @@
         "Update": "2023-11-05T07:47:36.719435-05:00",
         "Discount": 14.0,
         "Label": "Kit i7-12700K + Asus TUF Z690-Plus Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
-      },
-      {
-        "Price": 821.00,
-        "Features": [
-          "24 Hilos",
-          "5.4GHz",
-          "Wifi",
-          "9xUSB",
-          "2x16GB"
-        ],
-        "Date": "2023-10-12T12:41:46.1677891-04:00",
-        "Update": "2023-11-06T10:17:44.4300527-05:00",
-        "Discount": 8.0,
-        "Label": "Kit i7-13700K +Board Z790 + 32GB 7200mhz DDR5 Trident Z5 RGB"
       }
     ],
     "Esencial": [
@@ -327,13 +297,6 @@
         "Date": "2023-07-17T23:39:12.7295429-04:00",
         "Update": "2023-07-18T00:35:15.536536-04:00",
         "Label": "EN-Labs GEKE PWM 4-pin Fan Hub 10 Ports Splitter"
-      },
-      {
-        "Price": 59.00,
-        "Features": [],
-        "Date": "2023-06-07T10:26:52.1301364-04:00",
-        "Update": "2023-08-01T18:30:20.3375283-04:00",
-        "Label": "Corsair Comander Pro"
       },
       {
         "Price": 13.00,
@@ -535,20 +498,6 @@
         "Date": "2023-10-23T12:31:30.6202501-04:00",
         "Update": "2023-10-24T16:52:34.9968724-04:00",
         "Label": "Pasta Termica HY510 30g"
-      },
-      {
-        "Price": 17.00,
-        "Features": [],
-        "Date": "2023-07-26T16:41:29.0221883-04:00",
-        "Update": "2023-10-28T09:10:46.326184-04:00",
-        "Label": "Thermalright LGA1700-BCF Black"
-      },
-      {
-        "Price": 4.00,
-        "Features": [],
-        "Date": "2023-10-28T11:52:05.3851766-04:00",
-        "Update": "2023-10-28T13:51:53.4442695-04:00",
-        "Label": "Cable USB-C Extension ASUS ROG"
       },
       {
         "Price": 13.00,
@@ -2171,17 +2120,6 @@
         "Label": "RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz"
       },
       {
-        "Price": 225.00,
-        "Features": [
-          "2x32GB",
-          "CL30",
-          "Disipadas"
-        ],
-        "Date": "2023-10-03T06:56:13.4449074-04:00",
-        "Update": "2023-10-25T15:46:32.5792727-04:00",
-        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 64GB 6000mhz"
-      },
-      {
         "Price": 55.0,
         "Features": [
           "1x16GB",
@@ -2460,23 +2398,6 @@
         "Date": "2023-10-13T09:28:27.261681-04:00",
         "Update": "2023-10-25T13:26:44.7413961-04:00",
         "Label": "Micro AMD Ryzen 5 5600G +Disipador"
-      },
-      {
-        "Price": 399.00,
-        "Features": [
-          "13ra Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.4GHz",
-          "30MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-03-22T09:04:14.8362359-04:00",
-        "Update": "2023-10-25T15:46:32.5622691-04:00",
-        "Label": "Micro Intel Core i7-13700K"
       },
       {
         "Price": 165.00,
@@ -4277,23 +4198,6 @@
         "Date": "2023-07-09T16:45:46.4090102-04:00",
         "Update": "2023-10-19T12:52:18.6041154-04:00",
         "Label": "Auriculares Logitech G435 Lightspeed Wireless"
-      },
-      {
-        "Price": 89.00,
-        "Features": [
-          "7.1",
-          "Micrófono",
-          "3.5mm",
-          "50mm",
-          "Noise Cancelling",
-          "240g",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-07-09T16:44:46.7059022-04:00",
-        "Update": "2023-10-19T12:52:18.6153386-04:00",
-        "Label": "Auriculares Razer BlackShark V2 X"
       },
       {
         "Price": 87.00,
