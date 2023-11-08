@@ -654,24 +654,6 @@
         "Label": "Chasis Rosewill NIGHTHAWK 117"
       },
       {
-        "Price": 225.00,
-        "Features": [
-          "2x140mm",
-          "ARGB",
-          "Tempered Glass",
-          "Mesh",
-          "2xFan",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Blanco",
-          "2xHDD"
-        ],
-        "Date": "2023-10-19T09:32:02.3777136-04:00",
-        "Update": "2023-10-19T12:33:04.5750652-04:00",
-        "Label": "Case - Fractal Design Focus 2 RGB White"
-      },
-      {
         "Price": 215.00,
         "Features": [
           "2x140mm",
@@ -737,6 +719,24 @@
         "Date": "2023-11-03T12:22:56.9620417-04:00",
         "Update": "2023-11-03T14:29:33.1682156-04:00",
         "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
+      },
+      {
+        "Price": 225.00,
+        "Features": [
+          "2x140mm",
+          "ARGB",
+          "Tempered Glass",
+          "Mesh",
+          "2xFan",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "Blanco",
+          "2xHDD"
+        ],
+        "Date": "2023-10-19T09:32:02.3777136-04:00",
+        "Update": "2023-11-07T21:13:39.6139582-05:00",
+        "Label": "Chasis Fractal Design Focus 2 RGB White"
       }
     ],
     "Disco Sólido": [
