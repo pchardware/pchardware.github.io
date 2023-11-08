@@ -3897,58 +3897,6 @@
         "Label": "Webcam AUKEY 1080p"
       },
       {
-        "Price": 85.00,
-        "Features": [
-          "FHD",
-          "30fps",
-          "Micrófono",
-          "USB",
-          "Black"
-        ],
-        "Date": "2023-10-02T14:29:35.5469005-04:00",
-        "Update": "2023-10-09T17:48:21.5219898-04:00",
-        "Label": "WebCam Asus C3 1080p"
-      },
-      {
-        "Price": 61.00,
-        "Features": [
-          "USB",
-          "3mp",
-          "Micrófono",
-          "720p",
-          "30fps"
-        ],
-        "Date": "2023-10-09T15:59:49.8284237-04:00",
-        "Update": "2023-10-09T17:48:22.0356999-04:00",
-        "Label": "WebCam Logitech C270 HD"
-      },
-      {
-        "Price": 99.00,
-        "Features": [
-          "1080p",
-          "Autofocus",
-          "Stereo",
-          "Micrófono",
-          "USB"
-        ],
-        "Date": "2023-05-12T07:54:32.8971269-04:00",
-        "Update": "2023-10-31T11:23:29.2617157-04:00",
-        "Label": "WebCam Logitech C920s Pro"
-      },
-      {
-        "Price": 87.00,
-        "Features": [
-          "QHD",
-          "30fps",
-          "Micrófono",
-          "USB",
-          "Black"
-        ],
-        "Date": "2023-11-03T12:23:42.4690359-04:00",
-        "Update": "2023-11-03T14:29:33.2660947-04:00",
-        "Label": "WebCam Creative Live! Sync V3 2K"
-      },
-      {
         "Price": 79.00,
         "Features": [
           "1080p",
@@ -3960,6 +3908,58 @@
         "Date": "2023-11-05T07:48:45.3109671-05:00",
         "Update": "2023-11-05T10:12:40.7130244-05:00",
         "Label": "Webcam Logitech C922x"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "FHD",
+          "30fps",
+          "Micrófono",
+          "USB",
+          "Black"
+        ],
+        "Date": "2023-10-02T14:29:35.5469005-04:00",
+        "Update": "2023-11-07T22:20:42.0631092-05:00",
+        "Label": "Webcam Asus C3 1080p"
+      },
+      {
+        "Price": 61.00,
+        "Features": [
+          "USB",
+          "3mp",
+          "Micrófono",
+          "720p",
+          "30fps"
+        ],
+        "Date": "2023-10-09T15:59:49.8284237-04:00",
+        "Update": "2023-11-07T22:20:42.0779117-05:00",
+        "Label": "Webcam Logitech C270 HD"
+      },
+      {
+        "Price": 99.00,
+        "Features": [
+          "1080p",
+          "Autofocus",
+          "Stereo",
+          "Micrófono",
+          "USB"
+        ],
+        "Date": "2023-05-12T07:54:32.8971269-04:00",
+        "Update": "2023-11-07T22:20:42.0928323-05:00",
+        "Label": "Webcam Logitech C920s Pro"
+      },
+      {
+        "Price": 87.00,
+        "Features": [
+          "QHD",
+          "30fps",
+          "Micrófono",
+          "USB",
+          "Black"
+        ],
+        "Date": "2023-11-03T12:23:42.4690359-04:00",
+        "Update": "2023-11-07T22:20:42.1108054-05:00",
+        "Label": "Webcam Creative Live! Sync V3 2K"
       }
     ],
     "Adaptador": [
