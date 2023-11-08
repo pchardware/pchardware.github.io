@@ -2226,17 +2226,6 @@
         "Label": "RAM DDR5 GeIL ORION RGB 32GB 6000mhz"
       },
       {
-        "Price": 115.00,
-        "Features": [
-          "2x16GB",
-          "CL16",
-          "Disipadas"
-        ],
-        "Date": "2023-03-09T12:28:03.6250501-05:00",
-        "Update": "2023-11-03T12:22:11.7182178-04:00",
-        "Label": "DDR4 G.SKILL TridentZ RGB 32GB 3600mhz"
-      },
-      {
         "Price": 165.00,
         "Features": [
           "2x16GB",
@@ -2290,6 +2279,17 @@
         "Date": "2023-11-06T10:30:08.3285573-05:00",
         "Update": "2023-11-06T11:07:44.0403353-05:00",
         "Label": "RAM DDR5 Corsair Dominator Titanium RGB 32GB 7200mhz"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "2x16GB",
+          "CL16",
+          "Disipadas"
+        ],
+        "Date": "2023-03-09T12:28:03.6250501-05:00",
+        "Update": "2023-11-07T21:31:51.3600542-05:00",
+        "Label": "RAM DDR4 G.SKILL TridentZ RGB 32GB 3600mhz"
       }
     ],
     "Microprocesador": [
