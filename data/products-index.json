@@ -830,18 +830,6 @@
         "Label": "SSD M.2 Samsung 990 PRO 1TB"
       },
       {
-        "Price": 93.00,
-        "Features": [
-          "7000mbs",
-          "600tbw",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-07-12T21:43:06.2525927-04:00",
-        "Update": "2023-10-02T14:22:59.0056229-04:00",
-        "Label": "SSD M.2 SAMSUNG 980 PRO 1TB"
-      },
-      {
         "Price": 69.00,
         "Features": [
           "3500mbps",
@@ -880,18 +868,6 @@
         "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 2TB"
       },
       {
-        "Price": 99.00,
-        "Features": [
-          "7000mbs",
-          "HeatSink",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-05-11T14:03:36.5510535-04:00",
-        "Update": "2023-10-09T15:58:28.3107208-04:00",
-        "Label": "SSD M.2 SAMSUNG 980 PRO 1TB +Heatsink"
-      },
-      {
         "Price": 83.00,
         "Features": [
           "7000mbps",
@@ -917,17 +893,6 @@
         "Date": "2023-10-13T09:28:29.8930928-04:00",
         "Update": "2023-10-13T10:18:39.9791691-04:00",
         "Label": "SSD M.2 Corsair MP600 Pro XT 2TB"
-      },
-      {
-        "Price": 84.00,
-        "Features": [
-          "560mbps",
-          "600tbw",
-          "SATA 3"
-        ],
-        "Date": "2023-08-01T11:14:15.2077979-04:00",
-        "Update": "2023-10-18T07:33:51.8334103-04:00",
-        "Label": "SSD 2.5 SAMSUNG 870 EVO 1TB"
       },
       {
         "Price": 85.00,
@@ -983,6 +948,41 @@
         "Date": "2023-06-07T13:42:08.9262831-04:00",
         "Update": "2023-10-31T23:27:31.0076816-04:00",
         "Label": "SSD 2.5 Team Group EX2 512GB"
+      },
+      {
+        "Price": 93.00,
+        "Features": [
+          "7000mbs",
+          "600tbw",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-07-12T21:43:06.2525927-04:00",
+        "Update": "2023-11-07T21:26:53.3840028-05:00",
+        "Label": "SSD M.2 Samsung 980 PRO 1TB"
+      },
+      {
+        "Price": 99.00,
+        "Features": [
+          "7000mbs",
+          "HeatSink",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-05-11T14:03:36.5510535-04:00",
+        "Update": "2023-11-07T21:26:53.3944334-05:00",
+        "Label": "SSD M.2 Samsung 980 PRO 1TB +Heatsink"
+      },
+      {
+        "Price": 84.00,
+        "Features": [
+          "560mbps",
+          "600tbw",
+          "SATA 3"
+        ],
+        "Date": "2023-08-01T11:14:15.2077979-04:00",
+        "Update": "2023-11-07T21:26:53.405044-05:00",
+        "Label": "SSD 2.5 Samsung 870 EVO 1TB"
       }
     ],
     "Fuente": [
