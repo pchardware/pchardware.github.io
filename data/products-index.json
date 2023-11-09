@@ -24,20 +24,6 @@
         "Update": "2023-10-31T23:27:31.1156094-04:00",
         "Discount": 21.0,
         "Label": "Torre i5-13500 +Board Asus ProArt +16GB G.Skill +M.2 500GB Samsung 980 +Cooler Master"
-      },
-      {
-        "Price": 891.00,
-        "Features": [
-          "20 Hilos",
-          "12Gen",
-          "6000mhz",
-          "Wifi",
-          "8xUSB"
-        ],
-        "Date": "2023-10-14T11:11:40.0128368-04:00",
-        "Update": "2023-11-03T12:22:11.7846391-04:00",
-        "Discount": 22.0,
-        "Label": "Torre i7-12700K +Z690 AERO +16GB DDR5 Ripjaws +M.2 Samsung 980 500GB +Cooler Master"
       }
     ]
   },
@@ -58,14 +44,6 @@
         "Update": "2023-10-31T23:27:31.2099506-04:00",
         "Discount": 14.0,
         "Label": "Kit i9-13900K + Asus ROG Strix Z690-E Gaming Wifi + 32GB DDR5"
-      },
-      {
-        "Price": 779.00,
-        "Features": [],
-        "Date": "2023-09-15T11:22:05.4087649-04:00",
-        "Update": "2023-11-03T12:22:11.7583481-04:00",
-        "Discount": 14.0,
-        "Label": "Kit i7-12700K + Asus ROG Maximus Z690 Hero + DDR5 Corsair Dominator Platinum RGB 32GB"
       },
       {
         "Price": 1135.00,
@@ -107,19 +85,6 @@
         "Label": "Kit i5-12600KF +ASRock Z690 +8GB DDR4 Vulcan Z"
       },
       {
-        "Price": 463.00,
-        "Features": [
-          "20 Hilos",
-          "Wifi",
-          "6000mhz",
-          "8xUSB"
-        ],
-        "Date": "2023-10-14T10:29:25.7664079-04:00",
-        "Update": "2023-10-31T11:23:29.3700403-04:00",
-        "Discount": 6.0,
-        "Label": "Kit i5 13Gen +Board Aorus Elite +16GB DDR5 G.Skill"
-      },
-      {
         "Price": 465.00,
         "Features": [
           "Blaco",
@@ -134,20 +99,6 @@
         "Update": "2023-10-31T11:23:29.3842081-04:00",
         "Discount": 10.0,
         "Label": "Kit Ryzen 5 5600G +Disipador +Board Asus ROG Strix +16GB G.Skill 3600mhz"
-      },
-      {
-        "Price": 455.00,
-        "Features": [
-          "20 Hilos",
-          "12 Gen",
-          "Overclock",
-          "3200mhz",
-          "6xUSB"
-        ],
-        "Date": "2023-10-20T09:06:57.5474984-04:00",
-        "Update": "2023-11-03T12:22:11.7963258-04:00",
-        "Discount": 6.0,
-        "Label": "Kit i7-12700K +ASRock Z690 Phantom +RAM 8GB T-Force"
       }
     ],
     "Rendimiento": [
@@ -164,43 +115,6 @@
         "Update": "2023-10-12T12:45:40.7950363-04:00",
         "Discount": 10.0,
         "Label": "Kit Ryzen 9 7900X +Board Asus TUF + 32GB 6400mhz DDR5 Corsair Vengeance RGB"
-      },
-      {
-        "Price": 549.00,
-        "Features": [
-          "20 Hilos",
-          "Wifi",
-          "6000mhz",
-          "12Gen",
-          "8xUSB"
-        ],
-        "Date": "2023-10-14T11:09:12.9146554-04:00",
-        "Update": "2023-11-03T12:22:11.8085515-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i7-12700K +Board Gigabyte Z690 AERO +16GB DDR5 G.Skill"
-      },
-      {
-        "Price": 479.00,
-        "Features": [
-          "20 Hilos",
-          "12 Gen",
-          "3200mhz",
-          "Disipadas",
-          "Dual Channel",
-          "6xUSB"
-        ],
-        "Date": "2023-10-20T09:07:38.5260983-04:00",
-        "Update": "2023-11-03T12:22:11.8253872-04:00",
-        "Discount": 8.0,
-        "Label": "Kit i7-12700K +Board Z690 +16GB RAM Silicon Power"
-      },
-      {
-        "Price": 619.00,
-        "Features": [],
-        "Date": "2023-09-13T13:15:22.925563-04:00",
-        "Update": "2023-11-05T07:47:36.719435-05:00",
-        "Discount": 14.0,
-        "Label": "Kit i7-12700K + Asus TUF Z690-Plus Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       }
     ],
     "Esencial": [
@@ -921,17 +835,6 @@
         "Date": "2023-05-11T14:03:36.5510535-04:00",
         "Update": "2023-11-07T21:26:53.3944334-05:00",
         "Label": "SSD M.2 Samsung 980 PRO 1TB +Heatsink"
-      },
-      {
-        "Price": 84.00,
-        "Features": [
-          "560mbps",
-          "600tbw",
-          "SATA 3"
-        ],
-        "Date": "2023-08-01T11:14:15.2077979-04:00",
-        "Update": "2023-11-07T21:26:53.405044-05:00",
-        "Label": "SSD 2.5 Samsung 870 EVO 1TB"
       }
     ],
     "Fuente": [
@@ -2120,17 +2023,6 @@
         "Label": "RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz"
       },
       {
-        "Price": 55.0,
-        "Features": [
-          "1x16GB",
-          "CL36",
-          "Disipadas"
-        ],
-        "Date": "2023-10-14T10:09:22.7542158-04:00",
-        "Update": "2023-10-26T08:41:13.3214539-04:00",
-        "Label": "RAM DDR5 G.Skill Ripjaws S5 16GB 6000mhz"
-      },
-      {
         "Price": 135.00,
         "Features": [
           "2x16GB",
@@ -2467,23 +2359,6 @@
         "Label": "Micro Intel Core i5-13400 +Disipador"
       },
       {
-        "Price": 269.00,
-        "Features": [
-          "12va Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "25MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-02-17T09:30:45.7586545-05:00",
-        "Update": "2023-11-03T12:22:11.772838-04:00",
-        "Label": "Micro Intel Core i7-12700K"
-      },
-      {
         "Price": 145.00,
         "Features": [
           "12va Gen",
@@ -2781,22 +2656,6 @@
         "Date": "2023-05-11T19:24:18.7527581-04:00",
         "Update": "2023-11-06T10:17:44.4532976-05:00",
         "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
-      },
-      {
-        "Price": 259.00,
-        "Features": [
-          "2xFan",
-          "500WR",
-          "1x6Pin",
-          "205mm",
-          "NVIDIA",
-          "GPU",
-          "Gráfica",
-          "DLSS2"
-        ],
-        "Date": "2023-11-06T10:30:19.884438-05:00",
-        "Update": "2023-11-06T11:07:44.0742199-05:00",
-        "Label": "Tarjeta de Video MSI Ventus RTX 3050 2X XS 8GB OC"
       }
     ],
     "Board": [
@@ -3110,26 +2969,6 @@
         "Date": "2023-10-28T11:52:00.1054489-04:00",
         "Update": "2023-11-07T17:32:40.5409977-05:00",
         "Label": "Board MSI Z590 Pro Wifi CEC"
-      },
-      {
-        "Price": 235.00,
-        "Features": [
-          "12va-13ra",
-          "DDR5",
-          "Wifi",
-          "8xUSB",
-          "6xSATA",
-          "6000mhz",
-          "LGA 1700",
-          "ATX",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio",
-          "MOBO"
-        ],
-        "Date": "2023-07-17T23:39:45.1712194-04:00",
-        "Update": "2023-11-07T17:32:40.5612733-05:00",
-        "Label": "Board Gigabyte Z690 AERO G"
       },
       {
         "Price": 295.00,
