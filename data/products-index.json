@@ -2609,22 +2609,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4080 Eagle OC 16GB"
       },
       {
-        "Price": 245.00,
-        "Features": [
-          "2xFan",
-          "1x8Pin",
-          "500WR",
-          "200mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-11-05T07:48:12.4491481-05:00",
-        "Update": "2023-11-05T10:12:40.6055295-05:00",
-        "Label": "Tarjeta de Video PowerColor RX 6600 Fighter 8GB"
-      },
-      {
         "Price": 209.00,
         "Features": [
           "2xFan",
@@ -2989,26 +2973,6 @@
         "Date": "2023-05-11T07:52:19.4562926-04:00",
         "Update": "2023-11-07T17:32:40.5816108-05:00",
         "Label": "Board Asus ROG Strix Z690-F Gaming Wifi"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "12va-13ra-14va",
-          "5333mhz",
-          "4xSATA",
-          "5xUSB",
-          "Micro ATX",
-          "HDMI",
-          "2xDisplayPort",
-          "VGA",
-          "PS2",
-          "LGA 1700",
-          "3xAudio",
-          "MOBO"
-        ],
-        "Date": "2023-11-05T07:48:41.4514786-05:00",
-        "Update": "2023-11-07T17:32:40.6026333-05:00",
-        "Label": "Board Gigabyte B660M DS3H DDR4"
       },
       {
         "Price": 249.00,
