@@ -2120,6 +2120,17 @@
         "Date": "2023-03-09T12:28:03.6250501-05:00",
         "Update": "2023-11-07T21:31:51.3600542-05:00",
         "Label": "RAM DDR4 G.SKILL TridentZ RGB 32GB 3600mhz"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "2x16GB",
+          "CL36",
+          "Disipadas"
+        ],
+        "Date": "2023-11-06T10:30:13.5751781-05:00",
+        "Update": "2023-11-09T22:58:37.9100902-05:00",
+        "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 5600mhz"
       }
     ],
     "Microprocesador": [
