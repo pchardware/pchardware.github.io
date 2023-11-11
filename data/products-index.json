@@ -600,6 +600,22 @@
         "Date": "2023-10-19T09:32:02.3777136-04:00",
         "Update": "2023-11-07T21:13:39.6139582-05:00",
         "Label": "Chasis Fractal Design Focus 2 RGB White"
+      },
+      {
+        "Price": 285.00,
+        "Features": [
+          "Vertical",
+          "Tempered Glass",
+          "2xFan",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "2xHDD",
+          "Negro"
+        ],
+        "Date": "2023-11-11T12:36:37.8216832-05:00",
+        "Update": "2023-11-11T12:58:59.609044-05:00",
+        "Label": "Chasis Corsair 4000D Airflow"
       }
     ],
     "Disco Sólido": [
@@ -4133,6 +4149,15 @@
         "Date": "2023-05-12T07:53:07.7837276-04:00",
         "Update": "2023-10-31T11:23:29.2266948-04:00",
         "Label": "Backup APC BE425M 425VA"
+      }
+    ],
+    "Control": [
+      {
+        "Price": 119.00,
+        "Features": [],
+        "Date": "2023-11-11T12:37:07.8205999-05:00",
+        "Update": "2023-11-11T12:58:59.6207156-05:00",
+        "Label": "Control XBox Seriex X Special Edition +Rechargeable Battery"
       }
     ]
   }
