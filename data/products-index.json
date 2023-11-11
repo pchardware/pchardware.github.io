@@ -3949,6 +3949,25 @@
         "Date": "2023-06-29T07:38:34.6760535-04:00",
         "Update": "2023-11-05T07:47:36.6745593-05:00",
         "Label": "Monitor Acer Nitro 28\" 4K VG281K"
+      },
+      {
+        "Price": 469.00,
+        "Features": [
+          "1440p",
+          "144Hz",
+          "IPS",
+          "350nit",
+          "1ms",
+          "HDR400",
+          "Flat",
+          "2x HDMI",
+          "DP",
+          "USB",
+          "Speakers"
+        ],
+        "Date": "2023-08-20T10:12:32.3834228-04:00",
+        "Update": "2023-11-11T12:35:31.3878856-05:00",
+        "Label": "Monitor Gigabyte 27\" G27Q"
       }
     ],
     "Externo": [
