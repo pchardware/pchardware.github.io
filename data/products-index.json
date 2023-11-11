@@ -568,22 +568,6 @@
         "Label": "Chasis Cooler Master MasterBox MB511"
       },
       {
-        "Price": 195.00,
-        "Features": [
-          "Tempered Glass",
-          "3xFan ARGB",
-          "3xUSB",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro",
-          "2xHDD"
-        ],
-        "Date": "2023-11-03T12:22:56.9620417-04:00",
-        "Update": "2023-11-03T14:29:33.1682156-04:00",
-        "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
-      },
-      {
         "Price": 225.00,
         "Features": [
           "2x140mm",
@@ -616,6 +600,22 @@
         "Date": "2023-11-11T12:36:37.8216832-05:00",
         "Update": "2023-11-11T12:58:59.609044-05:00",
         "Label": "Chasis Corsair 4000D Airflow"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "Tempered Glass",
+          "3xFan ARGB",
+          "3xUSB",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "Negro",
+          "2xHDD"
+        ],
+        "Date": "2023-11-03T12:22:56.9620417-04:00",
+        "Update": "2023-11-11T13:18:58.0509881-05:00",
+        "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
       }
     ],
     "Disco Sólido": [
