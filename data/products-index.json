@@ -83,22 +83,6 @@
         "Update": "2023-10-20T09:21:46.5961193-04:00",
         "Discount": 8.0,
         "Label": "Kit i5-12600KF +ASRock Z690 +8GB DDR4 Vulcan Z"
-      },
-      {
-        "Price": 465.00,
-        "Features": [
-          "Blaco",
-          "Dual Channel",
-          "12 Hilos",
-          "Serie 5000",
-          "7xUSB",
-          "6xSATA",
-          "6xAudio"
-        ],
-        "Date": "2023-10-20T09:05:03.7760642-04:00",
-        "Update": "2023-10-31T11:23:29.3842081-04:00",
-        "Discount": 10.0,
-        "Label": "Kit Ryzen 5 5600G +Disipador +Board Asus ROG Strix +16GB G.Skill 3600mhz"
       }
     ],
     "Rendimiento": [
@@ -774,18 +758,6 @@
         "Label": "SSD M.2 Corsair MP600 Pro XT 2TB"
       },
       {
-        "Price": 85.00,
-        "Features": [
-          "7400mbps",
-          "Gen4",
-          "Hyper M.2",
-          "NVMe"
-        ],
-        "Date": "2023-10-23T12:32:43.5315319-04:00",
-        "Update": "2023-10-23T13:18:33.9387522-04:00",
-        "Label": "SSD M.2 AData Premium 1TB"
-      },
-      {
         "Price": 169.00,
         "Features": [
           "7450mbs",
@@ -991,21 +963,6 @@
         "Date": "2023-10-02T14:28:39.3910059-04:00",
         "Update": "2023-10-18T07:33:51.9875266-04:00",
         "Label": "Fuente Corsair HX1500i 1500W"
-      },
-      {
-        "Price": 125.00,
-        "Features": [
-          "2x 6+2Pin",
-          "59A",
-          "9x SATA",
-          "1x 4+4 EPS",
-          "140mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-08-16T09:16:30.0204629-04:00",
-        "Update": "2023-10-18T07:33:52.0035321-04:00",
-        "Label": "Fuente EVGA 750W"
       },
       {
         "Price": 165.00,
@@ -1761,23 +1718,6 @@
         "Label": "Disipador Intel Stock Original"
       },
       {
-        "Price": 43.00,
-        "Features": [
-          "2xPipes",
-          "48cfm",
-          "21dBA",
-          "2000rpm",
-          "Hydraulic",
-          "LGA 115X",
-          "AM4",
-          "Tower",
-          "1xFan"
-        ],
-        "Date": "2023-09-23T17:45:41.9069858-04:00",
-        "Update": "2023-10-09T17:48:21.2695833-04:00",
-        "Label": "Disipador Sama SC125"
-      },
-      {
         "Price": 83.00,
         "Features": [
           "ARGB",
@@ -2319,22 +2259,6 @@
         "Label": "Micro AMD Ryzen 5 5600G +Disipador"
       },
       {
-        "Price": 165.00,
-        "Features": [
-          "13ra Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.5GHz",
-          "12MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-03-22T09:04:00.899336-04:00",
-        "Update": "2023-10-28T09:10:46.27933-04:00",
-        "Label": "Micro Intel Core i3-13100 +Disipador"
-      },
-      {
         "Price": 229.00,
         "Features": [
           "13ra Gen",
@@ -2403,23 +2327,6 @@
       }
     ],
     "Tarjeta Gráfica": [
-      {
-        "Price": 469.00,
-        "Features": [
-          "2xFan",
-          "DLSS3",
-          "1x8Pin",
-          "650WR",
-          "247mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-08-21T08:58:03.7946257-04:00",
-        "Update": "2023-10-16T12:23:12.6834321-04:00",
-        "Label": "Tarjeta de Video MSI RTX 4060 Ti Gaming X 8GB"
-      },
       {
         "Price": 79.00,
         "Features": [
@@ -2650,23 +2557,6 @@
         "Date": "2023-11-05T07:48:15.4031658-05:00",
         "Update": "2023-11-05T10:12:40.6186783-05:00",
         "Label": "Tarjeta de Video Zotac Gaming GTX 1660 6GB"
-      },
-      {
-        "Price": 269.00,
-        "Features": [
-          "8GB",
-          "3xFan",
-          "1x8Pin",
-          "500WR",
-          "282mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-05-11T19:24:18.7527581-04:00",
-        "Update": "2023-11-06T10:17:44.4532976-05:00",
-        "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
       }
     ],
     "Board": [
@@ -2941,24 +2831,6 @@
         "Date": "2023-10-03T06:55:51.8601602-04:00",
         "Update": "2023-11-07T17:32:40.4930836-05:00",
         "Label": "Board Asus TUF Gaming B650-Plus Wifi"
-      },
-      {
-        "Price": 235.00,
-        "Features": [
-          "AM4",
-          "5100mhz",
-          "7xUSB",
-          "DDR4",
-          "6xSATA",
-          "ATX",
-          "HDMI",
-          "DisplayPort",
-          "6xAudio",
-          "MOBO"
-        ],
-        "Date": "2023-10-18T06:47:41.8989573-04:00",
-        "Update": "2023-11-07T17:32:40.5200972-05:00",
-        "Label": "Board Asus ROG Strix B550-A Gaming"
       },
       {
         "Price": 189.00,
@@ -4010,28 +3882,6 @@
     ],
     "Auriculares": [
       {
-        "Price": 99.00,
-        "Features": [
-          "Inalámbricos",
-          "2.4Ghz",
-          "Bluetooth",
-          "7.1",
-          "20Hz-20KHz",
-          "32ohm",
-          "114dB",
-          "Micrófono",
-          "3.5mm",
-          "50mm",
-          "266g",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-10-09T15:59:40.6389722-04:00",
-        "Update": "2023-10-09T17:48:22.0065148-04:00",
-        "Label": "Auriculares Corsair HS55 Stereo Wireless Carbon"
-      },
-      {
         "Price": 67.00,
         "Features": [
           "Inalámbrico",
@@ -4136,19 +3986,6 @@
         "Date": "2023-11-05T07:48:18.724385-05:00",
         "Update": "2023-11-05T10:12:40.6318065-05:00",
         "Label": "Auriculares Razer Barracuda X Wireless Black"
-      }
-    ],
-    "Backup": [
-      {
-        "Price": 139.00,
-        "Features": [
-          "120V",
-          "255 Watts",
-          "6 Salidas"
-        ],
-        "Date": "2023-05-12T07:53:07.7837276-04:00",
-        "Update": "2023-10-31T11:23:29.2266948-04:00",
-        "Label": "Backup APC BE425M 425VA"
       }
     ],
     "Control": [
