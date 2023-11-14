@@ -40,6 +40,30 @@
         "Update": "2023-11-06T10:17:44.399151-05:00",
         "Discount": 14.0,
         "Label": "Kit i9-13900K + Asus ROG Strix Z790-H Gaming Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
+      },
+      {
+        "Price": 583.00,
+        "Features": [],
+        "Date": "2023-09-13T13:18:14.7097442-04:00",
+        "Update": "2023-11-14T14:53:33.6734815-05:00",
+        "Discount": 20.0,
+        "Label": "Kit i5-12600K + Gigabyte Z690 Aorus Elite AX + DDR5 Corsair Dominator Platinum RGB 32GB"
+      },
+      {
+        "Price": 685.00,
+        "Features": [],
+        "Date": "2023-09-15T11:15:14.5969005-04:00",
+        "Update": "2023-11-14T14:53:33.6973075-05:00",
+        "Discount": 10.0,
+        "Label": "Kit i5-12600K + Asus ROG Strix Z690-E Gaming Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6400mhz"
+      },
+      {
+        "Price": 1151.00,
+        "Features": [],
+        "Date": "2023-06-24T13:41:22.3656225-04:00",
+        "Update": "2023-11-14T14:53:33.7088529-05:00",
+        "Discount": 14.0,
+        "Label": "Kit i9-13900K + Asus ROG Maximus Z690 Hero + G.Skill Trident Z5 RGB 32GB 6400mhz"
       }
     ],
     "Moderado": [
@@ -102,6 +126,34 @@
         "Update": "2023-10-25T13:26:44.7875189-04:00",
         "Discount": 8.0,
         "Label": "Kit Ryzen 5 +8GB DDR4 Disipadas +Disipador +Board B550M Pro"
+      },
+      {
+        "Price": 335.00,
+        "Features": [
+          "8 Hilos",
+          "6xUSB",
+          "DDR4",
+          "Disipada"
+        ],
+        "Date": "2023-10-20T08:53:27.1294814-04:00",
+        "Update": "2023-11-14T14:53:33.7538676-05:00",
+        "Discount": 6.0,
+        "Label": "Kit i3 12Gen +8GB RAM 3200mhz +Disipador +Board ASRock Z690"
+      },
+      {
+        "Price": 355.00,
+        "Features": [
+          "2x8GB",
+          "8 hilos",
+          "Dual Channel",
+          "VGA",
+          "HDMI",
+          "4xSATA"
+        ],
+        "Date": "2023-10-12T11:57:20.759658-04:00",
+        "Update": "2023-11-14T14:53:33.7922528-05:00",
+        "Discount": 8.0,
+        "Label": "Kit i3 12Gen +Disipador +Board MSI B760M +RAM DDR4 16GB 3200mhz"
       }
     ]
   },
@@ -1779,6 +1831,31 @@
         "Date": "2023-10-28T11:53:27.2541098-04:00",
         "Update": "2023-10-28T13:51:53.488839-04:00",
         "Label": "Disipador Thermalright Assassin King 120 SE White"
+      },
+      {
+        "Price": 119.00,
+        "Features": [
+          "Dual",
+          "2xFan",
+          "6xPipes",
+          "ARGB",
+          "Premium",
+          "52cfm",
+          "27dBA",
+          "Cobre",
+          "157mm",
+          "2050rpm",
+          "Negro",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4",
+          "AM5",
+          "Tower"
+        ],
+        "Date": "2023-07-26T18:49:11.7802452-04:00",
+        "Update": "2023-11-14T14:53:33.7206955-05:00",
+        "Label": "Disipador Cooler Master Hyper 622 Halo Black"
       }
     ],
     "Memoria RAM": [
@@ -2012,6 +2089,28 @@
         "Date": "2023-11-06T10:30:13.5751781-05:00",
         "Update": "2023-11-09T22:58:37.9100902-05:00",
         "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 5600mhz"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "2x16GB",
+          "Disipadas",
+          "CL32"
+        ],
+        "Date": "2023-06-19T07:47:31.4126097-04:00",
+        "Update": "2023-11-14T14:53:33.6477338-05:00",
+        "Label": "DDR5 G.Skill Trident Z5 RGB 32GB 6400mhz"
+      },
+      {
+        "Price": 87.00,
+        "Features": [
+          "2x16GB",
+          "Disipadas",
+          "CL16"
+        ],
+        "Date": "2023-09-11T09:09:34.8583822-04:00",
+        "Update": "2023-11-14T14:53:33.7429964-05:00",
+        "Label": "RAM DDR4 Silicon Power 32GB 3200mhz"
       }
     ],
     "Microprocesador": [
@@ -2232,6 +2331,22 @@
         "Date": "2023-11-03T12:23:09.4506592-04:00",
         "Update": "2023-11-03T14:29:33.2232174-04:00",
         "Label": "Micro Intel Core i3-13100F +Disipador"
+      },
+      {
+        "Price": 149.00,
+        "Features": [
+          "12va Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-05-11T07:28:15.7616729-04:00",
+        "Update": "2023-11-14T14:53:33.7317093-05:00",
+        "Label": "Micro Intel Core i3-12100 +Disipador"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2465,6 +2580,39 @@
         "Date": "2023-11-05T07:48:15.4031658-05:00",
         "Update": "2023-11-05T10:12:40.6186783-05:00",
         "Label": "Tarjeta de Video Zotac Gaming GTX 1660 6GB"
+      },
+      {
+        "Price": 339.00,
+        "Features": [
+          "10GB",
+          "3xFan",
+          "2x8Pin",
+          "650WR",
+          "304mm",
+          "Radeon",
+          "AMD",
+          "GPU"
+        ],
+        "Date": "2023-07-26T16:40:52.2609256-04:00",
+        "Update": "2023-11-14T14:53:33.6586643-05:00",
+        "Label": "XFX Swft 309 RX 6700"
+      },
+      {
+        "Price": 379.00,
+        "Features": [
+          "8GB",
+          "DLSS3",
+          "2xFan",
+          "1x8Pin",
+          "550WR",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-07-12T21:42:49.1798698-04:00",
+        "Update": "2023-11-14T14:53:33.8036254-05:00",
+        "Label": "Tarjeta de Video Asus Dual RTX 4060 OC"
       }
     ],
     "Board": [
@@ -2780,6 +2928,42 @@
         "Date": "2023-05-11T07:52:19.4562926-04:00",
         "Update": "2023-11-07T17:32:40.5816108-05:00",
         "Label": "Board Asus ROG Strix Z690-F Gaming Wifi"
+      },
+      {
+        "Price": 249.00,
+        "Features": [
+          "12va-13ra",
+          "9xUSB",
+          "DDR5",
+          "6xSATA",
+          "Wifi",
+          "6000mhz",
+          "LGA1700",
+          "HDMI",
+          "DisplayPort",
+          "3xAudio"
+        ],
+        "Date": "2023-08-21T08:58:08.2009183-04:00",
+        "Update": "2023-11-14T14:53:33.6851932-05:00",
+        "Label": "Motherboard Gigabyte Z690 Aorus Elite AX"
+      },
+      {
+        "Price": 155.00,
+        "Features": [
+          "12va-13ra",
+          "4800mhz",
+          "VGA",
+          "5xUSB",
+          "HDMI",
+          "DisplayPort",
+          "Micro ATX",
+          "LGA 1700",
+          "4xSATA",
+          "3xAudio"
+        ],
+        "Date": "2023-10-11T10:56:24.0277774-04:00",
+        "Update": "2023-11-14T14:53:33.7650626-05:00",
+        "Label": "Motherboard MSI Pro B760M-P DDR4"
       }
     ]
   },
