@@ -692,19 +692,6 @@
         "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 2TB"
       },
       {
-        "Price": 83.00,
-        "Features": [
-          "7000mbps",
-          "HeatSink",
-          "700tbw",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-10-02T14:29:40.7946679-04:00",
-        "Update": "2023-10-09T15:58:28.3703427-04:00",
-        "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 1TB"
-      },
-      {
         "Price": 145.00,
         "Features": [
           "7100mbs",
@@ -1518,18 +1505,6 @@
         "Date": "2023-05-11T14:19:01.4001144-04:00",
         "Update": "2023-07-27T08:17:37.3410438-04:00",
         "Label": "HDD 3.5 WD 14TB HC530"
-      },
-      {
-        "Price": 69.00,
-        "Features": [
-          "7200rpm",
-          "64mb",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-07-09T16:45:29.3179876-04:00",
-        "Update": "2023-07-27T08:17:37.3781616-04:00",
-        "Label": "HDD 3.5 Toshiba 2TB"
       },
       {
         "Price": 39.00,
@@ -3767,16 +3742,6 @@
         "Date": "2023-10-02T14:29:27.3170143-04:00",
         "Update": "2023-10-09T17:48:21.5099705-04:00",
         "Label": "Caja Externo 3.5 Orico USB 3.0 3588US3-BK"
-      },
-      {
-        "Price": 25.00,
-        "Features": [
-          "USB-C",
-          "Enclosure"
-        ],
-        "Date": "2023-10-11T10:56:26.9169261-04:00",
-        "Update": "2023-10-11T14:20:31.072592-04:00",
-        "Label": "Caja Externo 2.5 Orico USB 3.0 PDD25C3-BK-EP"
       }
     ],
     "Auriculares": [
@@ -3796,23 +3761,6 @@
         "Date": "2023-07-09T16:45:46.4090102-04:00",
         "Update": "2023-10-19T12:52:18.6041154-04:00",
         "Label": "Auriculares Logitech G435 Lightspeed Wireless"
-      },
-      {
-        "Price": 87.00,
-        "Features": [
-          "7.1",
-          "Micrófono",
-          "3.5mm",
-          "50mm",
-          "280g",
-          "USB",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-07-09T16:45:38.4980752-04:00",
-        "Update": "2023-10-19T12:52:18.6390616-04:00",
-        "Label": "Auriculares Corsair HS65 Surround"
       },
       {
         "Price": 89.00,
