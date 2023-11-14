@@ -1174,6 +1174,22 @@
         "Date": "2023-11-06T10:30:16.8475505-05:00",
         "Update": "2023-11-06T11:07:44.0628266-05:00",
         "Label": "Fuente NZXT C1200 1200W"
+      },
+      {
+        "Price": 209.00,
+        "Features": [
+          "80+ PLATINUM",
+          "Full Modular",
+          "71A",
+          "6x 6+2Pin",
+          "9x SATA",
+          "2x 4+4 EPS",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-11-14T14:40:10.1214379-05:00",
+        "Update": "2023-11-14T17:41:04.913036-05:00",
+        "Label": "Fuente EVGA Supernova 850 P5 80+ Platinum"
       }
     ],
     "Disipador Líquido": [
@@ -1531,6 +1547,20 @@
         "Date": "2023-11-03T12:23:24.2344408-04:00",
         "Update": "2023-11-03T14:29:33.2358759-04:00",
         "Label": "Enermax Mounting Bracket for LIQMAX III and AQUAFUSION on Intel LGA 1700"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "Copper",
+          "1xFan",
+          "120mm",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-11-14T14:39:37.2005576-05:00",
+        "Update": "2023-11-14T17:41:04.8114288-05:00",
+        "Label": "Disipador Líquido Enermax Aquafusion 120 ARGB [ELC-AQF120-SQA]"
       }
     ],
     "Disco Duro": [
@@ -2111,6 +2141,17 @@
         "Date": "2023-09-11T09:09:34.8583822-04:00",
         "Update": "2023-11-14T14:53:33.7429964-05:00",
         "Label": "RAM DDR4 Silicon Power 32GB 3200mhz"
+      },
+      {
+        "Price": 89.00,
+        "Features": [
+          "2x8GB",
+          "CL18",
+          "Disipadas"
+        ],
+        "Date": "2023-11-14T14:40:06.7826785-05:00",
+        "Update": "2023-11-14T17:41:04.9005401-05:00",
+        "Label": "RAM DDR4 CORSAIR Vengeance RGB Pro 16GB (2x8GB) 3600mhz White"
       }
     ],
     "Microprocesador": [
@@ -2532,23 +2573,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Master 12GB"
       },
       {
-        "Price": 445.00,
-        "Features": [
-          "DLSS3",
-          "3xFan",
-          "1x8Pin",
-          "550WR",
-          "312mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-10-23T12:32:13.7726731-04:00",
-        "Update": "2023-11-05T10:12:40.5776011-05:00",
-        "Label": "Tarjeta de Video Asus ROG Strix RTX 4060 OC 8GB"
-      },
-      {
         "Price": 1299.00,
         "Features": [
           "850WR",
@@ -2613,6 +2637,87 @@
         "Date": "2023-07-12T21:42:49.1798698-04:00",
         "Update": "2023-11-14T14:53:33.8036254-05:00",
         "Label": "Tarjeta de Video Asus Dual RTX 4060 OC"
+      },
+      {
+        "Price": 445.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "1x8Pin",
+          "550WR",
+          "312mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-10-23T12:32:13.7726731-04:00",
+        "Update": "2023-11-14T17:41:04.7985588-05:00",
+        "Label": "Tarjeta de Video Asus ROG Strix RTX 4060 OC 8GB"
+      },
+      {
+        "Price": 409.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin + 1x6Pin",
+          "600WR",
+          "278mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-14T14:39:46.4902099-05:00",
+        "Update": "2023-11-14T17:41:04.8272858-05:00",
+        "Label": "Tarjeta de Video MSI Gaming X RTX 3060 Ti 8GB LHR"
+      },
+      {
+        "Price": 305.00,
+        "Features": [
+          "3xFan",
+          "1x8Pin",
+          "500WR",
+          "282mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-14T14:39:51.7975085-05:00",
+        "Update": "2023-11-14T17:41:04.8429718-05:00",
+        "Label": "Tarjeta de Video Gigabyte RX 6650 XT Eagle 8GB"
+      },
+      {
+        "Price": 345.00,
+        "Features": [
+          "3xFan",
+          "550WR",
+          "1x8Pin",
+          "280mm",
+          "NVIDIA",
+          "GPU",
+          "Gráfica",
+          "DLSS2"
+        ],
+        "Date": "2023-11-14T14:39:55.4377843-05:00",
+        "Update": "2023-11-14T17:41:04.8581727-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 3060 Vision OC 12GB White"
+      },
+      {
+        "Price": 479.00,
+        "Features": [
+          "3xFan",
+          "2x8Pin",
+          "650WR",
+          "300mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-14T14:39:58.2807205-05:00",
+        "Update": "2023-11-14T17:41:04.8736718-05:00",
+        "Label": "Tarjeta de Video EVGA RTX 3070 FTW3 Ultra 8GB"
       }
     ],
     "Board": [
@@ -2941,11 +3046,13 @@
           "LGA1700",
           "HDMI",
           "DisplayPort",
-          "3xAudio"
+          "3xAudio",
+          "ATX",
+          "MOBO"
         ],
         "Date": "2023-08-21T08:58:08.2009183-04:00",
-        "Update": "2023-11-14T14:53:33.6851932-05:00",
-        "Label": "Motherboard Gigabyte Z690 Aorus Elite AX"
+        "Update": "2023-11-14T17:41:04.7698904-05:00",
+        "Label": "Board Gigabyte Z690 Aorus Elite AX"
       },
       {
         "Price": 155.00,
@@ -2962,8 +3069,28 @@
           "3xAudio"
         ],
         "Date": "2023-10-11T10:56:24.0277774-04:00",
-        "Update": "2023-11-14T14:53:33.7650626-05:00",
-        "Label": "Motherboard MSI Pro B760M-P DDR4"
+        "Update": "2023-11-14T17:41:04.7846965-05:00",
+        "Label": "Board MSI Pro B760M-P DDR4"
+      },
+      {
+        "Price": 175.00,
+        "Features": [
+          "10ma-11na",
+          "5000mhz",
+          "5xUSB",
+          "6xAudio",
+          "6xSATA",
+          "DDR4",
+          "LGA 1200",
+          "ATX",
+          "HDMI",
+          "DisplayPort",
+          "PS2",
+          "MOBO"
+        ],
+        "Date": "2023-11-14T14:40:01.7196287-05:00",
+        "Update": "2023-11-14T17:41:04.8867345-05:00",
+        "Label": "Board MSI MPG Z490 Gaming Plus"
       }
     ]
   },
@@ -3186,6 +3313,19 @@
         "Date": "2023-07-26T18:46:35.01659-04:00",
         "Update": "2023-11-06T10:17:44.3830659-05:00",
         "Label": "Teclado Cooler Master SK622 RGB White"
+      },
+      {
+        "Price": 149.00,
+        "Features": [
+          "60%",
+          "RGB Brown",
+          "Mechanical",
+          "RGB",
+          "Eng"
+        ],
+        "Date": "2023-11-14T14:40:12.9994604-05:00",
+        "Update": "2023-11-14T17:41:04.9342727-05:00",
+        "Label": "Teclado Corsair K65 RGB Mini"
       }
     ],
     "Mouse": [
@@ -3641,6 +3781,18 @@
         "Date": "2023-11-03T12:23:42.4690359-04:00",
         "Update": "2023-11-07T22:20:42.1108054-05:00",
         "Label": "Webcam Creative Live! Sync V3 2K"
+      },
+      {
+        "Price": 119.00,
+        "Features": [
+          "Sony",
+          "8MP",
+          "3840x2160p",
+          "USB"
+        ],
+        "Date": "2023-11-14T14:40:15.9290446-05:00",
+        "Update": "2023-11-14T17:41:04.9582447-05:00",
+        "Label": "Webcam Creative Live! Sync 4K"
       }
     ],
     "Adaptador": [
