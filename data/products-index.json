@@ -117,19 +117,6 @@
       {
         "Price": 335.00,
         "Features": [
-          "12 Hilos",
-          "Serie 5000",
-          "3200mhz",
-          "ASRock"
-        ],
-        "Date": "2023-10-20T08:54:09.0884384-04:00",
-        "Update": "2023-10-25T13:26:44.7875189-04:00",
-        "Discount": 8.0,
-        "Label": "Kit Ryzen 5 +8GB DDR4 Disipadas +Disipador +Board B550M Pro"
-      },
-      {
-        "Price": 335.00,
-        "Features": [
           "8 Hilos",
           "6xUSB",
           "DDR4",
@@ -755,16 +742,6 @@
         "Date": "2023-08-29T08:42:45.4600847-04:00",
         "Update": "2023-10-25T15:46:32.5491128-04:00",
         "Label": "SSD M.2 Samsung 990 Pro 2TB"
-      },
-      {
-        "Price": 69.00,
-        "Features": [
-          "535mbs",
-          "SATA 3"
-        ],
-        "Date": "2023-10-09T15:58:45.9668788-04:00",
-        "Update": "2023-10-25T15:46:32.6071848-04:00",
-        "Label": "SSD 2.5 PNY CS900 1TB"
       },
       {
         "Price": 69.00,
@@ -1471,24 +1448,6 @@
         "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce X 360"
       },
       {
-        "Price": 105.00,
-        "Features": [
-          "2000rpm",
-          "67cfm",
-          "29db",
-          "Copper",
-          "1xFan",
-          "120mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4"
-        ],
-        "Date": "2023-03-27T11:59:58.6808365-04:00",
-        "Update": "2023-10-15T13:54:06.2799293-04:00",
-        "Label": "Disipador Líquido Asus TUF Gaming LC 120 RGB"
-      },
-      {
         "Price": 195.00,
         "Features": [
           "2xFan",
@@ -1966,17 +1925,6 @@
         "Label": "RAM DDR5 Corsair Vengeance 32GB 6000mhz"
       },
       {
-        "Price": 107.00,
-        "Features": [
-          "2x16GB",
-          "CL30",
-          "Disipadas"
-        ],
-        "Date": "2023-10-03T06:56:16.0979857-04:00",
-        "Update": "2023-10-23T00:56:09.4585217-04:00",
-        "Label": "RAM DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
-      },
-      {
         "Price": 105.00,
         "Features": [
           "2x16GB",
@@ -2275,24 +2223,6 @@
         "Date": "2023-10-23T12:31:45.6342687-04:00",
         "Update": "2023-10-23T13:18:33.8894814-04:00",
         "Label": "Micro Intel Core i9-14900K"
-      },
-      {
-        "Price": 175.00,
-        "Features": [
-          "Radeon Graphics",
-          "AM4",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "16MB L3",
-          "65W",
-          "DDR4",
-          "Serie 5000",
-          "CPU"
-        ],
-        "Date": "2023-10-13T09:28:27.261681-04:00",
-        "Update": "2023-10-25T13:26:44.7413961-04:00",
-        "Label": "Micro AMD Ryzen 5 5600G +Disipador"
       },
       {
         "Price": 229.00,
