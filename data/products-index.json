@@ -2088,6 +2088,17 @@
         "Date": "2023-11-14T14:40:06.7826785-05:00",
         "Update": "2023-11-14T17:41:04.9005401-05:00",
         "Label": "RAM DDR4 CORSAIR Vengeance RGB Pro 16GB (2x8GB) 3600mhz White"
+      },
+      {
+        "Price": 57.00,
+        "Features": [
+          "1x16GB",
+          "CL30",
+          "Disipadas"
+        ],
+        "Date": "2023-11-16T18:51:45.5920377-05:00",
+        "Update": "2023-11-16T18:53:02.3540631-05:00",
+        "Label": "RAM DDR5 G.Skill Ripjaws S5 16GB 6000mhz"
       }
     ],
     "Microprocesador": [
