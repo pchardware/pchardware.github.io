@@ -706,18 +706,6 @@
         "Label": "SSD M.2 Samsung 990 PRO 1TB"
       },
       {
-        "Price": 69.00,
-        "Features": [
-          "3500mbps",
-          "600tbw",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-10-02T14:29:38.4356357-04:00",
-        "Update": "2023-10-02T15:13:13.8279567-04:00",
-        "Label": "SSD M.2 Samsung 970 EVO Plus 1TB"
-      },
-      {
         "Price": 97.00,
         "Features": [
           "7100mbps",
@@ -2392,7 +2380,7 @@
     ],
     "Tarjeta Gráfica": [
       {
-        "Price": 79.00,
+        "Price": 75.00,
         "Features": [
           "1xFan",
           "300WR",
@@ -2423,7 +2411,7 @@
         "Label": "Tarjeta de Video Zotac Gaming RTX 3060 AMP 12GB White"
       },
       {
-        "Price": 535.00,
+        "Price": 515.00,
         "Features": [
           "Liquida",
           "2x8Pin",
@@ -2439,7 +2427,7 @@
         "Label": "Tarjeta de Video EVGA RTX 3080Ti XC3 Hydro Copper 12GB"
       },
       {
-        "Price": 835.00,
+        "Price": 799.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -2456,7 +2444,7 @@
         "Label": "Tarjeta de Video MSI Ventus 3X RTX 4070Ti OC 12GB"
       },
       {
-        "Price": 735.00,
+        "Price": 699.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -2473,7 +2461,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Aorus Master OC 12GB"
       },
       {
-        "Price": 399.00,
+        "Price": 395.00,
         "Features": [
           "3xFan",
           "1x8Pin + 1x6Pin",
@@ -2489,7 +2477,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 3060 Ti Gaming OC Pro 8GB"
       },
       {
-        "Price": 1399.00,
+        "Price": 1375.00,
         "Features": [
           "850WR",
           "342mm",
@@ -2506,7 +2494,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4080 Gaming OC 16GB"
       },
       {
-        "Price": 1035.00,
+        "Price": 999.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -2539,7 +2527,7 @@
         "Label": "Tarjeta de Video Gigabyte RX 7600 8GB"
       },
       {
-        "Price": 955.00,
+        "Price": 935.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -2556,7 +2544,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Elite 12GB"
       },
       {
-        "Price": 999.00,
+        "Price": 965.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -2573,7 +2561,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Master 12GB"
       },
       {
-        "Price": 1299.00,
+        "Price": 1275.00,
         "Features": [
           "850WR",
           "342mm",
@@ -2639,7 +2627,7 @@
         "Label": "Tarjeta de Video Asus Dual RTX 4060 OC"
       },
       {
-        "Price": 445.00,
+        "Price": 435.00,
         "Features": [
           "DLSS3",
           "3xFan",
