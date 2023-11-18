@@ -175,6 +175,46 @@
         "Update": "2023-11-18T10:47:08.1244748-05:00",
         "Discount": 8.0,
         "Label": "Kit Intel Core i5-12600KF +ASRock Z690 +8GB DDR4 Vulcan Z"
+      },
+      {
+        "Price": 479.00,
+        "Features": [],
+        "Date": "2023-11-18T11:47:18.5650233-05:00",
+        "Update": "2023-11-18T11:57:21.7469755-05:00",
+        "Discount": 13.0,
+        "Label": "Kit i5 12600KF +Disipador ARGB +Board ASRock Z690 +16GB DDR5 G.Skill 6000mhz"
+      },
+      {
+        "Price": 469.00,
+        "Features": [],
+        "Date": "2023-11-18T11:48:26.022299-05:00",
+        "Update": "2023-11-18T11:57:21.7617602-05:00",
+        "Discount": 9.0,
+        "Label": "Kit i5 13Gen +Disipador ARGB +Board MSI Pro B760M +8GB RAM Vulcan 3200mhz"
+      },
+      {
+        "Price": 456.00,
+        "Features": [],
+        "Date": "2023-11-18T11:49:36.516615-05:00",
+        "Update": "2023-11-18T11:57:21.7779124-05:00",
+        "Discount": 7.0,
+        "Label": "Kit i5 12Gen +Disipador +Board Asus B660 ProArt Creator +16GB DDR4 3200mhz"
+      },
+      {
+        "Price": 489.00,
+        "Features": [],
+        "Date": "2023-11-18T11:50:38.8241713-05:00",
+        "Update": "2023-11-18T11:57:21.7920859-05:00",
+        "Discount": 8.0,
+        "Label": "Kit i5 13Gen +Disipador +Board Gigabyte Aorus B760M +16GB DDR5 Ripjaws 6000mhz"
+      },
+      {
+        "Price": 439.00,
+        "Features": [],
+        "Date": "2023-11-18T11:51:08.6907695-05:00",
+        "Update": "2023-11-18T11:57:21.8053781-05:00",
+        "Discount": 8.0,
+        "Label": "Kit i5 13Gen +Disipador +Board MSI Pro B760M +8GB DDR4 T-Force 3200mhz"
       }
     ]
   },
