@@ -2583,20 +2583,21 @@
         "Label": "Tarjeta de Video Gigabyte RTX 3060 Vision OC 12GB White"
       },
       {
-        "Price": 479.00,
+        "Price": 269.00,
         "Features": [
+          "8GB",
           "3xFan",
-          "2x8Pin",
-          "650WR",
-          "300mm",
-          "GeForce",
-          "NVIDIA",
+          "1x8Pin",
+          "500WR",
+          "282mm",
+          "Radeon",
+          "AMD",
           "GPU",
           "Gráfica"
         ],
-        "Date": "2023-11-14T14:39:58.2807205-05:00",
-        "Update": "2023-11-14T17:41:04.8736718-05:00",
-        "Label": "Tarjeta de Video EVGA RTX 3070 FTW3 Ultra 8GB"
+        "Date": "2023-05-11T19:24:18.7527581-04:00",
+        "Update": "2023-11-18T08:40:49.2674411-05:00",
+        "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
       }
     ],
     "Board": [
@@ -4039,6 +4040,13 @@
         "Date": "2023-11-11T12:37:07.8205999-05:00",
         "Update": "2023-11-11T12:58:59.6207156-05:00",
         "Label": "Control XBox Seriex X Special Edition +Rechargeable Battery"
+      },
+      {
+        "Price": 85.00,
+        "Features": [],
+        "Date": "2023-10-28T11:52:16.1019156-04:00",
+        "Update": "2023-11-18T08:40:49.2565149-05:00",
+        "Label": "Control Xbox Core Wireless Black + USB-C Cable"
       }
     ]
   }
