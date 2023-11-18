@@ -2517,23 +2517,6 @@
         "Label": "XFX Swft 309 RX 6700"
       },
       {
-        "Price": 379.00,
-        "Features": [
-          "8GB",
-          "DLSS3",
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-07-12T21:42:49.1798698-04:00",
-        "Update": "2023-11-14T14:53:33.8036254-05:00",
-        "Label": "Tarjeta de Video Asus Dual RTX 4060 OC"
-      },
-      {
         "Price": 435.00,
         "Features": [
           "DLSS3",
@@ -2598,6 +2581,57 @@
         "Date": "2023-05-11T19:24:18.7527581-04:00",
         "Update": "2023-11-18T08:40:49.2674411-05:00",
         "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
+      },
+      {
+        "Price": 379.00,
+        "Features": [
+          "DLSS3",
+          "2xFan",
+          "1x8Pin",
+          "550WR",
+          "200mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-07-12T21:42:49.1798698-04:00",
+        "Update": "2023-11-18T09:38:43.1868122-05:00",
+        "Label": "Tarjeta de Video Asus Dual RTX 4060 OC 8GB"
+      },
+      {
+        "Price": 385.00,
+        "Features": [
+          "DLSS3",
+          "2xFan",
+          "1x8Pin",
+          "450WR",
+          "272mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-18T08:41:47.9392507-05:00",
+        "Update": "2023-11-18T09:38:43.1987453-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4060 Eagle OC 8GB"
+      },
+      {
+        "Price": 389.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "1x8Pin",
+          "450WR",
+          "281mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-18T08:41:51.2623418-05:00",
+        "Update": "2023-11-18T09:38:43.2115065-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4060 Gaming OC 8GB"
       }
     ],
     "Board": [
@@ -3940,6 +3974,16 @@
         "Date": "2023-10-02T14:29:27.3170143-04:00",
         "Update": "2023-10-09T17:48:21.5099705-04:00",
         "Label": "Caja Externo 3.5 Orico USB 3.0 3588US3-BK"
+      },
+      {
+        "Price": 17.00,
+        "Features": [
+          "USB-A",
+          "Enclosure"
+        ],
+        "Date": "2023-11-18T08:41:57.2185659-05:00",
+        "Update": "2023-11-18T09:38:43.2247793-05:00",
+        "Label": "Caja Externo 2.5 ORICO USB 3.0 PDD25PW1-U3"
       }
     ],
     "Auriculares": [
