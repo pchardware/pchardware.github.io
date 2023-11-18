@@ -123,9 +123,9 @@
           "Disipada"
         ],
         "Date": "2023-10-20T08:53:27.1294814-04:00",
-        "Update": "2023-11-14T14:53:33.7538676-05:00",
+        "Update": "2023-11-18T10:41:30.5802892-05:00",
         "Discount": 6.0,
-        "Label": "Kit i3 12Gen +8GB RAM 3200mhz +Disipador +Board ASRock Z690"
+        "Label": "Kit Intel Core i3 12Gen +8GB RAM 3200mhz +Disipador +Board ASRock Z690"
       },
       {
         "Price": 359.00,
@@ -138,9 +138,9 @@
           "4xSATA"
         ],
         "Date": "2023-10-12T11:57:20.759658-04:00",
-        "Update": "2023-11-14T14:53:33.7922528-05:00",
+        "Update": "2023-11-18T10:41:30.5922882-05:00",
         "Discount": 8.0,
-        "Label": "Kit i3 12Gen +Disipador +Board MSI B760M +RAM DDR4 16GB 3200mhz"
+        "Label": "Kit Intel Core i3 12Gen +16GB RAM DDR4 3200mhz +Disipador +Board MSI B760M"
       },
       {
         "Price": 329.00,
@@ -151,9 +151,9 @@
           "4xSATA"
         ],
         "Date": "2023-11-18T10:32:34.3017455-05:00",
-        "Update": "2023-11-18T10:38:41.5822169-05:00",
+        "Update": "2023-11-18T10:41:30.6079487-05:00",
         "Discount": 8.0,
-        "Label": "Kit i3 13Gen +Disipador +Board MSI Pro B760M +8GB DDR4 Team T-Force 3200mhz"
+        "Label": "Kit Intel Core i3 13Gen +8GB RAM 3200mhz +Disipador +Board MSI Pro B760M"
       }
     ]
   },
