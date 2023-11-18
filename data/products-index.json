@@ -128,7 +128,7 @@
         "Label": "Kit i3 12Gen +8GB RAM 3200mhz +Disipador +Board ASRock Z690"
       },
       {
-        "Price": 355.00,
+        "Price": 359.00,
         "Features": [
           "2x8GB",
           "8 hilos",
@@ -181,13 +181,6 @@
         "Date": "2023-07-17T23:37:33.911055-04:00",
         "Update": "2023-07-18T00:15:27.6755036-04:00",
         "Label": "Cable EnLabs 1-to-5 3Pins Addressable RGB Splitter Y Cable"
-      },
-      {
-        "Price": 9.00,
-        "Features": [],
-        "Date": "2023-07-17T23:37:41.8646-04:00",
-        "Update": "2023-07-18T00:15:27.6816958-04:00",
-        "Label": "Cable PWM Fan Hub PC 5 Way Splitter 4Pin"
       },
       {
         "Price": 18.00,
@@ -614,7 +607,7 @@
         "Label": "SSD 2.5 Team Group DeltaMax RGB 500GB"
       },
       {
-        "Price": 49.00,
+        "Price": 55.00,
         "Features": [
           "3500mbs",
           "PCIe 3",
@@ -646,17 +639,6 @@
         "Date": "2023-08-21T08:57:54.5361201-04:00",
         "Update": "2023-08-21T12:54:21.1326564-04:00",
         "Label": "SSD M.2 Intel 670P 2TB"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "7000mbs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-08-16T09:17:42.5509882-04:00",
-        "Update": "2023-08-29T08:44:58.6306867-04:00",
-        "Label": "SSD M.2 Samsung 980 PRO 2TB"
       },
       {
         "Price": 79.00,
@@ -2519,22 +2501,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4080 Eagle OC 16GB"
       },
       {
-        "Price": 209.00,
-        "Features": [
-          "2xFan",
-          "1x8Pin",
-          "450WR",
-          "216mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-11-05T07:48:15.4031658-05:00",
-        "Update": "2023-11-05T10:12:40.6186783-05:00",
-        "Label": "Tarjeta de Video Zotac Gaming GTX 1660 6GB"
-      },
-      {
         "Price": 339.00,
         "Features": [
           "10GB",
@@ -2583,22 +2549,6 @@
         "Date": "2023-10-23T12:32:13.7726731-04:00",
         "Update": "2023-11-14T17:41:04.7985588-05:00",
         "Label": "Tarjeta de Video Asus ROG Strix RTX 4060 OC 8GB"
-      },
-      {
-        "Price": 409.00,
-        "Features": [
-          "2xFan",
-          "1x8Pin + 1x6Pin",
-          "600WR",
-          "278mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-11-14T14:39:46.4902099-05:00",
-        "Update": "2023-11-14T17:41:04.8272858-05:00",
-        "Label": "Tarjeta de Video MSI Gaming X RTX 3060 Ti 8GB LHR"
       },
       {
         "Price": 305.00,
@@ -2984,7 +2934,7 @@
         "Label": "Board Gigabyte Z690 Aorus Elite AX"
       },
       {
-        "Price": 155.00,
+        "Price": 159.00,
         "Features": [
           "12va-13ra",
           "4800mhz",
@@ -3811,24 +3761,6 @@
         "Date": "2023-06-24T08:20:03.8135275-04:00",
         "Update": "2023-10-09T17:48:20.9465914-04:00",
         "Label": "Monitor Asus TUF 24\" VG248Q1B"
-      },
-      {
-        "Price": 199.00,
-        "Features": [
-          "VA",
-          "5ms",
-          "75Hz",
-          "250nit",
-          "Business",
-          "D-Sub",
-          "HDMI",
-          "1080p",
-          "Flat",
-          "FHD"
-        ],
-        "Date": "2023-09-11T09:09:41.0989166-04:00",
-        "Update": "2023-10-09T17:48:21.0863334-04:00",
-        "Label": "Monitor MSI Pro 24\" MP241X"
       },
       {
         "Price": 275.00,
