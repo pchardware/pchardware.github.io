@@ -715,18 +715,6 @@
         "Label": "SSD M.2 Intel 670P 2TB"
       },
       {
-        "Price": 79.00,
-        "Features": [
-          "7400mbs",
-          "PCIe 4",
-          "1450tbw",
-          "NVMe"
-        ],
-        "Date": "2023-09-23T17:40:17.7101762-04:00",
-        "Update": "2023-09-23T18:19:21.6733146-04:00",
-        "Label": "SSD M.2 Team Group MP44 1TB"
-      },
-      {
         "Price": 139.00,
         "Features": [
           "7000mbs",
@@ -876,23 +864,6 @@
         "Date": "2023-08-20T10:12:14.5675243-04:00",
         "Update": "2023-10-09T17:48:20.9552936-04:00",
         "Label": "Fuente de Servidor HP 578322-B21 1200W"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "80+ Bronze",
-          "Modular",
-          "62A",
-          "4x 6+2Pin",
-          "8x SATA",
-          "1x 4+4 EPS",
-          "160mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-04-15T07:27:10.1467554-04:00",
-        "Update": "2023-10-18T07:33:51.8719475-04:00",
-        "Label": "Fuente Corsair CX750M 750W"
       },
       {
         "Price": 255.00,
@@ -2524,23 +2495,6 @@
         "Label": "Tarjeta de Video Gigabyte RX 7600 8GB"
       },
       {
-        "Price": 935.00,
-        "Features": [
-          "DLSS3",
-          "3xFan",
-          "1x16Pin",
-          "750W",
-          "342mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-10-16T10:24:27.1132383-04:00",
-        "Update": "2023-11-05T10:12:40.5522189-05:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Elite 12GB"
-      },
-      {
         "Price": 965.00,
         "Features": [
           "DLSS3",
@@ -2655,23 +2609,6 @@
         "Date": "2023-05-11T19:24:18.7527581-04:00",
         "Update": "2023-11-18T08:40:49.2674411-05:00",
         "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
-      },
-      {
-        "Price": 379.00,
-        "Features": [
-          "DLSS3",
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "200mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-07-12T21:42:49.1798698-04:00",
-        "Update": "2023-11-18T09:38:43.1868122-05:00",
-        "Label": "Tarjeta de Video Asus Dual RTX 4060 OC 8GB"
       },
       {
         "Price": 385.00,
