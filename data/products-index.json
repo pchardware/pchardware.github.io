@@ -764,17 +764,6 @@
         "Label": "SSD M.2 Samsung 980 500GB"
       },
       {
-        "Price": 45.00,
-        "Features": [
-          "530mbs",
-          "400tbw",
-          "SATA 3"
-        ],
-        "Date": "2023-06-07T13:42:05.5721644-04:00",
-        "Update": "2023-07-27T09:48:00.5828942-04:00",
-        "Label": "SSD 2.5 Team Group CX2 512GB"
-      },
-      {
         "Price": 89.00,
         "Features": [
           "3500mbs",
