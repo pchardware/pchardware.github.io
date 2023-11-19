@@ -484,13 +484,6 @@
         "Label": "Cable DisplayPort 1.4, 1.8m"
       },
       {
-        "Price": 17.00,
-        "Features": [],
-        "Date": "2023-10-23T12:32:08.5379608-04:00",
-        "Update": "2023-10-23T13:26:42.3700618-04:00",
-        "Label": "Thermalright LGA1700-BCF Gray"
-      },
-      {
         "Price": 6.00,
         "Features": [
           "Jeringuilla"
@@ -564,22 +557,6 @@
         "Date": "2023-11-03T12:23:39.265693-04:00",
         "Update": "2023-11-03T14:29:33.2508702-04:00",
         "Label": "Adapter Phanteks Modular HDD Bracket PH-HDDKT_02"
-      },
-      {
-        "Price": 89.00,
-        "Features": [
-          "Magnetic",
-          "120mm",
-          "3xFan",
-          "2000rpm",
-          "58cfm",
-          "30db",
-          "4Pin",
-          "ARGB"
-        ],
-        "Date": "2023-09-02T12:38:22.05203-04:00",
-        "Update": "2023-11-18T23:49:17.3446659-05:00",
-        "Label": "Fan Corsair ML120 RGB Elite, Kit +Lighting Node CORE"
       },
       {
         "Price": 21.00,
@@ -858,17 +835,6 @@
         "Date": "2023-10-16T10:23:41.2113735-04:00",
         "Update": "2023-10-25T15:46:32.6425833-04:00",
         "Label": "SSD 2.5 Team Group CX2 1TB"
-      },
-      {
-        "Price": 45.00,
-        "Features": [
-          "550mbs",
-          "400tbw",
-          "SATA 3"
-        ],
-        "Date": "2023-06-07T13:42:08.9262831-04:00",
-        "Update": "2023-10-31T23:27:31.0076816-04:00",
-        "Label": "SSD 2.5 Team Group EX2 512GB"
       },
       {
         "Price": 93.00,
