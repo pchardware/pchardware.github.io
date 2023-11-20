@@ -553,17 +553,6 @@
         "Label": "SSD 2.5 Team Group DeltaMax RGB 500GB"
       },
       {
-        "Price": 55.00,
-        "Features": [
-          "3500mbs",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-04-09T10:02:19.6488406-04:00",
-        "Update": "2023-06-07T16:09:24.8126722-04:00",
-        "Label": "SSD M.2 Samsung 980 500GB"
-      },
-      {
         "Price": 89.00,
         "Features": [
           "3500mbs",
@@ -1482,7 +1471,7 @@
         "Label": "HDD 3.5 Seagate EXOS 12TB Recertified"
       },
       {
-        "Price": 159.00,
+        "Price": 165.00,
         "Features": [
           "Enterprise",
           "7200rpm",
@@ -3040,26 +3029,6 @@
         "Date": "2023-10-03T06:55:49.2464488-04:00",
         "Update": "2023-11-19T11:13:03.6561611-05:00",
         "Label": "Board Gigabyte Z790 Aorus Elite AX"
-      },
-      {
-        "Price": 269.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "7200mhz",
-          "DDR5",
-          "Wifi",
-          "Dual Lan",
-          "7xUSB",
-          "4xSATA",
-          "HDMI",
-          "LGA 1700",
-          "6xAudio",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-10-16T10:24:22.1843395-04:00",
-        "Update": "2023-11-19T11:13:03.6698031-05:00",
-        "Label": "Board MSI Z790 Gaming Pro Wifi"
       },
       {
         "Price": 159.00,
