@@ -276,16 +276,6 @@
         "Label": "Extensor Athena PCIe"
       },
       {
-        "Price": 25.00,
-        "Features": [
-          "1x a 16x",
-          "Adaptador"
-        ],
-        "Date": "2023-06-07T13:43:02.4805647-04:00",
-        "Update": "2023-06-07T14:23:20.6655879-04:00",
-        "Label": "Riser Coboc PCI Express"
-      },
-      {
         "Price": 7.00,
         "Features": [
           "120"
@@ -309,7 +299,7 @@
         "Label": "EN-Labs GEKE PWM 4-pin Fan Hub 10 Ports Splitter"
       },
       {
-        "Price": 13.00,
+        "Price": 13.0,
         "Features": [
           "Mining",
           "Riser Adapter"
@@ -317,18 +307,6 @@
         "Date": "2023-08-20T10:13:12.2031617-04:00",
         "Update": "2023-08-20T11:36:57.2958607-04:00",
         "Label": "Thsion NGFF M.2 a USB"
-      },
-      {
-        "Price": 18.00,
-        "Features": [
-          "1800rpm",
-          "65cfm",
-          "27dba",
-          "120mm"
-        ],
-        "Date": "2023-08-21T08:58:21.6545554-04:00",
-        "Update": "2023-08-21T12:54:21.1710668-04:00",
-        "Label": "Fan Cooler Master SickleFlow 120 V2 ARGB"
       },
       {
         "Price": 13.00,
@@ -552,13 +530,6 @@
         "Label": "Cable Omni Gear USB 3.0 Extender 0.9m"
       },
       {
-        "Price": 13.00,
-        "Features": [],
-        "Date": "2023-11-03T12:23:39.265693-04:00",
-        "Update": "2023-11-03T14:29:33.2508702-04:00",
-        "Label": "Adapter Phanteks Modular HDD Bracket PH-HDDKT_02"
-      },
-      {
         "Price": 21.00,
         "Features": [
           "1500rpm",
@@ -568,154 +539,6 @@
         "Date": "2023-11-18T23:52:10.0012506-05:00",
         "Update": "2023-11-19T11:13:03.9722333-05:00",
         "Label": "Fan Corsair Air Series AF120 120mm White LED"
-      }
-    ],
-    "Chasis": [
-      {
-        "Price": 99.00,
-        "Features": [
-          "8 GPU",
-          "Acero",
-          "Abierto"
-        ],
-        "Date": "2023-06-07T15:06:17.9384399-04:00",
-        "Update": "2023-06-07T15:55:09.471115-04:00",
-        "Label": "Chasis MLLIQUEA Mining Rig Frame"
-      },
-      {
-        "Price": 239.00,
-        "Features": [
-          "Tempered Glass",
-          "4xFan",
-          "ARGB",
-          "2xHDD",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro"
-        ],
-        "Date": "2023-06-29T07:38:28.5002459-04:00",
-        "Update": "2023-07-27T07:54:42.9357984-04:00",
-        "Label": "Chasis Asus TUF GT301"
-      },
-      {
-        "Price": 279.00,
-        "Features": [
-          "8xHDD",
-          "5xFan",
-          "4xUSB",
-          "Docking",
-          "Full Tower",
-          "LED",
-          "Gamer",
-          "ATX",
-          "E-ATX",
-          "Negro"
-        ],
-        "Date": "2023-07-13T11:31:56.8717751-04:00",
-        "Update": "2023-07-27T07:54:42.9549049-04:00",
-        "Label": "Chasis Rosewill NIGHTHAWK 117"
-      },
-      {
-        "Price": 215.00,
-        "Features": [
-          "2x140mm",
-          "ARGB",
-          "Tempered Glass",
-          "Mesh",
-          "2xFan",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro",
-          "2xHDD"
-        ],
-        "Date": "2023-08-20T10:12:26.8379058-04:00",
-        "Update": "2023-10-25T15:46:32.5351458-04:00",
-        "Label": "Chasis Fractal Design Focus 2 RGB Black"
-      },
-      {
-        "Price": 325.00,
-        "Features": [
-          "Vertical",
-          "Tempered Glass",
-          "3xFan",
-          "RGB",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "2xHDD",
-          "Negro"
-        ],
-        "Date": "2023-06-19T07:49:30.2036169-04:00",
-        "Update": "2023-10-28T09:10:46.2683164-04:00",
-        "Label": "Chasis Corsair iCUE 4000X RGB"
-      },
-      {
-        "Price": 169.00,
-        "Features": [
-          "Tempered Glass",
-          "2xUSB",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro",
-          "2xHDD",
-          "1xFan"
-        ],
-        "Date": "2023-10-14T08:42:09.5719454-04:00",
-        "Update": "2023-10-31T23:27:31.0906944-04:00",
-        "Label": "Chasis Cooler Master MasterBox MB511"
-      },
-      {
-        "Price": 225.00,
-        "Features": [
-          "2x140mm",
-          "ARGB",
-          "Tempered Glass",
-          "Mesh",
-          "2xFan",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Blanco",
-          "2xHDD"
-        ],
-        "Date": "2023-10-19T09:32:02.3777136-04:00",
-        "Update": "2023-11-07T21:13:39.6139582-05:00",
-        "Label": "Chasis Fractal Design Focus 2 RGB White"
-      },
-      {
-        "Price": 285.00,
-        "Features": [
-          "Vertical",
-          "Tempered Glass",
-          "2xFan",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "2xHDD",
-          "Negro"
-        ],
-        "Date": "2023-11-11T12:36:37.8216832-05:00",
-        "Update": "2023-11-11T12:58:59.609044-05:00",
-        "Label": "Chasis Corsair 4000D Airflow"
-      },
-      {
-        "Price": 195.00,
-        "Features": [
-          "Tempered Glass",
-          "3xFan ARGB",
-          "3xUSB",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro",
-          "2xHDD"
-        ],
-        "Date": "2023-11-03T12:22:56.9620417-04:00",
-        "Update": "2023-11-11T13:24:08.664654-05:00",
-        "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
       }
     ],
     "Disco Sólido": [
@@ -1297,23 +1120,6 @@
         "Label": "Kit Líquido Thermaltake Pacific C360 Ddc"
       },
       {
-        "Price": 595.00,
-        "Features": [
-          "360mm",
-          "Premium",
-          "RGB",
-          "CUSTOM",
-          "CPU + GPU",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4"
-        ],
-        "Date": "2023-05-11T13:08:17.1127956-04:00",
-        "Update": "2023-10-03T09:09:19.0117635-04:00",
-        "Label": "Kit Líquido Corsair Hydro XH305i"
-      },
-      {
         "Price": 89.00,
         "Features": [
           "2xFan",
@@ -1714,6 +1520,143 @@
         "Date": "2023-07-26T16:42:06.8492862-04:00",
         "Update": "2023-10-11T10:54:04.711221-04:00",
         "Label": "HDD 3.5 Seagate Pipeline 2TB"
+      }
+    ],
+    "Chasis": [
+      {
+        "Price": 239.00,
+        "Features": [
+          "Tempered Glass",
+          "4xFan",
+          "ARGB",
+          "2xHDD",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "Negro"
+        ],
+        "Date": "2023-06-29T07:38:28.5002459-04:00",
+        "Update": "2023-07-27T07:54:42.9357984-04:00",
+        "Label": "Chasis Asus TUF GT301"
+      },
+      {
+        "Price": 279.00,
+        "Features": [
+          "8xHDD",
+          "5xFan",
+          "4xUSB",
+          "Docking",
+          "Full Tower",
+          "LED",
+          "Gamer",
+          "ATX",
+          "E-ATX",
+          "Negro"
+        ],
+        "Date": "2023-07-13T11:31:56.8717751-04:00",
+        "Update": "2023-07-27T07:54:42.9549049-04:00",
+        "Label": "Chasis Rosewill NIGHTHAWK 117"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "2x140mm",
+          "ARGB",
+          "Tempered Glass",
+          "Mesh",
+          "2xFan",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "Negro",
+          "2xHDD"
+        ],
+        "Date": "2023-08-20T10:12:26.8379058-04:00",
+        "Update": "2023-10-25T15:46:32.5351458-04:00",
+        "Label": "Chasis Fractal Design Focus 2 RGB Black"
+      },
+      {
+        "Price": 325.00,
+        "Features": [
+          "Vertical",
+          "Tempered Glass",
+          "3xFan",
+          "RGB",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "2xHDD",
+          "Negro"
+        ],
+        "Date": "2023-06-19T07:49:30.2036169-04:00",
+        "Update": "2023-10-28T09:10:46.2683164-04:00",
+        "Label": "Chasis Corsair iCUE 4000X RGB"
+      },
+      {
+        "Price": 169.00,
+        "Features": [
+          "Tempered Glass",
+          "2xUSB",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "Negro",
+          "2xHDD",
+          "1xFan"
+        ],
+        "Date": "2023-10-14T08:42:09.5719454-04:00",
+        "Update": "2023-10-31T23:27:31.0906944-04:00",
+        "Label": "Chasis Cooler Master MasterBox MB511"
+      },
+      {
+        "Price": 225.00,
+        "Features": [
+          "2x140mm",
+          "ARGB",
+          "Tempered Glass",
+          "Mesh",
+          "2xFan",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "Blanco",
+          "2xHDD"
+        ],
+        "Date": "2023-10-19T09:32:02.3777136-04:00",
+        "Update": "2023-11-07T21:13:39.6139582-05:00",
+        "Label": "Chasis Fractal Design Focus 2 RGB White"
+      },
+      {
+        "Price": 285.00,
+        "Features": [
+          "Vertical",
+          "Tempered Glass",
+          "2xFan",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "2xHDD",
+          "Negro"
+        ],
+        "Date": "2023-11-11T12:36:37.8216832-05:00",
+        "Update": "2023-11-11T12:58:59.609044-05:00",
+        "Label": "Chasis Corsair 4000D Airflow"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "Tempered Glass",
+          "3xFan ARGB",
+          "3xUSB",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "Negro",
+          "2xHDD"
+        ],
+        "Date": "2023-11-03T12:22:56.9620417-04:00",
+        "Update": "2023-11-11T13:24:08.664654-05:00",
+        "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
       }
     ],
     "Red": [
@@ -3911,21 +3854,6 @@
         "Label": "Mouse Logitech G502 X White"
       }
     ],
-    "Silla": [
-      {
-        "Price": 169.00,
-        "Features": [
-          "Oficina",
-          "Ergonómica",
-          "Reposabrazos",
-          "Ruedas giratorias",
-          "Gris"
-        ],
-        "Date": "2023-05-12T07:54:58.4743215-04:00",
-        "Update": "2023-07-19T18:04:45.7136611-04:00",
-        "Label": "Silla YAHEETECH"
-      }
-    ],
     "Webcam": [
       {
         "Price": 39.00,
@@ -4026,13 +3954,6 @@
         "Date": "2023-06-07T14:58:54.5233761-04:00",
         "Update": "2023-07-31T14:53:37.2541874-04:00",
         "Label": "Conversor DINO HDMI a VGA"
-      },
-      {
-        "Price": 9.00,
-        "Features": [],
-        "Date": "2023-06-07T15:04:34.6091688-04:00",
-        "Update": "2023-07-31T14:53:37.2639633-04:00",
-        "Label": "Conversor HDMI a VGA"
       },
       {
         "Price": 15.00,
