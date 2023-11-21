@@ -1,6 +1,6 @@
 {
   "Category": "Kits",
-  "SubCategory": "Moderado",
+  "SubCategory": "Rendimiento",
   "Images": [
     "/images/products/kit-i7-12700k-asrock-z690-phantom-ram-8gb-t-force-1.webp",
     "/images/products/kit-i7-12700k-asrock-z690-phantom-ram-8gb-t-force-2.webp",
@@ -20,7 +20,7 @@
     "6xUSB"
   ],
   "Date": "2023-10-20T09:06:57.5474984-04:00",
-  "Update": "2023-11-18T23:49:17.4429739-05:00",
+  "Update": "2023-11-21T08:20:08.7984863-05:00",
   "Discount": 6.0,
   "Label": "Kit i7-12700K +ASRock Z690 Phantom +RAM 8GB T-Force"
 }
