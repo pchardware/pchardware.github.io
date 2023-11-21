@@ -14,9 +14,13 @@
   ],
   "Description": "+ Micro Intel Core i5-12600KF\n+ Disipador ID-COOLING SE-214-XT ARGB Black\n+ Board ASRock Z690 Phantom Gaming 4 D5\n+ RAM DDR5 G.Skill Ripjaws S5 16GB 6000mhz\n",
   "Price": 479.00,
-  "Features": [],
+  "Features": [
+    "4.9GHz",
+    "16 Hilos",
+    "7xUSB"
+  ],
   "Date": "2023-11-18T11:47:18.5650233-05:00",
-  "Update": "2023-11-21T08:21:48.014634-05:00",
+  "Update": "2023-11-21T08:52:12.8833702-05:00",
   "Discount": 13.0,
   "Label": "Kit 12Gen i5 12600KF +Disipador ARGB +Board ASRock Z690 +16GB DDR5 G.Skill 6000mhz"
 }
