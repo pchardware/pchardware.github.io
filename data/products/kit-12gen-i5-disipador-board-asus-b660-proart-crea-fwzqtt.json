@@ -12,9 +12,14 @@
   ],
   "Description": "+ Micro Intel Core i5-12400 +Disipador\n+ Board Asus B660 ProArt Creator D4\n+ RAM DDR4 Silicon Power 16GB 3200mhz\n",
   "Price": 455.00,
-  "Features": [],
+  "Features": [
+    "12 Hilos",
+    "4.4GHz",
+    "Dual Lan",
+    "8xUSB"
+  ],
   "Date": "2023-11-18T11:49:36.516615-05:00",
-  "Update": "2023-11-21T08:21:48.0578209-05:00",
+  "Update": "2023-11-21T08:52:12.9071135-05:00",
   "Discount": 8.0,
   "Label": "Kit 12Gen i5 +Disipador +Board Asus B660 ProArt Creator +16GB DDR4 3200mhz"
 }
