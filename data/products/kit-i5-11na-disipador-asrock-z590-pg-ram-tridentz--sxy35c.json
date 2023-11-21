@@ -1,0 +1,28 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Moderado",
+  "Images": [
+    "/images/products/kit-i5-11na-disipador-asrock-z590-pg-ram-tridentz--sxy35c-1.webp",
+    "/images/products/kit-i5-11na-disipador-asrock-z590-pg-ram-tridentz--sxy35c-2.webp",
+    "/images/products/kit-i5-11na-disipador-asrock-z590-pg-ram-tridentz--sxy35c-3.webp",
+    "/images/products/kit-i5-11na-disipador-asrock-z590-pg-ram-tridentz--sxy35c-4.webp",
+    "/images/products/kit-i5-11na-disipador-asrock-z590-pg-ram-tridentz--sxy35c-5.webp",
+    "/images/products/kit-i5-11na-disipador-asrock-z590-pg-ram-tridentz--sxy35c-6.webp",
+    "/images/products/kit-i5-11na-disipador-asrock-z590-pg-ram-tridentz--sxy35c-7.webp",
+    "/images/products/kit-i5-11na-disipador-asrock-z590-pg-ram-tridentz--sxy35c-8.webp",
+    "/images/products/kit-i5-11na-disipador-asrock-z590-pg-ram-tridentz--sxy35c-9.webp",
+    "/images/products/kit-i5-11na-disipador-asrock-z590-pg-ram-tridentz--sxy35c-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-11400 +Disipador\n+ Board ASRock Z590 PG VELOCITA\n+ RAM DDR4 G.SKILL TridentZ RGB 32GB 3600mhz\n",
+  "Price": 505.00,
+  "Features": [
+    "12 Hilos",
+    "4.4GHz",
+    "9xUSB",
+    "Dual Lan"
+  ],
+  "Date": "2023-11-21T07:56:25.8965762-05:00",
+  "Update": "2023-11-21T08:20:08.8349015-05:00",
+  "Discount": 10.0,
+  "Label": "Kit i5 11na +Disipador +ASRock Z590 PG +RAM TridentZ RGB 32GB 3600mhz"
+}
