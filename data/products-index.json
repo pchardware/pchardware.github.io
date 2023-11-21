@@ -129,34 +129,6 @@
     ],
     "Esencial": [
       {
-        "Price": 335.00,
-        "Features": [
-          "8 Hilos",
-          "6xUSB",
-          "DDR4",
-          "Disipada"
-        ],
-        "Date": "2023-10-20T08:53:27.1294814-04:00",
-        "Update": "2023-11-18T10:41:30.5802892-05:00",
-        "Discount": 6.0,
-        "Label": "Kit Intel Core i3 12Gen +8GB RAM 3200mhz +Disipador +Board ASRock Z690"
-      },
-      {
-        "Price": 359.00,
-        "Features": [
-          "2x8GB",
-          "8 hilos",
-          "Dual Channel",
-          "VGA",
-          "HDMI",
-          "4xSATA"
-        ],
-        "Date": "2023-10-12T11:57:20.759658-04:00",
-        "Update": "2023-11-18T10:41:30.5922882-05:00",
-        "Discount": 8.0,
-        "Label": "Kit Intel Core i3 12Gen +16GB RAM DDR4 3200mhz +Disipador +Board MSI B760M"
-      },
-      {
         "Price": 329.00,
         "Features": [
           "8 hilos",
@@ -181,14 +153,6 @@
         "Update": "2023-11-18T10:47:08.1359977-05:00",
         "Discount": 8.0,
         "Label": "Kit Intel Core i5 11na Gen +8GB RAM 3200mhz +Disipador +Board MSI Z590"
-      },
-      {
-        "Price": 399.00,
-        "Features": [],
-        "Date": "2023-11-18T11:40:29.5868429-05:00",
-        "Update": "2023-11-18T11:43:54.957158-05:00",
-        "Discount": 8.0,
-        "Label": "Kit Intel Core i5-12400 +8GB RAM +Disipador +Board ASRock Z690M"
       }
     ],
     "Moderado": [
@@ -246,19 +210,6 @@
         "Label": "Kit 13Gen i5-13500T +Disipador ARGB +Asus B660 ProArt +16GB RAM RGB 3600mhz"
       },
       {
-        "Price": 545.00,
-        "Features": [
-          "16 Hilos",
-          "4.6GHz",
-          "Wifi",
-          "8xUSB"
-        ],
-        "Date": "2023-11-21T08:03:29.1158579-05:00",
-        "Update": "2023-11-21T08:20:08.8902807-05:00",
-        "Discount": 10.0,
-        "Label": "Kit 13Gen i5 +Disipador +Aorus B760M Elite +DDR5 Corsair RGB 32GB"
-      },
-      {
         "Price": 569.00,
         "Features": [
           "20 Hilos",
@@ -296,19 +247,6 @@
         "Update": "2023-11-21T08:52:12.8954511-05:00",
         "Discount": 9.0,
         "Label": "Kit 13Gen i5-13500T +Disipador ARGB +Board MSI Pro B760M +8GB RAM Vulcan 3200mhz"
-      },
-      {
-        "Price": 455.00,
-        "Features": [
-          "12 Hilos",
-          "4.4GHz",
-          "Dual Lan",
-          "8xUSB"
-        ],
-        "Date": "2023-11-18T11:49:36.516615-05:00",
-        "Update": "2023-11-21T08:52:12.9071135-05:00",
-        "Discount": 8.0,
-        "Label": "Kit 12Gen i5 +Disipador +Board Asus B660 ProArt Creator +16GB DDR4 3200mhz"
       },
       {
         "Price": 489.00,
@@ -2183,17 +2121,6 @@
         "Label": "RAM DDR4 G.SKILL TridentZ RGB 32GB 3600mhz"
       },
       {
-        "Price": 115.00,
-        "Features": [
-          "2x16GB",
-          "CL36",
-          "Disipadas"
-        ],
-        "Date": "2023-11-06T10:30:13.5751781-05:00",
-        "Update": "2023-11-09T22:58:37.9100902-05:00",
-        "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 5600mhz"
-      },
-      {
         "Price": 145.00,
         "Features": [
           "2x16GB",
@@ -2236,17 +2163,6 @@
         "Date": "2023-03-30T09:56:49.769494-04:00",
         "Update": "2023-11-18T23:49:17.3563211-05:00",
         "Label": "RAM DDR4 GeIL ORION RGB 16GB 3600mhz"
-      },
-      {
-        "Price": 95.00,
-        "Features": [
-          "2x16GB",
-          "C18",
-          "Disipadas"
-        ],
-        "Date": "2023-11-06T10:30:23.8952546-05:00",
-        "Update": "2023-11-18T23:49:17.4785882-05:00",
-        "Label": "RAM DDR4 Patriot Viper Steel 32GB 3600mhz"
       },
       {
         "Price": 99.00,
@@ -2358,22 +2274,6 @@
         "Label": "Micro Intel Core i5-12600KF"
       },
       {
-        "Price": 215.00,
-        "Features": [
-          "12va Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "18MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-02-17T09:45:29.425139-05:00",
-        "Update": "2023-10-23T00:56:09.3810404-04:00",
-        "Label": "Micro Intel Core i5-12400 +Disipador"
-      },
-      {
         "Price": 499.00,
         "Features": [
           "14va Gen",
@@ -2455,22 +2355,6 @@
         "Date": "2023-10-02T14:28:46.4986141-04:00",
         "Update": "2023-11-01T07:24:34.3387853-04:00",
         "Label": "Micro Intel Core i5-13400 +Disipador"
-      },
-      {
-        "Price": 149.00,
-        "Features": [
-          "12va Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.3GHz",
-          "12MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-05-11T07:28:15.7616729-04:00",
-        "Update": "2023-11-14T14:53:33.7317093-05:00",
-        "Label": "Micro Intel Core i3-12100 +Disipador"
       },
       {
         "Price": 145.00,
