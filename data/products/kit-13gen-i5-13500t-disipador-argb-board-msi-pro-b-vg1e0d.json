@@ -14,9 +14,13 @@
   ],
   "Description": "+ Micro Intel Core i5-13500T\n+ Disipador ID-COOLING SE-214-XT ARGB Black\n+ Board MSI Pro B760M-P DDR4\n+ RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz\n",
   "Price": 469.00,
-  "Features": [],
+  "Features": [
+    "20 Hilos",
+    "4.6GHz",
+    "5xUSB"
+  ],
   "Date": "2023-11-18T11:48:26.022299-05:00",
-  "Update": "2023-11-21T08:21:48.0359105-05:00",
+  "Update": "2023-11-21T08:52:12.8954511-05:00",
   "Discount": 9.0,
   "Label": "Kit 13Gen i5-13500T +Disipador ARGB +Board MSI Pro B760M +8GB RAM Vulcan 3200mhz"
 }
