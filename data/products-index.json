@@ -207,14 +207,6 @@
         "Label": "Kit 12Gen i5-12600KF +ASRock Z690 +8GB DDR4 Vulcan Z"
       },
       {
-        "Price": 439.00,
-        "Features": [],
-        "Date": "2023-11-18T11:51:08.6907695-05:00",
-        "Update": "2023-11-21T08:20:08.7735655-05:00",
-        "Discount": 8.0,
-        "Label": "Kit 13Gen i5 +Disipador +Board MSI Pro B760M +8GB DDR4 T-Force 3200mhz"
-      },
-      {
         "Price": 479.00,
         "Features": [
           "12 Hilos",
@@ -283,35 +275,65 @@
       },
       {
         "Price": 479.00,
-        "Features": [],
+        "Features": [
+          "4.9GHz",
+          "16 Hilos",
+          "7xUSB"
+        ],
         "Date": "2023-11-18T11:47:18.5650233-05:00",
-        "Update": "2023-11-21T08:21:48.014634-05:00",
+        "Update": "2023-11-21T08:52:12.8833702-05:00",
         "Discount": 13.0,
         "Label": "Kit 12Gen i5 12600KF +Disipador ARGB +Board ASRock Z690 +16GB DDR5 G.Skill 6000mhz"
       },
       {
         "Price": 469.00,
-        "Features": [],
+        "Features": [
+          "20 Hilos",
+          "4.6GHz",
+          "5xUSB"
+        ],
         "Date": "2023-11-18T11:48:26.022299-05:00",
-        "Update": "2023-11-21T08:21:48.0359105-05:00",
+        "Update": "2023-11-21T08:52:12.8954511-05:00",
         "Discount": 9.0,
         "Label": "Kit 13Gen i5-13500T +Disipador ARGB +Board MSI Pro B760M +8GB RAM Vulcan 3200mhz"
       },
       {
         "Price": 455.00,
-        "Features": [],
+        "Features": [
+          "12 Hilos",
+          "4.4GHz",
+          "Dual Lan",
+          "8xUSB"
+        ],
         "Date": "2023-11-18T11:49:36.516615-05:00",
-        "Update": "2023-11-21T08:21:48.0578209-05:00",
+        "Update": "2023-11-21T08:52:12.9071135-05:00",
         "Discount": 8.0,
         "Label": "Kit 12Gen i5 +Disipador +Board Asus B660 ProArt Creator +16GB DDR4 3200mhz"
       },
       {
         "Price": 489.00,
-        "Features": [],
+        "Features": [
+          "16 Hilos",
+          "4.6GHz",
+          "Wifi",
+          "8xUSB"
+        ],
         "Date": "2023-11-18T11:50:38.8241713-05:00",
-        "Update": "2023-11-21T08:21:48.0820812-05:00",
+        "Update": "2023-11-21T08:52:12.9239017-05:00",
         "Discount": 8.0,
         "Label": "Kit 13Gen i5 +Disipador +Board Gigabyte Aorus B760M +16GB DDR5 Ripjaws 6000mhz"
+      },
+      {
+        "Price": 439.00,
+        "Features": [
+          "16 Hilos",
+          "4.6GHz",
+          "5xUSB"
+        ],
+        "Date": "2023-11-18T11:51:08.6907695-05:00",
+        "Update": "2023-11-21T08:52:12.9358323-05:00",
+        "Discount": 8.0,
+        "Label": "Kit 13Gen i5 +Disipador +Board MSI Pro B760M +8GB DDR4 T-Force 3200mhz"
       }
     ]
   },
@@ -2927,26 +2949,6 @@
         "Label": "Board MSI MPG Z490 Gaming Plus"
       },
       {
-        "Price": 189.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "Dual Lan",
-          "8xUSB",
-          "6xAudio",
-          "DDR4",
-          "5333mhz",
-          "4xSATA",
-          "LGA 1700",
-          "ATX",
-          "HDMI",
-          "DisplayPort",
-          "MOBO"
-        ],
-        "Date": "2023-02-17T09:46:18.404887-05:00",
-        "Update": "2023-11-19T11:13:03.5388808-05:00",
-        "Label": "Board Asus B660 ProArt Creator D4"
-      },
-      {
         "Price": 395.00,
         "Features": [
           "12va-13ra-14ta",
@@ -3220,6 +3222,25 @@
         "Date": "2023-10-09T15:59:53.3045844-04:00",
         "Update": "2023-11-19T11:13:03.8400259-05:00",
         "Label": "Board ASRock Z590 PG VELOCITA"
+      },
+      {
+        "Price": 189.00,
+        "Features": [
+          "12va-13ra-14ta",
+          "Dual Lan",
+          "8xUSB",
+          "6xAudio",
+          "DDR4",
+          "5333mhz",
+          "4xSATA",
+          "LGA 1700",
+          "ATX",
+          "HDMI",
+          "MOBO"
+        ],
+        "Date": "2023-02-17T09:46:18.404887-05:00",
+        "Update": "2023-11-21T08:52:12.9476285-05:00",
+        "Label": "Board Asus B660 ProArt Creator D4"
       }
     ]
   },
