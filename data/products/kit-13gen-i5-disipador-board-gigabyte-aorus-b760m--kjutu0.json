@@ -12,9 +12,14 @@
   ],
   "Description": "+ Micro Intel Core i5-13400 +Disipador\n+ Board Gigabyte Aorus B760M Elite AX\n+ RAM DDR5 G.Skill Ripjaws S5 16GB 6000mhz\n",
   "Price": 489.00,
-  "Features": [],
+  "Features": [
+    "16 Hilos",
+    "4.6GHz",
+    "Wifi",
+    "8xUSB"
+  ],
   "Date": "2023-11-18T11:50:38.8241713-05:00",
-  "Update": "2023-11-21T08:21:48.0820812-05:00",
+  "Update": "2023-11-21T08:52:12.9239017-05:00",
   "Discount": 8.0,
   "Label": "Kit 13Gen i5 +Disipador +Board Gigabyte Aorus B760M +16GB DDR5 Ripjaws 6000mhz"
 }
