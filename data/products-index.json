@@ -13,6 +13,22 @@
         "Discount": 32.0,
         "Label": "Torre Ryzen 9 7900X +Líquida MasterLiquid 360 +Board TUF +32GB DDR5 G.Skill + 2TB M.2"
       }
+    ],
+    "Gamer": [
+      {
+        "Price": 1269.00,
+        "Features": [
+          "12va Gen",
+          "LGA 1700",
+          "10 Core",
+          "SSD M2",
+          "PSU Full Modular"
+        ],
+        "Date": "2023-11-22T08:16:58.1555828-05:00",
+        "Update": "2023-11-22T08:34:13.5535789-05:00",
+        "Discount": 35.0,
+        "Label": "Torre Gamer I5-12600KF + Z690 + 32GB DDR4 + SSD M.2 1TB + RX 6600 XT 8GB"
+      }
     ]
   },
   "Kits": {
