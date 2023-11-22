@@ -1,0 +1,28 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/torre-gamer-rx-6600-xt-8gb-i5kf-12gen-z690-32gb-dd-dp7tr7-1.webp",
+    "/images/products/torre-gamer-rx-6600-xt-8gb-i5kf-12gen-z690-32gb-dd-dp7tr7-2.webp",
+    "/images/products/torre-gamer-rx-6600-xt-8gb-i5kf-12gen-z690-32gb-dd-dp7tr7-3.webp",
+    "/images/products/torre-gamer-rx-6600-xt-8gb-i5kf-12gen-z690-32gb-dd-dp7tr7-4.webp",
+    "/images/products/torre-gamer-rx-6600-xt-8gb-i5kf-12gen-z690-32gb-dd-dp7tr7-5.webp",
+    "/images/products/torre-gamer-rx-6600-xt-8gb-i5kf-12gen-z690-32gb-dd-dp7tr7-6.webp",
+    "/images/products/torre-gamer-rx-6600-xt-8gb-i5kf-12gen-z690-32gb-dd-dp7tr7-7.webp",
+    "/images/products/torre-gamer-rx-6600-xt-8gb-i5kf-12gen-z690-32gb-dd-dp7tr7-8.webp",
+    "/images/products/torre-gamer-rx-6600-xt-8gb-i5kf-12gen-z690-32gb-dd-dp7tr7-9.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12600KF\n+ Disipador Líquido Enermax LIQMAX III 120 RGB\n+ Board ASRock Z690 Phantom Gaming 4 D5\n+ RAM DDR4 Silicon Power Turbine RGB 32GB 3200mhz\n+ SSD M.2 Samsung 980 PRO 1TB\n+ Tarjeta de Video Gigabyte Radeon RX 6600 XT Eagle 8GB\n+ Fuente Gigabyte UD850GM 850W\n+ Chasis Cougar Archon 2 Mesh RGB Black\n",
+  "Price": 1269.00,
+  "Features": [
+    "12va Gen",
+    "LGA 1700",
+    "10 Core",
+    "SSD M2",
+    "PSU Full Modular"
+  ],
+  "Date": "2023-11-22T08:16:58.1555828-05:00",
+  "Update": "2023-11-22T08:39:33.9739736-05:00",
+  "Discount": 35.0,
+  "Label": "Torre Gamer RX 6600 XT 8GB + I5KF 12Gen + Z690 + 32GB DDR4 + SSD M.2 1TB"
+}
