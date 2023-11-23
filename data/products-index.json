@@ -70,14 +70,6 @@
         "Label": "Torre Gamer RX 7600 8GB + i5K 12 Gen + 32GB DDR4 G.Skill + 1TB SSD M2 + 750w"
       },
       {
-        "Price": 1295.00,
-        "Features": [],
-        "Date": "2023-11-22T18:31:07.1829868-05:00",
-        "Update": "2023-11-22T20:07:29.1924119-05:00",
-        "Discount": 33.0,
-        "Label": "Torre Gamer RTX 3060 AMP 12GB + i5-12600KF + 16 GB DDR4 RGB + 1TB SSD M2"
-      },
-      {
         "Price": 915.00,
         "Features": [],
         "Date": "2023-11-22T20:09:27.9452783-05:00",
@@ -682,19 +674,6 @@
         "Date": "2023-10-02T14:29:43.5652436-04:00",
         "Update": "2023-10-02T15:13:13.8636858-04:00",
         "Label": "SSD M.2 Corsair MP600 PRO LPX 1TB White"
-      },
-      {
-        "Price": 125.00,
-        "Features": [
-          "7000mbs",
-          "1400tbw",
-          "HeatSink",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-10-03T06:56:34.7397369-04:00",
-        "Update": "2023-10-03T09:09:19.6389703-04:00",
-        "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 2TB"
       },
       {
         "Price": 145.00,
@@ -2479,22 +2458,6 @@
         "Label": "Tarjeta de Video EVGA GT 730 2GB"
       },
       {
-        "Price": 329.00,
-        "Features": [
-          "2xFan",
-          "450WR",
-          "2x8Pin",
-          "231mm",
-          "NVIDIA",
-          "GPU",
-          "Gráfica",
-          "DLSS2"
-        ],
-        "Date": "2023-10-28T11:53:16.4380613-04:00",
-        "Update": "2023-10-28T13:51:53.4752189-04:00",
-        "Label": "Tarjeta de Video Zotac Gaming RTX 3060 AMP 12GB White"
-      },
-      {
         "Price": 515.00,
         "Features": [
           "Liquida",
@@ -3770,21 +3733,6 @@
         "Label": "Mouse Corsair IRONCLAW RGB Wireless"
       },
       {
-        "Price": 165.00,
-        "Features": [
-          "30000dpi",
-          "Multi devices",
-          "RGB",
-          "11 botónes",
-          "Inmalámbrico",
-          "Gaming",
-          "Optico"
-        ],
-        "Date": "2023-11-05T07:48:26.031639-05:00",
-        "Update": "2023-11-05T10:12:40.6596145-05:00",
-        "Label": "Mouse Razer Basilisk V3 Pro Black"
-      },
-      {
         "Price": 89.00,
         "Features": [
           "Wifi",
@@ -4118,27 +4066,6 @@
         "Date": "2023-10-03T06:56:38.0508252-04:00",
         "Update": "2023-10-25T15:46:32.5936591-04:00",
         "Label": "Monitor Gigabyte 27\" G27F-2"
-      },
-      {
-        "Price": 239.00,
-        "Features": [
-          "165Hz",
-          "1ms",
-          "Curvo",
-          "FreeSync",
-          "VESA",
-          "VA",
-          "1500R",
-          "2x HDMI",
-          "DP",
-          "FHD",
-          "250nit",
-          "1080p",
-          "Gaming"
-        ],
-        "Date": "2023-10-09T15:59:30.9767274-04:00",
-        "Update": "2023-10-26T09:01:25.8633291-04:00",
-        "Label": "Monitor Acer Nitro 24\" ED240Q"
       },
       {
         "Price": 259.00,
