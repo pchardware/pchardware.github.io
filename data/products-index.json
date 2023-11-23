@@ -24,14 +24,6 @@
     ],
     "Gamer": [
       {
-        "Price": 1415.00,
-        "Features": [],
-        "Date": "2023-11-22T12:15:34.2585447-05:00",
-        "Update": "2023-11-22T13:04:53.2453217-05:00",
-        "Discount": 35.0,
-        "Label": "Torre Gamer i7-12700K + Asus TUF Z690-Plus Wifi + 32GB DDR5 + 1TB SSD M2 + 600W"
-      },
-      {
         "Price": 1065.00,
         "Features": [],
         "Date": "2023-11-22T12:20:04.6481423-05:00",
@@ -92,6 +84,14 @@
         "Update": "2023-11-23T07:35:43.6612457-05:00",
         "Discount": 22.0,
         "Label": "Torre i5-13400 + MSI Pro B760M-P + 16GB DDR4 RGB + 480GB SSD + 600W"
+      },
+      {
+        "Price": 1415.00,
+        "Features": [],
+        "Date": "2023-11-22T12:15:34.2585447-05:00",
+        "Update": "2023-11-23T11:28:54.7203551-05:00",
+        "Discount": 35.0,
+        "Label": "Torre Gamer RX 7600 8GB + i7K 12Gen + Asus TUF Z690-Plus + 32GB DDR5 + 1TB SSDM2"
       }
     ]
   },
