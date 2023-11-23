@@ -1,0 +1,22 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/torre-gamer-rtx-4060-ti-elite-i7-12700k-32gb-ddr5--5hpdvo-1.webp",
+    "/images/products/torre-gamer-rtx-4060-ti-elite-i7-12700k-32gb-ddr5--5hpdvo-2.webp",
+    "/images/products/torre-gamer-rtx-4060-ti-elite-i7-12700k-32gb-ddr5--5hpdvo-3.webp",
+    "/images/products/torre-gamer-rtx-4060-ti-elite-i7-12700k-32gb-ddr5--5hpdvo-4.webp",
+    "/images/products/torre-gamer-rtx-4060-ti-elite-i7-12700k-32gb-ddr5--5hpdvo-5.webp",
+    "/images/products/torre-gamer-rtx-4060-ti-elite-i7-12700k-32gb-ddr5--5hpdvo-6.webp",
+    "/images/products/torre-gamer-rtx-4060-ti-elite-i7-12700k-32gb-ddr5--5hpdvo-7.webp",
+    "/images/products/torre-gamer-rtx-4060-ti-elite-i7-12700k-32gb-ddr5--5hpdvo-8.webp",
+    "/images/products/torre-gamer-rtx-4060-ti-elite-i7-12700k-32gb-ddr5--5hpdvo-9.webp"
+  ],
+  "Description": "+ Micro Intel Core i7-12700K\n+ Disipador Líquido Corsair iCUE H150i ELITE CAPELLIX XT\n+ Board Gigabyte Z790 Aorus Elite AX\n+ RAM DDR5 Corsair Dominator Platinum RGB 32GB 5200mhz\n+ SSD M.2 Corsair MP600 PRO NH 2TB\n+ Tarjeta de Video Gigabyte RTX 4060 Ti Elite OC 8GB\n+ Fuente Gigabyte UD850GM 850W\n+ Chasis Corsair iCUE 4000X RGB\n",
+  "Price": 2085.00,
+  "Features": [],
+  "Date": "2023-11-22T20:26:06.4619341-05:00",
+  "Update": "2023-11-23T01:03:27.920029-05:00",
+  "Discount": 31.0,
+  "Label": "Torre Gamer RTX 4060 Ti Elite + i7-12700K + 32GB DDR5 + 2TB SSD M2 + 850W"
+}
