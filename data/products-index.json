@@ -94,20 +94,20 @@
         "Label": "Torre Gamer RX 6650 XT + i5KF 12Gen + Z690 Phantom Gaming 4 + TridentZ RGB 32GB"
       },
       {
-        "Price": 1118.00,
-        "Features": [],
-        "Date": "2023-11-24T06:51:11.7780182-05:00",
-        "Update": "2023-11-24T07:23:00.870632-05:00",
-        "Discount": 27.0,
-        "Label": "Torre Gamer RX 7600 8GB + i5 13Gen + MSI Pro B760M-P + 16GB DDR4 + 1TB M2"
-      },
-      {
         "Price": 1309.00,
         "Features": [],
         "Date": "2023-11-22T18:31:07.1829868-05:00",
         "Update": "2023-11-24T07:26:50.5593482-05:00",
         "Discount": 35.0,
         "Label": "Torre Gamer RTX 3060 Vision OC 12GB + i5-12600KF + 16 GB DDR4 RGB + 1TB SSD M2"
+      },
+      {
+        "Price": 1119.00,
+        "Features": [],
+        "Date": "2023-11-24T06:51:11.7780182-05:00",
+        "Update": "2023-11-24T07:28:41.8003962-05:00",
+        "Discount": 26.0,
+        "Label": "Torre Gamer RX 7600 8GB + i5 13Gen + MSI Pro B760M-P + 16GB DDR4 + 1TB M2"
       }
     ]
   },
