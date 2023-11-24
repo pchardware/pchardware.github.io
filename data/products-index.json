@@ -2,7 +2,7 @@
   "Torres": {
     "Pro": [
       {
-        "Price": 1285.00,
+        "Price": 1275.00,
         "Features": [
           "24 Hilos",
           "6400mhz",
@@ -32,7 +32,7 @@
         "Label": "Torre Gamer RX 6600 EAGLE + i5 13Gen + B760M-P + 32GB DDR4 + 480GB SSD + 600w"
       },
       {
-        "Price": 3325.00,
+        "Price": 3315.00,
         "Features": [],
         "Date": "2023-11-22T12:24:05.3360691-05:00",
         "Update": "2023-11-22T13:25:27.9272473-05:00",
@@ -62,7 +62,7 @@
         "Label": "Torre Gamer Económica RX 6600 EAGLE + i3F 13 Gen + 16 Gb DDR4 + 480GB SSD + 600W"
       },
       {
-        "Price": 2085.00,
+        "Price": 2075.00,
         "Features": [],
         "Date": "2023-11-22T20:26:06.4619341-05:00",
         "Update": "2023-11-23T01:03:27.920029-05:00",
@@ -130,7 +130,7 @@
         "Label": "Kit i5-13500 +Disipador + Gigabyte Aorus B760M Elite AX + DDR5 Corsair Dominator Platinum RGB 32GB"
       },
       {
-        "Price": 1071.00,
+        "Price": 1061.00,
         "Features": [],
         "Date": "2023-06-15T09:02:58.8515588-04:00",
         "Update": "2023-10-31T23:27:31.2099506-04:00",
@@ -138,7 +138,7 @@
         "Label": "Kit i9-13900K + Asus ROG Strix Z690-E Gaming Wifi + 32GB DDR5"
       },
       {
-        "Price": 1135.00,
+        "Price": 1125.00,
         "Features": [],
         "Date": "2023-09-13T12:55:25.5938136-04:00",
         "Update": "2023-11-06T10:17:44.399151-05:00",
@@ -146,7 +146,7 @@
         "Label": "Kit i9-13900K + Asus ROG Strix Z790-H Gaming Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
       },
       {
-        "Price": 583.00,
+        "Price": 573.00,
         "Features": [],
         "Date": "2023-09-13T13:18:14.7097442-04:00",
         "Update": "2023-11-14T14:53:33.6734815-05:00",
@@ -154,7 +154,7 @@
         "Label": "Kit i5-12600K + Gigabyte Z690 Aorus Elite AX + DDR5 Corsair Dominator Platinum RGB 32GB"
       },
       {
-        "Price": 685.00,
+        "Price": 675.00,
         "Features": [],
         "Date": "2023-09-15T11:15:14.5969005-04:00",
         "Update": "2023-11-14T14:53:33.6973075-05:00",
@@ -162,7 +162,7 @@
         "Label": "Kit i5-12600K + Asus ROG Strix Z690-E Gaming Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6400mhz"
       },
       {
-        "Price": 1151.00,
+        "Price": 1141.00,
         "Features": [],
         "Date": "2023-06-24T13:41:22.3656225-04:00",
         "Update": "2023-11-14T14:53:33.7088529-05:00",
@@ -170,7 +170,7 @@
         "Label": "Kit i9-13900K + Asus ROG Maximus Z690 Hero + G.Skill Trident Z5 RGB 32GB 6400mhz"
       },
       {
-        "Price": 779.00,
+        "Price": 769.00,
         "Features": [],
         "Date": "2023-09-15T11:22:05.4087649-04:00",
         "Update": "2023-11-18T23:49:17.4198059-05:00",
@@ -178,7 +178,7 @@
         "Label": "Kit i7-12700K + Asus ROG Maximus Z690 Hero + DDR5 Corsair Dominator Platinum RGB 32GB"
       },
       {
-        "Price": 765.00,
+        "Price": 755.00,
         "Features": [],
         "Date": "2023-09-13T13:09:37.0111333-04:00",
         "Update": "2023-11-24T10:20:52.8167024-05:00",
@@ -186,7 +186,7 @@
         "Label": "Kit i5-13600K + Asus ROG Strix Z690-E Gaming Wifi + DDR5 Corsair Dominator Platinum RGB 32GB"
       },
       {
-        "Price": 865.00,
+        "Price": 855.00,
         "Features": [],
         "Date": "2023-09-21T21:15:59.7347414-04:00",
         "Update": "2023-11-24T10:20:52.9129141-05:00",
@@ -194,7 +194,7 @@
         "Label": "Kit i7-13700K + Asus ROG Strix Z790-H Gaming + DDR5 Corsair Dominator Platinum RGB 32GB"
       },
       {
-        "Price": 809.00,
+        "Price": 799.00,
         "Features": [],
         "Date": "2023-06-15T09:02:14.0120703-04:00",
         "Update": "2023-11-24T10:20:52.9372069-05:00",
@@ -204,7 +204,7 @@
     ],
     "Rendimiento": [
       {
-        "Price": 805.00,
+        "Price": 795.00,
         "Features": [
           "24 Hilos",
           "5.6GHz",
@@ -255,7 +255,7 @@
         "Label": "Kit i7-12700K +ASRock Z690 Phantom +RAM 8GB T-Force"
       },
       {
-        "Price": 819.00,
+        "Price": 813.00,
         "Features": [
           "24 Hilos",
           "5.4GHz",
@@ -2992,7 +2992,7 @@
         "Label": "Board ASRock B550M Pro SE"
       },
       {
-        "Price": 255.00,
+        "Price": 245.00,
         "Features": [
           "AM5",
           "DDR5",
@@ -3032,7 +3032,7 @@
         "Label": "Board MSI Z590 Pro Wifi CEC"
       },
       {
-        "Price": 395.00,
+        "Price": 385.00,
         "Features": [
           "12va-13ra-14ta",
           "DDR5",
@@ -3071,7 +3071,7 @@
         "Label": "Board Gigabyte Aorus B760M Elite AX"
       },
       {
-        "Price": 325.00,
+        "Price": 315.00,
         "Features": [
           "12va-13ra-14ta",
           "10xUSB",
@@ -3090,7 +3090,7 @@
         "Label": "Board Asus ROG Strix Z690-E Gaming Wifi"
       },
       {
-        "Price": 349.00,
+        "Price": 339.00,
         "Features": [
           "12va-13ra-14ta",
           "DDR5",
@@ -3109,7 +3109,7 @@
         "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
       },
       {
-        "Price": 255.00,
+        "Price": 249.00,
         "Features": [
           "12va-13ra-14ta",
           "DDR5",
@@ -3148,7 +3148,7 @@
         "Label": "Board Asus TUF Z690-Plus Wifi DDR5"
       },
       {
-        "Price": 289.00,
+        "Price": 279.00,
         "Features": [
           "12va-13ra-14ta",
           "DDR5",
@@ -3227,7 +3227,7 @@
         "Label": "Board ASRock Z690 Phantom Gaming 4 D5"
       },
       {
-        "Price": 295.00,
+        "Price": 285.00,
         "Features": [
           "12va-13ra-14ta",
           "DDR5",
@@ -3247,7 +3247,7 @@
         "Label": "Board Asus ROG Strix Z690-F Gaming Wifi"
       },
       {
-        "Price": 249.00,
+        "Price": 239.00,
         "Features": [
           "12va-13ra-14ta",
           "9xUSB",
