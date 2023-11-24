@@ -176,6 +176,30 @@
         "Update": "2023-11-18T23:49:17.4198059-05:00",
         "Discount": 14.0,
         "Label": "Kit i7-12700K + Asus ROG Maximus Z690 Hero + DDR5 Corsair Dominator Platinum RGB 32GB"
+      },
+      {
+        "Price": 765.00,
+        "Features": [],
+        "Date": "2023-09-13T13:09:37.0111333-04:00",
+        "Update": "2023-11-24T10:20:52.8167024-05:00",
+        "Discount": 18.0,
+        "Label": "Kit i5-13600K + Asus ROG Strix Z690-E Gaming Wifi + DDR5 Corsair Dominator Platinum RGB 32GB"
+      },
+      {
+        "Price": 865.00,
+        "Features": [],
+        "Date": "2023-09-21T21:15:59.7347414-04:00",
+        "Update": "2023-11-24T10:20:52.9129141-05:00",
+        "Discount": 12.0,
+        "Label": "Kit i7-13700K + Asus ROG Strix Z790-H Gaming + DDR5 Corsair Dominator Platinum RGB 32GB"
+      },
+      {
+        "Price": 809.00,
+        "Features": [],
+        "Date": "2023-06-15T09:02:14.0120703-04:00",
+        "Update": "2023-11-24T10:20:52.9372069-05:00",
+        "Discount": 10.0,
+        "Label": "Kit i7-13700K + Asus ROG Strix Z690-F Gaming Wifi + 32GB DDR5"
       }
     ],
     "Rendimiento": [
@@ -229,6 +253,20 @@
         "Update": "2023-11-21T08:20:08.7984863-05:00",
         "Discount": 6.0,
         "Label": "Kit i7-12700K +ASRock Z690 Phantom +RAM 8GB T-Force"
+      },
+      {
+        "Price": 819.00,
+        "Features": [
+          "24 Hilos",
+          "5.4GHz",
+          "Wifi",
+          "9xUSB",
+          "2x16GB"
+        ],
+        "Date": "2023-10-12T12:41:46.1677891-04:00",
+        "Update": "2023-11-24T10:20:52.9488293-05:00",
+        "Discount": 10.0,
+        "Label": "Kit i7-13700K +Board Z790 + 32GB 7200mhz DDR5 Trident Z5 RGB"
       }
     ],
     "Esencial": [
@@ -655,6 +693,18 @@
         "Date": "2023-11-18T23:52:10.0012506-05:00",
         "Update": "2023-11-19T11:13:03.9722333-05:00",
         "Label": "Fan Corsair Air Series AF120 120mm White LED"
+      },
+      {
+        "Price": 43.00,
+        "Features": [
+          "PCIe x1",
+          "Alimentación SATA",
+          "Interna",
+          "Adaptador"
+        ],
+        "Date": "2023-08-01T11:15:00.5691684-04:00",
+        "Update": "2023-11-24T10:20:52.8527436-05:00",
+        "Label": "Expansión Orico 7xUSB 3.0"
       }
     ],
     "Disco Sólido": [
@@ -798,6 +848,27 @@
         "Date": "2023-11-18T23:52:42.9485178-05:00",
         "Update": "2023-11-19T11:13:04.112665-05:00",
         "Label": "SSD M.2 Corsair MP600 PRO LPX 2TB Black"
+      },
+      {
+        "Price": 67.00,
+        "Features": [
+          "560mbs",
+          "SATA 3"
+        ],
+        "Date": "2023-11-24T09:48:53.7194411-05:00",
+        "Update": "2023-11-24T10:20:53.0434741-05:00",
+        "Label": "SSD 2.5 Acer SA100 490GB"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "560mbs",
+          "SATA 3",
+          "160tbw"
+        ],
+        "Date": "2023-11-24T09:48:59.9256442-05:00",
+        "Update": "2023-11-24T10:20:53.1079988-05:00",
+        "Label": "SSD 2.5 Team Group QX 512GB"
       }
     ],
     "Fuente": [
@@ -1148,6 +1219,21 @@
         "Date": "2023-11-14T14:40:10.1214379-05:00",
         "Update": "2023-11-14T17:41:04.913036-05:00",
         "Label": "Fuente EVGA Supernova 850 P5 80+ Platinum"
+      },
+      {
+        "Price": 109.00,
+        "Features": [
+          "54A",
+          "2x 6+2 Pin",
+          "6x SATA",
+          "1x 4+4 EPS",
+          "140mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-06-29T07:39:33.0518165-04:00",
+        "Update": "2023-11-24T10:20:52.888616-05:00",
+        "Label": "Fuente Thermaltake Smart 700W 80+"
       }
     ],
     "Disipador Líquido": [
@@ -1956,6 +2042,29 @@
         "Date": "2023-08-01T11:14:33.9125632-04:00",
         "Update": "2023-11-18T23:49:17.4042767-05:00",
         "Label": "Disipador Cooler Master Hyper 620S Dual"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "ARGB",
+          "63cfm",
+          "4xPipes",
+          "Cobre",
+          "1800rpm",
+          "25dBA",
+          "155mm",
+          "Negro",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4",
+          "AM5",
+          "Tower",
+          "1xFan"
+        ],
+        "Date": "2023-07-26T18:49:40.2918309-04:00",
+        "Update": "2023-11-24T10:20:52.8644278-05:00",
+        "Label": "Disipador Thermaltake UX200 SE"
       }
     ],
     "Memoria RAM": [
@@ -2233,6 +2342,17 @@
         "Date": "2023-11-14T14:40:06.7826785-05:00",
         "Update": "2023-11-21T08:20:08.7046589-05:00",
         "Label": "RAM DDR4 CORSAIR Vengeance RGB Pro 16GB 3600mhz White"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "2x8GB",
+          "CL16",
+          "Disipadas"
+        ],
+        "Date": "2023-11-24T09:48:39.1714301-05:00",
+        "Update": "2023-11-24T10:20:52.9732326-05:00",
+        "Label": "RAM DDR4 Corsair Vengeance LPX 16GB 3200mhz RED"
       }
     ],
     "Microprocesador": [
@@ -2436,6 +2556,57 @@
         "Date": "2023-02-17T09:30:45.7586545-05:00",
         "Update": "2023-11-18T23:49:17.4315127-05:00",
         "Label": "Micro Intel Core i7-12700K"
+      },
+      {
+        "Price": 365.00,
+        "Features": [
+          "12va Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.2GHz",
+          "30MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-05-11T07:00:48.0876416-04:00",
+        "Update": "2023-11-24T10:20:52.8291522-05:00",
+        "Label": "Micro Intel Core i9-12900K"
+      },
+      {
+        "Price": 329.00,
+        "Features": [
+          "13ra Gen",
+          "20 Hilos",
+          "14 Core",
+          "5.1GHz",
+          "24MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-06-19T07:47:08.4755764-04:00",
+        "Update": "2023-11-24T10:20:52.8408085-05:00",
+        "Label": "Micro Intel Core i5-13600K"
+      },
+      {
+        "Price": 399.00,
+        "Features": [
+          "13ra Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.4GHz",
+          "30MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-03-22T09:04:14.8362359-04:00",
+        "Update": "2023-11-24T10:20:52.9007771-05:00",
+        "Label": "Micro Intel Core i7-13700K"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2783,6 +2954,22 @@
         "Date": "2023-11-18T23:52:27.7287787-05:00",
         "Update": "2023-11-19T11:13:04.0570422-05:00",
         "Label": "Tarjeta de Video Asus TUF RX 7700 XT 12GB"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "500WR",
+          "210mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-24T09:48:58.1744464-05:00",
+        "Update": "2023-11-24T10:20:53.0868347-05:00",
+        "Label": "Tarjeta de Video ZOTAC GeForce GTX 1070 8GB"
       }
     ],
     "Board": [
@@ -3386,6 +3573,31 @@
         "Date": "2023-11-18T23:52:39.0060011-05:00",
         "Update": "2023-11-19T11:13:04.0991768-05:00",
         "Label": "Teclado Razer Huntsman V2 TKL"
+      },
+      {
+        "Price": 67.00,
+        "Features": [
+          "Inmalámbrico",
+          "Multi Device",
+          "Membrana",
+          "USB"
+        ],
+        "Date": "2023-11-24T09:48:41.1259622-05:00",
+        "Update": "2023-11-24T10:20:52.9854644-05:00",
+        "Label": "Teclado Logitech K380 TKL Wireless"
+      },
+      {
+        "Price": 73.00,
+        "Features": [
+          "Membrana",
+          "Optico",
+          "Inmalámbrico",
+          "Compacto",
+          "USB"
+        ],
+        "Date": "2023-11-24T09:48:50.2646657-05:00",
+        "Update": "2023-11-24T10:20:53.0227196-05:00",
+        "Label": "COMBO Teclado + Mouse Logitech MK360"
       }
     ],
     "Mouse": [
@@ -3762,6 +3974,20 @@
         "Date": "2023-11-18T23:52:24.9973242-05:00",
         "Update": "2023-11-19T11:13:04.0407776-05:00",
         "Label": "Mouse Logitech G502 X White"
+      },
+      {
+        "Price": 119.00,
+        "Features": [
+          "25600dpi",
+          "Inmalámbrico",
+          "Optico",
+          "11 botónes",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-11-24T09:48:36.8452861-05:00",
+        "Update": "2023-11-24T10:20:52.9615212-05:00",
+        "Label": "Mouse Logitech G502 Lightspeed Wireless"
       }
     ],
     "Webcam": [
@@ -3926,6 +4152,20 @@
         "Date": "2023-11-18T23:52:32.7669452-05:00",
         "Update": "2023-11-19T11:13:04.0713801-05:00",
         "Label": "HUB Type-A Orico 7-Port USB 3.0"
+      },
+      {
+        "Price": 53.00,
+        "Features": [],
+        "Date": "2023-11-24T09:48:43.307434-05:00",
+        "Update": "2023-11-24T10:20:52.9983248-05:00",
+        "Label": "HUB Panel Frontal 5.25\" 7xUSB3"
+      },
+      {
+        "Price": 39.00,
+        "Features": [],
+        "Date": "2023-11-24T09:48:48.2432153-05:00",
+        "Update": "2023-11-24T10:20:53.0108379-05:00",
+        "Label": "HUB Panel Frontal 5.25\" 7xUSB2"
       }
     ],
     "Monitor": [
@@ -4091,6 +4331,25 @@
         "Date": "2023-08-20T10:12:32.3834228-04:00",
         "Update": "2023-11-11T12:35:31.3878856-05:00",
         "Label": "Monitor Gigabyte 27\" G27Q"
+      },
+      {
+        "Price": 469.00,
+        "Features": [
+          "1440p",
+          "170Hz",
+          "400nit",
+          "IPS",
+          "2K",
+          "0.5ms",
+          "4x USB 3.0",
+          "HDR10",
+          "FreeSync",
+          "Flat",
+          "Gaming"
+        ],
+        "Date": "2023-11-24T09:48:56.279126-05:00",
+        "Update": "2023-11-24T10:20:53.064756-05:00",
+        "Label": "Monitor Acer Nitro 27\" XV275U"
       }
     ],
     "Externo": [
@@ -4220,6 +4479,29 @@
         "Date": "2023-10-28T11:52:16.1019156-04:00",
         "Update": "2023-11-18T08:40:49.2565149-05:00",
         "Label": "Control Xbox Core Wireless Black + USB-C Cable"
+      },
+      {
+        "Price": 77.00,
+        "Features": [
+          "Controller",
+          "2x AA Battery"
+        ],
+        "Date": "2023-10-09T15:59:03.9375048-04:00",
+        "Update": "2023-11-24T10:20:52.8765118-05:00",
+        "Label": "Control Xbox Core Wireless Black"
+      }
+    ],
+    "Backup": [
+      {
+        "Price": 139.00,
+        "Features": [
+          "120V",
+          "255 Watts",
+          "6 Salidas"
+        ],
+        "Date": "2023-05-12T07:53:07.7837276-04:00",
+        "Update": "2023-11-24T10:20:52.924457-05:00",
+        "Label": "Backup APC BE425M 425VA"
       }
     ]
   }
