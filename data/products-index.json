@@ -463,34 +463,6 @@
         "Label": "Thsion NGFF M.2 a USB"
       },
       {
-        "Price": 13.00,
-        "Features": [],
-        "Date": "2023-08-21T08:58:46.2630253-04:00",
-        "Update": "2023-08-21T12:54:21.1943627-04:00",
-        "Label": "Cable HDMI 2.1, 0.9m"
-      },
-      {
-        "Price": 10.00,
-        "Features": [],
-        "Date": "2023-08-21T08:58:50.8949152-04:00",
-        "Update": "2023-08-21T12:54:21.2024349-04:00",
-        "Label": "Cable HDMI 2.0, 1.8m"
-      },
-      {
-        "Price": 16.00,
-        "Features": [],
-        "Date": "2023-08-21T08:59:01.7749952-04:00",
-        "Update": "2023-08-21T12:54:21.2186206-04:00",
-        "Label": "Cable DisplayPort 1.4, 0.9m"
-      },
-      {
-        "Price": 19.00,
-        "Features": [],
-        "Date": "2023-08-29T08:41:11.6353964-04:00",
-        "Update": "2023-08-29T09:46:36.0812299-04:00",
-        "Label": "Cable DisplayPort 2.0, 1m"
-      },
-      {
         "Price": 17.00,
         "Features": [
           "Hydraulic",
@@ -602,20 +574,6 @@
         "Label": "Corsair PCIe Gen 5 Cable"
       },
       {
-        "Price": 25.00,
-        "Features": [],
-        "Date": "2023-10-09T15:58:54.823495-04:00",
-        "Update": "2023-10-18T07:33:52.046563-04:00",
-        "Label": "PBT Backlit Keycap Upgrade Set White"
-      },
-      {
-        "Price": 19.00,
-        "Features": [],
-        "Date": "2023-08-21T08:58:55.8070561-04:00",
-        "Update": "2023-10-23T00:56:09.4129511-04:00",
-        "Label": "Cable DisplayPort 1.4, 1.8m"
-      },
-      {
         "Price": 6.00,
         "Features": [
           "Jeringuilla"
@@ -675,15 +633,6 @@
         "Label": "Fan Phanteks PH-F120SP RLED 120mm"
       },
       {
-        "Price": 13.00,
-        "Features": [
-          "Extension"
-        ],
-        "Date": "2023-11-03T12:22:45.5376533-04:00",
-        "Update": "2023-11-03T14:29:33.1528206-04:00",
-        "Label": "Cable Omni Gear USB 3.0 Extender 0.9m"
-      },
-      {
         "Price": 21.00,
         "Features": [
           "1500rpm",
@@ -705,6 +654,20 @@
         "Date": "2023-08-01T11:15:00.5691684-04:00",
         "Update": "2023-11-24T10:20:52.8527436-05:00",
         "Label": "Expansión Orico 7xUSB 3.0"
+      },
+      {
+        "Price": 53.00,
+        "Features": [],
+        "Date": "2023-11-24T09:48:43.307434-05:00",
+        "Update": "2023-11-24T11:14:39.0245337-05:00",
+        "Label": "HUB EN-Labs Panel Frontal 5.25\" 7xUSB3"
+      },
+      {
+        "Price": 39.00,
+        "Features": [],
+        "Date": "2023-11-24T09:48:48.2432153-05:00",
+        "Update": "2023-11-24T11:14:39.0560484-05:00",
+        "Label": "HUB EN-Labs Panel Frontal 5.25\" 7xUSB2"
       }
     ],
     "Disco Sólido": [
@@ -3584,6 +3547,13 @@
         "Date": "2023-11-24T09:48:50.2646657-05:00",
         "Update": "2023-11-24T10:20:53.0227196-05:00",
         "Label": "COMBO Teclado + Mouse Logitech MK360"
+      },
+      {
+        "Price": 25.00,
+        "Features": [],
+        "Date": "2023-10-09T15:58:54.823495-04:00",
+        "Update": "2023-11-24T11:14:38.8759837-05:00",
+        "Label": "PBT Backlit Keycap Upgrade Set White"
       }
     ],
     "Mouse": [
@@ -4109,17 +4079,6 @@
         "Label": "Memoria Flash Corsair Voyager Slider X1 64GB"
       },
       {
-        "Price": 49.00,
-        "Features": [
-          "2.5",
-          "3.5",
-          "USB3"
-        ],
-        "Date": "2023-10-18T06:47:28.3292927-04:00",
-        "Update": "2023-10-18T07:33:52.342629-04:00",
-        "Label": "Docking NEXIN 1xBay NEX-DS1U3"
-      },
-      {
         "Price": 57.00,
         "Features": [
           "10x USB 3.0",
@@ -4140,18 +4099,48 @@
         "Label": "HUB Type-A Orico 7-Port USB 3.0"
       },
       {
-        "Price": 53.00,
+        "Price": 13.00,
         "Features": [],
-        "Date": "2023-11-24T09:48:43.307434-05:00",
-        "Update": "2023-11-24T10:20:52.9983248-05:00",
-        "Label": "HUB Panel Frontal 5.25\" 7xUSB3"
+        "Date": "2023-08-21T08:58:46.2630253-04:00",
+        "Update": "2023-11-24T11:14:38.7230529-05:00",
+        "Label": "Cable HDMI 2.1, 0.9m"
       },
       {
-        "Price": 39.00,
+        "Price": 10.00,
         "Features": [],
-        "Date": "2023-11-24T09:48:48.2432153-05:00",
-        "Update": "2023-11-24T10:20:53.0108379-05:00",
-        "Label": "HUB Panel Frontal 5.25\" 7xUSB2"
+        "Date": "2023-08-21T08:58:50.8949152-04:00",
+        "Update": "2023-11-24T11:14:38.7496521-05:00",
+        "Label": "Cable HDMI 2.0, 1.8m"
+      },
+      {
+        "Price": 16.00,
+        "Features": [],
+        "Date": "2023-08-21T08:59:01.7749952-04:00",
+        "Update": "2023-11-24T11:14:38.7799791-05:00",
+        "Label": "Cable DisplayPort 1.4, 0.9m"
+      },
+      {
+        "Price": 19.00,
+        "Features": [],
+        "Date": "2023-08-29T08:41:11.6353964-04:00",
+        "Update": "2023-11-24T11:14:38.8189964-05:00",
+        "Label": "Cable DisplayPort 2.0, 1m"
+      },
+      {
+        "Price": 19.00,
+        "Features": [],
+        "Date": "2023-08-21T08:58:55.8070561-04:00",
+        "Update": "2023-11-24T11:14:38.9583469-05:00",
+        "Label": "Cable DisplayPort 1.4, 1.8m"
+      },
+      {
+        "Price": 13.00,
+        "Features": [
+          "Extension"
+        ],
+        "Date": "2023-11-03T12:22:45.5376533-04:00",
+        "Update": "2023-11-24T11:14:38.9904937-05:00",
+        "Label": "Cable Omni Gear USB 3.0 Extender 0.9m"
       }
     ],
     "Monitor": [
@@ -4358,6 +4347,17 @@
         "Date": "2023-11-18T08:41:57.2185659-05:00",
         "Update": "2023-11-18T09:38:43.2247793-05:00",
         "Label": "Caja Externo 2.5 ORICO USB 3.0 PDD25PW1-U3"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "2.5",
+          "3.5",
+          "USB3"
+        ],
+        "Date": "2023-10-18T06:47:28.3292927-04:00",
+        "Update": "2023-11-24T11:14:38.9289604-05:00",
+        "Label": "Docking NEXIN 1xBay NEX-DS1U3"
       }
     ],
     "Auriculares": [
