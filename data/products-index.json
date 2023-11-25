@@ -2,18 +2,6 @@
   "Torres": {
     "Pro": [
       {
-        "Price": 1251.00,
-        "Features": [
-          "24 Hilos",
-          "6400mhz",
-          "Wifi"
-        ],
-        "Date": "2023-10-14T13:36:36.8482036-04:00",
-        "Update": "2023-10-31T23:27:31.102424-04:00",
-        "Discount": 32.0,
-        "Label": "Torre Ryzen 9 7900X +Líquida MasterLiquid 360 +Board TUF +32GB DDR5 G.Skill + 2TB M.2"
-      },
-      {
         "Price": 1385.00,
         "Features": [],
         "Date": "2023-11-22T12:27:53.64564-05:00",
@@ -40,20 +28,6 @@
         "Label": "Torre Gamer RTX 4080 Gaming OC 16GB + i9-13900K + 32GB DDR5 + 1000w (80+ Gold)"
       },
       {
-        "Price": 1257.00,
-        "Features": [
-          "12va Gen",
-          "LGA 1700",
-          "10 Núcleos",
-          "SSD M2",
-          "PSU Full Modular"
-        ],
-        "Date": "2023-11-22T08:16:58.1555828-05:00",
-        "Update": "2023-11-22T13:27:52.8042953-05:00",
-        "Discount": 35.0,
-        "Label": "Torre Gamer RX 6600 XT 8GB + i5KF 12Gen + Z690 + 32GB DDR4 + SSD M.2 1TB"
-      },
-      {
         "Price": 913.00,
         "Features": [],
         "Date": "2023-11-22T20:09:27.9452783-05:00",
@@ -76,30 +50,6 @@
         "Update": "2023-11-23T07:35:43.6612457-05:00",
         "Discount": 22.0,
         "Label": "Torre i5-13400 + MSI Pro B760M-P + 16GB DDR4 RGB + 480GB SSD + 600W"
-      },
-      {
-        "Price": 1405.00,
-        "Features": [],
-        "Date": "2023-11-22T12:15:34.2585447-05:00",
-        "Update": "2023-11-23T11:28:54.7203551-05:00",
-        "Discount": 35.0,
-        "Label": "Torre Gamer RX 7600 8GB + i7K 12Gen + Asus TUF Z690-Plus + 32GB DDR5 + 1TB SSDM2"
-      },
-      {
-        "Price": 1147.00,
-        "Features": [],
-        "Date": "2023-11-23T16:45:20.9417651-05:00",
-        "Update": "2023-11-23T16:52:54.7102829-05:00",
-        "Discount": 31.0,
-        "Label": "Torre Gamer RX 6650 XT + i5KF 12Gen + Z690 Phantom Gaming 4 + TridentZ RGB 32GB"
-      },
-      {
-        "Price": 1287.00,
-        "Features": [],
-        "Date": "2023-11-22T18:31:07.1829868-05:00",
-        "Update": "2023-11-24T07:26:50.5593482-05:00",
-        "Discount": 35.0,
-        "Label": "Torre Gamer RTX 3060 Vision OC 12GB + i5-12600KF + 16 GB DDR4 RGB + 1TB SSD M2"
       },
       {
         "Price": 1117.00,
@@ -233,14 +183,6 @@
         "Label": "Kit i7-12700K +Board Z690 +16GB RAM Silicon Power"
       },
       {
-        "Price": 619.00,
-        "Features": [],
-        "Date": "2023-09-13T13:15:22.925563-04:00",
-        "Update": "2023-11-18T23:49:17.4671769-05:00",
-        "Discount": 14.0,
-        "Label": "Kit i7-12700K + Asus TUF Z690-Plus Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
-      },
-      {
         "Price": 454.00,
         "Features": [
           "20 Hilos",
@@ -299,20 +241,6 @@
     ],
     "Moderado": [
       {
-        "Price": 372.00,
-        "Features": [
-          "16 Hilos",
-          "12 Gen",
-          "Overclock",
-          "3200mhz",
-          "6xUSB"
-        ],
-        "Date": "2023-10-20T09:06:24.394127-04:00",
-        "Update": "2023-11-21T08:20:08.7275132-05:00",
-        "Discount": 8.0,
-        "Label": "Kit 12Gen i5-12600KF +ASRock Z690 +8GB DDR4 Vulcan Z"
-      },
-      {
         "Price": 471.00,
         "Features": [
           "12 Hilos",
@@ -365,18 +293,6 @@
         "Update": "2023-11-21T08:21:47.9822857-05:00",
         "Discount": 10.0,
         "Label": "Kit 13Gen i5-13500 +Disipador +Board Gigabyte Aorus B760M +32GB DDR5 AORUS"
-      },
-      {
-        "Price": 471.00,
-        "Features": [
-          "4.9GHz",
-          "16 Hilos",
-          "7xUSB"
-        ],
-        "Date": "2023-11-18T11:47:18.5650233-05:00",
-        "Update": "2023-11-21T08:52:12.8833702-05:00",
-        "Discount": 13.0,
-        "Label": "Kit 12Gen i5 12600KF +Disipador ARGB +Board ASRock Z690 +16GB DDR5 G.Skill 6000mhz"
       },
       {
         "Price": 462.00,
@@ -1127,25 +1043,6 @@
         "Date": "2023-09-11T09:09:29.0343419-04:00",
         "Update": "2023-11-03T12:22:11.728327-04:00",
         "Label": "Fuente Apevia Spirit 600W"
-      },
-      {
-        "Price": 285.00,
-        "Features": [
-          "80+ PLATINUM",
-          "ARGB",
-          "Full Modular",
-          "1x 16Pin",
-          "71A",
-          "2x 4+4 EPS",
-          "3x 6+2Pin",
-          "10x SATA",
-          "160mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-08-08T10:02:44.4021387-04:00",
-        "Update": "2023-11-06T10:17:44.4414449-05:00",
-        "Label": "Fuente Asus ROG Thor 850W Platinum II"
       },
       {
         "Price": 269.00,
@@ -2073,17 +1970,6 @@
         "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 6400mhz"
       },
       {
-        "Price": 115.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL32"
-        ],
-        "Date": "2023-07-17T23:38:59.1422699-04:00",
-        "Update": "2023-10-09T17:48:21.7310587-04:00",
-        "Label": "RAM DDR5 G.Skill Ripjaws S5 32GB 6400mhz"
-      },
-      {
         "Price": 99.00,
         "Features": [
           "2x16GB",
@@ -2372,23 +2258,6 @@
         "Date": "2023-03-22T09:04:03.4468877-04:00",
         "Update": "2023-10-14T14:41:17.8362317-04:00",
         "Label": "Micro Intel Core i5-11400 +Disipador"
-      },
-      {
-        "Price": 189.00,
-        "Features": [
-          "12va Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "20MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-10-16T10:24:13.8080802-04:00",
-        "Update": "2023-10-16T12:23:12.7787105-04:00",
-        "Label": "Micro Intel Core i5-12600KF"
       },
       {
         "Price": 479.00,
@@ -3079,24 +2948,6 @@
         "Label": "Board Gigabyte Z790 UD AX"
       },
       {
-        "Price": 239.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "6xAudio",
-          "6xUSB",
-          "4xSATA",
-          "6000mhz",
-          "LGA1700",
-          "HDMI",
-          "DisplayPort",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-05-11T07:56:36.6020035-04:00",
-        "Update": "2023-11-19T11:13:03.6422379-05:00",
-        "Label": "Board Asus TUF Z690-Plus Wifi DDR5"
-      },
-      {
         "Price": 279.00,
         "Features": [
           "12va-13ra-14ta",
@@ -3152,28 +3003,6 @@
         "Date": "2023-10-19T09:32:16.7888545-04:00",
         "Update": "2023-11-19T11:13:03.698783-05:00",
         "Label": "Board ASRock Z690 PG Riptide DDR4"
-      },
-      {
-        "Price": 183.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "DDR5",
-          "5800mhz",
-          "PCIe 5.0",
-          "M.2 Gen4",
-          "Bios Flashback",
-          "3xM.2",
-          "7xUSB",
-          "HDMI",
-          "4xSATA",
-          "LGA 1700",
-          "3xAudio",
-          "PS2",
-          "MOBO"
-        ],
-        "Date": "2023-10-23T12:32:47.8333341-04:00",
-        "Update": "2023-11-19T11:13:03.7109187-05:00",
-        "Label": "Board ASRock Z690 Phantom Gaming 4 D5"
       },
       {
         "Price": 285.00,
@@ -4163,24 +3992,6 @@
         "Label": "Monitor Asus TUF 24\" VG248Q1B"
       },
       {
-        "Price": 275.00,
-        "Features": [
-          "170Hz",
-          "IPS",
-          "1ms",
-          "FreeSync",
-          "VESA",
-          "2x HDMI",
-          "Flat",
-          "FHD",
-          "DP",
-          "250nit"
-        ],
-        "Date": "2023-10-13T09:28:44.9787355-04:00",
-        "Update": "2023-10-13T10:18:40.0450802-04:00",
-        "Label": "Monitor MSI 24\" G2412"
-      },
-      {
         "Price": 265.00,
         "Features": [
           "100Hz",
@@ -4347,17 +4158,6 @@
         "Date": "2023-11-18T08:41:57.2185659-05:00",
         "Update": "2023-11-18T09:38:43.2247793-05:00",
         "Label": "Caja Externo 2.5 ORICO USB 3.0 PDD25PW1-U3"
-      },
-      {
-        "Price": 49.00,
-        "Features": [
-          "2.5",
-          "3.5",
-          "USB3"
-        ],
-        "Date": "2023-10-18T06:47:28.3292927-04:00",
-        "Update": "2023-11-24T11:14:38.9289604-05:00",
-        "Label": "Docking NEXIN 1xBay NEX-DS1U3"
       }
     ],
     "Auriculares": [
@@ -4430,25 +4230,6 @@
         "Date": "2023-11-03T12:23:45.8463765-04:00",
         "Update": "2023-11-03T14:29:33.2957812-04:00",
         "Label": "Auriculares Corsair HS70 Pro Wireless"
-      },
-      {
-        "Price": 109.00,
-        "Features": [
-          "Wifi",
-          "Bluetooth",
-          "Dual",
-          "250g",
-          "40mm",
-          "50H",
-          "USB-C",
-          "Inalámbrico",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-11-05T07:48:18.724385-05:00",
-        "Update": "2023-11-05T10:12:40.6318065-05:00",
-        "Label": "Auriculares Razer Barracuda X Wireless Black"
       }
     ],
     "Control": [
