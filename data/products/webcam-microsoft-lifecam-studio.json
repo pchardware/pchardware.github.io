@@ -11,14 +11,12 @@
   "Description": "Model\nBrand: Microsoft\nModel: Q2F-00013\n\n\nDetails\nInterface: USB\nImage Sensor: CMOS\nMax. Image Resolution: 2560 x 2048\nVideo Capture Resolution: 1920 x 1080\nFocus Settings: Auto Focus\n\n\nFeatures\nFeatures: 1080p HD widescreen sensor - for superior sharpness and 16:9 image quality\n\nAuto Focus and Advanced high-precision glass lens optics\n\nTrueColor Technology - automatically delivers bright and colorful video, in virtually all lighting conditions\n\nClearFrame Technology - for smooth, detailed video\n\nHigh-fidelity microphone - For more natural, detailed audio",
   "Price": 69.00,
   "Features": [
-    "Resolution: 2560 x 2048",
+    "1080p",
     "Auto Foco",
-    "1080p HD widescreen sensor",
-    "16:9 image quality",
     "USB",
     "Micrófono"
   ],
   "Date": "2023-11-27T09:55:23.0763877-05:00",
-  "Update": "2023-11-27T10:24:20.4570309-05:00",
+  "Update": "2023-11-27T10:32:02.8236795-05:00",
   "Label": "Webcam - Microsoft LifeCam Studio"
 }
