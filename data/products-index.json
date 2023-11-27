@@ -66,6 +66,14 @@
         "Update": "2023-11-24T07:52:55.3697053-05:00",
         "Discount": 28.0,
         "Label": "Torre Gamer RX 6600 EAGLE + i5 11Gen + MSI Z590 Pro Wifi + 16GB DDR4 + 500GB SSD"
+      },
+      {
+        "Price": 1405.00,
+        "Features": [],
+        "Date": "2023-11-22T12:15:34.2585447-05:00",
+        "Update": "2023-11-27T09:23:42.5357727-05:00",
+        "Discount": 35.0,
+        "Label": "Torre Gamer RX 7600 8GB + i7K 12Gen + Asus TUF Z690-Plus + 32GB DDR5 + 1TB SSDM2"
       }
     ]
   },
@@ -209,6 +217,14 @@
         "Update": "2023-11-24T10:20:52.9488293-05:00",
         "Discount": 10.0,
         "Label": "Kit i7-13700K +Board Z790 + 32GB 7200mhz DDR5 Trident Z5 RGB"
+      },
+      {
+        "Price": 619.00,
+        "Features": [],
+        "Date": "2023-09-13T13:15:22.925563-04:00",
+        "Update": "2023-11-27T09:23:42.5023873-05:00",
+        "Discount": 14.0,
+        "Label": "Kit i7-12700K + Asus TUF Z690-Plus Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       }
     ],
     "Esencial": [
@@ -330,6 +346,14 @@
         "Update": "2023-11-21T08:52:12.9358323-05:00",
         "Discount": 8.0,
         "Label": "Kit 13Gen i5 +Disipador +Board MSI Pro B760M +8GB DDR4 T-Force 3200mhz"
+      },
+      {
+        "Price": 539.00,
+        "Features": [],
+        "Date": "2023-09-13T13:25:18.8793114-04:00",
+        "Update": "2023-11-27T09:23:42.3799557-05:00",
+        "Discount": 14.0,
+        "Label": "Kit i5-13500 +Disipador + Asus B660 ProArt Creator + DDR4 Corsair Vengeance RGB 16GB"
       }
     ]
   },
@@ -584,6 +608,22 @@
         "Date": "2023-11-24T09:48:48.2432153-05:00",
         "Update": "2023-11-24T11:14:39.0560484-05:00",
         "Label": "HUB EN-Labs Panel Frontal 5.25\" 7xUSB2"
+      },
+      {
+        "Price": 89.00,
+        "Features": [
+          "Magnetic",
+          "120mm",
+          "3xFan",
+          "2000rpm",
+          "58cfm",
+          "30db",
+          "4Pin",
+          "ARGB"
+        ],
+        "Date": "2023-09-02T12:38:22.05203-04:00",
+        "Update": "2023-11-27T09:23:42.4761891-05:00",
+        "Label": "Fan Corsair ML120 RGB Elite, Kit +Lighting Node CORE"
       }
     ],
     "Disco Sólido": [
@@ -1074,6 +1114,23 @@
         "Date": "2023-06-29T07:39:33.0518165-04:00",
         "Update": "2023-11-24T10:20:52.888616-05:00",
         "Label": "Fuente Thermaltake Smart 700W 80+"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "Fully Modular",
+          "80+ Gold",
+          "71A",
+          "3x 6+2Pin",
+          "7x SATA",
+          "2x 4+4 EPS",
+          "151mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-06-07T13:43:20.159516-04:00",
+        "Update": "2023-11-27T09:23:42.4303768-05:00",
+        "Label": "Fuente Corsair RM850e 850W"
       }
     ],
     "Disipador Líquido": [
@@ -1495,6 +1552,20 @@
         "Date": "2023-10-02T14:29:17.3385611-04:00",
         "Update": "2023-10-02T15:13:13.7065447-04:00",
         "Label": "HDD 3.5 WD 14TB HC530 Recertified"
+      },
+      {
+        "Price": 189.00,
+        "Features": [
+          "Ultrastar DC",
+          "Enterprise",
+          "512mb",
+          "7200rpm",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-05-11T14:19:01.4001144-04:00",
+        "Update": "2023-11-27T09:23:42.5492105-05:00",
+        "Label": "HDD 3.5 WD 14TB HC530"
       }
     ],
     "Chasis": [
@@ -1645,6 +1716,29 @@
         "Date": "2023-06-07T15:04:18.9988293-04:00",
         "Update": "2023-08-01T18:30:20.3509442-04:00",
         "Label": "TP-Link Wifi Adapter 300N"
+      },
+      {
+        "Price": 29.00,
+        "Features": [
+          "PCIe x1"
+        ],
+        "Date": "2023-06-07T15:04:12.3798994-04:00",
+        "Update": "2023-11-27T09:23:42.4050362-05:00",
+        "Label": "Gigabyte PCIe Expansion Card Bluetooth y WiFi"
+      },
+      {
+        "Price": 37.00,
+        "Features": [
+          "1200Mbps",
+          "PCIe x1",
+          "2.4Ghz",
+          "5Ghz",
+          "Interna",
+          "Adaptador"
+        ],
+        "Date": "2023-10-13T09:28:37.8953004-04:00",
+        "Update": "2023-11-27T09:23:42.417773-05:00",
+        "Label": "Expansión Derapid Wifi AC1200 Dual Band + Bluetooth"
       }
     ],
     "Disipador por Aire": [
@@ -2157,6 +2251,17 @@
         "Date": "2023-11-24T09:48:39.1714301-05:00",
         "Update": "2023-11-24T10:20:52.9732326-05:00",
         "Label": "RAM DDR4 Corsair Vengeance LPX 16GB 3200mhz RED"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "2x8GB",
+          "Disipadas",
+          "CL16"
+        ],
+        "Date": "2023-03-30T09:55:40.6507732-04:00",
+        "Update": "2023-11-27T09:23:42.3610914-05:00",
+        "Label": "RAM DDR4 Corsair Vengeance RGB RT 16GB 3600mhz"
       }
     ],
     "Microprocesador": [
@@ -2757,6 +2862,22 @@
         "Date": "2023-11-24T09:48:58.1744464-05:00",
         "Update": "2023-11-24T10:20:53.0868347-05:00",
         "Label": "Tarjeta de Video ZOTAC GeForce GTX 1070 8GB"
+      },
+      {
+        "Price": 479.00,
+        "Features": [
+          "3xFan",
+          "2x8Pin",
+          "650WR",
+          "300mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-14T14:39:58.2807205-05:00",
+        "Update": "2023-11-27T09:23:42.4629707-05:00",
+        "Label": "Tarjeta de Video EVGA RTX 3070 FTW3 Ultra 8GB"
       }
     ],
     "Board": [
@@ -3071,6 +3192,24 @@
         "Date": "2023-02-17T09:46:18.404887-05:00",
         "Update": "2023-11-21T08:52:12.9476285-05:00",
         "Label": "Board Asus B660 ProArt Creator D4"
+      },
+      {
+        "Price": 239.00,
+        "Features": [
+          "12va-13ra-14ta",
+          "6xAudio",
+          "6xUSB",
+          "4xSATA",
+          "6000mhz",
+          "LGA1700",
+          "HDMI",
+          "DisplayPort",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-05-11T07:56:36.6020035-04:00",
+        "Update": "2023-11-27T09:23:42.5208827-05:00",
+        "Label": "Board Asus TUF Z690-Plus Wifi DDR5"
       }
     ]
   },
@@ -4199,6 +4338,27 @@
         "Date": "2023-11-03T12:23:45.8463765-04:00",
         "Update": "2023-11-03T14:29:33.2957812-04:00",
         "Label": "Auriculares Corsair HS70 Pro Wireless"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "Hi-Res",
+          "7.1",
+          "RGB",
+          "USB-C",
+          "USB-A",
+          "50mm",
+          "20hz-40khz",
+          "32ohm",
+          "310g",
+          "Micrófono",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-10-23T12:32:21.2274943-04:00",
+        "Update": "2023-11-27T09:23:42.4497275-05:00",
+        "Label": "Auriculares Asus ROG Fusion II 300 Gaming"
       }
     ],
     "Control": [
