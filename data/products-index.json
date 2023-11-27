@@ -2905,10 +2905,19 @@
       },
       {
         "Price": 299.00,
-        "Features": [],
+        "Features": [
+          "2xFan",
+          "500WR",
+          "1x8Pin",
+          "241 mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
         "Date": "2023-11-27T09:55:52.373435-05:00",
-        "Update": "2023-11-27T10:07:46.3028452-05:00",
-        "Label": "Tarjeta de Video XFX Speedster Swift 210 RX 6650 XT (2xFan)"
+        "Update": "2023-11-27T11:56:37.4501156-05:00",
+        "Label": "Tarjeta de Video XFX Speedster Swift 210 RX 6650 XT 8GB"
       }
     ],
     "Board": [
@@ -4013,8 +4022,8 @@
           "Micrófono"
         ],
         "Date": "2023-11-27T09:55:23.0763877-05:00",
-        "Update": "2023-11-27T10:32:02.8236795-05:00",
-        "Label": "Webcam - Microsoft LifeCam Studio"
+        "Update": "2023-11-27T11:57:06.2682569-05:00",
+        "Label": "Webcam Microsoft LifeCam Studio"
       }
     ],
     "Adaptador": [
