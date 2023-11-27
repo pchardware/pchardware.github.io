@@ -788,6 +788,13 @@
         "Date": "2023-11-24T09:48:59.9256442-05:00",
         "Update": "2023-11-24T10:20:53.1079988-05:00",
         "Label": "SSD 2.5 Team Group QX 512GB"
+      },
+      {
+        "Price": 69.00,
+        "Features": [],
+        "Date": "2023-11-27T09:55:03.5320741-05:00",
+        "Update": "2023-11-27T10:07:46.2776683-05:00",
+        "Label": "SSD M.2 - WD Green SN350 960TB (2400/1900)"
       }
     ],
     "Fuente": [
@@ -2890,6 +2897,13 @@
         "Date": "2023-11-14T14:39:58.2807205-05:00",
         "Update": "2023-11-27T09:23:42.4629707-05:00",
         "Label": "Tarjeta de Video EVGA RTX 3070 FTW3 Ultra 8GB"
+      },
+      {
+        "Price": 299.00,
+        "Features": [],
+        "Date": "2023-11-27T09:55:52.373435-05:00",
+        "Update": "2023-11-27T10:07:46.3028452-05:00",
+        "Label": "Tarjeta de Video XFX Speedster Swift 210 RX 6650 XT (2xFan)"
       }
     ],
     "Board": [
