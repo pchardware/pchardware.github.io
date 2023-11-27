@@ -2262,6 +2262,18 @@
         "Date": "2023-03-30T09:55:40.6507732-04:00",
         "Update": "2023-11-27T09:23:42.3610914-05:00",
         "Label": "RAM DDR4 Corsair Vengeance RGB RT 16GB 3600mhz"
+      },
+      {
+        "Price": 109.00,
+        "Features": [
+          "2x16",
+          "CL18",
+          "Disipadas",
+          "RGB"
+        ],
+        "Date": "2023-11-27T09:44:58.4133819-05:00",
+        "Update": "2023-11-27T09:54:48.215004-05:00",
+        "Label": "RAM DDR4 - CORSAIR Vengeance RGB Pro SL 32GB (2x16GB) 3600"
       }
     ],
     "Microprocesador": [
