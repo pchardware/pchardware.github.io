@@ -1,4 +1,16 @@
 {
+  "Computadoras": {
+    "Multimedia": [
+      {
+        "Price": 1019.00,
+        "Features": [],
+        "Date": "2023-11-27T15:41:03.2760698-05:00",
+        "Update": "2023-11-27T15:45:11.2814008-05:00",
+        "Discount": 27.0,
+        "Label": "PC i5-13400 + MSI Pro B760M-P + 16GB DDR4 RGB + 480GB SSD + Monitor 24\""
+      }
+    ]
+  },
   "Torres": {
     "Gamer": [
       {
