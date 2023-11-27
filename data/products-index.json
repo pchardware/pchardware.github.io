@@ -4007,15 +4007,13 @@
       {
         "Price": 69.00,
         "Features": [
-          "Resolution: 2560 x 2048",
+          "1080p",
           "Auto Foco",
-          "1080p HD widescreen sensor",
-          "16:9 image quality",
           "USB",
           "Micrófono"
         ],
         "Date": "2023-11-27T09:55:23.0763877-05:00",
-        "Update": "2023-11-27T10:24:20.4570309-05:00",
+        "Update": "2023-11-27T10:32:02.8236795-05:00",
         "Label": "Webcam - Microsoft LifeCam Studio"
       }
     ],
