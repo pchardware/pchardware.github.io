@@ -1,0 +1,33 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Auriculares",
+  "Images": [
+    "/images/products/auriculares-asus-rog-fusion-ii-300-gaming-1.webp",
+    "/images/products/auriculares-asus-rog-fusion-ii-300-gaming-2.webp",
+    "/images/products/auriculares-asus-rog-fusion-ii-300-gaming-3.webp",
+    "/images/products/auriculares-asus-rog-fusion-ii-300-gaming-4.webp",
+    "/images/products/auriculares-asus-rog-fusion-ii-300-gaming-5.webp",
+    "/images/products/auriculares-asus-rog-fusion-ii-300-gaming-6.webp",
+    "/images/products/auriculares-asus-rog-fusion-ii-300-gaming-7.webp"
+  ],
+  "Description": "Model\nBrand: ASUS\nSeries: ROG\nModel: ROG Fusion II 300\nPart Number: 90YH02X3-B2UA00\n\n\nDetails\nCompatibility: PC\nMAC\nNintendo Switch\niPad\nSupport PCs, PS4, PS5 via using included USB-C to USB 2.0 adapter\n**Support iPad Pro by USB-C connection (Audio Only)\nColor: Black\nLED: RGB\n\n\nConnectivity\nConnection Type: Wired\nConnector: USB-A\nUSB-C\nCord Length: USB-C cable: 2m\n\n\nHeadphone\nAudio Type: 7.1 Surround Sound\nDriver Unit: 50mm\nHeadphone Frequency Response: 20Hz-40KHz\nHeadphone Input Impedance: 32 ohm\nWeight: 310 g\n\n\nMicrophone\nMicrophone Frequency Response: 100Hz-10KHz\nMicrophone Sensitivity: -37 dB\n\n\nFeatures\nFeatures: High-resolution ESS 9280 with Quad DAC™ technology for realistic, unparalleled gaming audio\nVirtual 7.1 surround sound with 50 mm ASUS Essence drivers deliver powerful bass and immersive true-to-life sound\nAI Beamforming Microphones with AI Noise Cancelation for crystal-clear in-game voice communication\nVariety of customization options with pre-set light effects and over 16.8 million multi-color RGB lighting\nComfortable and lightweight design with ergonomic ear cushions for a perfect fit\nUSB-C® and USB-A connectors for compatibility with PCs, Macs, PlayStation®, Nintendo Switch™ and mobile devices.\n\nPackage Contents\nPackage Contents: ROG Fusion II 300\nROG Hybrid ear cushion\nUSB-C to USB-A adapter dongle\nUser guide",
+  "Price": 135.00,
+  "Features": [
+    "Hi-Res",
+    "7.1",
+    "RGB",
+    "USB-C",
+    "USB-A",
+    "50mm",
+    "20hz-40khz",
+    "32ohm",
+    "310g",
+    "Micrófono",
+    "Headset",
+    "Cascos",
+    "Audífonos"
+  ],
+  "Date": "2023-10-23T12:32:21.2274943-04:00",
+  "Update": "2023-11-27T09:23:42.4497275-05:00",
+  "Label": "Auriculares Asus ROG Fusion II 300 Gaming"
+}
