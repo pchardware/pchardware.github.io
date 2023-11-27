@@ -791,10 +791,15 @@
       },
       {
         "Price": 69.00,
-        "Features": [],
+        "Features": [
+          "80TBW",
+          "NVMe",
+          "PCI-Express 3.0 x4",
+          "2400 MBps"
+        ],
         "Date": "2023-11-27T09:55:03.5320741-05:00",
-        "Update": "2023-11-27T10:07:46.2776683-05:00",
-        "Label": "SSD M.2 - WD Green SN350 960TB (2400/1900)"
+        "Update": "2023-11-27T10:25:12.5655912-05:00",
+        "Label": "SSD M.2 - WD Green SN350 960TB"
       }
     ],
     "Fuente": [
@@ -4001,9 +4006,16 @@
       },
       {
         "Price": 69.00,
-        "Features": [],
+        "Features": [
+          "Resolution: 2560 x 2048",
+          "Auto Foco",
+          "1080p HD widescreen sensor",
+          "16:9 image quality",
+          "USB",
+          "Micrófono"
+        ],
         "Date": "2023-11-27T09:55:23.0763877-05:00",
-        "Update": "2023-11-27T10:09:40.4813843-05:00",
+        "Update": "2023-11-27T10:24:20.4570309-05:00",
         "Label": "Webcam - Microsoft LifeCam Studio"
       }
     ],
