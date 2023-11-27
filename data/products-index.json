@@ -1,72 +1,6 @@
 {
   "Torres": {
-    "Pro": [
-      {
-        "Price": 1385.00,
-        "Features": [],
-        "Date": "2023-11-22T12:27:53.64564-05:00",
-        "Update": "2023-11-22T13:04:53.3406215-05:00",
-        "Discount": 38.0,
-        "Label": "Torre Paquete 28 TB + i5K 12 Gen + 32Gb DDR4 + Z690 x8 SATA + 1200W + NIGHTHAWK"
-      }
-    ],
     "Gamer": [
-      {
-        "Price": 1059.00,
-        "Features": [],
-        "Date": "2023-11-22T12:20:04.6481423-05:00",
-        "Update": "2023-11-22T13:05:46.7855915-05:00",
-        "Discount": 26.0,
-        "Label": "Torre Gamer RX 6600 EAGLE + i5 13Gen + B760M-P + 32GB DDR4 + 480GB SSD + 600w"
-      },
-      {
-        "Price": 3273.00,
-        "Features": [],
-        "Date": "2023-11-22T12:24:05.3360691-05:00",
-        "Update": "2023-11-22T13:25:27.9272473-05:00",
-        "Discount": 39.0,
-        "Label": "Torre Gamer RTX 4080 Gaming OC 16GB + i9-13900K + 32GB DDR5 + 1000w (80+ Gold)"
-      },
-      {
-        "Price": 909.00,
-        "Features": [],
-        "Date": "2023-11-22T20:09:27.9452783-05:00",
-        "Update": "2023-11-22T20:14:04.5042587-05:00",
-        "Discount": 20.0,
-        "Label": "Torre Gamer Económica RX 6600 EAGLE + i3F 13 Gen + 16 Gb DDR4 + 480GB SSD + 600W"
-      },
-      {
-        "Price": 2061.00,
-        "Features": [],
-        "Date": "2023-11-22T20:26:06.4619341-05:00",
-        "Update": "2023-11-23T01:03:27.920029-05:00",
-        "Discount": 31.0,
-        "Label": "Torre Gamer RTX 4060 Ti Elite + i7-12700K + 32GB DDR5 + 2TB SSD M2 + 850W"
-      },
-      {
-        "Price": 760.00,
-        "Features": [],
-        "Date": "2023-11-23T01:51:55.7822174-05:00",
-        "Update": "2023-11-23T07:35:43.6612457-05:00",
-        "Discount": 22.0,
-        "Label": "Torre i5-13400 + MSI Pro B760M-P + 16GB DDR4 RGB + 480GB SSD + 600W"
-      },
-      {
-        "Price": 1117.00,
-        "Features": [],
-        "Date": "2023-11-24T06:51:11.7780182-05:00",
-        "Update": "2023-11-24T07:28:41.8003962-05:00",
-        "Discount": 26.0,
-        "Label": "Torre Gamer RX 7600 8GB + i5 13Gen + MSI Pro B760M-P + 16GB DDR4 + 1TB M2"
-      },
-      {
-        "Price": 981.00,
-        "Features": [],
-        "Date": "2023-11-24T07:50:02.1107483-05:00",
-        "Update": "2023-11-24T07:52:55.3697053-05:00",
-        "Discount": 28.0,
-        "Label": "Torre Gamer RX 6600 EAGLE + i5 11Gen + MSI Z590 Pro Wifi + 16GB DDR4 + 500GB SSD"
-      },
       {
         "Price": 1405.00,
         "Features": [],
@@ -74,6 +8,72 @@
         "Update": "2023-11-27T09:23:42.5357727-05:00",
         "Discount": 35.0,
         "Label": "Torre Gamer RX 7600 8GB + i7K 12Gen + Asus TUF Z690-Plus + 32GB DDR5 + 1TB SSDM2"
+      },
+      {
+        "Price": 1059.00,
+        "Features": [],
+        "Date": "2023-11-22T12:20:04.6481423-05:00",
+        "Update": "2023-11-27T10:36:36.7074175-05:00",
+        "Discount": 26.0,
+        "Label": "Torre Gamer RX 6600 EAGLE + i5 13Gen + B760M-P + 32GB DDR4 + 480GB SSD + 600w"
+      },
+      {
+        "Price": 3275.00,
+        "Features": [],
+        "Date": "2023-11-22T12:24:05.3360691-05:00",
+        "Update": "2023-11-27T10:36:36.7197847-05:00",
+        "Discount": 37.0,
+        "Label": "Torre Gamer RTX 4080 Gaming OC 16GB + i9-13900K + 32GB DDR5 + 1000w (80+ Gold)"
+      },
+      {
+        "Price": 909.00,
+        "Features": [],
+        "Date": "2023-11-22T20:09:27.9452783-05:00",
+        "Update": "2023-11-27T10:36:36.7346389-05:00",
+        "Discount": 20.0,
+        "Label": "Torre Gamer Económica RX 6600 EAGLE + i3F 13 Gen + 16 Gb DDR4 + 480GB SSD + 600W"
+      },
+      {
+        "Price": 2059.00,
+        "Features": [],
+        "Date": "2023-11-22T20:26:06.4619341-05:00",
+        "Update": "2023-11-27T10:36:36.7484446-05:00",
+        "Discount": 33.0,
+        "Label": "Torre Gamer RTX 4060 Ti Elite + i7-12700K + 32GB DDR5 + 2TB SSD M2 + 850W"
+      },
+      {
+        "Price": 759.00,
+        "Features": [],
+        "Date": "2023-11-23T01:51:55.7822174-05:00",
+        "Update": "2023-11-27T10:36:36.7613378-05:00",
+        "Discount": 23.0,
+        "Label": "Torre i5-13400 + MSI Pro B760M-P + 16GB DDR4 RGB + 480GB SSD + 600W"
+      },
+      {
+        "Price": 1119.00,
+        "Features": [],
+        "Date": "2023-11-24T06:51:11.7780182-05:00",
+        "Update": "2023-11-27T10:36:36.774303-05:00",
+        "Discount": 24.0,
+        "Label": "Torre Gamer RX 7600 8GB + i5 13Gen + MSI Pro B760M-P + 16GB DDR4 + 1TB M2"
+      },
+      {
+        "Price": 985.00,
+        "Features": [],
+        "Date": "2023-11-24T07:50:02.1107483-05:00",
+        "Update": "2023-11-27T10:36:36.7885218-05:00",
+        "Discount": 24.0,
+        "Label": "Torre Gamer RX 6600 EAGLE + i5 11Gen + MSI Z590 Pro Wifi + 16GB DDR4 + 500GB SSD"
+      }
+    ],
+    "Pro": [
+      {
+        "Price": 1385.00,
+        "Features": [],
+        "Date": "2023-11-22T12:27:53.64564-05:00",
+        "Update": "2023-11-27T10:36:36.6782159-05:00",
+        "Discount": 38.0,
+        "Label": "Torre Paquete 28 TB + i5K 12 Gen + 32Gb DDR4 + Z690 x8 SATA + 1200W + NIGHTHAWK"
       }
     ]
   },
