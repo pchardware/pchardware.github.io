@@ -1,0 +1,22 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Multimedia",
+  "Images": [
+    "/images/products/pc-i5-13400-msi-pro-b760m-p-16gb-ddr4-rgb-480gb-ss-c8sbzu-1.webp",
+    "/images/products/pc-i5-13400-msi-pro-b760m-p-16gb-ddr4-rgb-480gb-ss-c8sbzu-2.webp",
+    "/images/products/pc-i5-13400-msi-pro-b760m-p-16gb-ddr4-rgb-480gb-ss-c8sbzu-3.webp",
+    "/images/products/pc-i5-13400-msi-pro-b760m-p-16gb-ddr4-rgb-480gb-ss-c8sbzu-4.webp",
+    "/images/products/pc-i5-13400-msi-pro-b760m-p-16gb-ddr4-rgb-480gb-ss-c8sbzu-5.webp",
+    "/images/products/pc-i5-13400-msi-pro-b760m-p-16gb-ddr4-rgb-480gb-ss-c8sbzu-6.webp",
+    "/images/products/pc-i5-13400-msi-pro-b760m-p-16gb-ddr4-rgb-480gb-ss-c8sbzu-7.webp",
+    "/images/products/pc-i5-13400-msi-pro-b760m-p-16gb-ddr4-rgb-480gb-ss-c8sbzu-8.webp",
+    "/images/products/pc-i5-13400-msi-pro-b760m-p-16gb-ddr4-rgb-480gb-ss-c8sbzu-9.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-13400 +Disipador\n+ Board MSI Pro B760M-P DDR4\n+ RAM DDR4 GeIL ORION RGB 16GB 3600mhz\n+ SSD 2.5 Acer SA100 480GB\n+ Fuente Raidmax Vortex 600W RX-600AC-V\n+ Chasis Cooler Master MasterBox MB511\n+ Monitor MSI 24\" MP241C\n+ COMBO Teclado + Mouse Logitech MK270\n",
+  "Price": 1019.00,
+  "Features": [],
+  "Date": "2023-11-27T15:41:03.2760698-05:00",
+  "Update": "2023-11-27T15:45:11.2814008-05:00",
+  "Discount": 27.0,
+  "Label": "PC i5-13400 + MSI Pro B760M-P + 16GB DDR4 RGB + 480GB SSD + Monitor 24\""
+}
