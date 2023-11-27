@@ -12,7 +12,7 @@
     ],
     "Gamer": [
       {
-        "Price": 1063.00,
+        "Price": 1059.00,
         "Features": [],
         "Date": "2023-11-22T12:20:04.6481423-05:00",
         "Update": "2023-11-22T13:05:46.7855915-05:00",
@@ -28,7 +28,7 @@
         "Label": "Torre Gamer RTX 4080 Gaming OC 16GB + i9-13900K + 32GB DDR5 + 1000w (80+ Gold)"
       },
       {
-        "Price": 913.00,
+        "Price": 909.00,
         "Features": [],
         "Date": "2023-11-22T20:09:27.9452783-05:00",
         "Update": "2023-11-22T20:14:04.5042587-05:00",
@@ -60,7 +60,7 @@
         "Label": "Torre Gamer RX 7600 8GB + i5 13Gen + MSI Pro B760M-P + 16GB DDR4 + 1TB M2"
       },
       {
-        "Price": 985.00,
+        "Price": 981.00,
         "Features": [],
         "Date": "2023-11-24T07:50:02.1107483-05:00",
         "Update": "2023-11-24T07:52:55.3697053-05:00",
@@ -1045,26 +1045,6 @@
         "Label": "Fuente Apevia Spirit 600W"
       },
       {
-        "Price": 269.00,
-        "Features": [
-          "ATX 3.0",
-          "80+ Gold",
-          "Full Modular",
-          "100A",
-          "1x 16Pin",
-          "6x 6+2Pin",
-          "2x 4+4 EPS",
-          "150mm",
-          "8xSATA",
-          "4x PATA",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-11-06T10:30:16.8475505-05:00",
-        "Update": "2023-11-06T11:07:44.0628266-05:00",
-        "Label": "Fuente NZXT C1200 1200W"
-      },
-      {
         "Price": 205.00,
         "Features": [
           "80+ PLATINUM",
@@ -2036,17 +2016,6 @@
         "Label": "RAM DDR5 G.Skill Flare X5 64GB 6000mhz"
       },
       {
-        "Price": 99.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL38"
-        ],
-        "Date": "2023-08-16T09:17:10.601305-04:00",
-        "Update": "2023-11-01T07:24:34.3258412-04:00",
-        "Label": "RAM DDR5 GeIL ORION RGB 32GB 6000mhz"
-      },
-      {
         "Price": 159.00,
         "Features": [
           "2x16GB",
@@ -2626,7 +2595,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 3060 Vision OC 12GB White"
       },
       {
-        "Price": 269.00,
+        "Price": 265.00,
         "Features": [
           "8GB",
           "3xFan",
