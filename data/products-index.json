@@ -9,6 +9,40 @@
         "Discount": 27.0,
         "Label": "PC i5-13400 + MSI Pro B760M-P + 16GB DDR4 RGB + 480GB SSD + Monitor 24\""
       }
+    ],
+    "Gamer": [
+      {
+        "Price": 1179.00,
+        "Features": [],
+        "Date": "2023-11-27T18:12:51.6110449-05:00",
+        "Update": "2023-11-28T04:25:36.7752082-05:00",
+        "Discount": 34.0,
+        "Label": "PC Gammer RX 6600 + i3 13Gen + B760 + 16GB DDR4 + 480GB SSD + Monitor 24\" y Más"
+      },
+      {
+        "Price": 1435.00,
+        "Features": [],
+        "Date": "2023-11-27T18:15:19.2679515-05:00",
+        "Update": "2023-11-28T04:25:36.7920033-05:00",
+        "Discount": 38.0,
+        "Label": "PC Gamer RX 7600 + i5 13Gen + B760M + 16GB DDR4 + 1TB SSDM2 + Monitor 24\" y Más"
+      },
+      {
+        "Price": 2019.00,
+        "Features": [],
+        "Date": "2023-11-27T18:16:35.76383-05:00",
+        "Update": "2023-11-28T04:25:36.8096131-05:00",
+        "Discount": 51.0,
+        "Label": "PC Gamer RTX 4060 + i5-12600K + Z690 Aorus Elite AX + 32GB DDR5 + Monitor 24\" y Más"
+      },
+      {
+        "Price": 4049.00,
+        "Features": [],
+        "Date": "2023-11-27T18:18:34.9639843-05:00",
+        "Update": "2023-11-28T04:25:36.8276446-05:00",
+        "Discount": 65.0,
+        "Label": "PC Gamer RTX 4080 16GB + i9-13900K + 32GB DDR5 + 2TB SSDM2 + Monitor 27\" y Más"
+      }
     ]
   },
   "Torres": {
