@@ -1626,20 +1626,6 @@
         "Date": "2023-10-02T14:29:17.3385611-04:00",
         "Update": "2023-10-02T15:13:13.7065447-04:00",
         "Label": "HDD 3.5 WD 14TB HC530 Recertified"
-      },
-      {
-        "Price": 189.00,
-        "Features": [
-          "Ultrastar DC",
-          "Enterprise",
-          "512mb",
-          "7200rpm",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-05-11T14:19:01.4001144-04:00",
-        "Update": "2023-11-27T09:23:42.5492105-05:00",
-        "Label": "HDD 3.5 WD 14TB HC530"
       }
     ],
     "Chasis": [
@@ -2618,23 +2604,6 @@
         "Date": "2023-04-09T07:40:11.0980971-04:00",
         "Update": "2023-11-05T10:12:40.4613739-05:00",
         "Label": "Tarjeta de Video EVGA RTX 3080Ti XC3 Hydro Copper 12GB"
-      },
-      {
-        "Price": 799.00,
-        "Features": [
-          "DLSS3",
-          "3xFan",
-          "1x16Pin",
-          "750W",
-          "308mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-05-11T13:47:38.0164911-04:00",
-        "Update": "2023-11-05T10:12:40.4743779-05:00",
-        "Label": "Tarjeta de Video MSI Ventus 3X RTX 4070Ti OC 12GB"
       },
       {
         "Price": 699.00,
