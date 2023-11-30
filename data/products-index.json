@@ -20,16 +20,6 @@
     ]
   },
   "Torres": {
-    "Pro": [
-      {
-        "Price": 1385.00,
-        "Features": [],
-        "Date": "2023-11-22T12:27:53.64564-05:00",
-        "Update": "2023-11-27T10:36:36.6782159-05:00",
-        "Discount": 38.0,
-        "Label": "Torre Paquete 28 TB + i5K 12 Gen + 32Gb DDR4 + Z690 x8 SATA + 1200W + NIGHTHAWK"
-      }
-    ],
     "Gamer": [
       {
         "Price": 3275.00,
@@ -1701,25 +1691,6 @@
         "Label": "Disipador Intel Stock Original"
       },
       {
-        "Price": 83.00,
-        "Features": [
-          "ARGB",
-          "4 Head Pipes",
-          "52cfm",
-          "27dba",
-          "154mm",
-          "1800rpm",
-          "AM5",
-          "AM4",
-          "LGA1700",
-          "LGA1200",
-          "LGA115X"
-        ],
-        "Date": "2023-10-16T10:24:42.0527807-04:00",
-        "Update": "2023-10-16T12:23:12.872414-04:00",
-        "Label": "Disipador Cooler Master 212 Halo Black"
-      },
-      {
         "Price": 85.00,
         "Features": [
           "ARGB",
@@ -2168,18 +2139,6 @@
         "Date": "2023-03-30T09:55:40.6507732-04:00",
         "Update": "2023-11-27T09:23:42.3610914-05:00",
         "Label": "RAM DDR4 Corsair Vengeance RGB RT 16GB 3600mhz"
-      },
-      {
-        "Price": 109.00,
-        "Features": [
-          "2x16GB",
-          "CL18",
-          "Disipadas",
-          "RGB"
-        ],
-        "Date": "2023-11-27T09:44:58.4133819-05:00",
-        "Update": "2023-11-27T11:49:26.0006172-05:00",
-        "Label": "RAM DDR4 CORSAIR Vengeance RGB Pro 32GB 3600mhz"
       }
     ],
     "Microprocesador": [
@@ -2940,25 +2899,6 @@
         "Date": "2023-10-16T10:24:36.0269962-04:00",
         "Update": "2023-11-19T11:13:03.6849671-05:00",
         "Label": "Board ASRock Z690M Phantom Gaming 4"
-      },
-      {
-        "Price": 195.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "8xSATA",
-          "4800mhz",
-          "6xAudio",
-          "DDR4",
-          "6xUSB",
-          "HDMI",
-          "PS2",
-          "LGA 1700",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-10-19T09:32:16.7888545-04:00",
-        "Update": "2023-11-19T11:13:03.698783-05:00",
-        "Label": "Board ASRock Z690 PG Riptide DDR4"
       },
       {
         "Price": 285.00,
