@@ -1599,6 +1599,20 @@
         "Date": "2023-11-03T12:22:56.9620417-04:00",
         "Update": "2023-11-11T13:24:08.664654-05:00",
         "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
+      },
+      {
+        "Price": 179.00,
+        "Features": [
+          "ATX",
+          "Mid Tower",
+          "Tempered Glass",
+          "x1 HDD3.5",
+          "x3 HDD2.5",
+          "120mm D-RGB fan"
+        ],
+        "Date": "2023-11-30T11:20:38.8740683-05:00",
+        "Update": "2023-11-30T14:11:17.666122-05:00",
+        "Label": "Chasis Phanteks Eclipse G300A Mesh D-RGB Black"
       }
     ],
     "Red": [
@@ -2139,6 +2153,17 @@
         "Date": "2023-03-30T09:55:40.6507732-04:00",
         "Update": "2023-11-27T09:23:42.3610914-05:00",
         "Label": "RAM DDR4 Corsair Vengeance RGB RT 16GB 3600mhz"
+      },
+      {
+        "Price": 109.00,
+        "Features": [
+          "2x16GB",
+          "3600mhz",
+          "CL18"
+        ],
+        "Date": "2023-11-30T11:21:51.4573961-05:00",
+        "Update": "2023-11-30T14:11:17.7515035-05:00",
+        "Label": "RAM DDR4 CORSAIR Vengeance RGB Pro 32GB"
       }
     ],
     "Microprocesador": [
@@ -2343,6 +2368,57 @@
         "Date": "2023-03-22T09:04:14.8362359-04:00",
         "Update": "2023-11-24T10:20:52.9007771-05:00",
         "Label": "Micro Intel Core i7-13700K"
+      },
+      {
+        "Price": 189.00,
+        "Features": [
+          "AM4",
+          "6 Core",
+          "12 Hilos",
+          "DDR4",
+          "4.6GHz",
+          "Unlocked",
+          "Serie 5000",
+          "CPU"
+        ],
+        "Date": "2023-11-30T11:20:49.6412308-05:00",
+        "Update": "2023-11-30T14:11:17.700083-05:00",
+        "Label": "CPU AMD Ryzen 5 5600X"
+      },
+      {
+        "Price": 379.00,
+        "Features": [
+          "14va Gen",
+          "14 Core",
+          "20 Hilos",
+          "5.3Ghz",
+          "24MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-11-30T11:21:40.9533793-05:00",
+        "Update": "2023-11-30T14:11:17.7334197-05:00",
+        "Label": "CPU Intel Core i5-14600K"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "Radeon Graphics",
+          "AM4",
+          "6 Core",
+          "12 Hilos",
+          "DDR4",
+          "L3 Cache: 8MB",
+          "3.7 GHz",
+          "65W",
+          "Serie 4000",
+          "CPU"
+        ],
+        "Date": "2023-11-30T11:22:08.4493566-05:00",
+        "Update": "2023-11-30T14:11:17.7826388-05:00",
+        "Label": "Micro AMD Ryzen 5 4600G"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2721,6 +2797,37 @@
         "Date": "2023-11-27T09:55:52.373435-05:00",
         "Update": "2023-11-27T11:56:37.4501156-05:00",
         "Label": "Tarjeta de Video XFX Speedster Swift 210 RX 6650 XT 8GB"
+      },
+      {
+        "Price": 395.00,
+        "Features": [
+          "3xFan",
+          "2 x 8-Pin",
+          "650WR",
+          "304mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Grafica"
+        ],
+        "Date": "2023-11-30T11:15:23.1853847-05:00",
+        "Update": "2023-11-30T14:11:17.653027-05:00",
+        "Label": "Tarjeta de Video XFX Speedster SWFT309 RX 6700 XT CORE 12GB"
+      },
+      {
+        "Price": 459.00,
+        "Features": [
+          "2xFan",
+          "1x8-Pin",
+          "500WR",
+          "201 mm",
+          "GeForce",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-30T11:20:46.1214692-05:00",
+        "Update": "2023-11-30T14:11:17.6799545-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4060 Ti WindForce OC 8GB"
       }
     ],
     "Board": [
@@ -2998,6 +3105,24 @@
         "Date": "2023-02-17T09:46:18.404887-05:00",
         "Update": "2023-11-21T08:52:12.9476285-05:00",
         "Label": "Board Asus B660 ProArt Creator D4"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "12-13-14Gen",
+          "5333mhz",
+          "DisplayPort",
+          "HDMI port",
+          "Wi-Fi Module",
+          "x7USB",
+          "x4SATA",
+          "DDR4",
+          "Micro ATX",
+          "x5 Audio"
+        ],
+        "Date": "2023-11-30T11:20:59.3135657-05:00",
+        "Update": "2023-11-30T14:11:17.7192482-05:00",
+        "Label": "Board Asus TUF B760M-Plus Wifi D4"
       }
     ]
   },
@@ -3669,6 +3794,19 @@
         "Date": "2023-11-24T09:48:36.8452861-05:00",
         "Update": "2023-11-24T10:20:52.9615212-05:00",
         "Label": "Mouse Logitech G502 Lightspeed Wireless"
+      },
+      {
+        "Price": 87.00,
+        "Features": [
+          "16000 dpi",
+          "Optico",
+          "17 Botones",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-11-30T11:15:16.2508817-05:00",
+        "Update": "2023-11-30T14:11:17.6379701-05:00",
+        "Label": "Mouse Corsair Scimitar Pro RGB Black"
       }
     ],
     "Webcam": [
@@ -4025,6 +4163,23 @@
         "Date": "2023-11-24T09:48:56.279126-05:00",
         "Update": "2023-11-24T10:20:53.064756-05:00",
         "Label": "Monitor Acer Nitro 27\" XV275U"
+      },
+      {
+        "Price": 465.00,
+        "Features": [
+          "4K",
+          "28\"",
+          "IPS",
+          "Flat",
+          "1ms",
+          "HDR400",
+          "1 x DisplayPort",
+          "2 x HDMI",
+          "FreeSync"
+        ],
+        "Date": "2023-11-30T11:22:03.7379345-05:00",
+        "Update": "2023-11-30T14:11:17.768511-05:00",
+        "Label": "Monitor MSI 28UHD [G281UV]"
       }
     ],
     "Externo": [
