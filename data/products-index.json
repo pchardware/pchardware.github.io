@@ -215,6 +215,19 @@
         "Update": "2023-11-18T10:47:08.1359977-05:00",
         "Discount": 8.0,
         "Label": "Kit Intel Core i5 11na Gen +8GB RAM 3200mhz +Disipador +Board MSI Z590"
+      },
+      {
+        "Price": 338.00,
+        "Features": [
+          "12 Hilos",
+          "Serie 5000",
+          "3200mhz",
+          "ASRock"
+        ],
+        "Date": "2023-10-20T08:54:09.0884384-04:00",
+        "Update": "2023-11-30T14:28:44.8568318-05:00",
+        "Discount": 8.0,
+        "Label": "Kit Ryzen 5 +8GB DDR4 Disipadas +Disipador +Board B550M Pro"
       }
     ],
     "Moderado": [
@@ -714,6 +727,29 @@
         "Date": "2023-11-27T09:55:03.5320741-05:00",
         "Update": "2023-11-27T10:25:12.5655912-05:00",
         "Label": "SSD M.2 - WD Green SN350 960TB"
+      },
+      {
+        "Price": 97.00,
+        "Features": [
+          "7300mbs",
+          "600tbw",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-08-16T09:17:48.5783952-04:00",
+        "Update": "2023-11-30T14:28:44.8692452-05:00",
+        "Label": "SSD M.2 WD BLACK SN850X 1TB"
+      },
+      {
+        "Price": 84.00,
+        "Features": [
+          "560mbps",
+          "600tbw",
+          "SATA 3"
+        ],
+        "Date": "2023-08-01T11:14:15.2077979-04:00",
+        "Update": "2023-11-30T14:28:44.9023135-05:00",
+        "Label": "SSD 2.5 Samsung 870 EVO 1TB"
       }
     ],
     "Fuente": [
@@ -2419,6 +2455,24 @@
         "Date": "2023-11-30T11:22:08.4493566-05:00",
         "Update": "2023-11-30T14:11:17.7826388-05:00",
         "Label": "Micro AMD Ryzen 5 4600G"
+      },
+      {
+        "Price": 175.00,
+        "Features": [
+          "Radeon Graphics",
+          "AM4",
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "16MB L3",
+          "65W",
+          "DDR4",
+          "Serie 5000",
+          "CPU"
+        ],
+        "Date": "2023-10-13T09:28:27.261681-04:00",
+        "Update": "2023-11-30T14:28:44.8359745-05:00",
+        "Label": "Micro AMD Ryzen 5 5600G +Disipador"
       }
     ],
     "Tarjeta Gráfica": [
@@ -3123,6 +3177,24 @@
         "Date": "2023-11-30T11:20:59.3135657-05:00",
         "Update": "2023-11-30T14:11:17.7192482-05:00",
         "Label": "Board Asus TUF B760M-Plus Wifi D4"
+      },
+      {
+        "Price": 139.00,
+        "Features": [
+          "AM4",
+          "4533mhz",
+          "6xUSB",
+          "DDR4",
+          "4xSATA",
+          "Micro ATX",
+          "HDMI",
+          "DisplayPort",
+          "3xAudio",
+          "MOBO"
+        ],
+        "Date": "2023-10-11T10:56:39.5272184-04:00",
+        "Update": "2023-11-30T14:28:44.8864297-05:00",
+        "Label": "Board ASRock B550M Pro SE"
       }
     ]
   },
