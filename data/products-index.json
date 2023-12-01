@@ -60,6 +60,30 @@
         "Update": "2023-11-27T15:25:58.2067718-05:00",
         "Discount": 31.0,
         "Label": "Torre Gamer RTX 4060 + i5K 12Gen + 32GB DDR5 RGB + 1TB SSD M2 + 850W"
+      },
+      {
+        "Price": 935.00,
+        "Features": [],
+        "Date": "2023-12-01T11:01:22.3465338-05:00",
+        "Update": "2023-12-01T11:33:17.6795863-05:00",
+        "Discount": 30.0,
+        "Label": "Torre GTX 1070 8GB + i5-11400 + Z590 Pro Wifi + 16GB DDR4 + 1TB M2 + MasterBox"
+      },
+      {
+        "Price": 1065.00,
+        "Features": [],
+        "Date": "2023-12-01T11:17:12.208186-05:00",
+        "Update": "2023-12-01T11:33:17.6982348-05:00",
+        "Discount": 29.0,
+        "Label": "Torre RX 6600 + i5 13 Gen + MSI Pro B760M-P + 16GB DDR4 + 1TB SSD M2 + Phanteks"
+      },
+      {
+        "Price": 1829.00,
+        "Features": [],
+        "Date": "2023-12-01T11:22:42.8722477-05:00",
+        "Update": "2023-12-01T11:33:17.7148629-05:00",
+        "Discount": 35.0,
+        "Label": "Torre RX 7700 XT 12GB + i5-12600K + Liquida Asus ROG + TUF Gaming B650-Plus Wifi"
       }
     ]
   },
