@@ -2,14 +2,6 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 2019.00,
-        "Features": [],
-        "Date": "2023-11-27T18:16:35.76383-05:00",
-        "Update": "2023-11-28T04:25:36.8096131-05:00",
-        "Discount": 51.0,
-        "Label": "PC Gamer RTX 4060 + i5-12600K + Z690 Aorus Elite AX + 32GB DDR5 + Monitor 24\" y Más"
-      },
-      {
         "Price": 4049.00,
         "Features": [],
         "Date": "2023-11-27T18:18:34.9639843-05:00",
@@ -4301,23 +4293,6 @@
         "Date": "2023-07-09T16:45:46.4090102-04:00",
         "Update": "2023-10-19T12:52:18.6041154-04:00",
         "Label": "Auriculares Logitech G435 Lightspeed Wireless"
-      },
-      {
-        "Price": 89.00,
-        "Features": [
-          "7.1",
-          "Micrófono",
-          "3.5mm",
-          "30KHz",
-          "50mm",
-          "USB",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-10-18T06:47:49.8643507-04:00",
-        "Update": "2023-10-19T12:52:18.6703333-04:00",
-        "Label": "Auriculares Corsair VOID RGB Elite Carbon"
       },
       {
         "Price": 129.00,
