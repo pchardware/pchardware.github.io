@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-gamer-rx-7600-i5-13gen-b760m-16gb-ddr4-1tb-ssdm-kh9ndt-1.webp",
+    "/images/products/pc-gamer-rx-7600-i5-13gen-b760m-16gb-ddr4-1tb-ssdm-kh9ndt-2.webp",
+    "/images/products/pc-gamer-rx-7600-i5-13gen-b760m-16gb-ddr4-1tb-ssdm-kh9ndt-3.webp",
+    "/images/products/pc-gamer-rx-7600-i5-13gen-b760m-16gb-ddr4-1tb-ssdm-kh9ndt-4.webp",
+    "/images/products/pc-gamer-rx-7600-i5-13gen-b760m-16gb-ddr4-1tb-ssdm-kh9ndt-5.webp",
+    "/images/products/pc-gamer-rx-7600-i5-13gen-b760m-16gb-ddr4-1tb-ssdm-kh9ndt-6.webp",
+    "/images/products/pc-gamer-rx-7600-i5-13gen-b760m-16gb-ddr4-1tb-ssdm-kh9ndt-7.webp",
+    "/images/products/pc-gamer-rx-7600-i5-13gen-b760m-16gb-ddr4-1tb-ssdm-kh9ndt-8.webp",
+    "/images/products/pc-gamer-rx-7600-i5-13gen-b760m-16gb-ddr4-1tb-ssdm-kh9ndt-9.webp",
+    "/images/products/pc-gamer-rx-7600-i5-13gen-b760m-16gb-ddr4-1tb-ssdm-kh9ndt-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-13400 +Disipador\n+ Board MSI Pro B760M-P DDR4\n+ RAM DDR4 Silicon Power 16GB 3200mhz\n+ SSD M.2 Samsung 980 PRO 1TB\n+ Tarjeta de Video Gigabyte RX 7600 8GB\n+ Fuente Raidmax Vortex 600W RX-600AC-V\n+ Chasis Cooler Master MasterBox MB511\n+ Monitor Acer Nitro 24FHD QG241Y\n+ COMBO Teclado + Mouse Rosewill Fusion C40\n",
+  "Price": 1435.00,
+  "Features": [],
+  "Date": "2023-11-27T18:15:19.2679515-05:00",
+  "Update": "2023-12-01T10:22:12.6057566-05:00",
+  "Discount": 38.0,
+  "Label": "PC Gamer RX 7600 + i5 13Gen + B760M + 16GB DDR4 + 1TB SSDM2 + Monitor 24\" y Más"
+}
