@@ -38,14 +38,6 @@
         "Label": "Torre Gamer RTX 4080 Gaming OC 16GB + i9-13900K + 32GB DDR5 + 1000w (80+ Gold)"
       },
       {
-        "Price": 2059.00,
-        "Features": [],
-        "Date": "2023-11-22T20:26:06.4619341-05:00",
-        "Update": "2023-11-27T10:36:36.7484446-05:00",
-        "Discount": 33.0,
-        "Label": "Torre Gamer RTX 4060 Ti Elite + i7-12700K + 32GB DDR5 + 2TB SSD M2 + 850W"
-      },
-      {
         "Price": 2019.00,
         "Features": [],
         "Date": "2023-11-27T13:04:18.4517207-05:00",
@@ -102,35 +94,6 @@
         "Update": "2023-10-12T12:45:40.7950363-04:00",
         "Discount": 10.0,
         "Label": "Kit Ryzen 9 7900X +Board Asus TUF + 32GB 6400mhz DDR5 Corsair Vengeance RGB"
-      },
-      {
-        "Price": 477.00,
-        "Features": [
-          "20 Hilos",
-          "12 Gen",
-          "3200mhz",
-          "Disipadas",
-          "Dual Channel",
-          "6xUSB"
-        ],
-        "Date": "2023-10-20T09:07:38.5260983-04:00",
-        "Update": "2023-11-18T23:49:17.4554738-05:00",
-        "Discount": 8.0,
-        "Label": "Kit i7-12700K +Board Z690 +16GB RAM Silicon Power"
-      },
-      {
-        "Price": 454.00,
-        "Features": [
-          "20 Hilos",
-          "12 Gen",
-          "Overclock",
-          "3200mhz",
-          "6xUSB"
-        ],
-        "Date": "2023-10-20T09:06:57.5474984-04:00",
-        "Update": "2023-11-21T08:20:08.7984863-05:00",
-        "Discount": 6.0,
-        "Label": "Kit i7-12700K +ASRock Z690 Phantom +RAM 8GB T-Force"
       },
       {
         "Price": 807.00,
@@ -195,14 +158,6 @@
         "Update": "2023-11-14T14:53:33.7088529-05:00",
         "Discount": 14.0,
         "Label": "Kit i9-13900K + Asus ROG Maximus Z690 Hero + G.Skill Trident Z5 RGB 32GB 6400mhz"
-      },
-      {
-        "Price": 769.00,
-        "Features": [],
-        "Date": "2023-09-15T11:22:05.4087649-04:00",
-        "Update": "2023-11-18T23:49:17.4198059-05:00",
-        "Discount": 14.0,
-        "Label": "Kit i7-12700K + Asus ROG Maximus Z690 Hero + DDR5 Corsair Dominator Platinum RGB 32GB"
       },
       {
         "Price": 751.00,
@@ -1296,24 +1251,6 @@
         "Label": "Disipador Líquido Corsair iCUE H150i ELITE CAPELLIX XT"
       },
       {
-        "Price": 89.00,
-        "Features": [
-          "2000rpm",
-          "72cfm",
-          "14db",
-          "1xFan",
-          "120mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM5",
-          "AM4"
-        ],
-        "Date": "2023-05-11T13:08:41.9000968-04:00",
-        "Update": "2023-10-09T17:48:21.7219921-04:00",
-        "Label": "Disipador Líquido Enermax LIQMAX III 120 RGB"
-      },
-      {
         "Price": 255.00,
         "Features": [
           "LCD",
@@ -1982,18 +1919,280 @@
         "Label": "Disipador Thermaltake UX200 SE"
       }
     ],
-    "Memoria RAM": [
+    "Microprocesador": [
       {
-        "Price": 119.00,
+        "Price": 219.00,
         "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL32"
+          "12va Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "20MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
         ],
-        "Date": "2023-07-17T23:39:03.8750592-04:00",
-        "Update": "2023-10-09T17:48:20.7310828-04:00",
-        "Label": "RAM DDR5 XPG Lancer 32GB 6400mhz"
+        "Date": "2023-02-17T09:44:28.156292-05:00",
+        "Update": "2023-10-09T17:48:20.7506517-04:00",
+        "Label": "Micro Intel Core i5-12600K"
       },
+      {
+        "Price": 405.00,
+        "Features": [
+          "Radeon Graphics",
+          "AM5",
+          "24 Hilos",
+          "12 Core",
+          "5.6GHz",
+          "64MB L3",
+          "170W",
+          "PCIe 5",
+          "DDR5",
+          "Unlocked",
+          "Serie 7000",
+          "CPU"
+        ],
+        "Date": "2023-10-09T15:59:15.4094076-04:00",
+        "Update": "2023-10-09T17:48:21.976668-04:00",
+        "Label": "Micro AMD Ryzen 9 7900X"
+      },
+      {
+        "Price": 179.00,
+        "Features": [
+          "11na Gen",
+          "12 Hilos",
+          "6 Cores",
+          "4.4GHz",
+          "12MB L3",
+          "LGA 1200",
+          "CPU"
+        ],
+        "Date": "2023-03-22T09:04:03.4468877-04:00",
+        "Update": "2023-10-14T14:41:17.8362317-04:00",
+        "Label": "Micro Intel Core i5-11400 +Disipador"
+      },
+      {
+        "Price": 479.00,
+        "Features": [
+          "14va Gen",
+          "28 Hilos",
+          "5.6Ghz",
+          "33mb L3",
+          "253W",
+          "LGA 1700",
+          "DDR4-DDR5",
+          "CPU"
+        ],
+        "Date": "2023-10-23T12:31:42.2126394-04:00",
+        "Update": "2023-10-23T13:18:33.8766268-04:00",
+        "Label": "Micro Intel Core i7-14700K"
+      },
+      {
+        "Price": 695.00,
+        "Features": [
+          "14va Gen",
+          "32 Hilos",
+          "6Ghz",
+          "36mb L3",
+          "253W",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-10-23T12:31:45.6342687-04:00",
+        "Update": "2023-10-23T13:18:33.8894814-04:00",
+        "Label": "Micro Intel Core i9-14900K"
+      },
+      {
+        "Price": 225.00,
+        "Features": [
+          "13ra Gen",
+          "20 Hilos",
+          "14 Core",
+          "4.6GHz",
+          "24MB L3",
+          "11.5MB L2",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-09-26T11:28:40.6931036-04:00",
+        "Update": "2023-10-31T11:23:29.2510318-04:00",
+        "Label": "Micro Intel Core i5-13500T"
+      },
+      {
+        "Price": 599.00,
+        "Features": [
+          "13ra Gen",
+          "32 Hilos",
+          "24 Core",
+          "5.7GHz",
+          "30MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-03-22T09:04:16.5699219-04:00",
+        "Update": "2023-10-31T23:27:31.1992336-04:00",
+        "Label": "Micro Intel Core i9-13900K"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "13ra Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.5GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-11-03T12:23:09.4506592-04:00",
+        "Update": "2023-11-18T10:38:41.5668864-05:00",
+        "Label": "Micro Intel Core i3-13100F +Disipador"
+      },
+      {
+        "Price": 365.00,
+        "Features": [
+          "12va Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.2GHz",
+          "30MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-05-11T07:00:48.0876416-04:00",
+        "Update": "2023-11-24T10:20:52.8291522-05:00",
+        "Label": "Micro Intel Core i9-12900K"
+      },
+      {
+        "Price": 325.00,
+        "Features": [
+          "13ra Gen",
+          "20 Hilos",
+          "14 Core",
+          "5.1GHz",
+          "24MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-06-19T07:47:08.4755764-04:00",
+        "Update": "2023-11-24T10:20:52.8408085-05:00",
+        "Label": "Micro Intel Core i5-13600K"
+      },
+      {
+        "Price": 399.00,
+        "Features": [
+          "13ra Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.4GHz",
+          "30MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-03-22T09:04:14.8362359-04:00",
+        "Update": "2023-11-24T10:20:52.9007771-05:00",
+        "Label": "Micro Intel Core i7-13700K"
+      },
+      {
+        "Price": 189.00,
+        "Features": [
+          "AM4",
+          "6 Core",
+          "12 Hilos",
+          "DDR4",
+          "4.6GHz",
+          "Unlocked",
+          "Serie 5000",
+          "CPU"
+        ],
+        "Date": "2023-11-30T11:20:49.6412308-05:00",
+        "Update": "2023-11-30T14:11:17.700083-05:00",
+        "Label": "CPU AMD Ryzen 5 5600X"
+      },
+      {
+        "Price": 379.00,
+        "Features": [
+          "14va Gen",
+          "14 Core",
+          "20 Hilos",
+          "5.3Ghz",
+          "24MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-11-30T11:21:40.9533793-05:00",
+        "Update": "2023-11-30T14:11:17.7334197-05:00",
+        "Label": "CPU Intel Core i5-14600K"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "Radeon Graphics",
+          "AM4",
+          "6 Core",
+          "12 Hilos",
+          "DDR4",
+          "L3 Cache: 8MB",
+          "3.7 GHz",
+          "65W",
+          "Serie 4000",
+          "CPU"
+        ],
+        "Date": "2023-11-30T11:22:08.4493566-05:00",
+        "Update": "2023-11-30T14:11:17.7826388-05:00",
+        "Label": "Micro AMD Ryzen 5 4600G"
+      },
+      {
+        "Price": 175.00,
+        "Features": [
+          "Radeon Graphics",
+          "AM4",
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "16MB L3",
+          "65W",
+          "DDR4",
+          "Serie 5000",
+          "CPU"
+        ],
+        "Date": "2023-10-13T09:28:27.261681-04:00",
+        "Update": "2023-11-30T14:28:44.8359745-05:00",
+        "Label": "Micro AMD Ryzen 5 5600G +Disipador"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "13ra Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.6GHz",
+          "20MB L3",
+          "9.5MB L2",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-10-02T14:28:46.4986141-04:00",
+        "Update": "2023-12-01T10:22:12.5628522-05:00",
+        "Label": "Micro Intel Core i5-13400 +Disipador"
+      }
+    ],
+    "Memoria RAM": [
       {
         "Price": 129.00,
         "Features": [
@@ -2268,296 +2467,6 @@
         "Date": "2023-11-30T11:21:51.4573961-05:00",
         "Update": "2023-11-30T14:11:17.7515035-05:00",
         "Label": "RAM DDR4 CORSAIR Vengeance RGB Pro 32GB"
-      }
-    ],
-    "Microprocesador": [
-      {
-        "Price": 219.00,
-        "Features": [
-          "12va Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "20MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-02-17T09:44:28.156292-05:00",
-        "Update": "2023-10-09T17:48:20.7506517-04:00",
-        "Label": "Micro Intel Core i5-12600K"
-      },
-      {
-        "Price": 405.00,
-        "Features": [
-          "Radeon Graphics",
-          "AM5",
-          "24 Hilos",
-          "12 Core",
-          "5.6GHz",
-          "64MB L3",
-          "170W",
-          "PCIe 5",
-          "DDR5",
-          "Unlocked",
-          "Serie 7000",
-          "CPU"
-        ],
-        "Date": "2023-10-09T15:59:15.4094076-04:00",
-        "Update": "2023-10-09T17:48:21.976668-04:00",
-        "Label": "Micro AMD Ryzen 9 7900X"
-      },
-      {
-        "Price": 179.00,
-        "Features": [
-          "11na Gen",
-          "12 Hilos",
-          "6 Cores",
-          "4.4GHz",
-          "12MB L3",
-          "LGA 1200",
-          "CPU"
-        ],
-        "Date": "2023-03-22T09:04:03.4468877-04:00",
-        "Update": "2023-10-14T14:41:17.8362317-04:00",
-        "Label": "Micro Intel Core i5-11400 +Disipador"
-      },
-      {
-        "Price": 479.00,
-        "Features": [
-          "14va Gen",
-          "28 Hilos",
-          "5.6Ghz",
-          "33mb L3",
-          "253W",
-          "LGA 1700",
-          "DDR4-DDR5",
-          "CPU"
-        ],
-        "Date": "2023-10-23T12:31:42.2126394-04:00",
-        "Update": "2023-10-23T13:18:33.8766268-04:00",
-        "Label": "Micro Intel Core i7-14700K"
-      },
-      {
-        "Price": 695.00,
-        "Features": [
-          "14va Gen",
-          "32 Hilos",
-          "6Ghz",
-          "36mb L3",
-          "253W",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-10-23T12:31:45.6342687-04:00",
-        "Update": "2023-10-23T13:18:33.8894814-04:00",
-        "Label": "Micro Intel Core i9-14900K"
-      },
-      {
-        "Price": 225.00,
-        "Features": [
-          "13ra Gen",
-          "20 Hilos",
-          "14 Core",
-          "4.6GHz",
-          "24MB L3",
-          "11.5MB L2",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-09-26T11:28:40.6931036-04:00",
-        "Update": "2023-10-31T11:23:29.2510318-04:00",
-        "Label": "Micro Intel Core i5-13500T"
-      },
-      {
-        "Price": 599.00,
-        "Features": [
-          "13ra Gen",
-          "32 Hilos",
-          "24 Core",
-          "5.7GHz",
-          "30MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-03-22T09:04:16.5699219-04:00",
-        "Update": "2023-10-31T23:27:31.1992336-04:00",
-        "Label": "Micro Intel Core i9-13900K"
-      },
-      {
-        "Price": 145.00,
-        "Features": [
-          "13ra Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.5GHz",
-          "12MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-11-03T12:23:09.4506592-04:00",
-        "Update": "2023-11-18T10:38:41.5668864-05:00",
-        "Label": "Micro Intel Core i3-13100F +Disipador"
-      },
-      {
-        "Price": 269.00,
-        "Features": [
-          "12va Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "25MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-02-17T09:30:45.7586545-05:00",
-        "Update": "2023-11-18T23:49:17.4315127-05:00",
-        "Label": "Micro Intel Core i7-12700K"
-      },
-      {
-        "Price": 365.00,
-        "Features": [
-          "12va Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.2GHz",
-          "30MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-05-11T07:00:48.0876416-04:00",
-        "Update": "2023-11-24T10:20:52.8291522-05:00",
-        "Label": "Micro Intel Core i9-12900K"
-      },
-      {
-        "Price": 325.00,
-        "Features": [
-          "13ra Gen",
-          "20 Hilos",
-          "14 Core",
-          "5.1GHz",
-          "24MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-06-19T07:47:08.4755764-04:00",
-        "Update": "2023-11-24T10:20:52.8408085-05:00",
-        "Label": "Micro Intel Core i5-13600K"
-      },
-      {
-        "Price": 399.00,
-        "Features": [
-          "13ra Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.4GHz",
-          "30MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-03-22T09:04:14.8362359-04:00",
-        "Update": "2023-11-24T10:20:52.9007771-05:00",
-        "Label": "Micro Intel Core i7-13700K"
-      },
-      {
-        "Price": 189.00,
-        "Features": [
-          "AM4",
-          "6 Core",
-          "12 Hilos",
-          "DDR4",
-          "4.6GHz",
-          "Unlocked",
-          "Serie 5000",
-          "CPU"
-        ],
-        "Date": "2023-11-30T11:20:49.6412308-05:00",
-        "Update": "2023-11-30T14:11:17.700083-05:00",
-        "Label": "CPU AMD Ryzen 5 5600X"
-      },
-      {
-        "Price": 379.00,
-        "Features": [
-          "14va Gen",
-          "14 Core",
-          "20 Hilos",
-          "5.3Ghz",
-          "24MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-11-30T11:21:40.9533793-05:00",
-        "Update": "2023-11-30T14:11:17.7334197-05:00",
-        "Label": "CPU Intel Core i5-14600K"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "Radeon Graphics",
-          "AM4",
-          "6 Core",
-          "12 Hilos",
-          "DDR4",
-          "L3 Cache: 8MB",
-          "3.7 GHz",
-          "65W",
-          "Serie 4000",
-          "CPU"
-        ],
-        "Date": "2023-11-30T11:22:08.4493566-05:00",
-        "Update": "2023-11-30T14:11:17.7826388-05:00",
-        "Label": "Micro AMD Ryzen 5 4600G"
-      },
-      {
-        "Price": 175.00,
-        "Features": [
-          "Radeon Graphics",
-          "AM4",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "16MB L3",
-          "65W",
-          "DDR4",
-          "Serie 5000",
-          "CPU"
-        ],
-        "Date": "2023-10-13T09:28:27.261681-04:00",
-        "Update": "2023-11-30T14:28:44.8359745-05:00",
-        "Label": "Micro AMD Ryzen 5 5600G +Disipador"
-      },
-      {
-        "Price": 255.00,
-        "Features": [
-          "13ra Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.6GHz",
-          "20MB L3",
-          "9.5MB L2",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-10-02T14:28:46.4986141-04:00",
-        "Update": "2023-12-01T10:22:12.5628522-05:00",
-        "Label": "Micro Intel Core i5-13400 +Disipador"
       }
     ],
     "Tarjeta Gráfica": [
@@ -3028,26 +2937,6 @@
         "Date": "2023-06-19T07:50:08.4731323-04:00",
         "Update": "2023-11-19T11:13:03.5602566-05:00",
         "Label": "Board Asus ROG Maximus Z690 Hero"
-      },
-      {
-        "Price": 185.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "DDR5",
-          "8xUSB",
-          "Wifi",
-          "7600mhz",
-          "4xSATA",
-          "LGA 1700",
-          "Micro ATX",
-          "HDMI",
-          "DisplayPort",
-          "3xAudio",
-          "MOBO"
-        ],
-        "Date": "2023-06-29T07:39:17.5627753-04:00",
-        "Update": "2023-11-19T11:13:03.579564-05:00",
-        "Label": "Board Gigabyte Aorus B760M Elite AX"
       },
       {
         "Price": 315.00,
