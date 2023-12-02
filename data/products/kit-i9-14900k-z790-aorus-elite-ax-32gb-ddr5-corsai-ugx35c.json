@@ -10,9 +10,17 @@
   ],
   "Description": "+ Micro Intel Core i9-14900K\n+ Disipador Líquido Gigabyte GP-AORUS Waterforce X 360\n+ Board Gigabyte Z790 Aorus Elite AX\n+ RAM DDR5 Corsair Dominator Titanium RGB 32GB 7200mhz\n",
   "Price": 1455.00,
-  "Features": [],
+  "Features": [
+    "32 Hilos",
+    "6Ghz,",
+    "DDR5",
+    "Wifi",
+    "9xUSB",
+    "6xSATA",
+    "LGA 1700"
+  ],
   "Date": "2023-11-30T22:26:35.6669984-05:00",
-  "Update": "2023-11-30T22:37:55.5742302-05:00",
+  "Update": "2023-12-02T02:42:29.0268833-05:00",
   "Discount": 13.0,
   "Label": "Kit i9-14900K + Z790 Aorus Elite AX + 32GB DDR5 Corsair + AORUS Waterforce 360"
 }
