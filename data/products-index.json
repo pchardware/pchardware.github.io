@@ -8,14 +8,6 @@
         "Update": "2023-11-28T04:25:36.8276446-05:00",
         "Discount": 65.0,
         "Label": "PC Gamer RTX 4080 16GB + i9-13900K + 32GB DDR5 + 2TB SSDM2 + Monitor 27\" y Más"
-      },
-      {
-        "Price": 1179.00,
-        "Features": [],
-        "Date": "2023-11-27T18:12:51.6110449-05:00",
-        "Update": "2023-12-01T10:22:12.5922891-05:00",
-        "Discount": 34.0,
-        "Label": "PC Gammer RX 6600 + i3 13Gen + B760 + 16GB DDR4 + 480GB SSD + Monitor 24\" y Más"
       }
     ]
   },
@@ -92,22 +84,6 @@
         "Update": "2023-11-24T10:20:52.9488293-05:00",
         "Discount": 10.0,
         "Label": "Kit i7-13700K +Board Z790 + 32GB 7200mhz DDR5 Trident Z5 RGB"
-      },
-      {
-        "Price": 1455.00,
-        "Features": [
-          "32 Hilos",
-          "6Ghz,",
-          "DDR5",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "LGA 1700"
-        ],
-        "Date": "2023-11-30T22:26:35.6669984-05:00",
-        "Update": "2023-12-02T02:42:29.0268833-05:00",
-        "Discount": 13.0,
-        "Label": "Kit i9-14900K + Z790 Aorus Elite AX + 32GB DDR5 Corsair + AORUS Waterforce 360"
       },
       {
         "Price": 843.00,
@@ -649,16 +625,6 @@
         "Label": "SSD M.2 Samsung 980 PRO 1TB +Heatsink"
       },
       {
-        "Price": 49.00,
-        "Features": [
-          "560mbs",
-          "SATA 3"
-        ],
-        "Date": "2023-11-18T23:51:50.2409473-05:00",
-        "Update": "2023-11-19T11:13:03.8615122-05:00",
-        "Label": "SSD 2.5 Acer SA100 480GB"
-      },
-      {
         "Price": 145.00,
         "Features": [
           "7100mbs",
@@ -954,25 +920,6 @@
         "Date": "2023-10-23T12:31:26.0970288-04:00",
         "Update": "2023-10-23T14:55:22.5123968-04:00",
         "Label": "Fuente Raidmax Vortex 600W RX-600AC-V"
-      },
-      {
-        "Price": 395.00,
-        "Features": [
-          "1x 16Pin",
-          "80+ Platinum",
-          "Full Modular",
-          "1000W",
-          "83A",
-          "8x 6+2Pin",
-          "12x SATA",
-          "2x 4+4 EPS",
-          "190mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-09-11T09:09:22.0492744-04:00",
-        "Update": "2023-10-25T15:46:32.655781-04:00",
-        "Label": "Fuente Asus ROG Thor 1000W Platinum II"
       },
       {
         "Price": 225.00,
@@ -1959,22 +1906,6 @@
         "Label": "Micro Intel Core i7-14700K"
       },
       {
-        "Price": 695.00,
-        "Features": [
-          "14va Gen",
-          "32 Hilos",
-          "6Ghz",
-          "36mb L3",
-          "253W",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-10-23T12:31:45.6342687-04:00",
-        "Update": "2023-10-23T13:18:33.8894814-04:00",
-        "Label": "Micro Intel Core i9-14900K"
-      },
-      {
         "Price": 225.00,
         "Features": [
           "13ra Gen",
@@ -2255,17 +2186,6 @@
         "Date": "2023-10-13T09:28:52.4115364-04:00",
         "Update": "2023-10-31T23:27:31.078534-04:00",
         "Label": "RAM DDR5 G.Skill Flare X5 64GB 6000mhz"
-      },
-      {
-        "Price": 159.00,
-        "Features": [
-          "2x16GB",
-          "CL36",
-          "Disipadas"
-        ],
-        "Date": "2023-11-03T12:23:00.2905889-04:00",
-        "Update": "2023-11-03T14:29:33.1862691-04:00",
-        "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 7000mhz"
       },
       {
         "Price": 125.00,
@@ -2608,23 +2528,6 @@
         "Date": "2023-05-11T19:24:18.7527581-04:00",
         "Update": "2023-11-18T08:40:49.2674411-05:00",
         "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
-      },
-      {
-        "Price": 385.00,
-        "Features": [
-          "DLSS3",
-          "2xFan",
-          "1x8Pin",
-          "450WR",
-          "272mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-11-18T08:41:47.9392507-05:00",
-        "Update": "2023-11-18T09:38:43.1987453-05:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4060 Eagle OC 8GB"
       },
       {
         "Price": 339.00,
@@ -3917,13 +3820,6 @@
         "Date": "2023-08-21T08:59:01.7749952-04:00",
         "Update": "2023-11-24T11:14:38.7799791-05:00",
         "Label": "Cable DisplayPort 1.4, 0.9m"
-      },
-      {
-        "Price": 19.00,
-        "Features": [],
-        "Date": "2023-08-29T08:41:11.6353964-04:00",
-        "Update": "2023-11-24T11:14:38.8189964-05:00",
-        "Label": "Cable DisplayPort 2.0, 1m"
       },
       {
         "Price": 19.00,
