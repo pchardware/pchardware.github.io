@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-gamer-rx-6650-xt-8gb-ryzen-5-4600g-16gb-ddr4-1t-77fqqu-1.webp",
+    "/images/products/pc-gamer-rx-6650-xt-8gb-ryzen-5-4600g-16gb-ddr4-1t-77fqqu-2.webp",
+    "/images/products/pc-gamer-rx-6650-xt-8gb-ryzen-5-4600g-16gb-ddr4-1t-77fqqu-3.webp",
+    "/images/products/pc-gamer-rx-6650-xt-8gb-ryzen-5-4600g-16gb-ddr4-1t-77fqqu-4.webp",
+    "/images/products/pc-gamer-rx-6650-xt-8gb-ryzen-5-4600g-16gb-ddr4-1t-77fqqu-5.webp",
+    "/images/products/pc-gamer-rx-6650-xt-8gb-ryzen-5-4600g-16gb-ddr4-1t-77fqqu-6.webp",
+    "/images/products/pc-gamer-rx-6650-xt-8gb-ryzen-5-4600g-16gb-ddr4-1t-77fqqu-7.webp",
+    "/images/products/pc-gamer-rx-6650-xt-8gb-ryzen-5-4600g-16gb-ddr4-1t-77fqqu-8.webp",
+    "/images/products/pc-gamer-rx-6650-xt-8gb-ryzen-5-4600g-16gb-ddr4-1t-77fqqu-9.webp",
+    "/images/products/pc-gamer-rx-6650-xt-8gb-ryzen-5-4600g-16gb-ddr4-1t-77fqqu-10.webp"
+  ],
+  "Description": "+ Micro AMD Ryzen 5 4600G\n+ Board ASRock B550M Pro SE\n+ RAM DDR4 GeIL ORION RGB 16GB 3600mhz\n+ SSD M.2 - WD Green SN350 960TB\n+ Tarjeta de Video XFX Speedster Swift 210 RX 6650 XT 8GB\n+ Fuente Apevia Spirit 600W\n+ Chasis Phanteks Eclipse G300A Mesh D-RGB Black\n+ Monitor MSI 24\" MP241C\n+ COMBO Teclado + Mouse Rosewill Fusion C40\n",
+  "Price": 1209.00,
+  "Features": [],
+  "Date": "2023-12-02T00:59:18.9005289-05:00",
+  "Update": "2023-12-02T01:29:57.0155337-05:00",
+  "Discount": 40.0,
+  "Label": "PC Gamer RX 6650 XT 8GB + Ryzen 5 4600G + 16GB DDR4 + 1TB M2 + 600W + MSI 24\""
+}
