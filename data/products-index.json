@@ -26,20 +26,20 @@
         "Label": "PC Gamer RX 7600 + i5 13Gen + B760M + 16GB DDR4 + 1TB SSDM2 + Monitor 24\" y Más"
       },
       {
-        "Price": 953.00,
-        "Features": [],
-        "Date": "2023-12-02T00:56:00.0758346-05:00",
-        "Update": "2023-12-02T01:29:56.9229627-05:00",
-        "Discount": 35.0,
-        "Label": "PC Gamer Económica Ryzen 5 5600G + 16GB DDR4 + 1TB M2 + 600W + MSI 24\""
-      },
-      {
         "Price": 1209.00,
         "Features": [],
         "Date": "2023-12-02T00:59:18.9005289-05:00",
         "Update": "2023-12-02T01:29:57.0155337-05:00",
         "Discount": 40.0,
         "Label": "PC Gamer RX 6650 XT 8GB + Ryzen 5 4600G + 16GB DDR4 + 1TB M2 + 600W + MSI 24\""
+      },
+      {
+        "Price": 955.00,
+        "Features": [],
+        "Date": "2023-12-02T00:56:00.0758346-05:00",
+        "Update": "2023-12-02T01:35:29.8449522-05:00",
+        "Discount": 33.0,
+        "Label": "PC Gamer Económica Ryzen 5 5600G + 16GB DDR4 + 1TB M2 + 600W + MSI 24\""
       }
     ]
   },
@@ -94,20 +94,20 @@
         "Label": "Torre RX 7700 XT 12GB + i5-12600K + Liquida Asus ROG + TUF Gaming B650-Plus Wifi"
       },
       {
-        "Price": 681.00,
-        "Features": [],
-        "Date": "2023-12-02T00:55:23.5720418-05:00",
-        "Update": "2023-12-02T01:29:56.8755477-05:00",
-        "Discount": 25.0,
-        "Label": "Torre Gamer Económica Ryzen 5 5600G + 16GB DDR4 + 1TB M2 + 600W + Phanteks"
-      },
-      {
         "Price": 935.00,
         "Features": [],
         "Date": "2023-12-02T00:56:43.2039511-05:00",
         "Update": "2023-12-02T01:29:56.9650234-05:00",
         "Discount": 30.0,
         "Label": "Torre Gamer RX 6650 XT 8GB + Ryzen 5 4600G + 16GB DDR4 + 1TB M2 + 600W"
+      },
+      {
+        "Price": 679.00,
+        "Features": [],
+        "Date": "2023-12-02T00:55:23.5720418-05:00",
+        "Update": "2023-12-02T01:35:29.8234591-05:00",
+        "Discount": 27.0,
+        "Label": "Torre Gamer Económica Ryzen 5 5600G + 16GB DDR4 + 1TB M2 + 600W + Phanteks"
       }
     ]
   },
@@ -257,12 +257,18 @@
         "Label": "Kit Ryzen 5 +8GB DDR4 Disipadas +Disipador +Board B550M Pro"
       },
       {
-        "Price": 324.00,
-        "Features": [],
+        "Price": 325.00,
+        "Features": [
+          "6 Nucleos",
+          "12 Hilos",
+          "2x16",
+          "3200mhz",
+          "Asrock"
+        ],
         "Date": "2023-12-01T19:31:40.6909833-05:00",
-        "Update": "2023-12-01T19:34:12.5874301-05:00",
-        "Discount": 7.0,
-        "Label": "Kit Ryzen 5 4600G + Board ASRock B550M Pro SE + DDR4 16GB 3200mhz"
+        "Update": "2023-12-02T01:34:36.3995111-05:00",
+        "Discount": 6.0,
+        "Label": "Kit Ryzen 5 4600G + Board ASRock B550M Pro SE + DDR4 16GB"
       }
     ],
     "Moderado": [
