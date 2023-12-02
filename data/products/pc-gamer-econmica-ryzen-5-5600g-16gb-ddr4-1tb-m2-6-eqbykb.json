@@ -1,0 +1,22 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-gamer-econmica-ryzen-5-5600g-16gb-ddr4-1tb-m2-6-eqbykb-1.webp",
+    "/images/products/pc-gamer-econmica-ryzen-5-5600g-16gb-ddr4-1tb-m2-6-eqbykb-2.webp",
+    "/images/products/pc-gamer-econmica-ryzen-5-5600g-16gb-ddr4-1tb-m2-6-eqbykb-3.webp",
+    "/images/products/pc-gamer-econmica-ryzen-5-5600g-16gb-ddr4-1tb-m2-6-eqbykb-4.webp",
+    "/images/products/pc-gamer-econmica-ryzen-5-5600g-16gb-ddr4-1tb-m2-6-eqbykb-5.webp",
+    "/images/products/pc-gamer-econmica-ryzen-5-5600g-16gb-ddr4-1tb-m2-6-eqbykb-6.webp",
+    "/images/products/pc-gamer-econmica-ryzen-5-5600g-16gb-ddr4-1tb-m2-6-eqbykb-7.webp",
+    "/images/products/pc-gamer-econmica-ryzen-5-5600g-16gb-ddr4-1tb-m2-6-eqbykb-8.webp",
+    "/images/products/pc-gamer-econmica-ryzen-5-5600g-16gb-ddr4-1tb-m2-6-eqbykb-9.webp"
+  ],
+  "Description": "+ Micro AMD Ryzen 5 5600G +Disipador\n+ Board ASRock B550M Pro SE\n+ RAM DDR4 GeIL ORION RGB 16GB 3600mhz\n+ SSD M.2 - WD Green SN350 960TB\n+ Fuente Apevia Spirit 600W\n+ Chasis Phanteks Eclipse G300A Mesh D-RGB Black\n+ Monitor MSI 24\" MP241C\n+ COMBO Teclado + Mouse Logitech MK360\n",
+  "Price": 953.00,
+  "Features": [],
+  "Date": "2023-12-02T00:56:00.0758346-05:00",
+  "Update": "2023-12-02T01:29:56.9229627-05:00",
+  "Discount": 35.0,
+  "Label": "PC Gamer Económica Ryzen 5 5600G + 16GB DDR4 + 1TB M2 + 600W + MSI 24\""
+}
