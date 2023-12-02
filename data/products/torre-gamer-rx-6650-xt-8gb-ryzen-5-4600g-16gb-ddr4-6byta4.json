@@ -1,0 +1,21 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/torre-gamer-rx-6650-xt-8gb-ryzen-5-4600g-16gb-ddr4-6byta4-1.webp",
+    "/images/products/torre-gamer-rx-6650-xt-8gb-ryzen-5-4600g-16gb-ddr4-6byta4-2.webp",
+    "/images/products/torre-gamer-rx-6650-xt-8gb-ryzen-5-4600g-16gb-ddr4-6byta4-3.webp",
+    "/images/products/torre-gamer-rx-6650-xt-8gb-ryzen-5-4600g-16gb-ddr4-6byta4-4.webp",
+    "/images/products/torre-gamer-rx-6650-xt-8gb-ryzen-5-4600g-16gb-ddr4-6byta4-5.webp",
+    "/images/products/torre-gamer-rx-6650-xt-8gb-ryzen-5-4600g-16gb-ddr4-6byta4-6.webp",
+    "/images/products/torre-gamer-rx-6650-xt-8gb-ryzen-5-4600g-16gb-ddr4-6byta4-7.webp",
+    "/images/products/torre-gamer-rx-6650-xt-8gb-ryzen-5-4600g-16gb-ddr4-6byta4-8.webp"
+  ],
+  "Description": "+ Micro AMD Ryzen 5 4600G\n+ Board ASRock B550M Pro SE\n+ RAM DDR4 GeIL ORION RGB 16GB 3600mhz\n+ SSD M.2 - WD Green SN350 960TB\n+ Tarjeta de Video XFX Speedster Swift 210 RX 6650 XT 8GB\n+ Fuente Apevia Spirit 600W\n+ Chasis Phanteks Eclipse G300A Mesh D-RGB Black\n",
+  "Price": 935.00,
+  "Features": [],
+  "Date": "2023-12-02T00:56:43.2039511-05:00",
+  "Update": "2023-12-02T01:29:56.9650234-05:00",
+  "Discount": 30.0,
+  "Label": "Torre Gamer RX 6650 XT 8GB + Ryzen 5 4600G + 16GB DDR4 + 1TB M2 + 600W"
+}
