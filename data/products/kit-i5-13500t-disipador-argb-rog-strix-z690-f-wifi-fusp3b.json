@@ -1,0 +1,28 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Moderado",
+  "Images": [
+    "/images/products/kit-i5-13500t-disipador-argb-rog-strix-z690-f-wifi-fusp3b-1.webp",
+    "/images/products/kit-i5-13500t-disipador-argb-rog-strix-z690-f-wifi-fusp3b-2.webp",
+    "/images/products/kit-i5-13500t-disipador-argb-rog-strix-z690-f-wifi-fusp3b-3.webp",
+    "/images/products/kit-i5-13500t-disipador-argb-rog-strix-z690-f-wifi-fusp3b-4.webp",
+    "/images/products/kit-i5-13500t-disipador-argb-rog-strix-z690-f-wifi-fusp3b-5.webp",
+    "/images/products/kit-i5-13500t-disipador-argb-rog-strix-z690-f-wifi-fusp3b-6.webp",
+    "/images/products/kit-i5-13500t-disipador-argb-rog-strix-z690-f-wifi-fusp3b-7.webp",
+    "/images/products/kit-i5-13500t-disipador-argb-rog-strix-z690-f-wifi-fusp3b-8.webp",
+    "/images/products/kit-i5-13500t-disipador-argb-rog-strix-z690-f-wifi-fusp3b-9.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-13500T\n+ Disipador ID-COOLING SE-214-XT ARGB Black\n+ Board Asus ROG Strix Z690-F Gaming Wifi\n+ RAM DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz\n",
+  "Price": 679.00,
+  "Features": [
+    "14 Core",
+    "20 Núcleos",
+    "2x16",
+    "6000mhz",
+    "Wifi"
+  ],
+  "Date": "2023-12-03T12:46:37.0148444-05:00",
+  "Update": "2023-12-03T15:39:48.0206301-05:00",
+  "Discount": 11.0,
+  "Label": "Kit i5-13500T + Disipador ARGB + ROG Strix Z690-F Wifi+ DDR5 32GB G.Skill RGB"
+}
