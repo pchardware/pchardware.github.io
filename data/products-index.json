@@ -38,7 +38,7 @@
         "Label": "Torre GTX 1070 8GB + i5-11400 + Z590 Pro Wifi + 16GB DDR4 + 1TB M2 + MasterBox"
       },
       {
-        "Price": 1065.00,
+        "Price": 1067.00,
         "Features": [],
         "Date": "2023-12-01T11:17:12.208186-05:00",
         "Update": "2023-12-01T11:33:17.6982348-05:00",
@@ -208,7 +208,7 @@
         "Label": "Kit Ryzen 5 +8GB DDR4 Disipadas +Disipador +Board B550M Pro"
       },
       {
-        "Price": 325.00,
+        "Price": 327.00,
         "Features": [
           "6 Nucleos",
           "12 Hilos",
@@ -488,22 +488,6 @@
         "Date": "2023-11-24T09:48:48.2432153-05:00",
         "Update": "2023-11-24T11:14:39.0560484-05:00",
         "Label": "HUB EN-Labs Panel Frontal 5.25\" 7xUSB2"
-      },
-      {
-        "Price": 89.00,
-        "Features": [
-          "Magnetic",
-          "120mm",
-          "3xFan",
-          "2000rpm",
-          "58cfm",
-          "30db",
-          "4Pin",
-          "ARGB"
-        ],
-        "Date": "2023-09-02T12:38:22.05203-04:00",
-        "Update": "2023-11-27T09:23:42.4761891-05:00",
-        "Label": "Fan Corsair ML120 RGB Elite, Kit +Lighting Node CORE"
       }
     ],
     "Disco Sólido": [
@@ -2089,7 +2073,7 @@
         "Label": "RAM DDR5 Corsair Dominator Platinum RGB 32GB 5200mhz"
       },
       {
-        "Price": 57.00,
+        "Price": 59.00,
         "Features": [
           "2x8GB",
           "Disipadas",
@@ -2495,22 +2479,6 @@
         "Date": "2023-11-14T14:39:51.7975085-05:00",
         "Update": "2023-11-14T17:41:04.8429718-05:00",
         "Label": "Tarjeta de Video Gigabyte RX 6650 XT Eagle 8GB"
-      },
-      {
-        "Price": 345.00,
-        "Features": [
-          "3xFan",
-          "550WR",
-          "1x8Pin",
-          "280mm",
-          "NVIDIA",
-          "GPU",
-          "Gráfica",
-          "DLSS2"
-        ],
-        "Date": "2023-11-14T14:39:55.4377843-05:00",
-        "Update": "2023-11-14T17:41:04.8581727-05:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 3060 Vision OC 12GB White"
       },
       {
         "Price": 265.00,
