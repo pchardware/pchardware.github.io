@@ -99,6 +99,20 @@
         "Update": "2023-12-02T02:43:41.8481696-05:00",
         "Discount": 10.0,
         "Label": "Kit i7-14700K + Gigabyte Z790 UD AX + G.Skill Trident Z5 RGB 32GB DDR5"
+      },
+      {
+        "Price": 595.00,
+        "Features": [
+          "10 Core",
+          "16 Hilos",
+          "2x16",
+          "6000mhz",
+          "Wifi"
+        ],
+        "Date": "2023-12-03T11:09:06.1898487-05:00",
+        "Update": "2023-12-03T15:39:47.9863171-05:00",
+        "Discount": 8.0,
+        "Label": "Kit i5-12600K + Board Gigabyte Z790 Aorus Elite AX + DDR5 Corsair Vengeance 32GB"
       }
     ],
     "Entusiasta": [
@@ -234,6 +248,20 @@
         "Update": "2023-11-21T08:52:12.8954511-05:00",
         "Discount": 9.0,
         "Label": "Kit 13Gen i5-13500T +Disipador ARGB +Board MSI Pro B760M +8GB RAM Vulcan 3200mhz"
+      },
+      {
+        "Price": 679.00,
+        "Features": [
+          "14 Core",
+          "20 Núcleos",
+          "2x16",
+          "6000mhz",
+          "Wifi"
+        ],
+        "Date": "2023-12-03T12:46:37.0148444-05:00",
+        "Update": "2023-12-03T15:39:48.0206301-05:00",
+        "Discount": 11.0,
+        "Label": "Kit i5-13500T + Disipador ARGB + ROG Strix Z690-F Wifi+ DDR5 32GB G.Skill RGB"
       }
     ]
   },
@@ -623,16 +651,6 @@
         "Label": "SSD M.2 Corsair MP600 PRO LPX 2TB Black"
       },
       {
-        "Price": 67.00,
-        "Features": [
-          "560mbs",
-          "SATA 3"
-        ],
-        "Date": "2023-11-24T09:48:53.7194411-05:00",
-        "Update": "2023-11-24T10:20:53.0434741-05:00",
-        "Label": "SSD 2.5 Acer SA100 490GB"
-      },
-      {
         "Price": 53.00,
         "Features": [
           "560mbs",
@@ -677,6 +695,16 @@
         "Date": "2023-08-01T11:14:15.2077979-04:00",
         "Update": "2023-11-30T14:28:44.9023135-05:00",
         "Label": "SSD 2.5 Samsung 870 EVO 1TB"
+      },
+      {
+        "Price": 67.00,
+        "Features": [
+          "560mbs",
+          "SATA 3"
+        ],
+        "Date": "2023-11-24T09:48:53.7194411-05:00",
+        "Update": "2023-12-03T15:39:47.9521384-05:00",
+        "Label": "SSD 2.5 Acer SA100 960GB"
       }
     ],
     "Fuente": [
