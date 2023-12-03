@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-i5-13500t-disipador-argb-msi-pro-b760m-p-16gb-d-moitwm-1.webp",
+    "/images/products/pc-i5-13500t-disipador-argb-msi-pro-b760m-p-16gb-d-moitwm-2.webp",
+    "/images/products/pc-i5-13500t-disipador-argb-msi-pro-b760m-p-16gb-d-moitwm-3.webp",
+    "/images/products/pc-i5-13500t-disipador-argb-msi-pro-b760m-p-16gb-d-moitwm-4.webp",
+    "/images/products/pc-i5-13500t-disipador-argb-msi-pro-b760m-p-16gb-d-moitwm-5.webp",
+    "/images/products/pc-i5-13500t-disipador-argb-msi-pro-b760m-p-16gb-d-moitwm-6.webp",
+    "/images/products/pc-i5-13500t-disipador-argb-msi-pro-b760m-p-16gb-d-moitwm-7.webp",
+    "/images/products/pc-i5-13500t-disipador-argb-msi-pro-b760m-p-16gb-d-moitwm-8.webp",
+    "/images/products/pc-i5-13500t-disipador-argb-msi-pro-b760m-p-16gb-d-moitwm-9.webp",
+    "/images/products/pc-i5-13500t-disipador-argb-msi-pro-b760m-p-16gb-d-moitwm-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-13500T\n+ Disipador ID-COOLING SE-214-XT ARGB Black\n+ Board MSI Pro B760M-P DDR4\n+ RAM DDR4 Corsair Vengeance RGB RT 16GB 3600mhz\n+ SSD M.2 Intel 670P 2TB\n+ Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X\n+ Fuente Raidmax Vortex 600W RX-600AC-V\n+ Chasis Phanteks Eclipse G300A Mesh D-RGB Black\n+ Monitor MSI 24\" MP241C\n+ COMBO Teclado + Mouse Rosewill Fusion C40\n",
+  "Price": 1385.00,
+  "Features": [],
+  "Date": "2023-12-03T16:57:19.1119576-05:00",
+  "Update": "2023-12-03T18:09:57.8926718-05:00",
+  "Discount": 41.0,
+  "Label": "PC i5-13500T + Disipador ARGB + MSI Pro B760M-P + 16GB DDR4 + 600W + 24\" MSI"
+}
