@@ -8,6 +8,22 @@
         "Update": "2023-11-28T04:25:36.8276446-05:00",
         "Discount": 65.0,
         "Label": "PC Gamer RTX 4080 16GB + i9-13900K + 32GB DDR5 + 2TB SSDM2 + Monitor 27\" y Más"
+      },
+      {
+        "Price": 1215.00,
+        "Features": [],
+        "Date": "2023-12-03T16:51:42.889922-05:00",
+        "Update": "2023-12-03T18:06:16.858065-05:00",
+        "Discount": 38.0,
+        "Label": "PC GTX 1070 8GB + i5-11400 + MSI Z590 Pro Wifi + 16GB DDR4 + 600W + 500GB SSD"
+      },
+      {
+        "Price": 1385.00,
+        "Features": [],
+        "Date": "2023-12-03T16:57:19.1119576-05:00",
+        "Update": "2023-12-03T18:06:16.8926197-05:00",
+        "Discount": 41.0,
+        "Label": "PC i5-13500T + Disipador ARGB + MSI Pro B760M-P + 16GB DDR4 + 600W"
       }
     ]
   },
@@ -60,6 +76,22 @@
         "Update": "2023-12-03T16:35:29.3031497-05:00",
         "Discount": 40.0,
         "Label": "Torre Gamer RTX 4060 Ti 8GB + i7-13700K + MasterLiquid 360L + Z790 Aorus Elite"
+      },
+      {
+        "Price": 945.00,
+        "Features": [],
+        "Date": "2023-12-03T16:51:01.5137142-05:00",
+        "Update": "2023-12-03T18:06:16.8322054-05:00",
+        "Discount": 24.0,
+        "Label": "Torre GTX 1070 8GB + i5-11400 + MSI Z590 Pro Wifi CEC + 16GB DDR4 Corsair + 600W"
+      },
+      {
+        "Price": 1039.00,
+        "Features": [],
+        "Date": "2023-12-03T16:53:05.2567445-05:00",
+        "Update": "2023-12-03T18:06:16.8760907-05:00",
+        "Discount": 33.0,
+        "Label": "Torre GTX 1070 8GB + i5-13500T + Disipador ARGB + MSI Pro B760M-P + 16GB DDR4"
       }
     ]
   },
@@ -121,6 +153,21 @@
         "Update": "2023-12-03T15:39:47.9863171-05:00",
         "Discount": 8.0,
         "Label": "Kit i5-12600K + Board Gigabyte Z790 Aorus Elite AX + DDR5 Corsair Vengeance 32GB"
+      },
+      {
+        "Price": 559.00,
+        "Features": [
+          "12va Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "6200mhz",
+          "2x16"
+        ],
+        "Date": "2023-12-03T16:44:54.2642136-05:00",
+        "Update": "2023-12-03T18:06:16.7693712-05:00",
+        "Discount": 8.0,
+        "Label": "Kit i5-12600K + Gigabyte Z790 UD AX + 32GB DDR5 Patriot Viper Venom"
       }
     ],
     "Entusiasta": [
@@ -270,6 +317,53 @@
         "Update": "2023-12-03T15:39:48.0206301-05:00",
         "Discount": 11.0,
         "Label": "Kit i5-13500T + Disipador ARGB + ROG Strix Z690-F Wifi+ DDR5 32GB G.Skill RGB"
+      },
+      {
+        "Price": 535.00,
+        "Features": [
+          "12va Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "6200mhz",
+          "2x16"
+        ],
+        "Date": "2023-12-03T16:43:49.7233419-05:00",
+        "Update": "2023-12-03T18:06:16.7501581-05:00",
+        "Discount": 13.0,
+        "Label": "Kit i5-12600K + Disipador ARGB + Asus B660 + 16GB DDR4 Corsair Vengeance RGB"
+      },
+      {
+        "Price": 445.00,
+        "Features": [
+          "11na Gen",
+          "12 Hilos",
+          "6 Cores",
+          "4.4GHz",
+          "2x8GB",
+          "Disipadas",
+          "CL16"
+        ],
+        "Date": "2023-12-03T16:45:45.1996804-05:00",
+        "Update": "2023-12-03T18:06:16.7884202-05:00",
+        "Discount": 8.0,
+        "Label": "Kit i5-11400 +Disipador + MSI Z590 Pro Wifi CEC + 16GB DDR4 Corsair RGB"
+      },
+      {
+        "Price": 529.00,
+        "Features": [
+          "11na Gen",
+          "12 Hilos",
+          "6 Cores",
+          "4.4GHz",
+          "2x8GB",
+          "Disipadas",
+          "CL16"
+        ],
+        "Date": "2023-12-03T16:49:12.5609922-05:00",
+        "Update": "2023-12-03T18:06:16.8075183-05:00",
+        "Discount": 15.0,
+        "Label": "Kit i5-11400 + MSI Z590 Pro Wifi CEC + 16GB DDR4 RGB + SSD M.2 2TB"
       }
     ]
   },
