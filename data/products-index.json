@@ -160,6 +160,22 @@
         "Update": "2023-12-03T18:06:16.7693712-05:00",
         "Discount": 8.0,
         "Label": "Kit i5-12600K + Gigabyte Z790 UD AX + 32GB DDR5 Patriot Viper Venom"
+      },
+      {
+        "Price": 943.00,
+        "Features": [
+          "32 Hilos",
+          "5.7GHz",
+          "Wifi",
+          "6000mhz",
+          "9xUSB",
+          "Dual Channel",
+          "2x16GB"
+        ],
+        "Date": "2023-10-12T12:29:08.0744086-04:00",
+        "Update": "2023-12-04T16:09:51.4675821-05:00",
+        "Discount": 10.0,
+        "Label": "Kit i9-13900K +Board Gigabyte Z790 + 32GB DDR5 G.Skill"
       }
     ],
     "Entusiasta": [
@@ -787,6 +803,31 @@
         "Date": "2023-11-24T09:48:53.7194411-05:00",
         "Update": "2023-12-03T15:39:47.9521384-05:00",
         "Label": "SSD 2.5 Acer SA100 960GB"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "7400mbs",
+          "PCIe 4",
+          "1450tbw",
+          "NVMe"
+        ],
+        "Date": "2023-09-23T17:40:17.7101762-04:00",
+        "Update": "2023-12-04T16:09:51.4149498-05:00",
+        "Label": "SSD M.2 Team Group MP44 1TB"
+      },
+      {
+        "Price": 83.00,
+        "Features": [
+          "7000mbps",
+          "HeatSink",
+          "700tbw",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-10-02T14:29:40.7946679-04:00",
+        "Update": "2023-12-04T16:09:51.4397463-05:00",
+        "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 1TB"
       }
     ],
     "Fuente": [
@@ -1514,6 +1555,16 @@
         "Date": "2023-10-02T14:29:17.3385611-04:00",
         "Update": "2023-10-02T15:13:13.7065447-04:00",
         "Label": "HDD 3.5 WD 14TB HC530 Recertified"
+      },
+      {
+        "Price": 55.00,
+        "Features": [
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-06-29T07:38:17.9677885-04:00",
+        "Update": "2023-12-04T16:09:51.4025294-05:00",
+        "Label": "HDD 3.5 Seagate Desktop 1TB"
       }
     ],
     "Chasis": [
@@ -2423,6 +2474,17 @@
         "Date": "2023-11-30T11:21:51.4573961-05:00",
         "Update": "2023-11-30T14:11:17.7515035-05:00",
         "Label": "RAM DDR4 CORSAIR Vengeance RGB Pro 32GB"
+      },
+      {
+        "Price": 105.00,
+        "Features": [
+          "2x16GB",
+          "Disipadas",
+          "CL36"
+        ],
+        "Date": "2023-10-09T15:59:22.4913756-04:00",
+        "Update": "2023-12-04T16:09:51.4524889-05:00",
+        "Label": "RAM DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2782,6 +2844,39 @@
         "Date": "2023-11-30T11:20:46.1214692-05:00",
         "Update": "2023-11-30T14:11:17.6799545-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Ti WindForce OC 8GB"
+      },
+      {
+        "Price": 465.00,
+        "Features": [
+          "3xFan",
+          "DLSS3",
+          "500WR",
+          "1x8Pin",
+          "281mm",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-10-03T06:56:18.8836302-04:00",
+        "Update": "2023-12-04T16:09:51.4271346-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4060 Ti Gaming OC 8GB"
+      },
+      {
+        "Price": 385.00,
+        "Features": [
+          "DLSS3",
+          "2xFan",
+          "1x8Pin",
+          "450WR",
+          "272mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-18T08:41:47.9392507-05:00",
+        "Update": "2023-12-04T16:09:51.4797778-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4060 Eagle OC 8GB"
       }
     ],
     "Board": [
@@ -4102,6 +4197,17 @@
         "Date": "2023-11-18T08:41:57.2185659-05:00",
         "Update": "2023-11-18T09:38:43.2247793-05:00",
         "Label": "Caja Externo 2.5 ORICO USB 3.0 PDD25PW1-U3"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "2.5",
+          "3.5",
+          "USB3"
+        ],
+        "Date": "2023-10-18T06:47:28.3292927-04:00",
+        "Update": "2023-12-04T16:09:51.4924274-05:00",
+        "Label": "Docking NEXIN 1xBay NEX-DS1U3"
       }
     ],
     "Auriculares": [
