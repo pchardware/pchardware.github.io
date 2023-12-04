@@ -1798,6 +1798,20 @@
         "Date": "2023-12-04T16:22:01.2672974-05:00",
         "Update": "2023-12-04T17:32:00.8960786-05:00",
         "Label": "Acasis Weastlinks 8xSATA [AC-PE012]"
+      },
+      {
+        "Price": 38.00,
+        "Features": [
+          "PCIe",
+          "Wifi",
+          "Dual Band",
+          "Bluetooth 4.0",
+          "2.4 GHz",
+          "5 GHz"
+        ],
+        "Date": "2023-12-04T17:33:10.8492635-05:00",
+        "Update": "2023-12-04T17:36:25.1605369-05:00",
+        "Label": "Fenvi Wireless 1200 [FV-AC1200]"
       }
     ],
     "Disipador por Aire": [
