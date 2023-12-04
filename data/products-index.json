@@ -1152,6 +1152,40 @@
         "Date": "2023-06-07T13:43:20.159516-04:00",
         "Update": "2023-11-27T09:23:42.4303768-05:00",
         "Label": "Fuente Corsair RM850e 850W"
+      },
+      {
+        "Price": 225.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "x6 Rails",
+          "1 x 8+4 Pin",
+          "1 x 8 pin",
+          "10 x Peripheral",
+          "14 x SATA",
+          "8 x PCI-E",
+          "ATX",
+          "PSU"
+        ],
+        "Date": "2023-12-04T16:20:55.8266367-05:00",
+        "Update": "2023-12-04T17:32:00.7935515-05:00",
+        "Label": "Fuente Enermax MaxRevo 1350W [EMR1350EWT]"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "80+ Gold",
+          "62A",
+          "Full Modular",
+          "2 x 8 (4+4)",
+          "6 x 8 (6+2)",
+          "9 x SATA",
+          "ATX",
+          "PSU"
+        ],
+        "Date": "2023-12-04T16:21:07.1228065-05:00",
+        "Update": "2023-12-04T17:32:00.8058179-05:00",
+        "Label": "Fuente EVGA SuperNova 750 G5"
       }
     ],
     "Disipador Líquido": [
@@ -1752,6 +1786,18 @@
         "Date": "2023-10-13T09:28:37.8953004-04:00",
         "Update": "2023-11-27T09:23:42.417773-05:00",
         "Label": "Expansión Derapid Wifi AC1200 Dual Band + Bluetooth"
+      },
+      {
+        "Price": 59.00,
+        "Features": [
+          "x6 SATA3",
+          "Interno",
+          "6Gb/s",
+          "PCIe"
+        ],
+        "Date": "2023-12-04T16:22:01.2672974-05:00",
+        "Update": "2023-12-04T17:32:00.8960786-05:00",
+        "Label": "Acasis Weastlinks 8xSATA [AC-PE012]"
       }
     ],
     "Disipador por Aire": [
@@ -2670,21 +2716,6 @@
         "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
       },
       {
-        "Price": 339.00,
-        "Features": [
-          "3xFan",
-          "2x8Pin",
-          "650WR",
-          "304mm",
-          "Radeon",
-          "AMD",
-          "GPU"
-        ],
-        "Date": "2023-07-26T16:40:52.2609256-04:00",
-        "Update": "2023-11-19T11:13:03.7392788-05:00",
-        "Label": "XFX Swft 309 RX 6700 10GB"
-      },
-      {
         "Price": 435.00,
         "Features": [
           "DLSS3",
@@ -2877,6 +2908,37 @@
         "Date": "2023-11-18T08:41:47.9392507-05:00",
         "Update": "2023-12-04T16:09:51.4797778-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Eagle OC 8GB"
+      },
+      {
+        "Price": 339.00,
+        "Features": [
+          "3xFan",
+          "2x8Pin",
+          "650WR",
+          "304mm",
+          "Radeon",
+          "AMD",
+          "GPU"
+        ],
+        "Date": "2023-07-26T16:40:52.2609256-04:00",
+        "Update": "2023-12-04T17:32:00.7419926-05:00",
+        "Label": "Tarjeta de Video XFX Swft 309 RX 6700 10GB"
+      },
+      {
+        "Price": 205.00,
+        "Features": [
+          "2xFan",
+          "6GB",
+          "450WR",
+          "8-Pin",
+          "226 mm",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-12-04T16:21:50.827052-05:00",
+        "Update": "2023-12-04T17:32:00.8571877-05:00",
+        "Label": "Tarjeta de Video GPU Gigabyte GTX 1660Ti 6GB"
       }
     ],
     "Board": [
@@ -3149,6 +3211,22 @@
         "Date": "2023-10-11T10:56:39.5272184-04:00",
         "Update": "2023-11-30T14:28:44.8864297-05:00",
         "Label": "Board ASRock B550M Pro SE"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "12va-13ra-14va",
+          "DDR4",
+          "5000mhz",
+          "LGA 1700",
+          "x8 USB",
+          "x4 SATA",
+          "ATX",
+          "RGB"
+        ],
+        "Date": "2023-12-04T16:21:54.4596991-05:00",
+        "Update": "2023-12-04T17:32:00.8763245-05:00",
+        "Label": "Board ASRock Z690 Phantom Gaming 4 DDR4"
       }
     ]
   },
@@ -3910,6 +3988,42 @@
         "Date": "2023-11-27T09:55:23.0763877-05:00",
         "Update": "2023-11-27T11:57:06.2682569-05:00",
         "Label": "Webcam Microsoft LifeCam Studio"
+      },
+      {
+        "Price": 93.00,
+        "Features": [
+          "1920 x 1080",
+          "30 fps",
+          "Auto-focus",
+          "90 degree",
+          "USB"
+        ],
+        "Date": "2023-12-04T16:20:42.8197797-05:00",
+        "Update": "2023-12-04T17:32:00.7545015-05:00",
+        "Label": "Webcam Logitech C930e"
+      },
+      {
+        "Price": 87.00,
+        "Features": [
+          "1080p",
+          "Auto focus",
+          "Stereo audio",
+          "Micrófono",
+          "USB"
+        ],
+        "Date": "2023-12-04T16:20:45.9477091-05:00",
+        "Update": "2023-12-04T17:32:00.7665241-05:00",
+        "Label": "Webcam Logitech C920 HD Pro"
+      },
+      {
+        "Price": 77.00,
+        "Features": [
+          "1080p",
+          "30fps"
+        ],
+        "Date": "2023-12-04T16:20:49.8992277-05:00",
+        "Update": "2023-12-04T17:32:00.7807129-05:00",
+        "Label": "Webcam Logitech Brio [960-001593]"
       }
     ],
     "Adaptador": [
@@ -4009,6 +4123,20 @@
         "Date": "2023-11-03T12:22:45.5376533-04:00",
         "Update": "2023-11-24T11:14:38.9904937-05:00",
         "Label": "Cable Omni Gear USB 3.0 Extender 0.9m"
+      },
+      {
+        "Price": 6.00,
+        "Features": [],
+        "Date": "2023-12-04T16:21:19.8112801-05:00",
+        "Update": "2023-12-04T17:32:00.8179354-05:00",
+        "Label": "Cable - SATA a 2xSATA"
+      },
+      {
+        "Price": 4.00,
+        "Features": [],
+        "Date": "2023-12-04T16:21:23.4675923-05:00",
+        "Update": "2023-12-04T17:32:00.8329976-05:00",
+        "Label": "Cable - SATA a Molex"
       }
     ],
     "Monitor": [
