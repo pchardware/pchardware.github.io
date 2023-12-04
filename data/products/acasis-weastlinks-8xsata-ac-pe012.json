@@ -1,0 +1,24 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Red",
+  "Images": [
+    "/images/products/acasis-weastlinks-8xsata-ac-pe012-1.webp",
+    "/images/products/acasis-weastlinks-8xsata-ac-pe012-2.webp",
+    "/images/products/acasis-weastlinks-8xsata-ac-pe012-3.webp",
+    "/images/products/acasis-weastlinks-8xsata-ac-pe012-4.webp",
+    "/images/products/acasis-weastlinks-8xsata-ac-pe012-5.webp",
+    "/images/products/acasis-weastlinks-8xsata-ac-pe012-6.webp",
+    "/images/products/acasis-weastlinks-8xsata-ac-pe012-7.webp"
+  ],
+  "Description": "Details\nType: PCI Express to SATA Card\nExternal USB Ports: 1x SATAIII",
+  "Price": 59.00,
+  "Features": [
+    "x6 SATA3",
+    "Interno",
+    "6Gb/s",
+    "PCIe"
+  ],
+  "Date": "2023-12-04T16:22:01.2672974-05:00",
+  "Update": "2023-12-04T17:32:00.8960786-05:00",
+  "Label": "Acasis Weastlinks 8xSATA [AC-PE012]"
+}
