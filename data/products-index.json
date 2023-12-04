@@ -62,14 +62,6 @@
         "Label": "Torre RX 6600 + i5 13 Gen + MSI Pro B760M-P + 16GB DDR4 + 1TB SSD M2 + Phanteks"
       },
       {
-        "Price": 1799.00,
-        "Features": [],
-        "Date": "2023-12-01T11:22:42.8722477-05:00",
-        "Update": "2023-12-02T16:06:26.2299575-05:00",
-        "Discount": 35.0,
-        "Label": "Torre RX 7700 XT 12GB + Ryzen 5 5600X + Liquida Asus ROG + TUF B650-Plus Wifi"
-      },
-      {
         "Price": 2083.00,
         "Features": [],
         "Date": "2023-12-03T16:33:35.2808213-05:00",
@@ -725,18 +717,6 @@
         "Date": "2023-07-12T21:43:06.2525927-04:00",
         "Update": "2023-11-07T21:26:53.3840028-05:00",
         "Label": "SSD M.2 Samsung 980 PRO 1TB"
-      },
-      {
-        "Price": 99.00,
-        "Features": [
-          "7000mbs",
-          "HeatSink",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-05-11T14:03:36.5510535-04:00",
-        "Update": "2023-11-07T21:26:53.3944334-05:00",
-        "Label": "SSD M.2 Samsung 980 PRO 1TB +Heatsink"
       },
       {
         "Price": 145.00,
@@ -3787,7 +3767,7 @@
         "Label": "Webcam Asus C3 1080p"
       },
       {
-        "Price": 61.00,
+        "Price": 59.00,
         "Features": [
           "USB",
           "3mp",
@@ -3800,7 +3780,7 @@
         "Label": "Webcam Logitech C270 HD"
       },
       {
-        "Price": 99.00,
+        "Price": 89.00,
         "Features": [
           "1080p",
           "Autofocus",
@@ -4081,23 +4061,6 @@
         "Date": "2023-11-24T09:48:56.279126-05:00",
         "Update": "2023-11-24T10:20:53.064756-05:00",
         "Label": "Monitor Acer Nitro 27\" XV275U"
-      },
-      {
-        "Price": 465.00,
-        "Features": [
-          "4K",
-          "28\"",
-          "IPS",
-          "Flat",
-          "1ms",
-          "HDR400",
-          "1 x DisplayPort",
-          "2 x HDMI",
-          "FreeSync"
-        ],
-        "Date": "2023-11-30T11:22:03.7379345-05:00",
-        "Update": "2023-11-30T14:11:17.768511-05:00",
-        "Label": "Monitor MSI 28UHD [G281UV]"
       },
       {
         "Price": 209.00,
