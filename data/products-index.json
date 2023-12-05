@@ -1273,17 +1273,17 @@
           "80+ Gold",
           "Full Modular",
           "x6 Rails",
-          "1 x 8+4 Pin",
-          "1 x 8 pin",
-          "10 x Peripheral",
-          "14 x SATA",
-          "8 x PCI-E",
+          "1x 8+4Pin",
+          "1x 8pin",
+          "10x Peripheral",
+          "14x SATA",
+          "8x PCI-E",
           "ATX",
           "PSU"
         ],
         "Date": "2023-12-04T16:20:55.8266367-05:00",
-        "Update": "2023-12-04T17:32:00.7935515-05:00",
-        "Label": "Fuente Enermax MaxRevo 1350W [EMR1350EWT]"
+        "Update": "2023-12-05T16:42:29.9019589-05:00",
+        "Label": "Fuente Enermax MaxRevo 1350W"
       },
       {
         "Price": 165.00,
@@ -1291,14 +1291,14 @@
           "80+ Gold",
           "62A",
           "Full Modular",
-          "2 x 8 (4+4)",
-          "6 x 8 (6+2)",
-          "9 x SATA",
+          "2x 4+4Pin",
+          "6x 6+2Pin",
+          "9x SATA",
           "ATX",
           "PSU"
         ],
         "Date": "2023-12-04T16:21:07.1228065-05:00",
-        "Update": "2023-12-04T17:32:00.8058179-05:00",
+        "Update": "2023-12-05T16:42:29.931201-05:00",
         "Label": "Fuente EVGA SuperNova 750 G5"
       }
     ],
@@ -1910,8 +1910,8 @@
           "PCIe"
         ],
         "Date": "2023-12-04T16:22:01.2672974-05:00",
-        "Update": "2023-12-04T17:32:00.8960786-05:00",
-        "Label": "Acasis Weastlinks 8xSATA [AC-PE012]"
+        "Update": "2023-12-05T16:42:30.0981156-05:00",
+        "Label": "Acasis Weastlinks 8xSATA AC-PE012"
       },
       {
         "Price": 38.00,
@@ -1924,8 +1924,8 @@
           "5 GHz"
         ],
         "Date": "2023-12-04T17:33:10.8492635-05:00",
-        "Update": "2023-12-04T17:36:25.1605369-05:00",
-        "Label": "Fenvi Wireless 1200 [FV-AC1200]"
+        "Update": "2023-12-05T16:42:30.1541134-05:00",
+        "Label": "Fenvi Wireless 1200 FV-AC1200"
       }
     ],
     "Disipador por Aire": [
@@ -2326,22 +2326,6 @@
         "Label": "Micro Intel Core i7-13700K"
       },
       {
-        "Price": 189.00,
-        "Features": [
-          "AM4",
-          "6 Core",
-          "12 Hilos",
-          "DDR4",
-          "4.6GHz",
-          "Unlocked",
-          "Serie 5000",
-          "CPU"
-        ],
-        "Date": "2023-11-30T11:20:49.6412308-05:00",
-        "Update": "2023-11-30T14:11:17.700083-05:00",
-        "Label": "CPU AMD Ryzen 5 5600X"
-      },
-      {
         "Price": 379.00,
         "Features": [
           "14va Gen",
@@ -2357,24 +2341,6 @@
         "Date": "2023-11-30T11:21:40.9533793-05:00",
         "Update": "2023-11-30T14:11:17.7334197-05:00",
         "Label": "CPU Intel Core i5-14600K"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "Radeon Graphics",
-          "AM4",
-          "6 Core",
-          "12 Hilos",
-          "DDR4",
-          "L3 Cache: 8MB",
-          "3.7 GHz",
-          "65W",
-          "Serie 4000",
-          "CPU"
-        ],
-        "Date": "2023-11-30T11:22:08.4493566-05:00",
-        "Update": "2023-11-30T14:11:17.7826388-05:00",
-        "Label": "Micro AMD Ryzen 5 4600G"
       },
       {
         "Price": 175.00,
@@ -2393,6 +2359,40 @@
         "Date": "2023-10-13T09:28:27.261681-04:00",
         "Update": "2023-11-30T14:28:44.8359745-05:00",
         "Label": "Micro AMD Ryzen 5 5600G +Disipador"
+      },
+      {
+        "Price": 189.00,
+        "Features": [
+          "AM4",
+          "6 Core",
+          "12 Hilos",
+          "DDR4",
+          "4.6GHz",
+          "Unlocked",
+          "Serie 5000",
+          "CPU"
+        ],
+        "Date": "2023-11-30T11:20:49.6412308-05:00",
+        "Update": "2023-12-05T16:42:29.8142126-05:00",
+        "Label": "CPU AMD Ryzen 5 5600X +Disipador"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "Radeon Graphics",
+          "AM4",
+          "6 Core",
+          "12 Hilos",
+          "DDR4",
+          "L3 Cache: 8MB",
+          "3.7 GHz",
+          "65W",
+          "Serie 4000",
+          "CPU"
+        ],
+        "Date": "2023-11-30T11:22:08.4493566-05:00",
+        "Update": "2023-12-05T16:42:29.8446795-05:00",
+        "Label": "Micro AMD Ryzen 5 4600G +Disipador"
       }
     ],
     "Memoria RAM": [
@@ -4139,8 +4139,8 @@
           "30fps"
         ],
         "Date": "2023-12-04T16:20:49.8992277-05:00",
-        "Update": "2023-12-04T17:32:00.7807129-05:00",
-        "Label": "Webcam Logitech Brio [960-001593]"
+        "Update": "2023-12-05T16:42:29.8730991-05:00",
+        "Label": "Webcam Logitech Brio 1080p"
       }
     ],
     "Adaptador": [
@@ -4245,15 +4245,15 @@
         "Price": 6.00,
         "Features": [],
         "Date": "2023-12-04T16:21:19.8112801-05:00",
-        "Update": "2023-12-04T17:32:00.8179354-05:00",
-        "Label": "Cable - SATA a 2xSATA"
+        "Update": "2023-12-05T16:42:29.9802402-05:00",
+        "Label": "Cable SATA a 2xSATA"
       },
       {
         "Price": 4.00,
         "Features": [],
         "Date": "2023-12-04T16:21:23.4675923-05:00",
-        "Update": "2023-12-04T17:32:00.8329976-05:00",
-        "Label": "Cable - SATA a Molex"
+        "Update": "2023-12-05T16:42:30.0430541-05:00",
+        "Label": "Cable SATA a Molex"
       }
     ],
     "Monitor": [
