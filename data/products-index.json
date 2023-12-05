@@ -176,6 +176,38 @@
         "Update": "2023-12-04T16:09:51.4675821-05:00",
         "Discount": 10.0,
         "Label": "Kit i9-13900K +Board Gigabyte Z790 + 32GB DDR5 G.Skill"
+      },
+      {
+        "Price": 649.00,
+        "Features": [
+          "12 Core",
+          "24 Hilos",
+          "5.6Ghz",
+          "x6 USB",
+          "Wifi",
+          "ATX"
+        ],
+        "Date": "2023-12-05T10:29:22.8597228-05:00",
+        "Update": "2023-12-05T10:55:15.8564547-05:00",
+        "Discount": 10.0,
+        "Label": "Kit Ryzen 9 7900X + Disipador + Asus TUF Gaming B650-Plus Wifi"
+      },
+      {
+        "Price": 805.00,
+        "Features": [
+          "12 Core",
+          "24 Hilos",
+          "5.6Ghz",
+          "2x16",
+          "6200mhz",
+          "x6 USB",
+          "Wifi",
+          "ATX"
+        ],
+        "Date": "2023-12-05T10:30:22.148851-05:00",
+        "Update": "2023-12-05T10:55:15.8900467-05:00",
+        "Discount": 13.0,
+        "Label": "Kit Ryzen 9 7900X + Disipador + Asus TUF Gaming B650-Plus + 32GB DDR5"
       }
     ],
     "Entusiasta": [
