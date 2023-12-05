@@ -532,13 +532,6 @@
         "Label": "Cable EnLabs 1-to-5 3Pins Addressable RGB Splitter Y Cable"
       },
       {
-        "Price": 18.00,
-        "Features": [],
-        "Date": "2023-07-17T23:39:12.7295429-04:00",
-        "Update": "2023-07-18T00:35:15.536536-04:00",
-        "Label": "EN-Labs GEKE PWM 4-pin Fan Hub 10 Ports Splitter"
-      },
-      {
         "Price": 13.0,
         "Features": [
           "Mining",
@@ -728,18 +721,37 @@
         "Label": "Expansión Orico 7xUSB 3.0"
       },
       {
+        "Price": 18.00,
+        "Features": [],
+        "Date": "2023-07-17T23:39:12.7295429-04:00",
+        "Update": "2023-12-05T17:03:39.2459224-05:00",
+        "Label": "EN-Labs GEKE PWM 4-pin Fan Hub 10 Ports Splitter"
+      },
+      {
         "Price": 53.00,
         "Features": [],
         "Date": "2023-11-24T09:48:43.307434-05:00",
-        "Update": "2023-11-24T11:14:39.0245337-05:00",
+        "Update": "2023-12-05T17:03:39.2952945-05:00",
         "Label": "HUB EN-Labs Panel Frontal 5.25\" 7xUSB3"
       },
       {
         "Price": 39.00,
         "Features": [],
         "Date": "2023-11-24T09:48:48.2432153-05:00",
-        "Update": "2023-11-24T11:14:39.0560484-05:00",
+        "Update": "2023-12-05T17:03:39.3086717-05:00",
         "Label": "HUB EN-Labs Panel Frontal 5.25\" 7xUSB2"
+      },
+      {
+        "Price": 59.00,
+        "Features": [
+          "x6 SATA3",
+          "Interno",
+          "6Gb/s",
+          "PCIe"
+        ],
+        "Date": "2023-12-04T16:22:01.2672974-05:00",
+        "Update": "2023-12-05T17:03:39.3478758-05:00",
+        "Label": "Acasis Weastlinks 8xSATA"
       }
     ],
     "Disco Sólido": [
@@ -1866,68 +1878,6 @@
         "Label": "Chasis Cooler Master MasterBox MB511"
       }
     ],
-    "Red": [
-      {
-        "Price": 19.00,
-        "Features": [
-          "PCIe x1",
-          "300Mbps",
-          "2.4GHz"
-        ],
-        "Date": "2023-06-07T15:04:18.9988293-04:00",
-        "Update": "2023-08-01T18:30:20.3509442-04:00",
-        "Label": "TP-Link Wifi Adapter 300N"
-      },
-      {
-        "Price": 29.00,
-        "Features": [
-          "PCIe x1"
-        ],
-        "Date": "2023-06-07T15:04:12.3798994-04:00",
-        "Update": "2023-11-27T09:23:42.4050362-05:00",
-        "Label": "Gigabyte PCIe Expansion Card Bluetooth y WiFi"
-      },
-      {
-        "Price": 37.00,
-        "Features": [
-          "1200Mbps",
-          "PCIe x1",
-          "2.4Ghz",
-          "5Ghz",
-          "Interna",
-          "Adaptador"
-        ],
-        "Date": "2023-10-13T09:28:37.8953004-04:00",
-        "Update": "2023-11-27T09:23:42.417773-05:00",
-        "Label": "Expansión Derapid Wifi AC1200 Dual Band + Bluetooth"
-      },
-      {
-        "Price": 59.00,
-        "Features": [
-          "x6 SATA3",
-          "Interno",
-          "6Gb/s",
-          "PCIe"
-        ],
-        "Date": "2023-12-04T16:22:01.2672974-05:00",
-        "Update": "2023-12-05T16:42:30.0981156-05:00",
-        "Label": "Acasis Weastlinks 8xSATA AC-PE012"
-      },
-      {
-        "Price": 38.00,
-        "Features": [
-          "PCIe",
-          "Wifi",
-          "Dual Band",
-          "Bluetooth 4.0",
-          "2.4 GHz",
-          "5 GHz"
-        ],
-        "Date": "2023-12-04T17:33:10.8492635-05:00",
-        "Update": "2023-12-05T16:42:30.1541134-05:00",
-        "Label": "Fenvi Wireless 1200 FV-AC1200"
-      }
-    ],
     "Disipador por Aire": [
       {
         "Price": 9.00,
@@ -2259,22 +2209,6 @@
         "Label": "Micro Intel Core i9-13900K"
       },
       {
-        "Price": 145.00,
-        "Features": [
-          "13ra Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.5GHz",
-          "12MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-11-03T12:23:09.4506592-04:00",
-        "Update": "2023-11-18T10:38:41.5668864-05:00",
-        "Label": "Micro Intel Core i3-13100F +Disipador"
-      },
-      {
         "Price": 365.00,
         "Features": [
           "12va Gen",
@@ -2393,6 +2327,22 @@
         "Date": "2023-11-30T11:22:08.4493566-05:00",
         "Update": "2023-12-05T16:42:29.8446795-05:00",
         "Label": "Micro AMD Ryzen 5 4600G +Disipador"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "13ra Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.5GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-11-03T12:23:09.4506592-04:00",
+        "Update": "2023-12-05T17:05:08.1691389-05:00",
+        "Label": "Micro Intel Core i3-13100F +Disipador"
       }
     ],
     "Memoria RAM": [
@@ -3345,6 +3295,59 @@
         "Update": "2023-12-04T17:32:00.8763245-05:00",
         "Label": "Board ASRock Z690 Phantom Gaming 4 DDR4"
       }
+    ],
+    "Red": [
+      {
+        "Price": 19.00,
+        "Features": [
+          "PCIe x1",
+          "300Mbps",
+          "2.4GHz"
+        ],
+        "Date": "2023-06-07T15:04:18.9988293-04:00",
+        "Update": "2023-12-05T17:03:39.2740485-05:00",
+        "Label": "TP-Link Wifi Adapter 300N"
+      },
+      {
+        "Price": 29.00,
+        "Features": [
+          "PCIe x1",
+          "433 Mbps",
+          "interna",
+          "Adaptador"
+        ],
+        "Date": "2023-06-07T15:04:12.3798994-04:00",
+        "Update": "2023-12-05T17:03:39.3218991-05:00",
+        "Label": "Gigabyte PCIe Expansion Card Bluetooth y WiFi"
+      },
+      {
+        "Price": 37.00,
+        "Features": [
+          "1200Mbps",
+          "PCIe x1",
+          "2.4Ghz",
+          "5Ghz",
+          "Interna",
+          "Adaptador"
+        ],
+        "Date": "2023-10-13T09:28:37.8953004-04:00",
+        "Update": "2023-12-05T17:03:39.3347305-05:00",
+        "Label": "Expansión Derapid Wifi AC1200 Dual Band + Bluetooth"
+      },
+      {
+        "Price": 38.00,
+        "Features": [
+          "1200Mbps",
+          "PCIe x1",
+          "Interna",
+          "2.4GHz",
+          "5GHz",
+          "Adaptador"
+        ],
+        "Date": "2023-12-04T17:33:10.8492635-05:00",
+        "Update": "2023-12-05T17:03:39.3607573-05:00",
+        "Label": "Fenvi Wireless 1200 Dual Band + Bluetooh"
+      }
     ]
   },
   "Periféricos": {
@@ -4017,132 +4020,6 @@
         "Label": "Mouse Corsair Scimitar Pro RGB Black"
       }
     ],
-    "Webcam": [
-      {
-        "Price": 39.00,
-        "Features": [
-          "Black",
-          "2mp",
-          "30fps",
-          "Stereo"
-        ],
-        "Date": "2023-06-19T07:49:43.9179086-04:00",
-        "Update": "2023-07-31T14:21:04.9114331-04:00",
-        "Label": "Webcam AUKEY 1080p"
-      },
-      {
-        "Price": 79.00,
-        "Features": [
-          "1080p",
-          "Autofocus",
-          "Stereo",
-          "Micrófono",
-          "USB"
-        ],
-        "Date": "2023-11-05T07:48:45.3109671-05:00",
-        "Update": "2023-11-05T10:12:40.7130244-05:00",
-        "Label": "Webcam Logitech C922x"
-      },
-      {
-        "Price": 85.00,
-        "Features": [
-          "FHD",
-          "30fps",
-          "Micrófono",
-          "USB",
-          "Black"
-        ],
-        "Date": "2023-10-02T14:29:35.5469005-04:00",
-        "Update": "2023-11-07T22:20:42.0631092-05:00",
-        "Label": "Webcam Asus C3 1080p"
-      },
-      {
-        "Price": 59.00,
-        "Features": [
-          "USB",
-          "3mp",
-          "Micrófono",
-          "720p",
-          "30fps"
-        ],
-        "Date": "2023-10-09T15:59:49.8284237-04:00",
-        "Update": "2023-11-07T22:20:42.0779117-05:00",
-        "Label": "Webcam Logitech C270 HD"
-      },
-      {
-        "Price": 89.00,
-        "Features": [
-          "1080p",
-          "Autofocus",
-          "Stereo",
-          "Micrófono",
-          "USB"
-        ],
-        "Date": "2023-05-12T07:54:32.8971269-04:00",
-        "Update": "2023-11-07T22:20:42.0928323-05:00",
-        "Label": "Webcam Logitech C920s Pro"
-      },
-      {
-        "Price": 119.00,
-        "Features": [
-          "Sony",
-          "8MP",
-          "3840x2160p",
-          "USB"
-        ],
-        "Date": "2023-11-14T14:40:15.9290446-05:00",
-        "Update": "2023-11-14T17:41:04.9582447-05:00",
-        "Label": "Webcam Creative Live! Sync 4K"
-      },
-      {
-        "Price": 69.00,
-        "Features": [
-          "1080p",
-          "Auto Foco",
-          "USB",
-          "Micrófono"
-        ],
-        "Date": "2023-11-27T09:55:23.0763877-05:00",
-        "Update": "2023-11-27T11:57:06.2682569-05:00",
-        "Label": "Webcam Microsoft LifeCam Studio"
-      },
-      {
-        "Price": 93.00,
-        "Features": [
-          "1920 x 1080",
-          "30 fps",
-          "Auto-focus",
-          "90 degree",
-          "USB"
-        ],
-        "Date": "2023-12-04T16:20:42.8197797-05:00",
-        "Update": "2023-12-04T17:32:00.7545015-05:00",
-        "Label": "Webcam Logitech C930e"
-      },
-      {
-        "Price": 87.00,
-        "Features": [
-          "1080p",
-          "Auto focus",
-          "Stereo audio",
-          "Micrófono",
-          "USB"
-        ],
-        "Date": "2023-12-04T16:20:45.9477091-05:00",
-        "Update": "2023-12-04T17:32:00.7665241-05:00",
-        "Label": "Webcam Logitech C920 HD Pro"
-      },
-      {
-        "Price": 77.00,
-        "Features": [
-          "1080p",
-          "30fps"
-        ],
-        "Date": "2023-12-04T16:20:49.8992277-05:00",
-        "Update": "2023-12-05T16:42:29.8730991-05:00",
-        "Label": "Webcam Logitech Brio 1080p"
-      }
-    ],
     "Adaptador": [
       {
         "Price": 15.00,
@@ -4529,6 +4406,132 @@
         "Date": "2023-10-23T12:32:21.2274943-04:00",
         "Update": "2023-11-27T09:23:42.4497275-05:00",
         "Label": "Auriculares Asus ROG Fusion II 300 Gaming"
+      }
+    ],
+    "Webcam": [
+      {
+        "Price": 79.00,
+        "Features": [
+          "1080p",
+          "Autofocus",
+          "Stereo",
+          "Micrófono",
+          "USB"
+        ],
+        "Date": "2023-11-05T07:48:45.3109671-05:00",
+        "Update": "2023-11-05T10:12:40.7130244-05:00",
+        "Label": "Webcam Logitech C922x"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "FHD",
+          "30fps",
+          "Micrófono",
+          "USB",
+          "Black"
+        ],
+        "Date": "2023-10-02T14:29:35.5469005-04:00",
+        "Update": "2023-11-07T22:20:42.0631092-05:00",
+        "Label": "Webcam Asus C3 1080p"
+      },
+      {
+        "Price": 59.00,
+        "Features": [
+          "USB",
+          "3mp",
+          "Micrófono",
+          "720p",
+          "30fps"
+        ],
+        "Date": "2023-10-09T15:59:49.8284237-04:00",
+        "Update": "2023-11-07T22:20:42.0779117-05:00",
+        "Label": "Webcam Logitech C270 HD"
+      },
+      {
+        "Price": 89.00,
+        "Features": [
+          "1080p",
+          "Autofocus",
+          "Stereo",
+          "Micrófono",
+          "USB"
+        ],
+        "Date": "2023-05-12T07:54:32.8971269-04:00",
+        "Update": "2023-11-07T22:20:42.0928323-05:00",
+        "Label": "Webcam Logitech C920s Pro"
+      },
+      {
+        "Price": 119.00,
+        "Features": [
+          "Sony",
+          "8MP",
+          "3840x2160p",
+          "USB"
+        ],
+        "Date": "2023-11-14T14:40:15.9290446-05:00",
+        "Update": "2023-11-14T17:41:04.9582447-05:00",
+        "Label": "Webcam Creative Live! Sync 4K"
+      },
+      {
+        "Price": 69.00,
+        "Features": [
+          "1080p",
+          "Auto Foco",
+          "USB",
+          "Micrófono"
+        ],
+        "Date": "2023-11-27T09:55:23.0763877-05:00",
+        "Update": "2023-11-27T11:57:06.2682569-05:00",
+        "Label": "Webcam Microsoft LifeCam Studio"
+      },
+      {
+        "Price": 93.00,
+        "Features": [
+          "1920 x 1080",
+          "30 fps",
+          "Auto-focus",
+          "90 degree",
+          "USB"
+        ],
+        "Date": "2023-12-04T16:20:42.8197797-05:00",
+        "Update": "2023-12-04T17:32:00.7545015-05:00",
+        "Label": "Webcam Logitech C930e"
+      },
+      {
+        "Price": 87.00,
+        "Features": [
+          "1080p",
+          "Auto focus",
+          "Stereo audio",
+          "Micrófono",
+          "USB"
+        ],
+        "Date": "2023-12-04T16:20:45.9477091-05:00",
+        "Update": "2023-12-04T17:32:00.7665241-05:00",
+        "Label": "Webcam Logitech C920 HD Pro"
+      },
+      {
+        "Price": 77.00,
+        "Features": [
+          "1080p",
+          "30fps"
+        ],
+        "Date": "2023-12-04T16:20:49.8992277-05:00",
+        "Update": "2023-12-05T16:42:29.8730991-05:00",
+        "Label": "Webcam Logitech Brio 1080p"
+      },
+      {
+        "Price": 39.00,
+        "Features": [
+          "Black",
+          "2mp",
+          "30fps",
+          "Stereo"
+        ],
+        "Date": "2023-06-19T07:49:43.9179086-04:00",
+        "Update": "2023-12-05T17:03:39.2591533-05:00",
+        "Label": "Webcam AUKEY 1080p"
       }
     ],
     "Control": [
