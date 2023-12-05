@@ -1,0 +1,23 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Webcam",
+  "Images": [
+    "/images/products/webcam-logitech-brio-1080p-1.webp",
+    "/images/products/webcam-logitech-brio-1080p-2.webp",
+    "/images/products/webcam-logitech-brio-1080p-3.webp",
+    "/images/products/webcam-logitech-brio-1080p-4.webp",
+    "/images/products/webcam-logitech-brio-1080p-5.webp",
+    "/images/products/webcam-logitech-brio-1080p-6.webp",
+    "/images/products/webcam-logitech-brio-1080p-7.webp",
+    "/images/products/webcam-logitech-brio-1080p-8.webp"
+  ],
+  "Description": "",
+  "Price": 77.00,
+  "Features": [
+    "1080p",
+    "30fps"
+  ],
+  "Date": "2023-12-04T16:20:49.8992277-05:00",
+  "Update": "2023-12-05T16:42:29.8730991-05:00",
+  "Label": "Webcam Logitech Brio 1080p"
+}
