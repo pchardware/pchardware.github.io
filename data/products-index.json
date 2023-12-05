@@ -25,6 +25,16 @@
         "Discount": 41.0,
         "Label": "PC i5-13500T + Disipador ARGB + MSI Pro B760M-P + 16GB DDR4 + 600W + 24\" MSI"
       }
+    ],
+    "Multimedia": [
+      {
+        "Price": 945.00,
+        "Features": [],
+        "Date": "2023-12-05T10:58:36.5788375-05:00",
+        "Update": "2023-12-05T11:05:21.237073-05:00",
+        "Discount": 34.0,
+        "Label": "PC Ryzen 5 5600G + ASRock B550M + 16GB DDR4 + SSD M.2 1TB + 600W + Monitor 24\""
+      }
     ]
   },
   "Torres": {
@@ -84,6 +94,16 @@
         "Update": "2023-12-03T18:06:16.8760907-05:00",
         "Discount": 33.0,
         "Label": "Torre GTX 1070 8GB + i5-13500T + Disipador ARGB + MSI Pro B760M-P + 16GB DDR4"
+      }
+    ],
+    "Multimedia": [
+      {
+        "Price": 669.00,
+        "Features": [],
+        "Date": "2023-12-05T10:57:39.9378171-05:00",
+        "Update": "2023-12-05T11:05:21.2244836-05:00",
+        "Discount": 26.0,
+        "Label": "Torre Ryzen 5 5600G ASRock B550M + 16GB DDR4 + SSD M.2 1TB + 600W + Chasis MB511"
       }
     ]
   },
