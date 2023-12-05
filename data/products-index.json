@@ -3648,39 +3648,6 @@
         "Label": "Mouse Corsair Sabre RGB Pro"
       },
       {
-        "Price": 63.00,
-        "Features": [
-          "RGB",
-          "82g",
-          "10000dpi",
-          "6 botónes",
-          "FPS",
-          "Battle",
-          "Royale",
-          "MOBA",
-          "Claw-Fingertip",
-          "Optico",
-          "USB"
-        ],
-        "Date": "2023-06-29T07:38:44.0694774-04:00",
-        "Update": "2023-06-29T11:38:59.2013601-04:00",
-        "Label": "Mouse Corsair Katar Pro Wireless"
-      },
-      {
-        "Price": 63.00,
-        "Features": [
-          "Optico",
-          "8500dpi",
-          "6 botónes",
-          "61g",
-          "RGB",
-          "USB"
-        ],
-        "Date": "2023-07-09T16:44:42.8536521-04:00",
-        "Update": "2023-07-09T22:12:27.9299035-04:00",
-        "Label": "Mouse Razer Viper Mini"
-      },
-      {
         "Price": 49.00,
         "Features": [
           "Reforzado",
@@ -3941,43 +3908,6 @@
       {
         "Price": 89.00,
         "Features": [
-          "Wifi",
-          "Bluetooth",
-          "Dual",
-          "16000dpi",
-          "450ips",
-          "450H",
-          "Mecánico",
-          "Inmalámbrico",
-          "Gaming",
-          "6 botónes",
-          "Optico"
-        ],
-        "Date": "2023-11-05T07:48:29.4035139-05:00",
-        "Update": "2023-11-05T10:12:40.6745155-05:00",
-        "Label": "Mouse Razer Basilisk X Hyperspeed Black"
-      },
-      {
-        "Price": 71.00,
-        "Features": [
-          "60g",
-          "Wifi",
-          "Bluetooth",
-          "Dual",
-          "950H",
-          "PTFE",
-          "Inmalámbrico",
-          "Gaming",
-          "6 botónes",
-          "Optico"
-        ],
-        "Date": "2023-11-05T07:48:32.4491843-05:00",
-        "Update": "2023-11-05T10:12:40.6869655-05:00",
-        "Label": "Mouse Razer Orochi V2 Black"
-      },
-      {
-        "Price": 89.00,
-        "Features": [
           "25600dpi",
           "Inmalámbrico",
           "Híbrido",
@@ -4018,6 +3948,76 @@
         "Date": "2023-11-30T11:15:16.2508817-05:00",
         "Update": "2023-11-30T14:11:17.6379701-05:00",
         "Label": "Mouse Corsair Scimitar Pro RGB Black"
+      },
+      {
+        "Price": 63.00,
+        "Features": [
+          "RGB",
+          "82g",
+          "10000dpi",
+          "6 botónes",
+          "FPS",
+          "Battle",
+          "Royale",
+          "MOBA",
+          "Claw-Fingertip",
+          "Optico",
+          "USB"
+        ],
+        "Date": "2023-06-29T07:38:44.0694774-04:00",
+        "Update": "2023-12-05T17:11:29.6159911-05:00",
+        "Label": "Mouse Corsair Katar Pro Wireless"
+      },
+      {
+        "Price": 63.00,
+        "Features": [
+          "Optico",
+          "8500dpi",
+          "6 botónes",
+          "61g",
+          "RGB",
+          "USB"
+        ],
+        "Date": "2023-07-09T16:44:42.8536521-04:00",
+        "Update": "2023-12-05T17:11:29.6335391-05:00",
+        "Label": "Mouse Razer Viper Mini"
+      },
+      {
+        "Price": 89.00,
+        "Features": [
+          "Wifi",
+          "Bluetooth",
+          "Dual",
+          "16000dpi",
+          "450ips",
+          "450H",
+          "Mecánico",
+          "Inmalámbrico",
+          "Gaming",
+          "6 botónes",
+          "Optico"
+        ],
+        "Date": "2023-11-05T07:48:29.4035139-05:00",
+        "Update": "2023-12-05T17:13:34.9520018-05:00",
+        "Label": "Mouse Razer Basilisk X Hyperspeed Black"
+      },
+      {
+        "Price": 71.00,
+        "Features": [
+          "60g",
+          "Wifi",
+          "Bluetooth",
+          "Dual",
+          "950H",
+          "PTFE",
+          "Inmalámbrico",
+          "Gaming",
+          "6 botónes",
+          "Optico"
+        ],
+        "Date": "2023-11-05T07:48:32.4491843-05:00",
+        "Update": "2023-12-05T17:13:34.9764467-05:00",
+        "Label": "Mouse Razer Orochi V2 Black"
       }
     ],
     "Adaptador": [
