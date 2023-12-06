@@ -27,6 +27,21 @@
         "Discount": 34.0,
         "Label": "PC Ryzen 5 5600G + ASRock B550M + 16GB DDR4 + SSD M.2 1TB + 600W + Monitor 24\""
       }
+    ],
+    "Pro": [
+      {
+        "Price": 2305.00,
+        "Features": [
+          "17xUSB",
+          "Docking",
+          "6xHDD",
+          "6xSATA"
+        ],
+        "Date": "2023-12-06T03:00:20.1862272-05:00",
+        "Update": "2023-12-06T03:09:35.6235127-05:00",
+        "Discount": 71.0,
+        "Label": "PC Paquete 84TB + i5-12600K + Strix Z690-E + 1TB SSD M2 + 1200W + MSI 24\""
+      }
     ]
   },
   "Torres": {
