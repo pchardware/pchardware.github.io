@@ -436,24 +436,6 @@
         "Label": "Kit i5-11400 + MSI Z590 Pro Wifi CEC + 16GB DDR4 RGB + SSD M.2 2TB"
       },
       {
-        "Price": 269.00,
-        "Features": [
-          "6 Core",
-          "12 Hilos",
-          "2x8",
-          "3200mhz",
-          "AM4",
-          "4500mhz",
-          "x4 Sata",
-          "x6 USB",
-          "Micro ATX"
-        ],
-        "Date": "2023-12-05T09:53:48.256061-05:00",
-        "Update": "2023-12-05T10:14:47.0436929-05:00",
-        "Discount": 5.0,
-        "Label": "Kit Ryzen 5 4600G + ASRock B550M Pro SE"
-      },
-      {
         "Price": 309.00,
         "Features": [
           "6 Core",
@@ -500,6 +482,22 @@
         "Update": "2023-12-05T10:14:47.0949099-05:00",
         "Discount": 3.0,
         "Label": "Kit Core i5-11400 +Disipador + Board MSI Z590 Pro Wifi CEC"
+      },
+      {
+        "Price": 269.00,
+        "Features": [
+          "6 Core",
+          "12 Hilos",
+          "AM4",
+          "4500mhz",
+          "x4 Sata",
+          "x6 USB",
+          "Micro ATX"
+        ],
+        "Date": "2023-12-05T09:53:48.256061-05:00",
+        "Update": "2023-12-05T19:25:09.1751813-05:00",
+        "Discount": 5.0,
+        "Label": "Kit Ryzen 5 4600G + ASRock B550M Pro SE"
       }
     ]
   },
