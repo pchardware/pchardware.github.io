@@ -903,18 +903,6 @@
         "Label": "SSD M.2 - WD Green SN350 960TB"
       },
       {
-        "Price": 97.00,
-        "Features": [
-          "7300mbs",
-          "600tbw",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-08-16T09:17:48.5783952-04:00",
-        "Update": "2023-11-30T14:28:44.8692452-05:00",
-        "Label": "SSD M.2 WD BLACK SN850X 1TB"
-      },
-      {
         "Price": 84.00,
         "Features": [
           "560mbps",
@@ -3842,22 +3830,6 @@
         "Date": "2023-10-23T12:32:00.8586361-04:00",
         "Update": "2023-10-23T13:26:42.3598298-04:00",
         "Label": "Mouse Cooler Master MM311 Mate White"
-      },
-      {
-        "Price": 56.00,
-        "Features": [
-          "18000dpi",
-          "Claw",
-          "8 botónes",
-          "97g",
-          "Optico",
-          "Gaming",
-          "iCUE",
-          "USB"
-        ],
-        "Date": "2023-08-21T08:58:41.5573667-04:00",
-        "Update": "2023-10-28T09:10:46.4920289-04:00",
-        "Label": "Mouse Corsair M65 ELITE RGB Black"
       },
       {
         "Price": 97.00,
