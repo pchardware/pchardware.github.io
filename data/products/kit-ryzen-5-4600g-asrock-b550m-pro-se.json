@@ -13,8 +13,6 @@
   "Features": [
     "6 Core",
     "12 Hilos",
-    "2x8",
-    "3200mhz",
     "AM4",
     "4500mhz",
     "x4 Sata",
@@ -22,7 +20,7 @@
     "Micro ATX"
   ],
   "Date": "2023-12-05T09:53:48.256061-05:00",
-  "Update": "2023-12-05T10:14:47.0436929-05:00",
+  "Update": "2023-12-05T19:25:09.1751813-05:00",
   "Discount": 5.0,
   "Label": "Kit Ryzen 5 4600G + ASRock B550M Pro SE"
 }
