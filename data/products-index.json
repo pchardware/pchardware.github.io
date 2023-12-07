@@ -18,16 +18,6 @@
         "Label": "PC i5-13500T + Disipador ARGB + MSI Pro B760M-P + 16GB DDR4 + 600W + 24\" MSI"
       }
     ],
-    "Multimedia": [
-      {
-        "Price": 945.00,
-        "Features": [],
-        "Date": "2023-12-05T10:58:36.5788375-05:00",
-        "Update": "2023-12-05T11:05:21.237073-05:00",
-        "Discount": 34.0,
-        "Label": "PC Ryzen 5 5600G + ASRock B550M + 16GB DDR4 + SSD M.2 1TB + 600W + Monitor 24\""
-      }
-    ],
     "Pro": [
       {
         "Price": 2305.00,
@@ -104,14 +94,6 @@
       }
     ],
     "Multimedia": [
-      {
-        "Price": 669.00,
-        "Features": [],
-        "Date": "2023-12-05T10:57:39.9378171-05:00",
-        "Update": "2023-12-05T11:05:21.2244836-05:00",
-        "Discount": 26.0,
-        "Label": "Torre Ryzen 5 5600G ASRock B550M + 16GB DDR4 + SSD M.2 1TB + 600W + Chasis MB511"
-      },
       {
         "Price": 729.00,
         "Features": [],
@@ -321,51 +303,6 @@
         "Update": "2023-11-18T10:47:08.1359977-05:00",
         "Discount": 8.0,
         "Label": "Kit Intel Core i5 11na Gen +8GB RAM 3200mhz +Disipador +Board MSI Z590"
-      },
-      {
-        "Price": 338.00,
-        "Features": [
-          "12 Hilos",
-          "Serie 5000",
-          "3200mhz",
-          "ASRock"
-        ],
-        "Date": "2023-10-20T08:54:09.0884384-04:00",
-        "Update": "2023-11-30T14:28:44.8568318-05:00",
-        "Discount": 8.0,
-        "Label": "Kit Ryzen 5 +8GB DDR4 Disipadas +Disipador +Board B550M Pro"
-      },
-      {
-        "Price": 327.00,
-        "Features": [
-          "6 Nucleos",
-          "12 Hilos",
-          "2x16",
-          "3200mhz",
-          "Asrock"
-        ],
-        "Date": "2023-12-01T19:31:40.6909833-05:00",
-        "Update": "2023-12-05T10:27:10.5659469-05:00",
-        "Discount": 6.0,
-        "Label": "Kit Ryzen 5 4600G + Disipador + Board ASRock B550M Pro SE + DDR4 16GB"
-      },
-      {
-        "Price": 329.00,
-        "Features": [
-          "6 Core",
-          "12 Hilos",
-          "2x8",
-          "3200mhz",
-          "AM4",
-          "4500mhz",
-          "x4 Sata",
-          "x6 USB",
-          "Micro ATX"
-        ],
-        "Date": "2023-12-05T09:54:12.4286982-05:00",
-        "Update": "2023-12-05T10:27:10.6540495-05:00",
-        "Discount": 9.0,
-        "Label": "Kit Ryzen 5 4600G + Disipador + ASRock B550M Pro SE + 16GB DDR4 T-Force Vulcan Z"
       }
     ],
     "Moderado": [
@@ -443,40 +380,6 @@
         "Label": "Kit i5-11400 + MSI Z590 Pro Wifi CEC + 16GB DDR4 RGB + SSD M.2 2TB"
       },
       {
-        "Price": 309.00,
-        "Features": [
-          "6 Core",
-          "12 Hilos",
-          "AM4",
-          "4500mhz",
-          "x4 Sata",
-          "x6 USB",
-          "Micro ATX"
-        ],
-        "Date": "2023-12-05T09:54:38.4856362-05:00",
-        "Update": "2023-12-05T10:14:47.069538-05:00",
-        "Discount": 5.0,
-        "Label": "Kit Ryzen 5 5600G +Disipador + ASRock B550M Pro SE"
-      },
-      {
-        "Price": 369.00,
-        "Features": [
-          "6 Core",
-          "12 Hilos",
-          "2x8",
-          "3200mhz",
-          "AM4",
-          "4500mhz",
-          "x4 Sata",
-          "x6 USB",
-          "Micro ATX"
-        ],
-        "Date": "2023-12-05T09:55:27.5485735-05:00",
-        "Update": "2023-12-05T10:14:47.0826754-05:00",
-        "Discount": 9.0,
-        "Label": "Kit Ryzen 5 5600G +Disipador + ASRock B550M Pro SE + 16GB DDR4 T-Force Vulcan Z"
-      },
-      {
         "Price": 365.00,
         "Features": [
           "12 Hilos",
@@ -489,22 +392,6 @@
         "Update": "2023-12-05T10:14:47.0949099-05:00",
         "Discount": 3.0,
         "Label": "Kit Core i5-11400 +Disipador + Board MSI Z590 Pro Wifi CEC"
-      },
-      {
-        "Price": 269.00,
-        "Features": [
-          "6 Core",
-          "12 Hilos",
-          "AM4",
-          "4500mhz",
-          "x4 Sata",
-          "x6 USB",
-          "Micro ATX"
-        ],
-        "Date": "2023-12-05T09:53:48.256061-05:00",
-        "Update": "2023-12-05T19:25:09.1751813-05:00",
-        "Discount": 5.0,
-        "Label": "Kit Ryzen 5 4600G + ASRock B550M Pro SE"
       }
     ]
   },
@@ -2287,24 +2174,6 @@
         "Label": "CPU AMD Ryzen 5 5600X +Disipador"
       },
       {
-        "Price": 135.00,
-        "Features": [
-          "Radeon Graphics",
-          "AM4",
-          "6 Core",
-          "12 Hilos",
-          "DDR4",
-          "L3 Cache: 8MB",
-          "3.7 GHz",
-          "65W",
-          "Serie 4000",
-          "CPU"
-        ],
-        "Date": "2023-11-30T11:22:08.4493566-05:00",
-        "Update": "2023-12-05T16:42:29.8446795-05:00",
-        "Label": "Micro AMD Ryzen 5 4600G +Disipador"
-      },
-      {
         "Price": 145.00,
         "Features": [
           "13ra Gen",
@@ -3219,24 +3088,6 @@
         "Date": "2023-11-30T11:20:59.3135657-05:00",
         "Update": "2023-11-30T14:11:17.7192482-05:00",
         "Label": "Board Asus TUF B760M-Plus Wifi D4"
-      },
-      {
-        "Price": 139.00,
-        "Features": [
-          "AM4",
-          "4533mhz",
-          "6xUSB",
-          "DDR4",
-          "4xSATA",
-          "Micro ATX",
-          "HDMI",
-          "DisplayPort",
-          "3xAudio",
-          "MOBO"
-        ],
-        "Date": "2023-10-11T10:56:39.5272184-04:00",
-        "Update": "2023-11-30T14:28:44.8864297-05:00",
-        "Label": "Board ASRock B550M Pro SE"
       },
       {
         "Price": 185.00,
