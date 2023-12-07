@@ -1,0 +1,23 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disco Sólido",
+  "Images": [
+    "/images/products/ssd-m2-crucial-p5-plus-1tb-1.webp",
+    "/images/products/ssd-m2-crucial-p5-plus-1tb-2.webp",
+    "/images/products/ssd-m2-crucial-p5-plus-1tb-3.webp",
+    "/images/products/ssd-m2-crucial-p5-plus-1tb-4.webp",
+    "/images/products/ssd-m2-crucial-p5-plus-1tb-5.webp",
+    "/images/products/ssd-m2-crucial-p5-plus-1tb-6.webp"
+  ],
+  "Description": "Sobre este artículo\nTecnología PCIe 4.0 NVMe con lecturas secuenciales de hasta 6600 MB/s, lectura/escritura aleatoria 630K/700K IOPS\nDiseñado para jugadores hardcore, profesionales y creativos que exigen computación de alto rendimiento, funciona bien con PS5 y tiene compatibilidad con disipador térmico\nConstruido sobre nuestra propia tecnología líder Micron Advanced 3D NAND y controlador innovador\nCalificación en MTTF superior a 2 millones de horas para mayor longevidad y fiabilidad\nGarantía limitada de 5 años o hasta la clasificación de resistencia máxima de 600 TBW\n\n¿Estás listo para el rendimiento de próxima generación? El SSD Crucial P5 Plus ofrece una velocidad y protección de datos notables con lecturas secuenciales de hasta 6600 MB/s para computación transformadora. Diseñado por Micron con la última tecnología Gen4 NVMe, el Crucial P5 Plus incluye características avanzadas como cifrado completo basado en hardware, aceleración de escritura dinámica y protección térmica adaptativa para mantener tus datos seguros mientras mejora la confiabilidad del sistema. Diseñado específicamente para cargas de trabajo intensivas, contenido creativo de alta calidad, juegos de PC / consola hardcore y compatible con Heatsink. El P5 Plus también es compatible con la mayoría de los sistemas Gen3 para una máxima flexibilidad.\n\nDisco Duro: 1 TB Disco SSD\nMarca: Crucial\nSeries: Crucial SSD P5 Plus\nNúmero de modelo del producto: CT1000P5PSSD8\nPlataforma de hardware: PC, Linux, Mac\nDimensiones del producto: 3,14 x 0,86 x 0,09 pulgadas\nDimensiones del artículo Largo x Ancho x Altura: 3.14 x 0.86 x 0.09 pulgadas\nColor: Negro -\nTipo de memoria del equipo: DIMM\nTamaño de memoria flash: 1 TB\nInterfaz de la unidad de disco duro: PCI Express x4\nVelocidad de rotación del disco duro: 7200 RPM\nVoltaje: 1 Voltios\nFabricante: Crucial\nASIN: B098WL46RS\nProducto en amazon.com desde: Agosto 3, 2021\nOpinión media de los clientes: 4.8\n14,617 calificaciones\n4.8 de 5 estrellas",
+  "Price": 79.00,
+  "Features": [
+    "6600MBps",
+    "PCIe4",
+    "NVMe",
+    "600tbw"
+  ],
+  "Date": "2023-12-07T13:20:30.3520117-05:00",
+  "Update": "2023-12-07T14:11:56.507209-05:00",
+  "Label": "SSD M.2 Crucial P5 Plus 1TB"
+}
