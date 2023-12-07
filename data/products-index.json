@@ -3785,23 +3785,6 @@
         "Label": "Mouse EVGA X20 Gray"
       },
       {
-        "Price": 93.00,
-        "Features": [
-          "25600dpi",
-          "Inmalámbrico",
-          "Híbrido",
-          "Hero",
-          "RGB",
-          "Gaming",
-          "6 botónes",
-          "Optico",
-          "USB"
-        ],
-        "Date": "2023-10-09T15:58:43.1814204-04:00",
-        "Update": "2023-10-09T17:48:21.8737839-04:00",
-        "Label": "Mouse Logitech Pro Wireless Black"
-      },
-      {
         "Price": 65.00,
         "Features": [
           "Wireless",
@@ -3890,29 +3873,6 @@
         "Label": "Mouse Logitech G502 SE Hero"
       },
       {
-        "Price": 105.00,
-        "Features": [
-          "Inmalámbrico",
-          "USB",
-          "1ms",
-          "Bluetooth",
-          "Híbrido",
-          "RGB",
-          "Gaming",
-          "iCUE",
-          "18k dpi",
-          "USB-C",
-          "Omron",
-          "Recargable",
-          "8 botónes",
-          "50H",
-          "Optico"
-        ],
-        "Date": "2023-10-23T12:31:56.2102743-04:00",
-        "Update": "2023-10-23T13:26:42.3492379-04:00",
-        "Label": "Mouse Corsair Dark Core RGB Pro"
-      },
-      {
         "Price": 61.00,
         "Features": [
           "Blanco",
@@ -3946,37 +3906,6 @@
         "Date": "2023-06-19T07:49:07.3176421-04:00",
         "Update": "2023-11-03T12:22:11.708199-04:00",
         "Label": "Mouse Corsair IRONCLAW RGB Wireless"
-      },
-      {
-        "Price": 89.00,
-        "Features": [
-          "25600dpi",
-          "Inmalámbrico",
-          "Híbrido",
-          "Hero",
-          "RGB",
-          "Gaming",
-          "6 botónes",
-          "Optico",
-          "USB"
-        ],
-        "Date": "2023-11-18T23:52:22.157277-05:00",
-        "Update": "2023-11-19T11:13:04.0126404-05:00",
-        "Label": "Mouse Logitech G703 Lightspeed"
-      },
-      {
-        "Price": 119.00,
-        "Features": [
-          "25600dpi",
-          "Inmalámbrico",
-          "Optico",
-          "11 botónes",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-11-24T09:48:36.8452861-05:00",
-        "Update": "2023-11-24T10:20:52.9615212-05:00",
-        "Label": "Mouse Logitech G502 Lightspeed Wireless"
       },
       {
         "Price": 87.00,
@@ -4025,25 +3954,6 @@
         "Label": "Mouse Razer Viper Mini"
       },
       {
-        "Price": 89.00,
-        "Features": [
-          "Wifi",
-          "Bluetooth",
-          "Dual",
-          "16000dpi",
-          "450ips",
-          "450H",
-          "Mecánico",
-          "Inmalámbrico",
-          "Gaming",
-          "6 botónes",
-          "Optico"
-        ],
-        "Date": "2023-11-05T07:48:29.4035139-05:00",
-        "Update": "2023-12-05T17:13:34.9520018-05:00",
-        "Label": "Mouse Razer Basilisk X Hyperspeed Black"
-      },
-      {
         "Price": 71.00,
         "Features": [
           "60g",
@@ -4060,6 +3970,134 @@
         "Date": "2023-11-05T07:48:32.4491843-05:00",
         "Update": "2023-12-05T17:13:34.9764467-05:00",
         "Label": "Mouse Razer Orochi V2 Black"
+      },
+      {
+        "Price": 93.00,
+        "Features": [
+          "25600dpi",
+          "Inalámbrico",
+          "Híbrido",
+          "Hero",
+          "RGB",
+          "Gaming",
+          "6 botónes",
+          "Optico",
+          "USB"
+        ],
+        "Date": "2023-10-09T15:58:43.1814204-04:00",
+        "Update": "2023-12-07T13:17:19.2178859-05:00",
+        "Label": "Mouse Logitech Pro Wireless Black"
+      },
+      {
+        "Price": 105.00,
+        "Features": [
+          "Inalámbrico",
+          "USB",
+          "1ms",
+          "Bluetooth",
+          "Híbrido",
+          "RGB",
+          "Gaming",
+          "iCUE",
+          "18k dpi",
+          "USB-C",
+          "Omron",
+          "Recargable",
+          "8 botónes",
+          "50H",
+          "Optico"
+        ],
+        "Date": "2023-10-23T12:31:56.2102743-04:00",
+        "Update": "2023-12-07T13:17:19.2304335-05:00",
+        "Label": "Mouse Corsair Dark Core RGB Pro"
+      },
+      {
+        "Price": 89.00,
+        "Features": [
+          "25600dpi",
+          "Inalámbrico",
+          "Híbrido",
+          "Hero",
+          "RGB",
+          "Gaming",
+          "6 botónes",
+          "Optico",
+          "USB"
+        ],
+        "Date": "2023-11-18T23:52:22.157277-05:00",
+        "Update": "2023-12-07T13:17:19.2427326-05:00",
+        "Label": "Mouse Logitech G703 Lightspeed"
+      },
+      {
+        "Price": 119.00,
+        "Features": [
+          "25600dpi",
+          "Inalámbrico",
+          "Optico",
+          "11 botónes",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-11-24T09:48:36.8452861-05:00",
+        "Update": "2023-12-07T13:17:19.2859513-05:00",
+        "Label": "Mouse Logitech G502 Lightspeed Wireless"
+      },
+      {
+        "Price": 89.00,
+        "Features": [
+          "Wifi",
+          "Bluetooth",
+          "Dual",
+          "16000dpi",
+          "450ips",
+          "450H",
+          "Mecánico",
+          "Inalámbrico",
+          "Gaming",
+          "6 botónes",
+          "Optico"
+        ],
+        "Date": "2023-11-05T07:48:29.4035139-05:00",
+        "Update": "2023-12-07T13:17:19.3068681-05:00",
+        "Label": "Mouse Razer Basilisk X Hyperspeed Black"
+      },
+      {
+        "Price": 159.00,
+        "Features": [
+          "26000dpi",
+          "Inalámbrico",
+          "Optico",
+          "15 botones",
+          "Gaming",
+          "USB",
+          "Bluetooth"
+        ],
+        "Date": "2023-12-07T12:39:43.2578752-05:00",
+        "Update": "2023-12-07T13:17:19.3195539-05:00",
+        "Label": "Mouse Corsair DarkStar RGB"
+      },
+      {
+        "Price": 139.00,
+        "Features": [
+          "25600dpi",
+          "Inalámbrico",
+          "Optico",
+          "11 botónes",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-12-07T12:48:03.088038-05:00",
+        "Update": "2023-12-07T13:17:19.332759-05:00",
+        "Label": "Mouse Logitech G502 X Lightspeed Wireless"
+      },
+      {
+        "Price": 13.00,
+        "Features": [
+          "Wired"
+        ],
+        "Date": "2023-12-07T13:02:34.4723692-05:00",
+        "Update": "2023-12-07T13:17:19.3449285-05:00",
+        "Label": "Mouse Asus JM3"
       }
     ],
     "Adaptador": [
