@@ -53,22 +53,6 @@
         "Label": "Torre GTX 1070 8GB + i5-11400 + Z590 Pro Wifi + 16GB DDR4 + 1TB M2 + MasterBox"
       },
       {
-        "Price": 1067.00,
-        "Features": [],
-        "Date": "2023-12-01T11:17:12.208186-05:00",
-        "Update": "2023-12-01T11:33:17.6982348-05:00",
-        "Discount": 29.0,
-        "Label": "Torre RX 6600 + i5 13 Gen + MSI Pro B760M-P + 16GB DDR4 + 1TB SSD M2 + Phanteks"
-      },
-      {
-        "Price": 2083.00,
-        "Features": [],
-        "Date": "2023-12-03T16:33:35.2808213-05:00",
-        "Update": "2023-12-03T16:35:29.3031497-05:00",
-        "Discount": 40.0,
-        "Label": "Torre Gamer RTX 4060 Ti 8GB + i7-13700K + MasterLiquid 360L + Z790 Aorus Elite"
-      },
-      {
         "Price": 945.00,
         "Features": [],
         "Date": "2023-12-03T16:51:01.5137142-05:00",
@@ -99,6 +83,30 @@
         "Update": "2023-12-07T02:37:17.2309432-05:00",
         "Discount": 35.0,
         "Label": "Torre RTX 3060 Ti + i9-12900K + ROG Maximus Hero Z690 + 32GB DDR5 Corsair + 850W"
+      },
+      {
+        "Price": 1069.00,
+        "Features": [],
+        "Date": "2023-12-01T11:17:12.208186-05:00",
+        "Update": "2023-12-07T02:44:53.6375444-05:00",
+        "Discount": 27.0,
+        "Label": "Torre RX 6600 + i5 13 Gen + MSI Pro B760M-P + 16GB DDR4 + 1TB SSD M2 + Phanteks"
+      },
+      {
+        "Price": 2085.00,
+        "Features": [],
+        "Date": "2023-12-03T16:33:35.2808213-05:00",
+        "Update": "2023-12-07T02:44:53.6510931-05:00",
+        "Discount": 38.0,
+        "Label": "Torre Gamer RTX 4060 Ti 8GB + i7-13700K + MasterLiquid 360L + Z790 Aorus Elite"
+      },
+      {
+        "Price": 1099.00,
+        "Features": [],
+        "Date": "2023-12-07T02:41:02.556778-05:00",
+        "Update": "2023-12-07T02:44:53.664098-05:00",
+        "Discount": 31.0,
+        "Label": "Torre GTX 1660Ti +i5-13500T +Disipador ARGB +TUF B760M-Plus +16GB DDR4 +700W"
       }
     ],
     "Multimedia": [
