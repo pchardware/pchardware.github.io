@@ -979,6 +979,62 @@
         "Date": "2023-10-02T14:29:40.7946679-04:00",
         "Update": "2023-12-04T16:09:51.4397463-05:00",
         "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 1TB"
+      },
+      {
+        "Price": 79.00,
+        "Features": [
+          "6600MBps",
+          "PCIe4",
+          "NVMe",
+          "600tbw"
+        ],
+        "Date": "2023-12-07T13:20:30.3520117-05:00",
+        "Update": "2023-12-07T14:11:56.507209-05:00",
+        "Label": "SSD M.2 Crucial P5 Plus 1TB"
+      },
+      {
+        "Price": 59.00,
+        "Features": [
+          "3500MBps",
+          "PCIe4"
+        ],
+        "Date": "2023-12-07T13:20:36.3839284-05:00",
+        "Update": "2023-12-07T14:11:56.5548174-05:00",
+        "Label": "SSD M.2 Solidigm P41 Plus 512GB"
+      },
+      {
+        "Price": 55.00,
+        "Features": [
+          "2100MBps",
+          "PCIe3",
+          "NVMe"
+        ],
+        "Date": "2023-12-07T13:20:39.5602767-05:00",
+        "Update": "2023-12-07T14:11:56.576146-05:00",
+        "Label": "SSD M.2 HP EX900 500GB"
+      },
+      {
+        "Price": 79.00,
+        "Features": [
+          "3500MBps",
+          "PCIe4",
+          "NVMe"
+        ],
+        "Date": "2023-12-07T13:20:26.5920422-05:00",
+        "Update": "2023-12-07T14:14:26.5126461-05:00",
+        "Label": "SSD M.2 TeamGroup T-Force Z44L 1TB"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "7300MBps",
+          "2400tbw",
+          "PCIe4",
+          "NVMe"
+        ],
+        "Date": "2023-12-07T13:20:33.368904-05:00",
+        "Update": "2023-12-07T14:14:26.5360995-05:00",
+        "Label": "SSD M.2 WD BLACK SN850X 4TB (7300/6300)"
       }
     ],
     "Fuente": [
