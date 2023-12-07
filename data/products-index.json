@@ -2,7 +2,7 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 1215.00,
+        "Price": 1209.00,
         "Features": [],
         "Date": "2023-12-03T16:51:42.889922-05:00",
         "Update": "2023-12-03T18:09:57.8478842-05:00",
@@ -10,7 +10,7 @@
         "Label": "PC GTX 1070 8GB + i5-11400 + MSI Z590 Pro Wifi + 16GB DDR4 + 600W + + 24\" MSI"
       },
       {
-        "Price": 1385.00,
+        "Price": 1379.00,
         "Features": [],
         "Date": "2023-12-03T16:57:19.1119576-05:00",
         "Update": "2023-12-03T18:09:57.8926718-05:00",
@@ -37,7 +37,7 @@
   "Torres": {
     "Gamer": [
       {
-        "Price": 2019.00,
+        "Price": 1999.00,
         "Features": [],
         "Date": "2023-11-27T13:04:18.4517207-05:00",
         "Update": "2023-11-27T13:11:57.5868262-05:00",
@@ -45,7 +45,7 @@
         "Label": "Torre Gamer RX 7700 XT 12GB + Ryzen 9 7900X + 32GB DDR5 + 1TB SSDM2"
       },
       {
-        "Price": 935.00,
+        "Price": 929.00,
         "Features": [],
         "Date": "2023-12-01T11:01:22.3465338-05:00",
         "Update": "2023-12-01T11:33:17.6795863-05:00",
@@ -53,7 +53,7 @@
         "Label": "Torre GTX 1070 8GB + i5-11400 + Z590 Pro Wifi + 16GB DDR4 + 1TB M2 + MasterBox"
       },
       {
-        "Price": 945.00,
+        "Price": 939.00,
         "Features": [],
         "Date": "2023-12-03T16:51:01.5137142-05:00",
         "Update": "2023-12-03T18:06:16.8322054-05:00",
@@ -61,7 +61,7 @@
         "Label": "Torre GTX 1070 8GB + i5-11400 + MSI Z590 Pro Wifi CEC + 16GB DDR4 Corsair + 600W"
       },
       {
-        "Price": 1039.00,
+        "Price": 1033.00,
         "Features": [],
         "Date": "2023-12-03T16:53:05.2567445-05:00",
         "Update": "2023-12-03T18:06:16.8760907-05:00",
@@ -85,7 +85,7 @@
         "Label": "Torre RTX 3060 Ti + i9-12900K + ROG Maximus Hero Z690 + 32GB DDR5 Corsair + 850W"
       },
       {
-        "Price": 1069.00,
+        "Price": 1063.00,
         "Features": [],
         "Date": "2023-12-01T11:17:12.208186-05:00",
         "Update": "2023-12-07T02:44:53.6375444-05:00",
@@ -101,7 +101,7 @@
         "Label": "Torre Gamer RTX 4060 Ti 8GB + i7-13700K + MasterLiquid 360L + Z790 Aorus Elite"
       },
       {
-        "Price": 1099.00,
+        "Price": 1093.00,
         "Features": [],
         "Date": "2023-12-07T02:41:02.556778-05:00",
         "Update": "2023-12-07T02:44:53.664098-05:00",
@@ -109,7 +109,7 @@
         "Label": "Torre GTX 1660Ti +i5-13500T +Disipador ARGB +TUF B760M-Plus +16GB DDR4 +700W"
       },
       {
-        "Price": 1315.00,
+        "Price": 1305.00,
         "Features": [],
         "Date": "2023-12-07T11:39:38.6582144-05:00",
         "Update": "2023-12-07T11:45:25.1686013-05:00",
@@ -119,7 +119,7 @@
     ],
     "Multimedia": [
       {
-        "Price": 729.00,
+        "Price": 723.00,
         "Features": [],
         "Date": "2023-12-05T11:09:18.9377703-05:00",
         "Update": "2023-12-05T13:54:44.550567-05:00",
@@ -1563,82 +1563,6 @@
         "Label": "Disipador Líquido Corsair H100x RGB Elite"
       }
     ],
-    "Disco Duro": [
-      {
-        "Price": 79.00,
-        "Features": [
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-05-12T07:53:01.7720075-04:00",
-        "Update": "2023-06-19T11:56:16.8819024-04:00",
-        "Label": "HDD 2.5 Seagate BarraCuda 2TB"
-      },
-      {
-        "Price": 39.00,
-        "Features": [
-          "Enterprise",
-          "7200rpm",
-          "16mb",
-          "6 Gbps"
-        ],
-        "Date": "2023-07-26T16:40:48.0920023-04:00",
-        "Update": "2023-07-27T08:17:37.3850414-04:00",
-        "Label": "HDD 3.5 Seagate Constellation 2TB SAS"
-      },
-      {
-        "Price": 119.00,
-        "Features": [
-          "Enterprise",
-          "7200rpm",
-          "256mb",
-          "Helium",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-09-23T14:08:58.7274436-04:00",
-        "Update": "2023-09-23T15:28:21.2162108-04:00",
-        "Label": "HDD 3.5 Seagate EXOS 12TB Recertified"
-      },
-      {
-        "Price": 169.00,
-        "Features": [
-          "Enterprise",
-          "7200rpm",
-          "256mb",
-          "Helium",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-09-23T14:09:03.2481261-04:00",
-        "Update": "2023-09-23T15:28:21.227746-04:00",
-        "Label": "HDD 3.5 Seagate EXOS 16TB Recertified"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "Ultrastar DC",
-          "Enterprise",
-          "512mb",
-          "7200rpm",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-10-02T14:29:17.3385611-04:00",
-        "Update": "2023-10-02T15:13:13.7065447-04:00",
-        "Label": "HDD 3.5 WD 14TB HC530 Recertified"
-      },
-      {
-        "Price": 55.00,
-        "Features": [
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-06-29T07:38:17.9677885-04:00",
-        "Update": "2023-12-04T16:09:51.4025294-05:00",
-        "Label": "HDD 3.5 Seagate Desktop 1TB"
-      }
-    ],
     "Chasis": [
       {
         "Price": 235.00,
@@ -1788,6 +1712,72 @@
         "Date": "2023-10-14T08:42:09.5719454-04:00",
         "Update": "2023-12-01T10:22:12.5499085-05:00",
         "Label": "Chasis Cooler Master MasterBox MB511"
+      }
+    ],
+    "Disco Duro": [
+      {
+        "Price": 39.00,
+        "Features": [
+          "Enterprise",
+          "7200rpm",
+          "16mb",
+          "6 Gbps"
+        ],
+        "Date": "2023-07-26T16:40:48.0920023-04:00",
+        "Update": "2023-07-27T08:17:37.3850414-04:00",
+        "Label": "HDD 3.5 Seagate Constellation 2TB SAS"
+      },
+      {
+        "Price": 119.00,
+        "Features": [
+          "Enterprise",
+          "7200rpm",
+          "256mb",
+          "Helium",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-09-23T14:08:58.7274436-04:00",
+        "Update": "2023-09-23T15:28:21.2162108-04:00",
+        "Label": "HDD 3.5 Seagate EXOS 12TB Recertified"
+      },
+      {
+        "Price": 169.00,
+        "Features": [
+          "Enterprise",
+          "7200rpm",
+          "256mb",
+          "Helium",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-09-23T14:09:03.2481261-04:00",
+        "Update": "2023-09-23T15:28:21.227746-04:00",
+        "Label": "HDD 3.5 Seagate EXOS 16TB Recertified"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "Ultrastar DC",
+          "Enterprise",
+          "512mb",
+          "7200rpm",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-10-02T14:29:17.3385611-04:00",
+        "Update": "2023-10-02T15:13:13.7065447-04:00",
+        "Label": "HDD 3.5 WD 14TB HC530 Recertified"
+      },
+      {
+        "Price": 55.00,
+        "Features": [
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-06-29T07:38:17.9677885-04:00",
+        "Update": "2023-12-04T16:09:51.4025294-05:00",
+        "Label": "HDD 3.5 Seagate Desktop 1TB"
       }
     ],
     "Disipador por Aire": [
@@ -2496,7 +2486,7 @@
     ],
     "Tarjeta Gráfica": [
       {
-        "Price": 75.00,
+        "Price": 69.00,
         "Features": [
           "1xFan",
           "300WR",
@@ -2594,7 +2584,7 @@
         "Label": "Tarjeta de Video Asus ROG Strix RTX 4070 Ti OC 12GB"
       },
       {
-        "Price": 325.00,
+        "Price": 315.00,
         "Features": [
           "3xFan",
           "1x8Pin",
@@ -2644,7 +2634,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4080 Eagle OC 16GB"
       },
       {
-        "Price": 305.00,
+        "Price": 299.00,
         "Features": [
           "3xFan",
           "1x8Pin",
@@ -2660,7 +2650,7 @@
         "Label": "Tarjeta de Video Gigabyte RX 6650 XT Eagle 8GB"
       },
       {
-        "Price": 265.00,
+        "Price": 259.00,
         "Features": [
           "8GB",
           "3xFan",
@@ -2727,7 +2717,7 @@
         "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 XT Eagle 8GB"
       },
       {
-        "Price": 545.00,
+        "Price": 525.00,
         "Features": [
           "3xFan",
           "2x8Pin",
@@ -2742,7 +2732,7 @@
         "Label": "Tarjeta de Video Asus TUF RX 7700 XT 12GB"
       },
       {
-        "Price": 195.00,
+        "Price": 189.00,
         "Features": [
           "2xFan",
           "1x8Pin",
@@ -2774,7 +2764,7 @@
         "Label": "Tarjeta de Video EVGA RTX 3070 FTW3 Ultra 8GB"
       },
       {
-        "Price": 299.00,
+        "Price": 295.00,
         "Features": [
           "2xFan",
           "500WR",
@@ -2790,7 +2780,7 @@
         "Label": "Tarjeta de Video XFX Speedster Swift 210 RX 6650 XT 8GB"
       },
       {
-        "Price": 395.00,
+        "Price": 375.00,
         "Features": [
           "3xFan",
           "2 x 8-Pin",
@@ -2837,7 +2827,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Ti Gaming OC 8GB"
       },
       {
-        "Price": 385.00,
+        "Price": 395.00,
         "Features": [
           "DLSS3",
           "2xFan",
@@ -2854,7 +2844,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Eagle OC 8GB"
       },
       {
-        "Price": 339.00,
+        "Price": 329.00,
         "Features": [
           "3xFan",
           "2x8Pin",
@@ -2869,7 +2859,7 @@
         "Label": "Tarjeta de Video XFX Swft 309 RX 6700 10GB"
       },
       {
-        "Price": 205.00,
+        "Price": 199.00,
         "Features": [
           "2xFan",
           "6GB",
@@ -3194,7 +3184,7 @@
         "Label": "Tarjeta de Red Wifi Expansión Derapid Wifi AC1200 Dual Band + Bluetooth"
       },
       {
-        "Price": 38.00,
+        "Price": 43.00,
         "Features": [
           "1200Mbps",
           "PCIe x1",
