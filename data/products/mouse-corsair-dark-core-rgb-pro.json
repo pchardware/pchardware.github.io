@@ -15,7 +15,7 @@
   "Description": "Tres formas de conectarse: tecnología SLIPSTREAM WIRELESS de menos de 1 ms, tecnología inalámbrica Bluetooth de baja latencia o cable USB.\n\nEl potente software CORSAIR iCUE le permite asignar macros, ajustar la tasa de sondeo, personalizar los efectos de iluminación RGB sincronizados en todos sus dispositivos compatibles con iCue y mucho más.\n\nJuega con precisión y precisión precisas gracias a un sensor óptico nativo PixArt PAW3392 de 18.000 DPI, optimizado para ratones inalámbricos con un consumo de energía extremadamente bajo y personalizable en pasos de resolución de 1 DPI.\n\nLa tecnología Hyper-Polling se comunica con su PC a hasta 2,000 Hz, el doble de velocidad que los ratones estándar para juegos, lo que garantiza tiempos de respuesta increíblemente rápidos.\n\nSe carga con un conector USB-C reversible y fácil de usar. Tipo de botón del ratón: Omron\nCómoda forma contorneada con dos agarres laterales intercambiables incluidos para un ajuste a medida.\n\nLa retroiluminación RGB dinámica de nueve zonas, incluida una barra de luz integrada con cinco LED RGB direccionables individualmente, ofrece una personalización casi infinita de colores y efectos de iluminación.\nMostrar más",
   "Price": 105.00,
   "Features": [
-    "Inmalámbrico",
+    "Inalámbrico",
     "USB",
     "1ms",
     "Bluetooth",
@@ -32,6 +32,6 @@
     "Optico"
   ],
   "Date": "2023-10-23T12:31:56.2102743-04:00",
-  "Update": "2023-10-23T13:26:42.3492379-04:00",
+  "Update": "2023-12-07T13:17:19.2304335-05:00",
   "Label": "Mouse Corsair Dark Core RGB Pro"
 }
