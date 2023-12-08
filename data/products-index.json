@@ -1376,6 +1376,13 @@
         "Date": "2023-12-04T16:21:07.1228065-05:00",
         "Update": "2023-12-05T16:42:29.931201-05:00",
         "Label": "Fuente EVGA SuperNova 750 G5"
+      },
+      {
+        "Price": 125.00,
+        "Features": [],
+        "Date": "2023-12-07T22:24:20.3840718-05:00",
+        "Update": "2023-12-07T23:11:17.1714537-05:00",
+        "Label": "Fuente EVGA 650 BP 80+ Bronze"
       }
     ],
     "Disipador Líquido": [
@@ -1864,6 +1871,20 @@
         "Date": "2023-10-14T08:42:09.5719454-04:00",
         "Update": "2023-12-01T10:22:12.5499085-05:00",
         "Label": "Chasis Cooler Master MasterBox MB511"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "Micro ATX",
+          "x2 USB",
+          "Acrilico",
+          "Dust Filter",
+          "Modular I/O Panel",
+          "Negro"
+        ],
+        "Date": "2023-12-07T22:24:12.9113994-05:00",
+        "Update": "2023-12-07T23:11:17.1587976-05:00",
+        "Label": "Chasis Cooler Master MasterBox Q300L Gray"
       }
     ],
     "Disco Duro": [
@@ -4449,6 +4470,20 @@
         "Date": "2023-10-03T06:56:38.0508252-04:00",
         "Update": "2023-12-05T17:20:42.2923598-05:00",
         "Label": "Monitor Gigabyte 27\" G27F-2"
+      },
+      {
+        "Price": 355.00,
+        "Features": [],
+        "Date": "2023-12-07T22:24:06.0563607-05:00",
+        "Update": "2023-12-07T23:11:17.1322925-05:00",
+        "Label": "Monitor Asus TUF 27FHD VG279Q1R"
+      },
+      {
+        "Price": 399.00,
+        "Features": [],
+        "Date": "2023-12-07T22:24:09.640104-05:00",
+        "Update": "2023-12-07T23:11:17.1453714-05:00",
+        "Label": "Monitor Acer Nitro 27QHD VA Curved 170Hz [ED270U P2bmiipx]"
       }
     ],
     "Externo": [
