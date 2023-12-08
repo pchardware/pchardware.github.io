@@ -3089,6 +3089,22 @@
         "Date": "2023-09-23T14:08:44.7733868-04:00",
         "Update": "2023-12-07T12:39:13.7928716-05:00",
         "Label": "Tarjeta de Video Asus Dual RX 6600"
+      },
+      {
+        "Price": 379.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "550WR",
+          "199 mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-12-07T21:45:13.7040885-05:00",
+        "Update": "2023-12-07T22:03:17.3161319-05:00",
+        "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X White OC 8GB"
       }
     ],
     "Board": [
