@@ -796,28 +796,6 @@
         "Label": "SSD M.2 Intel 670P 2TB"
       },
       {
-        "Price": 139.00,
-        "Features": [
-          "7000mbs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-09-23T17:40:22.4977195-04:00",
-        "Update": "2023-09-23T18:19:21.6821981-04:00",
-        "Label": "SSD M.2 Corsair MP600 PRO NH 2TB"
-      },
-      {
-        "Price": 105.00,
-        "Features": [
-          "7450mbs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-08-21T08:57:50.0608494-04:00",
-        "Update": "2023-09-26T11:26:56.7605795-04:00",
-        "Label": "SSD M.2 Samsung 990 PRO 1TB"
-      },
-      {
         "Price": 97.00,
         "Features": [
           "7100mbps",
@@ -879,43 +857,6 @@
         "Label": "SSD M.2 Samsung 980 PRO 1TB"
       },
       {
-        "Price": 145.00,
-        "Features": [
-          "7100mbs",
-          "1400tbw",
-          "Disipador",
-          "Heatsink",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-11-18T23:52:42.9485178-05:00",
-        "Update": "2023-11-19T11:13:04.112665-05:00",
-        "Label": "SSD M.2 Corsair MP600 PRO LPX 2TB Black"
-      },
-      {
-        "Price": 53.00,
-        "Features": [
-          "560mbs",
-          "SATA 3",
-          "160tbw"
-        ],
-        "Date": "2023-11-24T09:48:59.9256442-05:00",
-        "Update": "2023-11-24T10:20:53.1079988-05:00",
-        "Label": "SSD 2.5 Team Group QX 512GB"
-      },
-      {
-        "Price": 69.00,
-        "Features": [
-          "80TBW",
-          "NVMe",
-          "PCI-Express 3.0 x4",
-          "2400 MBps"
-        ],
-        "Date": "2023-11-27T09:55:03.5320741-05:00",
-        "Update": "2023-11-27T10:25:12.5655912-05:00",
-        "Label": "SSD M.2 - WD Green SN350 960TB"
-      },
-      {
         "Price": 84.00,
         "Features": [
           "560mbps",
@@ -962,25 +903,84 @@
         "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 1TB"
       },
       {
+        "Price": 139.00,
+        "Features": [
+          "7000mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-09-23T17:40:22.4977195-04:00",
+        "Update": "2023-12-08T13:42:07.6535024-05:00",
+        "Label": "SSD M.2 Corsair MP600 PRO NH 2TB"
+      },
+      {
+        "Price": 105.00,
+        "Features": [
+          "7450mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-08-21T08:57:50.0608494-04:00",
+        "Update": "2023-12-08T13:42:07.669656-05:00",
+        "Label": "SSD M.2 Samsung 990 PRO 1TB"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "7100mbs",
+          "1400tbw",
+          "Disipador",
+          "Heatsink",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-11-18T23:52:42.9485178-05:00",
+        "Update": "2023-12-08T13:42:07.6873785-05:00",
+        "Label": "SSD M.2 Corsair MP600 PRO LPX 2TB Black"
+      },
+      {
+        "Price": 53.00,
+        "Features": [
+          "560mbs",
+          "SATA 3",
+          "160tbw"
+        ],
+        "Date": "2023-11-24T09:48:59.9256442-05:00",
+        "Update": "2023-12-08T13:42:07.7060869-05:00",
+        "Label": "SSD 2.5 Team Group QX 512GB"
+      },
+      {
+        "Price": 69.00,
+        "Features": [
+          "80TBW",
+          "NVMe",
+          "PCIe 3",
+          "2400 MBps"
+        ],
+        "Date": "2023-11-27T09:55:03.5320741-05:00",
+        "Update": "2023-12-08T13:42:07.7240432-05:00",
+        "Label": "SSD M.2 - WD Green SN350 960TB"
+      },
+      {
         "Price": 79.00,
         "Features": [
           "6600MBps",
-          "PCIe4",
-          "NVMe",
-          "600tbw"
+          "PCIe 4",
+          "600tbw",
+          "NVMe"
         ],
         "Date": "2023-12-07T13:20:30.3520117-05:00",
-        "Update": "2023-12-07T14:11:56.507209-05:00",
+        "Update": "2023-12-08T13:42:07.7679758-05:00",
         "Label": "SSD M.2 Crucial P5 Plus 1TB"
       },
       {
         "Price": 59.00,
         "Features": [
           "3500MBps",
-          "PCIe4"
+          "PCIe 4"
         ],
         "Date": "2023-12-07T13:20:36.3839284-05:00",
-        "Update": "2023-12-07T14:11:56.5548174-05:00",
+        "Update": "2023-12-08T13:42:07.783506-05:00",
         "Label": "SSD M.2 Solidigm P41 Plus 512GB"
       },
       {
@@ -991,18 +991,18 @@
           "NVMe"
         ],
         "Date": "2023-12-07T13:20:39.5602767-05:00",
-        "Update": "2023-12-07T14:11:56.576146-05:00",
+        "Update": "2023-12-08T13:42:07.7995659-05:00",
         "Label": "SSD M.2 HP EX900 500GB"
       },
       {
         "Price": 79.00,
         "Features": [
           "3500MBps",
-          "PCIe4",
+          "PCIe 4",
           "NVMe"
         ],
         "Date": "2023-12-07T13:20:26.5920422-05:00",
-        "Update": "2023-12-07T14:14:26.5126461-05:00",
+        "Update": "2023-12-08T13:42:07.8169404-05:00",
         "Label": "SSD M.2 TeamGroup T-Force Z44L 1TB"
       },
       {
@@ -1010,11 +1010,11 @@
         "Features": [
           "7300MBps",
           "2400tbw",
-          "PCIe4",
+          "PCIe 4",
           "NVMe"
         ],
         "Date": "2023-12-07T13:20:33.368904-05:00",
-        "Update": "2023-12-07T14:14:26.5360995-05:00",
+        "Update": "2023-12-08T13:42:07.8316492-05:00",
         "Label": "SSD M.2 WD BLACK SN850X 4TB (7300/6300)"
       }
     ],
@@ -1817,20 +1817,6 @@
         "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
       },
       {
-        "Price": 179.00,
-        "Features": [
-          "ATX",
-          "Mid Tower",
-          "Tempered Glass",
-          "x1 HDD3.5",
-          "x3 HDD2.5",
-          "120mm D-RGB fan"
-        ],
-        "Date": "2023-11-30T11:20:38.8740683-05:00",
-        "Update": "2023-11-30T14:11:17.666122-05:00",
-        "Label": "Chasis Phanteks Eclipse G300A Mesh D-RGB Black"
-      },
-      {
         "Price": 169.00,
         "Features": [
           "Tempered Glass",
@@ -1859,6 +1845,20 @@
         "Date": "2023-12-07T22:24:12.9113994-05:00",
         "Update": "2023-12-08T12:55:48.7729192-05:00",
         "Label": "Chasis Cooler Master MasterBox Q300L Gray"
+      },
+      {
+        "Price": 179.00,
+        "Features": [
+          "ATX",
+          "Mid Tower",
+          "Tempered Glass",
+          "x1 HDD3.5",
+          "x3 HDD2.5",
+          "120mm D-RGB fan"
+        ],
+        "Date": "2023-11-30T11:20:38.8740683-05:00",
+        "Update": "2023-12-08T13:42:07.753321-05:00",
+        "Label": "Chasis Phanteks Eclipse G300A Mesh D-RGB Black"
       }
     ],
     "Disco Duro": [
