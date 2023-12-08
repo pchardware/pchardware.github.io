@@ -796,33 +796,6 @@
         "Label": "SSD M.2 Intel 670P 2TB"
       },
       {
-        "Price": 97.00,
-        "Features": [
-          "7100mbps",
-          "HeatSink",
-          "700tbw",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-10-02T14:29:43.5652436-04:00",
-        "Update": "2023-10-02T15:13:13.8636858-04:00",
-        "Label": "SSD M.2 Corsair MP600 PRO LPX 1TB White"
-      },
-      {
-        "Price": 145.00,
-        "Features": [
-          "7100mbs",
-          "1400tbw",
-          "Disipador",
-          "Heatsink",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-10-13T09:28:29.8930928-04:00",
-        "Update": "2023-10-13T10:18:39.9791691-04:00",
-        "Label": "SSD M.2 Corsair MP600 Pro XT 2TB"
-      },
-      {
         "Price": 169.00,
         "Features": [
           "7450mbs",
@@ -845,18 +818,6 @@
         "Label": "SSD 2.5 Team Group CX2 1TB"
       },
       {
-        "Price": 93.00,
-        "Features": [
-          "7000mbs",
-          "600tbw",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-07-12T21:43:06.2525927-04:00",
-        "Update": "2023-11-07T21:26:53.3840028-05:00",
-        "Label": "SSD M.2 Samsung 980 PRO 1TB"
-      },
-      {
         "Price": 84.00,
         "Features": [
           "560mbps",
@@ -876,31 +837,6 @@
         "Date": "2023-11-24T09:48:53.7194411-05:00",
         "Update": "2023-12-03T15:39:47.9521384-05:00",
         "Label": "SSD 2.5 Acer SA100 960GB"
-      },
-      {
-        "Price": 85.00,
-        "Features": [
-          "7400mbs",
-          "PCIe 4",
-          "1450tbw",
-          "NVMe"
-        ],
-        "Date": "2023-09-23T17:40:17.7101762-04:00",
-        "Update": "2023-12-04T16:09:51.4149498-05:00",
-        "Label": "SSD M.2 Team Group MP44 1TB"
-      },
-      {
-        "Price": 83.00,
-        "Features": [
-          "7000mbps",
-          "HeatSink",
-          "700tbw",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-10-02T14:29:40.7946679-04:00",
-        "Update": "2023-12-04T16:09:51.4397463-05:00",
-        "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 1TB"
       },
       {
         "Price": 139.00,
@@ -925,20 +861,6 @@
         "Label": "SSD M.2 Samsung 990 PRO 1TB"
       },
       {
-        "Price": 145.00,
-        "Features": [
-          "7100mbs",
-          "1400tbw",
-          "Disipador",
-          "Heatsink",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-11-18T23:52:42.9485178-05:00",
-        "Update": "2023-12-08T13:42:07.6873785-05:00",
-        "Label": "SSD M.2 Corsair MP600 PRO LPX 2TB Black"
-      },
-      {
         "Price": 53.00,
         "Features": [
           "560mbs",
@@ -948,18 +870,6 @@
         "Date": "2023-11-24T09:48:59.9256442-05:00",
         "Update": "2023-12-08T13:42:07.7060869-05:00",
         "Label": "SSD 2.5 Team Group QX 512GB"
-      },
-      {
-        "Price": 69.00,
-        "Features": [
-          "80TBW",
-          "NVMe",
-          "PCIe 3",
-          "2400 MBps"
-        ],
-        "Date": "2023-11-27T09:55:03.5320741-05:00",
-        "Update": "2023-12-08T13:42:07.7240432-05:00",
-        "Label": "SSD M.2 - WD Green SN350 960TB"
       },
       {
         "Price": 79.00,
@@ -984,6 +894,96 @@
         "Label": "SSD M.2 Solidigm P41 Plus 512GB"
       },
       {
+        "Price": 97.00,
+        "Features": [
+          "7100mbps",
+          "HeatSink",
+          "700tbw",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-10-02T14:29:43.5652436-04:00",
+        "Update": "2023-12-08T13:47:00.0029855-05:00",
+        "Label": "SSD M.2 Corsair MP600 PRO LPX 1TB White"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "7100mbs",
+          "1400tbw",
+          "Disipador",
+          "Heatsink",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-10-13T09:28:29.8930928-04:00",
+        "Update": "2023-12-08T13:47:00.0362719-05:00",
+        "Label": "SSD M.2 Corsair MP600 Pro XT 2TB"
+      },
+      {
+        "Price": 93.00,
+        "Features": [
+          "7000mbs",
+          "600tbw",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-07-12T21:43:06.2525927-04:00",
+        "Update": "2023-12-08T13:47:00.0530064-05:00",
+        "Label": "SSD M.2 Samsung 980 PRO 1TB"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "7100mbs",
+          "1400tbw",
+          "Disipador",
+          "Heatsink",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-11-18T23:52:42.9485178-05:00",
+        "Update": "2023-12-08T13:47:00.0679553-05:00",
+        "Label": "SSD M.2 Corsair MP600 PRO LPX 2TB Black"
+      },
+      {
+        "Price": 69.00,
+        "Features": [
+          "80TBW",
+          "NVMe",
+          "PCIe 3",
+          "2400 MBps"
+        ],
+        "Date": "2023-11-27T09:55:03.5320741-05:00",
+        "Update": "2023-12-08T13:47:00.0834153-05:00",
+        "Label": "SSD M.2 - WD Green SN350 960TB"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "7400mbs",
+          "PCIe 4",
+          "1450tbw",
+          "NVMe"
+        ],
+        "Date": "2023-09-23T17:40:17.7101762-04:00",
+        "Update": "2023-12-08T13:47:00.0964285-05:00",
+        "Label": "SSD M.2 Team Group MP44 1TB"
+      },
+      {
+        "Price": 83.00,
+        "Features": [
+          "7000mbps",
+          "HeatSink",
+          "700tbw",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-10-02T14:29:40.7946679-04:00",
+        "Update": "2023-12-08T13:47:00.1107133-05:00",
+        "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 1TB"
+      },
+      {
         "Price": 55.00,
         "Features": [
           "2100MBps",
@@ -991,7 +991,7 @@
           "NVMe"
         ],
         "Date": "2023-12-07T13:20:39.5602767-05:00",
-        "Update": "2023-12-08T13:42:07.7995659-05:00",
+        "Update": "2023-12-08T13:47:00.1263847-05:00",
         "Label": "SSD M.2 HP EX900 500GB"
       },
       {
@@ -1002,7 +1002,7 @@
           "NVMe"
         ],
         "Date": "2023-12-07T13:20:26.5920422-05:00",
-        "Update": "2023-12-08T13:42:07.8169404-05:00",
+        "Update": "2023-12-08T13:47:00.1476178-05:00",
         "Label": "SSD M.2 TeamGroup T-Force Z44L 1TB"
       },
       {
@@ -1014,7 +1014,7 @@
           "NVMe"
         ],
         "Date": "2023-12-07T13:20:33.368904-05:00",
-        "Update": "2023-12-08T13:42:07.8316492-05:00",
+        "Update": "2023-12-08T13:47:00.1671814-05:00",
         "Label": "SSD M.2 WD BLACK SN850X 4TB (7300/6300)"
       }
     ],
