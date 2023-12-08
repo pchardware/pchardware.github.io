@@ -789,6 +789,18 @@
         "Date": "2023-12-04T16:22:01.2672974-05:00",
         "Update": "2023-12-05T17:03:39.3478758-05:00",
         "Label": "Acasis Weastlinks 8xSATA"
+      },
+      {
+        "Price": 19.00,
+        "Features": [
+          "1800rpm",
+          "30dBa",
+          "120mm",
+          "ARGB"
+        ],
+        "Date": "2023-12-07T23:40:08.0174775-05:00",
+        "Update": "2023-12-08T00:14:07.6947182-05:00",
+        "Label": "Fan Cooler Master MasterFan MF120R ARGB"
       }
     ],
     "Disco Sólido": [
@@ -3134,6 +3146,23 @@
         "Date": "2023-12-07T21:45:13.7040885-05:00",
         "Update": "2023-12-07T22:03:17.3161319-05:00",
         "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X White OC 8GB"
+      },
+      {
+        "Price": 259.00,
+        "Features": [
+          "1xFan",
+          "6GB",
+          "x18Pin",
+          "500WR",
+          "190mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-12-07T23:40:36.0331524-05:00",
+        "Update": "2023-12-08T00:14:07.7389732-05:00",
+        "Label": "Tarjeta de Video EVGA RTX 2060 Gaming 6GB"
       }
     ],
     "Board": [
@@ -3178,122 +3207,6 @@
         "Label": "Board MSI Z590 Pro Wifi CEC"
       },
       {
-        "Price": 385.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "DDR5",
-          "8xUSB",
-          "Wifi",
-          "6xAudio",
-          "6xSATA",
-          "6400mhz",
-          "LGA 1700",
-          "ATX",
-          "HDMI",
-          "MOBO"
-        ],
-        "Date": "2023-06-19T07:50:08.4731323-04:00",
-        "Update": "2023-11-19T11:13:03.5602566-05:00",
-        "Label": "Board Asus ROG Maximus Z690 Hero"
-      },
-      {
-        "Price": 315.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "10xUSB",
-          "DDR5",
-          "6xAudio",
-          "6xSATA",
-          "6400mhz",
-          "LGA 1700",
-          "ATX",
-          "DisplayPort",
-          "HDMI",
-          "MOBO"
-        ],
-        "Date": "2023-05-11T07:51:07.1403838-04:00",
-        "Update": "2023-11-19T11:13:03.5943376-05:00",
-        "Label": "Board Asus ROG Strix Z690-E Gaming Wifi"
-      },
-      {
-        "Price": 339.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "DDR5",
-          "7800mhz",
-          "8xUSB",
-          "6xAudio",
-          "4xSATA",
-          "LGA 1700",
-          "ATX",
-          "DisplayPort",
-          "HDMI",
-          "MOBO"
-        ],
-        "Date": "2023-03-29T20:18:17.8757341-04:00",
-        "Update": "2023-11-19T11:13:03.6090395-05:00",
-        "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
-      },
-      {
-        "Price": 249.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "DDR5",
-          "7600mhz",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "LGA 1700",
-          "ATX",
-          "PS2",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio",
-          "MOBO"
-        ],
-        "Date": "2023-07-26T18:48:17.6030093-04:00",
-        "Update": "2023-11-19T11:13:03.6278523-05:00",
-        "Label": "Board Gigabyte Z790 UD AX"
-      },
-      {
-        "Price": 279.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "DDR5",
-          "7600mhz",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "LGA 1700",
-          "ATX",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio",
-          "MOBO"
-        ],
-        "Date": "2023-10-03T06:55:49.2464488-04:00",
-        "Update": "2023-11-19T11:13:03.6561611-05:00",
-        "Label": "Board Gigabyte Z790 Aorus Elite AX"
-      },
-      {
-        "Price": 159.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "4800mhz",
-          "DDR4",
-          "6xUSB",
-          "4xSATA",
-          "HDMI",
-          "LGA 1700",
-          "3xAudio",
-          "Micro ATX",
-          "MOBO"
-        ],
-        "Date": "2023-10-16T10:24:36.0269962-04:00",
-        "Update": "2023-11-19T11:13:03.6849671-05:00",
-        "Label": "Board ASRock Z690M Phantom Gaming 4"
-      },
-      {
         "Price": 285.00,
         "Features": [
           "12va-13ra-14ta",
@@ -3314,64 +3227,6 @@
         "Label": "Board Asus ROG Strix Z690-F Gaming Wifi"
       },
       {
-        "Price": 239.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "9xUSB",
-          "DDR5",
-          "6xSATA",
-          "Wifi",
-          "6000mhz",
-          "LGA1700",
-          "HDMI",
-          "DisplayPort",
-          "3xAudio",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-08-21T08:58:08.2009183-04:00",
-        "Update": "2023-11-19T11:13:03.7516734-05:00",
-        "Label": "Board Gigabyte Z690 Aorus Elite AX"
-      },
-      {
-        "Price": 159.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "4800mhz",
-          "VGA",
-          "5xUSB",
-          "HDMI",
-          "DisplayPort",
-          "Micro ATX",
-          "LGA 1700",
-          "4xSATA",
-          "3xAudio",
-          "MOBO"
-        ],
-        "Date": "2023-10-11T10:56:24.0277774-04:00",
-        "Update": "2023-11-19T11:13:03.7728211-05:00",
-        "Label": "Board MSI Pro B760M-P DDR4"
-      },
-      {
-        "Price": 189.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "Dual Lan",
-          "8xUSB",
-          "6xAudio",
-          "DDR4",
-          "5333mhz",
-          "4xSATA",
-          "LGA 1700",
-          "ATX",
-          "HDMI",
-          "MOBO"
-        ],
-        "Date": "2023-02-17T09:46:18.404887-05:00",
-        "Update": "2023-11-21T08:52:12.9476285-05:00",
-        "Label": "Board Asus B660 ProArt Creator D4"
-      },
-      {
         "Price": 185.00,
         "Features": [
           "12-13-14Gen",
@@ -3388,22 +3243,6 @@
         "Date": "2023-11-30T11:20:59.3135657-05:00",
         "Update": "2023-11-30T14:11:17.7192482-05:00",
         "Label": "Board Asus TUF B760M-Plus Wifi D4"
-      },
-      {
-        "Price": 185.00,
-        "Features": [
-          "12va-13ra-14va",
-          "DDR4",
-          "5000mhz",
-          "LGA 1700",
-          "x8 USB",
-          "x4 SATA",
-          "ATX",
-          "RGB"
-        ],
-        "Date": "2023-12-04T16:21:54.4596991-05:00",
-        "Update": "2023-12-04T17:32:00.8763245-05:00",
-        "Label": "Board ASRock Z690 Phantom Gaming 4 DDR4"
       },
       {
         "Price": 185.00,
@@ -3441,6 +3280,216 @@
         "Date": "2023-10-11T10:56:39.5272184-04:00",
         "Update": "2023-12-07T12:39:13.9344329-05:00",
         "Label": "Board ASRock B550M Pro SE"
+      },
+      {
+        "Price": 385.00,
+        "Features": [
+          "12-13-14Gen",
+          "DDR5",
+          "8xUSB",
+          "Wifi",
+          "6xAudio",
+          "6xSATA",
+          "6400mhz",
+          "LGA 1700",
+          "ATX",
+          "HDMI",
+          "MOBO"
+        ],
+        "Date": "2023-06-19T07:50:08.4731323-04:00",
+        "Update": "2023-12-08T00:14:07.5383857-05:00",
+        "Label": "Board Asus ROG Maximus Z690 Hero"
+      },
+      {
+        "Price": 315.00,
+        "Features": [
+          "12-13-14Gen",
+          "10xUSB",
+          "DDR5",
+          "6xAudio",
+          "6xSATA",
+          "6400mhz",
+          "LGA 1700",
+          "ATX",
+          "DisplayPort",
+          "HDMI",
+          "MOBO"
+        ],
+        "Date": "2023-05-11T07:51:07.1403838-04:00",
+        "Update": "2023-12-08T00:14:07.553958-05:00",
+        "Label": "Board Asus ROG Strix Z690-E Gaming Wifi"
+      },
+      {
+        "Price": 339.00,
+        "Features": [
+          "12-13-14Gen",
+          "DDR5",
+          "7800mhz",
+          "8xUSB",
+          "6xAudio",
+          "4xSATA",
+          "LGA 1700",
+          "ATX",
+          "DisplayPort",
+          "HDMI",
+          "MOBO"
+        ],
+        "Date": "2023-03-29T20:18:17.8757341-04:00",
+        "Update": "2023-12-08T00:14:07.5713234-05:00",
+        "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
+      },
+      {
+        "Price": 249.00,
+        "Features": [
+          "12-13-14Gen",
+          "DDR5",
+          "7600mhz",
+          "Wifi",
+          "9xUSB",
+          "6xSATA",
+          "LGA 1700",
+          "ATX",
+          "PS2",
+          "DisplayPort",
+          "HDMI",
+          "3xAudio",
+          "MOBO"
+        ],
+        "Date": "2023-07-26T18:48:17.6030093-04:00",
+        "Update": "2023-12-08T00:14:07.5866209-05:00",
+        "Label": "Board Gigabyte Z790 UD AX"
+      },
+      {
+        "Price": 279.00,
+        "Features": [
+          "12-13-14Gen",
+          "DDR5",
+          "7600mhz",
+          "Wifi",
+          "9xUSB",
+          "6xSATA",
+          "LGA 1700",
+          "ATX",
+          "DisplayPort",
+          "HDMI",
+          "3xAudio",
+          "MOBO"
+        ],
+        "Date": "2023-10-03T06:55:49.2464488-04:00",
+        "Update": "2023-12-08T00:14:07.600092-05:00",
+        "Label": "Board Gigabyte Z790 Aorus Elite AX"
+      },
+      {
+        "Price": 159.00,
+        "Features": [
+          "12-13-14Gen",
+          "4800mhz",
+          "DDR4",
+          "6xUSB",
+          "4xSATA",
+          "HDMI",
+          "LGA 1700",
+          "3xAudio",
+          "Micro ATX",
+          "MOBO"
+        ],
+        "Date": "2023-10-16T10:24:36.0269962-04:00",
+        "Update": "2023-12-08T00:14:07.6151802-05:00",
+        "Label": "Board ASRock Z690M Phantom Gaming 4"
+      },
+      {
+        "Price": 239.00,
+        "Features": [
+          "12-13-14Gen",
+          "9xUSB",
+          "DDR5",
+          "6xSATA",
+          "Wifi",
+          "6000mhz",
+          "LGA1700",
+          "HDMI",
+          "DisplayPort",
+          "3xAudio",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-08-21T08:58:08.2009183-04:00",
+        "Update": "2023-12-08T00:14:07.6299977-05:00",
+        "Label": "Board Gigabyte Z690 Aorus Elite AX"
+      },
+      {
+        "Price": 159.00,
+        "Features": [
+          "12-13-14Gen",
+          "4800mhz",
+          "VGA",
+          "5xUSB",
+          "HDMI",
+          "DisplayPort",
+          "Micro ATX",
+          "LGA 1700",
+          "4xSATA",
+          "3xAudio",
+          "MOBO"
+        ],
+        "Date": "2023-10-11T10:56:24.0277774-04:00",
+        "Update": "2023-12-08T00:14:07.6466089-05:00",
+        "Label": "Board MSI Pro B760M-P DDR4"
+      },
+      {
+        "Price": 189.00,
+        "Features": [
+          "12-13-14Gen",
+          "Dual Lan",
+          "8xUSB",
+          "6xAudio",
+          "DDR4",
+          "5333mhz",
+          "4xSATA",
+          "LGA 1700",
+          "ATX",
+          "HDMI",
+          "MOBO"
+        ],
+        "Date": "2023-02-17T09:46:18.404887-05:00",
+        "Update": "2023-12-08T00:14:07.6629378-05:00",
+        "Label": "Board Asus B660 ProArt Creator D4"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "12-13-14Gen",
+          "DDR4",
+          "5000mhz",
+          "LGA 1700",
+          "x8 USB",
+          "x4 SATA",
+          "ATX",
+          "RGB"
+        ],
+        "Date": "2023-12-04T16:21:54.4596991-05:00",
+        "Update": "2023-12-08T00:14:07.6779189-05:00",
+        "Label": "Board ASRock Z690 Phantom Gaming 4 DDR4"
+      },
+      {
+        "Price": 249.00,
+        "Features": [
+          "12-13-14Gen",
+          "DDR5",
+          "6600mhz",
+          "wifi",
+          "x7USB",
+          "x4SATA",
+          "LGA1700",
+          "DP",
+          "HDMMI",
+          "WIFI",
+          "Bluetooth",
+          "ATX"
+        ],
+        "Date": "2023-12-07T23:40:26.7525408-05:00",
+        "Update": "2023-12-08T00:14:07.7092293-05:00",
+        "Label": "Board MSI Pro Z790-S Wifi"
       }
     ],
     "Red": [
@@ -4199,6 +4248,17 @@
         "Date": "2023-12-07T13:02:34.4723692-05:00",
         "Update": "2023-12-07T13:17:19.3449285-05:00",
         "Label": "Mouse Asus JM3"
+      },
+      {
+        "Price": 13.00,
+        "Features": [
+          "2 Botones",
+          "Scroll",
+          "Cableado"
+        ],
+        "Date": "2023-12-07T23:40:32.1050658-05:00",
+        "Update": "2023-12-08T00:14:07.7234426-05:00",
+        "Label": "Mouse HP 320m"
       }
     ],
     "Adaptador": [
