@@ -1857,7 +1857,7 @@
           "Negro"
         ],
         "Date": "2023-12-07T22:24:12.9113994-05:00",
-        "Update": "2023-12-07T23:11:17.1587976-05:00",
+        "Update": "2023-12-08T12:55:48.7729192-05:00",
         "Label": "Chasis Cooler Master MasterBox Q300L Gray"
       }
     ],
@@ -3118,26 +3118,72 @@
         "Label": "Tarjeta de Video EVGA RTX 2060 Gaming 6GB"
       }
     ],
-    "Board": [
+    "Red": [
       {
-        "Price": 245.00,
+        "Price": 19.00,
         "Features": [
-          "AM5",
-          "DDR5",
-          "6400mhz",
-          "Wifi",
-          "5xAudio",
-          "6xUSB",
-          "4xSATA",
-          "DisplayPort",
-          "HDMI",
-          "ATX",
-          "MOBO"
+          "PCIe x1",
+          "300Mbps",
+          "2.4GHz"
         ],
-        "Date": "2023-10-03T06:55:51.8601602-04:00",
-        "Update": "2023-11-07T17:32:40.4930836-05:00",
-        "Label": "Board Asus TUF Gaming B650-Plus Wifi"
+        "Date": "2023-06-07T15:04:18.9988293-04:00",
+        "Update": "2023-12-07T01:35:03.2489207-05:00",
+        "Label": "Tarjeta de Red Wifi TP-Link Wifi Adapter 300N"
       },
+      {
+        "Price": 29.00,
+        "Features": [
+          "PCIe x1",
+          "433 Mbps",
+          "interna",
+          "Adaptador"
+        ],
+        "Date": "2023-06-07T15:04:12.3798994-04:00",
+        "Update": "2023-12-07T01:35:03.2870135-05:00",
+        "Label": "Tarjeta de Red Wifi Gigabyte PCIe Expansion Card Bluetooth y WiFi"
+      },
+      {
+        "Price": 37.00,
+        "Features": [
+          "1200Mbps",
+          "PCIe x1",
+          "2.4Ghz",
+          "5Ghz",
+          "Interna",
+          "Adaptador"
+        ],
+        "Date": "2023-10-13T09:28:37.8953004-04:00",
+        "Update": "2023-12-07T01:35:03.3296769-05:00",
+        "Label": "Tarjeta de Red Wifi Expansión Derapid Wifi AC1200 Dual Band + Bluetooth"
+      },
+      {
+        "Price": 43.00,
+        "Features": [
+          "1200Mbps",
+          "PCIe x1",
+          "Interna",
+          "2.4GHz",
+          "5GHz",
+          "Adaptador"
+        ],
+        "Date": "2023-12-04T17:33:10.8492635-05:00",
+        "Update": "2023-12-07T01:35:03.3726999-05:00",
+        "Label": "Tarjeta de Red Wifi Fenvi Wireless 1200 Dual Band + Bluetooh"
+      },
+      {
+        "Price": 43.00,
+        "Features": [
+          "PCIe",
+          "Wifi",
+          "2.4 GHz",
+          "5.8 GHz"
+        ],
+        "Date": "2023-12-04T16:21:27.4025597-05:00",
+        "Update": "2023-12-07T12:39:13.9484247-05:00",
+        "Label": "Rosewill Dual Band AC1300 Wireless"
+      }
+    ],
+    "Board": [
       {
         "Price": 185.00,
         "Features": [
@@ -3195,101 +3241,6 @@
         "Date": "2023-10-28T11:52:00.1054489-04:00",
         "Update": "2023-12-08T11:21:36.7655385-05:00",
         "Label": "Board MSI Z590 Pro Wifi CEC"
-      },
-      {
-        "Price": 285.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "6400mhz",
-          "BIOS FlashBack",
-          "8xUSB",
-          "6xAudio",
-          "6xSATA",
-          "HDMI",
-          "DisplayPort",
-          "LGA 1700",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-05-11T07:52:19.4562926-04:00",
-        "Update": "2023-12-08T11:21:36.7978347-05:00",
-        "Label": "Board Asus ROG Strix Z690-F Gaming Wifi"
-      },
-      {
-        "Price": 185.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "5333mhz",
-          "DisplayPort",
-          "HDMI port",
-          "Wi-Fi Module",
-          "x7USB",
-          "x4SATA",
-          "DDR4",
-          "Micro ATX",
-          "x5 Audio"
-        ],
-        "Date": "2023-11-30T11:20:59.3135657-05:00",
-        "Update": "2023-12-08T11:21:36.8158043-05:00",
-        "Label": "Board Asus TUF B760M-Plus Wifi D4"
-      },
-      {
-        "Price": 385.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "8xUSB",
-          "Wifi",
-          "6xAudio",
-          "6xSATA",
-          "6400mhz",
-          "LGA 1700",
-          "ATX",
-          "HDMI",
-          "MOBO"
-        ],
-        "Date": "2023-06-19T07:50:08.4731323-04:00",
-        "Update": "2023-12-08T11:21:36.8340296-05:00",
-        "Label": "Board Asus ROG Maximus Z690 Hero"
-      },
-      {
-        "Price": 315.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "10xUSB",
-          "DDR5",
-          "6xAudio",
-          "6xSATA",
-          "6400mhz",
-          "LGA 1700",
-          "ATX",
-          "DisplayPort",
-          "HDMI",
-          "MOBO"
-        ],
-        "Date": "2023-05-11T07:51:07.1403838-04:00",
-        "Update": "2023-12-08T11:21:36.8509325-05:00",
-        "Label": "Board Asus ROG Strix Z690-E Gaming Wifi"
-      },
-      {
-        "Price": 339.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "7800mhz",
-          "8xUSB",
-          "6xAudio",
-          "4xSATA",
-          "LGA 1700",
-          "ATX",
-          "DisplayPort",
-          "HDMI",
-          "MOBO"
-        ],
-        "Date": "2023-03-29T20:18:17.8757341-04:00",
-        "Update": "2023-12-08T11:21:36.8670248-05:00",
-        "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
       },
       {
         "Price": 249.00,
@@ -3409,22 +3360,6 @@
         "Label": "Board Asus B660 ProArt Creator D4"
       },
       {
-        "Price": 185.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR4",
-          "5000mhz",
-          "LGA 1700",
-          "x8 USB",
-          "x4 SATA",
-          "ATX",
-          "RGB"
-        ],
-        "Date": "2023-12-04T16:21:54.4596991-05:00",
-        "Update": "2023-12-08T11:21:37.0071708-05:00",
-        "Label": "Board ASRock Z690 Phantom Gaming 4 DDR4"
-      },
-      {
         "Price": 249.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -3443,71 +3378,136 @@
         "Date": "2023-12-07T23:40:26.7525408-05:00",
         "Update": "2023-12-08T11:21:37.0294594-05:00",
         "Label": "Board MSI Pro Z790-S Wifi"
-      }
-    ],
-    "Red": [
-      {
-        "Price": 19.00,
-        "Features": [
-          "PCIe x1",
-          "300Mbps",
-          "2.4GHz"
-        ],
-        "Date": "2023-06-07T15:04:18.9988293-04:00",
-        "Update": "2023-12-07T01:35:03.2489207-05:00",
-        "Label": "Tarjeta de Red Wifi TP-Link Wifi Adapter 300N"
       },
       {
-        "Price": 29.00,
+        "Price": 245.00,
         "Features": [
-          "PCIe x1",
-          "433 Mbps",
-          "interna",
-          "Adaptador"
-        ],
-        "Date": "2023-06-07T15:04:12.3798994-04:00",
-        "Update": "2023-12-07T01:35:03.2870135-05:00",
-        "Label": "Tarjeta de Red Wifi Gigabyte PCIe Expansion Card Bluetooth y WiFi"
-      },
-      {
-        "Price": 37.00,
-        "Features": [
-          "1200Mbps",
-          "PCIe x1",
-          "2.4Ghz",
-          "5Ghz",
-          "Interna",
-          "Adaptador"
-        ],
-        "Date": "2023-10-13T09:28:37.8953004-04:00",
-        "Update": "2023-12-07T01:35:03.3296769-05:00",
-        "Label": "Tarjeta de Red Wifi Expansión Derapid Wifi AC1200 Dual Band + Bluetooth"
-      },
-      {
-        "Price": 43.00,
-        "Features": [
-          "1200Mbps",
-          "PCIe x1",
-          "Interna",
-          "2.4GHz",
-          "5GHz",
-          "Adaptador"
-        ],
-        "Date": "2023-12-04T17:33:10.8492635-05:00",
-        "Update": "2023-12-07T01:35:03.3726999-05:00",
-        "Label": "Tarjeta de Red Wifi Fenvi Wireless 1200 Dual Band + Bluetooh"
-      },
-      {
-        "Price": 43.00,
-        "Features": [
-          "PCIe",
+          "AM5",
+          "DDR5",
+          "6400mhz",
           "Wifi",
-          "2.4 GHz",
-          "5.8 GHz"
+          "5xAudio",
+          "6xUSB",
+          "4xSATA",
+          "DisplayPort",
+          "HDMI",
+          "ATX",
+          "MOBO"
         ],
-        "Date": "2023-12-04T16:21:27.4025597-05:00",
-        "Update": "2023-12-07T12:39:13.9484247-05:00",
-        "Label": "Rosewill Dual Band AC1300 Wireless"
+        "Date": "2023-10-03T06:55:51.8601602-04:00",
+        "Update": "2023-12-08T12:55:48.7261566-05:00",
+        "Label": "Board Asus TUF Gaming B650-Plus Wifi"
+      },
+      {
+        "Price": 285.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "6400mhz",
+          "BIOS FlashBack",
+          "8xUSB",
+          "6xAudio",
+          "6xSATA",
+          "HDMI",
+          "DisplayPort",
+          "LGA 1700",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-05-11T07:52:19.4562926-04:00",
+        "Update": "2023-12-08T12:55:48.73963-05:00",
+        "Label": "Board Asus ROG Strix Z690-F Gaming Wifi"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "5333mhz",
+          "DisplayPort",
+          "HDMI port",
+          "Wi-Fi Module",
+          "x7USB",
+          "x4SATA",
+          "DDR4",
+          "Micro ATX",
+          "x5 Audio"
+        ],
+        "Date": "2023-11-30T11:20:59.3135657-05:00",
+        "Update": "2023-12-08T12:55:48.7538561-05:00",
+        "Label": "Board Asus TUF B760M-Plus Wifi D4"
+      },
+      {
+        "Price": 385.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "8xUSB",
+          "Wifi",
+          "6xAudio",
+          "6xSATA",
+          "6400mhz",
+          "LGA 1700",
+          "ATX",
+          "HDMI",
+          "MOBO"
+        ],
+        "Date": "2023-06-19T07:50:08.4731323-04:00",
+        "Update": "2023-12-08T12:55:48.7884583-05:00",
+        "Label": "Board Asus ROG Maximus Z690 Hero"
+      },
+      {
+        "Price": 315.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "10xUSB",
+          "DDR5",
+          "6xAudio",
+          "6xSATA",
+          "6400mhz",
+          "LGA 1700",
+          "ATX",
+          "DisplayPort",
+          "HDMI",
+          "MOBO"
+        ],
+        "Date": "2023-05-11T07:51:07.1403838-04:00",
+        "Update": "2023-12-08T12:55:48.8021222-05:00",
+        "Label": "Board Asus ROG Strix Z690-E Gaming Wifi"
+      },
+      {
+        "Price": 339.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "7800mhz",
+          "8xUSB",
+          "6xAudio",
+          "4xSATA",
+          "LGA 1700",
+          "ATX",
+          "DisplayPort",
+          "HDMI",
+          "MOBO"
+        ],
+        "Date": "2023-03-29T20:18:17.8757341-04:00",
+        "Update": "2023-12-08T12:55:48.8159491-05:00",
+        "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR4",
+          "5000mhz",
+          "LGA 1700",
+          "x8 USB",
+          "x4 SATA",
+          "ATX",
+          "RGB"
+        ],
+        "Date": "2023-12-04T16:21:54.4596991-05:00",
+        "Update": "2023-12-08T12:55:48.8312461-05:00",
+        "Label": "Board ASRock Z690 Phantom Gaming 4 DDR4"
       }
     ]
   },
