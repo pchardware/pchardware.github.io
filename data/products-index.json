@@ -4559,23 +4559,6 @@
     ],
     "Auriculares": [
       {
-        "Price": 67.00,
-        "Features": [
-          "Inalámbrico",
-          "40mm",
-          "USB",
-          "18H",
-          "165g",
-          "Headset",
-          "Micrófono",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-07-09T16:45:46.4090102-04:00",
-        "Update": "2023-10-19T12:52:18.6041154-04:00",
-        "Label": "Auriculares Logitech G435 Lightspeed Wireless"
-      },
-      {
         "Price": 129.00,
         "Features": [
           "Noise Control",
@@ -4650,6 +4633,23 @@
         "Label": "Auriculares Corsair HS65 Surround"
       },
       {
+        "Price": 67.00,
+        "Features": [
+          "Inalámbrico",
+          "40mm",
+          "USB",
+          "18H",
+          "165g",
+          "Headset",
+          "Micrófono",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-07-09T16:45:46.4090102-04:00",
+        "Update": "2023-12-08T14:08:33.4615609-05:00",
+        "Label": "Auriculares Logitech G435 Lightspeed Wireless"
+      },
+      {
         "Price": 129.00,
         "Features": [
           "Noise Control",
@@ -4664,7 +4664,7 @@
           "Audífonos"
         ],
         "Date": "2023-09-23T14:08:54.0159291-04:00",
-        "Update": "2023-12-07T12:39:13.8351317-05:00",
+        "Update": "2023-12-08T14:08:33.4767149-05:00",
         "Label": "Auriculares Corsair VOID RGB Elite Wireless White"
       }
     ],
