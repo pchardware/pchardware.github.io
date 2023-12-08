@@ -109,30 +109,6 @@
         "Update": "2023-12-07T02:44:53.6510931-05:00",
         "Discount": 38.0,
         "Label": "Torre Gamer RTX 4060 Ti 8GB + i7-13700K + MasterLiquid 360L + Z790 Aorus Elite"
-      },
-      {
-        "Price": 1093.00,
-        "Features": [],
-        "Date": "2023-12-07T02:41:02.556778-05:00",
-        "Update": "2023-12-07T02:44:53.664098-05:00",
-        "Discount": 31.0,
-        "Label": "Torre GTX 1660Ti +i5-13500T +Disipador ARGB +TUF B760M-Plus +16GB DDR4 +700W"
-      },
-      {
-        "Price": 1305.00,
-        "Features": [],
-        "Date": "2023-12-07T11:39:38.6582144-05:00",
-        "Update": "2023-12-07T11:45:25.1686013-05:00",
-        "Discount": 39.0,
-        "Label": "Torre RX 7600 8GB +i5-11400 +Disipador ARGB + MSI Z590 Pro + 32GB DDR4 +700W"
-      },
-      {
-        "Price": 1339.00,
-        "Features": [],
-        "Date": "2023-12-07T11:52:24.4662592-05:00",
-        "Update": "2023-12-07T11:56:18.1077545-05:00",
-        "Discount": 41.0,
-        "Label": "Torre RX 7600 8GB +i5-12600K +Disipador ARGB + Z690 Phantom Gaming 4 + 32GB DDR4"
       }
     ],
     "Multimedia": [
@@ -758,13 +734,6 @@
         "Label": "Expansión Orico 7xUSB 3.0"
       },
       {
-        "Price": 18.00,
-        "Features": [],
-        "Date": "2023-07-17T23:39:12.7295429-04:00",
-        "Update": "2023-12-05T17:03:39.2459224-05:00",
-        "Label": "EN-Labs GEKE PWM 4-pin Fan Hub 10 Ports Splitter"
-      },
-      {
         "Price": 53.00,
         "Features": [],
         "Date": "2023-11-24T09:48:43.307434-05:00",
@@ -1322,21 +1291,6 @@
         "Date": "2023-11-14T14:40:10.1214379-05:00",
         "Update": "2023-11-14T17:41:04.913036-05:00",
         "Label": "Fuente EVGA Supernova 850 P5 80+ Platinum"
-      },
-      {
-        "Price": 109.00,
-        "Features": [
-          "54A",
-          "2x 6+2 Pin",
-          "6x SATA",
-          "1x 4+4 EPS",
-          "140mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-06-29T07:39:33.0518165-04:00",
-        "Update": "2023-11-24T10:20:52.888616-05:00",
-        "Label": "Fuente Thermaltake Smart 700W 80+"
       },
       {
         "Price": 195.00,
@@ -4555,7 +4509,7 @@
         "Label": "Monitor Asus TUF 27FHD VG279Q1R"
       },
       {
-        "Price": 399.00,
+        "Price": 379.00,
         "Features": [
           "144 Hz",
           "VA",
