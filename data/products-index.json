@@ -3139,65 +3139,6 @@
         "Label": "Board Asus TUF Gaming B650-Plus Wifi"
       },
       {
-        "Price": 189.00,
-        "Features": [
-          "10ma-11na",
-          "7xUSB",
-          "BIOS FlashBack",
-          "Wifi",
-          "6xAudio",
-          "6xSATA",
-          "DDR4",
-          "LGA 1200",
-          "ATX",
-          "HDMI",
-          "DisplayPort",
-          "PS2",
-          "MOBO"
-        ],
-        "Date": "2023-10-28T11:52:00.1054489-04:00",
-        "Update": "2023-11-07T17:32:40.5409977-05:00",
-        "Label": "Board MSI Z590 Pro Wifi CEC"
-      },
-      {
-        "Price": 285.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "DDR5",
-          "6400mhz",
-          "BIOS FlashBack",
-          "8xUSB",
-          "6xAudio",
-          "6xSATA",
-          "HDMI",
-          "DisplayPort",
-          "LGA 1700",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-05-11T07:52:19.4562926-04:00",
-        "Update": "2023-11-19T11:13:03.723444-05:00",
-        "Label": "Board Asus ROG Strix Z690-F Gaming Wifi"
-      },
-      {
-        "Price": 185.00,
-        "Features": [
-          "12-13-14Gen",
-          "5333mhz",
-          "DisplayPort",
-          "HDMI port",
-          "Wi-Fi Module",
-          "x7USB",
-          "x4SATA",
-          "DDR4",
-          "Micro ATX",
-          "x5 Audio"
-        ],
-        "Date": "2023-11-30T11:20:59.3135657-05:00",
-        "Update": "2023-11-30T14:11:17.7192482-05:00",
-        "Label": "Board Asus TUF B760M-Plus Wifi D4"
-      },
-      {
         "Price": 185.00,
         "Features": [
           "AM4",
@@ -3235,9 +3176,68 @@
         "Label": "Board ASRock B550M Pro SE"
       },
       {
+        "Price": 189.00,
+        "Features": [
+          "10Gen-11Gen",
+          "7xUSB",
+          "BIOS FlashBack",
+          "Wifi",
+          "6xAudio",
+          "6xSATA",
+          "DDR4",
+          "LGA 1200",
+          "ATX",
+          "HDMI",
+          "DisplayPort",
+          "PS2",
+          "MOBO"
+        ],
+        "Date": "2023-10-28T11:52:00.1054489-04:00",
+        "Update": "2023-12-08T11:21:36.7655385-05:00",
+        "Label": "Board MSI Z590 Pro Wifi CEC"
+      },
+      {
+        "Price": 285.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "6400mhz",
+          "BIOS FlashBack",
+          "8xUSB",
+          "6xAudio",
+          "6xSATA",
+          "HDMI",
+          "DisplayPort",
+          "LGA 1700",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-05-11T07:52:19.4562926-04:00",
+        "Update": "2023-12-08T11:21:36.7978347-05:00",
+        "Label": "Board Asus ROG Strix Z690-F Gaming Wifi"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "5333mhz",
+          "DisplayPort",
+          "HDMI port",
+          "Wi-Fi Module",
+          "x7USB",
+          "x4SATA",
+          "DDR4",
+          "Micro ATX",
+          "x5 Audio"
+        ],
+        "Date": "2023-11-30T11:20:59.3135657-05:00",
+        "Update": "2023-12-08T11:21:36.8158043-05:00",
+        "Label": "Board Asus TUF B760M-Plus Wifi D4"
+      },
+      {
         "Price": 385.00,
         "Features": [
-          "12-13-14Gen",
+          "12Gen-13Gen-14Gen",
           "DDR5",
           "8xUSB",
           "Wifi",
@@ -3250,13 +3250,13 @@
           "MOBO"
         ],
         "Date": "2023-06-19T07:50:08.4731323-04:00",
-        "Update": "2023-12-08T00:14:07.5383857-05:00",
+        "Update": "2023-12-08T11:21:36.8340296-05:00",
         "Label": "Board Asus ROG Maximus Z690 Hero"
       },
       {
         "Price": 315.00,
         "Features": [
-          "12-13-14Gen",
+          "12Gen-13Gen-14Gen",
           "10xUSB",
           "DDR5",
           "6xAudio",
@@ -3269,13 +3269,13 @@
           "MOBO"
         ],
         "Date": "2023-05-11T07:51:07.1403838-04:00",
-        "Update": "2023-12-08T00:14:07.553958-05:00",
+        "Update": "2023-12-08T11:21:36.8509325-05:00",
         "Label": "Board Asus ROG Strix Z690-E Gaming Wifi"
       },
       {
         "Price": 339.00,
         "Features": [
-          "12-13-14Gen",
+          "12Gen-13Gen-14Gen",
           "DDR5",
           "7800mhz",
           "8xUSB",
@@ -3288,13 +3288,13 @@
           "MOBO"
         ],
         "Date": "2023-03-29T20:18:17.8757341-04:00",
-        "Update": "2023-12-08T00:14:07.5713234-05:00",
+        "Update": "2023-12-08T11:21:36.8670248-05:00",
         "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
       },
       {
         "Price": 249.00,
         "Features": [
-          "12-13-14Gen",
+          "12Gen-13Gen-14Gen",
           "DDR5",
           "7600mhz",
           "Wifi",
@@ -3309,13 +3309,13 @@
           "MOBO"
         ],
         "Date": "2023-07-26T18:48:17.6030093-04:00",
-        "Update": "2023-12-08T00:14:07.5866209-05:00",
+        "Update": "2023-12-08T11:21:36.8850542-05:00",
         "Label": "Board Gigabyte Z790 UD AX"
       },
       {
         "Price": 279.00,
         "Features": [
-          "12-13-14Gen",
+          "12Gen-13Gen-14Gen",
           "DDR5",
           "7600mhz",
           "Wifi",
@@ -3329,13 +3329,13 @@
           "MOBO"
         ],
         "Date": "2023-10-03T06:55:49.2464488-04:00",
-        "Update": "2023-12-08T00:14:07.600092-05:00",
+        "Update": "2023-12-08T11:21:36.9031533-05:00",
         "Label": "Board Gigabyte Z790 Aorus Elite AX"
       },
       {
         "Price": 159.00,
         "Features": [
-          "12-13-14Gen",
+          "12Gen-13Gen-14Gen",
           "4800mhz",
           "DDR4",
           "6xUSB",
@@ -3347,13 +3347,13 @@
           "MOBO"
         ],
         "Date": "2023-10-16T10:24:36.0269962-04:00",
-        "Update": "2023-12-08T00:14:07.6151802-05:00",
+        "Update": "2023-12-08T11:21:36.9260449-05:00",
         "Label": "Board ASRock Z690M Phantom Gaming 4"
       },
       {
         "Price": 239.00,
         "Features": [
-          "12-13-14Gen",
+          "12Gen-13Gen-14Gen",
           "9xUSB",
           "DDR5",
           "6xSATA",
@@ -3367,13 +3367,13 @@
           "MOBO"
         ],
         "Date": "2023-08-21T08:58:08.2009183-04:00",
-        "Update": "2023-12-08T00:14:07.6299977-05:00",
+        "Update": "2023-12-08T11:21:36.9522479-05:00",
         "Label": "Board Gigabyte Z690 Aorus Elite AX"
       },
       {
         "Price": 159.00,
         "Features": [
-          "12-13-14Gen",
+          "12Gen-13Gen-14Gen",
           "4800mhz",
           "VGA",
           "5xUSB",
@@ -3386,13 +3386,13 @@
           "MOBO"
         ],
         "Date": "2023-10-11T10:56:24.0277774-04:00",
-        "Update": "2023-12-08T00:14:07.6466089-05:00",
+        "Update": "2023-12-08T11:21:36.9758298-05:00",
         "Label": "Board MSI Pro B760M-P DDR4"
       },
       {
         "Price": 189.00,
         "Features": [
-          "12-13-14Gen",
+          "12Gen-13Gen-14Gen",
           "Dual Lan",
           "8xUSB",
           "6xAudio",
@@ -3405,13 +3405,13 @@
           "MOBO"
         ],
         "Date": "2023-02-17T09:46:18.404887-05:00",
-        "Update": "2023-12-08T00:14:07.6629378-05:00",
+        "Update": "2023-12-08T11:21:36.9917902-05:00",
         "Label": "Board Asus B660 ProArt Creator D4"
       },
       {
         "Price": 185.00,
         "Features": [
-          "12-13-14Gen",
+          "12Gen-13Gen-14Gen",
           "DDR4",
           "5000mhz",
           "LGA 1700",
@@ -3421,13 +3421,13 @@
           "RGB"
         ],
         "Date": "2023-12-04T16:21:54.4596991-05:00",
-        "Update": "2023-12-08T00:14:07.6779189-05:00",
+        "Update": "2023-12-08T11:21:37.0071708-05:00",
         "Label": "Board ASRock Z690 Phantom Gaming 4 DDR4"
       },
       {
         "Price": 249.00,
         "Features": [
-          "12-13-14Gen",
+          "12Gen-13Gen-14Gen",
           "DDR5",
           "6600mhz",
           "wifi",
@@ -3441,7 +3441,7 @@
           "ATX"
         ],
         "Date": "2023-12-07T23:40:26.7525408-05:00",
-        "Update": "2023-12-08T00:14:07.7092293-05:00",
+        "Update": "2023-12-08T11:21:37.0294594-05:00",
         "Label": "Board MSI Pro Z790-S Wifi"
       }
     ],
