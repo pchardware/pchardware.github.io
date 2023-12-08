@@ -3917,26 +3917,6 @@
         "Label": "Mouse Logitech G402 Hyperion Fury Black"
       },
       {
-        "Price": 59.00,
-        "Features": [
-          "Inalámbrico",
-          "18000dpi",
-          "400 ips",
-          "400H",
-          "RGB",
-          "2.4Ghz",
-          "Bluetooth",
-          "95g",
-          "1ms",
-          "6 botónes",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-07-09T16:44:35.9657005-04:00",
-        "Update": "2023-10-16T12:23:12.4022952-04:00",
-        "Label": "Mouse SteelSeries Rival 3 Wireless"
-      },
-      {
         "Price": 63.00,
         "Features": [
           "16000dpi",
@@ -4212,6 +4192,26 @@
         "Date": "2023-12-07T23:40:32.1050658-05:00",
         "Update": "2023-12-08T13:54:36.1310947-05:00",
         "Label": "Mouse HP 320m"
+      },
+      {
+        "Price": 59.00,
+        "Features": [
+          "Inalámbrico",
+          "18000dpi",
+          "400 ips",
+          "400H",
+          "RGB",
+          "2.4Ghz",
+          "Bluetooth",
+          "95g",
+          "1ms",
+          "6 botónes",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-07-09T16:44:35.9657005-04:00",
+        "Update": "2023-12-08T13:57:28.9292721-05:00",
+        "Label": "Mouse SteelSeries Rival 3 Wireless"
       }
     ],
     "Adaptador": [
