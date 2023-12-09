@@ -17,13 +17,14 @@
   "Price": 395.00,
   "Features": [
     "2xFan",
-    "2x8Pin",
+    "2x 8Pin",
     "650WR",
     "Radeon",
     "AMD",
-    "GPU"
+    "GPU",
+    "Gráfica"
   ],
   "Date": "2023-07-26T16:40:56.6283918-04:00",
-  "Update": "2023-12-08T23:32:37.2413491-05:00",
+  "Update": "2023-12-08T23:34:49.8180532-05:00",
   "Label": "MSI Mech Radeon RX 6750 XT 12GB"
 }
