@@ -52,16 +52,6 @@
         "Discount": 71.0,
         "Label": "PC Paquete 84TB + i5-12600K + Strix Z690-E + 1TB SSD M2 + 1200W + MSI 24\""
       }
-    ],
-    "Multimedia": [
-      {
-        "Price": 945.00,
-        "Features": [],
-        "Date": "2023-12-05T10:58:36.5788375-05:00",
-        "Update": "2023-12-07T12:39:14.0028278-05:00",
-        "Discount": 34.0,
-        "Label": "PC Ryzen 5 5600G + ASRock B550M + 16GB DDR4 + SSD M.2 1TB + 600W + Monitor 24\""
-      }
     ]
   },
   "Torres": {
@@ -73,14 +63,6 @@
         "Update": "2023-11-27T13:11:57.5868262-05:00",
         "Discount": 39.0,
         "Label": "Torre Gamer RX 7700 XT 12GB + Ryzen 9 7900X + 32GB DDR5 + 1TB SSDM2"
-      },
-      {
-        "Price": 929.00,
-        "Features": [],
-        "Date": "2023-12-01T11:01:22.3465338-05:00",
-        "Update": "2023-12-01T11:33:17.6795863-05:00",
-        "Discount": 30.0,
-        "Label": "Torre GTX 1070 8GB + i5-11400 + Z590 Pro Wifi + 16GB DDR4 + 1TB M2 + MasterBox"
       },
       {
         "Price": 939.00,
@@ -137,14 +119,6 @@
         "Update": "2023-12-08T19:21:48.5406566-05:00",
         "Discount": 31.0,
         "Label": "Torre GTX 1070 8GB + i5-13500T + Disipador ARGB + MSI Pro B760M-P + 16GB DDR4"
-      },
-      {
-        "Price": 1065.00,
-        "Features": [],
-        "Date": "2023-12-01T11:17:12.208186-05:00",
-        "Update": "2023-12-08T19:21:48.5871512-05:00",
-        "Discount": 25.0,
-        "Label": "Torre RX 6600 + i5 13 Gen + MSI Pro B760M-P + 16GB DDR4 + 1TB SSD M2 + Phanteks"
       }
     ],
     "Entusiasta": [
@@ -155,24 +129,6 @@
         "Update": "2023-12-07T02:18:35.7071948-05:00",
         "Discount": 35.0,
         "Label": "Torre RTX 4080 16GB + i7-13700K + Disipador + ROG Strix Z790-H + 1TB M2 + 1200W"
-      }
-    ],
-    "Multimedia": [
-      {
-        "Price": 669.00,
-        "Features": [],
-        "Date": "2023-12-05T10:57:39.9378171-05:00",
-        "Update": "2023-12-07T12:39:13.9892113-05:00",
-        "Discount": 26.0,
-        "Label": "Torre Ryzen 5 5600G ASRock B550M + 16GB DDR4 + SSD M.2 1TB + 600W + Chasis MB511"
-      },
-      {
-        "Price": 725.00,
-        "Features": [],
-        "Date": "2023-12-05T11:09:18.9377703-05:00",
-        "Update": "2023-12-08T19:21:48.563795-05:00",
-        "Discount": 29.0,
-        "Label": "Torre i3F 13Gen + MSI B760M-P + 8GB DDR4 + SSD M.2 1TB + GPU 2GB + 600W + Chasis"
       }
     ]
   },
@@ -312,21 +268,6 @@
         "Update": "2023-12-07T02:16:51.0245268-05:00",
         "Discount": 15.0,
         "Label": "Kit i7-13700K + Disipador + Asus ROG Strix Z790-H + 32GB DDR5 Corsair RGB 32GB"
-      },
-      {
-        "Price": 485.00,
-        "Features": [
-          "20 Hilos",
-          "12 Gen",
-          "3200mhz",
-          "Disipadas",
-          "Dual Channel",
-          "6xUSB"
-        ],
-        "Date": "2023-10-20T09:07:38.5260983-04:00",
-        "Update": "2023-12-07T12:39:13.89527-05:00",
-        "Discount": 8.0,
-        "Label": "Kit i7-12700K +Board Z690 +16GB RAM Silicon Power"
       }
     ],
     "Entusiasta": [
@@ -347,44 +288,12 @@
         "Label": "Kit i9-13900K + Asus ROG Strix Z790-H Gaming Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
       },
       {
-        "Price": 567.00,
-        "Features": [],
-        "Date": "2023-09-13T13:18:14.7097442-04:00",
-        "Update": "2023-11-14T14:53:33.6734815-05:00",
-        "Discount": 20.0,
-        "Label": "Kit i5-12600K + Gigabyte Z690 Aorus Elite AX + DDR5 Corsair Dominator Platinum RGB 32GB"
-      },
-      {
-        "Price": 751.00,
-        "Features": [],
-        "Date": "2023-09-13T13:09:37.0111333-04:00",
-        "Update": "2023-11-24T10:20:52.8167024-05:00",
-        "Discount": 18.0,
-        "Label": "Kit i5-13600K + Asus ROG Strix Z690-E Gaming Wifi + DDR5 Corsair Dominator Platinum RGB 32GB"
-      },
-      {
-        "Price": 855.00,
-        "Features": [],
-        "Date": "2023-09-21T21:15:59.7347414-04:00",
-        "Update": "2023-11-24T10:20:52.9129141-05:00",
-        "Discount": 12.0,
-        "Label": "Kit i7-13700K + Asus ROG Strix Z790-H Gaming + DDR5 Corsair Dominator Platinum RGB 32GB"
-      },
-      {
         "Price": 799.00,
         "Features": [],
         "Date": "2023-06-15T09:02:14.0120703-04:00",
         "Update": "2023-11-24T10:20:52.9372069-05:00",
         "Discount": 10.0,
         "Label": "Kit i7-13700K + Asus ROG Strix Z690-F Gaming Wifi + 32GB DDR5"
-      },
-      {
-        "Price": 775.00,
-        "Features": [],
-        "Date": "2023-09-15T11:22:05.4087649-04:00",
-        "Update": "2023-12-07T12:39:13.8678387-05:00",
-        "Discount": 14.0,
-        "Label": "Kit i7-12700K + Asus ROG Maximus Z690 Hero + DDR5 Corsair Dominator Platinum RGB 32GB"
       }
     ],
     "Esencial": [
@@ -1853,22 +1762,6 @@
         "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
       },
       {
-        "Price": 169.00,
-        "Features": [
-          "Tempered Glass",
-          "2xUSB",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro",
-          "2xHDD",
-          "1xFan"
-        ],
-        "Date": "2023-10-14T08:42:09.5719454-04:00",
-        "Update": "2023-12-01T10:22:12.5499085-05:00",
-        "Label": "Chasis Cooler Master MasterBox MB511"
-      },
-      {
         "Price": 135.00,
         "Features": [
           "Micro ATX",
@@ -2445,28 +2338,6 @@
       }
     ],
     "Memoria RAM": [
-      {
-        "Price": 129.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL40"
-        ],
-        "Date": "2023-08-29T08:41:38.0676822-04:00",
-        "Update": "2023-10-09T17:48:20.9890588-04:00",
-        "Label": "RAM DDR5 Corsair Dominator Platinum RGB 32GB 5200mhz"
-      },
-      {
-        "Price": 59.00,
-        "Features": [
-          "2x8GB",
-          "Disipadas",
-          "CL16"
-        ],
-        "Date": "2023-09-11T09:09:45.8694223-04:00",
-        "Update": "2023-10-09T17:48:21.0729297-04:00",
-        "Label": "RAM DDR4 Silicon Power 16GB 3200mhz"
-      },
       {
         "Price": 109.00,
         "Features": [
@@ -3336,26 +3207,6 @@
         "Date": "2023-10-16T10:24:36.0269962-04:00",
         "Update": "2023-12-08T11:21:36.9260449-05:00",
         "Label": "Board ASRock Z690M Phantom Gaming 4"
-      },
-      {
-        "Price": 239.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "9xUSB",
-          "DDR5",
-          "6xSATA",
-          "Wifi",
-          "6000mhz",
-          "LGA1700",
-          "HDMI",
-          "DisplayPort",
-          "3xAudio",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-08-21T08:58:08.2009183-04:00",
-        "Update": "2023-12-08T11:21:36.9522479-05:00",
-        "Label": "Board Gigabyte Z690 Aorus Elite AX"
       },
       {
         "Price": 159.00,
@@ -4529,7 +4380,7 @@
         "Label": "Monitor Gigabyte 27\" G27F-2"
       },
       {
-        "Price": 339.00,
+        "Price": 335.00,
         "Features": [
           "144 Hz",
           "IPS",
