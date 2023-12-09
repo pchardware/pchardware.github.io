@@ -1,0 +1,27 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-rx-7600-8gb-i5-12600k-disipador-argb-strix-z690-vtpvso-1.webp",
+    "/images/products/pc-rx-7600-8gb-i5-12600k-disipador-argb-strix-z690-vtpvso-2.webp",
+    "/images/products/pc-rx-7600-8gb-i5-12600k-disipador-argb-strix-z690-vtpvso-3.webp",
+    "/images/products/pc-rx-7600-8gb-i5-12600k-disipador-argb-strix-z690-vtpvso-4.webp",
+    "/images/products/pc-rx-7600-8gb-i5-12600k-disipador-argb-strix-z690-vtpvso-5.webp",
+    "/images/products/pc-rx-7600-8gb-i5-12600k-disipador-argb-strix-z690-vtpvso-6.webp",
+    "/images/products/pc-rx-7600-8gb-i5-12600k-disipador-argb-strix-z690-vtpvso-7.webp",
+    "/images/products/pc-rx-7600-8gb-i5-12600k-disipador-argb-strix-z690-vtpvso-8.webp",
+    "/images/products/pc-rx-7600-8gb-i5-12600k-disipador-argb-strix-z690-vtpvso-9.webp",
+    "/images/products/pc-rx-7600-8gb-i5-12600k-disipador-argb-strix-z690-vtpvso-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12600K\n+ Disipador Thermalright Assassin King 120 SE White\n+ Board Asus ROG Strix Z690-E Gaming Wifi\n+ RAM DDR4 CORSAIR Vengeance RGB Pro 32GB\n+ SSD M.2 Crucial P5 Plus 1TB\n+ Tarjeta de Video Gigabyte RX 7600 8GB\n+ Fuente EVGA SuperNova 750 G5\n+ Chasis Asus TUF GT301\n+ Monitor Asus TUF 24\" VG248Q1B\n+ COMBO Teclado Asus TUF Gaming K1 + Mouse M3\n",
+  "Price": 1809.00,
+  "Features": [
+    "Raton y Teclado",
+    "Wifi",
+    "M.2 1TB"
+  ],
+  "Date": "2023-12-08T19:29:27.2237562-05:00",
+  "Update": "2023-12-08T19:32:30.9467936-05:00",
+  "Discount": 47.0,
+  "Label": "PC RX 7600 8GB +i5-12600K +Disipador ARGB +Strix Z690-E +32GB DDR5 RGB + TUF 24\""
+}
