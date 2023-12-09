@@ -26,18 +26,6 @@
         "Label": "PC RTX 2060 GB +i5-13500T +Disipador ARGB +MSI Pro B760M-P +16GB DDR4 +MSI 24\""
       },
       {
-        "Price": 1809.00,
-        "Features": [
-          "Raton y Teclado",
-          "Wifi",
-          "M.2 1TB"
-        ],
-        "Date": "2023-12-08T19:29:27.2237562-05:00",
-        "Update": "2023-12-08T19:32:30.9467936-05:00",
-        "Discount": 47.0,
-        "Label": "PC RX 7600 8GB +i5-12600K +Disipador ARGB +Strix Z690-E +32GB DDR5 RGB + TUF 24\""
-      },
-      {
         "Price": 3255.00,
         "Features": [
           "TUF",
@@ -1146,21 +1134,6 @@
         "Label": "Fuente Thermaltake SMART 500W 80+"
       },
       {
-        "Price": 79.00,
-        "Features": [
-          "38A",
-          "2x 6+2Pin",
-          "4x SATA",
-          "1x 4+4 EPS",
-          "140mm",
-          "ATX",
-          "PSU"
-        ],
-        "Date": "2023-10-14T08:42:13.5961404-04:00",
-        "Update": "2023-10-18T07:33:52.1359839-04:00",
-        "Label": "Fuente Cooler Master Elite 500 ver.3 500W"
-      },
-      {
         "Price": 265.00,
         "Features": [
           "ATX 3.0",
@@ -1298,22 +1271,6 @@
         "Date": "2023-12-04T16:20:55.8266367-05:00",
         "Update": "2023-12-05T16:42:29.9019589-05:00",
         "Label": "Fuente Enermax MaxRevo 1350W"
-      },
-      {
-        "Price": 165.00,
-        "Features": [
-          "80+ Gold",
-          "62A",
-          "Full Modular",
-          "2x 4+4Pin",
-          "6x 6+2Pin",
-          "9x SATA",
-          "ATX",
-          "PSU"
-        ],
-        "Date": "2023-12-04T16:21:07.1228065-05:00",
-        "Update": "2023-12-05T16:42:29.931201-05:00",
-        "Label": "Fuente EVGA SuperNova 750 G5"
       },
       {
         "Price": 125.00,
