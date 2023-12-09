@@ -11,7 +11,7 @@
     "/images/products/kit-i7-14700k-gigabyte-z790-ud-ax-gskill-trident-z-4xdyfg-7.webp"
   ],
   "Description": "+ Micro Intel Core i7-14700K\n+ Board Gigabyte Z790 UD AX\n+ RAM DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz\n",
-  "Price": 843.00,
+  "Price": 845.00,
   "Features": [
     "28 Hilos",
     "5.6Ghz",
@@ -21,7 +21,7 @@
     "LGA 1700"
   ],
   "Date": "2023-12-02T02:36:56.1550959-05:00",
-  "Update": "2023-12-02T02:43:41.8481696-05:00",
-  "Discount": 10.0,
+  "Update": "2023-12-09T09:40:35.4772205-05:00",
+  "Discount": 8.0,
   "Label": "Kit i7-14700K + Gigabyte Z790 UD AX + G.Skill Trident Z5 RGB 32GB DDR5"
 }
