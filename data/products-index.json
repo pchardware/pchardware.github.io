@@ -16,6 +16,14 @@
         "Update": "2023-12-03T18:09:57.8926718-05:00",
         "Discount": 41.0,
         "Label": "PC i5-13500T + Disipador ARGB + MSI Pro B760M-P + 16GB DDR4 + 600W + 24\" MSI"
+      },
+      {
+        "Price": 1309.00,
+        "Features": [],
+        "Date": "2023-12-08T19:11:50.4339793-05:00",
+        "Update": "2023-12-08T19:20:29.5199513-05:00",
+        "Discount": 37.0,
+        "Label": "PC RTX 2060 GB +i5-13500T +Disipador ARGB +MSI Pro B760M-P +16GB DDR4 +MSI 24\""
       }
     ],
     "Pro": [
@@ -71,14 +79,6 @@
         "Label": "Torre GTX 1070 8GB + i5-11400 + MSI Z590 Pro Wifi CEC + 16GB DDR4 Corsair + 600W"
       },
       {
-        "Price": 1033.00,
-        "Features": [],
-        "Date": "2023-12-03T16:53:05.2567445-05:00",
-        "Update": "2023-12-03T18:06:16.8760907-05:00",
-        "Discount": 33.0,
-        "Label": "Torre GTX 1070 8GB + i5-13500T + Disipador ARGB + MSI Pro B760M-P + 16GB DDR4"
-      },
-      {
         "Price": 3135.00,
         "Features": [],
         "Date": "2023-12-06T03:16:33.2546405-05:00",
@@ -95,14 +95,6 @@
         "Label": "Torre RTX 3060 Ti + i9-12900K + ROG Maximus Hero Z690 + 32GB DDR5 Corsair + 850W"
       },
       {
-        "Price": 1063.00,
-        "Features": [],
-        "Date": "2023-12-01T11:17:12.208186-05:00",
-        "Update": "2023-12-07T02:44:53.6375444-05:00",
-        "Discount": 27.0,
-        "Label": "Torre RX 6600 + i5 13 Gen + MSI Pro B760M-P + 16GB DDR4 + 1TB SSD M2 + Phanteks"
-      },
-      {
         "Price": 2085.00,
         "Features": [],
         "Date": "2023-12-03T16:33:35.2808213-05:00",
@@ -117,24 +109,30 @@
         "Update": "2023-12-08T18:54:10.5024613-05:00",
         "Discount": 26.0,
         "Label": "Torre RTX 2060 6GB +i5-11400 +MSI Z590 Pro Wifi +16GB DDR4 +500GB M2 +600W"
-      }
-    ],
-    "Multimedia": [
-      {
-        "Price": 723.00,
-        "Features": [],
-        "Date": "2023-12-05T11:09:18.9377703-05:00",
-        "Update": "2023-12-05T13:54:44.550567-05:00",
-        "Discount": 31.0,
-        "Label": "Torre i3F 13Gen + MSI B760M-P + 8GB DDR4 + SSD M.2 1TB + GPU 2GB + 600W + Chasis"
       },
       {
-        "Price": 669.00,
+        "Price": 1035.00,
         "Features": [],
-        "Date": "2023-12-05T10:57:39.9378171-05:00",
-        "Update": "2023-12-07T12:39:13.9892113-05:00",
-        "Discount": 26.0,
-        "Label": "Torre Ryzen 5 5600G ASRock B550M + 16GB DDR4 + SSD M.2 1TB + 600W + Chasis MB511"
+        "Date": "2023-12-08T19:07:51.3981152-05:00",
+        "Update": "2023-12-08T19:20:29.5051366-05:00",
+        "Discount": 27.0,
+        "Label": "Torre RTX 2060 GB +i5 13Gen +D ARGB +MSI Pro B760M-P WIFI +16GB DDR4 + M2 500GB"
+      },
+      {
+        "Price": 1035.00,
+        "Features": [],
+        "Date": "2023-12-03T16:53:05.2567445-05:00",
+        "Update": "2023-12-08T19:21:48.5406566-05:00",
+        "Discount": 31.0,
+        "Label": "Torre GTX 1070 8GB + i5-13500T + Disipador ARGB + MSI Pro B760M-P + 16GB DDR4"
+      },
+      {
+        "Price": 1065.00,
+        "Features": [],
+        "Date": "2023-12-01T11:17:12.208186-05:00",
+        "Update": "2023-12-08T19:21:48.5871512-05:00",
+        "Discount": 25.0,
+        "Label": "Torre RX 6600 + i5 13 Gen + MSI Pro B760M-P + 16GB DDR4 + 1TB SSD M2 + Phanteks"
       }
     ],
     "Entusiasta": [
@@ -145,6 +143,24 @@
         "Update": "2023-12-07T02:18:35.7071948-05:00",
         "Discount": 35.0,
         "Label": "Torre RTX 4080 16GB + i7-13700K + Disipador + ROG Strix Z790-H + 1TB M2 + 1200W"
+      }
+    ],
+    "Multimedia": [
+      {
+        "Price": 669.00,
+        "Features": [],
+        "Date": "2023-12-05T10:57:39.9378171-05:00",
+        "Update": "2023-12-07T12:39:13.9892113-05:00",
+        "Discount": 26.0,
+        "Label": "Torre Ryzen 5 5600G ASRock B550M + 16GB DDR4 + SSD M.2 1TB + 600W + Chasis MB511"
+      },
+      {
+        "Price": 725.00,
+        "Features": [],
+        "Date": "2023-12-05T11:09:18.9377703-05:00",
+        "Update": "2023-12-08T19:21:48.563795-05:00",
+        "Discount": 29.0,
+        "Label": "Torre i3F 13Gen + MSI B760M-P + 8GB DDR4 + SSD M.2 1TB + GPU 2GB + 600W + Chasis"
       }
     ]
   },
@@ -361,19 +377,6 @@
     ],
     "Esencial": [
       {
-        "Price": 328.00,
-        "Features": [
-          "8 hilos",
-          "VGA",
-          "HDMI",
-          "4xSATA"
-        ],
-        "Date": "2023-11-18T10:32:34.3017455-05:00",
-        "Update": "2023-11-18T10:41:30.6079487-05:00",
-        "Discount": 8.0,
-        "Label": "Kit Intel Core i3 13Gen +8GB RAM 3200mhz +Disipador +Board MSI Pro B760M"
-      },
-      {
         "Price": 392.00,
         "Features": [
           "12 Hilos",
@@ -398,21 +401,22 @@
         "Update": "2023-12-07T12:39:13.9214465-05:00",
         "Discount": 7.0,
         "Label": "Kit Ryzen 5 +8GB DDR4 Disipadas +Disipador +Board B550M Pro"
+      },
+      {
+        "Price": 329.00,
+        "Features": [
+          "8 hilos",
+          "VGA",
+          "HDMI",
+          "4xSATA"
+        ],
+        "Date": "2023-11-18T10:32:34.3017455-05:00",
+        "Update": "2023-12-08T19:21:48.4953761-05:00",
+        "Discount": 7.0,
+        "Label": "Kit Intel Core i3 13Gen +8GB RAM 3200mhz +Disipador +Board MSI Pro B760M"
       }
     ],
     "Moderado": [
-      {
-        "Price": 462.00,
-        "Features": [
-          "20 Hilos",
-          "4.6GHz",
-          "5xUSB"
-        ],
-        "Date": "2023-11-18T11:48:26.022299-05:00",
-        "Update": "2023-11-21T08:52:12.8954511-05:00",
-        "Discount": 9.0,
-        "Label": "Kit 13Gen i5-13500T +Disipador ARGB +Board MSI Pro B760M +8GB RAM Vulcan 3200mhz"
-      },
       {
         "Price": 679.00,
         "Features": [
@@ -521,6 +525,18 @@
         "Update": "2023-12-07T12:39:13.9749458-05:00",
         "Discount": 9.0,
         "Label": "Kit Ryzen 5 5600G +Disipador + ASRock B550M Pro SE + 16GB DDR4 T-Force Vulcan Z"
+      },
+      {
+        "Price": 465.00,
+        "Features": [
+          "20 Hilos",
+          "4.6GHz",
+          "5xUSB"
+        ],
+        "Date": "2023-11-18T11:48:26.022299-05:00",
+        "Update": "2023-12-08T19:21:48.5171969-05:00",
+        "Discount": 6.0,
+        "Label": "Kit 13Gen i5-13500T +Disipador ARGB +Board MSI Pro B760M +8GB RAM Vulcan 3200mhz"
       }
     ]
   },
