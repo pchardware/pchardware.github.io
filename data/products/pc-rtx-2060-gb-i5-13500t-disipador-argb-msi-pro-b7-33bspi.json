@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-rtx-2060-gb-i5-13500t-disipador-argb-msi-pro-b7-33bspi-1.webp",
+    "/images/products/pc-rtx-2060-gb-i5-13500t-disipador-argb-msi-pro-b7-33bspi-2.webp",
+    "/images/products/pc-rtx-2060-gb-i5-13500t-disipador-argb-msi-pro-b7-33bspi-3.webp",
+    "/images/products/pc-rtx-2060-gb-i5-13500t-disipador-argb-msi-pro-b7-33bspi-4.webp",
+    "/images/products/pc-rtx-2060-gb-i5-13500t-disipador-argb-msi-pro-b7-33bspi-5.webp",
+    "/images/products/pc-rtx-2060-gb-i5-13500t-disipador-argb-msi-pro-b7-33bspi-6.webp",
+    "/images/products/pc-rtx-2060-gb-i5-13500t-disipador-argb-msi-pro-b7-33bspi-7.webp",
+    "/images/products/pc-rtx-2060-gb-i5-13500t-disipador-argb-msi-pro-b7-33bspi-8.webp",
+    "/images/products/pc-rtx-2060-gb-i5-13500t-disipador-argb-msi-pro-b7-33bspi-9.webp",
+    "/images/products/pc-rtx-2060-gb-i5-13500t-disipador-argb-msi-pro-b7-33bspi-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-13500T\n+ Disipador ID-COOLING SE-214-XT ARGB Black\n+ Board MSI Pro B760M-P DDR4\n+ RAM DDR4 Corsair Vengeance RGB RT 16GB 3600mhz\n+ SSD M.2 Solidigm P41 Plus 512GB\n+ Tarjeta de Video EVGA RTX 2060 Gaming 6GB\n+ Fuente Raidmax Vortex 600W RX-600AC-V\n+ Chasis Cooler Master MasterBox Q300L Gray\n+ Monitor MSI 24\" MP241C\n+ COMBO Teclado + Mouse Rosewill Fusion C40\n",
+  "Price": 1309.00,
+  "Features": [],
+  "Date": "2023-12-08T19:11:50.4339793-05:00",
+  "Update": "2023-12-08T19:20:29.5199513-05:00",
+  "Discount": 37.0,
+  "Label": "PC RTX 2060 GB +i5-13500T +Disipador ARGB +MSI Pro B760M-P +16GB DDR4 +MSI 24\""
+}
