@@ -1,0 +1,21 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Pro",
+  "Images": [
+    "/images/products/torre-ryzen-7-5800x-b550m-pro-32gb-ddr4-m2-500gb-g-y31fx0-1.webp",
+    "/images/products/torre-ryzen-7-5800x-b550m-pro-32gb-ddr4-m2-500gb-g-y31fx0-2.webp",
+    "/images/products/torre-ryzen-7-5800x-b550m-pro-32gb-ddr4-m2-500gb-g-y31fx0-3.webp",
+    "/images/products/torre-ryzen-7-5800x-b550m-pro-32gb-ddr4-m2-500gb-g-y31fx0-4.webp",
+    "/images/products/torre-ryzen-7-5800x-b550m-pro-32gb-ddr4-m2-500gb-g-y31fx0-5.webp",
+    "/images/products/torre-ryzen-7-5800x-b550m-pro-32gb-ddr4-m2-500gb-g-y31fx0-6.webp",
+    "/images/products/torre-ryzen-7-5800x-b550m-pro-32gb-ddr4-m2-500gb-g-y31fx0-7.webp",
+    "/images/products/torre-ryzen-7-5800x-b550m-pro-32gb-ddr4-m2-500gb-g-y31fx0-8.webp"
+  ],
+  "Description": "+ AMD Ryzen 7 5800X\n+ Board ASRock B550M Pro SE\n+ RAM DDR4 Silicon Power Turbine RGB 32GB 3200mhz\n+ SSD M.2 HP EX900 500GB\n+ Tarjeta de Video ZOTAC GeForce GTX 1070 8GB\n+ Fuente Raidmax Vortex 600W RX-600AC-V\n+ Chasis Phanteks Eclipse G300A Mesh D-RGB Black\n",
+  "Price": 935.00,
+  "Features": [],
+  "Date": "2023-12-09T10:05:12.5813185-05:00",
+  "Update": "2023-12-09T11:03:50.9114198-05:00",
+  "Discount": 24.0,
+  "Label": "Torre Ryzen 7 5800X +B550M Pro + 32GB DDR4 +M.2 500GB +GTX 1070 +600W +Phanteks"
+}
