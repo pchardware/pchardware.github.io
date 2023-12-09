@@ -3745,21 +3745,6 @@
         "Label": "Mouse Pad Corsair MM100"
       },
       {
-        "Price": 53.00,
-        "Features": [
-          "Inalámbrico",
-          "16000dpi",
-          "Sniper Button",
-          "Optico",
-          "Ergonómico",
-          "10 botónes",
-          "USB"
-        ],
-        "Date": "2023-10-02T14:29:32.4826293-04:00",
-        "Update": "2023-10-02T15:13:13.7841987-04:00",
-        "Label": "Mouse EVGA X20 Gray"
-      },
-      {
         "Price": 65.00,
         "Features": [
           "Wireless",
@@ -4084,6 +4069,22 @@
         "Date": "2023-07-09T16:44:35.9657005-04:00",
         "Update": "2023-12-08T13:57:28.9292721-05:00",
         "Label": "Mouse SteelSeries Rival 3 Wireless"
+      },
+      {
+        "Price": 53.00,
+        "Features": [
+          "Inalámbrico",
+          "16000dpi",
+          "Bluetooth",
+          "Sniper Button",
+          "Optico",
+          "Ergonómico",
+          "10 botónes",
+          "USB"
+        ],
+        "Date": "2023-10-02T14:29:32.4826293-04:00",
+        "Update": "2023-12-09T17:40:40.3362145-05:00",
+        "Label": "Mouse EVGA X20 Gray"
       }
     ],
     "Adaptador": [
