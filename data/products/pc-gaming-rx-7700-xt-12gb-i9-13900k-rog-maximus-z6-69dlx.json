@@ -1,0 +1,27 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-gaming-rx-7700-xt-12gb-i9-13900k-rog-maximus-z6-69dlx-1.webp",
+    "/images/products/pc-gaming-rx-7700-xt-12gb-i9-13900k-rog-maximus-z6-69dlx-2.webp",
+    "/images/products/pc-gaming-rx-7700-xt-12gb-i9-13900k-rog-maximus-z6-69dlx-3.webp",
+    "/images/products/pc-gaming-rx-7700-xt-12gb-i9-13900k-rog-maximus-z6-69dlx-4.webp",
+    "/images/products/pc-gaming-rx-7700-xt-12gb-i9-13900k-rog-maximus-z6-69dlx-5.webp",
+    "/images/products/pc-gaming-rx-7700-xt-12gb-i9-13900k-rog-maximus-z6-69dlx-6.webp",
+    "/images/products/pc-gaming-rx-7700-xt-12gb-i9-13900k-rog-maximus-z6-69dlx-7.webp",
+    "/images/products/pc-gaming-rx-7700-xt-12gb-i9-13900k-rog-maximus-z6-69dlx-8.webp",
+    "/images/products/pc-gaming-rx-7700-xt-12gb-i9-13900k-rog-maximus-z6-69dlx-9.webp",
+    "/images/products/pc-gaming-rx-7700-xt-12gb-i9-13900k-rog-maximus-z6-69dlx-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i9-13900K\n+ Disipador Líquido ASUS ROG RYUO III 240 ARGB\n+ Board Asus ROG Maximus Z690 Hero\n+ RAM DDR5 Corsair Dominator Titanium RGB 32GB 7200mhz\n+ SSD M.2 Samsung 990 Pro 2TB\n+ Tarjeta de Video Asus TUF RX 7700 XT 12GB\n+ Fuente Asus TUF 1000W\n+ Chasis Asus TUF GT301\n+ Monitor Asus TUF 27FHD VG279Q1R\n+ Teclado Asus TUF Gaming K3\n+ Mouse Corsair Dark Core RGB Pro\n+ Auriculares Asus ROG Fusion II 300 Gaming\n",
+  "Price": 3256.00,
+  "Features": [
+    "TUF",
+    "ASUS",
+    "Gaming"
+  ],
+  "Date": "2023-12-09T01:32:45.5861358-05:00",
+  "Update": "2023-12-09T01:39:45.5532395-05:00",
+  "Discount": 60.0,
+  "Label": "PC Gaming RX 7700 XT 12GB +i9-13900K +ROG Maximus Z690 Hero + 32GB DDR5 +27\""
+}
