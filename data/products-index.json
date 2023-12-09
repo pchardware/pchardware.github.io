@@ -36,6 +36,18 @@
         "Update": "2023-12-08T19:32:30.9467936-05:00",
         "Discount": 47.0,
         "Label": "PC RX 7600 8GB +i5-12600K +Disipador ARGB +Strix Z690-E +32GB DDR5 RGB + TUF 24\""
+      },
+      {
+        "Price": 3256.00,
+        "Features": [
+          "TUF",
+          "ASUS",
+          "Gaming"
+        ],
+        "Date": "2023-12-09T01:32:45.5861358-05:00",
+        "Update": "2023-12-09T01:39:45.5532395-05:00",
+        "Discount": 60.0,
+        "Label": "PC Gaming RX 7700 XT 12GB +i9-13900K +ROG Maximus Z690 Hero + 32GB DDR5 +27\""
       }
     ],
     "Pro": [
