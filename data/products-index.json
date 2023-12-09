@@ -280,6 +280,21 @@
         "Update": "2023-12-07T02:16:51.0245268-05:00",
         "Discount": 15.0,
         "Label": "Kit i7-13700K + Disipador + Asus ROG Strix Z790-H + 32GB DDR5 Corsair RGB 32GB"
+      },
+      {
+        "Price": 649.00,
+        "Features": [
+          "16 Hilos",
+          "8 Core",
+          "4.7GHz",
+          "7000mhz",
+          "6x USB",
+          "4x SATA"
+        ],
+        "Date": "2023-12-09T01:51:54.1508204-05:00",
+        "Update": "2023-12-09T02:26:33.2954598-05:00",
+        "Discount": 15.0,
+        "Label": "Kit Ryzen 7 5800X +Disipador Cooler Master +TUF Gaming B650-Plus +32GB DDR5"
       }
     ],
     "Entusiasta": [
