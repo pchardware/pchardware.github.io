@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-rtx-4070-ti-12gb-i9-13900k-rog-strix-z790-h-32g-szdh2e-1.webp",
+    "/images/products/pc-rtx-4070-ti-12gb-i9-13900k-rog-strix-z790-h-32g-szdh2e-2.webp",
+    "/images/products/pc-rtx-4070-ti-12gb-i9-13900k-rog-strix-z790-h-32g-szdh2e-3.webp",
+    "/images/products/pc-rtx-4070-ti-12gb-i9-13900k-rog-strix-z790-h-32g-szdh2e-4.webp",
+    "/images/products/pc-rtx-4070-ti-12gb-i9-13900k-rog-strix-z790-h-32g-szdh2e-5.webp",
+    "/images/products/pc-rtx-4070-ti-12gb-i9-13900k-rog-strix-z790-h-32g-szdh2e-6.webp",
+    "/images/products/pc-rtx-4070-ti-12gb-i9-13900k-rog-strix-z790-h-32g-szdh2e-7.webp",
+    "/images/products/pc-rtx-4070-ti-12gb-i9-13900k-rog-strix-z790-h-32g-szdh2e-8.webp",
+    "/images/products/pc-rtx-4070-ti-12gb-i9-13900k-rog-strix-z790-h-32g-szdh2e-9.webp",
+    "/images/products/pc-rtx-4070-ti-12gb-i9-13900k-rog-strix-z790-h-32g-szdh2e-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i9-13900K\n+ Disipador Líquido ASUS ROG RYUO III 240 ARGB\n+ Board Asus ROG Strix Z790-H Gaming Wifi\n+ RAM DDR5 Corsair Vengeance RGB 32GB 6400mhz\n+ SSD M.2 Team Group MP44 1TB\n+ Tarjeta de Video Asus ROG Strix RTX 4070 Ti OC 12GB\n+ Fuente Asus TUF 1000W\n+ Chasis Asus TUF GT301\n+ Monitor Asus TUF 27FHD VG279Q1R\n+ COMBO Teclado Asus TUF Gaming K1 + Mouse M3\n",
+  "Price": 3275.00,
+  "Features": [],
+  "Date": "2023-12-09T21:06:58.5013104-05:00",
+  "Update": "2023-12-09T21:57:40.0386536-05:00",
+  "Discount": 49.0,
+  "Label": "PC RTX 4070 Ti 12GB +i9-13900K +ROG Strix Z790-H +32GB DDR5 +1000W +ASUS TUF"
+}
