@@ -68,6 +68,16 @@
         "Discount": 71.0,
         "Label": "PC Paquete 84TB + i5-12600K + Strix Z690-E + 1TB SSD M2 + 1200W + MSI 24\""
       }
+    ],
+    "Rendimiento": [
+      {
+        "Price": 3699.00,
+        "Features": [],
+        "Date": "2023-12-11T09:49:05.6656979-05:00",
+        "Update": "2023-12-11T09:52:11.6709472-05:00",
+        "Discount": 58.0,
+        "Label": "PC Cañon RTX 4070 Ti +i7-14700K +ROG Maximus Z690 Hero +32GB DDR5 + 1000W +27\""
+      }
     ]
   },
   "Torres": {
