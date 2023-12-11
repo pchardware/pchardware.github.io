@@ -2789,21 +2789,6 @@
         "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 XT Eagle 8GB"
       },
       {
-        "Price": 525.00,
-        "Features": [
-          "3xFan",
-          "2x8Pin",
-          "750WR",
-          "320mm",
-          "Radeon",
-          "AMD",
-          "GPU"
-        ],
-        "Date": "2023-11-18T23:52:27.7287787-05:00",
-        "Update": "2023-11-19T11:13:04.0570422-05:00",
-        "Label": "Tarjeta de Video Asus TUF RX 7700 XT 12GB"
-      },
-      {
         "Price": 189.00,
         "Features": [
           "2xFan",
@@ -2852,37 +2837,6 @@
         "Label": "Tarjeta de Video XFX Speedster Swift 210 RX 6650 XT 8GB"
       },
       {
-        "Price": 375.00,
-        "Features": [
-          "3xFan",
-          "2 x 8-Pin",
-          "650WR",
-          "304mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Grafica"
-        ],
-        "Date": "2023-11-30T11:15:23.1853847-05:00",
-        "Update": "2023-11-30T14:11:17.653027-05:00",
-        "Label": "Tarjeta de Video XFX Speedster SWFT309 RX 6700 XT CORE 12GB"
-      },
-      {
-        "Price": 459.00,
-        "Features": [
-          "2xFan",
-          "1x8-Pin",
-          "500WR",
-          "201 mm",
-          "GeForce",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-11-30T11:20:46.1214692-05:00",
-        "Update": "2023-11-30T14:11:17.6799545-05:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4060 Ti WindForce OC 8GB"
-      },
-      {
         "Price": 465.00,
         "Features": [
           "3xFan",
@@ -2914,21 +2868,6 @@
         "Date": "2023-11-18T08:41:47.9392507-05:00",
         "Update": "2023-12-04T16:09:51.4797778-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Eagle OC 8GB"
-      },
-      {
-        "Price": 329.00,
-        "Features": [
-          "3xFan",
-          "2x8Pin",
-          "650WR",
-          "304mm",
-          "Radeon",
-          "AMD",
-          "GPU"
-        ],
-        "Date": "2023-07-26T16:40:52.2609256-04:00",
-        "Update": "2023-12-04T17:32:00.7419926-05:00",
-        "Label": "Tarjeta de Video XFX Swft 309 RX 6700 10GB"
       },
       {
         "Price": 275.00,
@@ -2993,6 +2932,69 @@
         "Date": "2023-07-26T16:40:56.6283918-04:00",
         "Update": "2023-12-08T23:34:49.8180532-05:00",
         "Label": "MSI Mech Radeon RX 6750 XT 12GB"
+      },
+      {
+        "Price": 525.00,
+        "Features": [
+          "3xFan",
+          "2x8Pin",
+          "750WR",
+          "320mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-18T23:52:27.7287787-05:00",
+        "Update": "2023-12-11T11:41:50.5100537-05:00",
+        "Label": "Tarjeta de Video Asus TUF RX 7700 XT 12GB"
+      },
+      {
+        "Price": 375.00,
+        "Features": [
+          "3xFan",
+          "2 x 8Pin",
+          "650WR",
+          "304mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Grafica"
+        ],
+        "Date": "2023-11-30T11:15:23.1853847-05:00",
+        "Update": "2023-12-11T11:41:50.5313495-05:00",
+        "Label": "Tarjeta de Video XFX Speedster SWFT309 RX 6700 XT CORE 12GB"
+      },
+      {
+        "Price": 459.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "500WR",
+          "201 mm",
+          "GeForce",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-30T11:20:46.1214692-05:00",
+        "Update": "2023-12-11T11:41:50.5520737-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4060 Ti WindForce OC 8GB"
+      },
+      {
+        "Price": 329.00,
+        "Features": [
+          "3xFan",
+          "2x8Pin",
+          "650WR",
+          "304mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-07-26T16:40:52.2609256-04:00",
+        "Update": "2023-12-11T11:41:50.5728652-05:00",
+        "Label": "Tarjeta de Video XFX Swft 309 RX 6700 10GB"
       }
     ],
     "Red": [
