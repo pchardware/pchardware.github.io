@@ -17,7 +17,7 @@
   "Price": 459.00,
   "Features": [
     "2xFan",
-    "1x8-Pin",
+    "1x8Pin",
     "500WR",
     "201 mm",
     "GeForce",
@@ -25,6 +25,6 @@
     "Gráfica"
   ],
   "Date": "2023-11-30T11:20:46.1214692-05:00",
-  "Update": "2023-11-30T14:11:17.6799545-05:00",
+  "Update": "2023-12-11T11:41:50.5520737-05:00",
   "Label": "Tarjeta de Video Gigabyte RTX 4060 Ti WindForce OC 8GB"
 }
