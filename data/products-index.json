@@ -54,21 +54,6 @@
         "Label": "PC GTX 1070 8GB +i3-13100F +Z690M Phantom Gaming +16GB DDR4 +500GB M.2+ 600W"
       }
     ],
-    "Pro": [
-      {
-        "Price": 2305.00,
-        "Features": [
-          "17xUSB",
-          "Docking",
-          "6xHDD",
-          "6xSATA"
-        ],
-        "Date": "2023-12-06T03:00:20.1862272-05:00",
-        "Update": "2023-12-06T03:09:35.6235127-05:00",
-        "Discount": 71.0,
-        "Label": "PC Paquete 84TB + i5-12600K + Strix Z690-E + 1TB SSD M2 + 1200W + MSI 24\""
-      }
-    ],
     "Rendimiento": [
       {
         "Price": 3699.00,
@@ -137,14 +122,6 @@
         "Update": "2023-12-08T19:21:48.5406566-05:00",
         "Discount": 31.0,
         "Label": "Torre GTX 1070 8GB + i5-13500T + Disipador ARGB + MSI Pro B760M-P + 16GB DDR4"
-      },
-      {
-        "Price": 1345.00,
-        "Features": [],
-        "Date": "2023-12-09T11:10:47.6199213-05:00",
-        "Update": "2023-12-09T11:14:11.7790414-05:00",
-        "Discount": 35.0,
-        "Label": "Torre RX 7600 8GB +i5-12600K +UX200 +ROG Z690-F Gaming +32GB DDR5 +1TB M.2"
       }
     ],
     "Entusiasta": [
@@ -331,14 +308,6 @@
         "Label": "Kit i9-13900K + Asus ROG Strix Z690-E Gaming Wifi + 32GB DDR5"
       },
       {
-        "Price": 799.00,
-        "Features": [],
-        "Date": "2023-06-15T09:02:14.0120703-04:00",
-        "Update": "2023-11-24T10:20:52.9372069-05:00",
-        "Discount": 10.0,
-        "Label": "Kit i7-13700K + Asus ROG Strix Z690-F Gaming Wifi + 32GB DDR5"
-      },
-      {
         "Price": 1095.00,
         "Features": [],
         "Date": "2023-09-13T12:55:25.5938136-04:00",
@@ -348,20 +317,6 @@
       }
     ],
     "Moderado": [
-      {
-        "Price": 679.00,
-        "Features": [
-          "14 Core",
-          "20 Núcleos",
-          "2x16",
-          "6000mhz",
-          "Wifi"
-        ],
-        "Date": "2023-12-03T12:46:37.0148444-05:00",
-        "Update": "2023-12-03T15:39:48.0206301-05:00",
-        "Discount": 11.0,
-        "Label": "Kit i5-13500T + Disipador ARGB + ROG Strix Z690-F Wifi+ DDR5 32GB G.Skill RGB"
-      },
       {
         "Price": 535.00,
         "Features": [
@@ -1662,24 +1617,6 @@
         "Label": "Chasis Asus TUF GT301"
       },
       {
-        "Price": 269.00,
-        "Features": [
-          "8xHDD",
-          "5xFan",
-          "4xUSB",
-          "Docking",
-          "Full Tower",
-          "LED",
-          "Gamer",
-          "ATX",
-          "E-ATX",
-          "Negro"
-        ],
-        "Date": "2023-07-13T11:31:56.8717751-04:00",
-        "Update": "2023-07-27T07:54:42.9549049-04:00",
-        "Label": "Chasis Rosewill NIGHTHAWK 117"
-      },
-      {
         "Price": 205.00,
         "Features": [
           "2x140mm",
@@ -1951,27 +1888,6 @@
         "Date": "2023-09-23T14:09:08.5628773-04:00",
         "Update": "2023-10-23T14:55:22.4925578-04:00",
         "Label": "Disipador ID-COOLING SE-214-XT ARGB Black"
-      },
-      {
-        "Price": 57.00,
-        "Features": [
-          "ARGB",
-          "4xPipes",
-          "68cfm",
-          "30dBA",
-          "2500rpm",
-          "Blanco",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4",
-          "AM5",
-          "Tower",
-          "1xFan"
-        ],
-        "Date": "2023-10-23T12:33:07.4846202-04:00",
-        "Update": "2023-10-23T14:55:22.6270095-04:00",
-        "Label": "Disipador ID-COOLING SE-214-XT ARGB White"
       },
       {
         "Price": 65.00,
@@ -3219,7 +3135,7 @@
         "Label": "Board Asus B660 ProArt Creator D4"
       },
       {
-        "Price": 249.00,
+        "Price": 235.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "DDR5",
@@ -3256,26 +3172,6 @@
         "Date": "2023-10-03T06:55:51.8601602-04:00",
         "Update": "2023-12-08T12:55:48.7261566-05:00",
         "Label": "Board Asus TUF Gaming B650-Plus Wifi"
-      },
-      {
-        "Price": 285.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "6400mhz",
-          "BIOS FlashBack",
-          "8xUSB",
-          "6xAudio",
-          "6xSATA",
-          "HDMI",
-          "DisplayPort",
-          "LGA 1700",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-05-11T07:52:19.4562926-04:00",
-        "Update": "2023-12-08T12:55:48.73963-05:00",
-        "Label": "Board Asus ROG Strix Z690-F Gaming Wifi"
       },
       {
         "Price": 185.00,
@@ -4038,26 +3934,6 @@
         "Label": "Mouse HP 320m"
       },
       {
-        "Price": 59.00,
-        "Features": [
-          "Inalámbrico",
-          "18000dpi",
-          "400 ips",
-          "400H",
-          "RGB",
-          "2.4Ghz",
-          "Bluetooth",
-          "95g",
-          "1ms",
-          "6 botónes",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-07-09T16:44:35.9657005-04:00",
-        "Update": "2023-12-08T13:57:28.9292721-05:00",
-        "Label": "Mouse SteelSeries Rival 3 Wireless"
-      },
-      {
         "Price": 53.00,
         "Features": [
           "Inalámbrico",
@@ -4530,7 +4406,7 @@
     ],
     "Webcam": [
       {
-        "Price": 79.00,
+        "Price": 83.00,
         "Features": [
           "1080p",
           "Autofocus",
@@ -4543,7 +4419,7 @@
         "Label": "Webcam Logitech C922x"
       },
       {
-        "Price": 85.00,
+        "Price": 65.00,
         "Features": [
           "FHD",
           "30fps",
@@ -4556,7 +4432,7 @@
         "Label": "Webcam Asus C3 1080p"
       },
       {
-        "Price": 59.00,
+        "Price": 49.00,
         "Features": [
           "USB",
           "3mp",
@@ -4569,7 +4445,7 @@
         "Label": "Webcam Logitech C270 HD"
       },
       {
-        "Price": 89.00,
+        "Price": 79.00,
         "Features": [
           "1080p",
           "Autofocus",
@@ -4582,7 +4458,7 @@
         "Label": "Webcam Logitech C920s Pro"
       },
       {
-        "Price": 119.00,
+        "Price": 115.00,
         "Features": [
           "Sony",
           "8MP",
@@ -4594,7 +4470,7 @@
         "Label": "Webcam Creative Live! Sync 4K"
       },
       {
-        "Price": 69.00,
+        "Price": 67.00,
         "Features": [
           "1080p",
           "Auto Foco",
@@ -4606,7 +4482,7 @@
         "Label": "Webcam Microsoft LifeCam Studio"
       },
       {
-        "Price": 93.00,
+        "Price": 89.00,
         "Features": [
           "1920 x 1080",
           "30 fps",
@@ -4619,7 +4495,7 @@
         "Label": "Webcam Logitech C930e"
       },
       {
-        "Price": 87.00,
+        "Price": 75.00,
         "Features": [
           "1080p",
           "Auto focus",
@@ -4642,7 +4518,7 @@
         "Label": "Webcam Logitech Brio 1080p"
       },
       {
-        "Price": 39.00,
+        "Price": 37.00,
         "Features": [
           "Black",
           "2mp",
