@@ -1260,6 +1260,22 @@
         "Date": "2023-12-07T22:24:20.3840718-05:00",
         "Update": "2023-12-07T23:38:43.8437772-05:00",
         "Label": "Fuente EVGA 650 BP 80+ Bronze"
+      },
+      {
+        "Price": 149.00,
+        "Features": [
+          "80+ Gold",
+          "67A",
+          "4x 6+2Pin",
+          "8x SATA",
+          "2x 4+4 EPS",
+          "150mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-07-12T21:42:43.1904262-04:00",
+        "Update": "2023-12-12T04:01:09.6372584-05:00",
+        "Label": "Fuente EVGA 800 GE 800W"
       }
     ],
     "Disipador Líquido": [
@@ -2786,23 +2802,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Eagle OC 8GB"
       },
       {
-        "Price": 275.00,
-        "Features": [
-          "2xFan",
-          "8GB",
-          "1x8Pin",
-          "500WR",
-          "243mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-09-23T14:08:44.7733868-04:00",
-        "Update": "2023-12-07T12:39:13.7928716-05:00",
-        "Label": "Tarjeta de Video Asus Dual RX 6600"
-      },
-      {
         "Price": 379.00,
         "Features": [
           "2xFan",
@@ -2911,6 +2910,37 @@
         "Date": "2023-07-26T16:40:52.2609256-04:00",
         "Update": "2023-12-11T11:41:50.5728652-05:00",
         "Label": "Tarjeta de Video XFX Swft 309 RX 6700 10GB"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "500WR",
+          "243mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-09-23T14:08:44.7733868-04:00",
+        "Update": "2023-12-12T04:01:09.6507581-05:00",
+        "Label": "Tarjeta de Video Asus Dual RX 6600 8GB"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "450WR",
+          "173mm",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-12-12T03:35:15.5648203-05:00",
+        "Update": "2023-12-12T04:01:09.6894311-05:00",
+        "Label": "Tarjeta de Video Zotac GeForce GTX 1660 Super 6GB"
       }
     ],
     "Red": [
@@ -3263,6 +3293,23 @@
         "Date": "2023-12-04T16:21:54.4596991-05:00",
         "Update": "2023-12-08T12:55:48.8312461-05:00",
         "Label": "Board ASRock Z690 Phantom Gaming 4 DDR4"
+      },
+      {
+        "Price": 239.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "7200mmhz",
+          "Wifi",
+          "4xSATA",
+          "LGA 1700",
+          "ATX",
+          "HDMI",
+          "PS2"
+        ],
+        "Date": "2023-12-12T03:35:19.2766433-05:00",
+        "Update": "2023-12-12T04:01:09.7034293-05:00",
+        "Label": "Board Asus Prime Z790-V Wifi"
       }
     ]
   },
@@ -4528,6 +4575,19 @@
         "Date": "2023-06-19T07:49:43.9179086-04:00",
         "Update": "2023-12-05T17:03:39.2591533-05:00",
         "Label": "Webcam AUKEY 1080p"
+      },
+      {
+        "Price": 51.00,
+        "Features": [
+          "720p",
+          "3mp",
+          "HD",
+          "Micrófono",
+          "USB"
+        ],
+        "Date": "2023-12-12T03:35:09.5904673-05:00",
+        "Update": "2023-12-12T04:01:09.672667-05:00",
+        "Label": "WebCam Logitech C270h"
       }
     ],
     "Control": [
