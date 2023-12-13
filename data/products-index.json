@@ -26,26 +26,6 @@
         "Label": "PC RTX 2060 GB +i5-13500T +Disipador ARGB +MSI Pro B760M-P +16GB DDR4 +MSI 24\""
       },
       {
-        "Price": 3255.00,
-        "Features": [
-          "TUF",
-          "ASUS",
-          "Gaming"
-        ],
-        "Date": "2023-12-09T01:32:45.5861358-05:00",
-        "Update": "2023-12-09T01:42:14.462253-05:00",
-        "Discount": 61.0,
-        "Label": "PC Gaming RX 7700 XT 12GB +i9-13900K +ROG Maximus Z690 Hero + 32GB DDR5 +27\""
-      },
-      {
-        "Price": 3275.00,
-        "Features": [],
-        "Date": "2023-12-09T21:06:58.5013104-05:00",
-        "Update": "2023-12-09T21:57:40.0386536-05:00",
-        "Discount": 49.0,
-        "Label": "PC RTX 4070 Ti 12GB +i9-13900K +ROG Strix Z790-H +32GB DDR5 +1000W +ASUS TUF"
-      },
-      {
         "Price": 1080.00,
         "Features": [],
         "Date": "2023-12-10T11:05:09.0640243-05:00",
@@ -75,14 +55,6 @@
   },
   "Torres": {
     "Gamer": [
-      {
-        "Price": 1999.00,
-        "Features": [],
-        "Date": "2023-11-27T13:04:18.4517207-05:00",
-        "Update": "2023-11-27T13:11:57.5868262-05:00",
-        "Discount": 39.0,
-        "Label": "Torre Gamer RX 7700 XT 12GB + Ryzen 9 7900X + 32GB DDR5 + 1TB SSDM2"
-      },
       {
         "Price": 939.00,
         "Features": [],
@@ -141,16 +113,6 @@
         "Discount": 35.0,
         "Label": "Torre RTX 4080 16GB + i7-13700K + Disipador + ROG Strix Z790-H + 1TB M2 + 1200W"
       }
-    ],
-    "Pro": [
-      {
-        "Price": 935.00,
-        "Features": [],
-        "Date": "2023-12-09T10:05:12.5813185-05:00",
-        "Update": "2023-12-09T11:03:50.9114198-05:00",
-        "Discount": 24.0,
-        "Label": "Torre Ryzen 7 5800X +B550M Pro + 32GB DDR4 +M.2 500GB +GTX 1070 +600W +Phanteks"
-      }
     ]
   },
   "Kits": {
@@ -197,21 +159,6 @@
         "Update": "2023-12-03T18:06:16.7693712-05:00",
         "Discount": 8.0,
         "Label": "Kit i5-12600K + Gigabyte Z790 UD AX + 32GB DDR5 Patriot Viper Venom"
-      },
-      {
-        "Price": 649.00,
-        "Features": [
-          "12 Core",
-          "24 Hilos",
-          "5.6Ghz",
-          "x6 USB",
-          "Wifi",
-          "ATX"
-        ],
-        "Date": "2023-12-05T10:29:22.8597228-05:00",
-        "Update": "2023-12-05T10:55:15.8564547-05:00",
-        "Discount": 10.0,
-        "Label": "Kit Ryzen 9 7900X + Disipador + Asus TUF Gaming B650-Plus Wifi"
       },
       {
         "Price": 805.00,
@@ -1268,22 +1215,6 @@
         "Date": "2023-12-07T22:24:20.3840718-05:00",
         "Update": "2023-12-07T23:38:43.8437772-05:00",
         "Label": "Fuente EVGA 650 BP 80+ Bronze"
-      },
-      {
-        "Price": 149.00,
-        "Features": [
-          "80+ Gold",
-          "67A",
-          "4x 6+2Pin",
-          "8x SATA",
-          "2x 4+4 EPS",
-          "150mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-07-12T21:42:43.1904262-04:00",
-        "Update": "2023-12-12T12:23:31.8858904-05:00",
-        "Label": "Fuente EVGA 800 GE 800W 80+ Gold"
       }
     ],
     "Disipador Líquido": [
@@ -1621,137 +1552,6 @@
         "Date": "2023-03-27T12:00:05.9787174-04:00",
         "Update": "2023-11-18T23:49:17.3673461-05:00",
         "Label": "Disipador Líquido Corsair H100x RGB Elite"
-      }
-    ],
-    "Chasis": [
-      {
-        "Price": 235.00,
-        "Features": [
-          "Tempered Glass",
-          "4xFan",
-          "ARGB",
-          "2xHDD",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro"
-        ],
-        "Date": "2023-06-29T07:38:28.5002459-04:00",
-        "Update": "2023-07-27T07:54:42.9357984-04:00",
-        "Label": "Chasis Asus TUF GT301"
-      },
-      {
-        "Price": 205.00,
-        "Features": [
-          "2x140mm",
-          "ARGB",
-          "Tempered Glass",
-          "Mesh",
-          "2xFan",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro",
-          "2xHDD"
-        ],
-        "Date": "2023-08-20T10:12:26.8379058-04:00",
-        "Update": "2023-10-25T15:46:32.5351458-04:00",
-        "Label": "Chasis Fractal Design Focus 2 RGB Black"
-      },
-      {
-        "Price": 315.00,
-        "Features": [
-          "Vertical",
-          "Tempered Glass",
-          "3xFan",
-          "RGB",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "2xHDD",
-          "Negro"
-        ],
-        "Date": "2023-06-19T07:49:30.2036169-04:00",
-        "Update": "2023-10-28T09:10:46.2683164-04:00",
-        "Label": "Chasis Corsair iCUE 4000X RGB"
-      },
-      {
-        "Price": 215.00,
-        "Features": [
-          "2x140mm",
-          "ARGB",
-          "Tempered Glass",
-          "Mesh",
-          "2xFan",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Blanco",
-          "2xHDD"
-        ],
-        "Date": "2023-10-19T09:32:02.3777136-04:00",
-        "Update": "2023-11-07T21:13:39.6139582-05:00",
-        "Label": "Chasis Fractal Design Focus 2 RGB White"
-      },
-      {
-        "Price": 275.00,
-        "Features": [
-          "Vertical",
-          "Tempered Glass",
-          "2xFan",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "2xHDD",
-          "Negro"
-        ],
-        "Date": "2023-11-11T12:36:37.8216832-05:00",
-        "Update": "2023-11-11T12:58:59.609044-05:00",
-        "Label": "Chasis Corsair 4000D Airflow"
-      },
-      {
-        "Price": 189.00,
-        "Features": [
-          "Tempered Glass",
-          "3xFan ARGB",
-          "3xUSB",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro",
-          "2xHDD"
-        ],
-        "Date": "2023-11-03T12:22:56.9620417-04:00",
-        "Update": "2023-11-11T13:24:08.664654-05:00",
-        "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "Micro ATX",
-          "x2 USB",
-          "Acrilico",
-          "Dust Filter",
-          "Modular I/O Panel",
-          "Negro"
-        ],
-        "Date": "2023-12-07T22:24:12.9113994-05:00",
-        "Update": "2023-12-08T12:55:48.7729192-05:00",
-        "Label": "Chasis Cooler Master MasterBox Q300L Gray"
-      },
-      {
-        "Price": 179.00,
-        "Features": [
-          "ATX",
-          "Mid Tower",
-          "Tempered Glass",
-          "x1 HDD3.5",
-          "x3 HDD2.5",
-          "120mm D-RGB fan"
-        ],
-        "Date": "2023-11-30T11:20:38.8740683-05:00",
-        "Update": "2023-12-08T13:42:07.753321-05:00",
-        "Label": "Chasis Phanteks Eclipse G300A Mesh D-RGB Black"
       }
     ],
     "Disco Duro": [
@@ -2430,17 +2230,6 @@
         "Label": "RAM DDR5 G.Skill Ripjaws S5 16GB 6000mhz"
       },
       {
-        "Price": 97.00,
-        "Features": [
-          "2x16GB",
-          "CL16",
-          "Disipadas"
-        ],
-        "Date": "2023-11-18T23:52:16.8733847-05:00",
-        "Update": "2023-11-19T11:13:03.9892749-05:00",
-        "Label": "RAM DDR4 Silicon Power Turbine RGB 32GB 3200mhz"
-      },
-      {
         "Price": 87.00,
         "Features": [
           "2x8GB",
@@ -2644,22 +2433,6 @@
         "Date": "2023-11-05T07:48:09.3555923-05:00",
         "Update": "2023-11-05T10:12:40.5903682-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4080 Eagle OC 16GB"
-      },
-      {
-        "Price": 299.00,
-        "Features": [
-          "3xFan",
-          "1x8Pin",
-          "500WR",
-          "282mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-11-14T14:39:51.7975085-05:00",
-        "Update": "2023-11-14T17:41:04.8429718-05:00",
-        "Label": "Tarjeta de Video Gigabyte RX 6650 XT Eagle 8GB"
       },
       {
         "Price": 259.00,
@@ -2951,6 +2724,121 @@
         "Label": "Tarjeta de Video Zotac GeForce GTX 1660 Super 6GB"
       }
     ],
+    "Chasis": [
+      {
+        "Price": 205.00,
+        "Features": [
+          "2x140mm",
+          "ARGB",
+          "Tempered Glass",
+          "Mesh",
+          "2xFan",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "Negro",
+          "2xHDD"
+        ],
+        "Date": "2023-08-20T10:12:26.8379058-04:00",
+        "Update": "2023-10-25T15:46:32.5351458-04:00",
+        "Label": "Chasis Fractal Design Focus 2 RGB Black"
+      },
+      {
+        "Price": 315.00,
+        "Features": [
+          "Vertical",
+          "Tempered Glass",
+          "3xFan",
+          "RGB",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "2xHDD",
+          "Negro"
+        ],
+        "Date": "2023-06-19T07:49:30.2036169-04:00",
+        "Update": "2023-10-28T09:10:46.2683164-04:00",
+        "Label": "Chasis Corsair iCUE 4000X RGB"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "2x140mm",
+          "ARGB",
+          "Tempered Glass",
+          "Mesh",
+          "2xFan",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "Blanco",
+          "2xHDD"
+        ],
+        "Date": "2023-10-19T09:32:02.3777136-04:00",
+        "Update": "2023-11-07T21:13:39.6139582-05:00",
+        "Label": "Chasis Fractal Design Focus 2 RGB White"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "Vertical",
+          "Tempered Glass",
+          "2xFan",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "2xHDD",
+          "Negro"
+        ],
+        "Date": "2023-11-11T12:36:37.8216832-05:00",
+        "Update": "2023-11-11T12:58:59.609044-05:00",
+        "Label": "Chasis Corsair 4000D Airflow"
+      },
+      {
+        "Price": 189.00,
+        "Features": [
+          "Tempered Glass",
+          "3xFan ARGB",
+          "3xUSB",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "Negro",
+          "2xHDD"
+        ],
+        "Date": "2023-11-03T12:22:56.9620417-04:00",
+        "Update": "2023-11-11T13:24:08.664654-05:00",
+        "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "Micro ATX",
+          "x2 USB",
+          "Acrilico",
+          "Dust Filter",
+          "Modular I/O Panel",
+          "Negro"
+        ],
+        "Date": "2023-12-07T22:24:12.9113994-05:00",
+        "Update": "2023-12-08T12:55:48.7729192-05:00",
+        "Label": "Chasis Cooler Master MasterBox Q300L Gray"
+      },
+      {
+        "Price": 179.00,
+        "Features": [
+          "ATX",
+          "Mid Tower",
+          "Tempered Glass",
+          "x1 HDD3.5",
+          "x3 HDD2.5",
+          "120mm D-RGB fan"
+        ],
+        "Date": "2023-11-30T11:20:38.8740683-05:00",
+        "Update": "2023-12-08T13:42:07.753321-05:00",
+        "Label": "Chasis Phanteks Eclipse G300A Mesh D-RGB Black"
+      }
+    ],
     "Red": [
       {
         "Price": 19.00,
@@ -3210,24 +3098,6 @@
         "Date": "2023-10-03T06:55:51.8601602-04:00",
         "Update": "2023-12-08T12:55:48.7261566-05:00",
         "Label": "Board Asus TUF Gaming B650-Plus Wifi"
-      },
-      {
-        "Price": 185.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "5333mhz",
-          "DisplayPort",
-          "HDMI port",
-          "Wi-Fi Module",
-          "x7USB",
-          "x4SATA",
-          "DDR4",
-          "Micro ATX",
-          "x5 Audio"
-        ],
-        "Date": "2023-11-30T11:20:59.3135657-05:00",
-        "Update": "2023-12-08T12:55:48.7538561-05:00",
-        "Label": "Board Asus TUF B760M-Plus Wifi D4"
       },
       {
         "Price": 385.00,
@@ -4460,19 +4330,6 @@
       }
     ],
     "Webcam": [
-      {
-        "Price": 83.00,
-        "Features": [
-          "1080p",
-          "Autofocus",
-          "Stereo",
-          "Micrófono",
-          "USB"
-        ],
-        "Date": "2023-11-05T07:48:45.3109671-05:00",
-        "Update": "2023-11-05T10:12:40.7130244-05:00",
-        "Label": "Webcam Logitech C922x"
-      },
       {
         "Price": 65.00,
         "Features": [
