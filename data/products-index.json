@@ -2,7 +2,7 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 1209.00,
+        "Price": 1219.00,
         "Features": [],
         "Date": "2023-12-03T16:51:42.889922-05:00",
         "Update": "2023-12-03T18:09:57.8478842-05:00",
@@ -26,7 +26,7 @@
         "Label": "PC RTX 2060 GB +i5-13500T +Disipador ARGB +MSI Pro B760M-P +16GB DDR4 +MSI 24\""
       },
       {
-        "Price": 1080.00,
+        "Price": 1090.00,
         "Features": [],
         "Date": "2023-12-10T11:05:09.0640243-05:00",
         "Update": "2023-12-10T11:08:06.5773886-05:00",
@@ -56,7 +56,7 @@
   "Torres": {
     "Gamer": [
       {
-        "Price": 939.00,
+        "Price": 949.00,
         "Features": [],
         "Date": "2023-12-03T16:51:01.5137142-05:00",
         "Update": "2023-12-03T18:06:16.8322054-05:00",
@@ -96,7 +96,7 @@
         "Label": "Torre RTX 2060 GB +i5 13Gen +D ARGB +MSI Pro B760M-P WIFI +16GB DDR4 + M2 500GB"
       },
       {
-        "Price": 1035.00,
+        "Price": 1045.00,
         "Features": [],
         "Date": "2023-12-03T16:53:05.2567445-05:00",
         "Update": "2023-12-08T19:21:48.5406566-05:00",
@@ -2502,7 +2502,7 @@
         "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 XT Eagle 8GB"
       },
       {
-        "Price": 189.00,
+        "Price": 199.0,
         "Features": [
           "2xFan",
           "1x8Pin",
