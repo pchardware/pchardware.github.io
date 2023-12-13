@@ -2252,17 +2252,6 @@
         "Label": "RAM DDR4 Corsair Vengeance LPX 16GB 3200mhz RED"
       },
       {
-        "Price": 85.00,
-        "Features": [
-          "2x8GB",
-          "Disipadas",
-          "CL16"
-        ],
-        "Date": "2023-03-30T09:55:40.6507732-04:00",
-        "Update": "2023-11-27T09:23:42.3610914-05:00",
-        "Label": "RAM DDR4 Corsair Vengeance RGB RT 16GB 3600mhz"
-      },
-      {
         "Price": 109.00,
         "Features": [
           "2x16GB",
@@ -2283,6 +2272,17 @@
         "Date": "2023-10-09T15:59:22.4913756-04:00",
         "Update": "2023-12-04T16:09:51.4524889-05:00",
         "Label": "RAM DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "2x8GB",
+          "Disipadas",
+          "CL18"
+        ],
+        "Date": "2023-03-30T09:55:40.6507732-04:00",
+        "Update": "2023-12-13T18:32:49.787986-05:00",
+        "Label": "RAM DDR4 Corsair Vengeance RGB RT 16GB 3600mhz"
       }
     ],
     "Tarjeta Gráfica": [
