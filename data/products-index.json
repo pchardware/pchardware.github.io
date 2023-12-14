@@ -1,47 +1,5 @@
 {
   "Computadoras": {
-    "Gamer": [
-      {
-        "Price": 1219.00,
-        "Features": [],
-        "Date": "2023-12-03T16:51:42.889922-05:00",
-        "Update": "2023-12-03T18:09:57.8478842-05:00",
-        "Discount": 38.0,
-        "Label": "PC GTX 1070 8GB + i5-11400 + MSI Z590 Pro Wifi + 16GB DDR4 + 600W + + 24\" MSI"
-      },
-      {
-        "Price": 1379.00,
-        "Features": [],
-        "Date": "2023-12-03T16:57:19.1119576-05:00",
-        "Update": "2023-12-03T18:09:57.8926718-05:00",
-        "Discount": 41.0,
-        "Label": "PC i5-13500T + Disipador ARGB + MSI Pro B760M-P + 16GB DDR4 + 600W + 24\" MSI"
-      },
-      {
-        "Price": 1309.00,
-        "Features": [],
-        "Date": "2023-12-08T19:11:50.4339793-05:00",
-        "Update": "2023-12-08T19:20:29.5199513-05:00",
-        "Discount": 37.0,
-        "Label": "PC RTX 2060 GB +i5-13500T +Disipador ARGB +MSI Pro B760M-P +16GB DDR4 +MSI 24\""
-      },
-      {
-        "Price": 1090.00,
-        "Features": [],
-        "Date": "2023-12-10T11:05:09.0640243-05:00",
-        "Update": "2023-12-10T11:08:06.5773886-05:00",
-        "Discount": 36.0,
-        "Label": "PC GTX 1070 8GB +i3-13100F +Z690M Phantom Gaming +16GB DDR4 +500GB M.2+ 600W"
-      },
-      {
-        "Price": 925.00,
-        "Features": [],
-        "Date": "2023-12-12T11:23:49.6707416-05:00",
-        "Update": "2023-12-12T11:27:18.7547493-05:00",
-        "Discount": 33.0,
-        "Label": "PC Ryzen 5 5600G +B550M Pro +16GB DDR4 Corsair +500GB M.2 +600W +MSI 24\""
-      }
-    ],
     "Rendimiento": [
       {
         "Price": 3699.00,
@@ -78,14 +36,6 @@
         "Update": "2023-12-07T02:44:53.6510931-05:00",
         "Discount": 38.0,
         "Label": "Torre Gamer RTX 4060 Ti 8GB + i7-13700K + MasterLiquid 360L + Z790 Aorus Elite"
-      },
-      {
-        "Price": 999.00,
-        "Features": [],
-        "Date": "2023-12-08T18:49:15.108023-05:00",
-        "Update": "2023-12-08T18:54:10.5024613-05:00",
-        "Discount": 26.0,
-        "Label": "Torre RTX 2060 6GB +i5-11400 +MSI Z590 Pro Wifi +16GB DDR4 +500GB M2 +600W"
       },
       {
         "Price": 1035.00,
@@ -393,19 +343,6 @@
         "Update": "2023-12-07T12:39:13.9214465-05:00",
         "Discount": 7.0,
         "Label": "Kit Ryzen 5 +8GB DDR4 Disipadas +Disipador +Board B550M Pro"
-      },
-      {
-        "Price": 329.00,
-        "Features": [
-          "8 hilos",
-          "VGA",
-          "HDMI",
-          "4xSATA"
-        ],
-        "Date": "2023-11-18T10:32:34.3017455-05:00",
-        "Update": "2023-12-08T19:21:48.4953761-05:00",
-        "Discount": 7.0,
-        "Label": "Kit Intel Core i3 13Gen +8GB RAM 3200mhz +Disipador +Board MSI Pro B760M"
       },
       {
         "Price": 395.00,
@@ -863,17 +800,6 @@
         "Date": "2023-10-02T14:29:40.7946679-04:00",
         "Update": "2023-12-08T13:47:00.1107133-05:00",
         "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 1TB"
-      },
-      {
-        "Price": 55.00,
-        "Features": [
-          "2100MBps",
-          "PCIe3",
-          "NVMe"
-        ],
-        "Date": "2023-12-07T13:20:39.5602767-05:00",
-        "Update": "2023-12-08T13:47:00.1263847-05:00",
-        "Label": "SSD M.2 HP EX900 500GB"
       },
       {
         "Price": 79.00,
@@ -1988,22 +1914,6 @@
         "Date": "2023-11-30T11:20:49.6412308-05:00",
         "Update": "2023-12-05T16:42:29.8142126-05:00",
         "Label": "CPU AMD Ryzen 5 5600X +Disipador"
-      },
-      {
-        "Price": 145.00,
-        "Features": [
-          "13ra Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.5GHz",
-          "12MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-11-03T12:23:09.4506592-04:00",
-        "Update": "2023-12-05T17:05:08.1691389-05:00",
-        "Label": "Micro Intel Core i3-13100F +Disipador"
       },
       {
         "Price": 215.00,
@@ -4062,25 +3972,6 @@
         "Date": "2023-11-24T09:48:56.279126-05:00",
         "Update": "2023-11-24T10:20:53.064756-05:00",
         "Label": "Monitor Acer Nitro 27\" XV275U"
-      },
-      {
-        "Price": 209.00,
-        "Features": [
-          "Curvo",
-          "1ms",
-          "75Hz",
-          "DP",
-          "Business",
-          "250nit",
-          "1080p",
-          "HDMI",
-          "VA",
-          "FHD",
-          "VESA"
-        ],
-        "Date": "2023-10-23T12:31:38.9180493-04:00",
-        "Update": "2023-12-01T10:22:12.5370867-05:00",
-        "Label": "Monitor MSI 24\" MP241C"
       },
       {
         "Price": 365.00,
