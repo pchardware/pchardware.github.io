@@ -356,6 +356,19 @@
         "Update": "2023-12-09T09:40:35.4286541-05:00",
         "Discount": 5.0,
         "Label": "Kit Intel Core i5 11na Gen +8GB RAM 3200mhz +Disipador +Board MSI Z590"
+      },
+      {
+        "Price": 335.00,
+        "Features": [
+          "8 Hilos",
+          "6xUSB",
+          "DDR4",
+          "Disipada"
+        ],
+        "Date": "2023-10-20T08:53:27.1294814-04:00",
+        "Update": "2023-12-14T07:55:29.0302583-05:00",
+        "Discount": 5.0,
+        "Label": "Kit Intel Core i3 12Gen +8GB RAM 3200mhz +Disipador +Board ASRock Z690"
       }
     ]
   },
@@ -613,6 +626,30 @@
         "Date": "2023-12-07T23:40:08.0174775-05:00",
         "Update": "2023-12-08T00:14:07.6947182-05:00",
         "Label": "Fan Cooler Master MasterFan MF120R ARGB"
+      },
+      {
+        "Price": 25.00,
+        "Features": [
+          "1x a 16x",
+          "Adaptador"
+        ],
+        "Date": "2023-06-07T13:43:02.4805647-04:00",
+        "Update": "2023-12-14T07:55:28.8036386-05:00",
+        "Label": "Riser Coboc PCI Express"
+      },
+      {
+        "Price": 17.00,
+        "Features": [],
+        "Date": "2023-07-26T16:41:29.0221883-04:00",
+        "Update": "2023-12-14T07:55:28.9260796-05:00",
+        "Label": "Thermalright LGA1700-BCF Black"
+      },
+      {
+        "Price": 13.00,
+        "Features": [],
+        "Date": "2023-11-03T12:23:39.265693-04:00",
+        "Update": "2023-12-14T07:55:28.9602103-05:00",
+        "Label": "Adapter Phanteks Modular HDD Bracket PH-HDDKT_02"
       }
     ],
     "Disco Sólido": [
@@ -1453,6 +1490,23 @@
         "Date": "2023-03-27T12:00:05.9787174-04:00",
         "Update": "2023-11-18T23:49:17.3673461-05:00",
         "Label": "Disipador Líquido Corsair H100x RGB Elite"
+      },
+      {
+        "Price": 595.00,
+        "Features": [
+          "360mm",
+          "Premium",
+          "RGB",
+          "CUSTOM",
+          "CPU + GPU",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-05-11T13:08:17.1127956-04:00",
+        "Update": "2023-12-14T07:55:28.8926854-05:00",
+        "Label": "Kit Líquido Corsair Hydro XH305i"
       }
     ],
     "Disco Duro": [
@@ -1519,6 +1573,18 @@
         "Date": "2023-06-29T07:38:17.9677885-04:00",
         "Update": "2023-12-04T16:09:51.4025294-05:00",
         "Label": "HDD 3.5 Seagate Desktop 1TB"
+      },
+      {
+        "Price": 69.00,
+        "Features": [
+          "64mb",
+          "5900rpm",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-07-26T16:42:06.8492862-04:00",
+        "Update": "2023-12-14T07:55:28.9084822-05:00",
+        "Label": "HDD 3.5 Seagate Pipeline 2TB"
       }
     ],
     "Disipador por Aire": [
@@ -1946,6 +2012,22 @@
         "Date": "2023-02-17T09:30:45.7586545-05:00",
         "Update": "2023-12-07T12:39:13.8820228-05:00",
         "Label": "Micro Intel Core i7-12700K"
+      },
+      {
+        "Price": 149.00,
+        "Features": [
+          "12va Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-05-11T07:28:15.7616729-04:00",
+        "Update": "2023-12-14T07:55:29.0098231-05:00",
+        "Label": "Micro Intel Core i3-12100 +Disipador"
       }
     ],
     "Memoria RAM": [
@@ -2157,6 +2239,17 @@
         "Date": "2023-03-30T09:55:40.6507732-04:00",
         "Update": "2023-12-13T18:32:49.787986-05:00",
         "Label": "RAM DDR4 Corsair Vengeance RGB RT 16GB 3600mhz"
+      },
+      {
+        "Price": 97.00,
+        "Features": [
+          "2x16GB",
+          "CL16",
+          "Disipadas"
+        ],
+        "Date": "2023-11-18T23:52:16.8733847-05:00",
+        "Update": "2023-12-14T07:55:29.0448296-05:00",
+        "Label": "RAM DDR4 Silicon Power Turbine RGB 32GB 3200mhz"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2695,6 +2788,17 @@
         "Date": "2023-11-30T11:20:38.8740683-05:00",
         "Update": "2023-12-08T13:42:07.753321-05:00",
         "Label": "Chasis Phanteks Eclipse G300A Mesh D-RGB Black"
+      },
+      {
+        "Price": 99.00,
+        "Features": [
+          "8 GPU",
+          "Acero",
+          "Abierto"
+        ],
+        "Date": "2023-06-07T15:06:17.9384399-04:00",
+        "Update": "2023-12-14T07:55:28.8181172-05:00",
+        "Label": "Chasis MLLIQUEA Mining Rig Frame"
       }
     ],
     "Red": [
@@ -3046,6 +3150,25 @@
         "Date": "2023-12-12T03:35:19.2766433-05:00",
         "Update": "2023-12-12T04:01:09.7034293-05:00",
         "Label": "Board Asus Prime Z790-V Wifi"
+      },
+      {
+        "Price": 249.00,
+        "Features": [
+          "AM4",
+          "5100mhz",
+          "7xUSB",
+          "6xSATA",
+          "BIOS Flashback",
+          "HDMI",
+          "DisplayPort",
+          "6xAudio",
+          "DDR4",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-11-06T10:29:25.1579455-05:00",
+        "Update": "2023-12-14T07:55:28.9888957-05:00",
+        "Label": "Board Asus ROG Strix B550-F Gaming Wifi II"
       }
     ]
   },
@@ -3749,6 +3872,22 @@
         "Date": "2023-06-07T15:03:27.0791363-04:00",
         "Update": "2023-12-05T17:15:40.1518278-05:00",
         "Label": "Cable DisplayPort a HDMI"
+      },
+      {
+        "Price": 9.00,
+        "Features": [
+          "DCA106-HV"
+        ],
+        "Date": "2023-06-07T14:58:54.5233761-04:00",
+        "Update": "2023-12-14T07:55:28.8631803-05:00",
+        "Label": "Conversor DINO HDMI a VGA"
+      },
+      {
+        "Price": 9.00,
+        "Features": [],
+        "Date": "2023-06-07T15:04:34.6091688-04:00",
+        "Update": "2023-12-14T07:55:28.878621-05:00",
+        "Label": "Conversor HDMI a VGA"
       }
     ],
     "Otros": [
@@ -4331,6 +4470,21 @@
         "Date": "2023-05-12T07:53:07.7837276-04:00",
         "Update": "2023-11-24T10:20:52.924457-05:00",
         "Label": "Backup APC BE425M 425VA"
+      }
+    ],
+    "Silla": [
+      {
+        "Price": 169.00,
+        "Features": [
+          "Oficina",
+          "Ergonómica",
+          "Reposabrazos",
+          "Ruedas giratorias",
+          "Gris"
+        ],
+        "Date": "2023-05-12T07:54:58.4743215-04:00",
+        "Update": "2023-12-14T07:55:28.8488044-05:00",
+        "Label": "Silla YAHEETECH"
       }
     ]
   }
