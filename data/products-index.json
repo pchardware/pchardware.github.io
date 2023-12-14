@@ -38,14 +38,6 @@
         "Label": "Torre Gamer RTX 4060 Ti 8GB + i7-13700K + MasterLiquid 360L + Z790 Aorus Elite"
       },
       {
-        "Price": 1035.00,
-        "Features": [],
-        "Date": "2023-12-08T19:07:51.3981152-05:00",
-        "Update": "2023-12-08T19:20:29.5051366-05:00",
-        "Discount": 27.0,
-        "Label": "Torre RTX 2060 GB +i5 13Gen +D ARGB +MSI Pro B760M-P WIFI +16GB DDR4 + M2 500GB"
-      },
-      {
         "Price": 1045.00,
         "Features": [],
         "Date": "2023-12-03T16:53:05.2567445-05:00",
@@ -751,16 +743,6 @@
         "Date": "2023-12-07T13:20:30.3520117-05:00",
         "Update": "2023-12-08T13:42:07.7679758-05:00",
         "Label": "SSD M.2 Crucial P5 Plus 1TB"
-      },
-      {
-        "Price": 59.00,
-        "Features": [
-          "3500MBps",
-          "PCIe 4"
-        ],
-        "Date": "2023-12-07T13:20:36.3839284-05:00",
-        "Update": "2023-12-08T13:42:07.783506-05:00",
-        "Label": "SSD M.2 Solidigm P41 Plus 512GB"
       },
       {
         "Price": 97.00,
