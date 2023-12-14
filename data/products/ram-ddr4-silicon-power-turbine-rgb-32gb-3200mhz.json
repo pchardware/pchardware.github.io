@@ -1,0 +1,20 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Memoria RAM",
+  "Images": [
+    "/images/products/ram-ddr4-silicon-power-turbine-rgb-32gb-3200mhz-1.webp",
+    "/images/products/ram-ddr4-silicon-power-turbine-rgb-32gb-3200mhz-2.webp",
+    "/images/products/ram-ddr4-silicon-power-turbine-rgb-32gb-3200mhz-3.webp",
+    "/images/products/ram-ddr4-silicon-power-turbine-rgb-32gb-3200mhz-4.webp"
+  ],
+  "Description": "Model\nBrand: Silicon Power\nSeries: XPOWER Turbine RGB\nModel: SP032GXLZU320BDB\n\n\nDetails\nCapacity: 32GB (2 x 16GB)\nSpeed: DDR4 3200 (PC4 25600)\nCAS Latency: 16\nTiming: 16-18-18-38\nVoltage: 1.35V\nECC: No\nBuffered/Registered: Unbuffered\nColor: Silver\nHeat Spreader: Yes\nFeatures: Authentic and high-quality SP memory module combining high gaming performance with colorful RGB display\nHigh speeds with almost no lag time allow maximum DDR4 performance\n100% tested for stability, durability, and compatibility on major motherboard brands\nDynamic thermal heatsink mechanism to prevent overheating\nSupports Intel Extreme Memory Profile (Intel XMP) Standards\nSupports ASUS Aura Sync / GIGABYTE RGB Fusion / MSI Mystic Light Sync / ASROCK-Polychrome Sync\nUp to 10-layer PCBs to ensure stability and reliability\nRecommend Use: High Performance or Gaming Memory\nLED Color: RGB",
+  "Price": 97.00,
+  "Features": [
+    "2x16GB",
+    "CL16",
+    "Disipadas"
+  ],
+  "Date": "2023-11-18T23:52:16.8733847-05:00",
+  "Update": "2023-12-14T07:55:29.0448296-05:00",
+  "Label": "RAM DDR4 Silicon Power Turbine RGB 32GB 3200mhz"
+}
