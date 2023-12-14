@@ -1,0 +1,19 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Otros",
+  "Images": [
+    "/images/products/riser-coboc-pci-express-1.webp",
+    "/images/products/riser-coboc-pci-express-2.webp",
+    "/images/products/riser-coboc-pci-express-3.webp",
+    "/images/products/riser-coboc-pci-express-4.webp"
+  ],
+  "Description": "Model\nBrand: Coboc\nModel: RISER-1X216X-SATA\n\n\nDetails\nLength: 0 ft.\nCable Length: 1.97 ft.\n\n\nConnectors\nConnector Number: 1\n\n\nDetails\nSpecifications: Power Connector: Sata 15 pin power cableCompatible use: with any graphics cardsPackage Included:1 x PCI-E 16X Riser Adapter1 x PCI-E 1X Riser Adapter1 x USB3.0 cable (60cm)\n\n\nFeatures\nFeatures: The graphics card power supply adopts three FP solid-state capacitors, make graphics more stable power supply securitySuper Speed USB 3.0 cable as extender cable ,premium quality and data transfer rate up to 5GbpsSafer, more efficient, more practicalPower by SATA 15pin Slot, which is more powerful, and reduce the burden of the motherboardOperating SystemsWindows XP, Vista and Windows 7, Windows 8 and Window 10 - No driver is needed",
+  "Price": 25.00,
+  "Features": [
+    "1x a 16x",
+    "Adaptador"
+  ],
+  "Date": "2023-06-07T13:43:02.4805647-04:00",
+  "Update": "2023-12-14T07:55:28.8036386-05:00",
+  "Label": "Riser Coboc PCI Express"
+}
