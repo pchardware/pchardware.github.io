@@ -756,17 +756,6 @@
         "Label": "SSD M.2 Corsair MP600 PRO NH 2TB"
       },
       {
-        "Price": 105.00,
-        "Features": [
-          "7450mbs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-08-21T08:57:50.0608494-04:00",
-        "Update": "2023-12-08T13:42:07.669656-05:00",
-        "Label": "SSD M.2 Samsung 990 PRO 1TB"
-      },
-      {
         "Price": 53.00,
         "Features": [
           "560mbs",
@@ -811,20 +800,6 @@
         "Date": "2023-10-02T14:29:43.5652436-04:00",
         "Update": "2023-12-08T13:47:00.0029855-05:00",
         "Label": "SSD M.2 Corsair MP600 PRO LPX 1TB White"
-      },
-      {
-        "Price": 145.00,
-        "Features": [
-          "7100mbs",
-          "1400tbw",
-          "Disipador",
-          "Heatsink",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-10-13T09:28:29.8930928-04:00",
-        "Update": "2023-12-08T13:47:00.0362719-05:00",
-        "Label": "SSD M.2 Corsair MP600 Pro XT 2TB"
       },
       {
         "Price": 93.00,
@@ -2241,17 +2216,6 @@
         "Label": "RAM DDR4 CORSAIR Vengeance RGB Pro 16GB 3600mhz White"
       },
       {
-        "Price": 63.00,
-        "Features": [
-          "2x8GB",
-          "CL16",
-          "Disipadas"
-        ],
-        "Date": "2023-11-24T09:48:39.1714301-05:00",
-        "Update": "2023-11-24T10:20:52.9732326-05:00",
-        "Label": "RAM DDR4 Corsair Vengeance LPX 16GB 3200mhz RED"
-      },
-      {
         "Price": 109.00,
         "Features": [
           "2x16GB",
@@ -2548,22 +2512,6 @@
         "Date": "2023-11-27T09:55:52.373435-05:00",
         "Update": "2023-11-27T11:56:37.4501156-05:00",
         "Label": "Tarjeta de Video XFX Speedster Swift 210 RX 6650 XT 8GB"
-      },
-      {
-        "Price": 465.00,
-        "Features": [
-          "3xFan",
-          "DLSS3",
-          "500WR",
-          "1x8Pin",
-          "281mm",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-10-03T06:56:18.8836302-04:00",
-        "Update": "2023-12-04T16:09:51.4271346-05:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4060 Ti Gaming OC 8GB"
       },
       {
         "Price": 395.00,
