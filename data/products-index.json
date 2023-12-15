@@ -2,7 +2,7 @@
   "Computadoras": {
     "Rendimiento": [
       {
-        "Price": 3699.00,
+        "Price": 3709.00,
         "Features": [],
         "Date": "2023-12-11T09:49:05.6656979-05:00",
         "Update": "2023-12-11T09:52:11.6709472-05:00",
@@ -22,7 +22,7 @@
         "Label": "Torre GTX 1070 8GB + i5-11400 + MSI Z590 Pro Wifi CEC + 16GB DDR4 Corsair + 600W"
       },
       {
-        "Price": 3135.00,
+        "Price": 3145.00,
         "Features": [],
         "Date": "2023-12-06T03:16:33.2546405-05:00",
         "Update": "2023-12-06T03:19:12.1614967-05:00",
@@ -30,7 +30,7 @@
         "Label": "Torre Gamer RTX 4070 Ti Master 12GB + i9-13900K + ROG Maximus Z690 Hero + 1200W"
       },
       {
-        "Price": 2085.00,
+        "Price": 2095.00,
         "Features": [],
         "Date": "2023-12-03T16:33:35.2808213-05:00",
         "Update": "2023-12-07T02:44:53.6510931-05:00",
@@ -38,7 +38,7 @@
         "Label": "Torre Gamer RTX 4060 Ti 8GB + i7-13700K + MasterLiquid 360L + Z790 Aorus Elite"
       },
       {
-        "Price": 1045.00,
+        "Price": 1055.00,
         "Features": [],
         "Date": "2023-12-03T16:53:05.2567445-05:00",
         "Update": "2023-12-08T19:21:48.5406566-05:00",
@@ -246,7 +246,7 @@
         "Label": "Kit i5-11400 +Disipador + MSI Z590 Pro Wifi CEC + 16GB DDR4 Corsair RGB"
       },
       {
-        "Price": 529.00,
+        "Price": 539.00,
         "Features": [
           "11na Gen",
           "12 Hilos",
@@ -656,7 +656,7 @@
         "Label": "SSD 2.5 Team Group DeltaMax RGB 500GB"
       },
       {
-        "Price": 89.00,
+        "Price": 99.0,
         "Features": [
           "3500mbs",
           "740tbw",
@@ -668,7 +668,7 @@
         "Label": "SSD M.2 Intel 670P 2TB"
       },
       {
-        "Price": 169.00,
+        "Price": 179.0,
         "Features": [
           "7450mbs",
           "PCIe 4",
@@ -711,7 +711,7 @@
         "Label": "SSD 2.5 Acer SA100 960GB"
       },
       {
-        "Price": 139.00,
+        "Price": 149.0,
         "Features": [
           "7000mbs",
           "PCIe 4",
@@ -733,7 +733,7 @@
         "Label": "SSD 2.5 Team Group QX 512GB"
       },
       {
-        "Price": 79.00,
+        "Price": 89.0,
         "Features": [
           "6600MBps",
           "PCIe 4",
@@ -745,7 +745,7 @@
         "Label": "SSD M.2 Crucial P5 Plus 1TB"
       },
       {
-        "Price": 97.00,
+        "Price": 107.0,
         "Features": [
           "7100mbps",
           "HeatSink",
@@ -770,7 +770,7 @@
         "Label": "SSD M.2 Samsung 980 PRO 1TB"
       },
       {
-        "Price": 145.00,
+        "Price": 155.0,
         "Features": [
           "7100mbs",
           "1400tbw",
@@ -796,7 +796,7 @@
         "Label": "SSD M.2 - WD Green SN350 960TB"
       },
       {
-        "Price": 85.00,
+        "Price": 95.0,
         "Features": [
           "7400mbs",
           "PCIe 4",
@@ -808,7 +808,7 @@
         "Label": "SSD M.2 Team Group MP44 1TB"
       },
       {
-        "Price": 83.00,
+        "Price": 93.0,
         "Features": [
           "7000mbps",
           "HeatSink",
@@ -821,7 +821,7 @@
         "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 1TB"
       },
       {
-        "Price": 79.00,
+        "Price": 89.0,
         "Features": [
           "3500MBps",
           "PCIe 4",
@@ -832,7 +832,7 @@
         "Label": "SSD M.2 TeamGroup T-Force Z44L 1TB"
       },
       {
-        "Price": 255.00,
+        "Price": 265.0,
         "Features": [
           "7300MBps",
           "2400tbw",
