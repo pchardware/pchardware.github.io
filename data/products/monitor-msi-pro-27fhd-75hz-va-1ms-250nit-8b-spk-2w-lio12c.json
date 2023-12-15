@@ -1,0 +1,37 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Monitor",
+  "Images": [
+    "/images/products/monitor-msi-pro-27fhd-75hz-va-1ms-250nit-8b-spk-2w-lio12c-1.webp",
+    "/images/products/monitor-msi-pro-27fhd-75hz-va-1ms-250nit-8b-spk-2w-lio12c-2.webp",
+    "/images/products/monitor-msi-pro-27fhd-75hz-va-1ms-250nit-8b-spk-2w-lio12c-3.webp",
+    "/images/products/monitor-msi-pro-27fhd-75hz-va-1ms-250nit-8b-spk-2w-lio12c-4.webp",
+    "/images/products/monitor-msi-pro-27fhd-75hz-va-1ms-250nit-8b-spk-2w-lio12c-5.webp",
+    "/images/products/monitor-msi-pro-27fhd-75hz-va-1ms-250nit-8b-spk-2w-lio12c-6.webp",
+    "/images/products/monitor-msi-pro-27fhd-75hz-va-1ms-250nit-8b-spk-2w-lio12c-7.webp",
+    "/images/products/monitor-msi-pro-27fhd-75hz-va-1ms-250nit-8b-spk-2w-lio12c-8.webp",
+    "/images/products/monitor-msi-pro-27fhd-75hz-va-1ms-250nit-8b-spk-2w-lio12c-9.webp",
+    "/images/products/monitor-msi-pro-27fhd-75hz-va-1ms-250nit-8b-spk-2w-lio12c-10.webp",
+    "/images/products/monitor-msi-pro-27fhd-75hz-va-1ms-250nit-8b-spk-2w-lio12c-11.webp",
+    "/images/products/monitor-msi-pro-27fhd-75hz-va-1ms-250nit-8b-spk-2w-lio12c-12.webp"
+  ],
+  "Description": "Model\nBrand: MSI\nModel: Pro MP272C\nPart Number: Pro MP272C\nCabinet Color: Matte Black\n\n\nDisplay\nScreen Size: 27\"\nGlare Screen: Anti-glare\nWidescreen: Yes\nRecommended Resolution: 1920 x 1080\nRefresh Rate: 75 Hz\nViewing Angle: 178° (H) / 178° (V)\nPixel Pitch: 0.311mm\nDisplay Colors: 16.7 Million / 8 bits\nBrightness: 250 cd/m2\nContrast Ratio: 3000:1\nAspect Ratio: 16:9\nResponse Time: 5ms (GTG) / 1ms (MPRT)\nPanel: VA\nDisplay Type: FHD\nAdaptive Sync Technology: FreeSync (AMD Adaptive Sync)\nCurvature Radius: 1500R\nCurved Surface Screen: Curved\n\n\nConnectivity\nVideo Ports: 1 x D-Sub / 1 x HDMI 1.4\nHeadphone: 1 x Audio-in\n1 x Headphone-out\n\n\nPower\nPower Supply: 100 - 240 VAC, 50/60Hz\n\n\nConvenience\nStand Adjustments: Tilt: -7° ~ 22°\nBuilt-in Speakers: 2 x 2W\nVESA Compatibility - Mountable: 100 x 100mm\n\n\nFeatures\nFeatures: 98% sRGB (CIE 1976)\n\n\nDimensions & Weight\nDimensions (H x W x D): 17.91\" x 24.03\" x 7.99\" w/ stand\nWeight: 11.90 lbs.\n\n\nPackaging\nPackage Contents: Power Cord, HDMI Cable\n\n\nConsumer Alert\nConsumer Alert: HDMI: 1920 x 1080 (Up to 75Hz)\nVGA: 1920 x 1080 (Up to 60Hz)",
+  "Price": 299.00,
+  "Features": [
+    "1ms",
+    "8Bit",
+    "1080p",
+    "75Hz",
+    "250nit",
+    "FHD",
+    "FreeSync",
+    "Speakers",
+    "HDMI",
+    "D-Sub",
+    "VA",
+    "Curved"
+  ],
+  "Date": "2023-12-15T02:02:56.6237032-05:00",
+  "Update": "2023-12-15T03:23:31.7951248-05:00",
+  "Label": "Monitor MSI Pro 27FHD 75Hz VA 1ms 250nit 8b SPK-2W Curved MP272C Black"
+}
