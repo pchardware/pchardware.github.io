@@ -630,6 +630,17 @@
         "Date": "2023-11-03T12:23:39.265693-04:00",
         "Update": "2023-12-14T07:55:28.9602103-05:00",
         "Label": "Adapter Phanteks Modular HDD Bracket PH-HDDKT_02"
+      },
+      {
+        "Price": 26.00,
+        "Features": [
+          "RGB",
+          "ARGB",
+          "x8 Fan"
+        ],
+        "Date": "2023-12-15T02:03:00.6236319-05:00",
+        "Update": "2023-12-15T03:23:31.816473-05:00",
+        "Label": "HUB Thermalright Controlador ARGB Fan 8x"
       }
     ],
     "Disco Sólido": [
@@ -830,6 +841,18 @@
         "Date": "2023-12-07T13:20:33.368904-05:00",
         "Update": "2023-12-08T13:47:00.1671814-05:00",
         "Label": "SSD M.2 WD BLACK SN850X 4TB (7300/6300)"
+      },
+      {
+        "Price": 83.0,
+        "Features": [
+          "2350mbs",
+          "210tbw",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-12-15T02:02:51.8715106-05:00",
+        "Update": "2023-12-15T03:23:31.7751038-05:00",
+        "Label": "SSD M.2 MSI SPatium M371 1TB (2350/1700)"
       }
     ],
     "Fuente": [
@@ -2643,6 +2666,22 @@
         "Date": "2023-12-12T03:35:15.5648203-05:00",
         "Update": "2023-12-12T11:15:42.3471711-05:00",
         "Label": "Tarjeta de Video Zotac GeForce GTX 1660 Super 6GB"
+      },
+      {
+        "Price": 539.00,
+        "Features": [
+          "3xFan",
+          "2x8Pin",
+          "750WR",
+          "340mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-12-15T02:02:40.5357401-05:00",
+        "Update": "2023-12-15T03:23:31.7571927-05:00",
+        "Label": "Tarjeta de Video XFX Swift 319 RX 6800 16GB"
       }
     ],
     "Chasis": [
@@ -4408,6 +4447,51 @@
         "Date": "2023-12-07T22:24:09.640104-05:00",
         "Update": "2023-12-14T08:51:12.1381658-05:00",
         "Label": "Monitor Acer Nitro 27\" 1440p Curvo 144Hz 1ms VA SPK"
+      },
+      {
+        "Price": 449.00,
+        "Features": [
+          "170Hz",
+          "0.5ms",
+          "1440p",
+          "400nit",
+          "8Bit",
+          "IPS",
+          "Speakers",
+          "HDR400"
+        ],
+        "Date": "2023-12-15T02:02:36.3928616-05:00",
+        "Update": "2023-12-15T03:23:31.7390911-05:00",
+        "Label": "Monitor Acer Nitro 27QHD 170Hz IPS 0.5ms 400nit 8b 4xUSB3 SPK-2W XV272U"
+      },
+      {
+        "Price": 299.00,
+        "Features": [
+          "1ms",
+          "8Bit",
+          "1080p",
+          "75Hz",
+          "250nit",
+          "FHD",
+          "FreeSync",
+          "Speakers",
+          "HDMI",
+          "D-Sub",
+          "VA",
+          "Curved"
+        ],
+        "Date": "2023-12-15T02:02:56.6237032-05:00",
+        "Update": "2023-12-15T03:23:31.7951248-05:00",
+        "Label": "Monitor MSI Pro 27FHD 75Hz VA 1ms 250nit 8b SPK-2W Curved MP272C Black"
+      }
+    ],
+    "Red": [
+      {
+        "Price": 70.0,
+        "Features": [],
+        "Date": "2023-12-15T02:03:05.0560423-05:00",
+        "Update": "2023-12-15T03:23:31.8327004-05:00",
+        "Label": "ORICO 3.5 inch Shockproof Hard Disk Drive Protective Box Storage Case for 3.5\" HDD SSD Hard Drive ..."
       }
     ]
   }
