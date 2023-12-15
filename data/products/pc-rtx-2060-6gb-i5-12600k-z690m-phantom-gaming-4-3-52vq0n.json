@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-rtx-2060-6gb-i5-12600k-z690m-phantom-gaming-4-3-52vq0n-1.webp",
+    "/images/products/pc-rtx-2060-6gb-i5-12600k-z690m-phantom-gaming-4-3-52vq0n-2.webp",
+    "/images/products/pc-rtx-2060-6gb-i5-12600k-z690m-phantom-gaming-4-3-52vq0n-3.webp",
+    "/images/products/pc-rtx-2060-6gb-i5-12600k-z690m-phantom-gaming-4-3-52vq0n-4.webp",
+    "/images/products/pc-rtx-2060-6gb-i5-12600k-z690m-phantom-gaming-4-3-52vq0n-5.webp",
+    "/images/products/pc-rtx-2060-6gb-i5-12600k-z690m-phantom-gaming-4-3-52vq0n-6.webp",
+    "/images/products/pc-rtx-2060-6gb-i5-12600k-z690m-phantom-gaming-4-3-52vq0n-7.webp",
+    "/images/products/pc-rtx-2060-6gb-i5-12600k-z690m-phantom-gaming-4-3-52vq0n-8.webp",
+    "/images/products/pc-rtx-2060-6gb-i5-12600k-z690m-phantom-gaming-4-3-52vq0n-9.webp",
+    "/images/products/pc-rtx-2060-6gb-i5-12600k-z690m-phantom-gaming-4-3-52vq0n-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12600K\n+ Disipador Cooler Master Hyper 212 Spectrum V3\n+ Board ASRock Z690M Phantom Gaming 4\n+ RAM DDR4 Silicon Power 32GB 3200mhz\n+ SSD M.2 TeamGroup T-Force Z44L 1TB\n+ Tarjeta de Video EVGA RTX 2060 Gaming 6GB\n+ Fuente Gigabyte UD850GM 850W\n+ Chasis Phanteks Eclipse G300A Mesh D-RGB Black\n+ Monitor Acer Nitro 24\" 165Hz 1ms SPK VA\n+ Teclado Asus TUF Gaming K1\n+ Mouse Logitech G402 Hyperion Fury Black\n",
+  "Price": 1558.00,
+  "Features": [],
+  "Date": "2023-12-15T11:15:21.8224887-05:00",
+  "Update": "2023-12-15T12:33:48.5379054-05:00",
+  "Discount": 47.0,
+  "Label": "PC RTX 2060 6GB +i5-12600K +Z690M Phantom Gaming 4 +32GB DDR4 +1TB M.2 +Mon 24\""
+}
