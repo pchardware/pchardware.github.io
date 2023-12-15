@@ -1,0 +1,22 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/torre-rx-6600-8gb-i5-12600k-disipador-argb-z690-ph-wk5hmq-1.webp",
+    "/images/products/torre-rx-6600-8gb-i5-12600k-disipador-argb-z690-ph-wk5hmq-2.webp",
+    "/images/products/torre-rx-6600-8gb-i5-12600k-disipador-argb-z690-ph-wk5hmq-3.webp",
+    "/images/products/torre-rx-6600-8gb-i5-12600k-disipador-argb-z690-ph-wk5hmq-4.webp",
+    "/images/products/torre-rx-6600-8gb-i5-12600k-disipador-argb-z690-ph-wk5hmq-5.webp",
+    "/images/products/torre-rx-6600-8gb-i5-12600k-disipador-argb-z690-ph-wk5hmq-6.webp",
+    "/images/products/torre-rx-6600-8gb-i5-12600k-disipador-argb-z690-ph-wk5hmq-7.webp",
+    "/images/products/torre-rx-6600-8gb-i5-12600k-disipador-argb-z690-ph-wk5hmq-8.webp",
+    "/images/products/torre-rx-6600-8gb-i5-12600k-disipador-argb-z690-ph-wk5hmq-9.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12600K\n+ Disipador Cooler Master Hyper 212 Spectrum V3\n+ Board ASRock Z690 Phantom Gaming 4 DDR4\n+ RAM DDR4 CORSAIR Vengeance RGB Pro 32GB\n+ SSD M.2 TeamGroup T-Force Z44L 1TB\n+ Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X 8GB\n+ Fuente Gigabyte UD850GM 850W\n+ Chasis Phanteks Eclipse G300A Mesh D-RGB Black\n",
+  "Price": 1241.00,
+  "Features": [],
+  "Date": "2023-12-15T11:49:29.8964377-05:00",
+  "Update": "2023-12-15T12:33:48.5738668-05:00",
+  "Discount": 35.0,
+  "Label": "Torre RX 6600 8GB +i5-12600K +Disipador ARGB +Z690 Phantom Gaming 4 + 32GB DDR4"
+}
