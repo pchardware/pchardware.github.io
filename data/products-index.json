@@ -1,4 +1,50 @@
 {
+  "Computadoras": {
+    "Multimedia": [
+      {
+        "Price": 900.00,
+        "Features": [],
+        "Date": "2023-12-15T11:02:37.8804704-05:00",
+        "Update": "2023-12-15T12:33:48.5043749-05:00",
+        "Discount": 29.0,
+        "Label": "PC i3-12100 +B760M-P +8GB DDR4 +500GB M.2 + 600W + Acer 24\" +Ratón y Teclado"
+      },
+      {
+        "Price": 906.00,
+        "Features": [],
+        "Date": "2023-12-15T11:05:53.1509612-05:00",
+        "Update": "2023-12-15T12:33:48.5212598-05:00",
+        "Discount": 29.0,
+        "Label": "PC i3-12100 +Z690M +8GB DDR4 +1TB M.2 +600W +Acer 24\" +Ratón y Teclado"
+      }
+    ],
+    "Gamer": [
+      {
+        "Price": 1558.00,
+        "Features": [],
+        "Date": "2023-12-15T11:15:21.8224887-05:00",
+        "Update": "2023-12-15T12:33:48.5379054-05:00",
+        "Discount": 47.0,
+        "Label": "PC RTX 2060 6GB +i5-12600K +Z690M Phantom Gaming 4 +32GB DDR4 +1TB M.2 +Mon 24\""
+      },
+      {
+        "Price": 1573.00,
+        "Features": [],
+        "Date": "2023-12-15T11:50:57.4805158-05:00",
+        "Update": "2023-12-15T12:33:48.5926885-05:00",
+        "Discount": 40.0,
+        "Label": "PC RX 6600 8GB +i5-12600K +Z790 UD AX + 32GB DDR5 Corsair +500GB M.2 +850W +24\""
+      },
+      {
+        "Price": 1660.00,
+        "Features": [],
+        "Date": "2023-12-15T11:51:50.6247718-05:00",
+        "Update": "2023-12-15T12:33:48.6102621-05:00",
+        "Discount": 47.0,
+        "Label": "PC RX 6600 8GB +i5-12600K +Z790 UD AX + 32GB DDR5 G.Skill +850W +Acer Nitro 24\""
+      }
+    ]
+  },
   "Torres": {
     "Gamer": [
       {
@@ -32,6 +78,22 @@
         "Update": "2023-12-08T19:21:48.5406566-05:00",
         "Discount": 31.0,
         "Label": "Torre GTX 1070 8GB + i5-13500T + Disipador ARGB + MSI Pro B760M-P + 16GB DDR4"
+      },
+      {
+        "Price": 1223.00,
+        "Features": [],
+        "Date": "2023-12-15T11:48:43.9286237-05:00",
+        "Update": "2023-12-15T12:33:48.5565774-05:00",
+        "Discount": 35.0,
+        "Label": "Torre RX 6600 8GB +i5-12600K +Z690 Phantom Gaming 4 + 32GB DDR4 +850W +1TB M.2"
+      },
+      {
+        "Price": 1241.00,
+        "Features": [],
+        "Date": "2023-12-15T11:49:29.8964377-05:00",
+        "Update": "2023-12-15T12:33:48.5738668-05:00",
+        "Discount": 35.0,
+        "Label": "Torre RX 6600 8GB +i5-12600K +Disipador ARGB +Z690 Phantom Gaming 4 + 32GB DDR4"
       }
     ],
     "Entusiasta": [
@@ -2395,23 +2457,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4080 Eagle OC 16GB"
       },
       {
-        "Price": 259.00,
-        "Features": [
-          "8GB",
-          "3xFan",
-          "1x8Pin",
-          "500WR",
-          "282mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-05-11T19:24:18.7527581-04:00",
-        "Update": "2023-11-18T08:40:49.2674411-05:00",
-        "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X"
-      },
-      {
         "Price": 535.00,
         "Features": [
           "DLSS3",
@@ -2682,6 +2727,23 @@
         "Date": "2023-12-15T02:02:40.5357401-05:00",
         "Update": "2023-12-15T03:23:31.7571927-05:00",
         "Label": "Tarjeta de Video XFX Swift 319 RX 6800 16GB"
+      },
+      {
+        "Price": 259.00,
+        "Features": [
+          "8GB",
+          "3xFan",
+          "1x8Pin",
+          "500WR",
+          "282mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-05-11T19:24:18.7527581-04:00",
+        "Update": "2023-12-15T12:33:48.4822952-05:00",
+        "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X 8GB"
       }
     ],
     "Chasis": [
