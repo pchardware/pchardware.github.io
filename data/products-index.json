@@ -82,14 +82,6 @@
         "Label": "Torre Gamer RTX 4070 Ti Master 12GB + i9-13900K + ROG Maximus Z690 Hero + 1200W"
       },
       {
-        "Price": 2095.00,
-        "Features": [],
-        "Date": "2023-12-03T16:33:35.2808213-05:00",
-        "Update": "2023-12-07T02:44:53.6510931-05:00",
-        "Discount": 38.0,
-        "Label": "Torre Gamer RTX 4060 Ti 8GB + i7-13700K + MasterLiquid 360L + Z790 Aorus Elite"
-      },
-      {
         "Price": 1055.00,
         "Features": [],
         "Date": "2023-12-03T16:53:05.2567445-05:00",
@@ -98,30 +90,12 @@
         "Label": "Torre GTX 1070 8GB + i5-13500T + Disipador ARGB + MSI Pro B760M-P + 16GB DDR4"
       },
       {
-        "Price": 1225.00,
-        "Features": [],
-        "Date": "2023-12-15T11:48:43.9286237-05:00",
-        "Update": "2023-12-15T12:36:17.0899957-05:00",
-        "Discount": 33.0,
-        "Label": "Torre RX 6600 8GB +i5-12600K +Z690 Phantom Gaming 4 + 32GB DDR4 +850W +1TB M.2"
-      },
-      {
         "Price": 1239.00,
         "Features": [],
         "Date": "2023-12-15T11:49:29.8964377-05:00",
         "Update": "2023-12-15T12:36:17.1134089-05:00",
         "Discount": 37.0,
         "Label": "Torre RX 6600 8GB +i5-12600K +Disipador ARGB +Z690 Phantom Gaming 4 + 32GB DDR4"
-      }
-    ],
-    "Entusiasta": [
-      {
-        "Price": 2709.00,
-        "Features": [],
-        "Date": "2023-12-07T02:08:13.0160732-05:00",
-        "Update": "2023-12-07T02:18:35.7071948-05:00",
-        "Discount": 35.0,
-        "Label": "Torre RTX 4080 16GB + i7-13700K + Disipador + ROG Strix Z790-H + 1TB M2 + 1200W"
       }
     ]
   },
@@ -344,40 +318,6 @@
         "Label": "Kit Core i5-11400 +Disipador + Board MSI Z590 Pro Wifi CEC"
       },
       {
-        "Price": 309.00,
-        "Features": [
-          "6 Core",
-          "12 Hilos",
-          "AM4",
-          "4500mhz",
-          "x4 Sata",
-          "x6 USB",
-          "Micro ATX"
-        ],
-        "Date": "2023-12-05T09:54:38.4856362-05:00",
-        "Update": "2023-12-07T12:39:13.9614946-05:00",
-        "Discount": 5.0,
-        "Label": "Kit Ryzen 5 5600G +Disipador + ASRock B550M Pro SE"
-      },
-      {
-        "Price": 369.00,
-        "Features": [
-          "6 Core",
-          "12 Hilos",
-          "2x8",
-          "3200mhz",
-          "AM4",
-          "4500mhz",
-          "x4 Sata",
-          "x6 USB",
-          "Micro ATX"
-        ],
-        "Date": "2023-12-05T09:55:27.5485735-05:00",
-        "Update": "2023-12-07T12:39:13.9749458-05:00",
-        "Discount": 9.0,
-        "Label": "Kit Ryzen 5 5600G +Disipador + ASRock B550M Pro SE + 16GB DDR4 T-Force Vulcan Z"
-      },
-      {
         "Price": 465.00,
         "Features": [
           "20 Hilos",
@@ -391,19 +331,6 @@
       }
     ],
     "Esencial": [
-      {
-        "Price": 339.00,
-        "Features": [
-          "12 Hilos",
-          "Serie 5000",
-          "3200mhz",
-          "ASRock"
-        ],
-        "Date": "2023-10-20T08:54:09.0884384-04:00",
-        "Update": "2023-12-07T12:39:13.9214465-05:00",
-        "Discount": 7.0,
-        "Label": "Kit Ryzen 5 +8GB DDR4 Disipadas +Disipador +Board B550M Pro"
-      },
       {
         "Price": 395.00,
         "Features": [
@@ -517,22 +444,6 @@
         "Date": "2023-09-02T12:38:41.9633686-04:00",
         "Update": "2023-09-02T13:38:05.5872004-04:00",
         "Label": "Corsair Comander Core XT"
-      },
-      {
-        "Price": 43.00,
-        "Features": [
-          "3xFan",
-          "+Hub",
-          "Hydraulic",
-          "120mm",
-          "1200rpm",
-          "33cfm",
-          "3Pin",
-          "ARGB"
-        ],
-        "Date": "2023-09-02T12:38:56.7099296-04:00",
-        "Update": "2023-09-02T13:38:05.6316865-04:00",
-        "Label": "Fan AsiaHorse ARGB, Kit 3x +Hub +Controller, Black"
       },
       {
         "Price": 76.00,
@@ -2766,24 +2677,6 @@
     ],
     "Chasis": [
       {
-        "Price": 205.00,
-        "Features": [
-          "2x140mm",
-          "ARGB",
-          "Tempered Glass",
-          "Mesh",
-          "2xFan",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro",
-          "2xHDD"
-        ],
-        "Date": "2023-08-20T10:12:26.8379058-04:00",
-        "Update": "2023-10-25T15:46:32.5351458-04:00",
-        "Label": "Chasis Fractal Design Focus 2 RGB Black"
-      },
-      {
         "Price": 315.00,
         "Features": [
           "Vertical",
@@ -2976,24 +2869,6 @@
         "Label": "Motherboard Gigabyte B550 Gaming X V2"
       },
       {
-        "Price": 139.00,
-        "Features": [
-          "AM4",
-          "4533mhz",
-          "6xUSB",
-          "DDR4",
-          "4xSATA",
-          "Micro ATX",
-          "HDMI",
-          "DisplayPort",
-          "3xAudio",
-          "MOBO"
-        ],
-        "Date": "2023-10-11T10:56:39.5272184-04:00",
-        "Update": "2023-12-07T12:39:13.9344329-05:00",
-        "Label": "Board ASRock B550M Pro SE"
-      },
-      {
         "Price": 189.00,
         "Features": [
           "10Gen-11Gen",
@@ -3110,26 +2985,6 @@
         "Date": "2023-02-17T09:46:18.404887-05:00",
         "Update": "2023-12-08T11:21:36.9917902-05:00",
         "Label": "Board Asus B660 ProArt Creator D4"
-      },
-      {
-        "Price": 235.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "6600mhz",
-          "wifi",
-          "x7USB",
-          "x4SATA",
-          "LGA1700",
-          "DP",
-          "HDMMI",
-          "WIFI",
-          "Bluetooth",
-          "ATX"
-        ],
-        "Date": "2023-12-07T23:40:26.7525408-05:00",
-        "Update": "2023-12-08T11:21:37.0294594-05:00",
-        "Label": "Board MSI Pro Z790-S Wifi"
       },
       {
         "Price": 245.00,
@@ -3394,21 +3249,6 @@
         "Date": "2023-08-01T11:15:29.6304071-04:00",
         "Update": "2023-08-01T18:30:20.4369867-04:00",
         "Label": "Teclado NZXT Function TKL"
-      },
-      {
-        "Price": 75.00,
-        "Features": [
-          "RGB",
-          "Gaming",
-          "Semi mecánico",
-          "Palm rest",
-          "Full",
-          "4000dpi",
-          "Optico"
-        ],
-        "Date": "2023-05-11T20:29:45.5785203-04:00",
-        "Update": "2023-10-13T09:24:44.3739117-04:00",
-        "Label": "COMBO Teclado + Mouse Rosewill Fusion C40"
       },
       {
         "Price": 53.00,
