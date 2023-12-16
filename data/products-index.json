@@ -2,45 +2,45 @@
   "Computadoras": {
     "Multimedia": [
       {
-        "Price": 900.00,
+        "Price": 899.00,
         "Features": [],
         "Date": "2023-12-15T11:02:37.8804704-05:00",
-        "Update": "2023-12-15T12:33:48.5043749-05:00",
-        "Discount": 29.0,
+        "Update": "2023-12-15T12:36:17.0189277-05:00",
+        "Discount": 30.0,
         "Label": "PC i3-12100 +B760M-P +8GB DDR4 +500GB M.2 + 600W + Acer 24\" +Ratón y Teclado"
       },
       {
-        "Price": 906.00,
+        "Price": 905.00,
         "Features": [],
         "Date": "2023-12-15T11:05:53.1509612-05:00",
-        "Update": "2023-12-15T12:33:48.5212598-05:00",
-        "Discount": 29.0,
+        "Update": "2023-12-15T12:36:17.0425641-05:00",
+        "Discount": 30.0,
         "Label": "PC i3-12100 +Z690M +8GB DDR4 +1TB M.2 +600W +Acer 24\" +Ratón y Teclado"
       }
     ],
     "Gamer": [
       {
-        "Price": 1558.00,
+        "Price": 1559.00,
         "Features": [],
         "Date": "2023-12-15T11:15:21.8224887-05:00",
-        "Update": "2023-12-15T12:33:48.5379054-05:00",
-        "Discount": 47.0,
+        "Update": "2023-12-15T12:36:17.0666358-05:00",
+        "Discount": 46.0,
         "Label": "PC RTX 2060 6GB +i5-12600K +Z690M Phantom Gaming 4 +32GB DDR4 +1TB M.2 +Mon 24\""
       },
       {
-        "Price": 1573.00,
+        "Price": 1575.00,
         "Features": [],
         "Date": "2023-12-15T11:50:57.4805158-05:00",
-        "Update": "2023-12-15T12:33:48.5926885-05:00",
-        "Discount": 40.0,
+        "Update": "2023-12-15T12:36:17.137127-05:00",
+        "Discount": 38.0,
         "Label": "PC RX 6600 8GB +i5-12600K +Z790 UD AX + 32GB DDR5 Corsair +500GB M.2 +850W +24\""
       },
       {
-        "Price": 1660.00,
+        "Price": 1659.00,
         "Features": [],
         "Date": "2023-12-15T11:51:50.6247718-05:00",
-        "Update": "2023-12-15T12:33:48.6102621-05:00",
-        "Discount": 47.0,
+        "Update": "2023-12-15T12:36:17.1797743-05:00",
+        "Discount": 48.0,
         "Label": "PC RX 6600 8GB +i5-12600K +Z790 UD AX + 32GB DDR5 G.Skill +850W +Acer Nitro 24\""
       }
     ]
@@ -80,25 +80,25 @@
         "Label": "Torre GTX 1070 8GB + i5-13500T + Disipador ARGB + MSI Pro B760M-P + 16GB DDR4"
       },
       {
-        "Price": 1223.00,
+        "Price": 1225.00,
         "Features": [],
         "Date": "2023-12-15T11:48:43.9286237-05:00",
-        "Update": "2023-12-15T12:33:48.5565774-05:00",
-        "Discount": 35.0,
+        "Update": "2023-12-15T12:36:17.0899957-05:00",
+        "Discount": 33.0,
         "Label": "Torre RX 6600 8GB +i5-12600K +Z690 Phantom Gaming 4 + 32GB DDR4 +850W +1TB M.2"
       },
       {
-        "Price": 1241.00,
+        "Price": 1239.00,
         "Features": [],
         "Date": "2023-12-15T11:49:29.8964377-05:00",
-        "Update": "2023-12-15T12:33:48.5738668-05:00",
-        "Discount": 35.0,
+        "Update": "2023-12-15T12:36:17.1134089-05:00",
+        "Discount": 37.0,
         "Label": "Torre RX 6600 8GB +i5-12600K +Disipador ARGB +Z690 Phantom Gaming 4 + 32GB DDR4"
       }
     ],
     "Entusiasta": [
       {
-        "Price": 2699.00,
+        "Price": 2709.00,
         "Features": [],
         "Date": "2023-12-07T02:08:13.0160732-05:00",
         "Update": "2023-12-07T02:18:35.7071948-05:00",
@@ -819,7 +819,7 @@
         "Label": "SSD M.2 Corsair MP600 PRO LPX 1TB White"
       },
       {
-        "Price": 93.00,
+        "Price": 103.0,
         "Features": [
           "7000mbs",
           "600tbw",
