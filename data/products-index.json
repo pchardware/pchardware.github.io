@@ -366,6 +366,20 @@
         "Update": "2023-12-14T07:55:29.0302583-05:00",
         "Discount": 5.0,
         "Label": "Kit Intel Core i3 12Gen +8GB RAM 3200mhz +Disipador +Board ASRock Z690"
+      },
+      {
+        "Price": 365.00,
+        "Features": [
+          "4 Core",
+          "8 Hilos",
+          "2x8GB",
+          "4xSATA",
+          "6xUSB"
+        ],
+        "Date": "2023-12-17T05:37:40.5026406-05:00",
+        "Update": "2023-12-17T05:47:55.9048217-05:00",
+        "Discount": 7.0,
+        "Label": "KIT i3-12100 +Disipador +Gigabyte B760M DS3H+ 16GB DDR4 3200mhz"
       }
     ]
   },
@@ -3213,13 +3227,16 @@
           "12Gen-13Gen-14Gen",
           "DDR4",
           "2133mhz",
+          "VGA",
+          "HDMI",
+          "DisplayPort",
           "4xSATA",
           "6xUSB",
           "LGA 1700",
           "Micro-ATX"
         ],
         "Date": "2023-12-17T00:52:07.8205125-05:00",
-        "Update": "2023-12-17T03:17:13.9064836-05:00",
+        "Update": "2023-12-17T05:46:56.6129294-05:00",
         "Label": "Board Gigabyte B760M DS3H DDR4"
       }
     ]
