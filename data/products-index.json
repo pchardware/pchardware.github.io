@@ -632,6 +632,18 @@
         "Date": "2023-12-15T02:03:00.6236319-05:00",
         "Update": "2023-12-15T03:23:31.816473-05:00",
         "Label": "HUB Thermalright Controlador ARGB Fan 8x"
+      },
+      {
+        "Price": 37.00,
+        "Features": [
+          "3x120mm",
+          "PWM",
+          "1550rpm",
+          "66cfm"
+        ],
+        "Date": "2023-09-11T09:09:09.8558272-04:00",
+        "Update": "2023-12-17T03:15:31.0709659-05:00",
+        "Label": "Fan Thermalright KIT ARGB"
       }
     ],
     "Disco Sólido": [
@@ -1137,6 +1149,39 @@
         "Date": "2023-12-07T22:24:20.3840718-05:00",
         "Update": "2023-12-07T23:38:43.8437772-05:00",
         "Label": "Fuente EVGA 650 BP 80+ Bronze"
+      },
+      {
+        "Price": 285.00,
+        "Features": [
+          "80+ PLATINUM",
+          "ARGB",
+          "Full Modular",
+          "1x 16Pin",
+          "71A",
+          "2x 4+4 EPS",
+          "3x 6+2Pin",
+          "10x SATA",
+          "160mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-08-08T10:02:44.4021387-04:00",
+        "Update": "2023-12-17T03:15:31.0845902-05:00",
+        "Label": "Fuente Asus ROG Thor 850W Platinum II"
+      },
+      {
+        "Price": 99.00,
+        "Features": [
+          "43A",
+          "1x 4+4 EPS",
+          "1x 6Pin",
+          "1x 6+2Pin",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-12-17T00:52:12.4527738-05:00",
+        "Update": "2023-12-17T03:16:04.8647461-05:00",
+        "Label": "Fuente Thermaltake TR2 TR-600 600W"
       }
     ],
     "Disipador Líquido": [
@@ -2673,6 +2718,24 @@
         "Date": "2023-05-11T19:24:18.7527581-04:00",
         "Update": "2023-12-15T12:33:48.4822952-05:00",
         "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X 8GB"
+      },
+      {
+        "Price": 669.00,
+        "Features": [
+          "3xFan",
+          "2x8pin",
+          "750WR",
+          "1xHDMI",
+          "3xDP",
+          "320mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-12-17T00:52:01.2226849-05:00",
+        "Update": "2023-12-17T03:16:04.8095752-05:00",
+        "Label": "Tarjeta de Video Asus TUF Gaming RX 7800 XT OC 16GB"
       }
     ],
     "Chasis": [
@@ -3113,6 +3176,41 @@
         "Date": "2023-11-06T10:29:25.1579455-05:00",
         "Update": "2023-12-14T07:55:28.9888957-05:00",
         "Label": "Board Asus ROG Strix B550-F Gaming Wifi II"
+      },
+      {
+        "Price": 269.00,
+        "Features": [
+          "12va-13ra-14ta",
+          "7200mhz",
+          "DDR5",
+          "Wifi",
+          "Dual Lan",
+          "7xUSB",
+          "4xSATA",
+          "HDMI",
+          "LGA 1700",
+          "6xAudio",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-10-16T10:24:22.1843395-04:00",
+        "Update": "2023-12-17T03:15:31.0988119-05:00",
+        "Label": "Board MSI Z790 Gaming Pro Wifi"
+      },
+      {
+        "Price": 159.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR4",
+          "2133mhz",
+          "4xSATA",
+          "6xUSB",
+          "LGA 1700",
+          "Micro-ATX"
+        ],
+        "Date": "2023-12-17T00:52:07.8205125-05:00",
+        "Update": "2023-12-17T03:17:13.9064836-05:00",
+        "Label": "Board Gigabyte B760M DS3H DDR4"
       }
     ]
   },
