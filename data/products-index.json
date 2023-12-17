@@ -115,6 +115,16 @@
         "Discount": 37.0,
         "Label": "Torre RX 6600 8GB +Ryzen 7 5800X +B550 Gaming X +16GB DDR4 +1TB M.2 +650W"
       }
+    ],
+    "Multimedia": [
+      {
+        "Price": 639.00,
+        "Features": [],
+        "Date": "2023-12-17T05:53:12.6492212-05:00",
+        "Update": "2023-12-17T05:54:19.5455195-05:00",
+        "Discount": 22.0,
+        "Label": "Torre i3-12100 +B760M +16GB DDR4 +1TB M.2 +600W + Chasis Cooler Master"
+      }
     ]
   },
   "Kits": {
