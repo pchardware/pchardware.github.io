@@ -1,0 +1,25 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Board",
+  "Images": [
+    "/images/products/board-gigabyte-b760m-ds3h-ddr4-1.webp",
+    "/images/products/board-gigabyte-b760m-ds3h-ddr4-2.webp",
+    "/images/products/board-gigabyte-b760m-ds3h-ddr4-3.webp",
+    "/images/products/board-gigabyte-b760m-ds3h-ddr4-4.webp",
+    "/images/products/board-gigabyte-b760m-ds3h-ddr4-5.webp"
+  ],
+  "Description": "Socket Intel LGA 1700: admite procesadores Intel Core Series de 13ª y 12ª generación\nCompatible con DDR4: DDR4 de doble canal, 4 DIMM\nDiseño de potencia robusta: diseño de VRM digital híbrido 6+2+1\nDiseño térmico integral: protector térmico M.2\nConectividad de próxima generación: PCIe 4.0, NVMe PCIe 4.0 x2 M.2, USB 3.2 Gen 2 Tipo-C\nRed rápida: LAN de 2.5GbE\nCaracterísticas de ajuste fino: RGB FUSION 2.0, admite tiras de LED direccionables y LED RGB, Smart Fan 6, Q-Flash Plus Update BIOS sin instalación, CPU, memoria y GPU\n\nSocket Intel LGA 1700: admite procesadores Intel Core Series de 13ª y 12ª generación Compatibles DDR4: DDR4 de doble canal, 4 DIMM Diseño de potencia robusta: 6+2+1 Diseño VRM digital híbrido Diseño térmico integral: M.2 Thermal Guard Conectividad de próxima generación: PCIe 4.0, NVMe PCIe 4.0 x2 M.2, USB 3.2 Gen 2 Red rápida tipo C : 2.5GbE LAN Fine Tuning Características: RGB FUSION 2.0, admite tiras LED direccionables y RGB LED, Smart Fan 6, Q-Flash Plus Update BIOS sin instalación, CPU, memoria y GPU. Disfrute de un rendimiento sin igual con el GIGABYTE B760M DS3H DDR4. El GIGABYTE B760M DS3H DDR4 admite procesadores Intel Core de 13ª y 12ª generación. Libera tu potencial de juego con las placas base GIGABYTE B760. Las placas base GIGABYTE B760 vienen con un diseño de potencia mejorado, estándares de almacenamiento de alta calidad y una conectividad excepcional que le permite optimizar su rendimiento. Reclama lo que es tuyo.\n\nRAM: DDR4\nVelocidad de memoria: 2133 MHz\nNúmero de puertos USB 2.0: 2\nMarca: GIGABYTE\nSeries: B760M DS3H DDR4\nNúmero de modelo del producto: B760M DS3H DDR4\nDimensiones del producto: 10,43 x 10,43 x 2,12 pulgadas\nDimensiones del artículo Largo x Ancho x Altura: 10.43 x 10.43 x 2.12 pulgadas\nFabricante: GIGABYTE",
+  "Price": 159.00,
+  "Features": [
+    "12Gen-13Gen-14Gen",
+    "DDR4",
+    "2133mhz",
+    "4xSATA",
+    "6xUSB",
+    "LGA 1700",
+    "Micro-ATX"
+  ],
+  "Date": "2023-12-17T00:52:07.8205125-05:00",
+  "Update": "2023-12-17T03:17:13.9064836-05:00",
+  "Label": "Board Gigabyte B760M DS3H DDR4"
+}
