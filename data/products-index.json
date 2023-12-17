@@ -97,6 +97,16 @@
         "Discount": 37.0,
         "Label": "Torre RX 6600 8GB +i5-12600K +Disipador ARGB +Z690 Phantom Gaming 4 + 32GB DDR4"
       }
+    ],
+    "Pro": [
+      {
+        "Price": 1149.00,
+        "Features": [],
+        "Date": "2023-12-17T04:05:31.2362407-05:00",
+        "Update": "2023-12-17T04:11:55.5117572-05:00",
+        "Discount": 37.0,
+        "Label": "Torre RX 6600 8GB +Ryzen 7 5800X +B550 Gaming X +16GB DDR4 +1TB M.2 +650W"
+      }
     ]
   },
   "Kits": {
