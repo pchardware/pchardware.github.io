@@ -727,18 +727,6 @@
         "Label": "SSD M.2 Corsair MP600 PRO LPX 1TB White"
       },
       {
-        "Price": 103.0,
-        "Features": [
-          "7000mbs",
-          "600tbw",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-07-12T21:43:06.2525927-04:00",
-        "Update": "2023-12-08T13:47:00.0530064-05:00",
-        "Label": "SSD M.2 Samsung 980 PRO 1TB"
-      },
-      {
         "Price": 155.0,
         "Features": [
           "7100mbs",
@@ -2451,22 +2439,6 @@
         "Date": "2023-11-14T14:39:58.2807205-05:00",
         "Update": "2023-11-27T09:23:42.4629707-05:00",
         "Label": "Tarjeta de Video EVGA RTX 3070 FTW3 Ultra 8GB"
-      },
-      {
-        "Price": 295.00,
-        "Features": [
-          "2xFan",
-          "500WR",
-          "1x8Pin",
-          "241 mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-11-27T09:55:52.373435-05:00",
-        "Update": "2023-11-27T11:56:37.4501156-05:00",
-        "Label": "Tarjeta de Video XFX Speedster Swift 210 RX 6650 XT 8GB"
       },
       {
         "Price": 379.00,
@@ -4311,20 +4283,6 @@
         "Date": "2023-08-20T10:12:32.3834228-04:00",
         "Update": "2023-12-14T08:51:11.9042296-05:00",
         "Label": "Monitor Gigabyte 27\" 1440p 144Hz IPS 1ms A.Ajustable 350nit 2xUSB3 SPK"
-      },
-      {
-        "Price": 365.00,
-        "Features": [
-          "8Bit",
-          "Gaming",
-          "1080p",
-          "FHD",
-          "DP",
-          "Flat"
-        ],
-        "Date": "2023-10-03T06:56:38.0508252-04:00",
-        "Update": "2023-12-14T08:51:11.9966021-05:00",
-        "Label": "Monitor Gigabyte 27\" 170Hz IPS 400nit 1ms A.Ajustable 2xUSB3 SPK"
       },
       {
         "Price": 335.00,
