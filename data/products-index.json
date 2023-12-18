@@ -34,24 +34,6 @@
         "Update": "2023-12-15T12:36:17.1797743-05:00",
         "Discount": 48.0,
         "Label": "PC RX 6600 8GB +i5-12600K +Z790 UD AX + 32GB DDR5 G.Skill +850W +Acer Nitro 24\""
-      },
-      {
-        "Price": 1135.00,
-        "Features": [],
-        "Date": "2023-12-16T06:17:42.5351899-05:00",
-        "Update": "2023-12-16T06:37:40.4540158-05:00",
-        "Discount": 35.0,
-        "Label": "PC GTX 1660 Super 6GB +i3-12100 +Z690M +16GB DDR4 +1TB M.2 +600W +Acer 24\""
-      }
-    ],
-    "Entusiasta": [
-      {
-        "Price": 4065.00,
-        "Features": [],
-        "Date": "2023-12-16T06:32:12.7471384-05:00",
-        "Update": "2023-12-16T06:35:30.8612686-05:00",
-        "Discount": 58.0,
-        "Label": "PC RTX 4080 16GB +i9-13900K +Z690 Maximus Hero +64GB DDR5 G.Skill + Acer 27\""
       }
     ]
   },
@@ -66,44 +48,12 @@
         "Label": "Torre Gamer RTX 4070 Ti Master 12GB + i9-13900K + ROG Maximus Z690 Hero + 1200W"
       },
       {
-        "Price": 1055.00,
-        "Features": [],
-        "Date": "2023-12-03T16:53:05.2567445-05:00",
-        "Update": "2023-12-08T19:21:48.5406566-05:00",
-        "Discount": 31.0,
-        "Label": "Torre GTX 1070 8GB + i5-13500T + Disipador ARGB + MSI Pro B760M-P + 16GB DDR4"
-      },
-      {
         "Price": 1239.00,
         "Features": [],
         "Date": "2023-12-15T11:49:29.8964377-05:00",
         "Update": "2023-12-15T12:36:17.1134089-05:00",
         "Discount": 37.0,
         "Label": "Torre RX 6600 8GB +i5-12600K +Disipador ARGB +Z690 Phantom Gaming 4 + 32GB DDR4"
-      },
-      {
-        "Price": 829.00,
-        "Features": [],
-        "Date": "2023-12-17T05:49:50.5444612-05:00",
-        "Update": "2023-12-17T05:52:05.2425375-05:00",
-        "Discount": 27.0,
-        "Label": "Torre GTX 1660 Super 6GB +i3-12100 +B760M +16GB DDR4 +1TB M.2 +600W + Chasis"
-      },
-      {
-        "Price": 1139.00,
-        "Features": [],
-        "Date": "2023-12-18T07:30:05.0631486-05:00",
-        "Update": "2023-12-18T07:34:04.2313102-05:00",
-        "Discount": 34.0,
-        "Label": "Torre RX 6600 8GB +i5-13Gen +Asus B660 +16GB DDR4 +1TB M.2 +650W +Chasis"
-      },
-      {
-        "Price": 995.00,
-        "Features": [],
-        "Date": "2023-12-18T07:56:02.5817367-05:00",
-        "Update": "2023-12-18T07:58:21.6128901-05:00",
-        "Discount": 34.0,
-        "Label": "Torre GTX 1660 Super 6GB +i5-12600K +Z690M +16GB DDR4 + 1TB M.2 +650W +Chasis"
       }
     ],
     "Pro": [
@@ -250,21 +200,6 @@
         "Label": "Kit i9-13900K +Board Gigabyte Z790 + 32GB DDR5 G.Skill"
       },
       {
-        "Price": 969.00,
-        "Features": [
-          "12Gen",
-          "LGA1700",
-          "16Core",
-          "24 Hilos",
-          "2x16",
-          "7000hz"
-        ],
-        "Date": "2023-12-07T02:04:36.43987-05:00",
-        "Update": "2023-12-09T09:40:35.5342115-05:00",
-        "Discount": 17.0,
-        "Label": "Kit i7-13700K + Disipador + Asus ROG Strix Z790-H + 32GB DDR5 Corsair RGB 32GB"
-      },
-      {
         "Price": 705.00,
         "Features": [
           "20 Hilos",
@@ -297,35 +232,6 @@
         "Update": "2023-12-09T09:40:35.4131539-05:00",
         "Discount": 12.0,
         "Label": "Kit i9-13900K + Asus ROG Strix Z790-H Gaming Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
-      }
-    ],
-    "Moderado": [
-      {
-        "Price": 535.00,
-        "Features": [
-          "12va Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "6200mhz",
-          "2x16"
-        ],
-        "Date": "2023-12-03T16:43:49.7233419-05:00",
-        "Update": "2023-12-03T18:06:16.7501581-05:00",
-        "Discount": 13.0,
-        "Label": "Kit i5-12600K + Disipador ARGB + Asus B660 + 16GB DDR4 Corsair Vengeance RGB"
-      },
-      {
-        "Price": 465.00,
-        "Features": [
-          "20 Hilos",
-          "4.6GHz",
-          "5xUSB"
-        ],
-        "Date": "2023-11-18T11:48:26.022299-05:00",
-        "Update": "2023-12-08T19:21:48.5171969-05:00",
-        "Discount": 6.0,
-        "Label": "Kit 13Gen i5-13500T +Disipador ARGB +Board MSI Pro B760M +8GB RAM Vulcan 3200mhz"
       }
     ],
     "Esencial": [
@@ -1343,29 +1249,6 @@
         "Label": "Disipador Líquido Gigabyte AORUS WATERFORCE X 280"
       },
       {
-        "Price": 239.00,
-        "Features": [
-          "LCD",
-          "2500rpm",
-          "60cfm",
-          "38db",
-          "Graphene",
-          "2xFan",
-          "240mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "LGA 20XX",
-          "LGA 1366",
-          "AM4",
-          "TR4",
-          "sTRX4"
-        ],
-        "Date": "2023-08-29T08:41:25.9385748-04:00",
-        "Update": "2023-10-09T17:48:21.7860964-04:00",
-        "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce X 240"
-      },
-      {
         "Price": 265.00,
         "Features": [
           "2200rpm",
@@ -1676,27 +1559,6 @@
         "Label": "Disipador Cooler Master 212 Halo White"
       },
       {
-        "Price": 55.00,
-        "Features": [
-          "ARGB",
-          "4xPipes",
-          "68cfm",
-          "30dBA",
-          "2500rpm",
-          "Negro",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4",
-          "AM5",
-          "Tower",
-          "1xFan"
-        ],
-        "Date": "2023-09-23T14:09:08.5628773-04:00",
-        "Update": "2023-10-23T14:55:22.4925578-04:00",
-        "Label": "Disipador ID-COOLING SE-214-XT ARGB Black"
-      },
-      {
         "Price": 65.00,
         "Features": [
           "ARGB",
@@ -1742,31 +1604,6 @@
         "Date": "2023-10-28T11:53:27.2541098-04:00",
         "Update": "2023-10-28T13:51:53.488839-04:00",
         "Label": "Disipador Thermalright Assassin King 120 SE White"
-      },
-      {
-        "Price": 119.00,
-        "Features": [
-          "Dual",
-          "2xFan",
-          "6xPipes",
-          "ARGB",
-          "Premium",
-          "52cfm",
-          "27dBA",
-          "Cobre",
-          "157mm",
-          "2050rpm",
-          "Negro",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4",
-          "AM5",
-          "Tower"
-        ],
-        "Date": "2023-07-26T18:49:11.7802452-04:00",
-        "Update": "2023-11-14T14:53:33.7206955-05:00",
-        "Label": "Disipador Cooler Master Hyper 622 Halo Black"
       },
       {
         "Price": 105.00,
@@ -1877,23 +1714,6 @@
         "Date": "2023-10-23T12:31:42.2126394-04:00",
         "Update": "2023-10-23T13:18:33.8766268-04:00",
         "Label": "Micro Intel Core i7-14700K"
-      },
-      {
-        "Price": 225.00,
-        "Features": [
-          "13ra Gen",
-          "20 Hilos",
-          "14 Core",
-          "4.6GHz",
-          "24MB L3",
-          "11.5MB L2",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-09-26T11:28:40.6931036-04:00",
-        "Update": "2023-10-31T11:23:29.2510318-04:00",
-        "Label": "Micro Intel Core i5-13500T"
       },
       {
         "Price": 599.00,
@@ -2599,21 +2419,6 @@
         "Label": "Tarjeta de Video Asus Dual RX 6600 8GB"
       },
       {
-        "Price": 195.00,
-        "Features": [
-          "2xFan",
-          "1x8Pin",
-          "450WR",
-          "173mm",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-12-12T03:35:15.5648203-05:00",
-        "Update": "2023-12-12T11:15:42.3471711-05:00",
-        "Label": "Tarjeta de Video Zotac GeForce GTX 1660 Super 6GB"
-      },
-      {
         "Price": 539.00,
         "Features": [
           "3xFan",
@@ -3313,20 +3118,6 @@
         "Date": "2023-11-14T14:40:12.9994604-05:00",
         "Update": "2023-11-14T17:41:04.9342727-05:00",
         "Label": "Teclado Corsair K65 RGB Mini"
-      },
-      {
-        "Price": 93.00,
-        "Features": [
-          "Membrana-Mecánico",
-          "RGB",
-          "Gaming",
-          "USB-C",
-          "Low Profile",
-          "Palm Rest"
-        ],
-        "Date": "2023-11-18T23:52:35.8837795-05:00",
-        "Update": "2023-11-19T11:13:04.0860766-05:00",
-        "Label": "Teclado RazerOrnata V3 TKL"
       },
       {
         "Price": 139.00,
@@ -4366,23 +4157,6 @@
         "Date": "2023-12-07T22:24:09.640104-05:00",
         "Update": "2023-12-17T21:03:57.7369525-05:00",
         "Label": "Monitor Acer Nitro 27\" 1440p Curvo 144Hz 1ms VA SPK"
-      },
-      {
-        "Price": 449.00,
-        "Features": [
-          "170Hz",
-          "0.5ms",
-          "1440p",
-          "2K",
-          "400nit",
-          "8Bit",
-          "IPS",
-          "Speakers",
-          "HDR400"
-        ],
-        "Date": "2023-12-15T02:02:36.3928616-05:00",
-        "Update": "2023-12-17T21:03:57.7564252-05:00",
-        "Label": "Monitor Acer Nitro 27QHD 170Hz IPS 0.5ms 400nit 8b 4xUSB3 SPK-2W XV272U"
       }
     ]
   }
