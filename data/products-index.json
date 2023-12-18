@@ -20,14 +20,6 @@
     ],
     "Gamer": [
       {
-        "Price": 1559.00,
-        "Features": [],
-        "Date": "2023-12-15T11:15:21.8224887-05:00",
-        "Update": "2023-12-15T12:36:17.0666358-05:00",
-        "Discount": 46.0,
-        "Label": "PC RTX 2060 6GB +i5-12600K +Z690M Phantom Gaming 4 +32GB DDR4 +1TB M.2 +Mon 24\""
-      },
-      {
         "Price": 1575.00,
         "Features": [],
         "Date": "2023-12-15T11:50:57.4805158-05:00",
@@ -65,14 +57,6 @@
   },
   "Torres": {
     "Gamer": [
-      {
-        "Price": 949.00,
-        "Features": [],
-        "Date": "2023-12-03T16:51:01.5137142-05:00",
-        "Update": "2023-12-03T18:06:16.8322054-05:00",
-        "Discount": 24.0,
-        "Label": "Torre GTX 1070 8GB + i5-11400 + MSI Z590 Pro Wifi CEC + 16GB DDR4 Corsair + 600W"
-      },
       {
         "Price": 3145.00,
         "Features": [],
@@ -300,52 +284,6 @@
         "Label": "Kit i5-12600K + Disipador ARGB + Asus B660 + 16GB DDR4 Corsair Vengeance RGB"
       },
       {
-        "Price": 445.00,
-        "Features": [
-          "11na Gen",
-          "12 Hilos",
-          "6 Cores",
-          "4.4GHz",
-          "2x8GB",
-          "Disipadas",
-          "CL16"
-        ],
-        "Date": "2023-12-03T16:45:45.1996804-05:00",
-        "Update": "2023-12-03T18:06:16.7884202-05:00",
-        "Discount": 8.0,
-        "Label": "Kit i5-11400 +Disipador + MSI Z590 Pro Wifi CEC + 16GB DDR4 Corsair RGB"
-      },
-      {
-        "Price": 539.00,
-        "Features": [
-          "11na Gen",
-          "12 Hilos",
-          "6 Cores",
-          "4.4GHz",
-          "2x8GB",
-          "Disipadas",
-          "CL16"
-        ],
-        "Date": "2023-12-03T16:49:12.5609922-05:00",
-        "Update": "2023-12-03T18:06:16.8075183-05:00",
-        "Discount": 15.0,
-        "Label": "Kit i5-11400 + MSI Z590 Pro Wifi CEC + 16GB DDR4 RGB + SSD M.2 2TB"
-      },
-      {
-        "Price": 365.00,
-        "Features": [
-          "12 Hilos",
-          "x7USB",
-          "x6 SATA",
-          "x6 Audio",
-          "ATX"
-        ],
-        "Date": "2023-12-05T09:57:21.861497-05:00",
-        "Update": "2023-12-05T10:14:47.0949099-05:00",
-        "Discount": 3.0,
-        "Label": "Kit Core i5-11400 +Disipador + Board MSI Z590 Pro Wifi CEC"
-      },
-      {
         "Price": 465.00,
         "Features": [
           "20 Hilos",
@@ -359,19 +297,6 @@
       }
     ],
     "Esencial": [
-      {
-        "Price": 395.00,
-        "Features": [
-          "12 Hilos",
-          "7xUSB",
-          "6xAudio",
-          "6xSATA"
-        ],
-        "Date": "2023-11-18T10:43:27.3415002-05:00",
-        "Update": "2023-12-09T09:40:35.4286541-05:00",
-        "Discount": 5.0,
-        "Label": "Kit Intel Core i5 11na Gen +8GB RAM 3200mhz +Disipador +Board MSI Z590"
-      },
       {
         "Price": 335.00,
         "Features": [
@@ -2246,17 +2171,6 @@
         "Label": "RAM DDR4 G.SKILL TridentZ RGB 32GB 3600mhz"
       },
       {
-        "Price": 85.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL16"
-        ],
-        "Date": "2023-09-11T09:09:34.8583822-04:00",
-        "Update": "2023-11-14T14:53:33.7429964-05:00",
-        "Label": "RAM DDR4 Silicon Power 32GB 3200mhz"
-      },
-      {
         "Price": 57.00,
         "Features": [
           "1x16GB",
@@ -2371,22 +2285,6 @@
         "Date": "2023-08-29T08:42:07.9225906-04:00",
         "Update": "2023-11-05T10:12:40.4879146-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Aorus Master OC 12GB"
-      },
-      {
-        "Price": 395.00,
-        "Features": [
-          "3xFan",
-          "1x8Pin + 1x6Pin",
-          "650WR",
-          "286mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-10-02T14:29:14.5916934-04:00",
-        "Update": "2023-11-05T10:12:40.5025389-05:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 3060 Ti Gaming OC Pro 8GB"
       },
       {
         "Price": 1375.00,
@@ -2569,23 +2467,6 @@
         "Date": "2023-11-27T09:55:52.373435-05:00",
         "Update": "2023-11-27T11:56:37.4501156-05:00",
         "Label": "Tarjeta de Video XFX Speedster Swift 210 RX 6650 XT 8GB"
-      },
-      {
-        "Price": 395.00,
-        "Features": [
-          "DLSS3",
-          "2xFan",
-          "1x8Pin",
-          "450WR",
-          "272mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-11-18T08:41:47.9392507-05:00",
-        "Update": "2023-12-04T16:09:51.4797778-05:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4060 Eagle OC 8GB"
       },
       {
         "Price": 379.00,
@@ -2913,20 +2794,6 @@
         "Label": "Tarjeta de Red Wifi Gigabyte PCIe Expansion Card Bluetooth y WiFi"
       },
       {
-        "Price": 37.00,
-        "Features": [
-          "1200Mbps",
-          "PCIe x1",
-          "2.4Ghz",
-          "5Ghz",
-          "Interna",
-          "Adaptador"
-        ],
-        "Date": "2023-10-13T09:28:37.8953004-04:00",
-        "Update": "2023-12-07T01:35:03.3296769-05:00",
-        "Label": "Tarjeta de Red Wifi Expansión Derapid Wifi AC1200 Dual Band + Bluetooth"
-      },
-      {
         "Price": 43.00,
         "Features": [
           "1200Mbps",
@@ -2972,27 +2839,6 @@
         "Date": "2023-07-13T11:32:04.6371575-04:00",
         "Update": "2023-12-07T12:39:13.8547632-05:00",
         "Label": "Motherboard Gigabyte B550 Gaming X V2"
-      },
-      {
-        "Price": 189.00,
-        "Features": [
-          "10Gen-11Gen",
-          "7xUSB",
-          "BIOS FlashBack",
-          "Wifi",
-          "6xAudio",
-          "6xSATA",
-          "DDR4",
-          "LGA 1200",
-          "ATX",
-          "HDMI",
-          "DisplayPort",
-          "PS2",
-          "MOBO"
-        ],
-        "Date": "2023-10-28T11:52:00.1054489-04:00",
-        "Update": "2023-12-08T11:21:36.7655385-05:00",
-        "Label": "Board MSI Z590 Pro Wifi CEC"
       },
       {
         "Price": 249.00,
