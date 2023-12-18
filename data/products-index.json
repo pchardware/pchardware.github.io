@@ -2450,24 +2450,6 @@
         "Date": "2023-05-11T19:24:18.7527581-04:00",
         "Update": "2023-12-15T12:33:48.4822952-05:00",
         "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X 8GB"
-      },
-      {
-        "Price": 669.00,
-        "Features": [
-          "3xFan",
-          "2x8pin",
-          "750WR",
-          "1xHDMI",
-          "3xDP",
-          "320mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-12-17T00:52:01.2226849-05:00",
-        "Update": "2023-12-17T03:16:04.8095752-05:00",
-        "Label": "Tarjeta de Video Asus TUF Gaming RX 7800 XT OC 16GB"
       }
     ],
     "Chasis": [
@@ -3969,16 +3951,6 @@
         "Date": "2023-10-28T11:52:16.1019156-04:00",
         "Update": "2023-11-18T08:40:49.2565149-05:00",
         "Label": "Control Xbox Core Wireless Black + USB-C Cable"
-      },
-      {
-        "Price": 77.00,
-        "Features": [
-          "Controller",
-          "2x AA Battery"
-        ],
-        "Date": "2023-10-09T15:59:03.9375048-04:00",
-        "Update": "2023-11-24T10:20:52.8765118-05:00",
-        "Label": "Control Xbox Core Wireless Black"
       }
     ],
     "Backup": [
