@@ -4497,37 +4497,6 @@
         "Label": "Monitor Asus TUF 27\" 144Hz IPS 1ms SPK"
       },
       {
-        "Price": 379.00,
-        "Features": [
-          "8Bit",
-          "HDR10",
-          "Gaming",
-          "QHD",
-          "2K",
-          "DP",
-          "250nit"
-        ],
-        "Date": "2023-12-07T22:24:09.640104-05:00",
-        "Update": "2023-12-14T08:51:12.1381658-05:00",
-        "Label": "Monitor Acer Nitro 27\" 1440p Curvo 144Hz 1ms VA SPK"
-      },
-      {
-        "Price": 449.00,
-        "Features": [
-          "170Hz",
-          "0.5ms",
-          "1440p",
-          "400nit",
-          "8Bit",
-          "IPS",
-          "Speakers",
-          "HDR400"
-        ],
-        "Date": "2023-12-15T02:02:36.3928616-05:00",
-        "Update": "2023-12-15T03:23:31.7390911-05:00",
-        "Label": "Monitor Acer Nitro 27QHD 170Hz IPS 0.5ms 400nit 8b 4xUSB3 SPK-2W XV272U"
-      },
-      {
         "Price": 299.00,
         "Features": [
           "1ms",
@@ -4546,6 +4515,38 @@
         "Date": "2023-12-15T02:02:56.6237032-05:00",
         "Update": "2023-12-15T03:23:31.7951248-05:00",
         "Label": "Monitor MSI Pro 27FHD 75Hz VA 1ms 250nit 8b SPK-2W Curved MP272C Black"
+      },
+      {
+        "Price": 379.00,
+        "Features": [
+          "8Bit",
+          "HDR10",
+          "Gaming",
+          "QHD",
+          "2K",
+          "DP",
+          "250nit"
+        ],
+        "Date": "2023-12-07T22:24:09.640104-05:00",
+        "Update": "2023-12-17T21:03:57.7369525-05:00",
+        "Label": "Monitor Acer Nitro 27\" 1440p Curvo 144Hz 1ms VA SPK"
+      },
+      {
+        "Price": 449.00,
+        "Features": [
+          "170Hz",
+          "0.5ms",
+          "1440p",
+          "2K",
+          "400nit",
+          "8Bit",
+          "IPS",
+          "Speakers",
+          "HDR400"
+        ],
+        "Date": "2023-12-15T02:02:36.3928616-05:00",
+        "Update": "2023-12-17T21:03:57.7564252-05:00",
+        "Label": "Monitor Acer Nitro 27QHD 170Hz IPS 0.5ms 400nit 8b 4xUSB3 SPK-2W XV272U"
       }
     ]
   }
