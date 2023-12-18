@@ -247,6 +247,22 @@
         "Update": "2023-12-09T09:40:35.5342115-05:00",
         "Discount": 17.0,
         "Label": "Kit i7-13700K + Disipador + Asus ROG Strix Z790-H + 32GB DDR5 Corsair RGB 32GB"
+      },
+      {
+        "Price": 705.00,
+        "Features": [
+          "20 Hilos",
+          "12 Core",
+          "DDR5",
+          "7200mmhz",
+          "Wifi",
+          "4xSATA",
+          "LGA 1700"
+        ],
+        "Date": "2023-12-18T07:04:02.8192843-05:00",
+        "Update": "2023-12-18T07:13:05.7270456-05:00",
+        "Discount": 13.0,
+        "Label": "Kit i7-12700K +MSI Z790 Gaming Pro Wifi + 32GB DDR5 6000mhz G.Skill Ripjaws"
       }
     ],
     "Entusiasta": [
