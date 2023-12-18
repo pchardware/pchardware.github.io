@@ -1,0 +1,30 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-i7-12700k-msi-z790-gaming-pro-wifi-32gb-ddr5-6-yk6601-1.webp",
+    "/images/products/kit-i7-12700k-msi-z790-gaming-pro-wifi-32gb-ddr5-6-yk6601-2.webp",
+    "/images/products/kit-i7-12700k-msi-z790-gaming-pro-wifi-32gb-ddr5-6-yk6601-3.webp",
+    "/images/products/kit-i7-12700k-msi-z790-gaming-pro-wifi-32gb-ddr5-6-yk6601-4.webp",
+    "/images/products/kit-i7-12700k-msi-z790-gaming-pro-wifi-32gb-ddr5-6-yk6601-5.webp",
+    "/images/products/kit-i7-12700k-msi-z790-gaming-pro-wifi-32gb-ddr5-6-yk6601-6.webp",
+    "/images/products/kit-i7-12700k-msi-z790-gaming-pro-wifi-32gb-ddr5-6-yk6601-7.webp",
+    "/images/products/kit-i7-12700k-msi-z790-gaming-pro-wifi-32gb-ddr5-6-yk6601-8.webp",
+    "/images/products/kit-i7-12700k-msi-z790-gaming-pro-wifi-32gb-ddr5-6-yk6601-9.webp"
+  ],
+  "Description": "+ Micro Intel Core i7-12700K\n+ Disipador Cooler Master Hyper 212 Spectrum V3\n+ Board MSI Z790 Gaming Pro Wifi\n+ RAM DDR5 G.Skill Ripjaws S5 32GB 6000mhz\n",
+  "Price": 705.00,
+  "Features": [
+    "20 Hilos",
+    "12 Core",
+    "DDR5",
+    "7200mmhz",
+    "Wifi",
+    "4xSATA",
+    "LGA 1700"
+  ],
+  "Date": "2023-12-18T07:04:02.8192843-05:00",
+  "Update": "2023-12-18T07:13:05.7270456-05:00",
+  "Discount": 13.0,
+  "Label": "Kit i7-12700K +MSI Z790 Gaming Pro Wifi + 32GB DDR5 6000mhz G.Skill Ripjaws"
+}
