@@ -779,6 +779,39 @@
         "Date": "2023-12-07T13:20:39.5602767-05:00",
         "Update": "2023-12-19T06:44:55.2450761-05:00",
         "Label": "SSD M.2 HP EX900 500GB"
+      },
+      {
+        "Price": 79.00,
+        "Features": [
+          "3500mbps",
+          "1660TBW",
+          "PCIe3",
+          "NVMe"
+        ],
+        "Date": "2023-12-19T06:41:55.578723-05:00",
+        "Update": "2023-12-19T08:43:12.1245873-05:00",
+        "Label": "SSD M.2 TeamGroup MP34 1TB"
+      },
+      {
+        "Price": 73.00,
+        "Features": [
+          "520mbps",
+          "SATA 3"
+        ],
+        "Date": "2023-12-19T06:42:03.8413883-05:00",
+        "Update": "2023-12-19T08:43:12.1706871-05:00",
+        "Label": "SSD 2.5 Patriot P210 1TB"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "4700mbps",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-12-19T06:42:48.3700673-05:00",
+        "Update": "2023-12-19T08:43:12.2932793-05:00",
+        "Label": "SSD M.2 PNY CS2241 500GB"
       }
     ],
     "Fuente": [
@@ -1073,6 +1106,19 @@
         "Date": "2023-08-08T10:02:44.4021387-04:00",
         "Update": "2023-12-17T03:15:31.0845902-05:00",
         "Label": "Fuente Asus ROG Thor 850W Platinum II"
+      },
+      {
+        "Price": 79.00,
+        "Features": [
+          "1x 4+4Pin",
+          "1x 6+2Pin",
+          "4x SATA",
+          "140mm",
+          "ATX"
+        ],
+        "Date": "2023-12-19T06:42:21.8253659-05:00",
+        "Update": "2023-12-19T08:43:12.2370599-05:00",
+        "Label": "Fuente EVGA 400W"
       }
     ],
     "Disipador Líquido": [
@@ -2258,23 +2304,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 3060 Ti Vision 8GB"
       },
       {
-        "Price": 285.00,
-        "Features": [
-          "8GB",
-          "3xFan",
-          "1x8Pin",
-          "500WR",
-          "282mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-11-18T23:52:05.1129043-05:00",
-        "Update": "2023-11-19T11:13:03.9482743-05:00",
-        "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 XT Eagle 8GB"
-      },
-      {
         "Price": 199.0,
         "Features": [
           "2xFan",
@@ -2337,21 +2366,6 @@
         "Date": "2023-12-07T23:40:36.0331524-05:00",
         "Update": "2023-12-08T11:16:17.7617579-05:00",
         "Label": "Tarjeta de Video EVGA RTX 2060 Gaming 6GB"
-      },
-      {
-        "Price": 395.00,
-        "Features": [
-          "2xFan",
-          "2x 8Pin",
-          "650WR",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-07-26T16:40:56.6283918-04:00",
-        "Update": "2023-12-08T23:34:49.8180532-05:00",
-        "Label": "MSI Mech Radeon RX 6750 XT 12GB"
       },
       {
         "Price": 525.00,
@@ -2466,18 +2480,6 @@
         "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X 8GB"
       },
       {
-        "Price": 335.00,
-        "Features": [
-          "8GB",
-          "2xFan",
-          "GeForce",
-          "NVIDIA"
-        ],
-        "Date": "2023-04-09T07:40:21.1128823-04:00",
-        "Update": "2023-12-19T06:44:55.1422969-05:00",
-        "Label": "MSI RTX 3060 Ventus 2x OC"
-      },
-      {
         "Price": 379.00,
         "Features": [
           "DLSS3",
@@ -2510,6 +2512,105 @@
         "Date": "2023-11-18T08:41:51.2623418-05:00",
         "Update": "2023-12-19T06:44:55.211556-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Gaming OC 8GB"
+      },
+      {
+        "Price": 335.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "550WR",
+          "GeForce",
+          "NVIDIA",
+          "Gráfica"
+        ],
+        "Date": "2023-04-09T07:40:21.1128823-04:00",
+        "Update": "2023-12-19T08:43:12.0725791-05:00",
+        "Label": "MSI RTX 3060 Ventus 2x OC 8GB"
+      },
+      {
+        "Price": 285.00,
+        "Features": [
+          "3xFan",
+          "1x8Pin",
+          "500WR",
+          "282mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-18T23:52:05.1129043-05:00",
+        "Update": "2023-12-19T08:43:12.0901152-05:00",
+        "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 XT Eagle 8GB"
+      },
+      {
+        "Price": 395.00,
+        "Features": [
+          "2xFan",
+          "2x8Pin",
+          "650WR",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-07-26T16:40:56.6283918-04:00",
+        "Update": "2023-12-19T08:43:12.1082126-05:00",
+        "Label": "MSI Mech Radeon RX 6750 XT 12GB"
+      },
+      {
+        "Price": 419.00,
+        "Features": [
+          "3xFan",
+          "1x8Pin",
+          "550WR",
+          "PCIe4",
+          "HDMI",
+          "3xDisplayPort",
+          "300mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-12-19T06:42:00.2738717-05:00",
+        "Update": "2023-12-19T08:43:12.1410062-05:00",
+        "Label": "Tarjeta de Video Asus ProArt RTX 4060 OC 8GB (3xFan)"
+      },
+      {
+        "Price": 355.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "550WR",
+          "PCIe4",
+          "HDMI",
+          "3xDisplayPort",
+          "235mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-12-19T06:42:17.7775209-05:00",
+        "Update": "2023-12-19T08:43:12.1931347-05:00",
+        "Label": "Tarjeta de Video MSI RTX 3060 Ventus 2x 12GB (2xFan) OC"
+      },
+      {
+        "Price": 295.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "150WR",
+          "244mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-12-19T06:42:41.7210728-05:00",
+        "Update": "2023-12-19T08:43:12.2644651-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 3050 WindForce OC 8GB"
       }
     ],
     "Chasis": [
