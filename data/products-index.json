@@ -214,6 +214,25 @@
         "Update": "2023-12-18T07:13:05.7270456-05:00",
         "Discount": 13.0,
         "Label": "Kit i7-12700K +MSI Z790 Gaming Pro Wifi + 32GB DDR5 6000mhz G.Skill Ripjaws"
+      },
+      {
+        "Price": 899.00,
+        "Features": [
+          "13ra Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.4GHz",
+          "2x16GB",
+          "6000mhz",
+          "Wifi",
+          "8xUSB",
+          "6xAudio",
+          "6xSATA"
+        ],
+        "Date": "2023-12-19T11:16:08.9690322-05:00",
+        "Update": "2023-12-19T11:48:01.8001379-05:00",
+        "Discount": 10.0,
+        "Label": "Kit i7-13700K +Asus ROG Maximus Z690 Hero +32GB DDR5 G.Skill Trident Z5 RGB"
       }
     ],
     "Entusiasta": [
