@@ -1,0 +1,28 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/tarjeta-de-video-gigabyte-rtx-3050-windforce-oc-8g-emqr93-1.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rtx-3050-windforce-oc-8g-emqr93-2.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rtx-3050-windforce-oc-8g-emqr93-3.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rtx-3050-windforce-oc-8g-emqr93-4.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rtx-3050-windforce-oc-8g-emqr93-5.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rtx-3050-windforce-oc-8g-emqr93-6.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rtx-3050-windforce-oc-8g-emqr93-7.webp"
+  ],
+  "Description": "Model\nBrand: GIGABYTE\nSeries: WINDFORCE\nModel: GV-N3050WF2OC-8GD\n\n\nInterface\nInterface: PCI Express 4.0 x8\n\n\nChipset\nChipset Manufacturer: NVIDIA\nGPU Series: NVIDIA GeForce RTX 30 Series\nGPU: GeForce RTX 3050\nCore Clock: 1792 MHz\nCUDA Cores: 2560 Cores\n\n\nMemory\nEffective Memory Clock: 14000 MHz\nMemory Size: 8GB\nMemory Interface: 128-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 1 x HDMI\nDisplayPort: 1 x DisplayPort\nDVI: 1 x DVI\n\n\nDetails\nMax Resolution: 7680 x 4320\nCooler: Double Fans\nThermal Design Power: 75W\nRecommended PSU Wattage: 150W\nPower Connector: 8-Pin\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 244 mm\nSlot Width: 2 Slots",
+  "Price": 295.00,
+  "Features": [
+    "2xFan",
+    "1x8Pin",
+    "150WR",
+    "244mm",
+    "GeForce",
+    "NVIDIA",
+    "GPU",
+    "Gráfica"
+  ],
+  "Date": "2023-12-19T06:42:41.7210728-05:00",
+  "Update": "2023-12-19T08:43:12.2644651-05:00",
+  "Label": "Tarjeta de Video Gigabyte RTX 3050 WindForce OC 8GB"
+}
