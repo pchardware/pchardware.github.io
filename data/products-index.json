@@ -2336,22 +2336,6 @@
         "Label": "Tarjeta de Video EVGA RTX 3070 FTW3 Ultra 8GB"
       },
       {
-        "Price": 379.00,
-        "Features": [
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "199 mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-12-07T21:45:13.7040885-05:00",
-        "Update": "2023-12-07T22:03:17.3161319-05:00",
-        "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X White OC 8GB"
-      },
-      {
         "Price": 259.00,
         "Features": [
           "x1 8Pin",
@@ -2559,25 +2543,6 @@
         "Label": "MSI Mech Radeon RX 6750 XT 12GB"
       },
       {
-        "Price": 419.00,
-        "Features": [
-          "3xFan",
-          "1x8Pin",
-          "550WR",
-          "PCIe4",
-          "HDMI",
-          "3xDisplayPort",
-          "300mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-12-19T06:42:00.2738717-05:00",
-        "Update": "2023-12-19T08:43:12.1410062-05:00",
-        "Label": "Tarjeta de Video Asus ProArt RTX 4060 OC 8GB (3xFan)"
-      },
-      {
         "Price": 355.00,
         "Features": [
           "2xFan",
@@ -2611,6 +2576,43 @@
         "Date": "2023-12-19T06:42:41.7210728-05:00",
         "Update": "2023-12-19T08:43:12.2644651-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 3050 WindForce OC 8GB"
+      },
+      {
+        "Price": 379.00,
+        "Features": [
+          "DLSS3",
+          "2xFan",
+          "1x8Pin",
+          "550WR",
+          "199 mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-12-07T21:45:13.7040885-05:00",
+        "Update": "2023-12-19T08:47:19.701018-05:00",
+        "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X White OC 8GB"
+      },
+      {
+        "Price": 419.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "1x8Pin",
+          "550WR",
+          "PCIe4",
+          "HDMI",
+          "3xDisplayPort",
+          "300mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-12-19T06:42:00.2738717-05:00",
+        "Update": "2023-12-19T08:47:19.7268965-05:00",
+        "Label": "Tarjeta de Video Asus ProArt RTX 4060 OC 8GB"
       }
     ],
     "Chasis": [
