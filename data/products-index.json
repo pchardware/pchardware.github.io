@@ -1041,24 +1041,6 @@
         "Label": "Fuente Corsair RM850e 850W"
       },
       {
-        "Price": 225.00,
-        "Features": [
-          "80+ Gold",
-          "Full Modular",
-          "x6 Rails",
-          "1x 8+4Pin",
-          "1x 8pin",
-          "10x Peripheral",
-          "14x SATA",
-          "8x PCI-E",
-          "ATX",
-          "PSU"
-        ],
-        "Date": "2023-12-04T16:20:55.8266367-05:00",
-        "Update": "2023-12-05T16:42:29.9019589-05:00",
-        "Label": "Fuente Enermax MaxRevo 1350W"
-      },
-      {
         "Price": 125.00,
         "Features": [
           "54A",
@@ -1091,20 +1073,6 @@
         "Date": "2023-08-08T10:02:44.4021387-04:00",
         "Update": "2023-12-17T03:15:31.0845902-05:00",
         "Label": "Fuente Asus ROG Thor 850W Platinum II"
-      },
-      {
-        "Price": 99.00,
-        "Features": [
-          "43A",
-          "1x 4+4 EPS",
-          "1x 6Pin",
-          "1x 6+2Pin",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-12-17T00:52:12.4527738-05:00",
-        "Update": "2023-12-17T03:16:04.8647461-05:00",
-        "Label": "Fuente Thermaltake TR2 TR-600 600W"
       }
     ],
     "Disipador Líquido": [
