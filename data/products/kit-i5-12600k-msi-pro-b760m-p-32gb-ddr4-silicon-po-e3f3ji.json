@@ -1,0 +1,29 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Moderado",
+  "Images": [
+    "/images/products/kit-i5-12600k-msi-pro-b760m-p-32gb-ddr4-silicon-po-e3f3ji-1.webp",
+    "/images/products/kit-i5-12600k-msi-pro-b760m-p-32gb-ddr4-silicon-po-e3f3ji-2.webp",
+    "/images/products/kit-i5-12600k-msi-pro-b760m-p-32gb-ddr4-silicon-po-e3f3ji-3.webp",
+    "/images/products/kit-i5-12600k-msi-pro-b760m-p-32gb-ddr4-silicon-po-e3f3ji-4.webp",
+    "/images/products/kit-i5-12600k-msi-pro-b760m-p-32gb-ddr4-silicon-po-e3f3ji-5.webp",
+    "/images/products/kit-i5-12600k-msi-pro-b760m-p-32gb-ddr4-silicon-po-e3f3ji-6.webp",
+    "/images/products/kit-i5-12600k-msi-pro-b760m-p-32gb-ddr4-silicon-po-e3f3ji-7.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12600K\n+ Board MSI Pro B760M-P DDR4\n+ RAM DDR4 Silicon Power Turbine RGB 32GB 3200mhz\n",
+  "Price": 465.00,
+  "Features": [
+    "16 Hilos",
+    "10 Core",
+    "4.9GHz",
+    "2x16GB",
+    "CL16",
+    "Disipadas",
+    "5xUSB",
+    "4xSATA"
+  ],
+  "Date": "2023-12-20T07:22:21.9109929-05:00",
+  "Update": "2023-12-20T08:56:15.1410675-05:00",
+  "Discount": 10.0,
+  "Label": "Kit i5-12600K + MSI Pro B760M-P +32GB DDR4 Silicon Power Turbine RGB"
+}
