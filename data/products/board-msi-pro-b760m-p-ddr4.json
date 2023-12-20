@@ -17,15 +17,15 @@
     "4800mhz",
     "VGA",
     "5xUSB",
+    "4xSATA",
     "HDMI",
     "DisplayPort",
     "Micro ATX",
     "LGA 1700",
-    "4xSATA",
     "3xAudio",
     "MOBO"
   ],
   "Date": "2023-10-11T10:56:24.0277774-04:00",
-  "Update": "2023-12-08T11:21:36.9758298-05:00",
+  "Update": "2023-12-20T08:56:15.1001257-05:00",
   "Label": "Board MSI Pro B760M-P DDR4"
 }
