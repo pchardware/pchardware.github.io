@@ -233,6 +233,57 @@
         "Update": "2023-12-19T11:48:01.8001379-05:00",
         "Discount": 10.0,
         "Label": "Kit i7-13700K +Asus ROG Maximus Z690 Hero +32GB DDR5 G.Skill Trident Z5 RGB"
+      },
+      {
+        "Price": 535.00,
+        "Features": [
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "2x8GB",
+          "Disipadas",
+          "CL18",
+          "x8 USB",
+          "x4 SATA"
+        ],
+        "Date": "2023-12-20T07:42:28.408994-05:00",
+        "Update": "2023-12-20T08:56:15.1585026-05:00",
+        "Discount": 10.0,
+        "Label": "Kit i7-12700K +ASRock Z690 Phantom Gaming 4 +16GB DDR4 Corsair Vengeance RGB RT"
+      },
+      {
+        "Price": 629.00,
+        "Features": [
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "2x16GB",
+          "Disipadas",
+          "CL36",
+          "9xUSB",
+          "6xSATA"
+        ],
+        "Date": "2023-12-20T07:43:30.281921-05:00",
+        "Update": "2023-12-20T08:56:15.193999-05:00",
+        "Discount": 10.0,
+        "Label": "Kit i7-12700K +Gigabyte Z790 UD AX +32GB DDR5 G.Skill Trident Z5 RGB"
+      },
+      {
+        "Price": 773.00,
+        "Features": [
+          "24 Hilos",
+          "16 Core",
+          "5.4GHz",
+          "2x16GB",
+          "Disipadas",
+          "CL36",
+          "9xUSB",
+          "6xSATA"
+        ],
+        "Date": "2023-12-20T07:45:13.6575756-05:00",
+        "Update": "2023-12-20T08:56:15.2303624-05:00",
+        "Discount": 10.0,
+        "Label": "Kit i7-13700K +Gigabyte Z790 Aorus Elite AX +32GB DDR5 G.Skill Ripjaws S5"
       }
     ],
     "Entusiasta": [
@@ -288,6 +339,88 @@
         "Update": "2023-12-19T06:44:55.2301307-05:00",
         "Discount": 8.0,
         "Label": "Kit Intel Core i5-12400 +8GB RAM +Disipador +Board ASRock Z690M"
+      },
+      {
+        "Price": 369.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "2x8GB",
+          "CL16",
+          "Disipadas",
+          "6xUSB",
+          "4xSATA"
+        ],
+        "Date": "2023-12-20T07:45:40.8169212-05:00",
+        "Update": "2023-12-20T08:56:15.2590496-05:00",
+        "Discount": 9.0,
+        "Label": "Kit i3-12100 +ASRock Z690M Phantom Gaming 4 +16GB DDR4 T-Force Vulcan Z"
+      }
+    ],
+    "Moderado": [
+      {
+        "Price": 429.00,
+        "Features": [
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "2x8GB",
+          "CL16",
+          "Disipadas",
+          "4xSATA",
+          "6xUSB"
+        ],
+        "Date": "2023-12-20T07:21:12.9377325-05:00",
+        "Update": "2023-12-20T08:56:15.1235106-05:00",
+        "Discount": 9.0,
+        "Label": "Kit i5-12400 +Gigabyte B760M DS3H DDR4 +16GB DDR4 Team T-Force Vulcan Z"
+      },
+      {
+        "Price": 465.00,
+        "Features": [
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "2x16GB",
+          "CL16",
+          "Disipadas",
+          "5xUSB",
+          "4xSATA"
+        ],
+        "Date": "2023-12-20T07:22:21.9109929-05:00",
+        "Update": "2023-12-20T08:56:15.1410675-05:00",
+        "Discount": 10.0,
+        "Label": "Kit i5-12600K + MSI Pro B760M-P +32GB DDR4 Silicon Power Turbine RGB"
+      },
+      {
+        "Price": 459.00,
+        "Features": [
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "2x8GB",
+          "CL16",
+          "Disipadas"
+        ],
+        "Date": "2023-12-20T07:42:55.3924642-05:00",
+        "Update": "2023-12-20T08:56:15.1765338-05:00",
+        "Discount": 9.0,
+        "Label": "Kit i5-12400 +Asus B660 ProArt Creator D4 +16GB DDR4 Team T-Force Vulcan Z"
+      },
+      {
+        "Price": 689.00,
+        "Features": [
+          "20 Hilos",
+          "14 Core",
+          "5.1GHz",
+          "7xUSB",
+          "4xSATA"
+        ],
+        "Date": "2023-12-20T07:44:31.4653837-05:00",
+        "Update": "2023-12-20T08:56:15.2114085-05:00",
+        "Discount": 10.0,
+        "Label": "Kit i5-13600K + MSI Z790 Gaming Pro Wifi + 32GB DDR5 Corsair Vengeance"
       }
     ]
   },
@@ -2873,25 +3006,6 @@
         "Label": "Board ASRock Z690M Phantom Gaming 4"
       },
       {
-        "Price": 159.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "4800mhz",
-          "VGA",
-          "5xUSB",
-          "HDMI",
-          "DisplayPort",
-          "Micro ATX",
-          "LGA 1700",
-          "4xSATA",
-          "3xAudio",
-          "MOBO"
-        ],
-        "Date": "2023-10-11T10:56:24.0277774-04:00",
-        "Update": "2023-12-08T11:21:36.9758298-05:00",
-        "Label": "Board MSI Pro B760M-P DDR4"
-      },
-      {
         "Price": 189.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -3075,6 +3189,25 @@
         "Date": "2023-12-17T00:52:07.8205125-05:00",
         "Update": "2023-12-17T05:46:56.6129294-05:00",
         "Label": "Board Gigabyte B760M DS3H DDR4"
+      },
+      {
+        "Price": 159.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "4800mhz",
+          "VGA",
+          "5xUSB",
+          "4xSATA",
+          "HDMI",
+          "DisplayPort",
+          "Micro ATX",
+          "LGA 1700",
+          "3xAudio",
+          "MOBO"
+        ],
+        "Date": "2023-10-11T10:56:24.0277774-04:00",
+        "Update": "2023-12-20T08:56:15.1001257-05:00",
+        "Label": "Board MSI Pro B760M-P DDR4"
       }
     ]
   },
