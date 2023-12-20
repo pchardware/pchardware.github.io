@@ -1,0 +1,29 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-i7-12700k-asrock-z690-phantom-gaming-4-16gb-dd-tdrqac-1.webp",
+    "/images/products/kit-i7-12700k-asrock-z690-phantom-gaming-4-16gb-dd-tdrqac-2.webp",
+    "/images/products/kit-i7-12700k-asrock-z690-phantom-gaming-4-16gb-dd-tdrqac-3.webp",
+    "/images/products/kit-i7-12700k-asrock-z690-phantom-gaming-4-16gb-dd-tdrqac-4.webp",
+    "/images/products/kit-i7-12700k-asrock-z690-phantom-gaming-4-16gb-dd-tdrqac-5.webp",
+    "/images/products/kit-i7-12700k-asrock-z690-phantom-gaming-4-16gb-dd-tdrqac-6.webp",
+    "/images/products/kit-i7-12700k-asrock-z690-phantom-gaming-4-16gb-dd-tdrqac-7.webp"
+  ],
+  "Description": "+ Micro Intel Core i7-12700K\n+ Board ASRock Z690 Phantom Gaming 4 DDR4\n+ RAM DDR4 Corsair Vengeance RGB RT 16GB 3600mhz\n",
+  "Price": 535.00,
+  "Features": [
+    "20 Hilos",
+    "12 Core",
+    "5GHz",
+    "2x8GB",
+    "Disipadas",
+    "CL18",
+    "x8 USB",
+    "x4 SATA"
+  ],
+  "Date": "2023-12-20T07:42:28.408994-05:00",
+  "Update": "2023-12-20T08:56:15.1585026-05:00",
+  "Discount": 10.0,
+  "Label": "Kit i7-12700K +ASRock Z690 Phantom Gaming 4 +16GB DDR4 Corsair Vengeance RGB RT"
+}
