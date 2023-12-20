@@ -1,0 +1,32 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Esencial",
+  "Images": [
+    "/images/products/kit-i3-12100-asrock-z690m-phantom-gaming-4-16gb-dd-83ndb4-1.webp",
+    "/images/products/kit-i3-12100-asrock-z690m-phantom-gaming-4-16gb-dd-83ndb4-2.webp",
+    "/images/products/kit-i3-12100-asrock-z690m-phantom-gaming-4-16gb-dd-83ndb4-3.webp",
+    "/images/products/kit-i3-12100-asrock-z690m-phantom-gaming-4-16gb-dd-83ndb4-4.webp",
+    "/images/products/kit-i3-12100-asrock-z690m-phantom-gaming-4-16gb-dd-83ndb4-5.webp",
+    "/images/products/kit-i3-12100-asrock-z690m-phantom-gaming-4-16gb-dd-83ndb4-6.webp",
+    "/images/products/kit-i3-12100-asrock-z690m-phantom-gaming-4-16gb-dd-83ndb4-7.webp",
+    "/images/products/kit-i3-12100-asrock-z690m-phantom-gaming-4-16gb-dd-83ndb4-8.webp",
+    "/images/products/kit-i3-12100-asrock-z690m-phantom-gaming-4-16gb-dd-83ndb4-9.webp",
+    "/images/products/kit-i3-12100-asrock-z690m-phantom-gaming-4-16gb-dd-83ndb4-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i3-12100 +Disipador\n+ Board ASRock Z690M Phantom Gaming 4\n+ 2x RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz\n",
+  "Price": 369.00,
+  "Features": [
+    "8 Hilos",
+    "4 Core",
+    "4.3GHz",
+    "2x8GB",
+    "CL16",
+    "Disipadas",
+    "6xUSB",
+    "4xSATA"
+  ],
+  "Date": "2023-12-20T07:45:40.8169212-05:00",
+  "Update": "2023-12-20T08:56:15.2590496-05:00",
+  "Discount": 9.0,
+  "Label": "Kit i3-12100 +ASRock Z690M Phantom Gaming 4 +16GB DDR4 T-Force Vulcan Z"
+}
