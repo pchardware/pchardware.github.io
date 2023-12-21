@@ -2486,22 +2486,6 @@
         "Label": "Tarjeta de Video EVGA RTX 3070 FTW3 Ultra 8GB"
       },
       {
-        "Price": 255.00,
-        "Features": [
-          "x1 8Pin",
-          "500WR",
-          "190mm",
-          "1xFan",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-12-07T23:40:36.0331524-05:00",
-        "Update": "2023-12-08T11:16:17.7617579-05:00",
-        "Label": "Tarjeta de Video EVGA RTX 2060 Gaming 6GB"
-      },
-      {
         "Price": 525.00,
         "Features": [
           "3xFan",
@@ -2632,20 +2616,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Gaming OC 8GB"
       },
       {
-        "Price": 335.00,
-        "Features": [
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "GeForce",
-          "NVIDIA",
-          "Gráfica"
-        ],
-        "Date": "2023-04-09T07:40:21.1128823-04:00",
-        "Update": "2023-12-19T08:43:12.0725791-05:00",
-        "Label": "MSI RTX 3060 Ventus 2x OC 8GB"
-      },
-      {
         "Price": 285.00,
         "Features": [
           "3xFan",
@@ -2747,6 +2717,38 @@
         "Date": "2023-12-19T06:42:17.7775209-05:00",
         "Update": "2023-12-21T09:54:56.182188-05:00",
         "Label": "Tarjeta de Video MSI RTX 3060 Ventus 2x 12GB OC"
+      },
+      {
+        "Price": 335.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "550WR",
+          "PCIe4",
+          "235 mm",
+          "GeForce",
+          "NVIDIA",
+          "Gráfica"
+        ],
+        "Date": "2023-04-09T07:40:21.1128823-04:00",
+        "Update": "2023-12-21T09:56:31.5886191-05:00",
+        "Label": "MSI RTX 3060 Ventus 2x OC 8GB"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "1x8Pin",
+          "500WR",
+          "190mm",
+          "1xFan",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-12-07T23:40:36.0331524-05:00",
+        "Update": "2023-12-21T09:57:22.3651378-05:00",
+        "Label": "Tarjeta de Video EVGA RTX 2060 Gaming 6GB"
       }
     ],
     "Chasis": [
