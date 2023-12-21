@@ -8,25 +8,9 @@
         "Update": "2023-12-15T12:36:17.0189277-05:00",
         "Discount": 30.0,
         "Label": "PC i3-12100 +B760M-P +8GB DDR4 +500GB M.2 + 600W + Acer 24\" +Ratón y Teclado"
-      },
-      {
-        "Price": 911.00,
-        "Features": [],
-        "Date": "2023-12-15T11:05:53.1509612-05:00",
-        "Update": "2023-12-15T12:36:17.0425641-05:00",
-        "Discount": 30.0,
-        "Label": "PC i3-12100 +Z690M +8GB DDR4 +1TB M.2 +600W +Acer 24\" +Ratón y Teclado"
       }
     ],
     "Gamer": [
-      {
-        "Price": 1789.00,
-        "Features": [],
-        "Date": "2023-12-20T23:07:39.8479527-05:00",
-        "Update": "2023-12-20T23:26:02.6632923-05:00",
-        "Discount": 50.0,
-        "Label": "PC Gamer RX 7600 8GB +i7-12700K +Z790 UD AX +32GB Corsair +1TB M.2 +Acer 24\""
-      },
       {
         "Price": 1569.00,
         "Features": [],
@@ -338,19 +322,6 @@
     ],
     "Esencial": [
       {
-        "Price": 341.00,
-        "Features": [
-          "8 Hilos",
-          "6xUSB",
-          "DDR4",
-          "Disipada"
-        ],
-        "Date": "2023-10-20T08:53:27.1294814-04:00",
-        "Update": "2023-12-14T07:55:29.0302583-05:00",
-        "Discount": 5.0,
-        "Label": "Kit Intel Core i3 12Gen +8GB RAM 3200mhz +Disipador +Board ASRock Z690"
-      },
-      {
         "Price": 371.00,
         "Features": [
           "4 Core",
@@ -363,51 +334,9 @@
         "Update": "2023-12-17T05:47:55.9048217-05:00",
         "Discount": 7.0,
         "Label": "KIT i3-12100 +Disipador +Gigabyte B760M DS3H+ 16GB DDR4 3200mhz"
-      },
-      {
-        "Price": 398.00,
-        "Features": [],
-        "Date": "2023-11-18T11:40:29.5868429-05:00",
-        "Update": "2023-12-19T06:44:55.2301307-05:00",
-        "Discount": 8.0,
-        "Label": "Kit Intel Core i5-12400 +8GB RAM +Disipador +Board ASRock Z690M"
-      },
-      {
-        "Price": 369.00,
-        "Features": [
-          "8 Hilos",
-          "4 Core",
-          "4.3GHz",
-          "2x8GB",
-          "CL16",
-          "Disipadas",
-          "6xUSB",
-          "4xSATA"
-        ],
-        "Date": "2023-12-20T07:45:40.8169212-05:00",
-        "Update": "2023-12-20T08:56:15.2590496-05:00",
-        "Discount": 9.0,
-        "Label": "Kit i3-12100 +ASRock Z690M Phantom Gaming 4 +16GB DDR4 T-Force Vulcan Z"
       }
     ],
     "Moderado": [
-      {
-        "Price": 429.00,
-        "Features": [
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "2x8GB",
-          "CL16",
-          "Disipadas",
-          "4xSATA",
-          "6xUSB"
-        ],
-        "Date": "2023-12-20T07:21:12.9377325-05:00",
-        "Update": "2023-12-20T08:56:15.1235106-05:00",
-        "Discount": 9.0,
-        "Label": "Kit i5-12400 +Gigabyte B760M DS3H DDR4 +16GB DDR4 Team T-Force Vulcan Z"
-      },
       {
         "Price": 465.00,
         "Features": [
@@ -424,21 +353,6 @@
         "Update": "2023-12-20T08:56:15.1410675-05:00",
         "Discount": 10.0,
         "Label": "Kit i5-12600K + MSI Pro B760M-P +32GB DDR4 Silicon Power Turbine RGB"
-      },
-      {
-        "Price": 459.00,
-        "Features": [
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "2x8GB",
-          "CL16",
-          "Disipadas"
-        ],
-        "Date": "2023-12-20T07:42:55.3924642-05:00",
-        "Update": "2023-12-20T08:56:15.1765338-05:00",
-        "Discount": 9.0,
-        "Label": "Kit i5-12400 +Asus B660 ProArt Creator D4 +16GB DDR4 Team T-Force Vulcan Z"
       },
       {
         "Price": 699.00,
@@ -2070,22 +1984,6 @@
         "Date": "2023-05-11T07:28:15.7616729-04:00",
         "Update": "2023-12-14T07:55:29.0098231-05:00",
         "Label": "Micro Intel Core i3-12100 +Disipador"
-      },
-      {
-        "Price": 215.00,
-        "Features": [
-          "12va Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "18MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-02-17T09:45:29.425139-05:00",
-        "Update": "2023-12-19T06:44:55.1730266-05:00",
-        "Label": "Micro Intel Core i5-12400 +Disipador"
       }
     ],
     "Memoria RAM": [
@@ -2612,22 +2510,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Gaming OC 8GB"
       },
       {
-        "Price": 285.00,
-        "Features": [
-          "3xFan",
-          "1x8Pin",
-          "500WR",
-          "282mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-11-18T23:52:05.1129043-05:00",
-        "Update": "2023-12-19T08:43:12.0901152-05:00",
-        "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 XT Eagle 8GB"
-      },
-      {
         "Price": 395.00,
         "Features": [
           "2xFan",
@@ -2950,24 +2832,6 @@
         "Date": "2023-10-03T06:55:49.2464488-04:00",
         "Update": "2023-12-08T11:21:36.9031533-05:00",
         "Label": "Board Gigabyte Z790 Aorus Elite AX"
-      },
-      {
-        "Price": 159.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "4800mhz",
-          "DDR4",
-          "6xUSB",
-          "4xSATA",
-          "HDMI",
-          "LGA 1700",
-          "3xAudio",
-          "Micro ATX",
-          "MOBO"
-        ],
-        "Date": "2023-10-16T10:24:36.0269962-04:00",
-        "Update": "2023-12-08T11:21:36.9260449-05:00",
-        "Label": "Board ASRock Z690M Phantom Gaming 4"
       },
       {
         "Price": 189.00,
@@ -3293,21 +3157,6 @@
         "Date": "2023-07-26T18:48:03.9197668-04:00",
         "Update": "2023-07-27T11:33:38.2530039-04:00",
         "Label": "COMBO Teclado Asus TUF Gaming K1 + Mouse M3"
-      },
-      {
-        "Price": 85.00,
-        "Features": [
-          "Mecánico",
-          "RGB",
-          "Aluminio",
-          "Gaming",
-          "Palm rest",
-          "Multimedia",
-          "USB"
-        ],
-        "Date": "2023-08-01T11:15:29.6304071-04:00",
-        "Update": "2023-08-01T18:30:20.4369867-04:00",
-        "Label": "Teclado NZXT Function TKL"
       },
       {
         "Price": 53.00,
@@ -3999,24 +3848,6 @@
         "Label": "Auriculares Corsair VOID RGB Elite Wireless Carbon"
       },
       {
-        "Price": 139.00,
-        "Features": [
-          "Noise Control",
-          "7.1",
-          "16H",
-          "iCUE",
-          "20Hz-20KHz",
-          "50mm",
-          "Inalámbrico",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-11-03T12:23:45.8463765-04:00",
-        "Update": "2023-11-03T14:29:33.2957812-04:00",
-        "Label": "Auriculares Corsair HS70 Pro Wireless"
-      },
-      {
         "Price": 135.00,
         "Features": [
           "Hi-Res",
@@ -4230,19 +4061,6 @@
         "Date": "2023-10-28T11:52:16.1019156-04:00",
         "Update": "2023-11-18T08:40:49.2565149-05:00",
         "Label": "Control Xbox Core Wireless Black + USB-C Cable"
-      }
-    ],
-    "Backup": [
-      {
-        "Price": 139.00,
-        "Features": [
-          "120V",
-          "255 Watts",
-          "6 Salidas"
-        ],
-        "Date": "2023-05-12T07:53:07.7837276-04:00",
-        "Update": "2023-11-24T10:20:52.924457-05:00",
-        "Label": "Backup APC BE425M 425VA"
       }
     ],
     "Silla": [
