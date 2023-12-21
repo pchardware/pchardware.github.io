@@ -2677,25 +2677,6 @@
         "Label": "MSI Mech Radeon RX 6750 XT 12GB"
       },
       {
-        "Price": 355.00,
-        "Features": [
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "PCIe4",
-          "HDMI",
-          "3xDisplayPort",
-          "235mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-12-19T06:42:17.7775209-05:00",
-        "Update": "2023-12-19T08:43:12.1931347-05:00",
-        "Label": "Tarjeta de Video MSI RTX 3060 Ventus 2x 12GB (2xFan) OC"
-      },
-      {
         "Price": 295.00,
         "Features": [
           "2xFan",
@@ -2747,6 +2728,25 @@
         "Date": "2023-12-19T06:42:00.2738717-05:00",
         "Update": "2023-12-19T08:47:19.7268965-05:00",
         "Label": "Tarjeta de Video Asus ProArt RTX 4060 OC 8GB"
+      },
+      {
+        "Price": 355.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "550WR",
+          "PCIe4",
+          "HDMI",
+          "3xDisplayPort",
+          "235mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-12-19T06:42:17.7775209-05:00",
+        "Update": "2023-12-21T09:54:56.182188-05:00",
+        "Label": "Tarjeta de Video MSI RTX 3060 Ventus 2x 12GB OC"
       }
     ],
     "Chasis": [
