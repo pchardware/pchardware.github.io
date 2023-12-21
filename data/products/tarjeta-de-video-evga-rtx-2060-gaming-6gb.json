@@ -12,7 +12,7 @@
   "Description": "Model\nBrand: EVGA\nModel: 06G-P4-2060-KR\n\n\nInterface\nInterface: PCI Express 3.0\n\n\nChipset\nChipset Manufacturer: NVIDIA\nGPU Series: NVIDIA GeForce RTX 20 Series\nGPU: GeForce RTX 2060\nBoost Clock: 1680 MHz\nCUDA Cores: 1920 Cores\n\n\nMemory\nEffective Memory Clock: 14000 MHz\nMemory Size: 6GB\nMemory Interface: 192-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12\nOpenGL: OpenGL 4.5\n\n\nPorts\nMulti-Monitor Support: 3\nHDMI: 1 x HDMI 2.0b\nDisplayPort: 1 x DisplayPort 1.4\nDVI: 1 x Dual-Link DVI-D\n\n\nDetails\nMax Resolution: 7680 x 4320\nSLI Support: No\nVirtual Reality Ready: Yes\nCooler: Single Fan\nOperating Systems Supported: Windows 10 (64-bit), Windows 7 (64-bit)\nThermal Design Power: 160W\nSystem Requirements: 500W or greater power supply\nPCI Express, PCI Express 2.0 or PCI Express 3.0 compliant motherboard with one graphics slot\nPower Connector: 8-Pin\nDual-Link DVI Supported: Yes\nHDCP Ready: 2.2\n\n\nFeatures\nFeatures: NVIDIA Ansel\n\nReal-Time Ray Tracing\n\nNVIDIA GeForce Experience\n\nNVIDIA Highlights\n\nNVIDIA G-SYNC Compatible\n\nGame Ready Drivers\n\nMicrosoft DirectX 12 API, Vulkan API, OpenGL 4.5\n\nNVIDIA GPU Boost\n\nBuilt for EVGA Precision X1\n\n\nForm Factor & Dimensions\nMax GPU Length: 190 mm\nCard Dimensions (L x H): 7.48\" x 4.38\"\nSlot Width: 2.75 Slot",
   "Price": 255.00,
   "Features": [
-    "x1 8Pin",
+    "1x8Pin",
     "500WR",
     "190mm",
     "1xFan",
@@ -22,6 +22,6 @@
     "Gráfica"
   ],
   "Date": "2023-12-07T23:40:36.0331524-05:00",
-  "Update": "2023-12-08T11:16:17.7617579-05:00",
+  "Update": "2023-12-21T09:57:22.3651378-05:00",
   "Label": "Tarjeta de Video EVGA RTX 2060 Gaming 6GB"
 }
