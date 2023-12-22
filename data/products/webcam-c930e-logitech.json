@@ -1,0 +1,25 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Webcam",
+  "Images": [
+    "/images/products/webcam-c930e-logitech-1.webp",
+    "/images/products/webcam-c930e-logitech-2.webp",
+    "/images/products/webcam-c930e-logitech-3.webp",
+    "/images/products/webcam-c930e-logitech-4.webp",
+    "/images/products/webcam-c930e-logitech-5.webp",
+    "/images/products/webcam-c930e-logitech-6.webp",
+    "/images/products/webcam-c930e-logitech-7.webp"
+  ],
+  "Description": "Model\nBrand: Logitech\nModel: C930e\n\n\nDetails\nColor: Black\nInterface: USB 2.0\nVideo Capture Resolution: 1920 x 1080\nFrame Rate: 30 fps\n\n\nFeatures\nFeatures: Maximum Angle of View: 90 degree\n\nHeight: 1.14\"\nWidth: 3.70\"\nDepth: 0.95\"\n\nFocus Modes: Auto-focus\n\nWeight (Approximate): 5.71 oz\n\n\nPackage Contents\nPackage Contents: Webcam C930e\nExternal Privacy Shutter\nQuick Start Guide",
+  "Price": 89.00,
+  "Features": [
+    "1080p",
+    "30 fps",
+    "Auto-focus",
+    "90 degree",
+    "USB"
+  ],
+  "Date": "2023-12-04T16:20:42.8197797-05:00",
+  "Update": "2023-12-22T07:03:55.3876308-05:00",
+  "Label": "Webcam C930e Logitech"
+}
