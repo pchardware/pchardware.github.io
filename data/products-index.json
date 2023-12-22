@@ -4162,21 +4162,6 @@
         "Label": "Monitor Acer Nitro 28\" 4K IPS 10Bit 300nit SPK"
       },
       {
-        "Price": 439.00,
-        "Features": [
-          "HDR400",
-          "8Bit",
-          "Gaming",
-          "Flat",
-          "DP",
-          "QHD",
-          "2K"
-        ],
-        "Date": "2023-08-20T10:12:32.3834228-04:00",
-        "Update": "2023-12-14T08:51:11.9042296-05:00",
-        "Label": "Monitor Gigabyte 27\" 1440p 144Hz IPS 1ms A.Ajustable 350nit 2xUSB3 SPK"
-      },
-      {
         "Price": 335.00,
         "Features": [
           "8Bit",
@@ -4226,6 +4211,21 @@
         "Date": "2023-12-07T22:24:09.640104-05:00",
         "Update": "2023-12-17T21:03:57.7369525-05:00",
         "Label": "Monitor Acer Nitro 27\" 1440p Curvo 144Hz 1ms VA SPK"
+      },
+      {
+        "Price": 439.00,
+        "Features": [
+          "2K",
+          "HDR400",
+          "8Bit",
+          "Gaming",
+          "Flat",
+          "DP",
+          "QHD"
+        ],
+        "Date": "2023-08-20T10:12:32.3834228-04:00",
+        "Update": "2023-12-22T08:13:40.6887638-05:00",
+        "Label": "Monitor Gigabyte 27\" 1440p 144Hz IPS 1ms A.Ajustable 350nit 2xUSB3 SPK"
       }
     ]
   }
