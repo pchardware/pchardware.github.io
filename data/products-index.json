@@ -2525,22 +2525,6 @@
         "Label": "MSI Mech Radeon RX 6750 XT 12GB"
       },
       {
-        "Price": 295.00,
-        "Features": [
-          "2xFan",
-          "1x8Pin",
-          "150WR",
-          "244mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-12-19T06:42:41.7210728-05:00",
-        "Update": "2023-12-19T08:43:12.2644651-05:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 3050 WindForce OC 8GB"
-      },
-      {
         "Price": 379.00,
         "Features": [
           "DLSS3",
@@ -2627,6 +2611,22 @@
         "Date": "2023-12-07T23:40:36.0331524-05:00",
         "Update": "2023-12-21T09:57:22.3651378-05:00",
         "Label": "Tarjeta de Video EVGA RTX 2060 Gaming 6GB"
+      },
+      {
+        "Price": 295.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "550WR",
+          "244mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-12-19T06:42:41.7210728-05:00",
+        "Update": "2023-12-22T08:53:15.5706567-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 3050 WindForce OC 8GB"
       }
     ],
     "Chasis": [
