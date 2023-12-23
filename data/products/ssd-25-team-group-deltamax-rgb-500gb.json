@@ -2,15 +2,17 @@
   "Category": "Componentes",
   "SubCategory": "Disco Sólido",
   "Images": [
-    "/images/products/ssd-25-team-group-deltamax-rgb-500gb-1.webp"
+    "/images/products/ssd-25-team-group-deltamax-rgb-500gb-1.webp",
+    "/images/products/ssd-25-team-group-deltamax-rgb-500gb-2.webp",
+    "/images/products/ssd-25-team-group-deltamax-rgb-500gb-3.webp"
   ],
-  "Description": "",
+  "Description": "Model\nBrand: Team Group\nSeries: T-FORCE DELTA MAX RGB\nModel: T253TM500G3C302\nDevice Type: Internal Solid State Drive (SSD)\nUsed For: Consumer\n\n\nDetails\nForm Factor: 2.5\"\nCapacity: 500GB\nMemory Components: 3D NAND\nInterface: SATA III\n\n\nPerformance\nMax Sequential Read: Up to 560 MBps\nMax Sequential Write: Up to 510 MBps\n4KB Random Read: Up to 90,000 IOPS\n4KB Random Write: Up to 80,000 IOPS\nMTBF: 1,000,000 hours\n\n\nFeatures\nFeatures: Terabyte Written: >400TB\n\nSimple design mirror can present a mirror like reflection effect\n\nExclusive in luminous mode and motherboard synchronization function\n\nThe world's one and only independent dual control interface\n\nUsing addressable RGB LED module\n\nLeading industry with largest proportion of luminous area\n\n\nEnvironmental\nOperating Temperature: 0°C ~ +70°C\n\n\nDimensions & Weight\nHeight: 9.50mm\nWidth: 69.85mm\nDepth: 100.00mm\nWeight: 78.00g",
   "Price": 57.00,
   "Features": [
     "560mbs",
     "SATA 3"
   ],
   "Date": "2023-04-09T09:40:07.8060759-04:00",
-  "Update": "2023-06-07T16:09:24.80923-04:00",
+  "Update": "2023-12-23T17:34:01.3533365-05:00",
   "Label": "SSD 2.5 Team Group DeltaMax RGB 500GB"
 }
