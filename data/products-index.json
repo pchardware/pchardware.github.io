@@ -2091,17 +2091,6 @@
         "Label": "RAM DDR4 CORSAIR Vengeance RGB Pro 16GB 3600mhz White"
       },
       {
-        "Price": 109.00,
-        "Features": [
-          "2x16GB",
-          "3600mhz",
-          "CL18"
-        ],
-        "Date": "2023-11-30T11:21:51.4573961-05:00",
-        "Update": "2023-11-30T14:11:17.7515035-05:00",
-        "Label": "RAM DDR4 CORSAIR Vengeance RGB Pro 32GB"
-      },
-      {
         "Price": 115.00,
         "Features": [
           "2x16GB",
@@ -2133,6 +2122,17 @@
         "Date": "2023-11-18T23:52:16.8733847-05:00",
         "Update": "2023-12-14T07:55:29.0448296-05:00",
         "Label": "RAM DDR4 Silicon Power Turbine RGB 32GB 3200mhz"
+      },
+      {
+        "Price": 109.00,
+        "Features": [
+          "2x16GB",
+          "3600mhz",
+          "CL18"
+        ],
+        "Date": "2023-11-30T11:21:51.4573961-05:00",
+        "Update": "2023-12-23T16:36:34.0698298-05:00",
+        "Label": "RAM DDR4 CORSAIR Vengeance RGB Pro 32GB"
       }
     ],
     "Tarjeta Gráfica": [
