@@ -35,6 +35,16 @@
         "Discount": 37.0,
         "Label": "PC RX 6600 8GB +Ryzen 5 5600X +B550 Gaming X V2 +16GB DDR4 +500GB M.2 + Acer 24\""
       }
+    ],
+    "Pro": [
+      {
+        "Price": 1585.00,
+        "Features": [],
+        "Date": "2023-12-23T03:22:39.0221197-05:00",
+        "Update": "2023-12-23T03:27:47.6904116-05:00",
+        "Discount": 39.0,
+        "Label": "PC i7-13700K +Strix Z790-H Gaming +32GB DDR5 +1TB M.2 +600W + Phanteks+ Acer 24\""
+      }
     ]
   },
   "Torres": {
