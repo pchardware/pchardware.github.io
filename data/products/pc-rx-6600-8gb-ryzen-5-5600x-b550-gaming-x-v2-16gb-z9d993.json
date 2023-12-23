@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-rx-6600-8gb-ryzen-5-5600x-b550-gaming-x-v2-16gb-z9d993-1.webp",
+    "/images/products/pc-rx-6600-8gb-ryzen-5-5600x-b550-gaming-x-v2-16gb-z9d993-2.webp",
+    "/images/products/pc-rx-6600-8gb-ryzen-5-5600x-b550-gaming-x-v2-16gb-z9d993-3.webp",
+    "/images/products/pc-rx-6600-8gb-ryzen-5-5600x-b550-gaming-x-v2-16gb-z9d993-4.webp",
+    "/images/products/pc-rx-6600-8gb-ryzen-5-5600x-b550-gaming-x-v2-16gb-z9d993-5.webp",
+    "/images/products/pc-rx-6600-8gb-ryzen-5-5600x-b550-gaming-x-v2-16gb-z9d993-6.webp",
+    "/images/products/pc-rx-6600-8gb-ryzen-5-5600x-b550-gaming-x-v2-16gb-z9d993-7.webp",
+    "/images/products/pc-rx-6600-8gb-ryzen-5-5600x-b550-gaming-x-v2-16gb-z9d993-8.webp",
+    "/images/products/pc-rx-6600-8gb-ryzen-5-5600x-b550-gaming-x-v2-16gb-z9d993-9.webp",
+    "/images/products/pc-rx-6600-8gb-ryzen-5-5600x-b550-gaming-x-v2-16gb-z9d993-10.webp"
+  ],
+  "Description": "+ CPU AMD Ryzen 5 5600X +Disipador\n+ Motherboard Gigabyte B550 Gaming X V2\n+ 2x RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz\n+ SSD M.2 PNY CS2241 500GB\n+ Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X 8GB\n+ Fuente EVGA 650 BP 80+ Bronze\n+ Chasis Fractal Design Focus 2 RGB White\n+ Monitor Acer Nitro 24\" 165Hz 1ms SPK VA\n+ COMBO Teclado + Mouse Logitech MK270\n",
+  "Price": 1365.00,
+  "Features": [],
+  "Date": "2023-12-23T02:55:50.7131662-05:00",
+  "Update": "2023-12-23T02:58:43.8605439-05:00",
+  "Discount": 37.0,
+  "Label": "PC RX 6600 8GB +Ryzen 5 5600X +B550 Gaming X V2 +16GB DDR4 +500GB M.2 + Acer 24\""
+}
