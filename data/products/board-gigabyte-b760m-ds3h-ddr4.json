@@ -8,7 +8,7 @@
     "/images/products/board-gigabyte-b760m-ds3h-ddr4-4.webp",
     "/images/products/board-gigabyte-b760m-ds3h-ddr4-5.webp"
   ],
-  "Description": "Socket Intel LGA 1700: admite procesadores Intel Core Series de 13ª y 12ª generación\nCompatible con DDR4: DDR4 de doble canal, 4 DIMM\nDiseño de potencia robusta: diseño de VRM digital híbrido 6+2+1\nDiseño térmico integral: protector térmico M.2\nConectividad de próxima generación: PCIe 4.0, NVMe PCIe 4.0 x2 M.2, USB 3.2 Gen 2 Tipo-C\nRed rápida: LAN de 2.5GbE\nCaracterísticas de ajuste fino: RGB FUSION 2.0, admite tiras de LED direccionables y LED RGB, Smart Fan 6, Q-Flash Plus Update BIOS sin instalación, CPU, memoria y GPU\n\nSocket Intel LGA 1700: admite procesadores Intel Core Series de 13ª y 12ª generación Compatibles DDR4: DDR4 de doble canal, 4 DIMM Diseño de potencia robusta: 6+2+1 Diseño VRM digital híbrido Diseño térmico integral: M.2 Thermal Guard Conectividad de próxima generación: PCIe 4.0, NVMe PCIe 4.0 x2 M.2, USB 3.2 Gen 2 Red rápida tipo C : 2.5GbE LAN Fine Tuning Características: RGB FUSION 2.0, admite tiras LED direccionables y RGB LED, Smart Fan 6, Q-Flash Plus Update BIOS sin instalación, CPU, memoria y GPU. Disfrute de un rendimiento sin igual con el GIGABYTE B760M DS3H DDR4. El GIGABYTE B760M DS3H DDR4 admite procesadores Intel Core de 13ª y 12ª generación. Libera tu potencial de juego con las placas base GIGABYTE B760. Las placas base GIGABYTE B760 vienen con un diseño de potencia mejorado, estándares de almacenamiento de alta calidad y una conectividad excepcional que le permite optimizar su rendimiento. Reclama lo que es tuyo.\n\nRAM: DDR4\nVelocidad de memoria: 2133 MHz\nNúmero de puertos USB 2.0: 2\nMarca: GIGABYTE\nSeries: B760M DS3H DDR4\nNúmero de modelo del producto: B760M DS3H DDR4\nDimensiones del producto: 10,43 x 10,43 x 2,12 pulgadas\nDimensiones del artículo Largo x Ancho x Altura: 10.43 x 10.43 x 2.12 pulgadas\nFabricante: GIGABYTE",
+  "Description": "Model\nBrand: GIGABYTE\nModel: B760M DS3H DDR4\n\n\nSupported CPU\nCPU Socket Type: LGA 1700\nCPU Type: Core i3 / Core i5 / Core i7 / Core i9 / Intel Core 12th Gen (LGA 1700) / Intel Core 13th Gen (LGA 1700)\n\n\nChipsets\nChipset: Intel B760\n\n\nMemory\nNumber of Memory Slots: 4x288pin (DDR4)\nMemory Standard: Support for DDR4 5333(O.C.)/ 5133(O.C.)/ 5000(O.C.)/ 4933(O.C.)/ 4800(O.C.)/ 4700(O.C.)/ 4600(O.C.)/ 4500(O.C.)/ 4400(O.C.)/ 4300(O.C.)/ 4266(O.C.)/ 4133(O.C.)/ 4000(O.C.)/ 3866(O.C.)/ 3800(O.C.)/ 3733(O.C.)/ 3666(O.C.)/ 3600(O.C.)/ 3466(O.C.)/ 3400(O.C.)/ 3333(O.C.)/ 3300(O.C.)/ 3200/ 3000/ 2933/ 2666/ 2400/ 2133 MT/s memory modules\nMaximum Memory Supported: 128GB\nChannel Supported: Dual Channel\n\n\nExpansion Slots\nPCI Express 4.0 x16: 1 x PCI Express 4.0 x16\n\n\nStorage Devices\nSATA 6Gb/s: 4 x SATA 6Gb/s\nM.2: CPU:\n1 x M.2 connector (Socket 3, M key, type 2280 PCIe 4.0 x4/x2 SSD support) (M2A_CPU)\nChipset:\n1 x M.2 connector (Socket 3, M key, type 2280 PCIe 4.0 x4/x2 SSD support) (M2P_SB)\n\n\nOnboard LAN\nMax LAN Speed: 2.5Gbps\n\n\nPhysical Spec\nForm Factor: Micro ATX",
   "Price": 159.00,
   "Features": [
     "12Gen-13Gen-14Gen",
@@ -23,6 +23,6 @@
     "Micro-ATX"
   ],
   "Date": "2023-12-17T00:52:07.8205125-05:00",
-  "Update": "2023-12-17T05:46:56.6129294-05:00",
+  "Update": "2023-12-23T16:48:55.2239398-05:00",
   "Label": "Board Gigabyte B760M DS3H DDR4"
 }
