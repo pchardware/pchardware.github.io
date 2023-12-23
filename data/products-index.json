@@ -2923,24 +2923,6 @@
         "Price": 159.00,
         "Features": [
           "12Gen-13Gen-14Gen",
-          "DDR4",
-          "2133mhz",
-          "VGA",
-          "HDMI",
-          "DisplayPort",
-          "4xSATA",
-          "6xUSB",
-          "LGA 1700",
-          "Micro-ATX"
-        ],
-        "Date": "2023-12-17T00:52:07.8205125-05:00",
-        "Update": "2023-12-17T05:46:56.6129294-05:00",
-        "Label": "Board Gigabyte B760M DS3H DDR4"
-      },
-      {
-        "Price": 159.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
           "4800mhz",
           "VGA",
           "5xUSB",
@@ -2955,6 +2937,24 @@
         "Date": "2023-10-11T10:56:24.0277774-04:00",
         "Update": "2023-12-20T08:56:15.1001257-05:00",
         "Label": "Board MSI Pro B760M-P DDR4"
+      },
+      {
+        "Price": 159.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR4",
+          "2133mhz",
+          "VGA",
+          "HDMI",
+          "DisplayPort",
+          "4xSATA",
+          "6xUSB",
+          "LGA 1700",
+          "Micro-ATX"
+        ],
+        "Date": "2023-12-17T00:52:07.8205125-05:00",
+        "Update": "2023-12-23T16:48:55.2239398-05:00",
+        "Label": "Board Gigabyte B760M DS3H DDR4"
       }
     ]
   },
