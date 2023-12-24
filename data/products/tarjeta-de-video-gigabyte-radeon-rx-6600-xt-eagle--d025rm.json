@@ -8,9 +8,7 @@
     "/images/products/tarjeta-de-video-gigabyte-radeon-rx-6600-xt-eagle--d025rm-4.webp",
     "/images/products/tarjeta-de-video-gigabyte-radeon-rx-6600-xt-eagle--d025rm-5.webp",
     "/images/products/tarjeta-de-video-gigabyte-radeon-rx-6600-xt-eagle--d025rm-6.webp",
-    "/images/products/tarjeta-de-video-gigabyte-radeon-rx-6600-xt-eagle--d025rm-7.webp",
-    "/images/products/tarjeta-de-video-gigabyte-radeon-rx-6600-xt-eagle--d025rm-8.webp",
-    "/images/products/tarjeta-de-video-gigabyte-radeon-rx-6600-xt-eagle--d025rm-9.webp"
+    "/images/products/tarjeta-de-video-gigabyte-radeon-rx-6600-xt-eagle--d025rm-7.webp"
   ],
   "Description": "Model\nBrand: GIGABYTE\nSeries: Eagle\nModel: GV-R66XTEAGLE-8GD\n\n\nInterface\nInterface: PCI Express 4.0\n\n\nChipset\nChipset Manufacturer: AMD\nGPU Series: AMD Radeon RX 6000 Series\nGPU: Radeon RX 6600 XT\nArchitecture: RDNA 2\nStream Processors: 2048 Stream Processors\n\n\nMemory\nEffective Memory Clock: 16000 MHz\nMemory Size: 8GB\nMemory Interface: 128-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12 Ultimate\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 2 x HDMI 2.1\nDisplayPort: 2 x DisplayPort 1.4a\n\n\nDetails\nMax Resolution: 7680 x 4320\nCooler: WINDFORCE 3X\nRecommended PSU Wattage: 500W\nPower Connector: 8-Pin\n\n\nFeatures\nFeatures: Powered by AMD RDNA 2 Radeon RX 6600 XT\n\nIntegrated with 8GB GDDR6 128-bit memory interface\n\nWINDFORCE 3X Cooling System with alternate spinning fans\n\nScreen cooling\n\nGraphene nano lubricant\n\nProtection metal back plate\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 282 mm\nCard Dimensions (L x H): 11.10\" x 4.45\"\nSlot Width: 2 Slots\n\n\nPackaging\nPackage Contents: Accessories:\nQuick guide",
   "Price": 285.00,
@@ -25,6 +23,6 @@
     "Gráfica"
   ],
   "Date": "2023-11-18T23:52:05.1129043-05:00",
-  "Update": "2023-12-24T02:36:56.2859922-05:00",
+  "Update": "2023-12-24T03:04:22.7871831-05:00",
   "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 XT Eagle 8GB"
 }
