@@ -7,9 +7,7 @@
     "/images/products/tarjeta-de-video-asus-dual-rx-6600-8gb-3.webp",
     "/images/products/tarjeta-de-video-asus-dual-rx-6600-8gb-4.webp",
     "/images/products/tarjeta-de-video-asus-dual-rx-6600-8gb-5.webp",
-    "/images/products/tarjeta-de-video-asus-dual-rx-6600-8gb-6.webp",
-    "/images/products/tarjeta-de-video-asus-dual-rx-6600-8gb-7.webp",
-    "/images/products/tarjeta-de-video-asus-dual-rx-6600-8gb-8.webp"
+    "/images/products/tarjeta-de-video-asus-dual-rx-6600-8gb-6.webp"
   ],
   "Description": "Model\nBrand: ASUS\nSeries: Dual\nModel: DUAL-RX6600-8G-V2\nPart Number: 90YV0GP2-M0AA00\n\n\nInterface\nInterface: PCI Express 4.0\n\n\nChipset\nChipset Manufacturer: AMD\nGPU Series: AMD Radeon RX 6000 Series\nGPU: Radeon RX 6600\nCore Clock: 2044\nGame Clock: 2064\nBoost Clock: 2491\nStream Processors: 1792 Stream Processors\n\n\nMemory\nMemory Size: 8GB\nMemory Interface: 128-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12 Ultimate\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 1 x HDMI 2.1\nDisplayPort: 3 x DisplayPort 1.4a\n\n\nDetails\nMax Resolution: 7680 x 4320\nCooler: Double Fans\nThermal Design Power: 132W\nRecommended PSU Wattage: 500W\nPower Connector: 8-Pin\n\n\nForm Factor & Dimensions\nMax GPU Length: 243 mm\nSlot Width: 2.5 Slots",
   "Price": 275.00,
@@ -24,6 +22,6 @@
     "Gráfica"
   ],
   "Date": "2023-09-23T14:08:44.7733868-04:00",
-  "Update": "2023-12-12T04:01:09.6507581-05:00",
+  "Update": "2023-12-24T03:04:22.6752642-05:00",
   "Label": "Tarjeta de Video Asus Dual RX 6600 8GB"
 }
