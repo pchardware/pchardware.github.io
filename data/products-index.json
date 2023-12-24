@@ -739,39 +739,6 @@
         "Label": "Fuente Corsair HX1500i 1500W"
       },
       {
-        "Price": 167.00,
-        "Features": [
-          "80+ Gold",
-          "Full Modular",
-          "71A",
-          "4x 6+2Pin",
-          "8x SATA",
-          "2x 4+4 EPS",
-          "Hydraulic",
-          "140mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-10-03T06:55:40.1387236-04:00",
-        "Update": "2023-10-18T07:33:52.0223902-04:00",
-        "Label": "Fuente Gigabyte UD850GM 850W"
-      },
-      {
-        "Price": 85.00,
-        "Features": [
-          "35A",
-          "2x 6+2Pin",
-          "6x SATA",
-          "1x 4+4 EPS",
-          "140mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-05-12T07:54:08.9581203-04:00",
-        "Update": "2023-10-18T07:33:52.0916142-04:00",
-        "Label": "Fuente Thermaltake SMART 500W 80+"
-      },
-      {
         "Price": 265.00,
         "Features": [
           "ATX 3.0",
@@ -811,21 +778,6 @@
         "Date": "2023-10-18T06:47:45.3587452-04:00",
         "Update": "2023-10-18T07:33:52.4067701-04:00",
         "Label": "Fuente Rosewill CMG1200G5 1200W"
-      },
-      {
-        "Price": 85.00,
-        "Features": [
-          "1x 6+2Pin",
-          "4x SATA",
-          "1x 4+4 EPS",
-          "150mm",
-          "80+",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-10-23T12:31:26.0970288-04:00",
-        "Update": "2023-10-23T14:55:22.5123968-04:00",
-        "Label": "Fuente Raidmax Vortex 600W RX-600AC-V"
       },
       {
         "Price": 225.00,
@@ -893,21 +845,6 @@
         "Label": "Fuente Corsair RM850e 850W"
       },
       {
-        "Price": 125.00,
-        "Features": [
-          "54A",
-          "80+ Bronce",
-          "1x 4+4Pin",
-          "2x 6+2Pin",
-          "6x SATA",
-          "ATX",
-          "PSU"
-        ],
-        "Date": "2023-12-07T22:24:20.3840718-05:00",
-        "Update": "2023-12-07T23:38:43.8437772-05:00",
-        "Label": "Fuente EVGA 650 BP 80+ Bronze"
-      },
-      {
         "Price": 285.00,
         "Features": [
           "80+ PLATINUM",
@@ -938,6 +875,69 @@
         "Date": "2023-12-19T06:42:21.8253659-05:00",
         "Update": "2023-12-19T08:43:12.2370599-05:00",
         "Label": "Fuente EVGA 400W"
+      },
+      {
+        "Price": 167.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "71A",
+          "4x 6+2Pin",
+          "8x SATA",
+          "2x 4+4 EPS",
+          "Hydraulic",
+          "140mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-10-03T06:55:40.1387236-04:00",
+        "Update": "2023-12-24T02:51:09.5543247-05:00",
+        "Label": "Fuente Gigabyte UD850GM 850W"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "35A",
+          "2x 6+2Pin",
+          "6x SATA",
+          "1x 4+4 EPS",
+          "140mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-05-12T07:54:08.9581203-04:00",
+        "Update": "2023-12-24T02:51:09.5747358-05:00",
+        "Label": "Fuente Thermaltake SMART 500W 80+"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "1x 6+2Pin",
+          "4x SATA",
+          "1x 4+4 EPS",
+          "150mm",
+          "80+",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-10-23T12:31:26.0970288-04:00",
+        "Update": "2023-12-24T02:51:09.6186027-05:00",
+        "Label": "Fuente Raidmax Vortex 600W RX-600AC-V"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "54A",
+          "80+ Bronce",
+          "1x 4+4Pin",
+          "2x 6+2Pin",
+          "6x SATA",
+          "ATX",
+          "PSU"
+        ],
+        "Date": "2023-12-07T22:24:20.3840718-05:00",
+        "Update": "2023-12-24T02:51:09.7279311-05:00",
+        "Label": "Fuente EVGA 650 BP 80+ Bronze"
       }
     ],
     "Disipador Líquido": [
@@ -952,19 +952,6 @@
         "Date": "2023-06-07T13:42:45.011081-04:00",
         "Update": "2023-06-09T16:50:28.8550073-04:00",
         "Label": "Cooler Master Kits LGA 1700"
-      },
-      {
-        "Price": 95.00,
-        "Features": [
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4",
-          "Black"
-        ],
-        "Date": "2023-06-07T10:27:59.8644959-04:00",
-        "Update": "2023-08-29T09:46:35.980577-04:00",
-        "Label": "Corsair Hydro XC7 RGB PRO CPU Water Block"
       },
       {
         "Price": 299.00,
@@ -1225,25 +1212,6 @@
         "Label": "Disipador Líquido Enermax Aquafusion 120 ARGB"
       },
       {
-        "Price": 159.00,
-        "Features": [
-          "1500rpm",
-          "48cfm",
-          "28db",
-          "2xFan",
-          "240mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "LGA 20XX",
-          "AM5",
-          "AM4"
-        ],
-        "Date": "2023-03-27T12:00:05.9787174-04:00",
-        "Update": "2023-11-18T23:49:17.3673461-05:00",
-        "Label": "Disipador Líquido Corsair H100x RGB Elite"
-      },
-      {
         "Price": 595.00,
         "Features": [
           "360mm",
@@ -1259,6 +1227,38 @@
         "Date": "2023-05-11T13:08:17.1127956-04:00",
         "Update": "2023-12-14T07:55:28.8926854-05:00",
         "Label": "Kit Líquido Corsair Hydro XH305i"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4",
+          "Black"
+        ],
+        "Date": "2023-06-07T10:27:59.8644959-04:00",
+        "Update": "2023-12-24T02:51:09.4932969-05:00",
+        "Label": "Corsair Hydro XC7 RGB PRO CPU Water Block"
+      },
+      {
+        "Price": 159.00,
+        "Features": [
+          "1500rpm",
+          "48cfm",
+          "28db",
+          "2xFan",
+          "240mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "LGA 20XX",
+          "AM5",
+          "AM4"
+        ],
+        "Date": "2023-03-27T12:00:05.9787174-04:00",
+        "Update": "2023-12-24T02:51:09.6369235-05:00",
+        "Label": "Disipador Líquido Corsair H100x RGB Elite"
       }
     ],
     "Disco Duro": [
@@ -1289,20 +1289,6 @@
         "Label": "HDD 3.5 Seagate EXOS 12TB Recertified"
       },
       {
-        "Price": 169.00,
-        "Features": [
-          "Enterprise",
-          "7200rpm",
-          "256mb",
-          "Helium",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-09-23T14:09:03.2481261-04:00",
-        "Update": "2023-09-23T15:28:21.227746-04:00",
-        "Label": "HDD 3.5 Seagate EXOS 16TB Recertified"
-      },
-      {
         "Price": 135.00,
         "Features": [
           "Ultrastar DC",
@@ -1325,6 +1311,20 @@
         "Date": "2023-06-29T07:38:17.9677885-04:00",
         "Update": "2023-12-04T16:09:51.4025294-05:00",
         "Label": "HDD 3.5 Seagate Desktop 1TB"
+      },
+      {
+        "Price": 169.00,
+        "Features": [
+          "Enterprise",
+          "7200rpm",
+          "256mb",
+          "Helium",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-09-23T14:09:03.2481261-04:00",
+        "Update": "2023-12-24T02:51:09.5358316-05:00",
+        "Label": "HDD 3.5 Seagate EXOS 16TB Recertified"
       }
     ],
     "Disco Sólido": [
@@ -1363,27 +1363,6 @@
         "Label": "SSD 2.5 Team Group CX2 1TB"
       },
       {
-        "Price": 84.00,
-        "Features": [
-          "560mbps",
-          "600tbw",
-          "SATA 3"
-        ],
-        "Date": "2023-08-01T11:14:15.2077979-04:00",
-        "Update": "2023-11-30T14:28:44.9023135-05:00",
-        "Label": "SSD 2.5 Samsung 870 EVO 1TB"
-      },
-      {
-        "Price": 67.00,
-        "Features": [
-          "560mbs",
-          "SATA 3"
-        ],
-        "Date": "2023-11-24T09:48:53.7194411-05:00",
-        "Update": "2023-12-03T15:39:47.9521384-05:00",
-        "Label": "SSD 2.5 Acer SA100 960GB"
-      },
-      {
         "Price": 149.0,
         "Features": [
           "7000mbs",
@@ -1393,68 +1372,6 @@
         "Date": "2023-09-23T17:40:22.4977195-04:00",
         "Update": "2023-12-08T13:42:07.6535024-05:00",
         "Label": "SSD M.2 Corsair MP600 PRO NH 2TB"
-      },
-      {
-        "Price": 53.00,
-        "Features": [
-          "560mbs",
-          "SATA 3",
-          "160tbw"
-        ],
-        "Date": "2023-11-24T09:48:59.9256442-05:00",
-        "Update": "2023-12-08T13:42:07.7060869-05:00",
-        "Label": "SSD 2.5 Team Group QX 512GB"
-      },
-      {
-        "Price": 89.0,
-        "Features": [
-          "6600MBps",
-          "PCIe 4",
-          "600tbw",
-          "NVMe"
-        ],
-        "Date": "2023-12-07T13:20:30.3520117-05:00",
-        "Update": "2023-12-08T13:42:07.7679758-05:00",
-        "Label": "SSD M.2 Crucial P5 Plus 1TB"
-      },
-      {
-        "Price": 107.0,
-        "Features": [
-          "7100mbps",
-          "HeatSink",
-          "700tbw",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-10-02T14:29:43.5652436-04:00",
-        "Update": "2023-12-08T13:47:00.0029855-05:00",
-        "Label": "SSD M.2 Corsair MP600 PRO LPX 1TB White"
-      },
-      {
-        "Price": 155.0,
-        "Features": [
-          "7100mbs",
-          "1400tbw",
-          "Disipador",
-          "Heatsink",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-11-18T23:52:42.9485178-05:00",
-        "Update": "2023-12-08T13:47:00.0679553-05:00",
-        "Label": "SSD M.2 Corsair MP600 PRO LPX 2TB Black"
-      },
-      {
-        "Price": 69.00,
-        "Features": [
-          "80TBW",
-          "NVMe",
-          "PCIe 3",
-          "2400 MBps"
-        ],
-        "Date": "2023-11-27T09:55:03.5320741-05:00",
-        "Update": "2023-12-08T13:47:00.0834153-05:00",
-        "Label": "SSD M.2 - WD Green SN350 960TB"
       },
       {
         "Price": 95.0,
@@ -1505,18 +1422,6 @@
         "Label": "SSD M.2 WD BLACK SN850X 4TB (7300/6300)"
       },
       {
-        "Price": 83.0,
-        "Features": [
-          "2350mbs",
-          "210tbw",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-12-15T02:02:51.8715106-05:00",
-        "Update": "2023-12-15T03:23:31.7751038-05:00",
-        "Label": "SSD M.2 MSI SPatium M371 1TB (2350/1700)"
-      },
-      {
         "Price": 49.00,
         "Features": [
           "530mbs",
@@ -1526,17 +1431,6 @@
         "Date": "2023-06-07T13:42:02.617071-04:00",
         "Update": "2023-12-19T06:44:55.156303-05:00",
         "Label": "SSD 2.5 Team Group CX1 480GB"
-      },
-      {
-        "Price": 55.00,
-        "Features": [
-          "2100MBps",
-          "PCIe3",
-          "NVMe"
-        ],
-        "Date": "2023-12-07T13:20:39.5602767-05:00",
-        "Update": "2023-12-19T06:44:55.2450761-05:00",
-        "Label": "SSD M.2 HP EX900 500GB"
       },
       {
         "Price": 79.00,
@@ -1549,16 +1443,6 @@
         "Date": "2023-12-19T06:41:55.578723-05:00",
         "Update": "2023-12-19T08:43:12.1245873-05:00",
         "Label": "SSD M.2 TeamGroup MP34 1TB"
-      },
-      {
-        "Price": 73.00,
-        "Features": [
-          "520mbps",
-          "SATA 3"
-        ],
-        "Date": "2023-12-19T06:42:03.8413883-05:00",
-        "Update": "2023-12-19T08:43:12.1706871-05:00",
-        "Label": "SSD 2.5 Patriot P210 1TB"
       },
       {
         "Price": 65.00,
@@ -1580,6 +1464,122 @@
         "Date": "2023-04-09T09:40:07.8060759-04:00",
         "Update": "2023-12-23T17:34:01.3533365-05:00",
         "Label": "SSD 2.5 Team Group DeltaMax RGB 500GB"
+      },
+      {
+        "Price": 84.00,
+        "Features": [
+          "560mbps",
+          "600tbw",
+          "SATA 3"
+        ],
+        "Date": "2023-08-01T11:14:15.2077979-04:00",
+        "Update": "2023-12-24T02:51:09.6672509-05:00",
+        "Label": "SSD 2.5 Samsung 870 EVO 1TB"
+      },
+      {
+        "Price": 67.00,
+        "Features": [
+          "560mbs",
+          "SATA 3"
+        ],
+        "Date": "2023-11-24T09:48:53.7194411-05:00",
+        "Update": "2023-12-24T02:51:09.6856949-05:00",
+        "Label": "SSD 2.5 Acer SA100 960GB"
+      },
+      {
+        "Price": 53.00,
+        "Features": [
+          "560mbs",
+          "SATA 3",
+          "160tbw"
+        ],
+        "Date": "2023-11-24T09:48:59.9256442-05:00",
+        "Update": "2023-12-24T02:51:09.8138193-05:00",
+        "Label": "SSD 2.5 Team Group QX 512GB"
+      },
+      {
+        "Price": 89.0,
+        "Features": [
+          "6600MBps",
+          "PCIe 4",
+          "600tbw",
+          "NVMe"
+        ],
+        "Date": "2023-12-07T13:20:30.3520117-05:00",
+        "Update": "2023-12-24T02:51:09.8295212-05:00",
+        "Label": "SSD M.2 Crucial P5 Plus 1TB"
+      },
+      {
+        "Price": 107.0,
+        "Features": [
+          "7100mbps",
+          "HeatSink",
+          "700tbw",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-10-02T14:29:43.5652436-04:00",
+        "Update": "2023-12-24T02:51:09.8439699-05:00",
+        "Label": "SSD M.2 Corsair MP600 PRO LPX 1TB White"
+      },
+      {
+        "Price": 155.0,
+        "Features": [
+          "7100mbs",
+          "1400tbw",
+          "Disipador",
+          "Heatsink",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-11-18T23:52:42.9485178-05:00",
+        "Update": "2023-12-24T02:51:09.8586263-05:00",
+        "Label": "SSD M.2 Corsair MP600 PRO LPX 2TB Black"
+      },
+      {
+        "Price": 69.00,
+        "Features": [
+          "80TBW",
+          "NVMe",
+          "PCIe 3",
+          "2400 MBps"
+        ],
+        "Date": "2023-11-27T09:55:03.5320741-05:00",
+        "Update": "2023-12-24T02:51:09.875098-05:00",
+        "Label": "SSD M.2 - WD Green SN350 960TB"
+      },
+      {
+        "Price": 83.0,
+        "Features": [
+          "2350mbs",
+          "210tbw",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-12-15T02:02:51.8715106-05:00",
+        "Update": "2023-12-24T02:51:09.8888411-05:00",
+        "Label": "SSD M.2 MSI SPatium M371 1TB"
+      },
+      {
+        "Price": 55.00,
+        "Features": [
+          "2100MBps",
+          "PCIe3",
+          "NVMe"
+        ],
+        "Date": "2023-12-07T13:20:39.5602767-05:00",
+        "Update": "2023-12-24T02:51:09.9251799-05:00",
+        "Label": "SSD M.2 HP EX900 500GB"
+      },
+      {
+        "Price": 73.00,
+        "Features": [
+          "520mbps",
+          "SATA 3"
+        ],
+        "Date": "2023-12-19T06:42:03.8413883-05:00",
+        "Update": "2023-12-24T02:51:09.9408144-05:00",
+        "Label": "SSD 2.5 Patriot P210 1TB"
       }
     ],
     "Disipador por Aire": [
@@ -1634,25 +1634,6 @@
         "Date": "2023-06-07T15:04:28.5510666-04:00",
         "Update": "2023-10-09T17:48:20.8414306-04:00",
         "Label": "Disipador Intel Stock Original"
-      },
-      {
-        "Price": 85.00,
-        "Features": [
-          "ARGB",
-          "4 Head Pipes",
-          "52cfm",
-          "27dba",
-          "154mm",
-          "1800rpm",
-          "AM5",
-          "AM4",
-          "LGA1700",
-          "LGA1200",
-          "LGA115X"
-        ],
-        "Date": "2023-10-18T06:47:53.8475463-04:00",
-        "Update": "2023-10-18T07:33:52.4555278-04:00",
-        "Label": "Disipador Cooler Master 212 Halo White"
       },
       {
         "Price": 65.00,
@@ -1740,6 +1721,25 @@
         "Date": "2023-07-26T18:49:40.2918309-04:00",
         "Update": "2023-11-24T10:20:52.8644278-05:00",
         "Label": "Disipador Thermaltake UX200 SE"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "ARGB",
+          "4 Head Pipes",
+          "52cfm",
+          "27dba",
+          "154mm",
+          "1800rpm",
+          "AM5",
+          "AM4",
+          "LGA1700",
+          "LGA1200",
+          "LGA115X"
+        ],
+        "Date": "2023-10-18T06:47:53.8475463-04:00",
+        "Update": "2023-12-24T02:51:09.5976575-05:00",
+        "Label": "Disipador Cooler Master 212 Halo White"
       }
     ],
     "Microprocesador": [
@@ -2740,66 +2740,6 @@
     ],
     "Board": [
       {
-        "Price": 185.00,
-        "Features": [
-          "AM4",
-          "AMD",
-          "6xSATA",
-          "6xUSB",
-          "DDR4",
-          "4733mhz",
-          "ATX",
-          "PS2",
-          "DVI",
-          "HDMI",
-          "3xAudio"
-        ],
-        "Date": "2023-07-13T11:32:04.6371575-04:00",
-        "Update": "2023-12-07T12:39:13.8547632-05:00",
-        "Label": "Motherboard Gigabyte B550 Gaming X V2"
-      },
-      {
-        "Price": 239.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "7600mhz",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "LGA 1700",
-          "ATX",
-          "PS2",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio",
-          "MOBO"
-        ],
-        "Date": "2023-07-26T18:48:17.6030093-04:00",
-        "Update": "2023-12-08T11:21:36.8850542-05:00",
-        "Label": "Board Gigabyte Z790 UD AX"
-      },
-      {
-        "Price": 279.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "7600mhz",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "LGA 1700",
-          "ATX",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio",
-          "MOBO"
-        ],
-        "Date": "2023-10-03T06:55:49.2464488-04:00",
-        "Update": "2023-12-08T11:21:36.9031533-05:00",
-        "Label": "Board Gigabyte Z790 Aorus Elite AX"
-      },
-      {
         "Price": 189.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -2876,22 +2816,6 @@
         "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
       },
       {
-        "Price": 185.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR4",
-          "5000mhz",
-          "LGA 1700",
-          "x8 USB",
-          "x4 SATA",
-          "ATX",
-          "RGB"
-        ],
-        "Date": "2023-12-04T16:21:54.4596991-05:00",
-        "Update": "2023-12-08T12:55:48.8312461-05:00",
-        "Label": "Board ASRock Z690 Phantom Gaming 4 DDR4"
-      },
-      {
         "Price": 239.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -2928,6 +2852,100 @@
         "Label": "Board Asus ROG Strix B550-F Gaming Wifi II"
       },
       {
+        "Price": 185.00,
+        "Features": [
+          "AM4",
+          "AMD",
+          "6xSATA",
+          "6xUSB",
+          "DDR4",
+          "4733mhz",
+          "ATX",
+          "PS2",
+          "DVI",
+          "HDMI",
+          "3xAudio"
+        ],
+        "Date": "2023-07-13T11:32:04.6371575-04:00",
+        "Update": "2023-12-24T02:51:09.7082747-05:00",
+        "Label": "Motherboard Gigabyte B550 Gaming X V2"
+      },
+      {
+        "Price": 239.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "7600mhz",
+          "Wifi",
+          "9xUSB",
+          "6xSATA",
+          "LGA 1700",
+          "ATX",
+          "PS2",
+          "DisplayPort",
+          "HDMI",
+          "3xAudio",
+          "MOBO"
+        ],
+        "Date": "2023-07-26T18:48:17.6030093-04:00",
+        "Update": "2023-12-24T02:51:09.743264-05:00",
+        "Label": "Board Gigabyte Z790 UD AX"
+      },
+      {
+        "Price": 279.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "7600mhz",
+          "Wifi",
+          "9xUSB",
+          "6xSATA",
+          "LGA 1700",
+          "ATX",
+          "DisplayPort",
+          "HDMI",
+          "3xAudio",
+          "MOBO"
+        ],
+        "Date": "2023-10-03T06:55:49.2464488-04:00",
+        "Update": "2023-12-24T02:51:09.7597099-05:00",
+        "Label": "Board Gigabyte Z790 Aorus Elite AX"
+      },
+      {
+        "Price": 159.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "4800mhz",
+          "DDR4",
+          "6xUSB",
+          "4xSATA",
+          "HDMI",
+          "LGA 1700",
+          "3xAudio",
+          "Micro ATX",
+          "MOBO"
+        ],
+        "Date": "2023-10-16T10:24:36.0269962-04:00",
+        "Update": "2023-12-24T02:51:09.7764317-05:00",
+        "Label": "Board ASRock Z690M Phantom Gaming 4"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR4",
+          "5000mhz",
+          "LGA 1700",
+          "x8 USB",
+          "x4 SATA",
+          "ATX",
+          "RGB"
+        ],
+        "Date": "2023-12-04T16:21:54.4596991-05:00",
+        "Update": "2023-12-24T02:51:09.7940555-05:00",
+        "Label": "Board ASRock Z690 Phantom Gaming 4 DDR4"
+      },
+      {
         "Price": 269.00,
         "Features": [
           "12va-13ra-14ta",
@@ -2944,7 +2962,7 @@
           "MOBO"
         ],
         "Date": "2023-10-16T10:24:22.1843395-04:00",
-        "Update": "2023-12-17T03:15:31.0988119-05:00",
+        "Update": "2023-12-24T02:51:09.9035343-05:00",
         "Label": "Board MSI Z790 Gaming Pro Wifi"
       },
       {
@@ -2963,7 +2981,7 @@
           "MOBO"
         ],
         "Date": "2023-10-11T10:56:24.0277774-04:00",
-        "Update": "2023-12-20T08:56:15.1001257-05:00",
+        "Update": "2023-12-24T02:51:09.9580005-05:00",
         "Label": "Board MSI Pro B760M-P DDR4"
       },
       {
@@ -2981,26 +2999,8 @@
           "Micro-ATX"
         ],
         "Date": "2023-12-17T00:52:07.8205125-05:00",
-        "Update": "2023-12-23T16:48:55.2239398-05:00",
+        "Update": "2023-12-24T02:51:09.9871078-05:00",
         "Label": "Board Gigabyte B760M DS3H DDR4"
-      },
-      {
-        "Price": 159.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "4800mhz",
-          "DDR4",
-          "6xUSB",
-          "4xSATA",
-          "HDMI",
-          "LGA 1700",
-          "3xAudio",
-          "Micro ATX",
-          "MOBO"
-        ],
-        "Date": "2023-10-16T10:24:36.0269962-04:00",
-        "Update": "2023-12-24T02:36:56.2345333-05:00",
-        "Label": "Board ASRock Z690M Phantom Gaming 4"
       }
     ]
   },
