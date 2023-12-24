@@ -8,9 +8,7 @@
     "/images/products/tarjeta-de-video-gigabyte-rtx-4080-gaming-oc-16gb-4.webp",
     "/images/products/tarjeta-de-video-gigabyte-rtx-4080-gaming-oc-16gb-5.webp",
     "/images/products/tarjeta-de-video-gigabyte-rtx-4080-gaming-oc-16gb-6.webp",
-    "/images/products/tarjeta-de-video-gigabyte-rtx-4080-gaming-oc-16gb-7.webp",
-    "/images/products/tarjeta-de-video-gigabyte-rtx-4080-gaming-oc-16gb-8.webp",
-    "/images/products/tarjeta-de-video-gigabyte-rtx-4080-gaming-oc-16gb-9.webp"
+    "/images/products/tarjeta-de-video-gigabyte-rtx-4080-gaming-oc-16gb-7.webp"
   ],
   "Description": "Model\nBrand: GIGABYTE\nSeries: Gaming\nModel: GV-N4080GAMING OC-16GD\n\n\nInterface\nInterface: PCI Express 4.0 x16\n\n\nChipset\nChipset Manufacturer: NVIDIA\nGPU Series: NVIDIA GeForce RTX 40 Series\nGPU: GeForce RTX 4080\nCUDA Cores: 9728\n\n\nMemory\nMemory Size: 16GB\nMemory Interface: 256-Bit\nMemory Type: GDDR6X\n\n\n3D API\nDirectX: DirectX 12\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 1 x HDMI 2.1\nDisplayPort: 3 x DisplayPort 1.4a\n\n\nDetails\nMax Resolution: 7680 x 4320\nCooler: Triple Fans\nThermal Design Power: 320W\nRecommended PSU Wattage: 850W\nPower Connector: 1 x 16-Pin\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 342 mm",
   "Price": 1299.00,
@@ -26,6 +24,6 @@
     "Gráfica"
   ],
   "Date": "2023-08-29T08:42:19.8132967-04:00",
-  "Update": "2023-11-05T10:12:40.513716-05:00",
+  "Update": "2023-12-24T03:17:29.1575677-05:00",
   "Label": "Tarjeta de Video Gigabyte RTX 4080 Gaming OC 16GB"
 }
