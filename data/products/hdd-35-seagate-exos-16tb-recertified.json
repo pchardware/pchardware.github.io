@@ -5,8 +5,7 @@
     "/images/products/hdd-35-seagate-exos-16tb-recertified-1.webp",
     "/images/products/hdd-35-seagate-exos-16tb-recertified-2.webp",
     "/images/products/hdd-35-seagate-exos-16tb-recertified-3.webp",
-    "/images/products/hdd-35-seagate-exos-16tb-recertified-4.webp",
-    "/images/products/hdd-35-seagate-exos-16tb-recertified-5.webp"
+    "/images/products/hdd-35-seagate-exos-16tb-recertified-4.webp"
   ],
   "Description": "Model\nBrand: Seagate\nPackaging: Bare Drive\n\n\nPerformance\nInterface: SATA 6.0Gb/s\nCapacity: 16TB\nRecording Technology: CMR\nRPM: 7200 RPM\nCache: 256MB\nAverage Latency: 4.16ms\n\n\nFeatures\nUsage: For Enterprise Storage\n\n\nDimensions\nForm Factor: 3.5\"",
   "Price": 169.00,
@@ -19,6 +18,6 @@
     "6 Gbps"
   ],
   "Date": "2023-09-23T14:09:03.2481261-04:00",
-  "Update": "2023-09-23T15:28:21.227746-04:00",
+  "Update": "2023-12-24T02:51:09.5358316-05:00",
   "Label": "HDD 3.5 Seagate EXOS 16TB Recertified"
 }
