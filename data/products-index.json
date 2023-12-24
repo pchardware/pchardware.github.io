@@ -690,27 +690,6 @@
         "Label": "Fuente Asus TUF 1000W"
       },
       {
-        "Price": 235.00,
-        "Features": [
-          "ATX 3.0",
-          "80+ Gold",
-          "Full Modular",
-          "Zero RPM",
-          "1x 16Pin",
-          "6x 6+2Pin",
-          "83A",
-          "2x 4+4 EPS",
-          "151mm",
-          "7xSATA",
-          "4x PATA",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-08-08T10:08:04.4203937-04:00",
-        "Update": "2023-10-18T07:33:51.9608239-04:00",
-        "Label": "Fuente Corsair RM1000e 1000W"
-      },
-      {
         "Price": 369.00,
         "Features": [
           "80+ PLATINUM",
@@ -2348,21 +2327,6 @@
         "Date": "2023-11-30T11:15:23.1853847-05:00",
         "Update": "2023-12-11T11:41:50.5313495-05:00",
         "Label": "Tarjeta de Video XFX Speedster SWFT309 RX 6700 XT CORE 12GB"
-      },
-      {
-        "Price": 459.00,
-        "Features": [
-          "2xFan",
-          "1x8Pin",
-          "500WR",
-          "201 mm",
-          "GeForce",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-11-30T11:20:46.1214692-05:00",
-        "Update": "2023-12-11T11:41:50.5520737-05:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4060 Ti WindForce OC 8GB"
       },
       {
         "Price": 275.00,
