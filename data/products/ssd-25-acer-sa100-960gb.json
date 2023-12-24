@@ -5,8 +5,7 @@
     "/images/products/ssd-25-acer-sa100-960gb-1.webp",
     "/images/products/ssd-25-acer-sa100-960gb-2.webp",
     "/images/products/ssd-25-acer-sa100-960gb-3.webp",
-    "/images/products/ssd-25-acer-sa100-960gb-4.webp",
-    "/images/products/ssd-25-acer-sa100-960gb-5.webp"
+    "/images/products/ssd-25-acer-sa100-960gb-4.webp"
   ],
   "Description": "Model\nBrand: Acer\nSeries: SA100\nModel: BL.9BWWA.104\nDevice Type: Internal Solid State Drive (SSD)\n\n\nDetails\nForm Factor: 2.5\"\nCapacity: 960GB\nInterface: SATA\n\n\nPerformance\nMax Sequential Read: Up to 560 MBps\nMax Sequential Write: Up to 507 MBps\n\n\nDimensions & Weight\nHeight: 0.27\"\nWidth: 2.76\"\nDepth: 3.94\"\nWeight: 0.09 lb.",
   "Price": 67.00,
@@ -15,6 +14,6 @@
     "SATA 3"
   ],
   "Date": "2023-11-24T09:48:53.7194411-05:00",
-  "Update": "2023-12-03T15:39:47.9521384-05:00",
+  "Update": "2023-12-24T02:51:09.6856949-05:00",
   "Label": "SSD 2.5 Acer SA100 960GB"
 }
