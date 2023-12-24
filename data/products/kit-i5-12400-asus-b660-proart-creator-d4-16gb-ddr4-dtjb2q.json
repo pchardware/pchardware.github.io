@@ -1,0 +1,27 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Moderado",
+  "Images": [
+    "/images/products/kit-i5-12400-asus-b660-proart-creator-d4-16gb-ddr4-dtjb2q-1.webp",
+    "/images/products/kit-i5-12400-asus-b660-proart-creator-d4-16gb-ddr4-dtjb2q-2.webp",
+    "/images/products/kit-i5-12400-asus-b660-proart-creator-d4-16gb-ddr4-dtjb2q-3.webp",
+    "/images/products/kit-i5-12400-asus-b660-proart-creator-d4-16gb-ddr4-dtjb2q-4.webp",
+    "/images/products/kit-i5-12400-asus-b660-proart-creator-d4-16gb-ddr4-dtjb2q-5.webp",
+    "/images/products/kit-i5-12400-asus-b660-proart-creator-d4-16gb-ddr4-dtjb2q-6.webp",
+    "/images/products/kit-i5-12400-asus-b660-proart-creator-d4-16gb-ddr4-dtjb2q-7.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12400 +Disipador\n+ Board Asus B660 ProArt Creator D4\n+ 2x RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz\n",
+  "Price": 459.00,
+  "Features": [
+    "12 Hilos",
+    "6 Core",
+    "4.4GHz",
+    "2x8GB",
+    "CL16",
+    "Disipadas"
+  ],
+  "Date": "2023-12-20T07:42:55.3924642-05:00",
+  "Update": "2023-12-24T02:36:56.3349655-05:00",
+  "Discount": 9.0,
+  "Label": "Kit i5-12400 +Asus B660 ProArt Creator D4 +16GB DDR4 Team T-Force Vulcan Z"
+}
