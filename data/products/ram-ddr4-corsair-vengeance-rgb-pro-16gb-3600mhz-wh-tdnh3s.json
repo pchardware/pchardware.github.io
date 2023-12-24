@@ -6,9 +6,7 @@
     "/images/products/ram-ddr4-corsair-vengeance-rgb-pro-16gb-3600mhz-wh-tdnh3s-2.webp",
     "/images/products/ram-ddr4-corsair-vengeance-rgb-pro-16gb-3600mhz-wh-tdnh3s-3.webp",
     "/images/products/ram-ddr4-corsair-vengeance-rgb-pro-16gb-3600mhz-wh-tdnh3s-4.webp",
-    "/images/products/ram-ddr4-corsair-vengeance-rgb-pro-16gb-3600mhz-wh-tdnh3s-5.webp",
-    "/images/products/ram-ddr4-corsair-vengeance-rgb-pro-16gb-3600mhz-wh-tdnh3s-6.webp",
-    "/images/products/ram-ddr4-corsair-vengeance-rgb-pro-16gb-3600mhz-wh-tdnh3s-7.webp"
+    "/images/products/ram-ddr4-corsair-vengeance-rgb-pro-16gb-3600mhz-wh-tdnh3s-5.webp"
   ],
   "Description": "Model\nBrand: CORSAIR\nSeries: Vengeance RGB Pro\nModel: CMW16GX4M2C3600C18W\n\n\nDetails\nCapacity: 16GB (2 x 8GB)\nType: 288-Pin PC RAM\nSpeed: DDR4 3600 (PC4 28800)\nCAS Latency: 18\nTiming: 18-19-19-39\nVoltage: 1.35V\nECC: No\nMulti-channel Kit: Dual Channel Kit\nColor: White\nHeat Spreader: Anodized Aluminum\nFeatures: Dynamic Multi-Zone RGB Lighting \n10 Ultra-bright RGB LEDs per module.\n\nNext Generation Software \nTake control in CORSAIR iCUE software and synchronize lighting with other CORSAIR RGB products, including CPU coolers, keyboards and fans.\n\nCustom Performance PCB \nProvides the highest signal quality for the greatest level of performance and stability.\n\nTightly Screened Memory \nCarefully screened ICs for extended overclocking potential.\n\nMaximum Bandwidth and Tight Response Times \nOptimized for peak performance on the latest Intel and AMD DDR4 motherboards.\n\nNo Wires Required \nRequires no extra wires or cables for a clean and seamless install.\n\nMaximum bandwidth and tight response time \nOptimized on the latest AMD and Intel DDR4 motherboards.\n\nSupports XMP 2.0 \nA single BIOS setting is all that's required to set your memory to its ideal performance settings, for for optimum performance.\nLED Color: RGB",
   "Price": 87.00,
@@ -18,6 +16,6 @@
     "Disipadas"
   ],
   "Date": "2023-11-14T14:40:06.7826785-05:00",
-  "Update": "2023-11-21T08:20:08.7046589-05:00",
+  "Update": "2023-12-24T03:04:22.5672598-05:00",
   "Label": "RAM DDR4 CORSAIR Vengeance RGB Pro 16GB 3600mhz White"
 }
