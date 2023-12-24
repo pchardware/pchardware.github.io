@@ -8,10 +8,7 @@
     "/images/products/tarjeta-de-video-gigabyte-rtx-3060-ti-vision-8gb-4.webp",
     "/images/products/tarjeta-de-video-gigabyte-rtx-3060-ti-vision-8gb-5.webp",
     "/images/products/tarjeta-de-video-gigabyte-rtx-3060-ti-vision-8gb-6.webp",
-    "/images/products/tarjeta-de-video-gigabyte-rtx-3060-ti-vision-8gb-7.webp",
-    "/images/products/tarjeta-de-video-gigabyte-rtx-3060-ti-vision-8gb-8.webp",
-    "/images/products/tarjeta-de-video-gigabyte-rtx-3060-ti-vision-8gb-9.webp",
-    "/images/products/tarjeta-de-video-gigabyte-rtx-3060-ti-vision-8gb-10.webp"
+    "/images/products/tarjeta-de-video-gigabyte-rtx-3060-ti-vision-8gb-7.webp"
   ],
   "Description": "Model\nBrand: GIGABYTE\nSeries: Vision\nModel: GV-N306TVISION OC-8GD\n\n\nInterface\nInterface: PCI Express 4.0\n\n\nChipset\nChipset Manufacturer: NVIDIA\nGPU Series: NVIDIA GeForce RTX 30 Series\nGPU: GeForce RTX 3060 Ti\nCore Clock: 1755 MHz\nCUDA Cores: 4864 Cores\n\n\nMemory\nEffective Memory Clock: 14000 MHz\nMemory Size: 8GB\nMemory Interface: 256-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12 Ultimate\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 2 x HDMI 2.1\nDisplayPort: 2 x DisplayPort 1.4a\n\n\nDetails\nMax Resolution: 7680 x 4320\nSLI Support: No\nVirtual Reality Ready: Yes\nCooler: WINDFORCE 3X\nRecommended PSU Wattage: 650W\nPower Connector: 1 x 6-Pin, 1 x 8-Pin\n\n\nFeatures\nFeatures: NVIDIA Ampere Streaming Multiprocessors\n\n2nd Generation RT Cores\n\n3rd Generation Tensor Cores\n\nPowered by GeForce RTX 3060 Ti\n\nIntegrated with 8GB GDDR6 256-bit memory interface\n\nWINDFORCE 3X Cooling System with alternate spinning fans\n\nRGB Fusion 2.0\n\nProtection metal back plate\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 281 mm\nCard Dimensions (L x H): 11.06\" x 4.53\"\nSlot Width: 2 Slots\n\n\nPackaging\nPackage Contents: Accessories:\nQuick guide\n\n\nAdditional Information\nDate First Available: March 19, 2021",
   "Price": 425.00,
@@ -26,6 +23,6 @@
     "Gráfica"
   ],
   "Date": "2023-11-18T23:52:02.2386638-05:00",
-  "Update": "2023-11-19T11:13:03.9296326-05:00",
+  "Update": "2023-12-24T03:17:29.3319324-05:00",
   "Label": "Tarjeta de Video Gigabyte RTX 3060 Ti Vision 8GB"
 }
