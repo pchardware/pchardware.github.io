@@ -447,13 +447,6 @@
         "Label": "Fan Corsair AR120 RGB, Kit"
       },
       {
-        "Price": 87.00,
-        "Features": [],
-        "Date": "2023-09-02T12:38:41.9633686-04:00",
-        "Update": "2023-09-02T13:38:05.5872004-04:00",
-        "Label": "Corsair Comander Core XT"
-      },
-      {
         "Price": 76.00,
         "Features": [
           "iCUE",
@@ -595,18 +588,6 @@
         "Label": "Acasis Weastlinks 8xSATA"
       },
       {
-        "Price": 19.00,
-        "Features": [
-          "1800rpm",
-          "30dBa",
-          "120mm",
-          "ARGB"
-        ],
-        "Date": "2023-12-07T23:40:08.0174775-05:00",
-        "Update": "2023-12-08T00:14:07.6947182-05:00",
-        "Label": "Fan Cooler Master MasterFan MF120R ARGB"
-      },
-      {
         "Price": 25.00,
         "Features": [
           "1x a 16x",
@@ -624,24 +605,6 @@
         "Label": "Thermalright LGA1700-BCF Black"
       },
       {
-        "Price": 13.00,
-        "Features": [],
-        "Date": "2023-11-03T12:23:39.265693-04:00",
-        "Update": "2023-12-14T07:55:28.9602103-05:00",
-        "Label": "Adapter Phanteks Modular HDD Bracket PH-HDDKT_02"
-      },
-      {
-        "Price": 26.00,
-        "Features": [
-          "RGB",
-          "ARGB",
-          "x8 Fan"
-        ],
-        "Date": "2023-12-15T02:03:00.6236319-05:00",
-        "Update": "2023-12-15T03:23:31.816473-05:00",
-        "Label": "HUB Thermalright Controlador ARGB Fan 8x"
-      },
-      {
         "Price": 37.00,
         "Features": [
           "3x120mm",
@@ -652,6 +615,43 @@
         "Date": "2023-09-11T09:09:09.8558272-04:00",
         "Update": "2023-12-17T03:15:31.0709659-05:00",
         "Label": "Fan Thermalright KIT ARGB"
+      },
+      {
+        "Price": 87.00,
+        "Features": [],
+        "Date": "2023-09-02T12:38:41.9633686-04:00",
+        "Update": "2023-12-24T03:04:22.3802724-05:00",
+        "Label": "Corsair Comander Core XT"
+      },
+      {
+        "Price": 19.00,
+        "Features": [
+          "1800rpm",
+          "30dBa",
+          "120mm",
+          "ARGB"
+        ],
+        "Date": "2023-12-07T23:40:08.0174775-05:00",
+        "Update": "2023-12-24T03:04:22.6539355-05:00",
+        "Label": "Fan Cooler Master MasterFan MF120R ARGB"
+      },
+      {
+        "Price": 13.00,
+        "Features": [],
+        "Date": "2023-11-03T12:23:39.265693-04:00",
+        "Update": "2023-12-24T03:04:22.6968303-05:00",
+        "Label": "Adapter Phanteks Modular HDD Bracket PH-HDDKT_02"
+      },
+      {
+        "Price": 26.00,
+        "Features": [
+          "RGB",
+          "ARGB",
+          "x8 Fan"
+        ],
+        "Date": "2023-12-15T02:03:00.6236319-05:00",
+        "Update": "2023-12-24T03:04:22.7201563-05:00",
+        "Label": "HUB Thermalright Controlador ARGB Fan 8x"
       }
     ],
     "Fuente": [
@@ -703,25 +703,6 @@
         "Label": "Fuente Corsair RM1000X 1000W"
       },
       {
-        "Price": 229.00,
-        "Features": [
-          "80+ Gold",
-          "ATX 3.0",
-          "Full Modular",
-          "83A",
-          "1x 16Pin",
-          "4x 6+2Pin",
-          "2x 4+4 EPS",
-          "5x SATA",
-          "150mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-06-07T15:03:30.731139-04:00",
-        "Update": "2023-10-18T07:33:51.9110198-04:00",
-        "Label": "Fuente Asus TUF 1000W"
-      },
-      {
         "Price": 369.00,
         "Features": [
           "80+ PLATINUM",
@@ -737,27 +718,6 @@
         "Date": "2023-10-02T14:28:39.3910059-04:00",
         "Update": "2023-10-18T07:33:51.9875266-04:00",
         "Label": "Fuente Corsair HX1500i 1500W"
-      },
-      {
-        "Price": 265.00,
-        "Features": [
-          "ATX 3.0",
-          "80+ Gold",
-          "Full Modular",
-          "Zero RPM",
-          "100A",
-          "1x 16Pin",
-          "6x 6+2Pin",
-          "2x 4+4 EPS",
-          "150mm",
-          "7xSATA",
-          "4x PATA",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-10-18T06:47:22.7546286-04:00",
-        "Update": "2023-10-18T07:33:52.296769-04:00",
-        "Label": "Fuente Corsair RM1200e 1200W"
       },
       {
         "Price": 189.00,
@@ -778,24 +738,6 @@
         "Date": "2023-10-18T06:47:45.3587452-04:00",
         "Update": "2023-10-18T07:33:52.4067701-04:00",
         "Label": "Fuente Rosewill CMG1200G5 1200W"
-      },
-      {
-        "Price": 225.00,
-        "Features": [
-          "ATX 3.0",
-          "1x16Pin",
-          "80+ Gold",
-          "Full Modular",
-          "83A",
-          "2x 4+4 EPS",
-          "140mm",
-          "4x 6+2-Pin",
-          "8x SATA",
-          "PSU"
-        ],
-        "Date": "2023-05-11T14:27:13.3514196-04:00",
-        "Update": "2023-10-28T11:51:01.5669565-04:00",
-        "Label": "Fuente Gigabyte UD1000GM 1000W"
       },
       {
         "Price": 79.00,
@@ -843,25 +785,6 @@
         "Date": "2023-06-07T13:43:20.159516-04:00",
         "Update": "2023-11-27T09:23:42.4303768-05:00",
         "Label": "Fuente Corsair RM850e 850W"
-      },
-      {
-        "Price": 285.00,
-        "Features": [
-          "80+ PLATINUM",
-          "ARGB",
-          "Full Modular",
-          "1x 16Pin",
-          "71A",
-          "2x 4+4 EPS",
-          "3x 6+2Pin",
-          "10x SATA",
-          "160mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-08-08T10:02:44.4021387-04:00",
-        "Update": "2023-12-17T03:15:31.0845902-05:00",
-        "Label": "Fuente Asus ROG Thor 850W Platinum II"
       },
       {
         "Price": 79.00,
@@ -938,6 +861,83 @@
         "Date": "2023-12-07T22:24:20.3840718-05:00",
         "Update": "2023-12-24T02:51:09.7279311-05:00",
         "Label": "Fuente EVGA 650 BP 80+ Bronze"
+      },
+      {
+        "Price": 229.00,
+        "Features": [
+          "80+ Gold",
+          "ATX 3.0",
+          "Full Modular",
+          "83A",
+          "1x 16Pin",
+          "4x 6+2Pin",
+          "2x 4+4 EPS",
+          "5x SATA",
+          "150mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-06-07T15:03:30.731139-04:00",
+        "Update": "2023-12-24T03:04:22.401977-05:00",
+        "Label": "Fuente Asus TUF 1000W"
+      },
+      {
+        "Price": 265.00,
+        "Features": [
+          "ATX 3.0",
+          "80+ Gold",
+          "Full Modular",
+          "Zero RPM",
+          "100A",
+          "1x 16Pin",
+          "6x 6+2Pin",
+          "2x 4+4 EPS",
+          "150mm",
+          "7xSATA",
+          "4x PATA",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-10-18T06:47:22.7546286-04:00",
+        "Update": "2023-12-24T03:04:22.4255831-05:00",
+        "Label": "Fuente Corsair RM1200e 1200W"
+      },
+      {
+        "Price": 225.00,
+        "Features": [
+          "ATX 3.0",
+          "1x16Pin",
+          "80+ Gold",
+          "Full Modular",
+          "83A",
+          "2x 4+4 EPS",
+          "140mm",
+          "4x 6+2-Pin",
+          "8x SATA",
+          "PSU"
+        ],
+        "Date": "2023-05-11T14:27:13.3514196-04:00",
+        "Update": "2023-12-24T03:04:22.4714812-05:00",
+        "Label": "Fuente Gigabyte UD1000GM 1000W"
+      },
+      {
+        "Price": 285.00,
+        "Features": [
+          "80+ PLATINUM",
+          "ARGB",
+          "Full Modular",
+          "1x 16Pin",
+          "71A",
+          "2x 4+4 EPS",
+          "3x 6+2Pin",
+          "10x SATA",
+          "160mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-08-08T10:02:44.4021387-04:00",
+        "Update": "2023-12-24T03:04:22.7650502-05:00",
+        "Label": "Fuente Asus ROG Thor 850W Platinum II"
       }
     ],
     "Disipador Líquido": [
@@ -1812,23 +1812,6 @@
         "Label": "Micro Intel Core i7-14700K"
       },
       {
-        "Price": 599.00,
-        "Features": [
-          "13ra Gen",
-          "32 Hilos",
-          "24 Core",
-          "5.7GHz",
-          "30MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-03-22T09:04:16.5699219-04:00",
-        "Update": "2023-10-31T23:27:31.1992336-04:00",
-        "Label": "Micro Intel Core i9-13900K"
-      },
-      {
         "Price": 325.00,
         "Features": [
           "13ra Gen",
@@ -1898,22 +1881,6 @@
         "Label": "Micro AMD Ryzen 5 5600G +Disipador"
       },
       {
-        "Price": 189.00,
-        "Features": [
-          "AM4",
-          "6 Core",
-          "12 Hilos",
-          "DDR4",
-          "4.6GHz",
-          "Unlocked",
-          "Serie 5000",
-          "CPU"
-        ],
-        "Date": "2023-11-30T11:20:49.6412308-05:00",
-        "Update": "2023-12-05T16:42:29.8142126-05:00",
-        "Label": "CPU AMD Ryzen 5 5600X +Disipador"
-      },
-      {
         "Price": 215.00,
         "Features": [
           "5000 Series",
@@ -1960,6 +1927,39 @@
         "Date": "2023-02-17T09:45:29.425139-05:00",
         "Update": "2023-12-24T02:36:56.2598164-05:00",
         "Label": "Micro Intel Core i5-12400 +Disipador"
+      },
+      {
+        "Price": 599.00,
+        "Features": [
+          "13ra Gen",
+          "32 Hilos",
+          "24 Core",
+          "5.7GHz",
+          "30MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-03-22T09:04:16.5699219-04:00",
+        "Update": "2023-12-24T03:04:22.4954685-05:00",
+        "Label": "Micro Intel Core i9-13900K"
+      },
+      {
+        "Price": 189.00,
+        "Features": [
+          "AM4",
+          "6 Core",
+          "12 Hilos",
+          "DDR4",
+          "4.6GHz",
+          "Unlocked",
+          "Serie 5000",
+          "CPU"
+        ],
+        "Date": "2023-11-30T11:20:49.6412308-05:00",
+        "Update": "2023-12-24T03:04:22.5974341-05:00",
+        "Label": "CPU AMD Ryzen 5 5600X +Disipador"
       }
     ],
     "Memoria RAM": [
@@ -2008,17 +2008,6 @@
         "Label": "RAM DDR5 G.Skill Flare X5 32GB 6000mhz"
       },
       {
-        "Price": 32.00,
-        "Features": [
-          "1x8GB",
-          "CL16",
-          "Disipadas"
-        ],
-        "Date": "2023-10-16T10:24:18.3365215-04:00",
-        "Update": "2023-10-24T17:16:59.0523113-04:00",
-        "Label": "RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz"
-      },
-      {
         "Price": 139.00,
         "Features": [
           "2x16GB",
@@ -2039,17 +2028,6 @@
         "Date": "2023-10-13T09:28:52.4115364-04:00",
         "Update": "2023-10-31T23:27:31.078534-04:00",
         "Label": "RAM DDR5 G.Skill Flare X5 64GB 6000mhz"
-      },
-      {
-        "Price": 145.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL36"
-        ],
-        "Date": "2023-05-11T08:37:56.7258334-04:00",
-        "Update": "2023-11-05T07:47:36.7079821-05:00",
-        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       },
       {
         "Price": 175.00,
@@ -2074,17 +2052,6 @@
         "Label": "RAM DDR5 Corsair Vengeance 32GB 7000mhz"
       },
       {
-        "Price": 205.00,
-        "Features": [
-          "2x16GB",
-          "CL34",
-          "Disipadas"
-        ],
-        "Date": "2023-11-06T10:30:08.3285573-05:00",
-        "Update": "2023-11-06T11:07:44.0403353-05:00",
-        "Label": "RAM DDR5 Corsair Dominator Titanium RGB 32GB 7200mhz"
-      },
-      {
         "Price": 109.00,
         "Features": [
           "2x16GB",
@@ -2105,17 +2072,6 @@
         "Date": "2023-11-16T18:51:45.5920377-05:00",
         "Update": "2023-11-16T18:53:02.3540631-05:00",
         "Label": "RAM DDR5 G.Skill Ripjaws S5 16GB 6000mhz"
-      },
-      {
-        "Price": 87.00,
-        "Features": [
-          "2x8GB",
-          "CL18",
-          "Disipadas"
-        ],
-        "Date": "2023-11-14T14:40:06.7826785-05:00",
-        "Update": "2023-11-21T08:20:08.7046589-05:00",
-        "Label": "RAM DDR4 CORSAIR Vengeance RGB Pro 16GB 3600mhz White"
       },
       {
         "Price": 115.00,
@@ -2151,6 +2107,50 @@
         "Label": "RAM DDR4 Silicon Power Turbine RGB 32GB 3200mhz"
       },
       {
+        "Price": 32.00,
+        "Features": [
+          "1x8GB",
+          "CL16",
+          "Disipadas"
+        ],
+        "Date": "2023-10-16T10:24:18.3365215-04:00",
+        "Update": "2023-12-24T03:04:22.448173-05:00",
+        "Label": "RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "2x16GB",
+          "Disipadas",
+          "CL36"
+        ],
+        "Date": "2023-05-11T08:37:56.7258334-04:00",
+        "Update": "2023-12-24T03:04:22.519621-05:00",
+        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 205.00,
+        "Features": [
+          "2x16GB",
+          "CL34",
+          "Disipadas"
+        ],
+        "Date": "2023-11-06T10:30:08.3285573-05:00",
+        "Update": "2023-12-24T03:04:22.5432237-05:00",
+        "Label": "RAM DDR5 Corsair Dominator Titanium RGB 32GB 7200mhz"
+      },
+      {
+        "Price": 87.00,
+        "Features": [
+          "2x8GB",
+          "CL18",
+          "Disipadas"
+        ],
+        "Date": "2023-11-14T14:40:06.7826785-05:00",
+        "Update": "2023-12-24T03:04:22.5672598-05:00",
+        "Label": "RAM DDR4 CORSAIR Vengeance RGB Pro 16GB 3600mhz White"
+      },
+      {
         "Price": 109.00,
         "Features": [
           "2x16GB",
@@ -2158,7 +2158,7 @@
           "CL18"
         ],
         "Date": "2023-11-30T11:21:51.4573961-05:00",
-        "Update": "2023-12-23T16:36:34.0698298-05:00",
+        "Update": "2023-12-24T03:04:22.8308994-05:00",
         "Label": "RAM DDR4 CORSAIR Vengeance RGB Pro 32GB"
       }
     ],
@@ -2377,22 +2377,6 @@
         "Label": "Tarjeta de Video XFX Speedster SWFT309 RX 6700 XT CORE 12GB"
       },
       {
-        "Price": 275.00,
-        "Features": [
-          "2xFan",
-          "1x8Pin",
-          "500WR",
-          "243mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-09-23T14:08:44.7733868-04:00",
-        "Update": "2023-12-12T04:01:09.6507581-05:00",
-        "Label": "Tarjeta de Video Asus Dual RX 6600 8GB"
-      },
-      {
         "Price": 539.00,
         "Features": [
           "3xFan",
@@ -2407,23 +2391,6 @@
         "Date": "2023-12-15T02:02:40.5357401-05:00",
         "Update": "2023-12-15T03:23:31.7571927-05:00",
         "Label": "Tarjeta de Video XFX Swift 319 RX 6800 16GB"
-      },
-      {
-        "Price": 259.00,
-        "Features": [
-          "8GB",
-          "3xFan",
-          "1x8Pin",
-          "500WR",
-          "282mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-05-11T19:24:18.7527581-04:00",
-        "Update": "2023-12-15T12:33:48.4822952-05:00",
-        "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X 8GB"
       },
       {
         "Price": 379.00,
@@ -2547,22 +2514,6 @@
         "Label": "MSI RTX 3060 Ventus 2x OC 8GB"
       },
       {
-        "Price": 255.00,
-        "Features": [
-          "1x8Pin",
-          "500WR",
-          "190mm",
-          "1xFan",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-12-07T23:40:36.0331524-05:00",
-        "Update": "2023-12-21T09:57:22.3651378-05:00",
-        "Label": "Tarjeta de Video EVGA RTX 2060 Gaming 6GB"
-      },
-      {
         "Price": 295.00,
         "Features": [
           "2xFan",
@@ -2579,6 +2530,39 @@
         "Label": "Tarjeta de Video Gigabyte RTX 3050 WindForce OC 8GB"
       },
       {
+        "Price": 275.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "500WR",
+          "243mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-09-23T14:08:44.7733868-04:00",
+        "Update": "2023-12-24T03:04:22.6752642-05:00",
+        "Label": "Tarjeta de Video Asus Dual RX 6600 8GB"
+      },
+      {
+        "Price": 259.00,
+        "Features": [
+          "8GB",
+          "3xFan",
+          "1x8Pin",
+          "500WR",
+          "282mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-05-11T19:24:18.7527581-04:00",
+        "Update": "2023-12-24T03:04:22.7423863-05:00",
+        "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X 8GB"
+      },
+      {
         "Price": 285.00,
         "Features": [
           "3xFan",
@@ -2591,8 +2575,24 @@
           "Gráfica"
         ],
         "Date": "2023-11-18T23:52:05.1129043-05:00",
-        "Update": "2023-12-24T02:36:56.2859922-05:00",
+        "Update": "2023-12-24T03:04:22.7871831-05:00",
         "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 XT Eagle 8GB"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "1x8Pin",
+          "500WR",
+          "190mm",
+          "1xFan",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-12-07T23:40:36.0331524-05:00",
+        "Update": "2023-12-24T03:04:22.8086719-05:00",
+        "Label": "Tarjeta de Video EVGA RTX 2060 Gaming 6GB"
       }
     ],
     "Chasis": [
@@ -2734,7 +2734,7 @@
           "5.8 GHz"
         ],
         "Date": "2023-12-04T16:21:27.4025597-05:00",
-        "Update": "2023-12-07T12:39:13.9484247-05:00",
+        "Update": "2023-12-24T03:04:22.6302241-05:00",
         "Label": "Rosewill Dual Band AC1300 Wireless"
       }
     ],
