@@ -5,8 +5,7 @@
     "/images/products/fan-cooler-master-masterfan-mf120r-argb-1.webp",
     "/images/products/fan-cooler-master-masterfan-mf120r-argb-2.webp",
     "/images/products/fan-cooler-master-masterfan-mf120r-argb-3.webp",
-    "/images/products/fan-cooler-master-masterfan-mf120r-argb-4.webp",
-    "/images/products/fan-cooler-master-masterfan-mf120r-argb-5.webp"
+    "/images/products/fan-cooler-master-masterfan-mf120r-argb-4.webp"
   ],
   "Description": "Model\nBrand: COOLER MASTER\nSeries: MasterFan MF120 Halo\nModel: MFL-B2DN-183PA-R1\n\n\nDetails\nFan Counts: 1 Fan\nType: Case Fan\nCompatibility: Case\nFan Size: 120 mm\nFan Thickness: 25mm\nBearing Type: Rifle Bearing\nRPM: 650 - 1800 RPM +/- 10%\nAir Flow: 47.2 CFM +/- 10%\nNoise Level: 6 -30 dBA\nPower Connector: 4-Pin PWM\nColor: Black\nLED: Addressable RGB\n\n\nFeatures\nFeatures: Duo-Ring Addressable RGB Lighting: 24 Individually Controlled ARGB LEDs for a stunning visual effect.\n\nPerformance Engineered: Hybrid Static Pressure blade design to tackle resistances in CPU liquid radiator, low-noise or mesh chassis ventilation while boosting overall airflow \n\nSilent Cooling Technology: Noise Reduction Technology and Sound Absorbing Materials for a quieter and longer lifespan cooling solution \n\nPWM Fan Control: Dynamic speed adjustment between 650 rpm to 1,800 rpm, minimizing noise or maximizing airflow\n\nCertified Compatibility: Compatible with most of Addressable RGB capable motherboards Aura, Mystic Light and Polychome Sync \n\nIncluded: MF120 Halo 120mm fan\n\n\nDimensions & Weight\nDimensions: 120 x 120 x 25 mm  (4.7\" x 4.7\" x 1\")",
   "Price": 19.00,
@@ -17,6 +16,6 @@
     "ARGB"
   ],
   "Date": "2023-12-07T23:40:08.0174775-05:00",
-  "Update": "2023-12-08T00:14:07.6947182-05:00",
+  "Update": "2023-12-24T03:04:22.6539355-05:00",
   "Label": "Fan Cooler Master MasterFan MF120R ARGB"
 }
