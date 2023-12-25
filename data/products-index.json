@@ -703,23 +703,6 @@
         "Label": "Fuente Corsair RM1000X 1000W"
       },
       {
-        "Price": 369.00,
-        "Features": [
-          "80+ PLATINUM",
-          "125A",
-          "9x 6+2Pin",
-          "3x 4+4 EPS",
-          "Full Modular",
-          "200mm",
-          "8x SATA",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-10-02T14:28:39.3910059-04:00",
-        "Update": "2023-10-18T07:33:51.9875266-04:00",
-        "Label": "Fuente Corsair HX1500i 1500W"
-      },
-      {
         "Price": 189.00,
         "Features": [
           "PCIe 5.0",
@@ -4124,22 +4107,6 @@
         "Date": "2023-08-20T10:12:36.7139467-04:00",
         "Update": "2023-12-24T03:38:07.2169266-05:00",
         "Label": "Monitor Acer 27\" 100Hz 1ms VA"
-      },
-      {
-        "Price": 295.00,
-        "Features": [
-          "8Bit",
-          "FRC",
-          "Gaming",
-          "1080p",
-          "FHD",
-          "DP",
-          "Flat",
-          "250nit"
-        ],
-        "Date": "2023-11-03T12:23:06.3579366-04:00",
-        "Update": "2023-12-24T03:38:07.2411067-05:00",
-        "Label": "Monitor MSI 24\" 170Hz IPS 1ms A.Ajustable"
       },
       {
         "Price": 335.00,
