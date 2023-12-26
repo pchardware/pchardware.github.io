@@ -72,14 +72,6 @@
         "Label": "Torre RX 6750 XT 12GB +Ryzen 5 5600X +B550 Gaming X V2 +32GB DDR4 Corsair +850W"
       },
       {
-        "Price": 1709.00,
-        "Features": [],
-        "Date": "2023-12-21T08:54:43.5586699-05:00",
-        "Update": "2023-12-21T10:03:22.3977855-05:00",
-        "Discount": 33.0,
-        "Label": "Torre i7-12700K +ROG Strix Z690-E Gaming +32GB DDR5 TridenZ +850W +Chasis"
-      },
-      {
         "Price": 1435.00,
         "Features": [],
         "Date": "2023-12-23T03:03:11.3130204-05:00",
@@ -2511,23 +2503,6 @@
         "Date": "2023-12-15T02:02:40.5357401-05:00",
         "Update": "2023-12-24T03:17:29.4282392-05:00",
         "Label": "Tarjeta de Video XFX Swift 319 RX 6800 16GB"
-      },
-      {
-        "Price": 395.00,
-        "Features": [
-          "DLSS3",
-          "3xFan",
-          "1x8Pin",
-          "450WR",
-          "281mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-11-18T08:41:51.2623418-05:00",
-        "Update": "2023-12-24T03:17:29.4502577-05:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4060 Gaming OC 8GB"
       },
       {
         "Price": 395.00,
