@@ -24,6 +24,14 @@
         "Update": "2023-12-23T02:58:43.8605439-05:00",
         "Discount": 37.0,
         "Label": "PC RX 6600 8GB +Ryzen 5 5600X +B550 Gaming X V2 +16GB DDR4 +500GB M.2 + Acer 24\""
+      },
+      {
+        "Price": 1789.00,
+        "Features": [],
+        "Date": "2023-12-20T23:07:39.8479527-05:00",
+        "Update": "2023-12-26T05:53:14.6756738-05:00",
+        "Discount": 50.0,
+        "Label": "PC Gamer RX 7600 8GB +i7-12700K +Z790 UD AX +32GB Corsair +1TB M.2 +Acer 24\""
       }
     ],
     "Pro": [
@@ -3196,6 +3204,21 @@
         "Date": "2023-11-24T09:48:41.1259622-05:00",
         "Update": "2023-12-24T03:38:07.0984073-05:00",
         "Label": "Teclado Logitech K380 TKL Wireless"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "Mecánico",
+          "RGB",
+          "Aluminio",
+          "Gaming",
+          "Palm rest",
+          "Multimedia",
+          "USB"
+        ],
+        "Date": "2023-08-01T11:15:29.6304071-04:00",
+        "Update": "2023-12-26T05:53:14.6112975-05:00",
+        "Label": "Teclado NZXT Function TKL"
       }
     ],
     "Adaptador": [
@@ -3842,6 +3865,24 @@
         "Date": "2023-09-23T14:08:54.0159291-04:00",
         "Update": "2023-12-08T14:08:33.4767149-05:00",
         "Label": "Auriculares Corsair VOID RGB Elite Wireless White"
+      },
+      {
+        "Price": 139.00,
+        "Features": [
+          "Noise Control",
+          "7.1",
+          "16H",
+          "iCUE",
+          "20Hz-20KHz",
+          "50mm",
+          "Inalámbrico",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-11-03T12:23:45.8463765-04:00",
+        "Update": "2023-12-26T05:53:14.626863-05:00",
+        "Label": "Auriculares Corsair HS70 Pro Wireless"
       }
     ],
     "Webcam": [
@@ -4133,6 +4174,19 @@
         "Date": "2023-08-20T10:12:32.3834228-04:00",
         "Update": "2023-12-24T03:38:07.3470026-05:00",
         "Label": "Monitor Gigabyte 27\" 1440p 144Hz IPS 1ms A.Ajustable 350nit 2xUSB3 SPK"
+      }
+    ],
+    "Backup": [
+      {
+        "Price": 139.00,
+        "Features": [
+          "120V",
+          "255 Watts",
+          "6 Salidas"
+        ],
+        "Date": "2023-05-12T07:53:07.7837276-04:00",
+        "Update": "2023-12-26T05:53:14.6497358-05:00",
+        "Label": "Backup APC BE425M 425VA"
       }
     ]
   }
