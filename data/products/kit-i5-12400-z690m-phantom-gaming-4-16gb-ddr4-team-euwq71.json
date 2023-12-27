@@ -1,0 +1,27 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Moderado",
+  "Images": [
+    "/images/products/kit-i5-12400-z690m-phantom-gaming-4-16gb-ddr4-team-euwq71-1.webp",
+    "/images/products/kit-i5-12400-z690m-phantom-gaming-4-16gb-ddr4-team-euwq71-2.webp",
+    "/images/products/kit-i5-12400-z690m-phantom-gaming-4-16gb-ddr4-team-euwq71-3.webp",
+    "/images/products/kit-i5-12400-z690m-phantom-gaming-4-16gb-ddr4-team-euwq71-4.webp",
+    "/images/products/kit-i5-12400-z690m-phantom-gaming-4-16gb-ddr4-team-euwq71-5.webp",
+    "/images/products/kit-i5-12400-z690m-phantom-gaming-4-16gb-ddr4-team-euwq71-6.webp",
+    "/images/products/kit-i5-12400-z690m-phantom-gaming-4-16gb-ddr4-team-euwq71-7.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12400 +Disipador\n+ Board ASRock Z690M Phantom Gaming 4\n+ RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz\n",
+  "Price": 399.00,
+  "Features": [
+    "12 Hilos",
+    "6 Core",
+    "2x8GB",
+    "CL16",
+    "6xUSB",
+    "4xSATA"
+  ],
+  "Date": "2023-12-27T07:15:23.5179537-05:00",
+  "Update": "2023-12-27T07:19:59.5100473-05:00",
+  "Discount": 7.0,
+  "Label": "Kit i5-12400 +Z690M Phantom Gaming 4 + 16GB DDR4 Team T-Force Vulcan Z"
+}
