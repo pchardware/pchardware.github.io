@@ -34,14 +34,6 @@
         "Label": "PC Gamer RX 7600 8GB +i7-12700K +Z790 UD AX +32GB Corsair +1TB M.2 +Acer 24\""
       },
       {
-        "Price": 3385.00,
-        "Features": [],
-        "Date": "2023-12-26T09:11:13.6752925-05:00",
-        "Update": "2023-12-26T09:15:35.239995-05:00",
-        "Discount": 52.0,
-        "Label": "PC RTX 4070 Ti OC 12GB +i9-13900K +ROG Strix Z790-H Gaming +32GB DDR5 +Acer 27\""
-      },
-      {
         "Price": 969.00,
         "Features": [],
         "Date": "2023-12-27T07:03:05.6634519-05:00",
@@ -2267,23 +2259,6 @@
         "Date": "2023-08-29T08:42:19.8132967-04:00",
         "Update": "2023-12-24T03:17:29.1575677-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4080 Gaming OC 16GB"
-      },
-      {
-        "Price": 999.00,
-        "Features": [
-          "DLSS3",
-          "3xFan",
-          "1x16Pin",
-          "750W",
-          "336mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-10-11T10:56:42.3732311-04:00",
-        "Update": "2023-12-24T03:17:29.1806272-05:00",
-        "Label": "Tarjeta de Video Asus ROG Strix RTX 4070 Ti OC 12GB"
       },
       {
         "Price": 315.00,
