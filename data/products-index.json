@@ -49,28 +49,28 @@
         "Discount": 29.0,
         "Label": "PC Ryzen 5 5600G +B550 Gaming X V2 +16GB DDR4 +500GB M.2 +600W +Acer 24\""
       }
-    ],
-    "Pro": [
-      {
-        "Price": 1585.00,
-        "Features": [],
-        "Date": "2023-12-23T03:22:39.0221197-05:00",
-        "Update": "2023-12-23T03:27:47.6904116-05:00",
-        "Discount": 39.0,
-        "Label": "PC i7-13700K +Strix Z790-H Gaming +32GB DDR5 +1TB M.2 +600W + Phanteks+ Acer 24\""
-      }
     ]
   },
   "Torres": {
-    "Gamer": [
+    "Pro": [
       {
-        "Price": 1239.00,
+        "Price": 1149.00,
         "Features": [],
-        "Date": "2023-12-15T11:49:29.8964377-05:00",
-        "Update": "2023-12-15T12:36:17.1134089-05:00",
+        "Date": "2023-12-17T04:05:31.2362407-05:00",
+        "Update": "2023-12-17T04:11:55.5117572-05:00",
         "Discount": 37.0,
-        "Label": "Torre RX 6600 8GB +i5-12600K +Disipador ARGB +Z690 Phantom Gaming 4 + 32GB DDR4"
+        "Label": "Torre RX 6600 8GB +Ryzen 7 5800X +B550 Gaming X +16GB DDR4 +1TB M.2 +650W"
       },
+      {
+        "Price": 989.00,
+        "Features": [],
+        "Date": "2023-12-23T03:29:29.7231239-05:00",
+        "Update": "2023-12-23T03:32:26.283786-05:00",
+        "Discount": 32.0,
+        "Label": "Torre i7-12700K +Cooler Master +Z790 UD AX +32GB DDR5 +500GB M.2+ 600W +Phanteks"
+      }
+    ],
+    "Gamer": [
       {
         "Price": 1395.00,
         "Features": [],
@@ -111,65 +111,10 @@
         "Discount": 22.0,
         "Label": "Torre Ryzen 5 5600G +B550 Gaming X V2 +16GB DDR4 +600W +500GB M.2"
       }
-    ],
-    "Pro": [
-      {
-        "Price": 1149.00,
-        "Features": [],
-        "Date": "2023-12-17T04:05:31.2362407-05:00",
-        "Update": "2023-12-17T04:11:55.5117572-05:00",
-        "Discount": 37.0,
-        "Label": "Torre RX 6600 8GB +Ryzen 7 5800X +B550 Gaming X +16GB DDR4 +1TB M.2 +650W"
-      },
-      {
-        "Price": 1335.00,
-        "Features": [],
-        "Date": "2023-12-23T03:17:36.309299-05:00",
-        "Update": "2023-12-23T03:20:54.6348625-05:00",
-        "Discount": 31.0,
-        "Label": "Torre i7-13700K +Strix Z790-H Gaming +32GB DDR5 +500GB M.2 +600W +Phanteks"
-      },
-      {
-        "Price": 989.00,
-        "Features": [],
-        "Date": "2023-12-23T03:29:29.7231239-05:00",
-        "Update": "2023-12-23T03:32:26.283786-05:00",
-        "Discount": 32.0,
-        "Label": "Torre i7-12700K +Cooler Master +Z790 UD AX +32GB DDR5 +500GB M.2+ 600W +Phanteks"
-      }
     ]
   },
   "Kits": {
     "Rendimiento": [
-      {
-        "Price": 605.00,
-        "Features": [
-          "10 Core",
-          "16 Hilos",
-          "2x16",
-          "6000mhz",
-          "Wifi"
-        ],
-        "Date": "2023-12-03T11:09:06.1898487-05:00",
-        "Update": "2023-12-03T15:39:47.9863171-05:00",
-        "Discount": 8.0,
-        "Label": "Kit i5-12600K + Board Gigabyte Z790 Aorus Elite AX + DDR5 Corsair Vengeance 32GB"
-      },
-      {
-        "Price": 559.00,
-        "Features": [
-          "12va Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "6200mhz",
-          "2x16"
-        ],
-        "Date": "2023-12-03T16:44:54.2642136-05:00",
-        "Update": "2023-12-03T18:06:16.7693712-05:00",
-        "Discount": 8.0,
-        "Label": "Kit i5-12600K + Gigabyte Z790 UD AX + 32GB DDR5 Patriot Viper Venom"
-      },
       {
         "Price": 815.00,
         "Features": [
@@ -326,23 +271,6 @@
       }
     ],
     "Moderado": [
-      {
-        "Price": 465.00,
-        "Features": [
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "2x16GB",
-          "CL16",
-          "Disipadas",
-          "5xUSB",
-          "4xSATA"
-        ],
-        "Date": "2023-12-20T07:22:21.9109929-05:00",
-        "Update": "2023-12-20T08:56:15.1410675-05:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-12600K + MSI Pro B760M-P +32GB DDR4 Silicon Power Turbine RGB"
-      },
       {
         "Price": 699.00,
         "Features": [
@@ -1339,16 +1267,6 @@
         "Label": "HDD 3.5 WD 14TB HC530 Recertified"
       },
       {
-        "Price": 55.00,
-        "Features": [
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-06-29T07:38:17.9677885-04:00",
-        "Update": "2023-12-04T16:09:51.4025294-05:00",
-        "Label": "HDD 3.5 Seagate Desktop 1TB"
-      },
-      {
         "Price": 169.00,
         "Features": [
           "Enterprise",
@@ -1672,29 +1590,6 @@
         "Label": "Disipador Intel Stock Original"
       },
       {
-        "Price": 65.00,
-        "Features": [
-          "ARGB",
-          "63cfm",
-          "4xPipes",
-          "Cobre",
-          "1800rpm",
-          "25dBA",
-          "155mm",
-          "Blanco",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4",
-          "AM5",
-          "Tower",
-          "1xFan"
-        ],
-        "Date": "2023-10-16T10:24:39.6367232-04:00",
-        "Update": "2023-10-28T09:10:46.4417538-04:00",
-        "Label": "Disipador Thermaltake UX200 SE White"
-      },
-      {
         "Price": 67.00,
         "Features": [
           "5 Head Pipes",
@@ -1778,24 +1673,196 @@
         "Label": "Disipador Cooler Master 212 Halo White"
       }
     ],
-    "Microprocesador": [
+    "Memoria RAM": [
       {
-        "Price": 219.00,
+        "Price": 115.00,
         "Features": [
-          "12va Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "20MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
+          "2x16GB",
+          "CL40",
+          "Disipadas"
         ],
-        "Date": "2023-02-17T09:44:28.156292-05:00",
-        "Update": "2023-10-09T17:48:20.7506517-04:00",
-        "Label": "Micro Intel Core i5-12600K"
+        "Date": "2023-05-11T08:38:23.3870937-04:00",
+        "Update": "2023-10-09T17:48:21.1505023-04:00",
+        "Label": "RAM DDR5 Gigabyte AORUS 32GB 5200mhz"
       },
+      {
+        "Price": 109.00,
+        "Features": [
+          "2x16GB",
+          "Disipadas",
+          "CL40"
+        ],
+        "Date": "2023-10-09T15:59:12.4893615-04:00",
+        "Update": "2023-10-09T17:48:21.9673865-04:00",
+        "Label": "RAM DDR5 Patriot Viper Venom 32GB 6200mhz"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "2x16GB",
+          "Disipadas",
+          "CL36"
+        ],
+        "Date": "2023-10-13T09:28:49.0242623-04:00",
+        "Update": "2023-10-13T10:18:40.0718385-04:00",
+        "Label": "RAM DDR5 Corsair Vengeance 32GB 6000mhz"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "2x16GB",
+          "CL36",
+          "Disipadas"
+        ],
+        "Date": "2023-10-23T12:31:52.8124739-04:00",
+        "Update": "2023-10-23T13:18:33.9131624-04:00",
+        "Label": "RAM DDR5 G.Skill Flare X5 32GB 6000mhz"
+      },
+      {
+        "Price": 139.00,
+        "Features": [
+          "2x16GB",
+          "CL36",
+          "Disipadas"
+        ],
+        "Date": "2023-10-02T14:28:55.7243127-04:00",
+        "Update": "2023-10-31T11:23:29.2791521-04:00",
+        "Label": "RAM DDR5 Corsair Vengenance RGB 32GB 6000mhz White"
+      },
+      {
+        "Price": 199.00,
+        "Features": [
+          "2x32GB",
+          "Disipadas",
+          "CL40"
+        ],
+        "Date": "2023-10-13T09:28:52.4115364-04:00",
+        "Update": "2023-10-31T23:27:31.078534-04:00",
+        "Label": "RAM DDR5 G.Skill Flare X5 64GB 6000mhz"
+      },
+      {
+        "Price": 175.00,
+        "Features": [
+          "CL34",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-08-16T09:17:00.7000046-04:00",
+        "Update": "2023-11-06T10:17:44.4174324-05:00",
+        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
+      },
+      {
+        "Price": 139.00,
+        "Features": [
+          "2x16GB",
+          "CL40",
+          "Disipadas"
+        ],
+        "Date": "2023-11-06T10:30:04.8515348-05:00",
+        "Update": "2023-11-06T11:07:44.0284691-05:00",
+        "Label": "RAM DDR5 Corsair Vengeance 32GB 7000mhz"
+      },
+      {
+        "Price": 63.00,
+        "Features": [
+          "1x16GB",
+          "CL30",
+          "Disipadas"
+        ],
+        "Date": "2023-11-16T18:51:45.5920377-05:00",
+        "Update": "2023-11-16T18:53:02.3540631-05:00",
+        "Label": "RAM DDR5 G.Skill Ripjaws S5 16GB 6000mhz"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "2x16GB",
+          "Disipadas",
+          "CL36"
+        ],
+        "Date": "2023-10-09T15:59:22.4913756-04:00",
+        "Update": "2023-12-04T16:09:51.4524889-05:00",
+        "Label": "RAM DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "2x8GB",
+          "Disipadas",
+          "CL18"
+        ],
+        "Date": "2023-03-30T09:55:40.6507732-04:00",
+        "Update": "2023-12-13T18:32:49.787986-05:00",
+        "Label": "RAM DDR4 Corsair Vengeance RGB RT 16GB 3600mhz"
+      },
+      {
+        "Price": 97.00,
+        "Features": [
+          "2x16GB",
+          "CL16",
+          "Disipadas"
+        ],
+        "Date": "2023-11-18T23:52:16.8733847-05:00",
+        "Update": "2023-12-14T07:55:29.0448296-05:00",
+        "Label": "RAM DDR4 Silicon Power Turbine RGB 32GB 3200mhz"
+      },
+      {
+        "Price": 32.00,
+        "Features": [
+          "1x8GB",
+          "CL16",
+          "Disipadas"
+        ],
+        "Date": "2023-10-16T10:24:18.3365215-04:00",
+        "Update": "2023-12-24T03:04:22.448173-05:00",
+        "Label": "RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "2x16GB",
+          "Disipadas",
+          "CL36"
+        ],
+        "Date": "2023-05-11T08:37:56.7258334-04:00",
+        "Update": "2023-12-24T03:04:22.519621-05:00",
+        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 205.00,
+        "Features": [
+          "2x16GB",
+          "CL34",
+          "Disipadas"
+        ],
+        "Date": "2023-11-06T10:30:08.3285573-05:00",
+        "Update": "2023-12-24T03:04:22.5432237-05:00",
+        "Label": "RAM DDR5 Corsair Dominator Titanium RGB 32GB 7200mhz"
+      },
+      {
+        "Price": 87.00,
+        "Features": [
+          "2x8GB",
+          "CL18",
+          "Disipadas"
+        ],
+        "Date": "2023-11-14T14:40:06.7826785-05:00",
+        "Update": "2023-12-24T03:04:22.5672598-05:00",
+        "Label": "RAM DDR4 CORSAIR Vengeance RGB Pro 16GB 3600mhz White"
+      },
+      {
+        "Price": 109.00,
+        "Features": [
+          "2x16GB",
+          "3600mhz",
+          "CL18"
+        ],
+        "Date": "2023-11-30T11:21:51.4573961-05:00",
+        "Update": "2023-12-24T03:04:22.8308994-05:00",
+        "Label": "RAM DDR4 CORSAIR Vengeance RGB Pro 32GB"
+      }
+    ],
+    "Microprocesador": [
       {
         "Price": 405.00,
         "Features": [
@@ -1996,206 +2063,6 @@
         "Date": "2023-11-30T11:20:49.6412308-05:00",
         "Update": "2023-12-24T03:04:22.5974341-05:00",
         "Label": "CPU AMD Ryzen 5 5600X +Disipador"
-      }
-    ],
-    "Memoria RAM": [
-      {
-        "Price": 115.00,
-        "Features": [
-          "2x16GB",
-          "CL40",
-          "Disipadas"
-        ],
-        "Date": "2023-05-11T08:38:23.3870937-04:00",
-        "Update": "2023-10-09T17:48:21.1505023-04:00",
-        "Label": "RAM DDR5 Gigabyte AORUS 32GB 5200mhz"
-      },
-      {
-        "Price": 109.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL40"
-        ],
-        "Date": "2023-10-09T15:59:12.4893615-04:00",
-        "Update": "2023-10-09T17:48:21.9673865-04:00",
-        "Label": "RAM DDR5 Patriot Viper Venom 32GB 6200mhz"
-      },
-      {
-        "Price": 115.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL36"
-        ],
-        "Date": "2023-10-13T09:28:49.0242623-04:00",
-        "Update": "2023-10-13T10:18:40.0718385-04:00",
-        "Label": "RAM DDR5 Corsair Vengeance 32GB 6000mhz"
-      },
-      {
-        "Price": 115.00,
-        "Features": [
-          "2x16GB",
-          "CL36",
-          "Disipadas"
-        ],
-        "Date": "2023-10-23T12:31:52.8124739-04:00",
-        "Update": "2023-10-23T13:18:33.9131624-04:00",
-        "Label": "RAM DDR5 G.Skill Flare X5 32GB 6000mhz"
-      },
-      {
-        "Price": 139.00,
-        "Features": [
-          "2x16GB",
-          "CL36",
-          "Disipadas"
-        ],
-        "Date": "2023-10-02T14:28:55.7243127-04:00",
-        "Update": "2023-10-31T11:23:29.2791521-04:00",
-        "Label": "RAM DDR5 Corsair Vengenance RGB 32GB 6000mhz White"
-      },
-      {
-        "Price": 199.00,
-        "Features": [
-          "2x32GB",
-          "Disipadas",
-          "CL40"
-        ],
-        "Date": "2023-10-13T09:28:52.4115364-04:00",
-        "Update": "2023-10-31T23:27:31.078534-04:00",
-        "Label": "RAM DDR5 G.Skill Flare X5 64GB 6000mhz"
-      },
-      {
-        "Price": 175.00,
-        "Features": [
-          "CL34",
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-08-16T09:17:00.7000046-04:00",
-        "Update": "2023-11-06T10:17:44.4174324-05:00",
-        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
-      },
-      {
-        "Price": 139.00,
-        "Features": [
-          "2x16GB",
-          "CL40",
-          "Disipadas"
-        ],
-        "Date": "2023-11-06T10:30:04.8515348-05:00",
-        "Update": "2023-11-06T11:07:44.0284691-05:00",
-        "Label": "RAM DDR5 Corsair Vengeance 32GB 7000mhz"
-      },
-      {
-        "Price": 109.00,
-        "Features": [
-          "2x16GB",
-          "CL16",
-          "Disipadas"
-        ],
-        "Date": "2023-03-09T12:28:03.6250501-05:00",
-        "Update": "2023-11-07T21:31:51.3600542-05:00",
-        "Label": "RAM DDR4 G.SKILL TridentZ RGB 32GB 3600mhz"
-      },
-      {
-        "Price": 63.00,
-        "Features": [
-          "1x16GB",
-          "CL30",
-          "Disipadas"
-        ],
-        "Date": "2023-11-16T18:51:45.5920377-05:00",
-        "Update": "2023-11-16T18:53:02.3540631-05:00",
-        "Label": "RAM DDR5 G.Skill Ripjaws S5 16GB 6000mhz"
-      },
-      {
-        "Price": 115.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL36"
-        ],
-        "Date": "2023-10-09T15:59:22.4913756-04:00",
-        "Update": "2023-12-04T16:09:51.4524889-05:00",
-        "Label": "RAM DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
-      },
-      {
-        "Price": 85.00,
-        "Features": [
-          "2x8GB",
-          "Disipadas",
-          "CL18"
-        ],
-        "Date": "2023-03-30T09:55:40.6507732-04:00",
-        "Update": "2023-12-13T18:32:49.787986-05:00",
-        "Label": "RAM DDR4 Corsair Vengeance RGB RT 16GB 3600mhz"
-      },
-      {
-        "Price": 97.00,
-        "Features": [
-          "2x16GB",
-          "CL16",
-          "Disipadas"
-        ],
-        "Date": "2023-11-18T23:52:16.8733847-05:00",
-        "Update": "2023-12-14T07:55:29.0448296-05:00",
-        "Label": "RAM DDR4 Silicon Power Turbine RGB 32GB 3200mhz"
-      },
-      {
-        "Price": 32.00,
-        "Features": [
-          "1x8GB",
-          "CL16",
-          "Disipadas"
-        ],
-        "Date": "2023-10-16T10:24:18.3365215-04:00",
-        "Update": "2023-12-24T03:04:22.448173-05:00",
-        "Label": "RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz"
-      },
-      {
-        "Price": 145.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL36"
-        ],
-        "Date": "2023-05-11T08:37:56.7258334-04:00",
-        "Update": "2023-12-24T03:04:22.519621-05:00",
-        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
-      },
-      {
-        "Price": 205.00,
-        "Features": [
-          "2x16GB",
-          "CL34",
-          "Disipadas"
-        ],
-        "Date": "2023-11-06T10:30:08.3285573-05:00",
-        "Update": "2023-12-24T03:04:22.5432237-05:00",
-        "Label": "RAM DDR5 Corsair Dominator Titanium RGB 32GB 7200mhz"
-      },
-      {
-        "Price": 87.00,
-        "Features": [
-          "2x8GB",
-          "CL18",
-          "Disipadas"
-        ],
-        "Date": "2023-11-14T14:40:06.7826785-05:00",
-        "Update": "2023-12-24T03:04:22.5672598-05:00",
-        "Label": "RAM DDR4 CORSAIR Vengeance RGB Pro 16GB 3600mhz White"
-      },
-      {
-        "Price": 109.00,
-        "Features": [
-          "2x16GB",
-          "3600mhz",
-          "CL18"
-        ],
-        "Date": "2023-11-30T11:21:51.4573961-05:00",
-        "Update": "2023-12-24T03:04:22.8308994-05:00",
-        "Label": "RAM DDR4 CORSAIR Vengeance RGB Pro 32GB"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2532,22 +2399,6 @@
         "Date": "2023-11-18T23:52:27.7287787-05:00",
         "Update": "2023-12-24T03:17:29.3777053-05:00",
         "Label": "Tarjeta de Video Asus TUF RX 7700 XT 12GB"
-      },
-      {
-        "Price": 375.00,
-        "Features": [
-          "3xFan",
-          "2 x 8Pin",
-          "650WR",
-          "304mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Grafica"
-        ],
-        "Date": "2023-11-30T11:15:23.1853847-05:00",
-        "Update": "2023-12-24T03:17:29.4020773-05:00",
-        "Label": "Tarjeta de Video XFX Speedster SWFT309 RX 6700 XT CORE 12GB"
       },
       {
         "Price": 539.00,
