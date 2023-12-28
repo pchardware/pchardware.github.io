@@ -2956,6 +2956,40 @@
         "Date": "2023-05-14T10:52:20.5741642-04:00",
         "Update": "2023-12-28T14:06:43.8590913-05:00",
         "Label": "Gigabyte Z790 UD AC"
+      },
+      {
+        "Price": 205.00,
+        "Features": [
+          "AM4",
+          "AMD",
+          "4xSATA",
+          "7xUSB",
+          "6xAudio",
+          "DDR4",
+          "4400mhz",
+          "HDMI",
+          "DisplayPort"
+        ],
+        "Date": "2023-12-28T14:07:10.9940743-05:00",
+        "Update": "2023-12-28T16:17:00.3653352-05:00",
+        "Label": "Board Gigabyte B550 Aorus Elite AX V2"
+      },
+      {
+        "Price": 229.00,
+        "Features": [
+          "AM4",
+          "AMD",
+          "6xSATA",
+          "7xUSB",
+          "6xAudio",
+          "DDR4",
+          "5100mhz",
+          "HDMI",
+          "DisplayPort"
+        ],
+        "Date": "2023-12-28T14:08:17.4889383-05:00",
+        "Update": "2023-12-28T16:17:00.4028227-05:00",
+        "Label": "Board Gigabyte X570S Gaming X"
       }
     ]
   },
