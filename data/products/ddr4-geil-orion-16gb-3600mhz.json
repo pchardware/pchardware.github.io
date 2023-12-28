@@ -1,0 +1,18 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Memoria RAM",
+  "Images": [
+    "/images/products/ddr4-geil-orion-16gb-3600mhz-1.webp",
+    "/images/products/ddr4-geil-orion-16gb-3600mhz-2.webp"
+  ],
+  "Description": "Model\nBrand: GeIL\nSeries: ORION\nModel: GAOG416GB3600C18BDC\n\n\nDetails\nCapacity: 16GB (2 x 8GB)\nType: 288-Pin PC RAM\nSpeed: DDR4 3600 (PC4 28800)\nCAS Latency: 18\nTiming: 18-22-22-42\nVoltage: 1.35V\nMulti-channel Kit: Dual Channel Kit\nBIOS/Performance Profile: Intel XMP 2.0\nColor: Titanium Gray\nHeat Spreader: Yes\nFeatures: Designed for content creators and gamers\n\nKit Capacities up to 64GB\n\nSpeed up to 4000MHz\n\nFeaturing the approximately standard height heat spreaders\n\nPerfect in any case design\n\nSpecifically designed for AMD Ryzen platform providing excellent performance and compatibility\nRecommend Use: AMD &amp; Intel Compatible",
+  "Price": 67.00,
+  "Features": [
+    "2x8GB",
+    "CL18",
+    "Disipadas"
+  ],
+  "Date": "2023-12-28T14:08:12.7297994-05:00",
+  "Update": "2023-12-28T17:08:03.815045-05:00",
+  "Label": "DDR4 GeIL ORION 16GB 3600mhz"
+}
