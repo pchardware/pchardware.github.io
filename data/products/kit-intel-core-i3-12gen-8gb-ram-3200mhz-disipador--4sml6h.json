@@ -1,0 +1,28 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Esencial",
+  "Images": [
+    "/images/products/kit-intel-core-i3-12gen-8gb-ram-3200mhz-disipador--4sml6h-1.webp",
+    "/images/products/kit-intel-core-i3-12gen-8gb-ram-3200mhz-disipador--4sml6h-2.webp",
+    "/images/products/kit-intel-core-i3-12gen-8gb-ram-3200mhz-disipador--4sml6h-3.webp",
+    "/images/products/kit-intel-core-i3-12gen-8gb-ram-3200mhz-disipador--4sml6h-4.webp",
+    "/images/products/kit-intel-core-i3-12gen-8gb-ram-3200mhz-disipador--4sml6h-5.webp",
+    "/images/products/kit-intel-core-i3-12gen-8gb-ram-3200mhz-disipador--4sml6h-6.webp",
+    "/images/products/kit-intel-core-i3-12gen-8gb-ram-3200mhz-disipador--4sml6h-7.webp",
+    "/images/products/kit-intel-core-i3-12gen-8gb-ram-3200mhz-disipador--4sml6h-8.webp",
+    "/images/products/kit-intel-core-i3-12gen-8gb-ram-3200mhz-disipador--4sml6h-9.webp",
+    "/images/products/kit-intel-core-i3-12gen-8gb-ram-3200mhz-disipador--4sml6h-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i3-12100 +Disipador\n+ Board ASRock Z690M Phantom Gaming 4\n+ RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz\n",
+  "Price": 341.00,
+  "Features": [
+    "8 Hilos",
+    "6xUSB",
+    "DDR4",
+    "Disipada"
+  ],
+  "Date": "2023-10-20T08:53:27.1294814-04:00",
+  "Update": "2023-12-28T14:06:43.9934478-05:00",
+  "Discount": 5.0,
+  "Label": "Kit Intel Core i3 12Gen +8GB RAM 3200mhz +Disipador +Board ASRock Z690"
+}
