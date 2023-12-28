@@ -1956,6 +1956,115 @@
         "Date": "2023-11-03T12:23:00.2905889-04:00",
         "Update": "2023-12-28T14:06:43.9565199-05:00",
         "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 7000mhz"
+      },
+      {
+        "Price": 89.00,
+        "Features": [
+          "2x16GB",
+          "CL16",
+          "Disipadas"
+        ],
+        "Date": "2023-12-28T14:07:18.2334884-05:00",
+        "Update": "2023-12-28T17:08:03.6988897-05:00",
+        "Label": "DDR4 Silicon Power Turbine 32GB 3200mhz"
+      },
+      {
+        "Price": 185.00,
+        "Features": [],
+        "Date": "2023-12-28T14:07:23.8098728-05:00",
+        "Update": "2023-12-28T17:08:03.7139916-05:00",
+        "Label": "DDR4 G.Skill TridentZ RGB 64GB (2x32GB) 3600mhz C18"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "2x16GB",
+          "CL18",
+          "Disipadas"
+        ],
+        "Date": "2023-12-28T14:07:27.1052026-05:00",
+        "Update": "2023-12-28T17:08:03.7316603-05:00",
+        "Label": "DDR4 G.SKILL TridentZ RGB 32GB 4000mhz C18"
+      },
+      {
+        "Price": 105.00,
+        "Features": [
+          "2x16GB",
+          "CL18",
+          "Disipadas"
+        ],
+        "Date": "2023-12-28T14:07:31.4096308-05:00",
+        "Update": "2023-12-28T17:08:03.749269-05:00",
+        "Label": "DDR4 G.SKILL Ripjaws V 32GB 4000Mhz"
+      },
+      {
+        "Price": 155.00,
+        "Features": [
+          "2x32GB",
+          "CL22",
+          "Disipadas"
+        ],
+        "Date": "2023-12-28T14:07:45.8653331-05:00",
+        "Update": "2023-12-28T17:08:03.7649818-05:00",
+        "Label": "DDR4 Crucial Pro 64GB 3200mhz"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "2x16GB",
+          "CL36",
+          "Disipadas"
+        ],
+        "Date": "2023-12-28T14:07:59.5464623-05:00",
+        "Update": "2023-12-28T17:08:03.7827803-05:00",
+        "Label": "DDR5 CORSAIR Vengeance RGB 32GB (2x16GB) 6200mhz C36"
+      },
+      {
+        "Price": 199.00,
+        "Features": [],
+        "Date": "2023-12-28T14:08:05.1609945-05:00",
+        "Update": "2023-12-28T17:08:03.7829348-05:00",
+        "Label": "DDR5 Corsair Vengeance RGB 64GB (2x32GB) 5600mhz C36"
+      },
+      {
+        "Price": 93.00,
+        "Features": [
+          "2x16GB",
+          "CL18",
+          "Disipadas"
+        ],
+        "Date": "2023-12-28T14:08:09.113298-05:00",
+        "Update": "2023-12-28T17:08:03.7997452-05:00",
+        "Label": "DDR4 GeIL ORION 32GB 3600mhz"
+      },
+      {
+        "Price": 67.00,
+        "Features": [
+          "2x8GB",
+          "CL18",
+          "Disipadas"
+        ],
+        "Date": "2023-12-28T14:08:12.7297994-05:00",
+        "Update": "2023-12-28T17:08:03.815045-05:00",
+        "Label": "DDR4 GeIL ORION 16GB 3600mhz"
+      },
+      {
+        "Price": 249.00,
+        "Features": [],
+        "Date": "2023-12-28T14:08:48.4813308-05:00",
+        "Update": "2023-12-28T17:08:03.8151415-05:00",
+        "Label": "DDR5 G.Skill Trident Z5 RGB 64GB (2x32GB) 6000mhz C36"
+      },
+      {
+        "Price": 105.00,
+        "Features": [
+          "2x16GB",
+          "CL46",
+          "Disipadas"
+        ],
+        "Date": "2023-12-28T14:08:58.0730318-05:00",
+        "Update": "2023-12-28T17:08:03.8348035-05:00",
+        "Label": "DDR5 Team Group T-CREATE 32GB 5600mhz"
       }
     ],
     "Microprocesador": [
