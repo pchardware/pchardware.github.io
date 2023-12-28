@@ -1,0 +1,28 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Chasis",
+  "Images": [
+    "/images/products/chasis-phanteks-eclipse-p400a-mesh-white-1.webp",
+    "/images/products/chasis-phanteks-eclipse-p400a-mesh-white-2.webp",
+    "/images/products/chasis-phanteks-eclipse-p400a-mesh-white-3.webp",
+    "/images/products/chasis-phanteks-eclipse-p400a-mesh-white-4.webp",
+    "/images/products/chasis-phanteks-eclipse-p400a-mesh-white-5.webp",
+    "/images/products/chasis-phanteks-eclipse-p400a-mesh-white-6.webp"
+  ],
+  "Description": "Model\nBrand: Phanteks\nSeries: Eclipse P400A\nModel: PH-EC400ATG_DWT01\n\n\nDetails\nType: ATX Mid Tower\nColor: White\nCase Material: Steel / Tempered Glass\nWith Power Supply: No\nPower Supply Mounted: Bottom\nMotherboard Compatibility: Micro ATX / ATX / Mini ITX / E-ATX (up to 272mm)\nSide Panel Window: Yes\nLED: RGB\nDust Filters: Bottom / Front\n\n\nExpansion\nInternal 3.5\" Drive Bays: 2\nInternal 2.5\" Drive Bays: 2\nHot-Swap Drive Bays: 0\nExpansion Slots: 7\n\n\nFront Panel Ports\nFront Ports: 2 x USB 3.0 / Audio / D-RGB Mode / D-RGB Color\n\n\nCooling System\nFan Options: Front: 3 x 120mm (3 x 120mm D-RGB fan included) or 2 x 140mm fan\n\nTop: 2 x 120mm or 2 x 140mm fan\n\nRear: 1 x 120mm fan\nRadiator Options: Front - Up to 360mm / Rear - Up to 120mm\n80mm Fans: No\n120mm Fans: No\n140mm Fans: No\nSide Air duct: Yes\n\n\nDimensions & Weight\nMax GPU Length: 420 mm\n280 mm (When HDD brackets installed)\nMax CPU Cooler Height: 160 mm\nMax PSU Length: 270 mm\nDimensions (H x W x D): 18.30\" x 8.30\" x 18.50\"\nWeight: 15.40 lbs.\n\n\nAdditional Info\nFeatures: The Phanteks Eclipse P400A breathes performance with its full metal mesh front panel. Thanks to engineering improvements we have been able to create an Ultra-Fine Performance Mesh that brings the best possible performance while keeping dust from entering the system.",
+  "Price": 245.00,
+  "Features": [
+    "Vertical",
+    "Tempered Glass",
+    "Mesh",
+    "3xFan",
+    "Gamer",
+    "Mid Tower",
+    "ATX",
+    "2xHDD",
+    "Blanco"
+  ],
+  "Date": "2023-12-28T14:07:38.0093413-05:00",
+  "Update": "2023-12-28T16:21:40.6398664-05:00",
+  "Label": "Chasis Phanteks Eclipse P400A Mesh White"
+}
