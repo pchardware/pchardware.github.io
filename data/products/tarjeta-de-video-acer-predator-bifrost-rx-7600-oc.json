@@ -1,0 +1,26 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/tarjeta-de-video-acer-predator-bifrost-rx-7600-oc-1.webp",
+    "/images/products/tarjeta-de-video-acer-predator-bifrost-rx-7600-oc-2.webp",
+    "/images/products/tarjeta-de-video-acer-predator-bifrost-rx-7600-oc-3.webp",
+    "/images/products/tarjeta-de-video-acer-predator-bifrost-rx-7600-oc-4.webp",
+    "/images/products/tarjeta-de-video-acer-predator-bifrost-rx-7600-oc-5.webp"
+  ],
+  "Description": "Model\nBrand: Acer\nSeries: BiFrost\nModel: DP.Z36WW.P02\n\n\nInterface\nInterface: PCI Express 4.0 x8\n\n\nChipset\nChipset Manufacturer: AMD\nGPU Series: AMD Radeon RX 7000 Series\nGPU: Radeon RX 7600\nArchitecture: RDNA 3\nGame Clock: 2320\nBoost Clock: 2725\nStream Processors: 2048 Stream Processors\n\n\nMemory\nMemory Size: 8GB\nMemory Interface: 128-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12 Ultimate\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 1 x HDMI 2.1\nDisplayPort: 3 x DisplayPort 1.4\n\n\nDetails\nMax Resolution: 7680 x 4320\nCooler: Double Fans\nThermal Design Power: 180W\nRecommended PSU Wattage: 550W\nPower Connector: 8-Pin\nHDCP Ready: Yes\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 328 mm\nSlot Width: 2 Slots",
+  "Price": 329.00,
+  "Features": [
+    "1xFan",
+    "1x8Pin",
+    "550WR",
+    "PCIe4",
+    "GeForce",
+    "NVIDIA",
+    "GPU",
+    "Gráfica"
+  ],
+  "Date": "2023-12-28T14:07:53.0091888-05:00",
+  "Update": "2023-12-28T17:18:21.9745311-05:00",
+  "Label": "Tarjeta de Video Acer Predator BiFrost RX 7600 OC"
+}
