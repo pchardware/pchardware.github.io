@@ -2667,6 +2667,22 @@
         "Date": "2023-04-09T07:40:21.1128823-04:00",
         "Update": "2023-12-24T03:17:29.5229843-05:00",
         "Label": "MSI RTX 3060 Ventus 2x OC 8GB"
+      },
+      {
+        "Price": 329.00,
+        "Features": [
+          "1xFan",
+          "1x8Pin",
+          "550WR",
+          "PCIe4",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-12-28T14:07:53.0091888-05:00",
+        "Update": "2023-12-28T17:18:21.9745311-05:00",
+        "Label": "Tarjeta de Video Acer Predator BiFrost RX 7600 OC"
       }
     ],
     "Chasis": [
@@ -4381,6 +4397,21 @@
         "Date": "2023-08-20T10:12:32.3834228-04:00",
         "Update": "2023-12-24T03:38:07.3470026-05:00",
         "Label": "Monitor Gigabyte 27\" 1440p 144Hz IPS 1ms A.Ajustable 350nit 2xUSB3 SPK"
+      },
+      {
+        "Price": 259.00,
+        "Features": [
+          "165Hz",
+          "350nit",
+          "1ms",
+          "FHD",
+          "Flat",
+          "1080p",
+          "VA"
+        ],
+        "Date": "2023-12-28T14:08:53.0334804-05:00",
+        "Update": "2023-12-28T17:18:21.9910378-05:00",
+        "Label": "Monitor AOC 24FHD 165Hz VA 1ms 350nit [24G2SE]"
       }
     ],
     "Backup": [
