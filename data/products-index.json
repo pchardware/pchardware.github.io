@@ -41,6 +41,24 @@
         "Discount": 29.0,
         "Label": "PC Ryzen 5 5600G +B550 Gaming X V2 +16GB DDR4 +500GB M.2 +600W +Acer 24\""
       }
+    ],
+    "Multimedia": [
+      {
+        "Price": 905.00,
+        "Features": [],
+        "Date": "2023-12-15T11:02:37.8804704-05:00",
+        "Update": "2023-12-28T14:06:44.0106751-05:00",
+        "Discount": 30.0,
+        "Label": "PC i3-12100 +B760M-P +8GB DDR4 +500GB M.2 + 600W + Acer 24\" +Ratón y Teclado"
+      },
+      {
+        "Price": 911.00,
+        "Features": [],
+        "Date": "2023-12-15T11:05:53.1509612-05:00",
+        "Update": "2023-12-28T14:06:44.0257325-05:00",
+        "Discount": 30.0,
+        "Label": "PC i3-12100 +Z690M +8GB DDR4 +1TB M.2 +600W +Acer 24\" +Ratón y Teclado"
+      }
     ]
   },
   "Torres": {
@@ -102,6 +120,16 @@
         "Update": "2023-12-27T07:13:47.0805184-05:00",
         "Discount": 22.0,
         "Label": "Torre Ryzen 5 5600G +B550 Gaming X V2 +16GB DDR4 +600W +500GB M.2"
+      }
+    ],
+    "Multimedia": [
+      {
+        "Price": 645.00,
+        "Features": [],
+        "Date": "2023-12-17T05:53:12.6492212-05:00",
+        "Update": "2023-12-28T14:06:44.0399664-05:00",
+        "Discount": 22.0,
+        "Label": "Torre i3-12100 +B760M +16GB DDR4 +1TB M.2 +600W + Chasis Cooler Master"
       }
     ]
   },
@@ -337,6 +365,21 @@
         "Update": "2023-12-27T07:23:07.8099014-05:00",
         "Discount": 9.0,
         "Label": "Ryzen 5 5600G +Gigabyte B550 Gaming X V2 +16GB DDR4 Team T-Force Vulcan Z"
+      }
+    ],
+    "Esencial": [
+      {
+        "Price": 341.00,
+        "Features": [
+          "8 Hilos",
+          "6xUSB",
+          "DDR4",
+          "Disipada"
+        ],
+        "Date": "2023-10-20T08:53:27.1294814-04:00",
+        "Update": "2023-12-28T14:06:43.9934478-05:00",
+        "Discount": 5.0,
+        "Label": "Kit Intel Core i3 12Gen +8GB RAM 3200mhz +Disipador +Board ASRock Z690"
       }
     ]
   },
@@ -894,6 +937,21 @@
         "Date": "2023-08-08T10:02:44.4021387-04:00",
         "Update": "2023-12-24T03:04:22.7650502-05:00",
         "Label": "Fuente Asus ROG Thor 850W Platinum II"
+      },
+      {
+        "Price": 129.00,
+        "Features": [
+          "2x 6+2Pin",
+          "59A",
+          "9x SATA",
+          "1x 4+4 EPS",
+          "140mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-08-16T09:16:30.0204629-04:00",
+        "Update": "2023-12-28T14:06:43.9255043-05:00",
+        "Label": "Fuente EVGA 750W"
       }
     ],
     "Disipador Líquido": [
@@ -1271,6 +1329,18 @@
         "Date": "2023-09-23T14:09:03.2481261-04:00",
         "Update": "2023-12-24T02:51:09.5358316-05:00",
         "Label": "HDD 3.5 Seagate EXOS 16TB Recertified"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "128mb",
+          "7200rpm",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-05-11T14:17:30.8616693-04:00",
+        "Update": "2023-12-28T14:06:43.8734078-05:00",
+        "Label": "HDD 3.5 Seagate Constellation 4TB"
       }
     ],
     "Disco Sólido": [
@@ -1852,6 +1922,17 @@
         "Date": "2023-11-30T11:21:51.4573961-05:00",
         "Update": "2023-12-24T03:04:22.8308994-05:00",
         "Label": "RAM DDR4 CORSAIR Vengeance RGB Pro 32GB"
+      },
+      {
+        "Price": 159.00,
+        "Features": [
+          "2x16GB",
+          "CL36",
+          "Disipadas"
+        ],
+        "Date": "2023-11-03T12:23:00.2905889-04:00",
+        "Update": "2023-12-28T14:06:43.9565199-05:00",
+        "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 7000mhz"
       }
     ],
     "Microprocesador": [
@@ -2055,6 +2136,22 @@
         "Date": "2023-11-30T11:20:49.6412308-05:00",
         "Update": "2023-12-24T03:04:22.5974341-05:00",
         "Label": "CPU AMD Ryzen 5 5600X +Disipador"
+      },
+      {
+        "Price": 155.00,
+        "Features": [
+          "12va Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-05-11T07:28:15.7616729-04:00",
+        "Update": "2023-12-28T14:06:43.9720517-05:00",
+        "Label": "Micro Intel Core i3-12100 +Disipador"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2846,6 +2943,19 @@
         "Date": "2023-12-17T00:52:07.8205125-05:00",
         "Update": "2023-12-24T02:51:09.9871078-05:00",
         "Label": "Board Gigabyte B760M DS3H DDR4"
+      },
+      {
+        "Price": 290.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "7600mhz",
+          "LGA 1700",
+          "ATX"
+        ],
+        "Date": "2023-05-14T10:52:20.5741642-04:00",
+        "Update": "2023-12-28T14:06:43.8590913-05:00",
+        "Label": "Gigabyte Z790 UD AC"
       }
     ]
   },
@@ -3098,6 +3208,21 @@
         "Date": "2023-08-01T11:15:29.6304071-04:00",
         "Update": "2023-12-26T05:53:14.6112975-05:00",
         "Label": "Teclado NZXT Function TKL"
+      },
+      {
+        "Price": 77.00,
+        "Features": [
+          "RGB",
+          "Gaming",
+          "Semi mecánico",
+          "Palm rest",
+          "Full",
+          "4000dpi",
+          "Optico"
+        ],
+        "Date": "2023-05-11T20:29:45.5785203-04:00",
+        "Update": "2023-12-28T14:06:43.9055807-05:00",
+        "Label": "COMBO Teclado + Mouse Rosewill Fusion C40"
       }
     ],
     "Adaptador": [
@@ -3512,6 +3637,37 @@
         "Date": "2023-12-07T12:39:43.2578752-05:00",
         "Update": "2023-12-24T03:38:07.1521847-05:00",
         "Label": "Mouse Corsair DarkStar RGB"
+      },
+      {
+        "Price": 55.00,
+        "Features": [
+          "Inalámbrico",
+          "16000dpi",
+          "Sniper Button",
+          "Optico",
+          "Ergonómico",
+          "10 botónes",
+          "USB"
+        ],
+        "Date": "2023-06-24T08:20:07.0510814-04:00",
+        "Update": "2023-12-28T14:06:43.8870401-05:00",
+        "Label": "Mouse EVGA X20 Black"
+      },
+      {
+        "Price": 56.00,
+        "Features": [
+          "18000dpi",
+          "Claw",
+          "8 botónes",
+          "97g",
+          "Optico",
+          "Gaming",
+          "iCUE",
+          "USB"
+        ],
+        "Date": "2023-08-21T08:58:41.5573667-04:00",
+        "Update": "2023-12-28T14:06:43.9386612-05:00",
+        "Label": "Mouse Corsair M65 ELITE RGB Black"
       }
     ],
     "Otros": [
