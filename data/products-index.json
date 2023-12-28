@@ -2627,6 +2627,23 @@
         "Date": "2023-06-07T15:06:17.9384399-04:00",
         "Update": "2023-12-14T07:55:28.8181172-05:00",
         "Label": "Chasis MLLIQUEA Mining Rig Frame"
+      },
+      {
+        "Price": 245.00,
+        "Features": [
+          "Vertical",
+          "Tempered Glass",
+          "Mesh",
+          "3xFan",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "2xHDD",
+          "Blanco"
+        ],
+        "Date": "2023-12-28T14:07:38.0093413-05:00",
+        "Update": "2023-12-28T16:21:40.6398664-05:00",
+        "Label": "Chasis Phanteks Eclipse P400A Mesh White"
       }
     ],
     "Red": [
