@@ -1733,6 +1733,29 @@
         "Date": "2023-10-18T06:47:53.8475463-04:00",
         "Update": "2023-12-24T02:51:09.5976575-05:00",
         "Label": "Disipador Cooler Master 212 Halo White"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "5 Head Pipes",
+          "1550rpm",
+          "PWM",
+          "67cfm",
+          "26db",
+          "235w",
+          "bronce",
+          "Tower",
+          "1xFan",
+          "ARGB",
+          "148mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-12-28T14:08:43.281203-05:00",
+        "Update": "2023-12-28T16:59:47.5987897-05:00",
+        "Label": "Disipador Thermalright Assassin King 120 SE ARGB"
       }
     ],
     "Memoria RAM": [
