@@ -1,0 +1,30 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Esencial",
+  "Images": [
+    "/images/products/kit-intel-core-i3-12gen-16gb-ram-ddr4-3200mhz-disi-19k0u6-1.webp",
+    "/images/products/kit-intel-core-i3-12gen-16gb-ram-ddr4-3200mhz-disi-19k0u6-2.webp",
+    "/images/products/kit-intel-core-i3-12gen-16gb-ram-ddr4-3200mhz-disi-19k0u6-3.webp",
+    "/images/products/kit-intel-core-i3-12gen-16gb-ram-ddr4-3200mhz-disi-19k0u6-4.webp",
+    "/images/products/kit-intel-core-i3-12gen-16gb-ram-ddr4-3200mhz-disi-19k0u6-5.webp",
+    "/images/products/kit-intel-core-i3-12gen-16gb-ram-ddr4-3200mhz-disi-19k0u6-6.webp",
+    "/images/products/kit-intel-core-i3-12gen-16gb-ram-ddr4-3200mhz-disi-19k0u6-7.webp",
+    "/images/products/kit-intel-core-i3-12gen-16gb-ram-ddr4-3200mhz-disi-19k0u6-8.webp",
+    "/images/products/kit-intel-core-i3-12gen-16gb-ram-ddr4-3200mhz-disi-19k0u6-9.webp",
+    "/images/products/kit-intel-core-i3-12gen-16gb-ram-ddr4-3200mhz-disi-19k0u6-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i3-12100 +Disipador\n+ Board MSI Pro B760M-P DDR4\n+ RAM DDR4 Silicon Power 16GB 3200mhz\n",
+  "Price": 371.00,
+  "Features": [
+    "2x8GB",
+    "8 hilos",
+    "Dual Channel",
+    "VGA",
+    "HDMI",
+    "4xSATA"
+  ],
+  "Date": "2023-10-12T11:57:20.759658-04:00",
+  "Update": "2023-12-28T22:16:19.6840195-05:00",
+  "Discount": 8.0,
+  "Label": "Kit Intel Core i3 12Gen +16GB RAM DDR4 3200mhz +Disipador +Board MSI B760M"
+}
