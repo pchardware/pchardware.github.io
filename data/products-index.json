@@ -980,6 +980,34 @@
         "Date": "2023-08-16T09:16:30.0204629-04:00",
         "Update": "2023-12-28T14:06:43.9255043-05:00",
         "Label": "Fuente EVGA 750W"
+      },
+      {
+        "Price": 99.00,
+        "Features": [
+          "38A",
+          "1x 4+4Pin",
+          "2x 6+2Pin",
+          "5x SATA",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-12-28T22:14:34.526509-05:00",
+        "Update": "2023-12-29T07:44:38.8198802-05:00",
+        "Label": "Fuente Corsair CX500M"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "53A",
+          "1x 4+4Pin",
+          "2x 6+2Pin",
+          "4x SATA",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-12-28T22:14:43.0215162-05:00",
+        "Update": "2023-12-29T07:44:38.8493064-05:00",
+        "Label": "Fuente Apevia Spirit 700W ATX-SP700"
       }
     ],
     "Disipador Líquido": [
@@ -2079,6 +2107,17 @@
         "Date": "2023-12-28T14:08:58.0730318-05:00",
         "Update": "2023-12-28T19:11:11.7632265-05:00",
         "Label": "RAM DDR5 Team Group T-CREATE 32GB 5600mhz"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "2x8GB",
+          "Disipadas",
+          "CL16"
+        ],
+        "Date": "2023-09-11T09:09:45.8694223-04:00",
+        "Update": "2023-12-29T07:44:38.7091373-05:00",
+        "Label": "RAM DDR4 Silicon Power 16GB 3200mhz"
       }
     ],
     "Microprocesador": [
@@ -2168,23 +2207,6 @@
         "Label": "Micro Intel Core i7-13700K"
       },
       {
-        "Price": 379.00,
-        "Features": [
-          "14va Gen",
-          "14 Core",
-          "20 Hilos",
-          "5.3Ghz",
-          "24MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-11-30T11:21:40.9533793-05:00",
-        "Update": "2023-11-30T14:11:17.7334197-05:00",
-        "Label": "CPU Intel Core i5-14600K"
-      },
-      {
         "Price": 175.00,
         "Features": [
           "Radeon Graphics",
@@ -2201,21 +2223,6 @@
         "Date": "2023-10-13T09:28:27.261681-04:00",
         "Update": "2023-11-30T14:28:44.8359745-05:00",
         "Label": "Micro AMD Ryzen 5 5600G +Disipador"
-      },
-      {
-        "Price": 215.00,
-        "Features": [
-          "5000 Series",
-          "16 Hilos",
-          "8 Core",
-          "4.7GHz",
-          "32MB L3",
-          "AM4",
-          "CPU"
-        ],
-        "Date": "2023-05-11T07:44:14.6151541-04:00",
-        "Update": "2023-12-07T12:39:13.7715779-05:00",
-        "Label": "AMD Ryzen 7 5800X"
       },
       {
         "Price": 275.00,
@@ -2268,22 +2275,6 @@
         "Label": "Micro Intel Core i9-13900K"
       },
       {
-        "Price": 189.00,
-        "Features": [
-          "AM4",
-          "6 Core",
-          "12 Hilos",
-          "DDR4",
-          "4.6GHz",
-          "Unlocked",
-          "Serie 5000",
-          "CPU"
-        ],
-        "Date": "2023-11-30T11:20:49.6412308-05:00",
-        "Update": "2023-12-24T03:04:22.5974341-05:00",
-        "Label": "CPU AMD Ryzen 5 5600X +Disipador"
-      },
-      {
         "Price": 155.00,
         "Features": [
           "12va Gen",
@@ -2298,6 +2289,72 @@
         "Date": "2023-05-11T07:28:15.7616729-04:00",
         "Update": "2023-12-28T14:06:43.9720517-05:00",
         "Label": "Micro Intel Core i3-12100 +Disipador"
+      },
+      {
+        "Price": 379.00,
+        "Features": [
+          "14va Gen",
+          "14 Core",
+          "20 Hilos",
+          "5.3Ghz",
+          "24MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-11-30T11:21:40.9533793-05:00",
+        "Update": "2023-12-29T07:44:38.7381095-05:00",
+        "Label": "Micro CPU Intel Core i5-14600K"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "5000 Series",
+          "16 Hilos",
+          "8 Core",
+          "4.7GHz",
+          "32MB L3",
+          "AM4",
+          "CPU"
+        ],
+        "Date": "2023-05-11T07:44:14.6151541-04:00",
+        "Update": "2023-12-29T07:44:38.7529036-05:00",
+        "Label": "Micro AMD Ryzen 7 5800X"
+      },
+      {
+        "Price": 189.00,
+        "Features": [
+          "AM4",
+          "6 Core",
+          "12 Hilos",
+          "DDR4",
+          "4.6GHz",
+          "Unlocked",
+          "Serie 5000",
+          "CPU"
+        ],
+        "Date": "2023-11-30T11:20:49.6412308-05:00",
+        "Update": "2023-12-29T07:44:38.7692546-05:00",
+        "Label": "Micro AMD Ryzen 5 5600X +Disipador"
+      },
+      {
+        "Price": 119.00,
+        "Features": [
+          "Radeon Graphics",
+          "AM4",
+          "8 Hilos",
+          "4 Core",
+          "4.2GHz",
+          "8MB L3",
+          "65W",
+          "DDR4",
+          "Serie5000",
+          "CPU"
+        ],
+        "Date": "2023-12-28T22:14:48.5974394-05:00",
+        "Update": "2023-12-29T07:44:38.8665379-05:00",
+        "Label": "Micro AMD Ryzen 3 5300G +Disipador"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2823,6 +2880,23 @@
         "Date": "2023-12-28T14:07:38.0093413-05:00",
         "Update": "2023-12-28T16:21:40.6398664-05:00",
         "Label": "Chasis Phanteks Eclipse P400A Mesh White"
+      },
+      {
+        "Price": 399.00,
+        "Features": [
+          "Vertical",
+          "Tempered Glass",
+          "1xFan",
+          "RGB",
+          "Gamer",
+          "4xHDD",
+          "Negro",
+          "Mid Tower",
+          "ATX"
+        ],
+        "Date": "2023-12-28T22:14:39.8777755-05:00",
+        "Update": "2023-12-29T07:44:38.8350198-05:00",
+        "Label": "Chasis Asus TUF GT501 GRY"
       }
     ],
     "Red": [
