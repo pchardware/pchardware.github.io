@@ -730,23 +730,6 @@
         "Label": "Fuente de Servidor HP 578322-B21 1200W"
       },
       {
-        "Price": 249.00,
-        "Features": [
-          "80+ Gold",
-          "Full Modular",
-          "83A",
-          "8x 6+2Pin",
-          "11x SATA",
-          "2x 4+4 EPS",
-          "180mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-04-15T07:27:11.3654492-04:00",
-        "Update": "2023-10-18T07:33:51.8844871-04:00",
-        "Label": "Fuente Corsair RM1000X 1000W"
-      },
-      {
         "Price": 189.00,
         "Features": [
           "PCIe 5.0",
@@ -1008,6 +991,23 @@
         "Date": "2023-12-28T22:14:34.526509-05:00",
         "Update": "2023-12-29T08:20:55.7511042-05:00",
         "Label": "Fuente Corsair CX500M 80+ Bronce"
+      },
+      {
+        "Price": 249.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "83A",
+          "8x 6+2Pin",
+          "11x SATA",
+          "2x 4+4 EPS",
+          "180mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-04-15T07:27:11.3654492-04:00",
+        "Update": "2023-12-29T12:26:20.5471057-05:00",
+        "Label": "Fuente Corsair RM1000X 1000W"
       }
     ],
     "Disipador Líquido": [
