@@ -365,6 +365,19 @@
         "Update": "2023-12-27T07:23:07.8099014-05:00",
         "Discount": 9.0,
         "Label": "Ryzen 5 5600G +Gigabyte B550 Gaming X V2 +16GB DDR4 Team T-Force Vulcan Z"
+      },
+      {
+        "Price": 461.00,
+        "Features": [
+          "12 Hilos",
+          "4.4GHz",
+          "Dual Lan",
+          "8xUSB"
+        ],
+        "Date": "2023-11-18T11:49:36.516615-05:00",
+        "Update": "2023-12-28T22:16:19.7079922-05:00",
+        "Discount": 8.0,
+        "Label": "Kit 12Gen i5 +Disipador +Board Asus B660 ProArt Creator +16GB DDR4 3200mhz"
       }
     ],
     "Esencial": [
@@ -380,6 +393,21 @@
         "Update": "2023-12-28T14:06:43.9934478-05:00",
         "Discount": 5.0,
         "Label": "Kit Intel Core i3 12Gen +8GB RAM 3200mhz +Disipador +Board ASRock Z690"
+      },
+      {
+        "Price": 371.00,
+        "Features": [
+          "2x8GB",
+          "8 hilos",
+          "Dual Channel",
+          "VGA",
+          "HDMI",
+          "4xSATA"
+        ],
+        "Date": "2023-10-12T11:57:20.759658-04:00",
+        "Update": "2023-12-28T22:16:19.6840195-05:00",
+        "Discount": 8.0,
+        "Label": "Kit Intel Core i3 12Gen +16GB RAM DDR4 3200mhz +Disipador +Board MSI B760M"
       }
     ]
   },
@@ -2669,6 +2697,23 @@
         "Date": "2023-12-28T14:07:53.0091888-05:00",
         "Update": "2023-12-28T17:18:21.9745311-05:00",
         "Label": "Tarjeta de Video Acer Predator BiFrost RX 7600 OC"
+      },
+      {
+        "Price": 395.00,
+        "Features": [
+          "DLSS3",
+          "2xFan",
+          "1x8Pin",
+          "450WR",
+          "272mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-18T08:41:47.9392507-05:00",
+        "Update": "2023-12-28T22:16:19.7412336-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4060 Eagle OC 8GB"
       }
     ],
     "Chasis": [
