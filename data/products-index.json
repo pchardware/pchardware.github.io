@@ -764,22 +764,6 @@
         "Label": "Fuente Apevia Spirit 600W"
       },
       {
-        "Price": 205.00,
-        "Features": [
-          "80+ PLATINUM",
-          "Full Modular",
-          "71A",
-          "6x 6+2Pin",
-          "9x SATA",
-          "2x 4+4 EPS",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-11-14T14:40:10.1214379-05:00",
-        "Update": "2023-11-14T17:41:04.913036-05:00",
-        "Label": "Fuente EVGA Supernova 850 P5 80+ Platinum"
-      },
-      {
         "Price": 195.00,
         "Features": [
           "Fully Modular",
@@ -830,21 +814,6 @@
       {
         "Price": 85.00,
         "Features": [
-          "35A",
-          "2x 6+2Pin",
-          "6x SATA",
-          "1x 4+4 EPS",
-          "140mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-05-12T07:54:08.9581203-04:00",
-        "Update": "2023-12-24T02:51:09.5747358-05:00",
-        "Label": "Fuente Thermaltake SMART 500W 80+"
-      },
-      {
-        "Price": 85.00,
-        "Features": [
           "1x 6+2Pin",
           "4x SATA",
           "1x 4+4 EPS",
@@ -856,21 +825,6 @@
         "Date": "2023-10-23T12:31:26.0970288-04:00",
         "Update": "2023-12-24T02:51:09.6186027-05:00",
         "Label": "Fuente Raidmax Vortex 600W RX-600AC-V"
-      },
-      {
-        "Price": 125.00,
-        "Features": [
-          "54A",
-          "80+ Bronce",
-          "1x 4+4Pin",
-          "2x 6+2Pin",
-          "6x SATA",
-          "ATX",
-          "PSU"
-        ],
-        "Date": "2023-12-07T22:24:20.3840718-05:00",
-        "Update": "2023-12-24T02:51:09.7279311-05:00",
-        "Label": "Fuente EVGA 650 BP 80+ Bronze"
       },
       {
         "Price": 229.00,
@@ -979,20 +933,6 @@
         "Label": "Fuente Apevia Spirit 700W ATX-SP700"
       },
       {
-        "Price": 99.00,
-        "Features": [
-          "38A",
-          "1x 4+4Pin",
-          "2x 6+2Pin",
-          "5x SATA",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-12-28T22:14:34.526509-05:00",
-        "Update": "2023-12-29T08:20:55.7511042-05:00",
-        "Label": "Fuente Corsair CX500M 80+ Bronce"
-      },
-      {
         "Price": 249.00,
         "Features": [
           "80+ Gold",
@@ -1008,6 +948,68 @@
         "Date": "2023-04-15T07:27:11.3654492-04:00",
         "Update": "2023-12-29T12:26:20.5471057-05:00",
         "Label": "Fuente Corsair RM1000X 1000W"
+      },
+      {
+        "Price": 205.00,
+        "Features": [
+          "80+ PLATINUM",
+          "Full Modular",
+          "71A",
+          "6x 6+2Pin",
+          "9x SATA",
+          "2x 4+4 EPS",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-11-14T14:40:10.1214379-05:00",
+        "Update": "2023-12-29T14:20:08.0754423-05:00",
+        "Label": "Fuente EVGA Supernova 850 P5"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "35A",
+          "80+",
+          "2x 6+2Pin",
+          "6x SATA",
+          "1x 4+4 EPS",
+          "140mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-05-12T07:54:08.9581203-04:00",
+        "Update": "2023-12-29T14:20:08.0902021-05:00",
+        "Label": "Fuente Thermaltake SMART 500W"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "54A",
+          "80+ Bronce",
+          "1x 4+4Pin",
+          "2x 6+2Pin",
+          "6x SATA",
+          "ATX",
+          "PSU"
+        ],
+        "Date": "2023-12-07T22:24:20.3840718-05:00",
+        "Update": "2023-12-29T14:20:08.1048768-05:00",
+        "Label": "Fuente EVGA 650 BP"
+      },
+      {
+        "Price": 99.00,
+        "Features": [
+          "38A",
+          "80+ Bronce",
+          "1x 4+4Pin",
+          "2x 6+2Pin",
+          "5x SATA",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-12-28T22:14:34.526509-05:00",
+        "Update": "2023-12-29T14:20:08.119185-05:00",
+        "Label": "Fuente Corsair CX500M"
       }
     ],
     "Disipador Líquido": [
