@@ -1,0 +1,19 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Memoria RAM",
+  "Images": [
+    "/images/products/ram-ddr4-crucial-pro-64gb-3200mhz-1.webp",
+    "/images/products/ram-ddr4-crucial-pro-64gb-3200mhz-2.webp",
+    "/images/products/ram-ddr4-crucial-pro-64gb-3200mhz-3.webp"
+  ],
+  "Description": "Model\nBrand: Crucial\nSeries: Pro\nModel: CP2K32G4DFRA32A\nPart Number: CP2K32G4DFRA32A\n\n\nDetails\nCapacity: 64GB (2 x 32GB)\nType: 288-Pin PC RAM\nSpeed: DDR4 3200 (PC4 25600)\nCAS Latency: 22\nVoltage: 1.20V\nECC: No\nBuffered/Registered: Unbuffered / Unregistered\nMulti-channel Kit: Dual Channel Kit\nBIOS/Performance Profile: Intel XMP 2.0\nColor: Black\nHeat Spreader: Yes\nFeatures: CP2K32G4DFRA32A is the Crucial DDR4 Pro 64GB kit consisting of two 32GB desktop modules that operate at the speed of 3200MMHz and has a CAS Latency of 22. It is an UDIMM and conforms to the industry standard DDR4 UDIMM layout of 288 pins. It is compatible with systems that can take DDR4-3200 UDIMM memory.\nRecommend Use: Compatible with 8th–13th Gen Intel® Core and AMD Ryzen™ 1000–5000 Series Desktop CPUs\nLED Color: None",
+  "Price": 155.00,
+  "Features": [
+    "2x32GB",
+    "CL22",
+    "Disipadas"
+  ],
+  "Date": "2023-12-28T14:07:45.8653331-05:00",
+  "Update": "2023-12-28T19:11:11.6570708-05:00",
+  "Label": "RAM DDR4 Crucial Pro 64GB 3200mhz"
+}
