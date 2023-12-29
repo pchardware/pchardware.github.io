@@ -1,0 +1,18 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Memoria RAM",
+  "Images": [
+    "/images/products/ram-ddr4-geil-orion-32gb-3600mhz-1.webp",
+    "/images/products/ram-ddr4-geil-orion-32gb-3600mhz-2.webp"
+  ],
+  "Description": "Model\nBrand: GeIL\nSeries: ORION AMD Edition\nModel: GAOR432GB3600C18BDC\n\n\nDetails\nCapacity: 32GB (2 x 16GB)\nType: 288-Pin PC RAM\nSpeed: DDR4 3600 (PC4 28800)\nCAS Latency: 18\nTiming: 18-22-22-42\nVoltage: 1.35V\nMulti-channel Kit: Dual Channel Kit\nBIOS/Performance Profile: Intel XMP 2.0\nColor: Red\nHeat Spreader: Yes\nFeatures: Designed for content creators and gamers\n\nKit Capacities up to 64GB\n\nSpeed up to 4000MHz\n\nFeaturing the approximately standard height heat spreaders\n\nPerfect in any case design\n\nSpecifically designed for AMD Ryzen platform providing excellent performance and compatibility\nRecommend Use: AMD X570",
+  "Price": 93.00,
+  "Features": [
+    "2x16GB",
+    "CL18",
+    "Disipadas"
+  ],
+  "Date": "2023-12-28T14:08:09.113298-05:00",
+  "Update": "2023-12-28T19:11:11.7130063-05:00",
+  "Label": "RAM DDR4 GeIL ORION 32GB 3600mhz"
+}
