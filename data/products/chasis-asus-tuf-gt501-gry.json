@@ -1,0 +1,29 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Chasis",
+  "Images": [
+    "/images/products/chasis-asus-tuf-gt501-gry-1.webp",
+    "/images/products/chasis-asus-tuf-gt501-gry-2.webp",
+    "/images/products/chasis-asus-tuf-gt501-gry-3.webp",
+    "/images/products/chasis-asus-tuf-gt501-gry-4.webp",
+    "/images/products/chasis-asus-tuf-gt501-gry-5.webp",
+    "/images/products/chasis-asus-tuf-gt501-gry-6.webp",
+    "/images/products/chasis-asus-tuf-gt501-gry-7.webp"
+  ],
+  "Description": "Model\nBrand: ASUS\nSeries: TUF Gaming\nModel: GT501 TUF GAMING CASE/GRY/WITH HANDLE\n\n\nDetails\nType: ATX Mid Tower\nColor: Black / Grey\nCase Material: Steel / Plastic / Tempered Glass\nWith Power Supply: No\nPower Supply Mounted: Bottom\nMotherboard Compatibility: Micro ATX / ATX / Mini ITX / E-ATX (12\"x10.9\")\nSide Panel Window: Yes\nLED: RGB\n\n\nExpansion\nInternal 3.5\" Drive Bays: 4 x 2.5\"/3.5\" Combo Bay\nInternal 2.5\" Drive Bays: 3 (up to 7)\nExpansion Slots: 7+2 (additional vertical)\n\n\nFront Panel Ports\nFront Ports: 2 x USB 3.1 Gen1 / Audio\n\n\nCooling System\nFan Options: Front: 3 x 120mm fan (3 x 120mm AURA RGB Pre-installed w/ LED Controller) or 2 x 140mm fan\n\nTop: 3 x 120mm or 2 x 140mm fan\n\nRear: 120mm fan (1 x 140mm PWM fan Pre-installed) / 1 x 140mm fan\nRadiator Options: Front - Up to 360mm / Rear - Up to 140mm / Top - Up to 360mm\n\n\nDimensions & Weight\nMax GPU Length: 420 mm\nMax CPU Cooler Height: 180 mm\nMax PSU Length: 240 mm\nDimensions (H x W x D): 21.46\" x 9.88\" x 21.73\"\nWeight: 23.15 lbs.\n\n\nAdditional Info\nFeatures: Mid-Tower with support for EATX Motherboards featuring a metal chassis and panels with custom TUF Gaming spatter pattern and 4mm-thick smoked, tempered-glass full view side panel \n\nKeep Your Cool with three 120mm Aura Sync RGB-illuminated fans, one 140mm rear PWM fan, and up to seven optional fan-mounting points\n\nCustom Liquid Cooling Ready with support for top or front mounted 360mm radiators, rear mounted 140mm radiator, and pre-drilled water pump/reservoir mounting holes\n\nVertical GPU Expansion Slot plus 7 traditional expansion slots\n\nErgonomic, Woven-cotton Carry Handles enable easy and safe transport up to 65lbs",
+  "Price": 399.00,
+  "Features": [
+    "Vertical",
+    "Tempered Glass",
+    "1xFan",
+    "RGB",
+    "Gamer",
+    "4xHDD",
+    "Negro",
+    "Mid Tower",
+    "ATX"
+  ],
+  "Date": "2023-12-28T22:14:39.8777755-05:00",
+  "Update": "2023-12-29T07:44:38.8350198-05:00",
+  "Label": "Chasis Asus TUF GT501 GRY"
+}
