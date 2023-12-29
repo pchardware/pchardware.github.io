@@ -1,0 +1,26 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Fuente",
+  "Images": [
+    "/images/products/fuente-evga-supernova-850-p5-1.webp",
+    "/images/products/fuente-evga-supernova-850-p5-2.webp",
+    "/images/products/fuente-evga-supernova-850-p5-3.webp",
+    "/images/products/fuente-evga-supernova-850-p5-4.webp",
+    "/images/products/fuente-evga-supernova-850-p5-5.webp"
+  ],
+  "Description": "",
+  "Price": 205.00,
+  "Features": [
+    "80+ PLATINUM",
+    "Full Modular",
+    "71A",
+    "6x 6+2Pin",
+    "9x SATA",
+    "2x 4+4 EPS",
+    "PSU",
+    "ATX"
+  ],
+  "Date": "2023-11-14T14:40:10.1214379-05:00",
+  "Update": "2023-12-29T14:20:08.0754423-05:00",
+  "Label": "Fuente EVGA Supernova 850 P5"
+}
