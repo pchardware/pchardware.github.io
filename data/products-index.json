@@ -2118,6 +2118,17 @@
         "Date": "2023-09-11T09:09:45.8694223-04:00",
         "Update": "2023-12-29T07:44:38.7091373-05:00",
         "Label": "RAM DDR4 Silicon Power 16GB 3200mhz"
+      },
+      {
+        "Price": 199.00,
+        "Features": [
+          "2x32",
+          "CL36",
+          "Disipadas"
+        ],
+        "Date": "2023-12-28T14:08:05.1609945-05:00",
+        "Update": "2023-12-29T08:00:58.5197547-05:00",
+        "Label": "RAM DDR5 Corsair Vengeance RGB 64GB (2x32GB) 5600mhz C36"
       }
     ],
     "Microprocesador": [
