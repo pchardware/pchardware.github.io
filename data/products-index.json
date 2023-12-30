@@ -963,21 +963,6 @@
         "Label": "Fuente EVGA 650 BP"
       },
       {
-        "Price": 99.00,
-        "Features": [
-          "38A",
-          "80+ Bronce",
-          "1x 4+4Pin",
-          "2x 6+2Pin",
-          "5x SATA",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-12-28T22:14:34.526509-05:00",
-        "Update": "2023-12-29T14:20:08.119185-05:00",
-        "Label": "Fuente Corsair CX500M"
-      },
-      {
         "Price": 195.00,
         "Features": [
           "ATX 3.0",
@@ -1444,18 +1429,6 @@
         "Date": "2023-09-23T17:40:22.4977195-04:00",
         "Update": "2023-12-08T13:42:07.6535024-05:00",
         "Label": "SSD M.2 Corsair MP600 PRO NH 2TB"
-      },
-      {
-        "Price": 95.0,
-        "Features": [
-          "7400mbs",
-          "PCIe 4",
-          "1450tbw",
-          "NVMe"
-        ],
-        "Date": "2023-09-23T17:40:17.7101762-04:00",
-        "Update": "2023-12-08T13:47:00.0964285-05:00",
-        "Label": "SSD M.2 Team Group MP44 1TB"
       },
       {
         "Price": 93.0,
@@ -2471,22 +2444,6 @@
         "Date": "2023-12-19T06:42:41.7210728-05:00",
         "Update": "2023-12-22T08:53:15.5706567-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 3050 WindForce OC 8GB"
-      },
-      {
-        "Price": 275.00,
-        "Features": [
-          "2xFan",
-          "1x8Pin",
-          "500WR",
-          "243mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-09-23T14:08:44.7733868-04:00",
-        "Update": "2023-12-24T03:04:22.6752642-05:00",
-        "Label": "Tarjeta de Video Asus Dual RX 6600 8GB"
       },
       {
         "Price": 259.00,
