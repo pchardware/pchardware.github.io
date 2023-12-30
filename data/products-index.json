@@ -261,23 +261,6 @@
         "Update": "2023-12-20T08:56:15.193999-05:00",
         "Discount": 10.0,
         "Label": "Kit i7-12700K +Gigabyte Z790 UD AX +32GB DDR5 G.Skill Trident Z5 RGB"
-      },
-      {
-        "Price": 785.00,
-        "Features": [
-          "24 Hilos",
-          "16 Core",
-          "5.4GHz",
-          "2x16GB",
-          "Disipadas",
-          "CL36",
-          "9xUSB",
-          "6xSATA"
-        ],
-        "Date": "2023-12-20T07:45:13.6575756-05:00",
-        "Update": "2023-12-20T08:58:30.5567064-05:00",
-        "Discount": 8.0,
-        "Label": "Kit i7-13700K +Gigabyte Z790 Aorus Elite AX +32GB DDR5 G.Skill Ripjaws S5"
       }
     ],
     "Entusiasta": [
@@ -3127,26 +3110,6 @@
         "Date": "2023-07-26T18:48:17.6030093-04:00",
         "Update": "2023-12-24T02:51:09.743264-05:00",
         "Label": "Board Gigabyte Z790 UD AX"
-      },
-      {
-        "Price": 279.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "7600mhz",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "LGA 1700",
-          "ATX",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio",
-          "MOBO"
-        ],
-        "Date": "2023-10-03T06:55:49.2464488-04:00",
-        "Update": "2023-12-24T02:51:09.7597099-05:00",
-        "Label": "Board Gigabyte Z790 Aorus Elite AX"
       },
       {
         "Price": 159.00,
