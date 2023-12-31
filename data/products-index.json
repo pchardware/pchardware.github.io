@@ -391,6 +391,21 @@
         "Update": "2023-12-28T22:16:19.6840195-05:00",
         "Discount": 8.0,
         "Label": "Kit Intel Core i3 12Gen +16GB RAM DDR4 3200mhz +Disipador +Board MSI B760M"
+      },
+      {
+        "Price": 329.00,
+        "Features": [
+          "4 Core",
+          "8 hilos",
+          "1x8",
+          "3200mhz",
+          "6x USB",
+          "4x SATA"
+        ],
+        "Date": "2023-12-31T09:22:20.8769433-05:00",
+        "Update": "2023-12-31T09:25:57.9962456-05:00",
+        "Discount": 7.0,
+        "Label": "Micro AMD Ryzen 3 5300G +Disipador + Motherboard Gigabyte B550 Gaming X V2 + RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz"
       }
     ]
   },
