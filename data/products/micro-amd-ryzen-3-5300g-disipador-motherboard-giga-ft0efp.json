@@ -1,0 +1,27 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Esencial",
+  "Images": [
+    "/images/products/micro-amd-ryzen-3-5300g-disipador-motherboard-giga-ft0efp-1.webp",
+    "/images/products/micro-amd-ryzen-3-5300g-disipador-motherboard-giga-ft0efp-2.webp",
+    "/images/products/micro-amd-ryzen-3-5300g-disipador-motherboard-giga-ft0efp-3.webp",
+    "/images/products/micro-amd-ryzen-3-5300g-disipador-motherboard-giga-ft0efp-4.webp",
+    "/images/products/micro-amd-ryzen-3-5300g-disipador-motherboard-giga-ft0efp-5.webp",
+    "/images/products/micro-amd-ryzen-3-5300g-disipador-motherboard-giga-ft0efp-6.webp",
+    "/images/products/micro-amd-ryzen-3-5300g-disipador-motherboard-giga-ft0efp-7.webp"
+  ],
+  "Description": "+ Micro AMD Ryzen 3 5300G +Disipador\n+ Motherboard Gigabyte B550 Gaming X V2\n+ RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz\n",
+  "Price": 329.00,
+  "Features": [
+    "4 Core",
+    "8 hilos",
+    "1x8",
+    "3200mhz",
+    "6x USB",
+    "4x SATA"
+  ],
+  "Date": "2023-12-31T09:22:20.8769433-05:00",
+  "Update": "2023-12-31T09:25:57.9962456-05:00",
+  "Discount": 7.0,
+  "Label": "Micro AMD Ryzen 3 5300G +Disipador + Motherboard Gigabyte B550 Gaming X V2 + RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz"
+}
