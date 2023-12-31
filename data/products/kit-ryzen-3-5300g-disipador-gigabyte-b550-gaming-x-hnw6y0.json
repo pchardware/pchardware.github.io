@@ -1,0 +1,27 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Esencial",
+  "Images": [
+    "/images/products/kit-ryzen-3-5300g-disipador-gigabyte-b550-gaming-x-hnw6y0-1.webp",
+    "/images/products/kit-ryzen-3-5300g-disipador-gigabyte-b550-gaming-x-hnw6y0-2.webp",
+    "/images/products/kit-ryzen-3-5300g-disipador-gigabyte-b550-gaming-x-hnw6y0-3.webp",
+    "/images/products/kit-ryzen-3-5300g-disipador-gigabyte-b550-gaming-x-hnw6y0-4.webp",
+    "/images/products/kit-ryzen-3-5300g-disipador-gigabyte-b550-gaming-x-hnw6y0-5.webp",
+    "/images/products/kit-ryzen-3-5300g-disipador-gigabyte-b550-gaming-x-hnw6y0-6.webp",
+    "/images/products/kit-ryzen-3-5300g-disipador-gigabyte-b550-gaming-x-hnw6y0-7.webp"
+  ],
+  "Description": "+ Micro AMD Ryzen 3 5300G +Disipador\n+ Motherboard Gigabyte B550 Gaming X V2\n+ RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz\n",
+  "Price": 329.00,
+  "Features": [
+    "4 Core",
+    "8 hilos",
+    "1x8",
+    "3200mhz",
+    "6x USB",
+    "4x SATA"
+  ],
+  "Date": "2023-12-31T09:22:20.8769433-05:00",
+  "Update": "2023-12-31T09:47:45.9964544-05:00",
+  "Discount": 7.0,
+  "Label": "KIT Ryzen 3 5300G +Disipador +Gigabyte B550 Gaming X V2 +8gb DDR4"
+}
