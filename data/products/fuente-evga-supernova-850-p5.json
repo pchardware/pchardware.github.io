@@ -8,7 +8,7 @@
     "/images/products/fuente-evga-supernova-850-p5-4.webp",
     "/images/products/fuente-evga-supernova-850-p5-5.webp"
   ],
-  "Description": "",
+  "Description": "Model Name \tsupernova\nBrand \tEVGA\nCompatible Devices \tPersonal Computer\nConnector Type \t24-pin\nOutput Wattage \t850 Watts\nForm Factor \tATX\nWattage \t850 watts\nCooling Method \tAir\nItem Dimensions LxWxH \t5.9 x 5.9 x 3.4 inches\nItem Weight \t10.56 Ounces\n\n\n    80 PLUS Platinum certified, with 92% efficiency or higher under typical loads\n    Fully Modular to reduce clutter and improve airflow\n    100% Japanese Capacitors, Active Clamp +DC-DC Converter design to improve 3.3V. / 5V. Stability\n    Fluid Dynamic Bearing Fan and EVGA ECO Mode for ultra-quiet operation and increased lifespan. Active Power Factor Correction",
   "Price": 205.00,
   "Features": [
     "80+ PLATINUM",
@@ -21,6 +21,6 @@
     "ATX"
   ],
   "Date": "2023-11-14T14:40:10.1214379-05:00",
-  "Update": "2023-12-29T14:20:08.0754423-05:00",
+  "Update": "2023-12-31T09:11:42.1638727-05:00",
   "Label": "Fuente EVGA Supernova 850 P5"
 }
