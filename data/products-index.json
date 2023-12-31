@@ -2,7 +2,7 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 1569.00,
+        "Price": 1571.00,
         "Features": [],
         "Date": "2023-12-20T23:29:30.6200385-05:00",
         "Update": "2023-12-20T23:39:56.4531184-05:00",
@@ -10,7 +10,7 @@
         "Label": "PC RX 7600 8GB +Ryzen R5 5600G +B550 Gaming X V2 +32GB DDR4 +850W +Acer 24\""
       },
       {
-        "Price": 1395.00,
+        "Price": 1397.00,
         "Features": [],
         "Date": "2023-12-23T02:51:07.0671864-05:00",
         "Update": "2023-12-23T02:53:42.2400315-05:00",
@@ -18,7 +18,7 @@
         "Label": "PC RX 6600 8GB +Ryzen 5 5600G +B550 Gaming X +32GB DDR4 +500GB +850W +Acer 24\""
       },
       {
-        "Price": 1365.00,
+        "Price": 1359.00,
         "Features": [],
         "Date": "2023-12-23T02:55:50.7131662-05:00",
         "Update": "2023-12-23T02:58:43.8605439-05:00",
@@ -26,7 +26,7 @@
         "Label": "PC RX 6600 8GB +Ryzen 5 5600X +B550 Gaming X V2 +16GB DDR4 +500GB M.2 + Acer 24\""
       },
       {
-        "Price": 1789.00,
+        "Price": 1791.00,
         "Features": [],
         "Date": "2023-12-20T23:07:39.8479527-05:00",
         "Update": "2023-12-26T05:53:14.6756738-05:00",
@@ -64,7 +64,7 @@
   "Torres": {
     "Pro": [
       {
-        "Price": 1149.00,
+        "Price": 1143.00,
         "Features": [],
         "Date": "2023-12-17T04:05:31.2362407-05:00",
         "Update": "2023-12-17T04:11:55.5117572-05:00",
@@ -82,7 +82,7 @@
     ],
     "Gamer": [
       {
-        "Price": 1395.00,
+        "Price": 1397.00,
         "Features": [],
         "Date": "2023-12-20T14:34:43.1931436-05:00",
         "Update": "2023-12-20T14:37:57.4683367-05:00",
@@ -90,7 +90,7 @@
         "Label": "Torre RX 6600 8GB +i7-12700K +Z790 UD AX +32GB DDR5 +1TB M.2 +850W +Chasis"
       },
       {
-        "Price": 1245.00,
+        "Price": 1247.00,
         "Features": [],
         "Date": "2023-12-20T23:49:03.1402402-05:00",
         "Update": "2023-12-20T23:51:33.135977-05:00",
@@ -98,7 +98,7 @@
         "Label": "Torre RX 7600 8GB +Ryzen 5 5600X +B550 Gaming X V2 +32GB DDR4 Corsair +850W"
       },
       {
-        "Price": 1315.00,
+        "Price": 1317.00,
         "Features": [],
         "Date": "2023-12-21T04:51:23.6715677-05:00",
         "Update": "2023-12-21T04:53:03.2759704-05:00",
@@ -106,7 +106,7 @@
         "Label": "Torre RX 6750 XT 12GB +Ryzen 5 5600X +B550 Gaming X V2 +32GB DDR4 Corsair +850W"
       },
       {
-        "Price": 1435.00,
+        "Price": 1437.00,
         "Features": [],
         "Date": "2023-12-23T03:03:11.3130204-05:00",
         "Update": "2023-12-23T03:05:27.4984878-05:00",
@@ -760,7 +760,7 @@
         "Label": "Fuente EVGA 400W"
       },
       {
-        "Price": 167.00,
+        "Price": 169.00,
         "Features": [
           "80+ Gold",
           "Full Modular",
@@ -812,7 +812,7 @@
         "Label": "Fuente Asus TUF 1000W"
       },
       {
-        "Price": 265.00,
+        "Price": 255.00,
         "Features": [
           "ATX 3.0",
           "80+ Gold",
@@ -833,7 +833,7 @@
         "Label": "Fuente Corsair RM1200e 1200W"
       },
       {
-        "Price": 225.00,
+        "Price": 215.00,
         "Features": [
           "ATX 3.0",
           "1x16Pin",
@@ -899,7 +899,7 @@
         "Label": "Fuente Apevia Spirit 700W ATX-SP700"
       },
       {
-        "Price": 249.00,
+        "Price": 239.00,
         "Features": [
           "80+ Gold",
           "Full Modular",
@@ -914,22 +914,6 @@
         "Date": "2023-04-15T07:27:11.3654492-04:00",
         "Update": "2023-12-29T12:26:20.5471057-05:00",
         "Label": "Fuente Corsair RM1000X 1000W"
-      },
-      {
-        "Price": 205.00,
-        "Features": [
-          "80+ PLATINUM",
-          "Full Modular",
-          "71A",
-          "6x 6+2Pin",
-          "9x SATA",
-          "2x 4+4 EPS",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-11-14T14:40:10.1214379-05:00",
-        "Update": "2023-12-29T14:20:08.0754423-05:00",
-        "Label": "Fuente EVGA Supernova 850 P5"
       },
       {
         "Price": 85.00,
@@ -948,7 +932,7 @@
         "Label": "Fuente Thermaltake SMART 500W"
       },
       {
-        "Price": 125.00,
+        "Price": 119.00,
         "Features": [
           "54A",
           "80+ Bronce",
@@ -981,6 +965,22 @@
         "Date": "2023-06-07T13:43:20.159516-04:00",
         "Update": "2023-12-30T09:57:44.8133267-05:00",
         "Label": "Fuente Corsair RM850e 850W"
+      },
+      {
+        "Price": 205.00,
+        "Features": [
+          "80+ PLATINUM",
+          "Full Modular",
+          "71A",
+          "6x 6+2Pin",
+          "9x SATA",
+          "2x 4+4 EPS",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-11-14T14:40:10.1214379-05:00",
+        "Update": "2023-12-31T09:11:42.1638727-05:00",
+        "Label": "Fuente EVGA Supernova 850 P5"
       }
     ],
     "Disipador Líquido": [
