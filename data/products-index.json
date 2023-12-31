@@ -130,6 +130,14 @@
         "Update": "2023-12-28T14:06:44.0399664-05:00",
         "Discount": 22.0,
         "Label": "Torre i3-12100 +B760M +16GB DDR4 +1TB M.2 +600W + Chasis Cooler Master"
+      },
+      {
+        "Price": 655.00,
+        "Features": [],
+        "Date": "2023-12-31T09:45:58.4258265-05:00",
+        "Update": "2023-12-31T09:50:25.3570652-05:00",
+        "Discount": 20.0,
+        "Label": "Torre Ryzen 3 5300G +B550 Gaming X V2 +8gb DDR4 +500gb SSD +600W +Chasis"
       }
     ]
   },
@@ -403,9 +411,9 @@
           "4x SATA"
         ],
         "Date": "2023-12-31T09:22:20.8769433-05:00",
-        "Update": "2023-12-31T09:25:57.9962456-05:00",
+        "Update": "2023-12-31T09:47:45.9964544-05:00",
         "Discount": 7.0,
-        "Label": "Micro AMD Ryzen 3 5300G +Disipador + Motherboard Gigabyte B550 Gaming X V2 + RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz"
+        "Label": "KIT Ryzen 3 5300G +Disipador +Gigabyte B550 Gaming X V2 +8gb DDR4"
       }
     ]
   },
@@ -1433,17 +1441,6 @@
         "Date": "2023-10-16T10:23:41.2113735-04:00",
         "Update": "2023-10-25T15:46:32.6425833-04:00",
         "Label": "SSD 2.5 Team Group CX2 1TB"
-      },
-      {
-        "Price": 149.0,
-        "Features": [
-          "7000mbs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-09-23T17:40:22.4977195-04:00",
-        "Update": "2023-12-08T13:42:07.6535024-05:00",
-        "Label": "SSD M.2 Corsair MP600 PRO NH 2TB"
       },
       {
         "Price": 93.0,
