@@ -2,22 +2,6 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 1571.00,
-        "Features": [],
-        "Date": "2023-12-20T23:29:30.6200385-05:00",
-        "Update": "2023-12-20T23:39:56.4531184-05:00",
-        "Discount": 47.0,
-        "Label": "PC RX 7600 8GB +Ryzen R5 5600G +B550 Gaming X V2 +32GB DDR4 +850W +Acer 24\""
-      },
-      {
-        "Price": 1397.00,
-        "Features": [],
-        "Date": "2023-12-23T02:51:07.0671864-05:00",
-        "Update": "2023-12-23T02:53:42.2400315-05:00",
-        "Discount": 32.0,
-        "Label": "PC RX 6600 8GB +Ryzen 5 5600G +B550 Gaming X +32GB DDR4 +500GB +850W +Acer 24\""
-      },
-      {
         "Price": 1359.00,
         "Features": [],
         "Date": "2023-12-23T02:55:50.7131662-05:00",
@@ -88,22 +72,6 @@
         "Update": "2023-12-20T14:37:57.4683367-05:00",
         "Discount": 33.0,
         "Label": "Torre RX 6600 8GB +i7-12700K +Z790 UD AX +32GB DDR5 +1TB M.2 +850W +Chasis"
-      },
-      {
-        "Price": 1247.00,
-        "Features": [],
-        "Date": "2023-12-20T23:49:03.1402402-05:00",
-        "Update": "2023-12-20T23:51:33.135977-05:00",
-        "Discount": 33.0,
-        "Label": "Torre RX 7600 8GB +Ryzen 5 5600X +B550 Gaming X V2 +32GB DDR4 Corsair +850W"
-      },
-      {
-        "Price": 1317.00,
-        "Features": [],
-        "Date": "2023-12-21T04:51:23.6715677-05:00",
-        "Update": "2023-12-21T04:53:03.2759704-05:00",
-        "Discount": 33.0,
-        "Label": "Torre RX 6750 XT 12GB +Ryzen 5 5600X +B550 Gaming X V2 +32GB DDR4 Corsair +850W"
       },
       {
         "Price": 1437.00,
@@ -1983,17 +1951,6 @@
         "Date": "2023-11-14T14:40:06.7826785-05:00",
         "Update": "2023-12-24T03:04:22.5672598-05:00",
         "Label": "RAM DDR4 CORSAIR Vengeance RGB Pro 16GB 3600mhz White"
-      },
-      {
-        "Price": 109.00,
-        "Features": [
-          "2x16GB",
-          "3600mhz",
-          "CL18"
-        ],
-        "Date": "2023-11-30T11:21:51.4573961-05:00",
-        "Update": "2023-12-24T03:04:22.8308994-05:00",
-        "Label": "RAM DDR4 CORSAIR Vengeance RGB Pro 32GB"
       },
       {
         "Price": 159.00,
@@ -4419,22 +4376,6 @@
         "Date": "2023-08-20T10:12:36.7139467-04:00",
         "Update": "2023-12-24T03:38:07.2169266-05:00",
         "Label": "Monitor Acer 27\" 100Hz 1ms VA"
-      },
-      {
-        "Price": 335.00,
-        "Features": [
-          "8Bit",
-          "FRC",
-          "Gaming",
-          "DP",
-          "1080p",
-          "FHD",
-          "Flat",
-          "250nit"
-        ],
-        "Date": "2023-12-07T22:24:06.0563607-05:00",
-        "Update": "2023-12-24T03:38:07.2717043-05:00",
-        "Label": "Monitor Asus TUF 27\" 144Hz IPS 1ms SPK"
       },
       {
         "Price": 299.00,
