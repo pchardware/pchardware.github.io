@@ -269,6 +269,22 @@
         "Update": "2023-12-20T08:56:15.193999-05:00",
         "Discount": 10.0,
         "Label": "Kit i7-12700K +Gigabyte Z790 UD AX +32GB DDR5 G.Skill Trident Z5 RGB"
+      },
+      {
+        "Price": 505.00,
+        "Features": [
+          "8 Core",
+          "16 Hilos",
+          "2x8",
+          "3600mhz",
+          "6xSATA",
+          "7xUSB",
+          "6xAudio"
+        ],
+        "Date": "2024-01-02T10:00:28.0079066-05:00",
+        "Update": "2024-01-02T10:03:44.1521877-05:00",
+        "Discount": 6.0,
+        "Label": "Kit Ryzen 7 5800X +Gigabyte X570S Gaming X + 16GB DDR4 GeIL ORION 3600mhz"
       }
     ],
     "Entusiasta": [
