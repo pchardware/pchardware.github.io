@@ -1,0 +1,20 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Memoria RAM",
+  "Images": [
+    "/images/products/ram-ddr5-corsair-vengeance-rgb-64gb-5600mhz-1.webp",
+    "/images/products/ram-ddr5-corsair-vengeance-rgb-64gb-5600mhz-2.webp",
+    "/images/products/ram-ddr5-corsair-vengeance-rgb-64gb-5600mhz-3.webp",
+    "/images/products/ram-ddr5-corsair-vengeance-rgb-64gb-5600mhz-4.webp"
+  ],
+  "Description": "Sobre este artículo\r\nBienvenido a la vanguardia del rendimiento: supere los límites de su sistema como nunca antes con la memoria CORSAIR DDR5, desbloqueando frecuencias aún más rápidas, mayores capacidades y un procesamiento de CPU más alto.\r\nIluminación RGB dinámica de diez zonas: Ilumina tu sistema con diez LEDs RGB ultra brillantes direccionables individualmente por módulo, encerrados en una barra de luz panorámica para una iluminación RGB vívida desde cualquier ángulo de visión.\r\nRegulación de voltaje integrada: permite un overclocking más fácil, más fino y estable a través del software CORSAIR iCUE que el control de la placa base de la generación anterior.\r\nPerfiles Intel XMP 3.0 personalizados: Personalice y guarde sus propios perfiles XMP a través de iCUE para adaptar el rendimiento por aplicación o tarea para una mayor eficiencia.\r\nCrea y personaliza: elige entre docenas de perfiles de iluminación preestablecidos o crea el tuyo propio en iCUE.",
+  "Price": 199.00,
+  "Features": [
+    "2x32",
+    "CL36",
+    "Disipadas"
+  ],
+  "Date": "2023-12-28T14:08:05.1609945-05:00",
+  "Update": "2024-01-01T18:56:33.8424324-05:00",
+  "Label": "RAM DDR5 Corsair Vengeance RGB 64GB 5600mhz"
+}
