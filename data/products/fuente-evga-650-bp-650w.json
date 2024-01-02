@@ -1,0 +1,25 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Fuente",
+  "Images": [
+    "/images/products/fuente-evga-650-bp-650w-1.webp",
+    "/images/products/fuente-evga-650-bp-650w-2.webp",
+    "/images/products/fuente-evga-650-bp-650w-3.webp",
+    "/images/products/fuente-evga-650-bp-650w-4.webp",
+    "/images/products/fuente-evga-650-bp-650w-5.webp"
+  ],
+  "Description": "General\nBrand: EVGA\nSeries: BP Series\n\n\nModel\nPart Number: 100-BP-0650-K1\n\n\nDetails\nType: ATX12V / EPS12V\nMaximum Power: 650 W\nFans: 115mm Hydraulic Bearing Fan\nPFC: Active\nMain Connector: 24Pin\n+12V Rails: Single\nPCI-Express Connector: 4x 8pin (6+2)\nSATA Power Connector: 9\nMax PSU Length: 150 mm\nModular: Non-Modular\nEfficiency: 85% or higher (under typical load)\nEnergy-Efficient: 80 PLUS BRONZE Certified\nOverload Protection: Yes\nInput Voltage: 100 - 240 V\nInput Frequency Range: 50/60 Hz\nInput Current: 8-4A\nOutput: +3.3V@20A, +5V@20A, +12V@54.2A, -12V@0.3A, +5Vsb@3A\nMTBF: 100,000 Hours\nApprovals: TUV, CB, CE, FCC, RCM, cTUVus, WEEE, RoHS Compliance with ErP Lot 3 2014 Requirement\nConnectors: 1 x 24 Pin ATX\n1 x 8 Pin EPS (4+4)\n2 x 8 Pin PCIe (6+2)\n6 x SATA\n3 x Four-Pin Peripheral\n1 x Floppy\nCable Spec: ATX Cable: 1x 550mm\nEPS Cable: 1x 600mm\nPCIe Cable: 1x 550mm, 670mm\nSATA Cable: 2x 450mm, 570mm, 690mm\nFour-Pin Peripheral Cable: 1x 450mm, 570mm, 690mm + 810mm (Floppy)\nAC Power: 1x 1200mm (m)\nModular Cable Type: No\n\n\nFeatures\nFeatures: Precision is power, as the EVGA BP power supplies add another affordable option to EVGA's 80PLUS Bronze certified lineup, while reducing the overall length to 120mm - EVGA's shortest ATX power supply to-date! The BP power supplies feature a 115mm hydraulic bearing fan to ensure that staying cool and quiet is no tall order.\nCombining a full suite of protections and EVGA's 3 Year Limited Warranty, this power supply should be on the short list for your next system build.\nActive Power Factor Correction; DC-DC Converter improves 3.3V/5V stability\n80 PLUS Bronze certified, with 85% efficiency or higher under typical loads\nHeavy-duty protections, including OVP, UVP, OCP, OPP, SCP, and OTP\n\n\nDimension & Weight\nDimensions: 86mm (H) x 150mm (W) x 120mm (L)\nWeight: 5 lbs",
+  "Price": 119.00,
+  "Features": [
+    "54A",
+    "80+ Bronce",
+    "1x 4+4Pin",
+    "2x 6+2Pin",
+    "6x SATA",
+    "ATX",
+    "PSU"
+  ],
+  "Date": "2023-12-07T22:24:20.3840718-05:00",
+  "Update": "2024-01-02T09:28:28.348197-05:00",
+  "Label": "Fuente EVGA 650 BP 650W"
+}
