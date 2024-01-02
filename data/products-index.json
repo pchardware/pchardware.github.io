@@ -1975,17 +1975,6 @@
         "Label": "RAM DDR4 Silicon Power Turbine 32GB 3200mhz"
       },
       {
-        "Price": 125.00,
-        "Features": [
-          "2x16GB",
-          "CL18",
-          "Disipadas"
-        ],
-        "Date": "2023-12-28T14:07:27.1052026-05:00",
-        "Update": "2023-12-28T19:11:11.6041864-05:00",
-        "Label": "RAM DDR4 G.SKILL TridentZ RGB 32GB 4000mhz C18"
-      },
-      {
         "Price": 105.00,
         "Features": [
           "2x16GB",
@@ -2079,6 +2068,17 @@
         "Date": "2023-12-28T14:08:05.1609945-05:00",
         "Update": "2024-01-01T18:56:33.8424324-05:00",
         "Label": "RAM DDR5 Corsair Vengeance RGB 64GB 5600mhz"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "2x16GB",
+          "CL18",
+          "Disipadas"
+        ],
+        "Date": "2023-12-28T14:07:27.1052026-05:00",
+        "Update": "2024-01-01T19:09:01.2453168-05:00",
+        "Label": "RAM DDR4 G.SKILL TridentZ RGB 32GB 4000mhz"
       }
     ],
     "Microprocesador": [
@@ -2252,23 +2252,6 @@
         "Label": "Micro Intel Core i3-12100 +Disipador"
       },
       {
-        "Price": 379.00,
-        "Features": [
-          "14va Gen",
-          "14 Core",
-          "20 Hilos",
-          "5.3Ghz",
-          "24MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-11-30T11:21:40.9533793-05:00",
-        "Update": "2023-12-29T07:44:38.7381095-05:00",
-        "Label": "Micro CPU Intel Core i5-14600K"
-      },
-      {
         "Price": 215.00,
         "Features": [
           "5000 Series",
@@ -2316,24 +2299,152 @@
         "Date": "2023-12-28T22:14:48.5974394-05:00",
         "Update": "2023-12-29T07:44:38.8665379-05:00",
         "Label": "Micro AMD Ryzen 3 5300G +Disipador"
+      },
+      {
+        "Price": 379.00,
+        "Features": [
+          "14va Gen",
+          "14 Core",
+          "20 Hilos",
+          "5.3Ghz",
+          "24MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-11-30T11:21:40.9533793-05:00",
+        "Update": "2024-01-01T19:09:01.2649941-05:00",
+        "Label": "Micro Intel Core i5-14600K"
+      }
+    ],
+    "Chasis": [
+      {
+        "Price": 315.00,
+        "Features": [
+          "Vertical",
+          "Tempered Glass",
+          "3xFan",
+          "RGB",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "2xHDD",
+          "Negro"
+        ],
+        "Date": "2023-06-19T07:49:30.2036169-04:00",
+        "Update": "2023-10-28T09:10:46.2683164-04:00",
+        "Label": "Chasis Corsair iCUE 4000X RGB"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "2x140mm",
+          "ARGB",
+          "Tempered Glass",
+          "Mesh",
+          "2xFan",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "Blanco",
+          "2xHDD"
+        ],
+        "Date": "2023-10-19T09:32:02.3777136-04:00",
+        "Update": "2023-11-07T21:13:39.6139582-05:00",
+        "Label": "Chasis Fractal Design Focus 2 RGB White"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "Vertical",
+          "Tempered Glass",
+          "2xFan",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "2xHDD",
+          "Negro"
+        ],
+        "Date": "2023-11-11T12:36:37.8216832-05:00",
+        "Update": "2023-11-11T12:58:59.609044-05:00",
+        "Label": "Chasis Corsair 4000D Airflow"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "Micro ATX",
+          "x2 USB",
+          "Acrilico",
+          "Dust Filter",
+          "Modular I/O Panel",
+          "Negro"
+        ],
+        "Date": "2023-12-07T22:24:12.9113994-05:00",
+        "Update": "2023-12-08T12:55:48.7729192-05:00",
+        "Label": "Chasis Cooler Master MasterBox Q300L Gray"
+      },
+      {
+        "Price": 179.00,
+        "Features": [
+          "ATX",
+          "Mid Tower",
+          "Tempered Glass",
+          "x1 HDD3.5",
+          "x3 HDD2.5",
+          "120mm D-RGB fan"
+        ],
+        "Date": "2023-11-30T11:20:38.8740683-05:00",
+        "Update": "2023-12-08T13:42:07.753321-05:00",
+        "Label": "Chasis Phanteks Eclipse G300A Mesh D-RGB Black"
+      },
+      {
+        "Price": 99.00,
+        "Features": [
+          "8 GPU",
+          "Acero",
+          "Abierto"
+        ],
+        "Date": "2023-06-07T15:06:17.9384399-04:00",
+        "Update": "2023-12-14T07:55:28.8181172-05:00",
+        "Label": "Chasis MLLIQUEA Mining Rig Frame"
+      },
+      {
+        "Price": 245.00,
+        "Features": [
+          "Vertical",
+          "Tempered Glass",
+          "Mesh",
+          "3xFan",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "2xHDD",
+          "Blanco"
+        ],
+        "Date": "2023-12-28T14:07:38.0093413-05:00",
+        "Update": "2023-12-28T16:21:40.6398664-05:00",
+        "Label": "Chasis Phanteks Eclipse P400A Mesh White"
+      },
+      {
+        "Price": 399.00,
+        "Features": [
+          "Vertical",
+          "Tempered Glass",
+          "1xFan",
+          "RGB",
+          "Gamer",
+          "4xHDD",
+          "Negro",
+          "Mid Tower",
+          "ATX"
+        ],
+        "Date": "2023-12-28T22:14:39.8777755-05:00",
+        "Update": "2023-12-29T07:44:38.8350198-05:00",
+        "Label": "Chasis Asus TUF GT501 GRY"
       }
     ],
     "Tarjeta Gráfica": [
-      {
-        "Price": 69.00,
-        "Features": [
-          "1xFan",
-          "300WR",
-          "145mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-10-23T12:32:17.3770137-04:00",
-        "Update": "2023-10-23T14:55:22.5768316-04:00",
-        "Label": "Tarjeta de Video EVGA GT 730 2GB"
-      },
       {
         "Price": 515.00,
         "Features": [
@@ -2637,21 +2748,6 @@
         "Label": "Tarjeta de Video XFX Swift 319 RX 6800 16GB"
       },
       {
-        "Price": 395.00,
-        "Features": [
-          "2xFan",
-          "2x8Pin",
-          "650WR",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-07-26T16:40:56.6283918-04:00",
-        "Update": "2023-12-24T03:17:29.4719109-05:00",
-        "Label": "MSI Mech Radeon RX 6750 XT 12GB"
-      },
-      {
         "Price": 379.00,
         "Features": [
           "DLSS3",
@@ -2669,38 +2765,6 @@
         "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X White OC 8GB"
       },
       {
-        "Price": 335.00,
-        "Features": [
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "PCIe4",
-          "235 mm",
-          "GeForce",
-          "NVIDIA",
-          "Gráfica"
-        ],
-        "Date": "2023-04-09T07:40:21.1128823-04:00",
-        "Update": "2023-12-24T03:17:29.5229843-05:00",
-        "Label": "MSI RTX 3060 Ventus 2x OC 8GB"
-      },
-      {
-        "Price": 329.00,
-        "Features": [
-          "1xFan",
-          "1x8Pin",
-          "550WR",
-          "PCIe4",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-12-28T14:07:53.0091888-05:00",
-        "Update": "2023-12-28T17:18:21.9745311-05:00",
-        "Label": "Tarjeta de Video Acer Predator BiFrost RX 7600 OC"
-      },
-      {
         "Price": 395.00,
         "Features": [
           "DLSS3",
@@ -2716,132 +2780,68 @@
         "Date": "2023-11-18T08:41:47.9392507-05:00",
         "Update": "2023-12-28T22:16:19.7412336-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Eagle OC 8GB"
-      }
-    ],
-    "Chasis": [
-      {
-        "Price": 315.00,
-        "Features": [
-          "Vertical",
-          "Tempered Glass",
-          "3xFan",
-          "RGB",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "2xHDD",
-          "Negro"
-        ],
-        "Date": "2023-06-19T07:49:30.2036169-04:00",
-        "Update": "2023-10-28T09:10:46.2683164-04:00",
-        "Label": "Chasis Corsair iCUE 4000X RGB"
       },
       {
-        "Price": 215.00,
+        "Price": 69.00,
         "Features": [
-          "2x140mm",
-          "ARGB",
-          "Tempered Glass",
-          "Mesh",
+          "300WR",
+          "145mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica",
+          "1xFan"
+        ],
+        "Date": "2023-10-23T12:32:17.3770137-04:00",
+        "Update": "2024-01-01T19:09:01.095339-05:00",
+        "Label": "Tarjeta de Video EVGA GT 730 2GB"
+      },
+      {
+        "Price": 395.00,
+        "Features": [
           "2xFan",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Blanco",
-          "2xHDD"
+          "2x8Pin",
+          "650WR",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
         ],
-        "Date": "2023-10-19T09:32:02.3777136-04:00",
-        "Update": "2023-11-07T21:13:39.6139582-05:00",
-        "Label": "Chasis Fractal Design Focus 2 RGB White"
+        "Date": "2023-07-26T16:40:56.6283918-04:00",
+        "Update": "2024-01-01T19:09:01.1272548-05:00",
+        "Label": "Tarjeta de Video MSI Mech Radeon RX 6750 XT 12GB"
       },
       {
-        "Price": 275.00,
+        "Price": 335.00,
         "Features": [
-          "Vertical",
-          "Tempered Glass",
           "2xFan",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "2xHDD",
-          "Negro"
+          "1x8Pin",
+          "550WR",
+          "PCIe4",
+          "235 mm",
+          "GeForce",
+          "NVIDIA",
+          "Gráfica"
         ],
-        "Date": "2023-11-11T12:36:37.8216832-05:00",
-        "Update": "2023-11-11T12:58:59.609044-05:00",
-        "Label": "Chasis Corsair 4000D Airflow"
+        "Date": "2023-04-09T07:40:21.1128823-04:00",
+        "Update": "2024-01-01T19:09:01.1566643-05:00",
+        "Label": "Tarjeta de Video MSI RTX 3060 Ventus 2x OC 8GB"
       },
       {
-        "Price": 135.00,
+        "Price": 329.00,
         "Features": [
-          "Micro ATX",
-          "x2 USB",
-          "Acrilico",
-          "Dust Filter",
-          "Modular I/O Panel",
-          "Negro"
+          "1x8Pin",
+          "550WR",
+          "PCIe4",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica",
+          "1xFan"
         ],
-        "Date": "2023-12-07T22:24:12.9113994-05:00",
-        "Update": "2023-12-08T12:55:48.7729192-05:00",
-        "Label": "Chasis Cooler Master MasterBox Q300L Gray"
-      },
-      {
-        "Price": 179.00,
-        "Features": [
-          "ATX",
-          "Mid Tower",
-          "Tempered Glass",
-          "x1 HDD3.5",
-          "x3 HDD2.5",
-          "120mm D-RGB fan"
-        ],
-        "Date": "2023-11-30T11:20:38.8740683-05:00",
-        "Update": "2023-12-08T13:42:07.753321-05:00",
-        "Label": "Chasis Phanteks Eclipse G300A Mesh D-RGB Black"
-      },
-      {
-        "Price": 99.00,
-        "Features": [
-          "8 GPU",
-          "Acero",
-          "Abierto"
-        ],
-        "Date": "2023-06-07T15:06:17.9384399-04:00",
-        "Update": "2023-12-14T07:55:28.8181172-05:00",
-        "Label": "Chasis MLLIQUEA Mining Rig Frame"
-      },
-      {
-        "Price": 245.00,
-        "Features": [
-          "Vertical",
-          "Tempered Glass",
-          "Mesh",
-          "3xFan",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "2xHDD",
-          "Blanco"
-        ],
-        "Date": "2023-12-28T14:07:38.0093413-05:00",
-        "Update": "2023-12-28T16:21:40.6398664-05:00",
-        "Label": "Chasis Phanteks Eclipse P400A Mesh White"
-      },
-      {
-        "Price": 399.00,
-        "Features": [
-          "Vertical",
-          "Tempered Glass",
-          "1xFan",
-          "RGB",
-          "Gamer",
-          "4xHDD",
-          "Negro",
-          "Mid Tower",
-          "ATX"
-        ],
-        "Date": "2023-12-28T22:14:39.8777755-05:00",
-        "Update": "2023-12-29T07:44:38.8350198-05:00",
-        "Label": "Chasis Asus TUF GT501 GRY"
+        "Date": "2023-12-28T14:07:53.0091888-05:00",
+        "Update": "2024-01-01T19:09:01.2284065-05:00",
+        "Label": "Tarjeta de Video Acer Predator BiFrost RX 7600 OC"
       }
     ],
     "Red": [
@@ -3140,19 +3140,6 @@
         "Label": "Board Gigabyte B760M DS3H DDR4"
       },
       {
-        "Price": 290.00,
-        "Features": [
-          "12va-13ra",
-          "DDR5",
-          "7600mhz",
-          "LGA 1700",
-          "ATX"
-        ],
-        "Date": "2023-05-14T10:52:20.5741642-04:00",
-        "Update": "2023-12-28T14:06:43.8590913-05:00",
-        "Label": "Gigabyte Z790 UD AC"
-      },
-      {
         "Price": 205.00,
         "Features": [
           "AM4",
@@ -3185,6 +3172,19 @@
         "Date": "2023-12-28T14:08:17.4889383-05:00",
         "Update": "2023-12-28T16:17:00.4028227-05:00",
         "Label": "Board Gigabyte X570S Gaming X"
+      },
+      {
+        "Price": 290.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "7600mhz",
+          "LGA 1700",
+          "ATX"
+        ],
+        "Date": "2023-05-14T10:52:20.5741642-04:00",
+        "Update": "2024-01-01T19:09:01.2105311-05:00",
+        "Label": "Board Gigabyte Z790 UD AC"
       }
     ]
   },
@@ -4346,22 +4346,6 @@
         "Label": "Monitor Acer Nitro 27\" 1440p Curvo 144Hz 1ms VA SPK"
       },
       {
-        "Price": 249.00,
-        "Features": [
-          "8Bit",
-          "FRC",
-          "Gaming",
-          "DP",
-          "1080p",
-          "FHD",
-          "Flat",
-          "TN"
-        ],
-        "Date": "2023-06-24T08:20:03.8135275-04:00",
-        "Update": "2023-12-24T03:38:07.1944094-05:00",
-        "Label": "Monitor Asus TUF 24\" 165Hz 350nit 0.5ms SPK"
-      },
-      {
         "Price": 255.00,
         "Features": [
           "8Bit",
@@ -4376,6 +4360,38 @@
         "Date": "2023-08-20T10:12:36.7139467-04:00",
         "Update": "2023-12-24T03:38:07.2169266-05:00",
         "Label": "Monitor Acer 27\" 100Hz 1ms VA"
+      },
+      {
+        "Price": 439.00,
+        "Features": [
+          "2K",
+          "HDR400",
+          "8Bit",
+          "Gaming",
+          "Flat",
+          "DP",
+          "QHD"
+        ],
+        "Date": "2023-08-20T10:12:32.3834228-04:00",
+        "Update": "2023-12-24T03:38:07.3470026-05:00",
+        "Label": "Monitor Gigabyte 27\" 1440p 144Hz IPS 1ms A.Ajustable 350nit 2xUSB3 SPK"
+      },
+      {
+        "Price": 249.00,
+        "Features": [
+          "8Bit",
+          "FRC",
+          "350nit",
+          "Gaming",
+          "DP",
+          "1080p",
+          "FHD",
+          "Flat",
+          "TN"
+        ],
+        "Date": "2023-06-24T08:20:03.8135275-04:00",
+        "Update": "2024-01-01T19:09:01.1738899-05:00",
+        "Label": "Monitor Asus TUF 24\" 165Hz 0.5ms SPK"
       },
       {
         "Price": 299.00,
@@ -4394,23 +4410,8 @@
           "Curved"
         ],
         "Date": "2023-12-15T02:02:56.6237032-05:00",
-        "Update": "2023-12-24T03:38:07.2973211-05:00",
-        "Label": "Monitor MSI Pro 27FHD 75Hz VA 1ms 250nit 8b SPK-2W Curved MP272C Black"
-      },
-      {
-        "Price": 439.00,
-        "Features": [
-          "2K",
-          "HDR400",
-          "8Bit",
-          "Gaming",
-          "Flat",
-          "DP",
-          "QHD"
-        ],
-        "Date": "2023-08-20T10:12:32.3834228-04:00",
-        "Update": "2023-12-24T03:38:07.3470026-05:00",
-        "Label": "Monitor Gigabyte 27\" 1440p 144Hz IPS 1ms A.Ajustable 350nit 2xUSB3 SPK"
+        "Update": "2024-01-01T19:09:01.1943437-05:00",
+        "Label": "Monitor MSI Pro 27\" 75Hz VA 1ms 250nit 8b SPK-2W Curved MP272C Black"
       },
       {
         "Price": 259.00,
@@ -4424,8 +4425,8 @@
           "VA"
         ],
         "Date": "2023-12-28T14:08:53.0334804-05:00",
-        "Update": "2023-12-29T08:26:03.5106723-05:00",
-        "Label": "Monitor AOC 24FHD 165Hz VA 1ms 350nit [24G2SE]"
+        "Update": "2024-01-01T19:09:01.2883342-05:00",
+        "Label": "Monitor AOC 24\" 165Hz VA 1ms"
       }
     ],
     "Backup": [
