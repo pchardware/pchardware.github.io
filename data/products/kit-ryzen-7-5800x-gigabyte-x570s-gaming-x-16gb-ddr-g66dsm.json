@@ -1,0 +1,28 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-ryzen-7-5800x-gigabyte-x570s-gaming-x-16gb-ddr-g66dsm-1.webp",
+    "/images/products/kit-ryzen-7-5800x-gigabyte-x570s-gaming-x-16gb-ddr-g66dsm-2.webp",
+    "/images/products/kit-ryzen-7-5800x-gigabyte-x570s-gaming-x-16gb-ddr-g66dsm-3.webp",
+    "/images/products/kit-ryzen-7-5800x-gigabyte-x570s-gaming-x-16gb-ddr-g66dsm-4.webp",
+    "/images/products/kit-ryzen-7-5800x-gigabyte-x570s-gaming-x-16gb-ddr-g66dsm-5.webp",
+    "/images/products/kit-ryzen-7-5800x-gigabyte-x570s-gaming-x-16gb-ddr-g66dsm-6.webp",
+    "/images/products/kit-ryzen-7-5800x-gigabyte-x570s-gaming-x-16gb-ddr-g66dsm-7.webp"
+  ],
+  "Description": "+ Micro AMD Ryzen 7 5800X\n+ Board Gigabyte X570S Gaming X\n+ RAM DDR4 GeIL ORION 16GB 3600mhz\n",
+  "Price": 505.00,
+  "Features": [
+    "8 Core",
+    "16 Hilos",
+    "2x8",
+    "3600mhz",
+    "6xSATA",
+    "7xUSB",
+    "6xAudio"
+  ],
+  "Date": "2024-01-02T10:00:28.0079066-05:00",
+  "Update": "2024-01-02T10:03:44.1521877-05:00",
+  "Discount": 6.0,
+  "Label": "Kit Ryzen 7 5800X +Gigabyte X570S Gaming X + 16GB DDR4 GeIL ORION 3600mhz"
+}
