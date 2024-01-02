@@ -88,6 +88,14 @@
         "Update": "2023-12-27T07:13:47.0805184-05:00",
         "Discount": 22.0,
         "Label": "Torre Ryzen 5 5600G +B550 Gaming X V2 +16GB DDR4 +600W +500GB M.2"
+      },
+      {
+        "Price": 1079.00,
+        "Features": [],
+        "Date": "2024-01-02T09:23:47.2212561-05:00",
+        "Update": "2024-01-02T09:27:25.2950398-05:00",
+        "Discount": 35.0,
+        "Label": "Torre RX 6600 8GB +i5-12400 +Z690M Phantom Gaming +16GB DDR4 +500GB M.2 +650W"
       }
     ],
     "Multimedia": [
@@ -931,21 +939,6 @@
         "Label": "Fuente Thermaltake SMART 500W"
       },
       {
-        "Price": 119.00,
-        "Features": [
-          "54A",
-          "80+ Bronce",
-          "1x 4+4Pin",
-          "2x 6+2Pin",
-          "6x SATA",
-          "ATX",
-          "PSU"
-        ],
-        "Date": "2023-12-07T22:24:20.3840718-05:00",
-        "Update": "2023-12-29T14:20:08.1048768-05:00",
-        "Label": "Fuente EVGA 650 BP"
-      },
-      {
         "Price": 195.00,
         "Features": [
           "ATX 3.0",
@@ -966,6 +959,21 @@
         "Label": "Fuente Corsair RM850e 850W"
       },
       {
+        "Price": 119.00,
+        "Features": [
+          "54A",
+          "80+ Bronce",
+          "1x 4+4Pin",
+          "2x 6+2Pin",
+          "6x SATA",
+          "ATX",
+          "PSU"
+        ],
+        "Date": "2023-12-07T22:24:20.3840718-05:00",
+        "Update": "2024-01-02T09:28:28.348197-05:00",
+        "Label": "Fuente EVGA 650 BP 650W"
+      },
+      {
         "Price": 205.00,
         "Features": [
           "80+ PLATINUM",
@@ -978,8 +986,8 @@
           "ATX"
         ],
         "Date": "2023-11-14T14:40:10.1214379-05:00",
-        "Update": "2023-12-31T09:21:42.823758-05:00",
-        "Label": "Fuente EVGA Supernova 850 P5"
+        "Update": "2024-01-02T09:28:28.3740432-05:00",
+        "Label": "Fuente EVGA Supernova 850 P5 850W"
       }
     ],
     "Disipador Líquido": [
@@ -4392,26 +4400,6 @@
         "Date": "2023-06-24T08:20:03.8135275-04:00",
         "Update": "2024-01-01T19:09:01.1738899-05:00",
         "Label": "Monitor Asus TUF 24\" 165Hz 0.5ms SPK"
-      },
-      {
-        "Price": 299.00,
-        "Features": [
-          "1ms",
-          "8Bit",
-          "1080p",
-          "75Hz",
-          "250nit",
-          "FHD",
-          "FreeSync",
-          "Speakers",
-          "HDMI",
-          "D-Sub",
-          "VA",
-          "Curved"
-        ],
-        "Date": "2023-12-15T02:02:56.6237032-05:00",
-        "Update": "2024-01-01T19:09:01.1943437-05:00",
-        "Label": "Monitor MSI Pro 27\" 75Hz VA 1ms 250nit 8b SPK-2W Curved MP272C Black"
       },
       {
         "Price": 259.00,
