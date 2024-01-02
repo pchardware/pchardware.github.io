@@ -1,0 +1,28 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Moderado",
+  "Images": [
+    "/images/products/kit-i5-12400-disipador-msi-pro-b760m-p-ddr4-16gb-d-fse9et-1.webp",
+    "/images/products/kit-i5-12400-disipador-msi-pro-b760m-p-ddr4-16gb-d-fse9et-2.webp",
+    "/images/products/kit-i5-12400-disipador-msi-pro-b760m-p-ddr4-16gb-d-fse9et-3.webp",
+    "/images/products/kit-i5-12400-disipador-msi-pro-b760m-p-ddr4-16gb-d-fse9et-4.webp",
+    "/images/products/kit-i5-12400-disipador-msi-pro-b760m-p-ddr4-16gb-d-fse9et-5.webp",
+    "/images/products/kit-i5-12400-disipador-msi-pro-b760m-p-ddr4-16gb-d-fse9et-6.webp",
+    "/images/products/kit-i5-12400-disipador-msi-pro-b760m-p-ddr4-16gb-d-fse9et-7.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12400 +Disipador\n+ Board MSI Pro B760M-P DDR4\n+ RAM DDR4 GeIL ORION 16GB 3600mhz\n",
+  "Price": 435.00,
+  "Features": [
+    "12 Hilos",
+    "6 Core",
+    "4.4GHz",
+    "2x8",
+    "3600mhz",
+    "5xUSB",
+    "4xSATA"
+  ],
+  "Date": "2024-01-02T11:50:49.3478671-05:00",
+  "Update": "2024-01-02T11:54:23.9296741-05:00",
+  "Discount": 6.0,
+  "Label": "Kit i5-12400 +Disipador +MSI Pro B760M-P DDR4 + 16GB DDR4 GeIL ORION 3600mhz"
+}
