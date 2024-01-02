@@ -48,39 +48,23 @@
   "Torres": {
     "Pro": [
       {
-        "Price": 1143.00,
-        "Features": [],
-        "Date": "2023-12-17T04:05:31.2362407-05:00",
-        "Update": "2023-12-17T04:11:55.5117572-05:00",
-        "Discount": 37.0,
-        "Label": "Torre RX 6600 8GB +Ryzen 7 5800X +B550 Gaming X +16GB DDR4 +1TB M.2 +650W"
-      },
-      {
         "Price": 989.00,
         "Features": [],
         "Date": "2023-12-23T03:29:29.7231239-05:00",
         "Update": "2023-12-23T03:32:26.283786-05:00",
         "Discount": 32.0,
         "Label": "Torre i7-12700K +Cooler Master +Z790 UD AX +32GB DDR5 +500GB M.2+ 600W +Phanteks"
+      },
+      {
+        "Price": 1145.00,
+        "Features": [],
+        "Date": "2023-12-17T04:05:31.2362407-05:00",
+        "Update": "2024-01-02T11:36:07.741274-05:00",
+        "Discount": 35.0,
+        "Label": "Torre RX 6600 8GB +Ryzen 7 5800X +B550 Gaming X +16GB DDR4 +1TB M.2 +650W"
       }
     ],
     "Gamer": [
-      {
-        "Price": 1397.00,
-        "Features": [],
-        "Date": "2023-12-20T14:34:43.1931436-05:00",
-        "Update": "2023-12-20T14:37:57.4683367-05:00",
-        "Discount": 33.0,
-        "Label": "Torre RX 6600 8GB +i7-12700K +Z790 UD AX +32GB DDR5 +1TB M.2 +850W +Chasis"
-      },
-      {
-        "Price": 1437.00,
-        "Features": [],
-        "Date": "2023-12-23T03:03:11.3130204-05:00",
-        "Update": "2023-12-23T03:05:27.4984878-05:00",
-        "Discount": 35.0,
-        "Label": "Torre RX 7600 8GB +i7-12700K +Strix Z690-E Gaming +32GB DDR5 +500GB M.2 +850W"
-      },
       {
         "Price": 735.00,
         "Features": [],
@@ -112,6 +96,30 @@
         "Update": "2024-01-02T09:50:48.9704991-05:00",
         "Discount": 33.0,
         "Label": "Torre RX 6600 8GB +R7 5800X +X570S Gaming X +16GB DDR4 3600mhz +1TB M.2 +850W"
+      },
+      {
+        "Price": 1235.00,
+        "Features": [],
+        "Date": "2024-01-02T11:30:47.9140583-05:00",
+        "Update": "2024-01-02T11:34:13.0778297-05:00",
+        "Discount": 33.0,
+        "Label": "Torre RX 6600 8GB +i5-12400 +Asus Prime Z790-V Wifi +16GB DDR4 +1TB M.2 +650W"
+      },
+      {
+        "Price": 1399.00,
+        "Features": [],
+        "Date": "2023-12-20T14:34:43.1931436-05:00",
+        "Update": "2024-01-02T11:36:07.7772999-05:00",
+        "Discount": 31.0,
+        "Label": "Torre RX 6600 8GB +i7-12700K +Z790 UD AX +32GB DDR5 +1TB M.2 +850W +Chasis"
+      },
+      {
+        "Price": 1439.00,
+        "Features": [],
+        "Date": "2023-12-23T03:03:11.3130204-05:00",
+        "Update": "2024-01-02T11:36:07.8100924-05:00",
+        "Discount": 33.0,
+        "Label": "Torre RX 7600 8GB +i7-12700K +Strix Z690-E Gaming +32GB DDR5 +500GB M.2 +850W"
       }
     ],
     "Multimedia": [
