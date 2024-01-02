@@ -1975,13 +1975,6 @@
         "Label": "RAM DDR4 Silicon Power Turbine 32GB 3200mhz"
       },
       {
-        "Price": 185.00,
-        "Features": [],
-        "Date": "2023-12-28T14:07:23.8098728-05:00",
-        "Update": "2023-12-28T19:11:11.5789571-05:00",
-        "Label": "RAM DDR4 G.Skill TridentZ RGB 64GB (2x32GB) 3600mhz C18"
-      },
-      {
         "Price": 125.00,
         "Features": [
           "2x16GB",
@@ -2013,17 +2006,6 @@
         "Date": "2023-12-28T14:07:45.8653331-05:00",
         "Update": "2023-12-28T19:11:11.6570708-05:00",
         "Label": "RAM DDR4 Crucial Pro 64GB 3200mhz"
-      },
-      {
-        "Price": 145.00,
-        "Features": [
-          "2x16GB",
-          "CL36",
-          "Disipadas"
-        ],
-        "Date": "2023-12-28T14:07:59.5464623-05:00",
-        "Update": "2023-12-28T19:11:11.6831089-05:00",
-        "Label": "RAM DDR5 CORSAIR Vengeance RGB 32GB (2x16GB) 6200mhz C36"
       },
       {
         "Price": 93.00,
@@ -2070,6 +2052,24 @@
         "Label": "RAM DDR4 Silicon Power 16GB 3200mhz"
       },
       {
+        "Price": 185.00,
+        "Features": [],
+        "Date": "2023-12-28T14:07:23.8098728-05:00",
+        "Update": "2024-01-01T18:56:33.8116537-05:00",
+        "Label": "RAM DDR4 G.Skill TridentZ RGB 64GB 3600mhz"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "2x16GB",
+          "CL36",
+          "Disipadas"
+        ],
+        "Date": "2023-12-28T14:07:59.5464623-05:00",
+        "Update": "2024-01-01T18:56:33.8273851-05:00",
+        "Label": "RAM DDR5 CORSAIR Vengeance RGB 32GB 6200mhz"
+      },
+      {
         "Price": 199.00,
         "Features": [
           "2x32",
@@ -2077,8 +2077,8 @@
           "Disipadas"
         ],
         "Date": "2023-12-28T14:08:05.1609945-05:00",
-        "Update": "2023-12-29T08:27:02.7773572-05:00",
-        "Label": "RAM DDR5 Corsair Vengeance RGB 64GB (2x32GB) 5600mhz C36"
+        "Update": "2024-01-01T18:56:33.8424324-05:00",
+        "Label": "RAM DDR5 Corsair Vengeance RGB 64GB 5600mhz"
       }
     ],
     "Microprocesador": [
