@@ -1044,6 +1044,21 @@
         "Date": "2023-11-14T14:40:10.1214379-05:00",
         "Update": "2024-01-02T09:28:28.3740432-05:00",
         "Label": "Fuente EVGA Supernova 850 P5 850W"
+      },
+      {
+        "Price": 99.00,
+        "Features": [
+          "38A",
+          "80+ Bronce",
+          "1x 4+4Pin",
+          "2x 6+2Pin",
+          "5x SATA",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-12-28T22:14:34.526509-05:00",
+        "Update": "2024-01-03T08:15:00.6583948-05:00",
+        "Label": "Fuente Corsair CX500M"
       }
     ],
     "Disipador Líquido": [
