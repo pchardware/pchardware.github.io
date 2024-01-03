@@ -16,14 +16,6 @@
         "Update": "2023-12-27T07:05:15.3501879-05:00",
         "Discount": 29.0,
         "Label": "PC Ryzen 5 5600G +B550 Gaming X V2 +16GB DDR4 +500GB M.2 +600W +Acer 24\""
-      },
-      {
-        "Price": 1789.00,
-        "Features": [],
-        "Date": "2023-12-20T23:07:39.8479527-05:00",
-        "Update": "2024-01-02T11:54:57.5677118-05:00",
-        "Discount": 52.0,
-        "Label": "PC Gamer RX 7600 8GB +i7-12700K +Z790 UD AX +32GB Corsair +1TB M.2 +Acer 24\""
       }
     ],
     "Multimedia": [
@@ -46,24 +38,6 @@
     ]
   },
   "Torres": {
-    "Pro": [
-      {
-        "Price": 989.00,
-        "Features": [],
-        "Date": "2023-12-23T03:29:29.7231239-05:00",
-        "Update": "2023-12-23T03:32:26.283786-05:00",
-        "Discount": 32.0,
-        "Label": "Torre i7-12700K +Cooler Master +Z790 UD AX +32GB DDR5 +500GB M.2+ 600W +Phanteks"
-      },
-      {
-        "Price": 1145.00,
-        "Features": [],
-        "Date": "2023-12-17T04:05:31.2362407-05:00",
-        "Update": "2024-01-02T11:36:07.741274-05:00",
-        "Discount": 35.0,
-        "Label": "Torre RX 6600 8GB +Ryzen 7 5800X +B550 Gaming X +16GB DDR4 +1TB M.2 +650W"
-      }
-    ],
     "Gamer": [
       {
         "Price": 735.00,
@@ -104,30 +78,6 @@
         "Update": "2024-01-02T11:34:13.0778297-05:00",
         "Discount": 33.0,
         "Label": "Torre RX 6600 8GB +i5-12400 +Asus Prime Z790-V Wifi +16GB DDR4 +1TB M.2 +650W"
-      },
-      {
-        "Price": 1399.00,
-        "Features": [],
-        "Date": "2023-12-20T14:34:43.1931436-05:00",
-        "Update": "2024-01-02T11:36:07.7772999-05:00",
-        "Discount": 31.0,
-        "Label": "Torre RX 6600 8GB +i7-12700K +Z790 UD AX +32GB DDR5 +1TB M.2 +850W +Chasis"
-      },
-      {
-        "Price": 1439.00,
-        "Features": [],
-        "Date": "2023-12-23T03:03:11.3130204-05:00",
-        "Update": "2024-01-02T11:36:07.8100924-05:00",
-        "Discount": 33.0,
-        "Label": "Torre RX 7600 8GB +i7-12700K +Strix Z690-E Gaming +32GB DDR5 +500GB M.2 +850W"
-      },
-      {
-        "Price": 1939.00,
-        "Features": [],
-        "Date": "2024-01-03T08:41:10.7308236-05:00",
-        "Update": "2024-01-03T08:43:06.1958212-05:00",
-        "Discount": 33.0,
-        "Label": "Torre RTX 4060 Ti Elite OC 8GB +i7-12700K +Strix Z690-E Gaming +32GB DDR5 +1000W"
       }
     ],
     "Multimedia": [
@@ -156,6 +106,16 @@
         "Label": "Torre i5-12400 +B660 ProArt Creator D4 +16GB DDR4 +480GB SSD +600W +Chasis"
       }
     ],
+    "Pro": [
+      {
+        "Price": 1145.00,
+        "Features": [],
+        "Date": "2023-12-17T04:05:31.2362407-05:00",
+        "Update": "2024-01-02T11:36:07.741274-05:00",
+        "Discount": 35.0,
+        "Label": "Torre RX 6600 8GB +Ryzen 7 5800X +B550 Gaming X +16GB DDR4 +1TB M.2 +650W"
+      }
+    ],
     "Entusiasta": [
       {
         "Price": 2745.00,
@@ -169,23 +129,6 @@
   },
   "Kits": {
     "Rendimiento": [
-      {
-        "Price": 815.00,
-        "Features": [
-          "12 Core",
-          "24 Hilos",
-          "5.6Ghz",
-          "2x16",
-          "6200mhz",
-          "x6 USB",
-          "Wifi",
-          "ATX"
-        ],
-        "Date": "2023-12-05T10:30:22.148851-05:00",
-        "Update": "2023-12-05T10:55:15.8900467-05:00",
-        "Discount": 13.0,
-        "Label": "Kit Ryzen 9 7900X + Disipador + Asus TUF Gaming B650-Plus + 32GB DDR5"
-      },
       {
         "Price": 805.00,
         "Features": [
@@ -230,56 +173,6 @@
         "Update": "2023-12-09T09:40:35.5064811-05:00",
         "Discount": 8.0,
         "Label": "Kit i9-13900K +Board Gigabyte Z790 + 32GB DDR5 G.Skill"
-      },
-      {
-        "Price": 715.00,
-        "Features": [
-          "20 Hilos",
-          "12 Core",
-          "DDR5",
-          "7200mmhz",
-          "Wifi",
-          "4xSATA",
-          "LGA 1700"
-        ],
-        "Date": "2023-12-18T07:04:02.8192843-05:00",
-        "Update": "2023-12-18T07:13:05.7270456-05:00",
-        "Discount": 13.0,
-        "Label": "Kit i7-12700K +MSI Z790 Gaming Pro Wifi + 32GB DDR5 6000mhz G.Skill Ripjaws"
-      },
-      {
-        "Price": 535.00,
-        "Features": [
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "2x8GB",
-          "Disipadas",
-          "CL18",
-          "x8 USB",
-          "x4 SATA"
-        ],
-        "Date": "2023-12-20T07:42:28.408994-05:00",
-        "Update": "2023-12-20T08:56:15.1585026-05:00",
-        "Discount": 10.0,
-        "Label": "Kit i7-12700K +ASRock Z690 Phantom Gaming 4 +16GB DDR4 Corsair Vengeance RGB RT"
-      },
-      {
-        "Price": 649.00,
-        "Features": [
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "2x16GB",
-          "Disipadas",
-          "CL36",
-          "9xUSB",
-          "6xSATA"
-        ],
-        "Date": "2023-12-20T07:43:30.281921-05:00",
-        "Update": "2023-12-20T08:56:15.193999-05:00",
-        "Discount": 10.0,
-        "Label": "Kit i7-12700K +Gigabyte Z790 UD AX +32GB DDR5 G.Skill Trident Z5 RGB"
       },
       {
         "Price": 505.00,
@@ -711,18 +604,6 @@
         "Date": "2023-07-26T16:41:29.0221883-04:00",
         "Update": "2023-12-14T07:55:28.9260796-05:00",
         "Label": "Thermalright LGA1700-BCF Black"
-      },
-      {
-        "Price": 37.00,
-        "Features": [
-          "3x120mm",
-          "PWM",
-          "1550rpm",
-          "66cfm"
-        ],
-        "Date": "2023-09-11T09:09:09.8558272-04:00",
-        "Update": "2023-12-17T03:15:31.0709659-05:00",
-        "Label": "Fan Thermalright KIT ARGB"
       },
       {
         "Price": 87.00,
@@ -1482,17 +1363,6 @@
         "Label": "SSD M.2 Intel 670P 2TB"
       },
       {
-        "Price": 179.0,
-        "Features": [
-          "7450mbs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-08-29T08:42:45.4600847-04:00",
-        "Update": "2023-10-25T15:46:32.5491128-04:00",
-        "Label": "SSD M.2 Samsung 990 Pro 2TB"
-      },
-      {
         "Price": 69.00,
         "Features": [
           "540mbps",
@@ -1665,17 +1535,6 @@
         "Date": "2023-12-15T02:02:51.8715106-05:00",
         "Update": "2023-12-24T02:51:09.8888411-05:00",
         "Label": "SSD M.2 MSI SPatium M371 1TB"
-      },
-      {
-        "Price": 55.00,
-        "Features": [
-          "2100MBps",
-          "PCIe3",
-          "NVMe"
-        ],
-        "Date": "2023-12-07T13:20:39.5602767-05:00",
-        "Update": "2023-12-24T02:51:09.9251799-05:00",
-        "Label": "SSD M.2 HP EX900 500GB"
       },
       {
         "Price": 73.00,
@@ -1871,17 +1730,6 @@
         "Date": "2023-05-11T08:38:23.3870937-04:00",
         "Update": "2023-10-09T17:48:21.1505023-04:00",
         "Label": "RAM DDR5 Gigabyte AORUS 32GB 5200mhz"
-      },
-      {
-        "Price": 109.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL40"
-        ],
-        "Date": "2023-10-09T15:59:12.4893615-04:00",
-        "Update": "2023-10-09T17:48:21.9673865-04:00",
-        "Label": "RAM DDR5 Patriot Viper Venom 32GB 6200mhz"
       },
       {
         "Price": 115.00,
@@ -2271,23 +2119,6 @@
         "Label": "Micro AMD Ryzen 5 5600G +Disipador"
       },
       {
-        "Price": 275.00,
-        "Features": [
-          "12va Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "25MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-02-17T09:30:45.7586545-05:00",
-        "Update": "2023-12-07T12:39:13.8820228-05:00",
-        "Label": "Micro Intel Core i7-12700K"
-      },
-      {
         "Price": 215.00,
         "Features": [
           "12va Gen",
@@ -2403,132 +2234,6 @@
         "Label": "Micro Intel Core i5-14600K"
       }
     ],
-    "Chasis": [
-      {
-        "Price": 315.00,
-        "Features": [
-          "Vertical",
-          "Tempered Glass",
-          "3xFan",
-          "RGB",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "2xHDD",
-          "Negro"
-        ],
-        "Date": "2023-06-19T07:49:30.2036169-04:00",
-        "Update": "2023-10-28T09:10:46.2683164-04:00",
-        "Label": "Chasis Corsair iCUE 4000X RGB"
-      },
-      {
-        "Price": 215.00,
-        "Features": [
-          "2x140mm",
-          "ARGB",
-          "Tempered Glass",
-          "Mesh",
-          "2xFan",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Blanco",
-          "2xHDD"
-        ],
-        "Date": "2023-10-19T09:32:02.3777136-04:00",
-        "Update": "2023-11-07T21:13:39.6139582-05:00",
-        "Label": "Chasis Fractal Design Focus 2 RGB White"
-      },
-      {
-        "Price": 275.00,
-        "Features": [
-          "Vertical",
-          "Tempered Glass",
-          "2xFan",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "2xHDD",
-          "Negro"
-        ],
-        "Date": "2023-11-11T12:36:37.8216832-05:00",
-        "Update": "2023-11-11T12:58:59.609044-05:00",
-        "Label": "Chasis Corsair 4000D Airflow"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "Micro ATX",
-          "x2 USB",
-          "Acrilico",
-          "Dust Filter",
-          "Modular I/O Panel",
-          "Negro"
-        ],
-        "Date": "2023-12-07T22:24:12.9113994-05:00",
-        "Update": "2023-12-08T12:55:48.7729192-05:00",
-        "Label": "Chasis Cooler Master MasterBox Q300L Gray"
-      },
-      {
-        "Price": 179.00,
-        "Features": [
-          "ATX",
-          "Mid Tower",
-          "Tempered Glass",
-          "x1 HDD3.5",
-          "x3 HDD2.5",
-          "120mm D-RGB fan"
-        ],
-        "Date": "2023-11-30T11:20:38.8740683-05:00",
-        "Update": "2023-12-08T13:42:07.753321-05:00",
-        "Label": "Chasis Phanteks Eclipse G300A Mesh D-RGB Black"
-      },
-      {
-        "Price": 99.00,
-        "Features": [
-          "8 GPU",
-          "Acero",
-          "Abierto"
-        ],
-        "Date": "2023-06-07T15:06:17.9384399-04:00",
-        "Update": "2023-12-14T07:55:28.8181172-05:00",
-        "Label": "Chasis MLLIQUEA Mining Rig Frame"
-      },
-      {
-        "Price": 245.00,
-        "Features": [
-          "Vertical",
-          "Tempered Glass",
-          "Mesh",
-          "3xFan",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "2xHDD",
-          "Blanco"
-        ],
-        "Date": "2023-12-28T14:07:38.0093413-05:00",
-        "Update": "2023-12-28T16:21:40.6398664-05:00",
-        "Label": "Chasis Phanteks Eclipse P400A Mesh White"
-      },
-      {
-        "Price": 399.00,
-        "Features": [
-          "Vertical",
-          "Tempered Glass",
-          "1xFan",
-          "RGB",
-          "Gamer",
-          "4xHDD",
-          "Negro",
-          "Mid Tower",
-          "ATX"
-        ],
-        "Date": "2023-12-28T22:14:39.8777755-05:00",
-        "Update": "2023-12-29T07:44:38.8350198-05:00",
-        "Label": "Chasis Asus TUF GT501 GRY"
-      }
-    ],
     "Tarjeta Gráfica": [
       {
         "Price": 515.00,
@@ -2636,22 +2341,6 @@
         "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X 8GB"
       },
       {
-        "Price": 285.00,
-        "Features": [
-          "3xFan",
-          "1x8Pin",
-          "500WR",
-          "282mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-11-18T23:52:05.1129043-05:00",
-        "Update": "2023-12-24T03:04:22.7871831-05:00",
-        "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 XT Eagle 8GB"
-      },
-      {
         "Price": 255.00,
         "Features": [
           "1x8Pin",
@@ -2666,23 +2355,6 @@
         "Date": "2023-12-07T23:40:36.0331524-05:00",
         "Update": "2023-12-24T03:04:22.8086719-05:00",
         "Label": "Tarjeta de Video EVGA RTX 2060 Gaming 6GB"
-      },
-      {
-        "Price": 735.00,
-        "Features": [
-          "DLSS3",
-          "3xFan",
-          "1x16Pin",
-          "700WR",
-          "342mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-08-29T08:42:07.9225906-04:00",
-        "Update": "2023-12-24T03:17:29.1341118-05:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4070 Aorus Master OC 12GB"
       },
       {
         "Price": 1299.00,
@@ -2927,6 +2599,115 @@
         "Date": "2023-12-28T14:07:53.0091888-05:00",
         "Update": "2024-01-01T19:09:01.2284065-05:00",
         "Label": "Tarjeta de Video Acer Predator BiFrost RX 7600 OC"
+      }
+    ],
+    "Chasis": [
+      {
+        "Price": 215.00,
+        "Features": [
+          "2x140mm",
+          "ARGB",
+          "Tempered Glass",
+          "Mesh",
+          "2xFan",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "Blanco",
+          "2xHDD"
+        ],
+        "Date": "2023-10-19T09:32:02.3777136-04:00",
+        "Update": "2023-11-07T21:13:39.6139582-05:00",
+        "Label": "Chasis Fractal Design Focus 2 RGB White"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "Vertical",
+          "Tempered Glass",
+          "2xFan",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "2xHDD",
+          "Negro"
+        ],
+        "Date": "2023-11-11T12:36:37.8216832-05:00",
+        "Update": "2023-11-11T12:58:59.609044-05:00",
+        "Label": "Chasis Corsair 4000D Airflow"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "Micro ATX",
+          "x2 USB",
+          "Acrilico",
+          "Dust Filter",
+          "Modular I/O Panel",
+          "Negro"
+        ],
+        "Date": "2023-12-07T22:24:12.9113994-05:00",
+        "Update": "2023-12-08T12:55:48.7729192-05:00",
+        "Label": "Chasis Cooler Master MasterBox Q300L Gray"
+      },
+      {
+        "Price": 179.00,
+        "Features": [
+          "ATX",
+          "Mid Tower",
+          "Tempered Glass",
+          "x1 HDD3.5",
+          "x3 HDD2.5",
+          "120mm D-RGB fan"
+        ],
+        "Date": "2023-11-30T11:20:38.8740683-05:00",
+        "Update": "2023-12-08T13:42:07.753321-05:00",
+        "Label": "Chasis Phanteks Eclipse G300A Mesh D-RGB Black"
+      },
+      {
+        "Price": 99.00,
+        "Features": [
+          "8 GPU",
+          "Acero",
+          "Abierto"
+        ],
+        "Date": "2023-06-07T15:06:17.9384399-04:00",
+        "Update": "2023-12-14T07:55:28.8181172-05:00",
+        "Label": "Chasis MLLIQUEA Mining Rig Frame"
+      },
+      {
+        "Price": 245.00,
+        "Features": [
+          "Vertical",
+          "Tempered Glass",
+          "Mesh",
+          "3xFan",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "2xHDD",
+          "Blanco"
+        ],
+        "Date": "2023-12-28T14:07:38.0093413-05:00",
+        "Update": "2023-12-28T16:21:40.6398664-05:00",
+        "Label": "Chasis Phanteks Eclipse P400A Mesh White"
+      },
+      {
+        "Price": 399.00,
+        "Features": [
+          "Vertical",
+          "Tempered Glass",
+          "1xFan",
+          "RGB",
+          "Gamer",
+          "4xHDD",
+          "Negro",
+          "Mid Tower",
+          "ATX"
+        ],
+        "Date": "2023-12-28T22:14:39.8777755-05:00",
+        "Update": "2023-12-29T07:44:38.8350198-05:00",
+        "Label": "Chasis Asus TUF GT501 GRY"
       }
     ],
     "Red": [
@@ -3922,20 +3703,6 @@
         "Date": "2023-10-13T09:28:17.4558563-04:00",
         "Update": "2023-12-24T03:38:07.0726858-05:00",
         "Label": "Mouse Logitech G402 Hyperion Fury Black"
-      },
-      {
-        "Price": 119.00,
-        "Features": [
-          "25600dpi",
-          "Inalámbrico",
-          "Optico",
-          "11 botónes",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-11-24T09:48:36.8452861-05:00",
-        "Update": "2023-12-24T03:38:07.1237008-05:00",
-        "Label": "Mouse Logitech G502 Lightspeed Wireless"
       },
       {
         "Price": 159.00,
