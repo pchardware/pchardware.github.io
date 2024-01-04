@@ -1,42 +1,4 @@
 {
-  "Computadoras": {
-    "Gamer": [
-      {
-        "Price": 1359.00,
-        "Features": [],
-        "Date": "2023-12-23T02:55:50.7131662-05:00",
-        "Update": "2023-12-23T02:58:43.8605439-05:00",
-        "Discount": 37.0,
-        "Label": "PC RX 6600 8GB +Ryzen 5 5600X +B550 Gaming X V2 +16GB DDR4 +500GB M.2 + Acer 24\""
-      },
-      {
-        "Price": 969.00,
-        "Features": [],
-        "Date": "2023-12-27T07:03:05.6634519-05:00",
-        "Update": "2023-12-27T07:05:15.3501879-05:00",
-        "Discount": 29.0,
-        "Label": "PC Ryzen 5 5600G +B550 Gaming X V2 +16GB DDR4 +500GB M.2 +600W +Acer 24\""
-      }
-    ],
-    "Multimedia": [
-      {
-        "Price": 905.00,
-        "Features": [],
-        "Date": "2023-12-15T11:02:37.8804704-05:00",
-        "Update": "2023-12-28T14:06:44.0106751-05:00",
-        "Discount": 30.0,
-        "Label": "PC i3-12100 +B760M-P +8GB DDR4 +500GB M.2 + 600W + Acer 24\" +Ratón y Teclado"
-      },
-      {
-        "Price": 911.00,
-        "Features": [],
-        "Date": "2023-12-15T11:05:53.1509612-05:00",
-        "Update": "2023-12-28T14:06:44.0257325-05:00",
-        "Discount": 30.0,
-        "Label": "PC i3-12100 +Z690M +8GB DDR4 +1TB M.2 +600W +Acer 24\" +Ratón y Teclado"
-      }
-    ]
-  },
   "Torres": {
     "Gamer": [
       {
@@ -46,14 +8,6 @@
         "Update": "2023-12-27T07:13:47.0805184-05:00",
         "Discount": 22.0,
         "Label": "Torre Ryzen 5 5600G +B550 Gaming X V2 +16GB DDR4 +600W +500GB M.2"
-      },
-      {
-        "Price": 1079.00,
-        "Features": [],
-        "Date": "2024-01-02T09:23:47.2212561-05:00",
-        "Update": "2024-01-02T09:27:25.2950398-05:00",
-        "Discount": 35.0,
-        "Label": "Torre RX 6600 8GB +i5-12400 +Z690M Phantom Gaming +16GB DDR4 +500GB M.2 +650W"
       },
       {
         "Price": 715.00,
@@ -82,48 +36,12 @@
     ],
     "Multimedia": [
       {
-        "Price": 645.00,
-        "Features": [],
-        "Date": "2023-12-17T05:53:12.6492212-05:00",
-        "Update": "2023-12-28T14:06:44.0399664-05:00",
-        "Discount": 22.0,
-        "Label": "Torre i3-12100 +B760M +16GB DDR4 +1TB M.2 +600W + Chasis Cooler Master"
-      },
-      {
         "Price": 655.00,
         "Features": [],
         "Date": "2023-12-31T09:45:58.4258265-05:00",
         "Update": "2023-12-31T09:50:25.3570652-05:00",
         "Discount": 20.0,
         "Label": "Torre Ryzen 3 5300G +B550 Gaming X V2 +8gb DDR4 +500gb SSD +600W +Chasis"
-      },
-      {
-        "Price": 755.00,
-        "Features": [],
-        "Date": "2024-01-01T09:59:43.7515084-05:00",
-        "Update": "2024-01-01T10:02:44.9839544-05:00",
-        "Discount": 23.0,
-        "Label": "Torre i5-12400 +B660 ProArt Creator D4 +16GB DDR4 +480GB SSD +600W +Chasis"
-      }
-    ],
-    "Pro": [
-      {
-        "Price": 1145.00,
-        "Features": [],
-        "Date": "2023-12-17T04:05:31.2362407-05:00",
-        "Update": "2024-01-02T11:36:07.741274-05:00",
-        "Discount": 35.0,
-        "Label": "Torre RX 6600 8GB +Ryzen 7 5800X +B550 Gaming X +16GB DDR4 +1TB M.2 +650W"
-      }
-    ],
-    "Entusiasta": [
-      {
-        "Price": 2745.00,
-        "Features": [],
-        "Date": "2024-01-03T08:19:03.0864716-05:00",
-        "Update": "2024-01-03T08:21:41.4784221-05:00",
-        "Discount": 41.0,
-        "Label": "Torre RTX 4070 Ti Master 12GB +i7-14700K +Strix Z790-H Gaming +64GB DDR5 +1000W"
       }
     ]
   },
@@ -142,21 +60,6 @@
         "Update": "2023-12-09T09:40:35.4442652-05:00",
         "Discount": 8.0,
         "Label": "Kit i7-13700K +Board Z790 + 32GB 7200mhz DDR5 Trident Z5 RGB"
-      },
-      {
-        "Price": 855.00,
-        "Features": [
-          "28 Hilos",
-          "5.6Ghz",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "LGA 1700"
-        ],
-        "Date": "2023-12-02T02:36:56.1550959-05:00",
-        "Update": "2023-12-09T09:40:35.4772205-05:00",
-        "Discount": 8.0,
-        "Label": "Kit i7-14700K + Gigabyte Z790 UD AX + G.Skill Trident Z5 RGB 32GB DDR5"
       },
       {
         "Price": 945.00,
@@ -239,21 +142,6 @@
         "Label": "Kit i5-12400 +Gigabyte B760M DS3H DDR4 +16GB DDR4 Team T-Force Vulcan Z"
       },
       {
-        "Price": 459.00,
-        "Features": [
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "2x8GB",
-          "CL16",
-          "Disipadas"
-        ],
-        "Date": "2023-12-20T07:42:55.3924642-05:00",
-        "Update": "2023-12-24T02:36:56.3349655-05:00",
-        "Discount": 9.0,
-        "Label": "Kit i5-12400 +Asus B660 ProArt Creator D4 +16GB DDR4 Team T-Force Vulcan Z"
-      },
-      {
         "Price": 399.00,
         "Features": [
           "12 Hilos",
@@ -281,19 +169,6 @@
         "Update": "2023-12-27T07:23:07.8099014-05:00",
         "Discount": 9.0,
         "Label": "Ryzen 5 5600G +Gigabyte B550 Gaming X V2 +16GB DDR4 Team T-Force Vulcan Z"
-      },
-      {
-        "Price": 459.00,
-        "Features": [
-          "12 Hilos",
-          "4.4GHz",
-          "Dual Lan",
-          "8xUSB"
-        ],
-        "Date": "2023-11-18T11:49:36.516615-05:00",
-        "Update": "2024-01-02T11:39:31.6513267-05:00",
-        "Discount": 10.0,
-        "Label": "Kit 12Gen i5 +Disipador +Board Asus B660 ProArt Creator +16GB DDR4 3200mhz"
       },
       {
         "Price": 435.00,
@@ -327,34 +202,6 @@
         "Update": "2023-12-31T09:47:45.9964544-05:00",
         "Discount": 7.0,
         "Label": "KIT Ryzen 3 5300G +Disipador +Gigabyte B550 Gaming X V2 +8gb DDR4"
-      },
-      {
-        "Price": 339.00,
-        "Features": [
-          "8 Hilos",
-          "6xUSB",
-          "DDR4",
-          "Disipada"
-        ],
-        "Date": "2023-10-20T08:53:27.1294814-04:00",
-        "Update": "2024-01-02T11:39:31.5921721-05:00",
-        "Discount": 7.0,
-        "Label": "Kit Intel Core i3 12Gen +8GB RAM 3200mhz +Disipador +Board ASRock Z690"
-      },
-      {
-        "Price": 369.00,
-        "Features": [
-          "2x8GB",
-          "8 hilos",
-          "Dual Channel",
-          "VGA",
-          "HDMI",
-          "4xSATA"
-        ],
-        "Date": "2023-10-12T11:57:20.759658-04:00",
-        "Update": "2024-01-02T11:39:31.618963-05:00",
-        "Discount": 10.0,
-        "Label": "Kit Intel Core i3 12Gen +16GB RAM DDR4 3200mhz +Disipador +Board MSI B760M"
       }
     ],
     "Entusiasta": [
@@ -1421,17 +1268,6 @@
         "Label": "SSD M.2 TeamGroup MP34 1TB"
       },
       {
-        "Price": 65.00,
-        "Features": [
-          "4700mbps",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-12-19T06:42:48.3700673-05:00",
-        "Update": "2023-12-19T08:43:12.2932793-05:00",
-        "Label": "SSD M.2 PNY CS2241 500GB"
-      },
-      {
         "Price": 57.00,
         "Features": [
           "560mbs",
@@ -1820,17 +1656,6 @@
         "Label": "RAM DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
       },
       {
-        "Price": 85.00,
-        "Features": [
-          "2x8GB",
-          "Disipadas",
-          "CL18"
-        ],
-        "Date": "2023-03-30T09:55:40.6507732-04:00",
-        "Update": "2023-12-13T18:32:49.787986-05:00",
-        "Label": "RAM DDR4 Corsair Vengeance RGB RT 16GB 3600mhz"
-      },
-      {
         "Price": 97.00,
         "Features": [
           "2x16GB",
@@ -2051,22 +1876,6 @@
         "Label": "Micro Intel Core i5-11400 +Disipador"
       },
       {
-        "Price": 479.00,
-        "Features": [
-          "14va Gen",
-          "28 Hilos",
-          "5.6Ghz",
-          "33mb L3",
-          "253W",
-          "LGA 1700",
-          "DDR4-DDR5",
-          "CPU"
-        ],
-        "Date": "2023-10-23T12:31:42.2126394-04:00",
-        "Update": "2023-10-23T13:18:33.8766268-04:00",
-        "Label": "Micro Intel Core i7-14700K"
-      },
-      {
         "Price": 325.00,
         "Features": [
           "13ra Gen",
@@ -2150,22 +1959,6 @@
         "Date": "2023-03-22T09:04:16.5699219-04:00",
         "Update": "2023-12-24T03:04:22.4954685-05:00",
         "Label": "Micro Intel Core i9-13900K"
-      },
-      {
-        "Price": 155.00,
-        "Features": [
-          "12va Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.3GHz",
-          "12MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-05-11T07:28:15.7616729-04:00",
-        "Update": "2023-12-28T14:06:43.9720517-05:00",
-        "Label": "Micro Intel Core i3-12100 +Disipador"
       },
       {
         "Price": 215.00,
@@ -2762,25 +2555,6 @@
       }
     ],
     "Board": [
-      {
-        "Price": 189.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "Dual Lan",
-          "8xUSB",
-          "6xAudio",
-          "DDR4",
-          "5333mhz",
-          "4xSATA",
-          "LGA 1700",
-          "ATX",
-          "HDMI",
-          "MOBO"
-        ],
-        "Date": "2023-02-17T09:46:18.404887-05:00",
-        "Update": "2023-12-08T11:21:36.9917902-05:00",
-        "Label": "Board Asus B660 ProArt Creator D4"
-      },
       {
         "Price": 245.00,
         "Features": [
