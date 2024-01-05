@@ -12,16 +12,16 @@
   "Features": [
     "12Gen-13Gen-14Gen",
     "DDR4",
-    "2133mhz",
+    "5333mhz",
     "VGA",
     "HDMI",
     "DisplayPort",
     "4xSATA",
     "6xUSB",
     "LGA 1700",
-    "Micro-ATX"
+    "Micro ATX"
   ],
   "Date": "2023-12-17T00:52:07.8205125-05:00",
-  "Update": "2023-12-24T02:51:09.9871078-05:00",
+  "Update": "2024-01-05T09:13:48.2140551-05:00",
   "Label": "Board Gigabyte B760M DS3H DDR4"
 }
