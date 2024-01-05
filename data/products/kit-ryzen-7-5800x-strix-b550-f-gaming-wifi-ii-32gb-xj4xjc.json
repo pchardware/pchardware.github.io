@@ -1,0 +1,32 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-ryzen-7-5800x-strix-b550-f-gaming-wifi-ii-32gb-xj4xjc-1.webp",
+    "/images/products/kit-ryzen-7-5800x-strix-b550-f-gaming-wifi-ii-32gb-xj4xjc-2.webp",
+    "/images/products/kit-ryzen-7-5800x-strix-b550-f-gaming-wifi-ii-32gb-xj4xjc-3.webp",
+    "/images/products/kit-ryzen-7-5800x-strix-b550-f-gaming-wifi-ii-32gb-xj4xjc-4.webp",
+    "/images/products/kit-ryzen-7-5800x-strix-b550-f-gaming-wifi-ii-32gb-xj4xjc-5.webp",
+    "/images/products/kit-ryzen-7-5800x-strix-b550-f-gaming-wifi-ii-32gb-xj4xjc-6.webp",
+    "/images/products/kit-ryzen-7-5800x-strix-b550-f-gaming-wifi-ii-32gb-xj4xjc-7.webp",
+    "/images/products/kit-ryzen-7-5800x-strix-b550-f-gaming-wifi-ii-32gb-xj4xjc-8.webp",
+    "/images/products/kit-ryzen-7-5800x-strix-b550-f-gaming-wifi-ii-32gb-xj4xjc-9.webp",
+    "/images/products/kit-ryzen-7-5800x-strix-b550-f-gaming-wifi-ii-32gb-xj4xjc-10.webp"
+  ],
+  "Description": "+ Micro AMD Ryzen 7 5800X\n+ Board Asus ROG Strix B550-F Gaming Wifi II\n+ RAM DDR4 G.SKILL TridentZ RGB 32GB 4000mhz\n",
+  "Price": 579.00,
+  "Features": [
+    "16 Hilos",
+    "8 Core",
+    "4.7GHz",
+    "2x16",
+    "4000mhz",
+    "7xUSB",
+    "6xSATA",
+    "WIFI"
+  ],
+  "Date": "2024-01-05T08:37:31.9550378-05:00",
+  "Update": "2024-01-05T10:19:07.9330181-05:00",
+  "Discount": 10.0,
+  "Label": "Kit Ryzen 7 5800X +Strix B550-F Gaming Wifi II + 32GB DDR4 G.SKILL RGB 4000mhz"
+}
