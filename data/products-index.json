@@ -156,20 +156,6 @@
     ],
     "Moderado": [
       {
-        "Price": 699.00,
-        "Features": [
-          "20 Hilos",
-          "14 Core",
-          "5.1GHz",
-          "7xUSB",
-          "4xSATA"
-        ],
-        "Date": "2023-12-20T07:44:31.4653837-05:00",
-        "Update": "2023-12-20T08:56:15.2114085-05:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-13600K + MSI Z790 Gaming Pro Wifi + 32GB DDR5 Corsair Vengeance"
-      },
-      {
         "Price": 429.00,
         "Features": [
           "12 Hilos",
@@ -1720,17 +1706,6 @@
         "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       },
       {
-        "Price": 205.00,
-        "Features": [
-          "2x16GB",
-          "CL34",
-          "Disipadas"
-        ],
-        "Date": "2023-11-06T10:30:08.3285573-05:00",
-        "Update": "2023-12-24T03:04:22.5432237-05:00",
-        "Label": "RAM DDR5 Corsair Dominator Titanium RGB 32GB 7200mhz"
-      },
-      {
         "Price": 87.00,
         "Features": [
           "2x8GB",
@@ -2736,26 +2711,6 @@
         "Date": "2023-12-04T16:21:54.4596991-05:00",
         "Update": "2023-12-24T02:51:09.7940555-05:00",
         "Label": "Board ASRock Z690 Phantom Gaming 4 DDR4"
-      },
-      {
-        "Price": 269.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "7200mhz",
-          "DDR5",
-          "Wifi",
-          "Dual Lan",
-          "7xUSB",
-          "4xSATA",
-          "HDMI",
-          "LGA 1700",
-          "6xAudio",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-10-16T10:24:22.1843395-04:00",
-        "Update": "2023-12-24T02:51:09.9035343-05:00",
-        "Label": "Board MSI Z790 Gaming Pro Wifi"
       },
       {
         "Price": 159.00,
@@ -3794,19 +3749,6 @@
         "Date": "2023-11-27T09:55:23.0763877-05:00",
         "Update": "2023-11-27T11:57:06.2682569-05:00",
         "Label": "Webcam Microsoft LifeCam Studio"
-      },
-      {
-        "Price": 75.00,
-        "Features": [
-          "1080p",
-          "Auto focus",
-          "Stereo audio",
-          "Micrófono",
-          "USB"
-        ],
-        "Date": "2023-12-04T16:20:45.9477091-05:00",
-        "Update": "2023-12-04T17:32:00.7665241-05:00",
-        "Label": "Webcam Logitech C920 HD Pro"
       },
       {
         "Price": 77.00,
