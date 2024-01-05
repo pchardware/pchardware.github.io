@@ -1,4 +1,24 @@
 {
+  "Computadoras": {
+    "Gamer": [
+      {
+        "Price": 1769.00,
+        "Features": [],
+        "Date": "2024-01-05T12:09:17.6571439-05:00",
+        "Update": "2024-01-05T12:25:18.0609691-05:00",
+        "Discount": 43.0,
+        "Label": "PC RX 7600 8GB +i5-13600K +Z790 UD AX +32GB DDR5 +1TB M.2 +850W +Acer 24\""
+      },
+      {
+        "Price": 1735.00,
+        "Features": [],
+        "Date": "2024-01-05T12:22:53.9378609-05:00",
+        "Update": "2024-01-05T12:25:18.0774223-05:00",
+        "Discount": 43.0,
+        "Label": "PC RX 7600 8GB +Ryzen 7 5800X +Strix B550-F Gaming +16GB DDR4 +1TB M.2 +Acer 24\""
+      }
+    ]
+  },
   "Torres": {
     "Gamer": [
       {
