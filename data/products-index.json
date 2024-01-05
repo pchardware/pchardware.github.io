@@ -2400,22 +2400,6 @@
         "Label": "Chasis Fractal Design Focus 2 RGB White"
       },
       {
-        "Price": 275.00,
-        "Features": [
-          "Vertical",
-          "Tempered Glass",
-          "2xFan",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "2xHDD",
-          "Negro"
-        ],
-        "Date": "2023-11-11T12:36:37.8216832-05:00",
-        "Update": "2023-11-11T12:58:59.609044-05:00",
-        "Label": "Chasis Corsair 4000D Airflow"
-      },
-      {
         "Price": 135.00,
         "Features": [
           "Micro ATX",
@@ -3312,29 +3296,6 @@
         "Date": "2023-10-09T15:58:43.1814204-04:00",
         "Update": "2023-12-07T13:17:19.2178859-05:00",
         "Label": "Mouse Logitech Pro Wireless Black"
-      },
-      {
-        "Price": 105.00,
-        "Features": [
-          "Inalámbrico",
-          "USB",
-          "1ms",
-          "Bluetooth",
-          "Híbrido",
-          "RGB",
-          "Gaming",
-          "iCUE",
-          "18k dpi",
-          "USB-C",
-          "Omron",
-          "Recargable",
-          "8 botónes",
-          "50H",
-          "Optico"
-        ],
-        "Date": "2023-10-23T12:31:56.2102743-04:00",
-        "Update": "2023-12-07T13:17:19.2304335-05:00",
-        "Label": "Mouse Corsair Dark Core RGB Pro"
       },
       {
         "Price": 89.00,
