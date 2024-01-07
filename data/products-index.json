@@ -519,13 +519,6 @@
         "Label": "Riser Coboc PCI Express"
       },
       {
-        "Price": 17.00,
-        "Features": [],
-        "Date": "2023-07-26T16:41:29.0221883-04:00",
-        "Update": "2023-12-14T07:55:28.9260796-05:00",
-        "Label": "Thermalright LGA1700-BCF Black"
-      },
-      {
         "Price": 87.00,
         "Features": [],
         "Date": "2023-09-02T12:38:41.9633686-04:00",
@@ -781,23 +774,6 @@
         "Label": "Fuente Apevia Spirit 700W ATX-SP700"
       },
       {
-        "Price": 239.00,
-        "Features": [
-          "80+ Gold",
-          "Full Modular",
-          "83A",
-          "8x 6+2Pin",
-          "11x SATA",
-          "2x 4+4 EPS",
-          "180mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-04-15T07:27:11.3654492-04:00",
-        "Update": "2023-12-29T12:26:20.5471057-05:00",
-        "Label": "Fuente Corsair RM1000X 1000W"
-      },
-      {
         "Price": 85.00,
         "Features": [
           "35A",
@@ -982,28 +958,6 @@
         "Date": "2023-08-16T09:17:35.0132441-04:00",
         "Update": "2023-10-09T17:48:21.6940535-04:00",
         "Label": "Disipador Líquido CoolerMaster MasterLiquid 240L Core ARGB White"
-      },
-      {
-        "Price": 259.00,
-        "Features": [
-          "2100rpm",
-          "66cfm",
-          "37db",
-          "3xFan",
-          "360mm",
-          "Copper",
-          "Dynamic",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "LGA 20XX",
-          "AM5",
-          "AM4",
-          "sTRX4"
-        ],
-        "Date": "2023-08-29T08:41:32.7866809-04:00",
-        "Update": "2023-10-09T17:48:21.7038018-04:00",
-        "Label": "Disipador Líquido Corsair iCUE H150i ELITE CAPELLIX XT"
       },
       {
         "Price": 255.00,
@@ -1358,17 +1312,6 @@
         "Label": "SSD 2.5 Acer SA100 960GB"
       },
       {
-        "Price": 53.00,
-        "Features": [
-          "560mbs",
-          "SATA 3",
-          "160tbw"
-        ],
-        "Date": "2023-11-24T09:48:59.9256442-05:00",
-        "Update": "2023-12-24T02:51:09.8138193-05:00",
-        "Label": "SSD 2.5 Team Group QX 512GB"
-      },
-      {
         "Price": 89.0,
         "Features": [
           "6600MBps",
@@ -1660,17 +1603,6 @@
         "Label": "RAM DDR5 Corsair Vengenance RGB 32GB 6000mhz White"
       },
       {
-        "Price": 199.00,
-        "Features": [
-          "2x32GB",
-          "Disipadas",
-          "CL40"
-        ],
-        "Date": "2023-10-13T09:28:52.4115364-04:00",
-        "Update": "2023-10-31T23:27:31.078534-04:00",
-        "Label": "RAM DDR5 G.Skill Flare X5 64GB 6000mhz"
-      },
-      {
         "Price": 175.00,
         "Features": [
           "CL34",
@@ -1852,17 +1784,6 @@
         "Date": "2023-12-28T14:07:23.8098728-05:00",
         "Update": "2024-01-01T18:56:33.8116537-05:00",
         "Label": "RAM DDR4 G.Skill TridentZ RGB 64GB 3600mhz"
-      },
-      {
-        "Price": 145.00,
-        "Features": [
-          "2x16GB",
-          "CL36",
-          "Disipadas"
-        ],
-        "Date": "2023-12-28T14:07:59.5464623-05:00",
-        "Update": "2024-01-01T18:56:33.8273851-05:00",
-        "Label": "RAM DDR5 CORSAIR Vengeance RGB 32GB 6200mhz"
       },
       {
         "Price": 199.00,
@@ -2408,22 +2329,6 @@
         "Date": "2023-07-26T16:40:56.6283918-04:00",
         "Update": "2024-01-01T19:09:01.1272548-05:00",
         "Label": "Tarjeta de Video MSI Mech Radeon RX 6750 XT 12GB"
-      },
-      {
-        "Price": 335.00,
-        "Features": [
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "PCIe4",
-          "235 mm",
-          "GeForce",
-          "NVIDIA",
-          "Gráfica"
-        ],
-        "Date": "2023-04-09T07:40:21.1128823-04:00",
-        "Update": "2024-01-01T19:09:01.1566643-05:00",
-        "Label": "Tarjeta de Video MSI RTX 3060 Ventus 2x OC 8GB"
       },
       {
         "Price": 329.00,
@@ -3499,19 +3404,6 @@
         "Date": "2023-08-21T08:58:41.5573667-04:00",
         "Update": "2023-12-28T14:06:43.9386612-05:00",
         "Label": "Mouse Corsair M65 ELITE RGB Black"
-      },
-      {
-        "Price": 87.00,
-        "Features": [
-          "16000 dpi",
-          "Optico",
-          "17 Botones",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-11-30T11:15:16.2508817-05:00",
-        "Update": "2024-01-07T00:48:52.0773579-05:00",
-        "Label": "Mouse Corsair Scimitar RGB Elite Black"
       }
     ],
     "Otros": [
