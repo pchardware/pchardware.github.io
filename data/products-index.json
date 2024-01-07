@@ -3217,19 +3217,6 @@
         "Label": "Mouse Corsair IRONCLAW RGB Wireless"
       },
       {
-        "Price": 87.00,
-        "Features": [
-          "16000 dpi",
-          "Optico",
-          "17 Botones",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-11-30T11:15:16.2508817-05:00",
-        "Update": "2023-11-30T14:11:17.6379701-05:00",
-        "Label": "Mouse Corsair Scimitar Pro RGB Black"
-      },
-      {
         "Price": 63.00,
         "Features": [
           "RGB",
@@ -3470,6 +3457,19 @@
         "Date": "2023-08-21T08:58:41.5573667-04:00",
         "Update": "2023-12-28T14:06:43.9386612-05:00",
         "Label": "Mouse Corsair M65 ELITE RGB Black"
+      },
+      {
+        "Price": 87.00,
+        "Features": [
+          "16000 dpi",
+          "Optico",
+          "17 Botones",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-11-30T11:15:16.2508817-05:00",
+        "Update": "2024-01-07T00:48:52.0773579-05:00",
+        "Label": "Mouse Corsair Scimitar RGB Elite Black"
       }
     ],
     "Otros": [
