@@ -1,0 +1,29 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-ryzen-5-5600x-gigabyte-b550-aorus-elite-ax-v2--kuqmmq-1.webp",
+    "/images/products/kit-ryzen-5-5600x-gigabyte-b550-aorus-elite-ax-v2--kuqmmq-2.webp",
+    "/images/products/kit-ryzen-5-5600x-gigabyte-b550-aorus-elite-ax-v2--kuqmmq-3.webp",
+    "/images/products/kit-ryzen-5-5600x-gigabyte-b550-aorus-elite-ax-v2--kuqmmq-4.webp",
+    "/images/products/kit-ryzen-5-5600x-gigabyte-b550-aorus-elite-ax-v2--kuqmmq-5.webp",
+    "/images/products/kit-ryzen-5-5600x-gigabyte-b550-aorus-elite-ax-v2--kuqmmq-6.webp",
+    "/images/products/kit-ryzen-5-5600x-gigabyte-b550-aorus-elite-ax-v2--kuqmmq-7.webp"
+  ],
+  "Description": "+ Micro AMD Ryzen 5 5600X +Disipador\n+ Board Gigabyte B550 Aorus Elite AX V2\n+ RAM DDR4 GeIL ORION 16GB 3600mhz\n",
+  "Price": 459.00,
+  "Features": [
+    "6 Core",
+    "12 Hilos",
+    "4.6GHz",
+    "2x8",
+    "3600mhz",
+    "4xSATA",
+    "7xUSB",
+    "6xAudio"
+  ],
+  "Date": "2024-01-07T08:19:13.8414426-05:00",
+  "Update": "2024-01-07T08:44:10.1759918-05:00",
+  "Discount": 2.0,
+  "Label": "Kit Ryzen 5 5600X +Gigabyte B550 Aorus Elite AX V2 +16GB DDR4 GeIL ORION 3600mhz"
+}
