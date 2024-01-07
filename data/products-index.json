@@ -154,23 +154,6 @@
         "Label": "Kit Ryzen 7 5800X +Strix B550-F Gaming Wifi II + 32GB DDR4 G.SKILL RGB 4000mhz"
       },
       {
-        "Price": 459.00,
-        "Features": [
-          "6 Core",
-          "12 Hilos",
-          "4.6GHz",
-          "2x8",
-          "3600mhz",
-          "4xSATA",
-          "7xUSB",
-          "6xAudio"
-        ],
-        "Date": "2024-01-07T08:19:13.8414426-05:00",
-        "Update": "2024-01-07T08:25:00.8522473-05:00",
-        "Discount": 2.0,
-        "Label": "Micro AMD Ryzen 5 5600X +Disipador + Board Gigabyte B550 Aorus Elite AX V2 + RAM DDR4 GeIL ORION 16GB 3600mhz"
-      },
-      {
         "Price": 479.00,
         "Features": [],
         "Date": "2024-01-07T08:26:02.8642888-05:00",
@@ -194,6 +177,23 @@
         "Date": "2024-01-07T08:33:48.5206051-05:00",
         "Update": "2024-01-07T08:41:22.7845524-05:00",
         "Label": "Kit Ryzen 7 5800X +Gigabyte B550 Aorus Elite AX V2 +32GB DDR4 GeIL ORION 3600mhz"
+      },
+      {
+        "Price": 459.00,
+        "Features": [
+          "6 Core",
+          "12 Hilos",
+          "4.6GHz",
+          "2x8",
+          "3600mhz",
+          "4xSATA",
+          "7xUSB",
+          "6xAudio"
+        ],
+        "Date": "2024-01-07T08:19:13.8414426-05:00",
+        "Update": "2024-01-07T08:44:10.1759918-05:00",
+        "Discount": 2.0,
+        "Label": "Kit Ryzen 5 5600X +Gigabyte B550 Aorus Elite AX V2 +16GB DDR4 GeIL ORION 3600mhz"
       }
     ],
     "Moderado": [
