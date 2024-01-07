@@ -1,0 +1,32 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-ryzen-7-5800x-gigabyte-b550-aorus-elite-ax-v2--7qhkek-1.webp",
+    "/images/products/kit-ryzen-7-5800x-gigabyte-b550-aorus-elite-ax-v2--7qhkek-2.webp",
+    "/images/products/kit-ryzen-7-5800x-gigabyte-b550-aorus-elite-ax-v2--7qhkek-3.webp",
+    "/images/products/kit-ryzen-7-5800x-gigabyte-b550-aorus-elite-ax-v2--7qhkek-4.webp",
+    "/images/products/kit-ryzen-7-5800x-gigabyte-b550-aorus-elite-ax-v2--7qhkek-5.webp",
+    "/images/products/kit-ryzen-7-5800x-gigabyte-b550-aorus-elite-ax-v2--7qhkek-6.webp",
+    "/images/products/kit-ryzen-7-5800x-gigabyte-b550-aorus-elite-ax-v2--7qhkek-7.webp",
+    "/images/products/kit-ryzen-7-5800x-gigabyte-b550-aorus-elite-ax-v2--7qhkek-8.webp",
+    "/images/products/kit-ryzen-7-5800x-gigabyte-b550-aorus-elite-ax-v2--7qhkek-9.webp"
+  ],
+  "Description": "+ Micro AMD Ryzen 7 5800X\n+ Disipador Thermalright Assassin King 120 SE ARGB\n+ Board Gigabyte B550 Aorus Elite AX V2\n+ RAM DDR4 GeIL ORION 32GB 3600mhz\n",
+  "Price": 578.00,
+  "Features": [
+    "Disipador ARGB",
+    "Wifi",
+    "16 Hilos",
+    "8 Core",
+    "4.7GHz",
+    "2x16",
+    "3600mhz",
+    "4xSATA",
+    "7xUSB",
+    "6xAudio"
+  ],
+  "Date": "2024-01-07T08:33:48.5206051-05:00",
+  "Update": "2024-01-07T08:41:22.7845524-05:00",
+  "Label": "Kit Ryzen 7 5800X +Gigabyte B550 Aorus Elite AX V2 +32GB DDR4 GeIL ORION 3600mhz"
+}
