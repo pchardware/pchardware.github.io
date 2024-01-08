@@ -1,0 +1,28 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Moderado",
+  "Images": [
+    "/images/products/kit-i5-12400-disipador-asus-prime-z790-v-wifi-32gb-gytztt-1.webp",
+    "/images/products/kit-i5-12400-disipador-asus-prime-z790-v-wifi-32gb-gytztt-2.webp",
+    "/images/products/kit-i5-12400-disipador-asus-prime-z790-v-wifi-32gb-gytztt-3.webp",
+    "/images/products/kit-i5-12400-disipador-asus-prime-z790-v-wifi-32gb-gytztt-4.webp",
+    "/images/products/kit-i5-12400-disipador-asus-prime-z790-v-wifi-32gb-gytztt-5.webp",
+    "/images/products/kit-i5-12400-disipador-asus-prime-z790-v-wifi-32gb-gytztt-6.webp",
+    "/images/products/kit-i5-12400-disipador-asus-prime-z790-v-wifi-32gb-gytztt-7.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12400 +Disipador\n+ Board Asus Prime Z790-V Wifi\n+ RAM DDR5 Corsair Vengeance 32GB 6000mhz\n",
+  "Price": 559.00,
+  "Features": [
+    "12 Hilos",
+    "6 Core",
+    "4.4GHz",
+    "2x16",
+    "6000mhz",
+    "Wifi",
+    "4xSATA"
+  ],
+  "Date": "2024-01-08T11:32:23.1764219-05:00",
+  "Update": "2024-01-08T11:35:59.3085019-05:00",
+  "Discount": 10.0,
+  "Label": "Kit i5-12400 +Disipador +Asus Prime Z790-V Wifi +32GB DDR5 Corsair 6000mhz"
+}
