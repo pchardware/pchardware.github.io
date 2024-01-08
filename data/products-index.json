@@ -258,6 +258,22 @@
         "Update": "2024-01-02T11:54:23.9296741-05:00",
         "Discount": 6.0,
         "Label": "Kit i5-12400 +Disipador +MSI Pro B760M-P DDR4 + 16GB DDR4 GeIL ORION 3600mhz"
+      },
+      {
+        "Price": 559.00,
+        "Features": [
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "2x16",
+          "6000mhz",
+          "Wifi",
+          "4xSATA"
+        ],
+        "Date": "2024-01-08T11:32:23.1764219-05:00",
+        "Update": "2024-01-08T11:35:59.3085019-05:00",
+        "Discount": 10.0,
+        "Label": "Kit i5-12400 +Disipador +Asus Prime Z790-V Wifi +32GB DDR5 Corsair 6000mhz"
       }
     ],
     "Esencial": [
