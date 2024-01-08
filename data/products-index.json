@@ -194,6 +194,22 @@
         "Update": "2024-01-07T08:44:10.1759918-05:00",
         "Discount": 2.0,
         "Label": "Kit Ryzen 5 5600X +Gigabyte B550 Aorus Elite AX V2 +16GB DDR4 GeIL ORION 3600mhz"
+      },
+      {
+        "Price": 764.00,
+        "Features": [
+          "20 Hilos",
+          "14 Core",
+          "5.1GHz",
+          "2x16",
+          "6000mhz",
+          "Wifi",
+          "9xUSB",
+          "6xSATA"
+        ],
+        "Date": "2024-01-08T14:25:23.1711513-05:00",
+        "Update": "2024-01-08T14:31:23.0918485-05:00",
+        "Label": "Kit i5-13600K +Cooler Master 212 Halo +Z790 UD AX +32GB DDR5 Corsair 6000mhz"
       }
     ],
     "Moderado": [
