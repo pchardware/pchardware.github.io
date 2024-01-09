@@ -1219,7 +1219,7 @@
         "Label": "HDD 3.5 Seagate Constellation 2TB SAS"
       },
       {
-        "Price": 125.00,
+        "Price": 135.00,
         "Features": [
           "Enterprise",
           "7200rpm",
@@ -1233,7 +1233,7 @@
         "Label": "HDD 3.5 Seagate EXOS 12TB Recertified"
       },
       {
-        "Price": 145.00,
+        "Price": 159.00,
         "Features": [
           "Ultrastar DC",
           "Enterprise",
@@ -2967,20 +2967,6 @@
         "Label": "PBT Backlit Keycap Upgrade Set White"
       },
       {
-        "Price": 109.00,
-        "Features": [
-          "Mecánico",
-          "RGB",
-          "Macros",
-          "Gaming",
-          "Palm rest",
-          "Full"
-        ],
-        "Date": "2023-06-29T07:38:50.1028263-04:00",
-        "Update": "2023-12-24T03:38:06.9801028-05:00",
-        "Label": "Teclado EVGA Z20"
-      },
-      {
         "Price": 67.00,
         "Features": [
           "Inmalámbrico",
@@ -3312,22 +3298,6 @@
         "Date": "2023-12-07T23:40:32.1050658-05:00",
         "Update": "2023-12-08T13:54:36.1310947-05:00",
         "Label": "Mouse HP 320m"
-      },
-      {
-        "Price": 53.00,
-        "Features": [
-          "Inalámbrico",
-          "16000dpi",
-          "Bluetooth",
-          "Sniper Button",
-          "Optico",
-          "Ergonómico",
-          "10 botónes",
-          "USB"
-        ],
-        "Date": "2023-10-02T14:29:32.4826293-04:00",
-        "Update": "2023-12-09T17:40:40.3362145-05:00",
-        "Label": "Mouse EVGA X20 Gray"
       },
       {
         "Price": 61.00,
@@ -3784,21 +3754,6 @@
         "Date": "2023-10-28T11:52:16.1019156-04:00",
         "Update": "2023-11-18T08:40:49.2565149-05:00",
         "Label": "Control Xbox Core Wireless Black + USB-C Cable"
-      }
-    ],
-    "Silla": [
-      {
-        "Price": 169.00,
-        "Features": [
-          "Oficina",
-          "Ergonómica",
-          "Reposabrazos",
-          "Ruedas giratorias",
-          "Gris"
-        ],
-        "Date": "2023-05-12T07:54:58.4743215-04:00",
-        "Update": "2023-12-14T07:55:28.8488044-05:00",
-        "Label": "Silla YAHEETECH"
       }
     ],
     "Monitor": [
