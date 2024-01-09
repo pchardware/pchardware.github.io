@@ -17,6 +17,16 @@
         "Discount": 43.0,
         "Label": "PC Ryzen 7 5800X +RX 7600 8GB +Strix B550-F Gaming +16GB DDR4 +1TB M.2 +Mon 24\""
       }
+    ],
+    "Multimedia": [
+      {
+        "Price": 979.00,
+        "Features": [],
+        "Date": "2024-01-09T08:20:42.6168575-05:00",
+        "Update": "2024-01-09T08:25:10.5410403-05:00",
+        "Discount": 21.0,
+        "Label": "PC Ryzen 3 5300G +B550 Gaming X V2 +16GB DDR4 +500GB SSD +600W +Chasis +Acer 24\""
+      }
     ]
   },
   "Torres": {
@@ -1321,16 +1331,6 @@
         "Label": "SSD M.2 TeamGroup MP34 1TB"
       },
       {
-        "Price": 57.00,
-        "Features": [
-          "560mbs",
-          "SATA 3"
-        ],
-        "Date": "2023-04-09T09:40:07.8060759-04:00",
-        "Update": "2023-12-23T17:34:01.3533365-05:00",
-        "Label": "SSD 2.5 Team Group DeltaMax RGB 500GB"
-      },
-      {
         "Price": 84.00,
         "Features": [
           "560mbps",
@@ -1362,19 +1362,6 @@
         "Date": "2023-12-07T13:20:30.3520117-05:00",
         "Update": "2023-12-24T02:51:09.8295212-05:00",
         "Label": "SSD M.2 Crucial P5 Plus 1TB"
-      },
-      {
-        "Price": 107.0,
-        "Features": [
-          "7100mbps",
-          "HeatSink",
-          "700tbw",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-10-02T14:29:43.5652436-04:00",
-        "Update": "2023-12-24T02:51:09.8439699-05:00",
-        "Label": "SSD M.2 Corsair MP600 PRO LPX 1TB White"
       },
       {
         "Price": 155.0,
@@ -2820,21 +2807,6 @@
         "Date": "2023-05-11T20:29:35.2925957-04:00",
         "Update": "2023-06-29T11:38:59.1224765-04:00",
         "Label": "Teclado Corsair Gaming K55 RGB Pro"
-      },
-      {
-        "Price": 89.00,
-        "Features": [
-          "Mecánico",
-          "Aluminio",
-          "Macros",
-          "iCUE",
-          "Gaming",
-          "Slim",
-          "Full"
-        ],
-        "Date": "2023-05-11T20:29:40.4508027-04:00",
-        "Update": "2023-06-29T11:38:59.1537814-04:00",
-        "Label": "Teclado Corsair K60 RGB Pro"
       },
       {
         "Price": 87.00,
