@@ -21,9 +21,9 @@
         "Price": 1399.00,
         "Features": [],
         "Date": "2024-01-10T09:19:16.8334653-05:00",
-        "Update": "2024-01-10T09:22:48.4061229-05:00",
+        "Update": "2024-01-10T09:57:31.7090061-05:00",
         "Discount": 22.0,
-        "Label": "Torre RTX 2060 Gaming 6GB +i5-12400 +Z690 Phantom Gaming 4 +16GB DDR4 +Acer 28\""
+        "Label": "PC RTX 2060 Gaming 6GB +i5-12400 +Z690 Phantom Gaming 4 +16GB DDR4 +Acer 28\""
       }
     ],
     "Multimedia": [
@@ -96,6 +96,14 @@
         "Update": "2023-12-31T09:50:25.3570652-05:00",
         "Discount": 20.0,
         "Label": "Torre Ryzen 3 5300G +B550 Gaming X V2 +8gb DDR4 +500gb SSD +600W +Chasis"
+      },
+      {
+        "Price": 659.00,
+        "Features": [],
+        "Date": "2024-01-10T09:29:39.4405152-05:00",
+        "Update": "2024-01-10T09:57:31.7451907-05:00",
+        "Discount": 10.0,
+        "Label": "Torre i5-12400 +Z690M Phantom Gaming 4 +8GB DDR4 +480GB SSD +600W +MasterBox"
       }
     ]
   },
@@ -2585,23 +2593,6 @@
         "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
       },
       {
-        "Price": 239.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "7200mmhz",
-          "Wifi",
-          "4xSATA",
-          "LGA 1700",
-          "ATX",
-          "HDMI",
-          "PS2"
-        ],
-        "Date": "2023-12-12T03:35:19.2766433-05:00",
-        "Update": "2023-12-12T04:01:09.7034293-05:00",
-        "Label": "Board Asus Prime Z790-V Wifi"
-      },
-      {
         "Price": 249.00,
         "Features": [
           "AM4",
@@ -2777,6 +2768,24 @@
         "Date": "2023-12-17T00:52:07.8205125-05:00",
         "Update": "2024-01-05T09:29:29.2123432-05:00",
         "Label": "Board Gigabyte B760M DS3H DDR4"
+      },
+      {
+        "Price": 239.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "7200mmhz",
+          "Wifi",
+          "4xSATA",
+          "LGA 1700",
+          "ATX",
+          "HDMI",
+          "PS2",
+          "MOBO"
+        ],
+        "Date": "2023-12-12T03:35:19.2766433-05:00",
+        "Update": "2024-01-10T09:57:31.6727952-05:00",
+        "Label": "Board Asus Prime Z790-V Wifi"
       }
     ]
   },
