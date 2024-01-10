@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/torre-rtx-2060-gaming-6gb-i5-12400-z690-phantom-ga-ivcul-1.webp",
+    "/images/products/torre-rtx-2060-gaming-6gb-i5-12400-z690-phantom-ga-ivcul-2.webp",
+    "/images/products/torre-rtx-2060-gaming-6gb-i5-12400-z690-phantom-ga-ivcul-3.webp",
+    "/images/products/torre-rtx-2060-gaming-6gb-i5-12400-z690-phantom-ga-ivcul-4.webp",
+    "/images/products/torre-rtx-2060-gaming-6gb-i5-12400-z690-phantom-ga-ivcul-5.webp",
+    "/images/products/torre-rtx-2060-gaming-6gb-i5-12400-z690-phantom-ga-ivcul-6.webp",
+    "/images/products/torre-rtx-2060-gaming-6gb-i5-12400-z690-phantom-ga-ivcul-7.webp",
+    "/images/products/torre-rtx-2060-gaming-6gb-i5-12400-z690-phantom-ga-ivcul-8.webp",
+    "/images/products/torre-rtx-2060-gaming-6gb-i5-12400-z690-phantom-ga-ivcul-9.webp",
+    "/images/products/torre-rtx-2060-gaming-6gb-i5-12400-z690-phantom-ga-ivcul-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12400 +Disipador\n+ Board ASRock Z690 Phantom Gaming 4 DDR4\n+ RAM DDR4 GeIL ORION 16GB 3600mhz\n+ SSD M.2 TeamGroup MP34 1TB\n+ Tarjeta de Video EVGA RTX 2060 Gaming 6GB\n+ Fuente EVGA 650 BP 650W\n+ Chasis Phanteks Eclipse G300A Mesh D-RGB Black\n+ Monitor Acer Nitro 24\" 165Hz 1ms SPK VA\n+ COMBO Teclado + Mouse Rosewill Fusion C40\n",
+  "Price": 1399.00,
+  "Features": [],
+  "Date": "2024-01-10T09:19:16.8334653-05:00",
+  "Update": "2024-01-10T09:22:48.4061229-05:00",
+  "Discount": 22.0,
+  "Label": "Torre RTX 2060 Gaming 6GB +i5-12400 +Z690 Phantom Gaming 4 +16GB DDR4 +Acer 28\""
+}
