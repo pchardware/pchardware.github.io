@@ -2,7 +2,7 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 1769.00,
+        "Price": 1773.00,
         "Features": [],
         "Date": "2024-01-05T12:09:17.6571439-05:00",
         "Update": "2024-01-05T12:25:18.0609691-05:00",
@@ -10,7 +10,7 @@
         "Label": "PC RX 7600 8GB +i5-13600K +Z790 UD AX +32GB DDR5 +1TB M.2 +850W +Acer 24\""
       },
       {
-        "Price": 1735.00,
+        "Price": 1739.00,
         "Features": [],
         "Date": "2024-01-05T12:22:53.9378609-05:00",
         "Update": "2024-01-08T10:47:17.4532563-05:00",
@@ -18,7 +18,7 @@
         "Label": "PC Ryzen 7 5800X +RX 7600 8GB +Strix B550-F Gaming +16GB DDR4 +1TB M.2 +Mon 24\""
       },
       {
-        "Price": 1399.00,
+        "Price": 1389.00,
         "Features": [],
         "Date": "2024-01-10T09:19:16.8334653-05:00",
         "Update": "2024-01-10T09:57:31.7090061-05:00",
@@ -56,7 +56,7 @@
         "Label": "Torre R5 5600G +B550 Gaming X V2 +16GB DDR4 3600mhz +480GB SSD +600W +Chasis"
       },
       {
-        "Price": 1309.00,
+        "Price": 1319.00,
         "Features": [],
         "Date": "2024-01-02T09:47:41.9217065-05:00",
         "Update": "2024-01-02T09:50:48.9704991-05:00",
@@ -64,7 +64,7 @@
         "Label": "Torre RX 6600 8GB +R7 5800X +X570S Gaming X +16GB DDR4 3600mhz +1TB M.2 +850W"
       },
       {
-        "Price": 1235.00,
+        "Price": 1245.00,
         "Features": [],
         "Date": "2024-01-02T11:30:47.9140583-05:00",
         "Update": "2024-01-02T11:34:13.0778297-05:00",
@@ -72,7 +72,7 @@
         "Label": "Torre RX 6600 8GB +i5-12400 +Asus Prime Z790-V Wifi +16GB DDR4 +1TB M.2 +650W"
       },
       {
-        "Price": 989.00,
+        "Price": 979.00,
         "Features": [],
         "Date": "2024-01-05T10:20:28.1295787-05:00",
         "Update": "2024-01-08T14:21:05.298586-05:00",
@@ -80,7 +80,7 @@
         "Label": "Torre Gigabyte B760M DS3H +RTX 2060 Gaming 6GB +16GB DDR4 + 500GB SSD +700W"
       },
       {
-        "Price": 1480.00,
+        "Price": 1484.00,
         "Features": [],
         "Date": "2024-01-08T16:33:00.0606718-05:00",
         "Update": "2024-01-08T17:15:26.0821211-05:00",
@@ -1426,18 +1426,6 @@
         "Date": "2023-12-19T06:42:03.8413883-05:00",
         "Update": "2023-12-24T02:51:09.9408144-05:00",
         "Label": "SSD 2.5 Patriot P210 1TB"
-      },
-      {
-        "Price": 265.0,
-        "Features": [
-          "7300MBps",
-          "2400tbw",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-12-07T13:20:33.368904-05:00",
-        "Update": "2023-12-24T03:38:46.4612958-05:00",
-        "Label": "SSD M.2 WD BLACK SN850X 4TB"
       }
     ],
     "Disipador por Aire": [
@@ -2041,7 +2029,7 @@
     ],
     "Tarjeta Gráfica": [
       {
-        "Price": 515.00,
+        "Price": 495.00,
         "Features": [
           "Liquida",
           "2x8Pin",
@@ -2094,7 +2082,7 @@
         "Label": "Tarjeta de Video Asus ProArt RTX 4060 OC 8GB"
       },
       {
-        "Price": 355.00,
+        "Price": 349.00,
         "Features": [
           "2xFan",
           "1x8Pin",
@@ -2129,7 +2117,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 3050 WindForce OC 8GB"
       },
       {
-        "Price": 259.00,
+        "Price": 269.00,
         "Features": [
           "8GB",
           "3xFan",
@@ -2146,7 +2134,7 @@
         "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X 8GB"
       },
       {
-        "Price": 255.00,
+        "Price": 245.00,
         "Features": [
           "1x8Pin",
           "500WR",
@@ -2162,7 +2150,7 @@
         "Label": "Tarjeta de Video EVGA RTX 2060 Gaming 6GB"
       },
       {
-        "Price": 1299.00,
+        "Price": 1279.00,
         "Features": [
           "850WR",
           "342mm",
@@ -2179,7 +2167,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4080 Gaming OC 16GB"
       },
       {
-        "Price": 315.00,
+        "Price": 319.00,
         "Features": [
           "3xFan",
           "1x8Pin",
@@ -2212,7 +2200,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Master 12GB"
       },
       {
-        "Price": 1199.00,
+        "Price": 1179.00,
         "Features": [
           "850WR",
           "342mm",
@@ -2229,7 +2217,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4080 Eagle OC 16GB"
       },
       {
-        "Price": 535.00,
+        "Price": 525.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -2278,7 +2266,7 @@
         "Label": "Tarjeta de Video EVGA RTX 3070 FTW3 Ultra 8GB"
       },
       {
-        "Price": 525.00,
+        "Price": 519.00,
         "Features": [
           "3xFan",
           "2x8Pin",
@@ -2739,7 +2727,7 @@
         "Label": "Board Gigabyte X570S Gaming X"
       },
       {
-        "Price": 290.00,
+        "Price": 229.00,
         "Features": [
           "12va-13ra",
           "DDR5",
