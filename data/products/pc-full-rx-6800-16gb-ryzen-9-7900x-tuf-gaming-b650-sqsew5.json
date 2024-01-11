@@ -1,0 +1,27 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/pc-full-rx-6800-16gb-ryzen-9-7900x-tuf-gaming-b650-sqsew5-1.webp",
+    "/images/products/pc-full-rx-6800-16gb-ryzen-9-7900x-tuf-gaming-b650-sqsew5-2.webp",
+    "/images/products/pc-full-rx-6800-16gb-ryzen-9-7900x-tuf-gaming-b650-sqsew5-3.webp",
+    "/images/products/pc-full-rx-6800-16gb-ryzen-9-7900x-tuf-gaming-b650-sqsew5-4.webp",
+    "/images/products/pc-full-rx-6800-16gb-ryzen-9-7900x-tuf-gaming-b650-sqsew5-5.webp",
+    "/images/products/pc-full-rx-6800-16gb-ryzen-9-7900x-tuf-gaming-b650-sqsew5-6.webp",
+    "/images/products/pc-full-rx-6800-16gb-ryzen-9-7900x-tuf-gaming-b650-sqsew5-7.webp",
+    "/images/products/pc-full-rx-6800-16gb-ryzen-9-7900x-tuf-gaming-b650-sqsew5-8.webp",
+    "/images/products/pc-full-rx-6800-16gb-ryzen-9-7900x-tuf-gaming-b650-sqsew5-9.webp",
+    "/images/products/pc-full-rx-6800-16gb-ryzen-9-7900x-tuf-gaming-b650-sqsew5-10.webp"
+  ],
+  "Description": "+ Micro AMD Ryzen 9 7900X\n+ Disipador Cooler Master Hyper 620S Dual\n+ Board Asus TUF Gaming B650-Plus Wifi\n+ RAM DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz\n+ SSD M.2 Crucial P5 Plus 1TB\n+ Tarjeta de Video XFX Swift 319 RX 6800 16GB\n+ Fuente Corsair RM850e 850W\n+ Chasis Fractal Design Focus 2 RGB White\n+ Monitor Acer Nitro 28\" 4K IPS 10Bit 300nit SPK\n+ COMBO Teclado + Mouse Rosewill Fusion C40\n",
+  "Price": 2429.00,
+  "Features": [
+    "Wifi",
+    "Raton y Teclado",
+    "Monitor"
+  ],
+  "Date": "2024-01-11T09:29:43.9691769-05:00",
+  "Update": "2024-01-11T09:32:26.7163609-05:00",
+  "Discount": 5.0,
+  "Label": "PC Full RX 6800 16GB +Ryzen 9 7900X +TUF Gaming B650-Plus +32GB DDR5 +850W"
+}
