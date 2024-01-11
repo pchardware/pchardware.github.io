@@ -1,0 +1,17 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Adaptador",
+  "Images": [
+    "/images/products/cable-displayport-a-hdmi-1m-1.webp",
+    "/images/products/cable-displayport-a-hdmi-1m-2.webp",
+    "/images/products/cable-displayport-a-hdmi-1m-3.webp"
+  ],
+  "Description": "Model\nBrand: Omni Gear\nModel: DP-3-HDMI\nType: DisplayPort to HDMI\nColor: Black\n\n\nDetails\nLength: 3 ft.\nCable Length: 3 ft.\nConnector Number: 2\nConnect From: 1 x DisplayPort\nConnect To: 1 x HDMI\nTerminal Gender: Male to Male\nSpecifications: 28AWG",
+  "Price": 15.00,
+  "Features": [
+    "1m"
+  ],
+  "Date": "2023-06-07T15:03:27.0791363-04:00",
+  "Update": "2024-01-11T10:03:11.3380862-05:00",
+  "Label": "Cable DisplayPort a HDMI, 1m"
+}
