@@ -15,7 +15,7 @@
   "Features": [
     "AM4",
     "AMD",
-    "6xSATA",
+    "4xSATA",
     "6xUSB",
     "DDR4",
     "4733mhz",
@@ -27,6 +27,6 @@
     "MOBO"
   ],
   "Date": "2023-07-13T11:32:04.6371575-04:00",
-  "Update": "2024-01-11T10:09:18.6881371-05:00",
+  "Update": "2024-01-11T11:33:05.2240017-05:00",
   "Label": "Motherboard Gigabyte B550 Gaming X V2"
 }
