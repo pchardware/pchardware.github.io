@@ -1,0 +1,24 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Otros",
+  "Images": [
+    "/images/products/hub-orico-type-c-4-port-usb-30-1.webp",
+    "/images/products/hub-orico-type-c-4-port-usb-30-2.webp",
+    "/images/products/hub-orico-type-c-4-port-usb-30-3.webp",
+    "/images/products/hub-orico-type-c-4-port-usb-30-4.webp",
+    "/images/products/hub-orico-type-c-4-port-usb-30-5.webp",
+    "/images/products/hub-orico-type-c-4-port-usb-30-6.webp",
+    "/images/products/hub-orico-type-c-4-port-usb-30-7.webp"
+  ],
+  "Description": "Model\nBrand: ORICO\n\n\nDetails\nColor: Black\nType: USB\nStandards: USB 3.0\nMax Devices Supported: 127\nPorts: 4 x USB 3.0\nTransfer Rate: Up to 5 Gbps\nLEDs: Power/Activity\nTemperature: 5° C~ 40° C",
+  "Price": 17.00,
+  "Features": [
+    "Negro",
+    "USB3.0",
+    "5Gbps",
+    "LED"
+  ],
+  "Date": "2023-08-08T10:08:25.6723245-04:00",
+  "Update": "2024-01-11T10:18:20.2334147-05:00",
+  "Label": "HUB Orico Type-C 4-Port USB 3.0"
+}
