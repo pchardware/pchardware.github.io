@@ -23,9 +23,10 @@
     "PS2",
     "DVI",
     "HDMI",
-    "3xAudio"
+    "3xAudio",
+    "MOBO"
   ],
   "Date": "2023-07-13T11:32:04.6371575-04:00",
-  "Update": "2023-12-24T02:51:09.7082747-05:00",
+  "Update": "2024-01-11T10:09:18.6881371-05:00",
   "Label": "Motherboard Gigabyte B550 Gaming X V2"
 }
