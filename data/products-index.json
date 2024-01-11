@@ -1883,21 +1883,6 @@
         "Label": "Micro AMD Ryzen 9 7900X"
       },
       {
-        "Price": 179.00,
-        "Features": [
-          "11na Gen",
-          "12 Hilos",
-          "6 Cores",
-          "4.4GHz",
-          "12MB L3",
-          "LGA 1200",
-          "CPU"
-        ],
-        "Date": "2023-03-22T09:04:03.4468877-04:00",
-        "Update": "2023-10-14T14:41:17.8362317-04:00",
-        "Label": "Micro Intel Core i5-11400 +Disipador"
-      },
-      {
         "Price": 325.00,
         "Features": [
           "13ra Gen",
@@ -3309,15 +3294,6 @@
       {
         "Price": 13.00,
         "Features": [
-          "Wired"
-        ],
-        "Date": "2023-12-07T13:02:34.4723692-05:00",
-        "Update": "2023-12-07T13:17:19.3449285-05:00",
-        "Label": "Mouse Asus JM3"
-      },
-      {
-        "Price": 13.00,
-        "Features": [
           "2 Botones",
           "Scroll",
           "Cableado"
@@ -3413,6 +3389,17 @@
         "Date": "2023-08-21T08:58:41.5573667-04:00",
         "Update": "2023-12-28T14:06:43.9386612-05:00",
         "Label": "Mouse Corsair M65 ELITE RGB Black"
+      },
+      {
+        "Price": 13.00,
+        "Features": [
+          "2 Botones",
+          "Scroll",
+          "Cableado"
+        ],
+        "Date": "2023-12-07T13:02:34.4723692-05:00",
+        "Update": "2024-01-11T09:54:22.2542015-05:00",
+        "Label": "Mouse Asus JM3"
       }
     ],
     "Otros": [
