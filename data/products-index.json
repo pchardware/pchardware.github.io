@@ -2707,26 +2707,6 @@
       {
         "Price": 185.00,
         "Features": [
-          "AM4",
-          "AMD",
-          "6xSATA",
-          "6xUSB",
-          "DDR4",
-          "4733mhz",
-          "ATX",
-          "PS2",
-          "DVI",
-          "HDMI",
-          "3xAudio",
-          "MOBO"
-        ],
-        "Date": "2023-07-13T11:32:04.6371575-04:00",
-        "Update": "2024-01-11T10:09:18.6881371-05:00",
-        "Label": "Motherboard Gigabyte B550 Gaming X V2"
-      },
-      {
-        "Price": 185.00,
-        "Features": [
           "12Gen-13Gen-14Gen",
           "DDR4",
           "5000mhz",
@@ -2795,6 +2775,26 @@
         "Date": "2023-12-17T00:52:07.8205125-05:00",
         "Update": "2024-01-11T10:09:18.9183081-05:00",
         "Label": "Board Gigabyte B760M DS3H DDR4"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "AM4",
+          "AMD",
+          "4xSATA",
+          "6xUSB",
+          "DDR4",
+          "4733mhz",
+          "ATX",
+          "PS2",
+          "DVI",
+          "HDMI",
+          "3xAudio",
+          "MOBO"
+        ],
+        "Date": "2023-07-13T11:32:04.6371575-04:00",
+        "Update": "2024-01-11T11:33:05.2240017-05:00",
+        "Label": "Motherboard Gigabyte B550 Gaming X V2"
       }
     ]
   },
