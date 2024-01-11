@@ -13,12 +13,12 @@
   "Description": "Details\nType: PCI Express to SATA Card\nExternal USB Ports: 1x SATAIII",
   "Price": 59.00,
   "Features": [
-    "x6 SATA3",
+    "8xSATA",
     "Interno",
     "6Gb/s",
     "PCIe"
   ],
   "Date": "2023-12-04T16:22:01.2672974-05:00",
-  "Update": "2023-12-05T17:03:39.3478758-05:00",
+  "Update": "2024-01-11T10:07:28.2436926-05:00",
   "Label": "Acasis Weastlinks 8xSATA"
 }
