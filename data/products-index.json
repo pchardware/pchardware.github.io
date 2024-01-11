@@ -576,18 +576,6 @@
         "Label": "HUB EN-Labs Panel Frontal 5.25\" 7xUSB2"
       },
       {
-        "Price": 59.00,
-        "Features": [
-          "x6 SATA3",
-          "Interno",
-          "6Gb/s",
-          "PCIe"
-        ],
-        "Date": "2023-12-04T16:22:01.2672974-05:00",
-        "Update": "2023-12-05T17:03:39.3478758-05:00",
-        "Label": "Acasis Weastlinks 8xSATA"
-      },
-      {
         "Price": 25.00,
         "Features": [
           "1x a 16x",
@@ -644,6 +632,18 @@
         "Date": "2023-06-07T15:06:05.815869-04:00",
         "Update": "2024-01-11T09:59:25.2726018-05:00",
         "Label": "Fan Uphere 12BK3"
+      },
+      {
+        "Price": 59.00,
+        "Features": [
+          "8xSATA",
+          "Interno",
+          "6Gb/s",
+          "PCIe"
+        ],
+        "Date": "2023-12-04T16:22:01.2672974-05:00",
+        "Update": "2024-01-11T10:07:28.2436926-05:00",
+        "Label": "Acasis Weastlinks 8xSATA"
       }
     ],
     "Fuente": [
@@ -2609,25 +2609,6 @@
         "Label": "Board Asus ROG Strix B550-F Gaming Wifi II"
       },
       {
-        "Price": 185.00,
-        "Features": [
-          "AM4",
-          "AMD",
-          "6xSATA",
-          "6xUSB",
-          "DDR4",
-          "4733mhz",
-          "ATX",
-          "PS2",
-          "DVI",
-          "HDMI",
-          "3xAudio"
-        ],
-        "Date": "2023-07-13T11:32:04.6371575-04:00",
-        "Update": "2023-12-24T02:51:09.7082747-05:00",
-        "Label": "Motherboard Gigabyte B550 Gaming X V2"
-      },
-      {
         "Price": 239.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -2667,22 +2648,6 @@
         "Label": "Board ASRock Z690M Phantom Gaming 4"
       },
       {
-        "Price": 185.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR4",
-          "5000mhz",
-          "LGA 1700",
-          "x8 USB",
-          "x4 SATA",
-          "ATX",
-          "RGB"
-        ],
-        "Date": "2023-12-04T16:21:54.4596991-05:00",
-        "Update": "2023-12-24T02:51:09.7940555-05:00",
-        "Label": "Board ASRock Z690 Phantom Gaming 4 DDR4"
-      },
-      {
         "Price": 159.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -2702,71 +2667,6 @@
         "Label": "Board MSI Pro B760M-P DDR4"
       },
       {
-        "Price": 205.00,
-        "Features": [
-          "AM4",
-          "AMD",
-          "4xSATA",
-          "7xUSB",
-          "6xAudio",
-          "DDR4",
-          "4400mhz",
-          "HDMI",
-          "DisplayPort"
-        ],
-        "Date": "2023-12-28T14:07:10.9940743-05:00",
-        "Update": "2023-12-28T16:17:00.3653352-05:00",
-        "Label": "Board Gigabyte B550 Aorus Elite AX V2"
-      },
-      {
-        "Price": 229.00,
-        "Features": [
-          "AM4",
-          "AMD",
-          "6xSATA",
-          "7xUSB",
-          "6xAudio",
-          "DDR4",
-          "5100mhz",
-          "HDMI",
-          "DisplayPort"
-        ],
-        "Date": "2023-12-28T14:08:17.4889383-05:00",
-        "Update": "2023-12-28T16:17:00.4028227-05:00",
-        "Label": "Board Gigabyte X570S Gaming X"
-      },
-      {
-        "Price": 229.00,
-        "Features": [
-          "12va-13ra",
-          "DDR5",
-          "7600mhz",
-          "LGA 1700",
-          "ATX"
-        ],
-        "Date": "2023-05-14T10:52:20.5741642-04:00",
-        "Update": "2024-01-01T19:09:01.2105311-05:00",
-        "Label": "Board Gigabyte Z790 UD AC"
-      },
-      {
-        "Price": 159.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR4",
-          "5333mhz",
-          "VGA",
-          "HDMI",
-          "DisplayPort",
-          "4xSATA",
-          "5xUSB",
-          "LGA 1700",
-          "Micro ATX"
-        ],
-        "Date": "2023-12-17T00:52:07.8205125-05:00",
-        "Update": "2024-01-05T09:29:29.2123432-05:00",
-        "Label": "Board Gigabyte B760M DS3H DDR4"
-      },
-      {
         "Price": 239.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -2783,6 +2683,119 @@
         "Date": "2023-12-12T03:35:19.2766433-05:00",
         "Update": "2024-01-10T09:57:31.6727952-05:00",
         "Label": "Board Asus Prime Z790-V Wifi"
+      },
+      {
+        "Price": 229.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "7600mhz",
+          "Wifi",
+          "9xUSB",
+          "6xSATA",
+          "LGA 1700",
+          "ATX",
+          "PS2",
+          "DisplayPort",
+          "HDMI",
+          "3xAudio",
+          "MOBO"
+        ],
+        "Date": "2023-05-14T10:52:20.5741642-04:00",
+        "Update": "2024-01-11T10:06:01.1879767-05:00",
+        "Label": "Board Gigabyte Z790 UD AC"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "AM4",
+          "AMD",
+          "6xSATA",
+          "6xUSB",
+          "DDR4",
+          "4733mhz",
+          "ATX",
+          "PS2",
+          "DVI",
+          "HDMI",
+          "3xAudio",
+          "MOBO"
+        ],
+        "Date": "2023-07-13T11:32:04.6371575-04:00",
+        "Update": "2024-01-11T10:09:18.6881371-05:00",
+        "Label": "Motherboard Gigabyte B550 Gaming X V2"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR4",
+          "5000mhz",
+          "LGA 1700",
+          "x8 USB",
+          "x4 SATA",
+          "ATX",
+          "RGB",
+          "MOBO"
+        ],
+        "Date": "2023-12-04T16:21:54.4596991-05:00",
+        "Update": "2024-01-11T10:09:18.7079221-05:00",
+        "Label": "Board ASRock Z690 Phantom Gaming 4 DDR4"
+      },
+      {
+        "Price": 205.00,
+        "Features": [
+          "AM4",
+          "AMD",
+          "4xSATA",
+          "7xUSB",
+          "6xAudio",
+          "DDR4",
+          "4400mhz",
+          "HDMI",
+          "DisplayPort",
+          "MOBO"
+        ],
+        "Date": "2023-12-28T14:07:10.9940743-05:00",
+        "Update": "2024-01-11T10:09:18.7320014-05:00",
+        "Label": "Board Gigabyte B550 Aorus Elite AX V2"
+      },
+      {
+        "Price": 229.00,
+        "Features": [
+          "AM4",
+          "AMD",
+          "6xSATA",
+          "7xUSB",
+          "6xAudio",
+          "DDR4",
+          "5100mhz",
+          "HDMI",
+          "DisplayPort",
+          "MOBO"
+        ],
+        "Date": "2023-12-28T14:08:17.4889383-05:00",
+        "Update": "2024-01-11T10:09:18.8944654-05:00",
+        "Label": "Board Gigabyte X570S Gaming X"
+      },
+      {
+        "Price": 159.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR4",
+          "5333mhz",
+          "VGA",
+          "HDMI",
+          "DisplayPort",
+          "4xSATA",
+          "5xUSB",
+          "LGA 1700",
+          "Micro ATX",
+          "MOBO"
+        ],
+        "Date": "2023-12-17T00:52:07.8205125-05:00",
+        "Update": "2024-01-11T10:09:18.9183081-05:00",
+        "Label": "Board Gigabyte B760M DS3H DDR4"
       }
     ]
   },
@@ -3032,15 +3045,6 @@
         "Label": "Adaptador HDMI a DVI"
       },
       {
-        "Price": 15.00,
-        "Features": [
-          "1m"
-        ],
-        "Date": "2023-06-07T15:03:27.0791363-04:00",
-        "Update": "2023-12-05T17:15:40.1518278-05:00",
-        "Label": "Cable DisplayPort a HDMI"
-      },
-      {
         "Price": 9.00,
         "Features": [
           "DCA106-HV"
@@ -3055,6 +3059,15 @@
         "Date": "2023-06-07T15:04:34.6091688-04:00",
         "Update": "2023-12-24T03:38:07.1745878-05:00",
         "Label": "Conversor HDMI a VGA"
+      },
+      {
+        "Price": 15.00,
+        "Features": [
+          "1m"
+        ],
+        "Date": "2023-06-07T15:03:27.0791363-04:00",
+        "Update": "2024-01-11T10:03:11.3380862-05:00",
+        "Label": "Cable DisplayPort a HDMI, 1m"
       }
     ],
     "Mouse": [
