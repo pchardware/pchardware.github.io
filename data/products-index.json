@@ -389,15 +389,6 @@
         "Label": "Extensor Athena PCIe"
       },
       {
-        "Price": 7.00,
-        "Features": [
-          "120"
-        ],
-        "Date": "2023-06-07T15:06:05.815869-04:00",
-        "Update": "2023-06-07T15:55:09.4573643-04:00",
-        "Label": "Fan Uphere 12BK3"
-      },
-      {
         "Price": 11.00,
         "Features": [],
         "Date": "2023-07-17T23:37:33.911055-04:00",
@@ -642,6 +633,17 @@
         "Date": "2023-12-15T02:03:00.6236319-05:00",
         "Update": "2023-12-24T03:04:22.7201563-05:00",
         "Label": "HUB Thermalright Controlador ARGB Fan 8x"
+      },
+      {
+        "Price": 7.00,
+        "Features": [
+          "120mm",
+          "1200rpm",
+          "19dB"
+        ],
+        "Date": "2023-06-07T15:06:05.815869-04:00",
+        "Update": "2024-01-11T09:59:25.2726018-05:00",
+        "Label": "Fan Uphere 12BK3"
       }
     ],
     "Fuente": [
@@ -3404,18 +3406,6 @@
     ],
     "Otros": [
       {
-        "Price": 17.00,
-        "Features": [
-          "Negro",
-          "USB3.0",
-          "5Gbps",
-          "LED"
-        ],
-        "Date": "2023-08-08T10:08:25.6723245-04:00",
-        "Update": "2023-08-09T11:38:47.3567026-04:00",
-        "Label": "HUB Orico USB-C, 4xUSB [PW4U]"
-      },
-      {
         "Price": 14.00,
         "Features": [
           "130Mbps",
@@ -3495,6 +3485,18 @@
         "Date": "2023-12-04T16:21:23.4675923-05:00",
         "Update": "2023-12-05T16:45:36.904454-05:00",
         "Label": "Cable SATA a Molex"
+      },
+      {
+        "Price": 17.00,
+        "Features": [
+          "Negro",
+          "USB3.0",
+          "5Gbps",
+          "LED"
+        ],
+        "Date": "2023-08-08T10:08:25.6723245-04:00",
+        "Update": "2024-01-11T09:55:43.8470175-05:00",
+        "Label": "HUB Orico USB-C 4xUSB"
       }
     ],
     "Externo": [
