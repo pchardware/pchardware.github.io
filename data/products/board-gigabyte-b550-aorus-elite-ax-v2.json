@@ -19,9 +19,10 @@
     "DDR4",
     "4400mhz",
     "HDMI",
-    "DisplayPort"
+    "DisplayPort",
+    "MOBO"
   ],
   "Date": "2023-12-28T14:07:10.9940743-05:00",
-  "Update": "2023-12-28T16:17:00.3653352-05:00",
+  "Update": "2024-01-11T10:09:18.7320014-05:00",
   "Label": "Board Gigabyte B550 Aorus Elite AX V2"
 }
