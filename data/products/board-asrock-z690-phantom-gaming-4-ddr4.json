@@ -19,9 +19,10 @@
     "x8 USB",
     "x4 SATA",
     "ATX",
-    "RGB"
+    "RGB",
+    "MOBO"
   ],
   "Date": "2023-12-04T16:21:54.4596991-05:00",
-  "Update": "2023-12-24T02:51:09.7940555-05:00",
+  "Update": "2024-01-11T10:09:18.7079221-05:00",
   "Label": "Board ASRock Z690 Phantom Gaming 4 DDR4"
 }
