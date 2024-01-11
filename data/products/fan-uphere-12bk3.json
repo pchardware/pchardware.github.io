@@ -8,12 +8,14 @@
     "/images/products/fan-uphere-12bk3-4.webp",
     "/images/products/fan-uphere-12bk3-5.webp"
   ],
-  "Description": "",
+  "Description": "Product Dimensions \t4.72\"L x 4.72\"W x 0.98\"H\nBrand \tupHere\nVoltage \t12 Volts\nWattage \t1.44 watts\nCooling Method \tAir\nCompatible Devices \tDesktop\nNoise Level \t19 dB\nMaximum Rotational Speed \t1200 RPM",
   "Price": 7.00,
   "Features": [
-    "120"
+    "120mm",
+    "1200rpm",
+    "19dB"
   ],
   "Date": "2023-06-07T15:06:05.815869-04:00",
-  "Update": "2023-06-07T15:55:09.4573643-04:00",
+  "Update": "2024-01-11T09:59:25.2726018-05:00",
   "Label": "Fan Uphere 12BK3"
 }
