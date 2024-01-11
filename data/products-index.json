@@ -43,6 +43,20 @@
         "Discount": 21.0,
         "Label": "PC Ryzen 3 5300G +B550 Gaming X V2 +16GB DDR4 +500GB SSD +600W +Chasis +Acer 24\""
       }
+    ],
+    "Rendimiento": [
+      {
+        "Price": 2429.00,
+        "Features": [
+          "Wifi",
+          "Raton y Teclado",
+          "Monitor"
+        ],
+        "Date": "2024-01-11T09:29:43.9691769-05:00",
+        "Update": "2024-01-11T09:32:26.7163609-05:00",
+        "Discount": 5.0,
+        "Label": "PC Full RX 6800 16GB +Ryzen 9 7900X +TUF Gaming B650-Plus +32GB DDR5 +850W"
+      }
     ]
   },
   "Torres": {
