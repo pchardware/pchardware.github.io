@@ -1371,17 +1371,6 @@
         "Label": "SSD M.2 TeamGroup MP34 1TB"
       },
       {
-        "Price": 84.00,
-        "Features": [
-          "560mbps",
-          "600tbw",
-          "SATA 3"
-        ],
-        "Date": "2023-08-01T11:14:15.2077979-04:00",
-        "Update": "2023-12-24T02:51:09.6672509-05:00",
-        "Label": "SSD 2.5 Samsung 870 EVO 1TB"
-      },
-      {
         "Price": 67.00,
         "Features": [
           "560mbs",
