@@ -24,14 +24,6 @@
         "Update": "2024-01-10T09:57:31.7090061-05:00",
         "Discount": 22.0,
         "Label": "PC RTX 2060 Gaming 6GB +i5-12400 +Z690 Phantom Gaming 4 +16GB DDR4 +Acer 28\""
-      },
-      {
-        "Price": 4099.00,
-        "Features": [],
-        "Date": "2024-01-11T09:24:09.7373509-05:00",
-        "Update": "2024-01-11T09:27:02.5297815-05:00",
-        "Discount": 4.0,
-        "Label": "PC Full Gamer RTX 4080 16GB +Liquida +ROG Strix Z790-H Gaming +32GB DDR5 +1200W"
       }
     ],
     "Multimedia": [
@@ -2256,22 +2248,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 3060 Ti Vision 8GB"
       },
       {
-        "Price": 479.00,
-        "Features": [
-          "3xFan",
-          "2x8Pin",
-          "650WR",
-          "300mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-11-14T14:39:58.2807205-05:00",
-        "Update": "2023-12-24T03:17:29.3552075-05:00",
-        "Label": "Tarjeta de Video EVGA RTX 3070 FTW3 Ultra 8GB"
-      },
-      {
         "Price": 519.00,
         "Features": [
           "3xFan",
@@ -2336,21 +2312,6 @@
         "Date": "2023-11-18T08:41:47.9392507-05:00",
         "Update": "2023-12-28T22:16:19.7412336-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Eagle OC 8GB"
-      },
-      {
-        "Price": 69.00,
-        "Features": [
-          "300WR",
-          "145mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica",
-          "1xFan"
-        ],
-        "Date": "2023-10-23T12:32:17.3770137-04:00",
-        "Update": "2024-01-01T19:09:01.095339-05:00",
-        "Label": "Tarjeta de Video EVGA GT 730 2GB"
       },
       {
         "Price": 395.00,
@@ -2848,23 +2809,6 @@
         "Label": "Teclado Asus TUF Gaming K1"
       },
       {
-        "Price": 139.00,
-        "Features": [
-          "Mecánico",
-          "Macros",
-          "Aura Sync",
-          "RGB",
-          "Gaming",
-          "Slim",
-          "Multimedia",
-          "Palm rest",
-          "Full"
-        ],
-        "Date": "2023-07-09T16:45:34.7357644-04:00",
-        "Update": "2023-07-12T22:26:29.6743045-04:00",
-        "Label": "Teclado Asus ROG Strix Flare"
-      },
-      {
         "Price": 103.00,
         "Features": [
           "Membrana",
@@ -3078,38 +3022,6 @@
         "Label": "Mouse Pad Asus NC01 ROG Sheath BLK"
       },
       {
-        "Price": 37.00,
-        "Features": [
-          "Gaming",
-          "6 botónes",
-          "6000dpi",
-          "Optico",
-          "USB"
-        ],
-        "Date": "2023-09-02T12:38:48.8628172-04:00",
-        "Update": "2023-09-02T13:38:05.6192543-04:00",
-        "Label": "Mouse Corsair Harpoon RGB"
-      },
-      {
-        "Price": 39.00,
-        "Features": [
-          "12000dpi",
-          "Palm",
-          "Claw",
-          "Blanco",
-          "RGB",
-          "220ips",
-          "6 botónes",
-          "50g",
-          "Gaming",
-          "Optico",
-          "USB"
-        ],
-        "Date": "2023-09-26T11:29:01.6985294-04:00",
-        "Update": "2023-09-26T12:08:30.143387-04:00",
-        "Label": "Mouse Cooler Master MM310 White"
-      },
-      {
         "Price": 65.00,
         "Features": [
           "Wireless",
@@ -3122,19 +3034,6 @@
         "Date": "2023-06-29T07:38:38.0146289-04:00",
         "Update": "2023-10-11T10:54:04.6827983-04:00",
         "Label": "Mouse Logitech G305 Lightspeed"
-      },
-      {
-        "Price": 33.00,
-        "Features": [
-          "53g",
-          "PTFE",
-          "Omron Switches",
-          "Ultralight",
-          "Pro-Grade"
-        ],
-        "Date": "2023-08-01T11:15:22.0148333-04:00",
-        "Update": "2023-10-18T07:33:51.8538616-04:00",
-        "Label": "Mouse Cooler Master M710"
       },
       {
         "Price": 65.00,
@@ -3484,18 +3383,6 @@
         "Date": "2023-12-04T16:21:23.4675923-05:00",
         "Update": "2023-12-05T16:45:36.904454-05:00",
         "Label": "Cable SATA a Molex"
-      },
-      {
-        "Price": 17.00,
-        "Features": [
-          "Negro",
-          "USB3.0",
-          "5Gbps",
-          "LED"
-        ],
-        "Date": "2023-08-08T10:08:25.6723245-04:00",
-        "Update": "2024-01-11T10:18:20.2334147-05:00",
-        "Label": "HUB Orico Type-C 4-Port USB 3.0"
       },
       {
         "Price": 59.00,
