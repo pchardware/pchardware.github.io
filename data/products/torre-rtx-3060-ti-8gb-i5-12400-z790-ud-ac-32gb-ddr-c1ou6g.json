@@ -1,0 +1,21 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/torre-rtx-3060-ti-8gb-i5-12400-z790-ud-ac-32gb-ddr-c1ou6g-1.webp",
+    "/images/products/torre-rtx-3060-ti-8gb-i5-12400-z790-ud-ac-32gb-ddr-c1ou6g-2.webp",
+    "/images/products/torre-rtx-3060-ti-8gb-i5-12400-z790-ud-ac-32gb-ddr-c1ou6g-3.webp",
+    "/images/products/torre-rtx-3060-ti-8gb-i5-12400-z790-ud-ac-32gb-ddr-c1ou6g-4.webp",
+    "/images/products/torre-rtx-3060-ti-8gb-i5-12400-z790-ud-ac-32gb-ddr-c1ou6g-5.webp",
+    "/images/products/torre-rtx-3060-ti-8gb-i5-12400-z790-ud-ac-32gb-ddr-c1ou6g-6.webp",
+    "/images/products/torre-rtx-3060-ti-8gb-i5-12400-z790-ud-ac-32gb-ddr-c1ou6g-7.webp",
+    "/images/products/torre-rtx-3060-ti-8gb-i5-12400-z790-ud-ac-32gb-ddr-c1ou6g-8.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12400 +Disipador\n+ Board Gigabyte Z790 UD AC\n+ RAM DDR5 G.Skill Flare X5 32GB 6000mhz\n+ SSD M.2 Crucial P5 Plus 1TB\n+ Tarjeta de Video Gigabyte RTX 3060 Ti Vision 8GB\n+ Fuente Gigabyte UD850GM 850W\n+ Chasis Fractal Design Focus 2 RGB White\n",
+  "Price": 1445.00,
+  "Features": [],
+  "Date": "2024-01-13T05:36:48.926315-05:00",
+  "Update": "2024-01-13T05:42:19.4586566-05:00",
+  "Discount": 12.0,
+  "Label": "Torre RTX 3060 Ti 8GB +i5-12400 +Z790 UD AC +32GB DDR5 +1TB M.2 +850W +Chasis"
+}
