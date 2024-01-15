@@ -463,6 +463,18 @@
         "Date": "2023-12-04T16:22:01.2672974-05:00",
         "Update": "2024-01-11T10:07:28.2436926-05:00",
         "Label": "Acasis Weastlinks 8xSATA"
+      },
+      {
+        "Price": 18.00,
+        "Features": [
+          "1800rpm",
+          "65cfm",
+          "27dba",
+          "120mm"
+        ],
+        "Date": "2023-08-21T08:58:21.6545554-04:00",
+        "Update": "2024-01-15T18:18:29.7915199-05:00",
+        "Label": "Fan Cooler Master SickleFlow 120 V2 ARGB"
       }
     ],
     "Fuente": [
@@ -997,6 +1009,26 @@
         "Date": "2023-03-27T12:00:05.9787174-04:00",
         "Update": "2023-12-24T02:51:09.6369235-05:00",
         "Label": "Disipador Líquido Corsair H100x RGB Elite"
+      },
+      {
+        "Price": 130.00,
+        "Features": [
+          "1500rpm",
+          "48cfm",
+          "28db",
+          "Copper",
+          "1xFan",
+          "120mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "LGA 20XX",
+          "AM5",
+          "AM4"
+        ],
+        "Date": "2023-05-11T13:08:14.7226355-04:00",
+        "Update": "2024-01-15T18:18:29.8322909-05:00",
+        "Label": "Disipador Líquido Corsair H60x RGB Elite"
       }
     ],
     "Disco Duro": [
@@ -1146,6 +1178,17 @@
         "Date": "2023-12-15T02:02:51.8715106-05:00",
         "Update": "2023-12-24T02:51:09.8888411-05:00",
         "Label": "SSD M.2 MSI SPatium M371 1TB"
+      },
+      {
+        "Price": 55.00,
+        "Features": [
+          "2100MBps",
+          "PCIe3",
+          "NVMe"
+        ],
+        "Date": "2023-12-07T13:20:39.5602767-05:00",
+        "Update": "2024-01-15T18:18:29.949722-05:00",
+        "Label": "SSD M.2 HP EX900 500GB"
       }
     ],
     "Disipador por Aire": [
@@ -1512,6 +1555,17 @@
         "Date": "2023-12-28T14:07:27.1052026-05:00",
         "Update": "2024-01-01T19:09:01.2453168-05:00",
         "Label": "RAM DDR4 G.SKILL TridentZ RGB 32GB 4000mhz"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "2x16GB",
+          "Disipadas",
+          "CL40"
+        ],
+        "Date": "2023-10-09T15:59:12.4893615-04:00",
+        "Update": "2024-01-15T18:18:29.8063889-05:00",
+        "Label": "RAM DDR5 Patriot Viper Venom 32GB 6200mhz"
       }
     ],
     "Microprocesador": [
@@ -1670,6 +1724,22 @@
         "Date": "2023-11-30T11:21:40.9533793-05:00",
         "Update": "2024-01-01T19:09:01.2649941-05:00",
         "Label": "Micro Intel Core i5-14600K"
+      },
+      {
+        "Price": 175.00,
+        "Features": [
+          "13ra Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.5GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-03-22T09:04:00.899336-04:00",
+        "Update": "2024-01-15T18:18:29.8552965-05:00",
+        "Label": "Micro Intel Core i3-13100 +Disipador"
       }
     ],
     "Tarjeta Gráfica": [
@@ -1925,6 +1995,55 @@
         "Date": "2023-12-28T14:07:53.0091888-05:00",
         "Update": "2024-01-01T19:09:01.2284065-05:00",
         "Label": "Tarjeta de Video Acer Predator BiFrost RX 7600 OC"
+      },
+      {
+        "Price": 290.00,
+        "Features": [
+          "2xFan",
+          "500WR",
+          "1x6Pin",
+          "205mm",
+          "NVIDIA",
+          "GPU",
+          "Gráfica",
+          "DLSS2"
+        ],
+        "Date": "2023-11-06T10:30:19.884438-05:00",
+        "Update": "2024-01-15T18:18:29.8786336-05:00",
+        "Label": "Tarjeta de Video MSI Ventus RTX 3050 2X XS 8GB OC"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "500WR",
+          "210mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-24T09:48:58.1744464-05:00",
+        "Update": "2024-01-15T18:18:29.9024954-05:00",
+        "Label": "Tarjeta de Video ZOTAC GeForce GTX 1070 8GB"
+      },
+      {
+        "Price": 395.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "1x8Pin",
+          "450WR",
+          "281mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-18T08:41:51.2623418-05:00",
+        "Update": "2024-01-15T18:18:29.9657445-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4060 Gaming OC 8GB"
       }
     ],
     "Chasis": [
@@ -2248,6 +2367,62 @@
         "Date": "2023-07-13T11:32:04.6371575-04:00",
         "Update": "2024-01-11T11:33:05.2240017-05:00",
         "Label": "Motherboard Gigabyte B550 Gaming X V2"
+      },
+      {
+        "Price": 150.00,
+        "Features": [
+          "12va-13ra",
+          "6xUSB",
+          "DDR4",
+          "4800mhz",
+          "4xSATA",
+          "LGA 1700",
+          "Micro ATX",
+          "PS2",
+          "HDMI",
+          "DisplayPort",
+          "3xAudio"
+        ],
+        "Date": "2023-02-17T09:47:30.747913-05:00",
+        "Update": "2024-01-15T18:18:29.7774681-05:00",
+        "Label": "ASRock B660M PRO RS"
+      },
+      {
+        "Price": 250.00,
+        "Features": [
+          "12va-13ra-14ta",
+          "6xAudio",
+          "6xUSB",
+          "4xSATA",
+          "6000mhz",
+          "LGA1700",
+          "HDMI",
+          "DisplayPort",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-05-11T07:56:36.6020035-04:00",
+        "Update": "2024-01-15T18:18:29.9200032-05:00",
+        "Label": "Board Asus TUF Z690-Plus Wifi DDR5"
+      },
+      {
+        "Price": 385.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "8xUSB",
+          "Wifi",
+          "6xAudio",
+          "6xSATA",
+          "6400mhz",
+          "LGA 1700",
+          "ATX",
+          "HDMI",
+          "MOBO"
+        ],
+        "Date": "2023-06-19T07:50:08.4731323-04:00",
+        "Update": "2024-01-15T18:18:29.9354424-05:00",
+        "Label": "Board Asus ROG Maximus Z690 Hero"
       }
     ]
   },
