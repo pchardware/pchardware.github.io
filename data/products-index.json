@@ -2,7 +2,7 @@
   "Torres": {
     "Multimedia": [
       {
-        "Price": 662.00,
+        "Price": 663.00,
         "Features": [],
         "Date": "2024-01-10T09:29:39.4405152-05:00",
         "Update": "2024-01-10T09:57:31.7451907-05:00",
@@ -10,7 +10,7 @@
         "Label": "Torre i5-12400 +Z690M Phantom Gaming 4 +8GB DDR4 +480GB SSD +600W +MasterBox"
       },
       {
-        "Price": 663.00,
+        "Price": 664.00,
         "Features": [],
         "Date": "2024-01-15T06:35:20.8270124-05:00",
         "Update": "2024-01-15T06:41:55.9904327-05:00",
@@ -46,7 +46,7 @@
         "Label": "Kit i7-13700K +Board Z790 + 32GB 7200mhz DDR5 Trident Z5 RGB"
       },
       {
-        "Price": 947.00,
+        "Price": 952.00,
         "Features": [
           "32 Hilos",
           "5.7GHz",
@@ -62,23 +62,7 @@
         "Label": "Kit i9-13900K +Board Gigabyte Z790 + 32GB DDR5 G.Skill"
       },
       {
-        "Price": 506.00,
-        "Features": [
-          "8 Core",
-          "16 Hilos",
-          "2x8",
-          "3600mhz",
-          "6xSATA",
-          "7xUSB",
-          "6xAudio"
-        ],
-        "Date": "2024-01-02T10:00:28.0079066-05:00",
-        "Update": "2024-01-02T10:03:44.1521877-05:00",
-        "Discount": 6.0,
-        "Label": "Kit Ryzen 7 5800X +Gigabyte X570S Gaming X + 16GB DDR4 GeIL ORION 3600mhz"
-      },
-      {
-        "Price": 837.00,
+        "Price": 827.00,
         "Features": [
           "24 Hilos",
           "12 Core",
@@ -93,46 +77,11 @@
         "Label": "Kit Ryzen 9 7900X +Disipador Cooler Master +TUF Gaming B650-Plus +32GB DDR5"
       },
       {
-        "Price": 580.00,
-        "Features": [
-          "16 Hilos",
-          "8 Core",
-          "4.7GHz",
-          "2x16",
-          "4000mhz",
-          "7xUSB",
-          "6xSATA",
-          "WIFI"
-        ],
-        "Date": "2024-01-05T08:37:31.9550378-05:00",
-        "Update": "2024-01-05T10:19:07.9330181-05:00",
-        "Discount": 10.0,
-        "Label": "Kit Ryzen 7 5800X +Strix B550-F Gaming Wifi II + 32GB DDR4 G.SKILL RGB 4000mhz"
-      },
-      {
         "Price": 480.00,
         "Features": [],
         "Date": "2024-01-07T08:26:02.8642888-05:00",
         "Update": "2024-01-07T08:28:07.9656855-05:00",
         "Label": "Kit Ryzen 5 5600X +Gigabyte B550 Gaming X V2 + 32 DDR4 G.SKILL Ripjaws V 4000Mhz"
-      },
-      {
-        "Price": 578.00,
-        "Features": [
-          "Disipador ARGB",
-          "Wifi",
-          "16 Hilos",
-          "8 Core",
-          "4.7GHz",
-          "2x16",
-          "3600mhz",
-          "4xSATA",
-          "7xUSB",
-          "6xAudio"
-        ],
-        "Date": "2024-01-07T08:33:48.5206051-05:00",
-        "Update": "2024-01-07T08:41:22.7845524-05:00",
-        "Label": "Kit Ryzen 7 5800X +Gigabyte B550 Aorus Elite AX V2 +32GB DDR4 GeIL ORION 3600mhz"
       },
       {
         "Price": 460.00,
@@ -152,7 +101,7 @@
         "Label": "Kit Ryzen 5 5600X +Gigabyte B550 Aorus Elite AX V2 +16GB DDR4 GeIL ORION 3600mhz"
       },
       {
-        "Price": 765.00,
+        "Price": 770.00,
         "Features": [
           "20 Hilos",
           "14 Core",
@@ -170,7 +119,7 @@
     ],
     "Moderado": [
       {
-        "Price": 430.00,
+        "Price": 432.00,
         "Features": [
           "12 Hilos",
           "6 Core",
@@ -187,7 +136,7 @@
         "Label": "Kit i5-12400 +Gigabyte B760M DS3H DDR4 +16GB DDR4 Team T-Force Vulcan Z"
       },
       {
-        "Price": 400.00,
+        "Price": 401.00,
         "Features": [
           "12 Hilos",
           "6 Core",
@@ -202,7 +151,7 @@
         "Label": "Kit i5-12400 +Z690M Phantom Gaming 4 + 16GB DDR4 Team T-Force Vulcan Z"
       },
       {
-        "Price": 415.00,
+        "Price": 417.00,
         "Features": [
           "12 Hilos",
           "6 Core",
@@ -234,7 +183,7 @@
     ],
     "Esencial": [
       {
-        "Price": 330.00,
+        "Price": 331.00,
         "Features": [
           "4 Core",
           "8 hilos",
@@ -735,21 +684,6 @@
         "Label": "Fuente Corsair RM850e 850W"
       },
       {
-        "Price": 120.00,
-        "Features": [
-          "54A",
-          "80+ Bronce",
-          "1x 4+4Pin",
-          "2x 6+2Pin",
-          "6x SATA",
-          "ATX",
-          "PSU"
-        ],
-        "Date": "2023-12-07T22:24:20.3840718-05:00",
-        "Update": "2024-01-02T09:28:28.348197-05:00",
-        "Label": "Fuente EVGA 650 BP 650W"
-      },
-      {
         "Price": 205.00,
         "Features": [
           "80+ PLATINUM",
@@ -1107,7 +1041,7 @@
     ],
     "Disco Sólido": [
       {
-        "Price": 100.00,
+        "Price": 115.00,
         "Features": [
           "3500mbs",
           "740tbw",
@@ -1119,7 +1053,7 @@
         "Label": "SSD M.2 Intel 670P 2TB"
       },
       {
-        "Price": 93.0,
+        "Price": 100.00,
         "Features": [
           "7000mbps",
           "HeatSink",
@@ -1132,7 +1066,7 @@
         "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 1TB"
       },
       {
-        "Price": 90.00,
+        "Price": 80.00,
         "Features": [
           "3500MBps",
           "PCIe 4",
@@ -1154,7 +1088,7 @@
         "Label": "SSD 2.5 Team Group CX1 480GB"
       },
       {
-        "Price": 80.00,
+        "Price": 90.00,
         "Features": [
           "3500mbps",
           "1660TBW",
@@ -1202,7 +1136,7 @@
         "Label": "SSD M.2 - WD Green SN350 960TB"
       },
       {
-        "Price": 83.0,
+        "Price": 75.00,
         "Features": [
           "2350mbs",
           "210tbw",
@@ -1309,29 +1243,6 @@
         "Label": "Disipador Cooler Master Hyper 620S Dual"
       },
       {
-        "Price": 63.00,
-        "Features": [
-          "ARGB",
-          "63cfm",
-          "4xPipes",
-          "Cobre",
-          "1800rpm",
-          "25dBA",
-          "155mm",
-          "Negro",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4",
-          "AM5",
-          "Tower",
-          "1xFan"
-        ],
-        "Date": "2023-07-26T18:49:40.2918309-04:00",
-        "Update": "2023-11-24T10:20:52.8644278-05:00",
-        "Label": "Disipador Thermaltake UX200 SE"
-      },
-      {
         "Price": 85.00,
         "Features": [
           "ARGB",
@@ -1387,7 +1298,7 @@
         "Label": "RAM DDR5 Gigabyte AORUS 32GB 5200mhz"
       },
       {
-        "Price": 115.00,
+        "Price": 120.00,
         "Features": [
           "2x16GB",
           "Disipadas",
@@ -1398,7 +1309,7 @@
         "Label": "RAM DDR5 Corsair Vengeance 32GB 6000mhz"
       },
       {
-        "Price": 115.00,
+        "Price": 120.00,
         "Features": [
           "2x16GB",
           "CL36",
@@ -1442,7 +1353,7 @@
         "Label": "RAM DDR5 Corsair Vengeance 32GB 7000mhz"
       },
       {
-        "Price": 63.00,
+        "Price": 65.00,
         "Features": [
           "1x16GB",
           "CL30",
@@ -1453,7 +1364,7 @@
         "Label": "RAM DDR5 G.Skill Ripjaws S5 16GB 6000mhz"
       },
       {
-        "Price": 115.00,
+        "Price": 120.00,
         "Features": [
           "2x16GB",
           "Disipadas",
@@ -1475,7 +1386,7 @@
         "Label": "RAM DDR4 Silicon Power Turbine RGB 32GB 3200mhz"
       },
       {
-        "Price": 32.00,
+        "Price": 33.00,
         "Features": [
           "1x8GB",
           "CL16",
@@ -1710,21 +1621,6 @@
         "Label": "Micro Intel Core i9-13900K"
       },
       {
-        "Price": 215.00,
-        "Features": [
-          "5000 Series",
-          "16 Hilos",
-          "8 Core",
-          "4.7GHz",
-          "32MB L3",
-          "AM4",
-          "CPU"
-        ],
-        "Date": "2023-05-11T07:44:14.6151541-04:00",
-        "Update": "2023-12-29T07:44:38.7529036-05:00",
-        "Label": "Micro AMD Ryzen 7 5800X"
-      },
-      {
         "Price": 190.00,
         "Features": [
           "AM4",
@@ -1864,23 +1760,6 @@
         "Date": "2023-12-19T06:42:41.7210728-05:00",
         "Update": "2023-12-22T08:53:15.5706567-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 3050 WindForce OC 8GB"
-      },
-      {
-        "Price": 270.00,
-        "Features": [
-          "8GB",
-          "3xFan",
-          "1x8Pin",
-          "500WR",
-          "282mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-05-11T19:24:18.7527581-04:00",
-        "Update": "2023-12-24T03:04:22.7423863-05:00",
-        "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X 8GB"
       },
       {
         "Price": 245.00,
@@ -2162,7 +2041,7 @@
     ],
     "Board": [
       {
-        "Price": 245.00,
+        "Price": 235.00,
         "Features": [
           "AM5",
           "DDR5",
