@@ -548,26 +548,6 @@
         "Label": "Fuente de Servidor HP 578322-B21 1200W"
       },
       {
-        "Price": 189.00,
-        "Features": [
-          "PCIe 5.0",
-          "80+ Gold",
-          "Full Modular",
-          "100A",
-          "1x 16Pin",
-          "4x 6+2Pin",
-          "8x SATA",
-          "2x 4+4 EPS",
-          "140mm",
-          "ATX 3.0",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-10-18T06:47:45.3587452-04:00",
-        "Update": "2023-10-18T07:33:52.4067701-04:00",
-        "Label": "Fuente Rosewill CMG1200G5 1200W"
-      },
-      {
         "Price": 79.00,
         "Features": [
           "45A",
@@ -1097,20 +1077,6 @@
         "Date": "2023-07-26T16:40:48.0920023-04:00",
         "Update": "2023-07-27T08:17:37.3850414-04:00",
         "Label": "HDD 3.5 Seagate Constellation 2TB SAS"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "Enterprise",
-          "7200rpm",
-          "256mb",
-          "Helium",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-09-23T14:08:58.7274436-04:00",
-        "Update": "2023-09-23T15:28:21.2162108-04:00",
-        "Label": "HDD 3.5 Seagate EXOS 12TB Recertified"
       },
       {
         "Price": 159.00,
@@ -2957,16 +2923,6 @@
         "Date": "2023-06-07T15:06:36.3165573-04:00",
         "Update": "2023-10-09T17:48:20.6185397-04:00",
         "Label": "Memoria Flash Corsair Voyager Slider X1 64GB"
-      },
-      {
-        "Price": 57.00,
-        "Features": [
-          "10x USB 3.0",
-          "3A"
-        ],
-        "Date": "2023-07-17T23:37:56.1110686-04:00",
-        "Update": "2023-11-19T11:13:03.8181806-05:00",
-        "Label": "HUB Orico Type-A 10-Port USB 3.0"
       },
       {
         "Price": 13.00,
