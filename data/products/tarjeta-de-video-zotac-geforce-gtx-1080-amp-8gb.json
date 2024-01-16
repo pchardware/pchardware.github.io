@@ -1,0 +1,30 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/tarjeta-de-video-zotac-geforce-gtx-1080-amp-8gb-1.webp",
+    "/images/products/tarjeta-de-video-zotac-geforce-gtx-1080-amp-8gb-2.webp",
+    "/images/products/tarjeta-de-video-zotac-geforce-gtx-1080-amp-8gb-3.webp",
+    "/images/products/tarjeta-de-video-zotac-geforce-gtx-1080-amp-8gb-4.webp",
+    "/images/products/tarjeta-de-video-zotac-geforce-gtx-1080-amp-8gb-5.webp",
+    "/images/products/tarjeta-de-video-zotac-geforce-gtx-1080-amp-8gb-6.webp"
+  ],
+  "Description": "Model\nBrand: ZOTAC\nModel: ZT-P10800C-10P\n\n\nInterface\nInterface: PCI Express 3.0\n\n\nChipset\nChipset Manufacturer: NVIDIA\nGPU Series: NVIDIA GeForce GTX 10 Series\nGPU: GeForce GTX 1080\nCore Clock: 1683 MHz\nBoost Clock: 1822 MHz\nCUDA Cores: 2560 Cores\n\n\nMemory\nEffective Memory Clock: 10 GHz\nMemory Size: 8GB\nMemory Interface: 256-Bit\nMemory Type: GDDR5X\n\n\n3D API\nDirectX: DirectX 12\nOpenGL: OpenGL 4.5\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 1 x HDMI 2.0b\nDisplayPort: 3 x DisplayPort 1.4\nDVI: 1 x DL-DVI-D\n\n\nDetails\nMax Resolution: 7680 x 4320\nSLI Support: Yes, SLI HB Bridge Supported\nVirtual Reality Ready: Yes\nCooler: Dual Fan IceStorm\nOperating Systems Supported: Windows 10 / 8 / 7\nThermal Design Power: 180W\nSystem Requirements: Recommended Power Supply: 500W\nPower Consumption: 230W\nPower Connector: 2 x 8-Pin\nDual-Link DVI Supported: Yes\nHDCP Ready: Yes\n\n\nFeatures\nFeatures: SPECTRA lighting system\n\nIceStorm with ExoArmor\n\nPOWERBOOST\n\nFREEZE\n\nSimultaneous Multi-Projection\n\nVR Ready\n\nNVIDIA Ansel\n\nNVIDIA SLI w/ HB Bridge Support\n\nNVIDIA G-Sync\n\nNVIDIA GameStream\n\n\nForm Factor & Dimensions\nMax GPU Length: 300 mm\nCard Dimensions (L x H): 11.81\" x 5.83\"\nSlot Width: 2 Slots\n\n\nPackaging\nPackage Contents: Accessories:\n2 x Dual 6-pin to 8-pin PCIe adapter\nDriver Disk\nUser Manual",
+  "Price": 260.00,
+  "Features": [
+    "2xFan",
+    "2x8Pin",
+    "500WR",
+    "300mm",
+    "1xHDMI",
+    "3xDisplayPort",
+    "1xDVI-D",
+    "GeForce",
+    "NVIDIA",
+    "GPU",
+    "Gráfica"
+  ],
+  "Date": "2024-01-16T04:52:17.9304887-05:00",
+  "Update": "2024-01-16T06:40:37.6717889-05:00",
+  "Label": "Tarjeta de Video ZOTAC GeForce GTX 1080 AMP 8GB"
+}
