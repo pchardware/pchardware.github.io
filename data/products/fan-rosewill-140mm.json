@@ -1,0 +1,22 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Otros",
+  "Images": [
+    "/images/products/fan-rosewill-140mm-1.webp",
+    "/images/products/fan-rosewill-140mm-2.webp",
+    "/images/products/fan-rosewill-140mm-3.webp",
+    "/images/products/fan-rosewill-140mm-4.webp",
+    "/images/products/fan-rosewill-140mm-5.webp"
+  ],
+  "Description": "Tamaño del ventilador: 5.512 in\nTipo de rodamiento: Manga larga vida\nRPM: 1200RPM 10%0RPM\nFlujo de aire: 55.4 CFM\nNivel de ruido: 22 dBA",
+  "Price": 16.00,
+  "Features": [
+    "1200rpm",
+    "55cfm",
+    "PWR",
+    "22dBA"
+  ],
+  "Date": "2024-01-16T04:53:02.9771613-05:00",
+  "Update": "2024-01-16T06:24:01.171338-05:00",
+  "Label": "Fan Rosewill 140MM"
+}
