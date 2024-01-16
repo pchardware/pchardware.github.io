@@ -475,6 +475,18 @@
         "Date": "2023-08-21T08:58:21.6545554-04:00",
         "Update": "2024-01-15T18:18:29.7915199-05:00",
         "Label": "Fan Cooler Master SickleFlow 120 V2 ARGB"
+      },
+      {
+        "Price": 16.00,
+        "Features": [
+          "1200rpm",
+          "55cfm",
+          "PWR",
+          "22dBA"
+        ],
+        "Date": "2024-01-16T04:53:02.9771613-05:00",
+        "Update": "2024-01-16T06:24:01.171338-05:00",
+        "Label": "Fan Rosewill 140MM"
       }
     ],
     "Fuente": [
@@ -1098,17 +1110,6 @@
         "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 1TB"
       },
       {
-        "Price": 50.00,
-        "Features": [
-          "530mbs",
-          "400tbw",
-          "SATA 3"
-        ],
-        "Date": "2023-06-07T13:42:02.617071-04:00",
-        "Update": "2023-12-19T06:44:55.156303-05:00",
-        "Label": "SSD 2.5 Team Group CX1 480GB"
-      },
-      {
         "Price": 90.00,
         "Features": [
           "3500mbps",
@@ -1119,16 +1120,6 @@
         "Date": "2023-12-19T06:41:55.578723-05:00",
         "Update": "2023-12-19T08:43:12.1245873-05:00",
         "Label": "SSD M.2 TeamGroup MP34 1TB"
-      },
-      {
-        "Price": 67.00,
-        "Features": [
-          "560mbs",
-          "SATA 3"
-        ],
-        "Date": "2023-11-24T09:48:53.7194411-05:00",
-        "Update": "2023-12-24T02:51:09.6856949-05:00",
-        "Label": "SSD 2.5 Acer SA100 960GB"
       },
       {
         "Price": 155.0,
@@ -1189,6 +1180,39 @@
         "Date": "2023-11-27T09:55:03.5320741-05:00",
         "Update": "2024-01-16T04:51:31.1969512-05:00",
         "Label": "SSD M.2 WD Green SN350 960GB"
+      },
+      {
+        "Price": 50.00,
+        "Features": [
+          "530MBps",
+          "400tbw",
+          "SATA 3"
+        ],
+        "Date": "2023-06-07T13:42:02.617071-04:00",
+        "Update": "2024-01-16T06:24:00.7857-05:00",
+        "Label": "SSD 2.5 Team Group CX1 480GB"
+      },
+      {
+        "Price": 67.00,
+        "Features": [
+          "560MBps",
+          "SATA 3"
+        ],
+        "Date": "2023-11-24T09:48:53.7194411-05:00",
+        "Update": "2024-01-16T06:24:00.8112932-05:00",
+        "Label": "SSD 2.5 Acer SA100 960GB"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "3400MBps",
+          "600TBW",
+          "PCIe3",
+          "NVMe"
+        ],
+        "Date": "2024-01-16T04:52:23.8101464-05:00",
+        "Update": "2024-01-16T06:24:00.9629026-05:00",
+        "Label": "SSD M.2 Acer Predator GM3500 1TB"
       }
     ],
     "Disipador por Aire": [
@@ -1326,6 +1350,24 @@
         "Date": "2023-12-28T14:08:43.281203-05:00",
         "Update": "2023-12-28T16:59:47.5987897-05:00",
         "Label": "Disipador Thermalright Assassin King 120 SE ARGB"
+      },
+      {
+        "Price": 170.00,
+        "Features": [
+          "Dual Tower",
+          "6 Head Pipes",
+          "1500rpm",
+          "24 24dba",
+          "160mm",
+          "LGA 1700",
+          "LGA 1200",
+          "AM5",
+          "AM4",
+          "Negro"
+        ],
+        "Date": "2024-01-16T04:52:31.6258765-05:00",
+        "Update": "2024-01-16T06:24:01.019395-05:00",
+        "Label": "Disipador Noctua NH-D15S Chromax Black"
       }
     ],
     "Memoria RAM": [
@@ -1528,13 +1570,6 @@
         "Label": "RAM DDR4 Silicon Power 16GB 3200mhz"
       },
       {
-        "Price": 185.00,
-        "Features": [],
-        "Date": "2023-12-28T14:07:23.8098728-05:00",
-        "Update": "2024-01-01T18:56:33.8116537-05:00",
-        "Label": "RAM DDR4 G.Skill TridentZ RGB 64GB 3600mhz"
-      },
-      {
         "Price": 200.00,
         "Features": [
           "2x32",
@@ -1566,6 +1601,50 @@
         "Date": "2023-10-09T15:59:12.4893615-04:00",
         "Update": "2024-01-15T18:18:29.8063889-05:00",
         "Label": "RAM DDR5 Patriot Viper Venom 32GB 6200mhz"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "2x32",
+          "CL18",
+          "Disipadas"
+        ],
+        "Date": "2023-12-28T14:07:23.8098728-05:00",
+        "Update": "2024-01-16T06:24:00.8369189-05:00",
+        "Label": "RAM DDR4 G.Skill TridentZ RGB 64GB 3600mhz"
+      },
+      {
+        "Price": 105.00,
+        "Features": [
+          "2x8",
+          "CL18",
+          "Disipadas"
+        ],
+        "Date": "2024-01-16T04:52:07.361935-05:00",
+        "Update": "2024-01-16T06:24:00.8868611-05:00",
+        "Label": "RAM DDR4 Corsair Dominator Platinum RGB 16GB 3600mhz White"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "2x16",
+          "CL36",
+          "Disipadas"
+        ],
+        "Date": "2024-01-16T04:52:38.201793-05:00",
+        "Update": "2024-01-16T06:24:01.0515049-05:00",
+        "Label": "RAM DDR5 Corsair Dominator Platinum RGB 32GB 6400mhz"
+      },
+      {
+        "Price": 270.00,
+        "Features": [
+          "2x32",
+          "CL32",
+          "Disipadas"
+        ],
+        "Date": "2024-01-16T04:52:56.2821241-05:00",
+        "Update": "2024-01-16T06:24:01.1458518-05:00",
+        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 64GB 6400mhz"
       }
     ],
     "Microprocesador": [
@@ -2044,6 +2123,60 @@
         "Date": "2023-11-18T08:41:51.2623418-05:00",
         "Update": "2024-01-15T18:18:29.9657445-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Gaming OC 8GB"
+      },
+      {
+        "Price": 375.00,
+        "Features": [
+          "2xfan",
+          "1x8Pin",
+          "550WR",
+          "PCIe4",
+          "199mm",
+          "HDMI",
+          "3xDisplayPort",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-01-16T04:52:03.8982461-05:00",
+        "Update": "2024-01-16T06:24:00.8628572-05:00",
+        "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X Black OC 8GB"
+      },
+      {
+        "Price": 375.00,
+        "Features": [
+          "2xfan",
+          "1x8Pin",
+          "450WR",
+          "PCIe4",
+          "192mm",
+          "2xHDMI",
+          "2xDisplayPort",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-01-16T04:52:11.2413929-05:00",
+        "Update": "2024-01-16T06:24:00.911892-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4060 WindForce OC 8GB"
+      },
+      {
+        "Price": 395.00,
+        "Features": [
+          "3xfan",
+          "1x8Pin",
+          "750WR",
+          "PCIe4",
+          "301mm",
+          "2xHDMI",
+          "3xDisplayPort",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-01-16T04:52:42.2813105-05:00",
+        "Update": "2024-01-16T06:24:01.0811187-05:00",
+        "Label": "Tarjeta de Video Asus TUF RTX 3060 12GB"
       }
     ],
     "Chasis": [
@@ -3412,6 +3545,20 @@
         "Date": "2023-12-28T14:08:53.0334804-05:00",
         "Update": "2024-01-16T04:46:10.3316725-05:00",
         "Label": "Monitor AOC 24\" 165Hz VA 1ms"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "1080p",
+          "8Bit",
+          "300nit",
+          "Flat",
+          "DP",
+          "HDMI"
+        ],
+        "Date": "2024-01-16T04:52:49.0259735-05:00",
+        "Update": "2024-01-16T06:24:01.1213811-05:00",
+        "Label": "Monitor MSI Pro 24FHD VA 100Hz 1ms"
       }
     ],
     "Backup": [
