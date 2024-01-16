@@ -2177,6 +2177,41 @@
         "Date": "2024-01-16T04:52:42.2813105-05:00",
         "Update": "2024-01-16T06:24:01.0811187-05:00",
         "Label": "Tarjeta de Video Asus TUF RTX 3060 12GB"
+      },
+      {
+        "Price": 260.00,
+        "Features": [
+          "2xFan",
+          "2x8Pin",
+          "500WR",
+          "300mm",
+          "1xHDMI",
+          "3xDisplayPort",
+          "1xDVI-D",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-01-16T04:52:17.9304887-05:00",
+        "Update": "2024-01-16T06:40:37.6717889-05:00",
+        "Label": "Tarjeta de Video ZOTAC GeForce GTX 1080 AMP 8GB"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "1x8Pin",
+          "500WR",
+          "190mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica",
+          "1xFan"
+        ],
+        "Date": "2024-01-16T04:52:27.0502213-05:00",
+        "Update": "2024-01-16T06:40:37.6864741-05:00",
+        "Label": "Tarjeta de Video EVGA RTX 2060 SC Gaming 6GB"
       }
     ],
     "Chasis": [
