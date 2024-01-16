@@ -1098,17 +1098,6 @@
         "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 1TB"
       },
       {
-        "Price": 80.00,
-        "Features": [
-          "3500MBps",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-12-07T13:20:26.5920422-05:00",
-        "Update": "2023-12-08T13:47:00.1476178-05:00",
-        "Label": "SSD M.2 TeamGroup T-Force Z44L 1TB"
-      },
-      {
         "Price": 50.00,
         "Features": [
           "530mbs",
@@ -1156,18 +1145,6 @@
         "Label": "SSD M.2 Corsair MP600 PRO LPX 2TB Black"
       },
       {
-        "Price": 70.00,
-        "Features": [
-          "80TBW",
-          "NVMe",
-          "PCIe 3",
-          "2400 MBps"
-        ],
-        "Date": "2023-11-27T09:55:03.5320741-05:00",
-        "Update": "2023-12-24T02:51:09.875098-05:00",
-        "Label": "SSD M.2 - WD Green SN350 960TB"
-      },
-      {
         "Price": 75.00,
         "Features": [
           "2350mbs",
@@ -1189,6 +1166,29 @@
         "Date": "2023-12-07T13:20:39.5602767-05:00",
         "Update": "2024-01-15T18:18:29.949722-05:00",
         "Label": "SSD M.2 HP EX900 500GB"
+      },
+      {
+        "Price": 80.00,
+        "Features": [
+          "3500MBps",
+          "600TBW",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-12-07T13:20:26.5920422-05:00",
+        "Update": "2024-01-16T04:51:31.1813012-05:00",
+        "Label": "SSD M.2 TeamGroup T-Force Z44L 1TB"
+      },
+      {
+        "Price": 70.00,
+        "Features": [
+          "NVMe",
+          "PCIe 3",
+          "2400MBps"
+        ],
+        "Date": "2023-11-27T09:55:03.5320741-05:00",
+        "Update": "2024-01-16T04:51:31.1969512-05:00",
+        "Label": "SSD M.2 WD Green SN350 960GB"
       }
     ],
     "Disipador por Aire": [
