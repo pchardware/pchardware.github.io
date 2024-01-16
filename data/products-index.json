@@ -1,4 +1,16 @@
 {
+  "Computadoras": {
+    "Gamer": [
+      {
+        "Price": 2365.00,
+        "Features": [],
+        "Date": "2024-01-16T06:44:02.8821891-05:00",
+        "Update": "2024-01-16T06:47:30.9727675-05:00",
+        "Discount": 25.0,
+        "Label": "PC RX 7700 XT 12GB +i5-13600K +Strix Z790-H Gaming +32GB RGB +1TB M.2 +850W"
+      }
+    ]
+  },
   "Torres": {
     "Multimedia": [
       {
