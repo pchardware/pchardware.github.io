@@ -1901,23 +1901,6 @@
         "Label": "Tarjeta de Video EVGA RTX 3080Ti XC3 Hydro Copper 12GB"
       },
       {
-        "Price": 380.00,
-        "Features": [
-          "DLSS3",
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "200mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-07-12T21:42:49.1798698-04:00",
-        "Update": "2023-12-19T06:44:55.1974009-05:00",
-        "Label": "Tarjeta de Video Asus Dual RTX 4060 OC 8GB"
-      },
-      {
         "Price": 420.00,
         "Features": [
           "DLSS3",
@@ -1973,22 +1956,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 3050 WindForce OC 8GB"
       },
       {
-        "Price": 245.00,
-        "Features": [
-          "1x8Pin",
-          "500WR",
-          "190mm",
-          "1xFan",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-12-07T23:40:36.0331524-05:00",
-        "Update": "2023-12-24T03:04:22.8086719-05:00",
-        "Label": "Tarjeta de Video EVGA RTX 2060 Gaming 6GB"
-      },
-      {
         "Price": 1280.00,
         "Features": [
           "850WR",
@@ -2038,22 +2005,6 @@
         "Date": "2023-11-05T07:48:09.3555923-05:00",
         "Update": "2023-12-24T03:17:29.2859705-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4080 Eagle OC 16GB"
-      },
-      {
-        "Price": 520.00,
-        "Features": [
-          "3xFan",
-          "2x8Pin",
-          "750WR",
-          "320mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-11-18T23:52:27.7287787-05:00",
-        "Update": "2023-12-24T03:17:29.3777053-05:00",
-        "Label": "Tarjeta de Video Asus TUF RX 7700 XT 12GB"
       },
       {
         "Price": 540.00,
@@ -2177,22 +2128,6 @@
         "Label": "Tarjeta de Video Asus TUF RTX 3060 12GB"
       },
       {
-        "Price": 255.00,
-        "Features": [
-          "1x8Pin",
-          "500WR",
-          "190mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica",
-          "1xFan"
-        ],
-        "Date": "2024-01-16T04:52:27.0502213-05:00",
-        "Update": "2024-01-16T06:40:37.6864741-05:00",
-        "Label": "Tarjeta de Video EVGA RTX 2060 SC Gaming 6GB"
-      },
-      {
         "Price": 215.00,
         "Features": [
           "2xFan",
@@ -2275,6 +2210,75 @@
         "Date": "2023-11-18T23:52:02.2386638-05:00",
         "Update": "2024-01-17T02:36:28.7965069-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 3060 Ti Vision 8GB"
+      },
+      {
+        "Price": 380.00,
+        "Features": [
+          "DLSS3",
+          "2xFan",
+          "1x8Pin",
+          "550WR",
+          "200mm",
+          "DLSS",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-07-12T21:42:49.1798698-04:00",
+        "Update": "2024-01-17T06:21:07.2507411-05:00",
+        "Label": "Tarjeta de Video Asus Dual RTX 4060 OC 8GB"
+      },
+      {
+        "Price": 245.00,
+        "Features": [
+          "1x8Pin",
+          "500WR",
+          "DLSS",
+          "190mm",
+          "1xFan",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-12-07T23:40:36.0331524-05:00",
+        "Update": "2024-01-17T06:21:07.2688896-05:00",
+        "Label": "Tarjeta de Video EVGA RTX 2060 Gaming 6GB"
+      },
+      {
+        "Price": 520.00,
+        "Features": [
+          "3xFan",
+          "2x8Pin",
+          "750WR",
+          "320mm",
+          "DLSS",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-18T23:52:27.7287787-05:00",
+        "Update": "2024-01-17T06:21:07.2895943-05:00",
+        "Label": "Tarjeta de Video Asus TUF RX 7700 XT 12GB"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "1x8Pin",
+          "500WR",
+          "190mm",
+          "DLSS",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica",
+          "1xFan"
+        ],
+        "Date": "2024-01-16T04:52:27.0502213-05:00",
+        "Update": "2024-01-17T06:21:07.3102241-05:00",
+        "Label": "Tarjeta de Video EVGA RTX 2060 SC Gaming 6GB"
       }
     ],
     "Chasis": [
