@@ -2083,22 +2083,6 @@
         "Label": "Tarjeta de Video MSI Ventus RTX 3050 2X XS 8GB OC"
       },
       {
-        "Price": 215.00,
-        "Features": [
-          "2xFan",
-          "1x8Pin",
-          "500WR",
-          "210mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-11-24T09:48:58.1744464-05:00",
-        "Update": "2024-01-15T18:18:29.9024954-05:00",
-        "Label": "Tarjeta de Video ZOTAC GeForce GTX 1070 8GB"
-      },
-      {
         "Price": 395.00,
         "Features": [
           "DLSS3",
@@ -2170,6 +2154,38 @@
         "Label": "Tarjeta de Video Asus TUF RTX 3060 12GB"
       },
       {
+        "Price": 255.00,
+        "Features": [
+          "1x8Pin",
+          "500WR",
+          "190mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica",
+          "1xFan"
+        ],
+        "Date": "2024-01-16T04:52:27.0502213-05:00",
+        "Update": "2024-01-16T06:40:37.6864741-05:00",
+        "Label": "Tarjeta de Video EVGA RTX 2060 SC Gaming 6GB"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "500WR",
+          "210mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-24T09:48:58.1744464-05:00",
+        "Update": "2024-01-16T20:37:35.8512345-05:00",
+        "Label": "Tarjeta de Video ZOTAC GeForce GTX 1070 8GB"
+      },
+      {
         "Price": 260.00,
         "Features": [
           "2xFan",
@@ -2185,24 +2201,8 @@
           "Gráfica"
         ],
         "Date": "2024-01-16T04:52:17.9304887-05:00",
-        "Update": "2024-01-16T06:40:37.6717889-05:00",
+        "Update": "2024-01-16T20:39:53.2741444-05:00",
         "Label": "Tarjeta de Video ZOTAC GeForce GTX 1080 AMP 8GB"
-      },
-      {
-        "Price": 255.00,
-        "Features": [
-          "1x8Pin",
-          "500WR",
-          "190mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica",
-          "1xFan"
-        ],
-        "Date": "2024-01-16T04:52:27.0502213-05:00",
-        "Update": "2024-01-16T06:40:37.6864741-05:00",
-        "Label": "Tarjeta de Video EVGA RTX 2060 SC Gaming 6GB"
       }
     ],
     "Chasis": [
