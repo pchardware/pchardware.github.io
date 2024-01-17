@@ -12,6 +12,7 @@
   "Features": [
     "1x8Pin",
     "500WR",
+    "DLSS",
     "190mm",
     "1xFan",
     "GeForce",
@@ -20,6 +21,6 @@
     "Gráfica"
   ],
   "Date": "2023-12-07T23:40:36.0331524-05:00",
-  "Update": "2023-12-24T03:04:22.8086719-05:00",
+  "Update": "2024-01-17T06:21:07.2688896-05:00",
   "Label": "Tarjeta de Video EVGA RTX 2060 Gaming 6GB"
 }
