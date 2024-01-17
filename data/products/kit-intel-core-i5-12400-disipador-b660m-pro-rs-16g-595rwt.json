@@ -1,0 +1,28 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Moderado",
+  "Images": [
+    "/images/products/kit-intel-core-i5-12400-disipador-b660m-pro-rs-16g-595rwt-1.webp",
+    "/images/products/kit-intel-core-i5-12400-disipador-b660m-pro-rs-16g-595rwt-2.webp",
+    "/images/products/kit-intel-core-i5-12400-disipador-b660m-pro-rs-16g-595rwt-3.webp",
+    "/images/products/kit-intel-core-i5-12400-disipador-b660m-pro-rs-16g-595rwt-4.webp",
+    "/images/products/kit-intel-core-i5-12400-disipador-b660m-pro-rs-16g-595rwt-5.webp",
+    "/images/products/kit-intel-core-i5-12400-disipador-b660m-pro-rs-16g-595rwt-6.webp",
+    "/images/products/kit-intel-core-i5-12400-disipador-b660m-pro-rs-16g-595rwt-7.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12400 +Disipador\n+ ASRock B660M PRO RS\n+ RAM DDR4 GeIL ORION 16GB 3600mhz\n",
+  "Price": 430.00,
+  "Features": [
+    "12va Gen",
+    "12 Hilos",
+    "6 Core",
+    "2x8",
+    "3600mhz",
+    "6xUSB",
+    "4xSATA"
+  ],
+  "Date": "2024-01-17T07:49:23.3718771-05:00",
+  "Update": "2024-01-17T08:09:13.8600903-05:00",
+  "Discount": 2.0,
+  "Label": "Kit Intel Core i5-12400 +Disipador +B660M PRO RS + 16GB DDR4 3600mhz"
+}
