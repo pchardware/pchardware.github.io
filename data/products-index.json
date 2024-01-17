@@ -29,16 +29,6 @@
         "Discount": 18.0,
         "Label": "Torre Ryzen 3 5300G +Disipador +B550 Gaming X V2 +8GB DDR4 +SSD 480GB +600W"
       }
-    ],
-    "Gamer": [
-      {
-        "Price": 975.00,
-        "Features": [],
-        "Date": "2024-01-17T08:59:02.6843174-05:00",
-        "Update": "2024-01-17T09:12:40.0673347-05:00",
-        "Discount": 27.0,
-        "Label": "Torre RTX 2060 +i5-13400F +B760M DS3H +16GB 3600mhz +500GB M.2 +MasterBox"
-      }
     ]
   },
   "Kits": {
@@ -147,22 +137,6 @@
         "Label": "Kit Intel Core i5-12400 +Disipador +B660M PRO RS + 16GB DDR4 3600mhz"
       },
       {
-        "Price": 440.00,
-        "Features": [
-          "12va Gen",
-          "12 Hilos",
-          "6 Core",
-          "2x8",
-          "3600mhz",
-          "4xSATA",
-          "5xUSB"
-        ],
-        "Date": "2024-01-17T07:50:28.7625855-05:00",
-        "Update": "2024-01-17T08:09:13.890234-05:00",
-        "Discount": 2.0,
-        "Label": "Kit i5-12400 +Disipador +Gigabyte B760M DS3H +16GB DDR4 GeIL ORION 3600mhz"
-      },
-      {
         "Price": 410.00,
         "Features": [
           "12va Gen",
@@ -177,23 +151,6 @@
         "Update": "2024-01-17T08:09:13.9200837-05:00",
         "Discount": 2.0,
         "Label": "Kit 12Gen i5-12400F +Disipador +B660M PRO RS + 16GB DDR4 GeIL ORION 3600mhz"
-      },
-      {
-        "Price": 435.00,
-        "Features": [
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "2x8GB",
-          "CL16",
-          "Disipadas",
-          "4xSATA",
-          "6xUSB"
-        ],
-        "Date": "2023-12-20T07:21:12.9377325-05:00",
-        "Update": "2024-01-17T08:09:59.6227205-05:00",
-        "Discount": 6.0,
-        "Label": "Kit i5-12400 +Gigabyte B760M DS3H DDR4 +16GB DDR4 Team T-Force Vulcan Z"
       },
       {
         "Price": 435.00,
@@ -2206,25 +2163,6 @@
         "Date": "2023-12-28T14:08:17.4889383-05:00",
         "Update": "2024-01-11T10:09:18.8944654-05:00",
         "Label": "Board Gigabyte X570S Gaming X"
-      },
-      {
-        "Price": 160.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR4",
-          "5333mhz",
-          "VGA",
-          "HDMI",
-          "DisplayPort",
-          "4xSATA",
-          "5xUSB",
-          "LGA 1700",
-          "Micro ATX",
-          "MOBO"
-        ],
-        "Date": "2023-12-17T00:52:07.8205125-05:00",
-        "Update": "2024-01-11T10:09:18.9183081-05:00",
-        "Label": "Board Gigabyte B760M DS3H DDR4"
       },
       {
         "Price": 185.00,
