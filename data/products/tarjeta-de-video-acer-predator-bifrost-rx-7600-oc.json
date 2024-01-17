@@ -13,7 +13,7 @@
   "Features": [
     "1x8Pin",
     "550WR",
-    "328mm",
+    "270mm",
     "PCIe4",
     "Radeon",
     "AMD",
@@ -22,6 +22,6 @@
     "1xFan"
   ],
   "Date": "2023-12-28T14:07:53.0091888-05:00",
-  "Update": "2024-01-16T20:43:00.9201985-05:00",
+  "Update": "2024-01-17T07:01:04.2543569-05:00",
   "Label": "Tarjeta de Video Acer Predator BiFrost RX 7600 OC"
 }
