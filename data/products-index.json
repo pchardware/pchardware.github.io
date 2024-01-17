@@ -29,6 +29,16 @@
         "Discount": 18.0,
         "Label": "Torre Ryzen 3 5300G +Disipador +B550 Gaming X V2 +8GB DDR4 +SSD 480GB +600W"
       }
+    ],
+    "Gamer": [
+      {
+        "Price": 975.00,
+        "Features": [],
+        "Date": "2024-01-17T08:59:02.6843174-05:00",
+        "Update": "2024-01-17T09:12:40.0673347-05:00",
+        "Discount": 27.0,
+        "Label": "Torre RTX 2060 +i5-13400F +B760M DS3H +16GB 3600mhz +500GB M.2 +MasterBox"
+      }
     ]
   },
   "Kits": {
