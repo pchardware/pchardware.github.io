@@ -1969,22 +1969,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4080 Eagle OC 16GB"
       },
       {
-        "Price": 425.00,
-        "Features": [
-          "3xFan",
-          "1x8Pin + 1x6Pin",
-          "650WR",
-          "286mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-11-18T23:52:02.2386638-05:00",
-        "Update": "2023-12-24T03:17:29.3319324-05:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 3060 Ti Vision 8GB"
-      },
-      {
         "Price": 520.00,
         "Features": [
           "3xFan",
@@ -2204,6 +2188,22 @@
         "Date": "2023-12-28T14:07:53.0091888-05:00",
         "Update": "2024-01-16T20:43:00.9201985-05:00",
         "Label": "Tarjeta de Video Acer Predator BiFrost RX 7600 OC"
+      },
+      {
+        "Price": 425.00,
+        "Features": [
+          "3xFan",
+          "1x8Pin + 1x6Pin",
+          "650WR",
+          "286mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-18T23:52:02.2386638-05:00",
+        "Update": "2024-01-17T02:36:28.7965069-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 3060 Ti Vision 8GB"
       }
     ],
     "Chasis": [
