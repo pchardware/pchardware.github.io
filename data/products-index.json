@@ -2051,38 +2051,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Eagle OC 8GB"
       },
       {
-        "Price": 330.00,
-        "Features": [
-          "1x8Pin",
-          "550WR",
-          "PCIe4",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica",
-          "1xFan"
-        ],
-        "Date": "2023-12-28T14:07:53.0091888-05:00",
-        "Update": "2024-01-01T19:09:01.2284065-05:00",
-        "Label": "Tarjeta de Video Acer Predator BiFrost RX 7600 OC"
-      },
-      {
-        "Price": 290.00,
-        "Features": [
-          "2xFan",
-          "500WR",
-          "1x6Pin",
-          "205mm",
-          "NVIDIA",
-          "GPU",
-          "Gráfica",
-          "DLSS2"
-        ],
-        "Date": "2023-11-06T10:30:19.884438-05:00",
-        "Update": "2024-01-15T18:18:29.8786336-05:00",
-        "Label": "Tarjeta de Video MSI Ventus RTX 3050 2X XS 8GB OC"
-      },
-      {
         "Price": 395.00,
         "Features": [
           "DLSS3",
@@ -2203,6 +2171,39 @@
         "Date": "2024-01-16T04:52:17.9304887-05:00",
         "Update": "2024-01-16T20:39:53.2741444-05:00",
         "Label": "Tarjeta de Video ZOTAC GeForce GTX 1080 AMP 8GB"
+      },
+      {
+        "Price": 290.00,
+        "Features": [
+          "2xFan",
+          "500WR",
+          "1x6Pin",
+          "205mm",
+          "NVIDIA",
+          "GPU",
+          "Gráfica",
+          "DLSS2"
+        ],
+        "Date": "2023-11-06T10:30:19.884438-05:00",
+        "Update": "2024-01-16T20:41:36.4734542-05:00",
+        "Label": "Tarjeta de Video MSI Ventus RTX 3050 2X XS 8GB OC"
+      },
+      {
+        "Price": 330.00,
+        "Features": [
+          "1x8Pin",
+          "550WR",
+          "328mm",
+          "PCIe4",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica",
+          "1xFan"
+        ],
+        "Date": "2023-12-28T14:07:53.0091888-05:00",
+        "Update": "2024-01-16T20:43:00.9201985-05:00",
+        "Label": "Tarjeta de Video Acer Predator BiFrost RX 7600 OC"
       }
     ],
     "Chasis": [
