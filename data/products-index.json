@@ -121,23 +121,6 @@
     ],
     "Moderado": [
       {
-        "Price": 432.00,
-        "Features": [
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "2x8GB",
-          "CL16",
-          "Disipadas",
-          "4xSATA",
-          "6xUSB"
-        ],
-        "Date": "2023-12-20T07:21:12.9377325-05:00",
-        "Update": "2023-12-24T02:36:56.3130118-05:00",
-        "Discount": 9.0,
-        "Label": "Kit i5-12400 +Gigabyte B760M DS3H DDR4 +16GB DDR4 Team T-Force Vulcan Z"
-      },
-      {
         "Price": 401.00,
         "Features": [
           "12 Hilos",
@@ -167,7 +150,72 @@
         "Label": "Ryzen 5 5600G +Gigabyte B550 Gaming X V2 +16GB DDR4 Team T-Force Vulcan Z"
       },
       {
-        "Price": 436.00,
+        "Price": 430.00,
+        "Features": [
+          "12va Gen",
+          "12 Hilos",
+          "6 Core",
+          "2x8",
+          "3600mhz",
+          "6xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-01-17T07:49:23.3718771-05:00",
+        "Update": "2024-01-17T08:09:13.8600903-05:00",
+        "Discount": 2.0,
+        "Label": "Kit Intel Core i5-12400 +Disipador +B660M PRO RS + 16GB DDR4 3600mhz"
+      },
+      {
+        "Price": 440.00,
+        "Features": [
+          "12va Gen",
+          "12 Hilos",
+          "6 Core",
+          "2x8",
+          "3600mhz",
+          "4xSATA",
+          "5xUSB"
+        ],
+        "Date": "2024-01-17T07:50:28.7625855-05:00",
+        "Update": "2024-01-17T08:09:13.890234-05:00",
+        "Discount": 2.0,
+        "Label": "Kit i5-12400 +Disipador +Gigabyte B760M DS3H +16GB DDR4 GeIL ORION 3600mhz"
+      },
+      {
+        "Price": 410.00,
+        "Features": [
+          "12va Gen",
+          "12 Hilos",
+          "6 Core",
+          "2x8",
+          "3600mhz",
+          "6xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-01-17T07:51:01.2508407-05:00",
+        "Update": "2024-01-17T08:09:13.9200837-05:00",
+        "Discount": 2.0,
+        "Label": "Kit 12Gen i5-12400F +Disipador +B660M PRO RS + 16GB DDR4 GeIL ORION 3600mhz"
+      },
+      {
+        "Price": 435.00,
+        "Features": [
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "2x8GB",
+          "CL16",
+          "Disipadas",
+          "4xSATA",
+          "6xUSB"
+        ],
+        "Date": "2023-12-20T07:21:12.9377325-05:00",
+        "Update": "2024-01-17T08:09:59.6227205-05:00",
+        "Discount": 6.0,
+        "Label": "Kit i5-12400 +Gigabyte B760M DS3H DDR4 +16GB DDR4 Team T-Force Vulcan Z"
+      },
+      {
+        "Price": 435.00,
         "Features": [
           "12 Hilos",
           "6 Core",
@@ -178,8 +226,8 @@
           "4xSATA"
         ],
         "Date": "2024-01-02T11:50:49.3478671-05:00",
-        "Update": "2024-01-02T11:54:23.9296741-05:00",
-        "Discount": 6.0,
+        "Update": "2024-01-17T08:09:59.6491236-05:00",
+        "Discount": 7.0,
         "Label": "Kit i5-12400 +Disipador +MSI Pro B760M-P DDR4 + 16GB DDR4 GeIL ORION 3600mhz"
       }
     ],
