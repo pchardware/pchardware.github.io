@@ -2230,23 +2230,6 @@
         "Label": "Tarjeta de Video Asus ProArt RTX 4060 OC 8GB"
       },
       {
-        "Price": 1280.00,
-        "Features": [
-          "850WR",
-          "342mm",
-          "1x16Pin",
-          "DLSS3",
-          "3xFan",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-08-29T08:42:19.8132967-04:00",
-        "Update": "2023-12-24T03:17:29.1575677-05:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4080 Gaming OC 16GB"
-      },
-      {
         "Price": 965.00,
         "Features": [
           "DLSS3",
@@ -2262,23 +2245,6 @@
         "Date": "2023-10-16T10:24:29.9709108-04:00",
         "Update": "2023-12-24T03:17:29.2273244-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Master 12GB"
-      },
-      {
-        "Price": 1180.00,
-        "Features": [
-          "850WR",
-          "342mm",
-          "1x16Pin",
-          "DLSS3",
-          "3xFan",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-11-05T07:48:09.3555923-05:00",
-        "Update": "2023-12-24T03:17:29.2859705-05:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4080 Eagle OC 16GB"
       },
       {
         "Price": 540.00,
@@ -2346,42 +2312,6 @@
         "Date": "2023-11-18T08:41:51.2623418-05:00",
         "Update": "2024-01-15T18:18:29.9657445-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Gaming OC 8GB"
-      },
-      {
-        "Price": 375.00,
-        "Features": [
-          "2xfan",
-          "1x8Pin",
-          "550WR",
-          "PCIe4",
-          "199mm",
-          "HDMI",
-          "3xDisplayPort",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-01-16T04:52:03.8982461-05:00",
-        "Update": "2024-01-16T06:24:00.8628572-05:00",
-        "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X Black OC 8GB"
-      },
-      {
-        "Price": 375.00,
-        "Features": [
-          "2xfan",
-          "1x8Pin",
-          "450WR",
-          "PCIe4",
-          "192mm",
-          "2xHDMI",
-          "2xDisplayPort",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-01-16T04:52:11.2413929-05:00",
-        "Update": "2024-01-16T06:24:00.911892-05:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4060 WindForce OC 8GB"
       },
       {
         "Price": 215.00,
@@ -2609,6 +2539,78 @@
         "Date": "2023-11-18T23:52:02.2386638-05:00",
         "Update": "2024-01-17T06:24:33.5870224-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 3060 Ti Vision 8GB"
+      },
+      {
+        "Price": 1280.00,
+        "Features": [
+          "DLSS3",
+          "850WR",
+          "342mm",
+          "1x16Pin",
+          "3xFan",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-08-29T08:42:19.8132967-04:00",
+        "Update": "2024-01-17T06:27:45.6790168-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4080 Gaming OC 16GB"
+      },
+      {
+        "Price": 1180.00,
+        "Features": [
+          "DLSS3",
+          "850WR",
+          "342mm",
+          "1x16Pin",
+          "3xFan",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-05T07:48:09.3555923-05:00",
+        "Update": "2024-01-17T06:27:45.7081792-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4080 Eagle OC 16GB"
+      },
+      {
+        "Price": 375.00,
+        "Features": [
+          "DLSS3",
+          "2xfan",
+          "1x8Pin",
+          "550WR",
+          "PCIe4",
+          "199mm",
+          "HDMI",
+          "3xDisplayPort",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-01-16T04:52:03.8982461-05:00",
+        "Update": "2024-01-17T06:27:45.7335213-05:00",
+        "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X Black OC 8GB"
+      },
+      {
+        "Price": 375.00,
+        "Features": [
+          "DLSS3",
+          "2xfan",
+          "1x8Pin",
+          "450WR",
+          "PCIe4",
+          "192mm",
+          "2xHDMI",
+          "2xDisplayPort",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-01-16T04:52:11.2413929-05:00",
+        "Update": "2024-01-17T06:27:45.7607114-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4060 WindForce OC 8GB"
       }
     ]
   },
