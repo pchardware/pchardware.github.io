@@ -1215,6 +1215,18 @@
         "Date": "2024-01-16T04:52:23.8101464-05:00",
         "Update": "2024-01-16T06:24:00.9629026-05:00",
         "Label": "SSD M.2 Acer Predator GM3500 1TB"
+      },
+      {
+        "Price": 75.00,
+        "Features": [
+          "PCIe3",
+          "NVMe",
+          "2150MBps",
+          "500TBW"
+        ],
+        "Date": "2024-01-17T02:39:31.0198684-05:00",
+        "Update": "2024-01-17T03:01:54.7924746-05:00",
+        "Label": "SSD M.2 HP EX900 1TB"
       }
     ],
     "Disipador por Aire": [
@@ -1636,6 +1648,17 @@
         "Date": "2024-01-16T04:52:56.2821241-05:00",
         "Update": "2024-01-16T06:24:01.1458518-05:00",
         "Label": "RAM DDR5 G.Skill Trident Z5 RGB 64GB 6400mhz"
+      },
+      {
+        "Price": 75.00,
+        "Features": [
+          "2x8GB",
+          "Disipadas",
+          "CL18"
+        ],
+        "Date": "2023-03-30T09:56:49.769494-04:00",
+        "Update": "2024-01-17T03:01:54.7457847-05:00",
+        "Label": "RAM DDR4 GeIL ORION RGB 16GB 3600mhz"
       }
     ],
     "Microprocesador": [
@@ -1810,6 +1833,54 @@
         "Date": "2023-03-22T09:04:00.899336-04:00",
         "Update": "2024-01-15T18:18:29.8552965-05:00",
         "Label": "Micro Intel Core i3-13100 +Disipador"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "12va Gen",
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "18MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-08-08T10:07:50.0509327-04:00",
+        "Update": "2024-01-17T03:01:54.7288494-05:00",
+        "Label": "Micro Intel Core i5-12400F +Disipador"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "12va Gen",
+          "8 Hilos",
+          "4 Core",
+          "3.3GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2024-01-17T02:39:13.7412454-05:00",
+        "Update": "2024-01-17T03:01:54.7634177-05:00",
+        "Label": "Micro Intel Core i3-12100F"
+      },
+      {
+        "Price": 245.00,
+        "Features": [
+          "12va Gen",
+          "16 Hilos",
+          "10 Core",
+          "3.3GHz",
+          "20MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2024-01-17T02:39:18.2438636-05:00",
+        "Update": "2024-01-17T03:01:54.7778563-05:00",
+        "Label": "Micro Intel Core i5-13400F"
       }
     ],
     "Tarjeta Gráfica": [
