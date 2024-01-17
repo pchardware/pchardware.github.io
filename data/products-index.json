@@ -14,70 +14,25 @@
   "Torres": {
     "Multimedia": [
       {
-        "Price": 663.00,
+        "Price": 665.00,
         "Features": [],
         "Date": "2024-01-10T09:29:39.4405152-05:00",
-        "Update": "2024-01-10T09:57:31.7451907-05:00",
-        "Discount": 10.0,
+        "Update": "2024-01-17T08:53:26.6285549-05:00",
+        "Discount": 8.0,
         "Label": "Torre i5-12400 +Z690M Phantom Gaming 4 +8GB DDR4 +480GB SSD +600W +MasterBox"
       },
       {
-        "Price": 664.00,
+        "Price": 665.00,
         "Features": [],
         "Date": "2024-01-15T06:35:20.8270124-05:00",
-        "Update": "2024-01-15T06:41:55.9904327-05:00",
-        "Discount": 19.0,
+        "Update": "2024-01-17T08:53:26.6547865-05:00",
+        "Discount": 18.0,
         "Label": "Torre Ryzen 3 5300G +Disipador +B550 Gaming X V2 +8GB DDR4 +SSD 480GB +600W"
       }
     ]
   },
   "Kits": {
     "Rendimiento": [
-      {
-        "Price": 807.00,
-        "Features": [
-          "24 Hilos",
-          "5.4GHz",
-          "Wifi",
-          "9xUSB",
-          "2x16GB"
-        ],
-        "Date": "2023-10-12T12:41:46.1677891-04:00",
-        "Update": "2023-12-09T09:40:35.4442652-05:00",
-        "Discount": 8.0,
-        "Label": "Kit i7-13700K +Board Z790 + 32GB 7200mhz DDR5 Trident Z5 RGB"
-      },
-      {
-        "Price": 952.00,
-        "Features": [
-          "32 Hilos",
-          "5.7GHz",
-          "Wifi",
-          "6000mhz",
-          "9xUSB",
-          "Dual Channel",
-          "2x16GB"
-        ],
-        "Date": "2023-10-12T12:29:08.0744086-04:00",
-        "Update": "2023-12-09T09:40:35.5064811-05:00",
-        "Discount": 8.0,
-        "Label": "Kit i9-13900K +Board Gigabyte Z790 + 32GB DDR5 G.Skill"
-      },
-      {
-        "Price": 827.00,
-        "Features": [
-          "24 Hilos",
-          "12 Core",
-          "5.6GHz",
-          "7000mhz",
-          "6x USB",
-          "4x SATA"
-        ],
-        "Date": "2023-12-09T01:51:54.1508204-05:00",
-        "Update": "2024-01-02T11:39:31.5454883-05:00",
-        "Discount": 13.0,
-        "Label": "Kit Ryzen 9 7900X +Disipador Cooler Master +TUF Gaming B650-Plus +32GB DDR5"
-      },
       {
         "Price": 480.00,
         "Features": [],
@@ -117,38 +72,54 @@
         "Date": "2024-01-08T14:25:23.1711513-05:00",
         "Update": "2024-01-08T14:31:23.0918485-05:00",
         "Label": "Kit i5-13600K +Cooler Master 212 Halo +Z790 UD AX +32GB DDR5 Corsair 6000mhz"
+      },
+      {
+        "Price": 810.00,
+        "Features": [
+          "24 Hilos",
+          "5.4GHz",
+          "Wifi",
+          "9xUSB",
+          "2x16GB"
+        ],
+        "Date": "2023-10-12T12:41:46.1677891-04:00",
+        "Update": "2024-01-17T08:52:54.3774812-05:00",
+        "Discount": 5.0,
+        "Label": "Kit i7-13700K +Board Z790 + 32GB 7200mhz DDR5 Trident Z5 RGB"
+      },
+      {
+        "Price": 955.00,
+        "Features": [
+          "32 Hilos",
+          "5.7GHz",
+          "Wifi",
+          "6000mhz",
+          "9xUSB",
+          "Dual Channel",
+          "2x16GB"
+        ],
+        "Date": "2023-10-12T12:29:08.0744086-04:00",
+        "Update": "2024-01-17T08:52:54.3955663-05:00",
+        "Discount": 5.0,
+        "Label": "Kit i9-13900K +Board Gigabyte Z790 + 32GB DDR5 G.Skill"
+      },
+      {
+        "Price": 830.00,
+        "Features": [
+          "24 Hilos",
+          "12 Core",
+          "5.6GHz",
+          "7000mhz",
+          "6x USB",
+          "4x SATA"
+        ],
+        "Date": "2023-12-09T01:51:54.1508204-05:00",
+        "Update": "2024-01-17T08:52:54.5169322-05:00",
+        "Discount": 10.0,
+        "Label": "Kit Ryzen 9 7900X +Disipador Cooler Master +TUF Gaming B650-Plus +32GB DDR5"
       }
     ],
     "Moderado": [
-      {
-        "Price": 401.00,
-        "Features": [
-          "12 Hilos",
-          "6 Core",
-          "2x8GB",
-          "CL16",
-          "6xUSB",
-          "4xSATA"
-        ],
-        "Date": "2023-12-27T07:15:23.5179537-05:00",
-        "Update": "2023-12-27T07:19:59.5100473-05:00",
-        "Discount": 7.0,
-        "Label": "Kit i5-12400 +Z690M Phantom Gaming 4 + 16GB DDR4 Team T-Force Vulcan Z"
-      },
-      {
-        "Price": 417.00,
-        "Features": [
-          "12 Hilos",
-          "6 Core",
-          "2x8GB",
-          "6xSATA",
-          "6xUSB"
-        ],
-        "Date": "2023-12-27T07:20:29.0297441-05:00",
-        "Update": "2023-12-27T07:23:07.8099014-05:00",
-        "Discount": 9.0,
-        "Label": "Ryzen 5 5600G +Gigabyte B550 Gaming X V2 +16GB DDR4 Team T-Force Vulcan Z"
-      },
       {
         "Price": 430.00,
         "Features": [
@@ -229,11 +200,40 @@
         "Update": "2024-01-17T08:09:59.6491236-05:00",
         "Discount": 7.0,
         "Label": "Kit i5-12400 +Disipador +MSI Pro B760M-P DDR4 + 16GB DDR4 GeIL ORION 3600mhz"
+      },
+      {
+        "Price": 405.00,
+        "Features": [
+          "12 Hilos",
+          "6 Core",
+          "2x8GB",
+          "CL16",
+          "6xUSB",
+          "4xSATA"
+        ],
+        "Date": "2023-12-27T07:15:23.5179537-05:00",
+        "Update": "2024-01-17T08:52:54.4249011-05:00",
+        "Discount": 3.0,
+        "Label": "Kit i5-12400 +Z690M Phantom Gaming 4 + 16GB DDR4 Team T-Force Vulcan Z"
+      },
+      {
+        "Price": 420.00,
+        "Features": [
+          "12 Hilos",
+          "6 Core",
+          "2x8GB",
+          "6xSATA",
+          "6xUSB"
+        ],
+        "Date": "2023-12-27T07:20:29.0297441-05:00",
+        "Update": "2024-01-17T08:52:54.4496719-05:00",
+        "Discount": 6.0,
+        "Label": "Ryzen 5 5600G +Gigabyte B550 Gaming X V2 +16GB DDR4 Team T-Force Vulcan Z"
       }
     ],
     "Esencial": [
       {
-        "Price": 331.00,
+        "Price": 335.00,
         "Features": [
           "4 Core",
           "8 hilos",
@@ -243,18 +243,18 @@
           "4x SATA"
         ],
         "Date": "2023-12-31T09:22:20.8769433-05:00",
-        "Update": "2023-12-31T09:47:45.9964544-05:00",
-        "Discount": 7.0,
+        "Update": "2024-01-17T08:52:54.4690809-05:00",
+        "Discount": 3.0,
         "Label": "KIT Ryzen 3 5300G +Disipador +Gigabyte B550 Gaming X V2 +8gb DDR4"
       }
     ],
     "Entusiasta": [
       {
-        "Price": 1102.00,
+        "Price": 1105.00,
         "Features": [],
         "Date": "2023-09-13T12:55:25.5938136-04:00",
-        "Update": "2024-01-02T11:39:31.5690558-05:00",
-        "Discount": 8.0,
+        "Update": "2024-01-17T08:52:54.5422195-05:00",
+        "Discount": 5.0,
         "Label": "Kit i9-13900K + Asus ROG Strix Z790-H Gaming Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
       }
     ]
