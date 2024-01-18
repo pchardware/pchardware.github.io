@@ -1,0 +1,21 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/torre-gtx-1070-8gb-i5-12400f-msi-pro-b760m-p-32gb--mwfxzu-1.webp",
+    "/images/products/torre-gtx-1070-8gb-i5-12400f-msi-pro-b760m-p-32gb--mwfxzu-2.webp",
+    "/images/products/torre-gtx-1070-8gb-i5-12400f-msi-pro-b760m-p-32gb--mwfxzu-3.webp",
+    "/images/products/torre-gtx-1070-8gb-i5-12400f-msi-pro-b760m-p-32gb--mwfxzu-4.webp",
+    "/images/products/torre-gtx-1070-8gb-i5-12400f-msi-pro-b760m-p-32gb--mwfxzu-5.webp",
+    "/images/products/torre-gtx-1070-8gb-i5-12400f-msi-pro-b760m-p-32gb--mwfxzu-6.webp",
+    "/images/products/torre-gtx-1070-8gb-i5-12400f-msi-pro-b760m-p-32gb--mwfxzu-7.webp",
+    "/images/products/torre-gtx-1070-8gb-i5-12400f-msi-pro-b760m-p-32gb--mwfxzu-8.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12400F +Disipador\n+ Board MSI Pro B760M-P DDR4\n+ RAM DDR4 Silicon Power 16GB 3200mhz\n+ SSD M.2 HP EX900 500GB\n+ Tarjeta de Video ZOTAC GeForce GTX 1070 8GB\n+ Fuente Apevia Spirit 700W ATX-SP700\n+ Chasis Cooler Master MasterBox Q300L Gray\n",
+  "Price": 905.00,
+  "Features": [],
+  "Date": "2024-01-18T06:53:48.6615808-05:00",
+  "Update": "2024-01-18T07:07:34.3276324-05:00",
+  "Discount": 15.0,
+  "Label": "Torre GTX 1070 8GB +i5-12400F +MSI Pro B760M-P +32GB DDR4 +500GB m.2 + 700W"
+}
