@@ -3955,32 +3955,6 @@
         "Label": "Monitor Asus TUF 24\" 165Hz 0.5ms SPK"
       },
       {
-        "Price": 260.00,
-        "Features": [
-          "350nit",
-          "FHD",
-          "Flat",
-          "1080p"
-        ],
-        "Date": "2023-12-28T14:08:53.0334804-05:00",
-        "Update": "2024-01-16T04:46:10.3316725-05:00",
-        "Label": "Monitor AOC 24\" 165Hz VA 1ms"
-      },
-      {
-        "Price": 215.00,
-        "Features": [
-          "1080p",
-          "8Bit",
-          "300nit",
-          "Flat",
-          "DP",
-          "HDMI"
-        ],
-        "Date": "2024-01-16T04:52:49.0259735-05:00",
-        "Update": "2024-01-16T06:24:01.1213811-05:00",
-        "Label": "Monitor MSI Pro 24FHD VA 100Hz 1ms"
-      },
-      {
         "Price": 470.00,
         "Features": [
           "QHD",
@@ -3996,16 +3970,48 @@
         "Label": "Monitor Acer Nitro 27\" 1440p 170Hz IPS 0.5ms 10Bit 400nit 4xUSB3 A.Ajustable SPK-3W"
       },
       {
+        "Price": 260.00,
+        "Features": [
+          "8Bits",
+          "FRC",
+          "350nit",
+          "FHD",
+          "Flat",
+          "1080p"
+        ],
+        "Date": "2023-12-28T14:08:53.0334804-05:00",
+        "Update": "2024-01-18T10:29:16.5258104-05:00",
+        "Label": "Monitor AOC 24\" 165Hz VA 1ms"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "1080p",
+          "8Bit",
+          "300nit",
+          "FHD",
+          "Flat",
+          "DP",
+          "HDMI"
+        ],
+        "Date": "2024-01-16T04:52:49.0259735-05:00",
+        "Update": "2024-01-18T10:29:16.5451809-05:00",
+        "Label": "Monitor MSI Pro 24\" VA 100Hz 1ms"
+      },
+      {
         "Price": 265.00,
         "Features": [
+          "FHD",
+          "8Bits",
+          "FRC",
           "1080p",
           "250nit",
           "DP",
           "Flat"
         ],
         "Date": "2024-01-18T07:09:18.7560023-05:00",
-        "Update": "2024-01-18T08:30:01.1588378-05:00",
-        "Label": "Monitor Asus TUF 24FHD 165Hz IPS 1ms SPK"
+        "Update": "2024-01-18T10:29:16.5646629-05:00",
+        "Label": "Monitor Asus TUF 24\" 165Hz IPS 1ms SPK"
       }
     ],
     "Backup": [
