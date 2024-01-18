@@ -17,6 +17,16 @@
         "Discount": 34.0,
         "Label": "PC RTX 2060 SC Gaming 6GB +i5-12400F +MSI Pro B760M-P +16GB DDR4 +Monitor 24\""
       }
+    ],
+    "Multimedia": [
+      {
+        "Price": 915.00,
+        "Features": [],
+        "Date": "2023-12-15T11:05:53.1509612-05:00",
+        "Update": "2024-01-18T07:19:39.891326-05:00",
+        "Discount": 21.0,
+        "Label": "PC i3-12100 +Z690M +8GB DDR4 +1TB M.2 +600W +Acer 24\" +Ratón y Teclado"
+      }
     ]
   },
   "Torres": {
@@ -135,6 +145,29 @@
         "Update": "2024-01-18T07:07:34.3142404-05:00",
         "Discount": 5.0,
         "Label": "Kit i5-12600K +Hyper212 Spectrum V3 +Z790 UD AC +32GB DDR5 Patriot Viper 6200mhz"
+      },
+      {
+        "Price": 770.00,
+        "Features": [],
+        "Date": "2023-09-13T13:05:47.5051318-04:00",
+        "Update": "2024-01-18T07:19:39.7052882-05:00",
+        "Discount": 5.0,
+        "Label": "Kit i7-13700K + Gigabyte Z790 UD AX + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 585.00,
+        "Features": [
+          "12va Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "6200mhz",
+          "2x16"
+        ],
+        "Date": "2023-12-03T16:44:54.2642136-05:00",
+        "Update": "2024-01-18T07:19:39.79436-05:00",
+        "Discount": 5.0,
+        "Label": "Kit i5-12600K + Gigabyte Z790 UD AX + 32GB DDR5 Patriot Viper Venom"
       }
     ],
     "Moderado": [
@@ -214,6 +247,31 @@
         "Update": "2024-01-17T08:52:54.4496719-05:00",
         "Discount": 6.0,
         "Label": "Ryzen 5 5600G +Gigabyte B550 Gaming X V2 +16GB DDR4 Team T-Force Vulcan Z"
+      },
+      {
+        "Price": 505.00,
+        "Features": [],
+        "Date": "2023-09-13T13:44:12.3460847-04:00",
+        "Update": "2024-01-18T07:19:39.6721583-05:00",
+        "Discount": 5.0,
+        "Label": "Kit i5-13500 +Disipador + ASRock B660M PRO RS + DDR4 Silicon Power 16GB 3200mhz"
+      },
+      {
+        "Price": 485.00,
+        "Features": [
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "2x16GB",
+          "CL16",
+          "Disipadas",
+          "5xUSB",
+          "4xSATA"
+        ],
+        "Date": "2023-12-20T07:22:21.9109929-05:00",
+        "Update": "2024-01-18T07:19:39.860954-05:00",
+        "Discount": 7.0,
+        "Label": "Kit i5-12600K + MSI Pro B760M-P +32GB DDR4 Silicon Power Turbine RGB"
       }
     ],
     "Esencial": [
@@ -231,6 +289,42 @@
         "Update": "2024-01-17T08:52:54.4690809-05:00",
         "Discount": 3.0,
         "Label": "KIT Ryzen 3 5300G +Disipador +Gigabyte B550 Gaming X V2 +8gb DDR4"
+      },
+      {
+        "Price": 365.00,
+        "Features": [],
+        "Date": "2023-09-13T13:47:32.3099333-04:00",
+        "Update": "2024-01-18T07:19:39.6875688-05:00",
+        "Discount": 5.0,
+        "Label": "Kit i3-12100 +Disipador + ASRock B660M PRO RS + Silicon Power 16GB 3200mhz"
+      },
+      {
+        "Price": 340.00,
+        "Features": [
+          "8 Hilos",
+          "6xUSB",
+          "DDR4",
+          "Disipada"
+        ],
+        "Date": "2023-10-20T08:53:27.1294814-04:00",
+        "Update": "2024-01-18T07:19:39.9046948-05:00",
+        "Discount": 8.0,
+        "Label": "Kit Intel Core i3 12Gen +8GB RAM 3200mhz +Disipador +Board ASRock Z690"
+      },
+      {
+        "Price": 375.00,
+        "Features": [
+          "2x8GB",
+          "8 hilos",
+          "Dual Channel",
+          "VGA",
+          "HDMI",
+          "4xSATA"
+        ],
+        "Date": "2023-10-12T11:57:20.759658-04:00",
+        "Update": "2024-01-18T07:19:39.9176591-05:00",
+        "Discount": 5.0,
+        "Label": "Kit Intel Core i3 12Gen +16GB RAM DDR4 3200mhz +Disipador +Board MSI B760M"
       }
     ],
     "Entusiasta": [
@@ -522,6 +616,18 @@
         "Date": "2024-01-16T04:53:02.9771613-05:00",
         "Update": "2024-01-16T06:24:01.171338-05:00",
         "Label": "Fan Rosewill 140MM"
+      },
+      {
+        "Price": 37.00,
+        "Features": [
+          "3x120mm",
+          "PWM",
+          "1550rpm",
+          "66cfm"
+        ],
+        "Date": "2023-09-11T09:09:09.8558272-04:00",
+        "Update": "2024-01-18T07:19:39.8449798-05:00",
+        "Label": "Fan Thermalright KIT ARGB"
       }
     ],
     "Fuente": [
@@ -719,6 +825,23 @@
         "Date": "2023-11-14T14:40:10.1214379-05:00",
         "Update": "2024-01-02T09:28:28.3740432-05:00",
         "Label": "Fuente EVGA Supernova 850 P5 850W"
+      },
+      {
+        "Price": 155.00,
+        "Features": [
+          "80+ Bronze",
+          "Modular",
+          "62A",
+          "4x 6+2Pin",
+          "8x SATA",
+          "1x 4+4 EPS",
+          "160mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-04-15T07:27:10.1467554-04:00",
+        "Update": "2024-01-18T07:19:39.7506788-05:00",
+        "Label": "Fuente Corsair CX750M 750W"
       }
     ],
     "Disipador Líquido": [
@@ -1363,6 +1486,27 @@
         "Date": "2024-01-16T04:52:31.6258765-05:00",
         "Update": "2024-01-16T06:24:01.019395-05:00",
         "Label": "Disipador Noctua NH-D15S Chromax Black"
+      },
+      {
+        "Price": 55.00,
+        "Features": [
+          "ARGB",
+          "4xPipes",
+          "68cfm",
+          "30dBA",
+          "2500rpm",
+          "Negro",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4",
+          "AM5",
+          "Tower",
+          "1xFan"
+        ],
+        "Date": "2023-09-23T14:09:08.5628773-04:00",
+        "Update": "2024-01-18T07:19:39.7655628-05:00",
+        "Label": "Disipador ID-COOLING SE-214-XT ARGB Black"
       }
     ],
     "Memoria RAM": [
@@ -1629,6 +1773,17 @@
         "Date": "2023-03-30T09:56:49.769494-04:00",
         "Update": "2024-01-17T03:01:54.7457847-05:00",
         "Label": "RAM DDR4 GeIL ORION RGB 16GB 3600mhz"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "CL36",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-30T09:56:12.5688722-04:00",
+        "Update": "2024-01-18T07:19:39.6516573-05:00",
+        "Label": "DDR5 Corsair Vengeance RGB 32GB 6000mhz"
       }
     ],
     "Microprocesador": [
@@ -1851,6 +2006,72 @@
         "Date": "2024-01-17T02:39:18.2438636-05:00",
         "Update": "2024-01-17T07:32:30.7231339-05:00",
         "Label": "Micro Intel Core i5-13400F +Disipador"
+      },
+      {
+        "Price": 235.00,
+        "Features": [
+          "12va Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "20MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-02-17T09:44:28.156292-05:00",
+        "Update": "2024-01-18T07:19:39.7226022-05:00",
+        "Label": "Micro Intel Core i5-12600K"
+      },
+      {
+        "Price": 295.00,
+        "Features": [
+          "13ra Gen",
+          "20 Hilos",
+          "14 Core",
+          "4.8GHz",
+          "24MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-06-07T15:04:52.0919704-04:00",
+        "Update": "2024-01-18T07:19:39.736751-05:00",
+        "Label": "Micro Intel Core i5-13500 +Disipador"
+      },
+      {
+        "Price": 375.00,
+        "Features": [
+          "12va Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.2GHz",
+          "30MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-05-11T07:00:48.0876416-04:00",
+        "Update": "2024-01-18T07:19:39.7802109-05:00",
+        "Label": "Micro Intel Core i9-12900K"
+      },
+      {
+        "Price": 155.00,
+        "Features": [
+          "12va Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-05-11T07:28:15.7616729-04:00",
+        "Update": "2024-01-18T07:19:39.8761049-05:00",
+        "Label": "Micro Intel Core i3-12100 +Disipador"
       }
     ],
     "Chasis": [
@@ -2157,6 +2378,27 @@
         "Date": "2023-02-17T09:47:30.747913-05:00",
         "Update": "2024-01-15T18:18:29.7774681-05:00",
         "Label": "ASRock B660M PRO RS"
+      },
+      {
+        "Price": 235.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "7600mhz",
+          "Wifi",
+          "9xUSB",
+          "6xSATA",
+          "LGA 1700",
+          "ATX",
+          "PS2",
+          "DisplayPort",
+          "HDMI",
+          "3xAudio",
+          "MOBO"
+        ],
+        "Date": "2023-05-14T10:52:20.5741642-04:00",
+        "Update": "2024-01-18T07:19:39.9314767-05:00",
+        "Label": "Board Gigabyte Z790 UD AC"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2562,6 +2804,22 @@
         "Date": "2023-12-28T14:07:53.0091888-05:00",
         "Update": "2024-01-17T07:01:04.2543569-05:00",
         "Label": "Tarjeta de Video Acer Predator BiFrost RX 7600 OC"
+      },
+      {
+        "Price": 345.00,
+        "Features": [
+          "3xFan",
+          "2x8Pin",
+          "650WR",
+          "304mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-07-26T16:40:52.2609256-04:00",
+        "Update": "2024-01-18T07:19:39.8101112-05:00",
+        "Label": "Tarjeta de Video XFX Swft 309 RX 6700 10GB"
       }
     ]
   },
@@ -3565,6 +3823,21 @@
         "Date": "2024-01-16T04:52:49.0259735-05:00",
         "Update": "2024-01-16T06:24:01.1213811-05:00",
         "Label": "Monitor MSI Pro 24FHD VA 100Hz 1ms"
+      },
+      {
+        "Price": 470.00,
+        "Features": [
+          "QHD",
+          "2K",
+          "HDR10",
+          "Gaming",
+          "Flat",
+          "FRC",
+          "DP"
+        ],
+        "Date": "2023-11-24T09:48:56.279126-05:00",
+        "Update": "2024-01-18T07:19:39.8318227-05:00",
+        "Label": "Monitor Acer Nitro 27\" 1440p 170Hz IPS 0.5ms 10Bit 400nit 4xUSB3 A.Ajustable SPK-3W"
       }
     ],
     "Backup": [
