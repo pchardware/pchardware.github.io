@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-rtx-2060-sc-gaming-6gb-i5-12400f-msi-pro-b760m--3crldv-1.webp",
+    "/images/products/pc-rtx-2060-sc-gaming-6gb-i5-12400f-msi-pro-b760m--3crldv-2.webp",
+    "/images/products/pc-rtx-2060-sc-gaming-6gb-i5-12400f-msi-pro-b760m--3crldv-3.webp",
+    "/images/products/pc-rtx-2060-sc-gaming-6gb-i5-12400f-msi-pro-b760m--3crldv-4.webp",
+    "/images/products/pc-rtx-2060-sc-gaming-6gb-i5-12400f-msi-pro-b760m--3crldv-5.webp",
+    "/images/products/pc-rtx-2060-sc-gaming-6gb-i5-12400f-msi-pro-b760m--3crldv-6.webp",
+    "/images/products/pc-rtx-2060-sc-gaming-6gb-i5-12400f-msi-pro-b760m--3crldv-7.webp",
+    "/images/products/pc-rtx-2060-sc-gaming-6gb-i5-12400f-msi-pro-b760m--3crldv-8.webp",
+    "/images/products/pc-rtx-2060-sc-gaming-6gb-i5-12400f-msi-pro-b760m--3crldv-9.webp",
+    "/images/products/pc-rtx-2060-sc-gaming-6gb-i5-12400f-msi-pro-b760m--3crldv-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12400F +Disipador\n+ Board MSI Pro B760M-P DDR4\n+ RAM DDR4 GeIL ORION 16GB 3600mhz\n+ SSD M.2 HP EX900 500GB\n+ Tarjeta de Video EVGA RTX 2060 SC Gaming 6GB\n+ Fuente Apevia Spirit 700W ATX-SP700\n+ Chasis Cooler Master MasterBox Q300L Gray\n+ Monitor MSI Pro 24FHD VA 100Hz 1ms\n+ COMBO Teclado + Mouse Rosewill Fusion C40\n",
+  "Price": 1220.00,
+  "Features": [],
+  "Date": "2024-01-18T06:56:48.3578178-05:00",
+  "Update": "2024-01-18T07:07:34.342303-05:00",
+  "Discount": 34.0,
+  "Label": "PC RTX 2060 SC Gaming 6GB +i5-12400F +MSI Pro B760M-P +16GB DDR4 +Monitor 24\""
+}
