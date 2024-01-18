@@ -8,6 +8,14 @@
         "Update": "2024-01-16T06:47:30.9727675-05:00",
         "Discount": 25.0,
         "Label": "PC RX 7700 XT 12GB +i5-13600K +Strix Z790-H Gaming +32GB RGB +1TB M.2 +850W"
+      },
+      {
+        "Price": 1220.00,
+        "Features": [],
+        "Date": "2024-01-18T06:56:48.3578178-05:00",
+        "Update": "2024-01-18T07:07:34.342303-05:00",
+        "Discount": 34.0,
+        "Label": "PC RTX 2060 SC Gaming 6GB +i5-12400F +MSI Pro B760M-P +16GB DDR4 +Monitor 24\""
       }
     ]
   },
@@ -28,6 +36,16 @@
         "Update": "2024-01-17T08:53:26.6547865-05:00",
         "Discount": 18.0,
         "Label": "Torre Ryzen 3 5300G +Disipador +B550 Gaming X V2 +8GB DDR4 +SSD 480GB +600W"
+      }
+    ],
+    "Gamer": [
+      {
+        "Price": 905.00,
+        "Features": [],
+        "Date": "2024-01-18T06:53:48.6615808-05:00",
+        "Update": "2024-01-18T07:07:34.3276324-05:00",
+        "Discount": 15.0,
+        "Label": "Torre GTX 1070 8GB +i5-12400F +MSI Pro B760M-P +32GB DDR4 +500GB m.2 + 700W"
       }
     ]
   },
@@ -101,6 +119,22 @@
         "Update": "2024-01-17T08:52:54.5169322-05:00",
         "Discount": 10.0,
         "Label": "Kit Ryzen 9 7900X +Disipador Cooler Master +TUF Gaming B650-Plus +32GB DDR5"
+      },
+      {
+        "Price": 725.00,
+        "Features": [],
+        "Date": "2024-01-18T06:49:42.6624255-05:00",
+        "Update": "2024-01-18T07:07:34.2998563-05:00",
+        "Discount": 5.0,
+        "Label": "Kit i5-12600K +Assassin King 120 SE ARGB +ROG Strix Z690-E Gaming Wifi +32GB DDR5"
+      },
+      {
+        "Price": 650.00,
+        "Features": [],
+        "Date": "2024-01-18T06:51:05.7533499-05:00",
+        "Update": "2024-01-18T07:07:34.3142404-05:00",
+        "Discount": 5.0,
+        "Label": "Kit i5-12600K +Hyper212 Spectrum V3 +Z790 UD AC +32GB DDR5 Patriot Viper 6200mhz"
       }
     ],
     "Moderado": [
