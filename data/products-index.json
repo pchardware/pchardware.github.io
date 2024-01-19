@@ -1017,28 +1017,6 @@
         "Label": "Disipador Líquido Cooler Master MasterLiquid 360L Core"
       },
       {
-        "Price": 290.00,
-        "Features": [
-          "LCD",
-          "2500rpm",
-          "38db",
-          "Graphene",
-          "3xFan",
-          "360mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "LGA 20XX",
-          "LGA 1366",
-          "AM4",
-          "TR4",
-          "sTRX4"
-        ],
-        "Date": "2023-10-13T09:28:20.4727456-04:00",
-        "Update": "2023-10-13T10:18:39.9470146-04:00",
-        "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce X 360"
-      },
-      {
         "Price": 193.00,
         "Features": [
           "2xFan",
@@ -2912,23 +2890,6 @@
         "Date": "2024-01-18T07:09:23.6519574-05:00",
         "Update": "2024-01-18T08:30:01.1777209-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4060 AERO OC 8GB"
-      },
-      {
-        "Price": 625.00,
-        "Features": [
-          "2xFan",
-          "700WR",
-          "2x8Pin",
-          "3xDisplay Port",
-          "1xHDMI",
-          "281mm",
-          "AMD",
-          "Radeon",
-          "GPU"
-        ],
-        "Date": "2024-01-18T07:09:01.7565019-05:00",
-        "Update": "2024-01-18T09:56:09.7305268-05:00",
-        "Label": "Tarjeta de Video Saphire RX 7800 XT 16GB"
       }
     ]
   },
@@ -3618,7 +3579,7 @@
     ],
     "Auriculares": [
       {
-        "Price": 130.00,
+        "Price": 125.00,
         "Features": [
           "Noise Control",
           "20Hz-30KHz",
@@ -3691,7 +3652,7 @@
         "Label": "Auriculares Logitech G435 Lightspeed Wireless"
       },
       {
-        "Price": 130.00,
+        "Price": 125.00,
         "Features": [
           "Noise Control",
           "20Hz-30KHz",
