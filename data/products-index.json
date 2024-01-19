@@ -2,14 +2,6 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 2365.00,
-        "Features": [],
-        "Date": "2024-01-16T06:44:02.8821891-05:00",
-        "Update": "2024-01-16T06:47:30.9727675-05:00",
-        "Discount": 25.0,
-        "Label": "PC RX 7700 XT 12GB +i5-13600K +Strix Z790-H Gaming +32GB RGB +1TB M.2 +850W"
-      },
-      {
         "Price": 1220.00,
         "Features": [],
         "Date": "2024-01-18T06:56:48.3578178-05:00",
@@ -1823,23 +1815,6 @@
         "Date": "2023-10-09T15:59:15.4094076-04:00",
         "Update": "2023-10-09T17:48:21.976668-04:00",
         "Label": "Micro AMD Ryzen 9 7900X"
-      },
-      {
-        "Price": 325.00,
-        "Features": [
-          "13ra Gen",
-          "20 Hilos",
-          "14 Core",
-          "5.1GHz",
-          "24MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-06-19T07:47:08.4755764-04:00",
-        "Update": "2023-11-24T10:20:52.8408085-05:00",
-        "Label": "Micro Intel Core i5-13600K"
       },
       {
         "Price": 400.00,
