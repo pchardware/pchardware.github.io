@@ -65,6 +65,16 @@
         "Discount": 15.0,
         "Label": "Torre GTX 1070 8GB +i5-12400F +MSI Pro B760M-P +32GB DDR4 +500GB m.2 + 700W"
       }
+    ],
+    "Pro": [
+      {
+        "Price": 2015.00,
+        "Features": [],
+        "Date": "2024-01-20T03:10:54.4028768-05:00",
+        "Update": "2024-01-20T03:15:09.9988495-05:00",
+        "Discount": 18.0,
+        "Label": "Torre RX 6800 16GB +Ryzen 9 7900X +32GB DDR5 +1TB M.2 +1000W +Chasis Fractal"
+      }
     ]
   },
   "Kits": {
