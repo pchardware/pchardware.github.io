@@ -95,23 +95,6 @@
         "Label": "Kit Ryzen 5 5600X +Gigabyte B550 Gaming X V2 + 32 DDR4 G.SKILL Ripjaws V 4000Mhz"
       },
       {
-        "Price": 460.00,
-        "Features": [
-          "6 Core",
-          "12 Hilos",
-          "4.6GHz",
-          "2x8",
-          "3600mhz",
-          "4xSATA",
-          "7xUSB",
-          "6xAudio"
-        ],
-        "Date": "2024-01-07T08:19:13.8414426-05:00",
-        "Update": "2024-01-07T08:44:10.1759918-05:00",
-        "Discount": 2.0,
-        "Label": "Kit Ryzen 5 5600X +Gigabyte B550 Aorus Elite AX V2 +16GB DDR4 GeIL ORION 3600mhz"
-      },
-      {
         "Price": 810.00,
         "Features": [
           "24 Hilos",
@@ -2345,24 +2328,6 @@
         "Label": "Board MSI Pro B760M-P DDR4"
       },
       {
-        "Price": 205.00,
-        "Features": [
-          "AM4",
-          "AMD",
-          "4xSATA",
-          "7xUSB",
-          "6xAudio",
-          "DDR4",
-          "4400mhz",
-          "HDMI",
-          "DisplayPort",
-          "MOBO"
-        ],
-        "Date": "2023-12-28T14:07:10.9940743-05:00",
-        "Update": "2024-01-11T10:09:18.7320014-05:00",
-        "Label": "Board Gigabyte B550 Aorus Elite AX V2"
-      },
-      {
         "Price": 230.00,
         "Features": [
           "AM4",
@@ -2463,26 +2428,6 @@
       }
     ],
     "Tarjeta Gráfica": [
-      {
-        "Price": 420.00,
-        "Features": [
-          "DLSS3",
-          "3xFan",
-          "1x8Pin",
-          "550WR",
-          "PCIe4",
-          "HDMI",
-          "3xDisplayPort",
-          "300mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-12-19T06:42:00.2738717-05:00",
-        "Update": "2023-12-19T08:47:19.7268965-05:00",
-        "Label": "Tarjeta de Video Asus ProArt RTX 4060 OC 8GB"
-      },
       {
         "Price": 965.00,
         "Features": [
