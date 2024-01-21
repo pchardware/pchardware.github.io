@@ -3065,20 +3065,6 @@
         "Date": "2024-01-18T07:08:28.9967658-05:00",
         "Update": "2024-01-18T08:30:01.0081544-05:00",
         "Label": "Teclado Corsair K60 RGB Pro SE"
-      },
-      {
-        "Price": 75.00,
-        "Features": [
-          "Mecánico",
-          "Retroiluminado",
-          "Palm rest",
-          "12xTeclas de Función",
-          "Gaming",
-          "Cableado"
-        ],
-        "Date": "2024-01-18T07:08:55.3566296-05:00",
-        "Update": "2024-01-18T08:30:01.096312-05:00",
-        "Label": "Teclado AOC RGB GK500"
       }
     ],
     "Adaptador": [
@@ -3415,17 +3401,6 @@
         "Date": "2023-12-07T13:02:34.4723692-05:00",
         "Update": "2024-01-11T09:54:22.2542015-05:00",
         "Label": "Mouse Asus JM3"
-      },
-      {
-        "Price": 17.00,
-        "Features": [
-          "8 Botones",
-          "Scroll",
-          "Cableado"
-        ],
-        "Date": "2024-01-18T07:09:31.8206607-05:00",
-        "Update": "2024-01-18T08:30:01.2038324-05:00",
-        "Label": "Mouse AOC RGB Gaming GM500"
       }
     ],
     "Otros": [
