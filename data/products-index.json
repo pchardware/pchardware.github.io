@@ -82,6 +82,14 @@
         "Update": "2024-01-20T03:15:09.9988495-05:00",
         "Discount": 18.0,
         "Label": "Torre RX 6800 16GB +Ryzen 9 7900X +32GB DDR5 +1TB M.2 +1000W +Chasis Fractal"
+      },
+      {
+        "Price": 1570.00,
+        "Features": [],
+        "Date": "2024-01-21T07:46:06.4251149-05:00",
+        "Update": "2024-01-21T08:22:46.4977217-05:00",
+        "Discount": 10.0,
+        "Label": "Torre i9-12900K +Strix Z690-E Gaming +64GB DDR5 6000mhz +1TB m.2 +850W +Chasis"
       }
     ]
   },
@@ -179,7 +187,7 @@
         "Label": "Kit i5-12600K +Gigabyte Z790 UD AX + 32GB DDR5 Patriot Viper Venom"
       },
       {
-        "Price": 870.00,
+        "Price": 880.00,
         "Features": [
           "14 Core",
           "20 hilos",
@@ -191,8 +199,8 @@
           "Wifi"
         ],
         "Date": "2024-01-21T06:13:48.4745585-05:00",
-        "Update": "2024-01-21T06:18:29.2114196-05:00",
-        "Discount": 15.0,
+        "Update": "2024-01-21T08:22:46.4694485-05:00",
+        "Discount": 5.0,
         "Label": "Kit i5-14600K +Cooler Hyper 620S Dual +Z790 UD AX +32GB DDR5 Corsair RGB 7000mhz"
       }
     ],
