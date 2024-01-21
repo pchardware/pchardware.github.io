@@ -24,6 +24,14 @@
         "Update": "2024-01-20T03:07:18.3471142-05:00",
         "Discount": 21.0,
         "Label": "PC RTX 4070 Ti Master 12GB +i7-13700K +Strix Z790-H Gaming + 1000W +Monitor 27\""
+      },
+      {
+        "Price": 1220.00,
+        "Features": [],
+        "Date": "2024-01-21T08:41:16.7923038-05:00",
+        "Update": "2024-01-21T08:58:46.774454-05:00",
+        "Discount": 14.0,
+        "Label": "PC RTX 2060 Gaming 6GB +i5-12400 +B660M PRO RS +16GB DDR4 +700W +Monitor 24\""
       }
     ],
     "Multimedia": [
@@ -72,6 +80,14 @@
         "Update": "2024-01-20T03:25:20.0919323-05:00",
         "Discount": 20.0,
         "Label": "Torre RTX 3060 12GB OC +i5-12600K +Strix Z690-E Gaming +32GB DDR5 +850W +1TB M.2"
+      },
+      {
+        "Price": 925.00,
+        "Features": [],
+        "Date": "2024-01-21T08:40:36.6804184-05:00",
+        "Update": "2024-01-21T08:58:46.7144868-05:00",
+        "Discount": 17.0,
+        "Label": "Torre RTX 2060 Gaming 6GB +i5-12400 +B660M PRO RS +16GB DDR4 +500GB M.2 +700W"
       }
     ],
     "Pro": [
