@@ -18,7 +18,7 @@
         "Label": "PC RTX 3060 12GB OC +i5-12600K +Z790 UD AC + 32GB DDR5 +700W +Monitor 24\""
       },
       {
-        "Price": 3270.00,
+        "Price": 3250.00,
         "Features": [],
         "Date": "2024-01-20T02:59:54.3888464-05:00",
         "Update": "2024-01-20T03:07:18.3471142-05:00",
@@ -407,13 +407,6 @@
         "Date": "2023-06-07T13:42:48.85106-04:00",
         "Update": "2023-06-07T14:23:20.6623811-04:00",
         "Label": "Extensor Athena PCIe"
-      },
-      {
-        "Price": 11.00,
-        "Features": [],
-        "Date": "2023-07-17T23:37:33.911055-04:00",
-        "Update": "2023-07-18T00:15:27.6755036-04:00",
-        "Label": "Cable EnLabs 1-to-5 3Pins Addressable RGB Splitter Y Cable"
       },
       {
         "Price": 13.0,
@@ -2478,7 +2471,7 @@
     ],
     "Tarjeta Gráfica": [
       {
-        "Price": 965.00,
+        "Price": 945.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -2719,23 +2712,6 @@
         "Label": "Tarjeta de Video MSI RTX 3060 Ventus 2x 12GB OC"
       },
       {
-        "Price": 295.00,
-        "Features": [
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "244mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica",
-          "DLSS"
-        ],
-        "Date": "2023-12-19T06:42:41.7210728-05:00",
-        "Update": "2024-01-17T06:24:33.5555581-05:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 3050 WindForce OC 8GB"
-      },
-      {
         "Price": 395.00,
         "Features": [
           "3xfan",
@@ -2861,7 +2837,7 @@
         "Label": "Tarjeta de Video Acer Predator BiFrost RX 7600 OC"
       },
       {
-        "Price": 345.00,
+        "Price": 355.00,
         "Features": [
           "3xFan",
           "2x8Pin",
@@ -3132,13 +3108,6 @@
         "Date": "2023-06-07T14:58:54.5233761-04:00",
         "Update": "2023-12-14T07:55:28.8631803-05:00",
         "Label": "Conversor DINO HDMI a VGA"
-      },
-      {
-        "Price": 9.00,
-        "Features": [],
-        "Date": "2023-06-07T15:04:34.6091688-04:00",
-        "Update": "2023-12-24T03:38:07.1745878-05:00",
-        "Label": "Conversor HDMI a VGA"
       },
       {
         "Price": 15.00,
