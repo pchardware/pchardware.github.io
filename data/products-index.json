@@ -177,6 +177,23 @@
         "Update": "2024-01-21T06:11:51.4825877-05:00",
         "Discount": 5.0,
         "Label": "Kit i5-12600K +Gigabyte Z790 UD AX + 32GB DDR5 Patriot Viper Venom"
+      },
+      {
+        "Price": 870.00,
+        "Features": [
+          "14 Core",
+          "20 hilos",
+          "5.3Ghz",
+          "2x32",
+          "7000mhz",
+          "9xUSB",
+          "6xSATA",
+          "Wifi"
+        ],
+        "Date": "2024-01-21T06:13:48.4745585-05:00",
+        "Update": "2024-01-21T06:18:29.2114196-05:00",
+        "Discount": 15.0,
+        "Label": "Kit i5-14600K +Cooler Hyper 620S Dual +Z790 UD AX +32GB DDR5 Corsair RGB 7000mhz"
       }
     ],
     "Moderado": [
