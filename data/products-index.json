@@ -140,28 +140,28 @@
         "Label": "Kit Ryzen 9 7900X +Disipador Cooler Master +TUF Gaming B650-Plus +32GB DDR5"
       },
       {
-        "Price": 725.00,
-        "Features": [],
-        "Date": "2024-01-18T06:49:42.6624255-05:00",
-        "Update": "2024-01-18T07:07:34.2998563-05:00",
-        "Discount": 5.0,
-        "Label": "Kit i5-12600K +Assassin King 120 SE ARGB +ROG Strix Z690-E Gaming Wifi +32GB DDR5"
-      },
-      {
-        "Price": 650.00,
-        "Features": [],
-        "Date": "2024-01-18T06:51:05.7533499-05:00",
-        "Update": "2024-01-18T07:07:34.3142404-05:00",
-        "Discount": 5.0,
-        "Label": "Kit i5-12600K +Hyper212 Spectrum V3 +Z790 UD AC +32GB DDR5 Patriot Viper 6200mhz"
-      },
-      {
         "Price": 770.00,
         "Features": [],
         "Date": "2023-09-13T13:05:47.5051318-04:00",
         "Update": "2024-01-18T07:19:39.7052882-05:00",
         "Discount": 5.0,
         "Label": "Kit i7-13700K + Gigabyte Z790 UD AX + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 725.00,
+        "Features": [],
+        "Date": "2024-01-18T06:49:42.6624255-05:00",
+        "Update": "2024-01-21T06:11:51.4522915-05:00",
+        "Discount": 5.0,
+        "Label": "Kit ROG Strix Z690-E Gaming Wifi +i5-12600K +Assassin King 120 ARGB +32GB DDR5"
+      },
+      {
+        "Price": 650.00,
+        "Features": [],
+        "Date": "2024-01-18T06:51:05.7533499-05:00",
+        "Update": "2024-01-21T06:11:51.4667257-05:00",
+        "Discount": 5.0,
+        "Label": "Kit Z790 UD AC +i5-12600K +Hyper212 Spectrum V3 +32GB DDR5 Patriot Viper 6200mhz"
       },
       {
         "Price": 585.00,
@@ -174,9 +174,9 @@
           "2x16"
         ],
         "Date": "2023-12-03T16:44:54.2642136-05:00",
-        "Update": "2024-01-18T07:19:39.79436-05:00",
+        "Update": "2024-01-21T06:11:51.4825877-05:00",
         "Discount": 5.0,
-        "Label": "Kit i5-12600K + Gigabyte Z790 UD AX + 32GB DDR5 Patriot Viper Venom"
+        "Label": "Kit i5-12600K +Gigabyte Z790 UD AX + 32GB DDR5 Patriot Viper Venom"
       }
     ],
     "Moderado": [
