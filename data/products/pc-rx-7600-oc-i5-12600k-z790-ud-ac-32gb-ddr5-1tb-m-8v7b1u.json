@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-rx-7600-oc-i5-12600k-z790-ud-ac-32gb-ddr5-1tb-m-8v7b1u-1.webp",
+    "/images/products/pc-rx-7600-oc-i5-12600k-z790-ud-ac-32gb-ddr5-1tb-m-8v7b1u-2.webp",
+    "/images/products/pc-rx-7600-oc-i5-12600k-z790-ud-ac-32gb-ddr5-1tb-m-8v7b1u-3.webp",
+    "/images/products/pc-rx-7600-oc-i5-12600k-z790-ud-ac-32gb-ddr5-1tb-m-8v7b1u-4.webp",
+    "/images/products/pc-rx-7600-oc-i5-12600k-z790-ud-ac-32gb-ddr5-1tb-m-8v7b1u-5.webp",
+    "/images/products/pc-rx-7600-oc-i5-12600k-z790-ud-ac-32gb-ddr5-1tb-m-8v7b1u-6.webp",
+    "/images/products/pc-rx-7600-oc-i5-12600k-z790-ud-ac-32gb-ddr5-1tb-m-8v7b1u-7.webp",
+    "/images/products/pc-rx-7600-oc-i5-12600k-z790-ud-ac-32gb-ddr5-1tb-m-8v7b1u-8.webp",
+    "/images/products/pc-rx-7600-oc-i5-12600k-z790-ud-ac-32gb-ddr5-1tb-m-8v7b1u-9.webp",
+    "/images/products/pc-rx-7600-oc-i5-12600k-z790-ud-ac-32gb-ddr5-1tb-m-8v7b1u-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12600K\n+ Disipador Thermalright Assassin King 120 SE ARGB\n+ Board Gigabyte Z790 UD AC\n+ RAM DDR5 Patriot Viper Venom 32GB 6200mhz\n+ SSD M.2 TeamGroup T-Force Z44L 1TB\n+ Tarjeta de Video Acer Predator BiFrost RX 7600 OC\n+ Fuente EVGA 750W\n+ Chasis Fractal Design Focus 2 RGB White\n+ Monitor Acer Nitro 24\" 165Hz 1ms SPK VA\n+ COMBO Teclado + Mouse Rosewill Fusion C40\n",
+  "Price": 1710.00,
+  "Features": [],
+  "Date": "2024-01-23T07:20:57.4211983-05:00",
+  "Update": "2024-01-23T07:26:03.6609769-05:00",
+  "Discount": 17.0,
+  "Label": "PC RX 7600 OC +i5-12600K +Z790 UD AC 32GB DDR5 +1TB M.2 +750W +Monitor 24\""
+}
