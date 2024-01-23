@@ -56,7 +56,7 @@
   "Torres": {
     "Multimedia": [
       {
-        "Price": 665.00,
+        "Price": 675.00,
         "Features": [],
         "Date": "2024-01-10T09:29:39.4405152-05:00",
         "Update": "2024-01-17T08:53:26.6285549-05:00",
@@ -64,7 +64,7 @@
         "Label": "Torre i5-12400 +Z690M Phantom Gaming 4 +8GB DDR4 +480GB SSD +600W +MasterBox"
       },
       {
-        "Price": 665.00,
+        "Price": 675.00,
         "Features": [],
         "Date": "2024-01-15T06:35:20.8270124-05:00",
         "Update": "2024-01-17T08:53:26.6547865-05:00",
@@ -116,7 +116,7 @@
     ],
     "Pro": [
       {
-        "Price": 2015.00,
+        "Price": 2017.00,
         "Features": [],
         "Date": "2024-01-20T03:10:54.4028768-05:00",
         "Update": "2024-01-20T03:15:09.9988495-05:00",
@@ -124,7 +124,7 @@
         "Label": "Torre RX 6800 16GB +Ryzen 9 7900X +32GB DDR5 +1TB M.2 +1000W +Chasis Fractal"
       },
       {
-        "Price": 1570.00,
+        "Price": 1585.00,
         "Features": [],
         "Date": "2024-01-21T07:46:06.4251149-05:00",
         "Update": "2024-01-21T08:22:46.4977217-05:00",
@@ -1084,7 +1084,7 @@
         "Label": "Disipador Líquido Cooler Master MasterLiquid 360L Core"
       },
       {
-        "Price": 193.00,
+        "Price": 195.00,
         "Features": [
           "2xFan",
           "2500rpm",
@@ -1340,7 +1340,7 @@
         "Label": "SSD M.2 WD Green SN350 960GB"
       },
       {
-        "Price": 50.00,
+        "Price": 60.00,
         "Features": [
           "530MBps",
           "400tbw",
@@ -1385,7 +1385,7 @@
         "Label": "SSD M.2 HP EX900 1TB"
       },
       {
-        "Price": 50.00,
+        "Price": 60.00,
         "Features": [
           "540MBps",
           "400TBW"
@@ -2108,7 +2108,7 @@
         "Label": "Micro Intel Core i5-13500 +Disipador"
       },
       {
-        "Price": 375.00,
+        "Price": 385.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
