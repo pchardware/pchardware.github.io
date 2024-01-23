@@ -242,6 +242,22 @@
         "Update": "2024-01-21T08:22:46.4694485-05:00",
         "Discount": 5.0,
         "Label": "Kit i5-14600K +Cooler Hyper 620S Dual +Z790 UD AX +32GB DDR5 Corsair RGB 7000mhz"
+      },
+      {
+        "Price": 737.00,
+        "Features": [
+          "20 Hilos",
+          "12 Core",
+          "DDR5",
+          "7200mmhz",
+          "Wifi",
+          "4xSATA",
+          "LGA 1700"
+        ],
+        "Date": "2023-12-18T07:04:02.8192843-05:00",
+        "Update": "2024-01-23T14:30:19.7124026-05:00",
+        "Discount": 13.0,
+        "Label": "Kit i7-12700K +MSI Z790 Gaming Pro Wifi + 32GB DDR5 6000mhz G.Skill Ripjaws"
       }
     ],
     "Moderado": [
@@ -409,6 +425,14 @@
         "Update": "2024-01-17T08:52:54.5422195-05:00",
         "Discount": 5.0,
         "Label": "Kit i9-13900K + Asus ROG Strix Z790-H Gaming Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
+      },
+      {
+        "Price": 721.00,
+        "Features": [],
+        "Date": "2023-09-21T21:28:29.9270677-04:00",
+        "Update": "2024-01-23T14:30:19.5111807-05:00",
+        "Discount": 14.0,
+        "Label": "Kit i7-12700K + Asus ROG Strix Z690-E Gaming Wifi + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
       }
     ]
   },
@@ -916,6 +940,41 @@
         "Date": "2023-04-15T07:27:10.1467554-04:00",
         "Update": "2024-01-18T07:19:39.7506788-05:00",
         "Label": "Fuente Corsair CX750M 750W"
+      },
+      {
+        "Price": 375.00,
+        "Features": [
+          "80+ PLATINUM",
+          "125A",
+          "9x 6+2Pin",
+          "3x 4+4 EPS",
+          "Full Modular",
+          "200mm",
+          "8x SATA",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-10-02T14:28:39.3910059-04:00",
+        "Update": "2024-01-23T14:30:19.5839655-05:00",
+        "Label": "Fuente Corsair HX1500i 1500W"
+      },
+      {
+        "Price": 170.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "71A",
+          "4x 6+2Pin",
+          "8x SATA",
+          "2x 4+4 EPS",
+          "Hydraulic",
+          "140mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-10-03T06:55:40.1387236-04:00",
+        "Update": "2024-01-23T14:30:19.7272468-05:00",
+        "Label": "Fuente Gigabyte UD850GM 850W"
       }
     ],
     "Disipador Líquido": [
@@ -1393,6 +1452,51 @@
         "Date": "2024-01-18T07:09:07.276212-05:00",
         "Update": "2024-01-18T08:30:01.1281191-05:00",
         "Label": "SSD 2.5 Team Group T-FORCE VULCAN Z 480GB"
+      },
+      {
+        "Price": 120.00,
+        "Features": [
+          "540mbps",
+          "1600tbw",
+          "SATA 3"
+        ],
+        "Date": "2023-07-26T16:46:54.426825-04:00",
+        "Update": "2024-01-23T14:30:19.4442384-05:00",
+        "Label": "SSD 2.5 Team Group CX2 2TB"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "5000mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-09-11T09:08:58.7388503-04:00",
+        "Update": "2024-01-23T14:30:19.5260441-05:00",
+        "Label": "SSD M.2 Corsair MP600 CORE XT 2TB"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "7000mbs",
+          "1400tbw",
+          "HeatSink",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-10-03T06:56:34.7397369-04:00",
+        "Update": "2024-01-23T14:30:19.5461421-05:00",
+        "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 2TB"
+      },
+      {
+        "Price": 70.00,
+        "Features": [
+          "3500MBps",
+          "PCIe 4"
+        ],
+        "Date": "2023-12-07T13:20:36.3839284-05:00",
+        "Update": "2024-01-23T14:30:19.6972981-05:00",
+        "Label": "SSD M.2 Solidigm P41 Plus 512GB"
       }
     ],
     "Disipador por Aire": [
@@ -1868,6 +1972,17 @@
         "Date": "2024-01-18T07:08:51.9328205-05:00",
         "Update": "2024-01-18T09:48:23.5890458-05:00",
         "Label": "RAM DDR4 Corsair Vengeance LPX 32GB 3600mhz"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "2x16GB",
+          "CL16",
+          "Disipadas"
+        ],
+        "Date": "2023-03-09T12:28:03.6250501-05:00",
+        "Update": "2024-01-23T14:30:19.6439278-05:00",
+        "Label": "RAM DDR4 G.SKILL TridentZ RGB 32GB 3600mhz"
       }
     ],
     "Microprocesador": [
@@ -2139,6 +2254,55 @@
         "Date": "2023-05-11T07:28:15.7616729-04:00",
         "Update": "2024-01-18T07:19:39.8761049-05:00",
         "Label": "Micro Intel Core i3-12100 +Disipador"
+      },
+      {
+        "Price": 470.00,
+        "Features": [
+          "14va Gen",
+          "28 Hilos",
+          "5.6Ghz",
+          "33mb L3",
+          "253W",
+          "LGA 1700",
+          "DDR4-DDR5",
+          "CPU"
+        ],
+        "Date": "2023-10-23T12:31:42.2126394-04:00",
+        "Update": "2024-01-23T14:30:19.6067624-05:00",
+        "Label": "Micro Intel Core i7-14700K"
+      },
+      {
+        "Price": 675.00,
+        "Features": [
+          "14va Gen",
+          "32 Hilos",
+          "6Ghz",
+          "36mb L3",
+          "253W",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-10-23T12:31:45.6342687-04:00",
+        "Update": "2024-01-23T14:30:19.6265382-05:00",
+        "Label": "Micro Intel Core i9-14900K"
+      },
+      {
+        "Price": 285.00,
+        "Features": [
+          "12va Gen",
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "25MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-02-17T09:30:45.7586545-05:00",
+        "Update": "2024-01-23T14:30:19.6628266-05:00",
+        "Label": "Micro Intel Core i7-12700K"
       }
     ],
     "Chasis": [
@@ -2483,6 +2647,44 @@
         "Date": "2024-01-18T07:08:47.0369887-05:00",
         "Update": "2024-01-18T08:30:01.0598603-05:00",
         "Label": "Board Gigabyte Z790 Aorus Elite AX ICE"
+      },
+      {
+        "Price": 140.00,
+        "Features": [
+          "AM4",
+          "4533mhz",
+          "6xUSB",
+          "DDR4",
+          "4xSATA",
+          "Micro ATX",
+          "HDMI",
+          "DisplayPort",
+          "3xAudio",
+          "MOBO"
+        ],
+        "Date": "2023-10-11T10:56:39.5272184-04:00",
+        "Update": "2024-01-23T14:30:19.6816749-05:00",
+        "Label": "Board ASRock B550M Pro SE"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "12va-13ra-14ta",
+          "7200mhz",
+          "DDR5",
+          "Wifi",
+          "Dual Lan",
+          "7xUSB",
+          "4xSATA",
+          "HDMI",
+          "LGA 1700",
+          "6xAudio",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-10-16T10:24:22.1843395-04:00",
+        "Update": "2024-01-23T14:30:19.742454-05:00",
+        "Label": "Board MSI Z790 Gaming Pro Wifi"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2885,6 +3087,39 @@
         "Date": "2024-01-18T07:09:23.6519574-05:00",
         "Update": "2024-01-18T08:30:01.1777209-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4060 AERO OC 8GB"
+      },
+      {
+        "Price": 305.00,
+        "Features": [
+          "8GB",
+          "2xFan",
+          "1x8Pin",
+          "550WR",
+          "278mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-07-12T21:42:54.3752209-04:00",
+        "Update": "2024-01-23T14:30:19.4621183-05:00",
+        "Label": "MSI Gaming X RTX 3050"
+      },
+      {
+        "Price": 475.00,
+        "Features": [
+          "2xFan",
+          "DLSS3",
+          "1x8Pin",
+          "650WR",
+          "247mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-08-21T08:58:03.7946257-04:00",
+        "Update": "2024-01-23T14:30:19.5667631-05:00",
+        "Label": "Tarjeta de Video MSI RTX 4060 Ti Gaming X 8GB"
       }
     ]
   },
@@ -3435,6 +3670,17 @@
         "Date": "2023-12-07T13:02:34.4723692-05:00",
         "Update": "2024-01-11T09:54:22.2542015-05:00",
         "Label": "Mouse Asus JM3"
+      },
+      {
+        "Price": 17.00,
+        "Features": [
+          "8 Botones",
+          "Scroll",
+          "Cableado"
+        ],
+        "Date": "2024-01-18T07:09:31.8206607-05:00",
+        "Update": "2024-01-23T14:30:19.7555208-05:00",
+        "Label": "Mouse AOC RGB Gaming GM500"
       }
     ],
     "Otros": [
