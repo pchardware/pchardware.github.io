@@ -18,12 +18,12 @@
     "6xAudio",
     "4xSATA",
     "LGA 1700",
-    "ATX",
     "DisplayPort",
     "HDMI",
+    "ATX",
     "MOBO"
   ],
   "Date": "2023-03-29T20:18:17.8757341-04:00",
-  "Update": "2023-12-08T12:55:48.8159491-05:00",
+  "Update": "2024-01-24T14:50:31.1250134-05:00",
   "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
 }
