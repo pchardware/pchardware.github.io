@@ -99,6 +99,16 @@
         "Discount": 15.0,
         "Label": "Torre RX 7600 OC +Cooler ARGB +i5-12600K +Z790 UD AC 32GB DDR5 +1TB M.2 +750W"
       }
+    ],
+    "Entusiasta": [
+      {
+        "Price": 3400.00,
+        "Features": [],
+        "Date": "2024-01-24T02:48:12.1792626-05:00",
+        "Update": "2024-01-24T02:53:17.2640265-05:00",
+        "Discount": 35.0,
+        "Label": "Torre Top RTX 4080 OC 16GB +i9-13900K +Strix Z790-A Gaming +64GB DDR5 +850W Thor"
+      }
     ]
   },
   "Kits": {
