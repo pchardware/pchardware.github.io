@@ -2,7 +2,7 @@
   "Computadoras": {
     "Multimedia": [
       {
-        "Price": 915.00,
+        "Price": 922.00,
         "Features": [],
         "Date": "2023-12-15T11:05:53.1509612-05:00",
         "Update": "2024-01-18T07:19:39.891326-05:00",
@@ -40,7 +40,7 @@
   "Torres": {
     "Multimedia": [
       {
-        "Price": 675.00,
+        "Price": 677.00,
         "Features": [],
         "Date": "2024-01-10T09:29:39.4405152-05:00",
         "Update": "2024-01-17T08:53:26.6285549-05:00",
@@ -48,7 +48,7 @@
         "Label": "Torre i5-12400 +Z690M Phantom Gaming 4 +8GB DDR4 +480GB SSD +600W +MasterBox"
       },
       {
-        "Price": 675.00,
+        "Price": 672.00,
         "Features": [],
         "Date": "2024-01-15T06:35:20.8270124-05:00",
         "Update": "2024-01-17T08:53:26.6547865-05:00",
@@ -56,7 +56,7 @@
         "Label": "Torre Ryzen 3 5300G +Disipador +B550 Gaming X V2 +8GB DDR4 +SSD 480GB +600W"
       },
       {
-        "Price": 705.00,
+        "Price": 709.00,
         "Features": [],
         "Date": "2024-01-21T10:38:25.8620105-05:00",
         "Update": "2024-01-21T11:28:17.9206607-05:00",
@@ -66,7 +66,7 @@
     ],
     "Pro": [
       {
-        "Price": 2017.00,
+        "Price": 2012.00,
         "Features": [],
         "Date": "2024-01-20T03:10:54.4028768-05:00",
         "Update": "2024-01-20T03:15:09.9988495-05:00",
@@ -74,7 +74,7 @@
         "Label": "Torre RX 6800 16GB +Ryzen 9 7900X +32GB DDR5 +1TB M.2 +1000W +Chasis Fractal"
       },
       {
-        "Price": 1585.00,
+        "Price": 1575.00,
         "Features": [],
         "Date": "2024-01-21T07:46:06.4251149-05:00",
         "Update": "2024-01-21T08:22:46.4977217-05:00",
@@ -84,7 +84,7 @@
     ],
     "Gamer": [
       {
-        "Price": 1600.00,
+        "Price": 1605.00,
         "Features": [],
         "Date": "2024-01-20T03:20:56.4350845-05:00",
         "Update": "2024-01-20T03:25:20.0919323-05:00",
@@ -111,7 +111,7 @@
         "Label": "Kit Ryzen 5 5600X +Gigabyte B550 Gaming X V2 + 32 DDR4 G.SKILL Ripjaws V 4000Mhz"
       },
       {
-        "Price": 810.00,
+        "Price": 820.00,
         "Features": [
           "24 Hilos",
           "5.4GHz",
@@ -125,7 +125,7 @@
         "Label": "Kit i7-13700K +Board Z790 + 32GB 7200mhz DDR5 Trident Z5 RGB"
       },
       {
-        "Price": 955.00,
+        "Price": 950.00,
         "Features": [
           "32 Hilos",
           "5.7GHz",
@@ -156,7 +156,7 @@
         "Label": "Kit Ryzen 9 7900X +Disipador Cooler Master +TUF Gaming B650-Plus +32GB DDR5"
       },
       {
-        "Price": 770.00,
+        "Price": 780.00,
         "Features": [],
         "Date": "2023-09-13T13:05:47.5051318-04:00",
         "Update": "2024-01-18T07:19:39.7052882-05:00",
@@ -172,7 +172,7 @@
         "Label": "Kit ROG Strix Z690-E Gaming Wifi +i5-12600K +Assassin King 120 ARGB +32GB DDR5"
       },
       {
-        "Price": 650.00,
+        "Price": 655.00,
         "Features": [],
         "Date": "2024-01-18T06:51:05.7533499-05:00",
         "Update": "2024-01-21T06:11:51.4667257-05:00",
@@ -180,7 +180,7 @@
         "Label": "Kit Z790 UD AC +i5-12600K +Hyper212 Spectrum V3 +32GB DDR5 Patriot Viper 6200mhz"
       },
       {
-        "Price": 585.00,
+        "Price": 590.00,
         "Features": [
           "12va Gen",
           "16 Hilos",
@@ -212,7 +212,7 @@
         "Label": "Kit i5-14600K +Cooler Hyper 620S Dual +Z790 UD AX +32GB DDR5 Corsair RGB 7000mhz"
       },
       {
-        "Price": 737.00,
+        "Price": 742.00,
         "Features": [
           "20 Hilos",
           "12 Core",
@@ -230,7 +230,7 @@
     ],
     "Moderado": [
       {
-        "Price": 430.00,
+        "Price": 433.00,
         "Features": [
           "12va Gen",
           "12 Hilos",
@@ -246,7 +246,7 @@
         "Label": "Kit Intel Core i5-12400 +Disipador +B660M PRO RS + 16GB DDR4 3600mhz"
       },
       {
-        "Price": 435.00,
+        "Price": 443.00,
         "Features": [
           "12 Hilos",
           "6 Core",
@@ -262,7 +262,7 @@
         "Label": "Kit i5-12400 +Disipador +MSI Pro B760M-P DDR4 + 16GB DDR4 GeIL ORION 3600mhz"
       },
       {
-        "Price": 405.00,
+        "Price": 412.00,
         "Features": [
           "12 Hilos",
           "6 Core",
@@ -277,7 +277,7 @@
         "Label": "Kit i5-12400 +Z690M Phantom Gaming 4 + 16GB DDR4 Team T-Force Vulcan Z"
       },
       {
-        "Price": 420.00,
+        "Price": 424.00,
         "Features": [
           "12 Hilos",
           "6 Core",
@@ -301,7 +301,7 @@
     ],
     "Esencial": [
       {
-        "Price": 335.00,
+        "Price": 337.00,
         "Features": [
           "4 Core",
           "8 hilos",
@@ -324,7 +324,7 @@
         "Label": "Kit i3-12100 +Disipador + ASRock B660M PRO RS + Silicon Power 16GB 3200mhz"
       },
       {
-        "Price": 340.00,
+        "Price": 347.00,
         "Features": [
           "8 Hilos",
           "6xUSB",
@@ -337,7 +337,7 @@
         "Label": "Kit Intel Core i3 12Gen +8GB RAM 3200mhz +Disipador +Board ASRock Z690"
       },
       {
-        "Price": 375.00,
+        "Price": 380.00,
         "Features": [
           "2x8GB",
           "8 hilos",
@@ -354,7 +354,7 @@
     ],
     "Entusiasta": [
       {
-        "Price": 1105.00,
+        "Price": 1100.00,
         "Features": [],
         "Date": "2023-09-13T12:55:25.5938136-04:00",
         "Update": "2024-01-17T08:52:54.5422195-05:00",
@@ -362,7 +362,7 @@
         "Label": "Kit i9-13900K + Asus ROG Strix Z790-H Gaming Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
       },
       {
-        "Price": 721.00,
+        "Price": 726.00,
         "Features": [],
         "Date": "2023-09-21T21:28:29.9270677-04:00",
         "Update": "2024-01-23T14:30:19.5111807-05:00",
@@ -981,7 +981,7 @@
         "Label": "Disipador Líquido Asus ROG Strix LC II 360 ARGB"
       },
       {
-        "Price": 130.00,
+        "Price": 115.00,
         "Features": [
           "360mm",
           "3xFan",
@@ -996,7 +996,7 @@
         "Label": "Disipador Líquido SAMA CY 360mm ARGB"
       },
       {
-        "Price": 190.00,
+        "Price": 185.00,
         "Features": [
           "2000rpm",
           "79cfm",
@@ -1055,7 +1055,7 @@
         "Label": "Disipador Líquido Gigabyte AORUS WATERFORCE X 280"
       },
       {
-        "Price": 265.00,
+        "Price": 260.00,
         "Features": [
           "2200rpm",
           "71cfm",
@@ -1094,7 +1094,7 @@
         "Label": "Disipador Líquido Cooler Master MasterLiquid 360L Core"
       },
       {
-        "Price": 195.00,
+        "Price": 190.00,
         "Features": [
           "2xFan",
           "2500rpm",
@@ -1142,7 +1142,7 @@
         "Label": "Enermax Mounting Bracket for LIQMAX III and AQUAFUSION on Intel LGA 1700"
       },
       {
-        "Price": 95.00,
+        "Price": 90.00,
         "Features": [
           "Copper",
           "1xFan",
@@ -1173,7 +1173,7 @@
         "Label": "Kit Líquido Corsair Hydro XH305i"
       },
       {
-        "Price": 95.00,
+        "Price": 85.00,
         "Features": [
           "LGA 1700",
           "LGA 1200",
@@ -1350,7 +1350,7 @@
         "Label": "SSD M.2 WD Green SN350 960GB"
       },
       {
-        "Price": 60.00,
+        "Price": 55.00,
         "Features": [
           "530MBps",
           "400tbw",
@@ -1361,7 +1361,7 @@
         "Label": "SSD 2.5 Team Group CX1 480GB"
       },
       {
-        "Price": 67.00,
+        "Price": 70.00,
         "Features": [
           "560MBps",
           "SATA 3"
@@ -1405,7 +1405,7 @@
         "Label": "SSD 2.5 Team Group T-FORCE VULCAN Z 480GB"
       },
       {
-        "Price": 120.00,
+        "Price": 115.00,
         "Features": [
           "540mbps",
           "1600tbw",
@@ -1440,7 +1440,7 @@
         "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 2TB"
       },
       {
-        "Price": 70.00,
+        "Price": 65.00,
         "Features": [
           "3500MBps",
           "PCIe 4"
@@ -1450,7 +1450,7 @@
         "Label": "SSD M.2 Solidigm P41 Plus 512GB"
       },
       {
-        "Price": 80.00,
+        "Price": 95.00,
         "Features": [
           "5000mbps",
           "NVMe",
@@ -1474,7 +1474,7 @@
         "Label": "SSD M.2 Team Group MP44L 1TB"
       },
       {
-        "Price": 70.00,
+        "Price": 75.00,
         "Features": [
           "4800mbps",
           "NVMe",
@@ -1540,7 +1540,7 @@
         "Label": "Disipador Intel Stock Original"
       },
       {
-        "Price": 67.00,
+        "Price": 65.00,
         "Features": [
           "5 Head Pipes",
           "1550rpm",
@@ -1600,7 +1600,7 @@
         "Label": "Disipador Cooler Master 212 Halo White"
       },
       {
-        "Price": 65.00,
+        "Price": 60.00,
         "Features": [
           "5 Head Pipes",
           "1550rpm",
@@ -1623,7 +1623,7 @@
         "Label": "Disipador Thermalright Assassin King 120 SE ARGB"
       },
       {
-        "Price": 170.00,
+        "Price": 165.00,
         "Features": [
           "Dual Tower",
           "6 Head Pipes",
@@ -1741,7 +1741,7 @@
         "Label": "RAM DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
       },
       {
-        "Price": 33.00,
+        "Price": 35.00,
         "Features": [
           "1x8GB",
           "CL16",
@@ -1796,7 +1796,7 @@
         "Label": "RAM DDR4 Crucial Pro 64GB 3200mhz"
       },
       {
-        "Price": 93.00,
+        "Price": 95.00,
         "Features": [
           "2x16GB",
           "CL18",
@@ -1807,7 +1807,7 @@
         "Label": "RAM DDR4 GeIL ORION 32GB 3600mhz"
       },
       {
-        "Price": 67.00,
+        "Price": 70.00,
         "Features": [
           "2x8GB",
           "CL18",
@@ -1829,7 +1829,7 @@
         "Label": "RAM DDR4 Silicon Power 16GB 3200mhz"
       },
       {
-        "Price": 200.00,
+        "Price": 215.00,
         "Features": [
           "2x32",
           "CL36",
@@ -1884,7 +1884,7 @@
         "Label": "RAM DDR4 Corsair Dominator Platinum RGB 16GB 3600mhz White"
       },
       {
-        "Price": 185.00,
+        "Price": 180.00,
         "Features": [
           "2x16",
           "CL36",
@@ -1895,7 +1895,7 @@
         "Label": "RAM DDR5 Corsair Dominator Platinum RGB 32GB 6400mhz"
       },
       {
-        "Price": 270.00,
+        "Price": 255.00,
         "Features": [
           "2x32",
           "CL32",
@@ -1906,7 +1906,7 @@
         "Label": "RAM DDR5 G.Skill Trident Z5 RGB 64GB 6400mhz"
       },
       {
-        "Price": 75.00,
+        "Price": 80.00,
         "Features": [
           "2x8GB",
           "Disipadas",
@@ -1983,7 +1983,7 @@
         "Label": "Micro AMD Ryzen 9 7900X"
       },
       {
-        "Price": 400.00,
+        "Price": 410.00,
         "Features": [
           "13ra Gen",
           "24 Hilos",
@@ -2034,7 +2034,7 @@
         "Label": "Micro Intel Core i5-12400 +Disipador"
       },
       {
-        "Price": 600.00,
+        "Price": 595.00,
         "Features": [
           "13ra Gen",
           "32 Hilos",
@@ -2150,7 +2150,7 @@
         "Label": "Micro Intel Core i5-13400F +Disipador"
       },
       {
-        "Price": 235.00,
+        "Price": 240.00,
         "Features": [
           "12va Gen",
           "16 Hilos",
@@ -2248,7 +2248,7 @@
         "Label": "Micro Intel Core i9-14900K"
       },
       {
-        "Price": 285.00,
+        "Price": 290.00,
         "Features": [
           "12va Gen",
           "20 Hilos",
@@ -2473,7 +2473,7 @@
         "Label": "Board Gigabyte Z790 UD AX"
       },
       {
-        "Price": 160.00,
+        "Price": 165.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "4800mhz",
@@ -2491,7 +2491,7 @@
         "Label": "Board ASRock Z690M Phantom Gaming 4"
       },
       {
-        "Price": 160.00,
+        "Price": 165.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "4800mhz",
@@ -2588,7 +2588,7 @@
         "Label": "Board Gigabyte Z790 UD AC"
       },
       {
-        "Price": 295.00,
+        "Price": 300.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "DDR5",
@@ -2670,7 +2670,7 @@
     ],
     "Tarjeta Gráfica": [
       {
-        "Price": 945.00,
+        "Price": 935.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -2805,7 +2805,7 @@
         "Label": "Tarjeta de Video MSI Ventus RTX 3050 2X XS 8GB OC"
       },
       {
-        "Price": 380.00,
+        "Price": 385.00,
         "Features": [
           "DLSS3",
           "2xFan",
@@ -2930,7 +2930,7 @@
         "Label": "Tarjeta de Video Asus TUF RTX 3060 12GB"
       },
       {
-        "Price": 425.00,
+        "Price": 435.00,
         "Features": [
           "3xFan",
           "1x8Pin + 1x6Pin",
@@ -2947,7 +2947,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 3060 Ti Vision 8GB"
       },
       {
-        "Price": 1280.00,
+        "Price": 1250.00,
         "Features": [
           "DLSS3",
           "850WR",
@@ -2964,7 +2964,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4080 Gaming OC 16GB"
       },
       {
-        "Price": 1180.00,
+        "Price": 1150.00,
         "Features": [
           "DLSS3",
           "850WR",
