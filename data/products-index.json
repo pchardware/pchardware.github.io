@@ -12,22 +12,6 @@
     ],
     "Gamer": [
       {
-        "Price": 1635.00,
-        "Features": [],
-        "Date": "2024-01-19T08:22:45.7816025-05:00",
-        "Update": "2024-01-19T10:02:50.7995868-05:00",
-        "Discount": 22.0,
-        "Label": "PC RTX 3060 12GB OC +i5-12600K +Z790 UD AC + 32GB DDR5 +700W +Monitor 24\""
-      },
-      {
-        "Price": 3250.00,
-        "Features": [],
-        "Date": "2024-01-20T02:59:54.3888464-05:00",
-        "Update": "2024-01-20T03:07:18.3471142-05:00",
-        "Discount": 21.0,
-        "Label": "PC RTX 4070 Ti Master 12GB +i7-13700K +Strix Z790-H Gaming + 1000W +Monitor 27\""
-      },
-      {
         "Price": 1710.00,
         "Features": [],
         "Date": "2024-01-23T07:20:57.4211983-05:00",
@@ -83,14 +67,6 @@
       }
     ],
     "Gamer": [
-      {
-        "Price": 1605.00,
-        "Features": [],
-        "Date": "2024-01-20T03:20:56.4350845-05:00",
-        "Update": "2024-01-20T03:25:20.0919323-05:00",
-        "Discount": 20.0,
-        "Label": "Torre RTX 3060 12GB OC +i5-12600K +Strix Z690-E Gaming +32GB DDR5 +850W +1TB M.2"
-      },
       {
         "Price": 1390.00,
         "Features": [],
@@ -764,25 +740,6 @@
         "Label": "Fuente EVGA 400W"
       },
       {
-        "Price": 230.00,
-        "Features": [
-          "ATX 3.0",
-          "83A",
-          "80+ Gold",
-          "Full Modular",
-          "1x 16Pin",
-          "4x 6+2Pin",
-          "2x 4+4 EPS",
-          "5x SATA",
-          "150mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-06-07T15:03:30.731139-04:00",
-        "Update": "2024-01-24T02:24:17.2473909-05:00",
-        "Label": "Fuente Asus TUF 1000W"
-      },
-      {
         "Price": 255.00,
         "Features": [
           "ATX 3.0",
@@ -1154,20 +1111,6 @@
         "Label": "Enermax Mounting Bracket for LIQMAX III and AQUAFUSION on Intel LGA 1700"
       },
       {
-        "Price": 90.00,
-        "Features": [
-          "Copper",
-          "1xFan",
-          "120mm",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4"
-        ],
-        "Date": "2023-11-14T14:39:37.2005576-05:00",
-        "Update": "2023-11-18T09:41:31.7744779-05:00",
-        "Label": "Disipador Líquido Enermax Aquafusion 120 ARGB"
-      },
-      {
         "Price": 595.00,
         "Features": [
           "360mm",
@@ -1409,18 +1352,6 @@
         "Date": "2023-11-24T09:48:53.7194411-05:00",
         "Update": "2024-01-24T02:11:20.7642629-05:00",
         "Label": "SSD 2.5 Acer SA100 960GB"
-      },
-      {
-        "Price": 85.00,
-        "Features": [
-          "3400mbs",
-          "600TBW",
-          "PCIe3",
-          "NVMe"
-        ],
-        "Date": "2024-01-16T04:52:23.8101464-05:00",
-        "Update": "2024-01-24T02:11:20.779087-05:00",
-        "Label": "SSD M.2 Acer Predator GM3500 1TB"
       },
       {
         "Price": 75.00,
@@ -2895,26 +2826,6 @@
         "Date": "2023-04-09T07:40:11.0980971-04:00",
         "Update": "2024-01-17T06:24:33.5249091-05:00",
         "Label": "Tarjeta de Video EVGA RTX 3080Ti XC3 Hydro Copper 12GB"
-      },
-      {
-        "Price": 350.00,
-        "Features": [
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "PCIe4",
-          "HDMI",
-          "3xDisplayPort",
-          "235mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica",
-          "DLSS"
-        ],
-        "Date": "2023-12-19T06:42:17.7775209-05:00",
-        "Update": "2024-01-17T06:24:33.5394923-05:00",
-        "Label": "Tarjeta de Video MSI RTX 3060 Ventus 2x 12GB OC"
       },
       {
         "Price": 395.00,
