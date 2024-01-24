@@ -22,9 +22,10 @@
     "DisplayPort",
     "HDMI",
     "ATX",
+    "AMD",
     "MOBO"
   ],
   "Date": "2023-10-03T06:55:51.8601602-04:00",
-  "Update": "2023-12-08T12:55:48.7261566-05:00",
+  "Update": "2024-01-24T14:50:31.094698-05:00",
   "Label": "Board Asus TUF Gaming B650-Plus Wifi"
 }
