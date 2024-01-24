@@ -12,20 +12,20 @@
   "Price": 255.00,
   "Features": [
     "ATX 3.0",
+    "100A",
     "80+ Gold",
     "Full Modular",
     "Zero RPM",
-    "100A",
     "1x 16Pin",
     "6x 6+2Pin",
     "2x 4+4 EPS",
-    "150mm",
-    "7xSATA",
+    "7x SATA",
     "4x PATA",
+    "150mm",
     "PSU",
     "ATX"
   ],
   "Date": "2023-10-18T06:47:22.7546286-04:00",
-  "Update": "2023-12-24T03:04:22.4255831-05:00",
+  "Update": "2024-01-24T02:24:17.2624211-05:00",
   "Label": "Fuente Corsair RM1200e 1200W"
 }
