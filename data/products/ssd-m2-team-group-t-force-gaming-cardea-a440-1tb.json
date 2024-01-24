@@ -15,12 +15,12 @@
   "Price": 100.00,
   "Features": [
     "7000mbps",
-    "HeatSink",
     "700tbw",
+    "HeatSink",
     "PCIe 4",
     "NVMe"
   ],
   "Date": "2023-10-02T14:29:40.7946679-04:00",
-  "Update": "2023-12-08T13:47:00.1107133-05:00",
+  "Update": "2024-01-24T02:06:55.6281809-05:00",
   "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 1TB"
 }
