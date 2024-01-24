@@ -2395,63 +2395,6 @@
     ],
     "Board": [
       {
-        "Price": 235.00,
-        "Features": [
-          "AM5",
-          "DDR5",
-          "6400mhz",
-          "Wifi",
-          "5xAudio",
-          "6xUSB",
-          "4xSATA",
-          "DisplayPort",
-          "HDMI",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-10-03T06:55:51.8601602-04:00",
-        "Update": "2023-12-08T12:55:48.7261566-05:00",
-        "Label": "Board Asus TUF Gaming B650-Plus Wifi"
-      },
-      {
-        "Price": 315.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "10xUSB",
-          "DDR5",
-          "6xAudio",
-          "6xSATA",
-          "6400mhz",
-          "LGA 1700",
-          "ATX",
-          "DisplayPort",
-          "HDMI",
-          "MOBO"
-        ],
-        "Date": "2023-05-11T07:51:07.1403838-04:00",
-        "Update": "2023-12-08T12:55:48.8021222-05:00",
-        "Label": "Board Asus ROG Strix Z690-E Gaming Wifi"
-      },
-      {
-        "Price": 335.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "7800mhz",
-          "8xUSB",
-          "6xAudio",
-          "4xSATA",
-          "LGA 1700",
-          "ATX",
-          "DisplayPort",
-          "HDMI",
-          "MOBO"
-        ],
-        "Date": "2023-03-29T20:18:17.8757341-04:00",
-        "Update": "2023-12-08T12:55:48.8159491-05:00",
-        "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
-      },
-      {
         "Price": 250.00,
         "Features": [
           "AM4",
@@ -2471,27 +2414,6 @@
         "Label": "Board Asus ROG Strix B550-F Gaming Wifi II"
       },
       {
-        "Price": 240.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "7600mhz",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "LGA 1700",
-          "ATX",
-          "PS2",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio",
-          "MOBO"
-        ],
-        "Date": "2023-07-26T18:48:17.6030093-04:00",
-        "Update": "2023-12-24T02:51:09.743264-05:00",
-        "Label": "Board Gigabyte Z790 UD AX"
-      },
-      {
         "Price": 165.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -2508,64 +2430,6 @@
         "Date": "2023-10-16T10:24:36.0269962-04:00",
         "Update": "2023-12-24T02:51:09.7764317-05:00",
         "Label": "Board ASRock Z690M Phantom Gaming 4"
-      },
-      {
-        "Price": 165.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "4800mhz",
-          "VGA",
-          "5xUSB",
-          "4xSATA",
-          "HDMI",
-          "DisplayPort",
-          "Micro ATX",
-          "LGA 1700",
-          "3xAudio",
-          "MOBO"
-        ],
-        "Date": "2023-10-11T10:56:24.0277774-04:00",
-        "Update": "2023-12-24T02:51:09.9580005-05:00",
-        "Label": "Board MSI Pro B760M-P DDR4"
-      },
-      {
-        "Price": 230.00,
-        "Features": [
-          "AM4",
-          "AMD",
-          "6xSATA",
-          "7xUSB",
-          "6xAudio",
-          "DDR4",
-          "5100mhz",
-          "HDMI",
-          "DisplayPort",
-          "MOBO"
-        ],
-        "Date": "2023-12-28T14:08:17.4889383-05:00",
-        "Update": "2024-01-11T10:09:18.8944654-05:00",
-        "Label": "Board Gigabyte X570S Gaming X"
-      },
-      {
-        "Price": 235.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "7600mhz",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "LGA 1700",
-          "ATX",
-          "PS2",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio",
-          "MOBO"
-        ],
-        "Date": "2023-05-14T10:52:20.5741642-04:00",
-        "Update": "2024-01-18T07:19:39.9314767-05:00",
-        "Label": "Board Gigabyte Z790 UD AC"
       },
       {
         "Price": 300.00,
@@ -2589,44 +2453,6 @@
         "Label": "Board Gigabyte Z790 Aorus Elite AX ICE"
       },
       {
-        "Price": 140.00,
-        "Features": [
-          "AM4",
-          "4533mhz",
-          "6xUSB",
-          "DDR4",
-          "4xSATA",
-          "Micro ATX",
-          "HDMI",
-          "DisplayPort",
-          "3xAudio",
-          "MOBO"
-        ],
-        "Date": "2023-10-11T10:56:39.5272184-04:00",
-        "Update": "2024-01-23T14:30:19.6816749-05:00",
-        "Label": "Board ASRock B550M Pro SE"
-      },
-      {
-        "Price": 275.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "7200mhz",
-          "DDR5",
-          "Wifi",
-          "Dual Lan",
-          "7xUSB",
-          "4xSATA",
-          "HDMI",
-          "LGA 1700",
-          "6xAudio",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-10-16T10:24:22.1843395-04:00",
-        "Update": "2024-01-23T14:30:19.742454-05:00",
-        "Label": "Board MSI Z790 Gaming Pro Wifi"
-      },
-      {
         "Price": 415.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -2648,23 +2474,121 @@
         "Label": "Board Asus ROG Strix Z790-A Gaming Wifi II"
       },
       {
+        "Price": 235.00,
+        "Features": [
+          "AM5",
+          "DDR5",
+          "6400mhz",
+          "Wifi",
+          "5xAudio",
+          "6xUSB",
+          "4xSATA",
+          "DisplayPort",
+          "HDMI",
+          "ATX",
+          "AMD",
+          "MOBO"
+        ],
+        "Date": "2023-10-03T06:55:51.8601602-04:00",
+        "Update": "2024-01-24T14:50:31.094698-05:00",
+        "Label": "Board Asus TUF Gaming B650-Plus Wifi"
+      },
+      {
+        "Price": 315.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "6400mhz",
+          "10xUSB",
+          "6xAudio",
+          "6xSATA",
+          "LGA 1700",
+          "DisplayPort",
+          "HDMI",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-05-11T07:51:07.1403838-04:00",
+        "Update": "2024-01-24T14:50:31.1103587-05:00",
+        "Label": "Board Asus ROG Strix Z690-E Gaming Wifi"
+      },
+      {
+        "Price": 335.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "7800mhz",
+          "8xUSB",
+          "6xAudio",
+          "4xSATA",
+          "LGA 1700",
+          "DisplayPort",
+          "HDMI",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-03-29T20:18:17.8757341-04:00",
+        "Update": "2024-01-24T14:50:31.1250134-05:00",
+        "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
+      },
+      {
+        "Price": 240.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "7600mhz",
+          "Wifi",
+          "9xUSB",
+          "6xSATA",
+          "LGA 1700",
+          "PS2",
+          "DisplayPort",
+          "HDMI",
+          "3xAudio",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-07-26T18:48:17.6030093-04:00",
+        "Update": "2024-01-24T14:50:31.140014-05:00",
+        "Label": "Board Gigabyte Z790 UD AX"
+      },
+      {
+        "Price": 230.00,
+        "Features": [
+          "AM4",
+          "DDR4",
+          "5100mhz",
+          "6xSATA",
+          "7xUSB",
+          "6xAudio",
+          "HDMI",
+          "DisplayPort",
+          "ATX",
+          "AMD",
+          "MOBO"
+        ],
+        "Date": "2023-12-28T14:08:17.4889383-05:00",
+        "Update": "2024-01-24T14:50:31.1568241-05:00",
+        "Label": "Board Gigabyte X570S Gaming X"
+      },
+      {
         "Price": 185.00,
         "Features": [
           "AM4",
-          "AMD",
-          "4xSATA",
-          "6xUSB",
           "DDR4",
           "4733mhz",
+          "4xSATA",
+          "6xUSB",
           "ATX",
           "PS2",
           "DVI",
           "HDMI",
           "3xAudio",
+          "AMD",
           "MOBO"
         ],
         "Date": "2023-07-13T11:32:04.6371575-04:00",
-        "Update": "2024-01-24T14:34:54.9432238-05:00",
+        "Update": "2024-01-24T14:50:31.1733153-05:00",
         "Label": "Board Gigabyte B550 Gaming X V2"
       },
       {
@@ -2680,11 +2604,91 @@
           "PS2",
           "HDMI",
           "DisplayPort",
-          "3xAudio"
+          "3xAudio",
+          "MOBO"
         ],
         "Date": "2023-02-17T09:47:30.747913-05:00",
-        "Update": "2024-01-24T14:34:54.959726-05:00",
+        "Update": "2024-01-24T14:50:31.1883657-05:00",
         "Label": "Board ASRock B660M PRO RS"
+      },
+      {
+        "Price": 235.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "7600mhz",
+          "Wifi",
+          "9xUSB",
+          "6xSATA",
+          "LGA 1700",
+          "PS2",
+          "DisplayPort",
+          "HDMI",
+          "3xAudio",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-05-14T10:52:20.5741642-04:00",
+        "Update": "2024-01-24T14:50:31.2040828-05:00",
+        "Label": "Board Gigabyte Z790 UD AC"
+      },
+      {
+        "Price": 140.00,
+        "Features": [
+          "AM4",
+          "4533mhz",
+          "6xUSB",
+          "DDR4",
+          "4xSATA",
+          "Micro ATX",
+          "HDMI",
+          "DisplayPort",
+          "3xAudio",
+          "AMD",
+          "MOBO"
+        ],
+        "Date": "2023-10-11T10:56:39.5272184-04:00",
+        "Update": "2024-01-24T14:50:31.2187141-05:00",
+        "Label": "Board ASRock B550M Pro SE"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "12va-13ra-14ta",
+          "DDR5",
+          "7200mhz",
+          "Wifi",
+          "Dual Lan",
+          "7xUSB",
+          "4xSATA",
+          "HDMI",
+          "LGA 1700",
+          "6xAudio",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-10-16T10:24:22.1843395-04:00",
+        "Update": "2024-01-24T14:50:31.2337005-05:00",
+        "Label": "Board MSI Z790 Gaming Pro Wifi"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "4800mhz",
+          "VGA",
+          "5xUSB",
+          "4xSATA",
+          "HDMI",
+          "DisplayPort",
+          "LGA 1700",
+          "3xAudio",
+          "Micro ATX",
+          "MOBO"
+        ],
+        "Date": "2023-10-11T10:56:24.0277774-04:00",
+        "Update": "2024-01-24T14:51:18.447466-05:00",
+        "Label": "Board MSI Pro B760M-P DDR4"
       }
     ],
     "Tarjeta Gráfica": [
