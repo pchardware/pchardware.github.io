@@ -2547,45 +2547,6 @@
         "Label": "Board Gigabyte X570S Gaming X"
       },
       {
-        "Price": 185.00,
-        "Features": [
-          "AM4",
-          "AMD",
-          "4xSATA",
-          "6xUSB",
-          "DDR4",
-          "4733mhz",
-          "ATX",
-          "PS2",
-          "DVI",
-          "HDMI",
-          "3xAudio",
-          "MOBO"
-        ],
-        "Date": "2023-07-13T11:32:04.6371575-04:00",
-        "Update": "2024-01-11T11:33:05.2240017-05:00",
-        "Label": "Motherboard Gigabyte B550 Gaming X V2"
-      },
-      {
-        "Price": 150.00,
-        "Features": [
-          "12va-13ra",
-          "6xUSB",
-          "DDR4",
-          "4800mhz",
-          "4xSATA",
-          "LGA 1700",
-          "Micro ATX",
-          "PS2",
-          "HDMI",
-          "DisplayPort",
-          "3xAudio"
-        ],
-        "Date": "2023-02-17T09:47:30.747913-05:00",
-        "Update": "2024-01-15T18:18:29.7774681-05:00",
-        "Label": "ASRock B660M PRO RS"
-      },
-      {
         "Price": 235.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -2685,6 +2646,45 @@
         "Date": "2024-01-23T14:30:41.2045036-05:00",
         "Update": "2024-01-23T16:01:26.574316-05:00",
         "Label": "Board Asus ROG Strix Z790-A Gaming Wifi II"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "AM4",
+          "AMD",
+          "4xSATA",
+          "6xUSB",
+          "DDR4",
+          "4733mhz",
+          "ATX",
+          "PS2",
+          "DVI",
+          "HDMI",
+          "3xAudio",
+          "MOBO"
+        ],
+        "Date": "2023-07-13T11:32:04.6371575-04:00",
+        "Update": "2024-01-24T14:34:54.9432238-05:00",
+        "Label": "Board Gigabyte B550 Gaming X V2"
+      },
+      {
+        "Price": 150.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "6xUSB",
+          "DDR4",
+          "4800mhz",
+          "4xSATA",
+          "LGA 1700",
+          "Micro ATX",
+          "PS2",
+          "HDMI",
+          "DisplayPort",
+          "3xAudio"
+        ],
+        "Date": "2023-02-17T09:47:30.747913-05:00",
+        "Update": "2024-01-24T14:34:54.959726-05:00",
+        "Label": "Board ASRock B660M PRO RS"
       }
     ],
     "Tarjeta Gráfica": [
