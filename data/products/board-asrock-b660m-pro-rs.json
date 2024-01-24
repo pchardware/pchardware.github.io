@@ -24,9 +24,10 @@
     "PS2",
     "HDMI",
     "DisplayPort",
-    "3xAudio"
+    "3xAudio",
+    "MOBO"
   ],
   "Date": "2023-02-17T09:47:30.747913-05:00",
-  "Update": "2024-01-24T14:34:54.959726-05:00",
+  "Update": "2024-01-24T14:50:31.1883657-05:00",
   "Label": "Board ASRock B660M PRO RS"
 }
