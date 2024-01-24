@@ -1,14 +1,16 @@
 {
   "Computadoras": {
-    "Gamer": [
+    "Multimedia": [
       {
-        "Price": 1220.00,
+        "Price": 915.00,
         "Features": [],
-        "Date": "2024-01-18T06:56:48.3578178-05:00",
-        "Update": "2024-01-18T07:07:34.342303-05:00",
-        "Discount": 34.0,
-        "Label": "PC RTX 2060 SC Gaming 6GB +i5-12400F +MSI Pro B760M-P +16GB DDR4 +Monitor 24\""
-      },
+        "Date": "2023-12-15T11:05:53.1509612-05:00",
+        "Update": "2024-01-18T07:19:39.891326-05:00",
+        "Discount": 21.0,
+        "Label": "PC i3-12100 +Z690M +8GB DDR4 +1TB M.2 +600W +Acer 24\" +Ratón y Teclado"
+      }
+    ],
+    "Gamer": [
       {
         "Price": 1635.00,
         "Features": [],
@@ -26,30 +28,12 @@
         "Label": "PC RTX 4070 Ti Master 12GB +i7-13700K +Strix Z790-H Gaming + 1000W +Monitor 27\""
       },
       {
-        "Price": 1220.00,
-        "Features": [],
-        "Date": "2024-01-21T08:41:16.7923038-05:00",
-        "Update": "2024-01-21T08:58:46.774454-05:00",
-        "Discount": 14.0,
-        "Label": "PC RTX 2060 Gaming 6GB +i5-12400 +B660M PRO RS +16GB DDR4 +700W +Monitor 24\""
-      },
-      {
         "Price": 1710.00,
         "Features": [],
         "Date": "2024-01-23T07:20:57.4211983-05:00",
         "Update": "2024-01-23T07:26:03.6609769-05:00",
         "Discount": 17.0,
         "Label": "PC RX 7600 OC +i5-12600K +Z790 UD AC 32GB DDR5 +1TB M.2 +750W +Monitor 24\""
-      }
-    ],
-    "Multimedia": [
-      {
-        "Price": 915.00,
-        "Features": [],
-        "Date": "2023-12-15T11:05:53.1509612-05:00",
-        "Update": "2024-01-18T07:19:39.891326-05:00",
-        "Discount": 21.0,
-        "Label": "PC i3-12100 +Z690M +8GB DDR4 +1TB M.2 +600W +Acer 24\" +Ratón y Teclado"
       }
     ]
   },
@@ -80,40 +64,6 @@
         "Label": "Torre i5-12400 +Disipador +B660M PRO RS +16GB DDR4 +500GB M.2 +700W +Chasis"
       }
     ],
-    "Gamer": [
-      {
-        "Price": 905.00,
-        "Features": [],
-        "Date": "2024-01-18T06:53:48.6615808-05:00",
-        "Update": "2024-01-18T07:07:34.3276324-05:00",
-        "Discount": 15.0,
-        "Label": "Torre GTX 1070 8GB +i5-12400F +MSI Pro B760M-P +32GB DDR4 +500GB m.2 + 700W"
-      },
-      {
-        "Price": 1600.00,
-        "Features": [],
-        "Date": "2024-01-20T03:20:56.4350845-05:00",
-        "Update": "2024-01-20T03:25:20.0919323-05:00",
-        "Discount": 20.0,
-        "Label": "Torre RTX 3060 12GB OC +i5-12600K +Strix Z690-E Gaming +32GB DDR5 +850W +1TB M.2"
-      },
-      {
-        "Price": 925.00,
-        "Features": [],
-        "Date": "2024-01-21T08:40:36.6804184-05:00",
-        "Update": "2024-01-21T08:58:46.7144868-05:00",
-        "Discount": 17.0,
-        "Label": "Torre RTX 2060 Gaming 6GB +i5-12400 +B660M PRO RS +16GB DDR4 +500GB M.2 +700W"
-      },
-      {
-        "Price": 1390.00,
-        "Features": [],
-        "Date": "2024-01-23T07:20:20.9256169-05:00",
-        "Update": "2024-01-23T07:26:03.6363633-05:00",
-        "Discount": 15.0,
-        "Label": "Torre RX 7600 OC +Cooler ARGB +i5-12600K +Z790 UD AC 32GB DDR5 +1TB M.2 +750W"
-      }
-    ],
     "Pro": [
       {
         "Price": 2017.00,
@@ -130,6 +80,24 @@
         "Update": "2024-01-21T08:22:46.4977217-05:00",
         "Discount": 10.0,
         "Label": "Torre i9-12900K +Strix Z690-E Gaming +64GB DDR5 6000mhz +1TB m.2 +850W +Chasis"
+      }
+    ],
+    "Gamer": [
+      {
+        "Price": 1600.00,
+        "Features": [],
+        "Date": "2024-01-20T03:20:56.4350845-05:00",
+        "Update": "2024-01-20T03:25:20.0919323-05:00",
+        "Discount": 20.0,
+        "Label": "Torre RTX 3060 12GB OC +i5-12600K +Strix Z690-E Gaming +32GB DDR5 +850W +1TB M.2"
+      },
+      {
+        "Price": 1390.00,
+        "Features": [],
+        "Date": "2024-01-23T07:20:20.9256169-05:00",
+        "Update": "2024-01-23T07:26:03.6363633-05:00",
+        "Discount": 15.0,
+        "Label": "Torre RX 7600 OC +Cooler ARGB +i5-12600K +Z790 UD AC 32GB DDR5 +1TB M.2 +750W"
       }
     ]
   },
@@ -278,22 +246,6 @@
         "Label": "Kit Intel Core i5-12400 +Disipador +B660M PRO RS + 16GB DDR4 3600mhz"
       },
       {
-        "Price": 410.00,
-        "Features": [
-          "12va Gen",
-          "12 Hilos",
-          "6 Core",
-          "2x8",
-          "3600mhz",
-          "6xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-01-17T07:51:01.2508407-05:00",
-        "Update": "2024-01-17T08:09:13.9200837-05:00",
-        "Discount": 2.0,
-        "Label": "Kit 12Gen i5-12400F +Disipador +B660M PRO RS + 16GB DDR4 GeIL ORION 3600mhz"
-      },
-      {
         "Price": 435.00,
         "Features": [
           "12 Hilos",
@@ -345,23 +297,6 @@
         "Update": "2024-01-18T07:19:39.6721583-05:00",
         "Discount": 5.0,
         "Label": "Kit i5-13500 +Disipador + ASRock B660M PRO RS + DDR4 Silicon Power 16GB 3200mhz"
-      },
-      {
-        "Price": 485.00,
-        "Features": [
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "2x16GB",
-          "CL16",
-          "Disipadas",
-          "5xUSB",
-          "4xSATA"
-        ],
-        "Date": "2023-12-20T07:22:21.9109929-05:00",
-        "Update": "2024-01-18T07:19:39.860954-05:00",
-        "Discount": 7.0,
-        "Label": "Kit i5-12600K + MSI Pro B760M-P +32GB DDR4 Silicon Power Turbine RGB"
       }
     ],
     "Esencial": [
@@ -1806,17 +1741,6 @@
         "Label": "RAM DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
       },
       {
-        "Price": 97.00,
-        "Features": [
-          "2x16GB",
-          "CL16",
-          "Disipadas"
-        ],
-        "Date": "2023-11-18T23:52:16.8733847-05:00",
-        "Update": "2023-12-14T07:55:29.0448296-05:00",
-        "Label": "RAM DDR4 Silicon Power Turbine RGB 32GB 3200mhz"
-      },
-      {
         "Price": 33.00,
         "Features": [
           "1x8GB",
@@ -2192,22 +2116,6 @@
         "Date": "2023-03-22T09:04:00.899336-04:00",
         "Update": "2024-01-15T18:18:29.8552965-05:00",
         "Label": "Micro Intel Core i3-13100 +Disipador"
-      },
-      {
-        "Price": 195.00,
-        "Features": [
-          "12va Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "18MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-08-08T10:07:50.0509327-04:00",
-        "Update": "2024-01-17T03:01:54.7288494-05:00",
-        "Label": "Micro Intel Core i5-12400F +Disipador"
       },
       {
         "Price": 135.00,
@@ -3374,18 +3282,6 @@
         "Label": "PBT Backlit Keycap Upgrade Set White"
       },
       {
-        "Price": 67.00,
-        "Features": [
-          "Inmalámbrico",
-          "Multi Device",
-          "Membrana",
-          "USB"
-        ],
-        "Date": "2023-11-24T09:48:41.1259622-05:00",
-        "Update": "2023-12-24T03:38:07.0984073-05:00",
-        "Label": "Teclado Logitech K380 TKL Wireless"
-      },
-      {
         "Price": 77.00,
         "Features": [
           "RGB",
@@ -3619,20 +3515,6 @@
         "Date": "2023-11-05T07:48:29.4035139-05:00",
         "Update": "2023-12-07T13:17:19.3068681-05:00",
         "Label": "Mouse Razer Basilisk X Hyperspeed Black"
-      },
-      {
-        "Price": 140.00,
-        "Features": [
-          "25600dpi",
-          "Inalámbrico",
-          "Optico",
-          "11 botónes",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-12-07T12:48:03.088038-05:00",
-        "Update": "2023-12-07T13:17:19.332759-05:00",
-        "Label": "Mouse Logitech G502 X Lightspeed Wireless"
       },
       {
         "Price": 13.00,
@@ -3950,24 +3832,6 @@
         "Date": "2023-09-23T14:08:54.0159291-04:00",
         "Update": "2023-12-08T14:08:33.4767149-05:00",
         "Label": "Auriculares Corsair VOID RGB Elite Wireless White"
-      },
-      {
-        "Price": 140.00,
-        "Features": [
-          "Noise Control",
-          "7.1",
-          "16H",
-          "iCUE",
-          "20Hz-20KHz",
-          "50mm",
-          "Inalámbrico",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-11-03T12:23:45.8463765-04:00",
-        "Update": "2023-12-26T05:53:14.626863-05:00",
-        "Label": "Auriculares Corsair HS70 Pro Wireless"
       }
     ],
     "Webcam": [
