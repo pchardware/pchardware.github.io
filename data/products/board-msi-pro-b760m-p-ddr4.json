@@ -18,12 +18,12 @@
     "4xSATA",
     "HDMI",
     "DisplayPort",
-    "Micro ATX",
     "LGA 1700",
     "3xAudio",
+    "Micro ATX",
     "MOBO"
   ],
   "Date": "2023-10-11T10:56:24.0277774-04:00",
-  "Update": "2023-12-24T02:51:09.9580005-05:00",
+  "Update": "2024-01-24T14:51:18.447466-05:00",
   "Label": "Board MSI Pro B760M-P DDR4"
 }
