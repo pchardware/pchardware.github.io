@@ -709,111 +709,6 @@
         "Label": "Fuente Apevia Spirit 600W"
       },
       {
-        "Price": 80.00,
-        "Features": [
-          "1x 4+4Pin",
-          "1x 6+2Pin",
-          "4x SATA",
-          "140mm",
-          "ATX"
-        ],
-        "Date": "2023-12-19T06:42:21.8253659-05:00",
-        "Update": "2023-12-19T08:43:12.2370599-05:00",
-        "Label": "Fuente EVGA 400W"
-      },
-      {
-        "Price": 230.00,
-        "Features": [
-          "80+ Gold",
-          "ATX 3.0",
-          "Full Modular",
-          "83A",
-          "1x 16Pin",
-          "4x 6+2Pin",
-          "2x 4+4 EPS",
-          "5x SATA",
-          "150mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-06-07T15:03:30.731139-04:00",
-        "Update": "2023-12-24T03:04:22.401977-05:00",
-        "Label": "Fuente Asus TUF 1000W"
-      },
-      {
-        "Price": 255.00,
-        "Features": [
-          "ATX 3.0",
-          "80+ Gold",
-          "Full Modular",
-          "Zero RPM",
-          "100A",
-          "1x 16Pin",
-          "6x 6+2Pin",
-          "2x 4+4 EPS",
-          "150mm",
-          "7xSATA",
-          "4x PATA",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-10-18T06:47:22.7546286-04:00",
-        "Update": "2023-12-24T03:04:22.4255831-05:00",
-        "Label": "Fuente Corsair RM1200e 1200W"
-      },
-      {
-        "Price": 215.00,
-        "Features": [
-          "ATX 3.0",
-          "1x16Pin",
-          "80+ Gold",
-          "Full Modular",
-          "83A",
-          "2x 4+4 EPS",
-          "140mm",
-          "4x 6+2-Pin",
-          "8x SATA",
-          "PSU"
-        ],
-        "Date": "2023-05-11T14:27:13.3514196-04:00",
-        "Update": "2023-12-24T03:04:22.4714812-05:00",
-        "Label": "Fuente Gigabyte UD1000GM 1000W"
-      },
-      {
-        "Price": 285.00,
-        "Features": [
-          "80+ PLATINUM",
-          "ARGB",
-          "Full Modular",
-          "1x 16Pin",
-          "71A",
-          "2x 4+4 EPS",
-          "3x 6+2Pin",
-          "10x SATA",
-          "160mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-08-08T10:02:44.4021387-04:00",
-        "Update": "2023-12-24T03:04:22.7650502-05:00",
-        "Label": "Fuente Asus ROG Thor 850W Platinum II"
-      },
-      {
-        "Price": 130.00,
-        "Features": [
-          "2x 6+2Pin",
-          "59A",
-          "9x SATA",
-          "1x 4+4 EPS",
-          "140mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-08-16T09:16:30.0204629-04:00",
-        "Update": "2023-12-28T14:06:43.9255043-05:00",
-        "Label": "Fuente EVGA 750W"
-      },
-      {
         "Price": 95.00,
         "Features": [
           "53A",
@@ -844,11 +739,118 @@
         "Label": "Fuente Thermaltake SMART 500W"
       },
       {
+        "Price": 80.00,
+        "Features": [
+          "30A",
+          "1x 4+4Pin",
+          "1x 6+2Pin",
+          "4x SATA",
+          "140mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-12-19T06:42:21.8253659-05:00",
+        "Update": "2024-01-24T02:24:17.2036318-05:00",
+        "Label": "Fuente EVGA 400W"
+      },
+      {
+        "Price": 230.00,
+        "Features": [
+          "ATX 3.0",
+          "83A",
+          "80+ Gold",
+          "Full Modular",
+          "1x 16Pin",
+          "4x 6+2Pin",
+          "2x 4+4 EPS",
+          "5x SATA",
+          "150mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-06-07T15:03:30.731139-04:00",
+        "Update": "2024-01-24T02:24:17.2473909-05:00",
+        "Label": "Fuente Asus TUF 1000W"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "ATX 3.0",
+          "100A",
+          "80+ Gold",
+          "Full Modular",
+          "Zero RPM",
+          "1x 16Pin",
+          "6x 6+2Pin",
+          "2x 4+4 EPS",
+          "7x SATA",
+          "4x PATA",
+          "150mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-10-18T06:47:22.7546286-04:00",
+        "Update": "2024-01-24T02:24:17.2624211-05:00",
+        "Label": "Fuente Corsair RM1200e 1200W"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "ATX 3.0",
+          "83A",
+          "80+ Gold",
+          "Full Modular",
+          "1x16Pin",
+          "2x 4+4 EPS",
+          "140mm",
+          "4x 6+2-Pin",
+          "8x SATA",
+          "PSU"
+        ],
+        "Date": "2023-05-11T14:27:13.3514196-04:00",
+        "Update": "2024-01-24T02:24:17.2767406-05:00",
+        "Label": "Fuente Gigabyte UD1000GM 1000W"
+      },
+      {
+        "Price": 285.00,
+        "Features": [
+          "71A",
+          "80+ PLATINUM",
+          "ARGB",
+          "Full Modular",
+          "1x 16Pin",
+          "2x 4+4 EPS",
+          "3x 6+2Pin",
+          "10x SATA",
+          "160mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-08-08T10:02:44.4021387-04:00",
+        "Update": "2024-01-24T02:24:17.2899613-05:00",
+        "Label": "Fuente Asus ROG Thor 850W Platinum II"
+      },
+      {
+        "Price": 130.00,
+        "Features": [
+          "59A",
+          "2x 6+2Pin",
+          "9x SATA",
+          "1x 4+4 EPS",
+          "140mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-08-16T09:16:30.0204629-04:00",
+        "Update": "2024-01-24T02:24:17.305117-05:00",
+        "Label": "Fuente EVGA 750W"
+      },
+      {
         "Price": 205.00,
         "Features": [
+          "71A",
           "80+ PLATINUM",
           "Full Modular",
-          "71A",
           "6x 6+2Pin",
           "9x SATA",
           "2x 4+4 EPS",
@@ -856,15 +858,15 @@
           "ATX"
         ],
         "Date": "2023-11-14T14:40:10.1214379-05:00",
-        "Update": "2024-01-02T09:28:28.3740432-05:00",
+        "Update": "2024-01-24T02:24:17.3220665-05:00",
         "Label": "Fuente EVGA Supernova 850 P5 850W"
       },
       {
         "Price": 155.00,
         "Features": [
+          "62A",
           "80+ Bronze",
           "Modular",
-          "62A",
           "4x 6+2Pin",
           "8x SATA",
           "1x 4+4 EPS",
@@ -873,32 +875,32 @@
           "ATX"
         ],
         "Date": "2023-04-15T07:27:10.1467554-04:00",
-        "Update": "2024-01-18T07:19:39.7506788-05:00",
+        "Update": "2024-01-24T02:24:17.3357109-05:00",
         "Label": "Fuente Corsair CX750M 750W"
       },
       {
         "Price": 375.00,
         "Features": [
-          "80+ PLATINUM",
           "125A",
+          "80+ PLATINUM",
+          "Full Modular",
           "9x 6+2Pin",
           "3x 4+4 EPS",
-          "Full Modular",
-          "200mm",
           "8x SATA",
+          "200mm",
           "PSU",
           "ATX"
         ],
         "Date": "2023-10-02T14:28:39.3910059-04:00",
-        "Update": "2024-01-23T14:30:19.5839655-05:00",
+        "Update": "2024-01-24T02:24:17.3533086-05:00",
         "Label": "Fuente Corsair HX1500i 1500W"
       },
       {
         "Price": 170.00,
         "Features": [
+          "71A",
           "80+ Gold",
           "Full Modular",
-          "71A",
           "4x 6+2Pin",
           "8x SATA",
           "2x 4+4 EPS",
@@ -908,23 +910,23 @@
           "ATX"
         ],
         "Date": "2023-10-03T06:55:40.1387236-04:00",
-        "Update": "2024-01-23T14:30:19.7272468-05:00",
+        "Update": "2024-01-24T02:24:17.3695202-05:00",
         "Label": "Fuente Gigabyte UD850GM 850W"
       },
       {
         "Price": 145.00,
         "Features": [
+          "ATX 3.0",
+          "62A",
           "80+ Bronze",
           "Modular",
-          "62A",
-          "ATX 3.0",
           "1x16Pin",
           "4x6+2Pin",
           "150mm",
           "PSU"
         ],
         "Date": "2024-01-23T14:30:45.0285877-05:00",
-        "Update": "2024-01-23T15:48:48.6205221-05:00",
+        "Update": "2024-01-24T02:24:17.3848965-05:00",
         "Label": "Fuente Thermaltake Smart BM3 750W"
       }
     ],
@@ -1946,17 +1948,6 @@
         "Label": "RAM DDR4 G.Skill TridentZ RGB 16GB 3600Mhz"
       },
       {
-        "Price": 100.00,
-        "Features": [
-          "2x8",
-          "CL18",
-          "Disipadas"
-        ],
-        "Date": "2024-01-18T07:08:51.9328205-05:00",
-        "Update": "2024-01-18T09:48:23.5890458-05:00",
-        "Label": "RAM DDR4 Corsair Vengeance LPX 32GB 3600mhz"
-      },
-      {
         "Price": 115.00,
         "Features": [
           "2x16GB",
@@ -1966,6 +1957,17 @@
         "Date": "2023-03-09T12:28:03.6250501-05:00",
         "Update": "2024-01-23T14:30:19.6439278-05:00",
         "Label": "RAM DDR4 G.SKILL TridentZ RGB 32GB 3600mhz"
+      },
+      {
+        "Price": 100.00,
+        "Features": [
+          "2x16",
+          "CL18",
+          "Disipadas"
+        ],
+        "Date": "2024-01-18T07:08:51.9328205-05:00",
+        "Update": "2024-01-24T02:26:09.8541616-05:00",
+        "Label": "RAM DDR4 Corsair Vengeance LPX 32GB 3600mhz"
       }
     ],
     "Microprocesador": [
