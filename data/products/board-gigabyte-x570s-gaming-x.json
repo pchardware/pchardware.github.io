@@ -11,17 +11,18 @@
   "Price": 230.00,
   "Features": [
     "AM4",
-    "AMD",
+    "DDR4",
+    "5100mhz",
     "6xSATA",
     "7xUSB",
     "6xAudio",
-    "DDR4",
-    "5100mhz",
     "HDMI",
     "DisplayPort",
+    "ATX",
+    "AMD",
     "MOBO"
   ],
   "Date": "2023-12-28T14:08:17.4889383-05:00",
-  "Update": "2024-01-11T10:09:18.8944654-05:00",
+  "Update": "2024-01-24T14:50:31.1568241-05:00",
   "Label": "Board Gigabyte X570S Gaming X"
 }
