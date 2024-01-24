@@ -18,14 +18,14 @@
     "9xUSB",
     "6xSATA",
     "LGA 1700",
-    "ATX",
     "PS2",
     "DisplayPort",
     "HDMI",
     "3xAudio",
+    "ATX",
     "MOBO"
   ],
   "Date": "2023-07-26T18:48:17.6030093-04:00",
-  "Update": "2023-12-24T02:51:09.743264-05:00",
+  "Update": "2024-01-24T14:50:31.140014-05:00",
   "Label": "Board Gigabyte Z790 UD AX"
 }
