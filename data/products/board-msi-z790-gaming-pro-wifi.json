@@ -11,8 +11,8 @@
   "Price": 275.00,
   "Features": [
     "12va-13ra-14ta",
-    "7200mhz",
     "DDR5",
+    "7200mhz",
     "Wifi",
     "Dual Lan",
     "7xUSB",
@@ -24,6 +24,6 @@
     "MOBO"
   ],
   "Date": "2023-10-16T10:24:22.1843395-04:00",
-  "Update": "2024-01-23T14:30:19.742454-05:00",
+  "Update": "2024-01-24T14:50:31.2337005-05:00",
   "Label": "Board MSI Z790 Gaming Pro Wifi"
 }
