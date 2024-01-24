@@ -2712,23 +2712,6 @@
         "Label": "Tarjeta de Video XFX Swift 319 RX 6800 16GB"
       },
       {
-        "Price": 380.00,
-        "Features": [
-          "DLSS3",
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "199 mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-12-07T21:45:13.7040885-05:00",
-        "Update": "2023-12-24T03:17:29.4941992-05:00",
-        "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X White OC 8GB"
-      },
-      {
         "Price": 385.00,
         "Features": [
           "DLSS3",
@@ -3028,23 +3011,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4060 WindForce OC 8GB"
       },
       {
-        "Price": 330.00,
-        "Features": [
-          "1x8Pin",
-          "550WR",
-          "270mm",
-          "PCIe4",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica",
-          "1xFan"
-        ],
-        "Date": "2023-12-28T14:07:53.0091888-05:00",
-        "Update": "2024-01-17T07:01:04.2543569-05:00",
-        "Label": "Tarjeta de Video Acer Predator BiFrost RX 7600 OC"
-      },
-      {
         "Price": 355.00,
         "Features": [
           "3xFan",
@@ -3110,6 +3076,40 @@
         "Date": "2023-08-21T08:58:03.7946257-04:00",
         "Update": "2024-01-23T14:30:19.5667631-05:00",
         "Label": "Tarjeta de Video MSI RTX 4060 Ti Gaming X 8GB"
+      },
+      {
+        "Price": 380.00,
+        "Features": [
+          "DLSS3",
+          "2xFan",
+          "1x8Pin",
+          "550WR",
+          "199 mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-12-07T21:45:13.7040885-05:00",
+        "Update": "2024-01-24T02:40:53.2079343-05:00",
+        "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X White OC 8GB"
+      },
+      {
+        "Price": 330.00,
+        "Features": [
+          "1x8Pin",
+          "550WR",
+          "270mm",
+          "PCIe4",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica",
+          "1xFan"
+        ],
+        "Date": "2023-12-28T14:07:53.0091888-05:00",
+        "Update": "2024-01-24T02:40:53.221858-05:00",
+        "Label": "Tarjeta de Video Acer Predator BiFrost RX 7600 OC"
       }
     ]
   },
