@@ -3931,21 +3931,6 @@
         "Label": "Monitor Acer Nitro 28\" 4K IPS 10Bit 300nit SPK"
       },
       {
-        "Price": 380.00,
-        "Features": [
-          "8Bit",
-          "HDR10",
-          "Gaming",
-          "QHD",
-          "2K",
-          "DP",
-          "250nit"
-        ],
-        "Date": "2023-12-07T22:24:09.640104-05:00",
-        "Update": "2023-12-17T21:03:57.7369525-05:00",
-        "Label": "Monitor Acer Nitro 27\" 1440p Curvo 144Hz 1ms VA SPK"
-      },
-      {
         "Price": 255.00,
         "Features": [
           "8Bit",
@@ -4051,6 +4036,21 @@
         "Date": "2024-01-18T07:09:18.7560023-05:00",
         "Update": "2024-01-18T10:29:16.5646629-05:00",
         "Label": "Monitor Asus TUF 24\" 165Hz IPS 1ms SPK"
+      },
+      {
+        "Price": 380.00,
+        "Features": [
+          "8Bit",
+          "HDR10",
+          "Gaming",
+          "QHD",
+          "2K",
+          "DP",
+          "250nit"
+        ],
+        "Date": "2023-12-07T22:24:09.640104-05:00",
+        "Update": "2024-01-25T12:38:36.4470355-05:00",
+        "Label": "Monitor Acer Nitro 27\" 1440p Curvo 170Hz 1ms VA SPK"
       }
     ],
     "Backup": [
