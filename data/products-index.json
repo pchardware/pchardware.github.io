@@ -2622,23 +2622,6 @@
     ],
     "Tarjeta Gráfica": [
       {
-        "Price": 935.00,
-        "Features": [
-          "DLSS3",
-          "3xFan",
-          "1x16Pin",
-          "750W",
-          "342mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-10-16T10:24:29.9709108-04:00",
-        "Update": "2023-12-24T03:17:29.2273244-05:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Master 12GB"
-      },
-      {
         "Price": 540.00,
         "Features": [
           "3xFan",
