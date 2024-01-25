@@ -1194,20 +1194,6 @@
         "Label": "HDD 3.5 Seagate Constellation 2TB SAS"
       },
       {
-        "Price": 160.00,
-        "Features": [
-          "Ultrastar DC",
-          "Enterprise",
-          "512mb",
-          "7200rpm",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-10-02T14:29:17.3385611-04:00",
-        "Update": "2023-10-02T15:13:13.7065447-04:00",
-        "Label": "HDD 3.5 WD 14TB HC530 Recertified"
-      },
-      {
         "Price": 95.00,
         "Features": [
           "128mb",
