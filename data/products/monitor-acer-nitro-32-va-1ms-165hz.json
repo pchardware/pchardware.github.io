@@ -1,0 +1,26 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Monitor",
+  "Images": [
+    "/images/products/monitor-acer-nitro-32-va-1ms-165hz-1.webp",
+    "/images/products/monitor-acer-nitro-32-va-1ms-165hz-2.webp",
+    "/images/products/monitor-acer-nitro-32-va-1ms-165hz-3.webp",
+    "/images/products/monitor-acer-nitro-32-va-1ms-165hz-4.webp",
+    "/images/products/monitor-acer-nitro-32-va-1ms-165hz-5.webp"
+  ],
+  "Description": "Model\nBrand: Acer\nModel: XZ320Q Pbiiphx\nPart Number: UM.JX0AA.P03\nCabinet Color: Black\n\n\nDisplay\nScreen Size: 32\" (31.5\" Viewable)\nWidescreen: No\nPanel: VA\nDisplay Type: FHD\nAdaptive Sync Technology: FreeSync Premium (AMD Adaptive Sync)\nRecommended Resolution: 1920 x 1080\nViewing Angle: 178° (H) / 178° (V)\nAspect Ratio: 16:9\nBrightness: 250 cd/m2\nContrast Ratio: 100,000,000:1\nResponse Time: 1 ms\nDisplay Colors: 16.7 Million\nPixel Pitch: 0.3647mm\nRefresh Rate: 165 Hz\nCurvature Radius: 1800R\nCurved Surface Screen: Curved\n\n\nConnectivity\nConnectors: Number of HDMI Inputs (Total): 2\nNumber of DisplayPort Ver 1.2 Inputs: 1\nHDMI: 2 x HDMI v1.4\nDisplayPort: 1 x Display Port 1.2\n\n\nConvenience\nStand Adjustments: Ergonomic Tilt: -5° to 20°\n Height Adjustment Range: 3.94\"\n Swivel: +/- 30°\nVESA Compatibility - Mountable: 100 x 100mm",
+  "Price": 410.00,
+  "Features": [
+    "1080p",
+    "8bits",
+    "250nit",
+    "curvo",
+    "HDMI",
+    "DP",
+    "Speakers",
+    "FHD"
+  ],
+  "Date": "2024-01-26T05:15:16.9831079-05:00",
+  "Update": "2024-01-26T05:35:26.9532925-05:00",
+  "Label": "Monitor Acer Nitro 32\" VA 1ms 165Hz"
+}
