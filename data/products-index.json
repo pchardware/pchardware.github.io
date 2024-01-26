@@ -935,6 +935,24 @@
         "Date": "2024-01-23T14:30:45.0285877-05:00",
         "Update": "2024-01-24T02:24:17.3848965-05:00",
         "Label": "Fuente Thermaltake Smart BM3 750W"
+      },
+      {
+        "Price": 140.00,
+        "Features": [
+          "54A",
+          "80+ Bronze",
+          "Modular",
+          "2x 4+4Pin",
+          "2x 6+2Pin",
+          "6x Sata",
+          "4x Molex",
+          "150mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2024-01-26T05:15:20.8299369-05:00",
+        "Update": "2024-01-26T05:35:26.9689757-05:00",
+        "Label": "Fuente CORSAIR CX650M 650W"
       }
     ],
     "Disipador Líquido": [
@@ -4086,6 +4104,22 @@
         "Date": "2023-12-07T22:24:09.640104-05:00",
         "Update": "2024-01-25T12:38:36.4470355-05:00",
         "Label": "Monitor Acer Nitro 27\" 1440p Curvo 170Hz 1ms VA SPK"
+      },
+      {
+        "Price": 410.00,
+        "Features": [
+          "1080p",
+          "8bits",
+          "250nit",
+          "curvo",
+          "HDMI",
+          "DP",
+          "Speakers",
+          "FHD"
+        ],
+        "Date": "2024-01-26T05:15:16.9831079-05:00",
+        "Update": "2024-01-26T05:35:26.9532925-05:00",
+        "Label": "Monitor Acer Nitro 32\" VA 1ms 165Hz"
       }
     ],
     "Backup": [
