@@ -1,15 +1,5 @@
 {
   "Computadoras": {
-    "Multimedia": [
-      {
-        "Price": 922.00,
-        "Features": [],
-        "Date": "2023-12-15T11:05:53.1509612-05:00",
-        "Update": "2024-01-18T07:19:39.891326-05:00",
-        "Discount": 21.0,
-        "Label": "PC i3-12100 +Z690M +8GB DDR4 +1TB M.2 +600W +Acer 24\" +Ratón y Teclado"
-      }
-    ],
     "Gamer": [
       {
         "Price": 1710.00,
@@ -32,28 +22,12 @@
   "Torres": {
     "Multimedia": [
       {
-        "Price": 677.00,
-        "Features": [],
-        "Date": "2024-01-10T09:29:39.4405152-05:00",
-        "Update": "2024-01-17T08:53:26.6285549-05:00",
-        "Discount": 8.0,
-        "Label": "Torre i5-12400 +Z690M Phantom Gaming 4 +8GB DDR4 +480GB SSD +600W +MasterBox"
-      },
-      {
         "Price": 672.00,
         "Features": [],
         "Date": "2024-01-15T06:35:20.8270124-05:00",
         "Update": "2024-01-17T08:53:26.6547865-05:00",
         "Discount": 18.0,
         "Label": "Torre Ryzen 3 5300G +Disipador +B550 Gaming X V2 +8GB DDR4 +SSD 480GB +600W"
-      },
-      {
-        "Price": 714.00,
-        "Features": [],
-        "Date": "2024-01-21T10:38:25.8620105-05:00",
-        "Update": "2024-01-21T11:28:17.9206607-05:00",
-        "Discount": 11.0,
-        "Label": "Torre i5-12400 +Disipador +B660M PRO RS +16GB DDR4 +500GB M.2 +700W +Chasis"
       }
     ],
     "Pro": [
@@ -90,22 +64,6 @@
         "Update": "2024-01-25T11:05:38.5427929-05:00",
         "Discount": 20.0,
         "Label": "Torre RTX 3050 +i5-13500 +Z790 UD AC +32GB DDR5 RGB +1TB M.2 +700W +Chasis RGB"
-      },
-      {
-        "Price": 865.00,
-        "Features": [],
-        "Date": "2024-01-25T11:33:32.8257373-05:00",
-        "Update": "2024-01-25T11:41:05.6889297-05:00",
-        "Discount": 10.0,
-        "Label": "Torre GTX 1070 8GB +Ryzen 5 5600G +B550M Pro SE +16GB DDR4 +500GB M.2 +500W"
-      },
-      {
-        "Price": 975.00,
-        "Features": [],
-        "Date": "2024-01-25T11:44:23.2568528-05:00",
-        "Update": "2024-01-25T11:46:01.8868705-05:00",
-        "Discount": 15.0,
-        "Label": "Torre GTX 1080 8GB +i5-12400 +B660M PRO RS + 16GB DDR4 +500GB m.2 +700W"
       },
       {
         "Price": 1605.00,
@@ -2255,19 +2213,6 @@
         "Label": "Chasis MLLIQUEA Mining Rig Frame"
       },
       {
-        "Price": 135.00,
-        "Features": [
-          "Micro ATX",
-          "2xUSB",
-          "Acrilico",
-          "Filtro de Polvo",
-          "Negro"
-        ],
-        "Date": "2023-12-07T22:24:12.9113994-05:00",
-        "Update": "2024-01-11T10:18:20.3066703-05:00",
-        "Label": "Chasis Cooler Master MasterBox Q300L Gray"
-      },
-      {
         "Price": 230.00,
         "Features": [
           "Tempered Glass",
@@ -2783,23 +2728,6 @@
         "Date": "2023-12-07T23:40:36.0331524-05:00",
         "Update": "2024-01-17T06:21:07.2688896-05:00",
         "Label": "Tarjeta de Video EVGA RTX 2060 Gaming 6GB"
-      },
-      {
-        "Price": 520.00,
-        "Features": [
-          "3xFan",
-          "2x8Pin",
-          "750WR",
-          "320mm",
-          "DLSS",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-11-18T23:52:27.7287787-05:00",
-        "Update": "2024-01-17T06:21:07.2895943-05:00",
-        "Label": "Tarjeta de Video Asus TUF RX 7700 XT 12GB"
       },
       {
         "Price": 255.00,
