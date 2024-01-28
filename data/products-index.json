@@ -25,6 +25,16 @@
         "Discount": 17.0,
         "Label": "PC GTX 1070 8GB +i3-12100 +B660M PRO RS +16GB DDR4 +500GB M.2 +700W +Monitor 24\""
       }
+    ],
+    "Multimedia": [
+      {
+        "Price": 950.00,
+        "Features": [],
+        "Date": "2024-01-28T07:09:38.8814766-05:00",
+        "Update": "2024-01-28T07:11:07.325915-05:00",
+        "Discount": 22.0,
+        "Label": "PC i3-12100 +B660M PRO RS +16GB DDR4 +500GB M.2 +500W +Monitor 24\""
+      }
     ]
   },
   "Torres": {
