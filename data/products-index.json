@@ -1417,6 +1417,18 @@
         "Date": "2024-01-23T14:30:53.2121378-05:00",
         "Update": "2024-01-24T02:11:20.9243016-05:00",
         "Label": "SSD M.2 Corsair MP600 GS 500GB"
+      },
+      {
+        "Price": 80.00,
+        "Features": [
+          "7400mbs",
+          "300BTW",
+          "PCIe4",
+          "NVMe"
+        ],
+        "Date": "2024-01-27T21:38:27.250846-05:00",
+        "Update": "2024-01-28T05:39:24.5927026-05:00",
+        "Label": "SSD M.2 HP FX900 Pro 512GB"
       }
     ],
     "Disipador por Aire": [
@@ -1593,6 +1605,24 @@
         "Date": "2023-09-23T14:09:08.5628773-04:00",
         "Update": "2024-01-18T07:19:39.7655628-05:00",
         "Label": "Disipador ID-COOLING SE-214-XT ARGB Black"
+      },
+      {
+        "Price": 75.00,
+        "Features": [
+          "4xPipes",
+          "1550rpm",
+          "58CFM",
+          "25.6dB",
+          "1200",
+          "1700",
+          "17XX",
+          "AM4",
+          "AM5",
+          "2xFan"
+        ],
+        "Date": "2024-01-27T21:38:36.4661258-05:00",
+        "Update": "2024-01-28T05:39:24.6099424-05:00",
+        "Label": "Disipador Thermalright Assassin X 120 R SE Plus"
       }
     ],
     "Memoria RAM": [
@@ -1892,6 +1922,17 @@
         "Date": "2024-01-16T04:52:38.201793-05:00",
         "Update": "2024-01-24T02:30:20.3291427-05:00",
         "Label": "RAM DDR5 Corsair Dominator Platinum RGB 32GB 6200mhz"
+      },
+      {
+        "Price": 150.00,
+        "Features": [
+          "2x16",
+          "CL40",
+          "Disipadas"
+        ],
+        "Date": "2024-01-27T21:38:20.2269354-05:00",
+        "Update": "2024-01-28T05:39:24.5754789-05:00",
+        "Label": "RAM DDR5 Gigabyte AORUS RGB 32GB 6000mhz"
       }
     ],
     "Microprocesador": [
