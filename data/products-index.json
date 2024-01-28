@@ -1984,6 +1984,17 @@
         "Date": "2024-01-27T21:38:20.2269354-05:00",
         "Update": "2024-01-28T05:39:24.5754789-05:00",
         "Label": "RAM DDR5 Gigabyte AORUS RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 245.00,
+        "Features": [
+          "2x32",
+          "CL36",
+          "Disipadas"
+        ],
+        "Date": "2023-12-28T14:08:48.4813308-05:00",
+        "Update": "2024-01-28T06:49:14.6486278-05:00",
+        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 64GB 6000mhz"
       }
     ],
     "Microprocesador": [
@@ -3757,6 +3768,13 @@
         "Date": "2024-01-18T07:09:13.1565681-05:00",
         "Update": "2024-01-18T08:30:01.1436413-05:00",
         "Label": "HUB BYTECC U3-10HUB 10x USB 3.0 5A"
+      },
+      {
+        "Price": 5.00,
+        "Features": [],
+        "Date": "2024-01-03T08:13:00.6537346-05:00",
+        "Update": "2024-01-28T06:49:14.6733309-05:00",
+        "Label": "Cable Molex a SATA"
       }
     ],
     "Externo": [
