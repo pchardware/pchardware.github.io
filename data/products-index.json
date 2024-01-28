@@ -202,6 +202,22 @@
         "Update": "2024-01-23T14:30:19.7124026-05:00",
         "Discount": 13.0,
         "Label": "Kit i7-12700K +MSI Z790 Gaming Pro Wifi + 32GB DDR5 6000mhz G.Skill Ripjaws"
+      },
+      {
+        "Price": 655.00,
+        "Features": [
+          "20 Hilos",
+          "5GHz",
+          "6000mhz",
+          "Wifi",
+          "6xAudio",
+          "Dual Channel",
+          "2x16GB"
+        ],
+        "Date": "2023-10-12T12:29:48.249782-04:00",
+        "Update": "2024-01-27T21:40:58.2236906-05:00",
+        "Discount": 10.0,
+        "Label": "Kit i7-12700K +Board Asus TUF Z690 + 32GB DDR5 G.Skill"
       }
     ],
     "Moderado": [
@@ -344,6 +360,14 @@
         "Update": "2024-01-23T14:30:19.5111807-05:00",
         "Discount": 14.0,
         "Label": "Kit i7-12700K + Asus ROG Strix Z690-E Gaming Wifi + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 616.00,
+        "Features": [],
+        "Date": "2023-09-15T11:12:21.3730357-04:00",
+        "Update": "2024-01-27T21:40:58.2026221-05:00",
+        "Discount": 14.0,
+        "Label": "Kit i5-12600K + Asus TUF Z690-Plus Wifi + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
       }
     ]
   },
@@ -2582,6 +2606,24 @@
         "Date": "2023-10-11T10:56:24.0277774-04:00",
         "Update": "2024-01-24T14:51:18.447466-05:00",
         "Label": "Board MSI Pro B760M-P DDR4"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "12va-13ra-14ta",
+          "6xAudio",
+          "6xUSB",
+          "4xSATA",
+          "6000mhz",
+          "LGA1700",
+          "HDMI",
+          "DisplayPort",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-05-11T07:56:36.6020035-04:00",
+        "Update": "2024-01-27T21:40:58.2580554-05:00",
+        "Label": "Board Asus TUF Z690-Plus Wifi DDR5"
       }
     ],
     "Tarjeta Gráfica": [
@@ -3537,6 +3579,22 @@
         "Date": "2024-01-18T07:09:31.8206607-05:00",
         "Update": "2024-01-23T14:30:19.7555208-05:00",
         "Label": "Mouse AOC RGB Gaming GM500"
+      },
+      {
+        "Price": 50.00,
+        "Features": [
+          "Inalámbrico",
+          "16000dpi",
+          "Bluetooth",
+          "Sniper Button",
+          "Optico",
+          "Ergonómico",
+          "10 botónes",
+          "USB"
+        ],
+        "Date": "2023-10-02T14:29:32.4826293-04:00",
+        "Update": "2024-01-27T21:40:58.2425894-05:00",
+        "Label": "Mouse EVGA X20 Gray"
       }
     ],
     "Otros": [
