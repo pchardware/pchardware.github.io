@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-rtx-4060-oc-8gb-i7-12700k-msi-z790-gaming-32gb--4ii2kx-1.webp",
+    "/images/products/pc-rtx-4060-oc-8gb-i7-12700k-msi-z790-gaming-32gb--4ii2kx-2.webp",
+    "/images/products/pc-rtx-4060-oc-8gb-i7-12700k-msi-z790-gaming-32gb--4ii2kx-3.webp",
+    "/images/products/pc-rtx-4060-oc-8gb-i7-12700k-msi-z790-gaming-32gb--4ii2kx-4.webp",
+    "/images/products/pc-rtx-4060-oc-8gb-i7-12700k-msi-z790-gaming-32gb--4ii2kx-5.webp",
+    "/images/products/pc-rtx-4060-oc-8gb-i7-12700k-msi-z790-gaming-32gb--4ii2kx-6.webp",
+    "/images/products/pc-rtx-4060-oc-8gb-i7-12700k-msi-z790-gaming-32gb--4ii2kx-7.webp",
+    "/images/products/pc-rtx-4060-oc-8gb-i7-12700k-msi-z790-gaming-32gb--4ii2kx-8.webp",
+    "/images/products/pc-rtx-4060-oc-8gb-i7-12700k-msi-z790-gaming-32gb--4ii2kx-9.webp",
+    "/images/products/pc-rtx-4060-oc-8gb-i7-12700k-msi-z790-gaming-32gb--4ii2kx-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i7-12700K\n+ Disipador Cooler Master Hyper 212 Spectrum V3\n+ Board MSI Z790 Gaming Pro Wifi\n+ DDR5 Corsair Vengeance RGB 32GB 6000mhz\n+ SSD M.2 HP FX900 Pro 512GB\n+ Tarjeta de Video Gigabyte RTX 4060 Eagle OC 8GB\n+ Fuente Thermaltake Smart BM3 750W\n+ Chasis Cougar Archon 2 Mesh RGB Black\n+ Monitor Asus TUF 24\" 165Hz 0.5ms SPK\n+ COMBO Teclado + Mouse Rosewill Fusion C40\n",
+  "Price": 1875.00,
+  "Features": [],
+  "Date": "2024-01-28T05:43:33.1005182-05:00",
+  "Update": "2024-01-28T05:53:50.9832089-05:00",
+  "Discount": 22.0,
+  "Label": "PC RTX 4060 OC 8GB +i7-12700K +MSI Z790 Gaming +32GB DDR5 +750W +Monitor 24\""
+}
