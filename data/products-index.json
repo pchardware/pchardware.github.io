@@ -8,6 +8,14 @@
         "Update": "2024-01-25T19:26:52.3123638-05:00",
         "Discount": 22.0,
         "Label": "PC RTX 3060 12GB OC +i5-12600K +Z790 UD AC + 32GB DDR5 +700W +Monitor 24\""
+      },
+      {
+        "Price": 1875.00,
+        "Features": [],
+        "Date": "2024-01-28T05:43:33.1005182-05:00",
+        "Update": "2024-01-28T05:53:50.9832089-05:00",
+        "Discount": 22.0,
+        "Label": "PC RTX 4060 OC 8GB +i7-12700K +MSI Z790 Gaming +32GB DDR5 +750W +Monitor 24\""
       }
     ]
   },
@@ -74,6 +82,14 @@
         "Update": "2024-01-27T12:47:11.2249856-05:00",
         "Discount": 20.0,
         "Label": "Torre RTX 4060 OC 8GB +i5-12600K +Z790 UD AC +32GB DDR5 +500GB M.2 +650W +Chasis"
+      },
+      {
+        "Price": 1550.00,
+        "Features": [],
+        "Date": "2024-01-28T05:42:42.2115064-05:00",
+        "Update": "2024-01-28T05:53:50.9694204-05:00",
+        "Discount": 20.0,
+        "Label": "Torre RTX 4060 OC 8GB +i7-12700K +MSI Z790 Gaming +32GB DDR5 +512GB M.2 +750W"
       }
     ]
   },
@@ -218,6 +234,23 @@
         "Update": "2024-01-27T21:40:58.2236906-05:00",
         "Discount": 10.0,
         "Label": "Kit i7-12700K +Board Asus TUF Z690 + 32GB DDR5 G.Skill"
+      },
+      {
+        "Price": 760.00,
+        "Features": [
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "2x16",
+          "6000mhz",
+          "Wifi",
+          "7xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-01-28T05:41:45.404773-05:00",
+        "Update": "2024-01-28T05:53:50.954279-05:00",
+        "Discount": 10.0,
+        "Label": "Kit i7-12700K +Hyper 212 Spectrum V3 +MSI Z790 Gaming Pro Wifi +32GB DDR5 RGB"
       }
     ],
     "Moderado": [
@@ -2610,26 +2643,6 @@
         "Label": "Board ASRock B550M Pro SE"
       },
       {
-        "Price": 275.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "DDR5",
-          "7200mhz",
-          "Wifi",
-          "Dual Lan",
-          "7xUSB",
-          "4xSATA",
-          "HDMI",
-          "LGA 1700",
-          "6xAudio",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-10-16T10:24:22.1843395-04:00",
-        "Update": "2024-01-24T14:50:31.2337005-05:00",
-        "Label": "Board MSI Z790 Gaming Pro Wifi"
-      },
-      {
         "Price": 165.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -2665,6 +2678,26 @@
         "Date": "2023-05-11T07:56:36.6020035-04:00",
         "Update": "2024-01-27T21:40:58.2580554-05:00",
         "Label": "Board Asus TUF Z690-Plus Wifi DDR5"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "7200mhz",
+          "Wifi",
+          "Dual Lan",
+          "7xUSB",
+          "4xSATA",
+          "HDMI",
+          "LGA 1700",
+          "6xAudio",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-10-16T10:24:22.1843395-04:00",
+        "Update": "2024-01-28T05:53:50.9374643-05:00",
+        "Label": "Board MSI Z790 Gaming Pro Wifi"
       }
     ],
     "Tarjeta Gráfica": [
