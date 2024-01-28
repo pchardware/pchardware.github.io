@@ -401,6 +401,24 @@
         "Update": "2024-01-27T21:40:58.2026221-05:00",
         "Discount": 14.0,
         "Label": "Kit i5-12600K + Asus TUF Z690-Plus Wifi + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 995.00,
+        "Features": [
+          "12va Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.2GHz",
+          "2x16",
+          "6200mhz",
+          "10xUSB",
+          "6xSATA",
+          "6xAudio"
+        ],
+        "Date": "2024-01-28T06:21:13.649846-05:00",
+        "Update": "2024-01-28T06:24:58.3322127-05:00",
+        "Discount": 15.0,
+        "Label": "Kit i9-12900K +H60x RGB Elite +Strix Z690-E Gaming Wifi +32GB Corsair RGB"
       }
     ]
   },
