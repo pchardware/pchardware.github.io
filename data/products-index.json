@@ -1814,17 +1814,6 @@
         "Label": "RAM DDR4 Silicon Power Turbine 32GB 3200mhz"
       },
       {
-        "Price": 105.00,
-        "Features": [
-          "2x16GB",
-          "CL18",
-          "Disipadas"
-        ],
-        "Date": "2023-12-28T14:07:31.4096308-05:00",
-        "Update": "2023-12-28T19:11:11.630322-05:00",
-        "Label": "RAM DDR4 G.SKILL Ripjaws V 32GB 4000Mhz"
-      },
-      {
         "Price": 155.00,
         "Features": [
           "2x32GB",
@@ -1880,17 +1869,6 @@
         "Label": "RAM DDR5 Corsair Vengeance RGB 64GB 5600mhz"
       },
       {
-        "Price": 125.00,
-        "Features": [
-          "2x16GB",
-          "CL18",
-          "Disipadas"
-        ],
-        "Date": "2023-12-28T14:07:27.1052026-05:00",
-        "Update": "2024-01-01T19:09:01.2453168-05:00",
-        "Label": "RAM DDR4 G.SKILL TridentZ RGB 32GB 4000mhz"
-      },
-      {
         "Price": 115.00,
         "Features": [
           "2x16GB",
@@ -1902,17 +1880,6 @@
         "Label": "RAM DDR5 Patriot Viper Venom 32GB 6200mhz"
       },
       {
-        "Price": 185.00,
-        "Features": [
-          "2x32",
-          "CL18",
-          "Disipadas"
-        ],
-        "Date": "2023-12-28T14:07:23.8098728-05:00",
-        "Update": "2024-01-16T06:24:00.8369189-05:00",
-        "Label": "RAM DDR4 G.Skill TridentZ RGB 64GB 3600mhz"
-      },
-      {
         "Price": 105.00,
         "Features": [
           "2x8",
@@ -1922,17 +1889,6 @@
         "Date": "2024-01-16T04:52:07.361935-05:00",
         "Update": "2024-01-16T06:24:00.8868611-05:00",
         "Label": "RAM DDR4 Corsair Dominator Platinum RGB 16GB 3600mhz White"
-      },
-      {
-        "Price": 255.00,
-        "Features": [
-          "2x32",
-          "CL32",
-          "Disipadas"
-        ],
-        "Date": "2024-01-16T04:52:56.2821241-05:00",
-        "Update": "2024-01-16T06:24:01.1458518-05:00",
-        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 64GB 6400mhz"
       },
       {
         "Price": 80.00,
@@ -1955,28 +1911,6 @@
         "Date": "2023-03-30T09:56:12.5688722-04:00",
         "Update": "2024-01-18T07:19:39.6516573-05:00",
         "Label": "DDR5 Corsair Vengeance RGB 32GB 6000mhz"
-      },
-      {
-        "Price": 95.00,
-        "Features": [
-          "2x8",
-          "CL18",
-          "Disipadas"
-        ],
-        "Date": "2024-01-18T07:08:40.5888674-05:00",
-        "Update": "2024-01-18T09:48:23.5724856-05:00",
-        "Label": "RAM DDR4 G.Skill TridentZ RGB 16GB 3600Mhz"
-      },
-      {
-        "Price": 115.00,
-        "Features": [
-          "2x16GB",
-          "CL16",
-          "Disipadas"
-        ],
-        "Date": "2023-03-09T12:28:03.6250501-05:00",
-        "Update": "2024-01-23T14:30:19.6439278-05:00",
-        "Label": "RAM DDR4 G.SKILL TridentZ RGB 32GB 3600mhz"
       },
       {
         "Price": 100.00,
@@ -2012,14 +1946,80 @@
         "Label": "RAM DDR5 Gigabyte AORUS RGB 32GB 6000mhz"
       },
       {
+        "Price": 105.00,
+        "Features": [
+          "2x16GB",
+          "CL18",
+          "Disipadas"
+        ],
+        "Date": "2023-12-28T14:07:31.4096308-05:00",
+        "Update": "2024-01-28T13:12:19.9086827-05:00",
+        "Label": "RAM DDR4 G.Skill Ripjaws V 32GB 4000Mhz"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "2x16GB",
+          "CL18",
+          "Disipadas"
+        ],
+        "Date": "2023-12-28T14:07:27.1052026-05:00",
+        "Update": "2024-01-28T13:12:19.9327608-05:00",
+        "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 4000mhz"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "2x32GB",
+          "CL18",
+          "Disipadas"
+        ],
+        "Date": "2023-12-28T14:07:23.8098728-05:00",
+        "Update": "2024-01-28T13:12:19.9574746-05:00",
+        "Label": "RAM DDR4 G.Skill TridentZ RGB 64GB 3600mhz"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "2x32GB",
+          "CL32",
+          "Disipadas"
+        ],
+        "Date": "2024-01-16T04:52:56.2821241-05:00",
+        "Update": "2024-01-28T13:12:19.99336-05:00",
+        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 64GB 6400mhz"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "2x8GB",
+          "CL18",
+          "Disipadas"
+        ],
+        "Date": "2024-01-18T07:08:40.5888674-05:00",
+        "Update": "2024-01-28T13:12:20.0494931-05:00",
+        "Label": "RAM DDR4 G.Skill TridentZ RGB 16GB 3600Mhz"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "2x16GB",
+          "CL16",
+          "Disipadas"
+        ],
+        "Date": "2023-03-09T12:28:03.6250501-05:00",
+        "Update": "2024-01-28T13:12:20.0778243-05:00",
+        "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 3600mhz"
+      },
+      {
         "Price": 245.00,
         "Features": [
-          "2x32",
+          "2x32GB",
           "CL36",
           "Disipadas"
         ],
         "Date": "2023-12-28T14:08:48.4813308-05:00",
-        "Update": "2024-01-28T06:49:14.6486278-05:00",
+        "Update": "2024-01-28T13:12:20.1104518-05:00",
         "Label": "RAM DDR5 G.Skill Trident Z5 RGB 64GB 6000mhz"
       }
     ],
