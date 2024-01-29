@@ -1665,15 +1665,15 @@
           "1550rpm",
           "58CFM",
           "25.6dB",
-          "1200",
-          "1700",
-          "17XX",
+          "LGA 1200",
+          "LGA 1700",
+          "LGA 17XX",
           "AM4",
           "AM5",
           "2xFan"
         ],
         "Date": "2024-01-27T21:38:36.4661258-05:00",
-        "Update": "2024-01-28T05:39:24.6099424-05:00",
+        "Update": "2024-01-29T01:33:18.3951298-05:00",
         "Label": "Disipador Thermalright Assassin X 120 R SE Plus"
       }
     ],
@@ -1996,6 +1996,17 @@
         "Date": "2023-12-28T14:08:48.4813308-05:00",
         "Update": "2024-01-28T13:12:20.1104518-05:00",
         "Label": "RAM DDR5 G.Skill Trident Z5 RGB 64GB 6000mhz"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "2x16GB",
+          "CL19",
+          "Disipadas"
+        ],
+        "Date": "2024-01-29T01:27:22.8011628-05:00",
+        "Update": "2024-01-29T01:30:46.7377262-05:00",
+        "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 4400mhz"
       }
     ],
     "Microprocesador": [
