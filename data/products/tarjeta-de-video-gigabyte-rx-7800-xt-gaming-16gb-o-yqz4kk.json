@@ -1,0 +1,30 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/tarjeta-de-video-gigabyte-rx-7800-xt-gaming-16gb-o-yqz4kk-1.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rx-7800-xt-gaming-16gb-o-yqz4kk-2.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rx-7800-xt-gaming-16gb-o-yqz4kk-3.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rx-7800-xt-gaming-16gb-o-yqz4kk-4.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rx-7800-xt-gaming-16gb-o-yqz4kk-5.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rx-7800-xt-gaming-16gb-o-yqz4kk-6.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rx-7800-xt-gaming-16gb-o-yqz4kk-7.webp"
+  ],
+  "Description": "Model\nBrand: GIGABYTE\nSeries: Gaming\nModel: GV-R78XTGAMING OC-16GD\n\n\nInterface\nInterface: PCI Express 4.0 x16\n\n\nChipset\nChipset Manufacturer: AMD\nGPU Series: AMD Radeon RX 7000 Series\nGPU: Radeon RX 7800 XT\nStream Processors: 3840 Stream Processors\n\n\nMemory\nEffective Memory Clock: 19500 MHz\nMemory Size: 16GB\nMemory Interface: 256-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 2 x HDMI\nDisplayPort: 2 x DisplayPort\n\n\nDetails\nMax Resolution: 7680 x 4320\nCooler: Triple Fans\nThermal Design Power: 263W\nRecommended PSU Wattage: 700W\nPower Connector: 2 x 8-Pin\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 302 mm\nSlot Width: 2.7 Slots",
+  "Price": 635.00,
+  "Features": [
+    "3xFan",
+    "2x8Pin",
+    "700WR",
+    "302mm",
+    "2xDisplay Port",
+    "2xHDMI",
+    "Radeon",
+    "AMD",
+    "GPU",
+    "Gráfica"
+  ],
+  "Date": "2024-01-30T08:59:15.7603943-05:00",
+  "Update": "2024-01-30T10:47:53.7156285-05:00",
+  "Label": "Tarjeta de Video Gigabyte RX 7800 XT Gaming 16GB OC"
+}
