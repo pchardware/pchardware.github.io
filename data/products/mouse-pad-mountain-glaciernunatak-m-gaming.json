@@ -1,0 +1,23 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Mouse",
+  "Images": [
+    "/images/products/mouse-pad-mountain-glaciernunatak-m-gaming-1.webp",
+    "/images/products/mouse-pad-mountain-glaciernunatak-m-gaming-2.webp",
+    "/images/products/mouse-pad-mountain-glaciernunatak-m-gaming-3.webp",
+    "/images/products/mouse-pad-mountain-glaciernunatak-m-gaming-4.webp",
+    "/images/products/mouse-pad-mountain-glaciernunatak-m-gaming-5.webp"
+  ],
+  "Description": "Model\nBrand: Mountain.GG\nSeries: Nunatak M\nModel: Nunatak M\nPart Number: MG-GLMP-M\n\n\nDetails\nType: Mousepad\nDimensions: 350×260 mm\nColor: Black\nThickness: 3mm\nSpecifications: Water-repellent Polyester + Natural Rubber\nSize: Medium",
+  "Price": 10.00,
+  "Features": [
+    "350×260mm",
+    "3mm",
+    "Reforzado",
+    "Water-repellent Polyester",
+    "Natural Rubber"
+  ],
+  "Date": "2024-01-30T08:59:28.008709-05:00",
+  "Update": "2024-01-30T10:47:53.746594-05:00",
+  "Label": "Mouse Pad Mountain Glacier/Nunatak M Gaming"
+}
