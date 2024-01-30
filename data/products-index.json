@@ -286,6 +286,38 @@
         "Update": "2024-01-30T08:16:51.3322782-05:00",
         "Discount": 5.0,
         "Label": "Kit i5-12600K +Disipador ARGB +Asus TUF Z690-Plus Wifi + 32GB DDR5 RGB 6000mhz"
+      },
+      {
+        "Price": 847.00,
+        "Features": [
+          "28 Hilos",
+          "5.6Ghz",
+          "Wifi",
+          "9xUSB",
+          "6xSATA",
+          "LGA 1700"
+        ],
+        "Date": "2023-12-02T02:36:56.1550959-05:00",
+        "Update": "2024-01-30T09:04:52.3283679-05:00",
+        "Discount": 8.0,
+        "Label": "Kit i7-14700K + Gigabyte Z790 UD AX + G.Skill Trident Z5 RGB 32GB DDR5"
+      },
+      {
+        "Price": 665.00,
+        "Features": [
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "2x16GB",
+          "Disipadas",
+          "CL36",
+          "9xUSB",
+          "6xSATA"
+        ],
+        "Date": "2023-12-20T07:43:30.281921-05:00",
+        "Update": "2024-01-30T09:04:52.3471346-05:00",
+        "Discount": 10.0,
+        "Label": "Kit i7-12700K +Gigabyte Z790 UD AX +32GB DDR5 G.Skill Trident Z5 RGB"
       }
     ],
     "Moderado": [
@@ -740,6 +772,20 @@
         "Date": "2023-09-11T09:09:09.8558272-04:00",
         "Update": "2024-01-18T07:19:39.8449798-05:00",
         "Label": "Fan Thermalright KIT ARGB"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "3xFan",
+          "1900rpm",
+          "76cfm",
+          "29dB",
+          "120mm",
+          "3pin"
+        ],
+        "Date": "2023-09-11T09:08:38.0826889-04:00",
+        "Update": "2024-01-30T09:04:52.2679927-05:00",
+        "Label": "Fan Kit Asus TUF Gaming TF120 ARGB +Controller"
       }
     ],
     "Fuente": [
@@ -988,6 +1034,36 @@
         "Date": "2024-01-26T05:15:20.8299369-05:00",
         "Update": "2024-01-26T05:35:26.9689757-05:00",
         "Label": "Fuente CORSAIR CX650M 650W"
+      },
+      {
+        "Price": 210.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "ATX 3.0",
+          "2x 4+4 EPS",
+          "71A",
+          "3x 6+2Pin",
+          "5x SATA"
+        ],
+        "Date": "2023-05-11T14:26:27.9739641-04:00",
+        "Update": "2024-01-30T09:04:52.2369107-05:00",
+        "Label": "Fuente Asus TUF 850W"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "ATX 3.0",
+          "2x 4+4 EPS",
+          "71A",
+          "4x 6+2Pin",
+          "12x SATA"
+        ],
+        "Date": "2023-09-26T11:28:55.5740236-04:00",
+        "Update": "2024-01-30T09:04:52.282462-05:00",
+        "Label": "Fuente Cooler Master MWE 850 V2"
       }
     ],
     "Disipador Líquido": [
@@ -1262,6 +1338,18 @@
         "Date": "2023-07-26T16:40:48.0920023-04:00",
         "Update": "2023-07-27T08:17:37.3850414-04:00",
         "Label": "HDD 3.5 Seagate Constellation 2TB SAS"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "128mb",
+          "7200rpm",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-05-11T14:17:30.8616693-04:00",
+        "Update": "2024-01-30T09:04:52.4145541-05:00",
+        "Label": "HDD 3.5 Seagate Constellation 4TB"
       }
     ],
     "Disco Sólido": [
@@ -1490,6 +1578,30 @@
         "Date": "2024-01-27T21:38:27.250846-05:00",
         "Update": "2024-01-28T05:39:24.5927026-05:00",
         "Label": "SSD M.2 HP FX900 Pro 512GB"
+      },
+      {
+        "Price": 110.00,
+        "Features": [
+          "7000mbs",
+          "700TBW",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-04-09T10:02:00.2968299-04:00",
+        "Update": "2024-01-30T09:04:52.2523933-05:00",
+        "Label": "SSD M.2 Corsair MP600 PRO NH 1TB"
+      },
+      {
+        "Price": 110.00,
+        "Features": [
+          "7400mbs",
+          "PCIe 4",
+          "1450tbw",
+          "NVMe"
+        ],
+        "Date": "2023-09-23T17:40:17.7101762-04:00",
+        "Update": "2024-01-30T09:04:52.3111969-05:00",
+        "Label": "SSD M.2 Team Group MP44 1TB"
       }
     ],
     "Disipador por Aire": [
@@ -2016,6 +2128,17 @@
         "Date": "2024-01-29T01:27:22.8011628-05:00",
         "Update": "2024-01-29T01:30:46.7377262-05:00",
         "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 4400mhz"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "2x16GB",
+          "Disipadas",
+          "CL36"
+        ],
+        "Date": "2023-05-11T08:37:56.7258334-04:00",
+        "Update": "2024-01-30T09:04:52.3625398-05:00",
+        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       }
     ],
     "Microprocesador": [
@@ -3148,6 +3271,56 @@
         "Date": "2023-12-19T06:42:41.7210728-05:00",
         "Update": "2024-01-25T19:26:52.2957582-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 3050 WindForce OC 8GB"
+      },
+      {
+        "Price": 330.00,
+        "Features": [
+          "8GB",
+          "3xFan",
+          "1x8Pin",
+          "550WR",
+          "274mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Tarjeta de Video"
+        ],
+        "Date": "2023-10-13T09:28:55.7781232-04:00",
+        "Update": "2024-01-30T09:04:52.2969095-05:00",
+        "Label": "Gráfica XFX Qick 308 RX 7600"
+      },
+      {
+        "Price": 345.00,
+        "Features": [
+          "3xFan",
+          "1x8Pin",
+          "550WR",
+          "274mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-10-16T10:24:33.0618949-04:00",
+        "Update": "2024-01-30T09:04:52.3786344-05:00",
+        "Label": "Tarjeta de Video Gigabyte RX 7600 8GB"
+      },
+      {
+        "Price": 630.00,
+        "Features": [
+          "2xFan",
+          "700WR",
+          "2x8Pin",
+          "3xDisplay Port",
+          "1xHDMI",
+          "281mm",
+          "AMD",
+          "Radeon",
+          "GPU"
+        ],
+        "Date": "2024-01-18T07:09:01.7565019-05:00",
+        "Update": "2024-01-30T09:04:52.3973734-05:00",
+        "Label": "Tarjeta de Video Saphire RX 7800 XT 16GB"
       }
     ]
   },
