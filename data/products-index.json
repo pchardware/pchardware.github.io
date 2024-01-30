@@ -1338,18 +1338,6 @@
         "Date": "2023-07-26T16:40:48.0920023-04:00",
         "Update": "2023-07-27T08:17:37.3850414-04:00",
         "Label": "HDD 3.5 Seagate Constellation 2TB SAS"
-      },
-      {
-        "Price": 95.00,
-        "Features": [
-          "128mb",
-          "7200rpm",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-05-11T14:17:30.8616693-04:00",
-        "Update": "2024-01-30T09:04:52.4145541-05:00",
-        "Label": "HDD 3.5 Seagate Constellation 4TB"
       }
     ],
     "Disco Sólido": [
