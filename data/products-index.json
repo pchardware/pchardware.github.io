@@ -879,27 +879,6 @@
         "Label": "Fuente EVGA 400W"
       },
       {
-        "Price": 255.00,
-        "Features": [
-          "ATX 3.0",
-          "100A",
-          "80+ Gold",
-          "Full Modular",
-          "Zero RPM",
-          "1x 16Pin",
-          "6x 6+2Pin",
-          "2x 4+4 EPS",
-          "7x SATA",
-          "4x PATA",
-          "150mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-10-18T06:47:22.7546286-04:00",
-        "Update": "2024-01-24T02:24:17.2624211-05:00",
-        "Label": "Fuente Corsair RM1200e 1200W"
-      },
-      {
         "Price": 215.00,
         "Features": [
           "ATX 3.0",
@@ -1338,284 +1317,6 @@
         "Date": "2023-07-26T16:40:48.0920023-04:00",
         "Update": "2023-07-27T08:17:37.3850414-04:00",
         "Label": "HDD 3.5 Seagate Constellation 2TB SAS"
-      }
-    ],
-    "Disco Sólido": [
-      {
-        "Price": 115.00,
-        "Features": [
-          "3500mbs",
-          "740tbw",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-08-21T08:57:54.5361201-04:00",
-        "Update": "2023-08-21T12:54:21.1326564-04:00",
-        "Label": "SSD M.2 Intel 670P 2TB"
-      },
-      {
-        "Price": 145.00,
-        "Features": [
-          "7000mbs",
-          "1400tbw",
-          "HeatSink",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-10-03T06:56:34.7397369-04:00",
-        "Update": "2024-01-23T14:30:19.5461421-05:00",
-        "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 2TB"
-      },
-      {
-        "Price": 75.00,
-        "Features": [
-          "2350mbs",
-          "210TBW",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-12-15T02:02:51.8715106-05:00",
-        "Update": "2024-01-24T02:06:55.6449616-05:00",
-        "Label": "SSD M.2 MSI SPatium M371 1TB"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "5000mbs",
-          "450TBW",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-09-11T09:08:58.7388503-04:00",
-        "Update": "2024-01-24T02:06:55.7446055-05:00",
-        "Label": "SSD M.2 Corsair MP600 CORE XT 2TB"
-      },
-      {
-        "Price": 100.00,
-        "Features": [
-          "7000mbs",
-          "700tbw",
-          "HeatSink",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-10-02T14:29:40.7946679-04:00",
-        "Update": "2024-01-24T02:11:20.6260134-05:00",
-        "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 1TB"
-      },
-      {
-        "Price": 90.00,
-        "Features": [
-          "3500mbs",
-          "1660TBW",
-          "PCIe3",
-          "NVMe"
-        ],
-        "Date": "2023-12-19T06:41:55.578723-05:00",
-        "Update": "2024-01-24T02:11:20.6523681-05:00",
-        "Label": "SSD M.2 TeamGroup MP34 1TB"
-      },
-      {
-        "Price": 60.00,
-        "Features": [
-          "2100mbs",
-          "200TBW",
-          "PCIe3",
-          "NVMe"
-        ],
-        "Date": "2023-12-07T13:20:39.5602767-05:00",
-        "Update": "2024-01-24T02:11:20.6730896-05:00",
-        "Label": "SSD M.2 HP EX900 500GB"
-      },
-      {
-        "Price": 80.00,
-        "Features": [
-          "3500mbs",
-          "600TBW",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-12-07T13:20:26.5920422-05:00",
-        "Update": "2024-01-24T02:11:20.7047976-05:00",
-        "Label": "SSD M.2 TeamGroup T-Force Z44L 1TB"
-      },
-      {
-        "Price": 70.00,
-        "Features": [
-          "2400mbs",
-          "80TBW",
-          "PCIe3",
-          "NVMe"
-        ],
-        "Date": "2023-11-27T09:55:03.5320741-05:00",
-        "Update": "2024-01-24T02:11:20.7310914-05:00",
-        "Label": "SSD M.2 WD Green SN350 960GB"
-      },
-      {
-        "Price": 55.00,
-        "Features": [
-          "530mbs",
-          "400tbw",
-          "SATA 3"
-        ],
-        "Date": "2023-06-07T13:42:02.617071-04:00",
-        "Update": "2024-01-24T02:11:20.7462015-05:00",
-        "Label": "SSD 2.5 Team Group CX1 480GB"
-      },
-      {
-        "Price": 70.00,
-        "Features": [
-          "560mbs",
-          "300TBW",
-          "SATA 3"
-        ],
-        "Date": "2023-11-24T09:48:53.7194411-05:00",
-        "Update": "2024-01-24T02:11:20.7642629-05:00",
-        "Label": "SSD 2.5 Acer SA100 960GB"
-      },
-      {
-        "Price": 75.00,
-        "Features": [
-          "2150mbs",
-          "500TBW",
-          "PCIe3",
-          "NVMe"
-        ],
-        "Date": "2024-01-17T02:39:31.0198684-05:00",
-        "Update": "2024-01-24T02:11:20.7956449-05:00",
-        "Label": "SSD M.2 HP EX900 1TB"
-      },
-      {
-        "Price": 60.00,
-        "Features": [
-          "540mbs",
-          "400TBW",
-          "SATA3"
-        ],
-        "Date": "2024-01-18T07:09:07.276212-05:00",
-        "Update": "2024-01-24T02:11:20.8206983-05:00",
-        "Label": "SSD 2.5 Team Group T-FORCE VULCAN Z 480GB"
-      },
-      {
-        "Price": 115.00,
-        "Features": [
-          "540mbs",
-          "1600tbw",
-          "SATA 3"
-        ],
-        "Date": "2023-07-26T16:46:54.426825-04:00",
-        "Update": "2024-01-24T02:11:20.8370924-05:00",
-        "Label": "SSD 2.5 Team Group CX2 2TB"
-      },
-      {
-        "Price": 65.00,
-        "Features": [
-          "3500mbs",
-          "200TBW",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-12-07T13:20:36.3839284-05:00",
-        "Update": "2024-01-24T02:11:20.8552861-05:00",
-        "Label": "SSD M.2 Solidigm P41 Plus 512GB"
-      },
-      {
-        "Price": 95.00,
-        "Features": [
-          "5000mbs",
-          "2000TBW",
-          "NVMe",
-          "PCIe4"
-        ],
-        "Date": "2024-01-23T14:30:33.8207872-05:00",
-        "Update": "2024-01-24T02:11:20.8828164-05:00",
-        "Label": "SSD M.2 AData Legend 850 1TB"
-      },
-      {
-        "Price": 90.00,
-        "Features": [
-          "5000mbs",
-          "600TBW",
-          "PCIe4",
-          "NVMe"
-        ],
-        "Date": "2024-01-23T14:30:49.6123113-05:00",
-        "Update": "2024-01-24T02:11:20.9055053-05:00",
-        "Label": "SSD M.2 Team Group MP44L 1TB"
-      },
-      {
-        "Price": 75.00,
-        "Features": [
-          "4800mbs",
-          "300TBW",
-          "PCIe4",
-          "NVMe"
-        ],
-        "Date": "2024-01-23T14:30:53.2121378-05:00",
-        "Update": "2024-01-24T02:11:20.9243016-05:00",
-        "Label": "SSD M.2 Corsair MP600 GS 500GB"
-      },
-      {
-        "Price": 80.00,
-        "Features": [
-          "7400mbs",
-          "300BTW",
-          "PCIe4",
-          "NVMe"
-        ],
-        "Date": "2024-01-27T21:38:27.250846-05:00",
-        "Update": "2024-01-28T05:39:24.5927026-05:00",
-        "Label": "SSD M.2 HP FX900 Pro 512GB"
-      },
-      {
-        "Price": 110.00,
-        "Features": [
-          "7000mbs",
-          "700TBW",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-04-09T10:02:00.2968299-04:00",
-        "Update": "2024-01-30T09:04:52.2523933-05:00",
-        "Label": "SSD M.2 Corsair MP600 PRO NH 1TB"
-      },
-      {
-        "Price": 110.00,
-        "Features": [
-          "7400mbs",
-          "PCIe 4",
-          "1450tbw",
-          "NVMe"
-        ],
-        "Date": "2023-09-23T17:40:17.7101762-04:00",
-        "Update": "2024-01-30T09:04:52.3111969-05:00",
-        "Label": "SSD M.2 Team Group MP44 1TB"
-      },
-      {
-        "Price": 90.00,
-        "Features": [
-          "7100mbs",
-          "350TBW",
-          "HeatSink",
-          "NVMe",
-          "PCIe 4"
-        ],
-        "Date": "2024-01-30T08:59:41.0005017-05:00",
-        "Update": "2024-01-30T10:47:53.7816595-05:00",
-        "Label": "SSD M.2 Corsair MP600 PRO LPX 500GB"
-      },
-      {
-        "Price": 115.00,
-        "Features": [
-          "7100mbs",
-          "700TBW",
-          "HeatSink",
-          "NVMe",
-          "PCIe 4"
-        ],
-        "Date": "2024-01-30T08:59:46.8640677-05:00",
-        "Update": "2024-01-30T10:47:53.8014196-05:00",
-        "Label": "SSD M.2 Corsair MP600 PRO LPX 1TB White"
       }
     ],
     "Disipador por Aire": [
@@ -3454,6 +3155,272 @@
         "Date": "2024-01-30T09:00:00.9284294-05:00",
         "Update": "2024-01-30T10:47:53.8561981-05:00",
         "Label": "Tarjeta de Video Asus TUF RTX 4060 Ti 8GB OC"
+      }
+    ],
+    "Disco Sólido": [
+      {
+        "Price": 145.00,
+        "Features": [
+          "7000mbs",
+          "1400tbw",
+          "HeatSink",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-10-03T06:56:34.7397369-04:00",
+        "Update": "2024-01-23T14:30:19.5461421-05:00",
+        "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 2TB"
+      },
+      {
+        "Price": 75.00,
+        "Features": [
+          "2350mbs",
+          "210TBW",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-12-15T02:02:51.8715106-05:00",
+        "Update": "2024-01-24T02:06:55.6449616-05:00",
+        "Label": "SSD M.2 MSI SPatium M371 1TB"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "5000mbs",
+          "450TBW",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-09-11T09:08:58.7388503-04:00",
+        "Update": "2024-01-24T02:06:55.7446055-05:00",
+        "Label": "SSD M.2 Corsair MP600 CORE XT 2TB"
+      },
+      {
+        "Price": 100.00,
+        "Features": [
+          "7000mbs",
+          "700tbw",
+          "HeatSink",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-10-02T14:29:40.7946679-04:00",
+        "Update": "2024-01-24T02:11:20.6260134-05:00",
+        "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 1TB"
+      },
+      {
+        "Price": 90.00,
+        "Features": [
+          "3500mbs",
+          "1660TBW",
+          "PCIe3",
+          "NVMe"
+        ],
+        "Date": "2023-12-19T06:41:55.578723-05:00",
+        "Update": "2024-01-24T02:11:20.6523681-05:00",
+        "Label": "SSD M.2 TeamGroup MP34 1TB"
+      },
+      {
+        "Price": 60.00,
+        "Features": [
+          "2100mbs",
+          "200TBW",
+          "PCIe3",
+          "NVMe"
+        ],
+        "Date": "2023-12-07T13:20:39.5602767-05:00",
+        "Update": "2024-01-24T02:11:20.6730896-05:00",
+        "Label": "SSD M.2 HP EX900 500GB"
+      },
+      {
+        "Price": 80.00,
+        "Features": [
+          "3500mbs",
+          "600TBW",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-12-07T13:20:26.5920422-05:00",
+        "Update": "2024-01-24T02:11:20.7047976-05:00",
+        "Label": "SSD M.2 TeamGroup T-Force Z44L 1TB"
+      },
+      {
+        "Price": 70.00,
+        "Features": [
+          "2400mbs",
+          "80TBW",
+          "PCIe3",
+          "NVMe"
+        ],
+        "Date": "2023-11-27T09:55:03.5320741-05:00",
+        "Update": "2024-01-24T02:11:20.7310914-05:00",
+        "Label": "SSD M.2 WD Green SN350 960GB"
+      },
+      {
+        "Price": 55.00,
+        "Features": [
+          "530mbs",
+          "400tbw",
+          "SATA 3"
+        ],
+        "Date": "2023-06-07T13:42:02.617071-04:00",
+        "Update": "2024-01-24T02:11:20.7462015-05:00",
+        "Label": "SSD 2.5 Team Group CX1 480GB"
+      },
+      {
+        "Price": 70.00,
+        "Features": [
+          "560mbs",
+          "300TBW",
+          "SATA 3"
+        ],
+        "Date": "2023-11-24T09:48:53.7194411-05:00",
+        "Update": "2024-01-24T02:11:20.7642629-05:00",
+        "Label": "SSD 2.5 Acer SA100 960GB"
+      },
+      {
+        "Price": 75.00,
+        "Features": [
+          "2150mbs",
+          "500TBW",
+          "PCIe3",
+          "NVMe"
+        ],
+        "Date": "2024-01-17T02:39:31.0198684-05:00",
+        "Update": "2024-01-24T02:11:20.7956449-05:00",
+        "Label": "SSD M.2 HP EX900 1TB"
+      },
+      {
+        "Price": 60.00,
+        "Features": [
+          "540mbs",
+          "400TBW",
+          "SATA3"
+        ],
+        "Date": "2024-01-18T07:09:07.276212-05:00",
+        "Update": "2024-01-24T02:11:20.8206983-05:00",
+        "Label": "SSD 2.5 Team Group T-FORCE VULCAN Z 480GB"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "540mbs",
+          "1600tbw",
+          "SATA 3"
+        ],
+        "Date": "2023-07-26T16:46:54.426825-04:00",
+        "Update": "2024-01-24T02:11:20.8370924-05:00",
+        "Label": "SSD 2.5 Team Group CX2 2TB"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "3500mbs",
+          "200TBW",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-12-07T13:20:36.3839284-05:00",
+        "Update": "2024-01-24T02:11:20.8552861-05:00",
+        "Label": "SSD M.2 Solidigm P41 Plus 512GB"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "5000mbs",
+          "2000TBW",
+          "NVMe",
+          "PCIe4"
+        ],
+        "Date": "2024-01-23T14:30:33.8207872-05:00",
+        "Update": "2024-01-24T02:11:20.8828164-05:00",
+        "Label": "SSD M.2 AData Legend 850 1TB"
+      },
+      {
+        "Price": 90.00,
+        "Features": [
+          "5000mbs",
+          "600TBW",
+          "PCIe4",
+          "NVMe"
+        ],
+        "Date": "2024-01-23T14:30:49.6123113-05:00",
+        "Update": "2024-01-24T02:11:20.9055053-05:00",
+        "Label": "SSD M.2 Team Group MP44L 1TB"
+      },
+      {
+        "Price": 75.00,
+        "Features": [
+          "4800mbs",
+          "300TBW",
+          "PCIe4",
+          "NVMe"
+        ],
+        "Date": "2024-01-23T14:30:53.2121378-05:00",
+        "Update": "2024-01-24T02:11:20.9243016-05:00",
+        "Label": "SSD M.2 Corsair MP600 GS 500GB"
+      },
+      {
+        "Price": 80.00,
+        "Features": [
+          "7400mbs",
+          "300BTW",
+          "PCIe4",
+          "NVMe"
+        ],
+        "Date": "2024-01-27T21:38:27.250846-05:00",
+        "Update": "2024-01-28T05:39:24.5927026-05:00",
+        "Label": "SSD M.2 HP FX900 Pro 512GB"
+      },
+      {
+        "Price": 110.00,
+        "Features": [
+          "7000mbs",
+          "700TBW",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-04-09T10:02:00.2968299-04:00",
+        "Update": "2024-01-30T09:04:52.2523933-05:00",
+        "Label": "SSD M.2 Corsair MP600 PRO NH 1TB"
+      },
+      {
+        "Price": 110.00,
+        "Features": [
+          "7400mbs",
+          "PCIe 4",
+          "1450tbw",
+          "NVMe"
+        ],
+        "Date": "2023-09-23T17:40:17.7101762-04:00",
+        "Update": "2024-01-30T09:04:52.3111969-05:00",
+        "Label": "SSD M.2 Team Group MP44 1TB"
+      },
+      {
+        "Price": 90.00,
+        "Features": [
+          "7100mbs",
+          "350TBW",
+          "HeatSink",
+          "NVMe",
+          "PCIe 4"
+        ],
+        "Date": "2024-01-30T08:59:41.0005017-05:00",
+        "Update": "2024-01-30T10:47:53.7816595-05:00",
+        "Label": "SSD M.2 Corsair MP600 PRO LPX 500GB"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "7100mbs",
+          "700TBW",
+          "HeatSink",
+          "NVMe",
+          "PCIe 4"
+        ],
+        "Date": "2024-01-30T08:59:46.8640677-05:00",
+        "Update": "2024-01-30T10:47:53.8014196-05:00",
+        "Label": "SSD M.2 Corsair MP600 PRO LPX 1TB White"
       }
     ]
   },
