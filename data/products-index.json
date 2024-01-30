@@ -2,14 +2,6 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 1640.00,
-        "Features": [],
-        "Date": "2024-01-19T08:22:45.7816025-05:00",
-        "Update": "2024-01-25T19:26:52.3123638-05:00",
-        "Discount": 22.0,
-        "Label": "PC RTX 3060 12GB OC +i5-12600K +Z790 UD AC + 32GB DDR5 +700W +Monitor 24\""
-      },
-      {
         "Price": 1875.00,
         "Features": [],
         "Date": "2024-01-28T05:43:33.1005182-05:00",
@@ -92,14 +84,6 @@
         "Update": "2024-01-25T11:05:38.5427929-05:00",
         "Discount": 20.0,
         "Label": "Torre RTX 3050 +i5-13500 +Z790 UD AC +32GB DDR5 RGB +1TB M.2 +700W +Chasis RGB"
-      },
-      {
-        "Price": 1605.00,
-        "Features": [],
-        "Date": "2024-01-20T03:20:56.4350845-05:00",
-        "Update": "2024-01-25T19:26:52.3267242-05:00",
-        "Discount": 20.0,
-        "Label": "Torre RTX 3060 12GB OC +i5-12600K +Strix Z690-E Gaming +32GB DDR5 +850W +1TB M.2"
       },
       {
         "Price": 1430.00,
@@ -3132,26 +3116,6 @@
         "Label": "Tarjeta de Video Asus ProArt RTX 4060 OC 8GB"
       },
       {
-        "Price": 350.00,
-        "Features": [
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "PCIe4",
-          "HDMI",
-          "3xDisplayPort",
-          "235mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica",
-          "DLSS"
-        ],
-        "Date": "2023-12-19T06:42:17.7775209-05:00",
-        "Update": "2024-01-25T19:26:52.2821379-05:00",
-        "Label": "Tarjeta de Video MSI RTX 3060 Ventus 2x 12GB OC"
-      },
-      {
         "Price": 295.00,
         "Features": [
           "2xFan",
@@ -4178,19 +4142,6 @@
         "Date": "2024-01-26T05:15:16.9831079-05:00",
         "Update": "2024-01-26T05:35:26.9532925-05:00",
         "Label": "Monitor Acer Nitro 32\" VA 1ms 165Hz"
-      }
-    ],
-    "Backup": [
-      {
-        "Price": 140.00,
-        "Features": [
-          "120V",
-          "255 Watts",
-          "6 Salidas"
-        ],
-        "Date": "2023-05-12T07:53:07.7837276-04:00",
-        "Update": "2023-12-26T05:53:14.6497358-05:00",
-        "Label": "Backup APC BE425M 425VA"
       }
     ]
   }
