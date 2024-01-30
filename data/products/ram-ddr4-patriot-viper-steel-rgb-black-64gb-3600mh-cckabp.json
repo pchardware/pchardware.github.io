@@ -1,0 +1,20 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Memoria RAM",
+  "Images": [
+    "/images/products/ram-ddr4-patriot-viper-steel-rgb-black-64gb-3600mh-cckabp-1.webp",
+    "/images/products/ram-ddr4-patriot-viper-steel-rgb-black-64gb-3600mh-cckabp-2.webp",
+    "/images/products/ram-ddr4-patriot-viper-steel-rgb-black-64gb-3600mh-cckabp-3.webp",
+    "/images/products/ram-ddr4-patriot-viper-steel-rgb-black-64gb-3600mh-cckabp-4.webp"
+  ],
+  "Description": "Model\nBrand: Patriot\nSeries: Viper Steel RGB\nModel: PVSR464G360C0K\n\n\nDetails\nCapacity: 64GB (2 x 32GB)\nType: 288-Pin PC RAM\nSpeed: DDR4 3600 (PC4 28800)\nCAS Latency: 20\nTiming: 20-26-26-46\nVoltage: 1.35V\nECC: No\nBuffered/Registered: Unbuffered\nBIOS/Performance Profile: Intel XMP 2.0\nColor: Black\nHeat Spreader: Yes\nFeatures: Aluminum heat spreader with golden Viper logo design element\nRGB Sync up with ASUS / ASRock / MSI / Gigabyte motherboard app\nFeature Overclock: XMP 2.0 support for automatic overclocking\nCompatibility: Tested across the latest Intel and AMD platforms for reliably fast performance\nRecommend Use: AMD &amp; Intel Compatible\nLED Color: RGB",
+  "Price": 170.00,
+  "Features": [
+    "2x32GB",
+    "3600mhz",
+    "CL20"
+  ],
+  "Date": "2024-01-30T08:59:11.1042106-05:00",
+  "Update": "2024-01-30T10:47:53.6999498-05:00",
+  "Label": "RAM DDR4 Patriot Viper Steel RGB Black 64GB 3600mhz"
+}
