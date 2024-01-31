@@ -1,0 +1,31 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-i5-12600k-disipador-argb-asus-tuf-z690-plus-32-fv5p8i-1.webp",
+    "/images/products/kit-i5-12600k-disipador-argb-asus-tuf-z690-plus-32-fv5p8i-2.webp",
+    "/images/products/kit-i5-12600k-disipador-argb-asus-tuf-z690-plus-32-fv5p8i-3.webp",
+    "/images/products/kit-i5-12600k-disipador-argb-asus-tuf-z690-plus-32-fv5p8i-4.webp",
+    "/images/products/kit-i5-12600k-disipador-argb-asus-tuf-z690-plus-32-fv5p8i-5.webp",
+    "/images/products/kit-i5-12600k-disipador-argb-asus-tuf-z690-plus-32-fv5p8i-6.webp",
+    "/images/products/kit-i5-12600k-disipador-argb-asus-tuf-z690-plus-32-fv5p8i-7.webp",
+    "/images/products/kit-i5-12600k-disipador-argb-asus-tuf-z690-plus-32-fv5p8i-8.webp",
+    "/images/products/kit-i5-12600k-disipador-argb-asus-tuf-z690-plus-32-fv5p8i-9.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12600K\n+ Disipador Cooler Master Hyper 212 Spectrum V3\n+ Board Asus TUF Z690-Plus Wifi\n+ DDR5 Corsair Vengeance RGB 32GB 6000mhz\n",
+  "Price": 695.00,
+  "Features": [
+    "16 Hilos",
+    "10 Core",
+    "4.9GHz",
+    "2x16GB",
+    "6000mhz",
+    "6xUSB",
+    "4xSATA",
+    "6xAudio"
+  ],
+  "Date": "2024-01-31T11:17:35.8342884-05:00",
+  "Update": "2024-01-31T11:21:59.7479747-05:00",
+  "Discount": 5.0,
+  "Label": "Kit i5-12600K +Disipador ARGB +ASUS TUF Z690-Plus +32GB DDR5 Corsair RGB 6000mhz"
+}
