@@ -318,6 +318,23 @@
         "Update": "2024-01-30T09:04:52.3471346-05:00",
         "Discount": 10.0,
         "Label": "Kit i7-12700K +Gigabyte Z790 UD AX +32GB DDR5 G.Skill Trident Z5 RGB"
+      },
+      {
+        "Price": 695.00,
+        "Features": [
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "2x16GB",
+          "6000mhz",
+          "6xUSB",
+          "4xSATA",
+          "6xAudio"
+        ],
+        "Date": "2024-01-31T11:17:35.8342884-05:00",
+        "Update": "2024-01-31T11:21:59.7479747-05:00",
+        "Discount": 5.0,
+        "Label": "Kit i5-12600K +Disipador ARGB +ASUS TUF Z690-Plus +32GB DDR5 Corsair RGB 6000mhz"
       }
     ],
     "Moderado": [
