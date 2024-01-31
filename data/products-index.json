@@ -2572,24 +2572,6 @@
         "Label": "Board MSI Pro B760M-P DDR4"
       },
       {
-        "Price": 255.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "6xAudio",
-          "6xUSB",
-          "4xSATA",
-          "6000mhz",
-          "LGA1700",
-          "HDMI",
-          "DisplayPort",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-05-11T07:56:36.6020035-04:00",
-        "Update": "2024-01-27T21:40:58.2580554-05:00",
-        "Label": "Board Asus TUF Z690-Plus Wifi DDR5"
-      },
-      {
         "Price": 275.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -2630,6 +2612,25 @@
         "Date": "2024-01-30T08:59:57.1766722-05:00",
         "Update": "2024-01-30T10:47:53.8369221-05:00",
         "Label": "Board Gigabyte Aorus Z790 Pro X"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "12va-13ra-14ta",
+          "DDR5",
+          "6000mhz",
+          "6xAudio",
+          "6xUSB",
+          "4xSATA",
+          "LGA1700",
+          "HDMI",
+          "DisplayPort",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-05-11T07:56:36.6020035-04:00",
+        "Update": "2024-01-31T10:18:54.8636956-05:00",
+        "Label": "Board Asus TUF Z690-Plus Wifi"
       }
     ],
     "Tarjeta Gráfica": [
