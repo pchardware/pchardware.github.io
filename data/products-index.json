@@ -129,36 +129,6 @@
         "Label": "Kit Ryzen 5 5600X +Gigabyte B550 Gaming X V2 + 32 DDR4 G.SKILL Ripjaws V 4000Mhz"
       },
       {
-        "Price": 820.00,
-        "Features": [
-          "24 Hilos",
-          "5.4GHz",
-          "Wifi",
-          "9xUSB",
-          "2x16GB"
-        ],
-        "Date": "2023-10-12T12:41:46.1677891-04:00",
-        "Update": "2024-01-17T08:52:54.3774812-05:00",
-        "Discount": 5.0,
-        "Label": "Kit i7-13700K +Board Z790 + 32GB 7200mhz DDR5 Trident Z5 RGB"
-      },
-      {
-        "Price": 950.00,
-        "Features": [
-          "32 Hilos",
-          "5.7GHz",
-          "Wifi",
-          "6000mhz",
-          "9xUSB",
-          "Dual Channel",
-          "2x16GB"
-        ],
-        "Date": "2023-10-12T12:29:08.0744086-04:00",
-        "Update": "2024-01-17T08:52:54.3955663-05:00",
-        "Discount": 5.0,
-        "Label": "Kit i9-13900K +Board Gigabyte Z790 + 32GB DDR5 G.Skill"
-      },
-      {
         "Price": 830.00,
         "Features": [
           "24 Hilos",
@@ -172,14 +142,6 @@
         "Update": "2024-01-17T08:52:54.5169322-05:00",
         "Discount": 10.0,
         "Label": "Kit Ryzen 9 7900X +Disipador Cooler Master +TUF Gaming B650-Plus +32GB DDR5"
-      },
-      {
-        "Price": 780.00,
-        "Features": [],
-        "Date": "2023-09-13T13:05:47.5051318-04:00",
-        "Update": "2024-01-18T07:19:39.7052882-05:00",
-        "Discount": 5.0,
-        "Label": "Kit i7-13700K + Gigabyte Z790 UD AX + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
       },
       {
         "Price": 725.00,
@@ -196,38 +158,6 @@
         "Update": "2024-01-21T06:11:51.4667257-05:00",
         "Discount": 5.0,
         "Label": "Kit Z790 UD AC +i5-12600K +Hyper212 Spectrum V3 +32GB DDR5 Patriot Viper 6200mhz"
-      },
-      {
-        "Price": 590.00,
-        "Features": [
-          "12va Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "6200mhz",
-          "2x16"
-        ],
-        "Date": "2023-12-03T16:44:54.2642136-05:00",
-        "Update": "2024-01-21T06:11:51.4825877-05:00",
-        "Discount": 5.0,
-        "Label": "Kit i5-12600K +Gigabyte Z790 UD AX + 32GB DDR5 Patriot Viper Venom"
-      },
-      {
-        "Price": 880.00,
-        "Features": [
-          "14 Core",
-          "20 hilos",
-          "5.3Ghz",
-          "2x32",
-          "7000mhz",
-          "9xUSB",
-          "6xSATA",
-          "Wifi"
-        ],
-        "Date": "2024-01-21T06:13:48.4745585-05:00",
-        "Update": "2024-01-21T08:22:46.4694485-05:00",
-        "Discount": 5.0,
-        "Label": "Kit i5-14600K +Cooler Hyper 620S Dual +Z790 UD AX +32GB DDR5 Corsair RGB 7000mhz"
       },
       {
         "Price": 742.00,
@@ -294,38 +224,6 @@
         "Update": "2024-01-30T08:16:51.3322782-05:00",
         "Discount": 5.0,
         "Label": "Kit i5-12600K +Disipador ARGB +Asus TUF Z690-Plus Wifi + 32GB DDR5 RGB 6000mhz"
-      },
-      {
-        "Price": 847.00,
-        "Features": [
-          "28 Hilos",
-          "5.6Ghz",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "LGA 1700"
-        ],
-        "Date": "2023-12-02T02:36:56.1550959-05:00",
-        "Update": "2024-01-30T09:04:52.3283679-05:00",
-        "Discount": 8.0,
-        "Label": "Kit i7-14700K + Gigabyte Z790 UD AX + G.Skill Trident Z5 RGB 32GB DDR5"
-      },
-      {
-        "Price": 665.00,
-        "Features": [
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "2x16GB",
-          "Disipadas",
-          "CL36",
-          "9xUSB",
-          "6xSATA"
-        ],
-        "Date": "2023-12-20T07:43:30.281921-05:00",
-        "Update": "2024-01-30T09:04:52.3471346-05:00",
-        "Discount": 10.0,
-        "Label": "Kit i7-12700K +Gigabyte Z790 UD AX +32GB DDR5 G.Skill Trident Z5 RGB"
       },
       {
         "Price": 695.00,
@@ -2473,27 +2371,6 @@
         "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
       },
       {
-        "Price": 240.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "7600mhz",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "LGA 1700",
-          "PS2",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-07-26T18:48:17.6030093-04:00",
-        "Update": "2024-01-24T14:50:31.140014-05:00",
-        "Label": "Board Gigabyte Z790 UD AX"
-      },
-      {
         "Price": 230.00,
         "Features": [
           "AM4",
@@ -2739,25 +2616,6 @@
         "Date": "2023-11-24T09:48:58.1744464-05:00",
         "Update": "2024-01-16T20:37:35.8512345-05:00",
         "Label": "Tarjeta de Video ZOTAC GeForce GTX 1070 8GB"
-      },
-      {
-        "Price": 260.00,
-        "Features": [
-          "2xFan",
-          "2x8Pin",
-          "500WR",
-          "300mm",
-          "1xHDMI",
-          "3xDisplayPort",
-          "1xDVI-D",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-01-16T04:52:17.9304887-05:00",
-        "Update": "2024-01-16T20:39:53.2741444-05:00",
-        "Label": "Tarjeta de Video ZOTAC GeForce GTX 1080 AMP 8GB"
       },
       {
         "Price": 290.00,
