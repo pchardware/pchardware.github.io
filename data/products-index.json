@@ -160,22 +160,6 @@
         "Label": "Kit Z790 UD AC +i5-12600K +Hyper212 Spectrum V3 +32GB DDR5 Patriot Viper 6200mhz"
       },
       {
-        "Price": 742.00,
-        "Features": [
-          "20 Hilos",
-          "12 Core",
-          "DDR5",
-          "7200mmhz",
-          "Wifi",
-          "4xSATA",
-          "LGA 1700"
-        ],
-        "Date": "2023-12-18T07:04:02.8192843-05:00",
-        "Update": "2024-01-23T14:30:19.7124026-05:00",
-        "Discount": 13.0,
-        "Label": "Kit i7-12700K +MSI Z790 Gaming Pro Wifi + 32GB DDR5 6000mhz G.Skill Ripjaws"
-      },
-      {
         "Price": 655.00,
         "Features": [
           "20 Hilos",
@@ -241,11 +225,79 @@
         "Update": "2024-01-31T11:21:59.7479747-05:00",
         "Discount": 5.0,
         "Label": "Kit i5-12600K +Disipador ARGB +ASUS TUF Z690-Plus +32GB DDR5 Corsair RGB 6000mhz"
+      },
+      {
+        "Price": 745.00,
+        "Features": [
+          "20 Hilos",
+          "12 Core",
+          "DDR5",
+          "7200mmhz",
+          "Wifi",
+          "4xSATA",
+          "LGA 1700"
+        ],
+        "Date": "2023-12-18T07:04:02.8192843-05:00",
+        "Update": "2024-02-01T09:34:53.9564526-05:00",
+        "Discount": 10.0,
+        "Label": "Kit i7-12700K +MSI Z790 Gaming Pro Wifi + 32GB DDR5 6000mhz G.Skill Ripjaws"
+      }
+    ],
+    "Entusiasta": [
+      {
+        "Price": 1100.00,
+        "Features": [],
+        "Date": "2023-09-13T12:55:25.5938136-04:00",
+        "Update": "2024-01-17T08:52:54.5422195-05:00",
+        "Discount": 5.0,
+        "Label": "Kit i9-13900K + Asus ROG Strix Z790-H Gaming Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
+      },
+      {
+        "Price": 995.00,
+        "Features": [
+          "12va Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.2GHz",
+          "2x16",
+          "6200mhz",
+          "10xUSB",
+          "6xSATA",
+          "6xAudio"
+        ],
+        "Date": "2024-01-28T06:21:13.649846-05:00",
+        "Update": "2024-01-28T06:24:58.3322127-05:00",
+        "Discount": 15.0,
+        "Label": "Kit i9-12900K +H60x RGB Elite +Strix Z690-E Gaming Wifi +32GB Corsair RGB"
+      },
+      {
+        "Price": 730.00,
+        "Features": [],
+        "Date": "2023-09-21T21:28:29.9270677-04:00",
+        "Update": "2024-02-01T09:33:37.2870746-05:00",
+        "Discount": 10.0,
+        "Label": "Kit i7-12700K + Asus ROG Strix Z690-E Gaming Wifi + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 620.00,
+        "Features": [],
+        "Date": "2023-09-15T11:12:21.3730357-04:00",
+        "Update": "2024-02-01T09:34:53.9827774-05:00",
+        "Discount": 10.0,
+        "Label": "Kit i5-12600K + Asus TUF Z690-Plus Wifi + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
       }
     ],
     "Moderado": [
       {
-        "Price": 433.00,
+        "Price": 505.00,
+        "Features": [],
+        "Date": "2023-09-13T13:44:12.3460847-04:00",
+        "Update": "2024-01-18T07:19:39.6721583-05:00",
+        "Discount": 5.0,
+        "Label": "Kit i5-13500 +Disipador + ASRock B660M PRO RS + DDR4 Silicon Power 16GB 3200mhz"
+      },
+      {
+        "Price": 435.00,
         "Features": [
           "12va Gen",
           "12 Hilos",
@@ -256,12 +308,11 @@
           "4xSATA"
         ],
         "Date": "2024-01-17T07:49:23.3718771-05:00",
-        "Update": "2024-01-17T08:09:13.8600903-05:00",
-        "Discount": 2.0,
+        "Update": "2024-02-01T09:34:53.8412428-05:00",
         "Label": "Kit Intel Core i5-12400 +Disipador +B660M PRO RS + 16GB DDR4 3600mhz"
       },
       {
-        "Price": 443.00,
+        "Price": 445.00,
         "Features": [
           "12 Hilos",
           "6 Core",
@@ -272,12 +323,12 @@
           "4xSATA"
         ],
         "Date": "2024-01-02T11:50:49.3478671-05:00",
-        "Update": "2024-01-17T08:09:59.6491236-05:00",
-        "Discount": 7.0,
+        "Update": "2024-02-01T09:34:53.8750275-05:00",
+        "Discount": 5.0,
         "Label": "Kit i5-12400 +Disipador +MSI Pro B760M-P DDR4 + 16GB DDR4 GeIL ORION 3600mhz"
       },
       {
-        "Price": 412.00,
+        "Price": 415.00,
         "Features": [
           "12 Hilos",
           "6 Core",
@@ -287,12 +338,11 @@
           "4xSATA"
         ],
         "Date": "2023-12-27T07:15:23.5179537-05:00",
-        "Update": "2024-01-17T08:52:54.4249011-05:00",
-        "Discount": 3.0,
+        "Update": "2024-02-01T09:34:53.9016487-05:00",
         "Label": "Kit i5-12400 +Z690M Phantom Gaming 4 + 16GB DDR4 Team T-Force Vulcan Z"
       },
       {
-        "Price": 424.00,
+        "Price": 425.00,
         "Features": [
           "12 Hilos",
           "6 Core",
@@ -301,35 +351,12 @@
           "6xUSB"
         ],
         "Date": "2023-12-27T07:20:29.0297441-05:00",
-        "Update": "2024-01-17T08:52:54.4496719-05:00",
-        "Discount": 6.0,
-        "Label": "Ryzen 5 5600G +Gigabyte B550 Gaming X V2 +16GB DDR4 Team T-Force Vulcan Z"
-      },
-      {
-        "Price": 505.00,
-        "Features": [],
-        "Date": "2023-09-13T13:44:12.3460847-04:00",
-        "Update": "2024-01-18T07:19:39.6721583-05:00",
+        "Update": "2024-02-01T09:34:53.9294147-05:00",
         "Discount": 5.0,
-        "Label": "Kit i5-13500 +Disipador + ASRock B660M PRO RS + DDR4 Silicon Power 16GB 3200mhz"
+        "Label": "Ryzen 5 5600G +Gigabyte B550 Gaming X V2 +16GB DDR4 Team T-Force Vulcan Z"
       }
     ],
     "Esencial": [
-      {
-        "Price": 337.00,
-        "Features": [
-          "4 Core",
-          "8 hilos",
-          "1x8",
-          "3200mhz",
-          "6x USB",
-          "4x SATA"
-        ],
-        "Date": "2023-12-31T09:22:20.8769433-05:00",
-        "Update": "2024-01-17T08:52:54.4690809-05:00",
-        "Discount": 3.0,
-        "Label": "KIT Ryzen 3 5300G +Disipador +Gigabyte B550 Gaming X V2 +8gb DDR4"
-      },
       {
         "Price": 365.00,
         "Features": [],
@@ -337,19 +364,6 @@
         "Update": "2024-01-18T07:19:39.6875688-05:00",
         "Discount": 5.0,
         "Label": "Kit i3-12100 +Disipador + ASRock B660M PRO RS + Silicon Power 16GB 3200mhz"
-      },
-      {
-        "Price": 347.00,
-        "Features": [
-          "8 Hilos",
-          "6xUSB",
-          "DDR4",
-          "Disipada"
-        ],
-        "Date": "2023-10-20T08:53:27.1294814-04:00",
-        "Update": "2024-01-18T07:19:39.9046948-05:00",
-        "Discount": 8.0,
-        "Label": "Kit Intel Core i3 12Gen +8GB RAM 3200mhz +Disipador +Board ASRock Z690"
       },
       {
         "Price": 380.00,
@@ -380,50 +394,33 @@
         "Date": "2024-02-01T09:07:08.9381263-05:00",
         "Update": "2024-02-01T09:09:47.1285333-05:00",
         "Label": "Kit i3-12100 +Disipador +B660M PRO RS +8GB DDR4 Team T-Force Vulcan Z 3200mhz"
-      }
-    ],
-    "Entusiasta": [
-      {
-        "Price": 1100.00,
-        "Features": [],
-        "Date": "2023-09-13T12:55:25.5938136-04:00",
-        "Update": "2024-01-17T08:52:54.5422195-05:00",
-        "Discount": 5.0,
-        "Label": "Kit i9-13900K + Asus ROG Strix Z790-H Gaming Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
       },
       {
-        "Price": 726.00,
-        "Features": [],
-        "Date": "2023-09-21T21:28:29.9270677-04:00",
-        "Update": "2024-01-23T14:30:19.5111807-05:00",
-        "Discount": 14.0,
-        "Label": "Kit i7-12700K + Asus ROG Strix Z690-E Gaming Wifi + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
-      },
-      {
-        "Price": 616.00,
-        "Features": [],
-        "Date": "2023-09-15T11:12:21.3730357-04:00",
-        "Update": "2024-01-27T21:40:58.2026221-05:00",
-        "Discount": 14.0,
-        "Label": "Kit i5-12600K + Asus TUF Z690-Plus Wifi + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
-      },
-      {
-        "Price": 995.00,
+        "Price": 340.00,
         "Features": [
-          "12va Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.2GHz",
-          "2x16",
-          "6200mhz",
-          "10xUSB",
-          "6xSATA",
-          "6xAudio"
+          "4 Core",
+          "8 hilos",
+          "1x8",
+          "3200mhz",
+          "6x USB",
+          "4x SATA"
         ],
-        "Date": "2024-01-28T06:21:13.649846-05:00",
-        "Update": "2024-01-28T06:24:58.3322127-05:00",
-        "Discount": 15.0,
-        "Label": "Kit i9-12900K +H60x RGB Elite +Strix Z690-E Gaming Wifi +32GB Corsair RGB"
+        "Date": "2023-12-31T09:22:20.8769433-05:00",
+        "Update": "2024-02-01T09:33:12.2105349-05:00",
+        "Label": "KIT Ryzen 3 5300G +Disipador +Gigabyte B550 Gaming X V2 +8gb DDR4"
+      },
+      {
+        "Price": 350.00,
+        "Features": [
+          "8 Hilos",
+          "6xUSB",
+          "DDR4",
+          "Disipada"
+        ],
+        "Date": "2023-10-20T08:53:27.1294814-04:00",
+        "Update": "2024-02-01T09:33:12.2474022-05:00",
+        "Discount": 5.0,
+        "Label": "Kit Intel Core i3 12Gen +8GB RAM 3200mhz +Disipador +Board ASRock Z690"
       }
     ]
   },
