@@ -467,6 +467,21 @@
         "Update": "2024-01-18T07:19:39.9176591-05:00",
         "Discount": 5.0,
         "Label": "Kit Intel Core i3 12Gen +16GB RAM DDR4 3200mhz +Disipador +Board MSI B760M"
+      },
+      {
+        "Price": 340.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "8GB",
+          "3200mhz",
+          "6xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-02-01T09:07:08.9381263-05:00",
+        "Update": "2024-02-01T09:09:47.1285333-05:00",
+        "Label": "Kit i3-12100 +Disipador +B660M PRO RS +8GB DDR4 Team T-Force Vulcan Z 3200mhz"
       }
     ],
     "Entusiasta": [
