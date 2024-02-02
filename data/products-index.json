@@ -8,32 +8,6 @@
         "Update": "2024-01-28T05:53:50.9832089-05:00",
         "Discount": 22.0,
         "Label": "PC RTX 4060 OC 8GB +i7-12700K +MSI Z790 Gaming +32GB DDR5 +750W +Monitor 24\""
-      },
-      {
-        "Price": 1170.00,
-        "Features": [],
-        "Date": "2024-01-28T07:04:57.9216201-05:00",
-        "Update": "2024-01-28T07:07:01.4259672-05:00",
-        "Discount": 17.0,
-        "Label": "PC GTX 1070 8GB +i3-12100 +B660M PRO RS +16GB DDR4 +500GB M.2 +700W +Monitor 24\""
-      }
-    ],
-    "Multimedia": [
-      {
-        "Price": 945.00,
-        "Features": [],
-        "Date": "2024-02-01T09:36:50.6762685-05:00",
-        "Update": "2024-02-01T09:42:25.7610957-05:00",
-        "Discount": 12.0,
-        "Label": "PC i3-12100 +B660M PRO RS +8GB DDR4 3200mhz +500GB M.2 +500W +Monitor 24\""
-      },
-      {
-        "Price": 985.00,
-        "Features": [],
-        "Date": "2024-01-28T07:09:38.8814766-05:00",
-        "Update": "2024-02-01T10:46:48.6934928-05:00",
-        "Discount": 12.0,
-        "Label": "PC i3-12100 +B660M PRO RS +16GB DDR4 +500GB M.2 +500W +Monitor 24\""
       }
     ]
   },
@@ -72,24 +46,6 @@
         "Label": "Torre i3-12100 +B660M PRO RS +8GB DDR4 +500GB M.2 +500W +Chasis RGB Black"
       }
     ],
-    "Pro": [
-      {
-        "Price": 1977.00,
-        "Features": [],
-        "Date": "2024-01-20T03:10:54.4028768-05:00",
-        "Update": "2024-01-20T03:15:09.9988495-05:00",
-        "Discount": 18.0,
-        "Label": "Torre RX 6800 16GB +Ryzen 9 7900X +32GB DDR5 +1TB M.2 +1000W +Chasis Fractal"
-      },
-      {
-        "Price": 1555.00,
-        "Features": [],
-        "Date": "2024-01-21T07:46:06.4251149-05:00",
-        "Update": "2024-01-21T08:22:46.4977217-05:00",
-        "Discount": 10.0,
-        "Label": "Torre i9-12900K +Strix Z690-E Gaming +64GB DDR5 6000mhz +1TB m.2 +850W +Chasis"
-      }
-    ],
     "Entusiasta": [
       {
         "Price": 3380.00,
@@ -124,14 +80,6 @@
         "Update": "2024-01-28T05:53:50.9694204-05:00",
         "Discount": 20.0,
         "Label": "Torre RTX 4060 OC 8GB +i7-12700K +MSI Z790 Gaming +32GB DDR5 +512GB M.2 +750W"
-      },
-      {
-        "Price": 885.00,
-        "Features": [],
-        "Date": "2024-01-28T07:03:53.1951253-05:00",
-        "Update": "2024-01-28T07:07:01.4103385-05:00",
-        "Discount": 10.0,
-        "Label": "Torre GTX 1070 8GB +i3-12100 +B660M PRO RS +16GB DDR4 +500GB M.2 +700W +Chasis"
       }
     ]
   },
@@ -2657,22 +2605,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Gaming OC 8GB"
       },
       {
-        "Price": 215.00,
-        "Features": [
-          "2xFan",
-          "1x8Pin",
-          "500WR",
-          "210mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-11-24T09:48:58.1744464-05:00",
-        "Update": "2024-01-16T20:37:35.8512345-05:00",
-        "Label": "Tarjeta de Video ZOTAC GeForce GTX 1070 8GB"
-      },
-      {
         "Price": 290.00,
         "Features": [
           "2xFan",
@@ -2791,23 +2723,6 @@
         "Date": "2023-08-29T08:42:19.8132967-04:00",
         "Update": "2024-01-17T06:27:45.6790168-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4080 Gaming OC 16GB"
-      },
-      {
-        "Price": 1150.00,
-        "Features": [
-          "DLSS3",
-          "850WR",
-          "342mm",
-          "1x16Pin",
-          "3xFan",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-11-05T07:48:09.3555923-05:00",
-        "Update": "2024-01-17T06:27:45.7081792-05:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4080 Eagle OC 16GB"
       },
       {
         "Price": 375.00,
@@ -3055,25 +2970,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Super Gaming OC 12GB"
       },
       {
-        "Price": 520.00,
-        "Features": [
-          "DLSS3",
-          "3xFan",
-          "1x8Pin",
-          "650WR",
-          "300mm",
-          "3xDisplay Port",
-          "1xHDMI",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-01-30T09:00:00.9284294-05:00",
-        "Update": "2024-01-30T10:47:53.8561981-05:00",
-        "Label": "Tarjeta de Video Asus TUF RTX 4060 Ti 8GB OC"
-      },
-      {
         "Price": 285.00,
         "Features": [
           "2xFan",
@@ -3127,19 +3023,6 @@
         "Date": "2023-09-11T09:08:58.7388503-04:00",
         "Update": "2024-01-24T02:06:55.7446055-05:00",
         "Label": "SSD M.2 Corsair MP600 CORE XT 2TB"
-      },
-      {
-        "Price": 100.00,
-        "Features": [
-          "7000mbs",
-          "700tbw",
-          "HeatSink",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-10-02T14:29:40.7946679-04:00",
-        "Update": "2024-01-24T02:11:20.6260134-05:00",
-        "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 1TB"
       },
       {
         "Price": 90.00,
@@ -4112,23 +3995,6 @@
         "Label": "Auriculares Asus ROG Fusion II 300 Gaming"
       },
       {
-        "Price": 87.00,
-        "Features": [
-          "7.1",
-          "Micrófono",
-          "3.5mm",
-          "50mm",
-          "280g",
-          "USB",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-07-09T16:45:38.4980752-04:00",
-        "Update": "2023-12-07T12:39:13.8139505-05:00",
-        "Label": "Auriculares Corsair HS65 Surround"
-      },
-      {
         "Price": 67.00,
         "Features": [
           "Inalámbrico",
@@ -4386,21 +4252,6 @@
         "Date": "2023-12-28T14:08:53.0334804-05:00",
         "Update": "2024-01-18T10:29:16.5258104-05:00",
         "Label": "Monitor AOC 24\" 165Hz VA 1ms"
-      },
-      {
-        "Price": 215.00,
-        "Features": [
-          "1080p",
-          "8Bit",
-          "300nit",
-          "FHD",
-          "Flat",
-          "DP",
-          "HDMI"
-        ],
-        "Date": "2024-01-16T04:52:49.0259735-05:00",
-        "Update": "2024-01-18T10:29:16.5451809-05:00",
-        "Label": "Monitor MSI Pro 24\" VA 100Hz 1ms"
       },
       {
         "Price": 265.00,
