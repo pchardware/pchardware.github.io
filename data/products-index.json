@@ -1010,6 +1010,21 @@
         "Date": "2023-09-26T11:28:55.5740236-04:00",
         "Update": "2024-02-01T19:13:00.3183122-05:00",
         "Label": "Fuente Cooler Master MWE 850 V2"
+      },
+      {
+        "Price": 170.00,
+        "Features": [
+          "ATX 3.0",
+          "80+ Bronze",
+          "Modular",
+          "4x 6+2Pin",
+          "1x 16Pin",
+          "150mm",
+          "PSU"
+        ],
+        "Date": "2024-02-01T21:14:37.9187585-05:00",
+        "Update": "2024-02-02T07:15:36.8533917-05:00",
+        "Label": "Fuente Thermaltake Smart BM3 850W"
       }
     ],
     "Disipador Líquido": [
@@ -2164,6 +2179,22 @@
         "Date": "2023-10-16T10:24:13.8080802-04:00",
         "Update": "2024-02-01T21:13:39.215635-05:00",
         "Label": "Micro Intel Core i5-12600KF"
+      },
+      {
+        "Price": 180.00,
+        "Features": [
+          "14va Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.7GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2024-02-01T21:14:34.2946119-05:00",
+        "Update": "2024-02-02T07:15:36.8365517-05:00",
+        "Label": "Micro Intel Core i3-14100"
       }
     ],
     "Chasis": [
@@ -3335,6 +3366,18 @@
         "Date": "2024-01-16T04:52:23.8101464-05:00",
         "Update": "2024-02-01T21:13:39.2765161-05:00",
         "Label": "SSD M.2 Acer Predator GM3500 1TB"
+      },
+      {
+        "Price": 60.00,
+        "Features": [
+          "2200mbs",
+          "110TBW",
+          "NVMe",
+          "PCIe3"
+        ],
+        "Date": "2024-02-01T21:14:27.8314934-05:00",
+        "Update": "2024-02-02T07:15:36.8163605-05:00",
+        "Label": "SSD M.2 MSI SPatium M371 500GB"
       }
     ]
   },
