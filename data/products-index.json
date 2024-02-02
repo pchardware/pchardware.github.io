@@ -2,7 +2,7 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 1875.00,
+        "Price": 1855.00,
         "Features": [],
         "Date": "2024-01-28T05:43:33.1005182-05:00",
         "Update": "2024-01-28T05:53:50.9832089-05:00",
@@ -10,7 +10,7 @@
         "Label": "PC RTX 4060 OC 8GB +i7-12700K +MSI Z790 Gaming +32GB DDR5 +750W +Monitor 24\""
       },
       {
-        "Price": 1180.00,
+        "Price": 1170.00,
         "Features": [],
         "Date": "2024-01-28T07:04:57.9216201-05:00",
         "Update": "2024-01-28T07:07:01.4259672-05:00",
@@ -20,7 +20,7 @@
     ],
     "Multimedia": [
       {
-        "Price": 955.00,
+        "Price": 945.00,
         "Features": [],
         "Date": "2024-02-01T09:36:50.6762685-05:00",
         "Update": "2024-02-01T09:42:25.7610957-05:00",
@@ -28,7 +28,7 @@
         "Label": "PC i3-12100 +B660M PRO RS +8GB DDR4 3200mhz +500GB M.2 +500W +Monitor 24\""
       },
       {
-        "Price": 995.00,
+        "Price": 985.00,
         "Features": [],
         "Date": "2024-01-28T07:09:38.8814766-05:00",
         "Update": "2024-02-01T10:46:48.6934928-05:00",
@@ -40,7 +40,7 @@
   "Torres": {
     "Multimedia": [
       {
-        "Price": 672.00,
+        "Price": 667.00,
         "Features": [],
         "Date": "2024-01-15T06:35:20.8270124-05:00",
         "Update": "2024-01-17T08:53:26.6547865-05:00",
@@ -48,7 +48,7 @@
         "Label": "Torre Ryzen 3 5300G +Disipador +B550 Gaming X V2 +8GB DDR4 +SSD 480GB +600W"
       },
       {
-        "Price": 765.00,
+        "Price": 755.00,
         "Features": [],
         "Date": "2024-01-29T02:20:18.8229134-05:00",
         "Update": "2024-01-29T07:20:14.8933007-05:00",
@@ -56,7 +56,7 @@
         "Label": "Torre Ryzen 5 5600G +B550 Gaming X V2 +16GB DDR4 +500GB M.2 +700W +Chasis RGB"
       },
       {
-        "Price": 650.00,
+        "Price": 640.00,
         "Features": [],
         "Date": "2024-02-01T08:56:11.2827635-05:00",
         "Update": "2024-02-01T09:02:47.9719475-05:00",
@@ -64,7 +64,7 @@
         "Label": "Torre Ryzen 3 5300G +B550M Pro SE +16GB DDR4 +500GB M.2 +600W + Chasis RGB"
       },
       {
-        "Price": 665.00,
+        "Price": 655.00,
         "Features": [],
         "Date": "2024-02-01T09:36:10.7393442-05:00",
         "Update": "2024-02-01T09:42:25.7464389-05:00",
@@ -74,7 +74,7 @@
     ],
     "Pro": [
       {
-        "Price": 2012.00,
+        "Price": 1977.00,
         "Features": [],
         "Date": "2024-01-20T03:10:54.4028768-05:00",
         "Update": "2024-01-20T03:15:09.9988495-05:00",
@@ -82,7 +82,7 @@
         "Label": "Torre RX 6800 16GB +Ryzen 9 7900X +32GB DDR5 +1TB M.2 +1000W +Chasis Fractal"
       },
       {
-        "Price": 1575.00,
+        "Price": 1555.00,
         "Features": [],
         "Date": "2024-01-21T07:46:06.4251149-05:00",
         "Update": "2024-01-21T08:22:46.4977217-05:00",
@@ -92,7 +92,7 @@
     ],
     "Entusiasta": [
       {
-        "Price": 3400.00,
+        "Price": 3380.00,
         "Features": [],
         "Date": "2024-01-24T02:48:12.1792626-05:00",
         "Update": "2024-01-24T02:53:17.2640265-05:00",
@@ -102,7 +102,7 @@
     ],
     "Gamer": [
       {
-        "Price": 1335.00,
+        "Price": 1330.00,
         "Features": [],
         "Date": "2024-01-25T09:31:15.80875-05:00",
         "Update": "2024-01-25T11:05:38.5427929-05:00",
@@ -110,7 +110,7 @@
         "Label": "Torre RTX 3050 +i5-13500 +Z790 UD AC +32GB DDR5 RGB +1TB M.2 +700W +Chasis RGB"
       },
       {
-        "Price": 1430.00,
+        "Price": 1420.00,
         "Features": [],
         "Date": "2024-01-26T14:39:25.243504-05:00",
         "Update": "2024-01-27T12:47:11.2249856-05:00",
@@ -118,7 +118,7 @@
         "Label": "Torre RTX 4060 OC 8GB +i5-12600K +Z790 UD AC +32GB DDR5 +500GB M.2 +650W +Chasis"
       },
       {
-        "Price": 1550.00,
+        "Price": 1530.00,
         "Features": [],
         "Date": "2024-01-28T05:42:42.2115064-05:00",
         "Update": "2024-01-28T05:53:50.9694204-05:00",
@@ -126,7 +126,7 @@
         "Label": "Torre RTX 4060 OC 8GB +i7-12700K +MSI Z790 Gaming +32GB DDR5 +512GB M.2 +750W"
       },
       {
-        "Price": 895.00,
+        "Price": 885.00,
         "Features": [],
         "Date": "2024-01-28T07:03:53.1951253-05:00",
         "Update": "2024-01-28T07:07:01.4103385-05:00",
@@ -138,14 +138,14 @@
   "Kits": {
     "Rendimiento": [
       {
-        "Price": 480.00,
+        "Price": 470.00,
         "Features": [],
         "Date": "2024-01-07T08:26:02.8642888-05:00",
         "Update": "2024-01-07T08:28:07.9656855-05:00",
         "Label": "Kit Ryzen 5 5600X +Gigabyte B550 Gaming X V2 + 32 DDR4 G.SKILL Ripjaws V 4000Mhz"
       },
       {
-        "Price": 830.00,
+        "Price": 795.00,
         "Features": [
           "24 Hilos",
           "12 Core",
@@ -160,7 +160,7 @@
         "Label": "Kit Ryzen 9 7900X +Disipador Cooler Master +TUF Gaming B650-Plus +32GB DDR5"
       },
       {
-        "Price": 725.00,
+        "Price": 715.00,
         "Features": [],
         "Date": "2024-01-18T06:49:42.6624255-05:00",
         "Update": "2024-01-21T06:11:51.4522915-05:00",
@@ -168,7 +168,7 @@
         "Label": "Kit ROG Strix Z690-E Gaming Wifi +i5-12600K +Assassin King 120 ARGB +32GB DDR5"
       },
       {
-        "Price": 655.00,
+        "Price": 645.00,
         "Features": [],
         "Date": "2024-01-18T06:51:05.7533499-05:00",
         "Update": "2024-01-21T06:11:51.4667257-05:00",
@@ -176,7 +176,7 @@
         "Label": "Kit Z790 UD AC +i5-12600K +Hyper212 Spectrum V3 +32GB DDR5 Patriot Viper 6200mhz"
       },
       {
-        "Price": 655.00,
+        "Price": 630.00,
         "Features": [
           "20 Hilos",
           "5GHz",
@@ -192,7 +192,7 @@
         "Label": "Kit i7-12700K +Board Asus TUF Z690 + 32GB DDR5 G.Skill"
       },
       {
-        "Price": 760.00,
+        "Price": 740.00,
         "Features": [
           "20 Hilos",
           "12 Core",
@@ -209,7 +209,7 @@
         "Label": "Kit i7-12700K +Hyper 212 Spectrum V3 +MSI Z790 Gaming Pro Wifi +32GB DDR5 RGB"
       },
       {
-        "Price": 685.00,
+        "Price": 660.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -226,7 +226,7 @@
         "Label": "Kit i5-12600K +Disipador ARGB +Asus TUF Z690-Plus Wifi + 32GB DDR5 RGB 6000mhz"
       },
       {
-        "Price": 695.00,
+        "Price": 670.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -243,7 +243,7 @@
         "Label": "Kit i5-12600K +Disipador ARGB +ASUS TUF Z690-Plus +32GB DDR5 Corsair RGB 6000mhz"
       },
       {
-        "Price": 745.00,
+        "Price": 725.00,
         "Features": [
           "20 Hilos",
           "12 Core",
@@ -261,7 +261,7 @@
     ],
     "Entusiasta": [
       {
-        "Price": 1100.00,
+        "Price": 1085.00,
         "Features": [],
         "Date": "2023-09-13T12:55:25.5938136-04:00",
         "Update": "2024-01-17T08:52:54.5422195-05:00",
@@ -269,7 +269,7 @@
         "Label": "Kit i9-13900K + Asus ROG Strix Z790-H Gaming Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
       },
       {
-        "Price": 995.00,
+        "Price": 980.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -287,7 +287,7 @@
         "Label": "Kit i9-12900K +H60x RGB Elite +Strix Z690-E Gaming Wifi +32GB Corsair RGB"
       },
       {
-        "Price": 730.00,
+        "Price": 720.00,
         "Features": [],
         "Date": "2023-09-21T21:28:29.9270677-04:00",
         "Update": "2024-02-01T09:33:37.2870746-05:00",
@@ -295,7 +295,7 @@
         "Label": "Kit i7-12700K + Asus ROG Strix Z690-E Gaming Wifi + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
       },
       {
-        "Price": 620.00,
+        "Price": 600.00,
         "Features": [],
         "Date": "2023-09-15T11:12:21.3730357-04:00",
         "Update": "2024-02-01T09:34:53.9827774-05:00",
@@ -305,7 +305,7 @@
     ],
     "Moderado": [
       {
-        "Price": 505.00,
+        "Price": 495.00,
         "Features": [],
         "Date": "2023-09-13T13:44:12.3460847-04:00",
         "Update": "2024-01-18T07:19:39.6721583-05:00",
@@ -313,7 +313,7 @@
         "Label": "Kit i5-13500 +Disipador + ASRock B660M PRO RS + DDR4 Silicon Power 16GB 3200mhz"
       },
       {
-        "Price": 435.00,
+        "Price": 425.00,
         "Features": [
           "12va Gen",
           "12 Hilos",
@@ -328,7 +328,7 @@
         "Label": "Kit Intel Core i5-12400 +Disipador +B660M PRO RS + 16GB DDR4 3600mhz"
       },
       {
-        "Price": 445.00,
+        "Price": 440.00,
         "Features": [
           "12 Hilos",
           "6 Core",
@@ -358,7 +358,7 @@
         "Label": "Kit i5-12400 +Z690M Phantom Gaming 4 + 16GB DDR4 Team T-Force Vulcan Z"
       },
       {
-        "Price": 425.00,
+        "Price": 420.00,
         "Features": [
           "12 Hilos",
           "6 Core",
@@ -374,7 +374,7 @@
     ],
     "Esencial": [
       {
-        "Price": 365.00,
+        "Price": 350.00,
         "Features": [],
         "Date": "2023-09-13T13:47:32.3099333-04:00",
         "Update": "2024-01-18T07:19:39.6875688-05:00",
@@ -382,7 +382,7 @@
         "Label": "Kit i3-12100 +Disipador + ASRock B660M PRO RS + Silicon Power 16GB 3200mhz"
       },
       {
-        "Price": 380.00,
+        "Price": 370.00,
         "Features": [
           "2x8GB",
           "8 hilos",
@@ -397,7 +397,7 @@
         "Label": "Kit Intel Core i3 12Gen +16GB RAM DDR4 3200mhz +Disipador +Board MSI B760M"
       },
       {
-        "Price": 340.00,
+        "Price": 330.00,
         "Features": [
           "8 Hilos",
           "4 Core",
@@ -412,7 +412,7 @@
         "Label": "Kit i3-12100 +Disipador +B660M PRO RS +8GB DDR4 Team T-Force Vulcan Z 3200mhz"
       },
       {
-        "Price": 340.00,
+        "Price": 335.00,
         "Features": [
           "4 Core",
           "8 hilos",
@@ -426,7 +426,7 @@
         "Label": "KIT Ryzen 3 5300G +Disipador +Gigabyte B550 Gaming X V2 +8gb DDR4"
       },
       {
-        "Price": 350.00,
+        "Price": 345.00,
         "Features": [
           "8 Hilos",
           "6xUSB",
@@ -677,7 +677,7 @@
         "Label": "Fan Uphere 12BK3"
       },
       {
-        "Price": 60.00,
+        "Price": 55.00,
         "Features": [
           "8xSATA",
           "Interno",
@@ -1030,7 +1030,7 @@
         "Label": "Kit Líquido Thermaltake Pacific C360 Ddc"
       },
       {
-        "Price": 245.00,
+        "Price": 240.00,
         "Features": [
           "2500rpm",
           "81cfm",
@@ -1051,7 +1051,7 @@
         "Label": "Disipador Líquido Asus ROG Strix LC II 360 ARGB"
       },
       {
-        "Price": 115.00,
+        "Price": 110.00,
         "Features": [
           "360mm",
           "3xFan",
@@ -1066,7 +1066,7 @@
         "Label": "Disipador Líquido SAMA CY 360mm ARGB"
       },
       {
-        "Price": 185.00,
+        "Price": 180.00,
         "Features": [
           "2000rpm",
           "79cfm",
@@ -1084,7 +1084,7 @@
         "Label": "Disipador Líquido MSI MAG Core Liquid 360R V2"
       },
       {
-        "Price": 145.00,
+        "Price": 140.00,
         "Features": [
           "1750rpm",
           "72cfm",
@@ -1102,7 +1102,7 @@
         "Label": "Disipador Líquido CoolerMaster MasterLiquid 240L Core ARGB White"
       },
       {
-        "Price": 260.00,
+        "Price": 255.00,
         "Features": [
           "2200rpm",
           "71cfm",
@@ -1123,7 +1123,7 @@
         "Label": "Disipador Líquido ASUS ROG RYUO III 240 ARGB"
       },
       {
-        "Price": 175.00,
+        "Price": 170.00,
         "Features": [
           "1750rpm",
           "72cfm",
@@ -1141,7 +1141,7 @@
         "Label": "Disipador Líquido Cooler Master MasterLiquid 360L Core"
       },
       {
-        "Price": 190.00,
+        "Price": 185.00,
         "Features": [
           "2xFan",
           "2500rpm",
@@ -1161,7 +1161,7 @@
         "Label": "Disipador Líquido ASUS ROG Strix LC II 240 ARGB"
       },
       {
-        "Price": 250.00,
+        "Price": 245.00,
         "Features": [
           "2500rpm",
           "81cfm",
@@ -1219,7 +1219,7 @@
         "Label": "Corsair Hydro XC7 RGB PRO CPU Water Block"
       },
       {
-        "Price": 160.00,
+        "Price": 155.00,
         "Features": [
           "1500rpm",
           "48cfm",
@@ -1287,7 +1287,7 @@
         "Label": "Disipador Intel Generic Plus"
       },
       {
-        "Price": 70.00,
+        "Price": 65.00,
         "Features": [
           "ARGB",
           "4xPipes",
@@ -1326,7 +1326,7 @@
         "Label": "Disipador Intel Stock Original"
       },
       {
-        "Price": 65.00,
+        "Price": 60.00,
         "Features": [
           "5 Head Pipes",
           "1550rpm",
@@ -1350,7 +1350,7 @@
         "Label": "Disipador Thermalright Assassin King 120 SE White"
       },
       {
-        "Price": 105.00,
+        "Price": 100.00,
         "Features": [
           "ARGB",
           "Dual Tower",
@@ -1367,7 +1367,7 @@
         "Label": "Disipador Cooler Master Hyper 620S Dual"
       },
       {
-        "Price": 85.00,
+        "Price": 80.00,
         "Features": [
           "ARGB",
           "4 Head Pipes",
@@ -1386,7 +1386,7 @@
         "Label": "Disipador Cooler Master 212 Halo White"
       },
       {
-        "Price": 60.00,
+        "Price": 55.00,
         "Features": [
           "5 Head Pipes",
           "1550rpm",
@@ -1409,7 +1409,7 @@
         "Label": "Disipador Thermalright Assassin King 120 SE ARGB"
       },
       {
-        "Price": 165.00,
+        "Price": 160.00,
         "Features": [
           "Dual Tower",
           "6 Head Pipes",
@@ -1427,7 +1427,7 @@
         "Label": "Disipador Noctua NH-D15S Chromax Black"
       },
       {
-        "Price": 55.00,
+        "Price": 50.00,
         "Features": [
           "ARGB",
           "4xPipes",
@@ -1448,7 +1448,7 @@
         "Label": "Disipador ID-COOLING SE-214-XT ARGB Black"
       },
       {
-        "Price": 75.00,
+        "Price": 70.00,
         "Features": [
           "4xPipes",
           "1550rpm",
@@ -1468,7 +1468,7 @@
     ],
     "Memoria RAM": [
       {
-        "Price": 115.00,
+        "Price": 110.00,
         "Features": [
           "2x16GB",
           "CL40",
@@ -1479,7 +1479,7 @@
         "Label": "RAM DDR5 Gigabyte AORUS 32GB 5200mhz"
       },
       {
-        "Price": 120.00,
+        "Price": 115.00,
         "Features": [
           "2x16GB",
           "CL36",
@@ -1490,7 +1490,7 @@
         "Label": "RAM DDR5 G.Skill Flare X5 32GB 6000mhz"
       },
       {
-        "Price": 140.00,
+        "Price": 135.00,
         "Features": [
           "2x16GB",
           "CL36",
@@ -1501,7 +1501,7 @@
         "Label": "RAM DDR5 Corsair Vengenance RGB 32GB 6000mhz White"
       },
       {
-        "Price": 175.00,
+        "Price": 170.00,
         "Features": [
           "CL34",
           "2x16GB",
@@ -1512,7 +1512,7 @@
         "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
       },
       {
-        "Price": 140.00,
+        "Price": 135.00,
         "Features": [
           "2x16GB",
           "CL40",
@@ -1534,7 +1534,7 @@
         "Label": "RAM DDR5 G.Skill Ripjaws S5 16GB 6000mhz"
       },
       {
-        "Price": 120.00,
+        "Price": 115.00,
         "Features": [
           "2x16GB",
           "Disipadas",
@@ -1556,7 +1556,7 @@
         "Label": "RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz"
       },
       {
-        "Price": 160.00,
+        "Price": 155.00,
         "Features": [
           "2x16GB",
           "CL36",
@@ -1567,7 +1567,7 @@
         "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 7000mhz"
       },
       {
-        "Price": 90.00,
+        "Price": 85.00,
         "Features": [
           "2x16GB",
           "CL16",
@@ -1578,7 +1578,7 @@
         "Label": "RAM DDR4 Silicon Power Turbine 32GB 3200mhz"
       },
       {
-        "Price": 155.00,
+        "Price": 150.00,
         "Features": [
           "2x32GB",
           "CL22",
@@ -1589,7 +1589,7 @@
         "Label": "RAM DDR4 Crucial Pro 64GB 3200mhz"
       },
       {
-        "Price": 95.00,
+        "Price": 90.00,
         "Features": [
           "2x16GB",
           "CL18",
@@ -1600,7 +1600,7 @@
         "Label": "RAM DDR4 GeIL ORION 32GB 3600mhz"
       },
       {
-        "Price": 70.00,
+        "Price": 65.00,
         "Features": [
           "2x8GB",
           "CL18",
@@ -1611,7 +1611,7 @@
         "Label": "RAM DDR4 GeIL ORION 16GB 3600mhz"
       },
       {
-        "Price": 65.00,
+        "Price": 60.00,
         "Features": [
           "2x8GB",
           "Disipadas",
@@ -1622,7 +1622,7 @@
         "Label": "RAM DDR4 Silicon Power 16GB 3200mhz"
       },
       {
-        "Price": 215.00,
+        "Price": 210.00,
         "Features": [
           "2x32",
           "CL36",
@@ -1633,7 +1633,7 @@
         "Label": "RAM DDR5 Corsair Vengeance RGB 64GB 5600mhz"
       },
       {
-        "Price": 115.00,
+        "Price": 110.00,
         "Features": [
           "2x16GB",
           "Disipadas",
@@ -1644,7 +1644,7 @@
         "Label": "RAM DDR5 Patriot Viper Venom 32GB 6200mhz"
       },
       {
-        "Price": 105.00,
+        "Price": 100.00,
         "Features": [
           "2x8",
           "CL18",
@@ -1655,7 +1655,7 @@
         "Label": "RAM DDR4 Corsair Dominator Platinum RGB 16GB 3600mhz White"
       },
       {
-        "Price": 80.00,
+        "Price": 75.00,
         "Features": [
           "2x8GB",
           "Disipadas",
@@ -1666,7 +1666,7 @@
         "Label": "RAM DDR4 GeIL ORION RGB 16GB 3600mhz"
       },
       {
-        "Price": 135.00,
+        "Price": 130.00,
         "Features": [
           "CL36",
           "2x16GB",
@@ -1677,7 +1677,7 @@
         "Label": "DDR5 Corsair Vengeance RGB 32GB 6000mhz"
       },
       {
-        "Price": 100.00,
+        "Price": 95.00,
         "Features": [
           "2x16",
           "CL18",
@@ -1688,7 +1688,7 @@
         "Label": "RAM DDR4 Corsair Vengeance LPX 32GB 3600mhz"
       },
       {
-        "Price": 180.00,
+        "Price": 175.00,
         "Features": [
           "2x16",
           "CL36",
@@ -1699,7 +1699,7 @@
         "Label": "RAM DDR5 Corsair Dominator Platinum RGB 32GB 6200mhz"
       },
       {
-        "Price": 150.00,
+        "Price": 145.00,
         "Features": [
           "2x16",
           "CL40",
@@ -1710,7 +1710,7 @@
         "Label": "RAM DDR5 Gigabyte AORUS RGB 32GB 6000mhz"
       },
       {
-        "Price": 105.00,
+        "Price": 100.00,
         "Features": [
           "2x16GB",
           "CL18",
@@ -1721,7 +1721,7 @@
         "Label": "RAM DDR4 G.Skill Ripjaws V 32GB 4000Mhz"
       },
       {
-        "Price": 125.00,
+        "Price": 120.00,
         "Features": [
           "2x16GB",
           "CL18",
@@ -1732,7 +1732,7 @@
         "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 4000mhz"
       },
       {
-        "Price": 185.00,
+        "Price": 180.00,
         "Features": [
           "2x32GB",
           "CL18",
@@ -1743,7 +1743,7 @@
         "Label": "RAM DDR4 G.Skill TridentZ RGB 64GB 3600mhz"
       },
       {
-        "Price": 255.00,
+        "Price": 250.00,
         "Features": [
           "2x32GB",
           "CL32",
@@ -1754,7 +1754,7 @@
         "Label": "RAM DDR5 G.Skill Trident Z5 RGB 64GB 6400mhz"
       },
       {
-        "Price": 95.00,
+        "Price": 90.00,
         "Features": [
           "2x8GB",
           "CL18",
@@ -1765,7 +1765,7 @@
         "Label": "RAM DDR4 G.Skill TridentZ RGB 16GB 3600Mhz"
       },
       {
-        "Price": 115.00,
+        "Price": 110.00,
         "Features": [
           "2x16GB",
           "CL16",
@@ -1776,7 +1776,7 @@
         "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 3600mhz"
       },
       {
-        "Price": 245.00,
+        "Price": 240.00,
         "Features": [
           "2x32GB",
           "CL36",
@@ -1787,7 +1787,7 @@
         "Label": "RAM DDR5 G.Skill Trident Z5 RGB 64GB 6000mhz"
       },
       {
-        "Price": 135.00,
+        "Price": 130.00,
         "Features": [
           "2x16GB",
           "CL19",
@@ -1798,7 +1798,7 @@
         "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 4400mhz"
       },
       {
-        "Price": 145.00,
+        "Price": 140.00,
         "Features": [
           "2x16GB",
           "Disipadas",
@@ -1809,7 +1809,7 @@
         "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       },
       {
-        "Price": 170.00,
+        "Price": 165.00,
         "Features": [
           "2x32GB",
           "3600mhz",
@@ -1820,7 +1820,7 @@
         "Label": "RAM DDR4 Patriot Viper Steel RGB Black 64GB 3600mhz"
       },
       {
-        "Price": 85.00,
+        "Price": 80.00,
         "Features": [
           "2x8GB",
           "CL16",
@@ -1833,7 +1833,7 @@
     ],
     "Microprocesador": [
       {
-        "Price": 395.00,
+        "Price": 380.00,
         "Features": [
           "Radeon Graphics",
           "AM5",
@@ -1870,7 +1870,7 @@
         "Label": "Micro Intel Core i7-13700K"
       },
       {
-        "Price": 175.00,
+        "Price": 170.00,
         "Features": [
           "Radeon Graphics",
           "AM4",
@@ -1904,7 +1904,7 @@
         "Label": "Micro Intel Core i5-12400 +Disipador"
       },
       {
-        "Price": 595.00,
+        "Price": 585.00,
         "Features": [
           "13ra Gen",
           "32 Hilos",
@@ -1921,7 +1921,7 @@
         "Label": "Micro Intel Core i9-13900K"
       },
       {
-        "Price": 190.00,
+        "Price": 185.00,
         "Features": [
           "AM4",
           "6 Core",
@@ -1937,7 +1937,7 @@
         "Label": "Micro AMD Ryzen 5 5600X +Disipador"
       },
       {
-        "Price": 120.00,
+        "Price": 115.00,
         "Features": [
           "Radeon Graphics",
           "AM4",
@@ -1955,7 +1955,7 @@
         "Label": "Micro AMD Ryzen 3 5300G +Disipador"
       },
       {
-        "Price": 380.00,
+        "Price": 350.00,
         "Features": [
           "14va Gen",
           "14 Core",
@@ -1972,7 +1972,7 @@
         "Label": "Micro Intel Core i5-14600K"
       },
       {
-        "Price": 175.00,
+        "Price": 170.00,
         "Features": [
           "13ra Gen",
           "8 Hilos",
@@ -1988,7 +1988,7 @@
         "Label": "Micro Intel Core i3-13100 +Disipador"
       },
       {
-        "Price": 135.00,
+        "Price": 130.00,
         "Features": [
           "12va Gen",
           "8 Hilos",
@@ -2053,7 +2053,7 @@
         "Label": "Micro Intel Core i5-13500 +Disipador"
       },
       {
-        "Price": 385.00,
+        "Price": 375.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -2070,7 +2070,7 @@
         "Label": "Micro Intel Core i9-12900K"
       },
       {
-        "Price": 155.00,
+        "Price": 150.00,
         "Features": [
           "12va Gen",
           "8 Hilos",
@@ -2086,7 +2086,7 @@
         "Label": "Micro Intel Core i3-12100 +Disipador"
       },
       {
-        "Price": 470.00,
+        "Price": 465.00,
         "Features": [
           "14va Gen",
           "28 Hilos",
@@ -2102,7 +2102,7 @@
         "Label": "Micro Intel Core i7-14700K"
       },
       {
-        "Price": 675.00,
+        "Price": 665.00,
         "Features": [
           "14va Gen",
           "32 Hilos",
@@ -2118,7 +2118,7 @@
         "Label": "Micro Intel Core i9-14900K"
       },
       {
-        "Price": 290.00,
+        "Price": 285.00,
         "Features": [
           "12va Gen",
           "20 Hilos",
@@ -2286,7 +2286,7 @@
         "Label": "Board ASRock Z690M Phantom Gaming 4"
       },
       {
-        "Price": 300.00,
+        "Price": 295.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "DDR5",
@@ -2328,7 +2328,7 @@
         "Label": "Board Asus ROG Strix Z790-A Gaming Wifi II"
       },
       {
-        "Price": 235.00,
+        "Price": 225.00,
         "Features": [
           "AM5",
           "DDR5",
@@ -2425,7 +2425,7 @@
         "Label": "Board Gigabyte B550 Gaming X V2"
       },
       {
-        "Price": 150.00,
+        "Price": 145.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "6xUSB",
@@ -2466,7 +2466,7 @@
         "Label": "Board Gigabyte Z790 UD AC"
       },
       {
-        "Price": 140.00,
+        "Price": 135.00,
         "Features": [
           "AM4",
           "4533mhz",
@@ -2504,7 +2504,7 @@
         "Label": "Board MSI Pro B760M-P DDR4"
       },
       {
-        "Price": 275.00,
+        "Price": 270.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "DDR5",
@@ -2524,7 +2524,7 @@
         "Label": "Board MSI Z790 Gaming Pro Wifi"
       },
       {
-        "Price": 255.00,
+        "Price": 240.00,
         "Features": [
           "12va-13ra-14ta",
           "DDR5",
@@ -2834,7 +2834,7 @@
         "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X White OC 8GB"
       },
       {
-        "Price": 370.00,
+        "Price": 365.00,
         "Features": [
           "3xFan",
           "1x8Pin",
