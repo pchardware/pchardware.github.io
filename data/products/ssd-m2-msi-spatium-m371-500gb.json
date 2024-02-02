@@ -1,0 +1,20 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disco Sólido",
+  "Images": [
+    "/images/products/ssd-m2-msi-spatium-m371-500gb-1.webp",
+    "/images/products/ssd-m2-msi-spatium-m371-500gb-2.webp",
+    "/images/products/ssd-m2-msi-spatium-m371-500gb-3.webp"
+  ],
+  "Description": "SPATIUM M371 NVMe M.2 500GB\n\nDisco Duro: Disco SSD\nMarca: MSI\nNúmero de modelo del producto: S78-440K160-P83\nDimensiones del producto: 9,45 x 27,17 x 0,98 pulgadas\nDimensiones del artículo Largo x Ancho x Altura: 9.45 x 27.17 x 0.98 pulgadas\nColor: Negro -\nTamaño de memoria flash: 500 GB\nFabricante: MSI",
+  "Price": 60.00,
+  "Features": [
+    "2200mbs",
+    "110TBW",
+    "NVMe",
+    "PCIe3"
+  ],
+  "Date": "2024-02-01T21:14:27.8314934-05:00",
+  "Update": "2024-02-02T07:15:36.8163605-05:00",
+  "Label": "SSD M.2 MSI SPatium M371 500GB"
+}
