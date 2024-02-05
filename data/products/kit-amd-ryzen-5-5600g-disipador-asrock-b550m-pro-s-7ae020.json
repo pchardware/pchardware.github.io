@@ -1,0 +1,27 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Moderado",
+  "Images": [
+    "/images/products/kit-amd-ryzen-5-5600g-disipador-asrock-b550m-pro-s-7ae020-1.webp",
+    "/images/products/kit-amd-ryzen-5-5600g-disipador-asrock-b550m-pro-s-7ae020-2.webp",
+    "/images/products/kit-amd-ryzen-5-5600g-disipador-asrock-b550m-pro-s-7ae020-3.webp",
+    "/images/products/kit-amd-ryzen-5-5600g-disipador-asrock-b550m-pro-s-7ae020-4.webp",
+    "/images/products/kit-amd-ryzen-5-5600g-disipador-asrock-b550m-pro-s-7ae020-5.webp",
+    "/images/products/kit-amd-ryzen-5-5600g-disipador-asrock-b550m-pro-s-7ae020-6.webp",
+    "/images/products/kit-amd-ryzen-5-5600g-disipador-asrock-b550m-pro-s-7ae020-7.webp"
+  ],
+  "Description": "+ Micro AMD Ryzen 5 5600G +Disipador\n+ Board ASRock B550M Pro SE\n",
+  "Price": 305.00,
+  "Features": [
+    "12 Hilos",
+    "6 Core",
+    "4.4GHz",
+    "6xUSB",
+    "4xSATA",
+    "3xAudio",
+    "Micro ATX"
+  ],
+  "Date": "2024-02-05T07:57:04.7206219-05:00",
+  "Update": "2024-02-05T08:20:20.4973956-05:00",
+  "Label": "Kit AMD Ryzen 5 5600G +Disipador + ASRock B550M Pro SE"
+}
