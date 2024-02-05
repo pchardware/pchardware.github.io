@@ -12,9 +12,9 @@
   "Price": 135.00,
   "Features": [
     "AM4",
+    "DDR4",
     "4533mhz",
     "6xUSB",
-    "DDR4",
     "4xSATA",
     "Micro ATX",
     "HDMI",
@@ -24,6 +24,6 @@
     "MOBO"
   ],
   "Date": "2023-10-11T10:56:39.5272184-04:00",
-  "Update": "2024-01-24T14:50:31.2187141-05:00",
+  "Update": "2024-02-05T08:20:20.4469141-05:00",
   "Label": "Board ASRock B550M Pro SE"
 }
