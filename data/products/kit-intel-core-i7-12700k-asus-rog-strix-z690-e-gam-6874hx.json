@@ -1,0 +1,25 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-intel-core-i7-12700k-asus-rog-strix-z690-e-gam-6874hx-1.webp",
+    "/images/products/kit-intel-core-i7-12700k-asus-rog-strix-z690-e-gam-6874hx-2.webp",
+    "/images/products/kit-intel-core-i7-12700k-asus-rog-strix-z690-e-gam-6874hx-3.webp",
+    "/images/products/kit-intel-core-i7-12700k-asus-rog-strix-z690-e-gam-6874hx-4.webp",
+    "/images/products/kit-intel-core-i7-12700k-asus-rog-strix-z690-e-gam-6874hx-5.webp"
+  ],
+  "Description": "+ Micro Intel Core i7-12700K\n+ Board Asus ROG Strix Z690-E Gaming Wifi\n",
+  "Price": 600.00,
+  "Features": [
+    "20 Hilos",
+    "12 Core",
+    "5GHz",
+    "10xUSB",
+    "6xAudio",
+    "6xSATA",
+    "Wifi"
+  ],
+  "Date": "2024-02-05T08:00:08.1283876-05:00",
+  "Update": "2024-02-05T08:20:20.6366797-05:00",
+  "Label": "Kit Intel Core i7-12700K + Asus ROG Strix Z690-E Gaming Wifi"
+}
