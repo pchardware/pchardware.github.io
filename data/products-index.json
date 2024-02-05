@@ -223,6 +223,79 @@
         "Update": "2024-02-01T09:34:53.9564526-05:00",
         "Discount": 10.0,
         "Label": "Kit i7-12700K +MSI Z790 Gaming Pro Wifi + 32GB DDR5 6000mhz G.Skill Ripjaws"
+      },
+      {
+        "Price": 370.00,
+        "Features": [
+          "6 Core",
+          "12 Hilos",
+          "4.6GHz",
+          "6xUSB",
+          "4xSATA",
+          "3xAudio"
+        ],
+        "Date": "2024-02-05T07:57:41.8196233-05:00",
+        "Update": "2024-02-05T08:20:20.5312825-05:00",
+        "Label": "Kit AMD Ryzen 5 5600X +Disipador + Gigabyte B550 Gaming X V2"
+      },
+      {
+        "Price": 415.00,
+        "Features": [
+          "6 Core",
+          "12 Hilos",
+          "4.6GHz",
+          "6xSATA",
+          "7xUSB",
+          "6xAudio"
+        ],
+        "Date": "2024-02-05T07:57:55.4555632-05:00",
+        "Update": "2024-02-05T08:20:20.5483328-05:00",
+        "Label": "Kit AMD Ryzen 5 5600X +Disipador + Gigabyte X570S Gaming X"
+      },
+      {
+        "Price": 405.00,
+        "Features": [
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "6xUSB",
+          "4xSata",
+          "3xAudio",
+          "Micro ATX"
+        ],
+        "Date": "2024-02-05T07:59:02.4078293-05:00",
+        "Update": "2024-02-05T08:20:20.6039573-05:00",
+        "Label": "Kit Intel Core i5-12600K + ASRock Z690M Phantom Gaming 4"
+      },
+      {
+        "Price": 475.00,
+        "Features": [
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "9xUSB",
+          "6xSATA",
+          "3xAudio",
+          "Wifi"
+        ],
+        "Date": "2024-02-05T07:59:43.6879613-05:00",
+        "Update": "2024-02-05T08:20:20.6197442-05:00",
+        "Label": "Kit Intel Core i5-12600K + Gigabyte Z790 UD AC"
+      },
+      {
+        "Price": 600.00,
+        "Features": [
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "10xUSB",
+          "6xAudio",
+          "6xSATA",
+          "Wifi"
+        ],
+        "Date": "2024-02-05T08:00:08.1283876-05:00",
+        "Update": "2024-02-05T08:20:20.6366797-05:00",
+        "Label": "Kit Intel Core i7-12700K + Asus ROG Strix Z690-E Gaming Wifi"
       }
     ],
     "Entusiasta": [
@@ -350,6 +423,65 @@
         "Update": "2024-02-01T21:13:39.2394837-05:00",
         "Discount": 5.0,
         "Label": "Kit 12Gen i5-12600KF +ASRock Z690 +8GB DDR4 Vulcan Z"
+      },
+      {
+        "Price": 305.00,
+        "Features": [
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "6xUSB",
+          "4xSATA",
+          "3xAudio",
+          "Micro ATX"
+        ],
+        "Date": "2024-02-05T07:57:04.7206219-05:00",
+        "Update": "2024-02-05T08:20:20.4973956-05:00",
+        "Label": "Kit AMD Ryzen 5 5600G +Disipador + ASRock B550M Pro SE"
+      },
+      {
+        "Price": 355.00,
+        "Features": [
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "6xUSB",
+          "4xSATA",
+          "3xAudio"
+        ],
+        "Date": "2024-02-05T07:57:28.3125304-05:00",
+        "Update": "2024-02-05T08:20:20.5118047-05:00",
+        "Label": "Kit AMD Ryzen 5 5600G +Disipador + Gigabyte B550 Gaming X V2"
+      },
+      {
+        "Price": 360.00,
+        "Features": [
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "6xUSB",
+          "4xSata",
+          "3xAudio",
+          "Micro ATX"
+        ],
+        "Date": "2024-02-05T07:58:24.1845325-05:00",
+        "Update": "2024-02-05T08:20:20.5670214-05:00",
+        "Label": "Kit Intel Core i5-12400 +Disipador + ASRock B660M PRO RS"
+      },
+      {
+        "Price": 380.00,
+        "Features": [
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "6xUSB",
+          "4xSata",
+          "3xAudio",
+          "Micro ATX"
+        ],
+        "Date": "2024-02-05T07:58:38.5646205-05:00",
+        "Update": "2024-02-05T08:20:20.5849668-05:00",
+        "Label": "Kit Intel Core i5-12400 +Disipador + ASRock Z690M Phantom Gaming 4"
       }
     ],
     "Esencial": [
@@ -417,6 +549,36 @@
         "Update": "2024-02-01T09:33:12.2474022-05:00",
         "Discount": 5.0,
         "Label": "Kit Intel Core i3 12Gen +8GB RAM 3200mhz +Disipador +Board ASRock Z690"
+      },
+      {
+        "Price": 250.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.2GHz",
+          "6xUSB",
+          "4xSATA",
+          "3xAudio",
+          "Micro ATX"
+        ],
+        "Date": "2024-02-05T07:56:30.7216392-05:00",
+        "Update": "2024-02-05T08:20:20.466805-05:00",
+        "Label": "Kit Ryzen 3 5300G +Disipador + ASRock B550M Pro SE"
+      },
+      {
+        "Price": 295.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "6xUSB",
+          "4xSata",
+          "3xAudio",
+          "Micro  ATX"
+        ],
+        "Date": "2024-02-05T07:56:48.7516909-05:00",
+        "Update": "2024-02-05T08:20:20.4825729-05:00",
+        "Label": "Kit Intel Core i3-12100 +Disipador + ASRock B660M PRO RS"
       }
     ]
   },
@@ -1916,22 +2078,6 @@
         "Label": "Micro Intel Core i9-13900K"
       },
       {
-        "Price": 185.00,
-        "Features": [
-          "AM4",
-          "6 Core",
-          "12 Hilos",
-          "DDR4",
-          "4.6GHz",
-          "Unlocked",
-          "Serie 5000",
-          "CPU"
-        ],
-        "Date": "2023-11-30T11:20:49.6412308-05:00",
-        "Update": "2023-12-29T07:44:38.7692546-05:00",
-        "Label": "Micro AMD Ryzen 5 5600X +Disipador"
-      },
-      {
         "Price": 115.00,
         "Features": [
           "Radeon Graphics",
@@ -2161,6 +2307,22 @@
         "Date": "2024-02-01T21:14:34.2946119-05:00",
         "Update": "2024-02-02T07:15:36.8365517-05:00",
         "Label": "Micro Intel Core i3-14100"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "AM4",
+          "6 Core",
+          "12 Hilos",
+          "4.6GHz",
+          "DDR4",
+          "Unlocked",
+          "Serie 5000",
+          "CPU"
+        ],
+        "Date": "2023-11-30T11:20:49.6412308-05:00",
+        "Update": "2024-02-05T08:20:20.3952802-05:00",
+        "Label": "Micro AMD Ryzen 5 5600X +Disipador"
       }
     ],
     "Chasis": [
@@ -2494,25 +2656,6 @@
         "Label": "Board Gigabyte Z790 UD AC"
       },
       {
-        "Price": 135.00,
-        "Features": [
-          "AM4",
-          "4533mhz",
-          "6xUSB",
-          "DDR4",
-          "4xSATA",
-          "Micro ATX",
-          "HDMI",
-          "DisplayPort",
-          "3xAudio",
-          "AMD",
-          "MOBO"
-        ],
-        "Date": "2023-10-11T10:56:39.5272184-04:00",
-        "Update": "2024-01-24T14:50:31.2187141-05:00",
-        "Label": "Board ASRock B550M Pro SE"
-      },
-      {
         "Price": 165.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -2569,6 +2712,25 @@
         "Date": "2023-05-11T07:56:36.6020035-04:00",
         "Update": "2024-01-31T10:18:54.8636956-05:00",
         "Label": "Board Asus TUF Z690-Plus Wifi"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "AM4",
+          "DDR4",
+          "4533mhz",
+          "6xUSB",
+          "4xSATA",
+          "Micro ATX",
+          "HDMI",
+          "DisplayPort",
+          "3xAudio",
+          "AMD",
+          "MOBO"
+        ],
+        "Date": "2023-10-11T10:56:39.5272184-04:00",
+        "Update": "2024-02-05T08:20:20.4469141-05:00",
+        "Label": "Board ASRock B550M Pro SE"
       }
     ],
     "Tarjeta Gráfica": [
