@@ -1,16 +1,4 @@
 {
-  "Computadoras": {
-    "Gamer": [
-      {
-        "Price": 1855.00,
-        "Features": [],
-        "Date": "2024-01-28T05:43:33.1005182-05:00",
-        "Update": "2024-01-28T05:53:50.9832089-05:00",
-        "Discount": 22.0,
-        "Label": "PC RTX 4060 OC 8GB +i7-12700K +MSI Z790 Gaming +32GB DDR5 +750W +Monitor 24\""
-      }
-    ]
-  },
   "Torres": {
     "Multimedia": [
       {
@@ -58,28 +46,12 @@
     ],
     "Gamer": [
       {
-        "Price": 1330.00,
-        "Features": [],
-        "Date": "2024-01-25T09:31:15.80875-05:00",
-        "Update": "2024-01-25T11:05:38.5427929-05:00",
-        "Discount": 20.0,
-        "Label": "Torre RTX 3050 +i5-13500 +Z790 UD AC +32GB DDR5 RGB +1TB M.2 +700W +Chasis RGB"
-      },
-      {
         "Price": 1420.00,
         "Features": [],
         "Date": "2024-01-26T14:39:25.243504-05:00",
         "Update": "2024-01-27T12:47:11.2249856-05:00",
         "Discount": 20.0,
         "Label": "Torre RTX 4060 OC 8GB +i5-12600K +Z790 UD AC +32GB DDR5 +500GB M.2 +650W +Chasis"
-      },
-      {
-        "Price": 1530.00,
-        "Features": [],
-        "Date": "2024-01-28T05:42:42.2115064-05:00",
-        "Update": "2024-01-28T05:53:50.9694204-05:00",
-        "Discount": 20.0,
-        "Label": "Torre RTX 4060 OC 8GB +i7-12700K +MSI Z790 Gaming +32GB DDR5 +512GB M.2 +750W"
       }
     ],
     "Pro": [
@@ -156,57 +128,6 @@
         "Update": "2024-01-27T21:40:58.2236906-05:00",
         "Discount": 10.0,
         "Label": "Kit i7-12700K +Board Asus TUF Z690 + 32GB DDR5 G.Skill"
-      },
-      {
-        "Price": 740.00,
-        "Features": [
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "2x16",
-          "6000mhz",
-          "Wifi",
-          "7xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-01-28T05:41:45.404773-05:00",
-        "Update": "2024-01-28T05:53:50.954279-05:00",
-        "Discount": 10.0,
-        "Label": "Kit i7-12700K +Hyper 212 Spectrum V3 +MSI Z790 Gaming Pro Wifi +32GB DDR5 RGB"
-      },
-      {
-        "Price": 660.00,
-        "Features": [
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "2x8GB",
-          "6000mhz",
-          "Disipadas",
-          "6xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-01-30T08:06:04.8682907-05:00",
-        "Update": "2024-01-30T08:16:51.3322782-05:00",
-        "Discount": 5.0,
-        "Label": "Kit i5-12600K +Disipador ARGB +Asus TUF Z690-Plus Wifi + 32GB DDR5 RGB 6000mhz"
-      },
-      {
-        "Price": 670.00,
-        "Features": [
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "2x16GB",
-          "6000mhz",
-          "6xUSB",
-          "4xSATA",
-          "6xAudio"
-        ],
-        "Date": "2024-01-31T11:17:35.8342884-05:00",
-        "Update": "2024-01-31T11:21:59.7479747-05:00",
-        "Discount": 5.0,
-        "Label": "Kit i5-12600K +Disipador ARGB +ASUS TUF Z690-Plus +32GB DDR5 Corsair RGB 6000mhz"
       },
       {
         "Price": 725.00,
@@ -324,22 +245,6 @@
         "Update": "2024-01-28T06:24:58.3322127-05:00",
         "Discount": 15.0,
         "Label": "Kit i9-12900K +H60x RGB Elite +Strix Z690-E Gaming Wifi +32GB Corsair RGB"
-      },
-      {
-        "Price": 720.00,
-        "Features": [],
-        "Date": "2023-09-21T21:28:29.9270677-04:00",
-        "Update": "2024-02-01T09:33:37.2870746-05:00",
-        "Discount": 10.0,
-        "Label": "Kit i7-12700K + Asus ROG Strix Z690-E Gaming Wifi + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
-      },
-      {
-        "Price": 600.00,
-        "Features": [],
-        "Date": "2023-09-15T11:12:21.3730357-04:00",
-        "Update": "2024-02-01T09:34:53.9827774-05:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-12600K + Asus TUF Z690-Plus Wifi + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
       }
     ],
     "Moderado": [
@@ -1821,17 +1726,6 @@
         "Date": "2023-03-30T09:56:49.769494-04:00",
         "Update": "2024-01-17T03:01:54.7457847-05:00",
         "Label": "RAM DDR4 GeIL ORION RGB 16GB 3600mhz"
-      },
-      {
-        "Price": 130.00,
-        "Features": [
-          "CL36",
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-03-30T09:56:12.5688722-04:00",
-        "Update": "2024-01-18T07:19:39.6516573-05:00",
-        "Label": "DDR5 Corsair Vengeance RGB 32GB 6000mhz"
       },
       {
         "Price": 95.00,
