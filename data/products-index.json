@@ -322,20 +322,6 @@
         "Label": "Kit i5-12400 +Z690M Phantom Gaming 4 + 16GB DDR4 Team T-Force Vulcan Z"
       },
       {
-        "Price": 420.00,
-        "Features": [
-          "12 Hilos",
-          "6 Core",
-          "2x8GB",
-          "6xSATA",
-          "6xUSB"
-        ],
-        "Date": "2023-12-27T07:20:29.0297441-05:00",
-        "Update": "2024-02-01T09:34:53.9294147-05:00",
-        "Discount": 5.0,
-        "Label": "Ryzen 5 5600G +Gigabyte B550 Gaming X V2 +16GB DDR4 Team T-Force Vulcan Z"
-      },
-      {
         "Price": 400.00,
         "Features": [
           "16 Hilos",
@@ -407,6 +393,20 @@
         "Date": "2024-02-05T07:58:38.5646205-05:00",
         "Update": "2024-02-05T08:20:20.5849668-05:00",
         "Label": "Kit Intel Core i5-12400 +Disipador + ASRock Z690M Phantom Gaming 4"
+      },
+      {
+        "Price": 420.00,
+        "Features": [
+          "12 Hilos",
+          "6 Core",
+          "2x8GB",
+          "6xSATA",
+          "6xUSB"
+        ],
+        "Date": "2023-12-27T07:20:29.0297441-05:00",
+        "Update": "2024-02-07T10:33:10.3239922-05:00",
+        "Discount": 5.0,
+        "Label": "Kit Ryzen 5 5600G +Gigabyte B550 Gaming X V2 +16GB DDR4 Team T-Force Vulcan Z"
       }
     ],
     "Esencial": [
