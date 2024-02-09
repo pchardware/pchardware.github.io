@@ -3499,20 +3499,6 @@
       {
         "Price": 65.00,
         "Features": [
-          "Wireless",
-          "12000dpi",
-          "6 botónes",
-          "Optico",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-06-29T07:38:38.0146289-04:00",
-        "Update": "2023-10-11T10:54:04.6827983-04:00",
-        "Label": "Mouse Logitech G305 Lightspeed"
-      },
-      {
-        "Price": 65.00,
-        "Features": [
           "16000dpi",
           "Optico",
           "11 botónes",
@@ -3522,60 +3508,6 @@
         "Date": "2023-10-19T09:31:57.0129789-04:00",
         "Update": "2023-10-19T12:33:04.4956254-04:00",
         "Label": "Mouse Logitech G502 SE Hero"
-      },
-      {
-        "Price": 61.00,
-        "Features": [
-          "Blanco",
-          "10K dpi",
-          "Inmalámbrico",
-          "Ambidiestro",
-          "77g",
-          "PTFE",
-          "Gaming",
-          "5 botónes",
-          "Optico",
-          "USB"
-        ],
-        "Date": "2023-10-23T12:32:00.8586361-04:00",
-        "Update": "2023-10-23T13:26:42.3598298-04:00",
-        "Label": "Mouse Cooler Master MM311 Mate White"
-      },
-      {
-        "Price": 97.00,
-        "Features": [
-          "Macros",
-          "50H",
-          "Recargable",
-          "18000dpi",
-          "Optico",
-          "10 botónes",
-          "iCUE",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-06-19T07:49:07.3176421-04:00",
-        "Update": "2023-11-03T12:22:11.708199-04:00",
-        "Label": "Mouse Corsair IRONCLAW RGB Wireless"
-      },
-      {
-        "Price": 63.00,
-        "Features": [
-          "RGB",
-          "82g",
-          "10000dpi",
-          "6 botónes",
-          "FPS",
-          "Battle",
-          "Royale",
-          "MOBA",
-          "Claw-Fingertip",
-          "Optico",
-          "USB"
-        ],
-        "Date": "2023-06-29T07:38:44.0694774-04:00",
-        "Update": "2023-12-05T17:11:29.6159911-05:00",
-        "Label": "Mouse Corsair Katar Pro Wireless"
       },
       {
         "Price": 63.00,
@@ -3590,24 +3522,6 @@
         "Date": "2023-07-09T16:44:42.8536521-04:00",
         "Update": "2023-12-05T17:11:29.6335391-05:00",
         "Label": "Mouse Razer Viper Mini"
-      },
-      {
-        "Price": 71.00,
-        "Features": [
-          "60g",
-          "Wifi",
-          "Bluetooth",
-          "Dual",
-          "950H",
-          "PTFE",
-          "Inmalámbrico",
-          "Gaming",
-          "6 botónes",
-          "Optico"
-        ],
-        "Date": "2023-11-05T07:48:32.4491843-05:00",
-        "Update": "2023-12-05T17:13:34.9764467-05:00",
-        "Label": "Mouse Razer Orochi V2 Black"
       },
       {
         "Price": 93.00,
@@ -3800,6 +3714,94 @@
         "Date": "2024-01-30T08:59:28.008709-05:00",
         "Update": "2024-01-30T10:47:53.746594-05:00",
         "Label": "Mouse Pad Mountain Glacier/Nunatak M Gaming"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "Inalámbrico",
+          "12000dpi",
+          "6 botónes",
+          "Optico",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-06-29T07:38:38.0146289-04:00",
+        "Update": "2024-02-09T13:48:37.5087473-05:00",
+        "Label": "Mouse Logitech G305 Lightspeed"
+      },
+      {
+        "Price": 61.00,
+        "Features": [
+          "Blanco",
+          "10K dpi",
+          "Inalámbrico",
+          "Ambidiestro",
+          "77g",
+          "PTFE",
+          "Gaming",
+          "5 botónes",
+          "Optico",
+          "USB"
+        ],
+        "Date": "2023-10-23T12:32:00.8586361-04:00",
+        "Update": "2024-02-09T13:48:37.5235087-05:00",
+        "Label": "Mouse Cooler Master MM311 Mate White"
+      },
+      {
+        "Price": 97.00,
+        "Features": [
+          "Inalámbrico",
+          "Macros",
+          "50H",
+          "Recargable",
+          "18000dpi",
+          "Optico",
+          "10 botónes",
+          "iCUE",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-06-19T07:49:07.3176421-04:00",
+        "Update": "2024-02-09T13:48:37.5374693-05:00",
+        "Label": "Mouse Corsair IRONCLAW RGB Wireless"
+      },
+      {
+        "Price": 63.00,
+        "Features": [
+          "Inalámbrico",
+          "RGB",
+          "82g",
+          "10000dpi",
+          "6 botónes",
+          "FPS",
+          "Battle",
+          "Royale",
+          "MOBA",
+          "Claw-Fingertip",
+          "Optico",
+          "USB"
+        ],
+        "Date": "2023-06-29T07:38:44.0694774-04:00",
+        "Update": "2024-02-09T13:48:37.5517404-05:00",
+        "Label": "Mouse Corsair Katar Pro Wireless"
+      },
+      {
+        "Price": 71.00,
+        "Features": [
+          "60g",
+          "Wifi",
+          "Bluetooth",
+          "Dual",
+          "950H",
+          "PTFE",
+          "Inalámbrico",
+          "Gaming",
+          "6 botónes",
+          "Optico"
+        ],
+        "Date": "2023-11-05T07:48:32.4491843-05:00",
+        "Update": "2024-02-09T13:48:37.5657346-05:00",
+        "Label": "Mouse Razer Orochi V2 Black"
       }
     ],
     "Otros": [
