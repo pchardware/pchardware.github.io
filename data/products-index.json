@@ -2646,25 +2646,6 @@
         "Label": "Tarjeta de Video EVGA RTX 3080Ti XC3 Hydro Copper 12GB"
       },
       {
-        "Price": 395.00,
-        "Features": [
-          "3xfan",
-          "1x8Pin",
-          "750WR",
-          "PCIe4",
-          "301mm",
-          "2xHDMI",
-          "3xDisplayPort",
-          "NVIDIA",
-          "GPU",
-          "Gráfica",
-          "DLSS"
-        ],
-        "Date": "2024-01-16T04:52:42.2813105-05:00",
-        "Update": "2024-01-17T06:24:33.57121-05:00",
-        "Label": "Tarjeta de Video Asus TUF RTX 3060 12GB"
-      },
-      {
         "Price": 435.00,
         "Features": [
           "3xFan",
@@ -2923,25 +2904,6 @@
         "Date": "2024-01-30T08:59:21.7284372-05:00",
         "Update": "2024-01-30T10:47:53.7318957-05:00",
         "Label": "Tarjeta de Video MSI RTX 4070 Super Gaming X Slim 12GB"
-      },
-      {
-        "Price": 825.00,
-        "Features": [
-          "DLSS3",
-          "3xFan",
-          "1x16Pin",
-          "700WR",
-          "300mm",
-          "3xDisplay Port",
-          "1xHDMI",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-01-30T08:59:51.2880649-05:00",
-        "Update": "2024-01-30T10:47:53.8197775-05:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4070 Super Gaming OC 12GB"
       }
     ],
     "Disco Sólido": [
