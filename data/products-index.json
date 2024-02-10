@@ -865,21 +865,6 @@
         "Label": "Fuente Asus ROG Thor 850W Platinum II"
       },
       {
-        "Price": 130.00,
-        "Features": [
-          "59A",
-          "2x 6+2Pin",
-          "9x SATA",
-          "1x 4+4 EPS",
-          "140mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-08-16T09:16:30.0204629-04:00",
-        "Update": "2024-01-24T02:24:17.305117-05:00",
-        "Label": "Fuente EVGA 750W"
-      },
-      {
         "Price": 205.00,
         "Features": [
           "71A",
@@ -2593,23 +2578,6 @@
         "Date": "2023-11-06T10:30:19.884438-05:00",
         "Update": "2024-01-16T20:41:36.4734542-05:00",
         "Label": "Tarjeta de Video MSI Ventus RTX 3050 2X XS 8GB OC"
-      },
-      {
-        "Price": 245.00,
-        "Features": [
-          "1x8Pin",
-          "500WR",
-          "DLSS",
-          "190mm",
-          "1xFan",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-12-07T23:40:36.0331524-05:00",
-        "Update": "2024-01-17T06:21:07.2688896-05:00",
-        "Label": "Tarjeta de Video EVGA RTX 2060 Gaming 6GB"
       },
       {
         "Price": 255.00,
