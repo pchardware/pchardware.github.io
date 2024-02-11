@@ -8,58 +8,6 @@
         "Update": "2024-01-17T08:53:26.6547865-05:00",
         "Discount": 18.0,
         "Label": "Torre Ryzen 3 5300G +Disipador +B550 Gaming X V2 +8GB DDR4 +SSD 480GB +600W"
-      },
-      {
-        "Price": 755.00,
-        "Features": [],
-        "Date": "2024-01-29T02:20:18.8229134-05:00",
-        "Update": "2024-01-29T07:20:14.8933007-05:00",
-        "Discount": 10.0,
-        "Label": "Torre Ryzen 5 5600G +B550 Gaming X V2 +16GB DDR4 +500GB M.2 +700W +Chasis RGB"
-      },
-      {
-        "Price": 640.00,
-        "Features": [],
-        "Date": "2024-02-01T08:56:11.2827635-05:00",
-        "Update": "2024-02-01T09:02:47.9719475-05:00",
-        "Discount": 10.0,
-        "Label": "Torre Ryzen 3 5300G +B550M Pro SE +16GB DDR4 +500GB M.2 +600W + Chasis RGB"
-      },
-      {
-        "Price": 655.00,
-        "Features": [],
-        "Date": "2024-02-01T09:36:10.7393442-05:00",
-        "Update": "2024-02-01T09:42:25.7464389-05:00",
-        "Discount": 10.0,
-        "Label": "Torre i3-12100 +B660M PRO RS +8GB DDR4 +500GB M.2 +500W +Chasis RGB Black"
-      }
-    ],
-    "Entusiasta": [
-      {
-        "Price": 3380.00,
-        "Features": [],
-        "Date": "2024-01-24T02:48:12.1792626-05:00",
-        "Update": "2024-01-24T02:53:17.2640265-05:00",
-        "Discount": 35.0,
-        "Label": "Torre Top RTX 4080 OC 16GB +i9-13900K +Strix Z790-A Gaming +64GB DDR5 +850W Thor"
-      }
-    ],
-    "Pro": [
-      {
-        "Price": 900.00,
-        "Features": [],
-        "Date": "2024-02-03T13:09:53.5339892-05:00",
-        "Update": "2024-02-03T13:17:23.0723947-05:00",
-        "Discount": 15.0,
-        "Label": "Torre i5-12600K +Hyper 212 +B660M PRO RS +16GB DDR4 +500GB M.2 +750W +Chasis"
-      },
-      {
-        "Price": 830.00,
-        "Features": [],
-        "Date": "2024-02-03T13:12:38.6442938-05:00",
-        "Update": "2024-02-03T13:17:23.0917972-05:00",
-        "Discount": 10.0,
-        "Label": "Torre Ryzen 5 5600G +B550M Pro SE +32GB DDR4 +512GB M.2 +CORSAIR 650W +Chasis"
       }
     ]
   },
@@ -913,22 +861,6 @@
         "Date": "2023-10-02T14:28:39.3910059-04:00",
         "Update": "2024-01-24T02:24:17.3533086-05:00",
         "Label": "Fuente Corsair HX1500i 1500W"
-      },
-      {
-        "Price": 145.00,
-        "Features": [
-          "ATX 3.0",
-          "62A",
-          "80+ Bronze",
-          "Modular",
-          "1x16Pin",
-          "4x6+2Pin",
-          "150mm",
-          "PSU"
-        ],
-        "Date": "2024-01-23T14:30:45.0285877-05:00",
-        "Update": "2024-01-24T02:24:17.3848965-05:00",
-        "Label": "Fuente Thermaltake Smart BM3 750W"
       },
       {
         "Price": 140.00,
@@ -2187,22 +2119,6 @@
         "Date": "2024-01-18T07:08:34.7724156-05:00",
         "Update": "2024-01-18T08:30:01.0233257-05:00",
         "Label": "Chasis Cougar Uniface S Black"
-      },
-      {
-        "Price": 190.00,
-        "Features": [
-          "Tempered Glass",
-          "3xFan ARGB",
-          "3xUSB",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro",
-          "2xHDD"
-        ],
-        "Date": "2023-11-03T12:22:56.9620417-04:00",
-        "Update": "2024-01-25T19:26:52.2531245-05:00",
-        "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
       }
     ],
     "Red": [
@@ -2876,19 +2792,6 @@
     ],
     "Disco Sólido": [
       {
-        "Price": 145.00,
-        "Features": [
-          "7000mbs",
-          "1400tbw",
-          "HeatSink",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-10-03T06:56:34.7397369-04:00",
-        "Update": "2024-01-23T14:30:19.5461421-05:00",
-        "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 2TB"
-      },
-      {
         "Price": 75.00,
         "Features": [
           "2350mbs",
@@ -3452,23 +3355,6 @@
         "Date": "2023-07-09T16:44:42.8536521-04:00",
         "Update": "2023-12-05T17:11:29.6335391-05:00",
         "Label": "Mouse Razer Viper Mini"
-      },
-      {
-        "Price": 93.00,
-        "Features": [
-          "25600dpi",
-          "Inalámbrico",
-          "Híbrido",
-          "Hero",
-          "RGB",
-          "Gaming",
-          "6 botónes",
-          "Optico",
-          "USB"
-        ],
-        "Date": "2023-10-09T15:58:43.1814204-04:00",
-        "Update": "2023-12-07T13:17:19.2178859-05:00",
-        "Label": "Mouse Logitech Pro Wireless Black"
       },
       {
         "Price": 90.00,
