@@ -1,25 +1,6 @@
 {
-  "Torres": {
-    "Multimedia": [
-      {
-        "Price": 667.00,
-        "Features": [],
-        "Date": "2024-01-15T06:35:20.8270124-05:00",
-        "Update": "2024-01-17T08:53:26.6547865-05:00",
-        "Discount": 18.0,
-        "Label": "Torre Ryzen 3 5300G +Disipador +B550 Gaming X V2 +8GB DDR4 +SSD 480GB +600W"
-      }
-    ]
-  },
   "Kits": {
     "Rendimiento": [
-      {
-        "Price": 470.00,
-        "Features": [],
-        "Date": "2024-01-07T08:26:02.8642888-05:00",
-        "Update": "2024-01-07T08:28:07.9656855-05:00",
-        "Label": "Kit Ryzen 5 5600X +Gigabyte B550 Gaming X V2 + 32 DDR4 G.SKILL Ripjaws V 4000Mhz"
-      },
       {
         "Price": 795.00,
         "Features": [
@@ -42,36 +23,6 @@
         "Update": "2024-01-21T06:11:51.4522915-05:00",
         "Discount": 5.0,
         "Label": "Kit ROG Strix Z690-E Gaming Wifi +i5-12600K +Assassin King 120 ARGB +32GB DDR5"
-      },
-      {
-        "Price": 725.00,
-        "Features": [
-          "20 Hilos",
-          "12 Core",
-          "DDR5",
-          "7200mmhz",
-          "Wifi",
-          "4xSATA",
-          "LGA 1700"
-        ],
-        "Date": "2023-12-18T07:04:02.8192843-05:00",
-        "Update": "2024-02-01T09:34:53.9564526-05:00",
-        "Discount": 10.0,
-        "Label": "Kit i7-12700K +MSI Z790 Gaming Pro Wifi + 32GB DDR5 6000mhz G.Skill Ripjaws"
-      },
-      {
-        "Price": 370.00,
-        "Features": [
-          "6 Core",
-          "12 Hilos",
-          "4.6GHz",
-          "6xUSB",
-          "4xSATA",
-          "3xAudio"
-        ],
-        "Date": "2024-02-05T07:57:41.8196233-05:00",
-        "Update": "2024-02-05T08:20:20.5312825-05:00",
-        "Label": "Kit AMD Ryzen 5 5600X +Disipador + Gigabyte B550 Gaming X V2"
       },
       {
         "Price": 415.00,
@@ -230,20 +181,6 @@
         "Label": "Kit AMD Ryzen 5 5600G +Disipador + ASRock B550M Pro SE"
       },
       {
-        "Price": 355.00,
-        "Features": [
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "6xUSB",
-          "4xSATA",
-          "3xAudio"
-        ],
-        "Date": "2024-02-05T07:57:28.3125304-05:00",
-        "Update": "2024-02-05T08:20:20.5118047-05:00",
-        "Label": "Kit AMD Ryzen 5 5600G +Disipador + Gigabyte B550 Gaming X V2"
-      },
-      {
         "Price": 360.00,
         "Features": [
           "12 Hilos",
@@ -272,20 +209,6 @@
         "Date": "2024-02-05T07:58:38.5646205-05:00",
         "Update": "2024-02-05T08:20:20.5849668-05:00",
         "Label": "Kit Intel Core i5-12400 +Disipador + ASRock Z690M Phantom Gaming 4"
-      },
-      {
-        "Price": 420.00,
-        "Features": [
-          "12 Hilos",
-          "6 Core",
-          "2x8GB",
-          "6xSATA",
-          "6xUSB"
-        ],
-        "Date": "2023-12-27T07:20:29.0297441-05:00",
-        "Update": "2024-02-07T10:33:10.3239922-05:00",
-        "Discount": 5.0,
-        "Label": "Kit Ryzen 5 5600G +Gigabyte B550 Gaming X V2 +16GB DDR4 Team T-Force Vulcan Z"
       }
     ],
     "Esencial": [
@@ -326,20 +249,6 @@
         "Date": "2024-02-01T09:07:08.9381263-05:00",
         "Update": "2024-02-01T09:09:47.1285333-05:00",
         "Label": "Kit i3-12100 +Disipador +B660M PRO RS +8GB DDR4 Team T-Force Vulcan Z 3200mhz"
-      },
-      {
-        "Price": 335.00,
-        "Features": [
-          "4 Core",
-          "8 hilos",
-          "1x8",
-          "3200mhz",
-          "6x USB",
-          "4x SATA"
-        ],
-        "Date": "2023-12-31T09:22:20.8769433-05:00",
-        "Update": "2024-02-01T09:33:12.2105349-05:00",
-        "Label": "KIT Ryzen 3 5300G +Disipador +Gigabyte B550 Gaming X V2 +8gb DDR4"
       },
       {
         "Price": 345.00,
@@ -582,18 +491,6 @@
         "Label": "Corsair Comander Core XT"
       },
       {
-        "Price": 19.00,
-        "Features": [
-          "1800rpm",
-          "30dBa",
-          "120mm",
-          "ARGB"
-        ],
-        "Date": "2023-12-07T23:40:08.0174775-05:00",
-        "Update": "2023-12-24T03:04:22.6539355-05:00",
-        "Label": "Fan Cooler Master MasterFan MF120R ARGB"
-      },
-      {
         "Price": 13.00,
         "Features": [],
         "Date": "2023-11-03T12:23:39.265693-04:00",
@@ -633,18 +530,6 @@
         "Date": "2023-12-04T16:22:01.2672974-05:00",
         "Update": "2024-01-11T10:07:28.2436926-05:00",
         "Label": "Acasis Weastlinks 8xSATA"
-      },
-      {
-        "Price": 18.00,
-        "Features": [
-          "1800rpm",
-          "65cfm",
-          "27dba",
-          "120mm"
-        ],
-        "Date": "2023-08-21T08:58:21.6545554-04:00",
-        "Update": "2024-01-15T18:18:29.7915199-05:00",
-        "Label": "Fan Cooler Master SickleFlow 120 V2 ARGB"
       },
       {
         "Price": 16.00,
@@ -1451,17 +1336,6 @@
         "Date": "2023-11-16T18:51:45.5920377-05:00",
         "Update": "2023-11-16T18:53:02.3540631-05:00",
         "Label": "RAM DDR5 G.Skill Ripjaws S5 16GB 6000mhz"
-      },
-      {
-        "Price": 115.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL36"
-        ],
-        "Date": "2023-10-09T15:59:22.4913756-04:00",
-        "Update": "2023-12-04T16:09:51.4524889-05:00",
-        "Label": "RAM DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
       },
       {
         "Price": 35.00,
@@ -2330,26 +2204,6 @@
         "Label": "Board Gigabyte X570S Gaming X"
       },
       {
-        "Price": 185.00,
-        "Features": [
-          "AM4",
-          "DDR4",
-          "4733mhz",
-          "4xSATA",
-          "6xUSB",
-          "ATX",
-          "PS2",
-          "DVI",
-          "HDMI",
-          "3xAudio",
-          "AMD",
-          "MOBO"
-        ],
-        "Date": "2023-07-13T11:32:04.6371575-04:00",
-        "Update": "2024-01-24T14:50:31.1733153-05:00",
-        "Label": "Board Gigabyte B550 Gaming X V2"
-      },
-      {
         "Price": 145.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -2615,22 +2469,6 @@
         "Date": "2024-01-18T07:09:23.6519574-05:00",
         "Update": "2024-01-18T08:30:01.1777209-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4060 AERO OC 8GB"
-      },
-      {
-        "Price": 305.00,
-        "Features": [
-          "8GB",
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "278mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-07-12T21:42:54.3752209-04:00",
-        "Update": "2024-01-23T14:30:19.4621183-05:00",
-        "Label": "MSI Gaming X RTX 3050"
       },
       {
         "Price": 380.00,
@@ -3490,17 +3328,6 @@
         "Date": "2023-08-21T08:58:41.5573667-04:00",
         "Update": "2023-12-28T14:06:43.9386612-05:00",
         "Label": "Mouse Corsair M65 ELITE RGB Black"
-      },
-      {
-        "Price": 13.00,
-        "Features": [
-          "2 Botones",
-          "Scroll",
-          "Cableado"
-        ],
-        "Date": "2023-12-07T13:02:34.4723692-05:00",
-        "Update": "2024-01-11T09:54:22.2542015-05:00",
-        "Label": "Mouse Asus JM3"
       },
       {
         "Price": 50.00,
