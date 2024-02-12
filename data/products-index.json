@@ -1281,18 +1281,328 @@
         "Label": "Disipador Thermalright Assassin X 120 R SE Plus"
       }
     ],
-    "Memoria RAM": [
+    "Microprocesador": [
       {
-        "Price": 110.00,
+        "Price": 380.00,
         "Features": [
-          "2x16GB",
-          "CL40",
-          "Disipadas"
+          "Radeon Graphics",
+          "AM5",
+          "24 Hilos",
+          "12 Core",
+          "5.6GHz",
+          "64MB L3",
+          "170W",
+          "PCIe 5",
+          "DDR5",
+          "Unlocked",
+          "Serie 7000",
+          "CPU"
         ],
-        "Date": "2023-05-11T08:38:23.3870937-04:00",
-        "Update": "2023-10-09T17:48:21.1505023-04:00",
-        "Label": "RAM DDR5 Gigabyte AORUS 32GB 5200mhz"
+        "Date": "2023-10-09T15:59:15.4094076-04:00",
+        "Update": "2023-10-09T17:48:21.976668-04:00",
+        "Label": "Micro AMD Ryzen 9 7900X"
       },
+      {
+        "Price": 410.00,
+        "Features": [
+          "13ra Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.4GHz",
+          "30MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-03-22T09:04:14.8362359-04:00",
+        "Update": "2023-11-24T10:20:52.9007771-05:00",
+        "Label": "Micro Intel Core i7-13700K"
+      },
+      {
+        "Price": 170.00,
+        "Features": [
+          "Radeon Graphics",
+          "AM4",
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "16MB L3",
+          "65W",
+          "DDR4",
+          "Serie 5000",
+          "CPU"
+        ],
+        "Date": "2023-10-13T09:28:27.261681-04:00",
+        "Update": "2023-11-30T14:28:44.8359745-05:00",
+        "Label": "Micro AMD Ryzen 5 5600G +Disipador"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "12va Gen",
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "18MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-02-17T09:45:29.425139-05:00",
+        "Update": "2023-12-24T02:36:56.2598164-05:00",
+        "Label": "Micro Intel Core i5-12400 +Disipador"
+      },
+      {
+        "Price": 585.00,
+        "Features": [
+          "13ra Gen",
+          "32 Hilos",
+          "24 Core",
+          "5.7GHz",
+          "30MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-03-22T09:04:16.5699219-04:00",
+        "Update": "2023-12-24T03:04:22.4954685-05:00",
+        "Label": "Micro Intel Core i9-13900K"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "Radeon Graphics",
+          "AM4",
+          "8 Hilos",
+          "4 Core",
+          "4.2GHz",
+          "8MB L3",
+          "65W",
+          "DDR4",
+          "Serie5000",
+          "CPU"
+        ],
+        "Date": "2023-12-28T22:14:48.5974394-05:00",
+        "Update": "2023-12-29T07:44:38.8665379-05:00",
+        "Label": "Micro AMD Ryzen 3 5300G +Disipador"
+      },
+      {
+        "Price": 350.00,
+        "Features": [
+          "14va Gen",
+          "14 Core",
+          "20 Hilos",
+          "5.3Ghz",
+          "24MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-11-30T11:21:40.9533793-05:00",
+        "Update": "2024-01-01T19:09:01.2649941-05:00",
+        "Label": "Micro Intel Core i5-14600K"
+      },
+      {
+        "Price": 170.00,
+        "Features": [
+          "13ra Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.5GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-03-22T09:04:00.899336-04:00",
+        "Update": "2024-01-15T18:18:29.8552965-05:00",
+        "Label": "Micro Intel Core i3-13100 +Disipador"
+      },
+      {
+        "Price": 130.00,
+        "Features": [
+          "12va Gen",
+          "8 Hilos",
+          "4 Core",
+          "3.3GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2024-01-17T02:39:13.7412454-05:00",
+        "Update": "2024-01-17T07:32:30.686044-05:00",
+        "Label": "Micro Intel Core i3-12100F +Disipador"
+      },
+      {
+        "Price": 240.00,
+        "Features": [
+          "12va Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "20MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-02-17T09:44:28.156292-05:00",
+        "Update": "2024-01-18T07:19:39.7226022-05:00",
+        "Label": "Micro Intel Core i5-12600K"
+      },
+      {
+        "Price": 295.00,
+        "Features": [
+          "13ra Gen",
+          "20 Hilos",
+          "14 Core",
+          "4.8GHz",
+          "24MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-06-07T15:04:52.0919704-04:00",
+        "Update": "2024-01-18T07:19:39.736751-05:00",
+        "Label": "Micro Intel Core i5-13500 +Disipador"
+      },
+      {
+        "Price": 375.00,
+        "Features": [
+          "12va Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.2GHz",
+          "30MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-05-11T07:00:48.0876416-04:00",
+        "Update": "2024-01-18T07:19:39.7802109-05:00",
+        "Label": "Micro Intel Core i9-12900K"
+      },
+      {
+        "Price": 150.00,
+        "Features": [
+          "12va Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-05-11T07:28:15.7616729-04:00",
+        "Update": "2024-01-18T07:19:39.8761049-05:00",
+        "Label": "Micro Intel Core i3-12100 +Disipador"
+      },
+      {
+        "Price": 465.00,
+        "Features": [
+          "14va Gen",
+          "28 Hilos",
+          "5.6Ghz",
+          "33mb L3",
+          "253W",
+          "LGA 1700",
+          "DDR4-DDR5",
+          "CPU"
+        ],
+        "Date": "2023-10-23T12:31:42.2126394-04:00",
+        "Update": "2024-01-23T14:30:19.6067624-05:00",
+        "Label": "Micro Intel Core i7-14700K"
+      },
+      {
+        "Price": 665.00,
+        "Features": [
+          "14va Gen",
+          "32 Hilos",
+          "6Ghz",
+          "36mb L3",
+          "253W",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-10-23T12:31:45.6342687-04:00",
+        "Update": "2024-01-23T14:30:19.6265382-05:00",
+        "Label": "Micro Intel Core i9-14900K"
+      },
+      {
+        "Price": 285.00,
+        "Features": [
+          "12va Gen",
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "25MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-02-17T09:30:45.7586545-05:00",
+        "Update": "2024-01-23T14:30:19.6628266-05:00",
+        "Label": "Micro Intel Core i7-12700K"
+      },
+      {
+        "Price": 205.00,
+        "Features": [
+          "12va Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "20MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-10-16T10:24:13.8080802-04:00",
+        "Update": "2024-02-01T21:13:39.215635-05:00",
+        "Label": "Micro Intel Core i5-12600KF"
+      },
+      {
+        "Price": 180.00,
+        "Features": [
+          "14va Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.7GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2024-02-01T21:14:34.2946119-05:00",
+        "Update": "2024-02-02T07:15:36.8365517-05:00",
+        "Label": "Micro Intel Core i3-14100"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "AM4",
+          "6 Core",
+          "12 Hilos",
+          "4.6GHz",
+          "DDR4",
+          "Unlocked",
+          "Serie 5000",
+          "CPU"
+        ],
+        "Date": "2023-11-30T11:20:49.6412308-05:00",
+        "Update": "2024-02-05T08:20:20.3952802-05:00",
+        "Label": "Micro AMD Ryzen 5 5600X +Disipador"
+      }
+    ],
+    "Memoria RAM": [
       {
         "Price": 135.00,
         "Features": [
@@ -1611,343 +1921,6 @@
         "Date": "2024-01-30T08:59:33.0160583-05:00",
         "Update": "2024-01-30T10:54:31.6938756-05:00",
         "Label": "RAM DDR4 G.Skill TridentZ RGB 16GB 3200Mhz"
-      }
-    ],
-    "Microprocesador": [
-      {
-        "Price": 380.00,
-        "Features": [
-          "Radeon Graphics",
-          "AM5",
-          "24 Hilos",
-          "12 Core",
-          "5.6GHz",
-          "64MB L3",
-          "170W",
-          "PCIe 5",
-          "DDR5",
-          "Unlocked",
-          "Serie 7000",
-          "CPU"
-        ],
-        "Date": "2023-10-09T15:59:15.4094076-04:00",
-        "Update": "2023-10-09T17:48:21.976668-04:00",
-        "Label": "Micro AMD Ryzen 9 7900X"
-      },
-      {
-        "Price": 410.00,
-        "Features": [
-          "13ra Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.4GHz",
-          "30MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-03-22T09:04:14.8362359-04:00",
-        "Update": "2023-11-24T10:20:52.9007771-05:00",
-        "Label": "Micro Intel Core i7-13700K"
-      },
-      {
-        "Price": 170.00,
-        "Features": [
-          "Radeon Graphics",
-          "AM4",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "16MB L3",
-          "65W",
-          "DDR4",
-          "Serie 5000",
-          "CPU"
-        ],
-        "Date": "2023-10-13T09:28:27.261681-04:00",
-        "Update": "2023-11-30T14:28:44.8359745-05:00",
-        "Label": "Micro AMD Ryzen 5 5600G +Disipador"
-      },
-      {
-        "Price": 215.00,
-        "Features": [
-          "12va Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "18MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-02-17T09:45:29.425139-05:00",
-        "Update": "2023-12-24T02:36:56.2598164-05:00",
-        "Label": "Micro Intel Core i5-12400 +Disipador"
-      },
-      {
-        "Price": 585.00,
-        "Features": [
-          "13ra Gen",
-          "32 Hilos",
-          "24 Core",
-          "5.7GHz",
-          "30MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-03-22T09:04:16.5699219-04:00",
-        "Update": "2023-12-24T03:04:22.4954685-05:00",
-        "Label": "Micro Intel Core i9-13900K"
-      },
-      {
-        "Price": 115.00,
-        "Features": [
-          "Radeon Graphics",
-          "AM4",
-          "8 Hilos",
-          "4 Core",
-          "4.2GHz",
-          "8MB L3",
-          "65W",
-          "DDR4",
-          "Serie5000",
-          "CPU"
-        ],
-        "Date": "2023-12-28T22:14:48.5974394-05:00",
-        "Update": "2023-12-29T07:44:38.8665379-05:00",
-        "Label": "Micro AMD Ryzen 3 5300G +Disipador"
-      },
-      {
-        "Price": 350.00,
-        "Features": [
-          "14va Gen",
-          "14 Core",
-          "20 Hilos",
-          "5.3Ghz",
-          "24MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-11-30T11:21:40.9533793-05:00",
-        "Update": "2024-01-01T19:09:01.2649941-05:00",
-        "Label": "Micro Intel Core i5-14600K"
-      },
-      {
-        "Price": 170.00,
-        "Features": [
-          "13ra Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.5GHz",
-          "12MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-03-22T09:04:00.899336-04:00",
-        "Update": "2024-01-15T18:18:29.8552965-05:00",
-        "Label": "Micro Intel Core i3-13100 +Disipador"
-      },
-      {
-        "Price": 130.00,
-        "Features": [
-          "12va Gen",
-          "8 Hilos",
-          "4 Core",
-          "3.3GHz",
-          "12MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2024-01-17T02:39:13.7412454-05:00",
-        "Update": "2024-01-17T07:32:30.686044-05:00",
-        "Label": "Micro Intel Core i3-12100F +Disipador"
-      },
-      {
-        "Price": 245.00,
-        "Features": [
-          "12va Gen",
-          "16 Hilos",
-          "10 Core",
-          "3.3GHz",
-          "20MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2024-01-17T02:39:18.2438636-05:00",
-        "Update": "2024-01-17T07:32:30.7231339-05:00",
-        "Label": "Micro Intel Core i5-13400F +Disipador"
-      },
-      {
-        "Price": 240.00,
-        "Features": [
-          "12va Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "20MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-02-17T09:44:28.156292-05:00",
-        "Update": "2024-01-18T07:19:39.7226022-05:00",
-        "Label": "Micro Intel Core i5-12600K"
-      },
-      {
-        "Price": 295.00,
-        "Features": [
-          "13ra Gen",
-          "20 Hilos",
-          "14 Core",
-          "4.8GHz",
-          "24MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-06-07T15:04:52.0919704-04:00",
-        "Update": "2024-01-18T07:19:39.736751-05:00",
-        "Label": "Micro Intel Core i5-13500 +Disipador"
-      },
-      {
-        "Price": 375.00,
-        "Features": [
-          "12va Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.2GHz",
-          "30MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-05-11T07:00:48.0876416-04:00",
-        "Update": "2024-01-18T07:19:39.7802109-05:00",
-        "Label": "Micro Intel Core i9-12900K"
-      },
-      {
-        "Price": 150.00,
-        "Features": [
-          "12va Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.3GHz",
-          "12MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-05-11T07:28:15.7616729-04:00",
-        "Update": "2024-01-18T07:19:39.8761049-05:00",
-        "Label": "Micro Intel Core i3-12100 +Disipador"
-      },
-      {
-        "Price": 465.00,
-        "Features": [
-          "14va Gen",
-          "28 Hilos",
-          "5.6Ghz",
-          "33mb L3",
-          "253W",
-          "LGA 1700",
-          "DDR4-DDR5",
-          "CPU"
-        ],
-        "Date": "2023-10-23T12:31:42.2126394-04:00",
-        "Update": "2024-01-23T14:30:19.6067624-05:00",
-        "Label": "Micro Intel Core i7-14700K"
-      },
-      {
-        "Price": 665.00,
-        "Features": [
-          "14va Gen",
-          "32 Hilos",
-          "6Ghz",
-          "36mb L3",
-          "253W",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-10-23T12:31:45.6342687-04:00",
-        "Update": "2024-01-23T14:30:19.6265382-05:00",
-        "Label": "Micro Intel Core i9-14900K"
-      },
-      {
-        "Price": 285.00,
-        "Features": [
-          "12va Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "25MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-02-17T09:30:45.7586545-05:00",
-        "Update": "2024-01-23T14:30:19.6628266-05:00",
-        "Label": "Micro Intel Core i7-12700K"
-      },
-      {
-        "Price": 205.00,
-        "Features": [
-          "12va Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "20MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-10-16T10:24:13.8080802-04:00",
-        "Update": "2024-02-01T21:13:39.215635-05:00",
-        "Label": "Micro Intel Core i5-12600KF"
-      },
-      {
-        "Price": 180.00,
-        "Features": [
-          "14va Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.7GHz",
-          "12MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2024-02-01T21:14:34.2946119-05:00",
-        "Update": "2024-02-02T07:15:36.8365517-05:00",
-        "Label": "Micro Intel Core i3-14100"
-      },
-      {
-        "Price": 185.00,
-        "Features": [
-          "AM4",
-          "6 Core",
-          "12 Hilos",
-          "4.6GHz",
-          "DDR4",
-          "Unlocked",
-          "Serie 5000",
-          "CPU"
-        ],
-        "Date": "2023-11-30T11:20:49.6412308-05:00",
-        "Update": "2024-02-05T08:20:20.3952802-05:00",
-        "Label": "Micro AMD Ryzen 5 5600X +Disipador"
       }
     ],
     "Chasis": [
@@ -2640,18 +2613,6 @@
         "Date": "2023-12-15T02:02:51.8715106-05:00",
         "Update": "2024-01-24T02:06:55.6449616-05:00",
         "Label": "SSD M.2 MSI SPatium M371 1TB"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "5000mbs",
-          "450TBW",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-09-11T09:08:58.7388503-04:00",
-        "Update": "2024-01-24T02:06:55.7446055-05:00",
-        "Label": "SSD M.2 Corsair MP600 CORE XT 2TB"
       },
       {
         "Price": 90.00,
