@@ -1,0 +1,22 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/torre-rtx-4060-oc-12gb-i7-12700k-msi-z790-gaming-3-92r73v-1.webp",
+    "/images/products/torre-rtx-4060-oc-12gb-i7-12700k-msi-z790-gaming-3-92r73v-2.webp",
+    "/images/products/torre-rtx-4060-oc-12gb-i7-12700k-msi-z790-gaming-3-92r73v-3.webp",
+    "/images/products/torre-rtx-4060-oc-12gb-i7-12700k-msi-z790-gaming-3-92r73v-4.webp",
+    "/images/products/torre-rtx-4060-oc-12gb-i7-12700k-msi-z790-gaming-3-92r73v-5.webp",
+    "/images/products/torre-rtx-4060-oc-12gb-i7-12700k-msi-z790-gaming-3-92r73v-6.webp",
+    "/images/products/torre-rtx-4060-oc-12gb-i7-12700k-msi-z790-gaming-3-92r73v-7.webp",
+    "/images/products/torre-rtx-4060-oc-12gb-i7-12700k-msi-z790-gaming-3-92r73v-8.webp",
+    "/images/products/torre-rtx-4060-oc-12gb-i7-12700k-msi-z790-gaming-3-92r73v-9.webp"
+  ],
+  "Description": "+ Micro Intel Core i7-12700K\n+ Disipador Cooler Master Hyper 212 Spectrum V3\n+ Board MSI Z790 Gaming Pro Wifi\n+ RAM DDR5 Corsair Vengenance RGB 32GB 6000mhz White\n+ SSD M.2 Corsair MP600 PRO LPX 500GB\n+ Tarjeta de Video Gigabyte RTX 4060 Gaming OC 8GB\n+ Fuente Thermaltake Smart BM3 850W\n+ Chasis Fractal Design Focus 2 RGB White\n",
+  "Price": 1600.00,
+  "Features": [],
+  "Date": "2024-02-13T15:14:44.692589-05:00",
+  "Update": "2024-02-13T15:18:17.5334174-05:00",
+  "Discount": 25.0,
+  "Label": "Torre RTX 4060 OC 12GB +i7-12700K +MSI Z790 Gaming +32GB DDR5 +500GB M.2 +850W"
+}
