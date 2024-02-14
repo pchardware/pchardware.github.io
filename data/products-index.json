@@ -119,51 +119,6 @@
         "Label": "Kit i5-13500 +Disipador + ASRock B660M PRO RS + DDR4 Silicon Power 16GB 3200mhz"
       },
       {
-        "Price": 425.00,
-        "Features": [
-          "12va Gen",
-          "12 Hilos",
-          "6 Core",
-          "2x8",
-          "3600mhz",
-          "6xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-01-17T07:49:23.3718771-05:00",
-        "Update": "2024-02-01T09:34:53.8412428-05:00",
-        "Label": "Kit Intel Core i5-12400 +Disipador +B660M PRO RS + 16GB DDR4 3600mhz"
-      },
-      {
-        "Price": 440.00,
-        "Features": [
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "2x8",
-          "3600mhz",
-          "5xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-01-02T11:50:49.3478671-05:00",
-        "Update": "2024-02-01T09:34:53.8750275-05:00",
-        "Discount": 5.0,
-        "Label": "Kit i5-12400 +Disipador +MSI Pro B760M-P DDR4 + 16GB DDR4 GeIL ORION 3600mhz"
-      },
-      {
-        "Price": 415.00,
-        "Features": [
-          "12 Hilos",
-          "6 Core",
-          "2x8GB",
-          "CL16",
-          "6xUSB",
-          "4xSATA"
-        ],
-        "Date": "2023-12-27T07:15:23.5179537-05:00",
-        "Update": "2024-02-01T09:34:53.9016487-05:00",
-        "Label": "Kit i5-12400 +Z690M Phantom Gaming 4 + 16GB DDR4 Team T-Force Vulcan Z"
-      },
-      {
         "Price": 400.00,
         "Features": [
           "16 Hilos",
@@ -191,36 +146,6 @@
         "Date": "2024-02-05T07:57:04.7206219-05:00",
         "Update": "2024-02-05T08:20:20.4973956-05:00",
         "Label": "Kit AMD Ryzen 5 5600G +Disipador + ASRock B550M Pro SE"
-      },
-      {
-        "Price": 360.00,
-        "Features": [
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "6xUSB",
-          "4xSata",
-          "3xAudio",
-          "Micro ATX"
-        ],
-        "Date": "2024-02-05T07:58:24.1845325-05:00",
-        "Update": "2024-02-05T08:20:20.5670214-05:00",
-        "Label": "Kit Intel Core i5-12400 +Disipador + ASRock B660M PRO RS"
-      },
-      {
-        "Price": 380.00,
-        "Features": [
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "6xUSB",
-          "4xSata",
-          "3xAudio",
-          "Micro ATX"
-        ],
-        "Date": "2024-02-05T07:58:38.5646205-05:00",
-        "Update": "2024-02-05T08:20:20.5849668-05:00",
-        "Label": "Kit Intel Core i5-12400 +Disipador + ASRock Z690M Phantom Gaming 4"
       }
     ],
     "Esencial": [
@@ -950,24 +875,6 @@
         "Label": "Disipador Líquido ASUS ROG RYUO III 240 ARGB"
       },
       {
-        "Price": 170.00,
-        "Features": [
-          "1750rpm",
-          "72cfm",
-          "27db",
-          "3xFan",
-          "360mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM5",
-          "AM4"
-        ],
-        "Date": "2023-10-11T10:56:44.8974468-04:00",
-        "Update": "2023-10-11T14:20:31.1068731-04:00",
-        "Label": "Disipador Líquido Cooler Master MasterLiquid 360L Core"
-      },
-      {
         "Price": 185.00,
         "Features": [
           "2xFan",
@@ -1348,22 +1255,6 @@
         "Date": "2023-10-13T09:28:27.261681-04:00",
         "Update": "2023-11-30T14:28:44.8359745-05:00",
         "Label": "Micro AMD Ryzen 5 5600G +Disipador"
-      },
-      {
-        "Price": 215.00,
-        "Features": [
-          "12va Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "18MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-02-17T09:45:29.425139-05:00",
-        "Update": "2023-12-24T02:36:56.2598164-05:00",
-        "Label": "Micro Intel Core i5-12400 +Disipador"
       },
       {
         "Price": 585.00,
@@ -1964,20 +1855,6 @@
         "Date": "2023-06-07T15:06:17.9384399-04:00",
         "Update": "2023-12-14T07:55:28.8181172-05:00",
         "Label": "Chasis MLLIQUEA Mining Rig Frame"
-      },
-      {
-        "Price": 230.00,
-        "Features": [
-          "Tempered Glass",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro",
-          "1xHDD"
-        ],
-        "Date": "2024-01-18T07:08:34.7724156-05:00",
-        "Update": "2024-01-18T08:30:01.0233257-05:00",
-        "Label": "Chasis Cougar Uniface S Black"
       }
     ],
     "Red": [
@@ -3255,21 +3132,6 @@
         "Date": "2023-10-13T09:28:17.4558563-04:00",
         "Update": "2023-12-24T03:38:07.0726858-05:00",
         "Label": "Mouse Logitech G402 Hyperion Fury Black"
-      },
-      {
-        "Price": 160.00,
-        "Features": [
-          "26000dpi",
-          "Inalámbrico",
-          "Optico",
-          "15 botones",
-          "Gaming",
-          "USB",
-          "Bluetooth"
-        ],
-        "Date": "2023-12-07T12:39:43.2578752-05:00",
-        "Update": "2023-12-24T03:38:07.1521847-05:00",
-        "Label": "Mouse Corsair DarkStar RGB"
       },
       {
         "Price": 50.00,
