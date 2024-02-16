@@ -3568,19 +3568,6 @@
         "Label": "Webcam C920s Pro Logitech"
       },
       {
-        "Price": 90.00,
-        "Features": [
-          "1080p",
-          "30 fps",
-          "Auto-focus",
-          "90 degree",
-          "USB"
-        ],
-        "Date": "2023-12-04T16:20:42.8197797-05:00",
-        "Update": "2023-12-22T07:03:55.3876308-05:00",
-        "Label": "Webcam C930e Logitech"
-      },
-      {
         "Price": 115.00,
         "Features": [
           "Sony",
@@ -3698,21 +3685,6 @@
         "Date": "2023-12-28T14:08:53.0334804-05:00",
         "Update": "2024-01-18T10:29:16.5258104-05:00",
         "Label": "Monitor AOC 24\" 165Hz VA 1ms"
-      },
-      {
-        "Price": 265.00,
-        "Features": [
-          "FHD",
-          "8Bits",
-          "FRC",
-          "1080p",
-          "250nit",
-          "DP",
-          "Flat"
-        ],
-        "Date": "2024-01-18T07:09:18.7560023-05:00",
-        "Update": "2024-01-18T10:29:16.5646629-05:00",
-        "Label": "Monitor Asus TUF 24\" 165Hz IPS 1ms SPK"
       },
       {
         "Price": 380.00,
