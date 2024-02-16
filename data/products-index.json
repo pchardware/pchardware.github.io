@@ -513,6 +513,18 @@
         "Date": "2023-09-11T09:08:38.0826889-04:00",
         "Update": "2024-01-30T09:04:52.2679927-05:00",
         "Label": "Fan Kit Asus TUF Gaming TF120 ARGB +Controller"
+      },
+      {
+        "Price": 23.00,
+        "Features": [
+          "1900rpm",
+          "76cfm",
+          "29db",
+          "3 Pin"
+        ],
+        "Date": "2023-10-03T06:55:42.9522312-04:00",
+        "Update": "2024-02-16T14:51:46.3649012-05:00",
+        "Label": "Fan Asus TUF Gaming TF120 ARGB"
       }
     ],
     "Fuente": [
@@ -756,6 +768,77 @@
         "Date": "2024-02-01T21:14:37.9187585-05:00",
         "Update": "2024-02-02T07:15:36.8533917-05:00",
         "Label": "Fuente Thermaltake Smart BM3 850W"
+      },
+      {
+        "Price": 170.00,
+        "Features": [
+          "80+ Bronze",
+          "Modular",
+          "850W",
+          "70A",
+          "2x 4+4 EPS",
+          "10x SATA",
+          "3x 6Pin",
+          "3x 6+2Pin"
+        ],
+        "Date": "2023-05-11T14:26:41.8517332-04:00",
+        "Update": "2024-02-16T14:51:46.3498243-05:00",
+        "Label": "Fuente EVGA 850 BQ"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "80+ PLATINUM",
+          "Full Modular",
+          "71A",
+          "2x 6+2Pin",
+          "14x SATA",
+          "3x 4+4 EPS",
+          "160mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-07-17T23:37:46.1740196-04:00",
+        "Update": "2024-02-16T14:51:46.3955737-05:00",
+        "Label": "Fuente Corsair HX850 850W"
+      },
+      {
+        "Price": 200.00,
+        "Features": [
+          "ATX 3.0",
+          "PCIe5",
+          "Fully Modular",
+          "80+ Gold",
+          "71A",
+          "3x 6+2Pin",
+          "1x 12+4Pin",
+          "7x SATA",
+          "2x 4+4 EPS",
+          "151mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-06-07T13:43:20.159516-04:00",
+        "Update": "2024-02-16T14:51:46.4921575-05:00",
+        "Label": "Fuente Corsair RM850e 850W"
+      },
+      {
+        "Price": 170.00,
+        "Features": [
+          "71A",
+          "80+ Gold",
+          "Full Modular",
+          "4x 6+2Pin",
+          "8x SATA",
+          "2x 4+4 EPS",
+          "Hydraulic",
+          "140mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-10-03T06:55:40.1387236-04:00",
+        "Update": "2024-02-16T14:51:46.5686549-05:00",
+        "Label": "Fuente Gigabyte UD850GM 850W"
       }
     ],
     "Disipador Líquido": [
@@ -998,6 +1081,29 @@
         "Date": "2023-05-11T13:08:14.7226355-04:00",
         "Update": "2024-01-15T18:18:29.8322909-05:00",
         "Label": "Disipador Líquido Corsair H60x RGB Elite"
+      },
+      {
+        "Price": 240.00,
+        "Features": [
+          "LCD",
+          "2500rpm",
+          "60cfm",
+          "38db",
+          "Graphene",
+          "2xFan",
+          "240mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "LGA 20XX",
+          "LGA 1366",
+          "AM4",
+          "TR4",
+          "sTRX4"
+        ],
+        "Date": "2023-08-29T08:41:25.9385748-04:00",
+        "Update": "2024-02-16T14:51:46.3797509-05:00",
+        "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce X 240"
       }
     ],
     "Disco Duro": [
@@ -1832,6 +1938,17 @@
         "Date": "2024-01-30T08:59:33.0160583-05:00",
         "Update": "2024-01-30T10:54:31.6938756-05:00",
         "Label": "RAM DDR4 G.Skill TridentZ RGB 16GB 3200Mhz"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "2x16GB",
+          "Disipadas",
+          "CL36"
+        ],
+        "Date": "2023-10-09T15:59:22.4913756-04:00",
+        "Update": "2024-02-16T14:51:46.4276068-05:00",
+        "Label": "RAM DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
       }
     ],
     "Chasis": [
@@ -2150,6 +2267,25 @@
         "Date": "2023-10-11T10:56:39.5272184-04:00",
         "Update": "2024-02-05T08:20:20.4469141-05:00",
         "Label": "Board ASRock B550M Pro SE"
+      },
+      {
+        "Price": 240.00,
+        "Features": [
+          "12va-13ra-14ta",
+          "DDR5",
+          "6000mhz",
+          "6xAudio",
+          "6xUSB",
+          "4xSATA",
+          "LGA1700",
+          "HDMI",
+          "DisplayPort",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-05-11T07:56:36.6020035-04:00",
+        "Update": "2024-02-16T14:51:46.5820986-05:00",
+        "Label": "Board Asus TUF Z690-Plus Wifi"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2479,6 +2615,60 @@
         "Date": "2024-01-30T08:59:21.7284372-05:00",
         "Update": "2024-01-30T10:47:53.7318957-05:00",
         "Label": "Tarjeta de Video MSI RTX 4070 Super Gaming X Slim 12GB"
+      },
+      {
+        "Price": 670.00,
+        "Features": [
+          "3xFan",
+          "2x8pin",
+          "750WR",
+          "1xHDMI",
+          "3xDP",
+          "320mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-12-17T00:52:01.2226849-05:00",
+        "Update": "2024-02-16T14:51:46.4604087-05:00",
+        "Label": "Tarjeta de Video Asus TUF Gaming RX 7800 XT OC 16GB"
+      },
+      {
+        "Price": 280.00,
+        "Features": [
+          "8GB",
+          "3xFan",
+          "1x8Pin",
+          "500WR",
+          "282mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-05-11T19:24:18.7527581-04:00",
+        "Update": "2024-02-16T14:51:46.4753778-05:00",
+        "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X 8GB"
+      },
+      {
+        "Price": 375.00,
+        "Features": [
+          "DLSS3",
+          "2xfan",
+          "1x8Pin",
+          "550WR",
+          "PCIe4",
+          "199mm",
+          "HDMI",
+          "3xDisplayPort",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-01-16T04:52:03.8982461-05:00",
+        "Update": "2024-02-16T14:51:46.5076809-05:00",
+        "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X Black OC 8GB"
       }
     ],
     "Disco Sólido": [
@@ -2731,6 +2921,18 @@
         "Date": "2024-02-01T21:14:27.8314934-05:00",
         "Update": "2024-02-02T07:15:36.8163605-05:00",
         "Label": "SSD M.2 MSI SPatium M371 500GB"
+      },
+      {
+        "Price": 120.00,
+        "Features": [
+          "7100mbs",
+          "700tbw",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-06-07T10:29:28.1707034-04:00",
+        "Update": "2024-02-16T14:51:46.3342136-05:00",
+        "Label": "SSD M.2 Corsair MP600 PRO XT 1TB"
       }
     ]
   },
@@ -3271,6 +3473,29 @@
         "Date": "2023-11-05T07:48:32.4491843-05:00",
         "Update": "2024-02-09T13:48:37.5657346-05:00",
         "Label": "Mouse Razer Orochi V2 Black"
+      },
+      {
+        "Price": 105.00,
+        "Features": [
+          "Inalámbrico",
+          "USB",
+          "1ms",
+          "Bluetooth",
+          "Híbrido",
+          "RGB",
+          "Gaming",
+          "iCUE",
+          "18k dpi",
+          "USB-C",
+          "Omron",
+          "Recargable",
+          "8 botónes",
+          "50H",
+          "Optico"
+        ],
+        "Date": "2023-10-23T12:31:56.2102743-04:00",
+        "Update": "2024-02-16T14:51:46.444501-05:00",
+        "Label": "Mouse Corsair Dark Core RGB Pro"
       }
     ],
     "Otros": [
@@ -3570,6 +3795,16 @@
         "Date": "2023-11-11T12:37:07.8205999-05:00",
         "Update": "2023-11-11T12:58:59.6207156-05:00",
         "Label": "Control XBox Seriex X Special Edition +Rechargeable Battery"
+      },
+      {
+        "Price": 77.00,
+        "Features": [
+          "Controller",
+          "2x AA Battery"
+        ],
+        "Date": "2023-10-09T15:59:03.9375048-04:00",
+        "Update": "2024-02-16T14:51:46.4109117-05:00",
+        "Label": "Control Xbox Core Wireless Black"
       }
     ],
     "Monitor": [
@@ -3715,6 +3950,21 @@
         "Date": "2024-01-30T08:58:58.7450569-05:00",
         "Update": "2024-01-30T10:47:53.6497331-05:00",
         "Label": "Monitor MSI PRO 25\" FHD 100Hz IPS 1ms SPK"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "1080p",
+          "8Bit",
+          "300nit",
+          "FHD",
+          "Flat",
+          "DP",
+          "HDMI"
+        ],
+        "Date": "2024-01-16T04:52:49.0259735-05:00",
+        "Update": "2024-02-16T14:51:46.54882-05:00",
+        "Label": "Monitor MSI Pro 24\" VA 100Hz 1ms"
       }
     ]
   }
