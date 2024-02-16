@@ -2220,23 +2220,6 @@
         "Label": "Tarjeta de Video MSI Ventus RTX 3050 2X XS 8GB OC"
       },
       {
-        "Price": 255.00,
-        "Features": [
-          "1x8Pin",
-          "500WR",
-          "190mm",
-          "DLSS",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica",
-          "1xFan"
-        ],
-        "Date": "2024-01-16T04:52:27.0502213-05:00",
-        "Update": "2024-01-17T06:21:07.3102241-05:00",
-        "Label": "Tarjeta de Video EVGA RTX 2060 SC Gaming 6GB"
-      },
-      {
         "Price": 495.00,
         "Features": [
           "Liquida",
