@@ -1,0 +1,23 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Otros",
+  "Images": [
+    "/images/products/fan-asus-tuf-gaming-tf120-argb-1.webp",
+    "/images/products/fan-asus-tuf-gaming-tf120-argb-2.webp",
+    "/images/products/fan-asus-tuf-gaming-tf120-argb-3.webp",
+    "/images/products/fan-asus-tuf-gaming-tf120-argb-4.webp",
+    "/images/products/fan-asus-tuf-gaming-tf120-argb-5.webp",
+    "/images/products/fan-asus-tuf-gaming-tf120-argb-6.webp"
+  ],
+  "Description": "Model\nBrand: ASUS\nModel: TUF Gaming TF120 ARGB\n\n\nDetails\nFan Counts: 1 Fan\nFan Controller: No Controller\nType: Case Fan\nFan Size: 120 x 120 x 25mm\nFan Thickness: 25mm\nBearing Type: Advanced Fluid Dynamic Bearing\nRPM: 1900 rpm (+/-10%)\nAir Flow: 76 CFM\nNoise Level: 29 dB(A)\nPower Connector: 3 Pin\nColor: Black / White\nLED: ARGB\n\n\nFeatures\nFeatures: Class-leading airflow, and low noise levels.\n\nAdvanced fluid dynamic bearing provides up to 250,000 hours of operation.\n\nPWM control: ultra-wide RPM range allows optimal cooling for all types of workloads.\n\nAnti-vibration pads reduce fan noise by damping rattling and vibration.\n\nA double-layer LED array produces deeper color saturation and more lighting effects than conventional RGB fans.\n\nAura Sync compatibility lets you coordinate colors and lighting effects with a huge range of hardware.",
+  "Price": 23.00,
+  "Features": [
+    "1900rpm",
+    "76cfm",
+    "29db",
+    "3 Pin"
+  ],
+  "Date": "2023-10-03T06:55:42.9522312-04:00",
+  "Update": "2024-02-16T14:51:46.3649012-05:00",
+  "Label": "Fan Asus TUF Gaming TF120 ARGB"
+}
