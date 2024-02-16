@@ -1,0 +1,20 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Memoria RAM",
+  "Images": [
+    "/images/products/ddr4-kingston-hyperx-fury-rgb-8gb-3466mhz-1.webp",
+    "/images/products/ddr4-kingston-hyperx-fury-rgb-8gb-3466mhz-2.webp",
+    "/images/products/ddr4-kingston-hyperx-fury-rgb-8gb-3466mhz-3.webp",
+    "/images/products/ddr4-kingston-hyperx-fury-rgb-8gb-3466mhz-4.webp"
+  ],
+  "Description": "Serie: HyperX FURY RGB\nTipo: 288-PiN DDR4 SDRAM\nCapacidad: 8GB\nVelocidad: 3466MHz PC4-27700\nLatencia:16\nVoltaje: 1.2V\nImpactante iluminación RGB con estilo audaz\nTecnología HyperX Infrared Sync\nPerfiles Intel XMP optimizados para los últimos chipsets de Intel",
+  "Price": 45.00,
+  "Features": [
+    "1x8GB",
+    "CL16",
+    "Disipada"
+  ],
+  "Date": "2024-02-16T14:42:28.5192676-05:00",
+  "Update": "2024-02-16T18:41:10.6663406-05:00",
+  "Label": "DDR4 Kingston HyperX Fury RGB 8GB 3466mhz"
+}
