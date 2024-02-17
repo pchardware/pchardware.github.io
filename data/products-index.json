@@ -3877,6 +3877,18 @@
         "Date": "2023-11-14T14:40:15.9290446-05:00",
         "Update": "2023-12-24T03:38:07.3205612-05:00",
         "Label": "Webcam Creative Live! Sync 4K"
+      },
+      {
+        "Price": 43.00,
+        "Features": [
+          "FHD",
+          "30FPS",
+          "Micrófono",
+          "USB"
+        ],
+        "Date": "2024-02-16T14:41:39.0644608-05:00",
+        "Update": "2024-02-17T13:31:46.7857501-05:00",
+        "Label": "Webcam TechZone 1080p"
       }
     ],
     "Control": [
