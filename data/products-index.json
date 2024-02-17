@@ -1,4 +1,24 @@
 {
+  "Computadoras": {
+    "Multimedia": [
+      {
+        "Price": 945.00,
+        "Features": [],
+        "Date": "2024-02-01T09:36:50.6762685-05:00",
+        "Update": "2024-02-17T13:17:10.3003842-05:00",
+        "Discount": 12.0,
+        "Label": "PC i3-12100 +B660M PRO RS +8GB DDR4 3200mhz +500GB M.2 +500W +Monitor 24\""
+      },
+      {
+        "Price": 985.00,
+        "Features": [],
+        "Date": "2024-01-28T07:09:38.8814766-05:00",
+        "Update": "2024-02-17T13:17:10.3158886-05:00",
+        "Discount": 12.0,
+        "Label": "PC i3-12100 +B660M PRO RS +16GB DDR4 +500GB M.2 +500W +Monitor 24\""
+      }
+    ]
+  },
   "Torres": {
     "Gamer": [
       {
@@ -16,6 +36,42 @@
         "Update": "2024-02-15T11:53:55.6286603-05:00",
         "Discount": 20.0,
         "Label": "Torre RTX 4060 OC 8GB +i7-13700K +Strix Z690-E Gaming +32GB DDR5 +500GBM.2 +750W"
+      }
+    ],
+    "Multimedia": [
+      {
+        "Price": 640.00,
+        "Features": [],
+        "Date": "2024-02-01T08:56:11.2827635-05:00",
+        "Update": "2024-02-17T13:17:10.2675633-05:00",
+        "Discount": 10.0,
+        "Label": "Torre Ryzen 3 5300G +B550M Pro SE +16GB DDR4 +500GB M.2 +600W + Chasis RGB"
+      },
+      {
+        "Price": 655.00,
+        "Features": [],
+        "Date": "2024-02-01T09:36:10.7393442-05:00",
+        "Update": "2024-02-17T13:17:10.2838976-05:00",
+        "Discount": 10.0,
+        "Label": "Torre i3-12100 +B660M PRO RS +8GB DDR4 +500GB M.2 +500W +Chasis RGB Black"
+      }
+    ],
+    "Pro": [
+      {
+        "Price": 900.00,
+        "Features": [],
+        "Date": "2024-02-03T13:09:53.5339892-05:00",
+        "Update": "2024-02-17T13:17:10.3347696-05:00",
+        "Discount": 15.0,
+        "Label": "Torre i5-12600K +Hyper 212 +B660M PRO RS +16GB DDR4 +500GB M.2 +750W +Chasis"
+      },
+      {
+        "Price": 830.00,
+        "Features": [],
+        "Date": "2024-02-03T13:12:38.6442938-05:00",
+        "Update": "2024-02-17T13:17:10.3517036-05:00",
+        "Discount": 10.0,
+        "Label": "Torre Ryzen 5 5600G +B550M Pro SE +32GB DDR4 +512GB M.2 +CORSAIR 650W +Chasis"
       }
     ]
   },
@@ -831,6 +887,37 @@
         "Date": "2023-10-03T06:55:40.1387236-04:00",
         "Update": "2024-02-16T14:51:46.5686549-05:00",
         "Label": "Fuente Gigabyte UD850GM 850W"
+      },
+      {
+        "Price": 130.00,
+        "Features": [
+          "59A",
+          "2x 6+2Pin",
+          "9x SATA",
+          "1x 4+4 EPS",
+          "140mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-08-16T09:16:30.0204629-04:00",
+        "Update": "2024-02-17T13:17:10.2152462-05:00",
+        "Label": "Fuente EVGA 750W"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "ATX 3.0",
+          "62A",
+          "80+ Bronze",
+          "Modular",
+          "1x16Pin",
+          "4x6+2Pin",
+          "150mm",
+          "PSU"
+        ],
+        "Date": "2024-01-23T14:30:45.0285877-05:00",
+        "Update": "2024-02-17T13:17:10.2307873-05:00",
+        "Label": "Fuente Thermaltake Smart BM3 750W"
       }
     ],
     "Disipador Líquido": [
@@ -1999,6 +2086,22 @@
         "Date": "2023-06-07T15:06:17.9384399-04:00",
         "Update": "2023-12-14T07:55:28.8181172-05:00",
         "Label": "Chasis MLLIQUEA Mining Rig Frame"
+      },
+      {
+        "Price": 190.00,
+        "Features": [
+          "Tempered Glass",
+          "3xFan ARGB",
+          "3xUSB",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "Negro",
+          "2xHDD"
+        ],
+        "Date": "2023-11-03T12:22:56.9620417-04:00",
+        "Update": "2024-02-17T13:17:10.2463448-05:00",
+        "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
       }
     ],
     "Red": [
