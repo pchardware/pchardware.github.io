@@ -573,6 +573,22 @@
         "Date": "2023-10-03T06:55:42.9522312-04:00",
         "Update": "2024-02-16T14:51:46.3649012-05:00",
         "Label": "Fan Asus TUF Gaming TF120 ARGB"
+      },
+      {
+        "Price": 90.00,
+        "Features": [
+          "Hydraulic",
+          "3xFan",
+          "1850rpm",
+          "59cfm",
+          "27.3db",
+          "4Pin",
+          "ARGB",
+          "120mm"
+        ],
+        "Date": "2024-02-16T17:53:25.4792152-05:00",
+        "Update": "2024-02-18T09:00:46.1700395-05:00",
+        "Label": "Fan Corsair AR120 RGB White, Kit"
       }
     ],
     "Fuente": [
@@ -1696,6 +1712,22 @@
         "Date": "2023-11-30T11:20:49.6412308-05:00",
         "Update": "2024-02-05T08:20:20.3952802-05:00",
         "Label": "Micro AMD Ryzen 5 5600X +Disipador"
+      },
+      {
+        "Price": 155.00,
+        "Features": [
+          "14va Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.7GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2024-02-16T17:52:51.8800101-05:00",
+        "Update": "2024-02-18T09:00:46.1524972-05:00",
+        "Label": "CPU - Intel Core i3-14100F"
       }
     ],
     "Memoria RAM": [
