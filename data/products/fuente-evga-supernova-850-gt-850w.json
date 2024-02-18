@@ -1,0 +1,31 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Fuente",
+  "Images": [
+    "/images/products/fuente-evga-supernova-850-gt-850w-1.webp",
+    "/images/products/fuente-evga-supernova-850-gt-850w-2.webp",
+    "/images/products/fuente-evga-supernova-850-gt-850w-3.webp",
+    "/images/products/fuente-evga-supernova-850-gt-850w-4.webp",
+    "/images/products/fuente-evga-supernova-850-gt-850w-5.webp",
+    "/images/products/fuente-evga-supernova-850-gt-850w-6.webp",
+    "/images/products/fuente-evga-supernova-850-gt-850w-7.webp",
+    "/images/products/fuente-evga-supernova-850-gt-850w-8.webp",
+    "/images/products/fuente-evga-supernova-850-gt-850w-9.webp"
+  ],
+  "Description": "General\nBrand: EVGA\nSeries: SuperNOVA 850 GT\nModel: 220-GT-0850-Y1\n\n\nDetails\nType: ATX12V / EPS12V\nMaximum Power: 850 W\nFans: 1 x 135mm Fluid Dynamic Bearing Fan\nPFC: Active\nMain Connector: 20+4Pin\n+12V Rails: Single\nPCI-Express Connector: 6 x 6+2-Pin\nSATA Power Connector: 9\nHaswell Support: Yes\nMax PSU Length: 150 mm\nModular: Full Modular\nEfficiency: 90% or higher (under typical load)\nEnergy-Efficient: 80 PLUS GOLD Certified\nProtection: OVP (Over Voltage Protection), UVP (Under Voltage Protections), OCP (Over Current Protection), OPP (Over Power Protection), SCP (Short Circuit Protection), and Dual OTP (Over Temperature Protection)\nInput Voltage: 100 - 240 V\nInput Frequency Range: 50/60 Hz\nInput Current: 10 - 5A\nOutput: +3.3V@20A, +5V@20A, +12V@70.8A, -12V@0.3A, +5Vsb@3A\nMTBF: 100,000 Hours\nApprovals: TUV, CB, CE, FCC, RCM, cTUVus, BSMI, CCC, WEEE, RoHS, Compliance with ErP Lot 3 2014 Requirement\nConnectors: 1 x 24 Pin ATX\n2 x 8 Pin EPS (4+4)\n6 x 8pin PCIe (6+2)\n9 x SATA\n3 x Four-Pin Peripheral\n1 x Floppy\n\n\nFeatures\nFeatures: Introducing the EVGA SuperNOVA GT Series of power supplies - the newest addition to the outstanding line of EVGA Power Supplies. Featuring 80 Plus Gold certification, 100% Japanese capacitors, a fluid dynamic bearing fan, and a fully modular design, this power supply is built for long-term usage and durability. Building upon EVGA's line of 80 Plus Gold rated power supplies, the EVGA GT Series combines all these features at a great price.\n\nEVGA Auto ECO Intelligent Thermal Control System eliminates fan noise at low to medium loads\n\n80 PLUS Gold certified, with 90% efficiency or higher under typical loads. \n\nHeavy-duty protections, including OVP (Over Voltage Protection), UVP (Under Voltage Protections), OCP (Over Current Protection), OPP (Over Power Protection), SCP (Short Circuit Protection), and Dual OTP (Over Temperature Protection)\n\n\nDimension & Weight\nDimensions: 3.39\" x 5.91\" x 5.91\"\nWeight: 3.7 lbs.",
+  "Price": 195.00,
+  "Features": [
+    "ATX",
+    "Fully Modular",
+    "80+ Gold",
+    "70A",
+    "3x 6+2Pin",
+    "7x SATA",
+    "2x 4+4 EPS",
+    "151mm",
+    "PSU"
+  ],
+  "Date": "2024-02-16T17:52:59.6712171-05:00",
+  "Update": "2024-02-18T08:39:33.8381054-05:00",
+  "Label": "Fuente EVGA SuperNOVA 850 GT 850W"
+}
