@@ -918,6 +918,23 @@
         "Date": "2024-01-23T14:30:45.0285877-05:00",
         "Update": "2024-02-17T13:17:10.2307873-05:00",
         "Label": "Fuente Thermaltake Smart BM3 750W"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "ATX",
+          "Fully Modular",
+          "80+ Gold",
+          "70A",
+          "3x 6+2Pin",
+          "7x SATA",
+          "2x 4+4 EPS",
+          "151mm",
+          "PSU"
+        ],
+        "Date": "2024-02-16T17:52:59.6712171-05:00",
+        "Update": "2024-02-18T08:39:33.8381054-05:00",
+        "Label": "Fuente EVGA SuperNOVA 850 GT 850W"
       }
     ],
     "Disipador Líquido": [
