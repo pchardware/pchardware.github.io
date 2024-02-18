@@ -2104,6 +2104,50 @@
         "Date": "2024-02-16T14:42:28.5192676-05:00",
         "Update": "2024-02-16T18:41:10.6663406-05:00",
         "Label": "DDR4 Kingston HyperX Fury RGB 8GB 3466mhz"
+      },
+      {
+        "Price": 45.00,
+        "Features": [
+          "1x8GB",
+          "CL16",
+          "Disipadas"
+        ],
+        "Date": "2024-02-16T14:41:51.7835873-05:00",
+        "Update": "2024-02-18T09:56:49.5447534-05:00",
+        "Label": "DDR4 ADATA XPG Spectrix D41 RGB 8GB 3000mhz"
+      },
+      {
+        "Price": 43.00,
+        "Features": [
+          "1x8GB",
+          "CL16",
+          "Disipadas"
+        ],
+        "Date": "2024-02-16T14:41:55.9514851-05:00",
+        "Update": "2024-02-18T09:56:49.5586742-05:00",
+        "Label": "DDR4 Team Group T-Force Delta 2 RGB 8GB 3200mhz White"
+      },
+      {
+        "Price": 40.00,
+        "Features": [
+          "1x8GB",
+          "CL15",
+          "Disipadas"
+        ],
+        "Date": "2024-02-16T14:41:59.9676662-05:00",
+        "Update": "2024-02-18T09:56:49.5728262-05:00",
+        "Label": "DDR4 Kingston HyperX Fury RGB 8GB 3000mhz"
+      },
+      {
+        "Price": 35.00,
+        "Features": [
+          "1x8GB",
+          "CL15",
+          "Disipadas"
+        ],
+        "Date": "2024-02-16T14:42:04.2392562-05:00",
+        "Update": "2024-02-18T09:56:49.5866773-05:00",
+        "Label": "DDR4 Kingston HyperX Fury 8GB 3000mhz"
       }
     ],
     "Chasis": [
