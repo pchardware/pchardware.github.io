@@ -1,0 +1,21 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/tarjeta-de-video-asus-tuf-rtx-4070-ti-super-1.webp",
+    "/images/products/tarjeta-de-video-asus-tuf-rtx-4070-ti-super-2.webp",
+    "/images/products/tarjeta-de-video-asus-tuf-rtx-4070-ti-super-3.webp",
+    "/images/products/tarjeta-de-video-asus-tuf-rtx-4070-ti-super-4.webp",
+    "/images/products/tarjeta-de-video-asus-tuf-rtx-4070-ti-super-5.webp",
+    "/images/products/tarjeta-de-video-asus-tuf-rtx-4070-ti-super-6.webp",
+    "/images/products/tarjeta-de-video-asus-tuf-rtx-4070-ti-super-7.webp"
+  ],
+  "Description": "Desarrollado por NVIDIA DLSS3, arco Ada Lovelace ultra eficiente y trazado de rayos completo\nNúcleos tensores de 4ª generación: hasta 4x rendimiento con DLSS 3 frente a renderizado de fuerza bruta\nNúcleos RT de 3ª generación: hasta 2x rendimiento de trazado de rayos\nVentiladores de tecnología axial ampliados para un 21% más de flujo de aire\nLos rodamientos de doble bola duran hasta el doble de tiempo que los diseños convencionales\nLos condensadores de grado militar clasificados para 20K horas a 105C hacen que el riel de alimentación de la GPU sea más duradero\nEl exoesqueleto metálico añade rigidez estructural y rejillas de ventilación para aumentar la fiabilidad del calor",
+  "Price": 1000.00,
+  "Features": [
+    "3xFAN"
+  ],
+  "Date": "2024-02-16T17:52:47.8557688-05:00",
+  "Update": "2024-02-18T08:48:14.999337-05:00",
+  "Label": "Tarjeta de video Asus TUF RTX 4070 Ti SUPER"
+}
