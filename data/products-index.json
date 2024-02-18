@@ -2816,10 +2816,20 @@
       {
         "Price": 1000.00,
         "Features": [
-          "3xFAN"
+          "3xFan",
+          "DLSS3",
+          "1x16Pin",
+          "750WR",
+          "305mm",
+          "3xDisplay Port",
+          "5xHDMI",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
         ],
         "Date": "2024-02-16T17:52:47.8557688-05:00",
-        "Update": "2024-02-18T08:48:14.999337-05:00",
+        "Update": "2024-02-18T08:55:47.5542559-05:00",
         "Label": "Tarjeta de video Asus TUF RTX 4070 Ti SUPER"
       }
     ],
@@ -3855,8 +3865,8 @@
           "Audífonos"
         ],
         "Date": "2024-02-16T14:41:43.232064-05:00",
-        "Update": "2024-02-18T08:48:14.9830467-05:00",
-        "Label": "Headset - Logitech G435 Lightspeed Wireless Negro"
+        "Update": "2024-02-18T08:55:18.006064-05:00",
+        "Label": "Auriculares Logitech G435 Lightspeed Wireless Negro"
       }
     ],
     "Webcam": [
