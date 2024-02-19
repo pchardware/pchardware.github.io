@@ -2121,6 +2121,17 @@
         "Date": "2024-02-16T14:42:04.2392562-05:00",
         "Update": "2024-02-18T09:56:49.5866773-05:00",
         "Label": "DDR4 Kingston HyperX Fury 8GB 3000mhz"
+      },
+      {
+        "Price": 160.00,
+        "Features": [
+          "2x32GB",
+          "Disipadas",
+          "C18"
+        ],
+        "Date": "2024-02-16T14:42:16.5355631-05:00",
+        "Update": "2024-02-19T04:36:36.2765378-05:00",
+        "Label": "DDR4 G.Skill Ripjaws V 64GB 3600mhz"
       }
     ],
     "Chasis": [
