@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-rtx-3060-ti-i5-12600k-z690-aero-g-16gb-ddr4-512-mt6dht-1.webp",
+    "/images/products/pc-rtx-3060-ti-i5-12600k-z690-aero-g-16gb-ddr4-512-mt6dht-2.webp",
+    "/images/products/pc-rtx-3060-ti-i5-12600k-z690-aero-g-16gb-ddr4-512-mt6dht-3.webp",
+    "/images/products/pc-rtx-3060-ti-i5-12600k-z690-aero-g-16gb-ddr4-512-mt6dht-4.webp",
+    "/images/products/pc-rtx-3060-ti-i5-12600k-z690-aero-g-16gb-ddr4-512-mt6dht-5.webp",
+    "/images/products/pc-rtx-3060-ti-i5-12600k-z690-aero-g-16gb-ddr4-512-mt6dht-6.webp",
+    "/images/products/pc-rtx-3060-ti-i5-12600k-z690-aero-g-16gb-ddr4-512-mt6dht-7.webp",
+    "/images/products/pc-rtx-3060-ti-i5-12600k-z690-aero-g-16gb-ddr4-512-mt6dht-8.webp",
+    "/images/products/pc-rtx-3060-ti-i5-12600k-z690-aero-g-16gb-ddr4-512-mt6dht-9.webp",
+    "/images/products/pc-rtx-3060-ti-i5-12600k-z690-aero-g-16gb-ddr4-512-mt6dht-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12600K\n+ Disipador Cooler Master Hyper 212 Spectrum V3\n+ Board Gigabyte Z690 AERO G DDR4\n+ RAM DDR4 GeIL ORION 16GB 3600mhz\n+ SSD M.2 HP FX900 Pro 512GB\n+ Tarjeta de Video Gigabyte RTX 3060 Ti Vision 8GB\n+ Fuente Thermaltake Smart BM3 850W\n+ Chasis Cougar Archon 2 Mesh RGB Black\n+ Monitor Asus TUF 24\" 165Hz 0.5ms SPK\n+ COMBO Teclado + Mouse Rosewill Fusion C40\n",
+  "Price": 1775.00,
+  "Features": [],
+  "Date": "2024-02-20T08:05:10.2849511-05:00",
+  "Update": "2024-02-20T08:10:52.7385388-05:00",
+  "Discount": 22.0,
+  "Label": "PC RTX 3060 Ti +i5-12600K +Z690 AERO G +16GB DDR4 +512GB M.2 +850W +Monitor 24\""
+}
