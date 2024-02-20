@@ -1,0 +1,22 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Mouse",
+  "Images": [
+    "/images/products/mouse-gigabyte-aorus-m2-accurate-1.webp",
+    "/images/products/mouse-gigabyte-aorus-m2-accurate-2.webp",
+    "/images/products/mouse-gigabyte-aorus-m2-accurate-3.webp",
+    "/images/products/mouse-gigabyte-aorus-m2-accurate-4.webp"
+  ],
+  "Description": "Model\nBrand: AORUS\nName: AORUS M2\nModel: GM-AORUS M2\n\n\nDetails\nType: Wired\nInterface: USB\nMouse Grip Style: Palm and claw grip\nTracking Method: Optical\nMaximum dpi: 6200 dpi\nHand Orientation: Both Hands\nButtons: 8\nScrolling Capability: 1 x Wheel\nColor: Matte Black\n\n\nFeatures\nFeatures: Light weight for professional gamer\n\nReal 6200 dpi optical engine\n\n50-million-click Omron switch\n\nRGB Fusion 2.0 - synchronize with other AORUS devices\n\nAmbidextrous design developed for palm and claw grip\n\nTwo thumb buttons on both sides\n\nOn-the-fly DPI adjustment",
+  "Price": 30.00,
+  "Features": [
+    "6200 dpi",
+    "Optico",
+    "8 botónes",
+    "RGB",
+    "USB"
+  ],
+  "Date": "2024-02-20T04:11:04.7025718-05:00",
+  "Update": "2024-02-20T16:49:46.0172803-05:00",
+  "Label": "Mouse Gigabyte Aorus M2 Accurate"
+}
