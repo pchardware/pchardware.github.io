@@ -3210,6 +3210,17 @@
         "Date": "2023-08-21T08:57:50.0608494-04:00",
         "Update": "2024-02-20T04:12:06.412676-05:00",
         "Label": "SSD M.2 Samsung 990 PRO 1TB"
+      },
+      {
+        "Price": 140.00,
+        "Features": [
+          "3600mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2024-02-20T04:08:11.8629348-05:00",
+        "Update": "2024-02-20T07:07:19.3992906-05:00",
+        "Label": "SSD M.2 MSI Spatium M450 2TB"
       }
     ]
   },
@@ -3773,6 +3784,19 @@
         "Date": "2023-10-23T12:31:56.2102743-04:00",
         "Update": "2024-02-16T14:51:46.444501-05:00",
         "Label": "Mouse Corsair Dark Core RGB Pro"
+      },
+      {
+        "Price": 30.00,
+        "Features": [
+          "6200 dpi",
+          "Optico",
+          "8 botónes",
+          "RGB",
+          "USB"
+        ],
+        "Date": "2024-02-20T04:11:04.7025718-05:00",
+        "Update": "2024-02-20T07:07:19.4247185-05:00",
+        "Label": "Mouse Gigabute Aorus M2 Accurate"
       }
     ],
     "Otros": [
