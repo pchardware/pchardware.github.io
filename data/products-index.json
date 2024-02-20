@@ -1432,6 +1432,29 @@
         "Date": "2024-01-27T21:38:36.4661258-05:00",
         "Update": "2024-01-29T01:33:18.3951298-05:00",
         "Label": "Disipador Thermalright Assassin X 120 R SE Plus"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "ARGB",
+          "63cfm",
+          "4xPipes",
+          "Cobre",
+          "1800rpm",
+          "25dBA",
+          "155mm",
+          "Blanco",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4",
+          "AM5",
+          "Tower",
+          "1xFan"
+        ],
+        "Date": "2023-10-16T10:24:39.6367232-04:00",
+        "Update": "2024-02-20T04:12:06.3830671-05:00",
+        "Label": "Disipador Thermaltake UX200 SE White"
       }
     ],
     "Microprocesador": [
@@ -2878,6 +2901,22 @@
         "Date": "2024-02-16T17:52:47.8557688-05:00",
         "Update": "2024-02-18T08:55:47.5542559-05:00",
         "Label": "Tarjeta de video Asus TUF RTX 4070 Ti SUPER"
+      },
+      {
+        "Price": 260.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "500WR",
+          "200mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-05T07:48:12.4491481-05:00",
+        "Update": "2024-02-20T04:12:06.3982902-05:00",
+        "Label": "Tarjeta de Video PowerColor RX 6600 Fighter 8GB"
       }
     ],
     "Disco Sólido": [
@@ -3118,6 +3157,17 @@
         "Date": "2024-02-01T21:14:27.8314934-05:00",
         "Update": "2024-02-02T07:15:36.8163605-05:00",
         "Label": "SSD M.2 MSI SPatium M371 500GB"
+      },
+      {
+        "Price": 155.00,
+        "Features": [
+          "7450mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-08-21T08:57:50.0608494-04:00",
+        "Update": "2024-02-20T04:12:06.412676-05:00",
+        "Label": "SSD M.2 Samsung 990 PRO 1TB"
       }
     ]
   },
