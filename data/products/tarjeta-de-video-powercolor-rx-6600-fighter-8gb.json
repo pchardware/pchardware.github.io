@@ -1,0 +1,26 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/tarjeta-de-video-powercolor-rx-6600-fighter-8gb-1.webp",
+    "/images/products/tarjeta-de-video-powercolor-rx-6600-fighter-8gb-2.webp",
+    "/images/products/tarjeta-de-video-powercolor-rx-6600-fighter-8gb-3.webp",
+    "/images/products/tarjeta-de-video-powercolor-rx-6600-fighter-8gb-4.webp",
+    "/images/products/tarjeta-de-video-powercolor-rx-6600-fighter-8gb-5.webp"
+  ],
+  "Description": "Model\nBrand: PowerColor\nSeries: Fighter\nModel: AXRX 6600 8GBD6-3DH\n\n\nInterface\nInterface: PCI Express 4.0\n\n\nChipset\nChipset Manufacturer: AMD\nGPU Series: AMD Radeon RX 6000 Series\nGPU: Radeon RX 6600\nArchitecture: RDNA 2\nGame Clock: 2044 MHz\nBoost Clock: 2491 MHz\nStream Processors: 1792 Stream Processors\n\n\nMemory\nEffective Memory Clock: 14 Gbps\nMemory Size: 8GB\nMemory Interface: 128-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12 Ultimate\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 1 x HDMI 2.1\nDisplayPort: 3 x DisplayPort 1.4\n\n\nDetails\nMax Resolution: 7680 x 4320\nVirtual Reality Ready: Yes\nCooler: Double Fans\nThermal Design Power: 132W\nRecommended PSU Wattage: 500W\nPower Connector: 8-Pin\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 200 mm\nCard Dimensions (L x H): 7.87\" x 4.37\"\nSlot Width: 2 Slots",
+  "Price": 260.00,
+  "Features": [
+    "2xFan",
+    "1x8Pin",
+    "500WR",
+    "200mm",
+    "Radeon",
+    "AMD",
+    "GPU",
+    "Gráfica"
+  ],
+  "Date": "2023-11-05T07:48:12.4491481-05:00",
+  "Update": "2024-02-20T04:12:06.3982902-05:00",
+  "Label": "Tarjeta de Video PowerColor RX 6600 Fighter 8GB"
+}
