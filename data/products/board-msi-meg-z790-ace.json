@@ -1,0 +1,32 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Board",
+  "Images": [
+    "/images/products/board-msi-meg-z790-ace-1.webp",
+    "/images/products/board-msi-meg-z790-ace-2.webp",
+    "/images/products/board-msi-meg-z790-ace-3.webp",
+    "/images/products/board-msi-meg-z790-ace-4.webp",
+    "/images/products/board-msi-meg-z790-ace-5.webp",
+    "/images/products/board-msi-meg-z790-ace-6.webp"
+  ],
+  "Description": "Model\nBrand: MSI\nModel: MEG Z790 ACE\n\n\nSupported CPU\nCPU Socket Type: LGA 1700\nCPU Type: Supports 13th / 12th Gen Intel Core Processors, Intel Pentium Gold, Celeron Processors\n\n\nChipsets\nChipset: Intel Z790\n\n\nMemory\nNumber of Memory Slots: 4x288pin (DDR5)\nMemory Standard: Supports 1R 5600 MHz (by JEDEC & POR)\n- 1DPC 1R Max speed up to 7600+ MHz\n- 1DPC 2R Max speed up to 6400+ MHz\n- 2DPC 1R Max speed up to 6800+ MHz\n- 2DPC 2R Max speed up to 5600+ MHz\n\nSupports Intel XMP3.0 OC\nSupports Dual-Controller Dual-Channel mode\nSupports non-ECC, un-buffered memory\nMaximum Memory Supported: 192GB\nChannel Supported: Dual Channel\nMemory Feature: Supports Intel XMP3.0 OC\nSupports Dual-Controller Dual-Channel mode \nSupports non-ECC, un-buffered memory\n* Please refer to www.msi.com for more information on compatible memory\n\n\nExpansion Slots\nPCI Express 5.0 x16: 2 x PCIe 5.0 x16 slots\n- Supports x16/x0, x8/x8\n- PCI_E1 & PCI_E2 slots (From CPU)\n\nSupports AMD CrossFire Technology\nPCI Express 4.0 x16: 1 x PCIe 4.0 x16 slots\n- supports up to PCIe 4.0 x4\n- PCI_E3 slot (From Z790 Chipset)\n\n\nStorage Devices\nSATA 6Gb/s: 6 x SATA 6Gb/s\nM.2: 2 x Key M (PCIe/SATA) + 3 x Key M (PCIe) + 1 x Key E (WiFi/BT)\n\n5x M.2 slots (Key M)\nM2_1 slot (From CPU)\n- Supports up to PCIe 4.0 x4\n- Supports 2260/ 2280/ 22110 storage devices\nM2_2 slot (From Z790 chipset)\n- Supports up to PCIe 4.0 x4\n- Supports 2260/ 2280 storage devices\nM2_3 slot (From Z790 chipset)\n- Supports up to PCIe 4.0 x4\n- Supports up to SATA 6Gb/s\n- Supports 2260/ 2280 storage devices\nM2_4 slot (From CPU)\n- Supports up to PCIe 5.0 x4\n- Supports 2280/22110 storage devices\nM2_5 slot (From Z790 chipset)\n- Supports up to PCIe 4.0 x4\n- Supports up to SATA 6Gb/s\n- Supports 2260/ 2280 storage devices\nSATA RAID: Supports RAID 0, RAID 1, RAID 5 and RAID 10 for SATA storage devices\nSupports RAID 0, RAID 1 and RAID 5 for M.2 NVMe storage devices\nAdditional RAID Controller: Supports RAID 0, RAID 1 and RAID 5 for M.2 NVMe storage devices\n\n\nOnboard Audio\nAudio Chipset: Realtek ALC4082 Codec + ES9280AQ PRO Combo DAC/HPA\nAudio Channels: 7.1 Channels\n\n\nOnboard LAN\nMax LAN Speed: 2.5Gbps\nWireless LAN: Intel Wi-Fi 6E\nBluetooth: Bluetooth 5.2\n\n\nRear Panel Ports\nBack I/O Ports: 1 x Clear CMOS button \n1 x Flash BIOS button \n1 x Smart button \n2 x LAN (RJ45) jacks \n7 x USB 3.2 Gen 2 10Gbps Type-A ports (From Z790 chipset & Hub-GL3590)\n1 x USB 3.2 Gen 2 10Gbps Type-C port (From Z790 chipset) \n2 x Thunderbolt 4 (USB-C) ports \n2 x Mini DisplayPort Inputs (for Thunderbolt 4 pass through)\n2 x Wi-Fi Antenna connectors \n5 x OFC audio jacks \n1 x Optical S/PDIF Out connector\n\n\nInternal I/O Connectors\nOnboard USB: 2 x USB 3.2 Gen 2 10Gbps Type-C ports (From Z790 chipset)*\n2 x USB 3.2 Gen 1 5Gbps connectors (From Hub GL3523) \n- Support additional 4 USB 3.2 Gen 1 5Gbps ports \n2 x USB 2.0 Type-A connectors (From Hub GL850G) \n- Supports additional 4 USB 2.0 ports\n* To achieve 60W PD fast charging for JUSB6, the PD_PWR1 connector needs to be connected to the power supply unit.\nOther Connectors: Fan Connectors\n1 x 4-pin CPU fan connector \n2 x 4-pin water-pump fan connectors \n5 x 4-pin system fan connectors\n\nSystem Connectors\n1 x Front panel audio connector \n2 x System panel connectors \n1 x Chassis Intrusion connector \n1 x 3-pin Water Flow connector \n1 x TPM module connector \n1 x Tuning Controller connector\n\nButton\n1 x Power button \n1 x Reset button\n\nJumpers\n1 x Clear CMOS jumper \n1 x Slow mode jumper \n2 x Low temperature booting jumpers \n1 x OC force enter BIOS jumper (Supports lower PCIe mode)\n\nLED Features\n1 x EZ LED Control switch \n1 x 4-pin RGB LED connector \n3 x 3-pin ARGB Gen2 LED connectors \n4 x EZ Debug LED \n1 x 2-Digit Debug Code LED\n\n\nPhysical Spec\nForm Factor: Extended ATX\nDimensions (W x L): 12.0\" x 10.9\"\nPower Pin: 1 x 24-pin ATX main power connector\n2 x 8-pin ATX 12V power connectors\n1 x 6-pin PD power connector\n\n\nWindows Compatibility\nWindows 11: Supported\n\n\nFeatures\nFeatures: MSI Center Features \n- Gaming Mode \n- Smart Priority \n- Game Highlights \n- Mystic Light \n- Ambient Devices \n- Frozr AI Cooling \n- User Scenario \n- True Color \n- Live Update \n- Hardware Monitoring \n- Super Charger \n- Devices Speed Up\n\nThermal Features \n- All Aluminum Design \n- Stacked Fin Array \n- Heat-pipe Design \n- M.2 Shield Frozr \n- K7 MOSFET thermal pad / Extrachoke pad\n- Fan headers (CPU + PUMP + SYSTEM)\n\nPerformance \n- Core Boost \n- VRM Power Design (VCPU / VGT / AUX)\n- Dual CPU Power(2x8 pin) \n- OC Engine \n- Memory Boost \n- Memory Force \n- Lightning Gen 5 PCI-E / M.2 Slot \n- Lightning Gen 4 PCI-E / M.2 Slot \n- Multi GPU Support-Crossfire \n- Thunderbolt 4 \n- Front USB Type-C \n- USB with PD \n- Server Grade PCB \n- 2oz Copper thickened PCB\n\nDIY Friendly \n- PCI-E Steel Armor \n- Pre-installed I/O Shield \n- Screwless M.2 Shield Frozr \n- EZ M.2 Clips \n- EZ DEBUG LED \n- EZ LED Control \n- Smart Button \n- System Saver\n\nAudio \n- Audio Boost 5 HD\n- RGB Support \n- Mystic Light \n- Mystic Light Extension (RGB) \n- Mystic Light Extension (A-RAINBOW V2)\n- Ambient Devices Support\n\nBIOS\n- Click BIOS 5",
+  "Price": 475.00,
+  "Features": [
+    "12Gen-13Gen-14Gen",
+    "DDR5",
+    "7600mhz",
+    "Wifi",
+    "7xUSB",
+    "6xSATA",
+    "LGA 1700",
+    "ATX",
+    "PS2",
+    "Mini DisplayPort",
+    "HDMI",
+    "6xAudio",
+    "MOBO"
+  ],
+  "Date": "2024-02-20T04:07:58.9113443-05:00",
+  "Update": "2024-02-20T06:59:15.8511171-05:00",
+  "Label": "Board MSI MEG Z790 ACE"
+}
