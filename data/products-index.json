@@ -3458,6 +3458,18 @@
         "Date": "2024-01-30T08:59:06.7844116-05:00",
         "Update": "2024-01-30T10:47:53.6828024-05:00",
         "Label": "Teclado Cooler Master SK622 Gray"
+      },
+      {
+        "Price": 90.00,
+        "Features": [
+          "Mecánico",
+          "Gaming",
+          "Full",
+          "TKL"
+        ],
+        "Date": "2024-02-20T04:08:15.7576333-05:00",
+        "Update": "2024-02-20T07:14:58.417012-05:00",
+        "Label": "Teclado Logitech G413 SE"
       }
     ],
     "Adaptador": [
