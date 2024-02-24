@@ -1147,6 +1147,20 @@
         "Date": "2023-08-29T08:41:25.9385748-04:00",
         "Update": "2024-02-16T14:51:46.3797509-05:00",
         "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce X 240"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "2xFan",
+          "240mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-03-27T12:00:02.0089284-04:00",
+        "Update": "2024-02-24T10:10:13.2569915-05:00",
+        "Label": "D.Líquida Cooler Master MasterLiquid ML240L ARGB V2"
       }
     ],
     "Disco Duro": [
