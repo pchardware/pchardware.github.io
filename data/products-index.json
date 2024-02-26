@@ -71,6 +71,16 @@
         "Discount": 10.0,
         "Label": "Torre i3-13100 +MSI Pro B760M-P +16GB DDR4 +500GB M.2 +500W +Chasis RGB"
       }
+    ],
+    "Entusiasta": [
+      {
+        "Price": 2695.00,
+        "Features": [],
+        "Date": "2024-02-26T13:59:49.4250136-05:00",
+        "Update": "2024-02-26T14:02:38.228768-05:00",
+        "Discount": 10.0,
+        "Label": "Torre RTX 4070 Super +i7-13700K +MMSI MPG Z790 EDGE +64GB DDR5 +2TB M.2 +850W"
+      }
     ]
   },
   "Kits": {
