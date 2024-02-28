@@ -2,7 +2,7 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 2440.00,
+        "Price": 2430.00,
         "Features": [],
         "Date": "2024-02-21T09:00:18.4690373-05:00",
         "Update": "2024-02-21T09:02:40.5998421-05:00",
@@ -30,7 +30,7 @@
         "Label": "Torre RTX 4060 OC 8GB +i7-13700K +Strix Z690-E Gaming +32GB DDR5 +500GBM.2 +750W"
       },
       {
-        "Price": 1990.00,
+        "Price": 1980.00,
         "Features": [],
         "Date": "2024-02-21T08:19:39.6848985-05:00",
         "Update": "2024-02-21T08:59:03.9780926-05:00",
@@ -38,7 +38,7 @@
         "Label": "Torre RX 7800 XT 16GB +i5-14600K +MSI Z790 Gaming +32GB DDR5 +1TB M.2 +850W"
       },
       {
-        "Price": 960.00,
+        "Price": 955.00,
         "Features": [],
         "Date": "2024-02-23T08:38:08.4984894-05:00",
         "Update": "2024-02-23T08:42:23.2096841-05:00",
@@ -74,7 +74,7 @@
     ],
     "Entusiasta": [
       {
-        "Price": 2685.00,
+        "Price": 2655.00,
         "Features": [],
         "Date": "2024-02-26T13:59:49.4250136-05:00",
         "Update": "2024-02-26T14:02:38.228768-05:00",
@@ -2613,7 +2613,7 @@
     ],
     "Tarjeta Gráfica": [
       {
-        "Price": 540.00,
+        "Price": 510.00,
         "Features": [
           "3xFan",
           "2x8Pin",
@@ -2663,7 +2663,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Gaming OC 8GB"
       },
       {
-        "Price": 495.00,
+        "Price": 475.00,
         "Features": [
           "Liquida",
           "2x8Pin",
@@ -2680,7 +2680,7 @@
         "Label": "Tarjeta de Video EVGA RTX 3080Ti XC3 Hydro Copper 12GB"
       },
       {
-        "Price": 435.00,
+        "Price": 425.00,
         "Features": [
           "3xFan",
           "1x8Pin + 1x6Pin",
@@ -2733,7 +2733,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4060 WindForce OC 8GB"
       },
       {
-        "Price": 355.00,
+        "Price": 345.00,
         "Features": [
           "3xFan",
           "2x8Pin",
@@ -2803,7 +2803,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 3050 WindForce OC 8GB"
       },
       {
-        "Price": 345.00,
+        "Price": 340.00,
         "Features": [
           "3xFan",
           "1x8Pin",
@@ -2819,7 +2819,7 @@
         "Label": "Tarjeta de Video Gigabyte RX 7600 8GB"
       },
       {
-        "Price": 630.00,
+        "Price": 620.00,
         "Features": [
           "2xFan",
           "700WR",
@@ -2836,7 +2836,7 @@
         "Label": "Tarjeta de Video Saphire RX 7800 XT 16GB"
       },
       {
-        "Price": 635.00,
+        "Price": 625.00,
         "Features": [
           "3xFan",
           "2x8Pin",
@@ -2854,7 +2854,7 @@
         "Label": "Tarjeta de Video Gigabyte RX 7800 XT Gaming 16GB OC"
       },
       {
-        "Price": 825.00,
+        "Price": 795.00,
         "Features": [
           "3xFan",
           "DLSS3",
@@ -2873,7 +2873,7 @@
         "Label": "Tarjeta de Video MSI RTX 4070 Super Gaming X Slim 12GB"
       },
       {
-        "Price": 665.00,
+        "Price": 655.00,
         "Features": [
           "3xFan",
           "2x8pin",
@@ -2891,7 +2891,7 @@
         "Label": "Tarjeta de Video Asus TUF Gaming RX 7800 XT OC 16GB"
       },
       {
-        "Price": 280.00,
+        "Price": 275.00,
         "Features": [
           "8GB",
           "3xFan",
@@ -2962,7 +2962,7 @@
         "Label": "Tarjeta de Video MSI Gaming X RTX 3050"
       },
       {
-        "Price": 365.00,
+        "Price": 360.00,
         "Features": [
           "3xFan",
           "1x8Pin",
@@ -3011,7 +3011,7 @@
         "Label": "Tarjeta de Video MSI Ventus RTX 3050 2X XS 8GB OC"
       },
       {
-        "Price": 275.00,
+        "Price": 265.00,
         "Features": [
           "2xFan",
           "550WR",
