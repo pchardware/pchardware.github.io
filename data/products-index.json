@@ -2775,22 +2775,6 @@
         "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X White OC 8GB"
       },
       {
-        "Price": 365.00,
-        "Features": [
-          "3xFan",
-          "1x8Pin",
-          "550WR",
-          "316mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "DLSS"
-        ],
-        "Date": "2023-06-29T07:39:14.2136094-04:00",
-        "Update": "2024-01-25T19:26:52.2373058-05:00",
-        "Label": "MSI Ventus 3x RTX 3060 12GB"
-      },
-      {
         "Price": 425.00,
         "Features": [
           "DLSS3",
@@ -2826,23 +2810,6 @@
         "Date": "2023-12-19T06:42:41.7210728-05:00",
         "Update": "2024-01-25T19:26:52.2957582-05:00",
         "Label": "Tarjeta de Video Gigabyte RTX 3050 WindForce OC 8GB"
-      },
-      {
-        "Price": 330.00,
-        "Features": [
-          "8GB",
-          "3xFan",
-          "1x8Pin",
-          "550WR",
-          "274mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Tarjeta de Video"
-        ],
-        "Date": "2023-10-13T09:28:55.7781232-04:00",
-        "Update": "2024-01-30T09:04:52.2969095-05:00",
-        "Label": "Gráfica XFX Qick 308 RX 7600"
       },
       {
         "Price": 345.00,
@@ -3000,8 +2967,41 @@
           "GPU"
         ],
         "Date": "2023-07-12T21:42:54.3752209-04:00",
-        "Update": "2024-02-28T05:32:17.4792451-05:00",
-        "Label": "MSI Gaming X RTX 3050"
+        "Update": "2024-02-28T06:06:48.9268049-05:00",
+        "Label": "Tarjeta de Video MSI Gaming X RTX 3050"
+      },
+      {
+        "Price": 365.00,
+        "Features": [
+          "3xFan",
+          "1x8Pin",
+          "550WR",
+          "316mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "DLSS"
+        ],
+        "Date": "2023-06-29T07:39:14.2136094-04:00",
+        "Update": "2024-02-28T06:06:48.9532641-05:00",
+        "Label": "Tarjeta de Video MSI Ventus 3x RTX 3060 12GB"
+      },
+      {
+        "Price": 330.00,
+        "Features": [
+          "8GB",
+          "3xFan",
+          "1x8Pin",
+          "550WR",
+          "274mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Tarjeta de Video"
+        ],
+        "Date": "2023-10-13T09:28:55.7781232-04:00",
+        "Update": "2024-02-28T06:06:48.9768256-05:00",
+        "Label": "Tarjeta de Video XFX Qick 308 RX 7600"
       }
     ],
     "Disco Sólido": [
