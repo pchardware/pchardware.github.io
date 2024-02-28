@@ -713,6 +713,13 @@
         "Date": "2023-08-21T08:58:21.6545554-04:00",
         "Update": "2024-02-28T05:32:17.4490895-05:00",
         "Label": "Fan Cooler Master SickleFlow 120 V2 ARGB"
+      },
+      {
+        "Price": 15.00,
+        "Features": [],
+        "Date": "2024-02-28T05:29:42.4360359-05:00",
+        "Update": "2024-02-28T07:53:53.6898996-05:00",
+        "Label": "Adaptador Cable USB-C a HDMI"
       }
     ],
     "Fuente": [
@@ -2656,22 +2663,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Gaming OC 8GB"
       },
       {
-        "Price": 290.00,
-        "Features": [
-          "2xFan",
-          "500WR",
-          "1x6Pin",
-          "205mm",
-          "NVIDIA",
-          "GPU",
-          "Gráfica",
-          "DLSS2"
-        ],
-        "Date": "2023-11-06T10:30:19.884438-05:00",
-        "Update": "2024-01-16T20:41:36.4734542-05:00",
-        "Label": "Tarjeta de Video MSI Ventus RTX 3050 2X XS 8GB OC"
-      },
-      {
         "Price": 495.00,
         "Features": [
           "Liquida",
@@ -3002,6 +2993,41 @@
         "Date": "2023-10-13T09:28:55.7781232-04:00",
         "Update": "2024-02-28T06:06:48.9768256-05:00",
         "Label": "Tarjeta de Video XFX Qick 308 RX 7600"
+      },
+      {
+        "Price": 290.00,
+        "Features": [
+          "2xFan",
+          "500WR",
+          "1x6Pin",
+          "205mm",
+          "NVIDIA",
+          "GPU",
+          "Gráfica",
+          "DLSS"
+        ],
+        "Date": "2023-11-06T10:30:19.884438-05:00",
+        "Update": "2024-02-28T07:53:53.478817-05:00",
+        "Label": "Tarjeta de Video MSI Ventus RTX 3050 2X XS 8GB OC"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "2xFan",
+          "550WR",
+          "201mm",
+          "1xHDMI",
+          "1xDisplayPort",
+          "1xDVI",
+          "PCIe4",
+          "NVIDIA",
+          "GPU",
+          "Gráfica",
+          "DLSS"
+        ],
+        "Date": "2024-02-28T05:29:52.7076632-05:00",
+        "Update": "2024-02-28T07:53:53.716607-05:00",
+        "Label": "Tarjeta de Video Asus Dual RTX 3050 6GB OC (2xFan)"
       }
     ],
     "Disco Sólido": [
@@ -3018,30 +3044,6 @@
         "Label": "SSD M.2 MSI SPatium M371 1TB"
       },
       {
-        "Price": 90.00,
-        "Features": [
-          "3500mbs",
-          "1660TBW",
-          "PCIe3",
-          "NVMe"
-        ],
-        "Date": "2023-12-19T06:41:55.578723-05:00",
-        "Update": "2024-01-24T02:11:20.6523681-05:00",
-        "Label": "SSD M.2 TeamGroup MP34 1TB"
-      },
-      {
-        "Price": 60.00,
-        "Features": [
-          "2100mbs",
-          "200TBW",
-          "PCIe3",
-          "NVMe"
-        ],
-        "Date": "2023-12-07T13:20:39.5602767-05:00",
-        "Update": "2024-01-24T02:11:20.6730896-05:00",
-        "Label": "SSD M.2 HP EX900 500GB"
-      },
-      {
         "Price": 80.00,
         "Features": [
           "3500mbs",
@@ -3052,18 +3054,6 @@
         "Date": "2023-12-07T13:20:26.5920422-05:00",
         "Update": "2024-01-24T02:11:20.7047976-05:00",
         "Label": "SSD M.2 TeamGroup T-Force Z44L 1TB"
-      },
-      {
-        "Price": 70.00,
-        "Features": [
-          "2400mbs",
-          "80TBW",
-          "PCIe3",
-          "NVMe"
-        ],
-        "Date": "2023-11-27T09:55:03.5320741-05:00",
-        "Update": "2024-01-24T02:11:20.7310914-05:00",
-        "Label": "SSD M.2 WD Green SN350 960GB"
       },
       {
         "Price": 55.00,
@@ -3086,18 +3076,6 @@
         "Date": "2023-11-24T09:48:53.7194411-05:00",
         "Update": "2024-01-24T02:11:20.7642629-05:00",
         "Label": "SSD 2.5 Acer SA100 960GB"
-      },
-      {
-        "Price": 75.00,
-        "Features": [
-          "2150mbs",
-          "500TBW",
-          "PCIe3",
-          "NVMe"
-        ],
-        "Date": "2024-01-17T02:39:31.0198684-05:00",
-        "Update": "2024-01-24T02:11:20.7956449-05:00",
-        "Label": "SSD M.2 HP EX900 1TB"
       },
       {
         "Price": 60.00,
@@ -3132,54 +3110,6 @@
         "Date": "2023-12-07T13:20:36.3839284-05:00",
         "Update": "2024-01-24T02:11:20.8552861-05:00",
         "Label": "SSD M.2 Solidigm P41 Plus 512GB"
-      },
-      {
-        "Price": 95.00,
-        "Features": [
-          "5000mbs",
-          "2000TBW",
-          "NVMe",
-          "PCIe4"
-        ],
-        "Date": "2024-01-23T14:30:33.8207872-05:00",
-        "Update": "2024-01-24T02:11:20.8828164-05:00",
-        "Label": "SSD M.2 AData Legend 850 1TB"
-      },
-      {
-        "Price": 90.00,
-        "Features": [
-          "5000mbs",
-          "600TBW",
-          "PCIe4",
-          "NVMe"
-        ],
-        "Date": "2024-01-23T14:30:49.6123113-05:00",
-        "Update": "2024-01-24T02:11:20.9055053-05:00",
-        "Label": "SSD M.2 Team Group MP44L 1TB"
-      },
-      {
-        "Price": 75.00,
-        "Features": [
-          "4800mbs",
-          "300TBW",
-          "PCIe4",
-          "NVMe"
-        ],
-        "Date": "2024-01-23T14:30:53.2121378-05:00",
-        "Update": "2024-01-24T02:11:20.9243016-05:00",
-        "Label": "SSD M.2 Corsair MP600 GS 500GB"
-      },
-      {
-        "Price": 80.00,
-        "Features": [
-          "7400mbs",
-          "300BTW",
-          "PCIe4",
-          "NVMe"
-        ],
-        "Date": "2024-01-27T21:38:27.250846-05:00",
-        "Update": "2024-01-28T05:39:24.5927026-05:00",
-        "Label": "SSD M.2 HP FX900 Pro 512GB"
       },
       {
         "Price": 110.00,
@@ -3218,30 +3148,6 @@
         "Date": "2024-01-30T08:59:46.8640677-05:00",
         "Update": "2024-01-30T10:47:53.8014196-05:00",
         "Label": "SSD M.2 Corsair MP600 PRO LPX 1TB White"
-      },
-      {
-        "Price": 85.00,
-        "Features": [
-          "3400mbs",
-          "600TBW",
-          "PCIe3",
-          "NVMe"
-        ],
-        "Date": "2024-01-16T04:52:23.8101464-05:00",
-        "Update": "2024-02-01T21:13:39.2765161-05:00",
-        "Label": "SSD M.2 Acer Predator GM3500 1TB"
-      },
-      {
-        "Price": 60.00,
-        "Features": [
-          "2200mbs",
-          "110TBW",
-          "NVMe",
-          "PCIe3"
-        ],
-        "Date": "2024-02-01T21:14:27.8314934-05:00",
-        "Update": "2024-02-02T07:15:36.8163605-05:00",
-        "Label": "SSD M.2 MSI SPatium M371 500GB"
       },
       {
         "Price": 155.00,
@@ -3289,6 +3195,138 @@
         "Date": "2023-10-03T06:56:34.7397369-04:00",
         "Update": "2024-02-28T05:32:17.4955931-05:00",
         "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 2TB"
+      },
+      {
+        "Price": 90.00,
+        "Features": [
+          "3500mbs",
+          "1660TBW",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-12-19T06:41:55.578723-05:00",
+        "Update": "2024-02-28T07:53:53.4936819-05:00",
+        "Label": "SSD M.2 TeamGroup MP34 1TB"
+      },
+      {
+        "Price": 60.00,
+        "Features": [
+          "2100mbs",
+          "200TBW",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-12-07T13:20:39.5602767-05:00",
+        "Update": "2024-02-28T07:53:53.5197741-05:00",
+        "Label": "SSD M.2 HP EX900 500GB"
+      },
+      {
+        "Price": 70.00,
+        "Features": [
+          "2400mbs",
+          "80TBW",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2023-11-27T09:55:03.5320741-05:00",
+        "Update": "2024-02-28T07:53:53.5384234-05:00",
+        "Label": "SSD M.2 WD Green SN350 960GB"
+      },
+      {
+        "Price": 75.00,
+        "Features": [
+          "2150mbs",
+          "500TBW",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2024-01-17T02:39:31.0198684-05:00",
+        "Update": "2024-02-28T07:53:53.552858-05:00",
+        "Label": "SSD M.2 HP EX900 1TB"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "5000mbs",
+          "2000TBW",
+          "NVMe",
+          "PCIe 4"
+        ],
+        "Date": "2024-01-23T14:30:33.8207872-05:00",
+        "Update": "2024-02-28T07:53:53.5680735-05:00",
+        "Label": "SSD M.2 AData Legend 850 1TB"
+      },
+      {
+        "Price": 90.00,
+        "Features": [
+          "5000mbs",
+          "600TBW",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2024-01-23T14:30:49.6123113-05:00",
+        "Update": "2024-02-28T07:53:53.5823128-05:00",
+        "Label": "SSD M.2 Team Group MP44L 1TB"
+      },
+      {
+        "Price": 75.00,
+        "Features": [
+          "4800mbs",
+          "300TBW",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2024-01-23T14:30:53.2121378-05:00",
+        "Update": "2024-02-28T07:53:53.5970948-05:00",
+        "Label": "SSD M.2 Corsair MP600 GS 500GB"
+      },
+      {
+        "Price": 80.00,
+        "Features": [
+          "7400mbs",
+          "300BTW",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2024-01-27T21:38:27.250846-05:00",
+        "Update": "2024-02-28T07:53:53.6122493-05:00",
+        "Label": "SSD M.2 HP FX900 Pro 512GB"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "3400mbs",
+          "600TBW",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2024-01-16T04:52:23.8101464-05:00",
+        "Update": "2024-02-28T07:53:53.6419818-05:00",
+        "Label": "SSD M.2 Acer Predator GM3500 1TB"
+      },
+      {
+        "Price": 60.00,
+        "Features": [
+          "2200mbs",
+          "110TBW",
+          "NVMe",
+          "PCIe 3"
+        ],
+        "Date": "2024-02-01T21:14:27.8314934-05:00",
+        "Update": "2024-02-28T07:53:53.6636979-05:00",
+        "Label": "SSD M.2 MSI SPatium M371 500GB"
+      },
+      {
+        "Price": 150.00,
+        "Features": [
+          "3200mbs",
+          "100TBW",
+          "PCIe 3",
+          "NVMe"
+        ],
+        "Date": "2024-02-28T05:30:02.4269478-05:00",
+        "Update": "2024-02-28T07:53:53.7718042-05:00",
+        "Label": "SSD M.2 WD SN350 2TB"
       }
     ]
   },
@@ -4329,22 +4367,6 @@
         "Label": "Monitor Acer Nitro 32\" VA 1ms 165Hz"
       },
       {
-        "Price": 235.00,
-        "Features": [
-          "8bit",
-          "FRC",
-          "Gaming",
-          "300nit",
-          "FHD",
-          "1080p",
-          "HDMI",
-          "Flat"
-        ],
-        "Date": "2024-01-30T08:58:58.7450569-05:00",
-        "Update": "2024-01-30T10:47:53.6497331-05:00",
-        "Label": "Monitor MSI PRO 25\" FHD 100Hz IPS 1ms SPK"
-      },
-      {
         "Price": 215.00,
         "Features": [
           "1080p",
@@ -4358,6 +4380,38 @@
         "Date": "2024-01-16T04:52:49.0259735-05:00",
         "Update": "2024-02-16T14:51:46.54882-05:00",
         "Label": "Monitor MSI Pro 24\" VA 100Hz 1ms"
+      },
+      {
+        "Price": 235.00,
+        "Features": [
+          "8bit",
+          "FRC",
+          "Gaming",
+          "300nit",
+          "FHD",
+          "1080p",
+          "HDMI",
+          "Flat"
+        ],
+        "Date": "2024-01-30T08:58:58.7450569-05:00",
+        "Update": "2024-02-28T07:53:53.6270823-05:00",
+        "Label": "Monitor MSI PRO 25\" 100Hz IPS 1ms SPK"
+      },
+      {
+        "Price": 265.00,
+        "Features": [
+          "8Bits",
+          "FRC",
+          "FHD",
+          "250nit",
+          "FLAT",
+          "DP",
+          "HDMI",
+          "Speakers"
+        ],
+        "Date": "2024-02-28T05:29:58.139187-05:00",
+        "Update": "2024-02-28T07:53:53.7454237-05:00",
+        "Label": "Monitor AOpen FireLegend 24\" IPS 180Hz 1ms"
       }
     ]
   }
