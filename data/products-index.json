@@ -3925,19 +3925,6 @@
         "Label": "WebCam Logitech C270h"
       },
       {
-        "Price": 80.00,
-        "Features": [
-          "1080p",
-          "Autofocus",
-          "Stereo",
-          "Micrófono",
-          "USB"
-        ],
-        "Date": "2023-05-12T07:54:32.8971269-04:00",
-        "Update": "2023-12-22T07:03:55.3543304-05:00",
-        "Label": "Webcam C920s Pro Logitech"
-      },
-      {
         "Price": 43.00,
         "Features": [
           "FHD",
