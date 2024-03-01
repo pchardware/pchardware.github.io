@@ -2,14 +2,6 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 2430.00,
-        "Features": [],
-        "Date": "2024-02-21T09:00:18.4690373-05:00",
-        "Update": "2024-02-21T09:02:40.5998421-05:00",
-        "Discount": 27.0,
-        "Label": "PC RX 7800 XT 16GB +i5-14600K +MSI Z790 Gaming +32GB DDR5 +850W +Monitor 27\""
-      },
-      {
         "Price": 1800.00,
         "Features": [],
         "Date": "2024-03-01T09:20:04.9267551-05:00",
@@ -22,28 +14,12 @@
   "Torres": {
     "Gamer": [
       {
-        "Price": 1590.00,
-        "Features": [],
-        "Date": "2024-02-13T15:14:44.692589-05:00",
-        "Update": "2024-02-13T15:18:17.5334174-05:00",
-        "Discount": 25.0,
-        "Label": "Torre RTX 4060 OC 12GB +i7-12700K +MSI Z790 Gaming +32GB DDR5 +500GB M.2 +850W"
-      },
-      {
         "Price": 1715.00,
         "Features": [],
         "Date": "2024-02-15T10:20:41.9435051-05:00",
         "Update": "2024-02-15T11:53:55.6286603-05:00",
         "Discount": 20.0,
         "Label": "Torre RTX 4060 OC 8GB +i7-13700K +Strix Z690-E Gaming +32GB DDR5 +500GBM.2 +750W"
-      },
-      {
-        "Price": 1980.00,
-        "Features": [],
-        "Date": "2024-02-21T08:19:39.6848985-05:00",
-        "Update": "2024-02-21T08:59:03.9780926-05:00",
-        "Discount": 20.0,
-        "Label": "Torre RX 7800 XT 16GB +i5-14600K +MSI Z790 Gaming +32GB DDR5 +1TB M.2 +850W"
       },
       {
         "Price": 955.00,
@@ -106,7 +82,7 @@
     ],
     "Entusiasta": [
       {
-        "Price": 2655.00,
+        "Price": 2660.00,
         "Features": [],
         "Date": "2024-02-26T13:59:49.4250136-05:00",
         "Update": "2024-02-26T14:02:38.228768-05:00",
@@ -192,38 +168,6 @@
         "Date": "2024-02-05T08:00:08.1283876-05:00",
         "Update": "2024-02-05T08:20:20.6366797-05:00",
         "Label": "Kit Intel Core i7-12700K + Asus ROG Strix Z690-E Gaming Wifi"
-      },
-      {
-        "Price": 585.00,
-        "Features": [
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "2x8GB",
-          "DDR4",
-          "Disipadas",
-          "Wifi",
-          "8xUSB",
-          "6xSATA"
-        ],
-        "Date": "2024-02-26T10:02:49.6528025-05:00",
-        "Update": "2024-02-26T10:11:08.9947558-05:00",
-        "Discount": 5.0,
-        "Label": "Kit i5-12600K +Hyper 212 Spectrum V3 +Z690 AERO G DDR4 +16GB DDR4 3200mhz"
-      },
-      {
-        "Price": 520.00,
-        "Features": [
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "Wifi",
-          "8xUSB",
-          "6xSATA"
-        ],
-        "Date": "2024-02-26T10:08:53.3357047-05:00",
-        "Update": "2024-02-26T10:11:09.0133978-05:00",
-        "Label": "Kit Intel Core i5-12600K +Hyper 212 Spectrum V3 +Gigabyte Z690 AERO G DDR4"
       }
     ],
     "Moderado": [
@@ -932,22 +876,6 @@
         "Label": "Fuente Corsair HX1500i 1500W"
       },
       {
-        "Price": 210.00,
-        "Features": [
-          "80+ Gold",
-          "Full Modular",
-          "ATX 3.0",
-          "2x 4+4 EPS",
-          "71A",
-          "3x 6+2Pin",
-          "5x SATA",
-          "PSU"
-        ],
-        "Date": "2023-05-11T14:26:27.9739641-04:00",
-        "Update": "2024-02-01T19:13:00.3025432-05:00",
-        "Label": "Fuente Asus TUF 850W"
-      },
-      {
         "Price": 185.00,
         "Features": [
           "ATX 3.0",
@@ -1048,23 +976,6 @@
         "Date": "2023-10-03T06:55:40.1387236-04:00",
         "Update": "2024-02-16T14:51:46.5686549-05:00",
         "Label": "Fuente Gigabyte UD850GM 850W"
-      },
-      {
-        "Price": 195.00,
-        "Features": [
-          "ATX",
-          "Fully Modular",
-          "80+ Gold",
-          "70A",
-          "3x 6+2Pin",
-          "7x SATA",
-          "2x 4+4 EPS",
-          "151mm",
-          "PSU"
-        ],
-        "Date": "2024-02-16T17:52:59.6712171-05:00",
-        "Update": "2024-02-18T08:39:33.8381054-05:00",
-        "Label": "Fuente EVGA SuperNOVA 850 GT 850W"
       }
     ],
     "Disipador Líquido": [
@@ -1899,17 +1810,6 @@
         "Label": "RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz"
       },
       {
-        "Price": 155.00,
-        "Features": [
-          "2x16GB",
-          "CL36",
-          "Disipadas"
-        ],
-        "Date": "2023-11-03T12:23:00.2905889-04:00",
-        "Update": "2023-12-28T14:06:43.9565199-05:00",
-        "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 7000mhz"
-      },
-      {
         "Price": 85.00,
         "Features": [
           "2x16GB",
@@ -2504,26 +2404,6 @@
         "Label": "Board MSI Pro B760M-P DDR4"
       },
       {
-        "Price": 270.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "7200mhz",
-          "Wifi",
-          "Dual Lan",
-          "7xUSB",
-          "4xSATA",
-          "HDMI",
-          "LGA 1700",
-          "6xAudio",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-10-16T10:24:22.1843395-04:00",
-        "Update": "2024-01-28T05:53:50.9374643-05:00",
-        "Label": "Board MSI Z790 Gaming Pro Wifi"
-      },
-      {
         "Price": 135.00,
         "Features": [
           "AM4",
@@ -2580,27 +2460,6 @@
         "Date": "2024-02-16T17:53:32.8637228-05:00",
         "Update": "2024-02-18T08:30:42.7902155-05:00",
         "Label": "Board MSI MEG Z690 ACE"
-      },
-      {
-        "Price": 225.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR4",
-          "5333mhz",
-          "Wifi",
-          "8xUSB",
-          "6xSATA",
-          "4xM.2",
-          "LGA 1700",
-          "ATX",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio",
-          "MOBO"
-        ],
-        "Date": "2024-02-18T08:16:18.8265622-05:00",
-        "Update": "2024-02-18T08:30:42.8054839-05:00",
-        "Label": "Board Gigabyte Z690 AERO G DDR4"
       },
       {
         "Price": 405.00,
@@ -3193,7 +3052,7 @@
         "Label": "SSD M.2 Samsung 990 PRO 1TB"
       },
       {
-        "Price": 140.00,
+        "Price": 145.00,
         "Features": [
           "3600mbs",
           "PCIe 4",
@@ -3216,7 +3075,7 @@
         "Label": "SSD M.2 Samsung 980 PRO 1TB"
       },
       {
-        "Price": 145.00,
+        "Price": 165.00,
         "Features": [
           "7000mbs",
           "1400tbw",
@@ -3349,7 +3208,7 @@
         "Label": "SSD M.2 MSI SPatium M371 500GB"
       },
       {
-        "Price": 150.00,
+        "Price": 140.00,
         "Features": [
           "3200mbs",
           "100TBW",
@@ -3364,25 +3223,6 @@
   },
   "Periféricos": {
     "Teclado": [
-      {
-        "Price": 130.00,
-        "Features": [
-          "Mecánico",
-          "RGB",
-          "Anti ghosting",
-          "Aluminio",
-          "Macros",
-          "USB passthrough",
-          "Aura Sync",
-          "Palm rest",
-          "Multimedia",
-          "Full",
-          "Gaming"
-        ],
-        "Date": "2023-06-19T07:48:47.3789137-04:00",
-        "Update": "2023-06-24T10:51:11.3940285-04:00",
-        "Label": "Teclado Asus TUF Gaming K3"
-      },
       {
         "Price": 93.00,
         "Features": [
@@ -3527,21 +3367,6 @@
         "Label": "PBT Backlit Keycap Upgrade Set White"
       },
       {
-        "Price": 77.00,
-        "Features": [
-          "RGB",
-          "Gaming",
-          "Semi mecánico",
-          "Palm rest",
-          "Full",
-          "4000dpi",
-          "Optico"
-        ],
-        "Date": "2023-05-11T20:29:45.5785203-04:00",
-        "Update": "2023-12-28T14:06:43.9055807-05:00",
-        "Label": "COMBO Teclado + Mouse Rosewill Fusion C40"
-      },
-      {
         "Price": 120.00,
         "Features": [
           "Mecánico",
@@ -3637,17 +3462,117 @@
         "Label": "Cable DisplayPort a HDMI, 1m"
       }
     ],
-    "Mouse": [
+    "Otros": [
       {
-        "Price": 55.00,
+        "Price": 14.00,
         "Features": [
-          "Limited Edition",
-          "Extra-Large"
+          "130Mbps",
+          "USB 3.0"
         ],
-        "Date": "2023-08-01T11:15:25.8644328-04:00",
-        "Update": "2023-08-01T18:30:20.4296613-04:00",
-        "Label": "Mouse Pad Asus NC01 ROG Sheath BLK"
+        "Date": "2023-06-07T15:06:36.3165573-04:00",
+        "Update": "2023-10-09T17:48:20.6185397-04:00",
+        "Label": "Memoria Flash Corsair Voyager Slider X1 64GB"
       },
+      {
+        "Price": 13.00,
+        "Features": [],
+        "Date": "2023-08-21T08:58:46.2630253-04:00",
+        "Update": "2023-11-24T11:14:38.7230529-05:00",
+        "Label": "Cable HDMI 2.1, 0.9m"
+      },
+      {
+        "Price": 10.00,
+        "Features": [],
+        "Date": "2023-08-21T08:58:50.8949152-04:00",
+        "Update": "2023-11-24T11:14:38.7496521-05:00",
+        "Label": "Cable HDMI 2.0, 1.8m"
+      },
+      {
+        "Price": 16.00,
+        "Features": [],
+        "Date": "2023-08-21T08:59:01.7749952-04:00",
+        "Update": "2023-11-24T11:14:38.7799791-05:00",
+        "Label": "Cable DisplayPort 1.4, 0.9m"
+      },
+      {
+        "Price": 20.00,
+        "Features": [],
+        "Date": "2023-08-21T08:58:55.8070561-04:00",
+        "Update": "2023-11-24T11:14:38.9583469-05:00",
+        "Label": "Cable DisplayPort 1.4, 1.8m"
+      },
+      {
+        "Price": 13.00,
+        "Features": [
+          "Extension"
+        ],
+        "Date": "2023-11-03T12:22:45.5376533-04:00",
+        "Update": "2023-11-24T11:14:38.9904937-05:00",
+        "Label": "Cable Omni Gear USB 3.0 Extender 0.9m"
+      },
+      {
+        "Price": 6.00,
+        "Features": [],
+        "Date": "2023-12-04T16:21:19.8112801-05:00",
+        "Update": "2023-12-05T16:42:29.9802402-05:00",
+        "Label": "Cable SATA a 2xSATA"
+      },
+      {
+        "Price": 4.00,
+        "Features": [],
+        "Date": "2023-12-04T16:21:23.4675923-05:00",
+        "Update": "2023-12-05T16:45:36.904454-05:00",
+        "Label": "Cable SATA a Molex"
+      },
+      {
+        "Price": 65.00,
+        "Features": [],
+        "Date": "2024-01-18T07:09:13.1565681-05:00",
+        "Update": "2024-01-18T08:30:01.1436413-05:00",
+        "Label": "HUB BYTECC U3-10HUB 10x USB 3.0 5A"
+      },
+      {
+        "Price": 5.00,
+        "Features": [],
+        "Date": "2024-01-03T08:13:00.6537346-05:00",
+        "Update": "2024-01-28T06:49:14.6733309-05:00",
+        "Label": "Cable Molex a SATA"
+      }
+    ],
+    "Externo": [
+      {
+        "Price": 50.00,
+        "Features": [
+          "USB-A",
+          "Enclosure"
+        ],
+        "Date": "2023-10-02T14:29:27.3170143-04:00",
+        "Update": "2023-10-09T17:48:21.5099705-04:00",
+        "Label": "Caja Externo 3.5 Orico USB 3.0 3588US3-BK"
+      },
+      {
+        "Price": 17.00,
+        "Features": [
+          "USB-A",
+          "Enclosure"
+        ],
+        "Date": "2023-11-18T08:41:57.2185659-05:00",
+        "Update": "2023-11-18T09:38:43.2247793-05:00",
+        "Label": "Caja Externo 2.5 ORICO USB 3.0 PDD25PW1-U3"
+      },
+      {
+        "Price": 50.00,
+        "Features": [
+          "2.5",
+          "3.5",
+          "USB3"
+        ],
+        "Date": "2023-10-18T06:47:28.3292927-04:00",
+        "Update": "2023-12-04T16:09:51.4924274-05:00",
+        "Label": "Docking NEXIN 1xBay NEX-DS1U3"
+      }
+    ],
+    "Mouse": [
       {
         "Price": 65.00,
         "Features": [
@@ -3737,17 +3662,6 @@
         "Date": "2023-06-29T07:38:41.0713-04:00",
         "Update": "2023-12-24T03:38:06.9461565-05:00",
         "Label": "Mouse Corsair Sabre RGB Pro"
-      },
-      {
-        "Price": 45.00,
-        "Features": [
-          "Reforzado",
-          "Tela",
-          "Anti-Fray"
-        ],
-        "Date": "2023-06-19T07:49:14.3324582-04:00",
-        "Update": "2023-12-24T03:38:07.0075754-05:00",
-        "Label": "Mouse Pad Corsair MM300 Extended"
       },
       {
         "Price": 47.00,
@@ -3949,227 +3863,6 @@
         "Label": "Mouse Gigabyte Aorus M2 Accurate"
       }
     ],
-    "Otros": [
-      {
-        "Price": 14.00,
-        "Features": [
-          "130Mbps",
-          "USB 3.0"
-        ],
-        "Date": "2023-06-07T15:06:36.3165573-04:00",
-        "Update": "2023-10-09T17:48:20.6185397-04:00",
-        "Label": "Memoria Flash Corsair Voyager Slider X1 64GB"
-      },
-      {
-        "Price": 13.00,
-        "Features": [],
-        "Date": "2023-08-21T08:58:46.2630253-04:00",
-        "Update": "2023-11-24T11:14:38.7230529-05:00",
-        "Label": "Cable HDMI 2.1, 0.9m"
-      },
-      {
-        "Price": 10.00,
-        "Features": [],
-        "Date": "2023-08-21T08:58:50.8949152-04:00",
-        "Update": "2023-11-24T11:14:38.7496521-05:00",
-        "Label": "Cable HDMI 2.0, 1.8m"
-      },
-      {
-        "Price": 16.00,
-        "Features": [],
-        "Date": "2023-08-21T08:59:01.7749952-04:00",
-        "Update": "2023-11-24T11:14:38.7799791-05:00",
-        "Label": "Cable DisplayPort 1.4, 0.9m"
-      },
-      {
-        "Price": 20.00,
-        "Features": [],
-        "Date": "2023-08-21T08:58:55.8070561-04:00",
-        "Update": "2023-11-24T11:14:38.9583469-05:00",
-        "Label": "Cable DisplayPort 1.4, 1.8m"
-      },
-      {
-        "Price": 13.00,
-        "Features": [
-          "Extension"
-        ],
-        "Date": "2023-11-03T12:22:45.5376533-04:00",
-        "Update": "2023-11-24T11:14:38.9904937-05:00",
-        "Label": "Cable Omni Gear USB 3.0 Extender 0.9m"
-      },
-      {
-        "Price": 6.00,
-        "Features": [],
-        "Date": "2023-12-04T16:21:19.8112801-05:00",
-        "Update": "2023-12-05T16:42:29.9802402-05:00",
-        "Label": "Cable SATA a 2xSATA"
-      },
-      {
-        "Price": 4.00,
-        "Features": [],
-        "Date": "2023-12-04T16:21:23.4675923-05:00",
-        "Update": "2023-12-05T16:45:36.904454-05:00",
-        "Label": "Cable SATA a Molex"
-      },
-      {
-        "Price": 65.00,
-        "Features": [],
-        "Date": "2024-01-18T07:09:13.1565681-05:00",
-        "Update": "2024-01-18T08:30:01.1436413-05:00",
-        "Label": "HUB BYTECC U3-10HUB 10x USB 3.0 5A"
-      },
-      {
-        "Price": 5.00,
-        "Features": [],
-        "Date": "2024-01-03T08:13:00.6537346-05:00",
-        "Update": "2024-01-28T06:49:14.6733309-05:00",
-        "Label": "Cable Molex a SATA"
-      }
-    ],
-    "Externo": [
-      {
-        "Price": 50.00,
-        "Features": [
-          "USB-A",
-          "Enclosure"
-        ],
-        "Date": "2023-10-02T14:29:27.3170143-04:00",
-        "Update": "2023-10-09T17:48:21.5099705-04:00",
-        "Label": "Caja Externo 3.5 Orico USB 3.0 3588US3-BK"
-      },
-      {
-        "Price": 17.00,
-        "Features": [
-          "USB-A",
-          "Enclosure"
-        ],
-        "Date": "2023-11-18T08:41:57.2185659-05:00",
-        "Update": "2023-11-18T09:38:43.2247793-05:00",
-        "Label": "Caja Externo 2.5 ORICO USB 3.0 PDD25PW1-U3"
-      },
-      {
-        "Price": 50.00,
-        "Features": [
-          "2.5",
-          "3.5",
-          "USB3"
-        ],
-        "Date": "2023-10-18T06:47:28.3292927-04:00",
-        "Update": "2023-12-04T16:09:51.4924274-05:00",
-        "Label": "Docking NEXIN 1xBay NEX-DS1U3"
-      }
-    ],
-    "Auriculares": [
-      {
-        "Price": 125.00,
-        "Features": [
-          "Noise Control",
-          "20Hz-30KHz",
-          "50mm",
-          "7.1",
-          "16H",
-          "iCUE",
-          "Inalámbrico",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-05-12T07:52:40.6205045-04:00",
-        "Update": "2023-10-31T15:04:42.8798518-04:00",
-        "Label": "Auriculares Corsair VOID RGB Elite Wireless Carbon"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "Hi-Res",
-          "7.1",
-          "RGB",
-          "USB-C",
-          "USB-A",
-          "50mm",
-          "20hz-40khz",
-          "32ohm",
-          "310g",
-          "Micrófono",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-10-23T12:32:21.2274943-04:00",
-        "Update": "2023-11-27T09:23:42.4497275-05:00",
-        "Label": "Auriculares Asus ROG Fusion II 300 Gaming"
-      },
-      {
-        "Price": 67.00,
-        "Features": [
-          "Inalámbrico",
-          "40mm",
-          "USB",
-          "18H",
-          "165g",
-          "Headset",
-          "Micrófono",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-07-09T16:45:46.4090102-04:00",
-        "Update": "2023-12-08T14:08:33.4615609-05:00",
-        "Label": "Auriculares Logitech G435 Lightspeed Wireless"
-      },
-      {
-        "Price": 125.00,
-        "Features": [
-          "Noise Control",
-          "20Hz-30KHz",
-          "50mm",
-          "7.1",
-          "16H",
-          "iCUE",
-          "Inalámbrico",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-09-23T14:08:54.0159291-04:00",
-        "Update": "2023-12-08T14:08:33.4767149-05:00",
-        "Label": "Auriculares Corsair VOID RGB Elite Wireless White"
-      },
-      {
-        "Price": 75.00,
-        "Features": [
-          "7.1",
-          "Micrófono",
-          "3.5mm",
-          "40mm",
-          "250g",
-          "USB",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2024-01-30T09:00:06.5126652-05:00",
-        "Update": "2024-01-30T10:47:53.8741928-05:00",
-        "Label": "Auriculares Razer Kraken X"
-      },
-      {
-        "Price": 75.00,
-        "Features": [
-          "USB-C",
-          "USB-A",
-          "40mm",
-          "20hz-20khz",
-          "45ohm",
-          "165g",
-          "Micrófono",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2024-02-16T14:41:43.232064-05:00",
-        "Update": "2024-02-18T08:55:18.006064-05:00",
-        "Label": "Auriculares Logitech G435 Lightspeed Wireless Negro"
-      }
-    ],
     "Webcam": [
       {
         "Price": 65.00,
@@ -4286,6 +3979,99 @@
         "Label": "Control Xbox Core Wireless White"
       }
     ],
+    "Auriculares": [
+      {
+        "Price": 135.00,
+        "Features": [
+          "Hi-Res",
+          "7.1",
+          "RGB",
+          "USB-C",
+          "USB-A",
+          "50mm",
+          "20hz-40khz",
+          "32ohm",
+          "310g",
+          "Micrófono",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-10-23T12:32:21.2274943-04:00",
+        "Update": "2023-11-27T09:23:42.4497275-05:00",
+        "Label": "Auriculares Asus ROG Fusion II 300 Gaming"
+      },
+      {
+        "Price": 67.00,
+        "Features": [
+          "Inalámbrico",
+          "40mm",
+          "USB",
+          "18H",
+          "165g",
+          "Headset",
+          "Micrófono",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-07-09T16:45:46.4090102-04:00",
+        "Update": "2023-12-08T14:08:33.4615609-05:00",
+        "Label": "Auriculares Logitech G435 Lightspeed Wireless"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "Noise Control",
+          "20Hz-30KHz",
+          "50mm",
+          "7.1",
+          "16H",
+          "iCUE",
+          "Inalámbrico",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-09-23T14:08:54.0159291-04:00",
+        "Update": "2023-12-08T14:08:33.4767149-05:00",
+        "Label": "Auriculares Corsair VOID RGB Elite Wireless White"
+      },
+      {
+        "Price": 75.00,
+        "Features": [
+          "7.1",
+          "Micrófono",
+          "3.5mm",
+          "40mm",
+          "250g",
+          "USB",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2024-01-30T09:00:06.5126652-05:00",
+        "Update": "2024-01-30T10:47:53.8741928-05:00",
+        "Label": "Auriculares Razer Kraken X"
+      },
+      {
+        "Price": 75.00,
+        "Features": [
+          "USB-C",
+          "USB-A",
+          "40mm",
+          "20hz-20khz",
+          "45ohm",
+          "165g",
+          "Micrófono",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2024-02-16T14:41:43.232064-05:00",
+        "Update": "2024-02-18T08:55:18.006064-05:00",
+        "Label": "Auriculares Logitech G435 Lightspeed Wireless Negro"
+      }
+    ],
     "Monitor": [
       {
         "Price": 245.00,
@@ -4381,22 +4167,6 @@
         "Date": "2023-12-07T22:24:09.640104-05:00",
         "Update": "2024-01-25T12:38:36.4470355-05:00",
         "Label": "Monitor Acer Nitro 27\" 1440p Curvo 170Hz 1ms VA SPK"
-      },
-      {
-        "Price": 410.00,
-        "Features": [
-          "1080p",
-          "8bits",
-          "250nit",
-          "curvo",
-          "HDMI",
-          "DP",
-          "Speakers",
-          "FHD"
-        ],
-        "Date": "2024-01-26T05:15:16.9831079-05:00",
-        "Update": "2024-01-26T05:35:26.9532925-05:00",
-        "Label": "Monitor Acer Nitro 32\" VA 1ms 165Hz"
       },
       {
         "Price": 215.00,
