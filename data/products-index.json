@@ -146,15 +146,87 @@
         "Label": "Kit Intel Core i5-12600K + ASRock Z690M Phantom Gaming 4"
       }
     ],
-    "Moderado": [
+    "Entusiasta": [
       {
-        "Price": 485.00,
-        "Features": [],
-        "Date": "2023-09-13T13:44:12.3460847-04:00",
-        "Update": "2024-01-18T07:19:39.6721583-05:00",
-        "Discount": 5.0,
-        "Label": "Kit i5-13500 +Disipador + ASRock B660M PRO RS + DDR4 Silicon Power 16GB 3200mhz"
+        "Price": 970.00,
+        "Features": [
+          "12va Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.2GHz",
+          "2x16",
+          "6200mhz",
+          "10xUSB",
+          "6xSATA",
+          "6xAudio"
+        ],
+        "Date": "2024-01-28T06:21:13.649846-05:00",
+        "Update": "2024-01-28T06:24:58.3322127-05:00",
+        "Discount": 15.0,
+        "Label": "Kit i9-12900K +H60x RGB Elite +Strix Z690-E Gaming Wifi +32GB Corsair RGB"
+      }
+    ],
+    "Esencial": [
+      {
+        "Price": 325.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "8GB",
+          "3200mhz",
+          "6xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-02-01T09:07:08.9381263-05:00",
+        "Update": "2024-02-01T09:09:47.1285333-05:00",
+        "Label": "Kit i3-12100 +Disipador +B660M PRO RS +8GB DDR4 Team T-Force Vulcan Z 3200mhz"
       },
+      {
+        "Price": 340.00,
+        "Features": [
+          "8 Hilos",
+          "6xUSB",
+          "DDR4",
+          "Disipada"
+        ],
+        "Date": "2023-10-20T08:53:27.1294814-04:00",
+        "Update": "2024-02-01T09:33:12.2474022-05:00",
+        "Discount": 5.0,
+        "Label": "Kit Intel Core i3 12Gen +8GB RAM 3200mhz +Disipador +Board ASRock Z690"
+      },
+      {
+        "Price": 245.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.2GHz",
+          "6xUSB",
+          "4xSATA",
+          "3xAudio",
+          "Micro ATX"
+        ],
+        "Date": "2024-02-05T07:56:30.7216392-05:00",
+        "Update": "2024-02-05T08:20:20.466805-05:00",
+        "Label": "Kit Ryzen 3 5300G +Disipador + ASRock B550M Pro SE"
+      },
+      {
+        "Price": 290.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "6xUSB",
+          "4xSata",
+          "3xAudio",
+          "Micro  ATX"
+        ],
+        "Date": "2024-02-05T07:56:48.7516909-05:00",
+        "Update": "2024-02-05T08:20:20.4825729-05:00",
+        "Label": "Kit Intel Core i3-12100 +Disipador + ASRock B660M PRO RS"
+      }
+    ],
+    "Moderado": [
       {
         "Price": 390.00,
         "Features": [
@@ -258,109 +330,6 @@
         "Date": "2024-02-05T07:58:38.5646205-05:00",
         "Update": "2024-02-28T05:32:17.5947198-05:00",
         "Label": "Kit Intel Core i5-12400 +Disipador + ASRock Z690M Phantom Gaming 4"
-      }
-    ],
-    "Esencial": [
-      {
-        "Price": 345.00,
-        "Features": [],
-        "Date": "2023-09-13T13:47:32.3099333-04:00",
-        "Update": "2024-01-18T07:19:39.6875688-05:00",
-        "Discount": 5.0,
-        "Label": "Kit i3-12100 +Disipador + ASRock B660M PRO RS + Silicon Power 16GB 3200mhz"
-      },
-      {
-        "Price": 365.00,
-        "Features": [
-          "2x8GB",
-          "8 hilos",
-          "Dual Channel",
-          "VGA",
-          "HDMI",
-          "4xSATA"
-        ],
-        "Date": "2023-10-12T11:57:20.759658-04:00",
-        "Update": "2024-01-18T07:19:39.9176591-05:00",
-        "Discount": 5.0,
-        "Label": "Kit Intel Core i3 12Gen +16GB RAM DDR4 3200mhz +Disipador +Board MSI B760M"
-      },
-      {
-        "Price": 325.00,
-        "Features": [
-          "8 Hilos",
-          "4 Core",
-          "4.3GHz",
-          "8GB",
-          "3200mhz",
-          "6xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-02-01T09:07:08.9381263-05:00",
-        "Update": "2024-02-01T09:09:47.1285333-05:00",
-        "Label": "Kit i3-12100 +Disipador +B660M PRO RS +8GB DDR4 Team T-Force Vulcan Z 3200mhz"
-      },
-      {
-        "Price": 340.00,
-        "Features": [
-          "8 Hilos",
-          "6xUSB",
-          "DDR4",
-          "Disipada"
-        ],
-        "Date": "2023-10-20T08:53:27.1294814-04:00",
-        "Update": "2024-02-01T09:33:12.2474022-05:00",
-        "Discount": 5.0,
-        "Label": "Kit Intel Core i3 12Gen +8GB RAM 3200mhz +Disipador +Board ASRock Z690"
-      },
-      {
-        "Price": 245.00,
-        "Features": [
-          "8 Hilos",
-          "4 Core",
-          "4.2GHz",
-          "6xUSB",
-          "4xSATA",
-          "3xAudio",
-          "Micro ATX"
-        ],
-        "Date": "2024-02-05T07:56:30.7216392-05:00",
-        "Update": "2024-02-05T08:20:20.466805-05:00",
-        "Label": "Kit Ryzen 3 5300G +Disipador + ASRock B550M Pro SE"
-      },
-      {
-        "Price": 290.00,
-        "Features": [
-          "8 Hilos",
-          "4 Core",
-          "4.3GHz",
-          "6xUSB",
-          "4xSata",
-          "3xAudio",
-          "Micro  ATX"
-        ],
-        "Date": "2024-02-05T07:56:48.7516909-05:00",
-        "Update": "2024-02-05T08:20:20.4825729-05:00",
-        "Label": "Kit Intel Core i3-12100 +Disipador + ASRock B660M PRO RS"
-      }
-    ],
-    "Entusiasta": [
-      {
-        "Price": 970.00,
-        "Features": [
-          "12va Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.2GHz",
-          "2x16",
-          "6200mhz",
-          "10xUSB",
-          "6xSATA",
-          "6xAudio"
-        ],
-        "Date": "2024-01-28T06:21:13.649846-05:00",
-        "Update": "2024-01-28T06:24:58.3322127-05:00",
-        "Discount": 15.0,
-        "Label": "Kit i9-12900K +H60x RGB Elite +Strix Z690-E Gaming Wifi +32GB Corsair RGB"
       }
     ]
   },
@@ -1801,17 +1770,6 @@
         "Date": "2023-12-28T14:08:12.7297994-05:00",
         "Update": "2023-12-28T19:11:11.737713-05:00",
         "Label": "RAM DDR4 GeIL ORION 16GB 3600mhz"
-      },
-      {
-        "Price": 60.00,
-        "Features": [
-          "2x8GB",
-          "Disipadas",
-          "CL16"
-        ],
-        "Date": "2023-09-11T09:09:45.8694223-04:00",
-        "Update": "2023-12-29T07:44:38.7091373-05:00",
-        "Label": "RAM DDR4 Silicon Power 16GB 3200mhz"
       },
       {
         "Price": 110.00,
