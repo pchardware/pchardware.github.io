@@ -801,22 +801,6 @@
         "Label": "Fuente Corsair HX1500i 1500W"
       },
       {
-        "Price": 185.00,
-        "Features": [
-          "ATX 3.0",
-          "80+ Gold",
-          "Full Modular",
-          "2x 4+4 EPS",
-          "71A",
-          "4x 6+2Pin",
-          "12x SATA",
-          "PSU"
-        ],
-        "Date": "2023-09-26T11:28:55.5740236-04:00",
-        "Update": "2024-02-01T19:13:00.3183122-05:00",
-        "Label": "Fuente Cooler Master MWE 850 V2"
-      },
-      {
         "Price": 170.00,
         "Features": [
           "ATX 3.0",
@@ -3658,22 +3642,6 @@
         "Date": "2023-08-21T08:58:41.5573667-04:00",
         "Update": "2023-12-28T14:06:43.9386612-05:00",
         "Label": "Mouse Corsair M65 ELITE RGB Black"
-      },
-      {
-        "Price": 50.00,
-        "Features": [
-          "Inalámbrico",
-          "16000dpi",
-          "Bluetooth",
-          "Sniper Button",
-          "Optico",
-          "Ergonómico",
-          "10 botónes",
-          "USB"
-        ],
-        "Date": "2023-10-02T14:29:32.4826293-04:00",
-        "Update": "2024-01-27T21:40:58.2425894-05:00",
-        "Label": "Mouse EVGA X20 Gray"
       },
       {
         "Price": 10.00,
