@@ -2,7 +2,7 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 1800.00,
+        "Price": 1790.00,
         "Features": [],
         "Date": "2024-03-01T09:20:04.9267551-05:00",
         "Update": "2024-03-01T09:21:48.654279-05:00",
@@ -14,7 +14,7 @@
   "Torres": {
     "Gamer": [
       {
-        "Price": 1715.00,
+        "Price": 1710.00,
         "Features": [],
         "Date": "2024-02-15T10:20:41.9435051-05:00",
         "Update": "2024-02-15T11:53:55.6286603-05:00",
@@ -22,7 +22,7 @@
         "Label": "Torre RTX 4060 OC 8GB +i7-13700K +Strix Z690-E Gaming +32GB DDR5 +500GBM.2 +750W"
       },
       {
-        "Price": 955.00,
+        "Price": 945.00,
         "Features": [],
         "Date": "2024-02-23T08:38:08.4984894-05:00",
         "Update": "2024-02-23T08:42:23.2096841-05:00",
@@ -30,7 +30,7 @@
         "Label": "Torre RX 6600 EAGLE 8GB +i3-12100F +B660M PRO RS +16GB DDR4 +500GB M.2 +500W"
       },
       {
-        "Price": 1450.00,
+        "Price": 1440.00,
         "Features": [],
         "Date": "2024-03-01T09:14:28.6647646-05:00",
         "Update": "2024-03-01T09:21:48.6269512-05:00",
@@ -40,7 +40,7 @@
     ],
     "Multimedia": [
       {
-        "Price": 715.00,
+        "Price": 705.00,
         "Features": [],
         "Date": "2024-02-23T08:59:06.239449-05:00",
         "Update": "2024-02-23T09:14:43.6221898-05:00",
@@ -48,7 +48,7 @@
         "Label": "Torre i3-12100 +B660M PRO RS +16GB DDR4 +500GB M.2 +500W +Chasis RGB"
       },
       {
-        "Price": 735.00,
+        "Price": 725.00,
         "Features": [],
         "Date": "2024-02-23T09:15:36.3516139-05:00",
         "Update": "2024-02-23T09:18:21.7797591-05:00",
@@ -56,7 +56,7 @@
         "Label": "Torre i3-12100 +Z690M Phantom Gaming 4 +16GB DDR4 +500GB M.2 +500W +Chasis RGB"
       },
       {
-        "Price": 760.00,
+        "Price": 750.00,
         "Features": [],
         "Date": "2024-02-23T09:19:08.759555-05:00",
         "Update": "2024-02-23T09:20:29.0495875-05:00",
@@ -64,7 +64,7 @@
         "Label": "Torre i3-13100 +MSI Pro B760M-P +16GB DDR4 +500GB M.2 +500W +Chasis RGB"
       },
       {
-        "Price": 725.00,
+        "Price": 715.00,
         "Features": [],
         "Date": "2024-02-29T06:32:57.6598335-05:00",
         "Update": "2024-02-29T06:39:05.3845502-05:00",
@@ -72,7 +72,7 @@
         "Label": "Torre Ryzen 5 5600G +B550M Pro SE +16GB DDR4 +500GB M.2 +500W +Chasis"
       },
       {
-        "Price": 810.00,
+        "Price": 805.00,
         "Features": [],
         "Date": "2024-02-29T06:34:35.9148628-05:00",
         "Update": "2024-02-29T06:39:05.4074957-05:00",
@@ -82,7 +82,7 @@
     ],
     "Entusiasta": [
       {
-        "Price": 2660.00,
+        "Price": 2655.00,
         "Features": [],
         "Date": "2024-02-26T13:59:49.4250136-05:00",
         "Update": "2024-02-26T14:02:38.228768-05:00",
@@ -1926,17 +1926,6 @@
         "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 4400mhz"
       },
       {
-        "Price": 140.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL36"
-        ],
-        "Date": "2023-05-11T08:37:56.7258334-04:00",
-        "Update": "2024-01-30T09:04:52.3625398-05:00",
-        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
-      },
-      {
         "Price": 165.00,
         "Features": [
           "2x32GB",
@@ -2790,7 +2779,7 @@
     ],
     "Disco Sólido": [
       {
-        "Price": 75.00,
+        "Price": 70.00,
         "Features": [
           "2350mbs",
           "210TBW",
@@ -2802,7 +2791,7 @@
         "Label": "SSD M.2 MSI SPatium M371 1TB"
       },
       {
-        "Price": 80.00,
+        "Price": 75.00,
         "Features": [
           "3500mbs",
           "600TBW",
@@ -2858,7 +2847,7 @@
         "Label": "SSD 2.5 Team Group CX2 2TB"
       },
       {
-        "Price": 65.00,
+        "Price": 55.00,
         "Features": [
           "3500mbs",
           "200TBW",
@@ -2870,7 +2859,7 @@
         "Label": "SSD M.2 Solidigm P41 Plus 512GB"
       },
       {
-        "Price": 110.00,
+        "Price": 100.00,
         "Features": [
           "7400mbs",
           "PCIe 4",
@@ -2882,7 +2871,7 @@
         "Label": "SSD M.2 Team Group MP44 1TB"
       },
       {
-        "Price": 90.00,
+        "Price": 85.00,
         "Features": [
           "7100mbs",
           "350TBW",
@@ -2895,7 +2884,7 @@
         "Label": "SSD M.2 Corsair MP600 PRO LPX 500GB"
       },
       {
-        "Price": 115.00,
+        "Price": 105.00,
         "Features": [
           "7100mbs",
           "700TBW",
@@ -2908,7 +2897,7 @@
         "Label": "SSD M.2 Corsair MP600 PRO LPX 1TB White"
       },
       {
-        "Price": 155.00,
+        "Price": 150.00,
         "Features": [
           "7450mbs",
           "PCIe 4",
@@ -2919,7 +2908,7 @@
         "Label": "SSD M.2 Samsung 990 PRO 1TB"
       },
       {
-        "Price": 145.00,
+        "Price": 140.00,
         "Features": [
           "3600mbs",
           "PCIe 4",
@@ -2930,7 +2919,7 @@
         "Label": "SSD M.2 MSI Spatium M450 2TB"
       },
       {
-        "Price": 140.00,
+        "Price": 130.00,
         "Features": [
           "7000mbs",
           "600tbw",
@@ -2942,7 +2931,7 @@
         "Label": "SSD M.2 Samsung 980 PRO 1TB"
       },
       {
-        "Price": 165.00,
+        "Price": 160.00,
         "Features": [
           "7000mbs",
           "1400tbw",
@@ -2955,7 +2944,7 @@
         "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 2TB"
       },
       {
-        "Price": 90.00,
+        "Price": 80.00,
         "Features": [
           "3500mbs",
           "1660TBW",
@@ -2967,7 +2956,7 @@
         "Label": "SSD M.2 TeamGroup MP34 1TB"
       },
       {
-        "Price": 60.00,
+        "Price": 50.00,
         "Features": [
           "2100mbs",
           "200TBW",
@@ -2979,7 +2968,7 @@
         "Label": "SSD M.2 HP EX900 500GB"
       },
       {
-        "Price": 70.00,
+        "Price": 65.00,
         "Features": [
           "2400mbs",
           "80TBW",
@@ -2991,7 +2980,7 @@
         "Label": "SSD M.2 WD Green SN350 960GB"
       },
       {
-        "Price": 75.00,
+        "Price": 70.00,
         "Features": [
           "2150mbs",
           "500TBW",
@@ -3003,7 +2992,7 @@
         "Label": "SSD M.2 HP EX900 1TB"
       },
       {
-        "Price": 95.00,
+        "Price": 90.00,
         "Features": [
           "5000mbs",
           "2000TBW",
@@ -3015,7 +3004,7 @@
         "Label": "SSD M.2 AData Legend 850 1TB"
       },
       {
-        "Price": 90.00,
+        "Price": 85.00,
         "Features": [
           "5000mbs",
           "600TBW",
@@ -3027,7 +3016,7 @@
         "Label": "SSD M.2 Team Group MP44L 1TB"
       },
       {
-        "Price": 75.00,
+        "Price": 65.00,
         "Features": [
           "4800mbs",
           "300TBW",
@@ -3039,7 +3028,7 @@
         "Label": "SSD M.2 Corsair MP600 GS 500GB"
       },
       {
-        "Price": 80.00,
+        "Price": 75.00,
         "Features": [
           "7400mbs",
           "300BTW",
@@ -3051,7 +3040,7 @@
         "Label": "SSD M.2 HP FX900 Pro 512GB"
       },
       {
-        "Price": 85.00,
+        "Price": 75.00,
         "Features": [
           "3400mbs",
           "600TBW",
@@ -3063,7 +3052,7 @@
         "Label": "SSD M.2 Acer Predator GM3500 1TB"
       },
       {
-        "Price": 60.00,
+        "Price": 50.00,
         "Features": [
           "2200mbs",
           "110TBW",
@@ -3075,7 +3064,7 @@
         "Label": "SSD M.2 MSI SPatium M371 500GB"
       },
       {
-        "Price": 140.00,
+        "Price": 135.00,
         "Features": [
           "3200mbs",
           "100TBW",
@@ -3247,19 +3236,6 @@
         "Date": "2024-01-18T07:08:28.9967658-05:00",
         "Update": "2024-01-18T08:30:01.0081544-05:00",
         "Label": "Teclado Corsair K60 RGB Pro SE"
-      },
-      {
-        "Price": 60.00,
-        "Features": [
-          "Membrana",
-          "Optico",
-          "Inalámbrico",
-          "Compacto",
-          "USB"
-        ],
-        "Date": "2023-11-24T09:48:50.2646657-05:00",
-        "Update": "2024-01-30T10:47:53.6328207-05:00",
-        "Label": "COMBO Teclado + Mouse Logitech MK360"
       },
       {
         "Price": 100.00,
