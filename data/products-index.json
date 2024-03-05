@@ -2512,25 +2512,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4080 Gaming OC 16GB"
       },
       {
-        "Price": 375.00,
-        "Features": [
-          "DLSS3",
-          "2xfan",
-          "1x8Pin",
-          "450WR",
-          "PCIe4",
-          "192mm",
-          "2xHDMI",
-          "2xDisplayPort",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-01-16T04:52:11.2413929-05:00",
-        "Update": "2024-01-17T06:27:45.7607114-05:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4060 WindForce OC 8GB"
-      },
-      {
         "Price": 345.00,
         "Features": [
           "3xFan",
@@ -2564,26 +2545,6 @@
         "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X White OC 8GB"
       },
       {
-        "Price": 425.00,
-        "Features": [
-          "DLSS3",
-          "3xFan",
-          "1x8Pin",
-          "550WR",
-          "PCIe4",
-          "HDMI",
-          "3xDisplayPort",
-          "300mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-12-19T06:42:00.2738717-05:00",
-        "Update": "2024-01-25T19:26:52.2686664-05:00",
-        "Label": "Tarjeta de Video Asus ProArt RTX 4060 OC 8GB"
-      },
-      {
         "Price": 340.00,
         "Features": [
           "3xFan",
@@ -2598,149 +2559,6 @@
         "Date": "2023-10-16T10:24:33.0618949-04:00",
         "Update": "2024-01-30T09:04:52.3786344-05:00",
         "Label": "Tarjeta de Video Gigabyte RX 7600 8GB"
-      },
-      {
-        "Price": 620.00,
-        "Features": [
-          "2xFan",
-          "700WR",
-          "2x8Pin",
-          "3xDisplay Port",
-          "1xHDMI",
-          "281mm",
-          "AMD",
-          "Radeon",
-          "GPU"
-        ],
-        "Date": "2024-01-18T07:09:01.7565019-05:00",
-        "Update": "2024-01-30T09:04:52.3973734-05:00",
-        "Label": "Tarjeta de Video Saphire RX 7800 XT 16GB"
-      },
-      {
-        "Price": 625.00,
-        "Features": [
-          "3xFan",
-          "2x8Pin",
-          "700WR",
-          "302mm",
-          "2xDisplay Port",
-          "2xHDMI",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-01-30T08:59:15.7603943-05:00",
-        "Update": "2024-01-30T10:47:53.7156285-05:00",
-        "Label": "Tarjeta de Video Gigabyte RX 7800 XT Gaming 16GB OC"
-      },
-      {
-        "Price": 795.00,
-        "Features": [
-          "3xFan",
-          "DLSS3",
-          "1x16Pin",
-          "750WR",
-          "307mm",
-          "3xDisplay Port",
-          "1xHDMI",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-01-30T08:59:21.7284372-05:00",
-        "Update": "2024-01-30T10:47:53.7318957-05:00",
-        "Label": "Tarjeta de Video MSI RTX 4070 Super Gaming X Slim 12GB"
-      },
-      {
-        "Price": 655.00,
-        "Features": [
-          "3xFan",
-          "2x8pin",
-          "750WR",
-          "1xHDMI",
-          "3xDP",
-          "320mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-12-17T00:52:01.2226849-05:00",
-        "Update": "2024-02-16T14:51:46.4604087-05:00",
-        "Label": "Tarjeta de Video Asus TUF Gaming RX 7800 XT OC 16GB"
-      },
-      {
-        "Price": 275.00,
-        "Features": [
-          "8GB",
-          "3xFan",
-          "1x8Pin",
-          "500WR",
-          "282mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-05-11T19:24:18.7527581-04:00",
-        "Update": "2024-02-16T14:51:46.4753778-05:00",
-        "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X 8GB"
-      },
-      {
-        "Price": 375.00,
-        "Features": [
-          "DLSS3",
-          "2xfan",
-          "1x8Pin",
-          "550WR",
-          "PCIe4",
-          "199mm",
-          "HDMI",
-          "3xDisplayPort",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-01-16T04:52:03.8982461-05:00",
-        "Update": "2024-02-16T14:51:46.5076809-05:00",
-        "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X Black OC 8GB"
-      },
-      {
-        "Price": 990.00,
-        "Features": [
-          "3xFan",
-          "DLSS3",
-          "1x16Pin",
-          "750WR",
-          "305mm",
-          "3xDisplay Port",
-          "5xHDMI",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-02-16T17:52:47.8557688-05:00",
-        "Update": "2024-02-18T08:55:47.5542559-05:00",
-        "Label": "Tarjeta de video Asus TUF RTX 4070 Ti SUPER"
-      },
-      {
-        "Price": 305.00,
-        "Features": [
-          "8GB",
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "278mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-07-12T21:42:54.3752209-04:00",
-        "Update": "2024-02-28T06:06:48.9268049-05:00",
-        "Label": "Tarjeta de Video MSI Gaming X RTX 3050"
       },
       {
         "Price": 360.00,
@@ -2759,23 +2577,6 @@
         "Label": "Tarjeta de Video MSI Ventus 3x RTX 3060 12GB"
       },
       {
-        "Price": 330.00,
-        "Features": [
-          "8GB",
-          "3xFan",
-          "1x8Pin",
-          "550WR",
-          "274mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Tarjeta de Video"
-        ],
-        "Date": "2023-10-13T09:28:55.7781232-04:00",
-        "Update": "2024-02-28T06:06:48.9768256-05:00",
-        "Label": "Tarjeta de Video XFX Qick 308 RX 7600"
-      },
-      {
         "Price": 290.00,
         "Features": [
           "2xFan",
@@ -2792,23 +2593,199 @@
         "Label": "Tarjeta de Video MSI Ventus RTX 3050 2X XS 8GB OC"
       },
       {
+        "Price": 375.00,
+        "Features": [
+          "DLSS3",
+          "2xfan",
+          "1x8Pin",
+          "450WR",
+          "PCIe4",
+          "192mm",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-01-16T04:52:11.2413929-05:00",
+        "Update": "2024-03-04T22:32:49.5293303-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4060 WindForce OC 8GB"
+      },
+      {
+        "Price": 425.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "1x8Pin",
+          "550WR",
+          "PCIe4",
+          "300mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-12-19T06:42:00.2738717-05:00",
+        "Update": "2024-03-04T22:32:49.5461509-05:00",
+        "Label": "Tarjeta de Video Asus ProArt RTX 4060 OC 8GB"
+      },
+      {
+        "Price": 620.00,
+        "Features": [
+          "2xFan",
+          "700WR",
+          "2x8Pin",
+          "281mm",
+          "AMD",
+          "Radeon",
+          "GPU"
+        ],
+        "Date": "2024-01-18T07:09:01.7565019-05:00",
+        "Update": "2024-03-04T22:32:49.5667677-05:00",
+        "Label": "Tarjeta de Video Saphire RX 7800 XT 16GB"
+      },
+      {
+        "Price": 625.00,
+        "Features": [
+          "3xFan",
+          "2x8Pin",
+          "700WR",
+          "302mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-01-30T08:59:15.7603943-05:00",
+        "Update": "2024-03-04T22:32:49.5885672-05:00",
+        "Label": "Tarjeta de Video Gigabyte RX 7800 XT Gaming 16GB OC"
+      },
+      {
+        "Price": 795.00,
+        "Features": [
+          "3xFan",
+          "DLSS3",
+          "1x16Pin",
+          "750WR",
+          "307mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-01-30T08:59:21.7284372-05:00",
+        "Update": "2024-03-04T22:32:49.6088769-05:00",
+        "Label": "Tarjeta de Video MSI RTX 4070 Super Gaming X Slim 12GB"
+      },
+      {
+        "Price": 655.00,
+        "Features": [
+          "3xFan",
+          "2x8pin",
+          "750WR",
+          "320mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-12-17T00:52:01.2226849-05:00",
+        "Update": "2024-03-04T22:32:49.6286481-05:00",
+        "Label": "Tarjeta de Video Asus TUF Gaming RX 7800 XT OC 16GB"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "3xFan",
+          "1x8Pin",
+          "500WR",
+          "282mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-05-11T19:24:18.7527581-04:00",
+        "Update": "2024-03-04T22:32:49.6462945-05:00",
+        "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X 8GB"
+      },
+      {
+        "Price": 375.00,
+        "Features": [
+          "DLSS3",
+          "2xfan",
+          "1x8Pin",
+          "550WR",
+          "PCIe4",
+          "199mm",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-01-16T04:52:03.8982461-05:00",
+        "Update": "2024-03-04T22:32:49.6631859-05:00",
+        "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X Black OC 8GB"
+      },
+      {
+        "Price": 990.00,
+        "Features": [
+          "3xFan",
+          "DLSS3",
+          "1x16Pin",
+          "750WR",
+          "305mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-02-16T17:52:47.8557688-05:00",
+        "Update": "2024-03-04T22:32:49.6798693-05:00",
+        "Label": "Tarjeta de video Asus TUF RTX 4070 Ti SUPER"
+      },
+      {
+        "Price": 305.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "550WR",
+          "278mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU"
+        ],
+        "Date": "2023-07-12T21:42:54.3752209-04:00",
+        "Update": "2024-03-04T22:32:49.6956199-05:00",
+        "Label": "Tarjeta de Video MSI Gaming X RTX 3050 8GB"
+      },
+      {
+        "Price": 330.00,
+        "Features": [
+          "3xFan",
+          "1x8Pin",
+          "550WR",
+          "274mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Tarjeta de Video"
+        ],
+        "Date": "2023-10-13T09:28:55.7781232-04:00",
+        "Update": "2024-03-04T22:32:49.7132543-05:00",
+        "Label": "Tarjeta de Video XFX Qick 308 RX 7600 8GB"
+      },
+      {
         "Price": 265.00,
         "Features": [
           "2xFan",
           "550WR",
           "201mm",
-          "1xHDMI",
-          "1xDisplayPort",
-          "1xDVI",
-          "PCIe4",
           "NVIDIA",
           "GPU",
           "Gráfica",
           "DLSS"
         ],
         "Date": "2024-02-28T05:29:52.7076632-05:00",
-        "Update": "2024-02-28T07:53:53.716607-05:00",
-        "Label": "Tarjeta de Video Asus Dual RTX 3050 6GB OC (2xFan)"
+        "Update": "2024-03-04T22:32:49.7419448-05:00",
+        "Label": "Tarjeta de Video Asus Dual RTX 3050 6GB OC"
       }
     ],
     "Disco Sólido": [
