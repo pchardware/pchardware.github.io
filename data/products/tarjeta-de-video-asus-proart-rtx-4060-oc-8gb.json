@@ -18,8 +18,6 @@
     "1x8Pin",
     "550WR",
     "PCIe4",
-    "HDMI",
-    "3xDisplayPort",
     "300mm",
     "GeForce",
     "NVIDIA",
@@ -27,6 +25,6 @@
     "Gráfica"
   ],
   "Date": "2023-12-19T06:42:00.2738717-05:00",
-  "Update": "2024-01-25T19:26:52.2686664-05:00",
+  "Update": "2024-03-04T22:32:49.5461509-05:00",
   "Label": "Tarjeta de Video Asus ProArt RTX 4060 OC 8GB"
 }
