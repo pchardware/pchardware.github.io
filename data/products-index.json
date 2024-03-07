@@ -2109,6 +2109,17 @@
         "Date": "2023-03-30T09:56:12.5688722-04:00",
         "Update": "2024-03-07T04:00:34.074023-05:00",
         "Label": "DDR5 Corsair Vengeance RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 150.00,
+        "Features": [
+          "2x16GB",
+          "CL32",
+          "Disipadas"
+        ],
+        "Date": "2024-03-07T09:33:05.0381701-05:00",
+        "Update": "2024-03-07T09:39:04.4911209-05:00",
+        "Label": "DDR5 G.Skill Trident Z5 NEO RGB 32GB 6400mhz"
       }
     ],
     "Chasis": [
