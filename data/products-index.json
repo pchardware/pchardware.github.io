@@ -2663,23 +2663,6 @@
         "Label": "Tarjeta de Video MSI Ventus RTX 3050 2X XS 8GB OC"
       },
       {
-        "Price": 375.00,
-        "Features": [
-          "DLSS3",
-          "2xfan",
-          "1x8Pin",
-          "450WR",
-          "PCIe4",
-          "192mm",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-01-16T04:52:11.2413929-05:00",
-        "Update": "2024-03-04T22:32:49.5293303-05:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4060 WindForce OC 8GB"
-      },
-      {
         "Price": 620.00,
         "Features": [
           "2xFan",
@@ -2760,23 +2743,6 @@
         "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X 8GB"
       },
       {
-        "Price": 375.00,
-        "Features": [
-          "DLSS3",
-          "2xfan",
-          "1x8Pin",
-          "550WR",
-          "PCIe4",
-          "199mm",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-01-16T04:52:03.8982461-05:00",
-        "Update": "2024-03-04T22:32:49.6631859-05:00",
-        "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X Black OC 8GB"
-      },
-      {
         "Price": 990.00,
         "Features": [
           "3xFan",
@@ -2854,6 +2820,89 @@
         "Date": "2023-11-05T07:48:12.4491481-05:00",
         "Update": "2024-03-07T04:00:34.3665892-05:00",
         "Label": "Tarjeta de Video PowerColor RX 6600 Fighter 8GB"
+      },
+      {
+        "Price": 375.00,
+        "Features": [
+          "DLSS3",
+          "2xfan",
+          "1x8Pin",
+          "450WR",
+          "192mm",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-01-16T04:52:11.2413929-05:00",
+        "Update": "2024-03-07T09:30:26.0292071-05:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4060 WindForce OC 8GB"
+      },
+      {
+        "Price": 375.00,
+        "Features": [
+          "DLSS3",
+          "2xfan",
+          "1x8Pin",
+          "550WR",
+          "199mm",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-01-16T04:52:03.8982461-05:00",
+        "Update": "2024-03-07T09:30:26.0460008-05:00",
+        "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X Black OC 8GB"
+      },
+      {
+        "Price": 650.00,
+        "Features": [
+          "DLSS3",
+          "3xfan",
+          "650WR",
+          "1x8Pin",
+          "261mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-03-07T08:37:27.1037883-05:00",
+        "Update": "2024-03-07T09:30:26.0624015-05:00",
+        "Label": "Tarjeta de Video Gigabyte WindForce RTX 4070 OC 12GB"
+      },
+      {
+        "Price": 735.00,
+        "Features": [
+          "DLSS3",
+          "3xfan",
+          "1x16Pin",
+          "650WR",
+          "261mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-03-07T08:37:32.0156992-05:00",
+        "Update": "2024-03-07T09:30:26.0790201-05:00",
+        "Label": "Tarjeta de Video Gigabyte WindForce RTX 4070 Super OC 12GB"
+      },
+      {
+        "Price": 525.00,
+        "Features": [
+          "DLSS3",
+          "3xfan",
+          "1x8Pin",
+          "550WR",
+          "308mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-03-07T08:37:39.3194438-05:00",
+        "Update": "2024-03-07T09:30:26.0956361-05:00",
+        "Label": "Tarjeta de Video MSI Ventus RTX 4060 Ti 3X 8GB"
       }
     ],
     "Disco Sólido": [
