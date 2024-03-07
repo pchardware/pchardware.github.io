@@ -1,0 +1,29 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/tarjeta-de-video-gigabyte-windforce-rtx-4070-super-imzrcn-1.webp",
+    "/images/products/tarjeta-de-video-gigabyte-windforce-rtx-4070-super-imzrcn-2.webp",
+    "/images/products/tarjeta-de-video-gigabyte-windforce-rtx-4070-super-imzrcn-3.webp",
+    "/images/products/tarjeta-de-video-gigabyte-windforce-rtx-4070-super-imzrcn-4.webp",
+    "/images/products/tarjeta-de-video-gigabyte-windforce-rtx-4070-super-imzrcn-5.webp",
+    "/images/products/tarjeta-de-video-gigabyte-windforce-rtx-4070-super-imzrcn-6.webp",
+    "/images/products/tarjeta-de-video-gigabyte-windforce-rtx-4070-super-imzrcn-7.webp"
+  ],
+  "Description": "Model\nBrand: GIGABYTE\nSeries: WINDFORCE\nModel: GV-N407SWF3OC-12GD\n\n\nInterface\nInterface: PCI Express 4.0 x16\n\n\nChipset\nChipset Manufacturer: NVIDIA\nGPU Series: NVIDIA GeForce RTX 40 Series\nGPU: GeForce RTX 4070 SUPER\n\n\nMemory\nMemory Size: 12GB\nMemory Interface: 192-Bit\nMemory Type: GDDR6X\n\n\n3D API\nOpenGL: OpenGL 4.6\n\n\nDetails\nMax Resolution: 7680 x 4320\nThermal Design Power: 285W\nRecommended PSU Wattage: 650W\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 261 mm",
+  "Price": 735.00,
+  "Features": [
+    "DLSS3",
+    "3xfan",
+    "1x16Pin",
+    "650WR",
+    "261mm",
+    "GeForce",
+    "NVIDIA",
+    "GPU",
+    "Gráfica"
+  ],
+  "Date": "2024-03-07T08:37:32.0156992-05:00",
+  "Update": "2024-03-07T09:30:26.0790201-05:00",
+  "Label": "Tarjeta de Video Gigabyte WindForce RTX 4070 Super OC 12GB"
+}
