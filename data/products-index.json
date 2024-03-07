@@ -968,6 +968,24 @@
         "Date": "2023-10-03T06:55:40.1387236-04:00",
         "Update": "2024-02-16T14:51:46.5686549-05:00",
         "Label": "Fuente Gigabyte UD850GM 850W"
+      },
+      {
+        "Price": 235.00,
+        "Features": [
+          "ATX 3.0",
+          "83A",
+          "80+ Gold",
+          "Full Modular",
+          "1x 16Pin",
+          "2x 4+4 EPS",
+          "6x 6+2Pin",
+          "12x SATA",
+          "150mm",
+          "PSU"
+        ],
+        "Date": "2024-03-07T09:39:28.4616757-05:00",
+        "Update": "2024-03-07T10:29:53.5856994-05:00",
+        "Label": "Fuente EVGA SuperNova 1000G XC"
       }
     ],
     "Disipador Líquido": [
@@ -2488,6 +2506,25 @@
         "Date": "2023-10-03T06:55:49.2464488-04:00",
         "Update": "2024-03-07T04:00:34.0480092-05:00",
         "Label": "Board Gigabyte Z790 Aorus Elite AX"
+      },
+      {
+        "Price": 235.00,
+        "Features": [
+          "12va-13ra-14ta",
+          "DDR4",
+          "5000mhz",
+          "6xAudio",
+          "5xUSB",
+          "8xSATA",
+          "LGA1700",
+          "HDMI",
+          "DisplayPort",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2024-03-07T09:46:29.5659598-05:00",
+        "Update": "2024-03-07T10:29:53.6021381-05:00",
+        "Label": "MB - ASRock Z690 EXTREME DDR4"
       }
     ],
     "Tarjeta Gráfica": [
