@@ -64,22 +64,6 @@
         "Label": "Torre i3-13100 +MSI Pro B760M-P +16GB DDR4 +500GB M.2 +500W +Chasis RGB"
       },
       {
-        "Price": 715.00,
-        "Features": [],
-        "Date": "2024-02-29T06:32:57.6598335-05:00",
-        "Update": "2024-02-29T06:39:05.3845502-05:00",
-        "Discount": 10.0,
-        "Label": "Torre Ryzen 5 5600G +B550M Pro SE +16GB DDR4 +500GB M.2 +500W +Chasis"
-      },
-      {
-        "Price": 805.00,
-        "Features": [],
-        "Date": "2024-02-29T06:34:35.9148628-05:00",
-        "Update": "2024-02-29T06:39:05.4074957-05:00",
-        "Discount": 10.0,
-        "Label": "Torre Ryzen 5 5600G +B550M Pro SE +32GB DDR4 +1TB M.2 +500W Thermaltake +Chasis"
-      },
-      {
         "Price": 625.00,
         "Features": [],
         "Date": "2024-02-01T08:56:11.2827635-05:00",
@@ -264,21 +248,6 @@
       }
     ],
     "Moderado": [
-      {
-        "Price": 305.00,
-        "Features": [
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "6xUSB",
-          "4xSATA",
-          "3xAudio",
-          "Micro ATX"
-        ],
-        "Date": "2024-02-05T07:57:04.7206219-05:00",
-        "Update": "2024-02-05T08:20:20.4973956-05:00",
-        "Label": "Kit AMD Ryzen 5 5600G +Disipador + ASRock B550M Pro SE"
-      },
       {
         "Price": 425.00,
         "Features": [
@@ -1397,24 +1366,6 @@
         "Date": "2023-03-22T09:04:14.8362359-04:00",
         "Update": "2023-11-24T10:20:52.9007771-05:00",
         "Label": "Micro Intel Core i7-13700K"
-      },
-      {
-        "Price": 170.00,
-        "Features": [
-          "Radeon Graphics",
-          "AM4",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "16MB L3",
-          "65W",
-          "DDR4",
-          "Serie 5000",
-          "CPU"
-        ],
-        "Date": "2023-10-13T09:28:27.261681-04:00",
-        "Update": "2023-11-30T14:28:44.8359745-05:00",
-        "Label": "Micro AMD Ryzen 5 5600G +Disipador"
       },
       {
         "Price": 110.00,
