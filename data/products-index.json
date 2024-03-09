@@ -231,18 +231,6 @@
         "Label": "Thsion NGFF M.2 a USB"
       },
       {
-        "Price": 17.00,
-        "Features": [
-          "Hydraulic",
-          "1300rpm",
-          "23db",
-          "120mm"
-        ],
-        "Date": "2023-08-29T08:41:45.7153599-04:00",
-        "Update": "2023-08-29T09:46:36.1254697-04:00",
-        "Label": "Fan MSI MAG F120 ARGB Black"
-      },
-      {
         "Price": 13.00,
         "Features": [
           "120mm",
@@ -2998,21 +2986,6 @@
         "Label": "PBT Backlit Keycap Upgrade Set White"
       },
       {
-        "Price": 120.00,
-        "Features": [
-          "Mecánico",
-          "Retroiluminado",
-          "Palm rest",
-          "iCUE Software",
-          "Gaming",
-          "Cableado",
-          "USB3"
-        ],
-        "Date": "2024-01-18T07:08:28.9967658-05:00",
-        "Update": "2024-01-18T08:30:01.0081544-05:00",
-        "Label": "Teclado Corsair K60 RGB Pro SE"
-      },
-      {
         "Price": 100.00,
         "Features": [
           "65%",
@@ -3095,20 +3068,6 @@
         "Date": "2023-08-21T08:58:50.8949152-04:00",
         "Update": "2023-11-24T11:14:38.7496521-05:00",
         "Label": "Cable HDMI 2.0, 1.8m"
-      },
-      {
-        "Price": 16.00,
-        "Features": [],
-        "Date": "2023-08-21T08:59:01.7749952-04:00",
-        "Update": "2023-11-24T11:14:38.7799791-05:00",
-        "Label": "Cable DisplayPort 1.4, 0.9m"
-      },
-      {
-        "Price": 20.00,
-        "Features": [],
-        "Date": "2023-08-21T08:58:55.8070561-04:00",
-        "Update": "2023-11-24T11:14:38.9583469-05:00",
-        "Label": "Cable DisplayPort 1.4, 1.8m"
       },
       {
         "Price": 13.00,
@@ -3545,24 +3504,6 @@
         "Date": "2023-10-23T12:32:00.8586361-04:00",
         "Update": "2024-02-09T13:48:37.5235087-05:00",
         "Label": "Mouse Cooler Master MM311 Mate White"
-      },
-      {
-        "Price": 97.00,
-        "Features": [
-          "Inalámbrico",
-          "Macros",
-          "50H",
-          "Recargable",
-          "18000dpi",
-          "Optico",
-          "10 botónes",
-          "iCUE",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-06-19T07:49:07.3176421-04:00",
-        "Update": "2024-02-09T13:48:37.5374693-05:00",
-        "Label": "Mouse Corsair IRONCLAW RGB Wireless"
       },
       {
         "Price": 63.00,
