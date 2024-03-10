@@ -976,6 +976,20 @@
         "Date": "2023-07-26T16:40:48.0920023-04:00",
         "Update": "2023-07-27T08:17:37.3850414-04:00",
         "Label": "HDD 3.5 Seagate Constellation 2TB SAS"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "Ultrastar DC",
+          "Enterprise",
+          "512mb",
+          "7200rpm",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-05-11T14:19:01.4001144-04:00",
+        "Update": "2024-03-10T04:03:05.8818356-04:00",
+        "Label": "HDD 3.5 WD 14TB HC530"
       }
     ],
     "Disipador por Aire": [
