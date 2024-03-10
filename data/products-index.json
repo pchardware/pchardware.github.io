@@ -244,22 +244,6 @@
         "Label": "Fan Cougar Vortex FCB 120 RGB"
       },
       {
-        "Price": 93.00,
-        "Features": [
-          "Hydraulic",
-          "3xFan",
-          "1850rpm",
-          "59cfm",
-          "27db",
-          "4Pin",
-          "ARGB",
-          "120mm"
-        ],
-        "Date": "2023-09-02T12:38:35.3292969-04:00",
-        "Update": "2023-09-02T13:38:05.5744843-04:00",
-        "Label": "Fan Corsair AR120 RGB, Kit"
-      },
-      {
         "Price": 5.00,
         "Features": [
           "Jeringuilla"
