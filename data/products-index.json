@@ -98,6 +98,41 @@
         "Update": "2024-03-07T04:00:34.1482524-05:00",
         "Discount": 5.0,
         "Label": "Kit i5-12600K +Disipador ARGB +ASUS TUF Z690-Plus +32GB DDR5 Corsair RGB 6000mhz"
+      },
+      {
+        "Price": 465.00,
+        "Features": [
+          "6 Core",
+          "12 Hilos",
+          "4.6GHz",
+          "2x8GB",
+          "Disipadas",
+          "6xSATA",
+          "7xUSB",
+          "6xAudio"
+        ],
+        "Date": "2024-03-10T22:25:00.49422-04:00",
+        "Update": "2024-03-11T01:15:24.4635166-04:00",
+        "Discount": 5.0,
+        "Label": "Kit Ryzen 5 5600X +Gigabyte X570S Gaming X +16GB DDR4 GeIL ORION 3600mhz"
+      },
+      {
+        "Price": 610.00,
+        "Features": [
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "2x16GB",
+          "Disipadas",
+          "6xAudio",
+          "6xUSB",
+          "4xSATA",
+          "Wifi"
+        ],
+        "Date": "2024-03-10T22:27:40.5658097-04:00",
+        "Update": "2024-03-11T01:15:24.4991087-04:00",
+        "Discount": 5.0,
+        "Label": "Kit i5-12600KF +Asus TUF Z690-Plus +32GB DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
       }
     ],
     "Entusiasta": [
@@ -189,6 +224,22 @@
         "Update": "2024-03-11T01:02:05.9125504-04:00",
         "Discount": 5.0,
         "Label": "Kit i3-12100 +Disipador +ASRock B660M PRO RS +16GB DDR4 GeIL ORION 3600mhz"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.2GHz",
+          "1x8GB",
+          "Disipada",
+          "6xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-03-10T22:24:21.9753318-04:00",
+        "Update": "2024-03-11T01:15:24.4466813-04:00",
+        "Discount": 5.0,
+        "Label": "Kit Ryzen 3 5300G +Disipador +ASRock B550M Pro SE +8GB DDR4 Team T-Force 3200mhz"
       }
     ],
     "Moderado": [
@@ -221,6 +272,22 @@
         "Date": "2024-02-05T07:58:24.1845325-05:00",
         "Update": "2024-02-28T05:32:17.5786149-05:00",
         "Label": "Kit Intel Core i5-12400 +Disipador + ASRock B660M PRO RS"
+      },
+      {
+        "Price": 495.00,
+        "Features": [
+          "6 Core",
+          "12 Hilos",
+          "4.6GHz",
+          "2x8GB",
+          "Disipadas",
+          "7xUSB",
+          "6xSATA"
+        ],
+        "Date": "2024-03-10T22:25:39.9106606-04:00",
+        "Update": "2024-03-11T01:15:24.4802337-04:00",
+        "Discount": 5.0,
+        "Label": "Kit Ryzen 5 5600X +Strix B550-F Gaming Wifi II +16GB DDR4 GeIL ORION RGB 3600mhz"
       }
     ]
   },
