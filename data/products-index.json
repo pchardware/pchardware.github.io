@@ -173,6 +173,22 @@
         "Date": "2024-02-05T07:56:48.7516909-05:00",
         "Update": "2024-02-05T08:20:20.4825729-05:00",
         "Label": "Kit Intel Core i3-12100 +Disipador + ASRock B660M PRO RS"
+      },
+      {
+        "Price": 350.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "2x8GB",
+          "Disipadas",
+          "6xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-03-10T23:41:23.057279-04:00",
+        "Update": "2024-03-11T01:02:05.9125504-04:00",
+        "Discount": 5.0,
+        "Label": "Kit i3-12100 +Disipador +ASRock B660M PRO RS +16GB DDR4 GeIL ORION 3600mhz"
       }
     ],
     "Moderado": [
