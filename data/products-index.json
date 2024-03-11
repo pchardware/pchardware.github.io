@@ -2099,26 +2099,6 @@
         "Label": "Board Gigabyte Z790 Aorus Elite AX ICE"
       },
       {
-        "Price": 225.00,
-        "Features": [
-          "AM5",
-          "DDR5",
-          "6400mhz",
-          "Wifi",
-          "5xAudio",
-          "6xUSB",
-          "4xSATA",
-          "DisplayPort",
-          "HDMI",
-          "ATX",
-          "AMD",
-          "MOBO"
-        ],
-        "Date": "2023-10-03T06:55:51.8601602-04:00",
-        "Update": "2024-01-24T14:50:31.094698-05:00",
-        "Label": "Board Asus TUF Gaming B650-Plus Wifi"
-      },
-      {
         "Price": 315.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -3418,24 +3398,6 @@
         "Date": "2024-01-30T09:00:06.5126652-05:00",
         "Update": "2024-01-30T10:47:53.8741928-05:00",
         "Label": "Auriculares Razer Kraken X"
-      },
-      {
-        "Price": 75.00,
-        "Features": [
-          "USB-C",
-          "USB-A",
-          "40mm",
-          "20hz-20khz",
-          "45ohm",
-          "165g",
-          "Micrófono",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2024-02-16T14:41:43.232064-05:00",
-        "Update": "2024-02-18T08:55:18.006064-05:00",
-        "Label": "Auriculares Logitech G435 Lightspeed Wireless Negro"
       }
     ],
     "Mouse": [
