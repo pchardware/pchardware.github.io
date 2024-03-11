@@ -2323,22 +2323,6 @@
         "Label": "Tarjeta de Video MSI Ventus 3x RTX 3060 12GB"
       },
       {
-        "Price": 290.00,
-        "Features": [
-          "2xFan",
-          "500WR",
-          "1x6Pin",
-          "205mm",
-          "NVIDIA",
-          "GPU",
-          "Gráfica",
-          "DLSS"
-        ],
-        "Date": "2023-11-06T10:30:19.884438-05:00",
-        "Update": "2024-02-28T07:53:53.478817-05:00",
-        "Label": "Tarjeta de Video MSI Ventus RTX 3050 2X XS 8GB OC"
-      },
-      {
         "Price": 620.00,
         "Features": [
           "2xFan",
