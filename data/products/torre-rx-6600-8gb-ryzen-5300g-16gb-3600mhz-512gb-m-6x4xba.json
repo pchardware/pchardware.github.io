@@ -1,0 +1,21 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/torre-rx-6600-8gb-ryzen-5300g-16gb-3600mhz-512gb-m-6x4xba-1.webp",
+    "/images/products/torre-rx-6600-8gb-ryzen-5300g-16gb-3600mhz-512gb-m-6x4xba-2.webp",
+    "/images/products/torre-rx-6600-8gb-ryzen-5300g-16gb-3600mhz-512gb-m-6x4xba-3.webp",
+    "/images/products/torre-rx-6600-8gb-ryzen-5300g-16gb-3600mhz-512gb-m-6x4xba-4.webp",
+    "/images/products/torre-rx-6600-8gb-ryzen-5300g-16gb-3600mhz-512gb-m-6x4xba-5.webp",
+    "/images/products/torre-rx-6600-8gb-ryzen-5300g-16gb-3600mhz-512gb-m-6x4xba-6.webp",
+    "/images/products/torre-rx-6600-8gb-ryzen-5300g-16gb-3600mhz-512gb-m-6x4xba-7.webp",
+    "/images/products/torre-rx-6600-8gb-ryzen-5300g-16gb-3600mhz-512gb-m-6x4xba-8.webp"
+  ],
+  "Description": "+ Micro AMD Ryzen 3 5300G +Disipador\n+ Board ASRock B550M Pro SE\n+ RAM DDR4 GeIL ORION 16GB 3600mhz\n+ SSD M.2 Solidigm P41 Plus 512GB\n+ Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X 8GB\n+ Fuente Thermaltake SMART 500W\n+ Chasis Cougar Archon 2 Mesh RGB Black\n",
+  "Price": 905.00,
+  "Features": [],
+  "Date": "2024-03-11T11:02:28.9659308-04:00",
+  "Update": "2024-03-11T11:23:08.2836302-04:00",
+  "Discount": 10.0,
+  "Label": "Torre RX 6600 8GB +Ryzen 5300G +16GB 3600mhz +512GB M.2 +500W +Chasis RGB"
+}
