@@ -3680,23 +3680,6 @@
         "Label": "Monitor Acer 27\" 100Hz 1ms VA"
       },
       {
-        "Price": 250.00,
-        "Features": [
-          "8Bit",
-          "FRC",
-          "350nit",
-          "Gaming",
-          "DP",
-          "1080p",
-          "FHD",
-          "Flat",
-          "TN"
-        ],
-        "Date": "2023-06-24T08:20:03.8135275-04:00",
-        "Update": "2024-01-01T19:09:01.1738899-05:00",
-        "Label": "Monitor Asus TUF 24\" 165Hz 0.5ms SPK"
-      },
-      {
         "Price": 470.00,
         "Features": [
           "QHD",
