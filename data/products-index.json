@@ -587,6 +587,13 @@
         "Date": "2024-02-28T05:29:42.4360359-05:00",
         "Update": "2024-02-28T07:53:53.6898996-05:00",
         "Label": "Adaptador Cable USB-C a HDMI"
+      },
+      {
+        "Price": 12.00,
+        "Features": [],
+        "Date": "2023-07-17T23:37:33.911055-04:00",
+        "Update": "2024-03-13T15:24:12.997856-04:00",
+        "Label": "Cable EnLabs 1-to-5 3Pins Addressable RGB Splitter Y Cable"
       }
     ],
     "Fuente": [
@@ -869,6 +876,23 @@
         "Date": "2024-03-07T09:39:28.4616757-05:00",
         "Update": "2024-03-07T10:29:53.5856994-05:00",
         "Label": "Fuente EVGA SuperNova 1000G XC"
+      },
+      {
+        "Price": 245.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "1000W",
+          "83A",
+          "6x 6+2Pin",
+          "2x 4+4 EPS",
+          "8x SATA",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-08-01T11:14:26.7187573-04:00",
+        "Update": "2024-03-13T15:24:13.0193968-04:00",
+        "Label": "Fuente Asus ROG Strix 1000W Gold"
       }
     ],
     "Disipador Líquido": [
@@ -2907,6 +2931,18 @@
         "Date": "2023-06-07T10:29:28.1707034-04:00",
         "Update": "2024-03-07T04:00:34.2025782-05:00",
         "Label": "SSD M.2 Corsair MP600 PRO XT 1TB"
+      },
+      {
+        "Price": 110.00,
+        "Features": [
+          "7300mbs",
+          "600tbw",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-08-16T09:17:48.5783952-04:00",
+        "Update": "2024-03-13T15:24:13.035556-04:00",
+        "Label": "SSD M.2 WD BLACK SN850X 1TB"
       }
     ]
   },
@@ -3630,6 +3666,17 @@
         "Date": "2024-02-20T04:11:04.7025718-05:00",
         "Update": "2024-02-20T16:49:46.0172803-05:00",
         "Label": "Mouse Gigabyte Aorus M2 Accurate"
+      },
+      {
+        "Price": 45.00,
+        "Features": [
+          "Reforzado",
+          "Tela",
+          "Anti-Fray"
+        ],
+        "Date": "2023-06-19T07:49:14.3324582-04:00",
+        "Update": "2024-03-13T15:24:13.0521863-04:00",
+        "Label": "Mouse Pad Corsair MM300 Extended"
       }
     ],
     "Monitor": [
