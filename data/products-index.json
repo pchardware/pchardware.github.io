@@ -1976,18 +1976,6 @@
         "Label": "Tarjeta de Red Wifi TP-Link Wifi Adapter 300N"
       },
       {
-        "Price": 30.00,
-        "Features": [
-          "PCIe x1",
-          "433 Mbps",
-          "interna",
-          "Adaptador"
-        ],
-        "Date": "2023-06-07T15:04:12.3798994-04:00",
-        "Update": "2023-12-07T01:35:03.2870135-05:00",
-        "Label": "Tarjeta de Red Wifi Gigabyte PCIe Expansion Card Bluetooth y WiFi"
-      },
-      {
         "Price": 43.00,
         "Features": [
           "1200Mbps",
