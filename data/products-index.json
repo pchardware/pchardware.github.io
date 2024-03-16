@@ -1876,17 +1876,6 @@
         "Label": "RAM DDR4 G.Skill TridentZ RGB 16GB 3600Mhz"
       },
       {
-        "Price": 110.00,
-        "Features": [
-          "2x16GB",
-          "CL16",
-          "Disipadas"
-        ],
-        "Date": "2023-03-09T12:28:03.6250501-05:00",
-        "Update": "2024-01-28T13:12:20.0778243-05:00",
-        "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 3600mhz"
-      },
-      {
         "Price": 240.00,
         "Features": [
           "2x32GB",
