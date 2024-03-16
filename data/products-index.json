@@ -2642,6 +2642,22 @@
         "Date": "2024-03-13T15:17:57.48504-04:00",
         "Update": "2024-03-15T15:01:58.270555-04:00",
         "Label": "Tarjeta de Video Gigabyte RTX 3050 Eagle OC 6GB"
+      },
+      {
+        "Price": 445.00,
+        "Features": [
+          "3xFan",
+          "1x8Pin+6Pin",
+          "650WR",
+          "296mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-03-13T15:18:04.3313972-04:00",
+        "Update": "2024-03-16T02:06:11.6610067-04:00",
+        "Label": "Tarjeta de Video Gigabyte Aorus RX 6750 XT Elite 12GB (3xFan)"
       }
     ],
     "Disco Sólido": [
