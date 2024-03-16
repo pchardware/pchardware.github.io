@@ -16,6 +16,38 @@
         "Update": "2024-03-11T11:23:08.2836302-04:00",
         "Discount": 10.0,
         "Label": "Torre RX 6600 8GB +Ryzen 5300G +16GB 3600mhz +512GB M.2 +500W +Chasis RGB"
+      },
+      {
+        "Price": 1240.00,
+        "Features": [],
+        "Date": "2024-03-16T03:20:58.8117606-04:00",
+        "Update": "2024-03-16T03:36:22.6076116-04:00",
+        "Discount": 13.0,
+        "Label": "PC RX 6600 8GB +Ryzen 5300G +16GB 3600mhz +512GB M.2 +500W +Monitor MSI 25\""
+      },
+      {
+        "Price": 1500.00,
+        "Features": [],
+        "Date": "2024-03-16T03:22:04.2843328-04:00",
+        "Update": "2024-03-16T03:36:22.6251728-04:00",
+        "Discount": 24.0,
+        "Label": "PC RX 6600 8GB +Ryzen 5600X +X570S Gaming X +32GB 3600mhz +512GB M.2 +Acer 24\""
+      },
+      {
+        "Price": 1620.00,
+        "Features": [],
+        "Date": "2024-03-16T03:23:44.5153672-04:00",
+        "Update": "2024-03-16T03:36:22.6429241-04:00",
+        "Discount": 20.0,
+        "Label": "PC RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +AOC 24\""
+      },
+      {
+        "Price": 1920.00,
+        "Features": [],
+        "Date": "2024-03-16T03:24:24.1080741-04:00",
+        "Update": "2024-03-16T03:36:22.6591525-04:00",
+        "Discount": 20.0,
+        "Label": "PC RTX 3060 12GB +i5-12600KF +TUF Z690-Plus Wifi +32GB DDR5 +512GB M.2 +Acer 27\""
       }
     ],
     "Multimedia": [
@@ -23,9 +55,17 @@
         "Price": 885.00,
         "Features": [],
         "Date": "2024-03-16T03:18:32.1089055-04:00",
-        "Update": "2024-03-16T03:20:37.5265504-04:00",
+        "Update": "2024-03-16T03:36:22.5733892-04:00",
         "Discount": 10.0,
-        "Label": "PC Ryzen 3 5300G +B550M Pro SE +16GB DDR4 +500GB M.2 +600W + Monitor MSI 24\""
+        "Label": "PC Ryzen 3 5300G +B550M Pro SE +16GB DDR4 +500GB M.2 +600W +Monitor MSI 24\""
+      },
+      {
+        "Price": 900.00,
+        "Features": [],
+        "Date": "2024-03-16T03:20:47.3954982-04:00",
+        "Update": "2024-03-16T03:36:22.5894514-04:00",
+        "Discount": 10.0,
+        "Label": "PC i3-12100 +B660M PRO RS +8GB DDR4 +500GB M.2 +500W +Monitor MSI 24\""
       }
     ]
   },
