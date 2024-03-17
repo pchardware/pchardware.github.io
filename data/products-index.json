@@ -2065,6 +2065,17 @@
         "Date": "2023-08-16T09:17:00.7000046-04:00",
         "Update": "2024-03-11T00:55:54.39684-04:00",
         "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
+      },
+      {
+        "Price": 110.00,
+        "Features": [
+          "2x16",
+          "CL18",
+          "Disipadas"
+        ],
+        "Date": "2024-03-17T15:33:25.5626446-04:00",
+        "Update": "2024-03-17T15:54:14.2527718-04:00",
+        "Label": "DDR4 G.Skill TridentZ RGB 32GB 3600mhz"
       }
     ],
     "Red": [
