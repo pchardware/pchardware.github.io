@@ -3187,19 +3187,6 @@
         "Label": "Teclado Corsair K65 RGB Mini"
       },
       {
-        "Price": 140.00,
-        "Features": [
-          "Optico",
-          "RGB",
-          "Gaming",
-          "USB-C",
-          "Palm rest"
-        ],
-        "Date": "2023-11-18T23:52:39.0060011-05:00",
-        "Update": "2023-11-19T11:13:04.0991768-05:00",
-        "Label": "Teclado Razer Huntsman V2 TKL"
-      },
-      {
         "Price": 25.00,
         "Features": [],
         "Date": "2023-10-09T15:58:54.823495-04:00",
@@ -3361,68 +3348,6 @@
         "Label": "Docking NEXIN 1xBay NEX-DS1U3"
       }
     ],
-    "Webcam": [
-      {
-        "Price": 65.00,
-        "Features": [
-          "FHD",
-          "30fps",
-          "Micrófono",
-          "USB",
-          "Black"
-        ],
-        "Date": "2023-10-02T14:29:35.5469005-04:00",
-        "Update": "2023-11-07T22:20:42.0631092-05:00",
-        "Label": "Webcam Asus C3 1080p"
-      },
-      {
-        "Price": 67.00,
-        "Features": [
-          "1080p",
-          "Auto Foco",
-          "USB",
-          "Micrófono"
-        ],
-        "Date": "2023-11-27T09:55:23.0763877-05:00",
-        "Update": "2023-11-27T11:57:06.2682569-05:00",
-        "Label": "Webcam Microsoft LifeCam Studio"
-      },
-      {
-        "Price": 77.00,
-        "Features": [
-          "1080p",
-          "30fps"
-        ],
-        "Date": "2023-12-04T16:20:49.8992277-05:00",
-        "Update": "2023-12-05T16:42:29.8730991-05:00",
-        "Label": "Webcam Logitech Brio 1080p"
-      },
-      {
-        "Price": 53.00,
-        "Features": [
-          "720p",
-          "3mp",
-          "HD",
-          "Micrófono",
-          "USB"
-        ],
-        "Date": "2023-12-12T03:35:09.5904673-05:00",
-        "Update": "2023-12-12T04:01:09.672667-05:00",
-        "Label": "WebCam Logitech C270h"
-      },
-      {
-        "Price": 43.00,
-        "Features": [
-          "FHD",
-          "30FPS",
-          "Micrófono",
-          "USB"
-        ],
-        "Date": "2024-02-16T14:41:39.0644608-05:00",
-        "Update": "2024-02-17T13:31:46.7857501-05:00",
-        "Label": "Webcam TechZone 1080p"
-      }
-    ],
     "Control": [
       {
         "Price": 125.00,
@@ -3525,6 +3450,55 @@
         "Date": "2024-01-30T09:00:06.5126652-05:00",
         "Update": "2024-01-30T10:47:53.8741928-05:00",
         "Label": "Auriculares Razer Kraken X"
+      }
+    ],
+    "Webcam": [
+      {
+        "Price": 67.00,
+        "Features": [
+          "1080p",
+          "Auto Foco",
+          "USB",
+          "Micrófono"
+        ],
+        "Date": "2023-11-27T09:55:23.0763877-05:00",
+        "Update": "2023-11-27T11:57:06.2682569-05:00",
+        "Label": "Webcam Microsoft LifeCam Studio"
+      },
+      {
+        "Price": 77.00,
+        "Features": [
+          "1080p",
+          "30fps"
+        ],
+        "Date": "2023-12-04T16:20:49.8992277-05:00",
+        "Update": "2023-12-05T16:42:29.8730991-05:00",
+        "Label": "Webcam Logitech Brio 1080p"
+      },
+      {
+        "Price": 53.00,
+        "Features": [
+          "720p",
+          "3mp",
+          "HD",
+          "Micrófono",
+          "USB"
+        ],
+        "Date": "2023-12-12T03:35:09.5904673-05:00",
+        "Update": "2023-12-12T04:01:09.672667-05:00",
+        "Label": "WebCam Logitech C270h"
+      },
+      {
+        "Price": 43.00,
+        "Features": [
+          "FHD",
+          "30FPS",
+          "Micrófono",
+          "USB"
+        ],
+        "Date": "2024-02-16T14:41:39.0644608-05:00",
+        "Update": "2024-02-17T13:31:46.7857501-05:00",
+        "Label": "Webcam TechZone 1080p"
       }
     ],
     "Mouse": [
