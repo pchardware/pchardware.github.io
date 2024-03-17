@@ -217,6 +217,20 @@
         "Update": "2024-03-11T01:15:24.4991087-04:00",
         "Discount": 5.0,
         "Label": "Kit i5-12600KF +Asus TUF Z690-Plus +32GB DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
+      },
+      {
+        "Price": 805.00,
+        "Features": [
+          "24 Hilos",
+          "16 Core",
+          "5.4GHz",
+          "8xUSB",
+          "7xSATA",
+          "6xAudio"
+        ],
+        "Date": "2024-03-16T11:15:37.0936472-04:00",
+        "Update": "2024-03-17T07:55:48.1305937-04:00",
+        "Label": "Kit i7-13700K +MSI MPG Z790 EDGE Wifi"
       }
     ],
     "Entusiasta": [
@@ -245,6 +259,23 @@
         "Update": "2024-03-07T04:00:34.1776259-05:00",
         "Discount": 10.0,
         "Label": "Kit i5-12600K + Asus TUF Z690-Plus Wifi + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 955.00,
+        "Features": [
+          "24 Hilos",
+          "16 Core",
+          "5.4GHz",
+          "2x16",
+          "CL32",
+          "Disipadas",
+          "8xUSB",
+          "7xSATA",
+          "6xAudio"
+        ],
+        "Date": "2024-03-17T07:52:13.753635-04:00",
+        "Update": "2024-03-17T07:55:48.1547227-04:00",
+        "Label": "Kit i7-13700K +MSI MPG Z790 EDGE Wifi +32GB DDR5 Trident Z5 NEO RGB 6400mhz"
       }
     ],
     "Esencial": [
