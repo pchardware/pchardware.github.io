@@ -2,14 +2,6 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 1790.00,
-        "Features": [],
-        "Date": "2024-03-01T09:20:04.9267551-05:00",
-        "Update": "2024-03-01T09:21:48.654279-05:00",
-        "Discount": 25.0,
-        "Label": "PC RTX 3060 12GB +i5-12600KF +TUF Z690-Plus Wifi +32GB DDR5 +512GB M.2 +Mon 27\""
-      },
-      {
         "Price": 905.00,
         "Features": [],
         "Date": "2024-03-11T11:02:28.9659308-04:00",
@@ -40,14 +32,6 @@
         "Update": "2024-03-16T03:36:22.6429241-04:00",
         "Discount": 20.0,
         "Label": "PC RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +AOC 24\""
-      },
-      {
-        "Price": 1920.00,
-        "Features": [],
-        "Date": "2024-03-16T03:24:24.1080741-04:00",
-        "Update": "2024-03-16T03:36:22.6591525-04:00",
-        "Discount": 20.0,
-        "Label": "PC RTX 3060 12GB +i5-12600KF +TUF Z690-Plus Wifi +32GB DDR5 +512GB M.2 +Acer 27\""
       }
     ],
     "Multimedia": [
@@ -70,32 +54,6 @@
     ]
   },
   "Torres": {
-    "Gamer": [
-      {
-        "Price": 1440.00,
-        "Features": [],
-        "Date": "2024-03-01T09:14:28.6647646-05:00",
-        "Update": "2024-03-01T09:21:48.6269512-05:00",
-        "Discount": 17.0,
-        "Label": "Torre RTX 3060 12GB +i5-12600KF +TUF Z690-Plus Wifi +32GB DDR5 +512GB M.2 +750W"
-      },
-      {
-        "Price": 1235.00,
-        "Features": [],
-        "Date": "2024-03-11T10:53:00.3667551-04:00",
-        "Update": "2024-03-11T11:23:08.1963039-04:00",
-        "Discount": 10.0,
-        "Label": "Torre RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +750W"
-      },
-      {
-        "Price": 2155.00,
-        "Features": [],
-        "Date": "2024-03-16T03:43:44.1312264-04:00",
-        "Update": "2024-03-16T03:46:36.6079711-04:00",
-        "Discount": 17.0,
-        "Label": "Torre RX 7800 XT 16GB +i9-12900K +Strix Z690-E +32GB DDR5 RGB +1TB M.2 +850W"
-      }
-    ],
     "Multimedia": [
       {
         "Price": 625.00,
@@ -112,6 +70,16 @@
         "Update": "2024-03-07T04:00:34.2999707-05:00",
         "Discount": 10.0,
         "Label": "Torre i3-12100 +B660M PRO RS +8GB DDR4 +500GB M.2 +500W +Chasis RGB Black"
+      }
+    ],
+    "Gamer": [
+      {
+        "Price": 1235.00,
+        "Features": [],
+        "Date": "2024-03-11T10:53:00.3667551-04:00",
+        "Update": "2024-03-11T11:23:08.1963039-04:00",
+        "Discount": 10.0,
+        "Label": "Torre RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +750W"
       }
     ],
     "Pro": [
@@ -531,18 +499,6 @@
         "Date": "2023-09-11T09:08:38.0826889-04:00",
         "Update": "2024-01-30T09:04:52.2679927-05:00",
         "Label": "Fan Kit Asus TUF Gaming TF120 ARGB +Controller"
-      },
-      {
-        "Price": 23.00,
-        "Features": [
-          "1900rpm",
-          "76cfm",
-          "29db",
-          "3 Pin"
-        ],
-        "Date": "2023-10-03T06:55:42.9522312-04:00",
-        "Update": "2024-02-16T14:51:46.3649012-05:00",
-        "Label": "Fan Asus TUF Gaming TF120 ARGB"
       },
       {
         "Price": 90.00,
@@ -1987,20 +1943,6 @@
         "Date": "2023-06-07T15:06:17.9384399-04:00",
         "Update": "2023-12-14T07:55:28.8181172-05:00",
         "Label": "Chasis MLLIQUEA Mining Rig Frame"
-      },
-      {
-        "Price": 230.00,
-        "Features": [
-          "Tempered Glass",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro",
-          "1xHDD"
-        ],
-        "Date": "2024-01-18T07:08:34.7724156-05:00",
-        "Update": "2024-02-28T05:32:17.4640914-05:00",
-        "Label": "Chasis Cougar Uniface S Black"
       },
       {
         "Price": 190.00,
