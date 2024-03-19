@@ -126,113 +126,6 @@
     ]
   },
   "Kits": {
-    "Rendimiento": [
-      {
-        "Price": 705.00,
-        "Features": [],
-        "Date": "2024-01-18T06:49:42.6624255-05:00",
-        "Update": "2024-01-21T06:11:51.4522915-05:00",
-        "Discount": 5.0,
-        "Label": "Kit ROG Strix Z690-E Gaming Wifi +i5-12600K +Assassin King 120 ARGB +32GB DDR5"
-      },
-      {
-        "Price": 405.00,
-        "Features": [
-          "6 Core",
-          "12 Hilos",
-          "4.6GHz",
-          "6xSATA",
-          "7xUSB",
-          "6xAudio"
-        ],
-        "Date": "2024-02-05T07:57:55.4555632-05:00",
-        "Update": "2024-02-05T08:20:20.5483328-05:00",
-        "Label": "Kit AMD Ryzen 5 5600X +Disipador + Gigabyte X570S Gaming X"
-      },
-      {
-        "Price": 655.00,
-        "Features": [
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "2x8GB",
-          "6000mhz",
-          "Disipadas",
-          "6xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-01-30T08:06:04.8682907-05:00",
-        "Update": "2024-03-07T04:00:34.1234052-05:00",
-        "Discount": 5.0,
-        "Label": "Kit i5-12600K +Disipador ARGB +Asus TUF Z690-Plus Wifi + 32GB DDR5 RGB 6000mhz"
-      },
-      {
-        "Price": 665.00,
-        "Features": [
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "2x16GB",
-          "6000mhz",
-          "6xUSB",
-          "4xSATA",
-          "6xAudio"
-        ],
-        "Date": "2024-01-31T11:17:35.8342884-05:00",
-        "Update": "2024-03-07T04:00:34.1482524-05:00",
-        "Discount": 5.0,
-        "Label": "Kit i5-12600K +Disipador ARGB +ASUS TUF Z690-Plus +32GB DDR5 Corsair RGB 6000mhz"
-      },
-      {
-        "Price": 465.00,
-        "Features": [
-          "6 Core",
-          "12 Hilos",
-          "4.6GHz",
-          "2x8GB",
-          "Disipadas",
-          "6xSATA",
-          "7xUSB",
-          "6xAudio"
-        ],
-        "Date": "2024-03-10T22:25:00.49422-04:00",
-        "Update": "2024-03-11T01:15:24.4635166-04:00",
-        "Discount": 5.0,
-        "Label": "Kit Ryzen 5 5600X +Gigabyte X570S Gaming X +16GB DDR4 GeIL ORION 3600mhz"
-      },
-      {
-        "Price": 610.00,
-        "Features": [
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "2x16GB",
-          "Disipadas",
-          "6xAudio",
-          "6xUSB",
-          "4xSATA",
-          "Wifi"
-        ],
-        "Date": "2024-03-10T22:27:40.5658097-04:00",
-        "Update": "2024-03-11T01:15:24.4991087-04:00",
-        "Discount": 5.0,
-        "Label": "Kit i5-12600KF +Asus TUF Z690-Plus +32GB DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
-      },
-      {
-        "Price": 805.00,
-        "Features": [
-          "24 Hilos",
-          "16 Core",
-          "5.4GHz",
-          "8xUSB",
-          "7xSATA",
-          "6xAudio"
-        ],
-        "Date": "2024-03-16T11:15:37.0936472-04:00",
-        "Update": "2024-03-17T07:55:48.1305937-04:00",
-        "Label": "Kit i7-13700K +MSI MPG Z790 EDGE Wifi"
-      }
-    ],
     "Entusiasta": [
       {
         "Price": 970.00,
@@ -251,14 +144,6 @@
         "Update": "2024-01-28T06:24:58.3322127-05:00",
         "Discount": 15.0,
         "Label": "Kit i9-12900K +H60x RGB Elite +Strix Z690-E Gaming Wifi +32GB Corsair RGB"
-      },
-      {
-        "Price": 595.00,
-        "Features": [],
-        "Date": "2023-09-15T11:12:21.3730357-04:00",
-        "Update": "2024-03-07T04:00:34.1776259-05:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-12600K + Asus TUF Z690-Plus Wifi + DDR5 Corsair Vengeance RGB 32GB 6000mhz"
       },
       {
         "Price": 955.00,
@@ -357,36 +242,69 @@
         "Label": "Kit Ryzen 3 5300G +Disipador +ASRock B550M Pro SE +8GB DDR4 Team T-Force 3200mhz"
       }
     ],
-    "Moderado": [
+    "Rendimiento": [
       {
-        "Price": 425.00,
+        "Price": 405.00,
         "Features": [
-          "12va Gen",
-          "12 Hilos",
           "6 Core",
-          "2x8",
-          "3600mhz",
-          "6xUSB",
-          "4xSATA"
+          "12 Hilos",
+          "4.6GHz",
+          "6xSATA",
+          "7xUSB",
+          "6xAudio"
         ],
-        "Date": "2024-01-17T07:49:23.3718771-05:00",
-        "Update": "2024-02-28T05:32:17.5313463-05:00",
-        "Label": "Kit Intel Core i5-12400 +Disipador +B660M PRO RS + 16GB DDR4 3600mhz"
+        "Date": "2024-02-05T07:57:55.4555632-05:00",
+        "Update": "2024-02-05T08:20:20.5483328-05:00",
+        "Label": "Kit AMD Ryzen 5 5600X +Disipador + Gigabyte X570S Gaming X"
       },
       {
-        "Price": 360.00,
+        "Price": 465.00,
         "Features": [
-          "12 Hilos",
           "6 Core",
-          "4.4GHz",
-          "6xUSB",
-          "4xSata",
-          "3xAudio",
-          "Micro ATX"
+          "12 Hilos",
+          "4.6GHz",
+          "2x8GB",
+          "Disipadas",
+          "6xSATA",
+          "7xUSB",
+          "6xAudio"
         ],
-        "Date": "2024-02-05T07:58:24.1845325-05:00",
-        "Update": "2024-02-28T05:32:17.5786149-05:00",
-        "Label": "Kit Intel Core i5-12400 +Disipador + ASRock B660M PRO RS"
+        "Date": "2024-03-10T22:25:00.49422-04:00",
+        "Update": "2024-03-11T01:15:24.4635166-04:00",
+        "Discount": 5.0,
+        "Label": "Kit Ryzen 5 5600X +Gigabyte X570S Gaming X +16GB DDR4 GeIL ORION 3600mhz"
+      },
+      {
+        "Price": 610.00,
+        "Features": [
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "2x16GB",
+          "Disipadas",
+          "6xAudio",
+          "6xUSB",
+          "4xSATA",
+          "Wifi"
+        ],
+        "Date": "2024-03-10T22:27:40.5658097-04:00",
+        "Update": "2024-03-11T01:15:24.4991087-04:00",
+        "Discount": 5.0,
+        "Label": "Kit i5-12600KF +Asus TUF Z690-Plus +32GB DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
+      },
+      {
+        "Price": 805.00,
+        "Features": [
+          "24 Hilos",
+          "16 Core",
+          "5.4GHz",
+          "8xUSB",
+          "7xSATA",
+          "6xAudio"
+        ],
+        "Date": "2024-03-16T11:15:37.0936472-04:00",
+        "Update": "2024-03-17T07:55:48.1305937-04:00",
+        "Label": "Kit i7-13700K +MSI MPG Z790 EDGE Wifi"
       }
     ]
   },
@@ -1039,21 +957,6 @@
         "Label": "Disipador Líquido Asus ROG Strix LC II 360 ARGB"
       },
       {
-        "Price": 105.00,
-        "Features": [
-          "360mm",
-          "3xFan",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "LGA 20XX",
-          "AM4"
-        ],
-        "Date": "2023-08-16T09:16:43.4918386-04:00",
-        "Update": "2023-10-09T17:48:21.6246044-04:00",
-        "Label": "Disipador Líquido SAMA CY 360mm ARGB"
-      },
-      {
         "Price": 245.00,
         "Features": [
           "2500rpm",
@@ -1539,23 +1442,6 @@
         "Label": "Micro Intel Core i3-12100F +Disipador"
       },
       {
-        "Price": 230.00,
-        "Features": [
-          "12va Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "20MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-02-17T09:44:28.156292-05:00",
-        "Update": "2024-01-18T07:19:39.7226022-05:00",
-        "Label": "Micro Intel Core i5-12600K"
-      },
-      {
         "Price": 285.00,
         "Features": [
           "13ra Gen",
@@ -1684,22 +1570,6 @@
         "Date": "2024-02-16T17:52:51.8800101-05:00",
         "Update": "2024-02-18T09:00:46.1524972-05:00",
         "Label": "CPU - Intel Core i3-14100F"
-      },
-      {
-        "Price": 215.00,
-        "Features": [
-          "12va Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "18MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-02-17T09:45:29.425139-05:00",
-        "Update": "2024-02-28T05:32:17.4344656-05:00",
-        "Label": "Micro Intel Core i5-12400 +Disipador"
       }
     ],
     "Memoria RAM": [
@@ -2032,17 +1902,6 @@
         "Date": "2024-02-16T14:42:16.5355631-05:00",
         "Update": "2024-02-19T04:36:36.2765378-05:00",
         "Label": "DDR4 G.Skill Ripjaws V 64GB 3600mhz"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "CL36",
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-03-30T09:56:12.5688722-04:00",
-        "Update": "2024-03-07T04:00:34.074023-05:00",
-        "Label": "DDR5 Corsair Vengeance RGB 32GB 6000mhz"
       },
       {
         "Price": 150.00,
@@ -2749,17 +2608,6 @@
         "Date": "2023-06-07T13:42:02.617071-04:00",
         "Update": "2024-01-24T02:11:20.7462015-05:00",
         "Label": "SSD 2.5 Team Group CX1 480GB"
-      },
-      {
-        "Price": 70.00,
-        "Features": [
-          "560mbs",
-          "300TBW",
-          "SATA 3"
-        ],
-        "Date": "2023-11-24T09:48:53.7194411-05:00",
-        "Update": "2024-01-24T02:11:20.7642629-05:00",
-        "Label": "SSD 2.5 Acer SA100 960GB"
       },
       {
         "Price": 60.00,
