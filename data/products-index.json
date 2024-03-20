@@ -24,14 +24,6 @@
         "Update": "2024-03-16T03:36:22.6251728-04:00",
         "Discount": 24.0,
         "Label": "PC RX 6600 8GB +Ryzen 5600X +X570S Gaming X +32GB 3600mhz +512GB M.2 +Acer 24\""
-      },
-      {
-        "Price": 1620.00,
-        "Features": [],
-        "Date": "2024-03-16T03:23:44.5153672-04:00",
-        "Update": "2024-03-16T03:36:22.6429241-04:00",
-        "Discount": 20.0,
-        "Label": "PC RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +AOC 24\""
       }
     ],
     "Multimedia": [
@@ -70,16 +62,6 @@
         "Update": "2024-03-07T04:00:34.2999707-05:00",
         "Discount": 10.0,
         "Label": "Torre i3-12100 +B660M PRO RS +8GB DDR4 +500GB M.2 +500W +Chasis RGB Black"
-      }
-    ],
-    "Gamer": [
-      {
-        "Price": 1235.00,
-        "Features": [],
-        "Date": "2024-03-11T10:53:00.3667551-04:00",
-        "Update": "2024-03-11T11:23:08.1963039-04:00",
-        "Discount": 10.0,
-        "Label": "Torre RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +750W"
       }
     ],
     "Pro": [
@@ -241,24 +223,6 @@
         "Update": "2024-03-11T01:15:24.4635166-04:00",
         "Discount": 5.0,
         "Label": "Kit Ryzen 5 5600X +Gigabyte X570S Gaming X +16GB DDR4 GeIL ORION 3600mhz"
-      },
-      {
-        "Price": 610.00,
-        "Features": [
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "2x16GB",
-          "Disipadas",
-          "6xAudio",
-          "6xUSB",
-          "4xSATA",
-          "Wifi"
-        ],
-        "Date": "2024-03-10T22:27:40.5658097-04:00",
-        "Update": "2024-03-11T01:15:24.4991087-04:00",
-        "Discount": 5.0,
-        "Label": "Kit i5-12600KF +Asus TUF Z690-Plus +32GB DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
       },
       {
         "Price": 805.00,
@@ -1461,23 +1425,6 @@
         "Date": "2023-10-23T12:31:42.2126394-04:00",
         "Update": "2024-01-23T14:30:19.6067624-05:00",
         "Label": "Micro Intel Core i7-14700K"
-      },
-      {
-        "Price": 195.00,
-        "Features": [
-          "12va Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "20MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-10-16T10:24:13.8080802-04:00",
-        "Update": "2024-02-01T21:13:39.215635-05:00",
-        "Label": "Micro Intel Core i5-12600KF"
       },
       {
         "Price": 175.00,
