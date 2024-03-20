@@ -1346,22 +1346,6 @@
         "Label": "Micro Intel Core i3-13100 +Disipador"
       },
       {
-        "Price": 125.00,
-        "Features": [
-          "12va Gen",
-          "8 Hilos",
-          "4 Core",
-          "3.3GHz",
-          "12MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2024-01-17T02:39:13.7412454-05:00",
-        "Update": "2024-01-17T07:32:30.686044-05:00",
-        "Label": "Micro Intel Core i3-12100F +Disipador"
-      },
-      {
         "Price": 285.00,
         "Features": [
           "13ra Gen",
@@ -1783,17 +1767,6 @@
         "Date": "2024-02-16T14:41:59.9676662-05:00",
         "Update": "2024-02-18T09:56:49.5728262-05:00",
         "Label": "DDR4 Kingston HyperX Fury RGB 8GB 3000mhz"
-      },
-      {
-        "Price": 35.00,
-        "Features": [
-          "1x8GB",
-          "CL15",
-          "Disipadas"
-        ],
-        "Date": "2024-02-16T14:42:04.2392562-05:00",
-        "Update": "2024-02-18T09:56:49.5866773-05:00",
-        "Label": "DDR4 Kingston HyperX Fury 8GB 3000mhz"
       },
       {
         "Price": 160.00,
@@ -2571,17 +2544,6 @@
         "Label": "SSD M.2 Corsair MP600 PRO LPX 1TB White"
       },
       {
-        "Price": 150.00,
-        "Features": [
-          "7450mbs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-08-21T08:57:50.0608494-04:00",
-        "Update": "2024-02-20T04:12:06.412676-05:00",
-        "Label": "SSD M.2 Samsung 990 PRO 1TB"
-      },
-      {
         "Price": 140.00,
         "Features": [
           "3600mbs",
@@ -3170,23 +3132,6 @@
         "Date": "2023-09-23T14:08:54.0159291-04:00",
         "Update": "2023-12-08T14:08:33.4767149-05:00",
         "Label": "Auriculares Corsair VOID RGB Elite Wireless White"
-      },
-      {
-        "Price": 75.00,
-        "Features": [
-          "7.1",
-          "Micrófono",
-          "3.5mm",
-          "40mm",
-          "250g",
-          "USB",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2024-01-30T09:00:06.5126652-05:00",
-        "Update": "2024-01-30T10:47:53.8741928-05:00",
-        "Label": "Auriculares Razer Kraken X"
       }
     ],
     "Webcam": [
