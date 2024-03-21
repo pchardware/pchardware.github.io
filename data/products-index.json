@@ -10,7 +10,7 @@
         "Label": "Torre RX 6600 8GB +Ryzen 5300G +16GB 3600mhz +512GB M.2 +500W +Chasis RGB"
       },
       {
-        "Price": 1240.00,
+        "Price": 1237.00,
         "Features": [],
         "Date": "2024-03-16T03:20:58.8117606-04:00",
         "Update": "2024-03-16T03:36:22.6076116-04:00",
@@ -18,7 +18,7 @@
         "Label": "PC RX 6600 8GB +Ryzen 5300G +16GB 3600mhz +512GB M.2 +500W +Monitor MSI 25\""
       },
       {
-        "Price": 1500.00,
+        "Price": 1502.00,
         "Features": [],
         "Date": "2024-03-16T03:22:04.2843328-04:00",
         "Update": "2024-03-16T03:36:22.6251728-04:00",
@@ -2881,7 +2881,7 @@
   "Periféricos": {
     "Teclado": [
       {
-        "Price": 93.00,
+        "Price": 95.00,
         "Features": [
           "Macros",
           "Palm rest",
@@ -2912,7 +2912,7 @@
         "Label": "Teclado Asus TUF Gaming K1"
       },
       {
-        "Price": 103.00,
+        "Price": 100.00,
         "Features": [
           "Membrana",
           "RGB",
@@ -2959,7 +2959,7 @@
         "Label": "COMBO Teclado + Mouse Logitech MK270"
       },
       {
-        "Price": 125.00,
+        "Price": 105.00,
         "Features": [
           "Macros",
           "Aluminio",
@@ -2974,7 +2974,7 @@
         "Label": "Teclado Razer Huntsman Mini 60%"
       },
       {
-        "Price": 110.00,
+        "Price": 95.00,
         "Features": [
           "60%",
           "Mecánico",
@@ -2991,7 +2991,7 @@
         "Label": "Teclado Cooler Master SK622 RGB White"
       },
       {
-        "Price": 135.00,
+        "Price": 125.00,
         "Features": [
           "60%",
           "RGB Brown",
