@@ -1,0 +1,30 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-i5-13500-z790-aorus-elite-ax-ice-32gb-ddr5-gsk-4yvi33-1.webp",
+    "/images/products/kit-i5-13500-z790-aorus-elite-ax-ice-32gb-ddr5-gsk-4yvi33-2.webp",
+    "/images/products/kit-i5-13500-z790-aorus-elite-ax-ice-32gb-ddr5-gsk-4yvi33-3.webp",
+    "/images/products/kit-i5-13500-z790-aorus-elite-ax-ice-32gb-ddr5-gsk-4yvi33-4.webp",
+    "/images/products/kit-i5-13500-z790-aorus-elite-ax-ice-32gb-ddr5-gsk-4yvi33-5.webp",
+    "/images/products/kit-i5-13500-z790-aorus-elite-ax-ice-32gb-ddr5-gsk-4yvi33-6.webp",
+    "/images/products/kit-i5-13500-z790-aorus-elite-ax-ice-32gb-ddr5-gsk-4yvi33-7.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-13500 +Disipador\n+ Board Gigabyte Z790 Aorus Elite AX ICE\n+ DDR5 G.Skill Trident Z5 NEO RGB 32GB 6400mhz\n",
+  "Price": 725.00,
+  "Features": [
+    "20 Hilos",
+    "14 Core",
+    "4.8GHz",
+    "2x16",
+    "6400mhz",
+    "Wifi",
+    "9xUSB",
+    "6xSATA",
+    "3xAudio"
+  ],
+  "Date": "2024-03-21T04:30:12.5108904-04:00",
+  "Update": "2024-03-21T04:35:16.3371621-04:00",
+  "Discount": 5.0,
+  "Label": "Kit i5-13500 +Z790 Aorus Elite AX ICE +32GB DDR5 G.Skill Trident Z5 NEO RGB"
+}
