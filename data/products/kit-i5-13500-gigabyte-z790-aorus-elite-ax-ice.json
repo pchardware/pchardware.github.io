@@ -1,0 +1,25 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Moderado",
+  "Images": [
+    "/images/products/kit-i5-13500-gigabyte-z790-aorus-elite-ax-ice-1.webp",
+    "/images/products/kit-i5-13500-gigabyte-z790-aorus-elite-ax-ice-2.webp",
+    "/images/products/kit-i5-13500-gigabyte-z790-aorus-elite-ax-ice-3.webp",
+    "/images/products/kit-i5-13500-gigabyte-z790-aorus-elite-ax-ice-4.webp",
+    "/images/products/kit-i5-13500-gigabyte-z790-aorus-elite-ax-ice-5.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-13500 +Disipador\n+ Board Gigabyte Z790 Aorus Elite AX ICE\n",
+  "Price": 580.00,
+  "Features": [
+    "20 Hilos",
+    "14 Core",
+    "4.8GHz",
+    "Wifi",
+    "9xUSB",
+    "6xSATA",
+    "3xAudio"
+  ],
+  "Date": "2024-03-21T03:52:16.8487093-04:00",
+  "Update": "2024-03-21T04:35:16.3186826-04:00",
+  "Label": "Kit i5-13500 +Gigabyte Z790 Aorus Elite AX ICE"
+}
