@@ -237,6 +237,123 @@
         "Date": "2024-03-16T11:15:37.0936472-04:00",
         "Update": "2024-03-17T07:55:48.1305937-04:00",
         "Label": "Kit i7-13700K +MSI MPG Z790 EDGE Wifi"
+      },
+      {
+        "Price": 1090.00,
+        "Features": [
+          "20 Core",
+          "28 Hilos",
+          "5.6Ghz",
+          "2x32",
+          "6000mhz",
+          "Wifi",
+          "8xUSB",
+          "7xSATA",
+          "6xAudio"
+        ],
+        "Date": "2024-03-21T03:48:55.9943772-04:00",
+        "Update": "2024-03-21T04:35:16.2043703-04:00",
+        "Discount": 5.0,
+        "Label": "Kit i7-14700K +MSI MPG Z790 EDGE Wifi +64GB DDR5 G.Skill Trident Z5 RGB"
+      },
+      {
+        "Price": 850.00,
+        "Features": [
+          "20 Core",
+          "28 Hilos",
+          "5.6Ghz",
+          "Wifi",
+          "8xUSB",
+          "7xSATA",
+          "6xAudio"
+        ],
+        "Date": "2024-03-21T03:49:21.6486508-04:00",
+        "Update": "2024-03-21T04:35:16.2286656-04:00",
+        "Discount": 5.0,
+        "Label": "Kit i7-14700K +MSI MPG Z790 EDGE Wifi"
+      },
+      {
+        "Price": 680.00,
+        "Features": [
+          "12va Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.2GHz",
+          "10xUSB",
+          "6xSATA",
+          "6xAudio"
+        ],
+        "Date": "2024-03-21T03:50:20.6168985-04:00",
+        "Update": "2024-03-21T04:35:16.2657103-04:00",
+        "Label": "Kit i9-12900K +Asus ROG Strix Z690-E Gaming Wifi"
+      },
+      {
+        "Price": 645.00,
+        "Features": [
+          "14 Core",
+          "20 Hilos",
+          "5.3Ghz",
+          "Wifi",
+          "9xUSB",
+          "6xSATA",
+          "3xAudio"
+        ],
+        "Date": "2024-03-21T03:50:55.0727469-04:00",
+        "Update": "2024-03-21T04:35:16.2832389-04:00",
+        "Label": "Kit i5-14600K +Gigabyte Z790 Aorus Elite AX ICE"
+      },
+      {
+        "Price": 785.00,
+        "Features": [
+          "14 Core",
+          "20 Hilos",
+          "5.3Ghz",
+          "2x16",
+          "6000mhz",
+          "Wifi",
+          "9xUSB",
+          "6xSATA",
+          "3xAudio"
+        ],
+        "Date": "2024-03-21T03:51:35.27335-04:00",
+        "Update": "2024-03-21T04:35:16.3009572-04:00",
+        "Discount": 5.0,
+        "Label": "Kit i5-14600K +Gigabyte Z790 Aorus Elite AX ICE +32GB DDR5 Gigabyte AORUS RGB"
+      },
+      {
+        "Price": 725.00,
+        "Features": [
+          "20 Hilos",
+          "14 Core",
+          "4.8GHz",
+          "2x16",
+          "6400mhz",
+          "Wifi",
+          "9xUSB",
+          "6xSATA",
+          "3xAudio"
+        ],
+        "Date": "2024-03-21T04:30:12.5108904-04:00",
+        "Update": "2024-03-21T04:35:16.3371621-04:00",
+        "Discount": 5.0,
+        "Label": "Kit i5-13500 +Z790 Aorus Elite AX ICE +32GB DDR5 G.Skill Trident Z5 NEO RGB"
+      }
+    ],
+    "Moderado": [
+      {
+        "Price": 580.00,
+        "Features": [
+          "20 Hilos",
+          "14 Core",
+          "4.8GHz",
+          "Wifi",
+          "9xUSB",
+          "6xSATA",
+          "3xAudio"
+        ],
+        "Date": "2024-03-21T03:52:16.8487093-04:00",
+        "Update": "2024-03-21T04:35:16.3186826-04:00",
+        "Label": "Kit i5-13500 +Gigabyte Z790 Aorus Elite AX ICE"
       }
     ]
   },
@@ -1395,22 +1512,6 @@
         "Label": "Micro Intel Core i3-12100 +Disipador"
       },
       {
-        "Price": 450.00,
-        "Features": [
-          "14va Gen",
-          "28 Hilos",
-          "5.6Ghz",
-          "33mb L3",
-          "253W",
-          "LGA 1700",
-          "DDR4-DDR5",
-          "CPU"
-        ],
-        "Date": "2023-10-23T12:31:42.2126394-04:00",
-        "Update": "2024-01-23T14:30:19.6067624-05:00",
-        "Label": "Micro Intel Core i7-14700K"
-      },
-      {
         "Price": 175.00,
         "Features": [
           "14va Gen",
@@ -1457,6 +1558,23 @@
         "Date": "2024-02-16T17:52:51.8800101-05:00",
         "Update": "2024-02-18T09:00:46.1524972-05:00",
         "Label": "CPU - Intel Core i3-14100F"
+      },
+      {
+        "Price": 450.00,
+        "Features": [
+          "14va Gen",
+          "20 Core",
+          "28 Hilos",
+          "5.6Ghz",
+          "33mb L3",
+          "253W",
+          "LGA 1700",
+          "DDR4-DDR5",
+          "CPU"
+        ],
+        "Date": "2023-10-23T12:31:42.2126394-04:00",
+        "Update": "2024-03-21T04:35:16.14896-04:00",
+        "Label": "Micro Intel Core i7-14700K"
       }
     ],
     "Memoria RAM": [
