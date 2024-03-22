@@ -1,40 +1,6 @@
 {
   "Computadoras": {
-    "Gamer": [
-      {
-        "Price": 905.00,
-        "Features": [],
-        "Date": "2024-03-11T11:02:28.9659308-04:00",
-        "Update": "2024-03-11T11:23:08.2836302-04:00",
-        "Discount": 10.0,
-        "Label": "Torre RX 6600 8GB +Ryzen 5300G +16GB 3600mhz +512GB M.2 +500W +Chasis RGB"
-      },
-      {
-        "Price": 1237.00,
-        "Features": [],
-        "Date": "2024-03-16T03:20:58.8117606-04:00",
-        "Update": "2024-03-16T03:36:22.6076116-04:00",
-        "Discount": 13.0,
-        "Label": "PC RX 6600 8GB +Ryzen 5300G +16GB 3600mhz +512GB M.2 +500W +Monitor MSI 25\""
-      },
-      {
-        "Price": 1502.00,
-        "Features": [],
-        "Date": "2024-03-16T03:22:04.2843328-04:00",
-        "Update": "2024-03-16T03:36:22.6251728-04:00",
-        "Discount": 24.0,
-        "Label": "PC RX 6600 8GB +Ryzen 5600X +X570S Gaming X +32GB 3600mhz +512GB M.2 +Acer 24\""
-      }
-    ],
     "Multimedia": [
-      {
-        "Price": 885.00,
-        "Features": [],
-        "Date": "2024-03-16T03:18:32.1089055-04:00",
-        "Update": "2024-03-16T03:36:22.5733892-04:00",
-        "Discount": 10.0,
-        "Label": "PC Ryzen 3 5300G +B550M Pro SE +16GB DDR4 +500GB M.2 +600W +Monitor MSI 24\""
-      },
       {
         "Price": 900.00,
         "Features": [],
@@ -43,18 +9,20 @@
         "Discount": 10.0,
         "Label": "PC i3-12100 +B660M PRO RS +8GB DDR4 +500GB M.2 +500W +Monitor MSI 24\""
       }
+    ],
+    "Gamer": [
+      {
+        "Price": 1502.00,
+        "Features": [],
+        "Date": "2024-03-16T03:22:04.2843328-04:00",
+        "Update": "2024-03-16T03:36:22.6251728-04:00",
+        "Discount": 24.0,
+        "Label": "PC RX 6600 8GB +Ryzen 5600X +X570S Gaming X +32GB 3600mhz +512GB M.2 +Acer 24\""
+      }
     ]
   },
   "Torres": {
     "Multimedia": [
-      {
-        "Price": 625.00,
-        "Features": [],
-        "Date": "2024-02-01T08:56:11.2827635-05:00",
-        "Update": "2024-03-07T04:00:34.2706892-05:00",
-        "Discount": 10.0,
-        "Label": "Torre Ryzen 3 5300G +B550M Pro SE +16GB DDR4 +500GB M.2 +600W + Chasis RGB"
-      },
       {
         "Price": 640.00,
         "Features": [],
@@ -130,21 +98,6 @@
         "Label": "Kit i3-12100 +Disipador +B660M PRO RS +8GB DDR4 Team T-Force Vulcan Z 3200mhz"
       },
       {
-        "Price": 245.00,
-        "Features": [
-          "8 Hilos",
-          "4 Core",
-          "4.2GHz",
-          "6xUSB",
-          "4xSATA",
-          "3xAudio",
-          "Micro ATX"
-        ],
-        "Date": "2024-02-05T07:56:30.7216392-05:00",
-        "Update": "2024-02-05T08:20:20.466805-05:00",
-        "Label": "Kit Ryzen 3 5300G +Disipador + ASRock B550M Pro SE"
-      },
-      {
         "Price": 290.00,
         "Features": [
           "8 Hilos",
@@ -158,38 +111,6 @@
         "Date": "2024-02-05T07:56:48.7516909-05:00",
         "Update": "2024-02-05T08:20:20.4825729-05:00",
         "Label": "Kit Intel Core i3-12100 +Disipador + ASRock B660M PRO RS"
-      },
-      {
-        "Price": 350.00,
-        "Features": [
-          "8 Hilos",
-          "4 Core",
-          "4.3GHz",
-          "2x8GB",
-          "Disipadas",
-          "6xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-03-10T23:41:23.057279-04:00",
-        "Update": "2024-03-11T01:02:05.9125504-04:00",
-        "Discount": 5.0,
-        "Label": "Kit i3-12100 +Disipador +ASRock B660M PRO RS +16GB DDR4 GeIL ORION 3600mhz"
-      },
-      {
-        "Price": 275.00,
-        "Features": [
-          "8 Hilos",
-          "4 Core",
-          "4.2GHz",
-          "1x8GB",
-          "Disipada",
-          "6xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-03-10T22:24:21.9753318-04:00",
-        "Update": "2024-03-11T01:15:24.4466813-04:00",
-        "Discount": 5.0,
-        "Label": "Kit Ryzen 3 5300G +Disipador +ASRock B550M Pro SE +8GB DDR4 Team T-Force 3200mhz"
       }
     ],
     "Rendimiento": [
@@ -206,23 +127,6 @@
         "Date": "2024-02-05T07:57:55.4555632-05:00",
         "Update": "2024-02-05T08:20:20.5483328-05:00",
         "Label": "Kit AMD Ryzen 5 5600X +Disipador + Gigabyte X570S Gaming X"
-      },
-      {
-        "Price": 465.00,
-        "Features": [
-          "6 Core",
-          "12 Hilos",
-          "4.6GHz",
-          "2x8GB",
-          "Disipadas",
-          "6xSATA",
-          "7xUSB",
-          "6xAudio"
-        ],
-        "Date": "2024-03-10T22:25:00.49422-04:00",
-        "Update": "2024-03-11T01:15:24.4635166-04:00",
-        "Discount": 5.0,
-        "Label": "Kit Ryzen 5 5600X +Gigabyte X570S Gaming X +16GB DDR4 GeIL ORION 3600mhz"
       },
       {
         "Price": 805.00,
@@ -1412,24 +1316,6 @@
         "Label": "Micro Intel Core i7-13700K"
       },
       {
-        "Price": 110.00,
-        "Features": [
-          "Radeon Graphics",
-          "AM4",
-          "8 Hilos",
-          "4 Core",
-          "4.2GHz",
-          "8MB L3",
-          "65W",
-          "DDR4",
-          "Serie5000",
-          "CPU"
-        ],
-        "Date": "2023-12-28T22:14:48.5974394-05:00",
-        "Update": "2023-12-29T07:44:38.8665379-05:00",
-        "Label": "Micro AMD Ryzen 3 5300G +Disipador"
-      },
-      {
         "Price": 350.00,
         "Features": [
           "14va Gen",
@@ -1632,17 +1518,6 @@
         "Date": "2023-12-28T14:08:09.113298-05:00",
         "Update": "2023-12-28T19:11:11.7130063-05:00",
         "Label": "RAM DDR4 GeIL ORION 32GB 3600mhz"
-      },
-      {
-        "Price": 65.00,
-        "Features": [
-          "2x8GB",
-          "CL18",
-          "Disipadas"
-        ],
-        "Date": "2023-12-28T14:08:12.7297994-05:00",
-        "Update": "2023-12-28T19:11:11.737713-05:00",
-        "Label": "RAM DDR4 GeIL ORION 16GB 3600mhz"
       },
       {
         "Price": 110.00,
@@ -2436,25 +2311,6 @@
         "Date": "2023-02-17T09:47:30.747913-05:00",
         "Update": "2024-01-24T14:50:31.1883657-05:00",
         "Label": "Board ASRock B660M PRO RS"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "AM4",
-          "DDR4",
-          "4533mhz",
-          "6xUSB",
-          "4xSATA",
-          "Micro ATX",
-          "HDMI",
-          "DisplayPort",
-          "3xAudio",
-          "AMD",
-          "MOBO"
-        ],
-        "Date": "2023-10-11T10:56:39.5272184-04:00",
-        "Update": "2024-02-05T08:20:20.4469141-05:00",
-        "Label": "Board ASRock B550M Pro SE"
       },
       {
         "Price": 240.00,
