@@ -2,7 +2,7 @@
   "Computadoras": {
     "Multimedia": [
       {
-        "Price": 900.00,
+        "Price": 895.00,
         "Features": [],
         "Date": "2024-03-16T03:20:47.3954982-04:00",
         "Update": "2024-03-16T03:36:22.5894514-04:00",
@@ -12,7 +12,7 @@
     ],
     "Gamer": [
       {
-        "Price": 1502.00,
+        "Price": 1492.00,
         "Features": [],
         "Date": "2024-03-16T03:22:04.2843328-04:00",
         "Update": "2024-03-16T03:36:22.6251728-04:00",
@@ -24,7 +24,7 @@
   "Torres": {
     "Multimedia": [
       {
-        "Price": 640.00,
+        "Price": 635.00,
         "Features": [],
         "Date": "2024-02-01T09:36:10.7393442-05:00",
         "Update": "2024-03-07T04:00:34.2999707-05:00",
@@ -34,7 +34,7 @@
     ],
     "Pro": [
       {
-        "Price": 1120.00,
+        "Price": 1110.00,
         "Features": [],
         "Date": "2024-03-11T10:54:19.8453833-04:00",
         "Update": "2024-03-11T11:23:08.2389691-04:00",
@@ -42,14 +42,14 @@
         "Label": "Torre RX 6600 8GB +Ryzen 5600X +X570S Gaming X +32GB 3600mhz +512GB M.2 +700W"
       },
       {
-        "Price": 1765.00,
+        "Price": 1755.00,
         "Features": [],
         "Date": "2024-03-23T08:49:36.4740609-04:00",
         "Update": "2024-03-23T09:05:03.0870694-04:00",
         "Label": "Torre RTX 3060 Ti 8GB +i5-14600K +Z790 Aorus Elite AX ICE +32GB DDR5 RGB +750W"
       },
       {
-        "Price": 2260.00,
+        "Price": 2250.00,
         "Features": [],
         "Date": "2024-03-23T08:55:14.4646161-04:00",
         "Update": "2024-03-23T09:05:03.1183163-04:00",
@@ -59,7 +59,7 @@
     ],
     "Gamer": [
       {
-        "Price": 1575.00,
+        "Price": 1565.00,
         "Features": [],
         "Date": "2024-03-23T08:53:03.7685864-04:00",
         "Update": "2024-03-23T09:05:03.1028972-04:00",
@@ -67,7 +67,7 @@
         "Label": "Torre RTX 4060 8GB +i5-13500 +Z790 Aorus Elite AX ICE +32GB RAM DDR5 RGB +750W"
       },
       {
-        "Price": 1170.00,
+        "Price": 1160.00,
         "Features": [],
         "Date": "2024-03-23T09:28:16.1624908-04:00",
         "Update": "2024-03-23T09:33:57.7797017-04:00",
@@ -75,7 +75,7 @@
         "Label": "Torre RX 6600 3X 8GB +Ryzen 5 5600X +X570S Gaming X +32GB DDR4 +500GB M.2 +750W"
       },
       {
-        "Price": 955.00,
+        "Price": 950.00,
         "Features": [],
         "Date": "2024-03-23T09:36:23.2651017-04:00",
         "Update": "2024-03-23T09:38:32.765138-04:00",
@@ -87,7 +87,7 @@
   "Kits": {
     "Entusiasta": [
       {
-        "Price": 970.00,
+        "Price": 945.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -105,7 +105,7 @@
         "Label": "Kit i9-12900K +H60x RGB Elite +Strix Z690-E Gaming Wifi +32GB Corsair RGB"
       },
       {
-        "Price": 955.00,
+        "Price": 945.00,
         "Features": [
           "24 Hilos",
           "16 Core",
@@ -124,7 +124,7 @@
     ],
     "Esencial": [
       {
-        "Price": 325.00,
+        "Price": 320.00,
         "Features": [
           "8 Hilos",
           "4 Core",
@@ -139,7 +139,7 @@
         "Label": "Kit i3-12100 +Disipador +B660M PRO RS +8GB DDR4 Team T-Force Vulcan Z 3200mhz"
       },
       {
-        "Price": 290.00,
+        "Price": 285.00,
         "Features": [
           "8 Hilos",
           "4 Core",
@@ -156,7 +156,7 @@
     ],
     "Rendimiento": [
       {
-        "Price": 405.00,
+        "Price": 395.00,
         "Features": [
           "6 Core",
           "12 Hilos",
@@ -170,7 +170,7 @@
         "Label": "Kit AMD Ryzen 5 5600X +Disipador + Gigabyte X570S Gaming X"
       },
       {
-        "Price": 805.00,
+        "Price": 795.00,
         "Features": [
           "24 Hilos",
           "16 Core",
@@ -184,7 +184,7 @@
         "Label": "Kit i7-13700K +MSI MPG Z790 EDGE Wifi"
       },
       {
-        "Price": 1090.00,
+        "Price": 1075.00,
         "Features": [
           "20 Core",
           "28 Hilos",
@@ -202,7 +202,7 @@
         "Label": "Kit i7-14700K +MSI MPG Z790 EDGE Wifi +64GB DDR5 G.Skill Trident Z5 RGB"
       },
       {
-        "Price": 850.00,
+        "Price": 835.00,
         "Features": [
           "20 Core",
           "28 Hilos",
@@ -218,7 +218,7 @@
         "Label": "Kit i7-14700K +MSI MPG Z790 EDGE Wifi"
       },
       {
-        "Price": 680.00,
+        "Price": 655.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -233,7 +233,7 @@
         "Label": "Kit i9-12900K +Asus ROG Strix Z690-E Gaming Wifi"
       },
       {
-        "Price": 645.00,
+        "Price": 635.00,
         "Features": [
           "14 Core",
           "20 Hilos",
@@ -248,7 +248,7 @@
         "Label": "Kit i5-14600K +Gigabyte Z790 Aorus Elite AX ICE"
       },
       {
-        "Price": 785.00,
+        "Price": 775.00,
         "Features": [
           "14 Core",
           "20 Hilos",
@@ -266,7 +266,7 @@
         "Label": "Kit i5-14600K +Gigabyte Z790 Aorus Elite AX ICE +32GB DDR5 Gigabyte AORUS RGB"
       },
       {
-        "Price": 725.00,
+        "Price": 715.00,
         "Features": [
           "20 Hilos",
           "14 Core",
@@ -286,7 +286,7 @@
     ],
     "Moderado": [
       {
-        "Price": 580.00,
+        "Price": 570.00,
         "Features": [
           "20 Hilos",
           "14 Core",
@@ -1320,7 +1320,7 @@
     ],
     "Microprocesador": [
       {
-        "Price": 370.00,
+        "Price": 355.00,
         "Features": [
           "Radeon Graphics",
           "AM5",
@@ -1340,7 +1340,7 @@
         "Label": "Micro AMD Ryzen 9 7900X"
       },
       {
-        "Price": 400.00,
+        "Price": 390.00,
         "Features": [
           "13ra Gen",
           "24 Hilos",
@@ -1357,7 +1357,7 @@
         "Label": "Micro Intel Core i7-13700K"
       },
       {
-        "Price": 350.00,
+        "Price": 340.00,
         "Features": [
           "14va Gen",
           "14 Core",
@@ -1374,7 +1374,7 @@
         "Label": "Micro Intel Core i5-14600K"
       },
       {
-        "Price": 165.00,
+        "Price": 160.00,
         "Features": [
           "13ra Gen",
           "8 Hilos",
@@ -1390,7 +1390,7 @@
         "Label": "Micro Intel Core i3-13100 +Disipador"
       },
       {
-        "Price": 285.00,
+        "Price": 275.00,
         "Features": [
           "13ra Gen",
           "20 Hilos",
@@ -1406,7 +1406,7 @@
         "Label": "Micro Intel Core i5-13500 +Disipador"
       },
       {
-        "Price": 365.00,
+        "Price": 350.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -1423,7 +1423,7 @@
         "Label": "Micro Intel Core i9-12900K"
       },
       {
-        "Price": 145.00,
+        "Price": 140.00,
         "Features": [
           "12va Gen",
           "8 Hilos",
@@ -1471,7 +1471,7 @@
         "Label": "Micro AMD Ryzen 5 5600X +Disipador"
       },
       {
-        "Price": 145.00,
+        "Price": 140.00,
         "Features": [
           "14va Gen",
           "8 Hilos",
@@ -1487,7 +1487,7 @@
         "Label": "CPU - Intel Core i3-14100F"
       },
       {
-        "Price": 450.00,
+        "Price": 435.00,
         "Features": [
           "14va Gen",
           "20 Core",
@@ -2296,7 +2296,7 @@
         "Label": "Board Gigabyte Z790 Aorus Elite AX ICE"
       },
       {
-        "Price": 315.00,
+        "Price": 305.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "DDR5",
@@ -2315,7 +2315,7 @@
         "Label": "Board Asus ROG Strix Z690-E Gaming Wifi"
       },
       {
-        "Price": 230.00,
+        "Price": 220.00,
         "Features": [
           "AM4",
           "DDR4",
@@ -2354,7 +2354,7 @@
         "Label": "Board ASRock B660M PRO RS"
       },
       {
-        "Price": 240.00,
+        "Price": 230.00,
         "Features": [
           "12va-13ra-14ta",
           "DDR5",
@@ -2373,7 +2373,7 @@
         "Label": "Board Asus TUF Z690-Plus Wifi"
       },
       {
-        "Price": 395.00,
+        "Price": 375.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "DDR5",
@@ -2414,7 +2414,7 @@
         "Label": "Board MSI MPG Z790 EDGE Wifi"
       },
       {
-        "Price": 235.00,
+        "Price": 225.00,
         "Features": [
           "12va-13ra-14ta",
           "DDR4",
