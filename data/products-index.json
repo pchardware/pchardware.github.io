@@ -67,6 +67,78 @@
         "Date": "2024-02-05T07:56:48.7516909-05:00",
         "Update": "2024-02-05T08:20:20.4825729-05:00",
         "Label": "Kit Intel Core i3-12100 +Disipador + ASRock B660M PRO RS"
+      },
+      {
+        "Price": 405.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "2x8GB",
+          "Disipadas",
+          "6xUSB",
+          "4xSata",
+          "3xAudio",
+          "Micro  ATX"
+        ],
+        "Date": "2024-03-25T11:23:24.8070508-04:00",
+        "Update": "2024-03-25T11:47:31.9890439-04:00",
+        "Discount": 5.0,
+        "Label": "Kit i3-12100 +B660M PRO RS +16GB DDR4 RGB 3600mhz +512GB SSD M.2"
+      },
+      {
+        "Price": 495.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "1x8GB",
+          "Disipadas",
+          "6xUSB",
+          "4xSata",
+          "3xAudio",
+          "Micro  ATX"
+        ],
+        "Date": "2024-03-25T11:24:02.3093879-04:00",
+        "Update": "2024-03-25T11:47:32.0294588-04:00",
+        "Discount": 5.0,
+        "Label": "Kit i3-12100 +B660M PRO RS +16GB DDR4 RGB 3600mhz +512GB SSD M.2 +Fuente 500W"
+      },
+      {
+        "Price": 370.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "1x8GB",
+          "Disipadas",
+          "6xUSB",
+          "4xSata",
+          "3xAudio",
+          "Micro  ATX"
+        ],
+        "Date": "2024-03-25T11:24:38.6297282-04:00",
+        "Update": "2024-03-25T11:47:32.08865-04:00",
+        "Discount": 5.0,
+        "Label": "Kit i3-12100 +B660M PRO RS +8GB DDR4 3200mhz +512GB SSD M.2"
+      },
+      {
+        "Price": 455.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "1x8GB",
+          "Disipadas",
+          "6xUSB",
+          "4xSata",
+          "3xAudio",
+          "Micro  ATX"
+        ],
+        "Date": "2024-03-25T11:25:08.5282323-04:00",
+        "Update": "2024-03-25T11:47:32.1409625-04:00",
+        "Discount": 5.0,
+        "Label": "Kit i3-12100 +B660M PRO RS +8GB DDR4 3200mhz +512GB SSD M.2 +Thermaltake 500W"
       }
     ],
     "Rendimiento": [
