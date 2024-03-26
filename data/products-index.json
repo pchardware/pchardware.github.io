@@ -2436,6 +2436,107 @@
         "Date": "2024-02-28T05:30:17.0431477-05:00",
         "Update": "2024-03-26T10:26:37.3732091-04:00",
         "Label": "Soporte de Tarjeta de Video Rosewill"
+      },
+      {
+        "Price": 865.00,
+        "Features": [
+          "3xFan",
+          "DLSS3",
+          "1x16Pin",
+          "700WR",
+          "342mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-03-26T10:19:44.2650937-04:00",
+        "Update": "2024-03-26T11:48:41.1705849-04:00",
+        "Label": "Tarjeta de Video Gigabyte Aorus RTX 4070 Super Master 12GB"
+      },
+      {
+        "Price": 885.00,
+        "Features": [
+          "3xFan",
+          "DLSS3",
+          "1x16Pin",
+          "750WR",
+          "261mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-03-26T10:19:50.9687478-04:00",
+        "Update": "2024-03-26T11:48:41.1863727-04:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Windforce OC 12GB"
+      },
+      {
+        "Price": 985.00,
+        "Features": [
+          "3xFan",
+          "DLSS3",
+          "1x16Pin",
+          "750WR",
+          "307mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-03-26T10:19:59.8969115-04:00",
+        "Update": "2024-03-26T11:48:41.2026648-04:00",
+        "Label": "Tarjeta de Video MSI RTX 4070 Ti SUPER Gaming X Slim 16GB"
+      },
+      {
+        "Price": 1015.00,
+        "Features": [
+          "3xFan",
+          "DLSS3",
+          "1x16Pin",
+          "750WR",
+          "300mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-03-26T10:20:05.9610711-04:00",
+        "Update": "2024-03-26T11:48:41.2191083-04:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Super Gaming OC 16GB"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "2xfan",
+          "300WR",
+          "189mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica",
+          "DLSS"
+        ],
+        "Date": "2024-03-26T10:20:38.9049193-04:00",
+        "Update": "2024-03-26T11:48:41.2572012-04:00",
+        "Label": "Tarjeta de Viddeo MSI RTX 3050 Ventus 2X 6GB OC"
+      },
+      {
+        "Price": 675.00,
+        "Features": [
+          "3xFan",
+          "DLSS3",
+          "1x8Pin",
+          "650WR",
+          "300mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-03-26T10:20:47.9604797-04:00",
+        "Update": "2024-03-26T11:48:41.2722265-04:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4070 Gaming OC V2 12GB"
       }
     ],
     "Board": [
