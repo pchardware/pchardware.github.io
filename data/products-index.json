@@ -2370,13 +2370,6 @@
         "Label": "Tarjeta de Video Gigabyte Aorus RX 6750 XT Elite 12GB (3xFan)"
       },
       {
-        "Price": 10.00,
-        "Features": [],
-        "Date": "2024-02-28T05:30:17.0431477-05:00",
-        "Update": "2024-03-26T10:25:06.4794333-04:00",
-        "Label": "SGPU - Rosewill Support Bracket"
-      },
-      {
         "Price": 795.00,
         "Features": [
           "3xFan",
@@ -2408,6 +2401,13 @@
         "Date": "2024-01-16T04:52:03.8982461-05:00",
         "Update": "2024-03-26T10:25:06.5391594-04:00",
         "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X Black OC 8GB"
+      },
+      {
+        "Price": 10.00,
+        "Features": [],
+        "Date": "2024-02-28T05:30:17.0431477-05:00",
+        "Update": "2024-03-26T10:26:37.3732091-04:00",
+        "Label": "Soporte de Tarjeta de Video Rosewill"
       }
     ],
     "Board": [
