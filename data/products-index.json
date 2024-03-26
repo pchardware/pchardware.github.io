@@ -1181,6 +1181,18 @@
         "Date": "2023-05-11T14:19:01.4001144-04:00",
         "Update": "2024-03-10T04:03:05.8818356-04:00",
         "Label": "HDD 3.5 WD 14TB HC530"
+      },
+      {
+        "Price": 70.00,
+        "Features": [
+          "64mb",
+          "5900rpm",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-07-26T16:42:06.8492862-04:00",
+        "Update": "2024-03-26T10:30:09.5350755-04:00",
+        "Label": "HDD 3.5 Seagate Pipeline 2TB"
       }
     ],
     "Disipador por Aire": [
@@ -2025,6 +2037,22 @@
         "Date": "2023-06-07T15:06:17.9384399-04:00",
         "Update": "2023-12-14T07:55:28.8181172-05:00",
         "Label": "Chasis MLLIQUEA Mining Rig Frame"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "Tempered Glass",
+          "3xFan ARGB",
+          "3xUSB",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "Negro",
+          "2xHDD"
+        ],
+        "Date": "2023-11-03T12:22:56.9620417-04:00",
+        "Update": "2024-03-26T10:30:09.5686411-04:00",
+        "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2549,6 +2577,44 @@
         "Date": "2024-02-20T04:10:50.1498711-05:00",
         "Update": "2024-02-20T06:59:15.8683818-05:00",
         "Label": "Board MSI MPG Z790 EDGE Wifi"
+      },
+      {
+        "Price": 335.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "7800mhz",
+          "8xUSB",
+          "6xAudio",
+          "4xSATA",
+          "LGA 1700",
+          "DisplayPort",
+          "HDMI",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-03-29T20:18:17.8757341-04:00",
+        "Update": "2024-03-26T10:30:09.5511521-04:00",
+        "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
+      },
+      {
+        "Price": 225.00,
+        "Features": [
+          "12va-13ra-14ta",
+          "DDR4",
+          "5000mhz",
+          "6xAudio",
+          "5xUSB",
+          "8xSATA",
+          "LGA1700",
+          "HDMI",
+          "DisplayPort",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2024-03-07T09:46:29.5659598-05:00",
+        "Update": "2024-03-26T10:30:09.596811-04:00",
+        "Label": "MB - ASRock Z690 EXTREME DDR4"
       }
     ],
     "Disco Sólido": [
