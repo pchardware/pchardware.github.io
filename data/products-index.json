@@ -832,23 +832,6 @@
         "Label": "Fuente EVGA 850 BQ"
       },
       {
-        "Price": 215.00,
-        "Features": [
-          "80+ PLATINUM",
-          "Full Modular",
-          "71A",
-          "2x 6+2Pin",
-          "14x SATA",
-          "3x 4+4 EPS",
-          "160mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-07-17T23:37:46.1740196-04:00",
-        "Update": "2024-02-16T14:51:46.3955737-05:00",
-        "Label": "Fuente Corsair HX850 850W"
-      },
-      {
         "Price": 170.00,
         "Features": [
           "71A",
@@ -1302,24 +1285,6 @@
         "Date": "2023-12-28T14:08:43.281203-05:00",
         "Update": "2023-12-28T16:59:47.5987897-05:00",
         "Label": "Disipador Thermalright Assassin King 120 SE ARGB"
-      },
-      {
-        "Price": 160.00,
-        "Features": [
-          "Dual Tower",
-          "6 Head Pipes",
-          "1500rpm",
-          "24 24dba",
-          "160mm",
-          "LGA 1700",
-          "LGA 1200",
-          "AM5",
-          "AM4",
-          "Negro"
-        ],
-        "Date": "2024-01-16T04:52:31.6258765-05:00",
-        "Update": "2024-01-16T06:24:01.019395-05:00",
-        "Label": "Disipador Noctua NH-D15S Chromax Black"
       },
       {
         "Price": 50.00,
