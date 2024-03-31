@@ -1,0 +1,29 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Moderado",
+  "Images": [
+    "/images/products/kit-i3-12100-disipador-z690-extreme-ddr4-16gb-ddr4-gdu7e9-1.webp",
+    "/images/products/kit-i3-12100-disipador-z690-extreme-ddr4-16gb-ddr4-gdu7e9-2.webp",
+    "/images/products/kit-i3-12100-disipador-z690-extreme-ddr4-16gb-ddr4-gdu7e9-3.webp",
+    "/images/products/kit-i3-12100-disipador-z690-extreme-ddr4-16gb-ddr4-gdu7e9-4.webp",
+    "/images/products/kit-i3-12100-disipador-z690-extreme-ddr4-16gb-ddr4-gdu7e9-5.webp",
+    "/images/products/kit-i3-12100-disipador-z690-extreme-ddr4-16gb-ddr4-gdu7e9-6.webp",
+    "/images/products/kit-i3-12100-disipador-z690-extreme-ddr4-16gb-ddr4-gdu7e9-7.webp"
+  ],
+  "Description": "+ Micro Intel Core i3-12100 +Disipador\n+ MB - ASRock Z690 EXTREME DDR4\n+ RAM DDR4 GeIL ORION RGB 16GB 3600mhz\n",
+  "Price": 435.00,
+  "Features": [
+    "8 Hilos",
+    "4 Core",
+    "4.3GHz",
+    "2x8GB",
+    "5000mhz",
+    "6xAudio",
+    "5xUSB",
+    "8xSATA"
+  ],
+  "Date": "2024-03-31T08:58:44.6253104-04:00",
+  "Update": "2024-03-31T09:03:55.6137685-04:00",
+  "Discount": 5.0,
+  "Label": "Kit i3-12100 +Disipador +Z690 EXTREME DDR4 +16GB DDR4 GeIL ORION RGB 3600mhz"
+}
