@@ -346,6 +346,16 @@
         "Discount": 5.0,
         "Label": "Kit i5-12600KF +Asus TUF Z690-Plus +32GB DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
       }
+    ],
+    "Moderado": [
+      {
+        "Price": 395.00,
+        "Features": [],
+        "Date": "2024-03-30T12:02:28.626865-04:00",
+        "Update": "2024-03-31T08:54:59.7081885-04:00",
+        "Discount": 5.0,
+        "Label": "Kit i3-12100 +ASRock Z690 EXTREME DDR4 +8GB DDR4 Team T-Force Vulcan Z 3200mhz"
+      }
     ]
   },
   "Componentes": {
