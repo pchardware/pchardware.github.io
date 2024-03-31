@@ -350,11 +350,53 @@
     "Moderado": [
       {
         "Price": 395.00,
-        "Features": [],
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "1x8GB",
+          "Disipada",
+          "5000mhz",
+          "6xAudio",
+          "5xUSB",
+          "8xSATA"
+        ],
         "Date": "2024-03-30T12:02:28.626865-04:00",
-        "Update": "2024-03-31T08:54:59.7081885-04:00",
+        "Update": "2024-03-31T09:03:55.5948406-04:00",
         "Discount": 5.0,
         "Label": "Kit i3-12100 +ASRock Z690 EXTREME DDR4 +8GB DDR4 Team T-Force Vulcan Z 3200mhz"
+      },
+      {
+        "Price": 435.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "2x8GB",
+          "5000mhz",
+          "6xAudio",
+          "5xUSB",
+          "8xSATA"
+        ],
+        "Date": "2024-03-31T08:58:44.6253104-04:00",
+        "Update": "2024-03-31T09:03:55.6137685-04:00",
+        "Discount": 5.0,
+        "Label": "Kit i3-12100 +Disipador +Z690 EXTREME DDR4 +16GB DDR4 GeIL ORION RGB 3600mhz"
+      },
+      {
+        "Price": 365.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "5000mhz",
+          "6xAudio",
+          "5xUSB",
+          "8xSATA"
+        ],
+        "Date": "2024-03-31T08:59:04.583457-04:00",
+        "Update": "2024-03-31T09:03:55.6295671-04:00",
+        "Label": "Kit i3-12100 +Disipador +Z690 EXTREME DDR4"
       }
     ]
   },
