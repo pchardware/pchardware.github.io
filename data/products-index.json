@@ -3286,13 +3286,6 @@
         "Label": "Cable SATA a Molex"
       },
       {
-        "Price": 65.00,
-        "Features": [],
-        "Date": "2024-01-18T07:09:13.1565681-05:00",
-        "Update": "2024-01-18T08:30:01.1436413-05:00",
-        "Label": "HUB BYTECC U3-10HUB 10x USB 3.0 5A"
-      },
-      {
         "Price": 5.00,
         "Features": [],
         "Date": "2024-01-03T08:13:00.6537346-05:00",
@@ -3708,19 +3701,6 @@
         "Date": "2023-10-23T12:31:56.2102743-04:00",
         "Update": "2024-02-16T14:51:46.444501-05:00",
         "Label": "Mouse Corsair Dark Core RGB Pro"
-      },
-      {
-        "Price": 30.00,
-        "Features": [
-          "6200 dpi",
-          "Optico",
-          "8 botónes",
-          "RGB",
-          "USB"
-        ],
-        "Date": "2024-02-20T04:11:04.7025718-05:00",
-        "Update": "2024-02-20T16:49:46.0172803-05:00",
-        "Label": "Mouse Gigabyte Aorus M2 Accurate"
       },
       {
         "Price": 45.00,
