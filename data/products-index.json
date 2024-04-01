@@ -30,6 +30,14 @@
         "Update": "2024-03-26T10:25:06.514009-04:00",
         "Discount": 10.0,
         "Label": "Torre i3-12100 +B660M PRO RS +8GB DDR4 +500GB M.2 +500W +Chasis RGB Black"
+      },
+      {
+        "Price": 725.00,
+        "Features": [],
+        "Date": "2024-04-01T07:35:40.2005023-04:00",
+        "Update": "2024-04-01T08:41:34.5007828-04:00",
+        "Discount": 10.0,
+        "Label": "Torre i3-14100 + B660M PRO RS +16GB DDR4 3200mhz +512GB M.2 +700W +Chasis RGB"
       }
     ],
     "Gamer": [
@@ -48,6 +56,14 @@
         "Update": "2024-03-26T10:25:06.6835444-04:00",
         "Discount": 10.0,
         "Label": "Torre RTX 3050 OC 6GB +i3-12100 +B660M PRO RS + 16GB DDR4 +500GB M.2 +500W"
+      },
+      {
+        "Price": 1125.00,
+        "Features": [],
+        "Date": "2024-04-01T07:25:33.8351015-04:00",
+        "Update": "2024-04-01T08:41:34.4797515-04:00",
+        "Discount": 10.0,
+        "Label": "Torre RX 6600 3X 8GB +Z690 EXTREME +i3-12100 +16GB DDR4 +512GB M.2 +850W"
       }
     ],
     "Pro": [
