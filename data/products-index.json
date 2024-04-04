@@ -1019,27 +1019,6 @@
         "Label": "Kit Líquido Thermaltake Pacific C360 Ddc"
       },
       {
-        "Price": 240.00,
-        "Features": [
-          "2500rpm",
-          "81cfm",
-          "38db",
-          "Copper",
-          "3xFan",
-          "360mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "LGA 20XX",
-          "LGA 1366",
-          "AM4",
-          "TR4"
-        ],
-        "Date": "2023-06-19T07:48:54.393261-04:00",
-        "Update": "2023-10-09T17:48:21.5339896-04:00",
-        "Label": "Disipador Líquido Asus ROG Strix LC II 360 ARGB"
-      },
-      {
         "Price": 245.00,
         "Features": [
           "2500rpm",
@@ -1947,17 +1926,6 @@
         "Label": "DDR5 G.Skill Trident Z5 NEO RGB 32GB 6400mhz"
       },
       {
-        "Price": 170.00,
-        "Features": [
-          "CL34",
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-08-16T09:17:00.7000046-04:00",
-        "Update": "2024-03-11T00:55:54.39684-04:00",
-        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
-      },
-      {
         "Price": 110.00,
         "Features": [
           "2x16",
@@ -2470,23 +2438,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Windforce OC 12GB"
       },
       {
-        "Price": 985.00,
-        "Features": [
-          "3xFan",
-          "DLSS3",
-          "1x16Pin",
-          "750WR",
-          "307mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-03-26T10:19:59.8969115-04:00",
-        "Update": "2024-03-26T11:48:41.2026648-04:00",
-        "Label": "Tarjeta de Video MSI RTX 4070 Ti SUPER Gaming X Slim 16GB"
-      },
-      {
         "Price": 1015.00,
         "Features": [
           "3xFan",
@@ -2714,26 +2665,6 @@
         "Date": "2024-03-07T09:46:29.5659598-05:00",
         "Update": "2024-03-26T10:30:09.596811-04:00",
         "Label": "MB - ASRock Z690 EXTREME DDR4"
-      },
-      {
-        "Price": 410.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "7200mhz",
-          "10xUSB",
-          "4xSATA",
-          "LGA 1700",
-          "ATX",
-          "PS2",
-          "DisplayPort",
-          "HDMI",
-          "6xAudio",
-          "MOBO"
-        ],
-        "Date": "2024-03-26T10:21:01.8482557-04:00",
-        "Update": "2024-03-26T10:34:55.0863652-04:00",
-        "Label": "Board Asus ROG Strix Z790-F Gaming Wifi"
       }
     ],
     "Disco Sólido": [
