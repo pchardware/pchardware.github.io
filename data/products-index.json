@@ -2,14 +2,6 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 1615.00,
-        "Features": [],
-        "Date": "2024-03-16T03:23:44.5153672-04:00",
-        "Update": "2024-03-26T10:25:06.63432-04:00",
-        "Discount": 20.0,
-        "Label": "PC RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +AOC 24\""
-      },
-      {
         "Price": 2270.00,
         "Features": [],
         "Date": "2024-04-06T09:36:31.4575082-04:00",
@@ -17,45 +9,9 @@
         "Discount": 20.0,
         "Label": "PC RTX 4060 Ti +i7-12700K +Strix Z690-E Gaming +32GB +1TB M.2 +850W +27\""
       }
-    ],
-    "Multimedia": [
-      {
-        "Price": 1095.00,
-        "Features": [],
-        "Date": "2024-04-06T09:51:28.3922639-04:00",
-        "Update": "2024-04-06T09:54:50.576342-04:00",
-        "Discount": 15.0,
-        "Label": "PC i3-12100 +Z690 EXTREME +16GB DDR4 +512GB M.2 +850W +Monitor MSI 24\""
-      }
     ]
   },
   "Torres": {
-    "Gamer": [
-      {
-        "Price": 1230.00,
-        "Features": [],
-        "Date": "2024-03-11T10:53:00.3667551-04:00",
-        "Update": "2024-03-26T10:25:06.5990544-04:00",
-        "Discount": 10.0,
-        "Label": "Torre RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +750W"
-      },
-      {
-        "Price": 1125.00,
-        "Features": [],
-        "Date": "2024-04-01T07:25:33.8351015-04:00",
-        "Update": "2024-04-01T08:41:34.4797515-04:00",
-        "Discount": 10.0,
-        "Label": "Torre RX 6600 3X 8GB +Z690 EXTREME +i3-12100 +16GB DDR4 +512GB M.2 +850W"
-      },
-      {
-        "Price": 1245.00,
-        "Features": [],
-        "Date": "2024-04-03T08:30:05.4927-04:00",
-        "Update": "2024-04-03T08:34:33.3278984-04:00",
-        "Discount": 20.0,
-        "Label": "Torre Top RX 6600 +i5-12600KF +Cooler +ASRock Z690 +16GB +500GB M.2 +EVGA 850W"
-      }
-    ],
     "Pro": [
       {
         "Price": 1755.00,
@@ -79,16 +35,6 @@
         "Update": "2024-04-01T09:35:26.4831791-04:00",
         "Discount": 10.0,
         "Label": "Torre RX 6600 8GB +Ryzen 5 5600X +X570S Gaming X +32GB DDR4 +512GB M.2 +750W"
-      }
-    ],
-    "Multimedia": [
-      {
-        "Price": 845.00,
-        "Features": [],
-        "Date": "2024-04-06T09:49:20.5435029-04:00",
-        "Update": "2024-04-06T09:54:50.5597422-04:00",
-        "Discount": 10.0,
-        "Label": "Torre i3-12100 +Z690 EXTREME +16GB DDR4 +512GB M.2 +850W +Chasis RGB"
       }
     ]
   },
@@ -273,58 +219,6 @@
         "Update": "2024-03-26T10:25:06.5801515-04:00",
         "Discount": 5.0,
         "Label": "Kit i5-12600KF +Asus TUF Z690-Plus +32GB DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
-      }
-    ],
-    "Moderado": [
-      {
-        "Price": 395.00,
-        "Features": [
-          "8 Hilos",
-          "4 Core",
-          "4.3GHz",
-          "1x8GB",
-          "Disipada",
-          "5000mhz",
-          "6xAudio",
-          "5xUSB",
-          "8xSATA"
-        ],
-        "Date": "2024-03-30T12:02:28.626865-04:00",
-        "Update": "2024-03-31T09:03:55.5948406-04:00",
-        "Discount": 5.0,
-        "Label": "Kit i3-12100 +ASRock Z690 EXTREME DDR4 +8GB DDR4 Team T-Force Vulcan Z 3200mhz"
-      },
-      {
-        "Price": 435.00,
-        "Features": [
-          "8 Hilos",
-          "4 Core",
-          "4.3GHz",
-          "2x8GB",
-          "5000mhz",
-          "6xAudio",
-          "5xUSB",
-          "8xSATA"
-        ],
-        "Date": "2024-03-31T08:58:44.6253104-04:00",
-        "Update": "2024-03-31T09:03:55.6137685-04:00",
-        "Discount": 5.0,
-        "Label": "Kit i3-12100 +Disipador +Z690 EXTREME DDR4 +16GB DDR4 GeIL ORION RGB 3600mhz"
-      },
-      {
-        "Price": 365.00,
-        "Features": [
-          "8 Hilos",
-          "4 Core",
-          "4.3GHz",
-          "5000mhz",
-          "6xAudio",
-          "5xUSB",
-          "8xSATA"
-        ],
-        "Date": "2024-03-31T08:59:04.583457-04:00",
-        "Update": "2024-03-31T09:03:55.6295671-04:00",
-        "Label": "Kit i3-12100 +Disipador +Z690 EXTREME DDR4"
       }
     ]
   },
@@ -2497,25 +2391,6 @@
         "Date": "2023-03-29T20:18:17.8757341-04:00",
         "Update": "2024-03-26T10:30:09.5511521-04:00",
         "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
-      },
-      {
-        "Price": 225.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "DDR4",
-          "5000mhz",
-          "6xAudio",
-          "5xUSB",
-          "8xSATA",
-          "LGA1700",
-          "HDMI",
-          "DisplayPort",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2024-03-07T09:46:29.5659598-05:00",
-        "Update": "2024-03-26T10:30:09.596811-04:00",
-        "Label": "MB - ASRock Z690 EXTREME DDR4"
       }
     ],
     "Disco Sólido": [
