@@ -1,25 +1,6 @@
 {
-  "Computadoras": {
-    "Gamer": [
-      {
-        "Price": 2270.00,
-        "Features": [],
-        "Date": "2024-04-06T09:36:31.4575082-04:00",
-        "Update": "2024-04-06T09:54:50.5408643-04:00",
-        "Discount": 20.0,
-        "Label": "PC RTX 4060 Ti +i7-12700K +Strix Z690-E Gaming +32GB +1TB M.2 +850W +27\""
-      }
-    ]
-  },
   "Torres": {
     "Pro": [
-      {
-        "Price": 1755.00,
-        "Features": [],
-        "Date": "2024-03-23T08:49:36.4740609-04:00",
-        "Update": "2024-03-26T10:25:06.6504498-04:00",
-        "Label": "Torre RTX 3060 Ti 8GB +i5-14600K +Z790 Aorus Elite AX ICE +32GB DDR5 RGB +750W"
-      },
       {
         "Price": 2320.00,
         "Features": [],
@@ -39,43 +20,6 @@
     ]
   },
   "Kits": {
-    "Entusiasta": [
-      {
-        "Price": 945.00,
-        "Features": [
-          "12va Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.2GHz",
-          "2x16",
-          "6200mhz",
-          "10xUSB",
-          "6xSATA",
-          "6xAudio"
-        ],
-        "Date": "2024-01-28T06:21:13.649846-05:00",
-        "Update": "2024-01-28T06:24:58.3322127-05:00",
-        "Discount": 15.0,
-        "Label": "Kit i9-12900K +H60x RGB Elite +Strix Z690-E Gaming Wifi +32GB Corsair RGB"
-      },
-      {
-        "Price": 945.00,
-        "Features": [
-          "24 Hilos",
-          "16 Core",
-          "5.4GHz",
-          "2x16",
-          "CL32",
-          "Disipadas",
-          "8xUSB",
-          "7xSATA",
-          "6xAudio"
-        ],
-        "Date": "2024-03-17T07:52:13.753635-04:00",
-        "Update": "2024-03-17T07:55:48.1547227-04:00",
-        "Label": "Kit i7-13700K +MSI MPG Z790 EDGE Wifi +32GB DDR5 Trident Z5 NEO RGB 6400mhz"
-      }
-    ],
     "Rendimiento": [
       {
         "Price": 395.00,
@@ -219,6 +163,25 @@
         "Update": "2024-03-26T10:25:06.5801515-04:00",
         "Discount": 5.0,
         "Label": "Kit i5-12600KF +Asus TUF Z690-Plus +32GB DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
+      }
+    ],
+    "Entusiasta": [
+      {
+        "Price": 945.00,
+        "Features": [
+          "24 Hilos",
+          "16 Core",
+          "5.4GHz",
+          "2x16",
+          "CL32",
+          "Disipadas",
+          "8xUSB",
+          "7xSATA",
+          "6xAudio"
+        ],
+        "Date": "2024-03-17T07:52:13.753635-04:00",
+        "Update": "2024-03-17T07:55:48.1547227-04:00",
+        "Label": "Kit i7-13700K +MSI MPG Z790 EDGE Wifi +32GB DDR5 Trident Z5 NEO RGB 6400mhz"
       }
     ]
   },
@@ -876,26 +839,6 @@
         "Date": "2023-03-27T12:00:05.9787174-04:00",
         "Update": "2023-12-24T02:51:09.6369235-05:00",
         "Label": "Disipador Líquido Corsair H100x RGB Elite"
-      },
-      {
-        "Price": 130.00,
-        "Features": [
-          "1500rpm",
-          "48cfm",
-          "28db",
-          "Copper",
-          "1xFan",
-          "120mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "LGA 20XX",
-          "AM5",
-          "AM4"
-        ],
-        "Date": "2023-05-11T13:08:14.7226355-04:00",
-        "Update": "2024-01-15T18:18:29.8322909-05:00",
-        "Label": "Disipador Líquido Corsair H60x RGB Elite"
       },
       {
         "Price": 240.00,
