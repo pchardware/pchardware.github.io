@@ -1,6 +1,6 @@
 {
-  "Category": "Computadoras",
-  "SubCategory": "Rendimiento",
+  "Category": "Torres",
+  "SubCategory": "Pro",
   "Images": [
     "/images/products/torre-rtx-4070-super-oc-12gb-i9-12900k-strix-z690--ts3gu0-1.webp",
     "/images/products/torre-rtx-4070-super-oc-12gb-i9-12900k-strix-z690--ts3gu0-2.webp",
@@ -10,14 +10,13 @@
     "/images/products/torre-rtx-4070-super-oc-12gb-i9-12900k-strix-z690--ts3gu0-6.webp",
     "/images/products/torre-rtx-4070-super-oc-12gb-i9-12900k-strix-z690--ts3gu0-7.webp",
     "/images/products/torre-rtx-4070-super-oc-12gb-i9-12900k-strix-z690--ts3gu0-8.webp",
-    "/images/products/torre-rtx-4070-super-oc-12gb-i9-12900k-strix-z690--ts3gu0-9.webp",
-    "/images/products/torre-rtx-4070-super-oc-12gb-i9-12900k-strix-z690--ts3gu0-10.webp"
+    "/images/products/torre-rtx-4070-super-oc-12gb-i9-12900k-strix-z690--ts3gu0-9.webp"
   ],
-  "Description": "+ Micro AMD Ryzen 5 5600X +Disipador\n+ Board Gigabyte X570S Gaming X\n+ RAM DDR4 Corsair Vengeance LPX 32GB 3600mhz\n+ SSD M.2 Solidigm P41 Plus 512GB\n+ Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X 8GB\n+ Fuente Corsair CX750M 750W\n+ Chasis Cougar Archon 2 Mesh RGB Black\n+ Monitor Acer Nitro 24\" 165Hz 1ms SPK VA\n+ COMBO Teclado Asus TUF Gaming K1 + Mouse M3\n",
-  "Price": 1500.00,
+  "Description": "+ Micro Intel Core i9-12900K\n+ Disipador Cooler Master Hyper 620S Dual\n+ Board Asus ROG Strix Z690-E Gaming Wifi\n+ RAM DDR5 G.Skill Trident Z5 RGB 64GB 6000mhz\n+ SSD M.2 Samsung 980 PRO 1TB\n+ Tarjeta de Video Gigabyte WindForce RTX 4070 Super OC 12GB\n+ Fuente Asus ROG Thor 850W Platinum II\n+ Chasis Cougar Archon 2 Mesh RGB Black\n",
+  "Price": 2320.00,
   "Features": [],
-  "Date": "2024-04-08T11:30:59.7960225-04:00",
-  "Update": "2024-04-08T11:35:04.5695707-04:00",
-  "Discount": 15.0,
+  "Date": "2024-04-01T08:47:45.3779116-04:00",
+  "Update": "2024-04-01T08:50:56.81107-04:00",
+  "Discount": 20.0,
   "Label": "Torre RTX 4070 Super OC 12GB +i9-12900K +Strix Z690-E +64GB DDR5 +1TB M.2 +850W"
 }
