@@ -1,15 +1,5 @@
 {
   "Computadoras": {
-    "Rendimiento": [
-      {
-        "Price": 1500.00,
-        "Features": [],
-        "Date": "2024-04-08T11:30:59.7960225-04:00",
-        "Update": "2024-04-08T11:35:04.5695707-04:00",
-        "Discount": 15.0,
-        "Label": "Torre RTX 4070 Super OC 12GB +i9-12900K +Strix Z690-E +64GB DDR5 +1TB M.2 +850W"
-      }
-    ],
     "Entusiasta": [
       {
         "Price": 2885.00,
@@ -18,6 +8,16 @@
         "Update": "2024-04-08T11:41:08.1766997-04:00",
         "Discount": 25.0,
         "Label": "PC RTX 4070 Super OC 12GB +i9-12900K +Strix Z690-E +64GB DDR5 +1TB +850W +27\""
+      }
+    ],
+    "Rendimiento": [
+      {
+        "Price": 1500.00,
+        "Features": [],
+        "Date": "2024-04-08T11:30:59.7960225-04:00",
+        "Update": "2024-04-08T12:00:07.6056608-04:00",
+        "Discount": 15.0,
+        "Label": "PC RX 6600 8GB +Ryzen 5 5600X +X570S Gaming X +32GB DDR4 +512GB M.2+750W +24\""
       }
     ]
   },
