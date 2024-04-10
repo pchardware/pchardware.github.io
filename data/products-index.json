@@ -1,46 +1,4 @@
 {
-  "Computadoras": {
-    "Entusiasta": [
-      {
-        "Price": 2885.00,
-        "Features": [],
-        "Date": "2024-04-08T11:37:12.9866293-04:00",
-        "Update": "2024-04-08T11:41:08.1766997-04:00",
-        "Discount": 25.0,
-        "Label": "PC RTX 4070 Super OC 12GB +i9-12900K +Strix Z690-E +64GB DDR5 +1TB +850W +27\""
-      }
-    ],
-    "Rendimiento": [
-      {
-        "Price": 1500.00,
-        "Features": [],
-        "Date": "2024-04-08T11:30:59.7960225-04:00",
-        "Update": "2024-04-08T12:00:07.6056608-04:00",
-        "Discount": 15.0,
-        "Label": "PC RX 6600 8GB +Ryzen 5 5600X +X570S Gaming X +32GB DDR4 +512GB M.2+750W +24\""
-      }
-    ]
-  },
-  "Torres": {
-    "Pro": [
-      {
-        "Price": 2320.00,
-        "Features": [],
-        "Date": "2024-04-01T08:47:45.3779116-04:00",
-        "Update": "2024-04-01T08:50:56.81107-04:00",
-        "Discount": 20.0,
-        "Label": "Torre RTX 4070 Super OC 12GB +i9-12900K +Strix Z690-E +64GB DDR5 +1TB M.2 +850W"
-      },
-      {
-        "Price": 1160.00,
-        "Features": [],
-        "Date": "2024-04-01T09:32:38.1564793-04:00",
-        "Update": "2024-04-01T09:35:26.4831791-04:00",
-        "Discount": 10.0,
-        "Label": "Torre RX 6600 8GB +Ryzen 5 5600X +X570S Gaming X +32GB DDR4 +512GB M.2 +750W"
-      }
-    ]
-  },
   "Kits": {
     "Rendimiento": [
       {
@@ -56,154 +14,6 @@
         "Date": "2024-02-05T07:57:55.4555632-05:00",
         "Update": "2024-02-05T08:20:20.5483328-05:00",
         "Label": "Kit AMD Ryzen 5 5600X +Disipador + Gigabyte X570S Gaming X"
-      },
-      {
-        "Price": 795.00,
-        "Features": [
-          "24 Hilos",
-          "16 Core",
-          "5.4GHz",
-          "8xUSB",
-          "7xSATA",
-          "6xAudio"
-        ],
-        "Date": "2024-03-16T11:15:37.0936472-04:00",
-        "Update": "2024-03-17T07:55:48.1305937-04:00",
-        "Label": "Kit i7-13700K +MSI MPG Z790 EDGE Wifi"
-      },
-      {
-        "Price": 1075.00,
-        "Features": [
-          "20 Core",
-          "28 Hilos",
-          "5.6Ghz",
-          "2x32",
-          "6000mhz",
-          "Wifi",
-          "8xUSB",
-          "7xSATA",
-          "6xAudio"
-        ],
-        "Date": "2024-03-21T03:48:55.9943772-04:00",
-        "Update": "2024-03-21T04:35:16.2043703-04:00",
-        "Discount": 5.0,
-        "Label": "Kit i7-14700K +MSI MPG Z790 EDGE Wifi +64GB DDR5 G.Skill Trident Z5 RGB"
-      },
-      {
-        "Price": 835.00,
-        "Features": [
-          "20 Core",
-          "28 Hilos",
-          "5.6Ghz",
-          "Wifi",
-          "8xUSB",
-          "7xSATA",
-          "6xAudio"
-        ],
-        "Date": "2024-03-21T03:49:21.6486508-04:00",
-        "Update": "2024-03-21T04:35:16.2286656-04:00",
-        "Discount": 5.0,
-        "Label": "Kit i7-14700K +MSI MPG Z790 EDGE Wifi"
-      },
-      {
-        "Price": 655.00,
-        "Features": [
-          "12va Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.2GHz",
-          "10xUSB",
-          "6xSATA",
-          "6xAudio"
-        ],
-        "Date": "2024-03-21T03:50:20.6168985-04:00",
-        "Update": "2024-03-21T04:35:16.2657103-04:00",
-        "Label": "Kit i9-12900K +Asus ROG Strix Z690-E Gaming Wifi"
-      },
-      {
-        "Price": 635.00,
-        "Features": [
-          "14 Core",
-          "20 Hilos",
-          "5.3Ghz",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "3xAudio"
-        ],
-        "Date": "2024-03-21T03:50:55.0727469-04:00",
-        "Update": "2024-03-21T04:35:16.2832389-04:00",
-        "Label": "Kit i5-14600K +Gigabyte Z790 Aorus Elite AX ICE"
-      },
-      {
-        "Price": 775.00,
-        "Features": [
-          "14 Core",
-          "20 Hilos",
-          "5.3Ghz",
-          "2x16",
-          "6000mhz",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "3xAudio"
-        ],
-        "Date": "2024-03-21T03:51:35.27335-04:00",
-        "Update": "2024-03-21T04:35:16.3009572-04:00",
-        "Discount": 5.0,
-        "Label": "Kit i5-14600K +Gigabyte Z790 Aorus Elite AX ICE +32GB DDR5 Gigabyte AORUS RGB"
-      },
-      {
-        "Price": 580.00,
-        "Features": [
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "10xUSB",
-          "6xAudio",
-          "6xSATA",
-          "Wifi"
-        ],
-        "Date": "2024-02-05T08:00:08.1283876-05:00",
-        "Update": "2024-03-26T10:25:06.4608055-04:00",
-        "Label": "Kit Intel Core i7-12700K + Asus ROG Strix Z690-E Gaming Wifi"
-      },
-      {
-        "Price": 600.00,
-        "Features": [
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "2x16GB",
-          "Disipadas",
-          "6xAudio",
-          "6xUSB",
-          "4xSATA",
-          "Wifi"
-        ],
-        "Date": "2024-03-10T22:27:40.5658097-04:00",
-        "Update": "2024-03-26T10:25:06.5801515-04:00",
-        "Discount": 5.0,
-        "Label": "Kit i5-12600KF +Asus TUF Z690-Plus +32GB DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
-      }
-    ],
-    "Entusiasta": [
-      {
-        "Price": 945.00,
-        "Features": [
-          "24 Hilos",
-          "16 Core",
-          "5.4GHz",
-          "2x16",
-          "CL32",
-          "Disipadas",
-          "8xUSB",
-          "7xSATA",
-          "6xAudio"
-        ],
-        "Date": "2024-03-17T07:52:13.753635-04:00",
-        "Update": "2024-03-17T07:55:48.1547227-04:00",
-        "Label": "Kit i7-13700K +MSI MPG Z790 EDGE Wifi +32GB DDR5 Trident Z5 NEO RGB 6400mhz"
       }
     ]
   },
@@ -786,6 +596,27 @@
         "Label": "Kit Líquido Thermaltake Pacific C360 Ddc"
       },
       {
+        "Price": 240.00,
+        "Features": [
+          "2500rpm",
+          "81cfm",
+          "38db",
+          "Copper",
+          "3xFan",
+          "360mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "LGA 20XX",
+          "LGA 1366",
+          "AM4",
+          "TR4"
+        ],
+        "Date": "2023-06-19T07:48:54.393261-04:00",
+        "Update": "2023-10-09T17:48:21.5339896-04:00",
+        "Label": "Disipador Líquido Asus ROG Strix LC II 360 ARGB"
+      },
+      {
         "Price": 245.00,
         "Features": [
           "2500rpm",
@@ -898,26 +729,6 @@
         "Date": "2023-03-27T12:00:02.0089284-04:00",
         "Update": "2024-02-24T10:10:13.2569915-05:00",
         "Label": "D.Líquida Cooler Master MasterLiquid ML240L ARGB V2"
-      },
-      {
-        "Price": 195.00,
-        "Features": [
-          "2xFan",
-          "2500rpm",
-          "81cfm",
-          "38dba",
-          "Cobre",
-          "240mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "LGA 20XX",
-          "AM4",
-          "TR"
-        ],
-        "Date": "2023-06-19T07:48:51.0981438-04:00",
-        "Update": "2024-03-26T10:25:06.3130603-04:00",
-        "Label": "Disipador Líquido ASUS ROG Strix LC II 240 ARGB"
       }
     ],
     "Disco Duro": [
@@ -946,18 +757,6 @@
         "Date": "2023-05-11T14:19:01.4001144-04:00",
         "Update": "2024-03-10T04:03:05.8818356-04:00",
         "Label": "HDD 3.5 WD 14TB HC530"
-      },
-      {
-        "Price": 70.00,
-        "Features": [
-          "64mb",
-          "5900rpm",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-07-26T16:42:06.8492862-04:00",
-        "Update": "2024-03-26T10:30:09.5350755-04:00",
-        "Label": "HDD 3.5 Seagate Pipeline 2TB"
       }
     ],
     "Disipador por Aire": [
@@ -1181,23 +980,6 @@
         "Label": "Micro AMD Ryzen 9 7900X"
       },
       {
-        "Price": 390.00,
-        "Features": [
-          "13ra Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.4GHz",
-          "30MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-03-22T09:04:14.8362359-04:00",
-        "Update": "2023-11-24T10:20:52.9007771-05:00",
-        "Label": "Micro Intel Core i7-13700K"
-      },
-      {
         "Price": 340.00,
         "Features": [
           "14va Gen",
@@ -1264,6 +1046,22 @@
         "Label": "Micro Intel Core i3-12100 +Disipador"
       },
       {
+        "Price": 435.00,
+        "Features": [
+          "14va Gen",
+          "28 Hilos",
+          "5.6Ghz",
+          "33mb L3",
+          "253W",
+          "LGA 1700",
+          "DDR4-DDR5",
+          "CPU"
+        ],
+        "Date": "2023-10-23T12:31:42.2126394-04:00",
+        "Update": "2024-01-23T14:30:19.6067624-05:00",
+        "Label": "Micro Intel Core i7-14700K"
+      },
+      {
         "Price": 175.00,
         "Features": [
           "14va Gen",
@@ -1310,57 +1108,6 @@
         "Date": "2024-02-16T17:52:51.8800101-05:00",
         "Update": "2024-02-18T09:00:46.1524972-05:00",
         "Label": "CPU - Intel Core i3-14100F"
-      },
-      {
-        "Price": 435.00,
-        "Features": [
-          "14va Gen",
-          "20 Core",
-          "28 Hilos",
-          "5.6Ghz",
-          "33mb L3",
-          "253W",
-          "LGA 1700",
-          "DDR4-DDR5",
-          "CPU"
-        ],
-        "Date": "2023-10-23T12:31:42.2126394-04:00",
-        "Update": "2024-03-21T04:35:16.14896-04:00",
-        "Label": "Micro Intel Core i7-14700K"
-      },
-      {
-        "Price": 275.00,
-        "Features": [
-          "12va Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "25MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-02-17T09:30:45.7586545-05:00",
-        "Update": "2024-03-26T10:25:06.4069723-04:00",
-        "Label": "Micro Intel Core i7-12700K"
-      },
-      {
-        "Price": 195.00,
-        "Features": [
-          "12va Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "20MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-10-16T10:24:13.8080802-04:00",
-        "Update": "2024-03-26T10:25:06.4427221-04:00",
-        "Label": "Micro Intel Core i5-12600KF"
       }
     ],
     "Memoria RAM": [
@@ -1585,28 +1332,6 @@
         "Label": "RAM DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
       },
       {
-        "Price": 115.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL36"
-        ],
-        "Date": "2023-10-13T09:28:49.0242623-04:00",
-        "Update": "2024-03-26T10:25:06.2965109-04:00",
-        "Label": "RAM DDR5 Corsair Vengeance 32GB 6000mhz"
-      },
-      {
-        "Price": 140.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL36"
-        ],
-        "Date": "2023-05-11T08:37:56.7258334-04:00",
-        "Update": "2024-03-26T10:25:06.4250857-04:00",
-        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
-      },
-      {
         "Price": 77.00,
         "Features": [
           "2x8GB",
@@ -1614,8 +1339,8 @@
           "Disipadas"
         ],
         "Date": "2024-02-16T14:41:47.1600183-05:00",
-        "Update": "2024-04-06T09:18:37.8040577-04:00",
-        "Label": "RAM DDR4 XPG SPectra D35 RGB 16GB 3600mhz"
+        "Update": "2024-02-16T18:41:10.5589952-05:00",
+        "Label": "DDR4 XPG SPectra D35 RGB 16GB 3600mhz"
       },
       {
         "Price": 125.00,
@@ -1625,8 +1350,8 @@
           "Disipadas"
         ],
         "Date": "2024-02-16T14:42:08.0239053-05:00",
-        "Update": "2024-04-06T09:18:37.8318957-04:00",
-        "Label": "RAM DDR4 G.Skill TridentZ RGB Neo 32GB 4000mhz"
+        "Update": "2024-02-16T18:41:10.5904385-05:00",
+        "Label": "DDR4 G.Skill TridentZ RGB Neo 32GB 4000mhz"
       },
       {
         "Price": 45.00,
@@ -1636,8 +1361,8 @@
           "Disipada"
         ],
         "Date": "2024-02-16T14:42:28.5192676-05:00",
-        "Update": "2024-04-06T09:18:37.854018-04:00",
-        "Label": "RAM DDR4 Kingston HyperX Fury RGB 8GB 3466mhz"
+        "Update": "2024-02-16T18:41:10.6663406-05:00",
+        "Label": "DDR4 Kingston HyperX Fury RGB 8GB 3466mhz"
       },
       {
         "Price": 45.00,
@@ -1647,8 +1372,8 @@
           "Disipadas"
         ],
         "Date": "2024-02-16T14:41:51.7835873-05:00",
-        "Update": "2024-04-06T09:18:37.87229-04:00",
-        "Label": "RAM DDR4 ADATA XPG Spectrix D41 RGB 8GB 3000mhz"
+        "Update": "2024-02-18T09:56:49.5447534-05:00",
+        "Label": "DDR4 ADATA XPG Spectrix D41 RGB 8GB 3000mhz"
       },
       {
         "Price": 43.00,
@@ -1658,8 +1383,8 @@
           "Disipadas"
         ],
         "Date": "2024-02-16T14:41:55.9514851-05:00",
-        "Update": "2024-04-06T09:18:37.8905454-04:00",
-        "Label": "RAM DDR4 Team Group T-Force Delta 2 RGB 8GB 3200mhz White"
+        "Update": "2024-02-18T09:56:49.5586742-05:00",
+        "Label": "DDR4 Team Group T-Force Delta 2 RGB 8GB 3200mhz White"
       },
       {
         "Price": 40.00,
@@ -1669,8 +1394,8 @@
           "Disipadas"
         ],
         "Date": "2024-02-16T14:41:59.9676662-05:00",
-        "Update": "2024-04-06T09:18:37.9076428-04:00",
-        "Label": "RAM DDR4 Kingston HyperX Fury RGB 8GB 3000mhz"
+        "Update": "2024-02-18T09:56:49.5728262-05:00",
+        "Label": "DDR4 Kingston HyperX Fury RGB 8GB 3000mhz"
       },
       {
         "Price": 160.00,
@@ -1680,19 +1405,8 @@
           "C18"
         ],
         "Date": "2024-02-16T14:42:16.5355631-05:00",
-        "Update": "2024-04-06T09:18:37.9248342-04:00",
-        "Label": "RAM DDR4 G.Skill Ripjaws V 64GB 3600mhz"
-      },
-      {
-        "Price": 110.00,
-        "Features": [
-          "2x16",
-          "CL18",
-          "Disipadas"
-        ],
-        "Date": "2024-03-17T15:33:25.5626446-04:00",
-        "Update": "2024-04-06T09:18:37.9420255-04:00",
-        "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 3600mhz"
+        "Update": "2024-02-19T04:36:36.2765378-05:00",
+        "Label": "DDR4 G.Skill Ripjaws V 64GB 3600mhz"
       },
       {
         "Price": 150.00,
@@ -1702,19 +1416,19 @@
           "Disipadas"
         ],
         "Date": "2024-03-07T09:33:05.0381701-05:00",
-        "Update": "2024-04-06T09:19:04.2060746-04:00",
-        "Label": "RAM DDR5 G.Skill Trident Z5 NEO RGB 32GB 6400mhz"
+        "Update": "2024-03-07T09:39:04.4911209-05:00",
+        "Label": "DDR5 G.Skill Trident Z5 NEO RGB 32GB 6400mhz"
       },
       {
-        "Price": 160.00,
+        "Price": 110.00,
         "Features": [
-          "2x16GB",
-          "CL34",
+          "2x16",
+          "CL18",
           "Disipadas"
         ],
-        "Date": "2024-03-26T10:19:13.6093167-04:00",
-        "Update": "2024-04-06T09:19:04.2351698-04:00",
-        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz Black"
+        "Date": "2024-03-17T15:33:25.5626446-04:00",
+        "Update": "2024-03-17T15:54:14.2527718-04:00",
+        "Label": "DDR4 G.Skill TridentZ RGB 32GB 3600mhz"
       }
     ],
     "Red": [
@@ -1781,7 +1495,7 @@
           "2xHDD"
         ],
         "Date": "2023-11-03T12:22:56.9620417-04:00",
-        "Update": "2024-03-26T10:30:09.5686411-04:00",
+        "Update": "2024-03-07T04:00:34.2345223-05:00",
         "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
       }
     ],
@@ -2109,113 +1823,6 @@
         "Date": "2024-03-13T15:18:04.3313972-04:00",
         "Update": "2024-03-16T02:06:11.6610067-04:00",
         "Label": "Tarjeta de Video Gigabyte Aorus RX 6750 XT Elite 12GB (3xFan)"
-      },
-      {
-        "Price": 375.00,
-        "Features": [
-          "DLSS3",
-          "2xfan",
-          "1x8Pin",
-          "550WR",
-          "199mm",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-01-16T04:52:03.8982461-05:00",
-        "Update": "2024-03-26T10:25:06.5391594-04:00",
-        "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X Black OC 8GB"
-      },
-      {
-        "Price": 10.00,
-        "Features": [],
-        "Date": "2024-02-28T05:30:17.0431477-05:00",
-        "Update": "2024-03-26T10:26:37.3732091-04:00",
-        "Label": "Soporte de Tarjeta de Video Rosewill"
-      },
-      {
-        "Price": 865.00,
-        "Features": [
-          "3xFan",
-          "DLSS3",
-          "1x16Pin",
-          "700WR",
-          "342mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-03-26T10:19:44.2650937-04:00",
-        "Update": "2024-03-26T11:48:41.1705849-04:00",
-        "Label": "Tarjeta de Video Gigabyte Aorus RTX 4070 Super Master 12GB"
-      },
-      {
-        "Price": 885.00,
-        "Features": [
-          "3xFan",
-          "DLSS3",
-          "1x16Pin",
-          "750WR",
-          "261mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-03-26T10:19:50.9687478-04:00",
-        "Update": "2024-03-26T11:48:41.1863727-04:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Windforce OC 12GB"
-      },
-      {
-        "Price": 1015.00,
-        "Features": [
-          "3xFan",
-          "DLSS3",
-          "1x16Pin",
-          "750WR",
-          "300mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-03-26T10:20:05.9610711-04:00",
-        "Update": "2024-03-26T11:48:41.2191083-04:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Super Gaming OC 16GB"
-      },
-      {
-        "Price": 255.00,
-        "Features": [
-          "2xfan",
-          "300WR",
-          "189mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica",
-          "DLSS"
-        ],
-        "Date": "2024-03-26T10:20:38.9049193-04:00",
-        "Update": "2024-03-26T11:48:41.2572012-04:00",
-        "Label": "Tarjeta de Viddeo MSI RTX 3050 Ventus 2X 6GB OC"
-      },
-      {
-        "Price": 675.00,
-        "Features": [
-          "3xFan",
-          "DLSS3",
-          "1x8Pin",
-          "650WR",
-          "300mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-03-26T10:20:47.9604797-04:00",
-        "Update": "2024-03-26T11:48:41.2722265-04:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4070 Gaming OC V2 12GB"
       }
     ],
     "Board": [
@@ -2337,25 +1944,6 @@
         "Date": "2024-02-20T04:10:50.1498711-05:00",
         "Update": "2024-02-20T06:59:15.8683818-05:00",
         "Label": "Board MSI MPG Z790 EDGE Wifi"
-      },
-      {
-        "Price": 335.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "7800mhz",
-          "8xUSB",
-          "6xAudio",
-          "4xSATA",
-          "LGA 1700",
-          "DisplayPort",
-          "HDMI",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-03-29T20:18:17.8757341-04:00",
-        "Update": "2024-03-26T10:30:09.5511521-04:00",
-        "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
       }
     ],
     "Disco Sólido": [
@@ -2668,17 +2256,6 @@
         "Date": "2024-03-13T15:18:38.7153298-04:00",
         "Update": "2024-03-16T02:57:27.9301551-04:00",
         "Label": "SSD M.2 Samsung 980 1TB"
-      },
-      {
-        "Price": 145.00,
-        "Features": [
-          "4150mbs",
-          "900TBW",
-          "NVMe"
-        ],
-        "Date": "2024-03-26T10:19:27.25661-04:00",
-        "Update": "2024-03-26T12:01:24.6993834-04:00",
-        "Label": "SSD M.2 WD SN580 2TB"
       }
     ]
   },
@@ -2853,20 +2430,6 @@
         "Date": "2024-02-20T04:08:15.7576333-05:00",
         "Update": "2024-02-20T07:14:58.417012-05:00",
         "Label": "Teclado Logitech G413 SE"
-      },
-      {
-        "Price": 75.00,
-        "Features": [
-          "Mecánico",
-          "Retroiluminado",
-          "Palm rest",
-          "12xTeclas de Función",
-          "Gaming",
-          "Cableado"
-        ],
-        "Date": "2024-01-18T07:08:55.3566296-05:00",
-        "Update": "2024-03-26T10:25:06.3667218-04:00",
-        "Label": "Teclado AOC RGB GK500"
       }
     ],
     "Adaptador": [
@@ -2934,6 +2497,13 @@
         "Date": "2023-12-04T16:21:23.4675923-05:00",
         "Update": "2023-12-05T16:45:36.904454-05:00",
         "Label": "Cable SATA a Molex"
+      },
+      {
+        "Price": 65.00,
+        "Features": [],
+        "Date": "2024-01-18T07:09:13.1565681-05:00",
+        "Update": "2024-01-18T08:30:01.1436413-05:00",
+        "Label": "HUB BYTECC U3-10HUB 10x USB 3.0 5A"
       },
       {
         "Price": 5.00,
@@ -3352,31 +2922,6 @@
         "Date": "2023-06-19T07:49:14.3324582-04:00",
         "Update": "2024-03-13T15:24:13.0521863-04:00",
         "Label": "Mouse Pad Corsair MM300 Extended"
-      },
-      {
-        "Price": 55.00,
-        "Features": [
-          "899x439mm",
-          "3mm",
-          "Reforzado",
-          "Natural Rubber"
-        ],
-        "Date": "2024-03-26T10:19:19.6247586-04:00",
-        "Update": "2024-03-27T08:12:03.5148997-04:00",
-        "Label": "Mouse Pad Asus ROG Sheath Extended"
-      },
-      {
-        "Price": 50.00,
-        "Features": [
-          "929x299mm",
-          "3mm",
-          "Reforzado",
-          "Water-repellent",
-          "MicroTejido"
-        ],
-        "Date": "2024-03-26T10:19:34.8403201-04:00",
-        "Update": "2024-03-27T08:13:25.4225947-04:00",
-        "Label": "Mouse Pad Corsair MM300 Pro"
       }
     ],
     "Monitor": [
