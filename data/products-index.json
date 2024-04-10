@@ -997,22 +997,6 @@
         "Label": "Micro Intel Core i5-14600K"
       },
       {
-        "Price": 160.00,
-        "Features": [
-          "13ra Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.5GHz",
-          "12MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-03-22T09:04:00.899336-04:00",
-        "Update": "2024-01-15T18:18:29.8552965-05:00",
-        "Label": "Micro Intel Core i3-13100 +Disipador"
-      },
-      {
         "Price": 350.00,
         "Features": [
           "12va Gen",
@@ -2312,21 +2296,6 @@
         "Date": "2023-07-26T18:48:03.9197668-04:00",
         "Update": "2023-07-27T11:33:38.2530039-04:00",
         "Label": "COMBO Teclado Asus TUF Gaming K1 + Mouse M3"
-      },
-      {
-        "Price": 40.00,
-        "Features": [
-          "Inalámbrico",
-          "Membrana",
-          "Full",
-          "Slim",
-          "Black",
-          "1200dpi",
-          "Optico"
-        ],
-        "Date": "2023-10-19T09:32:13.4570865-04:00",
-        "Update": "2023-10-19T12:33:04.6277773-04:00",
-        "Label": "COMBO Teclado + Mouse Rosewill Wireless RKM-1000"
       },
       {
         "Price": 45.00,
