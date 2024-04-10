@@ -282,6 +282,22 @@
         "Date": "2023-07-17T23:37:33.911055-04:00",
         "Update": "2024-03-13T15:24:12.997856-04:00",
         "Label": "Cable EnLabs 1-to-5 3Pins Addressable RGB Splitter Y Cable"
+      },
+      {
+        "Price": 90.00,
+        "Features": [
+          "Hydraulic",
+          "3xFan",
+          "1850rpm",
+          "59cfm",
+          "27db",
+          "4Pin",
+          "ARGB",
+          "120mm"
+        ],
+        "Date": "2023-09-02T12:38:35.3292969-04:00",
+        "Update": "2024-04-10T12:10:23.8726893-04:00",
+        "Label": "Fan Corsair AR120 RGB, Kit"
       }
     ],
     "Fuente": [
@@ -729,6 +745,47 @@
         "Date": "2023-03-27T12:00:02.0089284-04:00",
         "Update": "2024-02-24T10:10:13.2569915-05:00",
         "Label": "D.Líquida Cooler Master MasterLiquid ML240L ARGB V2"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "2200rpm",
+          "71cfm",
+          "36db",
+          "2xFan",
+          "240mm",
+          "Copper",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "LGA 20XX",
+          "AM5",
+          "AM4",
+          "TR4"
+        ],
+        "Date": "2023-10-11T10:56:20.6230943-04:00",
+        "Update": "2024-04-10T12:09:21.3054565-04:00",
+        "Label": "Disipador Líquido ASUS ROG RYUO III 240 ARGB"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "2xFan",
+          "2500rpm",
+          "81cfm",
+          "38dba",
+          "Cobre",
+          "240mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "LGA 20XX",
+          "AM4",
+          "TR"
+        ],
+        "Date": "2023-06-19T07:48:51.0981438-04:00",
+        "Update": "2024-04-10T12:09:21.3415956-04:00",
+        "Label": "Disipador Líquido ASUS ROG Strix LC II 240 ARGB"
       }
     ],
     "Disco Duro": [
@@ -757,6 +814,18 @@
         "Date": "2023-05-11T14:19:01.4001144-04:00",
         "Update": "2024-03-10T04:03:05.8818356-04:00",
         "Label": "HDD 3.5 WD 14TB HC530"
+      },
+      {
+        "Price": 70.00,
+        "Features": [
+          "64mb",
+          "5900rpm",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2023-07-26T16:42:06.8492862-04:00",
+        "Update": "2024-04-10T12:09:21.375684-04:00",
+        "Label": "HDD 3.5 Seagate Pipeline 2TB"
       }
     ],
     "Disipador por Aire": [
@@ -1092,6 +1161,73 @@
         "Date": "2024-02-16T17:52:51.8800101-05:00",
         "Update": "2024-02-18T09:00:46.1524972-05:00",
         "Label": "CPU - Intel Core i3-14100F"
+      },
+      {
+        "Price": 240.00,
+        "Features": [
+          "12va Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "20MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-02-17T09:44:28.156292-05:00",
+        "Update": "2024-04-10T12:10:23.9691458-04:00",
+        "Label": "Micro Intel Core i5-12600K"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "12va Gen",
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "25MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-02-17T09:30:45.7586545-05:00",
+        "Update": "2024-04-10T12:10:24.0059319-04:00",
+        "Label": "Micro Intel Core i7-12700K"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "12va Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "20MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-10-16T10:24:13.8080802-04:00",
+        "Update": "2024-04-10T12:10:24.0645406-04:00",
+        "Label": "Micro Intel Core i5-12600KF"
+      },
+      {
+        "Price": 665.00,
+        "Features": [
+          "14va Gen",
+          "32 Hilos",
+          "6Ghz",
+          "36mb L3",
+          "253W",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-10-23T12:31:45.6342687-04:00",
+        "Update": "2024-04-10T12:10:24.1223716-04:00",
+        "Label": "Micro Intel Core i9-14900K"
       }
     ],
     "Memoria RAM": [
@@ -1413,6 +1549,39 @@
         "Date": "2024-03-17T15:33:25.5626446-04:00",
         "Update": "2024-03-17T15:54:14.2527718-04:00",
         "Label": "DDR4 G.Skill TridentZ RGB 32GB 3600mhz"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "2x16GB",
+          "Disipadas",
+          "CL36"
+        ],
+        "Date": "2023-10-13T09:28:49.0242623-04:00",
+        "Update": "2024-04-10T12:10:23.9101663-04:00",
+        "Label": "RAM DDR5 Corsair Vengeance 32GB 6000mhz"
+      },
+      {
+        "Price": 155.00,
+        "Features": [
+          "2x16GB",
+          "CL36",
+          "Disipadas"
+        ],
+        "Date": "2023-11-03T12:23:00.2905889-04:00",
+        "Update": "2024-04-10T12:10:23.9404614-04:00",
+        "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 7000mhz"
+      },
+      {
+        "Price": 140.00,
+        "Features": [
+          "2x16GB",
+          "Disipadas",
+          "CL36"
+        ],
+        "Date": "2023-05-11T08:37:56.7258334-04:00",
+        "Update": "2024-04-10T12:10:24.0346864-04:00",
+        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       }
     ],
     "Red": [
@@ -1807,6 +1976,13 @@
         "Date": "2024-03-13T15:18:04.3313972-04:00",
         "Update": "2024-03-16T02:06:11.6610067-04:00",
         "Label": "Tarjeta de Video Gigabyte Aorus RX 6750 XT Elite 12GB (3xFan)"
+      },
+      {
+        "Price": 10.00,
+        "Features": [],
+        "Date": "2024-02-28T05:30:17.0431477-05:00",
+        "Update": "2024-04-10T12:10:24.0932376-04:00",
+        "Label": "SGPU - Rosewill Support Bracket"
       }
     ],
     "Board": [
@@ -1928,6 +2104,26 @@
         "Date": "2024-02-20T04:10:50.1498711-05:00",
         "Update": "2024-02-20T06:59:15.8683818-05:00",
         "Label": "Board MSI MPG Z790 EDGE Wifi"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "7200mhz",
+          "Wifi",
+          "Dual Lan",
+          "7xUSB",
+          "4xSATA",
+          "HDMI",
+          "LGA 1700",
+          "6xAudio",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-10-16T10:24:22.1843395-04:00",
+        "Update": "2024-04-10T12:08:54.3208966-04:00",
+        "Label": "Board MSI Z790 Gaming Pro Wifi"
       }
     ],
     "Disco Sólido": [
