@@ -1731,23 +1731,6 @@
         "Label": "Tarjeta de Video EVGA RTX 3080Ti XC3 Hydro Copper 12GB"
       },
       {
-        "Price": 420.00,
-        "Features": [
-          "3xFan",
-          "1x8Pin + 1x6Pin",
-          "650WR",
-          "286mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica",
-          "DLSS"
-        ],
-        "Date": "2023-11-18T23:52:02.2386638-05:00",
-        "Update": "2024-01-17T06:24:33.5870224-05:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 3060 Ti Vision 8GB"
-      },
-      {
         "Price": 340.00,
         "Features": [
           "3xFan",
@@ -2705,13 +2688,6 @@
         "Date": "2023-12-04T16:21:23.4675923-05:00",
         "Update": "2023-12-05T16:45:36.904454-05:00",
         "Label": "Cable SATA a Molex"
-      },
-      {
-        "Price": 65.00,
-        "Features": [],
-        "Date": "2024-01-18T07:09:13.1565681-05:00",
-        "Update": "2024-01-18T08:30:01.1436413-05:00",
-        "Label": "HUB BYTECC U3-10HUB 10x USB 3.0 5A"
       },
       {
         "Price": 5.00,
