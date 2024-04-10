@@ -1,0 +1,20 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Memoria RAM",
+  "Images": [
+    "/images/products/ddr4-adata-xpg-spectrix-d41-rgb-8gb-3000mhz-1.webp",
+    "/images/products/ddr4-adata-xpg-spectrix-d41-rgb-8gb-3000mhz-2.webp",
+    "/images/products/ddr4-adata-xpg-spectrix-d41-rgb-8gb-3000mhz-3.webp",
+    "/images/products/ddr4-adata-xpg-spectrix-d41-rgb-8gb-3000mhz-4.webp"
+  ],
+  "Description": "Cl16-20-20 1. 35 V. Compatible con Intel XMP 2. 0 para overclocking\nCompatible con la mayoría de software de sincronización de luz RGB\nCompatible con Intel X299 y AMD AM4 Ryzen\nPCB de 10 capas con chips de la más alta calidad\nCompatible con Intel XMP 2.0 para overclocking",
+  "Price": 45.00,
+  "Features": [
+    "1x8GB",
+    "CL16",
+    "Disipadas"
+  ],
+  "Date": "2024-02-16T14:41:51.7835873-05:00",
+  "Update": "2024-02-18T09:56:49.5447534-05:00",
+  "Label": "DDR4 ADATA XPG Spectrix D41 RGB 8GB 3000mhz"
+}
