@@ -14,6 +14,14 @@
         "Date": "2024-02-05T07:57:55.4555632-05:00",
         "Update": "2024-02-05T08:20:20.5483328-05:00",
         "Label": "Kit AMD Ryzen 5 5600X +Disipador + Gigabyte X570S Gaming X"
+      },
+      {
+        "Price": 631.00,
+        "Features": [],
+        "Date": "2023-09-13T13:15:22.925563-04:00",
+        "Update": "2024-04-10T12:12:08.1912515-04:00",
+        "Discount": 14.0,
+        "Label": "Kit i7-12700K + Asus TUF Z690-Plus Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       }
     ]
   },
@@ -1983,147 +1991,22 @@
         "Date": "2024-02-28T05:30:17.0431477-05:00",
         "Update": "2024-04-10T12:10:24.0932376-04:00",
         "Label": "SGPU - Rosewill Support Bracket"
-      }
-    ],
-    "Board": [
-      {
-        "Price": 295.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "7600mhz",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "LGA 1700",
-          "ATX",
-          "PS2",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio",
-          "MOBO"
-        ],
-        "Date": "2024-01-18T07:08:47.0369887-05:00",
-        "Update": "2024-01-18T08:30:01.0598603-05:00",
-        "Label": "Board Gigabyte Z790 Aorus Elite AX ICE"
       },
       {
-        "Price": 305.00,
+        "Price": 375.00,
         "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "6400mhz",
-          "10xUSB",
-          "6xAudio",
-          "6xSATA",
-          "LGA 1700",
-          "DisplayPort",
-          "HDMI",
-          "ATX",
-          "MOBO"
+          "DLSS3",
+          "2xfan",
+          "1x8Pin",
+          "550WR",
+          "199mm",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
         ],
-        "Date": "2023-05-11T07:51:07.1403838-04:00",
-        "Update": "2024-01-24T14:50:31.1103587-05:00",
-        "Label": "Board Asus ROG Strix Z690-E Gaming Wifi"
-      },
-      {
-        "Price": 220.00,
-        "Features": [
-          "AM4",
-          "DDR4",
-          "5100mhz",
-          "6xSATA",
-          "7xUSB",
-          "6xAudio",
-          "HDMI",
-          "DisplayPort",
-          "ATX",
-          "AMD",
-          "MOBO"
-        ],
-        "Date": "2023-12-28T14:08:17.4889383-05:00",
-        "Update": "2024-01-24T14:50:31.1568241-05:00",
-        "Label": "Board Gigabyte X570S Gaming X"
-      },
-      {
-        "Price": 230.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "DDR5",
-          "6000mhz",
-          "6xAudio",
-          "6xUSB",
-          "4xSATA",
-          "LGA1700",
-          "HDMI",
-          "DisplayPort",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-05-11T07:56:36.6020035-04:00",
-        "Update": "2024-02-16T14:51:46.5820986-05:00",
-        "Label": "Board Asus TUF Z690-Plus Wifi"
-      },
-      {
-        "Price": 365.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "6666mhz",
-          "Wifi",
-          "7xUSB",
-          "6xSATA",
-          "5xM.2",
-          "LGA 1700",
-          "ATX",
-          "DisplayPort",
-          "HDMI",
-          "6xAudio"
-        ],
-        "Date": "2024-02-16T17:53:32.8637228-05:00",
-        "Update": "2024-02-18T08:30:42.7902155-05:00",
-        "Label": "Board MSI MEG Z690 ACE"
-      },
-      {
-        "Price": 405.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "6800mhz",
-          "Wifi",
-          "8xUSB",
-          "7xSATA",
-          "LGA 1700",
-          "ATX",
-          "PS2",
-          "DisplayPort",
-          "HDMI",
-          "6xAudio",
-          "MOBO"
-        ],
-        "Date": "2024-02-20T04:10:50.1498711-05:00",
-        "Update": "2024-02-20T06:59:15.8683818-05:00",
-        "Label": "Board MSI MPG Z790 EDGE Wifi"
-      },
-      {
-        "Price": 275.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "7200mhz",
-          "Wifi",
-          "Dual Lan",
-          "7xUSB",
-          "4xSATA",
-          "HDMI",
-          "LGA 1700",
-          "6xAudio",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-10-16T10:24:22.1843395-04:00",
-        "Update": "2024-04-10T12:08:54.3208966-04:00",
-        "Label": "Board MSI Z790 Gaming Pro Wifi"
+        "Date": "2024-01-16T04:52:03.8982461-05:00",
+        "Update": "2024-04-10T12:11:14.7173749-04:00",
+        "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X Black OC 8GB"
       }
     ],
     "Disco Sólido": [
@@ -2437,6 +2320,147 @@
         "Update": "2024-03-16T02:57:27.9301551-04:00",
         "Label": "SSD M.2 Samsung 980 1TB"
       }
+    ],
+    "Board": [
+      {
+        "Price": 305.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "6400mhz",
+          "10xUSB",
+          "6xAudio",
+          "6xSATA",
+          "LGA 1700",
+          "DisplayPort",
+          "HDMI",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-05-11T07:51:07.1403838-04:00",
+        "Update": "2024-01-24T14:50:31.1103587-05:00",
+        "Label": "Board Asus ROG Strix Z690-E Gaming Wifi"
+      },
+      {
+        "Price": 365.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "6666mhz",
+          "Wifi",
+          "7xUSB",
+          "6xSATA",
+          "5xM.2",
+          "LGA 1700",
+          "ATX",
+          "DisplayPort",
+          "HDMI",
+          "6xAudio"
+        ],
+        "Date": "2024-02-16T17:53:32.8637228-05:00",
+        "Update": "2024-02-18T08:30:42.7902155-05:00",
+        "Label": "Board MSI MEG Z690 ACE"
+      },
+      {
+        "Price": 405.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "6800mhz",
+          "Wifi",
+          "8xUSB",
+          "7xSATA",
+          "LGA 1700",
+          "ATX",
+          "PS2",
+          "DisplayPort",
+          "HDMI",
+          "6xAudio",
+          "MOBO"
+        ],
+        "Date": "2024-02-20T04:10:50.1498711-05:00",
+        "Update": "2024-02-20T06:59:15.8683818-05:00",
+        "Label": "Board MSI MPG Z790 EDGE Wifi"
+      },
+      {
+        "Price": 295.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "7600mhz",
+          "Wifi",
+          "9xUSB",
+          "6xSATA",
+          "LGA 1700",
+          "ATX",
+          "PS2",
+          "DisplayPort",
+          "HDMI",
+          "3xAudio",
+          "MOBO"
+        ],
+        "Date": "2024-01-18T07:08:47.0369887-05:00",
+        "Update": "2024-04-10T12:12:08.2291211-04:00",
+        "Label": "Board Gigabyte Z790 Aorus Elite AX ICE"
+      },
+      {
+        "Price": 220.00,
+        "Features": [
+          "AM4",
+          "DDR4",
+          "5100mhz",
+          "6xSATA",
+          "7xUSB",
+          "6xAudio",
+          "HDMI",
+          "DisplayPort",
+          "ATX",
+          "AMD",
+          "MOBO"
+        ],
+        "Date": "2023-12-28T14:08:17.4889383-05:00",
+        "Update": "2024-04-10T12:12:08.258873-04:00",
+        "Label": "Board Gigabyte X570S Gaming X"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "7200mhz",
+          "Wifi",
+          "Dual Lan",
+          "7xUSB",
+          "4xSATA",
+          "HDMI",
+          "LGA 1700",
+          "6xAudio",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-10-16T10:24:22.1843395-04:00",
+        "Update": "2024-04-10T12:12:08.2867018-04:00",
+        "Label": "Board MSI Z790 Gaming Pro Wifi"
+      },
+      {
+        "Price": 230.00,
+        "Features": [
+          "12va-13ra-14ta",
+          "DDR5",
+          "6000mhz",
+          "6xAudio",
+          "6xUSB",
+          "4xSATA",
+          "LGA1700",
+          "HDMI",
+          "DisplayPort",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-05-11T07:56:36.6020035-04:00",
+        "Update": "2024-04-10T12:12:08.3146613-04:00",
+        "Label": "Board Asus TUF Z690-Plus Wifi"
+      }
     ]
   },
   "Periféricos": {
@@ -2595,6 +2619,20 @@
         "Date": "2024-02-20T04:08:15.7576333-05:00",
         "Update": "2024-02-20T07:14:58.417012-05:00",
         "Label": "Teclado Logitech G413 SE"
+      },
+      {
+        "Price": 75.00,
+        "Features": [
+          "Mecánico",
+          "Retroiluminado",
+          "Palm rest",
+          "12xTeclas de Función",
+          "Gaming",
+          "Cableado"
+        ],
+        "Date": "2024-01-18T07:08:55.3566296-05:00",
+        "Update": "2024-04-10T12:11:14.5787132-04:00",
+        "Label": "Teclado AOC RGB GK500"
       }
     ],
     "Adaptador": [
@@ -3214,6 +3252,21 @@
         "Date": "2024-02-28T05:29:58.139187-05:00",
         "Update": "2024-02-28T07:53:53.7454237-05:00",
         "Label": "Monitor AOpen FireLegend 24\" IPS 180Hz 1ms"
+      },
+      {
+        "Price": 265.00,
+        "Features": [
+          "FHD",
+          "8Bits",
+          "FRC",
+          "1080p",
+          "250nit",
+          "DP",
+          "Flat"
+        ],
+        "Date": "2024-01-18T07:09:18.7560023-05:00",
+        "Update": "2024-04-10T12:11:14.6188968-04:00",
+        "Label": "Monitor Asus TUF 24\" 165Hz IPS 1ms SPK"
       }
     ]
   }
