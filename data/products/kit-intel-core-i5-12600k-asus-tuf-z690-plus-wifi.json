@@ -1,0 +1,26 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-intel-core-i5-12600k-asus-tuf-z690-plus-wifi-1.webp",
+    "/images/products/kit-intel-core-i5-12600k-asus-tuf-z690-plus-wifi-2.webp",
+    "/images/products/kit-intel-core-i5-12600k-asus-tuf-z690-plus-wifi-3.webp",
+    "/images/products/kit-intel-core-i5-12600k-asus-tuf-z690-plus-wifi-4.webp",
+    "/images/products/kit-intel-core-i5-12600k-asus-tuf-z690-plus-wifi-5.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12600K\n+ Board Asus TUF Z690-Plus Wifi\n",
+  "Price": 470.00,
+  "Features": [
+    "16 Hilos",
+    "10 Core",
+    "4.9GHz",
+    "DDR5",
+    "6000mhz",
+    "6xAudio",
+    "6xUSB",
+    "4xSATA"
+  ],
+  "Date": "2024-04-11T11:14:37.2413337-04:00",
+  "Update": "2024-04-11T11:53:18.1701607-04:00",
+  "Label": "Kit Intel Core i5-12600K +Asus TUF Z690-Plus Wifi"
+}
