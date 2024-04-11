@@ -1,0 +1,29 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-amd-ryzen-5-5600x-gigabyte-x570s-gaming-x-16gb-b42llo-1.webp",
+    "/images/products/kit-amd-ryzen-5-5600x-gigabyte-x570s-gaming-x-16gb-b42llo-2.webp",
+    "/images/products/kit-amd-ryzen-5-5600x-gigabyte-x570s-gaming-x-16gb-b42llo-3.webp",
+    "/images/products/kit-amd-ryzen-5-5600x-gigabyte-x570s-gaming-x-16gb-b42llo-4.webp",
+    "/images/products/kit-amd-ryzen-5-5600x-gigabyte-x570s-gaming-x-16gb-b42llo-5.webp",
+    "/images/products/kit-amd-ryzen-5-5600x-gigabyte-x570s-gaming-x-16gb-b42llo-6.webp",
+    "/images/products/kit-amd-ryzen-5-5600x-gigabyte-x570s-gaming-x-16gb-b42llo-7.webp"
+  ],
+  "Description": "+ Micro AMD Ryzen 5 5600X +Disipador\n+ Board Gigabyte X570S Gaming X\n+ RAM DDR4 GeIL ORION RGB 16GB 3600mhz\n",
+  "Price": 465.00,
+  "Features": [
+    "6 Core",
+    "12 Hilos",
+    "4.6GHz",
+    "2x8GB",
+    "3600mhz",
+    "6xSATA",
+    "7xUSB",
+    "6xAudio"
+  ],
+  "Date": "2024-04-11T09:31:15.8482456-04:00",
+  "Update": "2024-04-11T09:36:56.8652373-04:00",
+  "Discount": 5.0,
+  "Label": "Kit AMD Ryzen 5 5600X +Gigabyte X570S Gaming X +16GB DDR4 GeIL ORION RGB"
+}
