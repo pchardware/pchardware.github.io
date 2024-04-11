@@ -741,20 +741,6 @@
         "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce X 240"
       },
       {
-        "Price": 140.00,
-        "Features": [
-          "2xFan",
-          "240mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4"
-        ],
-        "Date": "2023-03-27T12:00:02.0089284-04:00",
-        "Update": "2024-02-24T10:10:13.2569915-05:00",
-        "Label": "D.Líquida Cooler Master MasterLiquid ML240L ARGB V2"
-      },
-      {
         "Price": 255.00,
         "Features": [
           "2200rpm",
@@ -794,6 +780,20 @@
         "Date": "2023-06-19T07:48:51.0981438-04:00",
         "Update": "2024-04-10T12:09:21.3415956-04:00",
         "Label": "Disipador Líquido ASUS ROG Strix LC II 240 ARGB"
+      },
+      {
+        "Price": 140.00,
+        "Features": [
+          "2xFan",
+          "240mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-03-27T12:00:02.0089284-04:00",
+        "Update": "2024-04-11T07:58:41.9879931-04:00",
+        "Label": "Disipador Líquido Cooler Master MasterLiquid ML240L ARGB V2"
       }
     ],
     "Disco Duro": [
@@ -2306,6 +2306,30 @@
         "Date": "2024-03-13T15:18:38.7153298-04:00",
         "Update": "2024-03-16T02:57:27.9301551-04:00",
         "Label": "SSD M.2 Samsung 980 1TB"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "4150mbs",
+          "900TBW",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2024-04-11T02:50:38.8694184-04:00",
+        "Update": "2024-04-11T07:58:42.0409318-04:00",
+        "Label": "SSD M.2 WD Blue SN580 2TB"
+      },
+      {
+        "Price": 110.00,
+        "Features": [
+          "5000mbs",
+          "600TBW",
+          "PCIe",
+          "NVMe"
+        ],
+        "Date": "2024-04-11T02:50:58.4941382-04:00",
+        "Update": "2024-04-11T07:58:42.0650816-04:00",
+        "Label": "SSD M.2 Samsung 990 EVO 1TB"
       }
     ],
     "Board": [
