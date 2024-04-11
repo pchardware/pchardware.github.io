@@ -794,6 +794,42 @@
         "Date": "2023-03-27T12:00:02.0089284-04:00",
         "Update": "2024-04-11T07:58:41.9879931-04:00",
         "Label": "Disipador Líquido Cooler Master MasterLiquid ML240L ARGB V2"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "2000rpm",
+          "67cfm",
+          "29db",
+          "2xFan",
+          "240mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM5",
+          "AM4"
+        ],
+        "Date": "2024-04-11T02:49:41.9333866-04:00",
+        "Update": "2024-04-11T08:04:32.1228613-04:00",
+        "Label": "Disipador Líquido Asus TUF Gaming LC II 360 ARGB"
+      },
+      {
+        "Price": 155.00,
+        "Features": [
+          "2000rpm",
+          "67cfm",
+          "29db",
+          "2xFan",
+          "240mm",
+          "LGA 1700",
+          "LGA 1366",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2024-04-11T02:49:55.1254282-04:00",
+        "Update": "2024-04-11T08:04:32.1404206-04:00",
+        "Label": "Disipador Líquido Asus TUF Gaming LC 240 ARGB"
       }
     ],
     "Disco Duro": [
