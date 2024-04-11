@@ -1482,17 +1482,6 @@
         "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 4400mhz"
       },
       {
-        "Price": 165.00,
-        "Features": [
-          "2x32GB",
-          "3600mhz",
-          "CL20"
-        ],
-        "Date": "2024-01-30T08:59:11.1042106-05:00",
-        "Update": "2024-01-30T10:47:53.6999498-05:00",
-        "Label": "RAM DDR4 Patriot Viper Steel RGB Black 64GB 3600mhz"
-      },
-      {
         "Price": 80.00,
         "Features": [
           "2x8GB",
@@ -1646,6 +1635,28 @@
         "Date": "2023-05-11T08:37:56.7258334-04:00",
         "Update": "2024-04-10T12:10:24.0346864-04:00",
         "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "2x32GB",
+          "CL20",
+          "Disipadas"
+        ],
+        "Date": "2024-01-30T08:59:11.1042106-05:00",
+        "Update": "2024-04-11T08:12:31.4441638-04:00",
+        "Label": "RAM DDR4 Patriot Viper Steel RGB Black 64GB 3600mhz"
+      },
+      {
+        "Price": 160.00,
+        "Features": [
+          "2x16GB",
+          "C34",
+          "Disipadas"
+        ],
+        "Date": "2024-04-11T02:50:27.6714995-04:00",
+        "Update": "2024-04-11T08:12:31.473824-04:00",
+        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
       }
     ],
     "Red": [
