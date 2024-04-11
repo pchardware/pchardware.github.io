@@ -3357,6 +3357,31 @@
         "Date": "2023-06-19T07:49:14.3324582-04:00",
         "Update": "2024-03-13T15:24:13.0521863-04:00",
         "Label": "Mouse Pad Corsair MM300 Extended"
+      },
+      {
+        "Price": 55.00,
+        "Features": [
+          "900×440mm",
+          "3mm",
+          "Reforzado",
+          "Anti-Fray"
+        ],
+        "Date": "2024-04-11T02:48:56.1670255-04:00",
+        "Update": "2024-04-11T08:32:28.5637794-04:00",
+        "Label": "Mouse Pad Asus ROG Sheath Extended"
+      },
+      {
+        "Price": 50.00,
+        "Features": [
+          "930×300mm",
+          "3mm",
+          "Reforzado",
+          "Anti-Fray",
+          "Water-repellent"
+        ],
+        "Date": "2024-04-11T02:50:32.4061292-04:00",
+        "Update": "2024-04-11T08:32:28.5942684-04:00",
+        "Label": "Mouse Pad Corsair MM300 Pro"
       }
     ],
     "Monitor": [
