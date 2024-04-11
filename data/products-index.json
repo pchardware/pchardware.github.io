@@ -22,6 +22,54 @@
         "Update": "2024-04-10T12:12:08.1912515-04:00",
         "Discount": 14.0,
         "Label": "Kit i7-12700K + Asus TUF Z690-Plus Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 395.00,
+        "Features": [
+          "6 Core",
+          "12 Hilos",
+          "4.6GHz",
+          "6xSATA",
+          "7xUSB",
+          "6xAudio"
+        ],
+        "Date": "2024-04-11T09:30:51.9613257-04:00",
+        "Update": "2024-04-11T09:36:56.844061-04:00",
+        "Label": "Kit AMD Ryzen 5 5600X +Disipador + Gigabyte X570S Gaming X"
+      },
+      {
+        "Price": 465.00,
+        "Features": [
+          "6 Core",
+          "12 Hilos",
+          "4.6GHz",
+          "2x8GB",
+          "3600mhz",
+          "6xSATA",
+          "7xUSB",
+          "6xAudio"
+        ],
+        "Date": "2024-04-11T09:31:15.8482456-04:00",
+        "Update": "2024-04-11T09:36:56.8652373-04:00",
+        "Discount": 5.0,
+        "Label": "Kit AMD Ryzen 5 5600X +Gigabyte X570S Gaming X +16GB DDR4 GeIL ORION RGB"
+      },
+      {
+        "Price": 485.00,
+        "Features": [
+          "6 Core",
+          "12 Hilos",
+          "4.6GHz",
+          "2x16",
+          "3600mhz",
+          "6xSATA",
+          "7xUSB",
+          "6xAudio"
+        ],
+        "Date": "2024-04-11T09:31:33.2082403-04:00",
+        "Update": "2024-04-11T09:36:56.8851462-04:00",
+        "Discount": 5.0,
+        "Label": "Kit AMD Ryzen 5 5600X +Gigabyte X570S Gaming X +32GB DDR4 Corsair Vengeance LPX"
       }
     ]
   },
