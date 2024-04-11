@@ -436,22 +436,6 @@
         "Label": "Fuente Asus ROG Thor 850W Platinum II"
       },
       {
-        "Price": 205.00,
-        "Features": [
-          "71A",
-          "80+ PLATINUM",
-          "Full Modular",
-          "6x 6+2Pin",
-          "9x SATA",
-          "2x 4+4 EPS",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-11-14T14:40:10.1214379-05:00",
-        "Update": "2024-01-24T02:24:17.3220665-05:00",
-        "Label": "Fuente EVGA Supernova 850 P5 850W"
-      },
-      {
         "Price": 155.00,
         "Features": [
           "62A",
@@ -586,6 +570,41 @@
         "Date": "2024-03-13T15:18:09.1634271-04:00",
         "Update": "2024-03-15T15:01:58.2882613-04:00",
         "Label": "PSU - ASUS ROG STRIX 1000W Aura Edition 80+ Gold"
+      },
+      {
+        "Price": 205.00,
+        "Features": [
+          "71A",
+          "80+ PLATINUM",
+          "Full Modular",
+          "6x 6+2Pin",
+          "9x SATA",
+          "2x 4+4 EPS",
+          "150mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-11-14T14:40:10.1214379-05:00",
+        "Update": "2024-04-11T08:10:38.3756269-04:00",
+        "Label": "Fuente EVGA Supernova 850 P5 850W"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "ATX 3.0",
+          "70A",
+          "80+ Gold",
+          "Full Modular",
+          "4x 6+2Pin",
+          "8x SATA",
+          "2x 4+4 EPS",
+          "4x Molex",
+          "150mm",
+          "PSU"
+        ],
+        "Date": "2024-04-11T02:49:01.5018153-04:00",
+        "Update": "2024-04-11T08:10:38.3956159-04:00",
+        "Label": "Fuente MSI MAG A850GL 850W"
       }
     ],
     "Disipador Líquido": [
