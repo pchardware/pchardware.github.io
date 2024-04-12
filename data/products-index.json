@@ -1374,22 +1374,6 @@
         "Label": "Micro AMD Ryzen 5 5600X +Disipador"
       },
       {
-        "Price": 140.00,
-        "Features": [
-          "14va Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.7GHz",
-          "12MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2024-02-16T17:52:51.8800101-05:00",
-        "Update": "2024-02-18T09:00:46.1524972-05:00",
-        "Label": "CPU - Intel Core i3-14100F"
-      },
-      {
         "Price": 240.00,
         "Features": [
           "12va Gen",
@@ -1455,6 +1439,22 @@
         "Date": "2023-10-23T12:31:45.6342687-04:00",
         "Update": "2024-04-10T12:10:24.1223716-04:00",
         "Label": "Micro Intel Core i9-14900K"
+      },
+      {
+        "Price": 140.00,
+        "Features": [
+          "14va Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.7GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2024-02-16T17:52:51.8800101-05:00",
+        "Update": "2024-04-12T09:38:23.0565616-04:00",
+        "Label": "Micro Intel Core i3-14100F +Disipador"
       }
     ],
     "Memoria RAM": [
@@ -1668,106 +1668,6 @@
         "Label": "RAM DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
       },
       {
-        "Price": 77.00,
-        "Features": [
-          "2x8GB",
-          "CL18",
-          "Disipadas"
-        ],
-        "Date": "2024-02-16T14:41:47.1600183-05:00",
-        "Update": "2024-02-16T18:41:10.5589952-05:00",
-        "Label": "DDR4 XPG SPectra D35 RGB 16GB 3600mhz"
-      },
-      {
-        "Price": 125.00,
-        "Features": [
-          "2x16GB",
-          "CL18",
-          "Disipadas"
-        ],
-        "Date": "2024-02-16T14:42:08.0239053-05:00",
-        "Update": "2024-02-16T18:41:10.5904385-05:00",
-        "Label": "DDR4 G.Skill TridentZ RGB Neo 32GB 4000mhz"
-      },
-      {
-        "Price": 45.00,
-        "Features": [
-          "1x8GB",
-          "CL16",
-          "Disipada"
-        ],
-        "Date": "2024-02-16T14:42:28.5192676-05:00",
-        "Update": "2024-02-16T18:41:10.6663406-05:00",
-        "Label": "DDR4 Kingston HyperX Fury RGB 8GB 3466mhz"
-      },
-      {
-        "Price": 45.00,
-        "Features": [
-          "1x8GB",
-          "CL16",
-          "Disipadas"
-        ],
-        "Date": "2024-02-16T14:41:51.7835873-05:00",
-        "Update": "2024-02-18T09:56:49.5447534-05:00",
-        "Label": "DDR4 ADATA XPG Spectrix D41 RGB 8GB 3000mhz"
-      },
-      {
-        "Price": 43.00,
-        "Features": [
-          "1x8GB",
-          "CL16",
-          "Disipadas"
-        ],
-        "Date": "2024-02-16T14:41:55.9514851-05:00",
-        "Update": "2024-02-18T09:56:49.5586742-05:00",
-        "Label": "DDR4 Team Group T-Force Delta 2 RGB 8GB 3200mhz White"
-      },
-      {
-        "Price": 40.00,
-        "Features": [
-          "1x8GB",
-          "CL15",
-          "Disipadas"
-        ],
-        "Date": "2024-02-16T14:41:59.9676662-05:00",
-        "Update": "2024-02-18T09:56:49.5728262-05:00",
-        "Def": true,
-        "Label": "DDR4 Kingston HyperX Fury RGB 8GB 3000mhz"
-      },
-      {
-        "Price": 160.00,
-        "Features": [
-          "2x32GB",
-          "Disipadas",
-          "C18"
-        ],
-        "Date": "2024-02-16T14:42:16.5355631-05:00",
-        "Update": "2024-02-19T04:36:36.2765378-05:00",
-        "Label": "DDR4 G.Skill Ripjaws V 64GB 3600mhz"
-      },
-      {
-        "Price": 150.00,
-        "Features": [
-          "2x16GB",
-          "CL32",
-          "Disipadas"
-        ],
-        "Date": "2024-03-07T09:33:05.0381701-05:00",
-        "Update": "2024-03-07T09:39:04.4911209-05:00",
-        "Label": "DDR5 G.Skill Trident Z5 NEO RGB 32GB 6400mhz"
-      },
-      {
-        "Price": 110.00,
-        "Features": [
-          "2x16",
-          "CL18",
-          "Disipadas"
-        ],
-        "Date": "2024-03-17T15:33:25.5626446-04:00",
-        "Update": "2024-03-17T15:54:14.2527718-04:00",
-        "Label": "DDR4 G.Skill TridentZ RGB 32GB 3600mhz"
-      },
-      {
         "Price": 115.00,
         "Features": [
           "2x16GB",
@@ -1821,6 +1721,106 @@
         "Date": "2024-04-11T02:50:27.6714995-04:00",
         "Update": "2024-04-11T08:12:31.473824-04:00",
         "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
+      },
+      {
+        "Price": 77.00,
+        "Features": [
+          "2x8GB",
+          "CL18",
+          "Disipadas"
+        ],
+        "Date": "2024-02-16T14:41:47.1600183-05:00",
+        "Update": "2024-04-12T09:38:23.0028501-04:00",
+        "Label": "RAM DDR4 XPG SPectra D35 RGB 16GB 3600mhz"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "2x16GB",
+          "CL18",
+          "Disipadas"
+        ],
+        "Date": "2024-02-16T14:42:08.0239053-05:00",
+        "Update": "2024-04-12T09:38:23.0197282-04:00",
+        "Label": "RAM DDR4 G.Skill TridentZ RGB Neo 32GB 4000mhz"
+      },
+      {
+        "Price": 45.00,
+        "Features": [
+          "1x8GB",
+          "CL16",
+          "Disipada"
+        ],
+        "Date": "2024-02-16T14:42:28.5192676-05:00",
+        "Update": "2024-04-12T09:38:23.037042-04:00",
+        "Label": "RAM DDR4 Kingston HyperX Fury RGB 8GB 3466mhz"
+      },
+      {
+        "Price": 45.00,
+        "Features": [
+          "1x8GB",
+          "CL16",
+          "Disipadas"
+        ],
+        "Date": "2024-02-16T14:41:51.7835873-05:00",
+        "Update": "2024-04-12T09:38:23.0745973-04:00",
+        "Label": "RAM DDR4 ADATA XPG Spectrix D41 RGB 8GB 3000mhz"
+      },
+      {
+        "Price": 43.00,
+        "Features": [
+          "1x8GB",
+          "CL16",
+          "Disipadas"
+        ],
+        "Date": "2024-02-16T14:41:55.9514851-05:00",
+        "Update": "2024-04-12T09:38:23.0919915-04:00",
+        "Label": "RAM DDR4 Team Group T-Force Delta 2 RGB 8GB 3200mhz White"
+      },
+      {
+        "Price": 40.00,
+        "Features": [
+          "1x8GB",
+          "CL15",
+          "Disipadas"
+        ],
+        "Date": "2024-02-16T14:41:59.9676662-05:00",
+        "Update": "2024-04-12T09:38:23.1156803-04:00",
+        "Def": true,
+        "Label": "RAM DDR4 Kingston HyperX Fury RGB 8GB 3000mhz"
+      },
+      {
+        "Price": 160.00,
+        "Features": [
+          "2x32GB",
+          "Disipadas",
+          "C18"
+        ],
+        "Date": "2024-02-16T14:42:16.5355631-05:00",
+        "Update": "2024-04-12T09:38:23.1325955-04:00",
+        "Label": "RAM DDR4 G.Skill Ripjaws V 64GB 3600mhz"
+      },
+      {
+        "Price": 150.00,
+        "Features": [
+          "2x16GB",
+          "CL32",
+          "Disipadas"
+        ],
+        "Date": "2024-03-07T09:33:05.0381701-05:00",
+        "Update": "2024-04-12T09:38:23.1491043-04:00",
+        "Label": "RAM DDR5 G.Skill Trident Z5 NEO RGB 32GB 6400mhz"
+      },
+      {
+        "Price": 110.00,
+        "Features": [
+          "2x16",
+          "CL18",
+          "Disipadas"
+        ],
+        "Date": "2024-03-17T15:33:25.5626446-04:00",
+        "Update": "2024-04-12T09:38:23.1691536-04:00",
+        "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 3600mhz"
       }
     ],
     "Red": [
