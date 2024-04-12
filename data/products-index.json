@@ -875,25 +875,6 @@
         "Label": "Corsair Hydro XC7 RGB PRO CPU Water Block"
       },
       {
-        "Price": 155.00,
-        "Features": [
-          "1500rpm",
-          "48cfm",
-          "28db",
-          "2xFan",
-          "240mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "LGA 20XX",
-          "AM5",
-          "AM4"
-        ],
-        "Date": "2023-03-27T12:00:05.9787174-04:00",
-        "Update": "2023-12-24T02:51:09.6369235-05:00",
-        "Label": "Disipador Líquido Corsair H100x RGB Elite"
-      },
-      {
         "Price": 240.00,
         "Features": [
           "LCD",
@@ -2154,21 +2135,6 @@
         "Label": "Tarjeta de Video MSI Ventus RTX 4060 Ti 3X 8GB"
       },
       {
-        "Price": 260.00,
-        "Features": [
-          "2xFan",
-          "300WR",
-          "192mm",
-          "NVIDIA",
-          "GPU",
-          "Gráfica",
-          "DLSS"
-        ],
-        "Date": "2024-03-13T15:17:57.48504-04:00",
-        "Update": "2024-03-15T15:01:58.270555-04:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 3050 Eagle OC 6GB"
-      },
-      {
         "Price": 440.00,
         "Features": [
           "3xFan",
@@ -2577,18 +2543,6 @@
         "Date": "2024-01-16T04:52:23.8101464-05:00",
         "Update": "2024-02-28T07:53:53.6419818-05:00",
         "Label": "SSD M.2 Acer Predator GM3500 1TB"
-      },
-      {
-        "Price": 50.00,
-        "Features": [
-          "2200mbs",
-          "110TBW",
-          "NVMe",
-          "PCIe 3"
-        ],
-        "Date": "2024-02-01T21:14:27.8314934-05:00",
-        "Update": "2024-02-28T07:53:53.6636979-05:00",
-        "Label": "SSD M.2 MSI SPatium M371 500GB"
       },
       {
         "Price": 135.00,
