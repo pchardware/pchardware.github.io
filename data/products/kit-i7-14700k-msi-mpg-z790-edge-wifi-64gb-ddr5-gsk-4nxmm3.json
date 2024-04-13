@@ -1,0 +1,30 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Entusiasta",
+  "Images": [
+    "/images/products/kit-i7-14700k-msi-mpg-z790-edge-wifi-64gb-ddr5-gsk-4nxmm3-1.webp",
+    "/images/products/kit-i7-14700k-msi-mpg-z790-edge-wifi-64gb-ddr5-gsk-4nxmm3-2.webp",
+    "/images/products/kit-i7-14700k-msi-mpg-z790-edge-wifi-64gb-ddr5-gsk-4nxmm3-3.webp",
+    "/images/products/kit-i7-14700k-msi-mpg-z790-edge-wifi-64gb-ddr5-gsk-4nxmm3-4.webp",
+    "/images/products/kit-i7-14700k-msi-mpg-z790-edge-wifi-64gb-ddr5-gsk-4nxmm3-5.webp",
+    "/images/products/kit-i7-14700k-msi-mpg-z790-edge-wifi-64gb-ddr5-gsk-4nxmm3-6.webp",
+    "/images/products/kit-i7-14700k-msi-mpg-z790-edge-wifi-64gb-ddr5-gsk-4nxmm3-7.webp"
+  ],
+  "Description": "+ Micro Intel Core i7-14700K\n+ Board MSI MPG Z790 EDGE Wifi\n+ RAM DDR5 G.Skill Trident Z5 RGB 64GB 6000mhz\n",
+  "Price": 1065.00,
+  "Features": [
+    "14-Gen",
+    "20 Core",
+    "28 Hilos",
+    "5.6Ghz",
+    "2x32GB",
+    "6000mhz",
+    "Wifi",
+    "8xUSB",
+    "7xSATA"
+  ],
+  "Date": "2024-04-13T04:14:40.5700212-04:00",
+  "Update": "2024-04-13T07:00:21.36106-04:00",
+  "Discount": 15.0,
+  "Label": "Kit i7-14700K +MSI MPG Z790 EDGE Wifi + 64GB DDR5 G.Skill Trident Z5 RGB 6000mhz"
+}
