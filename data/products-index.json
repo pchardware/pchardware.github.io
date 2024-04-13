@@ -1250,23 +1250,6 @@
         "Label": "Micro AMD Ryzen 9 7900X"
       },
       {
-        "Price": 340.00,
-        "Features": [
-          "14va Gen",
-          "14 Core",
-          "20 Hilos",
-          "5.3Ghz",
-          "24MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-11-30T11:21:40.9533793-05:00",
-        "Update": "2024-01-01T19:09:01.2649941-05:00",
-        "Label": "Micro Intel Core i5-14600K"
-      },
-      {
         "Price": 350.00,
         "Features": [
           "12va Gen",
@@ -1298,22 +1281,6 @@
         "Date": "2023-05-11T07:28:15.7616729-04:00",
         "Update": "2024-01-18T07:19:39.8761049-05:00",
         "Label": "Micro Intel Core i3-12100 +Disipador"
-      },
-      {
-        "Price": 435.00,
-        "Features": [
-          "14va Gen",
-          "28 Hilos",
-          "5.6Ghz",
-          "33mb L3",
-          "253W",
-          "LGA 1700",
-          "DDR4-DDR5",
-          "CPU"
-        ],
-        "Date": "2023-10-23T12:31:42.2126394-04:00",
-        "Update": "2024-01-23T14:30:19.6067624-05:00",
-        "Label": "Micro Intel Core i7-14700K"
       },
       {
         "Price": 175.00,
@@ -1383,22 +1350,6 @@
         "Label": "Micro Intel Core i5-12600KF"
       },
       {
-        "Price": 665.00,
-        "Features": [
-          "14va Gen",
-          "32 Hilos",
-          "6Ghz",
-          "36mb L3",
-          "253W",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-10-23T12:31:45.6342687-04:00",
-        "Update": "2024-04-10T12:10:24.1223716-04:00",
-        "Label": "Micro Intel Core i9-14900K"
-      },
-      {
         "Price": 140.00,
         "Features": [
           "14va Gen",
@@ -1429,6 +1380,57 @@
         "Date": "2024-02-01T21:14:34.2946119-05:00",
         "Update": "2024-04-12T10:08:02.5919788-04:00",
         "Label": "Micro Intel Core i3-14100 +Disipador"
+      },
+      {
+        "Price": 340.00,
+        "Features": [
+          "14-Gen",
+          "14 Core",
+          "20 Hilos",
+          "5.3Ghz",
+          "24MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-11-30T11:21:40.9533793-05:00",
+        "Update": "2024-04-13T06:18:01.9834949-04:00",
+        "Label": "Micro Intel Core i5-14600K"
+      },
+      {
+        "Price": 435.00,
+        "Features": [
+          "14-Gen",
+          "20 Core",
+          "28 Hilos",
+          "5.6Ghz",
+          "33mb L3",
+          "253W",
+          "LGA 1700",
+          "DDR4-DDR5",
+          "CPU"
+        ],
+        "Date": "2023-10-23T12:31:42.2126394-04:00",
+        "Update": "2024-04-13T06:18:02.0000173-04:00",
+        "Label": "Micro Intel Core i7-14700K"
+      },
+      {
+        "Price": 665.00,
+        "Features": [
+          "14va Gen",
+          "24 Core",
+          "32 Hilos",
+          "6Ghz",
+          "36mb L3",
+          "253W",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-10-23T12:31:45.6342687-04:00",
+        "Update": "2024-04-13T06:18:02.0159356-04:00",
+        "Label": "Micro Intel Core i9-14900K"
       }
     ],
     "Memoria RAM": [
