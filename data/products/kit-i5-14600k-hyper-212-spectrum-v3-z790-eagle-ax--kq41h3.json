@@ -1,0 +1,31 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-i5-14600k-hyper-212-spectrum-v3-z790-eagle-ax--kq41h3-1.webp",
+    "/images/products/kit-i5-14600k-hyper-212-spectrum-v3-z790-eagle-ax--kq41h3-2.webp",
+    "/images/products/kit-i5-14600k-hyper-212-spectrum-v3-z790-eagle-ax--kq41h3-3.webp",
+    "/images/products/kit-i5-14600k-hyper-212-spectrum-v3-z790-eagle-ax--kq41h3-4.webp",
+    "/images/products/kit-i5-14600k-hyper-212-spectrum-v3-z790-eagle-ax--kq41h3-5.webp",
+    "/images/products/kit-i5-14600k-hyper-212-spectrum-v3-z790-eagle-ax--kq41h3-6.webp",
+    "/images/products/kit-i5-14600k-hyper-212-spectrum-v3-z790-eagle-ax--kq41h3-7.webp",
+    "/images/products/kit-i5-14600k-hyper-212-spectrum-v3-z790-eagle-ax--kq41h3-8.webp",
+    "/images/products/kit-i5-14600k-hyper-212-spectrum-v3-z790-eagle-ax--kq41h3-9.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-14600K\n+ Disipador Cooler Master Hyper 212 Spectrum V3\n+ Board Gigabyte Z790 Eagle AX\n+ RAM DDR5 Corsair Vengeance 32GB 6000mhz\n",
+  "Price": 740.00,
+  "Features": [
+    "14-Gen",
+    "20 Core",
+    "28 Hilos",
+    "5.6Ghz",
+    "Wifi",
+    "Bluetooth",
+    "7xUSB",
+    "4xSATA"
+  ],
+  "Date": "2024-04-13T04:18:24.2818635-04:00",
+  "Update": "2024-04-13T07:00:21.5985975-04:00",
+  "Discount": 15.0,
+  "Label": "Kit i5-14600K +Hyper 212 Spectrum V3 +Z790 Eagle AX +32GB DDR5 Corsair Vengeance"
+}
