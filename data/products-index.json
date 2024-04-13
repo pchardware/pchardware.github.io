@@ -19,6 +19,16 @@
         "Discount": 15.0,
         "Label": "Torre RX 6600 3X 8GB +Ryzen 5 5600X +X570S Gaming X +16GB DDR4 +500GB M.2 +750M"
       }
+    ],
+    "Multimedia": [
+      {
+        "Price": 885.00,
+        "Features": [],
+        "Date": "2024-04-13T08:22:39.121408-04:00",
+        "Update": "2024-04-13T08:25:43.5889217-04:00",
+        "Discount": 10.0,
+        "Label": "Torre i3-12100 +Z690-Plus Wifi +32GB DDR5 +500GB M.2 +EVGA 850W +Chasis Cougar"
+      }
     ]
   },
   "Kits": {
