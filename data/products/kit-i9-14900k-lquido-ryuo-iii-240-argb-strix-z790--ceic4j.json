@@ -1,0 +1,29 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Entusiasta",
+  "Images": [
+    "/images/products/kit-i9-14900k-lquido-ryuo-iii-240-argb-strix-z790--ceic4j-1.webp",
+    "/images/products/kit-i9-14900k-lquido-ryuo-iii-240-argb-strix-z790--ceic4j-2.webp",
+    "/images/products/kit-i9-14900k-lquido-ryuo-iii-240-argb-strix-z790--ceic4j-3.webp",
+    "/images/products/kit-i9-14900k-lquido-ryuo-iii-240-argb-strix-z790--ceic4j-4.webp",
+    "/images/products/kit-i9-14900k-lquido-ryuo-iii-240-argb-strix-z790--ceic4j-5.webp"
+  ],
+  "Description": "+ Micro Intel Core i9-14900K\n+ Disipador Líquido ASUS ROG RYUO III 240 ARGB\n+ Board Asus ROG Strix Z790-F Gaming Wifi\n+ RAM DDR5 G.Skill Trident Z5 RGB 64GB 6400mhz\n",
+  "Price": 1575.00,
+  "Features": [
+    "14Gen",
+    "24 Core",
+    "32 Hilos",
+    "6Ghz",
+    "2x32GB",
+    "6400mhz",
+    "Wifi",
+    "Bluetooth",
+    "10xUSB",
+    "4xSATA"
+  ],
+  "Date": "2024-04-13T04:13:52.914243-04:00",
+  "Update": "2024-04-13T07:00:21.2930862-04:00",
+  "Discount": 10.0,
+  "Label": "Kit i9-14900K +Líquido RYUO III 240 ARGB +Strix Z790-F Gaming +64GB DDR5 RGB"
+}
