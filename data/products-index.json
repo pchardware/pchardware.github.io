@@ -557,13 +557,6 @@
         "Label": "Expansión Orico 7xUSB 3.0"
       },
       {
-        "Price": 53.00,
-        "Features": [],
-        "Date": "2023-11-24T09:48:43.307434-05:00",
-        "Update": "2023-12-05T17:03:39.2952945-05:00",
-        "Label": "HUB EN-Labs Panel Frontal 5.25\" 7xUSB3"
-      },
-      {
         "Price": 40.00,
         "Features": [],
         "Date": "2023-11-24T09:48:48.2432153-05:00",
@@ -704,6 +697,13 @@
         "Date": "2023-09-02T12:38:35.3292969-04:00",
         "Update": "2024-04-10T12:10:23.8726893-04:00",
         "Label": "Fan Corsair AR120 RGB, Kit"
+      },
+      {
+        "Price": 53.00,
+        "Features": [],
+        "Date": "2023-11-24T09:48:43.307434-05:00",
+        "Update": "2024-04-13T20:24:22.2441269-04:00",
+        "Label": "HUB EN-Labs Panel Frontal 5.25\" 7xUSB3"
       }
     ],
     "Fuente": [
