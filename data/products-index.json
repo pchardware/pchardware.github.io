@@ -1,31 +1,5 @@
 {
   "Torres": {
-    "Gamer": [
-      {
-        "Price": 1480.00,
-        "Features": [],
-        "Date": "2024-04-13T07:04:03.3708879-04:00",
-        "Update": "2024-04-13T07:09:04.2384929-04:00",
-        "Discount": 20.0,
-        "Label": "Torre RTX 4060 OC 8GB +i5-12600K +TUF Z690-Plus +32GB DDR5 RGB +500GB M.2 +850W"
-      },
-      {
-        "Price": 1145.00,
-        "Features": [],
-        "Date": "2024-04-13T16:34:23.3155579-04:00",
-        "Update": "2024-04-14T10:19:27.9602542-04:00",
-        "Discount": 15.0,
-        "Label": "Torre RTX 3050 OC 6GB +i3-14100F +Z790 Eagle AX +32GB DDR5 + 500GB M.2 +850W"
-      },
-      {
-        "Price": 1445.00,
-        "Features": [],
-        "Date": "2024-04-14T10:24:42.6082746-04:00",
-        "Update": "2024-04-14T10:37:19.1754456-04:00",
-        "Discount": 15.0,
-        "Label": "Torre RTX 4060 Gaming OC 8GB +i5-12600KF +Z790 Eagle AX +32GB DDR5 +850W 🚀💪"
-      }
-    ],
     "Pro": [
       {
         "Price": 1155.00,
@@ -44,14 +18,22 @@
         "Label": "Torre i9-14900K +Líquido +Z790-F Gaming Wifi +64GB DDR5 +1TB M.2 +2TB HDD +850W"
       }
     ],
-    "Multimedia": [
+    "Gamer": [
       {
-        "Price": 885.00,
+        "Price": 1145.00,
         "Features": [],
-        "Date": "2024-04-13T08:22:39.121408-04:00",
-        "Update": "2024-04-13T08:25:43.5889217-04:00",
-        "Discount": 10.0,
-        "Label": "Torre i3-12100 +Z690-Plus Wifi +32GB DDR5 +500GB M.2 +EVGA 850W +Chasis Cougar"
+        "Date": "2024-04-13T16:34:23.3155579-04:00",
+        "Update": "2024-04-14T10:19:27.9602542-04:00",
+        "Discount": 15.0,
+        "Label": "Torre RTX 3050 OC 6GB +i3-14100F +Z790 Eagle AX +32GB DDR5 + 500GB M.2 +850W"
+      },
+      {
+        "Price": 1445.00,
+        "Features": [],
+        "Date": "2024-04-14T10:24:42.6082746-04:00",
+        "Update": "2024-04-14T10:37:19.1754456-04:00",
+        "Discount": 15.0,
+        "Label": "Torre RTX 4060 Gaming OC 8GB +i5-12600KF +Z790 Eagle AX +32GB DDR5 +850W 🚀💪"
       }
     ]
   },
@@ -120,55 +102,6 @@
         "Label": "Kit AMD Ryzen 5 5600X +Gigabyte X570S Gaming X +32GB DDR4 Corsair Vengeance LPX"
       },
       {
-        "Price": 425.00,
-        "Features": [
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "DDR5",
-          "6000mhz",
-          "6xAudio",
-          "6xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-04-11T11:12:47.3049779-04:00",
-        "Update": "2024-04-11T11:53:18.1297629-04:00",
-        "Label": "Kit i5-12600KF +Asus TUF Z690-Plus Wifi"
-      },
-      {
-        "Price": 600.00,
-        "Features": [
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "2x16GB",
-          "DDR5",
-          "6xAudio",
-          "6xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-04-11T11:13:26.4133476-04:00",
-        "Update": "2024-04-11T11:53:18.1507441-04:00",
-        "Discount": 5.0,
-        "Label": "Kit i5-12600KF +Asus TUF Z690-Plus Wifi +32GB DDR5 Corsair Vengeance 6000mhz"
-      },
-      {
-        "Price": 470.00,
-        "Features": [
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "DDR5",
-          "6000mhz",
-          "6xAudio",
-          "6xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-04-11T11:14:37.2413337-04:00",
-        "Update": "2024-04-11T11:53:18.1701607-04:00",
-        "Label": "Kit Intel Core i5-12600K +Asus TUF Z690-Plus Wifi"
-      },
-      {
         "Price": 475.00,
         "Features": [
           "16 Hilos",
@@ -199,14 +132,6 @@
         "Date": "2024-04-11T11:15:34.6893058-04:00",
         "Update": "2024-04-11T11:53:18.2498667-04:00",
         "Label": "Kit i7-12700K +Asus ROG Strix Z690-E Gaming Wifi"
-      },
-      {
-        "Price": 640.00,
-        "Features": [],
-        "Date": "2023-09-13T13:15:22.925563-04:00",
-        "Update": "2024-04-13T04:12:28.3032835-04:00",
-        "Discount": 5.0,
-        "Label": "Kit i7-12700K + Asus TUF Z690-Plus Wifi + DDR5 G.Skill Trident Z5 RGB 32GB 6000mhz"
       },
       {
         "Price": 830.00,
@@ -324,41 +249,6 @@
         "Update": "2024-04-13T07:20:43.699085-04:00",
         "Discount": 5.0,
         "Label": "Kit i9-12900K + MSI MEG Z690 ACE Potencia y estilo en un solo combo 🔥💻"
-      }
-    ],
-    "Moderado": [
-      {
-        "Price": 370.00,
-        "Features": [
-          "8 Hilos",
-          "4 Core",
-          "4.3GHz",
-          "DDR5",
-          "6000mhz",
-          "6xAudio",
-          "6xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-04-11T11:11:38.7713499-04:00",
-        "Update": "2024-04-11T11:53:18.0945609-04:00",
-        "Label": "Kit i3-12100 +Asus TUF Z690-Plus Wifi"
-      },
-      {
-        "Price": 475.00,
-        "Features": [
-          "8 Hilos",
-          "4 Core",
-          "4.3GHz",
-          "2x8GB",
-          "DDR5",
-          "6xAudio",
-          "6xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-04-11T11:12:14.3056307-04:00",
-        "Update": "2024-04-11T11:53:18.1124073-04:00",
-        "Discount": 5.0,
-        "Label": "Kit i3-12100 +Asus TUF Z690-Plus Wifi +32GB DDR5 Patriot Viper Venom 6200mhz"
       }
     ],
     "Entusiasta": [
@@ -2488,22 +2378,6 @@
         "Label": "Tarjeta de Video MSI RTX 3050 Ventus 2X OC 6GB"
       },
       {
-        "Price": 615.00,
-        "Features": [
-          "3xFan",
-          "2x8Pin",
-          "700WR",
-          "302mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-01-30T08:59:15.7603943-05:00",
-        "Update": "2024-04-14T11:03:41.4559434-04:00",
-        "Label": "Tarjeta de Video Gigabyte RX 7800 XT Gaming OC 16GB"
-      },
-      {
         "Price": 795.00,
         "Features": [
           "DLSS3",
@@ -2989,25 +2863,6 @@
         "Date": "2023-10-16T10:24:22.1843395-04:00",
         "Update": "2024-04-10T12:12:08.2867018-04:00",
         "Label": "Board MSI Z790 Gaming Pro Wifi"
-      },
-      {
-        "Price": 230.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "DDR5",
-          "6000mhz",
-          "6xAudio",
-          "6xUSB",
-          "4xSATA",
-          "LGA1700",
-          "HDMI",
-          "DisplayPort",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-05-11T07:56:36.6020035-04:00",
-        "Update": "2024-04-10T12:12:08.3146613-04:00",
-        "Label": "Board Asus TUF Z690-Plus Wifi"
       },
       {
         "Price": 415.00,
