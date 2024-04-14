@@ -1244,20 +1244,6 @@
         "Label": "HDD 3.5 Seagate Constellation 2TB SAS"
       },
       {
-        "Price": 195.00,
-        "Features": [
-          "Ultrastar DC",
-          "Enterprise",
-          "512mb",
-          "7200rpm",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2023-05-11T14:19:01.4001144-04:00",
-        "Update": "2024-03-10T04:03:05.8818356-04:00",
-        "Label": "HDD 3.5 WD 14TB HC530"
-      },
-      {
         "Price": 70.00,
         "Features": [
           "64mb",
@@ -3423,16 +3409,6 @@
         "Date": "2023-11-27T09:55:23.0763877-05:00",
         "Update": "2023-11-27T11:57:06.2682569-05:00",
         "Label": "Webcam Microsoft LifeCam Studio"
-      },
-      {
-        "Price": 77.00,
-        "Features": [
-          "1080p",
-          "30fps"
-        ],
-        "Date": "2023-12-04T16:20:49.8992277-05:00",
-        "Update": "2023-12-05T16:42:29.8730991-05:00",
-        "Label": "Webcam Logitech Brio 1080p"
       },
       {
         "Price": 53.00,
