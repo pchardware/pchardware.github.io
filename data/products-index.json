@@ -2388,13 +2388,6 @@
         "Label": "Tarjeta de Video Gigabyte Aorus RX 6750 XT Elite 12GB (3xFan)"
       },
       {
-        "Price": 10.00,
-        "Features": [],
-        "Date": "2024-02-28T05:30:17.0431477-05:00",
-        "Update": "2024-04-10T12:10:24.0932376-04:00",
-        "Label": "SGPU - Rosewill Support Bracket"
-      },
-      {
         "Price": 375.00,
         "Features": [
           "DLSS3",
@@ -2543,6 +2536,13 @@
         "Date": "2024-04-11T02:49:31.2298709-04:00",
         "Update": "2024-04-14T11:03:41.5353407-04:00",
         "Label": "Tarjeta de Video Gigabyte RTX 3070 Gaming OC 8GB"
+      },
+      {
+        "Price": 10.00,
+        "Features": [],
+        "Date": "2024-02-28T05:30:17.0431477-05:00",
+        "Update": "2024-04-14T14:21:07.7919663-04:00",
+        "Label": "Soporte para Tarjetas Rosewill"
       }
     ],
     "Disco Sólido": [
