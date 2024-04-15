@@ -1,0 +1,15 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Otros",
+  "Images": [
+    "/images/products/cable-hdmi-to-dvi-d-3m-1.webp",
+    "/images/products/cable-hdmi-to-dvi-d-3m-2.webp",
+    "/images/products/cable-hdmi-to-dvi-d-3m-3.webp"
+  ],
+  "Description": "Model\nBrand: Coboc\nModel: EA-HD2DVI-10-BK\nType: HDMI to DVI\n\n\nDetails\nColor: Black\nCable Length: 10 ft.\nConnector Number: 2\nConnector Detail: HDMI A Male to DVI-D (24+1) Male\nTerminal Gender: Male to Male\n\n\nStandards\nShielding: Triple-shielded\n\n\nFeatures\nSpecifications: Connector finish: Gold Plated\nConductor: Tinned Copper\nGauge: 30 AWG\nFerrite Cores: Two\nOD: 5.5mm\nFeatures: HDMI is backward-compatible with DVI, so the  HDMI to DVI-D Cable allows you to connect a DVI-D source to a display that incorporates HDMI technology.\n\n1. Supports DVI standard, enhanced, or high-definition video at 24 bits/pixel, 165MHz max clock frequency.\n\n2. Supports resolution up to 1080P, UXGA.\n\n3. Fully HDCP compliant to provide highest level of signal quality.\n\n4. TRIPLE shielding, plus ferrite cores for maximum video performance and prevents signal loss & screen ghosting.\n\nNote: HDMI-DVI Combo Cables do NOT support audio.",
+  "Price": 16.00,
+  "Features": [],
+  "Date": "2024-04-11T02:50:06.3654244-04:00",
+  "Update": "2024-04-15T05:20:18.8886484-04:00",
+  "Label": "Cable HDMI to DVI-D 3m"
+}
