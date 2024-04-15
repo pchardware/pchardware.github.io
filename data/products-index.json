@@ -2539,18 +2539,6 @@
         "Label": "SSD M.2 MSI Spatium M450 2TB"
       },
       {
-        "Price": 130.00,
-        "Features": [
-          "7000mbs",
-          "600tbw",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-07-12T21:43:06.2525927-04:00",
-        "Update": "2024-02-28T05:32:17.4197192-05:00",
-        "Label": "SSD M.2 Samsung 980 PRO 1TB"
-      },
-      {
         "Price": 160.00,
         "Features": [
           "7000mbs",
