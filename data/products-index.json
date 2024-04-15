@@ -2016,23 +2016,6 @@
         "Label": "Tarjeta de Video XFX Swift 319 RX 6800 16GB"
       },
       {
-        "Price": 385.00,
-        "Features": [
-          "DLSS3",
-          "2xFan",
-          "1x8Pin",
-          "450WR",
-          "272mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-11-18T08:41:47.9392507-05:00",
-        "Update": "2023-12-28T22:16:19.7412336-05:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4060 Eagle OC 8GB"
-      },
-      {
         "Price": 390.00,
         "Features": [
           "DLSS3",
@@ -2417,6 +2400,23 @@
         "Date": "2024-02-28T05:30:17.0431477-05:00",
         "Update": "2024-04-14T14:21:07.7919663-04:00",
         "Label": "Soporte para Tarjetas Rosewill"
+      },
+      {
+        "Price": 385.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "1x8Pin",
+          "450WR",
+          "272mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-11-18T08:41:47.9392507-05:00",
+        "Update": "2024-04-15T18:13:08.2318775-04:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4060 Eagle OC 8GB"
       }
     ],
     "Disco Sólido": [
