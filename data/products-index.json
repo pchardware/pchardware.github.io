@@ -2200,23 +2200,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4060 WindForce OC 8GB"
       },
       {
-        "Price": 735.00,
-        "Features": [
-          "DLSS3",
-          "3xfan",
-          "1x16Pin",
-          "650WR",
-          "261mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-03-07T08:37:32.0156992-05:00",
-        "Update": "2024-03-07T09:30:26.0790201-05:00",
-        "Label": "Tarjeta de Video Gigabyte WindForce RTX 4070 Super OC 12GB"
-      },
-      {
         "Price": 515.00,
         "Features": [
           "DLSS3",
@@ -3285,18 +3268,6 @@
         "Date": "2023-12-12T03:35:09.5904673-05:00",
         "Update": "2023-12-12T04:01:09.672667-05:00",
         "Label": "WebCam Logitech C270h"
-      },
-      {
-        "Price": 43.00,
-        "Features": [
-          "FHD",
-          "30FPS",
-          "Micrófono",
-          "USB"
-        ],
-        "Date": "2024-02-16T14:41:39.0644608-05:00",
-        "Update": "2024-02-17T13:31:46.7857501-05:00",
-        "Label": "Webcam TechZone 1080p"
       }
     ],
     "Mouse": [
