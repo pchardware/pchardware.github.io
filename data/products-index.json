@@ -1909,18 +1909,6 @@
     ],
     "Red": [
       {
-        "Price": 20.00,
-        "Features": [
-          "PCIe x1",
-          "300Mbps",
-          "2.4GHz"
-        ],
-        "Date": "2023-06-07T15:04:18.9988293-04:00",
-        "Update": "2023-12-07T01:35:03.2489207-05:00",
-        "Def": true,
-        "Label": "Tarjeta de Red Wifi TP-Link Wifi Adapter 300N"
-      },
-      {
         "Price": 43.00,
         "Features": [
           "1200Mbps",
