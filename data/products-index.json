@@ -9,6 +9,16 @@
         "Discount": 25.0,
         "Label": "PC i9-14900K +Strix Z790-F Gaming Wifi +64GB DDR5 +1TB M.2 +2TB HDD +850W +27\""
       }
+    ],
+    "Multimedia": [
+      {
+        "Price": 1230.00,
+        "Features": [],
+        "Date": "2024-04-19T10:44:53.9141234-04:00",
+        "Update": "2024-04-19T11:13:04.1567556-04:00",
+        "Discount": 10.0,
+        "Label": "PC i3-14100 +Z790 Eagle AX +32GB DDR5 AORUS +500GB M.2 +850W +Monitor MSI 24\""
+      }
     ]
   },
   "Torres": {
