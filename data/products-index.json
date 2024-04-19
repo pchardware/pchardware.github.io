@@ -1,16 +1,4 @@
 {
-  "Computadoras": {
-    "Gamer": [
-      {
-        "Price": 1995.00,
-        "Features": [],
-        "Date": "2024-04-19T08:57:03.8524064-04:00",
-        "Update": "2024-04-19T09:01:01.1335757-04:00",
-        "Discount": 40.0,
-        "Label": "PC RTX 4060 OC 8GB +i7-12700K +Strix Z690-E Gaming +32GB DDR5 +500GB M.2 +27\""
-      }
-    ]
-  },
   "Torres": {
     "Pro": [
       {
