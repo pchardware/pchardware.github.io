@@ -1,4 +1,16 @@
 {
+  "Computadoras": {
+    "Gamer": [
+      {
+        "Price": 2545.00,
+        "Features": [],
+        "Date": "2024-04-19T09:30:33.0428038-04:00",
+        "Update": "2024-04-19T09:34:37.7001443-04:00",
+        "Discount": 25.0,
+        "Label": "PC i9-14900K +Strix Z790-F Gaming Wifi +64GB DDR5 +1TB M.2 +2TB HDD +850W +27\""
+      }
+    ]
+  },
   "Torres": {
     "Pro": [
       {
