@@ -28,7 +28,7 @@
         "Label": "Torre RTX 3050 OC 6GB +i3-14100F +Z790 Eagle AX +32GB DDR5 + 500GB M.2 +850W"
       },
       {
-        "Price": 1445.00,
+        "Price": 1440.00,
         "Features": [],
         "Date": "2024-04-14T10:24:42.6082746-04:00",
         "Update": "2024-04-14T10:37:19.1754456-04:00",
@@ -1966,7 +1966,7 @@
     ],
     "Tarjeta Gráfica": [
       {
-        "Price": 485.00,
+        "Price": 480.00,
         "Features": [
           "3xFan",
           "2x8Pin",
@@ -1982,7 +1982,7 @@
         "Label": "Tarjeta de Video XFX Swift 319 RX 6800 16GB"
       },
       {
-        "Price": 390.00,
+        "Price": 385.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -1999,7 +1999,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Gaming OC 8GB"
       },
       {
-        "Price": 455.00,
+        "Price": 450.00,
         "Features": [
           "Liquida",
           "2x8Pin",
@@ -2016,7 +2016,7 @@
         "Label": "Tarjeta de Video EVGA RTX 3080Ti XC3 Hydro Copper 12GB"
       },
       {
-        "Price": 335.00,
+        "Price": 330.00,
         "Features": [
           "3xFan",
           "2x8Pin",
@@ -2033,7 +2033,7 @@
         "Label": "Tarjeta de Video XFX Swft 309 RX 6700 10GB"
       },
       {
-        "Price": 380.00,
+        "Price": 375.00,
         "Features": [
           "DLSS3",
           "2xFan",
@@ -2050,7 +2050,7 @@
         "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X White OC 8GB"
       },
       {
-        "Price": 330.00,
+        "Price": 325.00,
         "Features": [
           "3xFan",
           "1x8Pin",
@@ -2066,7 +2066,7 @@
         "Label": "Tarjeta de Video Gigabyte RX 7600 8GB"
       },
       {
-        "Price": 355.00,
+        "Price": 350.00,
         "Features": [
           "3xFan",
           "1x8Pin",
@@ -2082,7 +2082,7 @@
         "Label": "Tarjeta de Video MSI Ventus 3x RTX 3060 12GB"
       },
       {
-        "Price": 595.00,
+        "Price": 590.00,
         "Features": [
           "2xFan",
           "700WR",
@@ -2097,7 +2097,7 @@
         "Label": "Tarjeta de Video Saphire RX 7800 XT 16GB"
       },
       {
-        "Price": 640.00,
+        "Price": 635.00,
         "Features": [
           "3xFan",
           "2x8pin",
@@ -2145,7 +2145,7 @@
         "Label": "Tarjeta de Video MSI Gaming X RTX 3050 8GB"
       },
       {
-        "Price": 320.00,
+        "Price": 315.00,
         "Features": [
           "3xFan",
           "1x8Pin",
@@ -2161,7 +2161,7 @@
         "Label": "Tarjeta de Video XFX Qick 308 RX 7600 8GB"
       },
       {
-        "Price": 375.00,
+        "Price": 370.00,
         "Features": [
           "DLSS3",
           "2xfan",
@@ -2177,7 +2177,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4060 WindForce OC 8GB"
       },
       {
-        "Price": 515.00,
+        "Price": 510.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2194,7 +2194,7 @@
         "Label": "Tarjeta de Video MSI Ventus RTX 4060 Ti 3X 8GB"
       },
       {
-        "Price": 435.00,
+        "Price": 425.00,
         "Features": [
           "3xFan",
           "1x8Pin+6Pin",
@@ -2210,7 +2210,7 @@
         "Label": "Tarjeta de Video Gigabyte Aorus RX 6750 XT Elite 12GB (3xFan)"
       },
       {
-        "Price": 375.00,
+        "Price": 370.00,
         "Features": [
           "DLSS3",
           "2xfan",
@@ -2226,7 +2226,7 @@
         "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X Black OC 8GB"
       },
       {
-        "Price": 865.00,
+        "Price": 840.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2243,7 +2243,7 @@
         "Label": "Tarjeta de Video Gigabyte Aorus RTX 4070 Super Master 12GB"
       },
       {
-        "Price": 675.00,
+        "Price": 650.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2260,7 +2260,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Gaming OC V2 12GB"
       },
       {
-        "Price": 1015.00,
+        "Price": 990.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2277,7 +2277,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Super Gaming OC 16GB"
       },
       {
-        "Price": 885.00,
+        "Price": 850.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2310,7 +2310,7 @@
         "Label": "Tarjeta de Video MSI RTX 3050 Ventus 2X OC 6GB"
       },
       {
-        "Price": 795.00,
+        "Price": 775.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2327,7 +2327,7 @@
         "Label": "Tarjeta de Video Asus TUF Gaming RTX 4070 SUPER OC 12GB"
       },
       {
-        "Price": 470.00,
+        "Price": 465.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2351,7 +2351,7 @@
         "Label": "Soporte para Tarjetas Rosewill"
       },
       {
-        "Price": 385.00,
+        "Price": 380.00,
         "Features": [
           "DLSS3",
           "3xFan",
