@@ -73,6 +73,16 @@
         "Discount": 15.0,
         "Label": "Torre RTX 4060 Gaming OC 8GB +i5-12600KF +Z790 Eagle AX +32GB DDR5 +850W 🚀💪"
       }
+    ],
+    "Multimedia": [
+      {
+        "Price": 890.00,
+        "Features": [],
+        "Date": "2024-04-13T08:22:39.121408-04:00",
+        "Update": "2024-04-20T12:09:03.9957958-04:00",
+        "Discount": 10.0,
+        "Label": "Torre i3-12100 +Z690-Plus Wifi +32GB DDR5 +500GB M.2 +EVGA 850W +Chasis Cougar"
+      }
     ]
   },
   "Kits": {
@@ -287,6 +297,69 @@
         "Update": "2024-04-13T07:20:43.699085-04:00",
         "Discount": 5.0,
         "Label": "Kit i9-12900K + MSI MEG Z690 ACE Potencia y estilo en un solo combo 🔥💻"
+      },
+      {
+        "Price": 795.00,
+        "Features": [
+          "24 Hilos",
+          "16 Core",
+          "5.4GHz",
+          "8xUSB",
+          "7xSATA",
+          "6xAudio"
+        ],
+        "Date": "2024-03-16T11:15:37.0936472-04:00",
+        "Update": "2024-04-20T12:09:03.8810322-04:00",
+        "Label": "Kit i7-13700K +MSI MPG Z790 EDGE Wifi"
+      },
+      {
+        "Price": 430.00,
+        "Features": [
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "DDR5",
+          "6000mhz",
+          "6xAudio",
+          "6xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-04-11T11:12:47.3049779-04:00",
+        "Update": "2024-04-20T12:09:03.9467089-04:00",
+        "Label": "Kit i5-12600KF +Asus TUF Z690-Plus Wifi"
+      },
+      {
+        "Price": 605.00,
+        "Features": [
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "2x16GB",
+          "DDR5",
+          "6xAudio",
+          "6xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-04-11T11:13:26.4133476-04:00",
+        "Update": "2024-04-20T12:09:03.9630365-04:00",
+        "Discount": 5.0,
+        "Label": "Kit i5-12600KF +Asus TUF Z690-Plus Wifi +32GB DDR5 Corsair Vengeance 6000mhz"
+      },
+      {
+        "Price": 475.00,
+        "Features": [
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "DDR5",
+          "6000mhz",
+          "6xAudio",
+          "6xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-04-11T11:14:37.2413337-04:00",
+        "Update": "2024-04-20T12:09:03.9794068-04:00",
+        "Label": "Kit Intel Core i5-12600K +Asus TUF Z690-Plus Wifi"
       }
     ],
     "Entusiasta": [
@@ -379,6 +452,58 @@
         "Update": "2024-04-13T07:00:21.4170547-04:00",
         "Discount": 20.0,
         "Label": "Kit i7-14700K +Liquida 240 ARGB +MPG Z790 EDGE +64GB DDR5 G.Skill Trident Z5 RGB"
+      },
+      {
+        "Price": 945.00,
+        "Features": [
+          "24 Hilos",
+          "16 Core",
+          "5.4GHz",
+          "2x16",
+          "CL32",
+          "Disipadas",
+          "8xUSB",
+          "7xSATA",
+          "6xAudio"
+        ],
+        "Date": "2024-03-17T07:52:13.753635-04:00",
+        "Update": "2024-04-20T12:09:03.8982005-04:00",
+        "Label": "Kit i7-13700K +MSI MPG Z790 EDGE Wifi +32GB DDR5 Trident Z5 NEO RGB 6400mhz"
+      }
+    ],
+    "Moderado": [
+      {
+        "Price": 375.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "DDR5",
+          "6000mhz",
+          "6xAudio",
+          "6xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-04-11T11:11:38.7713499-04:00",
+        "Update": "2024-04-20T12:09:03.9147131-04:00",
+        "Label": "Kit i3-12100 +Asus TUF Z690-Plus Wifi"
+      },
+      {
+        "Price": 480.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "2x8GB",
+          "DDR5",
+          "6xAudio",
+          "6xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-04-11T11:12:14.3056307-04:00",
+        "Update": "2024-04-20T12:09:03.9305408-04:00",
+        "Discount": 5.0,
+        "Label": "Kit i3-12100 +Asus TUF Z690-Plus Wifi +32GB DDR5 Patriot Viper Venom 6200mhz"
       }
     ]
   },
@@ -955,6 +1080,52 @@
         "Date": "2024-04-11T02:49:01.5018153-04:00",
         "Update": "2024-04-11T08:10:38.3956159-04:00",
         "Label": "Fuente MSI MAG A850GL 850W"
+      },
+      {
+        "Price": 110.00,
+        "Features": [
+          "54A",
+          "2x 6+2 Pin",
+          "6x SATA",
+          "1x 4+4 EPS",
+          "140mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-06-29T07:39:33.0518165-04:00",
+        "Update": "2024-04-20T12:09:03.7605486-04:00",
+        "Label": "Fuente Thermaltake Smart 700W 80+"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "ATX 3.0",
+          "2x 4+4 EPS",
+          "71A",
+          "3x 6+2Pin",
+          "5x SATA",
+          "PSU"
+        ],
+        "Date": "2023-05-11T14:26:27.9739641-04:00",
+        "Update": "2024-04-20T12:09:03.829248-04:00",
+        "Label": "Fuente Asus TUF 850W"
+      },
+      {
+        "Price": 130.00,
+        "Features": [
+          "59A",
+          "2x 6+2Pin",
+          "9x SATA",
+          "1x 4+4 EPS",
+          "140mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-08-16T09:16:30.0204629-04:00",
+        "Update": "2024-04-20T12:09:03.8453396-04:00",
+        "Label": "Fuente EVGA 750W"
       }
     ],
     "Disipador Líquido": [
@@ -1610,6 +1781,41 @@
         "Date": "2023-10-23T12:31:45.6342687-04:00",
         "Update": "2024-04-13T06:18:02.0159356-04:00",
         "Label": "Micro Intel Core i9-14900K"
+      },
+      {
+        "Price": 390.00,
+        "Features": [
+          "13ra Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.4GHz",
+          "30MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-03-22T09:04:14.8362359-04:00",
+        "Update": "2024-04-20T12:09:03.7768175-04:00",
+        "Label": "Micro Intel Core i7-13700K"
+      },
+      {
+        "Price": 170.00,
+        "Features": [
+          "Radeon Graphics",
+          "AM4",
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "16MB L3",
+          "65W",
+          "DDR4",
+          "Serie 5000",
+          "CPU"
+        ],
+        "Date": "2023-10-13T09:28:27.261681-04:00",
+        "Update": "2024-04-20T12:09:03.7936298-04:00",
+        "Label": "Micro AMD Ryzen 5 5600G +Disipador"
       }
     ],
     "Memoria RAM": [
@@ -2404,6 +2610,23 @@
         "Date": "2023-11-18T08:41:47.9392507-05:00",
         "Update": "2024-04-15T18:13:08.2318775-04:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Eagle OC 8GB"
+      },
+      {
+        "Price": 990.00,
+        "Features": [
+          "3xFan",
+          "DLSS3",
+          "1x16Pin",
+          "750WR",
+          "305mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-02-16T17:52:47.8557688-05:00",
+        "Update": "2024-04-20T12:09:03.8618323-04:00",
+        "Label": "Tarjeta de video Asus TUF RTX 4070 Ti SUPER"
       }
     ],
     "Disco Sólido": [
@@ -2899,6 +3122,25 @@
         "Date": "2024-04-11T02:51:03.0617681-04:00",
         "Update": "2024-04-11T07:54:20.1437604-04:00",
         "Label": "Board Gigabyte Z790 Eagle AX"
+      },
+      {
+        "Price": 160.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR4",
+          "5333mhz",
+          "VGA",
+          "HDMI",
+          "DisplayPort",
+          "4xSATA",
+          "5xUSB",
+          "LGA 1700",
+          "Micro ATX",
+          "MOBO"
+        ],
+        "Date": "2023-12-17T00:52:07.8205125-05:00",
+        "Update": "2024-04-20T12:09:03.8113539-04:00",
+        "Label": "Board Gigabyte B760M DS3H DDR4"
       }
     ]
   },
@@ -3154,6 +3396,16 @@
         "Date": "2024-04-11T02:50:06.3654244-04:00",
         "Update": "2024-04-15T05:20:18.8886484-04:00",
         "Label": "Cable HDMI to DVI-D 3m"
+      },
+      {
+        "Price": 57.00,
+        "Features": [
+          "10x USB 3.0",
+          "3A"
+        ],
+        "Date": "2023-07-17T23:37:56.1110686-04:00",
+        "Update": "2024-04-20T12:09:03.7447405-04:00",
+        "Label": "HUB Orico Type-A 10-Port USB 3.0"
       }
     ],
     "Externo": [
@@ -3302,6 +3554,19 @@
         "Date": "2023-12-12T03:35:09.5904673-05:00",
         "Update": "2023-12-12T04:01:09.672667-05:00",
         "Label": "WebCam Logitech C270h"
+      },
+      {
+        "Price": 50.00,
+        "Features": [
+          "USB",
+          "3mp",
+          "Micrófono",
+          "720p",
+          "30fps"
+        ],
+        "Date": "2023-10-09T15:59:49.8284237-04:00",
+        "Update": "2024-04-20T12:09:03.7091112-04:00",
+        "Label": "Webcam Logitech C270 HD"
       }
     ],
     "Mouse": [
