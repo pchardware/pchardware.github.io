@@ -2389,22 +2389,6 @@
         "Label": "Tarjeta de Video MSI Gaming X RTX 3050 8GB"
       },
       {
-        "Price": 315.00,
-        "Features": [
-          "3xFan",
-          "1x8Pin",
-          "550WR",
-          "274mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Tarjeta de Video"
-        ],
-        "Date": "2023-10-13T09:28:55.7781232-04:00",
-        "Update": "2024-03-04T22:32:49.7132543-05:00",
-        "Label": "Tarjeta de Video XFX Qick 308 RX 7600 8GB"
-      },
-      {
         "Price": 370.00,
         "Features": [
           "DLSS3",
@@ -2627,6 +2611,54 @@
         "Date": "2024-02-16T17:52:47.8557688-05:00",
         "Update": "2024-04-20T12:09:03.8618323-04:00",
         "Label": "Tarjeta de video Asus TUF RTX 4070 Ti SUPER"
+      },
+      {
+        "Price": 315.00,
+        "Features": [
+          "3xFan",
+          "1x8Pin",
+          "550WR",
+          "274mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-10-13T09:28:55.7781232-04:00",
+        "Update": "2024-04-20T12:56:55.9913109-04:00",
+        "Label": "Tarjeta de Video XFX Qick 308 RX 7600 8GB"
+      },
+      {
+        "Price": 305.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "500WR",
+          "241mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-04-20T12:17:29.5429015-04:00",
+        "Update": "2024-04-20T12:56:56.06082-04:00",
+        "Label": "Tarjeta de Video XFX Speedster Swift 210 RX 6650 XT Core 8GB"
+      },
+      {
+        "Price": 595.00,
+        "Features": [
+          "3xFan",
+          "1x8Pin",
+          "650WR",
+          "312mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-04-20T12:17:52.9989097-04:00",
+        "Update": "2024-04-20T12:56:56.0979612-04:00",
+        "Label": "Tarjeta de Video Asus ROG Strix RTX 4060 Ti OC 8GB"
       }
     ],
     "Disco Sólido": [
