@@ -2446,22 +2446,6 @@
         "Label": "Tarjeta de Video MSI Ventus RTX 4060 Ti 3X 8GB"
       },
       {
-        "Price": 425.00,
-        "Features": [
-          "3xFan",
-          "1x8Pin+6Pin",
-          "650WR",
-          "296mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-03-13T15:18:04.3313972-04:00",
-        "Update": "2024-03-16T02:06:11.6610067-04:00",
-        "Label": "Tarjeta de Video Gigabyte Aorus RX 6750 XT Elite 12GB (3xFan)"
-      },
-      {
         "Price": 370.00,
         "Features": [
           "DLSS3",
@@ -2683,6 +2667,22 @@
         "Date": "2024-04-20T12:17:52.9989097-04:00",
         "Update": "2024-04-20T12:56:56.0979612-04:00",
         "Label": "Tarjeta de Video Asus ROG Strix RTX 4060 Ti OC 8GB"
+      },
+      {
+        "Price": 425.00,
+        "Features": [
+          "3xFan",
+          "1x8Pin+6Pin",
+          "650WR",
+          "296mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-03-13T15:18:04.3313972-04:00",
+        "Update": "2024-04-20T18:32:14.3024973-04:00",
+        "Label": "Tarjeta de Video Gigabyte Aorus RX 6750 XT Elite 12GB"
       }
     ],
     "Disco Sólido": [
