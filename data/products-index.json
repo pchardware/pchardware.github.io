@@ -73,24 +73,6 @@
         "Discount": 15.0,
         "Label": "Torre RTX 4060 Gaming OC 8GB +i5-12600KF +Z790 Eagle AX +32GB DDR5 +850W 🚀💪"
       }
-    ],
-    "Multimedia": [
-      {
-        "Price": 890.00,
-        "Features": [],
-        "Date": "2024-04-13T08:22:39.121408-04:00",
-        "Update": "2024-04-20T12:09:03.9957958-04:00",
-        "Discount": 10.0,
-        "Label": "Torre i3-12100 +Z690-Plus Wifi +32GB DDR5 +500GB M.2 +EVGA 850W +Chasis Cougar"
-      },
-      {
-        "Price": 660.00,
-        "Features": [],
-        "Date": "2024-04-20T13:14:28.6470513-04:00",
-        "Update": "2024-04-20T13:17:09.6211585-04:00",
-        "Discount": 10.0,
-        "Label": "Torre i3-12100 +B760M DS3H DDR4 +8GB DDR4 +512GB M.2 +500W + Chasis Cougar RGB"
-      }
     ]
   },
   "Kits": {
@@ -477,41 +459,6 @@
         "Date": "2024-03-17T07:52:13.753635-04:00",
         "Update": "2024-04-20T12:09:03.8982005-04:00",
         "Label": "Kit i7-13700K +MSI MPG Z790 EDGE Wifi +32GB DDR5 Trident Z5 NEO RGB 6400mhz"
-      }
-    ],
-    "Moderado": [
-      {
-        "Price": 375.00,
-        "Features": [
-          "8 Hilos",
-          "4 Core",
-          "4.3GHz",
-          "DDR5",
-          "6000mhz",
-          "6xAudio",
-          "6xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-04-11T11:11:38.7713499-04:00",
-        "Update": "2024-04-20T12:09:03.9147131-04:00",
-        "Label": "Kit i3-12100 +Asus TUF Z690-Plus Wifi"
-      },
-      {
-        "Price": 480.00,
-        "Features": [
-          "8 Hilos",
-          "4 Core",
-          "4.3GHz",
-          "2x8GB",
-          "DDR5",
-          "6xAudio",
-          "6xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-04-11T11:12:14.3056307-04:00",
-        "Update": "2024-04-20T12:09:03.9305408-04:00",
-        "Discount": 5.0,
-        "Label": "Kit i3-12100 +Asus TUF Z690-Plus Wifi +32GB DDR5 Patriot Viper Venom 6200mhz"
       }
     ]
   },
@@ -1558,6 +1505,7 @@
         ],
         "Date": "2023-09-23T14:09:08.5628773-04:00",
         "Update": "2024-01-18T07:19:39.7655628-05:00",
+        "Def": true,
         "Label": "Disipador ID-COOLING SE-214-XT ARGB Black"
       },
       {
@@ -1639,22 +1587,6 @@
         "Date": "2023-05-11T07:00:48.0876416-04:00",
         "Update": "2024-01-18T07:19:39.7802109-05:00",
         "Label": "Micro Intel Core i9-12900K"
-      },
-      {
-        "Price": 140.00,
-        "Features": [
-          "12va Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.3GHz",
-          "12MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-05-11T07:28:15.7616729-04:00",
-        "Update": "2024-01-18T07:19:39.8761049-05:00",
-        "Label": "Micro Intel Core i3-12100 +Disipador"
       },
       {
         "Price": 175.00,
@@ -2161,6 +2093,7 @@
         ],
         "Date": "2024-02-16T14:42:28.5192676-05:00",
         "Update": "2024-04-12T10:07:16.8048064-04:00",
+        "Def": true,
         "Label": "RAM DDR4 Kingston HyperX Fury RGB 8GB 3466mhz"
       },
       {
@@ -2479,23 +2412,6 @@
         "Label": "Tarjeta de Video Gigabyte Aorus RTX 4070 Super Master 12GB"
       },
       {
-        "Price": 650.00,
-        "Features": [
-          "DLSS3",
-          "3xfan",
-          "1x8Pin",
-          "650WR",
-          "300mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-04-11T02:49:46.3017721-04:00",
-        "Update": "2024-04-11T08:24:38.9730359-04:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4070 Gaming OC V2 12GB"
-      },
-      {
         "Price": 990.00,
         "Features": [
           "DLSS3",
@@ -2709,17 +2625,6 @@
         "Date": "2023-12-07T13:20:26.5920422-05:00",
         "Update": "2024-01-24T02:11:20.7047976-05:00",
         "Label": "SSD M.2 TeamGroup T-Force Z44L 1TB"
-      },
-      {
-        "Price": 55.00,
-        "Features": [
-          "530mbs",
-          "400tbw",
-          "SATA 3"
-        ],
-        "Date": "2023-06-07T13:42:02.617071-04:00",
-        "Update": "2024-01-24T02:11:20.7462015-05:00",
-        "Label": "SSD 2.5 Team Group CX1 480GB"
       },
       {
         "Price": 60.00,
