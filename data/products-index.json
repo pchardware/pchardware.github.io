@@ -3275,6 +3275,31 @@
         "Date": "2024-01-18T07:08:55.3566296-05:00",
         "Update": "2024-04-10T12:11:14.5787132-04:00",
         "Label": "Teclado AOC RGB GK500"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "Mecánico",
+          "80%",
+          "RGB",
+          "Mystical Ligth",
+          "Gaming"
+        ],
+        "Date": "2024-04-20T12:17:58.1586146-04:00",
+        "Update": "2024-04-22T07:44:58.3868017-04:00",
+        "Label": "Teclado MSI Vigor GK50 Elite TKL LL"
+      },
+      {
+        "Price": 80.00,
+        "Features": [
+          "Mecánico",
+          "Full",
+          "RGB",
+          "Gaming"
+        ],
+        "Date": "2024-04-20T12:17:46.3669934-04:00",
+        "Update": "2024-04-22T07:45:41.4995625-04:00",
+        "Label": "Combo MSI Forge GK100 + Mouse"
       }
     ],
     "Adaptador": [
@@ -3528,6 +3553,19 @@
         "Date": "2023-10-09T15:59:49.8284237-04:00",
         "Update": "2024-04-20T12:09:03.7091112-04:00",
         "Label": "Webcam Logitech C270 HD"
+      },
+      {
+        "Price": 90.00,
+        "Features": [
+          "1080p",
+          "Auto Foco",
+          "30fps",
+          "USB",
+          "Micrófono"
+        ],
+        "Date": "2024-04-20T12:04:05.3273518-04:00",
+        "Update": "2024-04-22T07:44:58.3520506-04:00",
+        "Label": "Webcam Logitech C920e Pro HD"
       }
     ],
     "Mouse": [
