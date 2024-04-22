@@ -2,7 +2,7 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 2525.00,
+        "Price": 2490.00,
         "Features": [],
         "Date": "2024-04-19T09:30:33.0428038-04:00",
         "Update": "2024-04-19T09:34:37.7001443-04:00",
@@ -10,7 +10,7 @@
         "Label": "PC i9-14900K +Strix Z790-F Gaming Wifi +64GB DDR5 +1TB M.2 +2TB HDD +850W +27\""
       },
       {
-        "Price": 1370.00,
+        "Price": 1375.00,
         "Features": [],
         "Date": "2024-04-19T11:54:06.4091068-04:00",
         "Update": "2024-04-19T11:58:15.3675605-04:00",
@@ -18,7 +18,7 @@
         "Label": "PC RTX 3050 OC 6GB +i3-14100F +Z790 Eagle AX +32GB DDR5 +500GB M.2 +850W BQ +24\""
       },
       {
-        "Price": 2170.00,
+        "Price": 2155.00,
         "Features": [],
         "Date": "2024-04-20T10:42:06.0831707-04:00",
         "Update": "2024-04-20T10:46:01.8533285-04:00",
@@ -48,7 +48,7 @@
         "Label": "Torre RX 6600 3X 8GB +Ryzen 5 5600X +X570S Gaming X +16GB DDR4 +500GB M.2 +750M"
       },
       {
-        "Price": 1965.00,
+        "Price": 1930.00,
         "Features": [],
         "Date": "2024-04-14T11:06:43.2322357-04:00",
         "Update": "2024-04-14T11:09:42.3000841-04:00",
@@ -58,7 +58,7 @@
     ],
     "Gamer": [
       {
-        "Price": 1115.00,
+        "Price": 1120.00,
         "Features": [],
         "Date": "2024-04-13T16:34:23.3155579-04:00",
         "Update": "2024-04-14T10:19:27.9602542-04:00",
@@ -66,7 +66,7 @@
         "Label": "Torre RTX 3050 OC 6GB +i3-14100F +Z790 Eagle AX +32GB DDR5 + 500GB M.2 +850W"
       },
       {
-        "Price": 1410.00,
+        "Price": 1400.00,
         "Features": [],
         "Date": "2024-04-14T10:24:42.6082746-04:00",
         "Update": "2024-04-14T10:37:19.1754456-04:00",
@@ -140,7 +140,7 @@
         "Label": "Kit AMD Ryzen 5 5600X +Gigabyte X570S Gaming X +32GB DDR4 Corsair Vengeance LPX"
       },
       {
-        "Price": 475.00,
+        "Price": 470.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -157,7 +157,7 @@
         "Label": "Kit i5-12600K +Gigabyte Z790 Eagle AX"
       },
       {
-        "Price": 580.00,
+        "Price": 570.00,
         "Features": [
           "20 Hilos",
           "12 Core",
@@ -188,7 +188,7 @@
         "Label": "Kit i7-14700K + MSI MPG Z790 EDGE WIFI 💥🔥"
       },
       {
-        "Price": 845.00,
+        "Price": 840.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -204,7 +204,7 @@
         "Label": "Kit i9-12900K +MEG Z690 ACE +Líquido MasterLiquid ML240L ARGB V2 💥🔥"
       },
       {
-        "Price": 1015.00,
+        "Price": 1010.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -222,7 +222,7 @@
         "Label": "Kit i9-12900K +MSI MEG Z690 ACE +32GB DDR5 Corsair Dominator Platinum 💥🔥"
       },
       {
-        "Price": 570.00,
+        "Price": 560.00,
         "Features": [
           "14-Gen",
           "20 Core",
@@ -239,7 +239,7 @@
         "Label": "Kit i5-14600K +Gigabyte Z790 Eagle AX ¡Potencia y estilo! 🔥💻"
       },
       {
-        "Price": 680.00,
+        "Price": 670.00,
         "Features": [
           "14-Gen",
           "20 Core",
@@ -256,7 +256,7 @@
         "Label": "Kit i5-14600K +Gigabyte Z790 Eagle AX +32GB DDR5 Corsair Vengeance 6000mhz"
       },
       {
-        "Price": 740.00,
+        "Price": 725.00,
         "Features": [
           "14-Gen",
           "20 Core",
@@ -289,7 +289,7 @@
         "Label": "Kit i9-12900K + MSI MEG Z690 ACE Potencia y estilo en un solo combo 🔥💻"
       },
       {
-        "Price": 795.00,
+        "Price": 790.00,
         "Features": [
           "24 Hilos",
           "16 Core",
@@ -303,7 +303,7 @@
         "Label": "Kit i7-13700K +MSI MPG Z790 EDGE Wifi"
       },
       {
-        "Price": 430.00,
+        "Price": 425.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -319,7 +319,7 @@
         "Label": "Kit i5-12600KF +Asus TUF Z690-Plus Wifi"
       },
       {
-        "Price": 605.00,
+        "Price": 595.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -336,7 +336,7 @@
         "Label": "Kit i5-12600KF +Asus TUF Z690-Plus Wifi +32GB DDR5 Corsair Vengeance 6000mhz"
       },
       {
-        "Price": 475.00,
+        "Price": 470.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -354,7 +354,7 @@
     ],
     "Entusiasta": [
       {
-        "Price": 1080.00,
+        "Price": 1050.00,
         "Features": [
           "14Gen",
           "24 Core",
@@ -370,7 +370,7 @@
         "Label": "Kit i9-14900K +Strix Z790-F Gaming ¡Ideal para gamers y creadores! 💻🔥"
       },
       {
-        "Price": 1325.00,
+        "Price": 1295.00,
         "Features": [
           "14Gen",
           "24 Core",
@@ -389,7 +389,7 @@
         "Label": "Kit i9-14900K +Strix Z790-F Gaming +64GB DDR5 G.Skill Trident Z5 RGB 6400mhz"
       },
       {
-        "Price": 1575.00,
+        "Price": 1540.00,
         "Features": [
           "14Gen",
           "24 Core",
@@ -426,7 +426,7 @@
         "Label": "Kit i7-14700K +MSI MPG Z790 EDGE Wifi + 64GB DDR5 G.Skill Trident Z5 RGB 6000mhz"
       },
       {
-        "Price": 1255.00,
+        "Price": 1250.00,
         "Features": [
           "14-Gen",
           "20 Core",
@@ -444,7 +444,7 @@
         "Label": "Kit i7-14700K +Liquida 240 ARGB +MPG Z790 EDGE +64GB DDR5 G.Skill Trident Z5 RGB"
       },
       {
-        "Price": 945.00,
+        "Price": 940.00,
         "Features": [
           "24 Hilos",
           "16 Core",
@@ -1131,7 +1131,7 @@
         "Label": "Kit Líquido Thermaltake Pacific C360 Ddc"
       },
       {
-        "Price": 240.00,
+        "Price": 230.00,
         "Features": [
           "2500rpm",
           "81cfm",
@@ -1152,7 +1152,7 @@
         "Label": "Disipador Líquido Asus ROG Strix LC II 360 ARGB"
       },
       {
-        "Price": 245.00,
+        "Price": 240.00,
         "Features": [
           "2500rpm",
           "81cfm",
@@ -1210,7 +1210,7 @@
         "Label": "Corsair Hydro XC7 RGB PRO CPU Water Block"
       },
       {
-        "Price": 240.00,
+        "Price": 235.00,
         "Features": [
           "LCD",
           "2500rpm",
@@ -1233,7 +1233,7 @@
         "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce X 240"
       },
       {
-        "Price": 255.00,
+        "Price": 250.00,
         "Features": [
           "2200rpm",
           "71cfm",
@@ -1254,7 +1254,7 @@
         "Label": "Disipador Líquido ASUS ROG RYUO III 240 ARGB"
       },
       {
-        "Price": 195.00,
+        "Price": 190.00,
         "Features": [
           "2xFan",
           "2500rpm",
@@ -1274,7 +1274,7 @@
         "Label": "Disipador Líquido ASUS ROG Strix LC II 240 ARGB"
       },
       {
-        "Price": 140.00,
+        "Price": 135.00,
         "Features": [
           "2xFan",
           "240mm",
@@ -1288,7 +1288,7 @@
         "Label": "Disipador Líquido Cooler Master MasterLiquid ML240L ARGB V2"
       },
       {
-        "Price": 215.00,
+        "Price": 205.00,
         "Features": [
           "2000rpm",
           "67cfm",
@@ -1306,7 +1306,7 @@
         "Label": "Disipador Líquido Asus TUF Gaming LC II 360 ARGB"
       },
       {
-        "Price": 155.00,
+        "Price": 150.00,
         "Features": [
           "2000rpm",
           "67cfm",
@@ -1352,7 +1352,7 @@
     ],
     "Disipador por Aire": [
       {
-        "Price": 10.00,
+        "Price": 8.00,
         "Features": [
           "LGA 1200",
           "Aluminio",
@@ -1365,7 +1365,7 @@
         "Label": "Disipador Intel Generic Plus"
       },
       {
-        "Price": 65.00,
+        "Price": 60.00,
         "Features": [
           "ARGB",
           "4xPipes",
@@ -1388,7 +1388,7 @@
         "Label": "Disipador Cooler Master Hyper 212 Spectrum V3"
       },
       {
-        "Price": 6.00,
+        "Price": 5.00,
         "Features": [
           "LGA 115X",
           "2800rpm",
@@ -1404,7 +1404,7 @@
         "Label": "Disipador Intel Stock Original"
       },
       {
-        "Price": 60.00,
+        "Price": 55.00,
         "Features": [
           "5 Head Pipes",
           "1550rpm",
@@ -1428,7 +1428,7 @@
         "Label": "Disipador Thermalright Assassin King 120 SE White"
       },
       {
-        "Price": 100.00,
+        "Price": 95.00,
         "Features": [
           "ARGB",
           "Dual Tower",
@@ -1445,7 +1445,7 @@
         "Label": "Disipador Cooler Master Hyper 620S Dual"
       },
       {
-        "Price": 80.00,
+        "Price": 70.00,
         "Features": [
           "ARGB",
           "4 Head Pipes",
@@ -1464,7 +1464,7 @@
         "Label": "Disipador Cooler Master 212 Halo White"
       },
       {
-        "Price": 55.00,
+        "Price": 50.00,
         "Features": [
           "5 Head Pipes",
           "1550rpm",
@@ -1487,7 +1487,7 @@
         "Label": "Disipador Thermalright Assassin King 120 SE ARGB"
       },
       {
-        "Price": 50.00,
+        "Price": 45.00,
         "Features": [
           "ARGB",
           "4xPipes",
@@ -1527,7 +1527,7 @@
         "Label": "Disipador Thermalright Assassin X 120 R SE Plus"
       },
       {
-        "Price": 65.00,
+        "Price": 60.00,
         "Features": [
           "ARGB",
           "63cfm",
@@ -1605,7 +1605,7 @@
         "Label": "Micro AMD Ryzen 5 5600X +Disipador"
       },
       {
-        "Price": 240.00,
+        "Price": 235.00,
         "Features": [
           "12va Gen",
           "16 Hilos",
@@ -1622,7 +1622,7 @@
         "Label": "Micro Intel Core i5-12600K"
       },
       {
-        "Price": 275.00,
+        "Price": 265.00,
         "Features": [
           "12va Gen",
           "20 Hilos",
@@ -1639,7 +1639,7 @@
         "Label": "Micro Intel Core i7-12700K"
       },
       {
-        "Price": 195.00,
+        "Price": 190.00,
         "Features": [
           "12va Gen",
           "16 Hilos",
@@ -1656,7 +1656,7 @@
         "Label": "Micro Intel Core i5-12600KF"
       },
       {
-        "Price": 140.00,
+        "Price": 145.00,
         "Features": [
           "14va Gen",
           "8 Hilos",
@@ -1688,7 +1688,7 @@
         "Label": "Micro Intel Core i3-14100 +Disipador"
       },
       {
-        "Price": 340.00,
+        "Price": 330.00,
         "Features": [
           "14-Gen",
           "14 Core",
@@ -1722,7 +1722,7 @@
         "Label": "Micro Intel Core i7-14700K"
       },
       {
-        "Price": 665.00,
+        "Price": 635.00,
         "Features": [
           "14va Gen",
           "24 Core",
@@ -1739,7 +1739,7 @@
         "Label": "Micro Intel Core i9-14900K"
       },
       {
-        "Price": 390.00,
+        "Price": 385.00,
         "Features": [
           "13ra Gen",
           "24 Hilos",
