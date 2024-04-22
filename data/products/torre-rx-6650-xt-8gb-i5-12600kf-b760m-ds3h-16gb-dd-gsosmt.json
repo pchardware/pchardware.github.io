@@ -1,0 +1,22 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/torre-rx-6650-xt-8gb-i5-12600kf-b760m-ds3h-16gb-dd-gsosmt-1.webp",
+    "/images/products/torre-rx-6650-xt-8gb-i5-12600kf-b760m-ds3h-16gb-dd-gsosmt-2.webp",
+    "/images/products/torre-rx-6650-xt-8gb-i5-12600kf-b760m-ds3h-16gb-dd-gsosmt-3.webp",
+    "/images/products/torre-rx-6650-xt-8gb-i5-12600kf-b760m-ds3h-16gb-dd-gsosmt-4.webp",
+    "/images/products/torre-rx-6650-xt-8gb-i5-12600kf-b760m-ds3h-16gb-dd-gsosmt-5.webp",
+    "/images/products/torre-rx-6650-xt-8gb-i5-12600kf-b760m-ds3h-16gb-dd-gsosmt-6.webp",
+    "/images/products/torre-rx-6650-xt-8gb-i5-12600kf-b760m-ds3h-16gb-dd-gsosmt-7.webp",
+    "/images/products/torre-rx-6650-xt-8gb-i5-12600kf-b760m-ds3h-16gb-dd-gsosmt-8.webp",
+    "/images/products/torre-rx-6650-xt-8gb-i5-12600kf-b760m-ds3h-16gb-dd-gsosmt-9.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12600KF\n+ Disipador Cooler Master Hyper 212 Spectrum V3\n+ Board Gigabyte B760M DS3H DDR4\n+ RAM DDR4 GeIL ORION RGB 16GB 3600mhz\n+ SSD M.2 Solidigm P41 Plus 512GB\n+ Tarjeta de Video XFX Speedster Swift 210 RX 6650 XT Core 8GB\n+ Fuente Thermaltake Smart 700W 80+\n+ Chasis Cougar Archon 2 Mesh RGB Black\n",
+  "Price": 1100.00,
+  "Features": [],
+  "Date": "2024-04-22T14:05:35.7475615-04:00",
+  "Update": "2024-04-22T14:07:39.2470729-04:00",
+  "Discount": 15.0,
+  "Label": "Torre RX 6650 XT 8GB +i5-12600KF +B760M DS3H +16GB DDR4 RGB +512GB M.2 +700W"
+}
