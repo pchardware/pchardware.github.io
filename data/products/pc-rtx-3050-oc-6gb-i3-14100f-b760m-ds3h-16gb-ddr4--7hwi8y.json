@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-rtx-3050-oc-6gb-i3-14100f-b760m-ds3h-16gb-ddr4--7hwi8y-1.webp",
+    "/images/products/pc-rtx-3050-oc-6gb-i3-14100f-b760m-ds3h-16gb-ddr4--7hwi8y-2.webp",
+    "/images/products/pc-rtx-3050-oc-6gb-i3-14100f-b760m-ds3h-16gb-ddr4--7hwi8y-3.webp",
+    "/images/products/pc-rtx-3050-oc-6gb-i3-14100f-b760m-ds3h-16gb-ddr4--7hwi8y-4.webp",
+    "/images/products/pc-rtx-3050-oc-6gb-i3-14100f-b760m-ds3h-16gb-ddr4--7hwi8y-5.webp",
+    "/images/products/pc-rtx-3050-oc-6gb-i3-14100f-b760m-ds3h-16gb-ddr4--7hwi8y-6.webp",
+    "/images/products/pc-rtx-3050-oc-6gb-i3-14100f-b760m-ds3h-16gb-ddr4--7hwi8y-7.webp",
+    "/images/products/pc-rtx-3050-oc-6gb-i3-14100f-b760m-ds3h-16gb-ddr4--7hwi8y-8.webp",
+    "/images/products/pc-rtx-3050-oc-6gb-i3-14100f-b760m-ds3h-16gb-ddr4--7hwi8y-9.webp",
+    "/images/products/pc-rtx-3050-oc-6gb-i3-14100f-b760m-ds3h-16gb-ddr4--7hwi8y-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i3-14100F +Disipador\n+ Board Gigabyte B760M DS3H DDR4\n+ 2x RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz\n+ SSD M.2 Solidigm P41 Plus 512GB\n+ Tarjeta de Video MSI RTX 3050 Ventus 2X OC 6GB\n+ Fuente Thermaltake Smart 700W 80+\n+ Chasis Cougar Archon 2 Mesh RGB Black\n+ Monitor MSI Pro 24\" VA 100Hz 1ms\n+ Combo MSI Forge GK100 + Mouse\n",
+  "Price": 1240.00,
+  "Features": [],
+  "Date": "2024-04-22T08:16:27.2474574-04:00",
+  "Update": "2024-04-22T08:17:53.092745-04:00",
+  "Discount": 15.0,
+  "Label": "PC RTX 3050 OC 6GB +i3-14100F +B760M DS3H +16GB DDR4 +512GB M.2 +700W +MSI 24\""
+}
