@@ -1,0 +1,23 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Teclado",
+  "Images": [
+    "/images/products/teclado-msi-vigor-gk50-elite-tkl-ll-1.webp",
+    "/images/products/teclado-msi-vigor-gk50-elite-tkl-ll-2.webp",
+    "/images/products/teclado-msi-vigor-gk50-elite-tkl-ll-3.webp",
+    "/images/products/teclado-msi-vigor-gk50-elite-tkl-ll-4.webp",
+    "/images/products/teclado-msi-vigor-gk50-elite-tkl-ll-5.webp"
+  ],
+  "Description": "Model\nBrand: MSI\nModel: VIGOR GK50 ELITE TKL KAILH BLUE\nPart Number: GK50TKLB\n\n\nKeyboard\nKeyboard Interface: USB 2.0\nDesign Style: TKL\nPalm Rest: No\nMechanical Keyboard: Yes\nKey Switch Type: Kailh Blue\nKeyboard Color: Black\nBacklit: Yes\nDimensions: 354 x 140 x 33 mm\nType: Wired\n\n\nMouse\nMouse Included: No\n\n\nOS / System Requirement\nOperating System Supported: Windows 10 (or above)\n\n\nFeatures\nFeatures: CLICKY & ACCURATE\nThe Kailh Blue mechanical switches offer audible feedback and a precise feel with a 50gf clicky keystroke for every key press. \nCOMPACT TKL DESIGN\nThe tenkeyless form factor provides a wider and larger space for your mouse swipes for the ideal gaming setup.\nERGONOMIC FLOATING KEYCAP DESIGN\nThe ergonomic high-low keycap design keeps your hands and wrists in a natural position reducing strain while gaming.\n3 ADJUSTABLE KEYBOARD ANGLES\nCreate your favorite comfy wrist position at 3 different tilt angles with two keyboard feet.\nTRAVEL DRAWSTRING BAG INCLUDED\nThe included breathable scratch-resistant drawstring bag allows you to travel effortlessly.\nDETACHABLE AND DURABLE USB TYPE-C CABLE\nReduce the risk of cable wear and tear while gaming on the go.\nRGB MYSTIC LIGHT\nLight up the battlefield with millions of colors or approach with stealth with the lights turned off. Choose from predefined effects or synchronize lighting with the rest of your RGB setup.",
+  "Price": 85.00,
+  "Features": [
+    "Mecánico",
+    "80%",
+    "RGB",
+    "Mystical Ligth",
+    "Gaming"
+  ],
+  "Date": "2024-04-20T12:17:58.1586146-04:00",
+  "Update": "2024-04-22T07:44:58.3868017-04:00",
+  "Label": "Teclado MSI Vigor GK50 Elite TKL LL"
+}
