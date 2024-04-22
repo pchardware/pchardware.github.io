@@ -1,0 +1,30 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Esencial",
+  "Images": [
+    "/images/products/kit-i3-14100-gigabyte-b760m-ds3h-16gb-ddr4-team-t--qjx14k-1.webp",
+    "/images/products/kit-i3-14100-gigabyte-b760m-ds3h-16gb-ddr4-team-t--qjx14k-2.webp",
+    "/images/products/kit-i3-14100-gigabyte-b760m-ds3h-16gb-ddr4-team-t--qjx14k-3.webp",
+    "/images/products/kit-i3-14100-gigabyte-b760m-ds3h-16gb-ddr4-team-t--qjx14k-4.webp",
+    "/images/products/kit-i3-14100-gigabyte-b760m-ds3h-16gb-ddr4-team-t--qjx14k-5.webp",
+    "/images/products/kit-i3-14100-gigabyte-b760m-ds3h-16gb-ddr4-team-t--qjx14k-6.webp",
+    "/images/products/kit-i3-14100-gigabyte-b760m-ds3h-16gb-ddr4-team-t--qjx14k-7.webp"
+  ],
+  "Description": "+ Micro Intel Core i3-14100 +Disipador\n+ Board Gigabyte B760M DS3H DDR4\n+ 2x RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz\n",
+  "Price": 400.00,
+  "Features": [
+    "8 Hilos",
+    "4 Core",
+    "4.7GHz",
+    "2x8GB",
+    "3200mhz",
+    "Disipadas",
+    "5333mhz",
+    "4xSATA",
+    "5xUSB"
+  ],
+  "Date": "2024-04-22T08:19:06.3819866-04:00",
+  "Update": "2024-04-22T08:22:32.3532179-04:00",
+  "Discount": 5.0,
+  "Label": "Kit i3-14100 +Gigabyte B760M DS3H +16GB DDR4 Team T-Force Vulcan Z 3200mhz"
+}
