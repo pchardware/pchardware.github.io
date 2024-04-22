@@ -18,7 +18,7 @@
         "Label": "PC RTX 3050 OC 6GB +i3-14100F +Z790 Eagle AX +32GB DDR5 +500GB M.2 +850W BQ +24\""
       },
       {
-        "Price": 2155.00,
+        "Price": 2150.00,
         "Features": [],
         "Date": "2024-04-20T10:42:06.0831707-04:00",
         "Update": "2024-04-20T10:46:01.8533285-04:00",
@@ -36,7 +36,7 @@
     ],
     "Multimedia": [
       {
-        "Price": 1200.00,
+        "Price": 1195.00,
         "Features": [],
         "Date": "2024-04-19T10:44:53.9141234-04:00",
         "Update": "2024-04-19T11:13:04.1567556-04:00",
@@ -48,7 +48,7 @@
   "Torres": {
     "Pro": [
       {
-        "Price": 1120.00,
+        "Price": 1110.00,
         "Features": [],
         "Date": "2024-04-13T07:20:09.1289159-04:00",
         "Update": "2024-04-13T07:23:18.6144267-04:00",
@@ -74,7 +74,7 @@
         "Label": "Torre RTX 3050 OC 6GB +i3-14100F +Z790 Eagle AX +32GB DDR5 + 500GB M.2 +850W"
       },
       {
-        "Price": 1400.00,
+        "Price": 1395.00,
         "Features": [],
         "Date": "2024-04-14T10:24:42.6082746-04:00",
         "Update": "2024-04-14T10:37:19.1754456-04:00",
@@ -122,7 +122,7 @@
         "Label": "Kit AMD Ryzen 5 5600X +Disipador + Gigabyte X570S Gaming X"
       },
       {
-        "Price": 465.00,
+        "Price": 455.00,
         "Features": [
           "6 Core",
           "12 Hilos",
@@ -139,7 +139,7 @@
         "Label": "Kit AMD Ryzen 5 5600X +Gigabyte X570S Gaming X +16GB DDR4 GeIL ORION RGB"
       },
       {
-        "Price": 485.00,
+        "Price": 480.00,
         "Features": [
           "6 Core",
           "12 Hilos",
@@ -220,7 +220,7 @@
         "Label": "Kit i9-12900K +MEG Z690 ACE +Líquido MasterLiquid ML240L ARGB V2 💥🔥"
       },
       {
-        "Price": 1010.00,
+        "Price": 1005.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -475,6 +475,26 @@
         "Date": "2024-03-17T07:52:13.753635-04:00",
         "Update": "2024-04-20T12:09:03.8982005-04:00",
         "Label": "Kit i7-13700K +MSI MPG Z790 EDGE Wifi +32GB DDR5 Trident Z5 NEO RGB 6400mhz"
+      }
+    ],
+    "Esencial": [
+      {
+        "Price": 400.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.7GHz",
+          "2x8GB",
+          "3200mhz",
+          "Disipadas",
+          "5333mhz",
+          "4xSATA",
+          "5xUSB"
+        ],
+        "Date": "2024-04-22T08:19:06.3819866-04:00",
+        "Update": "2024-04-22T08:22:32.3532179-04:00",
+        "Discount": 5.0,
+        "Label": "Kit i3-14100 +Gigabyte B760M DS3H +16GB DDR4 Team T-Force Vulcan Z 3200mhz"
       }
     ]
   },
@@ -1814,7 +1834,7 @@
         "Label": "RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz"
       },
       {
-        "Price": 150.00,
+        "Price": 145.00,
         "Features": [
           "2x32GB",
           "CL22",
@@ -1836,7 +1856,7 @@
         "Label": "RAM DDR5 Patriot Viper Venom 32GB 6200mhz"
       },
       {
-        "Price": 100.00,
+        "Price": 90.00,
         "Features": [
           "2x8",
           "CL18",
@@ -1847,7 +1867,7 @@
         "Label": "RAM DDR4 Corsair Dominator Platinum RGB 16GB 3600mhz White"
       },
       {
-        "Price": 75.00,
+        "Price": 65.00,
         "Features": [
           "2x8GB",
           "Disipadas",
@@ -1858,7 +1878,7 @@
         "Label": "RAM DDR4 GeIL ORION RGB 16GB 3600mhz"
       },
       {
-        "Price": 95.00,
+        "Price": 90.00,
         "Features": [
           "2x16",
           "CL18",
@@ -1869,7 +1889,7 @@
         "Label": "RAM DDR4 Corsair Vengeance LPX 32GB 3600mhz"
       },
       {
-        "Price": 175.00,
+        "Price": 170.00,
         "Features": [
           "2x16",
           "CL36",
@@ -1880,7 +1900,7 @@
         "Label": "RAM DDR5 Corsair Dominator Platinum RGB 32GB 6200mhz"
       },
       {
-        "Price": 145.00,
+        "Price": 140.00,
         "Features": [
           "2x16",
           "CL40",
@@ -1891,7 +1911,7 @@
         "Label": "RAM DDR5 Gigabyte AORUS RGB 32GB 6000mhz"
       },
       {
-        "Price": 100.00,
+        "Price": 95.00,
         "Features": [
           "2x16GB",
           "CL18",
@@ -1902,7 +1922,7 @@
         "Label": "RAM DDR4 G.Skill Ripjaws V 32GB 4000Mhz"
       },
       {
-        "Price": 120.00,
+        "Price": 115.00,
         "Features": [
           "2x16GB",
           "CL18",
@@ -1913,7 +1933,7 @@
         "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 4000mhz"
       },
       {
-        "Price": 180.00,
+        "Price": 175.00,
         "Features": [
           "2x32GB",
           "CL18",
@@ -1935,7 +1955,7 @@
         "Label": "RAM DDR5 G.Skill Trident Z5 RGB 64GB 6400mhz"
       },
       {
-        "Price": 90.00,
+        "Price": 80.00,
         "Features": [
           "2x8GB",
           "CL18",
@@ -1957,7 +1977,7 @@
         "Label": "RAM DDR5 G.Skill Trident Z5 RGB 64GB 6000mhz"
       },
       {
-        "Price": 130.00,
+        "Price": 125.00,
         "Features": [
           "2x16GB",
           "CL19",
@@ -1968,7 +1988,7 @@
         "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 4400mhz"
       },
       {
-        "Price": 80.00,
+        "Price": 70.00,
         "Features": [
           "2x8GB",
           "CL16",
@@ -1977,17 +1997,6 @@
         "Date": "2024-01-30T08:59:33.0160583-05:00",
         "Update": "2024-01-30T10:54:31.6938756-05:00",
         "Label": "RAM DDR4 G.Skill TridentZ RGB 16GB 3200Mhz"
-      },
-      {
-        "Price": 115.00,
-        "Features": [
-          "2x16GB",
-          "Disipadas",
-          "CL36"
-        ],
-        "Date": "2023-10-09T15:59:22.4913756-04:00",
-        "Update": "2024-02-16T14:51:46.4276068-05:00",
-        "Label": "RAM DDR5 G.Skill Ripjaws S5 32GB 6000mhz"
       },
       {
         "Price": 115.00,
@@ -2023,7 +2032,7 @@
         "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
       },
       {
-        "Price": 77.00,
+        "Price": 70.00,
         "Features": [
           "2x8GB",
           "CL18",
@@ -2034,7 +2043,7 @@
         "Label": "RAM DDR4 XPG SPectra D35 RGB 16GB 3600mhz"
       },
       {
-        "Price": 125.00,
+        "Price": 120.00,
         "Features": [
           "2x16GB",
           "CL18",
@@ -2068,7 +2077,7 @@
         "Label": "RAM DDR4 Kingston HyperX Fury RGB 8GB 3000mhz"
       },
       {
-        "Price": 160.00,
+        "Price": 155.00,
         "Features": [
           "2x32GB",
           "Disipadas",
@@ -2090,7 +2099,7 @@
         "Label": "RAM DDR5 G.Skill Trident Z5 NEO RGB 32GB 6400mhz"
       },
       {
-        "Price": 110.00,
+        "Price": 105.00,
         "Features": [
           "2x16",
           "CL18",
