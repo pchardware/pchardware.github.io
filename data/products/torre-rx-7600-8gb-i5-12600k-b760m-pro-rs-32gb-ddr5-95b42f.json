@@ -1,0 +1,22 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/torre-rx-7600-8gb-i5-12600k-b760m-pro-rs-32gb-ddr5-95b42f-1.webp",
+    "/images/products/torre-rx-7600-8gb-i5-12600k-b760m-pro-rs-32gb-ddr5-95b42f-2.webp",
+    "/images/products/torre-rx-7600-8gb-i5-12600k-b760m-pro-rs-32gb-ddr5-95b42f-3.webp",
+    "/images/products/torre-rx-7600-8gb-i5-12600k-b760m-pro-rs-32gb-ddr5-95b42f-4.webp",
+    "/images/products/torre-rx-7600-8gb-i5-12600k-b760m-pro-rs-32gb-ddr5-95b42f-5.webp",
+    "/images/products/torre-rx-7600-8gb-i5-12600k-b760m-pro-rs-32gb-ddr5-95b42f-6.webp",
+    "/images/products/torre-rx-7600-8gb-i5-12600k-b760m-pro-rs-32gb-ddr5-95b42f-7.webp",
+    "/images/products/torre-rx-7600-8gb-i5-12600k-b760m-pro-rs-32gb-ddr5-95b42f-8.webp",
+    "/images/products/torre-rx-7600-8gb-i5-12600k-b760m-pro-rs-32gb-ddr5-95b42f-9.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12600K\n+ Disipador Cooler Master Hyper 212 Spectrum V3\n+ ASRock B760M PRO RS\n+ RAM DDR5 Patriot Viper Venom 32GB 6200mhz\n+ SSD M.2 Solidigm P41 Plus 512GB\n+ Tarjeta de Video XFX Qick 308 RX 7600 8GB\n+ Fuente Corsair CX750M 750W\n+ Chasis Cougar Archon 2 Mesh RGB Black\n",
+  "Price": 1240.00,
+  "Features": [],
+  "Date": "2024-04-23T09:00:39.2652066-04:00",
+  "Update": "2024-04-23T10:29:19.628559-04:00",
+  "Discount": 15.0,
+  "Label": "Torre RX 7600 8GB +i5-12600K +B760M PRO RS +32GB DDR5 +512GB M.2 +750W"
+}
