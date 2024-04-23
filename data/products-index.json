@@ -2139,6 +2139,17 @@
         "Date": "2024-02-16T14:41:55.9514851-05:00",
         "Update": "2024-04-12T10:07:16.8222787-04:00",
         "Label": "RAM DDR4 Team Group T-Force Delta 2 RGB 8GB 3200mhz White"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "1x16GB",
+          "CL36",
+          "Disipadas"
+        ],
+        "Date": "2023-10-14T10:09:22.7542158-04:00",
+        "Update": "2024-04-23T06:09:28.2111203-04:00",
+        "Label": "RAM DDR5 G.Skill Ripjaws S5 16GB 6000mhz"
       }
     ],
     "Red": [
@@ -3118,6 +3129,25 @@
         "Date": "2023-12-17T00:52:07.8205125-05:00",
         "Update": "2024-04-20T12:09:03.8113539-04:00",
         "Label": "Board Gigabyte B760M DS3H DDR4"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "12va-13ra",
+          "DDR5",
+          "7200mhz",
+          "5xUSB",
+          "4xSATA",
+          "LGA 1700",
+          "Micro ATX",
+          "3xAudio",
+          "PS2",
+          "HDMI",
+          "DisplayPort"
+        ],
+        "Date": "2023-07-26T18:49:47.5277946-04:00",
+        "Update": "2024-04-23T06:09:28.1814792-04:00",
+        "Label": "ASRock B760M PRO RS"
       }
     ]
   },
