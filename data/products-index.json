@@ -96,6 +96,14 @@
         "Update": "2024-04-22T14:07:39.2470729-04:00",
         "Discount": 15.0,
         "Label": "Torre RX 6650 XT 8GB +i5-12600KF +B760M DS3H +16GB DDR4 RGB +512GB M.2 +700W"
+      },
+      {
+        "Price": 1065.00,
+        "Features": [],
+        "Date": "2024-04-23T06:10:18.6626968-04:00",
+        "Update": "2024-04-23T06:26:57.9482041-04:00",
+        "Discount": 10.0,
+        "Label": "Torre RX 6600 8GB +i3-14100F +B760M PRO RS +32GB DDR5 +512 M.2 +750W +Chasis RGB"
       }
     ]
   },
@@ -1141,6 +1149,14 @@
         "Date": "2024-04-20T12:17:06.5900159-04:00",
         "Update": "2024-04-20T13:10:46.6661014-04:00",
         "Label": "Fuente CORSAIR CX550 550W"
+      },
+      {
+        "Price": 150.00,
+        "Features": [],
+        "Date": "2024-04-23T06:08:00.9414054-04:00",
+        "Update": "2024-04-23T06:26:57.9258122-04:00",
+        "Def": true,
+        "Label": "PSU - Corsair AX760 80+ Platinum"
       }
     ],
     "Disipador Líquido": [
