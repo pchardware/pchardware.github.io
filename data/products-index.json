@@ -121,6 +121,16 @@
         "Discount": 20.0,
         "Label": "Torre RTX 4070 Ti OC 12GB +i7-13700K +Líquido +Z790 Aorus Elite AX ICE +32GB DDR5 +1TB M.2 +1000W"
       }
+    ],
+    "Entusiasta": [
+      {
+        "Price": 3160.00,
+        "Features": [],
+        "Date": "2024-04-24T03:52:55.4140473-04:00",
+        "Update": "2024-04-24T03:55:17.5767616-04:00",
+        "Discount": 30.0,
+        "Label": "Torre RTX 4070 Ti Super OC 16GB +i9-14900K +MSI MPG Z790 EDGE +64GB DDR5 +2TB M.2 +850W"
+      }
     ]
   },
   "Kits": {
