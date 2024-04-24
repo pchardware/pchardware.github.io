@@ -1160,11 +1160,20 @@
       },
       {
         "Price": 150.00,
-        "Features": [],
+        "Features": [
+          "63A",
+          "80+ Platinum",
+          "Modular",
+          "760W",
+          "2x 4+4 EPS",
+          "12x SATA",
+          "6x 6+2Pin",
+          "160mm"
+        ],
         "Date": "2024-04-23T06:08:00.9414054-04:00",
-        "Update": "2024-04-23T06:26:57.9258122-04:00",
+        "Update": "2024-04-24T01:41:05.6151909-04:00",
         "Def": true,
-        "Label": "PSU - Corsair AX760 80+ Platinum"
+        "Label": "Fuente Corsair AX760"
       }
     ],
     "Disipador Líquido": [
