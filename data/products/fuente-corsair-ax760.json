@@ -1,0 +1,27 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Fuente",
+  "Images": [
+    "/images/products/fuente-corsair-ax760-1.webp",
+    "/images/products/fuente-corsair-ax760-2.webp",
+    "/images/products/fuente-corsair-ax760-3.webp",
+    "/images/products/fuente-corsair-ax760-4.webp",
+    "/images/products/fuente-corsair-ax760-5.webp"
+  ],
+  "Description": "General\nBrand: CORSAIR\nSeries: AX series\nModel: AX760\n\n\nDetails\nType: ATX12V / EPS12V\nMaximum Power Maximum Power: 760 W\nFans Fans: 1 x 120mm Dual Ball Bearing Fan\nPFC PFC: Active\nMain Connector Main Connector: 24Pin\n+12V Rails +12V Rails: Single\nPCI-Express Connector PCI-Express Connector: 6 x 6+2-Pin\nSATA Power Connector SATA Power Connector: 12\nSLI SLI: SLI Ready\nHaswell Support: Yes\nCrossFire CrossFire: CrossFire Ready\nModular Modular: Full Modular\nEfficiency Efficiency: Up to 92%\nEnergy-Efficient: 80 PLUS PLATINUM Certified\nOver Voltage Protection Over Voltage Protection: Yes\nInput Voltage: 90 - 264 V\nInput Frequency Range: 50 - 60 Hz\nInput Current: 9.5 - 4.5A\nOutput: +3.3V @ 25A, +5V @ 25A, +12V @ 63A, -12V @ 0.5A, +5VSB @ 3.0A\nMTBF MTBF: 100,000 Hours\nApprovals: cTUVus, CE, CB, FCC Class B, TUV, CCC, C-tick\nConnectors: 1 x 24-Pin ATX\n2 x EPS\n6 x PCI-E\n12 x SATA\n8 x Peripheral\n2 x Floppy\n\n\nFeatures\nFeatures: The latest ATX12V v2.31 and EPS 2.92 standards and it is backward compatible with ATX12V 2.2 and ATX12V 2.01 systems.\n\nSilent at low to moderate load due to high efficiency and zero RPM fanless mode. Ultra quiet at high loads with 120mm dual-ball bearing fan.\n\n80PLUS Platinum certified, delivering over 92% energy efficiency at real world load conditions.\n\nActive Power Factor Correction (PFC) with PF value of 0.99.\n\nA dedicated single +12V rail offers maximum compatibility with the latest components.\n\nOver-voltage and over-current protection, under-voltage protection, and short circuit protection provide maximum safety to your critical system components.\n\nHigh-quality Japanese capacitors provide uncompromised performance and reliability.\n\nThe completely modular cable system allows you to use only the cables you need. Power supply upgrade and replacement is easy, as the cables only need to be disconnected at the power supply.\n\nLow-profile, flat cable design reduces air friction and helps maximize airflow through your computer's chassis.\n\n\nDimension & Weight\nDimensions: 3.39\" x 5.91\" x 6.30\"\nWeight: 7.25 lbs.",
+  "Price": 150.00,
+  "Features": [
+    "63A",
+    "80+ Platinum",
+    "Modular",
+    "760W",
+    "2x 4+4 EPS",
+    "12x SATA",
+    "6x 6+2Pin",
+    "160mm"
+  ],
+  "Date": "2024-04-23T06:08:00.9414054-04:00",
+  "Update": "2024-04-24T01:41:05.6151909-04:00",
+  "Def": true,
+  "Label": "Fuente Corsair AX760"
+}
