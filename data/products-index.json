@@ -10,38 +10,12 @@
         "Label": "PC i9-14900K +Strix Z790-F Gaming Wifi +64GB DDR5 +1TB M.2 +2TB HDD +850W +27\""
       },
       {
-        "Price": 1375.00,
-        "Features": [],
-        "Date": "2024-04-19T11:54:06.4091068-04:00",
-        "Update": "2024-04-19T11:58:15.3675605-04:00",
-        "Discount": 15.0,
-        "Label": "PC RTX 3050 OC 6GB +i3-14100F +Z790 Eagle AX +32GB DDR5 +500GB M.2 +850W BQ +24\""
-      },
-      {
         "Price": 2135.00,
         "Features": [],
         "Date": "2024-04-20T10:42:06.0831707-04:00",
         "Update": "2024-04-20T10:46:01.8533285-04:00",
         "Discount": 20.0,
         "Label": "PC RTX 4060 Ti 8GB +Core i7-12700K +Z790 Eagle AX +32GB DDR5 +512GB M.2 +27\""
-      },
-      {
-        "Price": 1240.00,
-        "Features": [],
-        "Date": "2024-04-22T08:16:27.2474574-04:00",
-        "Update": "2024-04-22T08:17:53.092745-04:00",
-        "Discount": 15.0,
-        "Label": "PC RTX 3050 OC 6GB +i3-14100F +B760M DS3H +16GB DDR4 +512GB M.2 +700W +MSI 24\""
-      }
-    ],
-    "Multimedia": [
-      {
-        "Price": 1195.00,
-        "Features": [],
-        "Date": "2024-04-19T10:44:53.9141234-04:00",
-        "Update": "2024-04-19T11:13:04.1567556-04:00",
-        "Discount": 10.0,
-        "Label": "PC i3-14100 +Z790 Eagle AX +32GB DDR5 AORUS +500GB M.2 +850W +Monitor MSI 24\""
       }
     ]
   },
@@ -3989,21 +3963,6 @@
         "Date": "2023-12-07T22:24:09.640104-05:00",
         "Update": "2024-01-25T12:38:36.4470355-05:00",
         "Label": "Monitor Acer Nitro 27\" 1440p Curvo 170Hz 1ms VA SPK"
-      },
-      {
-        "Price": 210.00,
-        "Features": [
-          "1080p",
-          "8Bit",
-          "300nit",
-          "FHD",
-          "Flat",
-          "DP",
-          "HDMI"
-        ],
-        "Date": "2024-01-16T04:52:49.0259735-05:00",
-        "Update": "2024-02-16T14:51:46.54882-05:00",
-        "Label": "Monitor MSI Pro 24\" VA 100Hz 1ms"
       },
       {
         "Price": 235.00,
