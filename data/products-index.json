@@ -32,14 +32,6 @@
         "Label": "Torre RTX 3050 OC 6GB +i3-14100F +Z790 Eagle AX +32GB DDR5 + 500GB M.2 +850W"
       },
       {
-        "Price": 1395.00,
-        "Features": [],
-        "Date": "2024-04-14T10:24:42.6082746-04:00",
-        "Update": "2024-04-14T10:37:19.1754456-04:00",
-        "Discount": 15.0,
-        "Label": "Torre RTX 4060 Gaming OC 8GB +i5-12600KF +Z790 Eagle AX +32GB DDR5 +850W 🚀💪"
-      },
-      {
         "Price": 955.00,
         "Features": [],
         "Date": "2024-04-22T08:10:42.688395-04:00",
@@ -78,6 +70,14 @@
         "Update": "2024-04-24T03:10:00.7053917-04:00",
         "Discount": 20.0,
         "Label": "Torre RTX 4070 Ti OC 12GB +i7-13700K +Líquido +Z790 Aorus Elite AX ICE +32GB DDR5 +1TB M.2 +1000W"
+      },
+      {
+        "Price": 1395.00,
+        "Features": [],
+        "Date": "2024-04-14T10:24:42.6082746-04:00",
+        "Update": "2024-04-25T12:00:37.2481205-04:00",
+        "Discount": 15.0,
+        "Label": "Torre RTX 4060 Gaming OC 8GB +i5-12600KF +Z790 Eagle AX +32GB DDR5 +850W"
       }
     ]
   },
@@ -178,73 +178,6 @@
         "Label": "Kit i7-12700K +Asus ROG Strix Z690-E Gaming Wifi"
       },
       {
-        "Price": 830.00,
-        "Features": [
-          "14-Gen",
-          "20 Core",
-          "28 Hilos",
-          "5.6Ghz",
-          "Wifi",
-          "8xUSB",
-          "7xSATA"
-        ],
-        "Date": "2024-04-13T04:14:20.5618691-04:00",
-        "Update": "2024-04-13T07:00:21.3282198-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i7-14700K + MSI MPG Z790 EDGE WIFI 💥🔥"
-      },
-      {
-        "Price": 840.00,
-        "Features": [
-          "12va Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.2GHz",
-          "Wifi",
-          "7xUSB",
-          "6xSATA"
-        ],
-        "Date": "2024-04-13T04:16:07.185847-04:00",
-        "Update": "2024-04-13T07:00:21.494412-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i9-12900K +MEG Z690 ACE +Líquido MasterLiquid ML240L ARGB V2 💥🔥"
-      },
-      {
-        "Price": 1005.00,
-        "Features": [
-          "12va Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.2GHz",
-          "2x16GB",
-          "6200mz",
-          "Wifi",
-          "7xUSB",
-          "6xSATA"
-        ],
-        "Date": "2024-04-13T04:16:43.4899602-04:00",
-        "Update": "2024-04-13T07:00:21.5330403-04:00",
-        "Discount": 15.0,
-        "Label": "Kit i9-12900K +MSI MEG Z690 ACE +32GB DDR5 Corsair Dominator Platinum 💥🔥"
-      },
-      {
-        "Price": 560.00,
-        "Features": [
-          "14-Gen",
-          "20 Core",
-          "28 Hilos",
-          "5.6Ghz",
-          "Wifi",
-          "Bluetooth",
-          "7xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-04-13T04:17:05.2257782-04:00",
-        "Update": "2024-04-13T07:00:21.5576457-04:00",
-        "Discount": 5.0,
-        "Label": "Kit i5-14600K +Gigabyte Z790 Eagle AX ¡Potencia y estilo! 🔥💻"
-      },
-      {
         "Price": 670.00,
         "Features": [
           "14-Gen",
@@ -277,22 +210,6 @@
         "Update": "2024-04-13T07:00:21.5985975-04:00",
         "Discount": 15.0,
         "Label": "Kit i5-14600K +Hyper 212 Spectrum V3 +Z790 Eagle AX +32GB DDR5 Corsair Vengeance"
-      },
-      {
-        "Price": 710.00,
-        "Features": [
-          "12va Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.2GHz",
-          "Wifi",
-          "7xUSB",
-          "6xSATA"
-        ],
-        "Date": "2024-04-13T04:15:45.8098344-04:00",
-        "Update": "2024-04-13T07:20:43.699085-04:00",
-        "Discount": 5.0,
-        "Label": "Kit i9-12900K + MSI MEG Z690 ACE Potencia y estilo en un solo combo 🔥💻"
       },
       {
         "Price": 790.00,
@@ -356,6 +273,89 @@
         "Date": "2024-04-11T11:14:37.2413337-04:00",
         "Update": "2024-04-20T12:09:03.9794068-04:00",
         "Label": "Kit Intel Core i5-12600K +Asus TUF Z690-Plus Wifi"
+      },
+      {
+        "Price": 830.00,
+        "Features": [
+          "14-Gen",
+          "20 Core",
+          "28 Hilos",
+          "5.6Ghz",
+          "Wifi",
+          "8xUSB",
+          "7xSATA"
+        ],
+        "Date": "2024-04-13T04:14:20.5618691-04:00",
+        "Update": "2024-04-25T12:00:03.9522398-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i7-14700K + MSI MPG Z790 EDGE WIFI"
+      },
+      {
+        "Price": 840.00,
+        "Features": [
+          "12va Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.2GHz",
+          "Wifi",
+          "7xUSB",
+          "6xSATA"
+        ],
+        "Date": "2024-04-13T04:16:07.185847-04:00",
+        "Update": "2024-04-25T12:00:03.9795887-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i9-12900K +MEG Z690 ACE +Líquido MasterLiquid ML240L ARGB V2"
+      },
+      {
+        "Price": 1005.00,
+        "Features": [
+          "12va Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.2GHz",
+          "2x16GB",
+          "6200mz",
+          "Wifi",
+          "7xUSB",
+          "6xSATA"
+        ],
+        "Date": "2024-04-13T04:16:43.4899602-04:00",
+        "Update": "2024-04-25T12:00:03.9994283-04:00",
+        "Discount": 15.0,
+        "Label": "Kit i9-12900K +MSI MEG Z690 ACE +32GB DDR5 Corsair Dominator Platinum"
+      },
+      {
+        "Price": 560.00,
+        "Features": [
+          "14-Gen",
+          "20 Core",
+          "28 Hilos",
+          "5.6Ghz",
+          "Wifi",
+          "Bluetooth",
+          "7xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-04-13T04:17:05.2257782-04:00",
+        "Update": "2024-04-25T12:00:04.022379-04:00",
+        "Discount": 5.0,
+        "Label": "Kit i5-14600K +Gigabyte Z790 Eagle AX"
+      },
+      {
+        "Price": 710.00,
+        "Features": [
+          "12va Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.2GHz",
+          "Wifi",
+          "7xUSB",
+          "6xSATA"
+        ],
+        "Date": "2024-04-13T04:15:45.8098344-04:00",
+        "Update": "2024-04-25T12:00:04.0579226-04:00",
+        "Discount": 5.0,
+        "Label": "Kit i9-12900K + MSI MEG Z690 ACE Potencia y estilo en un solo combo"
       }
     ],
     "Entusiasta": [
