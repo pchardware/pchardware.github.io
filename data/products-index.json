@@ -2,14 +2,6 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 2490.00,
-        "Features": [],
-        "Date": "2024-04-19T09:30:33.0428038-04:00",
-        "Update": "2024-04-19T09:34:37.7001443-04:00",
-        "Discount": 25.0,
-        "Label": "PC i9-14900K +Strix Z790-F Gaming Wifi +64GB DDR5 +1TB M.2 +2TB HDD +850W +27\""
-      },
-      {
         "Price": 2135.00,
         "Features": [],
         "Date": "2024-04-20T10:42:06.0831707-04:00",
@@ -28,14 +20,6 @@
         "Update": "2024-04-13T07:23:18.6144267-04:00",
         "Discount": 15.0,
         "Label": "Torre RX 6600 3X 8GB +Ryzen 5 5600X +X570S Gaming X +16GB DDR4 +500GB M.2 +750M"
-      },
-      {
-        "Price": 1930.00,
-        "Features": [],
-        "Date": "2024-04-14T11:06:43.2322357-04:00",
-        "Update": "2024-04-14T11:09:42.3000841-04:00",
-        "Discount": 15.0,
-        "Label": "Torre i9-14900K +Líquido +Z790-F Gaming Wifi +64GB DDR5 +1TB M.2 +2TB HDD +850W"
       }
     ],
     "Gamer": [
@@ -94,16 +78,6 @@
         "Update": "2024-04-24T03:10:00.7053917-04:00",
         "Discount": 20.0,
         "Label": "Torre RTX 4070 Ti OC 12GB +i7-13700K +Líquido +Z790 Aorus Elite AX ICE +32GB DDR5 +1TB M.2 +1000W"
-      }
-    ],
-    "Entusiasta": [
-      {
-        "Price": 3160.00,
-        "Features": [],
-        "Date": "2024-04-24T03:52:55.4140473-04:00",
-        "Update": "2024-04-24T03:55:17.5767616-04:00",
-        "Discount": 30.0,
-        "Label": "Torre RTX 4070 Ti Super OC 16GB +i9-14900K +MSI MPG Z790 EDGE +64GB DDR5 +2TB M.2 +850W"
       }
     ]
   },
@@ -385,60 +359,6 @@
       }
     ],
     "Entusiasta": [
-      {
-        "Price": 1050.00,
-        "Features": [
-          "14Gen",
-          "24 Core",
-          "32 Hilos",
-          "6Ghz",
-          "Wifi",
-          "Bluetooth",
-          "10xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-04-13T04:12:47.4749085-04:00",
-        "Update": "2024-04-13T07:00:21.2227268-04:00",
-        "Label": "Kit i9-14900K +Strix Z790-F Gaming ¡Ideal para gamers y creadores! 💻🔥"
-      },
-      {
-        "Price": 1295.00,
-        "Features": [
-          "14Gen",
-          "24 Core",
-          "32 Hilos",
-          "6Ghz",
-          "2x32GB",
-          "6400mhz",
-          "Wifi",
-          "Bluetooth",
-          "10xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-04-13T04:13:05.9454818-04:00",
-        "Update": "2024-04-13T07:00:21.2544356-04:00",
-        "Discount": 5.0,
-        "Label": "Kit i9-14900K +Strix Z790-F Gaming +64GB DDR5 G.Skill Trident Z5 RGB 6400mhz"
-      },
-      {
-        "Price": 1540.00,
-        "Features": [
-          "14Gen",
-          "24 Core",
-          "32 Hilos",
-          "6Ghz",
-          "2x32GB",
-          "6400mhz",
-          "Wifi",
-          "Bluetooth",
-          "10xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-04-13T04:13:52.914243-04:00",
-        "Update": "2024-04-13T07:00:21.2930862-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i9-14900K +Líquido RYUO III 240 ARGB +Strix Z790-F Gaming +64GB DDR5 RGB"
-      },
       {
         "Price": 1065.00,
         "Features": [
@@ -1769,23 +1689,6 @@
         "Label": "Micro Intel Core i7-14700K"
       },
       {
-        "Price": 635.00,
-        "Features": [
-          "14va Gen",
-          "24 Core",
-          "32 Hilos",
-          "6Ghz",
-          "36mb L3",
-          "253W",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-10-23T12:31:45.6342687-04:00",
-        "Update": "2024-04-13T06:18:02.0159356-04:00",
-        "Label": "Micro Intel Core i9-14900K"
-      },
-      {
         "Price": 385.00,
         "Features": [
           "13ra Gen",
@@ -2882,18 +2785,6 @@
         "Date": "2023-08-16T09:17:42.5509882-04:00",
         "Update": "2024-03-07T04:00:33.9916428-05:00",
         "Label": "SSD M.2 Samsung 980 PRO 2TB"
-      },
-      {
-        "Price": 110.00,
-        "Features": [
-          "7300mbs",
-          "600tbw",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-08-16T09:17:48.5783952-04:00",
-        "Update": "2024-03-13T15:24:13.035556-04:00",
-        "Label": "SSD M.2 WD BLACK SN850X 1TB"
       },
       {
         "Price": 90.00,
