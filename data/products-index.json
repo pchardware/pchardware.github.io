@@ -9,6 +9,16 @@
         "Discount": 20.0,
         "Label": "PC RTX 4060 Ti 8GB +Core i7-12700K +Z790 Eagle AX +32GB DDR5 +512GB M.2 +27\""
       }
+    ],
+    "Multimedia": [
+      {
+        "Price": 1000.00,
+        "Features": [],
+        "Date": "2024-04-27T05:48:56.699818-04:00",
+        "Update": "2024-04-27T06:36:58.8914732-04:00",
+        "Discount": 35.0,
+        "Label": "PC i3-14100 +B760M PRO RS +16 DDR4 +512GB M.2 +500W +Chasis RGB +MSI 25\""
+      }
     ]
   },
   "Torres": {
