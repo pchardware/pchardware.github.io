@@ -90,7 +90,7 @@
         "Label": "Torre RTX 4060 Gaming OC 8GB +i5-12600KF +Z790 Eagle AX +32GB DDR5 +850W"
       },
       {
-        "Price": 1960.00,
+        "Price": 1950.00,
         "Features": [],
         "Date": "2024-04-27T07:51:59.1867818-04:00",
         "Update": "2024-04-27T07:54:32.314613-04:00",
@@ -900,7 +900,7 @@
         "Label": "Fuente Corsair HX1500i 1500W"
       },
       {
-        "Price": 170.00,
+        "Price": 160.00,
         "Features": [
           "ATX 3.0",
           "80+ Bronze",
@@ -2284,22 +2284,6 @@
         "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X 8GB"
       },
       {
-        "Price": 295.00,
-        "Features": [
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "278mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-07-12T21:42:54.3752209-04:00",
-        "Update": "2024-03-04T22:32:49.6956199-05:00",
-        "Def": true,
-        "Label": "Tarjeta de Video MSI Gaming X RTX 3050 8GB"
-      },
-      {
         "Price": 370.00,
         "Features": [
           "DLSS3",
@@ -2754,18 +2738,6 @@
         "Date": "2024-01-27T21:38:27.250846-05:00",
         "Update": "2024-02-28T07:53:53.6122493-05:00",
         "Label": "SSD M.2 HP FX900 Pro 512GB"
-      },
-      {
-        "Price": 75.00,
-        "Features": [
-          "3400mbs",
-          "600TBW",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2024-01-16T04:52:23.8101464-05:00",
-        "Update": "2024-02-28T07:53:53.6419818-05:00",
-        "Label": "SSD M.2 Acer Predator GM3500 1TB"
       },
       {
         "Price": 135.00,
