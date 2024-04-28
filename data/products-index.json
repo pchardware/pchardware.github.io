@@ -66,14 +66,6 @@
         "Label": "Torre RX 6600 8GB +i3-14100F +B760M PRO RS +32GB DDR5 +512 M.2 +750W +Chasis RGB"
       },
       {
-        "Price": 1240.00,
-        "Features": [],
-        "Date": "2024-04-23T09:00:39.2652066-04:00",
-        "Update": "2024-04-23T10:29:19.628559-04:00",
-        "Discount": 15.0,
-        "Label": "Torre RX 7600 8GB +i5-12600K +B760M PRO RS +32GB DDR5 +512GB M.2 +750W"
-      },
-      {
         "Price": 2370.00,
         "Features": [],
         "Date": "2024-04-24T02:30:37.8497944-04:00",
@@ -2456,22 +2448,6 @@
         "Date": "2023-11-18T08:41:47.9392507-05:00",
         "Update": "2024-04-15T18:13:08.2318775-04:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Eagle OC 8GB"
-      },
-      {
-        "Price": 315.00,
-        "Features": [
-          "3xFan",
-          "1x8Pin",
-          "550WR",
-          "274mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-10-13T09:28:55.7781232-04:00",
-        "Update": "2024-04-20T12:56:55.9913109-04:00",
-        "Label": "Tarjeta de Video XFX Qick 308 RX 7600 8GB"
       },
       {
         "Price": 305.00,
