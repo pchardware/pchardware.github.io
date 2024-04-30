@@ -1,0 +1,19 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Otros",
+  "Images": [
+    "/images/products/fan-corsair-ml120-pwm-premium-1.webp"
+  ],
+  "Description": "El ventilador Corsair ML120 PWM Premium Magnetic Levitation [31-005165] es un ventilador de alto rendimiento que utiliza tecnología de levitación magnética para proporcionar un rendimiento y silencio inigualables.\n\nEspecificaciones técnicas:\n\nTecnología de levitación magnética: Esta tecnología permite un menor ruido, mayor rendimiento y una vida útil más larga.\nDiseño de rotor personalizado: Proporciona el equilibrio perfecto entre alta presión estática y alto flujo de aire, funcionando perfectamente en los entornos más desafiantes.\nRango de control extenso: Un rango de control PWM de 2,000 RPM proporciona un control total entre el bajo ruido y el rendimiento absoluto.\nPersonalización de color: Las esquinas reemplazables montadas en amortiguadores de goma antivibración te permiten combinar tus ventiladores con el resto de tu construcción, al tiempo que proporcionan una operación silenciosa a velocidades más altas.",
+  "Price": 14.00,
+  "Features": [
+    "120mm",
+    "Levitación Magnetica",
+    "2000rpm",
+    "75cfm",
+    "37db"
+  ],
+  "Date": "2024-04-30T06:45:22.6936323-04:00",
+  "Update": "2024-04-30T10:52:59.5788053-04:00",
+  "Label": "Fan Corsair ML120 PWM Premium"
+}
