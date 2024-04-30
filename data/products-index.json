@@ -814,6 +814,30 @@
         "Date": "2023-11-24T09:48:43.307434-05:00",
         "Update": "2024-04-13T20:24:22.2441269-04:00",
         "Label": "HUB EN-Labs Panel Frontal 5.25\" 7xUSB3"
+      },
+      {
+        "Price": 11.00,
+        "Features": [
+          "120mm",
+          "Bola",
+          "90cfm"
+        ],
+        "Date": "2024-04-30T06:44:55.3819281-04:00",
+        "Update": "2024-04-30T10:52:59.5611328-04:00",
+        "Label": "Fan Corsair 120mm Brushless"
+      },
+      {
+        "Price": 14.00,
+        "Features": [
+          "120mm",
+          "Levitación Magnetica",
+          "2000rpm",
+          "75cfm",
+          "37db"
+        ],
+        "Date": "2024-04-30T06:45:22.6936323-04:00",
+        "Update": "2024-04-30T10:52:59.5788053-04:00",
+        "Label": "Fan Corsair ML120 PWM Premium"
       }
     ],
     "Fuente": [
