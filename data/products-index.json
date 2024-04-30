@@ -1636,6 +1636,40 @@
         "Date": "2023-10-16T10:24:39.6367232-04:00",
         "Update": "2024-02-20T04:12:06.3830671-05:00",
         "Label": "Disipador Thermaltake UX200 SE White"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "6xPipes",
+          "1500rpm",
+          "82.52CFM",
+          "24.6dB",
+          "LGA 1200",
+          "LGA 1700",
+          "LGA 2011",
+          "LGA 2066",
+          "AM4",
+          "2xFan"
+        ],
+        "Date": "2024-04-30T06:44:38.2139693-04:00",
+        "Update": "2024-04-30T09:42:29.9164595-04:00",
+        "Label": "Disipador Noctua NH-D15 Chromax Black"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "1700rpm",
+          "25.1dB",
+          "LGA 1200",
+          "LGA 1700",
+          "LGA 2011",
+          "LGA 2066",
+          "AM4",
+          "AM5"
+        ],
+        "Date": "2024-04-30T06:44:44.0058799-04:00",
+        "Update": "2024-04-30T09:42:29.9336256-04:00",
+        "Label": "Disipador Noctua NH-U12S Redux Grey"
       }
     ],
     "Microprocesador": [
@@ -2267,6 +2301,22 @@
         "Date": "2023-11-03T12:22:56.9620417-04:00",
         "Update": "2024-03-07T04:00:34.2345223-05:00",
         "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "Tempered Glass",
+          "3xFan ARGB",
+          "3xUSB",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "Negro",
+          "2xHDD"
+        ],
+        "Date": "2024-04-30T06:45:15.022489-04:00",
+        "Update": "2024-04-30T09:42:29.9510849-04:00",
+        "Label": "Chasis Cougar Archon 2 Mesh RGB White"
       }
     ],
     "Tarjeta Gráfica": [
