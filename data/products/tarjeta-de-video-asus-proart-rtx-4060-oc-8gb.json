@@ -1,0 +1,30 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/tarjeta-de-video-asus-proart-rtx-4060-oc-8gb-1.webp",
+    "/images/products/tarjeta-de-video-asus-proart-rtx-4060-oc-8gb-2.webp",
+    "/images/products/tarjeta-de-video-asus-proart-rtx-4060-oc-8gb-3.webp",
+    "/images/products/tarjeta-de-video-asus-proart-rtx-4060-oc-8gb-4.webp",
+    "/images/products/tarjeta-de-video-asus-proart-rtx-4060-oc-8gb-5.webp",
+    "/images/products/tarjeta-de-video-asus-proart-rtx-4060-oc-8gb-6.webp",
+    "/images/products/tarjeta-de-video-asus-proart-rtx-4060-oc-8gb-7.webp"
+  ],
+  "Description": "Model\nBrand: ASUS\nSeries: ProArt\nModel: PROART-RTX4060-O8G\nPart Number: 90YV0JM0-M0AA00\n\n\nInterface\nInterface: PCI Express 4.0\n\n\nChipset\nChipset Manufacturer: NVIDIA\nGPU Series: NVIDIA GeForce RTX 40 Series\nGPU: GeForce RTX 4060\nCUDA Cores: 3072 Cores\n\n\nMemory\nEffective Memory Clock: 17000 MHz\nMemory Size: 8GB\nMemory Interface: 128-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 1 x HDMI 2.1a\nDisplayPort: 3 x DisplayPort 1.4a\n\n\nDetails\nMax Resolution: 7680 x 4320\nCooler: Triple Fans\nThermal Design Power: 115W\nRecommended PSU Wattage: 550W\nPower Connector: 8-Pin\nHDCP Ready: Yes\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 300 mm\nSlot Width: 2.5 Slots",
+  "Price": 435.00,
+  "Features": [
+    "DLSS3",
+    "3xFan",
+    "1x8Pin",
+    "550WR",
+    "PCIe4",
+    "300mm",
+    "GeForce",
+    "NVIDIA",
+    "GPU",
+    "Gráfica"
+  ],
+  "Date": "2023-12-19T06:42:00.2738717-05:00",
+  "Update": "2024-04-30T06:43:08.0682226-04:00",
+  "Label": "Tarjeta de Video Asus ProArt RTX 4060 OC 8GB"
+}
