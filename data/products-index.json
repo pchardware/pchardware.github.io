@@ -465,22 +465,6 @@
         "Label": "Kit i7-13700K +MSI MPG Z790 EDGE Wifi +32GB DDR5 Trident Z5 NEO RGB 6400mhz"
       },
       {
-        "Price": 1050.00,
-        "Features": [
-          "14Gen",
-          "24 Core",
-          "32 Hilos",
-          "6Ghz",
-          "Wifi",
-          "Bluetooth",
-          "10xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-04-13T04:12:47.4749085-04:00",
-        "Update": "2024-04-30T06:43:08.1307218-04:00",
-        "Label": "Kit i9-14900K +Strix Z790-F Gaming ¡Ideal para gamers y creadores! 💻🔥"
-      },
-      {
         "Price": 1295.00,
         "Features": [
           "14Gen",
@@ -517,6 +501,22 @@
         "Update": "2024-04-30T06:43:08.1762156-04:00",
         "Discount": 10.0,
         "Label": "Kit i9-14900K +Líquido RYUO III 240 ARGB +Strix Z790-F Gaming +64GB DDR5 RGB"
+      },
+      {
+        "Price": 1050.00,
+        "Features": [
+          "14Gen",
+          "24 Core",
+          "32 Hilos",
+          "6Ghz",
+          "Wifi",
+          "Bluetooth",
+          "10xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-04-13T04:12:47.4749085-04:00",
+        "Update": "2024-04-30T09:33:05.5039424-04:00",
+        "Label": "Kit i9-14900K +Strix Z790-F Gaming"
       }
     ],
     "Esencial": [
@@ -2706,6 +2706,57 @@
         "Date": "2024-04-11T02:49:46.3017721-04:00",
         "Update": "2024-04-30T06:43:08.1096687-04:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Gaming OC V2 12GB"
+      },
+      {
+        "Price": 450.00,
+        "Features": [
+          "DLSS3",
+          "2xfan",
+          "1x8Pin",
+          "500WR",
+          "226mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-04-30T06:44:11.1512843-04:00",
+        "Update": "2024-04-30T09:33:05.5314491-04:00",
+        "Label": "Tarjeta de Video Zotac Gaming RTX 4060 Ti 8GB Twin Edge OC"
+      },
+      {
+        "Price": 710.00,
+        "Features": [
+          "DLSS3",
+          "3xfan",
+          "1x8Pin",
+          "650WR",
+          "300mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-04-30T06:45:02.7666735-04:00",
+        "Update": "2024-04-30T09:33:05.552666-04:00",
+        "Label": "Tarjeta de Video Asus ProArt RTX 4070 OC 12GB"
+      },
+      {
+        "Price": 265.00,
+        "Features": [
+          "DLSS3",
+          "2xfan",
+          "1x8Pin",
+          "300WR",
+          "205mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-04-30T06:45:08.3025165-04:00",
+        "Update": "2024-04-30T09:33:05.5717832-04:00",
+        "Label": "Tarjeta de Video MSI RTX 3050 Gaming X 6GB"
       }
     ],
     "Disco Sólido": [
