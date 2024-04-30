@@ -8,6 +8,14 @@
         "Update": "2024-04-20T10:46:01.8533285-04:00",
         "Discount": 20.0,
         "Label": "PC RTX 4060 Ti 8GB +Core i7-12700K +Z790 Eagle AX +32GB DDR5 +512GB M.2 +27\""
+      },
+      {
+        "Price": 2480.00,
+        "Features": [],
+        "Date": "2024-04-19T09:30:33.0428038-04:00",
+        "Update": "2024-04-30T06:43:08.2149118-04:00",
+        "Discount": 25.0,
+        "Label": "PC i9-14900K +Strix Z790-F Gaming Wifi +64GB DDR5 +1TB M.2 +2TB HDD +850W +27\""
       }
     ],
     "Multimedia": [
@@ -30,6 +38,14 @@
         "Update": "2024-04-13T07:23:18.6144267-04:00",
         "Discount": 15.0,
         "Label": "Torre RX 6600 3X 8GB +Ryzen 5 5600X +X570S Gaming X +16GB DDR4 +500GB M.2 +750M"
+      },
+      {
+        "Price": 1920.00,
+        "Features": [],
+        "Date": "2024-04-14T11:06:43.2322357-04:00",
+        "Update": "2024-04-30T06:43:08.1959576-04:00",
+        "Discount": 15.0,
+        "Label": "Torre i9-14900K +Líquido +Z790-F Gaming Wifi +64GB DDR5 +1TB M.2 +2TB HDD +850W"
       }
     ],
     "Gamer": [
@@ -90,6 +106,16 @@
         "Update": "2024-04-29T11:32:06.7967593-04:00",
         "Discount": 15.0,
         "Label": "Torre i3-14100 +B760M PRO RS +16GB RAM 3600Mhz +500GB M.2 Corsair+ CORSAIR CX550 550W"
+      }
+    ],
+    "Entusiasta": [
+      {
+        "Price": 3145.00,
+        "Features": [],
+        "Date": "2024-04-24T03:52:55.4140473-04:00",
+        "Update": "2024-04-30T06:43:08.2324451-04:00",
+        "Discount": 30.0,
+        "Label": "Torre RTX 4070 Ti Super OC 16GB +i9-14900K +MSI MPG Z790 EDGE +64GB DDR5 +2TB M.2 +850W"
       }
     ]
   },
@@ -368,6 +394,20 @@
         "Update": "2024-04-25T12:00:04.0579226-04:00",
         "Discount": 5.0,
         "Label": "Kit i9-12900K + MSI MEG Z690 ACE Potencia y estilo en un solo combo"
+      },
+      {
+        "Price": 627.00,
+        "Features": [
+          "10 Core",
+          "16 Hilos",
+          "2x16",
+          "6000mhz",
+          "Wifi"
+        ],
+        "Date": "2023-12-03T11:09:06.1898487-05:00",
+        "Update": "2024-04-30T06:43:08.0069836-04:00",
+        "Discount": 8.0,
+        "Label": "Kit i5-12600K + Board Gigabyte Z790 Aorus Elite AX + DDR5 Corsair Vengeance 32GB"
       }
     ],
     "Entusiasta": [
@@ -423,6 +463,60 @@
         "Date": "2024-03-17T07:52:13.753635-04:00",
         "Update": "2024-04-20T12:09:03.8982005-04:00",
         "Label": "Kit i7-13700K +MSI MPG Z790 EDGE Wifi +32GB DDR5 Trident Z5 NEO RGB 6400mhz"
+      },
+      {
+        "Price": 1050.00,
+        "Features": [
+          "14Gen",
+          "24 Core",
+          "32 Hilos",
+          "6Ghz",
+          "Wifi",
+          "Bluetooth",
+          "10xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-04-13T04:12:47.4749085-04:00",
+        "Update": "2024-04-30T06:43:08.1307218-04:00",
+        "Label": "Kit i9-14900K +Strix Z790-F Gaming ¡Ideal para gamers y creadores! 💻🔥"
+      },
+      {
+        "Price": 1295.00,
+        "Features": [
+          "14Gen",
+          "24 Core",
+          "32 Hilos",
+          "6Ghz",
+          "2x32GB",
+          "6400mhz",
+          "Wifi",
+          "Bluetooth",
+          "10xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-04-13T04:13:05.9454818-04:00",
+        "Update": "2024-04-30T06:43:08.1494096-04:00",
+        "Discount": 5.0,
+        "Label": "Kit i9-14900K +Strix Z790-F Gaming +64GB DDR5 G.Skill Trident Z5 RGB 6400mhz"
+      },
+      {
+        "Price": 1540.00,
+        "Features": [
+          "14Gen",
+          "24 Core",
+          "32 Hilos",
+          "6Ghz",
+          "2x32GB",
+          "6400mhz",
+          "Wifi",
+          "Bluetooth",
+          "10xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-04-13T04:13:52.914243-04:00",
+        "Update": "2024-04-30T06:43:08.1762156-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i9-14900K +Líquido RYUO III 240 ARGB +Strix Z790-F Gaming +64GB DDR5 RGB"
       }
     ],
     "Esencial": [
@@ -1083,6 +1177,41 @@
         "Update": "2024-04-24T01:41:05.6151909-04:00",
         "Def": true,
         "Label": "Fuente Corsair AX760"
+      },
+      {
+        "Price": 220.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "850W",
+          "71A",
+          "6x 6+2-Pin",
+          "10x SATA"
+        ],
+        "Date": "2023-04-15T07:27:12.1008704-04:00",
+        "Update": "2024-04-30T06:43:07.9125325-04:00",
+        "Label": "CORSAIR RM850X"
+      },
+      {
+        "Price": 235.00,
+        "Features": [
+          "ATX 3.0",
+          "80+ Gold",
+          "Full Modular",
+          "Zero RPM",
+          "1x 16Pin",
+          "6x 6+2Pin",
+          "83A",
+          "2x 4+4 EPS",
+          "151mm",
+          "7xSATA",
+          "4x PATA",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-08-08T10:08:04.4203937-04:00",
+        "Update": "2024-04-30T06:43:07.9340674-04:00",
+        "Label": "Fuente Corsair RM1000e 1000W"
       }
     ],
     "Disipador Líquido": [
@@ -1308,6 +1437,25 @@
         "Date": "2024-04-11T02:49:55.1254282-04:00",
         "Update": "2024-04-11T08:04:32.1404206-04:00",
         "Label": "Disipador Líquido Asus TUF Gaming LC 240 ARGB"
+      },
+      {
+        "Price": 155.00,
+        "Features": [
+          "1500rpm",
+          "48cfm",
+          "28db",
+          "2xFan",
+          "240mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "LGA 20XX",
+          "AM5",
+          "AM4"
+        ],
+        "Date": "2023-03-27T12:00:05.9787174-04:00",
+        "Update": "2024-04-30T06:43:08.0279201-04:00",
+        "Label": "Disipador Líquido Corsair H100x RGB Elite"
       }
     ],
     "Disco Duro": [
@@ -1712,6 +1860,22 @@
         "Date": "2023-10-13T09:28:27.261681-04:00",
         "Update": "2024-04-20T12:09:03.7936298-04:00",
         "Label": "Micro AMD Ryzen 5 5600G +Disipador"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "12va Gen",
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "18MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-02-17T09:45:29.425139-05:00",
+        "Update": "2024-04-30T06:43:08.0479105-04:00",
+        "Label": "Micro Intel Core i5-12400 +Disipador"
       }
     ],
     "Memoria RAM": [
@@ -2490,6 +2654,58 @@
         "Date": "2024-03-13T15:18:04.3313972-04:00",
         "Update": "2024-04-20T18:32:14.3024973-04:00",
         "Label": "Tarjeta de Video Gigabyte Aorus RX 6750 XT Elite 12GB"
+      },
+      {
+        "Price": 480.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "1x8Pin",
+          "550WR",
+          "312mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-10-23T12:32:13.7726731-04:00",
+        "Update": "2024-04-30T06:43:07.9787135-04:00",
+        "Label": "Tarjeta de Video Asus ROG Strix RTX 4060 OC 8GB"
+      },
+      {
+        "Price": 435.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "1x8Pin",
+          "550WR",
+          "PCIe4",
+          "300mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-12-19T06:42:00.2738717-05:00",
+        "Update": "2024-04-30T06:43:08.0682226-04:00",
+        "Label": "Tarjeta de Video Asus ProArt RTX 4060 OC 8GB"
+      },
+      {
+        "Price": 660.00,
+        "Features": [
+          "DLSS3",
+          "3xfan",
+          "1x8Pin",
+          "650WR",
+          "300mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-04-11T02:49:46.3017721-04:00",
+        "Update": "2024-04-30T06:43:08.1096687-04:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4070 Gaming OC V2 12GB"
       }
     ],
     "Disco Sólido": [
@@ -2767,6 +2983,17 @@
         "Date": "2024-04-11T02:50:58.4941382-04:00",
         "Update": "2024-04-11T07:58:42.0650816-04:00",
         "Label": "SSD M.2 Samsung 990 EVO 1TB"
+      },
+      {
+        "Price": 220.00,
+        "Features": [
+          "7450mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-08-29T08:42:45.4600847-04:00",
+        "Update": "2024-04-30T06:43:07.9607122-04:00",
+        "Label": "SSD M.2 Samsung 990 Pro 2TB"
       }
     ],
     "Board": [
@@ -2988,6 +3215,26 @@
         "Date": "2023-07-26T18:49:47.5277946-04:00",
         "Update": "2024-04-23T06:09:28.1814792-04:00",
         "Label": "ASRock B760M PRO RS"
+      },
+      {
+        "Price": 285.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "7600mhz",
+          "Wifi",
+          "9xUSB",
+          "6xSATA",
+          "LGA 1700",
+          "ATX",
+          "DisplayPort",
+          "HDMI",
+          "3xAudio",
+          "MOBO"
+        ],
+        "Date": "2023-10-03T06:55:49.2464488-04:00",
+        "Update": "2024-04-30T06:43:08.0883424-04:00",
+        "Label": "Board Gigabyte Z790 Aorus Elite AX"
       }
     ]
   },
