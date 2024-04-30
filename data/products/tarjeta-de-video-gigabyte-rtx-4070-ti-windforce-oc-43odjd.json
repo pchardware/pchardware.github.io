@@ -9,7 +9,7 @@
     "/images/products/tarjeta-de-video-gigabyte-rtx-4070-ti-windforce-oc-43odjd-5.webp"
   ],
   "Description": "Model\nBrand: GIGABYTE\nSeries: WINDFORCE\nModel: GV-N407TWF3OC-12GD\n\n\nInterface\nInterface: PCI Express 4.0 x16\n\n\nChipset\nChipset Manufacturer: NVIDIA\nGPU Series: NVIDIA GeForce RTX 40 Series\nGPU: GeForce RTX 4070 Ti\nCore Clock: 2625 MHz\nCUDA Cores: 7680 Cores\n\n\nMemory\nEffective Memory Clock: 21000 MHz (21 Gbps)\nMemory Size: 12GB\nMemory Interface: 192-Bit\nMemory Type: GDDR6X\n\n\n3D API\nDirectX: DirectX 12\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 1 x HDMI\nDisplayPort: 3 x DisplayPort\n\n\nDetails\nMax Resolution: 7680 x 4320\nVirtual Reality Ready: Yes\nCooler: Triple Fans\nThermal Design Power: 285W\nRecommended PSU Wattage: 750W\nPower Connector: 1 x 16-Pin\nHDCP Ready: Yes\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 261 mm\nSlot Width: 2.5 Slots",
-  "Price": 835.00,
+  "Price": 825.00,
   "Features": [
     "DLSS3",
     "3xfan",
