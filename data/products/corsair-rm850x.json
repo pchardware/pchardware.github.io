@@ -1,0 +1,26 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Fuente",
+  "Images": [
+    "/images/products/corsair-rm850x-1.webp",
+    "/images/products/corsair-rm850x-2.webp",
+    "/images/products/corsair-rm850x-3.webp",
+    "/images/products/corsair-rm850x-4.webp",
+    "/images/products/corsair-rm850x-5.webp",
+    "/images/products/corsair-rm850x-6.webp",
+    "/images/products/corsair-rm850x-7.webp"
+  ],
+  "Description": "General\nBrand: CORSAIR\nSeries: RMx Series\nModel: RM850X (CP-9020093-NA)\n\n\nDetails\nType: ATX12V / EPS12V\nMaximum Power: 850 W\nFans: 1 x 135mm Rifle Bearing Fan\nPFC: Active\nMain Connector: 24Pin\n+12V Rails: Single\nPCI-Express Connector: 6 x 6+2-Pin\nSATA Power Connector: 10\nSLI: SLI Ready\nHaswell Support: Yes\nCrossFire: CrossFire Ready\nModular: Full Modular\nEfficiency: 90%\nEnergy-Efficient: 80 PLUS GOLD Certified\nOver Voltage Protection: Yes\nInput Voltage: 100 - 240 V\nInput Frequency Range: 47 - 63 Hz\nInput Current: 12 - 6A\nOutput: +3.3V @ 25A, +5V @ 25A, +12V @ 70.8A, -12V @ 0.8A, +5VSB @ 3A\nMTBF: 100,000 Hours\nApprovals: FCC, ICES, CE, UL / CUL, CSA, C-Tick / RCM, TUV, CB, CU, KC Mark, RoHS, WEEE, RoHS (China), REACH\nConnectors: 1 x ATX Connector2 x EPS Connector1 x Floppy Connector8 x 4-Pin Peripheral Connector6 x PCI-E Connector10 x SATA Connector\n\n\nFeatures\nFeatures: 80 PLUS Gold efficiency, delivering 90% energy efficiency at real world load conditionsZeroRPM mode for fanless operation at low loads and outstanding noise reduction135mm thermally controlled fan spins up as neededFully modular cables for easy installation, less clutter, and helps maximize airflow through your computer's chassisEngineered to meet maximum power output at a server-grade 50 degrees centigrade temperature ratingOver-voltage protection, under-voltage protection, short circuit protection, over power protection, and over temperature protection provide maximum safety to your critical system components\n\n\nDimension & Weight\nDimensions: 3.39\" x 7.09\" x 5.91\"\nWeight: 4.38 lbs.",
+  "Price": 220.00,
+  "Features": [
+    "80+ Gold",
+    "Full Modular",
+    "850W",
+    "71A",
+    "6x 6+2-Pin",
+    "10x SATA"
+  ],
+  "Date": "2023-04-15T07:27:12.1008704-04:00",
+  "Update": "2024-04-30T06:43:07.9125325-04:00",
+  "Label": "CORSAIR RM850X"
+}
