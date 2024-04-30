@@ -2,7 +2,7 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 2135.00,
+        "Price": 2130.00,
         "Features": [],
         "Date": "2024-04-20T10:42:06.0831707-04:00",
         "Update": "2024-04-20T10:46:01.8533285-04:00",
@@ -66,7 +66,7 @@
         "Label": "Torre RTX 4060 Gaming OC 8GB +i5-12600KF +Z790 Eagle AX +32GB DDR5 +850W"
       },
       {
-        "Price": 1940.00,
+        "Price": 1935.00,
         "Features": [],
         "Date": "2024-04-27T07:51:59.1867818-04:00",
         "Update": "2024-04-27T07:54:32.314613-04:00",
@@ -175,7 +175,7 @@
         "Label": "Kit i5-12600K +Gigabyte Z790 Eagle AX"
       },
       {
-        "Price": 570.00,
+        "Price": 565.00,
         "Features": [
           "20 Hilos",
           "12 Core",
@@ -303,7 +303,7 @@
         "Label": "Kit i7-14700K + MSI MPG Z790 EDGE WIFI"
       },
       {
-        "Price": 830.00,
+        "Price": 820.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -319,7 +319,7 @@
         "Label": "Kit i9-12900K +MEG Z690 ACE +Líquido MasterLiquid ML240L ARGB V2"
       },
       {
-        "Price": 995.00,
+        "Price": 985.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -354,7 +354,7 @@
         "Label": "Kit i5-14600K +Gigabyte Z790 Eagle AX"
       },
       {
-        "Price": 700.00,
+        "Price": 690.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -1512,7 +1512,7 @@
         "Label": "Micro AMD Ryzen 9 7900X"
       },
       {
-        "Price": 350.00,
+        "Price": 340.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -1562,7 +1562,7 @@
         "Label": "Micro Intel Core i5-12600K"
       },
       {
-        "Price": 265.00,
+        "Price": 260.00,
         "Features": [
           "12va Gen",
           "20 Hilos",
@@ -1660,6 +1660,23 @@
         "Date": "2023-10-23T12:31:42.2126394-04:00",
         "Update": "2024-04-13T06:18:02.0000173-04:00",
         "Label": "Micro Intel Core i7-14700K"
+      },
+      {
+        "Price": 635.00,
+        "Features": [
+          "14va Gen",
+          "24 Core",
+          "32 Hilos",
+          "6Ghz",
+          "36mb L3",
+          "253W",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-10-23T12:31:45.6342687-04:00",
+        "Update": "2024-04-13T06:18:02.0159356-04:00",
+        "Label": "Micro Intel Core i9-14900K"
       },
       {
         "Price": 385.00,
@@ -2705,7 +2722,7 @@
         "Label": "SSD M.2 WD SN350 2TB"
       },
       {
-        "Price": 215.00,
+        "Price": 200.00,
         "Features": [
           "7000mbs",
           "PCIe 4",
