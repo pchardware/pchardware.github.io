@@ -1,0 +1,17 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Otros",
+  "Images": [
+    "/images/products/fan-corsair-120mm-brushless-1.webp"
+  ],
+  "Description": "El ventilador Corsair 120mm 3-Pin Brushless CF12S25SH12A es un ventilador de alta calidad diseñado para proporcionar un flujo de aire eficiente y silencioso. \n\nEspecificaciones técnicas:\n\nDiámetro del ventilador: 120 mm\nTipo de ventilador: Ventilador de caja\nConexión de alimentación: 3-Pin\nVoltaje: 12 V\nColor: Negro\nTipo de rodamiento: Bola\nVolumen máximo de flujo de aire: 90 CFM\nNúmero de modelo: CF12S25SH12A\nEste ventilador es ideal para aquellos que buscan un rendimiento silencioso y eficiente para su sistema. Por favor, ten en cuenta que estas especificaciones pueden variar dependiendo del modelo específico y del fabricante",
+  "Price": 11.00,
+  "Features": [
+    "120mm",
+    "Bola",
+    "90cfm"
+  ],
+  "Date": "2024-04-30T06:44:55.3819281-04:00",
+  "Update": "2024-04-30T10:52:59.5611328-04:00",
+  "Label": "Fan Corsair 120mm Brushless"
+}
