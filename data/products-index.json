@@ -10,7 +10,7 @@
         "Label": "PC RTX 4060 Ti 8GB +Core i7-12700K +Z790 Eagle AX +32GB DDR5 +512GB M.2 +27\""
       },
       {
-        "Price": 2470.00,
+        "Price": 2450.00,
         "Features": [],
         "Date": "2024-04-19T09:30:33.0428038-04:00",
         "Update": "2024-04-30T06:43:08.2149118-04:00",
@@ -20,7 +20,7 @@
     ],
     "Multimedia": [
       {
-        "Price": 995.00,
+        "Price": 980.00,
         "Features": [],
         "Date": "2024-04-27T05:48:56.699818-04:00",
         "Update": "2024-04-27T06:36:58.8914732-04:00",
@@ -40,7 +40,7 @@
         "Label": "Torre RX 6600 3X 8GB +Ryzen 5 5600X +X570S Gaming X +16GB DDR4 +500GB M.2 +750M"
       },
       {
-        "Price": 1910.00,
+        "Price": 1890.00,
         "Features": [],
         "Date": "2024-04-14T11:06:43.2322357-04:00",
         "Update": "2024-04-30T06:43:08.1959576-04:00",
@@ -66,7 +66,7 @@
         "Label": "Torre RX 6600 8GB +i3-14100F +B760M PRO RS +32GB DDR5 +512 M.2 +750W +Chasis RGB"
       },
       {
-        "Price": 2360.00,
+        "Price": 2340.00,
         "Features": [],
         "Date": "2024-04-24T02:30:37.8497944-04:00",
         "Update": "2024-04-24T03:10:00.7053917-04:00",
@@ -74,7 +74,7 @@
         "Label": "Torre RTX 4070 Ti OC 12GB +i7-13700K +Líquido +Z790 Aorus Elite AX ICE +32GB DDR5 +1TB M.2 +1000W"
       },
       {
-        "Price": 1395.00,
+        "Price": 1390.00,
         "Features": [],
         "Date": "2024-04-14T10:24:42.6082746-04:00",
         "Update": "2024-04-25T12:00:37.2481205-04:00",
@@ -92,7 +92,7 @@
     ],
     "Multimedia": [
       {
-        "Price": 700.00,
+        "Price": 685.00,
         "Features": [],
         "Date": "2024-04-27T04:41:03.137563-04:00",
         "Update": "2024-04-27T04:43:45.3403524-04:00",
@@ -100,7 +100,7 @@
         "Label": "Torre i3-14100 +Gigabyte B760M DS3H +16GB DDR4 +500GB M.2 +500W +Chasis RGB"
       },
       {
-        "Price": 745.00,
+        "Price": 740.00,
         "Features": [],
         "Date": "2024-04-29T08:50:52.710014-04:00",
         "Update": "2024-04-29T11:32:06.7967593-04:00",
@@ -110,7 +110,7 @@
     ],
     "Entusiasta": [
       {
-        "Price": 3125.00,
+        "Price": 3105.00,
         "Features": [],
         "Date": "2024-04-24T03:52:55.4140473-04:00",
         "Update": "2024-04-30T06:43:08.2324451-04:00",
@@ -184,7 +184,7 @@
         "Label": "Kit AMD Ryzen 5 5600X +Gigabyte X570S Gaming X +32GB DDR4 Corsair Vengeance LPX"
       },
       {
-        "Price": 470.00,
+        "Price": 460.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -216,7 +216,7 @@
         "Label": "Kit i7-12700K +Asus ROG Strix Z690-E Gaming Wifi"
       },
       {
-        "Price": 670.00,
+        "Price": 665.00,
         "Features": [
           "14-Gen",
           "20 Core",
@@ -233,7 +233,7 @@
         "Label": "Kit i5-14600K +Gigabyte Z790 Eagle AX +32GB DDR5 Corsair Vengeance 6000mhz"
       },
       {
-        "Price": 725.00,
+        "Price": 720.00,
         "Features": [
           "14-Gen",
           "20 Core",
@@ -250,7 +250,7 @@
         "Label": "Kit i5-14600K +Hyper 212 Spectrum V3 +Z790 Eagle AX +32GB DDR5 Corsair Vengeance"
       },
       {
-        "Price": 770.00,
+        "Price": 760.00,
         "Features": [
           "24 Hilos",
           "16 Core",
@@ -264,7 +264,7 @@
         "Label": "Kit i7-13700K +MSI MPG Z790 EDGE Wifi"
       },
       {
-        "Price": 425.00,
+        "Price": 420.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -280,7 +280,7 @@
         "Label": "Kit i5-12600KF +Asus TUF Z690-Plus Wifi"
       },
       {
-        "Price": 595.00,
+        "Price": 590.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -297,7 +297,7 @@
         "Label": "Kit i5-12600KF +Asus TUF Z690-Plus Wifi +32GB DDR5 Corsair Vengeance 6000mhz"
       },
       {
-        "Price": 470.00,
+        "Price": 460.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -313,7 +313,7 @@
         "Label": "Kit Intel Core i5-12600K +Asus TUF Z690-Plus Wifi"
       },
       {
-        "Price": 810.00,
+        "Price": 800.00,
         "Features": [
           "14-Gen",
           "20 Core",
@@ -329,7 +329,7 @@
         "Label": "Kit i7-14700K + MSI MPG Z790 EDGE WIFI"
       },
       {
-        "Price": 810.00,
+        "Price": 805.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -345,7 +345,7 @@
         "Label": "Kit i9-12900K +MEG Z690 ACE +Líquido MasterLiquid ML240L ARGB V2"
       },
       {
-        "Price": 975.00,
+        "Price": 970.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -363,7 +363,7 @@
         "Label": "Kit i9-12900K +MSI MEG Z690 ACE +32GB DDR5 Corsair Dominator Platinum"
       },
       {
-        "Price": 560.00,
+        "Price": 555.00,
         "Features": [
           "14-Gen",
           "20 Core",
@@ -380,7 +380,7 @@
         "Label": "Kit i5-14600K +Gigabyte Z790 Eagle AX"
       },
       {
-        "Price": 680.00,
+        "Price": 675.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -396,7 +396,7 @@
         "Label": "Kit i9-12900K + MSI MEG Z690 ACE Potencia y estilo en un solo combo"
       },
       {
-        "Price": 617.00,
+        "Price": 607.00,
         "Features": [
           "10 Core",
           "16 Hilos",
@@ -412,7 +412,7 @@
     ],
     "Entusiasta": [
       {
-        "Price": 1045.00,
+        "Price": 1035.00,
         "Features": [
           "14-Gen",
           "20 Core",
@@ -430,7 +430,7 @@
         "Label": "Kit i7-14700K +MSI MPG Z790 EDGE Wifi + 64GB DDR5 G.Skill Trident Z5 RGB 6000mhz"
       },
       {
-        "Price": 1230.00,
+        "Price": 1220.00,
         "Features": [
           "14-Gen",
           "20 Core",
@@ -448,7 +448,7 @@
         "Label": "Kit i7-14700K +Liquida 240 ARGB +MPG Z790 EDGE +64GB DDR5 G.Skill Trident Z5 RGB"
       },
       {
-        "Price": 920.00,
+        "Price": 910.00,
         "Features": [
           "24 Hilos",
           "16 Core",
@@ -465,7 +465,7 @@
         "Label": "Kit i7-13700K +MSI MPG Z790 EDGE Wifi +32GB DDR5 Trident Z5 NEO RGB 6400mhz"
       },
       {
-        "Price": 1285.00,
+        "Price": 1265.00,
         "Features": [
           "14Gen",
           "24 Core",
@@ -484,7 +484,7 @@
         "Label": "Kit i9-14900K +Strix Z790-F Gaming +64GB DDR5 G.Skill Trident Z5 RGB 6400mhz"
       },
       {
-        "Price": 1530.00,
+        "Price": 1510.00,
         "Features": [
           "14Gen",
           "24 Core",
@@ -503,7 +503,7 @@
         "Label": "Kit i9-14900K +Líquido RYUO III 240 ARGB +Strix Z790-F Gaming +64GB DDR5 RGB"
       },
       {
-        "Price": 1040.00,
+        "Price": 1020.00,
         "Features": [
           "14Gen",
           "24 Core",
@@ -521,7 +521,7 @@
     ],
     "Esencial": [
       {
-        "Price": 400.00,
+        "Price": 385.00,
         "Features": [
           "8 Hilos",
           "4 Core",
@@ -1722,7 +1722,7 @@
     ],
     "Microprocesador": [
       {
-        "Price": 355.00,
+        "Price": 350.00,
         "Features": [
           "Radeon Graphics",
           "AM5",
@@ -1742,7 +1742,7 @@
         "Label": "Micro AMD Ryzen 9 7900X"
       },
       {
-        "Price": 340.00,
+        "Price": 335.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -1775,7 +1775,7 @@
         "Label": "Micro AMD Ryzen 5 5600X +Disipador"
       },
       {
-        "Price": 235.00,
+        "Price": 225.00,
         "Features": [
           "12va Gen",
           "16 Hilos",
@@ -1809,7 +1809,7 @@
         "Label": "Micro Intel Core i7-12700K"
       },
       {
-        "Price": 190.00,
+        "Price": 185.00,
         "Features": [
           "12va Gen",
           "16 Hilos",
@@ -1842,7 +1842,7 @@
         "Label": "Micro Intel Core i3-14100F +Disipador"
       },
       {
-        "Price": 175.00,
+        "Price": 170.00,
         "Features": [
           "14va Gen",
           "8 Hilos",
@@ -1858,7 +1858,7 @@
         "Label": "Micro Intel Core i3-14100 +Disipador"
       },
       {
-        "Price": 330.00,
+        "Price": 325.00,
         "Features": [
           "14-Gen",
           "14 Core",
@@ -1875,7 +1875,7 @@
         "Label": "Micro Intel Core i5-14600K"
       },
       {
-        "Price": 435.00,
+        "Price": 425.00,
         "Features": [
           "14-Gen",
           "20 Core",
@@ -1892,7 +1892,7 @@
         "Label": "Micro Intel Core i7-14700K"
       },
       {
-        "Price": 635.00,
+        "Price": 615.00,
         "Features": [
           "14va Gen",
           "24 Core",
@@ -1909,7 +1909,7 @@
         "Label": "Micro Intel Core i9-14900K"
       },
       {
-        "Price": 385.00,
+        "Price": 375.00,
         "Features": [
           "13ra Gen",
           "24 Hilos",
@@ -1926,7 +1926,7 @@
         "Label": "Micro Intel Core i7-13700K"
       },
       {
-        "Price": 170.00,
+        "Price": 165.00,
         "Features": [
           "Radeon Graphics",
           "AM4",
@@ -1973,7 +1973,7 @@
         "Label": "RAM DDR5 Corsair Vengenance RGB 32GB 6000mhz White"
       },
       {
-        "Price": 35.00,
+        "Price": 30.00,
         "Features": [
           "1x8GB",
           "CL16",
@@ -2204,7 +2204,7 @@
         "Label": "RAM DDR4 G.Skill TridentZ RGB Neo 32GB 4000mhz"
       },
       {
-        "Price": 45.00,
+        "Price": 37.00,
         "Features": [
           "1x8GB",
           "CL16",
@@ -2215,7 +2215,7 @@
         "Label": "RAM DDR4 ADATA XPG Spectrix D41 RGB 8GB 3000mhz"
       },
       {
-        "Price": 40.00,
+        "Price": 35.00,
         "Features": [
           "1x8GB",
           "CL15",
@@ -2272,7 +2272,7 @@
         "Label": "RAM DDR4 Kingston HyperX Fury RGB 8GB 3466mhz"
       },
       {
-        "Price": 43.00,
+        "Price": 40.00,
         "Features": [
           "1x8GB",
           "CL16",
@@ -2469,7 +2469,7 @@
         "Label": "Tarjeta de Video Gigabyte RX 7600 8GB"
       },
       {
-        "Price": 350.00,
+        "Price": 345.00,
         "Features": [
           "3xFan",
           "1x8Pin",
@@ -2485,7 +2485,7 @@
         "Label": "Tarjeta de Video MSI Ventus 3x RTX 3060 12GB"
       },
       {
-        "Price": 590.00,
+        "Price": 585.00,
         "Features": [
           "2xFan",
           "700WR",
@@ -2615,7 +2615,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Super Gaming OC 16GB"
       },
       {
-        "Price": 835.00,
+        "Price": 825.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2665,7 +2665,7 @@
         "Label": "Tarjeta de Video Asus TUF Gaming RTX 4070 SUPER OC 12GB"
       },
       {
-        "Price": 465.00,
+        "Price": 455.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2706,7 +2706,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Eagle OC 8GB"
       },
       {
-        "Price": 305.00,
+        "Price": 300.00,
         "Features": [
           "2xFan",
           "1x8Pin",
@@ -2823,7 +2823,7 @@
         "Label": "Tarjeta de Video Zotac Gaming RTX 4060 Ti 8GB Twin Edge OC"
       },
       {
-        "Price": 710.00,
+        "Price": 700.00,
         "Features": [
           "DLSS3",
           "3xfan",
