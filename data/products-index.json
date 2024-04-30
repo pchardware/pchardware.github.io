@@ -1482,6 +1482,30 @@
         "Date": "2023-07-26T16:42:06.8492862-04:00",
         "Update": "2024-04-10T12:09:21.375684-04:00",
         "Label": "HDD 3.5 Seagate Pipeline 2TB"
+      },
+      {
+        "Price": 240.00,
+        "Features": [
+          "256mb",
+          "7200rpm",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2024-04-30T06:44:18.4466039-04:00",
+        "Update": "2024-04-30T09:45:32.7166696-04:00",
+        "Label": "HDD 3.5 Seagate EXOS X16 16TB"
+      },
+      {
+        "Price": 175.00,
+        "Features": [
+          "256mb",
+          "7200rpm",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2024-04-30T06:44:25.3977192-04:00",
+        "Update": "2024-04-30T09:45:32.7338397-04:00",
+        "Label": "HDD 3.5 Seagate EXOS X14 12TB"
       }
     ],
     "Disipador por Aire": [
