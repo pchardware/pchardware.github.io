@@ -1,0 +1,26 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-i5-12600k-board-gigabyte-z790-aorus-elite-ax-d-4n0wy0-1.webp",
+    "/images/products/kit-i5-12600k-board-gigabyte-z790-aorus-elite-ax-d-4n0wy0-2.webp",
+    "/images/products/kit-i5-12600k-board-gigabyte-z790-aorus-elite-ax-d-4n0wy0-3.webp",
+    "/images/products/kit-i5-12600k-board-gigabyte-z790-aorus-elite-ax-d-4n0wy0-4.webp",
+    "/images/products/kit-i5-12600k-board-gigabyte-z790-aorus-elite-ax-d-4n0wy0-5.webp",
+    "/images/products/kit-i5-12600k-board-gigabyte-z790-aorus-elite-ax-d-4n0wy0-6.webp",
+    "/images/products/kit-i5-12600k-board-gigabyte-z790-aorus-elite-ax-d-4n0wy0-7.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12600K\n+ Board Gigabyte Z790 Aorus Elite AX\n+ RAM DDR5 Corsair Vengeance 32GB 6000mhz\n",
+  "Price": 627.00,
+  "Features": [
+    "10 Core",
+    "16 Hilos",
+    "2x16",
+    "6000mhz",
+    "Wifi"
+  ],
+  "Date": "2023-12-03T11:09:06.1898487-05:00",
+  "Update": "2024-04-30T06:43:08.0069836-04:00",
+  "Discount": 8.0,
+  "Label": "Kit i5-12600K + Board Gigabyte Z790 Aorus Elite AX + DDR5 Corsair Vengeance 32GB"
+}
