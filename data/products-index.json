@@ -2836,6 +2836,23 @@
         "Date": "2024-04-30T06:45:08.3025165-04:00",
         "Update": "2024-04-30T11:06:23.4337319-04:00",
         "Label": "Tarjeta de Video MSI RTX 3050 Gaming X 6GB"
+      },
+      {
+        "Price": 270.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "500WR",
+          "193mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-05-01T07:07:11.4926871-04:00",
+        "Update": "2024-05-01T07:12:00.5702078-04:00",
+        "Def": true,
+        "Label": "Tarjeta de Vido Sapphire Pulse RX 6600 Gaming 8GB"
       }
     ],
     "Disco Sólido": [
