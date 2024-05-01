@@ -2735,23 +2735,6 @@
         "Label": "Tarjeta de Video Gigabyte Aorus RX 6750 XT Elite 12GB"
       },
       {
-        "Price": 480.00,
-        "Features": [
-          "DLSS3",
-          "3xFan",
-          "1x8Pin",
-          "550WR",
-          "312mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-10-23T12:32:13.7726731-04:00",
-        "Update": "2024-04-30T06:43:07.9787135-04:00",
-        "Label": "Tarjeta de Video Asus ROG Strix RTX 4060 OC 8GB"
-      },
-      {
         "Price": 435.00,
         "Features": [
           "DLSS3",
@@ -2853,6 +2836,23 @@
         "Update": "2024-05-01T07:12:00.5702078-04:00",
         "Def": true,
         "Label": "Tarjeta de Vido Sapphire Pulse RX 6600 Gaming 8GB"
+      },
+      {
+        "Price": 480.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "1x8Pin",
+          "550WR",
+          "312mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-10-23T12:32:13.7726731-04:00",
+        "Update": "2024-05-01T16:55:08.9362171-04:00",
+        "Label": "Tarjeta de Video Asus ROG Strix RTX 4060 OC 8GB"
       }
     ],
     "Disco Sólido": [
