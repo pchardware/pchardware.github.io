@@ -985,54 +985,6 @@
         "Label": "Fuente Corsair CX750M 750W"
       },
       {
-        "Price": 350.00,
-        "Features": [
-          "125A",
-          "80+ PLATINUM",
-          "Full Modular",
-          "9x 6+2Pin",
-          "3x 4+4 EPS",
-          "8x SATA",
-          "200mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-10-02T14:28:39.3910059-04:00",
-        "Update": "2024-01-24T02:24:17.3533086-05:00",
-        "Label": "Fuente Corsair HX1500i 1500W"
-      },
-      {
-        "Price": 160.00,
-        "Features": [
-          "ATX 3.0",
-          "80+ Bronze",
-          "Modular",
-          "4x 6+2Pin",
-          "1x 16Pin",
-          "150mm",
-          "PSU"
-        ],
-        "Date": "2024-02-01T21:14:37.9187585-05:00",
-        "Update": "2024-02-02T07:15:36.8533917-05:00",
-        "Label": "Fuente Thermaltake Smart BM3 850W"
-      },
-      {
-        "Price": 160.00,
-        "Features": [
-          "80+ Bronze",
-          "Modular",
-          "850W",
-          "70A",
-          "2x 4+4 EPS",
-          "10x SATA",
-          "3x 6Pin",
-          "3x 6+2Pin"
-        ],
-        "Date": "2023-05-11T14:26:41.8517332-04:00",
-        "Update": "2024-02-16T14:51:46.3498243-05:00",
-        "Label": "Fuente EVGA 850 BQ"
-      },
-      {
         "Price": 165.00,
         "Features": [
           "71A",
@@ -1049,59 +1001,6 @@
         "Date": "2023-10-03T06:55:40.1387236-04:00",
         "Update": "2024-02-16T14:51:46.5686549-05:00",
         "Label": "Fuente Gigabyte UD850GM 850W"
-      },
-      {
-        "Price": 230.00,
-        "Features": [
-          "ATX 3.0",
-          "83A",
-          "80+ Gold",
-          "Full Modular",
-          "1x 16Pin",
-          "2x 4+4 EPS",
-          "6x 6+2Pin",
-          "12x SATA",
-          "150mm",
-          "PSU"
-        ],
-        "Date": "2024-03-07T09:39:28.4616757-05:00",
-        "Update": "2024-03-07T10:29:53.5856994-05:00",
-        "Label": "Fuente EVGA SuperNova 1000G XC"
-      },
-      {
-        "Price": 240.00,
-        "Features": [
-          "80+ Gold",
-          "Full Modular",
-          "1000W",
-          "83A",
-          "6x 6+2Pin",
-          "2x 4+4 EPS",
-          "8x SATA",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-08-01T11:14:26.7187573-04:00",
-        "Update": "2024-03-13T15:24:13.0193968-04:00",
-        "Label": "Fuente Asus ROG Strix 1000W Gold"
-      },
-      {
-        "Price": 315.00,
-        "Features": [
-          "83A",
-          "80+ Gold",
-          "Full Modular",
-          "1x 16Pin",
-          "2x 4+4 EPS",
-          "4x 6+2Pin",
-          "5x SATA",
-          "180mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2024-03-13T15:18:09.1634271-04:00",
-        "Update": "2024-03-15T15:01:58.2882613-04:00",
-        "Label": "PSU - ASUS ROG STRIX 1000W Aura Edition 80+ Gold"
       },
       {
         "Price": 185.00,
@@ -1121,40 +1020,6 @@
         "Label": "Fuente EVGA Supernova 850 P5 850W"
       },
       {
-        "Price": 180.00,
-        "Features": [
-          "ATX 3.0",
-          "70A",
-          "80+ Gold",
-          "Full Modular",
-          "4x 6+2Pin",
-          "8x SATA",
-          "2x 4+4 EPS",
-          "4x Molex",
-          "150mm",
-          "PSU"
-        ],
-        "Date": "2024-04-11T02:49:01.5018153-04:00",
-        "Update": "2024-04-11T08:10:38.3956159-04:00",
-        "Label": "Fuente MSI MAG A850GL 850W"
-      },
-      {
-        "Price": 210.00,
-        "Features": [
-          "80+ Gold",
-          "Full Modular",
-          "ATX 3.0",
-          "2x 4+4 EPS",
-          "71A",
-          "3x 6+2Pin",
-          "5x SATA",
-          "PSU"
-        ],
-        "Date": "2023-05-11T14:26:27.9739641-04:00",
-        "Update": "2024-04-20T12:09:03.829248-04:00",
-        "Label": "Fuente Asus TUF 850W"
-      },
-      {
         "Price": 115.00,
         "Features": [
           "59A",
@@ -1168,39 +1033,6 @@
         "Date": "2023-08-16T09:16:30.0204629-04:00",
         "Update": "2024-04-20T12:09:03.8453396-04:00",
         "Label": "Fuente EVGA 750W"
-      },
-      {
-        "Price": 105.00,
-        "Features": [
-          "44A",
-          "80+ Bronze",
-          "2x 6+2Pin",
-          "9x SATA",
-          "1x 4+4 EPS",
-          "125mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2024-04-20T12:17:06.5900159-04:00",
-        "Update": "2024-04-20T13:10:46.6661014-04:00",
-        "Label": "Fuente CORSAIR CX550 550W"
-      },
-      {
-        "Price": 150.00,
-        "Features": [
-          "63A",
-          "80+ Platinum",
-          "Modular",
-          "760W",
-          "2x 4+4 EPS",
-          "12x SATA",
-          "6x 6+2Pin",
-          "160mm"
-        ],
-        "Date": "2024-04-23T06:08:00.9414054-04:00",
-        "Update": "2024-04-24T01:41:05.6151909-04:00",
-        "Def": true,
-        "Label": "Fuente Corsair AX760"
       },
       {
         "Price": 235.00,
@@ -1222,6 +1054,187 @@
         "Date": "2023-08-08T10:08:04.4203937-04:00",
         "Update": "2024-04-30T06:43:07.9340674-04:00",
         "Label": "Fuente Corsair RM1000e 1000W"
+      },
+      {
+        "Price": 350.00,
+        "Features": [
+          "125A",
+          "80+ PLATINUM",
+          "Full Modular",
+          "9x 6+2Pin",
+          "3x 4+4 EPS",
+          "8x SATA",
+          "200mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-10-02T14:28:39.3910059-04:00",
+        "Update": "2024-05-02T12:10:14.1954783-04:00",
+        "Label": "Fuente Corsair HX1500i 1500W"
+      },
+      {
+        "Price": 160.00,
+        "Features": [
+          "ATX 3.0",
+          "80+ Bronze",
+          "Modular",
+          "71A",
+          "4x 6+2Pin",
+          "1x 16Pin",
+          "2x 4+4 EPS",
+          "6x SATA",
+          "7x PATA",
+          "140mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2024-02-01T21:14:37.9187585-05:00",
+        "Update": "2024-05-02T12:10:14.2176929-04:00",
+        "Label": "Fuente Thermaltake Smart BM3 850W"
+      },
+      {
+        "Price": 160.00,
+        "Features": [
+          "80+ Bronze",
+          "Modular",
+          "70A",
+          "2x 4+4 EPS",
+          "10x SATA",
+          "3x 6Pin",
+          "3x 6+2Pin",
+          "140mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-05-11T14:26:41.8517332-04:00",
+        "Update": "2024-05-02T12:10:14.2410794-04:00",
+        "Label": "Fuente EVGA 850 BQ 850W"
+      },
+      {
+        "Price": 230.00,
+        "Features": [
+          "ATX 3.0",
+          "83A",
+          "80+ Gold",
+          "Full Modular",
+          "1x 16Pin",
+          "2x 4+4 EPS",
+          "6x 6+2Pin",
+          "12x SATA",
+          "150mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2024-03-07T09:39:28.4616757-05:00",
+        "Update": "2024-05-02T12:10:14.2583785-04:00",
+        "Label": "Fuente EVGA SuperNova 1000G XC 1000W"
+      },
+      {
+        "Price": 240.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "1000W",
+          "83A",
+          "6x 6+2Pin",
+          "2x 4+4 EPS",
+          "8x SATA",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-08-01T11:14:26.7187573-04:00",
+        "Update": "2024-05-02T12:10:14.275764-04:00",
+        "Label": "Fuente Asus ROG Strix 1000W"
+      },
+      {
+        "Price": 315.00,
+        "Features": [
+          "ATX 3.0",
+          "83A",
+          "80+ Gold",
+          "Full Modular",
+          "1x 16Pin",
+          "2x 4+4 EPS",
+          "4x 6+2Pin",
+          "5x SATA",
+          "180mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2024-03-13T15:18:09.1634271-04:00",
+        "Update": "2024-05-02T12:10:14.2938118-04:00",
+        "Label": "Fuente Asus ROG Strix 1000W Aura Edition"
+      },
+      {
+        "Price": 180.00,
+        "Features": [
+          "ATX 3.0",
+          "70A",
+          "80+ Gold",
+          "Full Modular",
+          "4x 6+2Pin",
+          "8x SATA",
+          "2x 4+4 EPS",
+          "4x Molex",
+          "140mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2024-04-11T02:49:01.5018153-04:00",
+        "Update": "2024-05-02T12:10:14.3226801-04:00",
+        "Label": "Fuente MSI MAG A850GL 850W"
+      },
+      {
+        "Price": 210.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "ATX 3.0",
+          "2x 4+4 EPS",
+          "71A",
+          "3x 6+2Pin",
+          "5x SATA",
+          "150mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-05-11T14:26:27.9739641-04:00",
+        "Update": "2024-05-02T12:10:14.3612448-04:00",
+        "Label": "Fuente Asus TUF 850W"
+      },
+      {
+        "Price": 105.00,
+        "Features": [
+          "44A",
+          "80+ Bronze",
+          "2x 6+2Pin",
+          "9x SATA",
+          "1x 4+4 EPS",
+          "125mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2024-04-20T12:17:06.5900159-04:00",
+        "Update": "2024-05-02T12:10:14.3909345-04:00",
+        "Label": "Fuente Corsair CX550 550W"
+      },
+      {
+        "Price": 150.00,
+        "Features": [
+          "63A",
+          "80+ Platinum",
+          "Full Modular",
+          "2x 4+4 EPS",
+          "12x SATA",
+          "6x 6+2Pin",
+          "160mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2024-04-23T06:08:00.9414054-04:00",
+        "Update": "2024-05-02T12:10:14.4081273-04:00",
+        "Def": true,
+        "Label": "Fuente Corsair AX760 760W"
       }
     ],
     "Disipador Líquido": [
