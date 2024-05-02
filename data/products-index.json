@@ -421,306 +421,6 @@
     ]
   },
   "Componentes": {
-    "Otros": [
-      {
-        "Price": 20.00,
-        "Features": [
-          "200mm",
-          "montaje vertical"
-        ],
-        "Date": "2023-06-07T13:42:48.85106-04:00",
-        "Update": "2023-06-07T14:23:20.6623811-04:00",
-        "Label": "Extensor Athena PCIe"
-      },
-      {
-        "Price": 13.0,
-        "Features": [
-          "Mining",
-          "Riser Adapter"
-        ],
-        "Date": "2023-08-20T10:13:12.2031617-04:00",
-        "Update": "2023-08-20T11:36:57.2958607-04:00",
-        "Label": "Thsion NGFF M.2 a USB"
-      },
-      {
-        "Price": 13.00,
-        "Features": [
-          "120mm",
-          "Hydraulic",
-          "1200rpm",
-          "37cfm",
-          "24db"
-        ],
-        "Date": "2023-06-07T15:05:05.0466396-04:00",
-        "Update": "2023-09-02T13:38:05.4028918-04:00",
-        "Label": "Fan Cougar Vortex FCB 120 RGB"
-      },
-      {
-        "Price": 5.00,
-        "Features": [
-          "Jeringuilla"
-        ],
-        "Date": "2023-06-07T15:03:43.1820356-04:00",
-        "Update": "2023-09-11T11:17:59.1789125-04:00",
-        "Label": "Pasta Termica Protronix Series 9 Extreme"
-      },
-      {
-        "Price": 17.00,
-        "Features": [],
-        "Date": "2023-10-02T14:29:08.3286216-04:00",
-        "Update": "2023-10-03T09:09:19.5109387-04:00",
-        "Label": "Thermalright AM5 Secure Frame RED"
-      },
-      {
-        "Price": 17.00,
-        "Features": [],
-        "Date": "2023-10-09T15:58:58.5199723-04:00",
-        "Update": "2023-10-09T17:48:21.91735-04:00",
-        "Label": "Corsair PCIe Gen 5 Cable"
-      },
-      {
-        "Price": 6.00,
-        "Features": [
-          "Jeringuilla"
-        ],
-        "Date": "2023-10-23T12:31:34.5436933-04:00",
-        "Update": "2023-10-24T16:44:55.0841781-04:00",
-        "Label": "Pasta Termica HY510 1g"
-      },
-      {
-        "Price": 11.00,
-        "Features": [
-          "Jeringuilla",
-          "Aplicador"
-        ],
-        "Date": "2023-10-23T12:31:30.6202501-04:00",
-        "Update": "2023-10-24T16:52:34.9968724-04:00",
-        "Label": "Pasta Termica HY510 30g"
-      },
-      {
-        "Price": 13.00,
-        "Features": [
-          "120mm",
-          "ARGB",
-          "PWM",
-          "1550rpm",
-          "9 Blades",
-          "66cfm"
-        ],
-        "Date": "2023-11-03T12:22:32.2416969-04:00",
-        "Update": "2023-11-03T14:29:33.0972036-04:00",
-        "Label": "Fan Thermalright TL-C12CW White"
-      },
-      {
-        "Price": 12.00,
-        "Features": [
-          "120mm",
-          "LED Rojo",
-          "1300rpm",
-          "54cfm"
-        ],
-        "Date": "2023-11-03T12:22:35.3715047-04:00",
-        "Update": "2023-11-03T14:29:33.1129477-04:00",
-        "Label": "Fan Phanteks PH-F120SP RLED 120mm"
-      },
-      {
-        "Price": 21.00,
-        "Features": [
-          "1500rpm",
-          "52cfm",
-          "25dba"
-        ],
-        "Date": "2023-11-18T23:52:10.0012506-05:00",
-        "Update": "2023-11-19T11:13:03.9722333-05:00",
-        "Label": "Fan Corsair Air Series AF120 120mm White LED"
-      },
-      {
-        "Price": 43.00,
-        "Features": [
-          "PCIe x1",
-          "Alimentación SATA",
-          "Interna",
-          "Adaptador"
-        ],
-        "Date": "2023-08-01T11:15:00.5691684-04:00",
-        "Update": "2023-11-24T10:20:52.8527436-05:00",
-        "Label": "Expansión Orico 7xUSB 3.0"
-      },
-      {
-        "Price": 40.00,
-        "Features": [],
-        "Date": "2023-11-24T09:48:48.2432153-05:00",
-        "Update": "2023-12-05T17:03:39.3086717-05:00",
-        "Label": "HUB EN-Labs Panel Frontal 5.25\" 7xUSB2"
-      },
-      {
-        "Price": 25.00,
-        "Features": [
-          "1x a 16x",
-          "Adaptador"
-        ],
-        "Date": "2023-06-07T13:43:02.4805647-04:00",
-        "Update": "2023-12-14T07:55:28.8036386-05:00",
-        "Label": "Riser Coboc PCI Express"
-      },
-      {
-        "Price": 87.00,
-        "Features": [],
-        "Date": "2023-09-02T12:38:41.9633686-04:00",
-        "Update": "2023-12-24T03:04:22.3802724-05:00",
-        "Label": "Corsair Comander Core XT"
-      },
-      {
-        "Price": 30.00,
-        "Features": [
-          "RGB",
-          "ARGB",
-          "x8 Fan"
-        ],
-        "Date": "2023-12-15T02:03:00.6236319-05:00",
-        "Update": "2023-12-24T03:04:22.7201563-05:00",
-        "Label": "HUB Thermalright Controlador ARGB Fan 8x"
-      },
-      {
-        "Price": 7.00,
-        "Features": [
-          "120mm",
-          "1200rpm",
-          "19dB"
-        ],
-        "Date": "2023-06-07T15:06:05.815869-04:00",
-        "Update": "2024-01-11T09:59:25.2726018-05:00",
-        "Label": "Fan Uphere 12BK3"
-      },
-      {
-        "Price": 55.00,
-        "Features": [
-          "8xSATA",
-          "Interno",
-          "6Gb/s",
-          "PCIe"
-        ],
-        "Date": "2023-12-04T16:22:01.2672974-05:00",
-        "Update": "2024-01-11T10:07:28.2436926-05:00",
-        "Label": "Acasis Weastlinks 8xSATA"
-      },
-      {
-        "Price": 39.00,
-        "Features": [
-          "3x120mm",
-          "PWM",
-          "1550rpm",
-          "66cfm"
-        ],
-        "Date": "2023-09-11T09:09:09.8558272-04:00",
-        "Update": "2024-01-18T07:19:39.8449798-05:00",
-        "Label": "Fan Thermalright KIT ARGB"
-      },
-      {
-        "Price": 85.00,
-        "Features": [
-          "3xFan",
-          "1900rpm",
-          "76cfm",
-          "29dB",
-          "120mm",
-          "3pin"
-        ],
-        "Date": "2023-09-11T09:08:38.0826889-04:00",
-        "Update": "2024-01-30T09:04:52.2679927-05:00",
-        "Label": "Fan Kit Asus TUF Gaming TF120 ARGB +Controller"
-      },
-      {
-        "Price": 90.00,
-        "Features": [
-          "Hydraulic",
-          "3xFan",
-          "1850rpm",
-          "59cfm",
-          "27.3db",
-          "4Pin",
-          "ARGB",
-          "120mm"
-        ],
-        "Date": "2024-02-16T17:53:25.4792152-05:00",
-        "Update": "2024-02-18T09:00:46.1700395-05:00",
-        "Label": "Fan Corsair AR120 RGB White, Kit"
-      },
-      {
-        "Price": 19.00,
-        "Features": [
-          "1800rpm",
-          "65cfm",
-          "27dba",
-          "120mm"
-        ],
-        "Date": "2023-08-21T08:58:21.6545554-04:00",
-        "Update": "2024-02-28T05:32:17.4490895-05:00",
-        "Label": "Fan Cooler Master SickleFlow 120 V2 ARGB"
-      },
-      {
-        "Price": 15.00,
-        "Features": [],
-        "Date": "2024-02-28T05:29:42.4360359-05:00",
-        "Update": "2024-02-28T07:53:53.6898996-05:00",
-        "Label": "Adaptador Cable USB-C a HDMI"
-      },
-      {
-        "Price": 12.00,
-        "Features": [],
-        "Date": "2023-07-17T23:37:33.911055-04:00",
-        "Update": "2024-03-13T15:24:12.997856-04:00",
-        "Label": "Cable EnLabs 1-to-5 3Pins Addressable RGB Splitter Y Cable"
-      },
-      {
-        "Price": 90.00,
-        "Features": [
-          "Hydraulic",
-          "3xFan",
-          "1850rpm",
-          "59cfm",
-          "27db",
-          "4Pin",
-          "ARGB",
-          "120mm"
-        ],
-        "Date": "2023-09-02T12:38:35.3292969-04:00",
-        "Update": "2024-04-10T12:10:23.8726893-04:00",
-        "Label": "Fan Corsair AR120 RGB, Kit"
-      },
-      {
-        "Price": 53.00,
-        "Features": [],
-        "Date": "2023-11-24T09:48:43.307434-05:00",
-        "Update": "2024-04-13T20:24:22.2441269-04:00",
-        "Label": "HUB EN-Labs Panel Frontal 5.25\" 7xUSB3"
-      },
-      {
-        "Price": 11.00,
-        "Features": [
-          "120mm",
-          "Bola",
-          "90cfm"
-        ],
-        "Date": "2024-04-30T06:44:55.3819281-04:00",
-        "Update": "2024-05-02T13:49:39.6949939-04:00",
-        "Label": "Fan Corsair 120mm Brushless"
-      },
-      {
-        "Price": 14.00,
-        "Features": [
-          "120mm",
-          "Levitación Magnetica",
-          "2400rpm",
-          "75cfm",
-          "37db",
-          "4Pin"
-        ],
-        "Date": "2024-04-30T06:45:22.6936323-04:00",
-        "Update": "2024-05-02T16:29:27.1590737-04:00",
-        "Label": "Fan Corsair ML120 PWM Premium"
-      }
-    ],
     "Fuente": [
       {
         "Price": 45.00,
@@ -1396,6 +1096,312 @@
         "Date": "2024-04-30T06:44:25.3977192-04:00",
         "Update": "2024-05-02T11:07:45.2598525-04:00",
         "Label": "HDD 3.5 Seagate Exos X14 12TB"
+      }
+    ],
+    "Otros": [
+      {
+        "Price": 13.0,
+        "Features": [
+          "Mining",
+          "Riser Adapter"
+        ],
+        "Date": "2023-08-20T10:13:12.2031617-04:00",
+        "Update": "2023-08-20T11:36:57.2958607-04:00",
+        "Label": "Thsion NGFF M.2 a USB"
+      },
+      {
+        "Price": 5.00,
+        "Features": [
+          "Jeringuilla"
+        ],
+        "Date": "2023-06-07T15:03:43.1820356-04:00",
+        "Update": "2023-09-11T11:17:59.1789125-04:00",
+        "Label": "Pasta Termica Protronix Series 9 Extreme"
+      },
+      {
+        "Price": 17.00,
+        "Features": [],
+        "Date": "2023-10-02T14:29:08.3286216-04:00",
+        "Update": "2023-10-03T09:09:19.5109387-04:00",
+        "Label": "Thermalright AM5 Secure Frame RED"
+      },
+      {
+        "Price": 6.00,
+        "Features": [
+          "Jeringuilla"
+        ],
+        "Date": "2023-10-23T12:31:34.5436933-04:00",
+        "Update": "2023-10-24T16:44:55.0841781-04:00",
+        "Label": "Pasta Termica HY510 1g"
+      },
+      {
+        "Price": 11.00,
+        "Features": [
+          "Jeringuilla",
+          "Aplicador"
+        ],
+        "Date": "2023-10-23T12:31:30.6202501-04:00",
+        "Update": "2023-10-24T16:52:34.9968724-04:00",
+        "Label": "Pasta Termica HY510 30g"
+      },
+      {
+        "Price": 15.00,
+        "Features": [],
+        "Date": "2024-02-28T05:29:42.4360359-05:00",
+        "Update": "2024-02-28T07:53:53.6898996-05:00",
+        "Label": "Adaptador Cable USB-C a HDMI"
+      },
+      {
+        "Price": 12.00,
+        "Features": [],
+        "Date": "2023-07-17T23:37:33.911055-04:00",
+        "Update": "2024-03-13T15:24:12.997856-04:00",
+        "Label": "Cable EnLabs 1-to-5 3Pins Addressable RGB Splitter Y Cable"
+      },
+      {
+        "Price": 53.00,
+        "Features": [],
+        "Date": "2023-11-24T09:48:43.307434-05:00",
+        "Update": "2024-04-13T20:24:22.2441269-04:00",
+        "Label": "HUB EN-Labs Panel Frontal 5.25\" 7xUSB3"
+      },
+      {
+        "Price": 20.00,
+        "Features": [
+          "200mm",
+          "montaje vertical"
+        ],
+        "Date": "2023-06-07T13:42:48.85106-04:00",
+        "Update": "2024-05-02T16:59:00.6143232-04:00",
+        "Label": "PCIe Extensor Athena x16"
+      },
+      {
+        "Price": 13.00,
+        "Features": [
+          "Hydraulic",
+          "1200rpm",
+          "37cfm",
+          "24db"
+        ],
+        "Date": "2023-06-07T15:05:05.0466396-04:00",
+        "Update": "2024-05-02T16:59:00.6341754-04:00",
+        "Label": "Fan Cougar Vortex FCB 120 RGB 120mm"
+      },
+      {
+        "Price": 17.00,
+        "Features": [],
+        "Date": "2023-10-09T15:58:58.5199723-04:00",
+        "Update": "2024-05-02T16:59:00.6533054-04:00",
+        "Label": "Cable Corsair PCIe Gen5 ATX 3.0"
+      },
+      {
+        "Price": 13.00,
+        "Features": [
+          "ARGB",
+          "PWM",
+          "1550rpm",
+          "9 Blades",
+          "66cfm",
+          "4Pin"
+        ],
+        "Date": "2023-11-03T12:22:32.2416969-04:00",
+        "Update": "2024-05-02T16:59:00.6707104-04:00",
+        "Label": "Fan Thermalright TL-C12CW White 120mm"
+      },
+      {
+        "Price": 12.00,
+        "Features": [
+          "LED Rojo",
+          "1300rpm",
+          "54cfm",
+          "3Pin"
+        ],
+        "Date": "2023-11-03T12:22:35.3715047-04:00",
+        "Update": "2024-05-02T16:59:00.6884317-04:00",
+        "Label": "Fan Phanteks PH-F120SP RLED 120mm"
+      },
+      {
+        "Price": 21.00,
+        "Features": [
+          "1500rpm",
+          "52cfm",
+          "25dba",
+          "3Pin"
+        ],
+        "Date": "2023-11-18T23:52:10.0012506-05:00",
+        "Update": "2024-05-02T16:59:00.7056169-04:00",
+        "Label": "Fan Corsair AF120 White LED 120mm"
+      },
+      {
+        "Price": 43.00,
+        "Features": [
+          "PCIe x1",
+          "Alimentación SATA",
+          "Interna",
+          "Adaptador",
+          "Expansión"
+        ],
+        "Date": "2023-08-01T11:15:00.5691684-04:00",
+        "Update": "2024-05-02T16:59:00.7234986-04:00",
+        "Label": "PCIe Card Orico 7xUSB 3.0"
+      },
+      {
+        "Price": 40.00,
+        "Features": [],
+        "Date": "2023-11-24T09:48:48.2432153-05:00",
+        "Update": "2024-05-02T16:59:00.7406281-04:00",
+        "Label": "USB HUB EN-Labs Panel Frontal 5.25\" 7xUSB 2.0"
+      },
+      {
+        "Price": 25.00,
+        "Features": [
+          "1x a 16x",
+          "Card",
+          "Adaptador",
+          "PCIe x1",
+          "Minería"
+        ],
+        "Date": "2023-06-07T13:43:02.4805647-04:00",
+        "Update": "2024-05-02T16:59:00.7576935-04:00",
+        "Label": "PCIe Card Riser Coboc Miner adapter 16x"
+      },
+      {
+        "Price": 87.00,
+        "Features": [
+          "6xFan",
+          "6xRGB",
+          "PWM"
+        ],
+        "Date": "2023-09-02T12:38:41.9633686-04:00",
+        "Update": "2024-05-02T16:59:00.7814774-04:00",
+        "Label": "Fan HUB Corsair Comander Core XT"
+      },
+      {
+        "Price": 30.00,
+        "Features": [
+          "8xFan",
+          "8xARGB",
+          "PWM"
+        ],
+        "Date": "2023-12-15T02:03:00.6236319-05:00",
+        "Update": "2024-05-02T16:59:00.8015813-04:00",
+        "Label": "Fan HUB Thermalright Controlador ARGB 8x"
+      },
+      {
+        "Price": 7.00,
+        "Features": [
+          "1200rpm",
+          "19dB",
+          "3Pin"
+        ],
+        "Date": "2023-06-07T15:06:05.815869-04:00",
+        "Update": "2024-05-02T16:59:00.8277532-04:00",
+        "Label": "Fan Uphere 12BK3 120mm"
+      },
+      {
+        "Price": 55.00,
+        "Features": [
+          "6Gbs",
+          "SATA 3",
+          "PCIe x1"
+        ],
+        "Date": "2023-12-04T16:22:01.2672974-05:00",
+        "Update": "2024-05-02T16:59:00.8556789-04:00",
+        "Label": "PCIe Card Acasis Weastlinks 8xSATA"
+      },
+      {
+        "Price": 39.00,
+        "Features": [
+          "3xFan",
+          "PWM",
+          "1550rpm",
+          "66cfm"
+        ],
+        "Date": "2023-09-11T09:09:09.8558272-04:00",
+        "Update": "2024-05-02T16:59:00.8830166-04:00",
+        "Label": "Fan KIT Thermalright ARGB 3x120mm"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "3xFan",
+          "1900rpm",
+          "76cfm",
+          "29dB",
+          "3Pin"
+        ],
+        "Date": "2023-09-11T09:08:38.0826889-04:00",
+        "Update": "2024-05-02T16:59:00.903121-04:00",
+        "Label": "Fan KIT Asus TUF Gaming TF120 ARGB 3x120mm +Controller"
+      },
+      {
+        "Price": 90.00,
+        "Features": [
+          "Hydraulic",
+          "3xFan",
+          "1850rpm",
+          "59cfm",
+          "27.3db",
+          "4Pin",
+          "ARGB",
+          "PWM"
+        ],
+        "Date": "2024-02-16T17:53:25.4792152-05:00",
+        "Update": "2024-05-02T16:59:00.9206043-04:00",
+        "Label": "Fan KIT Corsair AR120 RGB White 3x120mm"
+      },
+      {
+        "Price": 19.00,
+        "Features": [
+          "1800rpm",
+          "65cfm",
+          "27dba",
+          "PWM"
+        ],
+        "Date": "2023-08-21T08:58:21.6545554-04:00",
+        "Update": "2024-05-02T16:59:00.9386854-04:00",
+        "Label": "Fan Cooler Master SickleFlow 120 V2 ARGB 120mm"
+      },
+      {
+        "Price": 90.00,
+        "Features": [
+          "Hydraulic",
+          "3xFan",
+          "1850rpm",
+          "59cfm",
+          "27db",
+          "4Pin",
+          "ARGB",
+          "PWM"
+        ],
+        "Date": "2023-09-02T12:38:35.3292969-04:00",
+        "Update": "2024-05-02T16:59:00.9557208-04:00",
+        "Label": "Fan KIT Corsair AR120 RGB 3x120mm"
+      },
+      {
+        "Price": 11.00,
+        "Features": [
+          "120mm",
+          "Bola",
+          "90cfm",
+          "3Pin"
+        ],
+        "Date": "2024-04-30T06:44:55.3819281-04:00",
+        "Update": "2024-05-02T16:59:00.9739302-04:00",
+        "Label": "Fan Corsair 120mm Brushless"
+      },
+      {
+        "Price": 14.00,
+        "Features": [
+          "Magnetic Levitation",
+          "2400rpm",
+          "75cfm",
+          "37db",
+          "4Pin"
+        ],
+        "Date": "2024-04-30T06:45:22.6936323-04:00",
+        "Update": "2024-05-02T16:59:00.992051-04:00",
+        "Label": "Fan Corsair ML120 PWM Premium 120mm"
       }
     ],
     "Disipador por Aire": [
