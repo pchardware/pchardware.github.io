@@ -13,17 +13,18 @@
     "12Gen-13Gen-14Gen",
     "DDR5",
     "7600mhz",
+    "19xVRM",
     "Wifi",
     "9xUSB",
     "6xSATA",
-    "LGA 1700",
-    "ATX",
     "DisplayPort",
     "HDMI",
     "3xAudio",
+    "LGA 1700",
+    "ATX",
     "MOBO"
   ],
   "Date": "2023-10-03T06:55:49.2464488-04:00",
-  "Update": "2024-04-30T06:43:08.0883424-04:00",
+  "Update": "2024-05-02T09:37:04.8688628-04:00",
   "Label": "Board Gigabyte Z790 Aorus Elite AX"
 }
