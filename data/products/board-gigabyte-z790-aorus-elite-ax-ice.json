@@ -13,18 +13,19 @@
     "12Gen-13Gen-14Gen",
     "DDR5",
     "7600mhz",
+    "19xVRM",
     "Wifi",
     "9xUSB",
     "6xSATA",
-    "LGA 1700",
-    "ATX",
-    "PS2",
     "DisplayPort",
     "HDMI",
     "3xAudio",
+    "PS2",
+    "LGA 1700",
+    "ATX",
     "MOBO"
   ],
   "Date": "2024-01-18T07:08:47.0369887-05:00",
-  "Update": "2024-04-10T12:12:08.2291211-04:00",
+  "Update": "2024-05-02T09:37:04.6877691-04:00",
   "Label": "Board Gigabyte Z790 Aorus Elite AX ICE"
 }
