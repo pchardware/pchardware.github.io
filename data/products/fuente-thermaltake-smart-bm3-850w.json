@@ -15,12 +15,17 @@
     "ATX 3.0",
     "80+ Bronze",
     "Modular",
+    "71A",
     "4x 6+2Pin",
     "1x 16Pin",
-    "150mm",
-    "PSU"
+    "2x 4+4 EPS",
+    "6x SATA",
+    "7x PATA",
+    "140mm",
+    "PSU",
+    "ATX"
   ],
   "Date": "2024-02-01T21:14:37.9187585-05:00",
-  "Update": "2024-02-02T07:15:36.8533917-05:00",
+  "Update": "2024-05-02T12:10:14.2176929-04:00",
   "Label": "Fuente Thermaltake Smart BM3 850W"
 }
