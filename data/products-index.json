@@ -2875,17 +2875,6 @@
         "Label": "SSD 2.5 Team Group T-FORCE VULCAN Z 480GB"
       },
       {
-        "Price": 115.00,
-        "Features": [
-          "540mbs",
-          "1600tbw",
-          "SATA 3"
-        ],
-        "Date": "2023-07-26T16:46:54.426825-04:00",
-        "Update": "2024-01-24T02:11:20.8370924-05:00",
-        "Label": "SSD 2.5 Team Group CX2 2TB"
-      },
-      {
         "Price": 55.00,
         "Features": [
           "3500mbs",
@@ -2896,55 +2885,6 @@
         "Date": "2023-12-07T13:20:36.3839284-05:00",
         "Update": "2024-01-24T02:11:20.8552861-05:00",
         "Label": "SSD M.2 Solidigm P41 Plus 512GB"
-      },
-      {
-        "Price": 100.00,
-        "Features": [
-          "7400mbs",
-          "PCIe 4",
-          "1450tbw",
-          "NVMe"
-        ],
-        "Date": "2023-09-23T17:40:17.7101762-04:00",
-        "Update": "2024-01-30T09:04:52.3111969-05:00",
-        "Label": "SSD M.2 Team Group MP44 1TB"
-      },
-      {
-        "Price": 85.00,
-        "Features": [
-          "7100mbs",
-          "350TBW",
-          "HeatSink",
-          "NVMe",
-          "PCIe 4"
-        ],
-        "Date": "2024-01-30T08:59:41.0005017-05:00",
-        "Update": "2024-01-30T10:47:53.7816595-05:00",
-        "Label": "SSD M.2 Corsair MP600 PRO LPX 500GB"
-      },
-      {
-        "Price": 105.00,
-        "Features": [
-          "7100mbs",
-          "700TBW",
-          "HeatSink",
-          "NVMe",
-          "PCIe 4"
-        ],
-        "Date": "2024-01-30T08:59:46.8640677-05:00",
-        "Update": "2024-01-30T10:47:53.8014196-05:00",
-        "Label": "SSD M.2 Corsair MP600 PRO LPX 1TB White"
-      },
-      {
-        "Price": 140.00,
-        "Features": [
-          "3600mbs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2024-02-20T04:08:11.8629348-05:00",
-        "Update": "2024-02-20T07:07:19.3992906-05:00",
-        "Label": "SSD M.2 MSI Spatium M450 2TB"
       },
       {
         "Price": 160.00,
@@ -3068,17 +3008,6 @@
         "Label": "SSD M.2 WD SN350 2TB"
       },
       {
-        "Price": 200.00,
-        "Features": [
-          "7000mbs",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-08-16T09:17:42.5509882-04:00",
-        "Update": "2024-03-07T04:00:33.9916428-05:00",
-        "Label": "SSD M.2 Samsung 980 PRO 2TB"
-      },
-      {
         "Price": 90.00,
         "Features": [
           "3500mbs",
@@ -3103,26 +3032,100 @@
         "Label": "SSD M.2 WD Blue SN580 2TB"
       },
       {
+        "Price": 115.00,
+        "Features": [
+          "540mbs",
+          "1600TBW",
+          "SATA 3"
+        ],
+        "Date": "2023-07-26T16:46:54.426825-04:00",
+        "Update": "2024-05-02T11:18:30.5716762-04:00",
+        "Label": "SSD 2.5 Team Group CX2 2TB"
+      },
+      {
+        "Price": 100.00,
+        "Features": [
+          "7400mbs",
+          "1450TBW",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-09-23T17:40:17.7101762-04:00",
+        "Update": "2024-05-02T11:18:30.5871608-04:00",
+        "Label": "SSD M.2 Team Group MP44 1TB"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "7100mbs",
+          "350TBW",
+          "HeatSink",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2024-01-30T08:59:41.0005017-05:00",
+        "Update": "2024-05-02T11:18:30.6036018-04:00",
+        "Label": "SSD M.2 Corsair MP600 PRO LPX 500GB"
+      },
+      {
+        "Price": 105.00,
+        "Features": [
+          "7100mbs",
+          "700TBW",
+          "HeatSink",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2024-01-30T08:59:46.8640677-05:00",
+        "Update": "2024-05-02T11:18:30.6194969-04:00",
+        "Label": "SSD M.2 Corsair MP600 PRO LPX 1TB White"
+      },
+      {
+        "Price": 140.00,
+        "Features": [
+          "3600mbs",
+          "1200TBW",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2024-02-20T04:08:11.8629348-05:00",
+        "Update": "2024-05-02T11:18:30.6354961-04:00",
+        "Label": "SSD M.2 MSI Spatium M450 2TB"
+      },
+      {
+        "Price": 200.00,
+        "Features": [
+          "7000mbs",
+          "1200TBW",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-08-16T09:17:42.5509882-04:00",
+        "Update": "2024-05-02T11:18:30.6536961-04:00",
+        "Label": "SSD M.2 Samsung 980 PRO 2TB"
+      },
+      {
         "Price": 110.00,
         "Features": [
           "5000mbs",
           "600TBW",
-          "PCIe",
+          "PCIe 4",
           "NVMe"
         ],
         "Date": "2024-04-11T02:50:58.4941382-04:00",
-        "Update": "2024-04-11T07:58:42.0650816-04:00",
+        "Update": "2024-05-02T11:18:30.6704811-04:00",
         "Label": "SSD M.2 Samsung 990 EVO 1TB"
       },
       {
         "Price": 220.00,
         "Features": [
           "7450mbs",
+          "1200TBW",
           "PCIe 4",
           "NVMe"
         ],
         "Date": "2023-08-29T08:42:45.4600847-04:00",
-        "Update": "2024-04-30T06:43:07.9607122-04:00",
+        "Update": "2024-05-02T11:18:30.6920884-04:00",
         "Label": "SSD M.2 Samsung 990 Pro 2TB"
       }
     ],
