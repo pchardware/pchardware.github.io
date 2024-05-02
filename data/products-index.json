@@ -2166,34 +2166,6 @@
         "Label": "RAM DDR4 G.Skill Ripjaws V 64GB 3600mhz"
       }
     ],
-    "Red": [
-      {
-        "Price": 43.00,
-        "Features": [
-          "1200Mbps",
-          "PCIe x1",
-          "Interna",
-          "2.4GHz",
-          "5GHz",
-          "Adaptador"
-        ],
-        "Date": "2023-12-04T17:33:10.8492635-05:00",
-        "Update": "2023-12-07T01:35:03.3726999-05:00",
-        "Label": "Tarjeta de Red Wifi Fenvi Wireless 1200 Dual Band + Bluetooh"
-      },
-      {
-        "Price": 43.00,
-        "Features": [
-          "PCIe",
-          "Wifi",
-          "2.4 GHz",
-          "5.8 GHz"
-        ],
-        "Date": "2023-12-04T16:21:27.4025597-05:00",
-        "Update": "2023-12-24T03:04:22.6302241-05:00",
-        "Label": "Rosewill Dual Band AC1300 Wireless"
-      }
-    ],
     "Chasis": [
       {
         "Price": 95.0,
@@ -3239,6 +3211,37 @@
         "Date": "2023-10-03T06:55:49.2464488-04:00",
         "Update": "2024-05-02T09:37:04.8688628-04:00",
         "Label": "Board Gigabyte Z790 Aorus Elite AX"
+      }
+    ],
+    "Red": [
+      {
+        "Price": 43.00,
+        "Features": [
+          "1200Mbps",
+          "PCIe x1",
+          "Interna",
+          "2.4GHz",
+          "5GHz",
+          "Adaptador",
+          "Wifi"
+        ],
+        "Date": "2023-12-04T17:33:10.8492635-05:00",
+        "Update": "2024-05-02T17:02:07.7771433-04:00",
+        "Label": "Tarjeta de Red Fenvi Wireless 1200 Dual Band +Bluetooh"
+      },
+      {
+        "Price": 43.00,
+        "Features": [
+          "PCIe x1",
+          "Wifi",
+          "2.4 GHz",
+          "5.8 GHz",
+          "Interna",
+          "Adaptador"
+        ],
+        "Date": "2023-12-04T16:21:27.4025597-05:00",
+        "Update": "2024-05-02T17:02:07.795165-04:00",
+        "Label": "Tarjeta de Red Rosewill Dual Band AC1300 Wireless"
       }
     ]
   },
