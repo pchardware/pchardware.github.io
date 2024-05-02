@@ -1,0 +1,22 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Red",
+  "Images": [
+    "/images/products/tarjeta-de-red-rosewill-dual-band-ac1300-wireless-1.webp",
+    "/images/products/tarjeta-de-red-rosewill-dual-band-ac1300-wireless-2.webp",
+    "/images/products/tarjeta-de-red-rosewill-dual-band-ac1300-wireless-3.webp"
+  ],
+  "Description": "Model\nBrand: Rosewill\nModel: RNX-AC1300PCEv2\n\n\nDetails\nStandards: IEEE802.11 a/b/g/n/ac\nWireless Data Rates: 2.4 GHz: 400 Mbps; 5.8 GHz: 867 Mbps\nSecurity: Support 32 / 64 bit WEP, WPA-PSK / WPA2-PSK, WPA / WPA2, WEP\nInterface: PCI Express\nFrequency Band: 2.4 GHz / 5.8 GHz\nLEDs: No\nAntenna: External 2 x 3dBi Antenna\nSystem Requirements: Windows 7 (32-bit, 64-bit) / 8.1 (32-bit, 64-bit) / 10 (32-bit, 64-bit)\n\n\nFeature\nFeatures: It is a desktop computer PCI-E wireless network card, which supports 802.11AC technology, 2.4 GHz & 5.8 GHz dual bands. The wireless rate can reach 1300 Mbps. Wi-Fi receiving function can be used for desktop, and Wi-Fi transmitting function can be used for mobile phone / PAD.",
+  "Price": 43.00,
+  "Features": [
+    "PCIe x1",
+    "Wifi",
+    "2.4 GHz",
+    "5.8 GHz",
+    "Interna",
+    "Adaptador"
+  ],
+  "Date": "2023-12-04T16:21:27.4025597-05:00",
+  "Update": "2024-05-02T17:02:07.795165-04:00",
+  "Label": "Tarjeta de Red Rosewill Dual Band AC1300 Wireless"
+}
