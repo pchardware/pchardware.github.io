@@ -11,20 +11,6 @@
           "7xUSB",
           "6xAudio"
         ],
-        "Date": "2024-02-05T07:57:55.4555632-05:00",
-        "Update": "2024-02-05T08:20:20.5483328-05:00",
-        "Label": "Kit AMD Ryzen 5 5600X +Disipador + Gigabyte X570S Gaming X"
-      },
-      {
-        "Price": 390.00,
-        "Features": [
-          "6 Core",
-          "12 Hilos",
-          "4.6GHz",
-          "6xSATA",
-          "7xUSB",
-          "6xAudio"
-        ],
         "Date": "2024-04-11T09:30:51.9613257-04:00",
         "Update": "2024-04-11T09:36:56.844061-04:00",
         "Label": "Kit AMD Ryzen 5 5600X +Disipador + Gigabyte X570S Gaming X"
@@ -3392,20 +3378,6 @@
         "Label": "Teclado Logitech G413 SE"
       },
       {
-        "Price": 75.00,
-        "Features": [
-          "Mecánico",
-          "Retroiluminado",
-          "Palm rest",
-          "12xTeclas de Función",
-          "Gaming",
-          "Cableado"
-        ],
-        "Date": "2024-01-18T07:08:55.3566296-05:00",
-        "Update": "2024-04-10T12:11:14.5787132-04:00",
-        "Label": "Teclado AOC RGB GK500"
-      },
-      {
         "Price": 85.00,
         "Features": [
           "Mecánico",
@@ -3419,6 +3391,21 @@
         "Label": "Teclado MSI Vigor GK50 Elite TKL LL"
       },
       {
+        "Price": 75.00,
+        "Features": [
+          "Mecánico",
+          "Retroiluminado",
+          "Palm rest",
+          "12xTeclas de Función",
+          "Gaming",
+          "Cableado",
+          "Full"
+        ],
+        "Date": "2024-01-18T07:08:55.3566296-05:00",
+        "Update": "2024-05-02T17:23:42.4330601-04:00",
+        "Label": "Teclado AOC RGB GK500"
+      },
+      {
         "Price": 80.00,
         "Features": [
           "Mecánico",
@@ -3428,8 +3415,8 @@
           "Gaming"
         ],
         "Date": "2024-04-20T12:17:46.3669934-04:00",
-        "Update": "2024-04-22T07:48:10.1042554-04:00",
-        "Label": "Combo MSI Forge GK100 + Mouse"
+        "Update": "2024-05-02T17:23:42.4680595-04:00",
+        "Label": "COMBO Teclado MSI Forge GK100 + Mouse"
       }
     ],
     "Adaptador": [
@@ -3517,11 +3504,12 @@
         "Price": 57.00,
         "Features": [
           "10x USB 3.0",
-          "3A"
+          "3A",
+          "Externo"
         ],
         "Date": "2023-07-17T23:37:56.1110686-04:00",
-        "Update": "2024-04-20T12:09:03.7447405-04:00",
-        "Label": "HUB Orico Type-A 10-Port USB 3.0"
+        "Update": "2024-05-02T17:23:42.4506053-04:00",
+        "Label": "USB HUB Orico Type-A 10xUSB 3.0 Alimentado"
       }
     ],
     "Externo": [
@@ -3572,8 +3560,8 @@
           "2x AA Battery"
         ],
         "Date": "2023-10-09T15:59:03.9375048-04:00",
-        "Update": "2024-02-16T14:51:46.4109117-05:00",
-        "Label": "Control Xbox Core Wireless Black"
+        "Update": "2024-05-02T17:23:42.3960469-04:00",
+        "Label": "Control XBox Core Wireless Black"
       },
       {
         "Price": 77.00,
@@ -3582,9 +3570,9 @@
           "2x AA Battery"
         ],
         "Date": "2024-02-16T17:53:39.1272162-05:00",
-        "Update": "2024-02-17T17:18:38.6064018-05:00",
+        "Update": "2024-05-02T17:23:42.4153261-04:00",
         "Def": true,
-        "Label": "Control Xbox Core Wireless White"
+        "Label": "Control XBox Core Wireless White"
       }
     ],
     "Auriculares": [
@@ -3610,23 +3598,6 @@
         "Label": "Auriculares Asus ROG Fusion II 300 Gaming"
       },
       {
-        "Price": 67.00,
-        "Features": [
-          "Inalámbrico",
-          "40mm",
-          "USB",
-          "18H",
-          "165g",
-          "Headset",
-          "Micrófono",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-07-09T16:45:46.4090102-04:00",
-        "Update": "2023-12-08T14:08:33.4615609-05:00",
-        "Label": "Auriculares Logitech G435 Lightspeed Wireless"
-      },
-      {
         "Price": 125.00,
         "Features": [
           "Noise Control",
@@ -3643,6 +3614,23 @@
         "Date": "2023-09-23T14:08:54.0159291-04:00",
         "Update": "2023-12-08T14:08:33.4767149-05:00",
         "Label": "Auriculares Corsair VOID RGB Elite Wireless White"
+      },
+      {
+        "Price": 67.00,
+        "Features": [
+          "Inalámbrico",
+          "40mm",
+          "USB",
+          "18H",
+          "165g",
+          "Headset",
+          "Micrófono",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-07-09T16:45:46.4090102-04:00",
+        "Update": "2024-05-02T17:23:42.3787898-04:00",
+        "Label": "Auriculares Logitech G435 Lightspeed Wireless"
       }
     ],
     "Webcam": [
