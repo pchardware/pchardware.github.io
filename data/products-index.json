@@ -703,7 +703,7 @@
           "90cfm"
         ],
         "Date": "2024-04-30T06:44:55.3819281-04:00",
-        "Update": "2024-04-30T10:52:59.5611328-04:00",
+        "Update": "2024-05-02T13:49:39.6949939-04:00",
         "Label": "Fan Corsair 120mm Brushless"
       },
       {
@@ -711,13 +711,14 @@
         "Features": [
           "120mm",
           "Levitación Magnetica",
-          "2000rpm",
+          "2400rpm",
           "75cfm",
-          "37db"
+          "37db",
+          "4Pin"
         ],
         "Date": "2024-04-30T06:45:22.6936323-04:00",
-        "Update": "2024-04-30T10:52:59.5788053-04:00",
-        "Label": "Fan Corsair ML120 PWM Premium"
+        "Update": "2024-05-02T13:49:39.7205468-04:00",
+        "Label": "Fan Corsair ML120 PWM Premium Magnetic Levitation"
       }
     ],
     "Fuente": [
