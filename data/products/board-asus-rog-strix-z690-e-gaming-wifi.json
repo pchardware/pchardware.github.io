@@ -15,16 +15,17 @@
     "12Gen-13Gen-14Gen",
     "DDR5",
     "6400mhz",
+    "17xVRM",
     "10xUSB",
     "6xAudio",
     "6xSATA",
-    "LGA 1700",
     "DisplayPort",
     "HDMI",
+    "LGA 1700",
     "ATX",
     "MOBO"
   ],
   "Date": "2023-05-11T07:51:07.1403838-04:00",
-  "Update": "2024-01-24T14:50:31.1103587-05:00",
+  "Update": "2024-05-02T09:37:04.6316032-04:00",
   "Label": "Board Asus ROG Strix Z690-E Gaming Wifi"
 }
