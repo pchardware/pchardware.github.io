@@ -1,124 +1,4 @@
 {
-  "Computadoras": {
-    "Gamer": [
-      {
-        "Price": 2130.00,
-        "Features": [],
-        "Date": "2024-04-20T10:42:06.0831707-04:00",
-        "Update": "2024-04-20T10:46:01.8533285-04:00",
-        "Discount": 20.0,
-        "Label": "PC RTX 4060 Ti 8GB +Core i7-12700K +Z790 Eagle AX +32GB DDR5 +512GB M.2 +27\""
-      },
-      {
-        "Price": 2450.00,
-        "Features": [],
-        "Date": "2024-04-19T09:30:33.0428038-04:00",
-        "Update": "2024-04-30T06:43:08.2149118-04:00",
-        "Discount": 25.0,
-        "Label": "PC i9-14900K +Strix Z790-F Gaming Wifi +64GB DDR5 +1TB M.2 +2TB HDD +850W +27\""
-      }
-    ],
-    "Multimedia": [
-      {
-        "Price": 980.00,
-        "Features": [],
-        "Date": "2024-04-27T05:48:56.699818-04:00",
-        "Update": "2024-04-27T06:36:58.8914732-04:00",
-        "Discount": 35.0,
-        "Label": "PC i3-14100 +B760M PRO RS +16 DDR4 +512GB M.2 +500W +Chasis RGB +MSI 25\""
-      }
-    ]
-  },
-  "Torres": {
-    "Pro": [
-      {
-        "Price": 1105.00,
-        "Features": [],
-        "Date": "2024-04-13T07:20:09.1289159-04:00",
-        "Update": "2024-04-13T07:23:18.6144267-04:00",
-        "Discount": 15.0,
-        "Label": "Torre RX 6600 3X 8GB +Ryzen 5 5600X +X570S Gaming X +16GB DDR4 +500GB M.2 +750M"
-      },
-      {
-        "Price": 1890.00,
-        "Features": [],
-        "Date": "2024-04-14T11:06:43.2322357-04:00",
-        "Update": "2024-04-30T06:43:08.1959576-04:00",
-        "Discount": 15.0,
-        "Label": "Torre i9-14900K +Líquido +Z790-F Gaming Wifi +64GB DDR5 +1TB M.2 +2TB HDD +850W"
-      }
-    ],
-    "Gamer": [
-      {
-        "Price": 1120.00,
-        "Features": [],
-        "Date": "2024-04-13T16:34:23.3155579-04:00",
-        "Update": "2024-04-14T10:19:27.9602542-04:00",
-        "Discount": 15.0,
-        "Label": "Torre RTX 3050 OC 6GB +i3-14100F +Z790 Eagle AX +32GB DDR5 + 500GB M.2 +850W"
-      },
-      {
-        "Price": 1060.00,
-        "Features": [],
-        "Date": "2024-04-23T06:10:18.6626968-04:00",
-        "Update": "2024-04-23T06:26:57.9482041-04:00",
-        "Discount": 10.0,
-        "Label": "Torre RX 6600 8GB +i3-14100F +B760M PRO RS +32GB DDR5 +512 M.2 +750W +Chasis RGB"
-      },
-      {
-        "Price": 2340.00,
-        "Features": [],
-        "Date": "2024-04-24T02:30:37.8497944-04:00",
-        "Update": "2024-04-24T03:10:00.7053917-04:00",
-        "Discount": 20.0,
-        "Label": "Torre RTX 4070 Ti OC 12GB +i7-13700K +Líquido +Z790 Aorus Elite AX ICE +32GB DDR5 +1TB M.2 +1000W"
-      },
-      {
-        "Price": 1390.00,
-        "Features": [],
-        "Date": "2024-04-14T10:24:42.6082746-04:00",
-        "Update": "2024-04-25T12:00:37.2481205-04:00",
-        "Discount": 15.0,
-        "Label": "Torre RTX 4060 Gaming OC 8GB +i5-12600KF +Z790 Eagle AX +32GB DDR5 +850W"
-      },
-      {
-        "Price": 1925.00,
-        "Features": [],
-        "Date": "2024-04-27T07:51:59.1867818-04:00",
-        "Update": "2024-04-27T07:54:32.314613-04:00",
-        "Discount": 15.0,
-        "Label": "Torre RTX 4060 Ti 3X 8GB +i7-12700K +MEG Z690 ACE +32GB DDR5 +850W +Chasis RGB"
-      }
-    ],
-    "Multimedia": [
-      {
-        "Price": 685.00,
-        "Features": [],
-        "Date": "2024-04-27T04:41:03.137563-04:00",
-        "Update": "2024-04-27T04:43:45.3403524-04:00",
-        "Discount": 10.0,
-        "Label": "Torre i3-14100 +Gigabyte B760M DS3H +16GB DDR4 +500GB M.2 +500W +Chasis RGB"
-      },
-      {
-        "Price": 740.00,
-        "Features": [],
-        "Date": "2024-04-29T08:50:52.710014-04:00",
-        "Update": "2024-04-29T11:32:06.7967593-04:00",
-        "Discount": 15.0,
-        "Label": "Torre i3-14100 +B760M PRO RS +16GB RAM 3600Mhz +500GB M.2 Corsair+ CORSAIR CX550 550W"
-      }
-    ],
-    "Entusiasta": [
-      {
-        "Price": 3105.00,
-        "Features": [],
-        "Date": "2024-04-24T03:52:55.4140473-04:00",
-        "Update": "2024-04-30T06:43:08.2324451-04:00",
-        "Discount": 30.0,
-        "Label": "Torre RTX 4070 Ti Super OC 16GB +i9-14900K +MSI MPG Z790 EDGE +64GB DDR5 +2TB M.2 +850W"
-      }
-    ]
-  },
   "Kits": {
     "Rendimiento": [
       {
@@ -2320,22 +2200,6 @@
         "Label": "Chasis MLLIQUEA Mining Rig Frame"
       },
       {
-        "Price": 175.00,
-        "Features": [
-          "Tempered Glass",
-          "3xFan ARGB",
-          "3xUSB",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro",
-          "2xHDD"
-        ],
-        "Date": "2023-11-03T12:22:56.9620417-04:00",
-        "Update": "2024-03-07T04:00:34.2345223-05:00",
-        "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
-      },
-      {
         "Price": 185.00,
         "Features": [
           "Tempered Glass",
@@ -2755,23 +2619,6 @@
         "Date": "2023-12-19T06:42:00.2738717-05:00",
         "Update": "2024-04-30T06:43:08.0682226-04:00",
         "Label": "Tarjeta de Video Asus ProArt RTX 4060 OC 8GB"
-      },
-      {
-        "Price": 660.00,
-        "Features": [
-          "DLSS3",
-          "3xfan",
-          "1x8Pin",
-          "650WR",
-          "300mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-04-11T02:49:46.3017721-04:00",
-        "Update": "2024-04-30T06:43:08.1096687-04:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4070 Gaming OC V2 12GB"
       },
       {
         "Price": 700.00,
