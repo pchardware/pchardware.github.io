@@ -15,18 +15,19 @@
     "12Gen-13Gen-14Gen",
     "DDR5",
     "7200mhz",
+    "19xVRM",
     "Wifi",
     "Bluetooth",
     "10xUSB",
     "4xSATA",
     "HDMI",
-    "DP",
-    "LGA 1700",
+    "DisplayPort",
     "3xAudio",
+    "LGA 1700",
     "ATX",
     "MOBO"
   ],
   "Date": "2024-04-11T02:49:07.4382173-04:00",
-  "Update": "2024-04-11T07:54:20.1223525-04:00",
+  "Update": "2024-05-02T09:37:04.7674734-04:00",
   "Label": "Board Asus ROG Strix Z790-F Gaming Wifi"
 }
