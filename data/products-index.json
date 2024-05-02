@@ -886,20 +886,6 @@
         "Label": "Fuente Apevia Spirit 600W"
       },
       {
-        "Price": 85.00,
-        "Features": [
-          "53A",
-          "1x 4+4Pin",
-          "2x 6+2Pin",
-          "4x SATA",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-12-28T22:14:43.0215162-05:00",
-        "Update": "2023-12-29T07:44:38.8493064-05:00",
-        "Label": "Fuente Apevia Spirit 700W ATX-SP700"
-      },
-      {
         "Price": 80.00,
         "Features": [
           "35A",
@@ -914,39 +900,6 @@
         "Date": "2023-05-12T07:54:08.9581203-04:00",
         "Update": "2023-12-29T14:20:08.0902021-05:00",
         "Label": "Fuente Thermaltake SMART 500W"
-      },
-      {
-        "Price": 70.00,
-        "Features": [
-          "30A",
-          "1x 4+4Pin",
-          "1x 6+2Pin",
-          "4x SATA",
-          "140mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-12-19T06:42:21.8253659-05:00",
-        "Update": "2024-01-24T02:24:17.2036318-05:00",
-        "Label": "Fuente EVGA 400W"
-      },
-      {
-        "Price": 215.00,
-        "Features": [
-          "ATX 3.0",
-          "83A",
-          "80+ Gold",
-          "Full Modular",
-          "1x16Pin",
-          "2x 4+4 EPS",
-          "140mm",
-          "4x 6+2-Pin",
-          "8x SATA",
-          "PSU"
-        ],
-        "Date": "2023-05-11T14:27:13.3514196-04:00",
-        "Update": "2024-01-24T02:24:17.2767406-05:00",
-        "Label": "Fuente Gigabyte UD1000GM 1000W"
       },
       {
         "Price": 260.00,
@@ -966,23 +919,6 @@
         "Date": "2023-08-08T10:02:44.4021387-04:00",
         "Update": "2024-01-24T02:24:17.2899613-05:00",
         "Label": "Fuente Asus ROG Thor 850W Platinum II"
-      },
-      {
-        "Price": 140.00,
-        "Features": [
-          "62A",
-          "80+ Bronze",
-          "Modular",
-          "4x 6+2Pin",
-          "8x SATA",
-          "1x 4+4 EPS",
-          "160mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-04-15T07:27:10.1467554-04:00",
-        "Update": "2024-01-24T02:24:17.3357109-05:00",
-        "Label": "Fuente Corsair CX750M 750W"
       },
       {
         "Price": 165.00,
@@ -1235,6 +1171,75 @@
         "Update": "2024-05-02T12:10:14.4081273-04:00",
         "Def": true,
         "Label": "Fuente Corsair AX760 760W"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "53A",
+          "1x 4+4Pin",
+          "2x 6+2Pin",
+          "4x SATA",
+          "4x PATA",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-12-28T22:14:43.0215162-05:00",
+        "Update": "2024-05-02T12:58:32.3546637-04:00",
+        "Label": "Fuente Apevia Spirit 700W ATX-SP700"
+      },
+      {
+        "Price": 70.00,
+        "Features": [
+          "30A",
+          "1x 4+4Pin",
+          "1x 6+2Pin",
+          "1x 6Pin",
+          "4x SATA",
+          "3x PATA",
+          "140mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-12-19T06:42:21.8253659-05:00",
+        "Update": "2024-05-02T12:58:32.3775833-04:00",
+        "Label": "Fuente EVGA 400 N1 400W"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "ATX 3.0",
+          "83A",
+          "80+ Gold",
+          "Full Modular",
+          "1x16Pin",
+          "2x 4+4 EPS",
+          "140mm",
+          "4x 6+2-Pin",
+          "8x SATA",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-05-11T14:27:13.3514196-04:00",
+        "Update": "2024-05-02T12:58:32.3948815-04:00",
+        "Label": "Fuente Gigabyte UD1000GM 1000W"
+      },
+      {
+        "Price": 140.00,
+        "Features": [
+          "Modular",
+          "2x 4+4 EPS",
+          "62A",
+          "80+ Bronze",
+          "4x 6+2Pin",
+          "8x SATA",
+          "4x PATA",
+          "150mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-04-15T07:27:10.1467554-04:00",
+        "Update": "2024-05-02T12:58:32.4151532-04:00",
+        "Label": "Fuente Corsair CX750M 750W"
       }
     ],
     "Disipador Líquido": [
