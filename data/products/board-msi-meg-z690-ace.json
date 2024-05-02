@@ -19,17 +19,19 @@
     "12Gen-13Gen-14Gen",
     "DDR5",
     "6666mhz",
+    "22xVRM",
     "Wifi",
     "7xUSB",
     "6xSATA",
     "5xM.2",
-    "LGA 1700",
-    "ATX",
     "DisplayPort",
     "HDMI",
-    "6xAudio"
+    "6xAudio",
+    "LGA 1700",
+    "EATX",
+    "MOBO"
   ],
   "Date": "2024-02-16T17:53:32.8637228-05:00",
-  "Update": "2024-02-18T08:30:42.7902155-05:00",
+  "Update": "2024-05-02T09:37:04.6507858-04:00",
   "Label": "Board MSI MEG Z690 ACE"
 }
