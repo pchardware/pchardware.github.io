@@ -717,8 +717,8 @@
           "4Pin"
         ],
         "Date": "2024-04-30T06:45:22.6936323-04:00",
-        "Update": "2024-05-02T13:49:39.7205468-04:00",
-        "Label": "Fan Corsair ML120 PWM Premium Magnetic Levitation"
+        "Update": "2024-05-02T16:29:27.1590737-04:00",
+        "Label": "Fan Corsair ML120 PWM Premium"
       }
     ],
     "Fuente": [
@@ -1710,22 +1710,6 @@
         "Label": "Micro Intel Core i5-12600KF"
       },
       {
-        "Price": 145.00,
-        "Features": [
-          "14Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.7GHz",
-          "12MB L3",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2024-02-16T17:52:51.8800101-05:00",
-        "Update": "2024-05-02T13:05:18.038209-04:00",
-        "Label": "Micro Intel Core i3-14100F +Disipador"
-      },
-      {
         "Price": 170.00,
         "Features": [
           "14Gen",
@@ -1824,6 +1808,22 @@
         "Date": "2023-02-17T09:45:29.425139-05:00",
         "Update": "2024-05-02T13:05:18.1700385-04:00",
         "Label": "Micro Intel Core i5-12400 +Disipador"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "14Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.7GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2024-02-16T17:52:51.8800101-05:00",
+        "Update": "2024-05-02T16:29:07.7123212-04:00",
+        "Label": "Micro Intel Core i3-14100F +Disipador"
       }
     ],
     "Memoria RAM": [
