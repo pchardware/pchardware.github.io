@@ -1900,17 +1900,6 @@
         "Label": "RAM DDR5 Corsair Dominator Platinum RGB 32GB 6200mhz"
       },
       {
-        "Price": 140.00,
-        "Features": [
-          "2x16",
-          "CL40",
-          "Disipadas"
-        ],
-        "Date": "2024-01-27T21:38:20.2269354-05:00",
-        "Update": "2024-01-28T05:39:24.5754789-05:00",
-        "Label": "RAM DDR5 Gigabyte AORUS RGB 32GB 6000mhz"
-      },
-      {
         "Price": 115.00,
         "Features": [
           "2x16GB",
@@ -2164,6 +2153,17 @@
         "Date": "2024-02-16T14:42:16.5355631-05:00",
         "Update": "2024-05-02T13:05:18.0552297-04:00",
         "Label": "RAM DDR4 G.Skill Ripjaws V 64GB 3600mhz"
+      },
+      {
+        "Price": 140.00,
+        "Features": [
+          "2x16",
+          "CL40",
+          "Disipadas"
+        ],
+        "Date": "2024-01-27T21:38:20.2269354-05:00",
+        "Update": "2024-05-02T17:09:30.7329602-04:00",
+        "Label": "RAM DDR5 Gigabyte Aorus RGB 32GB 6000mhz"
       }
     ],
     "Chasis": [
@@ -2197,22 +2197,6 @@
     ],
     "Tarjeta Gráfica": [
       {
-        "Price": 480.00,
-        "Features": [
-          "3xFan",
-          "2x8Pin",
-          "750WR",
-          "340mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-12-15T02:02:40.5357401-05:00",
-        "Update": "2023-12-24T03:17:29.4282392-05:00",
-        "Label": "Tarjeta de Video XFX Swift 319 RX 6800 16GB"
-      },
-      {
         "Price": 385.00,
         "Features": [
           "DLSS3",
@@ -2245,23 +2229,6 @@
         "Date": "2023-04-09T07:40:11.0980971-04:00",
         "Update": "2024-01-17T06:24:33.5249091-05:00",
         "Label": "Tarjeta de Video EVGA RTX 3080Ti XC3 Hydro Copper 12GB"
-      },
-      {
-        "Price": 330.00,
-        "Features": [
-          "3xFan",
-          "2x8Pin",
-          "650WR",
-          "304mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-07-26T16:40:52.2609256-04:00",
-        "Update": "2024-01-18T07:19:39.8101112-05:00",
-        "Def": true,
-        "Label": "Tarjeta de Video XFX Swft 309 RX 6700 10GB"
       },
       {
         "Price": 375.00,
@@ -2342,22 +2309,6 @@
         "Date": "2023-12-17T00:52:01.2226849-05:00",
         "Update": "2024-03-04T22:32:49.6286481-05:00",
         "Label": "Tarjeta de Video Asus TUF Gaming RX 7800 XT OC 16GB"
-      },
-      {
-        "Price": 285.00,
-        "Features": [
-          "3xFan",
-          "1x8Pin",
-          "500WR",
-          "282mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-05-11T19:24:18.7527581-04:00",
-        "Update": "2024-03-04T22:32:49.6462945-05:00",
-        "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 EAGLE WINDFORCE 3X 8GB"
       },
       {
         "Price": 370.00,
@@ -2666,6 +2617,55 @@
         "Date": "2023-10-23T12:32:13.7726731-04:00",
         "Update": "2024-05-01T16:55:08.9362171-04:00",
         "Label": "Tarjeta de Video Asus ROG Strix RTX 4060 OC 8GB"
+      },
+      {
+        "Price": 480.00,
+        "Features": [
+          "3xFan",
+          "2x8Pin",
+          "750WR",
+          "340mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-12-15T02:02:40.5357401-05:00",
+        "Update": "2024-05-02T17:09:30.6948228-04:00",
+        "Label": "Tarjeta de Video XFX Speedster SWFT 319 RX 6800 16GB"
+      },
+      {
+        "Price": 330.00,
+        "Features": [
+          "3xFan",
+          "2x8Pin",
+          "650WR",
+          "304mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-07-26T16:40:52.2609256-04:00",
+        "Update": "2024-05-02T17:09:30.7158627-04:00",
+        "Def": true,
+        "Label": "Tarjeta de Video XFX Speedster SWFT 309 RX 6700 10GB"
+      },
+      {
+        "Price": 285.00,
+        "Features": [
+          "3xFan",
+          "1x8Pin",
+          "500WR",
+          "282mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-05-11T19:24:18.7527581-04:00",
+        "Update": "2024-05-02T17:09:30.7496551-04:00",
+        "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 Eagle WindForce 3X 8GB"
       }
     ],
     "Disco Sólido": [
