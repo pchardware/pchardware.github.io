@@ -8,7 +8,7 @@
   "Description": "4 núcleos (4 núcleos P + 0 núcleos E) y 8 hilos. Incluye gráficos Intel UHD 730 integrados.\nRendimiento de dos núcleos de microarquitectura, priorizando y distribuyendo cargas de trabajo para optimizar el rendimiento\nHasta 4,7 GHz desbloqueado. Caché de 12 MB\nCompatible con Intel serie 600 (con posible actualización de BIOS) y placas base basadas en chipset serie 700\nSoporte PCIe 5.0 y 4.0. Compatibilidad con memoria DDR4 y DDR5. Solución térmica RM1 incluida.",
   "Price": 170.00,
   "Features": [
-    "14va Gen",
+    "14Gen",
     "8 Hilos",
     "4 Core",
     "4.7GHz",
@@ -18,6 +18,6 @@
     "CPU"
   ],
   "Date": "2024-02-01T21:14:34.2946119-05:00",
-  "Update": "2024-04-12T10:08:02.5919788-04:00",
+  "Update": "2024-05-02T13:05:18.0721832-04:00",
   "Label": "Micro Intel Core i3-14100 +Disipador"
 }
