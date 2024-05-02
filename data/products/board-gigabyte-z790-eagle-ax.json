@@ -13,18 +13,19 @@
     "12Gen-13Gen-14Gen",
     "DDR5",
     "7600mhz",
+    "14xVRM",
     "Wifi",
     "Bluetooth",
     "7xUSB",
     "4xSATA",
     "HDMI",
-    "DP",
-    "LGA 1700",
+    "DisplayPort",
     "3xAudio",
+    "LGA 1700",
     "ATX",
     "MOBO"
   ],
   "Date": "2024-04-11T02:51:03.0617681-04:00",
-  "Update": "2024-04-11T07:54:20.1437604-04:00",
+  "Update": "2024-05-02T09:37:04.7881931-04:00",
   "Label": "Board Gigabyte Z790 Eagle AX"
 }
