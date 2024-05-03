@@ -839,6 +839,25 @@
         "Date": "2023-04-15T07:27:10.1467554-04:00",
         "Update": "2024-05-02T12:58:32.4151532-04:00",
         "Label": "Fuente Corsair CX750M 750W"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "ATX3.0",
+          "63A",
+          "80+ Bronze",
+          "1x 16Pin",
+          "2x 4+4 EPS",
+          "2x 6+2Pin",
+          "5x SATA",
+          "2x PATA",
+          "140mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2024-05-03T06:17:23.2912172-04:00",
+        "Update": "2024-05-03T09:34:05.523577-04:00",
+        "Label": "Fuente MSI MAG A750BN 750W"
       }
     ],
     "Disipador Líquido": [
