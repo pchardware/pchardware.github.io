@@ -17,14 +17,16 @@
     "38dba",
     "Cobre",
     "240mm",
+    "PWM",
     "LGA 1700",
     "LGA 1200",
     "LGA 115X",
     "LGA 20XX",
     "AM4",
-    "TR"
+    "AM5",
+    "TR4**"
   ],
   "Date": "2023-06-19T07:48:51.0981438-04:00",
-  "Update": "2024-04-10T12:09:21.3415956-04:00",
+  "Update": "2024-05-03T11:56:57.508752-04:00",
   "Label": "Disipador Líquido ASUS ROG Strix LC II 240 ARGB"
 }
