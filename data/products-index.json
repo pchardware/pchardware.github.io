@@ -1106,6 +1106,27 @@
         "Date": "2024-04-11T02:49:55.1254282-04:00",
         "Update": "2024-04-11T08:04:32.1404206-04:00",
         "Label": "Disipador Líquido Asus TUF Gaming LC 240 ARGB"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "2xFan",
+          "280mm",
+          "2100rpm",
+          "102cfm",
+          "36dB",
+          "PWM",
+          "LGA 1700",
+          "AM5",
+          "AM4",
+          "LGA 115X",
+          "LGA 1200",
+          "LGA 20XX",
+          "AMD TR4**"
+        ],
+        "Date": "2024-05-03T06:18:25.3942417-04:00",
+        "Update": "2024-05-03T11:04:09.1661903-04:00",
+        "Label": "Disipador Líquido Asus ROG Strix LC II 280 ARGB"
       }
     ],
     "Disco Duro": [
