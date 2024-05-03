@@ -274,6 +274,38 @@
         "Update": "2024-04-30T06:43:08.0069836-04:00",
         "Discount": 8.0,
         "Label": "Kit i5-12600K + Board Gigabyte Z790 Aorus Elite AX + DDR5 Corsair Vengeance 32GB"
+      },
+      {
+        "Price": 585.00,
+        "Features": [
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "2x8GB",
+          "DDR4",
+          "Disipadas",
+          "Wifi",
+          "8xUSB",
+          "6xSATA"
+        ],
+        "Date": "2024-02-26T10:02:49.6528025-05:00",
+        "Update": "2024-05-03T07:21:36.1348918-04:00",
+        "Discount": 5.0,
+        "Label": "Kit i5-12600K +Hyper 212 Spectrum V3 +Z690 AERO G DDR4 +16GB DDR4 3200mhz"
+      },
+      {
+        "Price": 530.00,
+        "Features": [
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "Wifi",
+          "8xUSB",
+          "6xSATA"
+        ],
+        "Date": "2024-02-26T10:08:53.3357047-05:00",
+        "Update": "2024-05-03T07:21:36.1513842-04:00",
+        "Label": "Kit Intel Core i5-12600K +Hyper 212 Spectrum V3 +Gigabyte Z690 AERO G DDR4"
       }
     ],
     "Entusiasta": [
@@ -1816,6 +1848,22 @@
         "Date": "2024-02-16T17:52:51.8800101-05:00",
         "Update": "2024-05-02T16:29:07.7123212-04:00",
         "Label": "Micro Intel Core i3-14100F +Disipador"
+      },
+      {
+        "Price": 175.00,
+        "Features": [
+          "12va Gen",
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "18MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-08-08T10:07:50.0509327-04:00",
+        "Update": "2024-05-03T07:21:36.0945308-04:00",
+        "Label": "Micro Intel Core i5-12400F +Disipador"
       }
     ],
     "Memoria RAM": [
@@ -2179,6 +2227,22 @@
         "Date": "2024-04-30T06:45:15.022489-04:00",
         "Update": "2024-04-30T09:42:29.9510849-04:00",
         "Label": "Chasis Cougar Archon 2 Mesh RGB White"
+      },
+      {
+        "Price": 245.00,
+        "Features": [
+          "Tempered Glass",
+          "4xFan",
+          "ARGB",
+          "2xHDD",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "Negro"
+        ],
+        "Date": "2023-06-29T07:38:28.5002459-04:00",
+        "Update": "2024-05-03T07:21:36.0442162-04:00",
+        "Label": "Chasis Asus TUF GT301"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2926,6 +2990,18 @@
         "Date": "2023-08-29T08:42:45.4600847-04:00",
         "Update": "2024-05-02T11:18:30.6920884-04:00",
         "Label": "SSD M.2 Samsung 990 Pro 2TB"
+      },
+      {
+        "Price": 150.00,
+        "Features": [
+          "7000mbs",
+          "HeatSink",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-05-11T14:03:36.5510535-04:00",
+        "Update": "2024-05-03T07:21:36.0779586-04:00",
+        "Label": "SSD M.2 Samsung 980 PRO 1TB +Heatsink"
       }
     ],
     "Board": [
@@ -3180,6 +3256,46 @@
         "Date": "2023-10-03T06:55:49.2464488-04:00",
         "Update": "2024-05-02T09:37:04.8688628-04:00",
         "Label": "Board Gigabyte Z790 Aorus Elite AX"
+      },
+      {
+        "Price": 245.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR4",
+          "5333mhz",
+          "Wifi",
+          "8xUSB",
+          "6xSATA",
+          "4xM.2",
+          "LGA 1700",
+          "ATX",
+          "DisplayPort",
+          "HDMI",
+          "3xAudio",
+          "MOBO"
+        ],
+        "Date": "2024-02-18T08:16:18.8265622-05:00",
+        "Update": "2024-05-03T07:21:36.1139614-04:00",
+        "Label": "Board Gigabyte Z690 AERO G DDR4"
+      },
+      {
+        "Price": 225.00,
+        "Features": [
+          "12va-13ra-14ta",
+          "DDR4",
+          "5000mhz",
+          "6xAudio",
+          "5xUSB",
+          "8xSATA",
+          "LGA1700",
+          "HDMI",
+          "DisplayPort",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2024-03-07T09:46:29.5659598-05:00",
+        "Update": "2024-05-03T07:21:36.1694381-04:00",
+        "Label": "MB - ASRock Z690 EXTREME DDR4"
       }
     ],
     "Red": [
@@ -3614,6 +3730,23 @@
         "Date": "2023-07-09T16:45:46.4090102-04:00",
         "Update": "2024-05-02T17:23:42.3787898-04:00",
         "Label": "Auriculares Logitech G435 Lightspeed Wireless"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "7.1",
+          "Micrófono",
+          "3.5mm",
+          "50mm",
+          "Noise Cancelling",
+          "240g",
+          "Headset",
+          "Cascos",
+          "Audífonos"
+        ],
+        "Date": "2023-07-09T16:44:46.7059022-04:00",
+        "Update": "2024-05-03T07:21:36.06141-04:00",
+        "Label": "Auriculares Razer BlackShark V2 X"
       }
     ],
     "Webcam": [
