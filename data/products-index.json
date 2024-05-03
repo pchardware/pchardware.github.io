@@ -1038,26 +1038,6 @@
         "Label": "Disipador Líquido ASUS ROG RYUO III 240 ARGB"
       },
       {
-        "Price": 190.00,
-        "Features": [
-          "2xFan",
-          "2500rpm",
-          "81cfm",
-          "38dba",
-          "Cobre",
-          "240mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "LGA 20XX",
-          "AM4",
-          "TR"
-        ],
-        "Date": "2023-06-19T07:48:51.0981438-04:00",
-        "Update": "2024-04-10T12:09:21.3415956-04:00",
-        "Label": "Disipador Líquido ASUS ROG Strix LC II 240 ARGB"
-      },
-      {
         "Price": 135.00,
         "Features": [
           "2xFan",
@@ -1221,6 +1201,28 @@
         "Date": "2024-05-03T06:18:19.9860597-04:00",
         "Update": "2024-05-03T11:52:25.3524081-04:00",
         "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce II 360 G2"
+      },
+      {
+        "Price": 190.00,
+        "Features": [
+          "2xFan",
+          "2500rpm",
+          "81cfm",
+          "38dba",
+          "Cobre",
+          "240mm",
+          "PWM",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "LGA 20XX",
+          "AM4",
+          "AM5",
+          "TR4**"
+        ],
+        "Date": "2023-06-19T07:48:51.0981438-04:00",
+        "Update": "2024-05-03T11:56:57.508752-04:00",
+        "Label": "Disipador Líquido ASUS ROG Strix LC II 240 ARGB"
       }
     ],
     "Disco Duro": [
