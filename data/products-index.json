@@ -1127,6 +1127,100 @@
         "Date": "2024-05-03T06:18:25.3942417-04:00",
         "Update": "2024-05-03T11:04:09.1661903-04:00",
         "Label": "Disipador Líquido Asus ROG Strix LC II 280 ARGB"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "2xFan",
+          "2150rpm",
+          "57cfm",
+          "31dB",
+          "240mm",
+          "LGA 1700",
+          "LGA 15XX",
+          "LGA 1200",
+          "AM4",
+          "AM5",
+          "sTR4",
+          "LGA 1366",
+          "LGA 20XX"
+        ],
+        "Date": "2024-05-03T01:07:54.4972071-04:00",
+        "Update": "2024-05-03T11:52:25.2510034-04:00",
+        "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce II 240 G2"
+      },
+      {
+        "Price": 235.00,
+        "Features": [
+          "2xFan",
+          "2500rpm",
+          "38dB",
+          "240mm",
+          "LGA 1700",
+          "LGA 15XX",
+          "LGA 1200",
+          "AM4",
+          "sTRX4"
+        ],
+        "Date": "2024-05-03T01:07:59.9836736-04:00",
+        "Update": "2024-05-03T11:52:25.2929803-04:00",
+        "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce X 240"
+      },
+      {
+        "Price": 230.00,
+        "Features": [
+          "3xFan",
+          "1500rpm",
+          "48cfm",
+          "28dB",
+          "360mm",
+          "LGA 1700",
+          "LGA 15XX",
+          "LGA 1200",
+          "AM4",
+          "AM5"
+        ],
+        "Date": "2024-05-03T06:18:04.426155-04:00",
+        "Update": "2024-05-03T11:52:25.3129454-04:00",
+        "Label": "Disipador Líquido Corsair iCUE H150 RGB"
+      },
+      {
+        "Price": 265.00,
+        "Features": [
+          "3xFan",
+          "2500rpm",
+          "38dB",
+          "360mm",
+          "LGA 1700",
+          "LGA 15XX",
+          "LGA 1200",
+          "AM4",
+          "sTRX4"
+        ],
+        "Date": "2024-05-03T06:18:09.2978313-04:00",
+        "Update": "2024-05-03T11:52:25.3327294-04:00",
+        "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce 360"
+      },
+      {
+        "Price": 230.00,
+        "Features": [
+          "3xFan",
+          "2150rpm",
+          "57cfm",
+          "31dB",
+          "360mm",
+          "LGA 1700",
+          "LGA 15XX",
+          "LGA 1200",
+          "AM4",
+          "AM5",
+          "sTR4",
+          "LGA 1366",
+          "LGA 20XX"
+        ],
+        "Date": "2024-05-03T06:18:19.9860597-04:00",
+        "Update": "2024-05-03T11:52:25.3524081-04:00",
+        "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce II 360 G2"
       }
     ],
     "Disco Duro": [
@@ -1483,6 +1577,27 @@
         "Date": "2024-04-30T06:45:22.6936323-04:00",
         "Update": "2024-05-02T16:59:00.992051-04:00",
         "Label": "Fan Corsair ML120 PWM Premium 120mm"
+      },
+      {
+        "Price": 19.00,
+        "Features": [
+          "120mm",
+          "2400rpm",
+          "75cfm",
+          "30dB",
+          "4Pin",
+          "PWM"
+        ],
+        "Date": "2024-05-03T06:17:38.6421025-04:00",
+        "Update": "2024-05-03T11:52:25.2740016-04:00",
+        "Label": "Fan Cooler Master Mobius 120P ARGB White"
+      },
+      {
+        "Price": 16.00,
+        "Features": [],
+        "Date": "2024-05-03T10:37:20.0612972-04:00",
+        "Update": "2024-05-03T11:52:25.3770982-04:00",
+        "Label": "Thermalright LGA1700-BCF Black V2"
       }
     ],
     "Disipador por Aire": [
