@@ -701,43 +701,6 @@
         "Label": "Fuente Asus ROG Strix 1000W Aura Edition"
       },
       {
-        "Price": 180.00,
-        "Features": [
-          "ATX 3.0",
-          "70A",
-          "80+ Gold",
-          "Full Modular",
-          "4x 6+2Pin",
-          "8x SATA",
-          "2x 4+4 EPS",
-          "4x Molex",
-          "140mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2024-04-11T02:49:01.5018153-04:00",
-        "Update": "2024-05-02T12:10:14.3226801-04:00",
-        "Label": "Fuente MSI MAG A850GL 850W"
-      },
-      {
-        "Price": 210.00,
-        "Features": [
-          "80+ Gold",
-          "Full Modular",
-          "ATX 3.0",
-          "2x 4+4 EPS",
-          "71A",
-          "3x 6+2Pin",
-          "5x SATA",
-          "150mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-05-11T14:26:27.9739641-04:00",
-        "Update": "2024-05-02T12:10:14.3612448-04:00",
-        "Label": "Fuente Asus TUF 850W"
-      },
-      {
         "Price": 105.00,
         "Features": [
           "44A",
@@ -804,25 +767,6 @@
         "Label": "Fuente EVGA 400 N1 400W"
       },
       {
-        "Price": 215.00,
-        "Features": [
-          "ATX 3.0",
-          "83A",
-          "80+ Gold",
-          "Full Modular",
-          "1x16Pin",
-          "2x 4+4 EPS",
-          "140mm",
-          "4x 6+2-Pin",
-          "8x SATA",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-05-11T14:27:13.3514196-04:00",
-        "Update": "2024-05-02T12:58:32.3948815-04:00",
-        "Label": "Fuente Gigabyte UD1000GM 1000W"
-      },
-      {
         "Price": 140.00,
         "Features": [
           "Modular",
@@ -858,6 +802,64 @@
         "Date": "2024-05-03T06:17:23.2912172-04:00",
         "Update": "2024-05-03T09:34:05.523577-04:00",
         "Label": "Fuente MSI MAG A750BN 750W"
+      },
+      {
+        "Price": 180.00,
+        "Features": [
+          "ATX 3.0",
+          "70A",
+          "80+ Gold",
+          "Full Modular",
+          "1x 16Pin",
+          "4x 6+2Pin",
+          "8x SATA",
+          "2x 4+4 EPS",
+          "4x Molex",
+          "140mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2024-04-11T02:49:01.5018153-04:00",
+        "Update": "2024-05-03T09:37:11.1054372-04:00",
+        "Label": "Fuente MSI MAG A850GL 850W"
+      },
+      {
+        "Price": 210.00,
+        "Features": [
+          "ATX 3.0",
+          "80+ Gold",
+          "Full Modular",
+          "71A",
+          "1x 16Pin",
+          "2x 4+4 EPS",
+          "3x 6+2Pin",
+          "5x SATA",
+          "150mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-05-11T14:26:27.9739641-04:00",
+        "Update": "2024-05-03T09:37:11.122282-04:00",
+        "Label": "Fuente Asus TUF 850W"
+      },
+      {
+        "Price": 215.00,
+        "Features": [
+          "ATX 3.0",
+          "83A",
+          "80+ Gold",
+          "Full Modular",
+          "1x16Pin",
+          "2x 4+4 EPS",
+          "140mm",
+          "4x 6+2Pin",
+          "8x SATA",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-05-11T14:27:13.3514196-04:00",
+        "Update": "2024-05-03T09:37:11.1396632-04:00",
+        "Label": "Fuente Gigabyte UD1000GM 1000W"
       }
     ],
     "Disipador Líquido": [
