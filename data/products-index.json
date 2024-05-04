@@ -3839,18 +3839,60 @@
         "Label": "Conversor DINO HDMI a VGA"
       }
     ],
-    "Otros": [
+    "Externo": [
       {
-        "Price": 14.00,
+        "Price": 50.00,
         "Features": [
-          "130Mbps",
-          "USB 3.0"
+          "USB-A",
+          "Enclosure"
         ],
-        "Date": "2023-06-07T15:06:36.3165573-04:00",
-        "Update": "2023-10-09T17:48:20.6185397-04:00",
-        "Def": true,
-        "Label": "Memoria Flash Corsair Voyager Slider X1 64GB"
+        "Date": "2023-10-02T14:29:27.3170143-04:00",
+        "Update": "2023-10-09T17:48:21.5099705-04:00",
+        "Label": "Caja Externo 3.5 Orico USB 3.0 3588US3-BK"
       },
+      {
+        "Price": 50.00,
+        "Features": [
+          "2.5",
+          "3.5",
+          "USB3"
+        ],
+        "Date": "2023-10-18T06:47:28.3292927-04:00",
+        "Update": "2023-12-04T16:09:51.4924274-05:00",
+        "Label": "Docking NEXIN 1xBay NEX-DS1U3"
+      }
+    ],
+    "Control": [
+      {
+        "Price": 125.00,
+        "Features": [],
+        "Date": "2023-11-11T12:37:07.8205999-05:00",
+        "Update": "2023-11-11T12:58:59.6207156-05:00",
+        "Label": "Control XBox Seriex X Special Edition +Rechargeable Battery"
+      },
+      {
+        "Price": 77.00,
+        "Features": [
+          "Controller",
+          "2x AA Battery"
+        ],
+        "Date": "2023-10-09T15:59:03.9375048-04:00",
+        "Update": "2024-05-02T17:23:42.3960469-04:00",
+        "Label": "Control XBox Core Wireless Black"
+      },
+      {
+        "Price": 77.00,
+        "Features": [
+          "Controller",
+          "2x AA Battery"
+        ],
+        "Date": "2024-02-16T17:53:39.1272162-05:00",
+        "Update": "2024-05-02T17:23:42.4153261-04:00",
+        "Def": true,
+        "Label": "Control XBox Core Wireless White"
+      }
+    ],
+    "Otros": [
       {
         "Price": 13.00,
         "Features": [],
@@ -3912,59 +3954,6 @@
         "Date": "2023-07-17T23:37:56.1110686-04:00",
         "Update": "2024-05-02T17:23:42.4506053-04:00",
         "Label": "USB HUB Orico Type-A 10xUSB 3.0 Alimentado"
-      }
-    ],
-    "Externo": [
-      {
-        "Price": 50.00,
-        "Features": [
-          "USB-A",
-          "Enclosure"
-        ],
-        "Date": "2023-10-02T14:29:27.3170143-04:00",
-        "Update": "2023-10-09T17:48:21.5099705-04:00",
-        "Label": "Caja Externo 3.5 Orico USB 3.0 3588US3-BK"
-      },
-      {
-        "Price": 50.00,
-        "Features": [
-          "2.5",
-          "3.5",
-          "USB3"
-        ],
-        "Date": "2023-10-18T06:47:28.3292927-04:00",
-        "Update": "2023-12-04T16:09:51.4924274-05:00",
-        "Label": "Docking NEXIN 1xBay NEX-DS1U3"
-      }
-    ],
-    "Control": [
-      {
-        "Price": 125.00,
-        "Features": [],
-        "Date": "2023-11-11T12:37:07.8205999-05:00",
-        "Update": "2023-11-11T12:58:59.6207156-05:00",
-        "Label": "Control XBox Seriex X Special Edition +Rechargeable Battery"
-      },
-      {
-        "Price": 77.00,
-        "Features": [
-          "Controller",
-          "2x AA Battery"
-        ],
-        "Date": "2023-10-09T15:59:03.9375048-04:00",
-        "Update": "2024-05-02T17:23:42.3960469-04:00",
-        "Label": "Control XBox Core Wireless Black"
-      },
-      {
-        "Price": 77.00,
-        "Features": [
-          "Controller",
-          "2x AA Battery"
-        ],
-        "Date": "2024-02-16T17:53:39.1272162-05:00",
-        "Update": "2024-05-02T17:23:42.4153261-04:00",
-        "Def": true,
-        "Label": "Control XBox Core Wireless White"
       }
     ],
     "Auriculares": [
