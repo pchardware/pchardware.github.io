@@ -2337,18 +2337,6 @@
         "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 3600mhz"
       },
       {
-        "Price": 45.00,
-        "Features": [
-          "1x8GB",
-          "CL16",
-          "Disipada"
-        ],
-        "Date": "2024-02-16T14:42:28.5192676-05:00",
-        "Update": "2024-04-12T10:07:16.8048064-04:00",
-        "Def": true,
-        "Label": "RAM DDR4 Kingston HyperX Fury RGB 8GB 3466mhz"
-      },
-      {
         "Price": 40.00,
         "Features": [
           "1x8GB",
