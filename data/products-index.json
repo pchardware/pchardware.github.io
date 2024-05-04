@@ -2,7 +2,7 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 1550.00,
+        "Price": 1540.00,
         "Features": [],
         "Date": "2024-03-16T03:23:44.5153672-04:00",
         "Update": "2024-05-04T08:26:33.768376-04:00",
@@ -10,7 +10,7 @@
         "Label": "PC RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +AOC 24\""
       },
       {
-        "Price": 2130.00,
+        "Price": 2120.00,
         "Features": [],
         "Date": "2024-04-20T10:42:06.0831707-04:00",
         "Update": "2024-05-04T08:26:33.8073761-04:00",
@@ -40,7 +40,7 @@
   "Torres": {
     "Gamer": [
       {
-        "Price": 1180.00,
+        "Price": 1170.00,
         "Features": [],
         "Date": "2024-03-11T10:53:00.3667551-04:00",
         "Update": "2024-05-04T08:26:33.7478128-04:00",
@@ -72,7 +72,7 @@
         "Label": "Torre RTX 4070 Ti OC 12GB +i7-13700K +Líquido +Z790 Aorus Elite AX ICE +32GB DDR5 +1TB M.2 +1000W"
       },
       {
-        "Price": 1390.00,
+        "Price": 1380.00,
         "Features": [],
         "Date": "2024-04-14T10:24:42.6082746-04:00",
         "Update": "2024-05-04T08:26:33.8677412-04:00",
@@ -187,7 +187,7 @@
         "Label": "Kit i5-14600K +Gigabyte Z790 Eagle AX +32GB DDR5 Corsair Vengeance 6000mhz"
       },
       {
-        "Price": 720.00,
+        "Price": 710.00,
         "Features": [
           "14-Gen",
           "20 Core",
@@ -234,7 +234,7 @@
         "Label": "Kit i5-12600KF +Asus TUF Z690-Plus Wifi"
       },
       {
-        "Price": 590.00,
+        "Price": 580.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -364,7 +364,7 @@
         "Label": "Kit i5-12600K + Board Gigabyte Z790 Aorus Elite AX + DDR5 Corsair Vengeance 32GB"
       },
       {
-        "Price": 585.00,
+        "Price": 575.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -382,7 +382,7 @@
         "Label": "Kit i5-12600K +Hyper 212 Spectrum V3 +Z690 AERO G DDR4 +16GB DDR4 3200mhz"
       },
       {
-        "Price": 530.00,
+        "Price": 520.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -1593,7 +1593,7 @@
         "Label": "PCIe Card Acasis Weastlinks 8xSATA"
       },
       {
-        "Price": 39.00,
+        "Price": 35.00,
         "Features": [
           "3xFan",
           "PWM",
@@ -1605,7 +1605,7 @@
         "Label": "Fan KIT Thermalright ARGB 3x120mm"
       },
       {
-        "Price": 85.00,
+        "Price": 80.00,
         "Features": [
           "3xFan",
           "1900rpm",
@@ -1646,7 +1646,7 @@
         "Label": "Fan Cooler Master SickleFlow 120 V2 ARGB 120mm"
       },
       {
-        "Price": 90.00,
+        "Price": 85.00,
         "Features": [
           "Hydraulic",
           "3xFan",
@@ -1723,7 +1723,7 @@
         "Label": "Disipador Intel Generic Plus"
       },
       {
-        "Price": 60.00,
+        "Price": 50.00,
         "Features": [
           "ARGB",
           "4xPipes",
@@ -1762,7 +1762,7 @@
         "Label": "Disipador Intel Stock Original"
       },
       {
-        "Price": 95.00,
+        "Price": 90.00,
         "Features": [
           "ARGB",
           "Dual Tower",
@@ -1779,7 +1779,7 @@
         "Label": "Disipador Cooler Master Hyper 620S Dual"
       },
       {
-        "Price": 70.00,
+        "Price": 60.00,
         "Features": [
           "ARGB",
           "4 Head Pipes",
@@ -1798,7 +1798,7 @@
         "Label": "Disipador Cooler Master 212 Halo White"
       },
       {
-        "Price": 50.00,
+        "Price": 45.00,
         "Features": [
           "5 Head Pipes",
           "1550rpm",
@@ -1821,7 +1821,7 @@
         "Label": "Disipador Thermalright Assassin King 120 SE ARGB"
       },
       {
-        "Price": 70.00,
+        "Price": 65.00,
         "Features": [
           "4xPipes",
           "1550rpm",
@@ -1839,7 +1839,7 @@
         "Label": "Disipador Thermalright Assassin X 120 R SE Plus"
       },
       {
-        "Price": 60.00,
+        "Price": 55.00,
         "Features": [
           "ARGB",
           "63cfm",
@@ -1880,7 +1880,7 @@
         "Label": "Disipador Noctua NH-D15 Chromax Black"
       },
       {
-        "Price": 125.00,
+        "Price": 120.00,
         "Features": [
           "1700rpm",
           "25.1dB",
@@ -4067,19 +4067,6 @@
         "Date": "2023-12-12T03:35:09.5904673-05:00",
         "Update": "2023-12-12T04:01:09.672667-05:00",
         "Label": "WebCam Logitech C270h"
-      },
-      {
-        "Price": 50.00,
-        "Features": [
-          "USB",
-          "3mp",
-          "Micrófono",
-          "720p",
-          "30fps"
-        ],
-        "Date": "2023-10-09T15:59:49.8284237-04:00",
-        "Update": "2024-04-20T12:09:03.7091112-04:00",
-        "Label": "Webcam Logitech C270 HD"
       },
       {
         "Price": 90.00,
