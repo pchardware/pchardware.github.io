@@ -4145,22 +4145,6 @@
         "Label": "Mouse HP 320m"
       },
       {
-        "Price": 61.00,
-        "Features": [
-          "74g",
-          "18000dpi",
-          "Palm-Claw",
-          "6 botónes",
-          "Optico",
-          "Gaming",
-          "iCUE",
-          "USB"
-        ],
-        "Date": "2023-06-29T07:38:41.0713-04:00",
-        "Update": "2023-12-24T03:38:06.9461565-05:00",
-        "Label": "Mouse Corsair Sabre RGB Pro"
-      },
-      {
         "Price": 47.00,
         "Features": [
           "420ips",
@@ -4331,22 +4315,6 @@
         "Date": "2024-04-11T02:50:32.4061292-04:00",
         "Update": "2024-04-11T08:32:28.5942684-04:00",
         "Label": "Mouse Pad Corsair MM300 Pro"
-      },
-      {
-        "Price": 56.00,
-        "Features": [
-          "18000dpi",
-          "Claw",
-          "8 botónes",
-          "97g",
-          "Optico",
-          "Gaming",
-          "iCUE",
-          "USB"
-        ],
-        "Date": "2023-08-21T08:58:41.5573667-04:00",
-        "Update": "2024-05-04T13:16:10.2155765-04:00",
-        "Label": "Mouse Corsair M65 ELITE RGB Black"
       }
     ],
     "Monitor": [
