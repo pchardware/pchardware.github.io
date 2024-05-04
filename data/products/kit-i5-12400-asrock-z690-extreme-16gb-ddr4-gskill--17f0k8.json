@@ -1,0 +1,28 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Moderado",
+  "Images": [
+    "/images/products/kit-i5-12400-asrock-z690-extreme-16gb-ddr4-gskill--17f0k8-1.webp",
+    "/images/products/kit-i5-12400-asrock-z690-extreme-16gb-ddr4-gskill--17f0k8-2.webp",
+    "/images/products/kit-i5-12400-asrock-z690-extreme-16gb-ddr4-gskill--17f0k8-3.webp",
+    "/images/products/kit-i5-12400-asrock-z690-extreme-16gb-ddr4-gskill--17f0k8-4.webp",
+    "/images/products/kit-i5-12400-asrock-z690-extreme-16gb-ddr4-gskill--17f0k8-5.webp",
+    "/images/products/kit-i5-12400-asrock-z690-extreme-16gb-ddr4-gskill--17f0k8-6.webp",
+    "/images/products/kit-i5-12400-asrock-z690-extreme-16gb-ddr4-gskill--17f0k8-7.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12400 +Disipador\n+ Board ASRock Z690 EXTREME DDR4\n+ RAM DDR4 G.Skill TridentZ RGB 16GB 3600mhz\n",
+  "Price": 500.00,
+  "Features": [
+    "12 Hilos",
+    "6 Core",
+    "4.4GHz",
+    "2x8GB",
+    "6xAudio",
+    "5xUSB",
+    "8xSATA"
+  ],
+  "Date": "2024-05-04T08:34:18.0750749-04:00",
+  "Update": "2024-05-04T08:40:27.7943436-04:00",
+  "Discount": 5.0,
+  "Label": "Kit i5-12400 +ASRock Z690 EXTREME +16GB DDR4 G.Skill TridentZ RGB 16GB 3600mhz"
+}
