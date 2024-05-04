@@ -2,54 +2,6 @@
   "Kits": {
     "Rendimiento": [
       {
-        "Price": 390.00,
-        "Features": [
-          "6 Core",
-          "12 Hilos",
-          "4.6GHz",
-          "6xSATA",
-          "7xUSB",
-          "6xAudio"
-        ],
-        "Date": "2024-04-11T09:30:51.9613257-04:00",
-        "Update": "2024-04-11T09:36:56.844061-04:00",
-        "Label": "Kit AMD Ryzen 5 5600X +Disipador + Gigabyte X570S Gaming X"
-      },
-      {
-        "Price": 450.00,
-        "Features": [
-          "6 Core",
-          "12 Hilos",
-          "4.6GHz",
-          "2x8GB",
-          "3600mhz",
-          "6xSATA",
-          "7xUSB",
-          "6xAudio"
-        ],
-        "Date": "2024-04-11T09:31:15.8482456-04:00",
-        "Update": "2024-04-11T09:36:56.8652373-04:00",
-        "Discount": 5.0,
-        "Label": "Kit AMD Ryzen 5 5600X +Gigabyte X570S Gaming X +16GB DDR4 GeIL ORION RGB"
-      },
-      {
-        "Price": 475.00,
-        "Features": [
-          "6 Core",
-          "12 Hilos",
-          "4.6GHz",
-          "2x16",
-          "3600mhz",
-          "6xSATA",
-          "7xUSB",
-          "6xAudio"
-        ],
-        "Date": "2024-04-11T09:31:33.2082403-04:00",
-        "Update": "2024-04-11T09:36:56.8851462-04:00",
-        "Discount": 5.0,
-        "Label": "Kit AMD Ryzen 5 5600X +Gigabyte X570S Gaming X +32GB DDR4 Corsair Vengeance LPX"
-      },
-      {
         "Price": 460.00,
         "Features": [
           "16 Hilos",
@@ -1810,22 +1762,6 @@
         "Date": "2023-10-09T15:59:15.4094076-04:00",
         "Update": "2023-10-09T17:48:21.976668-04:00",
         "Label": "Micro AMD Ryzen 9 7900X"
-      },
-      {
-        "Price": 175.00,
-        "Features": [
-          "AM4",
-          "6 Core",
-          "12 Hilos",
-          "4.6GHz",
-          "DDR4",
-          "Unlocked",
-          "Serie 5000",
-          "CPU"
-        ],
-        "Date": "2023-11-30T11:20:49.6412308-05:00",
-        "Update": "2024-02-05T08:20:20.3952802-05:00",
-        "Label": "Micro AMD Ryzen 5 5600X +Disipador"
       },
       {
         "Price": 165.00,
