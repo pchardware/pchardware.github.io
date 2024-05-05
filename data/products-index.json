@@ -1549,17 +1549,6 @@
         "Label": "PCIe Card Riser Coboc Miner adapter 16x"
       },
       {
-        "Price": 87.00,
-        "Features": [
-          "6xFan",
-          "6xRGB",
-          "PWM"
-        ],
-        "Date": "2023-09-02T12:38:41.9633686-04:00",
-        "Update": "2024-05-02T16:59:00.7814774-04:00",
-        "Label": "Fan HUB Corsair Comander Core XT"
-      },
-      {
         "Price": 30.00,
         "Features": [
           "8xFan",
