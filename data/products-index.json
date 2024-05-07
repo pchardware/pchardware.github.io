@@ -576,6 +576,25 @@
         "Date": "2024-05-07T09:51:48.1955241-04:00",
         "Update": "2024-05-07T10:17:14.9379165-04:00",
         "Label": "Kit i3-14100F +Gigabyte B760M DS3H +8GB DDR4 Team T-Force Vulcan Z 8GB 3200mhz"
+      },
+      {
+        "Price": 350.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.2GHz",
+          "1x8GB",
+          "Disipada",
+          "5100mhz",
+          "14xVRM",
+          "6xSATA",
+          "7xUSB",
+          "6xAudio"
+        ],
+        "Date": "2024-05-07T10:18:16.6653644-04:00",
+        "Update": "2024-05-07T10:20:27.4682963-04:00",
+        "Discount": 5.0,
+        "Label": "Kit Ryzen 3 5300G +Gigabyte X570S Gaming X +8GB DDR4 Team T-Force Vulcan Z 3200mhz"
       }
     ],
     "Moderado": [
