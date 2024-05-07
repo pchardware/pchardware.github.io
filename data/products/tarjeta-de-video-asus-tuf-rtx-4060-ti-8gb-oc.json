@@ -1,0 +1,29 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/tarjeta-de-video-asus-tuf-rtx-4060-ti-8gb-oc-1.webp",
+    "/images/products/tarjeta-de-video-asus-tuf-rtx-4060-ti-8gb-oc-2.webp",
+    "/images/products/tarjeta-de-video-asus-tuf-rtx-4060-ti-8gb-oc-3.webp",
+    "/images/products/tarjeta-de-video-asus-tuf-rtx-4060-ti-8gb-oc-4.webp",
+    "/images/products/tarjeta-de-video-asus-tuf-rtx-4060-ti-8gb-oc-5.webp"
+  ],
+  "Description": "Model\nBrand: ASUS\nSeries: TUF Gaming\nModel: TUF-RTX4060TI-O8G-GAMING\nPart Number: 90YV0J50-M0AA00\n\n\nInterface\nInterface: PCI Express 4.0 x8\n\n\nChipset\nChipset Manufacturer: NVIDIA\nGPU Series: NVIDIA GeForce RTX 40 Series\nGPU: GeForce RTX 4060 Ti\nCore Clock: 2625 MHz\nCUDA Cores: 4352 Cores\n\n\nMemory\nEffective Memory Clock: 18000 MHz (18 Gbps)\nMemory Size: 8GB\nMemory Interface: 128-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12 Ultimate\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 1 x HDMI 2.1a\nDisplayPort: 3 x DisplayPort 1.4a\n\n\nDetails\nMax Resolution: 7680 x 4320\nCooler: Triple Fans\nThermal Design Power: 160W\nRecommended PSU Wattage: 650W\nPower Connector: 8-Pin\nHDCP Ready: Yes\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 300 mm\nSlot Width: 3.12 Slots",
+  "Price": 525.00,
+  "Features": [
+    "DLSS3",
+    "3xFan",
+    "1x8Pin",
+    "650WR",
+    "300mm",
+    "3xDisplay Port",
+    "1xHDMI",
+    "GeForce",
+    "NVIDIA",
+    "GPU",
+    "Gráfica"
+  ],
+  "Date": "2024-01-30T09:00:00.9284294-05:00",
+  "Update": "2024-05-07T00:12:02.7142877-04:00",
+  "Label": "Tarjeta de Video Asus TUF RTX 4060 Ti 8GB OC"
+}
