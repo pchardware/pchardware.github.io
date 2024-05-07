@@ -1004,6 +1004,24 @@
         "Date": "2024-05-03T06:18:15.0494605-04:00",
         "Update": "2024-05-03T10:28:09.2474222-04:00",
         "Label": "Fuente Corsair RM850x Shift 850W"
+      },
+      {
+        "Price": 245.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "83A",
+          "6x 6+2Pin",
+          "14x SATA",
+          "3x 4+4 EPS",
+          "8x PATA",
+          "180mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-04-15T07:27:11.3654492-04:00",
+        "Update": "2024-05-07T00:12:02.6789859-04:00",
+        "Label": "Fuente Corsair RM1000X 1000W"
       }
     ],
     "Disipador Líquido": [
@@ -1253,23 +1271,6 @@
         "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce II 240 G2"
       },
       {
-        "Price": 235.00,
-        "Features": [
-          "2xFan",
-          "2500rpm",
-          "38dB",
-          "240mm",
-          "LGA 1700",
-          "LGA 15XX",
-          "LGA 1200",
-          "AM4",
-          "sTRX4"
-        ],
-        "Date": "2024-05-03T01:07:59.9836736-04:00",
-        "Update": "2024-05-03T11:52:25.2929803-04:00",
-        "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce X 240"
-      },
-      {
         "Price": 230.00,
         "Features": [
           "3xFan",
@@ -1346,6 +1347,17 @@
         "Date": "2023-06-19T07:48:51.0981438-04:00",
         "Update": "2024-05-03T11:56:57.508752-04:00",
         "Label": "Disipador Líquido ASUS ROG Strix LC II 240 ARGB"
+      },
+      {
+        "Price": 65.00,
+        "Features": [
+          "Bomba",
+          "Deposito 86ml",
+          "Racores"
+        ],
+        "Date": "2024-05-06T23:38:37.9364644-04:00",
+        "Update": "2024-05-07T00:12:02.8667555-04:00",
+        "Label": "CLC BXQINLENX 600L/H"
       }
     ],
     "Disco Duro": [
@@ -1396,6 +1408,30 @@
         "Date": "2024-04-30T06:44:25.3977192-04:00",
         "Update": "2024-05-02T11:07:45.2598525-04:00",
         "Label": "HDD 3.5 Seagate Exos X14 12TB"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "5900rpm",
+          "64mb",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2024-05-06T23:38:21.4783709-04:00",
+        "Update": "2024-05-07T00:12:02.8152557-04:00",
+        "Label": "HDD 3.5 Seagate BarraCuda 4TB"
+      },
+      {
+        "Price": 110.00,
+        "Features": [
+          "5900rpm",
+          "64mb",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2024-05-06T23:38:30.148428-04:00",
+        "Update": "2024-05-07T00:12:02.8490292-04:00",
+        "Label": "HDD 3.5 Seagate Desktop 4TB"
       }
     ],
     "Otros": [
@@ -2140,6 +2176,40 @@
         "Date": "2023-08-08T10:07:50.0509327-04:00",
         "Update": "2024-05-03T07:21:36.0945308-04:00",
         "Label": "Micro Intel Core i5-12400F +Disipador"
+      },
+      {
+        "Price": 110.00,
+        "Features": [
+          "Radeon Graphics",
+          "AM4",
+          "8 Hilos",
+          "4 Core",
+          "4.2GHz",
+          "8MB L3",
+          "65W",
+          "DDR4",
+          "Serie5000",
+          "CPU"
+        ],
+        "Date": "2023-12-28T22:14:48.5974394-05:00",
+        "Update": "2024-05-07T00:12:02.6605467-04:00",
+        "Label": "Micro AMD Ryzen 3 5300G +Disipador"
+      },
+      {
+        "Price": 245.00,
+        "Features": [
+          "13Gen",
+          "20 Hilos",
+          "14 Core",
+          "4.8GHz",
+          "24MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-06-07T15:04:52.0919704-04:00",
+        "Update": "2024-05-07T00:12:02.6966872-04:00",
+        "Label": "Micro Intel Core i5-13500 +Disipador"
       }
     ],
     "Memoria RAM": [
@@ -2462,6 +2532,17 @@
         "Date": "2024-01-27T21:38:20.2269354-05:00",
         "Update": "2024-05-02T17:09:30.7329602-04:00",
         "Label": "RAM DDR5 Gigabyte Aorus RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 60.00,
+        "Features": [
+          "1x16GB",
+          "CL40",
+          "Disipadas"
+        ],
+        "Date": "2024-05-06T23:38:17.6026307-04:00",
+        "Update": "2024-05-07T00:12:02.7983371-04:00",
+        "Label": "RAM DDR5 Corsair Vengeance 16GB 5200mhz"
       }
     ],
     "Chasis": [
@@ -2996,6 +3077,111 @@
         "Date": "2024-04-11T02:49:46.3017721-04:00",
         "Update": "2024-05-04T08:26:33.9935371-04:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Gaming OC V2 12GB"
+      },
+      {
+        "Price": 525.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "1x8Pin",
+          "650WR",
+          "300mm",
+          "3xDisplay Port",
+          "1xHDMI",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-01-30T09:00:00.9284294-05:00",
+        "Update": "2024-05-07T00:12:02.7142877-04:00",
+        "Label": "Tarjeta de Video Asus TUF RTX 4060 Ti 8GB OC"
+      },
+      {
+        "Price": 290.00,
+        "Features": [
+          "2xFan",
+          "500WR",
+          "1x6Pin",
+          "205mm",
+          "NVIDIA",
+          "GPU",
+          "Gráfica",
+          "DLSS"
+        ],
+        "Date": "2023-11-06T10:30:19.884438-05:00",
+        "Update": "2024-05-07T00:12:02.7306221-04:00",
+        "Label": "Tarjeta de Video MSI Ventus RTX 3050 2X XS 8GB OC"
+      },
+      {
+        "Price": 265.00,
+        "Features": [
+          "2xFan",
+          "550WR",
+          "201mm",
+          "NVIDIA",
+          "GPU",
+          "Gráfica",
+          "DLSS"
+        ],
+        "Date": "2024-02-28T05:29:52.7076632-05:00",
+        "Update": "2024-05-07T00:12:02.747237-04:00",
+        "Label": "Tarjeta de Video Asus Dual RTX 3050 6GB OC"
+      },
+      {
+        "Price": 990.00,
+        "Features": [
+          "3xFan",
+          "DLSS3",
+          "1x16Pin",
+          "750WR",
+          "305mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-02-16T17:52:47.8557688-05:00",
+        "Update": "2024-05-07T00:12:02.7638688-04:00",
+        "Label": "Tarjeta de video Asus TUF RTX 4070 Ti SUPER 16GB"
+      },
+      {
+        "Price": 385.00,
+        "Features": [
+          "DLSS3",
+          "2xFan",
+          "1x8Pin",
+          "550WR",
+          "227mm",
+          "3xDisplay Port",
+          "1xHDMI",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-05-06T23:38:13.6605873-04:00",
+        "Update": "2024-05-07T00:12:02.7808898-04:00",
+        "Label": "Tarjeta de Video Asus Dual RTX 4060 EVO 8GB OC"
+      },
+      {
+        "Price": 335.00,
+        "Features": [
+          "DLSS",
+          "2xFan",
+          "1x8Pin",
+          "600WR",
+          "224mm",
+          "3xDisplay Port",
+          "1xHDMI",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-05-06T23:38:25.4290749-04:00",
+        "Update": "2024-05-07T00:12:02.8319556-04:00",
+        "Label": "Tarjeta de Video Zotac Gaming RTX 3060 Twin Edge 12GB OC"
       }
     ],
     "Disco Sólido": [
