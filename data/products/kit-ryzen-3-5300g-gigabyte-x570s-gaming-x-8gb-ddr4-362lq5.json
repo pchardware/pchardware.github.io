@@ -1,0 +1,34 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Esencial",
+  "Images": [
+    "/images/products/kit-ryzen-3-5300g-gigabyte-x570s-gaming-x-8gb-ddr4-362lq5-1.webp",
+    "/images/products/kit-ryzen-3-5300g-gigabyte-x570s-gaming-x-8gb-ddr4-362lq5-2.webp",
+    "/images/products/kit-ryzen-3-5300g-gigabyte-x570s-gaming-x-8gb-ddr4-362lq5-3.webp",
+    "/images/products/kit-ryzen-3-5300g-gigabyte-x570s-gaming-x-8gb-ddr4-362lq5-4.webp",
+    "/images/products/kit-ryzen-3-5300g-gigabyte-x570s-gaming-x-8gb-ddr4-362lq5-5.webp",
+    "/images/products/kit-ryzen-3-5300g-gigabyte-x570s-gaming-x-8gb-ddr4-362lq5-6.webp",
+    "/images/products/kit-ryzen-3-5300g-gigabyte-x570s-gaming-x-8gb-ddr4-362lq5-7.webp",
+    "/images/products/kit-ryzen-3-5300g-gigabyte-x570s-gaming-x-8gb-ddr4-362lq5-8.webp",
+    "/images/products/kit-ryzen-3-5300g-gigabyte-x570s-gaming-x-8gb-ddr4-362lq5-9.webp",
+    "/images/products/kit-ryzen-3-5300g-gigabyte-x570s-gaming-x-8gb-ddr4-362lq5-10.webp"
+  ],
+  "Description": "+ Micro AMD Ryzen 3 5300G +Disipador\n+ Board Gigabyte X570S Gaming X\n+ RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz\n",
+  "Price": 350.00,
+  "Features": [
+    "8 Hilos",
+    "4 Core",
+    "4.2GHz",
+    "1x8GB",
+    "Disipada",
+    "5100mhz",
+    "14xVRM",
+    "6xSATA",
+    "7xUSB",
+    "6xAudio"
+  ],
+  "Date": "2024-05-07T10:18:16.6653644-04:00",
+  "Update": "2024-05-07T10:20:27.4682963-04:00",
+  "Discount": 5.0,
+  "Label": "Kit Ryzen 3 5300G +Gigabyte X570S Gaming X +8GB DDR4 Team T-Force Vulcan Z 3200mhz"
+}
