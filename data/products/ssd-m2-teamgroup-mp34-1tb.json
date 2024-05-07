@@ -7,7 +7,7 @@
     "/images/products/ssd-m2-teamgroup-mp34-1tb-3.webp"
   ],
   "Description": "Model\nBrand: Team Group\nSeries: MP34\nModel: TM8FP4001T0C101\nDevice Type: Internal Solid State Drive (SSD)\nUsed For: Consumer\n\n\nDetails\nForm Factor: M.2 2280\nCapacity: 1TB\nMemory Components: 3D NAND\nInterface: PCIe 3.0 x4 with NVMe 1.3\n\n\nPerformance\nMax Sequential Read: Up to 3400 MBps\nMax Sequential Write: Up to 2900 MBps\n4KB Random Read: Up to 450,000 IOPS\n4KB Random Write: Up to 400,000 IOPS\nTerabytes Written (TBW): 1660TB\nMTBF: 1,800,000 hours\n\n\nFeatures\nFeatures: Using new generation of 3D flash memory: Capacity, performance, and durability are greatly improved.\n\nPCIe interface - Supports latest NVMe 1.3 protocol.\n\nM.2 2280 specification: Supports the next-generation platforms of Intel and AMD. Suitable for both desktop and notebook.\n\n\nEnvironmental\nOperating Temperature: 0°C ~ +70°C\nStorage Temperature: -40°C ~ +80°C\nOperating Humidity: RH 90% under 40 celsius degree\nMax Shock Resistance: 1,500G / 0.5 ms\nMax Vibration Resistance: 80~2,000 Hz / 20G\n\n\nDimensions & Weight\nHeight: 3.80mm\nWidth: 22.00mm\nDepth: 80.00mm\nWeight: 6.00g",
-  "Price": 80.00,
+  "Price": 75.00,
   "Features": [
     "3500mbs",
     "1660TBW",
