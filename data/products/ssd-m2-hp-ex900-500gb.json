@@ -8,7 +8,7 @@
     "/images/products/ssd-m2-hp-ex900-500gb-4.webp"
   ],
   "Description": "Model\nBrand: HP\nSeries: EX900\nModel: 2YY44AA#ABC\nDevice Type: Internal Solid State Drive (SSD)\n\n\nDetails\nForm Factor: M.2 2280\nCapacity: 500GB\nMemory Components: 3D TLC\nInterface: PCI-Express 3.0 x4, NVMe 1.3\nController: HP\nCache: 0MB\n\n\nPerformance\nMax Sequential Read: Up to 2100 MBps\nMax Sequential Write: Up to 1500 MBps\n4KB Random Read: Up to 120,000 IOPS\n4KB Random Write: Up to 108,000 IOPS\nRead Latency: 0.021 ms\nWrite Latency: 0.029 ms\nMTBF: 2,000,000 hours\n\n\nFeatures\nFeatures: High performance\n\nLow power\n\nIncreased system responsiveness\n\nHigh reliability\n\nSmall form-factor\n\nMinimum weight\n\nEnhanced ruggedness\n\nHigh data Integrity and Security\n\n\nEnvironmental\nPower Consumption (Idle): 0.68W\nPower Consumption (Active): 3.52W\nOperating Temperature: 0°C ~ +70°C\nStorage Temperature: -40°C ~ +85°C\nOperating Humidity: 5-95%\nMax Shock Resistance: 100G / 6 msec\nMax Vibration Resistance: 3.1 GRMS (2-500 Hz)",
-  "Price": 50.00,
+  "Price": 45.00,
   "Features": [
     "2100mbs",
     "200TBW",
