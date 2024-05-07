@@ -6,7 +6,7 @@
     "/images/products/ram-ddr5-gigabyte-aorus-rgb-32gb-6000mhz-2.webp"
   ],
   "Description": "Model\nBrand: Gigabyte\nSeries: AORUS RGB\nModel: ARS32G60D5R\n\n\nDetails\nCapacity: 32GB (2 x 16GB)\nType: 288-Pin PC RAM\nSpeed: DDR5 6000 (PC5 48000)\nCAS Latency: 40\nTiming: 40-40-40-76\nVoltage: 1.35V\nBuffered/Registered: Unbuffered\nMulti-channel Kit: Dual Channel Kit\nBIOS/Performance Profile: Intel XMP 3.0\nColor: Gray\nHeat Spreader: Yes\nRecommend Use: Intel Z690\nLED Color: RGB",
-  "Price": 140.00,
+  "Price": 135.00,
   "Features": [
     "2x16",
     "CL40",
