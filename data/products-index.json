@@ -540,6 +540,42 @@
         "Date": "2024-05-06T12:05:16.7932965-04:00",
         "Update": "2024-05-06T12:20:34.6276999-04:00",
         "Label": "Kit i3-14100 +ASRock B760M PRO RS +8GB RAM DDR4 Team T-Force Vulcan Z 3200mhz"
+      },
+      {
+        "Price": 385.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.2GHz",
+          "2x8GB",
+          "Disipadas",
+          "5100mhz",
+          "14xVRM",
+          "6xSATA",
+          "7xUSB",
+          "6xAudio"
+        ],
+        "Date": "2024-05-07T09:51:09.2370776-04:00",
+        "Update": "2024-05-07T10:17:14.9046851-04:00",
+        "Discount": 5.0,
+        "Label": "Kit Ryzen 3 5300G +Gigabyte X570S Gaming X +16GB RAM DDR4 GeIL ORION RGB 3600mhz"
+      },
+      {
+        "Price": 330.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.7GHz",
+          "1x8GB",
+          "3200mhz",
+          "Disipadas",
+          "5333mhz",
+          "4xSATA",
+          "5xUSB"
+        ],
+        "Date": "2024-05-07T09:51:48.1955241-04:00",
+        "Update": "2024-05-07T10:17:14.9379165-04:00",
+        "Label": "Kit i3-14100F +Gigabyte B760M DS3H +8GB DDR4 Team T-Force Vulcan Z 8GB 3200mhz"
       }
     ],
     "Moderado": [
