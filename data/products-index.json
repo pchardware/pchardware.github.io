@@ -2,7 +2,7 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 1520.00,
+        "Price": 1490.00,
         "Features": [],
         "Date": "2024-03-16T03:23:44.5153672-04:00",
         "Update": "2024-05-04T08:26:33.768376-04:00",
@@ -10,7 +10,7 @@
         "Label": "PC RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +AOC 24\""
       },
       {
-        "Price": 2070.00,
+        "Price": 2055.00,
         "Features": [],
         "Date": "2024-04-20T10:42:06.0831707-04:00",
         "Update": "2024-05-04T08:26:33.8073761-04:00",
@@ -18,7 +18,7 @@
         "Label": "PC RTX 4060 Ti 8GB +Core i7-12700K +Z790 Eagle AX +32GB DDR5 +512GB M.2 +27\""
       },
       {
-        "Price": 2380.00,
+        "Price": 2365.00,
         "Features": [],
         "Date": "2024-04-19T09:30:33.0428038-04:00",
         "Update": "2024-05-04T08:26:34.0490589-04:00",
@@ -28,7 +28,7 @@
     ],
     "Multimedia": [
       {
-        "Price": 940.00,
+        "Price": 930.00,
         "Features": [],
         "Date": "2024-04-27T05:48:56.699818-04:00",
         "Update": "2024-05-04T08:26:33.9071219-04:00",
@@ -40,7 +40,7 @@
   "Torres": {
     "Gamer": [
       {
-        "Price": 1170.00,
+        "Price": 1140.00,
         "Features": [],
         "Date": "2024-03-11T10:53:00.3667551-04:00",
         "Update": "2024-05-04T08:26:33.7478128-04:00",
@@ -48,7 +48,7 @@
         "Label": "Torre RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +750W"
       },
       {
-        "Price": 1110.00,
+        "Price": 1100.00,
         "Features": [],
         "Date": "2024-04-13T16:34:23.3155579-04:00",
         "Update": "2024-05-04T08:26:33.7883278-04:00",
@@ -56,7 +56,7 @@
         "Label": "Torre RTX 3050 OC 6GB +i3-14100F +Z790 Eagle AX +32GB DDR5 + 500GB M.2 +850W"
       },
       {
-        "Price": 1060.00,
+        "Price": 1020.00,
         "Features": [],
         "Date": "2024-04-23T06:10:18.6626968-04:00",
         "Update": "2024-05-04T08:26:33.8263463-04:00",
@@ -64,7 +64,7 @@
         "Label": "Torre RX 6600 8GB +i3-14100F +B760M PRO RS +32GB DDR5 +512 M.2 +750W +Chasis RGB"
       },
       {
-        "Price": 2340.00,
+        "Price": 2315.00,
         "Features": [],
         "Date": "2024-04-24T02:30:37.8497944-04:00",
         "Update": "2024-05-04T08:26:33.8454322-04:00",
@@ -72,7 +72,7 @@
         "Label": "Torre RTX 4070 Ti OC 12GB +i7-13700K +Líquido +Z790 Aorus Elite AX ICE +32GB DDR5 +1TB M.2 +1000W"
       },
       {
-        "Price": 1370.00,
+        "Price": 1360.00,
         "Features": [],
         "Date": "2024-04-14T10:24:42.6082746-04:00",
         "Update": "2024-05-04T08:26:33.8677412-04:00",
@@ -80,7 +80,7 @@
         "Label": "Torre RTX 4060 Gaming OC 8GB +i5-12600KF +Z790 Eagle AX +32GB DDR5 +850W"
       },
       {
-        "Price": 1925.00,
+        "Price": 1915.00,
         "Features": [],
         "Date": "2024-04-27T07:51:59.1867818-04:00",
         "Update": "2024-05-04T08:26:33.9274831-04:00",
@@ -90,7 +90,7 @@
     ],
     "Multimedia": [
       {
-        "Price": 680.00,
+        "Price": 670.00,
         "Features": [],
         "Date": "2024-04-27T04:41:03.137563-04:00",
         "Update": "2024-05-04T08:26:33.8874966-04:00",
@@ -98,7 +98,7 @@
         "Label": "Torre i3-14100 +Gigabyte B760M DS3H +16GB DDR4 +500GB M.2 +500W +Chasis RGB"
       },
       {
-        "Price": 740.00,
+        "Price": 730.00,
         "Features": [],
         "Date": "2024-04-29T08:50:52.710014-04:00",
         "Update": "2024-05-04T08:26:33.960405-04:00",
@@ -106,7 +106,7 @@
         "Label": "Torre i3-14100 +B760M PRO RS +16GB RAM 3600Mhz +500GB M.2 Corsair+ CORSAIR CX550 550W"
       },
       {
-        "Price": 895.00,
+        "Price": 885.00,
         "Features": [],
         "Date": "2024-05-04T08:28:34.7719769-04:00",
         "Update": "2024-05-04T08:40:27.7779213-04:00",
@@ -116,7 +116,7 @@
     ],
     "Pro": [
       {
-        "Price": 1890.00,
+        "Price": 1875.00,
         "Features": [],
         "Date": "2024-04-14T11:06:43.2322357-04:00",
         "Update": "2024-05-04T08:26:34.0254561-04:00",
@@ -126,7 +126,7 @@
     ],
     "Entusiasta": [
       {
-        "Price": 3105.00,
+        "Price": 3090.00,
         "Features": [],
         "Date": "2024-04-24T03:52:55.4140473-04:00",
         "Update": "2024-05-04T08:26:34.0673275-04:00",
@@ -170,7 +170,7 @@
         "Label": "Kit i7-12700K +Asus ROG Strix Z690-E Gaming Wifi"
       },
       {
-        "Price": 655.00,
+        "Price": 650.00,
         "Features": [
           "14-Gen",
           "20 Core",
@@ -187,7 +187,7 @@
         "Label": "Kit i5-14600K +Gigabyte Z790 Eagle AX +32GB DDR5 Corsair Vengeance 6000mhz"
       },
       {
-        "Price": 700.00,
+        "Price": 695.00,
         "Features": [
           "14-Gen",
           "20 Core",
@@ -218,7 +218,7 @@
         "Label": "Kit i7-13700K +MSI MPG Z790 EDGE Wifi"
       },
       {
-        "Price": 420.00,
+        "Price": 415.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -234,7 +234,7 @@
         "Label": "Kit i5-12600KF +Asus TUF Z690-Plus Wifi"
       },
       {
-        "Price": 580.00,
+        "Price": 570.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -251,7 +251,7 @@
         "Label": "Kit i5-12600KF +Asus TUF Z690-Plus Wifi +32GB DDR5 Corsair Vengeance 6000mhz"
       },
       {
-        "Price": 460.00,
+        "Price": 455.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -299,7 +299,7 @@
         "Label": "Kit i9-12900K +MEG Z690 ACE +Líquido MasterLiquid ML240L ARGB V2"
       },
       {
-        "Price": 970.00,
+        "Price": 965.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -350,7 +350,7 @@
         "Label": "Kit i9-12900K + MSI MEG Z690 ACE Potencia y estilo en un solo combo"
       },
       {
-        "Price": 607.00,
+        "Price": 602.00,
         "Features": [
           "10 Core",
           "16 Hilos",
@@ -398,7 +398,7 @@
     ],
     "Entusiasta": [
       {
-        "Price": 1035.00,
+        "Price": 1030.00,
         "Features": [
           "14-Gen",
           "20 Core",
@@ -416,7 +416,7 @@
         "Label": "Kit i7-14700K +MSI MPG Z790 EDGE Wifi + 64GB DDR5 G.Skill Trident Z5 RGB 6000mhz"
       },
       {
-        "Price": 1220.00,
+        "Price": 1215.00,
         "Features": [
           "14-Gen",
           "20 Core",
@@ -434,7 +434,7 @@
         "Label": "Kit i7-14700K +Liquida 240 ARGB +MPG Z790 EDGE +64GB DDR5 G.Skill Trident Z5 RGB"
       },
       {
-        "Price": 910.00,
+        "Price": 900.00,
         "Features": [
           "24 Hilos",
           "16 Core",
@@ -451,7 +451,7 @@
         "Label": "Kit i7-13700K +MSI MPG Z790 EDGE Wifi +32GB DDR5 Trident Z5 NEO RGB 6400mhz"
       },
       {
-        "Price": 1265.00,
+        "Price": 1260.00,
         "Features": [
           "14Gen",
           "24 Core",
@@ -470,7 +470,7 @@
         "Label": "Kit i9-14900K +Strix Z790-F Gaming +64GB DDR5 G.Skill Trident Z5 RGB 6400mhz"
       },
       {
-        "Price": 1510.00,
+        "Price": 1505.00,
         "Features": [
           "14Gen",
           "24 Core",
@@ -507,7 +507,7 @@
     ],
     "Esencial": [
       {
-        "Price": 380.00,
+        "Price": 375.00,
         "Features": [
           "8 Hilos",
           "4 Core",
@@ -525,7 +525,7 @@
         "Label": "Kit i3-14100 +Gigabyte B760M DS3H +16GB DDR4 Team T-Force Vulcan Z 3200mhz"
       },
       {
-        "Price": 360.00,
+        "Price": 355.00,
         "Features": [
           "8 Hilos",
           "4 Core",
@@ -542,7 +542,7 @@
         "Label": "Kit i3-14100 +ASRock B760M PRO RS +8GB RAM DDR4 Team T-Force Vulcan Z 3200mhz"
       },
       {
-        "Price": 385.00,
+        "Price": 380.00,
         "Features": [
           "8 Hilos",
           "4 Core",
@@ -561,7 +561,7 @@
         "Label": "Kit Ryzen 3 5300G +Gigabyte X570S Gaming X +16GB RAM DDR4 GeIL ORION RGB 3600mhz"
       },
       {
-        "Price": 330.00,
+        "Price": 325.00,
         "Features": [
           "8 Hilos",
           "4 Core",
@@ -578,7 +578,7 @@
         "Label": "Kit i3-14100F +Gigabyte B760M DS3H +8GB DDR4 Team T-Force Vulcan Z 8GB 3200mhz"
       },
       {
-        "Price": 350.00,
+        "Price": 345.00,
         "Features": [
           "8 Hilos",
           "4 Core",
@@ -599,7 +599,7 @@
     ],
     "Moderado": [
       {
-        "Price": 500.00,
+        "Price": 495.00,
         "Features": [
           "12 Hilos",
           "6 Core",
@@ -1417,7 +1417,7 @@
     ],
     "Disco Duro": [
       {
-        "Price": 35.00,
+        "Price": 30.00,
         "Features": [
           "Enterprise",
           "7200rpm",
@@ -1429,7 +1429,7 @@
         "Label": "HDD 3.5 Seagate Constellation 2TB SAS"
       },
       {
-        "Price": 70.00,
+        "Price": 65.00,
         "Features": [
           "64mb",
           "5900rpm",
@@ -1441,7 +1441,7 @@
         "Label": "HDD 3.5 Seagate Pipeline 2TB"
       },
       {
-        "Price": 240.00,
+        "Price": 220.00,
         "Features": [
           "256mb",
           "7200rpm",
@@ -1453,7 +1453,7 @@
         "Label": "HDD 3.5 Seagate Exos X16 16TB"
       },
       {
-        "Price": 175.00,
+        "Price": 165.00,
         "Features": [
           "256mb",
           "7200rpm",
@@ -1465,7 +1465,7 @@
         "Label": "HDD 3.5 Seagate Exos X14 12TB"
       },
       {
-        "Price": 115.00,
+        "Price": 95.00,
         "Features": [
           "5900rpm",
           "64mb",
@@ -1477,7 +1477,7 @@
         "Label": "HDD 3.5 Seagate BarraCuda 4TB"
       },
       {
-        "Price": 110.00,
+        "Price": 90.00,
         "Features": [
           "5900rpm",
           "64mb",
@@ -2269,7 +2269,7 @@
     ],
     "Memoria RAM": [
       {
-        "Price": 135.00,
+        "Price": 130.00,
         "Features": [
           "2x16GB",
           "CL36",
@@ -2324,7 +2324,7 @@
         "Label": "RAM DDR4 Corsair Vengeance LPX 32GB 3600mhz"
       },
       {
-        "Price": 170.00,
+        "Price": 165.00,
         "Features": [
           "2x16",
           "CL36",
@@ -2357,7 +2357,7 @@
         "Label": "RAM DDR4 G.Skill TridentZ RGB 64GB 3600mhz"
       },
       {
-        "Price": 250.00,
+        "Price": 245.00,
         "Features": [
           "2x32GB",
           "CL32",
@@ -2368,7 +2368,7 @@
         "Label": "RAM DDR5 G.Skill Trident Z5 RGB 64GB 6400mhz"
       },
       {
-        "Price": 240.00,
+        "Price": 235.00,
         "Features": [
           "2x32GB",
           "CL36",
@@ -2390,7 +2390,7 @@
         "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 4400mhz"
       },
       {
-        "Price": 155.00,
+        "Price": 150.00,
         "Features": [
           "2x16GB",
           "CL36",
@@ -2446,7 +2446,7 @@
         "Label": "RAM DDR4 Kingston HyperX Fury RGB 8GB 3000mhz"
       },
       {
-        "Price": 150.00,
+        "Price": 140.00,
         "Features": [
           "2x16GB",
           "CL32",
@@ -2490,7 +2490,7 @@
         "Label": "RAM DDR5 G.Skill Ripjaws S5 16GB 6000mhz"
       },
       {
-        "Price": 110.00,
+        "Price": 100.00,
         "Features": [
           "2x16GB",
           "CL40",
@@ -2545,7 +2545,7 @@
         "Label": "RAM DDR4 G.Skill TridentZ RGB 16GB 3200mhz"
       },
       {
-        "Price": 115.00,
+        "Price": 110.00,
         "Features": [
           "2x16GB",
           "CL36",
@@ -2556,7 +2556,7 @@
         "Label": "RAM DDR5 Corsair Vengeance 32GB 6000mhz"
       },
       {
-        "Price": 160.00,
+        "Price": 155.00,
         "Features": [
           "2x16GB",
           "CL34",
@@ -2578,7 +2578,7 @@
         "Label": "RAM DDR4 G.Skill Ripjaws V 64GB 3600mhz"
       },
       {
-        "Price": 140.00,
+        "Price": 135.00,
         "Features": [
           "2x16",
           "CL40",
@@ -2860,7 +2860,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Super Gaming OC 16GB"
       },
       {
-        "Price": 825.00,
+        "Price": 810.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -3051,7 +3051,7 @@
         "Label": "Tarjeta de Video MSI RTX 3050 Gaming X 6GB"
       },
       {
-        "Price": 270.00,
+        "Price": 245.00,
         "Features": [
           "2xFan",
           "1x8Pin",
@@ -3101,7 +3101,7 @@
         "Label": "Tarjeta de Video XFX Speedster SWFT 319 RX 6800 16GB"
       },
       {
-        "Price": 285.00,
+        "Price": 265.00,
         "Features": [
           "3xFan",
           "1x8Pin",
@@ -3241,7 +3241,7 @@
     ],
     "Disco Sólido": [
       {
-        "Price": 70.00,
+        "Price": 65.00,
         "Features": [
           "2350mbs",
           "210TBW",
@@ -3253,7 +3253,7 @@
         "Label": "SSD M.2 MSI SPatium M371 1TB"
       },
       {
-        "Price": 75.00,
+        "Price": 70.00,
         "Features": [
           "3500mbs",
           "600TBW",
@@ -3276,7 +3276,7 @@
         "Label": "SSD 2.5 Team Group T-FORCE VULCAN Z 480GB"
       },
       {
-        "Price": 55.00,
+        "Price": 50.00,
         "Features": [
           "3500mbs",
           "200TBW",
@@ -3288,7 +3288,7 @@
         "Label": "SSD M.2 Solidigm P41 Plus 512GB"
       },
       {
-        "Price": 160.00,
+        "Price": 155.00,
         "Features": [
           "7000mbs",
           "1400tbw",
@@ -3301,7 +3301,7 @@
         "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 2TB"
       },
       {
-        "Price": 80.00,
+        "Price": 75.00,
         "Features": [
           "3500mbs",
           "1660TBW",
@@ -3313,7 +3313,7 @@
         "Label": "SSD M.2 TeamGroup MP34 1TB"
       },
       {
-        "Price": 50.00,
+        "Price": 45.00,
         "Features": [
           "2100mbs",
           "200TBW",
@@ -3325,7 +3325,7 @@
         "Label": "SSD M.2 HP EX900 500GB"
       },
       {
-        "Price": 65.00,
+        "Price": 60.00,
         "Features": [
           "2400mbs",
           "80TBW",
@@ -3337,7 +3337,7 @@
         "Label": "SSD M.2 WD Green SN350 960GB"
       },
       {
-        "Price": 70.00,
+        "Price": 65.00,
         "Features": [
           "2150mbs",
           "500TBW",
@@ -3349,7 +3349,7 @@
         "Label": "SSD M.2 HP EX900 1TB"
       },
       {
-        "Price": 90.00,
+        "Price": 85.00,
         "Features": [
           "5000mbs",
           "2000TBW",
@@ -3361,7 +3361,7 @@
         "Label": "SSD M.2 AData Legend 850 1TB"
       },
       {
-        "Price": 85.00,
+        "Price": 80.00,
         "Features": [
           "5000mbs",
           "600TBW",
@@ -3373,7 +3373,7 @@
         "Label": "SSD M.2 Team Group MP44L 1TB"
       },
       {
-        "Price": 65.00,
+        "Price": 60.00,
         "Features": [
           "4800mbs",
           "300TBW",
@@ -3385,7 +3385,7 @@
         "Label": "SSD M.2 Corsair MP600 GS 500GB"
       },
       {
-        "Price": 75.00,
+        "Price": 70.00,
         "Features": [
           "7400mbs",
           "300BTW",
@@ -3397,7 +3397,7 @@
         "Label": "SSD M.2 HP FX900 Pro 512GB"
       },
       {
-        "Price": 135.00,
+        "Price": 130.00,
         "Features": [
           "3200mbs",
           "100TBW",
@@ -3409,7 +3409,7 @@
         "Label": "SSD M.2 WD SN350 2TB"
       },
       {
-        "Price": 90.00,
+        "Price": 85.00,
         "Features": [
           "3500mbs",
           "600TBW",
@@ -3421,7 +3421,7 @@
         "Label": "SSD M.2 Samsung 980 1TB"
       },
       {
-        "Price": 145.00,
+        "Price": 140.00,
         "Features": [
           "4150mbs",
           "900TBW",
@@ -3444,7 +3444,7 @@
         "Label": "SSD 2.5 Team Group CX2 2TB"
       },
       {
-        "Price": 100.00,
+        "Price": 95.00,
         "Features": [
           "7400mbs",
           "1450TBW",
@@ -3456,7 +3456,7 @@
         "Label": "SSD M.2 Team Group MP44 1TB"
       },
       {
-        "Price": 85.00,
+        "Price": 80.00,
         "Features": [
           "7100mbs",
           "350TBW",
@@ -3469,7 +3469,7 @@
         "Label": "SSD M.2 Corsair MP600 PRO LPX 500GB"
       },
       {
-        "Price": 105.00,
+        "Price": 100.00,
         "Features": [
           "7100mbs",
           "700TBW",
@@ -3482,7 +3482,7 @@
         "Label": "SSD M.2 Corsair MP600 PRO LPX 1TB White"
       },
       {
-        "Price": 140.00,
+        "Price": 135.00,
         "Features": [
           "3600mbs",
           "1200TBW",
@@ -3494,7 +3494,7 @@
         "Label": "SSD M.2 MSI Spatium M450 2TB"
       },
       {
-        "Price": 200.00,
+        "Price": 195.00,
         "Features": [
           "7000mbs",
           "1200TBW",
@@ -3506,7 +3506,7 @@
         "Label": "SSD M.2 Samsung 980 PRO 2TB"
       },
       {
-        "Price": 110.00,
+        "Price": 105.00,
         "Features": [
           "5000mbs",
           "600TBW",
@@ -3518,7 +3518,7 @@
         "Label": "SSD M.2 Samsung 990 EVO 1TB"
       },
       {
-        "Price": 220.00,
+        "Price": 215.00,
         "Features": [
           "7450mbs",
           "1200TBW",
@@ -3530,7 +3530,7 @@
         "Label": "SSD M.2 Samsung 990 Pro 2TB"
       },
       {
-        "Price": 150.00,
+        "Price": 145.00,
         "Features": [
           "7000mbs",
           "HeatSink",
@@ -3630,7 +3630,7 @@
         "Label": "Board Gigabyte Z790 Aorus Elite AX ICE"
       },
       {
-        "Price": 215.00,
+        "Price": 210.00,
         "Features": [
           "AM4",
           "DDR4",
@@ -3671,7 +3671,7 @@
         "Label": "Board MSI Z790 Gaming Pro Wifi"
       },
       {
-        "Price": 235.00,
+        "Price": 230.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "DDR5",
@@ -3735,7 +3735,7 @@
         "Label": "Board Gigabyte Z790 Eagle AX"
       },
       {
-        "Price": 155.00,
+        "Price": 150.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "DDR4",
@@ -3755,7 +3755,7 @@
         "Label": "Board Gigabyte B760M DS3H DDR4"
       },
       {
-        "Price": 160.00,
+        "Price": 155.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "DDR5",
@@ -3817,7 +3817,7 @@
         "Label": "Board Gigabyte Z690 AERO G DDR4"
       },
       {
-        "Price": 225.00,
+        "Price": 220.00,
         "Features": [
           "12va-13ra-14ta",
           "DDR4",
