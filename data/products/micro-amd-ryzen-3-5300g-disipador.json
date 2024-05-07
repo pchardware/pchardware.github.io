@@ -1,0 +1,26 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Microprocesador",
+  "Images": [
+    "/images/products/micro-amd-ryzen-3-5300g-disipador-1.webp",
+    "/images/products/micro-amd-ryzen-3-5300g-disipador-2.webp",
+    "/images/products/micro-amd-ryzen-3-5300g-disipador-3.webp"
+  ],
+  "Description": "# de núcleos de CPU: 4 | # de hilos: 8 | Tecnología de procesador para núcleos de CPU: TSMC 7nm FinFET\nMáx. Boost Clock: Hasta 4.2GHz | Reloj base: 4.0GHz | Caché L2: 2 MB | Caché L3: 8 MB\nTDP predeterminado: 65W | TDP configurable AMD (cTDP): 45-65W | Toma de CPU: AM4\nDesbloqueado para overclocking: Sí | Modelo gráfico: Radeon Graphics | Número de núcleos gráficos: 6 | Frecuencia gráfica: 1700MHz\nVersión PCI Express: PCIe 3.0 | Tipo de memoria del sistema: DDR4 | Canales de memoria: 2 | Especificación de memoria del sistema: hasta 3200MHz\nAccesorios: Wraith Stealth Cooler Incluido\n\nDimensiones del producto: 8,7 x 7,87 x 3,46 pulgadas\nFabricante: AMD",
+  "Price": 110.00,
+  "Features": [
+    "Radeon Graphics",
+    "AM4",
+    "8 Hilos",
+    "4 Core",
+    "4.2GHz",
+    "8MB L3",
+    "65W",
+    "DDR4",
+    "Serie5000",
+    "CPU"
+  ],
+  "Date": "2023-12-28T22:14:48.5974394-05:00",
+  "Update": "2024-05-07T00:12:02.6605467-04:00",
+  "Label": "Micro AMD Ryzen 3 5300G +Disipador"
+}
