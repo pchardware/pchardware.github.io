@@ -12,7 +12,7 @@
     "/images/products/ssd-m2-solidigm-p41-plus-512gb-8.webp"
   ],
   "Description": "Model\nBrand: Solidigm\nSeries: P41 Plus\nModel: SSDPFKNU512GZX1\nDevice Type: Internal Solid State Drive (SSD)\nUsed For: Consumer\n\n\nDetails\nForm Factor: M.2 2280\nCapacity: 512GB\nMemory Components: 3D4\nInterface: PCI-Express 4.0 x4\n\n\nPerformance\nMax Sequential Read: Up to 3500 MBps\nMax Sequential Write: Up to 1625 MBps\nSustained Random 4KB Read: Up to 115,000 IOPS\nSustained Random 4KB Write: Up to 390,000 IOPS\nMTTF: 1.6 million hours\nHeatSink: No\n\n\nEnvironmental\nOperating Temperature: 0°C ~ +70°C\nStorage Temperature: -40°C ~ +85°C",
-  "Price": 55.00,
+  "Price": 50.00,
   "Features": [
     "3500mbs",
     "200TBW",
