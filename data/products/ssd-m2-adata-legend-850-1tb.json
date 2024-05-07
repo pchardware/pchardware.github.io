@@ -8,7 +8,7 @@
     "/images/products/ssd-m2-adata-legend-850-1tb-4.webp"
   ],
   "Description": "Model\nBrand: ADATA\nSeries: LEGEND 850\nModel: LEGEND 850\nDevice Type: Internal Solid State Drive (SSD)\nUsed For: Consumer\n\n\nDetails\nForm Factor: M.2 2280\nCapacity: 1TB\nMemory Components: 3D NAND\nInterface: PCIe Gen4 x4\nController: SMI SM2269XT\n\n\nPerformance\nMax Sequential Read: Up to 5,000MB/s* (PC/Laptop)\n Up to 4,600MB/s (PS5)\nMax Sequential Write: Up to 4100MBps\n4KB Random Read: Up to 400,000 IOPS\n4KB Random Write: Up to 550,000 IOPS\nTerabytes Written (TBW): At least 2,000TB\nMTBF: 2,000,000 hours\nHeatSink: Yes\n\n\nEnvironmental\nOperating Temperature: 0°C ~ +70°C\nStorage Temperature: -40°C ~ +85°C\nMax Shock Resistance: 1500G\n\n\nDimensions & Weight\nHeight: 0.130\nWidth: 0.870\nDepth: 3.150\nWeight: 0.0200",
-  "Price": 90.00,
+  "Price": 85.00,
   "Features": [
     "5000mbs",
     "2000TBW",
