@@ -1,0 +1,30 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/tarjeta-de-video-zotac-gaming-rtx-3060-twin-edge-1-5l5yb3-1.webp",
+    "/images/products/tarjeta-de-video-zotac-gaming-rtx-3060-twin-edge-1-5l5yb3-2.webp",
+    "/images/products/tarjeta-de-video-zotac-gaming-rtx-3060-twin-edge-1-5l5yb3-3.webp",
+    "/images/products/tarjeta-de-video-zotac-gaming-rtx-3060-twin-edge-1-5l5yb3-4.webp",
+    "/images/products/tarjeta-de-video-zotac-gaming-rtx-3060-twin-edge-1-5l5yb3-5.webp",
+    "/images/products/tarjeta-de-video-zotac-gaming-rtx-3060-twin-edge-1-5l5yb3-6.webp"
+  ],
+  "Description": "Model\nBrand: ZOTAC\nSeries: Twin Edge OC\nModel: ZT-A30600H-10M\n\n\nInterface\nInterface: PCI Express 4.0\n\n\nChipset\nChipset Manufacturer: NVIDIA\nGPU Series: NVIDIA GeForce RTX 30 Series\nGPU: GeForce RTX 3060\nBoost Clock: 1807 MHz\nCUDA Cores: 3584 Cores\n\n\nMemory\nEffective Memory Clock: 15 Gbps\nMemory Size: 12GB\nMemory Interface: 192-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12 Ultimate\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 1 x HDMI 2.1\nDisplayPort: 3 x DisplayPort 1.4a\n\n\nDetails\nMax Resolution: 7680 x 4320\nSLI Support: No\nVirtual Reality Ready: Yes\nCooler: Double Fans\nOperating Systems Supported: Windows 10 64-bit (build 2004 or later)\nThermal Design Power: 170W\nRecommended PSU Wattage: 600W\nPower Connector: 1 x 8-Pin\nHDCP Ready: 2.3\n\n\nFeatures\nFeatures: 2nd Gen Ray Tracing Cores\n\n3rd Gen Tensor Cores \n\nIceStorm 2.0 Advanced Cooling\n\nActive Fan Control with FREEZE Fan Stop\n\nMetal Backplate\n\nFireStorm Utility \n\nVR Ready\n\n\nForm Factor & Dimensions\nMax GPU Length: 224 mm\nCard Dimensions (L x H): 8.82\" x 4.58\"\nSlot Width: 2 Slots\n\n\nPackaging\nPackage Contents: ZOTAC GAMING GeForce RTX 3060 Twin Edge OC graphics card\nUser Manual",
+  "Price": 335.00,
+  "Features": [
+    "DLSS",
+    "2xFan",
+    "1x8Pin",
+    "600WR",
+    "224mm",
+    "3xDisplay Port",
+    "1xHDMI",
+    "GeForce",
+    "NVIDIA",
+    "GPU",
+    "Gráfica"
+  ],
+  "Date": "2024-05-06T23:38:25.4290749-04:00",
+  "Update": "2024-05-07T00:12:02.8319556-04:00",
+  "Label": "Tarjeta de Video Zotac Gaming RTX 3060 Twin Edge 12GB OC"
+}
