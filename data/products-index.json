@@ -2,14 +2,6 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 1490.00,
-        "Features": [],
-        "Date": "2024-03-16T03:23:44.5153672-04:00",
-        "Update": "2024-05-04T08:26:33.768376-04:00",
-        "Discount": 20.0,
-        "Label": "PC RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +AOC 24\""
-      },
-      {
         "Price": 2055.00,
         "Features": [],
         "Date": "2024-04-20T10:42:06.0831707-04:00",
@@ -40,28 +32,12 @@
   "Torres": {
     "Gamer": [
       {
-        "Price": 1140.00,
-        "Features": [],
-        "Date": "2024-03-11T10:53:00.3667551-04:00",
-        "Update": "2024-05-04T08:26:33.7478128-04:00",
-        "Discount": 10.0,
-        "Label": "Torre RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +750W"
-      },
-      {
         "Price": 1100.00,
         "Features": [],
         "Date": "2024-04-13T16:34:23.3155579-04:00",
         "Update": "2024-05-04T08:26:33.7883278-04:00",
         "Discount": 15.0,
         "Label": "Torre RTX 3050 OC 6GB +i3-14100F +Z790 Eagle AX +32GB DDR5 + 500GB M.2 +850W"
-      },
-      {
-        "Price": 1020.00,
-        "Features": [],
-        "Date": "2024-04-23T06:10:18.6626968-04:00",
-        "Update": "2024-05-04T08:26:33.8263463-04:00",
-        "Discount": 10.0,
-        "Label": "Torre RX 6600 8GB +i3-14100F +B760M PRO RS +32GB DDR5 +512 M.2 +750W +Chasis RGB"
       },
       {
         "Price": 2315.00,
@@ -3106,22 +3082,6 @@
         "Date": "2023-12-15T02:02:40.5357401-05:00",
         "Update": "2024-05-02T17:09:30.6948228-04:00",
         "Label": "Tarjeta de Video XFX Speedster SWFT 319 RX 6800 16GB"
-      },
-      {
-        "Price": 265.00,
-        "Features": [
-          "3xFan",
-          "1x8Pin",
-          "500WR",
-          "282mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-05-11T19:24:18.7527581-04:00",
-        "Update": "2024-05-02T17:09:30.7496551-04:00",
-        "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 Eagle WindForce 3X 8GB"
       },
       {
         "Price": 660.00,
