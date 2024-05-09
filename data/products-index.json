@@ -40,14 +40,6 @@
         "Label": "Torre RTX 3050 OC 6GB +i3-14100F +Z790 Eagle AX +32GB DDR5 + 500GB M.2 +850W"
       },
       {
-        "Price": 2315.00,
-        "Features": [],
-        "Date": "2024-04-24T02:30:37.8497944-04:00",
-        "Update": "2024-05-04T08:26:33.8454322-04:00",
-        "Discount": 20.0,
-        "Label": "Torre RTX 4070 Ti OC 12GB +i7-13700K +Líquido +Z790 Aorus Elite AX ICE +32GB DDR5 +1TB M.2 +1000W"
-      },
-      {
         "Price": 1360.00,
         "Features": [],
         "Date": "2024-04-14T10:24:42.6082746-04:00",
@@ -178,20 +170,6 @@
         "Update": "2024-04-13T07:00:21.5985975-04:00",
         "Discount": 15.0,
         "Label": "Kit i5-14600K +Hyper 212 Spectrum V3 +Z790 Eagle AX +32GB DDR5 Corsair Vengeance"
-      },
-      {
-        "Price": 760.00,
-        "Features": [
-          "24 Hilos",
-          "16 Core",
-          "5.4GHz",
-          "8xUSB",
-          "7xSATA",
-          "6xAudio"
-        ],
-        "Date": "2024-03-16T11:15:37.0936472-04:00",
-        "Update": "2024-04-20T12:09:03.8810322-04:00",
-        "Label": "Kit i7-13700K +MSI MPG Z790 EDGE Wifi"
       },
       {
         "Price": 415.00,
@@ -408,23 +386,6 @@
         "Update": "2024-04-13T07:00:21.4170547-04:00",
         "Discount": 20.0,
         "Label": "Kit i7-14700K +Liquida 240 ARGB +MPG Z790 EDGE +64GB DDR5 G.Skill Trident Z5 RGB"
-      },
-      {
-        "Price": 900.00,
-        "Features": [
-          "24 Hilos",
-          "16 Core",
-          "5.4GHz",
-          "2x16",
-          "CL32",
-          "Disipadas",
-          "8xUSB",
-          "7xSATA",
-          "6xAudio"
-        ],
-        "Date": "2024-03-17T07:52:13.753635-04:00",
-        "Update": "2024-04-20T12:09:03.8982005-04:00",
-        "Label": "Kit i7-13700K +MSI MPG Z790 EDGE Wifi +32GB DDR5 Trident Z5 NEO RGB 6400mhz"
       },
       {
         "Price": 1260.00,
@@ -2151,23 +2112,6 @@
         "Label": "Micro Intel Core i9-14900K"
       },
       {
-        "Price": 375.00,
-        "Features": [
-          "13Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.4GHz",
-          "30MB L3",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-03-22T09:04:14.8362359-04:00",
-        "Update": "2024-05-02T13:05:18.1517314-04:00",
-        "Label": "Micro Intel Core i7-13700K"
-      },
-      {
         "Price": 200.00,
         "Features": [
           "12Gen",
@@ -2260,6 +2204,7 @@
         ],
         "Date": "2023-10-02T14:28:55.7243127-04:00",
         "Update": "2023-10-31T11:23:29.2791521-04:00",
+        "Def": true,
         "Label": "RAM DDR5 Corsair Vengenance RGB 32GB 6000mhz White"
       },
       {
@@ -2908,13 +2853,6 @@
         "Date": "2024-04-11T02:49:31.2298709-04:00",
         "Update": "2024-04-14T11:03:41.5353407-04:00",
         "Label": "Tarjeta de Video Gigabyte RTX 3070 Gaming OC 8GB"
-      },
-      {
-        "Price": 10.00,
-        "Features": [],
-        "Date": "2024-02-28T05:30:17.0431477-05:00",
-        "Update": "2024-04-14T14:21:07.7919663-04:00",
-        "Label": "Soporte para Tarjetas Rosewill"
       },
       {
         "Price": 380.00,
@@ -4595,21 +4533,6 @@
         "Date": "2024-02-28T05:29:58.139187-05:00",
         "Update": "2024-02-28T07:53:53.7454237-05:00",
         "Label": "Monitor AOpen FireLegend 24\" IPS 180Hz 1ms"
-      },
-      {
-        "Price": 255.00,
-        "Features": [
-          "FHD",
-          "8Bits",
-          "FRC",
-          "1080p",
-          "250nit",
-          "DP",
-          "Flat"
-        ],
-        "Date": "2024-01-18T07:09:18.7560023-05:00",
-        "Update": "2024-04-10T12:11:14.6188968-04:00",
-        "Label": "Monitor Asus TUF 24\" 165Hz IPS 1ms SPK"
       },
       {
         "Price": 185.00,
