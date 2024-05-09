@@ -4535,6 +4535,21 @@
         "Label": "Monitor AOpen FireLegend 24\" IPS 180Hz 1ms"
       },
       {
+        "Price": 255.00,
+        "Features": [
+          "FHD",
+          "8Bits",
+          "FRC",
+          "1080p",
+          "250nit",
+          "DP",
+          "Flat"
+        ],
+        "Date": "2024-01-18T07:09:18.7560023-05:00",
+        "Update": "2024-04-10T12:11:14.6188968-04:00",
+        "Label": "Monitor Asus TUF 24\" 165Hz IPS 1ms SPK"
+      },
+      {
         "Price": 185.00,
         "Features": [
           "1080p",
