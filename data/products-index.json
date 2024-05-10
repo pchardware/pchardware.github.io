@@ -2642,22 +2642,6 @@
         "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X White OC 8GB"
       },
       {
-        "Price": 325.00,
-        "Features": [
-          "3xFan",
-          "1x8Pin",
-          "550WR",
-          "274mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-10-16T10:24:33.0618949-04:00",
-        "Update": "2024-01-30T09:04:52.3786344-05:00",
-        "Label": "Tarjeta de Video Gigabyte RX 7600 8GB"
-      },
-      {
         "Price": 345.00,
         "Features": [
           "3xFan",
