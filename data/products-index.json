@@ -2,7 +2,7 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 2055.00,
+        "Price": 2045.00,
         "Features": [],
         "Date": "2024-04-20T10:42:06.0831707-04:00",
         "Update": "2024-05-04T08:26:33.8073761-04:00",
@@ -10,17 +10,25 @@
         "Label": "PC RTX 4060 Ti 8GB +Core i7-12700K +Z790 Eagle AX +32GB DDR5 +512GB M.2 +27\""
       },
       {
-        "Price": 2365.00,
+        "Price": 2360.00,
         "Features": [],
         "Date": "2024-04-19T09:30:33.0428038-04:00",
         "Update": "2024-05-04T08:26:34.0490589-04:00",
         "Discount": 25.0,
         "Label": "PC i9-14900K +Strix Z790-F Gaming Wifi +64GB DDR5 +1TB M.2 +2TB HDD +850W +27\""
+      },
+      {
+        "Price": 2955.00,
+        "Features": [],
+        "Date": "2024-05-13T07:45:34.4854167-04:00",
+        "Update": "2024-05-13T09:12:06.5921421-04:00",
+        "Discount": 20.0,
+        "Label": "PC RTX 4070 Super Master +i9-12900K +Liquida +TUF Z690-Plus Wifi +64GB DDR5 +2TB M.2 + Thor 850W +27\""
       }
     ],
     "Multimedia": [
       {
-        "Price": 930.00,
+        "Price": 925.00,
         "Features": [],
         "Date": "2024-04-27T05:48:56.699818-04:00",
         "Update": "2024-05-04T08:26:33.9071219-04:00",
@@ -28,7 +36,7 @@
         "Label": "PC i3-14100 +B760M PRO RS +16 DDR4 +512GB M.2 +500W +Chasis RGB +MSI 25\""
       },
       {
-        "Price": 960.00,
+        "Price": 955.00,
         "Features": [],
         "Date": "2024-05-13T06:53:32.8200031-04:00",
         "Update": "2024-05-13T07:30:59.2128344-04:00",
@@ -88,6 +96,14 @@
         "Update": "2024-05-04T08:40:27.7779213-04:00",
         "Discount": 10.0,
         "Label": "Torre i5-12400 +Z690 EXTREME +16GB DDR4 +500GB M.2 +EVGA 850W +Chasis RGB Black"
+      },
+      {
+        "Price": 835.00,
+        "Features": [],
+        "Date": "2024-05-13T08:28:37.7031053-04:00",
+        "Update": "2024-05-13T09:12:06.6248212-04:00",
+        "Discount": 10.0,
+        "Label": "Torre i5-12400 +Z690 EXTREME +16GB DDR4 RGB +512GB M.2 +MSI 750W + Chasis RGB"
       }
     ],
     "Pro": [
@@ -4417,7 +4433,7 @@
     ],
     "Monitor": [
       {
-        "Price": 235.00,
+        "Price": 230.00,
         "Features": [
           "HDR10",
           "8Bit",
@@ -4435,7 +4451,7 @@
         "Label": "Monitor Acer Nitro 24\" 165Hz 1ms SPK VA"
       },
       {
-        "Price": 400.00,
+        "Price": 395.00,
         "Features": [
           "QHD",
           "2K",
@@ -4450,7 +4466,7 @@
         "Label": "Monitor Acer Nitro 27\" 1440p 170Hz IPS 0.5ms 10Bit 400nit 4xUSB3 A.Ajustable SPK-3W"
       },
       {
-        "Price": 240.00,
+        "Price": 235.00,
         "Features": [
           "8Bits",
           "FRC",
@@ -4464,7 +4480,7 @@
         "Label": "Monitor AOC 24\" 165Hz VA 1ms"
       },
       {
-        "Price": 340.00,
+        "Price": 330.00,
         "Features": [
           "8Bit",
           "HDR10",
@@ -4479,7 +4495,7 @@
         "Label": "Monitor Acer Nitro 27\" 1440p Curvo 170Hz 1ms VA SPK"
       },
       {
-        "Price": 200.00,
+        "Price": 195.00,
         "Features": [
           "8bit",
           "FRC",
@@ -4495,7 +4511,7 @@
         "Label": "Monitor MSI PRO 25\" 100Hz IPS 1ms SPK"
       },
       {
-        "Price": 245.00,
+        "Price": 240.00,
         "Features": [
           "8Bits",
           "FRC",
@@ -4511,7 +4527,7 @@
         "Label": "Monitor AOpen FireLegend 24\" IPS 180Hz 1ms"
       },
       {
-        "Price": 185.00,
+        "Price": 180.00,
         "Features": [
           "1080p",
           "6+FRC",
