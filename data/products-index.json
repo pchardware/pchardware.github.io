@@ -2,7 +2,7 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 2045.00,
+        "Price": 2044.00,
         "Features": [],
         "Date": "2024-04-20T10:42:06.0831707-04:00",
         "Update": "2024-05-04T08:26:33.8073761-04:00",
@@ -18,7 +18,7 @@
         "Label": "PC i9-14900K +Strix Z790-F Gaming Wifi +64GB DDR5 +1TB M.2 +2TB HDD +850W +27\""
       },
       {
-        "Price": 2955.00,
+        "Price": 2954.00,
         "Features": [],
         "Date": "2024-05-13T07:45:34.4854167-04:00",
         "Update": "2024-05-13T09:12:06.5921421-04:00",
@@ -44,7 +44,7 @@
         "Label": "PC i3-14100 +B760M PRO RS +16 DDR4 +512GB M.2 +500W +Chasis RGB +MSI 25\""
       },
       {
-        "Price": 955.00,
+        "Price": 954.00,
         "Features": [],
         "Date": "2024-05-13T06:53:32.8200031-04:00",
         "Update": "2024-05-13T07:30:59.2128344-04:00",
@@ -4549,7 +4549,7 @@
     ],
     "Monitor": [
       {
-        "Price": 230.00,
+        "Price": 229.00,
         "Features": [
           "HDR10",
           "8Bit",
@@ -4596,7 +4596,7 @@
         "Label": "Monitor AOC 24\" 165Hz VA 1ms"
       },
       {
-        "Price": 330.00,
+        "Price": 329.00,
         "Features": [
           "8Bit",
           "HDR10",
@@ -4627,7 +4627,7 @@
         "Label": "Monitor MSI PRO 25\" 100Hz IPS 1ms SPK"
       },
       {
-        "Price": 240.00,
+        "Price": 239.00,
         "Features": [
           "8Bits",
           "FRC",
@@ -4643,7 +4643,7 @@
         "Label": "Monitor AOpen FireLegend 24\" IPS 180Hz 1ms"
       },
       {
-        "Price": 180.00,
+        "Price": 179.00,
         "Features": [
           "1080p",
           "6+FRC",
