@@ -5,20 +5,24 @@
     "/images/products/webcam-logitech-c270-hd-1.webp",
     "/images/products/webcam-logitech-c270-hd-2.webp",
     "/images/products/webcam-logitech-c270-hd-3.webp",
-    "/images/products/webcam-logitech-c270-hd-4.webp",
-    "/images/products/webcam-logitech-c270-hd-5.webp",
-    "/images/products/webcam-logitech-c270-hd-6.webp"
+    "/images/products/webcam-logitech-c270-hd-4.webp"
   ],
-  "Description": "Disclaimer\nDisclaimer: The package and the logo could be different for the producing time.It couldn't be the reason to apply for return and refund or replacement.\n\n\nModel\nBrand: Logitech\nName: C270\nModel: 960-000694\nPart Number: LOG960000694\n\n\nDetails\nColor: Gray\nInterface: USB 2.0\nMax. Image Resolution: 3.0 MP (Software Enhanced)\nVideo Capture Resolution: 1280 x 720\nFrame Rate: 30 fps\nOperating Systems Supported: Windows XP (SP2 or higher), Windows Vista or Windows 7 (32-bit or 64-bit)\n\n\nFeatures\nFeatures: HD video calls\n\n3-megapixel snapshots\n\nIncludes Logitech Vid HD\n\nBuilt-in mic with RightSound\n\nRightLight technology\n\nIM compatibility\n\nFree video editing software\n\nSmoother. Sharper. Richer. Clearer.\n\n\nPackage Contents\nPackage Contents: Webcam with 5-foot cable\nLogitech webcam software with Logitech Vid HD\nUser documentation",
-  "Price": 50.00,
+  "Description": "La cámara web HD C270 ofrece conferencias nítidas y fluidas (720p/30 fps) en pantalla panorámica. La corrección de iluminación automática produce colores reales y naturales.\n\nNítidas videollamadas HD 720p/30 fps con un campo visual diagonal de 55° y corrección de iluminación automática. Compatible con plataformas populares incluidas SkypeTM y Zoom.\n\nEl micrófono integrado con reducción de ruido hace que se le oiga claramente hasta a 1,5 metros de distancia, incluso en entornos bulliciosos.\n\nLa función RightLightTM 2 de C270 la ajusta a las condiciones de iluminación para producir imágenes más brillantes y con más contraste para ayudarle a ofrecer su mejor imagen en todas sus conferencias.\n\nEl clip universal ajustable permite acoplar la cámara de forma segura a la pantalla o al portátil, o plegar el clip y colocar la cámara web en un estante. Siempre a punto para la próxima videollamada.",
+  "Price": 49.00,
   "Features": [
-    "USB",
-    "3mp",
-    "Micrófono",
+    "0.9MP",
     "720p",
-    "30fps"
+    "Panorámica",
+    "Corrección de iluminación",
+    "Reducción de ruido",
+    "55°",
+    "30fps",
+    "HD",
+    "Micrófono",
+    "1.5m",
+    "USB"
   ],
   "Date": "2023-10-09T15:59:49.8284237-04:00",
-  "Update": "2024-04-20T12:09:03.7091112-04:00",
+  "Update": "2024-05-14T08:04:23.6036849-04:00",
   "Label": "Webcam Logitech C270 HD"
 }
