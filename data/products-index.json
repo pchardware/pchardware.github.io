@@ -4210,19 +4210,6 @@
         "Label": "Webcam Microsoft LifeCam Studio"
       },
       {
-        "Price": 53.00,
-        "Features": [
-          "720p",
-          "3mp",
-          "HD",
-          "Micrófono",
-          "USB"
-        ],
-        "Date": "2023-12-12T03:35:09.5904673-05:00",
-        "Update": "2023-12-12T04:01:09.672667-05:00",
-        "Label": "WebCam Logitech C270h"
-      },
-      {
         "Price": 90.00,
         "Features": [
           "1080p",
@@ -4291,6 +4278,25 @@
         "Date": "2023-10-09T15:59:49.8284237-04:00",
         "Update": "2024-05-14T08:04:23.6036849-04:00",
         "Label": "Webcam Logitech C270 HD"
+      },
+      {
+        "Price": 53.00,
+        "Features": [
+          "0.9MP",
+          "720p",
+          "Panorámica",
+          "Corrección de iluminación",
+          "Reducción de ruido",
+          "55°",
+          "30fps",
+          "HD",
+          "Micrófono",
+          "1.5m",
+          "USB"
+        ],
+        "Date": "2023-12-12T03:35:09.5904673-05:00",
+        "Update": "2024-05-14T08:14:06.1478526-04:00",
+        "Label": "WebCam Logitech C270h"
       }
     ],
     "Mouse": [
