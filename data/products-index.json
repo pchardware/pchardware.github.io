@@ -1308,6 +1308,26 @@
         "Date": "2024-05-08T09:30:24.0806507-04:00",
         "Update": "2024-05-08T09:33:17.2517656-04:00",
         "Label": "CLC DIYhz Radiador 120mm"
+      },
+      {
+        "Price": 235.00,
+        "Features": [
+          "2400rpm",
+          "63cfm",
+          "37db",
+          "HUB",
+          "2xFan",
+          "240mm",
+          "PWM",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM5",
+          "AM4"
+        ],
+        "Date": "2024-05-14T07:14:03.28685-04:00",
+        "Update": "2024-05-14T07:54:11.9605133-04:00",
+        "Label": "Disipador Líquido Corsair iCUE LINK H100i RGB"
       }
     ],
     "Disco Duro": [
@@ -3645,6 +3665,28 @@
         "Date": "2024-03-07T09:46:29.5659598-05:00",
         "Update": "2024-05-03T14:26:14.8976092-04:00",
         "Label": "Board ASRock Z690 EXTREME DDR4"
+      },
+      {
+        "Price": 295.00,
+        "Features": [
+          "AM5",
+          "DDR5",
+          "6400mhz",
+          "14xVRM",
+          "Bios FlashBack",
+          "7xUSB",
+          "Wifi",
+          "5xAudio",
+          "4xSATA",
+          "DisplayPort",
+          "HDMI",
+          "AMD",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2024-05-14T07:14:07.372319-04:00",
+        "Update": "2024-05-14T07:54:11.9904198-04:00",
+        "Label": "Board Asus ROG Strix B650-A Gaming Wifi"
       }
     ],
     "Red": [
@@ -4098,6 +4140,44 @@
         "Date": "2024-04-20T12:04:05.3273518-04:00",
         "Update": "2024-04-22T07:44:58.3520506-04:00",
         "Label": "Webcam Logitech C920e Pro HD"
+      },
+      {
+        "Price": 56.00,
+        "Features": [
+          "1.2MP",
+          "720p",
+          "Panorámica",
+          "Corrección de iluminación",
+          "Reducción de ruido",
+          "60°",
+          "30fps",
+          "HD",
+          "Micrófono",
+          "2m",
+          "USB"
+        ],
+        "Date": "2024-05-14T07:13:59.3217779-04:00",
+        "Update": "2024-05-14T07:54:11.9288458-04:00",
+        "Label": "WebCam Logitech C505"
+      },
+      {
+        "Price": 53.00,
+        "Features": [
+          "1.2MP",
+          "720p",
+          "Panorámica",
+          "Corrección de iluminación",
+          "Reducción de ruido",
+          "60°",
+          "30fps",
+          "HD",
+          "Micrófono",
+          "1.5m",
+          "USB"
+        ],
+        "Date": "2024-05-14T07:14:15.5452771-04:00",
+        "Update": "2024-05-14T07:54:12.0521104-04:00",
+        "Label": "WebCam Logitech C310"
       }
     ],
     "Mouse": [
@@ -4310,6 +4390,29 @@
         "Date": "2024-04-11T02:50:32.4061292-04:00",
         "Update": "2024-04-11T08:32:28.5942684-04:00",
         "Label": "Mouse Pad Corsair MM300 Pro"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "73g",
+          "Compact",
+          "RGB",
+          "400IPS",
+          "FPS",
+          "MOBA",
+          "iCUE",
+          "fingertip",
+          "18000dpi",
+          "6 botónes",
+          "Ambidestro",
+          "50M de clics",
+          "Macros",
+          "Optico",
+          "USB"
+        ],
+        "Date": "2024-05-14T07:14:11.5313563-04:00",
+        "Update": "2024-05-14T07:54:12.0235481-04:00",
+        "Label": "Mouse Corsair Katar Pro XT"
       }
     ],
     "Monitor": [
