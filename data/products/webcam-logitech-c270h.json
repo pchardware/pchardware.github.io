@@ -5,16 +5,22 @@
     "/images/products/webcam-logitech-c270h-1.webp",
     "/images/products/webcam-logitech-c270h-2.webp"
   ],
-  "Description": "Videollamadas HD 720p\nFotos de 3 megapíxeles\nLogitech Vid HD\nMicrófono incorporado con sonido derecho\n\nDisfruta de videollamadas HD de pantalla ancha de 720p en la mayoría de los principales mensajes instantáneos y Logitech Vid HD con la cámara web USB Logitech C270h. Esta cámara web Logitech 720p garantiza imágenes de 3 megapíxeles, permitiendo que tus amigos y familiares te vean con detalles realistas. Se puede escuchar alto y claro gracias al micrófono integrado que reduce el ruido de fondo. Videollamadas HD 720p fotos de 3 megapíxeles Logitech Vid HD Micrófono incorporado con sonido derecho\n\nNombre de marca: Logitech\nDimensiones del producto: 8,4 x 6,1 x 3 pulgadas\nNúmero de modelo del producto: LYSB007JZMQ24-ELECTRNCS\nDescatalogado por el fabricante: No\nCaracterísticas especiales: Luz baja",
+  "Description": "Disfruta de videollamadas HD de pantalla ancha de 720p en la mayoría de los principales mensajes instantáneos y Logitech Vid HD con la cámara web USB Logitech C270h. Esta cámara web Logitech 720p garantiza imágenes de 3 megapíxeles, permitiendo que tus amigos y familiares te vean con detalles realistas. Se puede escuchar alto y claro gracias al micrófono integrado que reduce el ruido de fondo. Videollamadas HD 720p fotos de 3 megapíxeles Logitech Vid HD Micrófono incorporado con sonido derecho",
   "Price": 53.00,
   "Features": [
+    "0.9MP",
     "720p",
-    "3mp",
+    "Panorámica",
+    "Corrección de iluminación",
+    "Reducción de ruido",
+    "55°",
+    "30fps",
     "HD",
     "Micrófono",
+    "1.5m",
     "USB"
   ],
   "Date": "2023-12-12T03:35:09.5904673-05:00",
-  "Update": "2023-12-12T04:01:09.672667-05:00",
+  "Update": "2024-05-14T08:14:06.1478526-04:00",
   "Label": "WebCam Logitech C270h"
 }
