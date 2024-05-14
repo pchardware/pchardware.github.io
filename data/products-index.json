@@ -24,6 +24,14 @@
         "Update": "2024-05-13T09:12:06.5921421-04:00",
         "Discount": 20.0,
         "Label": "PC RTX 4070 Super Master +i9-12900K +Liquida +TUF Z690-Plus Wifi +64GB DDR5 +2TB M.2 + Thor 850W +27\""
+      },
+      {
+        "Price": 1485.00,
+        "Features": [],
+        "Date": "2024-03-16T03:23:44.5153672-04:00",
+        "Update": "2024-05-14T08:04:23.728329-04:00",
+        "Discount": 20.0,
+        "Label": "PC RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +AOC 24\""
       }
     ],
     "Multimedia": [
@@ -62,6 +70,22 @@
         "Update": "2024-05-04T08:26:33.9274831-04:00",
         "Discount": 15.0,
         "Label": "Torre RTX 4060 Ti 3X 8GB +i7-12700K +MEG Z690 ACE +32GB DDR5 +850W +Chasis RGB"
+      },
+      {
+        "Price": 1140.00,
+        "Features": [],
+        "Date": "2024-03-11T10:53:00.3667551-04:00",
+        "Update": "2024-05-14T08:04:23.6942904-04:00",
+        "Discount": 10.0,
+        "Label": "Torre RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +750W"
+      },
+      {
+        "Price": 1020.00,
+        "Features": [],
+        "Date": "2024-04-23T06:10:18.6626968-04:00",
+        "Update": "2024-05-14T08:04:23.7577096-04:00",
+        "Discount": 10.0,
+        "Label": "Torre RX 6600 8GB +i3-14100F +B760M PRO RS +32GB DDR5 +512 M.2 +750W +Chasis RGB"
       }
     ],
     "Multimedia": [
@@ -1328,6 +1352,25 @@
         "Date": "2024-05-14T07:14:03.28685-04:00",
         "Update": "2024-05-14T07:54:11.9605133-04:00",
         "Label": "Disipador Líquido Corsair iCUE LINK H100i RGB"
+      },
+      {
+        "Price": 155.00,
+        "Features": [
+          "1500rpm",
+          "48cfm",
+          "28db",
+          "2xFan",
+          "240mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "LGA 20XX",
+          "AM5",
+          "AM4"
+        ],
+        "Date": "2023-03-27T12:00:05.9787174-04:00",
+        "Update": "2024-05-14T08:04:23.6321091-04:00",
+        "Label": "Disipador Líquido Corsair H100x RGB Elite"
       }
     ],
     "Disco Duro": [
@@ -2163,6 +2206,22 @@
         "Date": "2023-06-07T15:04:52.0919704-04:00",
         "Update": "2024-05-07T00:12:02.6966872-04:00",
         "Label": "Micro Intel Core i5-13500 +Disipador"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "12va Gen",
+          "8 Hilos",
+          "4 Core",
+          "3.3GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2024-01-17T02:39:13.7412454-05:00",
+        "Update": "2024-05-14T08:04:23.5449364-04:00",
+        "Label": "Micro Intel Core i3-12100F +Disipador"
       }
     ],
     "Memoria RAM": [
@@ -3068,6 +3127,41 @@
         "Date": "2024-05-06T23:38:25.4290749-04:00",
         "Update": "2024-05-07T00:12:02.8319556-04:00",
         "Label": "Tarjeta de Video Zotac Gaming RTX 3060 Twin Edge 12GB OC"
+      },
+      {
+        "Price": 740.00,
+        "Features": [
+          "DLSS3",
+          "3xFan",
+          "1x16Pin",
+          "700WR",
+          "300mm",
+          "3xDisplay Port",
+          "1xHDMI",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-01-30T08:59:51.2880649-05:00",
+        "Update": "2024-05-14T08:04:23.5766874-04:00",
+        "Label": "Tarjeta de Video Gigabyte RTX 4070 Super Gaming OC 12GB"
+      },
+      {
+        "Price": 265.00,
+        "Features": [
+          "3xFan",
+          "1x8Pin",
+          "500WR",
+          "282mm",
+          "Radeon",
+          "AMD",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-05-11T19:24:18.7527581-04:00",
+        "Update": "2024-05-14T08:04:23.6591482-04:00",
+        "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 Eagle WindForce 3X 8GB"
       }
     ],
     "Disco Sólido": [
@@ -4178,6 +4272,25 @@
         "Date": "2024-05-14T07:14:15.5452771-04:00",
         "Update": "2024-05-14T07:54:12.0521104-04:00",
         "Label": "WebCam Logitech C310"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "0.9MP",
+          "720p",
+          "Panorámica",
+          "Corrección de iluminación",
+          "Reducción de ruido",
+          "55°",
+          "30fps",
+          "HD",
+          "Micrófono",
+          "1.5m",
+          "USB"
+        ],
+        "Date": "2023-10-09T15:59:49.8284237-04:00",
+        "Update": "2024-05-14T08:04:23.6036849-04:00",
+        "Label": "Webcam Logitech C270 HD"
       }
     ],
     "Mouse": [
@@ -4413,6 +4526,19 @@
         "Date": "2024-05-14T07:14:11.5313563-04:00",
         "Update": "2024-05-14T07:54:12.0235481-04:00",
         "Label": "Mouse Corsair Katar Pro XT"
+      },
+      {
+        "Price": 87.00,
+        "Features": [
+          "16000 dpi",
+          "Optico",
+          "17 Botones",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-11-30T11:15:16.2508817-05:00",
+        "Update": "2024-05-14T08:04:23.4964857-04:00",
+        "Label": "Mouse Corsair Scimitar RGB Elite Black"
       }
     ],
     "Monitor": [
