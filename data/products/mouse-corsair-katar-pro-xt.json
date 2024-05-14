@@ -1,0 +1,35 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Mouse",
+  "Images": [
+    "/images/products/mouse-corsair-katar-pro-xt-1.webp",
+    "/images/products/mouse-corsair-katar-pro-xt-2.webp",
+    "/images/products/mouse-corsair-katar-pro-xt-3.webp",
+    "/images/products/mouse-corsair-katar-pro-xt-4.webp",
+    "/images/products/mouse-corsair-katar-pro-xt-5.webp",
+    "/images/products/mouse-corsair-katar-pro-xt-6.webp",
+    "/images/products/mouse-corsair-katar-pro-xt-7.webp"
+  ],
+  "Description": "Ratón ultraligero para juegos KATAR PRO XT\nDisfrute del diseño ligero y del rendimiento de peso pesado del ratón ultraligero para juegos CORSAIR KATAR PRO XT. Solo pesa 73 g, tiene una forma simétrica compacta y cuenta con un sensor óptico extremadamente preciso de 18.000 ppp.\n\n\nUltraligero\ne increíblemente ágil\n\nEl KATAR PRO XT, con solo 73 g de peso, es extremadamente ligero y ágil para que el usuario pueda pasar varias horas jugando a FPS o MOBA trepidantes. La forma simétrica y compacta hace que sea estupendo para quienes agarran el ratón con la punta de los dedos o con todo el dedo. El cable Paracord ligero reduce el arrastre y permite movimientos del ratón más rápidos, ajustados y precisos.\n\n\nPrecisión para ganar\n\nLos botones CORSAIR QUICKSTRIKE presentan un diseño de tensión por muelles con disparidad nula entre los botones del ratón (izquierdo y derecho) y sus conmutadores, de forma que todos sus clics, disparos y hechizos son más rápidos que nunca.\n\n\nSENSOR ÓPTICO DE 18.000 ppp\n\nLa precisión y el seguimiento de alta precisión necesarios para ganar, gracias a un sensor personalizable en incrementos de 1 ppp y tres configuraciones predeterminadas de ppp.",
+  "Price": 49.00,
+  "Features": [
+    "73g",
+    "Compact",
+    "RGB",
+    "400IPS",
+    "FPS",
+    "MOBA",
+    "iCUE",
+    "fingertip",
+    "18000dpi",
+    "6 botónes",
+    "Ambidestro",
+    "50M de clics",
+    "Macros",
+    "Optico",
+    "USB"
+  ],
+  "Date": "2024-05-14T07:14:11.5313563-04:00",
+  "Update": "2024-05-14T07:54:12.0235481-04:00",
+  "Label": "Mouse Corsair Katar Pro XT"
+}
