@@ -1,0 +1,31 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/tarjeta-de-video-gigabyte-rtx-4070-super-gaming-oc-28ux8f-1.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rtx-4070-super-gaming-oc-28ux8f-2.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rtx-4070-super-gaming-oc-28ux8f-3.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rtx-4070-super-gaming-oc-28ux8f-4.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rtx-4070-super-gaming-oc-28ux8f-5.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rtx-4070-super-gaming-oc-28ux8f-6.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rtx-4070-super-gaming-oc-28ux8f-7.webp"
+  ],
+  "Description": "Model\nBrand: GIGABYTE\nSeries: Gaming\nModel: GV-N407SGAMING OC-12GD\n\n\nInterface\nInterface: PCI Express 4.0 x16\n\n\nChipset\nChipset Manufacturer: NVIDIA\nGPU Series: NVIDIA GeForce RTX 40 Series\nGPU: GeForce RTX 4070 SUPER\n\n\nMemory\nMemory Size: 12GB\nMemory Interface: 192-Bit\nMemory Type: GDDR6X\n\n\n3D API\nOpenGL: OpenGL 4.6\n\n\nDetails\nMax Resolution: 7680 x 4320\nThermal Design Power: 285W\nRecommended PSU Wattage: 700W\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 300 mm",
+  "Price": 740.00,
+  "Features": [
+    "DLSS3",
+    "3xFan",
+    "1x16Pin",
+    "700WR",
+    "300mm",
+    "3xDisplay Port",
+    "1xHDMI",
+    "GeForce",
+    "NVIDIA",
+    "GPU",
+    "Gráfica"
+  ],
+  "Date": "2024-01-30T08:59:51.2880649-05:00",
+  "Update": "2024-05-14T08:04:23.5766874-04:00",
+  "Label": "Tarjeta de Video Gigabyte RTX 4070 Super Gaming OC 12GB"
+}
