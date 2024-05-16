@@ -32,6 +32,15 @@
         "Update": "2024-05-14T08:04:23.728329-04:00",
         "Discount": 20.0,
         "Label": "PC RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +AOC 24\""
+      },
+      {
+        "Price": 1791.00,
+        "Features": [],
+        "Date": "2024-03-16T03:24:24.1080741-04:00",
+        "Update": "2024-05-16T09:40:37.917513-04:00",
+        "Discount": 20.0,
+        "Def": true,
+        "Label": "PC RTX 3060 12GB +i5-12600KF +TUF Z690-Plus Wifi +32GB DDR5 +512GB M.2 +Acer 27\""
       }
     ],
     "Multimedia": [
@@ -86,6 +95,15 @@
         "Update": "2024-05-14T08:04:23.7577096-04:00",
         "Discount": 10.0,
         "Label": "Torre RX 6600 8GB +i3-14100F +B760M PRO RS +32GB DDR5 +512 M.2 +750W +Chasis RGB"
+      },
+      {
+        "Price": 1365.00,
+        "Features": [],
+        "Date": "2024-03-01T09:14:28.6647646-05:00",
+        "Update": "2024-05-16T09:40:37.8985796-04:00",
+        "Discount": 17.0,
+        "Def": true,
+        "Label": "Torre RTX 3060 12GB +i5-12600KF +TUF Z690-Plus Wifi +32GB DDR5 +512GB M.2 +750W"
       }
     ],
     "Multimedia": [
@@ -1761,6 +1779,27 @@
         "Date": "2024-05-03T10:37:20.0612972-04:00",
         "Update": "2024-05-03T11:52:25.3770982-04:00",
         "Label": "Thermalright LGA1700-BCF Black V2"
+      },
+      {
+        "Price": 76.00,
+        "Features": [
+          "iCUE",
+          "ARGB"
+        ],
+        "Date": "2023-09-02T12:39:14.2587626-04:00",
+        "Update": "2024-05-16T09:40:37.8410087-04:00",
+        "Label": "Corsair LC100 Accent Lighting Panels, 9x Mini Triangles, Starter Kit"
+      },
+      {
+        "Price": 87.00,
+        "Features": [
+          "6xFan",
+          "6xRGB",
+          "PWM"
+        ],
+        "Date": "2023-09-02T12:38:41.9633686-04:00",
+        "Update": "2024-05-16T09:40:37.9386074-04:00",
+        "Label": "Fan HUB Corsair Comander Core XT"
       }
     ],
     "Disipador por Aire": [
@@ -2595,6 +2634,35 @@
         "Date": "2023-11-03T12:22:56.9620417-04:00",
         "Update": "2024-05-04T08:26:33.7233299-04:00",
         "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
+      },
+      {
+        "Price": 230.00,
+        "Features": [
+          "Tempered Glass",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "Negro",
+          "1xHDD"
+        ],
+        "Date": "2024-01-18T07:08:34.7724156-05:00",
+        "Update": "2024-05-16T09:40:37.8633757-04:00",
+        "Label": "Chasis Cougar Uniface S Black"
+      },
+      {
+        "Price": 225.00,
+        "Features": [
+          "Tempered Glass",
+          "Gamer",
+          "Mid Tower",
+          "M-ATX",
+          "Negro",
+          "2xHDD",
+          "Minimalista"
+        ],
+        "Date": "2024-05-16T09:19:23.8380237-04:00",
+        "Update": "2024-05-16T09:43:16.7137926-04:00",
+        "Label": "Chasis Asus A21 Black"
       }
     ],
     "Tarjeta Gráfica": [
