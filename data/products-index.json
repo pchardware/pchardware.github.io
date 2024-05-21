@@ -1041,27 +1041,6 @@
         "Label": "Kit Líquido Thermaltake Pacific C360 Ddc"
       },
       {
-        "Price": 230.00,
-        "Features": [
-          "2500rpm",
-          "81cfm",
-          "38db",
-          "Copper",
-          "3xFan",
-          "360mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "LGA 20XX",
-          "LGA 1366",
-          "AM4",
-          "TR4"
-        ],
-        "Date": "2023-06-19T07:48:54.393261-04:00",
-        "Update": "2023-10-09T17:48:21.5339896-04:00",
-        "Label": "Disipador Líquido Asus ROG Strix LC II 360 ARGB"
-      },
-      {
         "Price": 240.00,
         "Features": [
           "2500rpm",
@@ -4205,24 +4184,6 @@
         "Date": "2023-10-23T12:32:21.2274943-04:00",
         "Update": "2023-11-27T09:23:42.4497275-05:00",
         "Label": "Auriculares Asus ROG Fusion II 300 Gaming"
-      },
-      {
-        "Price": 125.00,
-        "Features": [
-          "Noise Control",
-          "20Hz-30KHz",
-          "50mm",
-          "7.1",
-          "16H",
-          "iCUE",
-          "Inalámbrico",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-09-23T14:08:54.0159291-04:00",
-        "Update": "2023-12-08T14:08:33.4767149-05:00",
-        "Label": "Auriculares Corsair VOID RGB Elite Wireless White"
       },
       {
         "Price": 67.00,
