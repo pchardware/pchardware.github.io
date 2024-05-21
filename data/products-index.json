@@ -3793,25 +3793,6 @@
         "Label": "Micro Intel Core i5-12400F +Disipador"
       },
       {
-        "Price": 109.00,
-        "Features": [
-          "Radeon Graphics",
-          "AM4",
-          "8 Hilos",
-          "4 Core",
-          "4.2GHz",
-          "8MB L3",
-          "65W",
-          "12896pm",
-          "DDR4",
-          "Serie5000",
-          "CPU"
-        ],
-        "Date": "2023-12-28T22:14:48.5974394-05:00",
-        "Update": "2024-05-19T21:05:41.6737538-04:00",
-        "Label": "Micro AMD Ryzen 3 5300G +Disipador"
-      },
-      {
         "Price": 235.00,
         "Features": [
           "13Gen",
@@ -3844,6 +3825,25 @@
         "Date": "2024-01-17T02:39:13.7412454-05:00",
         "Update": "2024-05-19T21:05:41.7376988-04:00",
         "Label": "Micro Intel Core i3-12100F +Disipador"
+      },
+      {
+        "Price": 109.00,
+        "Features": [
+          "Radeon Graphics",
+          "AM4",
+          "8 Hilos",
+          "4 Core",
+          "4.2GHz",
+          "8MB L3",
+          "65W",
+          "12896pm",
+          "DDR4",
+          "Serie5000",
+          "CPU"
+        ],
+        "Date": "2023-12-28T22:14:48.5974394-05:00",
+        "Update": "2024-05-21T09:40:34.2453728-04:00",
+        "Label": "Micro AMD Ryzen 3 5300G +Disipador"
       }
     ]
   },
