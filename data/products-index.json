@@ -2,7 +2,7 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 2033.00,
+        "Price": 2029.00,
         "Features": [],
         "Date": "2024-04-20T10:42:06.0831707-04:00",
         "Update": "2024-05-04T08:26:33.8073761-04:00",
@@ -10,7 +10,7 @@
         "Label": "PC RTX 4060 Ti 8GB +Core i7-12700K +Z790 Eagle AX +32GB DDR5 +512GB M.2 +27\""
       },
       {
-        "Price": 2344.00,
+        "Price": 2341.00,
         "Features": [],
         "Date": "2024-04-19T09:30:33.0428038-04:00",
         "Update": "2024-05-04T08:26:34.0490589-04:00",
@@ -18,7 +18,7 @@
         "Label": "PC i9-14900K +Strix Z790-F Gaming Wifi +64GB DDR5 +1TB M.2 +2TB HDD +850W +27\""
       },
       {
-        "Price": 2953.00,
+        "Price": 2950.00,
         "Features": [],
         "Date": "2024-05-13T07:45:34.4854167-04:00",
         "Update": "2024-05-13T09:12:06.5921421-04:00",
@@ -26,7 +26,7 @@
         "Label": "PC RTX 4070 Super Master +i9-12900K +Liquida +TUF Z690-Plus Wifi +64GB DDR5 +2TB M.2 + Thor 850W +27\""
       },
       {
-        "Price": 1464.00,
+        "Price": 1459.00,
         "Features": [],
         "Date": "2024-03-16T03:23:44.5153672-04:00",
         "Update": "2024-05-14T08:04:23.728329-04:00",
@@ -34,7 +34,7 @@
         "Label": "PC RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +AOC 24\""
       },
       {
-        "Price": 1774.00,
+        "Price": 1768.00,
         "Features": [],
         "Date": "2024-03-16T03:24:24.1080741-04:00",
         "Update": "2024-05-16T09:40:37.917513-04:00",
@@ -45,7 +45,7 @@
     ],
     "Multimedia": [
       {
-        "Price": 914.00,
+        "Price": 910.00,
         "Features": [],
         "Date": "2024-04-27T05:48:56.699818-04:00",
         "Update": "2024-05-04T08:26:33.9071219-04:00",
@@ -53,7 +53,7 @@
         "Label": "PC i3-14100 +B760M PRO RS +16 DDR4 +512GB M.2 +500W +Chasis RGB +MSI 25\""
       },
       {
-        "Price": 948.00,
+        "Price": 947.00,
         "Features": [],
         "Date": "2024-05-13T06:53:32.8200031-04:00",
         "Update": "2024-05-13T07:30:59.2128344-04:00",
@@ -65,7 +65,7 @@
   "Torres": {
     "Gamer": [
       {
-        "Price": 1344.00,
+        "Price": 1341.00,
         "Features": [],
         "Date": "2024-04-14T10:24:42.6082746-04:00",
         "Update": "2024-05-04T08:26:33.8677412-04:00",
@@ -73,7 +73,7 @@
         "Label": "Torre RTX 4060 Gaming OC 8GB +i5-12600KF +Z790 Eagle AX +32GB DDR5 +850W"
       },
       {
-        "Price": 1904.00,
+        "Price": 1903.00,
         "Features": [],
         "Date": "2024-04-27T07:51:59.1867818-04:00",
         "Update": "2024-05-04T08:26:33.9274831-04:00",
@@ -81,7 +81,7 @@
         "Label": "Torre RTX 4060 Ti 3X 8GB +i7-12700K +MEG Z690 ACE +32GB DDR5 +850W +Chasis RGB"
       },
       {
-        "Price": 1119.00,
+        "Price": 1116.00,
         "Features": [],
         "Date": "2024-03-11T10:53:00.3667551-04:00",
         "Update": "2024-05-14T08:04:23.6942904-04:00",
@@ -89,7 +89,7 @@
         "Label": "Torre RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +750W"
       },
       {
-        "Price": 1014.00,
+        "Price": 1011.00,
         "Features": [],
         "Date": "2024-04-23T06:10:18.6626968-04:00",
         "Update": "2024-05-14T08:04:23.7577096-04:00",
@@ -97,7 +97,7 @@
         "Label": "Torre RX 6600 8GB +i3-14100F +B760M PRO RS +32GB DDR5 +512 M.2 +750W +Chasis RGB"
       },
       {
-        "Price": 1348.00,
+        "Price": 1343.00,
         "Features": [],
         "Date": "2024-03-01T09:14:28.6647646-05:00",
         "Update": "2024-05-16T09:40:37.8985796-04:00",
@@ -108,7 +108,7 @@
     ],
     "Multimedia": [
       {
-        "Price": 654.00,
+        "Price": 651.00,
         "Features": [],
         "Date": "2024-04-27T04:41:03.137563-04:00",
         "Update": "2024-05-04T08:26:33.8874966-04:00",
@@ -116,7 +116,7 @@
         "Label": "Torre i3-14100 +Gigabyte B760M DS3H +16GB DDR4 +500GB M.2 +500W +Chasis RGB"
       },
       {
-        "Price": 719.00,
+        "Price": 717.00,
         "Features": [],
         "Date": "2024-04-29T08:50:52.710014-04:00",
         "Update": "2024-05-04T08:26:33.960405-04:00",
@@ -124,7 +124,7 @@
         "Label": "Torre i3-14100 +B760M PRO RS +16GB RAM 3600Mhz +500GB M.2 Corsair+ CORSAIR CX550 550W"
       },
       {
-        "Price": 869.00,
+        "Price": 866.00,
         "Features": [],
         "Date": "2024-05-04T08:28:34.7719769-04:00",
         "Update": "2024-05-04T08:40:27.7779213-04:00",
@@ -132,7 +132,7 @@
         "Label": "Torre i5-12400 +Z690 EXTREME +16GB DDR4 +500GB M.2 +EVGA 850W +Chasis RGB Black"
       },
       {
-        "Price": 819.00,
+        "Price": 818.00,
         "Features": [],
         "Date": "2024-05-13T08:28:37.7031053-04:00",
         "Update": "2024-05-13T09:12:06.6248212-04:00",
@@ -142,7 +142,7 @@
     ],
     "Pro": [
       {
-        "Price": 1859.00,
+        "Price": 1857.00,
         "Features": [],
         "Date": "2024-04-14T11:06:43.2322357-04:00",
         "Update": "2024-05-04T08:26:34.0254561-04:00",
@@ -152,7 +152,7 @@
     ],
     "Entusiasta": [
       {
-        "Price": 3074.00,
+        "Price": 3069.00,
         "Features": [],
         "Date": "2024-04-24T03:52:55.4140473-04:00",
         "Update": "2024-05-04T08:26:34.0673275-04:00",
@@ -311,7 +311,7 @@
         "Label": "Kit i9-12900K + MSI MEG Z690 ACE Potencia y estilo en un solo combo"
       },
       {
-        "Price": 549.00,
+        "Price": 546.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -329,7 +329,7 @@
         "Label": "Kit i5-12600K +Hyper 212 Spectrum V3 +Z690 AERO G DDR4 +16GB DDR4 3200mhz"
       },
       {
-        "Price": 494.00,
+        "Price": 493.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -363,7 +363,7 @@
         "Label": "Kit i7-14700K +MSI MPG Z790 EDGE Wifi + 64GB DDR5 G.Skill Trident Z5 RGB 6000mhz"
       },
       {
-        "Price": 1209.00,
+        "Price": 1208.00,
         "Features": [
           "14-Gen",
           "20 Core",
@@ -400,7 +400,7 @@
         "Label": "Kit i9-14900K +Strix Z790-F Gaming +64GB DDR5 G.Skill Trident Z5 RGB 6400mhz"
       },
       {
-        "Price": 1489.00,
+        "Price": 1488.00,
         "Features": [
           "14Gen",
           "24 Core",
@@ -437,7 +437,7 @@
     ],
     "Esencial": [
       {
-        "Price": 359.00,
+        "Price": 357.00,
         "Features": [
           "8 Hilos",
           "4 Core",
@@ -455,7 +455,7 @@
         "Label": "Kit i3-14100 +Gigabyte B760M DS3H +16GB DDR4 Team T-Force Vulcan Z 3200mhz"
       },
       {
-        "Price": 344.00,
+        "Price": 343.00,
         "Features": [
           "8 Hilos",
           "4 Core",
@@ -491,7 +491,7 @@
         "Label": "Kit Ryzen 3 5300G +Gigabyte X570S Gaming X +16GB RAM DDR4 GeIL ORION RGB 3600mhz"
       },
       {
-        "Price": 314.00,
+        "Price": 313.00,
         "Features": [
           "8 Hilos",
           "4 Core",
@@ -508,7 +508,7 @@
         "Label": "Kit i3-14100F +Gigabyte B760M DS3H +8GB DDR4 Team T-Force Vulcan Z 8GB 3200mhz"
       },
       {
-        "Price": 339.00,
+        "Price": 338.00,
         "Features": [
           "8 Hilos",
           "4 Core",
@@ -529,7 +529,7 @@
     ],
     "Moderado": [
       {
-        "Price": 479.00,
+        "Price": 478.00,
         "Features": [
           "12 Hilos",
           "6 Core",
@@ -593,7 +593,7 @@
         "Label": "Fuente Apevia Spirit 600W"
       },
       {
-        "Price": 80.00,
+        "Price": 79.00,
         "Features": [
           "35A",
           "80+",
@@ -609,7 +609,7 @@
         "Label": "Fuente Thermaltake SMART 500W"
       },
       {
-        "Price": 260.00,
+        "Price": 259.00,
         "Features": [
           "71A",
           "80+ PLATINUM",
@@ -699,7 +699,7 @@
         "Label": "Fuente Corsair RM1000e 1000W"
       },
       {
-        "Price": 350.00,
+        "Price": 349.00,
         "Features": [
           "125A",
           "80+ PLATINUM",
@@ -716,7 +716,7 @@
         "Label": "Fuente Corsair HX1500i 1500W"
       },
       {
-        "Price": 160.00,
+        "Price": 159.00,
         "Features": [
           "ATX 3.0",
           "80+ Bronze",
@@ -736,7 +736,7 @@
         "Label": "Fuente Thermaltake Smart BM3 850W"
       },
       {
-        "Price": 160.00,
+        "Price": 159.00,
         "Features": [
           "80+ Bronze",
           "Modular",
@@ -754,7 +754,7 @@
         "Label": "Fuente EVGA 850 BQ 850W"
       },
       {
-        "Price": 230.00,
+        "Price": 229.00,
         "Features": [
           "ATX 3.0",
           "83A",
@@ -773,7 +773,7 @@
         "Label": "Fuente EVGA SuperNova 1000G XC 1000W"
       },
       {
-        "Price": 240.00,
+        "Price": 239.00,
         "Features": [
           "80+ Gold",
           "Full Modular",
@@ -825,7 +825,7 @@
         "Label": "Fuente Corsair CX550 550W"
       },
       {
-        "Price": 150.00,
+        "Price": 149.00,
         "Features": [
           "63A",
           "80+ Platinum",
@@ -875,7 +875,7 @@
         "Label": "Fuente EVGA 400 N1 400W"
       },
       {
-        "Price": 140.00,
+        "Price": 139.00,
         "Features": [
           "Modular",
           "2x 4+4 EPS",
@@ -912,7 +912,7 @@
         "Label": "Fuente MSI MAG A750BN 750W"
       },
       {
-        "Price": 180.00,
+        "Price": 179.00,
         "Features": [
           "ATX 3.0",
           "70A",
@@ -932,7 +932,7 @@
         "Label": "Fuente MSI MAG A850GL 850W"
       },
       {
-        "Price": 210.00,
+        "Price": 209.00,
         "Features": [
           "ATX 3.0",
           "80+ Gold",
@@ -1041,7 +1041,7 @@
         "Label": "Kit Líquido Thermaltake Pacific C360 Ddc"
       },
       {
-        "Price": 240.00,
+        "Price": 239.00,
         "Features": [
           "2500rpm",
           "81cfm",
@@ -1122,7 +1122,7 @@
         "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce X 240"
       },
       {
-        "Price": 250.00,
+        "Price": 249.00,
         "Features": [
           "2200rpm",
           "71cfm",
@@ -1175,7 +1175,7 @@
         "Label": "Disipador Líquido Asus TUF Gaming LC II 360 ARGB"
       },
       {
-        "Price": 150.00,
+        "Price": 149.00,
         "Features": [
           "2000rpm",
           "67cfm",
@@ -1235,7 +1235,7 @@
         "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce II 240 G2"
       },
       {
-        "Price": 230.00,
+        "Price": 229.00,
         "Features": [
           "3xFan",
           "1500rpm",
@@ -1270,7 +1270,7 @@
         "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce 360"
       },
       {
-        "Price": 230.00,
+        "Price": 229.00,
         "Features": [
           "3xFan",
           "2150rpm",
@@ -1291,7 +1291,7 @@
         "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce II 360 G2"
       },
       {
-        "Price": 190.00,
+        "Price": 189.00,
         "Features": [
           "2xFan",
           "2500rpm",
@@ -1372,7 +1372,7 @@
     ],
     "Disco Duro": [
       {
-        "Price": 30.00,
+        "Price": 29.00,
         "Features": [
           "Enterprise",
           "7200rpm",
@@ -1396,7 +1396,7 @@
         "Label": "HDD 3.5 Seagate Pipeline 2TB"
       },
       {
-        "Price": 220.00,
+        "Price": 219.00,
         "Features": [
           "256mb",
           "7200rpm",
@@ -1420,7 +1420,7 @@
         "Label": "HDD 3.5 Seagate Exos X14 12TB"
       },
       {
-        "Price": 90.00,
+        "Price": 89.00,
         "Features": [
           "5900rpm",
           "64mb",
@@ -1774,7 +1774,7 @@
         "Label": "Disipador Intel Generic Plus"
       },
       {
-        "Price": 50.00,
+        "Price": 49.00,
         "Features": [
           "ARGB",
           "4xPipes",
@@ -1813,7 +1813,7 @@
         "Label": "Disipador Intel Stock Original"
       },
       {
-        "Price": 90.00,
+        "Price": 89.00,
         "Features": [
           "ARGB",
           "Dual Tower",
@@ -1830,7 +1830,7 @@
         "Label": "Disipador Cooler Master Hyper 620S Dual"
       },
       {
-        "Price": 60.00,
+        "Price": 59.00,
         "Features": [
           "ARGB",
           "4 Head Pipes",
@@ -1931,7 +1931,7 @@
         "Label": "Disipador Noctua NH-D15 Chromax Black"
       },
       {
-        "Price": 120.00,
+        "Price": 119.00,
         "Features": [
           "1700rpm",
           "25.1dB",
@@ -1949,7 +1949,7 @@
     ],
     "Memoria RAM": [
       {
-        "Price": 130.00,
+        "Price": 129.00,
         "Features": [
           "2x16GB",
           "CL36",
@@ -1961,7 +1961,7 @@
         "Label": "RAM DDR5 Corsair Vengenance RGB 32GB 6000mhz White"
       },
       {
-        "Price": 30.00,
+        "Price": 29.00,
         "Features": [
           "1x8GB",
           "CL16",
@@ -1983,7 +1983,7 @@
         "Label": "RAM DDR4 Crucial Pro 64GB 3200mhz"
       },
       {
-        "Price": 90.00,
+        "Price": 89.00,
         "Features": [
           "2x8",
           "CL18",
@@ -1994,7 +1994,7 @@
         "Label": "RAM DDR4 Corsair Dominator Platinum RGB 16GB 3600mhz White"
       },
       {
-        "Price": 90.00,
+        "Price": 85.00,
         "Features": [
           "2x16",
           "CL18",
@@ -2071,7 +2071,7 @@
         "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 4400mhz"
       },
       {
-        "Price": 150.00,
+        "Price": 149.00,
         "Features": [
           "2x16GB",
           "CL36",
@@ -2082,7 +2082,7 @@
         "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 7000mhz"
       },
       {
-        "Price": 120.00,
+        "Price": 119.00,
         "Features": [
           "2x16GB",
           "CL18",
@@ -2116,7 +2116,7 @@
         "Label": "RAM DDR4 Kingston HyperX Fury RGB 8GB 3000mhz"
       },
       {
-        "Price": 140.00,
+        "Price": 139.00,
         "Features": [
           "2x16GB",
           "CL32",
@@ -2138,7 +2138,7 @@
         "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 3600mhz"
       },
       {
-        "Price": 40.00,
+        "Price": 39.00,
         "Features": [
           "1x8GB",
           "CL16",
@@ -2160,7 +2160,7 @@
         "Label": "RAM DDR5 G.Skill Ripjaws S5 16GB 6000mhz"
       },
       {
-        "Price": 100.00,
+        "Price": 99.00,
         "Features": [
           "2x16GB",
           "CL40",
@@ -2193,7 +2193,7 @@
         "Label": "RAM DDR4 G.Skill Ripjaws V 32GB 4000mhz"
       },
       {
-        "Price": 80.00,
+        "Price": 79.00,
         "Features": [
           "2x8GB",
           "CL18",
@@ -2204,7 +2204,7 @@
         "Label": "RAM DDR4 G.Skill TridentZ RGB 16GB 3600mhz"
       },
       {
-        "Price": 70.00,
+        "Price": 69.00,
         "Features": [
           "2x8GB",
           "CL16",
@@ -2248,7 +2248,7 @@
         "Label": "RAM DDR5 Gigabyte Aorus RGB 32GB 6000mhz"
       },
       {
-        "Price": 60.00,
+        "Price": 59.00,
         "Features": [
           "1x16GB",
           "CL40",
@@ -2320,7 +2320,7 @@
         "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
       },
       {
-        "Price": 230.00,
+        "Price": 229.00,
         "Features": [
           "Tempered Glass",
           "Gamer",
@@ -2368,7 +2368,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Gaming OC 8GB"
       },
       {
-        "Price": 450.00,
+        "Price": 449.00,
         "Features": [
           "Liquida",
           "2x8Pin",
@@ -2449,7 +2449,7 @@
         "Label": "Tarjeta de Video Asus TUF Gaming RX 7800 XT OC 16GB"
       },
       {
-        "Price": 370.00,
+        "Price": 369.00,
         "Features": [
           "DLSS3",
           "2xfan",
@@ -2482,7 +2482,7 @@
         "Label": "Tarjeta de Video MSI Ventus RTX 4060 Ti 3X 8GB"
       },
       {
-        "Price": 370.00,
+        "Price": 369.00,
         "Features": [
           "DLSS3",
           "2xfan",
@@ -2498,7 +2498,7 @@
         "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X Black OC 8GB"
       },
       {
-        "Price": 840.00,
+        "Price": 839.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2515,7 +2515,7 @@
         "Label": "Tarjeta de Video Gigabyte Aorus RTX 4070 Super Master 12GB"
       },
       {
-        "Price": 990.00,
+        "Price": 989.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2532,7 +2532,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Super Gaming OC 16GB"
       },
       {
-        "Price": 810.00,
+        "Price": 809.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2600,7 +2600,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 3070 Gaming OC 8GB"
       },
       {
-        "Price": 380.00,
+        "Price": 379.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -2617,7 +2617,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Eagle OC 8GB"
       },
       {
-        "Price": 300.00,
+        "Price": 299.00,
         "Features": [
           "2xFan",
           "1x8Pin",
@@ -2683,7 +2683,7 @@
         "Label": "Tarjeta de Video Asus ProArt RTX 4060 OC 8GB"
       },
       {
-        "Price": 700.00,
+        "Price": 699.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2717,7 +2717,7 @@
         "Label": "Tarjeta de Video MSI RTX 3050 Gaming X 6GB"
       },
       {
-        "Price": 480.00,
+        "Price": 479.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -2734,7 +2734,7 @@
         "Label": "Tarjeta de Video Asus ROG Strix RTX 4060 OC 8GB"
       },
       {
-        "Price": 480.00,
+        "Price": 479.00,
         "Features": [
           "3xFan",
           "2x8Pin",
@@ -2750,7 +2750,7 @@
         "Label": "Tarjeta de Video XFX Speedster SWFT 319 RX 6800 16GB"
       },
       {
-        "Price": 660.00,
+        "Price": 659.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2786,7 +2786,7 @@
         "Label": "Tarjeta de Video Asus TUF RTX 4060 Ti 8GB OC"
       },
       {
-        "Price": 290.00,
+        "Price": 289.00,
         "Features": [
           "2xFan",
           "500WR",
@@ -2817,7 +2817,7 @@
         "Label": "Tarjeta de Video Asus Dual RTX 3050 6GB OC"
       },
       {
-        "Price": 990.00,
+        "Price": 989.00,
         "Features": [
           "3xFan",
           "DLSS3",
@@ -2872,7 +2872,7 @@
         "Label": "Tarjeta de Video Zotac Gaming RTX 3060 Twin Edge 12GB OC"
       },
       {
-        "Price": 740.00,
+        "Price": 739.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -2921,7 +2921,7 @@
         "Label": "SSD M.2 MSI SPatium M371 1TB"
       },
       {
-        "Price": 70.00,
+        "Price": 69.00,
         "Features": [
           "3500mbs",
           "600TBW",
@@ -2933,7 +2933,7 @@
         "Label": "SSD M.2 TeamGroup T-Force Z44L 1TB"
       },
       {
-        "Price": 60.00,
+        "Price": 59.00,
         "Features": [
           "540mbs",
           "400TBW",
@@ -2944,7 +2944,7 @@
         "Label": "SSD 2.5 Team Group T-FORCE VULCAN Z 480GB"
       },
       {
-        "Price": 50.00,
+        "Price": 49.00,
         "Features": [
           "3500mbs",
           "200TBW",
@@ -2993,7 +2993,7 @@
         "Label": "SSD M.2 HP EX900 500GB"
       },
       {
-        "Price": 60.00,
+        "Price": 59.00,
         "Features": [
           "2400mbs",
           "80TBW",
@@ -3029,7 +3029,7 @@
         "Label": "SSD M.2 AData Legend 850 1TB"
       },
       {
-        "Price": 80.00,
+        "Price": 79.00,
         "Features": [
           "5000mbs",
           "600TBW",
@@ -3041,7 +3041,7 @@
         "Label": "SSD M.2 Team Group MP44L 1TB"
       },
       {
-        "Price": 60.00,
+        "Price": 59.00,
         "Features": [
           "4800mbs",
           "300TBW",
@@ -3053,7 +3053,7 @@
         "Label": "SSD M.2 Corsair MP600 GS 500GB"
       },
       {
-        "Price": 70.00,
+        "Price": 69.00,
         "Features": [
           "7400mbs",
           "300BTW",
@@ -3065,7 +3065,7 @@
         "Label": "SSD M.2 HP FX900 Pro 512GB"
       },
       {
-        "Price": 130.00,
+        "Price": 129.00,
         "Features": [
           "3200mbs",
           "100TBW",
@@ -3089,7 +3089,7 @@
         "Label": "SSD M.2 Samsung 980 1TB"
       },
       {
-        "Price": 140.00,
+        "Price": 139.00,
         "Features": [
           "4150mbs",
           "900TBW",
@@ -3124,7 +3124,7 @@
         "Label": "SSD M.2 Team Group MP44 1TB"
       },
       {
-        "Price": 80.00,
+        "Price": 79.00,
         "Features": [
           "7100mbs",
           "350TBW",
@@ -3137,7 +3137,7 @@
         "Label": "SSD M.2 Corsair MP600 PRO LPX 500GB"
       },
       {
-        "Price": 100.00,
+        "Price": 99.00,
         "Features": [
           "7100mbs",
           "700TBW",
@@ -3881,7 +3881,7 @@
         "Label": "Teclado Asus TUF Gaming K1"
       },
       {
-        "Price": 100.00,
+        "Price": 99.00,
         "Features": [
           "Membrana",
           "RGB",
@@ -3917,7 +3917,7 @@
         "Label": "Teclado Razer Huntsman Mini 60%"
       },
       {
-        "Price": 80.00,
+        "Price": 79.00,
         "Features": [
           "60%",
           "Mecánico",
@@ -3954,7 +3954,7 @@
         "Label": "PBT Backlit Keycap Upgrade Set White"
       },
       {
-        "Price": 100.00,
+        "Price": 99.00,
         "Features": [
           "65%",
           "Mecánico",
@@ -3968,7 +3968,7 @@
         "Label": "Teclado Cooler Master CK721"
       },
       {
-        "Price": 80.00,
+        "Price": 79.00,
         "Features": [
           "60%",
           "Mecánico",
@@ -3982,7 +3982,7 @@
         "Label": "Teclado Cooler Master SK622 Gray"
       },
       {
-        "Price": 90.00,
+        "Price": 89.00,
         "Features": [
           "Mecánico",
           "Gaming",
@@ -4205,7 +4205,7 @@
     ],
     "Webcam": [
       {
-        "Price": 67.00,
+        "Price": 63.00,
         "Features": [
           "1080p",
           "Auto Foco",
@@ -4217,7 +4217,7 @@
         "Label": "Webcam Microsoft LifeCam Studio"
       },
       {
-        "Price": 90.00,
+        "Price": 89.00,
         "Features": [
           "1080p",
           "Auto Foco",
@@ -4230,7 +4230,7 @@
         "Label": "Webcam Logitech C920e Pro HD"
       },
       {
-        "Price": 56.00,
+        "Price": 55.00,
         "Features": [
           "1.2MP",
           "720p",
@@ -4268,7 +4268,7 @@
         "Label": "WebCam Logitech C310"
       },
       {
-        "Price": 49.00,
+        "Price": 47.00,
         "Features": [
           "0.9MP",
           "720p",
@@ -4287,7 +4287,7 @@
         "Label": "Webcam Logitech C270 HD"
       },
       {
-        "Price": 53.00,
+        "Price": 49.00,
         "Features": [
           "0.9MP",
           "720p",
@@ -4322,7 +4322,7 @@
         "Label": "Mouse Razer Viper Mini"
       },
       {
-        "Price": 90.00,
+        "Price": 89.00,
         "Features": [
           "25600dpi",
           "Inalámbrico",
@@ -4339,7 +4339,7 @@
         "Label": "Mouse Logitech G703 Lightspeed"
       },
       {
-        "Price": 90.00,
+        "Price": 89.00,
         "Features": [
           "Wifi",
           "Bluetooth",
@@ -4384,7 +4384,7 @@
         "Label": "Mouse Logitech G402 Hyperion Fury Black"
       },
       {
-        "Price": 40.00,
+        "Price": 39.00,
         "Features": [
           "Inalámbrico",
           "16000dpi",
@@ -4492,7 +4492,7 @@
         "Label": "Mouse Pad Asus ROG Sheath Extended"
       },
       {
-        "Price": 50.00,
+        "Price": 49.00,
         "Features": [
           "930×300mm",
           "3mm",
