@@ -18,7 +18,7 @@
         "Label": "PC i9-14900K +Strix Z790-F Gaming Wifi +64GB DDR5 +1TB M.2 +2TB HDD +850W +27\""
       },
       {
-        "Price": 2954.00,
+        "Price": 2953.00,
         "Features": [],
         "Date": "2024-05-13T07:45:34.4854167-04:00",
         "Update": "2024-05-13T09:12:06.5921421-04:00",
@@ -26,7 +26,7 @@
         "Label": "PC RTX 4070 Super Master +i9-12900K +Liquida +TUF Z690-Plus Wifi +64GB DDR5 +2TB M.2 + Thor 850W +27\""
       },
       {
-        "Price": 1469.00,
+        "Price": 1464.00,
         "Features": [],
         "Date": "2024-03-16T03:23:44.5153672-04:00",
         "Update": "2024-05-14T08:04:23.728329-04:00",
@@ -34,7 +34,7 @@
         "Label": "PC RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +AOC 24\""
       },
       {
-        "Price": 1775.00,
+        "Price": 1774.00,
         "Features": [],
         "Date": "2024-03-16T03:24:24.1080741-04:00",
         "Update": "2024-05-16T09:40:37.917513-04:00",
@@ -53,7 +53,7 @@
         "Label": "PC i3-14100 +B760M PRO RS +16 DDR4 +512GB M.2 +500W +Chasis RGB +MSI 25\""
       },
       {
-        "Price": 953.00,
+        "Price": 948.00,
         "Features": [],
         "Date": "2024-05-13T06:53:32.8200031-04:00",
         "Update": "2024-05-13T07:30:59.2128344-04:00",
@@ -81,7 +81,7 @@
         "Label": "Torre RTX 4060 Ti 3X 8GB +i7-12700K +MEG Z690 ACE +32GB DDR5 +850W +Chasis RGB"
       },
       {
-        "Price": 1124.00,
+        "Price": 1119.00,
         "Features": [],
         "Date": "2024-03-11T10:53:00.3667551-04:00",
         "Update": "2024-05-14T08:04:23.6942904-04:00",
@@ -97,7 +97,7 @@
         "Label": "Torre RX 6600 8GB +i3-14100F +B760M PRO RS +32GB DDR5 +512 M.2 +750W +Chasis RGB"
       },
       {
-        "Price": 1349.00,
+        "Price": 1348.00,
         "Features": [],
         "Date": "2024-03-01T09:14:28.6647646-05:00",
         "Update": "2024-05-16T09:40:37.8985796-04:00",
@@ -108,7 +108,7 @@
     ],
     "Multimedia": [
       {
-        "Price": 659.00,
+        "Price": 654.00,
         "Features": [],
         "Date": "2024-04-27T04:41:03.137563-04:00",
         "Update": "2024-05-04T08:26:33.8874966-04:00",
@@ -124,7 +124,7 @@
         "Label": "Torre i3-14100 +B760M PRO RS +16GB RAM 3600Mhz +500GB M.2 Corsair+ CORSAIR CX550 550W"
       },
       {
-        "Price": 874.00,
+        "Price": 869.00,
         "Features": [],
         "Date": "2024-05-04T08:28:34.7719769-04:00",
         "Update": "2024-05-04T08:40:27.7779213-04:00",
@@ -132,7 +132,7 @@
         "Label": "Torre i5-12400 +Z690 EXTREME +16GB DDR4 +500GB M.2 +EVGA 850W +Chasis RGB Black"
       },
       {
-        "Price": 824.00,
+        "Price": 819.00,
         "Features": [],
         "Date": "2024-05-13T08:28:37.7031053-04:00",
         "Update": "2024-05-13T09:12:06.6248212-04:00",
@@ -196,7 +196,7 @@
         "Label": "Kit i7-12700K +Asus ROG Strix Z690-E Gaming Wifi"
       },
       {
-        "Price": 399.00,
+        "Price": 398.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -212,7 +212,7 @@
         "Label": "Kit i5-12600KF +Asus TUF Z690-Plus Wifi"
       },
       {
-        "Price": 429.00,
+        "Price": 428.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -437,7 +437,7 @@
     ],
     "Esencial": [
       {
-        "Price": 364.00,
+        "Price": 359.00,
         "Features": [
           "8 Hilos",
           "4 Core",
@@ -472,7 +472,7 @@
         "Label": "Kit i3-14100 +ASRock B760M PRO RS +8GB RAM DDR4 Team T-Force Vulcan Z 3200mhz"
       },
       {
-        "Price": 379.00,
+        "Price": 374.00,
         "Features": [
           "8 Hilos",
           "4 Core",
@@ -491,7 +491,7 @@
         "Label": "Kit Ryzen 3 5300G +Gigabyte X570S Gaming X +16GB RAM DDR4 GeIL ORION RGB 3600mhz"
       },
       {
-        "Price": 319.00,
+        "Price": 314.00,
         "Features": [
           "8 Hilos",
           "4 Core",
@@ -508,7 +508,7 @@
         "Label": "Kit i3-14100F +Gigabyte B760M DS3H +8GB DDR4 Team T-Force Vulcan Z 8GB 3200mhz"
       },
       {
-        "Price": 344.00,
+        "Price": 339.00,
         "Features": [
           "8 Hilos",
           "4 Core",
@@ -529,7 +529,7 @@
     ],
     "Moderado": [
       {
-        "Price": 484.00,
+        "Price": 479.00,
         "Features": [
           "12 Hilos",
           "6 Core",
@@ -3298,7 +3298,7 @@
         "Label": "Board Gigabyte Z790 Aorus Elite AX ICE"
       },
       {
-        "Price": 210.00,
+        "Price": 205.00,
         "Features": [
           "AM4",
           "DDR4",
@@ -3339,7 +3339,7 @@
         "Label": "Board MSI Z790 Gaming Pro Wifi"
       },
       {
-        "Price": 230.00,
+        "Price": 229.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "DDR5",
@@ -3403,7 +3403,7 @@
         "Label": "Board Gigabyte Z790 Eagle AX"
       },
       {
-        "Price": 150.00,
+        "Price": 145.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "DDR4",
@@ -3485,7 +3485,7 @@
         "Label": "Board Gigabyte Z690 AERO G DDR4"
       },
       {
-        "Price": 220.00,
+        "Price": 215.00,
         "Features": [
           "12va-13ra-14ta",
           "DDR4",
