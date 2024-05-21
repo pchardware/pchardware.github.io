@@ -26,7 +26,7 @@
         "Label": "PC RTX 4070 Super Master +i9-12900K +Liquida +TUF Z690-Plus Wifi +64GB DDR5 +2TB M.2 + Thor 850W +27\""
       },
       {
-        "Price": 1479.00,
+        "Price": 1469.00,
         "Features": [],
         "Date": "2024-03-16T03:23:44.5153672-04:00",
         "Update": "2024-05-14T08:04:23.728329-04:00",
@@ -34,7 +34,7 @@
         "Label": "PC RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +AOC 24\""
       },
       {
-        "Price": 1785.00,
+        "Price": 1775.00,
         "Features": [],
         "Date": "2024-03-16T03:24:24.1080741-04:00",
         "Update": "2024-05-16T09:40:37.917513-04:00",
@@ -45,7 +45,7 @@
     ],
     "Multimedia": [
       {
-        "Price": 920.00,
+        "Price": 914.00,
         "Features": [],
         "Date": "2024-04-27T05:48:56.699818-04:00",
         "Update": "2024-05-04T08:26:33.9071219-04:00",
@@ -65,7 +65,7 @@
   "Torres": {
     "Gamer": [
       {
-        "Price": 1354.00,
+        "Price": 1344.00,
         "Features": [],
         "Date": "2024-04-14T10:24:42.6082746-04:00",
         "Update": "2024-05-04T08:26:33.8677412-04:00",
@@ -81,7 +81,7 @@
         "Label": "Torre RTX 4060 Ti 3X 8GB +i7-12700K +MEG Z690 ACE +32GB DDR5 +850W +Chasis RGB"
       },
       {
-        "Price": 1134.00,
+        "Price": 1124.00,
         "Features": [],
         "Date": "2024-03-11T10:53:00.3667551-04:00",
         "Update": "2024-05-14T08:04:23.6942904-04:00",
@@ -97,7 +97,7 @@
         "Label": "Torre RX 6600 8GB +i3-14100F +B760M PRO RS +32GB DDR5 +512 M.2 +750W +Chasis RGB"
       },
       {
-        "Price": 1359.00,
+        "Price": 1349.00,
         "Features": [],
         "Date": "2024-03-01T09:14:28.6647646-05:00",
         "Update": "2024-05-16T09:40:37.8985796-04:00",
@@ -108,7 +108,7 @@
     ],
     "Multimedia": [
       {
-        "Price": 665.00,
+        "Price": 659.00,
         "Features": [],
         "Date": "2024-04-27T04:41:03.137563-04:00",
         "Update": "2024-05-04T08:26:33.8874966-04:00",
@@ -116,7 +116,7 @@
         "Label": "Torre i3-14100 +Gigabyte B760M DS3H +16GB DDR4 +500GB M.2 +500W +Chasis RGB"
       },
       {
-        "Price": 725.00,
+        "Price": 719.00,
         "Features": [],
         "Date": "2024-04-29T08:50:52.710014-04:00",
         "Update": "2024-05-04T08:26:33.960405-04:00",
@@ -124,7 +124,7 @@
         "Label": "Torre i3-14100 +B760M PRO RS +16GB RAM 3600Mhz +500GB M.2 Corsair+ CORSAIR CX550 550W"
       },
       {
-        "Price": 880.00,
+        "Price": 874.00,
         "Features": [],
         "Date": "2024-05-04T08:28:34.7719769-04:00",
         "Update": "2024-05-04T08:40:27.7779213-04:00",
@@ -132,7 +132,7 @@
         "Label": "Torre i5-12400 +Z690 EXTREME +16GB DDR4 +500GB M.2 +EVGA 850W +Chasis RGB Black"
       },
       {
-        "Price": 830.00,
+        "Price": 824.00,
         "Features": [],
         "Date": "2024-05-13T08:28:37.7031053-04:00",
         "Update": "2024-05-13T09:12:06.6248212-04:00",
@@ -164,7 +164,7 @@
   "Kits": {
     "Rendimiento": [
       {
-        "Price": 434.00,
+        "Price": 424.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -196,7 +196,7 @@
         "Label": "Kit i7-12700K +Asus ROG Strix Z690-E Gaming Wifi"
       },
       {
-        "Price": 409.00,
+        "Price": 399.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -212,7 +212,7 @@
         "Label": "Kit i5-12600KF +Asus TUF Z690-Plus Wifi"
       },
       {
-        "Price": 439.00,
+        "Price": 429.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -311,7 +311,7 @@
         "Label": "Kit i9-12900K + MSI MEG Z690 ACE Potencia y estilo en un solo combo"
       },
       {
-        "Price": 559.00,
+        "Price": 549.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -329,7 +329,7 @@
         "Label": "Kit i5-12600K +Hyper 212 Spectrum V3 +Z690 AERO G DDR4 +16GB DDR4 3200mhz"
       },
       {
-        "Price": 504.00,
+        "Price": 494.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -437,7 +437,7 @@
     ],
     "Esencial": [
       {
-        "Price": 370.00,
+        "Price": 364.00,
         "Features": [
           "8 Hilos",
           "4 Core",
@@ -455,7 +455,7 @@
         "Label": "Kit i3-14100 +Gigabyte B760M DS3H +16GB DDR4 Team T-Force Vulcan Z 3200mhz"
       },
       {
-        "Price": 350.00,
+        "Price": 344.00,
         "Features": [
           "8 Hilos",
           "4 Core",
@@ -529,7 +529,7 @@
     ],
     "Moderado": [
       {
-        "Price": 490.00,
+        "Price": 484.00,
         "Features": [
           "12 Hilos",
           "6 Core",
@@ -3617,7 +3617,7 @@
         "Label": "Micro Intel Core i9-12900K"
       },
       {
-        "Price": 209.00,
+        "Price": 199.00,
         "Features": [
           "12Gen",
           "16 Hilos",
@@ -3653,7 +3653,7 @@
         "Label": "Micro Intel Core i7-12700K"
       },
       {
-        "Price": 179.00,
+        "Price": 169.00,
         "Features": [
           "12Gen",
           "16 Hilos",
@@ -3671,7 +3671,7 @@
         "Label": "Micro Intel Core i5-12600KF"
       },
       {
-        "Price": 165.00,
+        "Price": 159.00,
         "Features": [
           "14Gen",
           "8 Hilos",
@@ -3742,7 +3742,7 @@
         "Label": "Micro Intel Core i9-14900K"
       },
       {
-        "Price": 195.00,
+        "Price": 189.00,
         "Features": [
           "12Gen",
           "12 Hilos",
