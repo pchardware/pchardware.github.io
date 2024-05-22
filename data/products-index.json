@@ -2482,22 +2482,6 @@
         "Label": "Tarjeta de Video MSI Ventus RTX 4060 Ti 3X 8GB"
       },
       {
-        "Price": 369.00,
-        "Features": [
-          "DLSS3",
-          "2xfan",
-          "1x8Pin",
-          "550WR",
-          "199mm",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-01-16T04:52:03.8982461-05:00",
-        "Update": "2024-04-10T12:11:14.7173749-04:00",
-        "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X Black OC 8GB"
-      },
-      {
         "Price": 839.00,
         "Features": [
           "DLSS3",
@@ -4166,23 +4150,6 @@
         "Date": "2023-10-23T12:32:21.2274943-04:00",
         "Update": "2023-11-27T09:23:42.4497275-05:00",
         "Label": "Auriculares Asus ROG Fusion II 300 Gaming"
-      },
-      {
-        "Price": 67.00,
-        "Features": [
-          "Inalámbrico",
-          "40mm",
-          "USB",
-          "18H",
-          "165g",
-          "Headset",
-          "Micrófono",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-07-09T16:45:46.4090102-04:00",
-        "Update": "2024-05-02T17:23:42.3787898-04:00",
-        "Label": "Auriculares Logitech G435 Lightspeed Wireless"
       }
     ],
     "Webcam": [
