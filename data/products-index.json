@@ -343,98 +343,6 @@
         "Label": "Kit Intel Core i5-12600K +Hyper 212 Spectrum V3 +Gigabyte Z690 AERO G DDR4"
       }
     ],
-    "Entusiasta": [
-      {
-        "Price": 1024.00,
-        "Features": [
-          "14-Gen",
-          "20 Core",
-          "28 Hilos",
-          "5.6Ghz",
-          "2x32GB",
-          "6000mhz",
-          "Wifi",
-          "8xUSB",
-          "7xSATA"
-        ],
-        "Date": "2024-04-13T04:14:40.5700212-04:00",
-        "Update": "2024-04-13T07:00:21.36106-04:00",
-        "Discount": 15.0,
-        "Label": "Kit i7-14700K +MSI MPG Z790 EDGE Wifi + 64GB DDR5 G.Skill Trident Z5 RGB 6000mhz"
-      },
-      {
-        "Price": 1208.00,
-        "Features": [
-          "14-Gen",
-          "20 Core",
-          "28 Hilos",
-          "5.6Ghz",
-          "2x32GB",
-          "6000mhz",
-          "Wifi",
-          "8xUSB",
-          "7xSATA"
-        ],
-        "Date": "2024-04-13T04:15:12.809854-04:00",
-        "Update": "2024-04-13T07:00:21.4170547-04:00",
-        "Discount": 20.0,
-        "Label": "Kit i7-14700K +Liquida 240 ARGB +MPG Z790 EDGE +64GB DDR5 G.Skill Trident Z5 RGB"
-      },
-      {
-        "Price": 1244.00,
-        "Features": [
-          "14Gen",
-          "24 Core",
-          "32 Hilos",
-          "6Ghz",
-          "2x32GB",
-          "6400mhz",
-          "Wifi",
-          "Bluetooth",
-          "10xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-04-13T04:13:05.9454818-04:00",
-        "Update": "2024-04-30T06:43:08.1494096-04:00",
-        "Discount": 5.0,
-        "Label": "Kit i9-14900K +Strix Z790-F Gaming +64GB DDR5 G.Skill Trident Z5 RGB 6400mhz"
-      },
-      {
-        "Price": 1488.00,
-        "Features": [
-          "14Gen",
-          "24 Core",
-          "32 Hilos",
-          "6Ghz",
-          "2x32GB",
-          "6400mhz",
-          "Wifi",
-          "Bluetooth",
-          "10xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-04-13T04:13:52.914243-04:00",
-        "Update": "2024-04-30T06:43:08.1762156-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i9-14900K +Líquido RYUO III 240 ARGB +Strix Z790-F Gaming +64GB DDR5 RGB"
-      },
-      {
-        "Price": 1004.00,
-        "Features": [
-          "14Gen",
-          "24 Core",
-          "32 Hilos",
-          "6Ghz",
-          "Wifi",
-          "Bluetooth",
-          "10xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-04-13T04:12:47.4749085-04:00",
-        "Update": "2024-04-30T09:33:05.5039424-04:00",
-        "Label": "Kit i9-14900K +Strix Z790-F Gaming"
-      }
-    ],
     "Esencial": [
       {
         "Price": 357.00,
@@ -453,23 +361,6 @@
         "Update": "2024-04-22T08:22:32.3532179-04:00",
         "Discount": 5.0,
         "Label": "Kit i3-14100 +Gigabyte B760M DS3H +16GB DDR4 Team T-Force Vulcan Z 3200mhz"
-      },
-      {
-        "Price": 343.00,
-        "Features": [
-          "8 Hilos",
-          "4 Core",
-          "4.7GHz",
-          "1x8GB",
-          "3200mhz",
-          "Disipadas",
-          "5333mhz",
-          "4xSATA",
-          "5xUSB"
-        ],
-        "Date": "2024-05-06T12:05:16.7932965-04:00",
-        "Update": "2024-05-06T12:20:34.6276999-04:00",
-        "Label": "Kit i3-14100 +ASRock B760M PRO RS +8GB RAM DDR4 Team T-Force Vulcan Z 3200mhz"
       },
       {
         "Price": 374.00,
@@ -491,7 +382,25 @@
         "Label": "Kit Ryzen 3 5300G +Gigabyte X570S Gaming X +16GB RAM DDR4 GeIL ORION RGB 3600mhz"
       },
       {
-        "Price": 313.00,
+        "Price": 339.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.7GHz",
+          "1x8GB",
+          "3200mhz",
+          "Disipadas",
+          "5333mhz",
+          "4xSATA",
+          "5xUSB"
+        ],
+        "Date": "2024-05-06T12:05:16.7932965-04:00",
+        "Update": "2024-05-23T09:58:31.7868723-04:00",
+        "Discount": 4.0,
+        "Label": "Kit i3-14100 +ASRock B760M PRO RS +8GB RAM DDR4 Team T-Force Vulcan Z 3200mhz"
+      },
+      {
+        "Price": 309.00,
         "Features": [
           "8 Hilos",
           "4 Core",
@@ -504,11 +413,12 @@
           "5xUSB"
         ],
         "Date": "2024-05-07T09:51:48.1955241-04:00",
-        "Update": "2024-05-07T10:17:14.9379165-04:00",
+        "Update": "2024-05-23T09:58:31.8077274-04:00",
+        "Discount": 4.0,
         "Label": "Kit i3-14100F +Gigabyte B760M DS3H +8GB DDR4 Team T-Force Vulcan Z 8GB 3200mhz"
       },
       {
-        "Price": 338.00,
+        "Price": 339.00,
         "Features": [
           "8 Hilos",
           "4 Core",
@@ -522,9 +432,101 @@
           "6xAudio"
         ],
         "Date": "2024-05-07T10:18:16.6653644-04:00",
-        "Update": "2024-05-07T10:20:27.4682963-04:00",
-        "Discount": 5.0,
+        "Update": "2024-05-23T09:58:31.8308143-04:00",
+        "Discount": 4.0,
         "Label": "Kit Ryzen 3 5300G +Gigabyte X570S Gaming X +8GB DDR4 Team T-Force Vulcan Z 3200mhz"
+      }
+    ],
+    "Entusiasta": [
+      {
+        "Price": 1004.00,
+        "Features": [
+          "14Gen",
+          "24 Core",
+          "32 Hilos",
+          "6Ghz",
+          "Wifi",
+          "Bluetooth",
+          "10xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-04-13T04:12:47.4749085-04:00",
+        "Update": "2024-04-30T09:33:05.5039424-04:00",
+        "Label": "Kit i9-14900K +Strix Z790-F Gaming"
+      },
+      {
+        "Price": 1029.00,
+        "Features": [
+          "14-Gen",
+          "20 Core",
+          "28 Hilos",
+          "5.6Ghz",
+          "2x32GB",
+          "6000mhz",
+          "Wifi",
+          "8xUSB",
+          "7xSATA"
+        ],
+        "Date": "2024-04-13T04:14:40.5700212-04:00",
+        "Update": "2024-05-23T09:58:31.6924335-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i7-14700K +MSI MPG Z790 EDGE Wifi + 64GB DDR5 G.Skill Trident Z5 RGB 6000mhz"
+      },
+      {
+        "Price": 1219.00,
+        "Features": [
+          "14-Gen",
+          "20 Core",
+          "28 Hilos",
+          "5.6Ghz",
+          "2x32GB",
+          "6000mhz",
+          "Wifi",
+          "8xUSB",
+          "7xSATA"
+        ],
+        "Date": "2024-04-13T04:15:12.809854-04:00",
+        "Update": "2024-05-23T09:58:31.7205027-04:00",
+        "Discount": 9.0,
+        "Label": "Kit i7-14700K +Liquida 240 ARGB +MPG Z790 EDGE +64GB DDR5 G.Skill Trident Z5 RGB"
+      },
+      {
+        "Price": 1239.00,
+        "Features": [
+          "14Gen",
+          "24 Core",
+          "32 Hilos",
+          "6Ghz",
+          "2x32GB",
+          "6400mhz",
+          "Wifi",
+          "Bluetooth",
+          "10xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-04-13T04:13:05.9454818-04:00",
+        "Update": "2024-05-23T09:58:31.7425482-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i9-14900K +Strix Z790-F Gaming +64GB DDR5 G.Skill Trident Z5 RGB 6400mhz"
+      },
+      {
+        "Price": 1489.00,
+        "Features": [
+          "14Gen",
+          "24 Core",
+          "32 Hilos",
+          "6Ghz",
+          "2x32GB",
+          "6400mhz",
+          "Wifi",
+          "Bluetooth",
+          "10xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-04-13T04:13:52.914243-04:00",
+        "Update": "2024-05-23T09:58:31.7641572-04:00",
+        "Discount": 9.0,
+        "Label": "Kit i9-14900K +Líquido RYUO III 240 ARGB +Strix Z790-F Gaming +64GB DDR5 RGB"
       }
     ],
     "Moderado": [
