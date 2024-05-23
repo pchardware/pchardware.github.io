@@ -329,7 +329,7 @@
         "Label": "Kit i5-12600K +Hyper 212 Spectrum V3 +Z690 AERO G DDR4 +16GB DDR4 3200mhz"
       },
       {
-        "Price": 493.00,
+        "Price": 489.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -339,7 +339,8 @@
           "6xSATA"
         ],
         "Date": "2024-02-26T10:08:53.3357047-05:00",
-        "Update": "2024-05-03T07:21:36.1513842-04:00",
+        "Update": "2024-05-23T10:04:15.0565649-04:00",
+        "Discount": 4.0,
         "Label": "Kit Intel Core i5-12600K +Hyper 212 Spectrum V3 +Gigabyte Z690 AERO G DDR4"
       }
     ],
@@ -361,25 +362,6 @@
         "Update": "2024-04-22T08:22:32.3532179-04:00",
         "Discount": 5.0,
         "Label": "Kit i3-14100 +Gigabyte B760M DS3H +16GB DDR4 Team T-Force Vulcan Z 3200mhz"
-      },
-      {
-        "Price": 374.00,
-        "Features": [
-          "8 Hilos",
-          "4 Core",
-          "4.2GHz",
-          "2x8GB",
-          "Disipadas",
-          "5100mhz",
-          "14xVRM",
-          "6xSATA",
-          "7xUSB",
-          "6xAudio"
-        ],
-        "Date": "2024-05-07T09:51:09.2370776-04:00",
-        "Update": "2024-05-07T10:17:14.9046851-04:00",
-        "Discount": 5.0,
-        "Label": "Kit Ryzen 3 5300G +Gigabyte X570S Gaming X +16GB RAM DDR4 GeIL ORION RGB 3600mhz"
       },
       {
         "Price": 339.00,
@@ -435,6 +417,25 @@
         "Update": "2024-05-23T09:58:31.8308143-04:00",
         "Discount": 4.0,
         "Label": "Kit Ryzen 3 5300G +Gigabyte X570S Gaming X +8GB DDR4 Team T-Force Vulcan Z 3200mhz"
+      },
+      {
+        "Price": 369.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.2GHz",
+          "2x8GB",
+          "Disipadas",
+          "5100mhz",
+          "14xVRM",
+          "6xSATA",
+          "7xUSB",
+          "6xAudio"
+        ],
+        "Date": "2024-05-07T09:51:09.2370776-04:00",
+        "Update": "2024-05-23T10:04:15.1176204-04:00",
+        "Discount": 10.0,
+        "Label": "Kit Ryzen 3 5300G +Gigabyte X570S Gaming X +16GB RAM DDR4 GeIL ORION RGB 3600mhz"
       }
     ],
     "Entusiasta": [
@@ -531,7 +532,7 @@
     ],
     "Moderado": [
       {
-        "Price": 478.00,
+        "Price": 475.00,
         "Features": [
           "12 Hilos",
           "6 Core",
@@ -542,8 +543,8 @@
           "8xSATA"
         ],
         "Date": "2024-05-04T08:34:18.0750749-04:00",
-        "Update": "2024-05-04T08:40:27.7943436-04:00",
-        "Discount": 5.0,
+        "Update": "2024-05-23T10:04:15.0972477-04:00",
+        "Discount": 8.0,
         "Label": "Kit i5-12400 +ASRock Z690 EXTREME +16GB DDR4 G.Skill TridentZ RGB 16GB 3600mhz"
       }
     ]
