@@ -11,7 +11,7 @@
     "/images/products/kit-i3-14100-asrock-b760m-pro-rs-8gb-ram-ddr4-team-hho2gu-7.webp"
   ],
   "Description": "+ Micro Intel Core i3-14100 +Disipador\n+ Board ASRock B760M PRO RS\n+ RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz\n",
-  "Price": 343.00,
+  "Price": 339.00,
   "Features": [
     "8 Hilos",
     "4 Core",
@@ -24,6 +24,7 @@
     "5xUSB"
   ],
   "Date": "2024-05-06T12:05:16.7932965-04:00",
-  "Update": "2024-05-06T12:20:34.6276999-04:00",
+  "Update": "2024-05-23T09:58:31.7868723-04:00",
+  "Discount": 4.0,
   "Label": "Kit i3-14100 +ASRock B760M PRO RS +8GB RAM DDR4 Team T-Force Vulcan Z 3200mhz"
 }
