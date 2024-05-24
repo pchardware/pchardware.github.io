@@ -104,6 +104,38 @@
         "Discount": 17.0,
         "Def": true,
         "Label": "Torre RTX 3060 12GB +i5-12600KF +TUF Z690-Plus Wifi +32GB DDR5 +512GB M.2 +750W"
+      },
+      {
+        "Price": 919.00,
+        "Features": [],
+        "Date": "2024-05-24T04:19:12.9612154-04:00",
+        "Update": "2024-05-24T04:46:42.7132969-04:00",
+        "Discount": 22.0,
+        "Label": "Torre RTX 3050 6GB OC +i3-12100F +B760M DS3H +16GB DDR4 TridentZ RGB +500GB M2 +750W +Chasis RGB"
+      },
+      {
+        "Price": 929.00,
+        "Features": [],
+        "Date": "2024-05-24T04:21:35.7690669-04:00",
+        "Update": "2024-05-24T04:46:42.7573056-04:00",
+        "Discount": 22.0,
+        "Label": "Torre RTX 3050 6GB OC +i3-14100F +B760M DS3H +16GB DDR4 TridentZ RGB +500GB M2 +750W +Chasis"
+      },
+      {
+        "Price": 1249.00,
+        "Features": [],
+        "Date": "2024-05-24T04:24:27.3214469-04:00",
+        "Update": "2024-05-24T04:46:42.795841-04:00",
+        "Discount": 21.0,
+        "Label": "Torre RTX 4060 WindForce OC 8GB +i5-12600KF +Z690 EXTREME +16GB DDR4 +512GB M2 +Chasis RGB"
+      },
+      {
+        "Price": 1199.00,
+        "Features": [],
+        "Date": "2024-05-24T04:25:43.8730468-04:00",
+        "Update": "2024-05-24T04:46:42.8329648-04:00",
+        "Discount": 28.0,
+        "Label": "Torre RTX 4060 Eagle OC 8GB +i5-13500 +B760M PRO RS +16GB DDR5 6000mhz +500GB M2 +850W +Chasis RGB"
       }
     ],
     "Multimedia": [
