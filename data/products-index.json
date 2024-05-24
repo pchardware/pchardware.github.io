@@ -4635,6 +4635,105 @@
         "Update": "2024-05-08T09:29:25.6946703-04:00",
         "Label": "Monitor MSI Pro 24\" 100Hz VA 1ms"
       }
+    ],
+    "Impresora": [
+      {
+        "Price": 545.00,
+        "Features": [
+          "500 hojas",
+          "19 5/8 x 17 3/4 x 6 1/2",
+          "Oficina"
+        ],
+        "Date": "2024-05-24T18:48:38.9465954-04:00",
+        "Update": "2024-05-24T19:44:15.2572522-04:00",
+        "Label": "Encuadernadora Fellowes 5218301 Galaxy 500"
+      },
+      {
+        "Price": 17.00,
+        "Features": [
+          "40 Hojas",
+          "Oficina"
+        ],
+        "Date": "2024-05-24T18:48:43.1801468-04:00",
+        "Update": "2024-05-24T19:44:15.3064718-04:00",
+        "Label": "Engrapadora Bostitch Stapler Black"
+      },
+      {
+        "Price": 34.00,
+        "Features": [
+          "Oficina"
+        ],
+        "Date": "2024-05-24T18:48:47.7857429-04:00",
+        "Update": "2024-05-24T19:44:15.3263408-04:00",
+        "Label": "Engrapadora Rapesco Stapling"
+      },
+      {
+        "Price": 325.00,
+        "Features": [
+          "Oficina"
+        ],
+        "Date": "2024-05-24T18:48:51.6737433-04:00",
+        "Update": "2024-05-24T19:44:15.3459741-04:00",
+        "Label": "Guillotina HFS 17\" Heavy Duty A3"
+      },
+      {
+        "Price": 495.00,
+        "Features": [
+          "Inalambrica",
+          "ADF",
+          "Fax",
+          "Eternet",
+          "Oficina"
+        ],
+        "Date": "2024-05-24T18:48:55.8778098-04:00",
+        "Update": "2024-05-24T19:44:15.3652583-04:00",
+        "Label": "Impresora Epson ECO Tank ET-M3170 Monocromo"
+      },
+      {
+        "Price": 1250.00,
+        "Features": [
+          "Inkjet",
+          "Multifuncion",
+          "A3",
+          "A3+",
+          "A5",
+          "A6",
+          "Bluetooth"
+        ],
+        "Date": "2024-05-24T18:48:59.9459432-04:00",
+        "Update": "2024-05-24T19:44:15.3849444-04:00",
+        "Label": "Impresora Epson WorkForce ST-8000"
+      },
+      {
+        "Price": 345.00,
+        "Features": [
+          "Oficina",
+          "Rapid 30-60 Second Warm-up",
+          "Laminating Pouches Kit"
+        ],
+        "Date": "2024-05-24T18:49:03.9877445-04:00",
+        "Update": "2024-05-24T19:44:15.4076458-04:00",
+        "Label": "Plastificadora Fellowes Laminator Venus 2 125"
+      },
+      {
+        "Price": 435.00,
+        "Features": [
+          "41.000 páginas",
+          "Oficina"
+        ],
+        "Date": "2024-05-24T18:49:12.0895958-04:00",
+        "Update": "2024-05-24T19:44:15.4476038-04:00",
+        "Label": "Toner HP 37y"
+      }
+    ],
+    "Red": [
+      {
+        "Price": 17.00,
+        "Features": [],
+        "Date": "2024-05-24T18:49:07.9157016-04:00",
+        "Update": "2024-05-24T19:44:15.4281219-04:00",
+        "Label": "Switch TP-Link LiteWave 5 Port Gigabit Ethernet"
+      }
     ]
   }
 }
