@@ -1,0 +1,30 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Esencial",
+  "Images": [
+    "/images/products/kit-i3-14100-asrock-b760m-pro-rs-16gb-ddr5-corsair-p0nuoy-1.webp",
+    "/images/products/kit-i3-14100-asrock-b760m-pro-rs-16gb-ddr5-corsair-p0nuoy-2.webp",
+    "/images/products/kit-i3-14100-asrock-b760m-pro-rs-16gb-ddr5-corsair-p0nuoy-3.webp",
+    "/images/products/kit-i3-14100-asrock-b760m-pro-rs-16gb-ddr5-corsair-p0nuoy-4.webp",
+    "/images/products/kit-i3-14100-asrock-b760m-pro-rs-16gb-ddr5-corsair-p0nuoy-5.webp",
+    "/images/products/kit-i3-14100-asrock-b760m-pro-rs-16gb-ddr5-corsair-p0nuoy-6.webp",
+    "/images/products/kit-i3-14100-asrock-b760m-pro-rs-16gb-ddr5-corsair-p0nuoy-7.webp"
+  ],
+  "Description": "+ Micro Intel Core i3-14100 +Disipador\n+ Board ASRock B760M PRO RS\n+ RAM DDR5 Corsair Vengeance 16GB 5200mhz\n",
+  "Price": 369.00,
+  "Features": [
+    "8 Hilos",
+    "4 Core",
+    "4.7GHz",
+    "1x8GB",
+    "3200mhz",
+    "Disipadas",
+    "5333mhz",
+    "4xSATA",
+    "5xUSB"
+  ],
+  "Date": "2024-05-06T12:05:16.7932965-04:00",
+  "Update": "2024-05-24T04:03:55.9487895-04:00",
+  "Discount": 4.0,
+  "Label": "Kit i3-14100 +ASRock B760M PRO RS +16GB DDR5 Corsair Vengeance 5200mhz"
+}
