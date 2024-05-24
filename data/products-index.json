@@ -116,14 +116,6 @@
         "Label": "Torre i3-14100 +Gigabyte B760M DS3H +16GB DDR4 +500GB M.2 +500W +Chasis RGB"
       },
       {
-        "Price": 717.00,
-        "Features": [],
-        "Date": "2024-04-29T08:50:52.710014-04:00",
-        "Update": "2024-05-04T08:26:33.960405-04:00",
-        "Discount": 15.0,
-        "Label": "Torre i3-14100 +B760M PRO RS +16GB RAM 3600Mhz +500GB M.2 Corsair+ CORSAIR CX550 550W"
-      },
-      {
         "Price": 866.00,
         "Features": [],
         "Date": "2024-05-04T08:28:34.7719769-04:00",
@@ -138,6 +130,14 @@
         "Update": "2024-05-13T09:12:06.6248212-04:00",
         "Discount": 10.0,
         "Label": "Torre i5-12400 +Z690 EXTREME +16GB DDR4 RGB +512GB M.2 +MSI 750W + Chasis RGB"
+      },
+      {
+        "Price": 699.00,
+        "Features": [],
+        "Date": "2024-04-29T08:50:52.710014-04:00",
+        "Update": "2024-05-24T04:03:55.9287894-04:00",
+        "Discount": 19.0,
+        "Label": "Torre i3-14100 +B760M PRO RS +16GB RAM 6000mhz +500GB M.2 Corsair+ CORSAIR CX550 550W"
       }
     ],
     "Pro": [
@@ -364,24 +364,6 @@
         "Label": "Kit i3-14100 +Gigabyte B760M DS3H +16GB DDR4 Team T-Force Vulcan Z 3200mhz"
       },
       {
-        "Price": 339.00,
-        "Features": [
-          "8 Hilos",
-          "4 Core",
-          "4.7GHz",
-          "1x8GB",
-          "3200mhz",
-          "Disipadas",
-          "5333mhz",
-          "4xSATA",
-          "5xUSB"
-        ],
-        "Date": "2024-05-06T12:05:16.7932965-04:00",
-        "Update": "2024-05-23T09:58:31.7868723-04:00",
-        "Discount": 4.0,
-        "Label": "Kit i3-14100 +ASRock B760M PRO RS +8GB RAM DDR4 Team T-Force Vulcan Z 3200mhz"
-      },
-      {
         "Price": 309.00,
         "Features": [
           "8 Hilos",
@@ -436,6 +418,24 @@
         "Update": "2024-05-23T10:04:15.1176204-04:00",
         "Discount": 10.0,
         "Label": "Kit Ryzen 3 5300G +Gigabyte X570S Gaming X +16GB RAM DDR4 GeIL ORION RGB 3600mhz"
+      },
+      {
+        "Price": 369.00,
+        "Features": [
+          "8 Hilos",
+          "4 Core",
+          "4.7GHz",
+          "1x8GB",
+          "3200mhz",
+          "Disipadas",
+          "5333mhz",
+          "4xSATA",
+          "5xUSB"
+        ],
+        "Date": "2024-05-06T12:05:16.7932965-04:00",
+        "Update": "2024-05-24T04:03:55.9487895-04:00",
+        "Discount": 4.0,
+        "Label": "Kit i3-14100 +ASRock B760M PRO RS +16GB DDR5 Corsair Vengeance 5200mhz"
       }
     ],
     "Entusiasta": [
