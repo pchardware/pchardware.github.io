@@ -4677,20 +4677,6 @@
         "Label": "Guillotina HFS 17\" Heavy Duty A3"
       },
       {
-        "Price": 495.00,
-        "Features": [
-          "Inalambrica",
-          "ADF",
-          "Fax",
-          "Eternet",
-          "Oficina"
-        ],
-        "Date": "2024-05-24T18:48:55.8778098-04:00",
-        "Update": "2024-05-24T19:44:15.3652583-04:00",
-        "Def": true,
-        "Label": "Impresora Epson ECO Tank ET-M3170 Monocromo"
-      },
-      {
         "Price": 345.00,
         "Features": [
           "Oficina",
@@ -4713,28 +4699,62 @@
         "Label": "Toner HP 37y"
       },
       {
+        "Price": 495.00,
+        "Features": [
+          "39ppm",
+          "6s",
+          "A4",
+          "250h",
+          "Negro",
+          "Inalambrica",
+          "ADF",
+          "Fax",
+          "Eternet",
+          "Escaner",
+          "Tinta",
+          "Oficina"
+        ],
+        "Date": "2024-05-24T18:48:55.8778098-04:00",
+        "Update": "2024-05-25T12:01:03.9223487-04:00",
+        "Def": true,
+        "Label": "Impresora Epson ECO Tank ET-M3170 Monocromo"
+      },
+      {
         "Price": 1250.00,
         "Features": [
+          "25ppm",
+          "5.5s",
+          "550h",
           "Inkjet",
-          "Multifuncion",
+          "Color",
+          "Escaner",
+          "Tinta",
           "A3",
-          "A3+",
-          "A5",
-          "A6",
+          "Ethernet",
+          "Fax",
           "Bluetooth"
         ],
         "Date": "2024-05-24T18:48:59.9459432-04:00",
-        "Update": "2024-05-24T19:55:13.9865368-04:00",
+        "Update": "2024-05-25T12:01:03.944125-04:00",
         "Def": true,
         "Label": "Impresora Epson WorkForce ST-8000"
       },
       {
         "Price": 1250.00,
         "Features": [
+          "65ppm",
+          "Dos caras",
+          "8s",
+          "A4",
+          "Negro",
+          "Tonel",
+          "650h",
+          "Ethernet",
+          "Laser",
           "Oficina"
         ],
         "Date": "2024-05-24T20:04:26.0028912-04:00",
-        "Update": "2024-05-24T20:06:33.5369203-04:00",
+        "Update": "2024-05-25T12:01:03.9663789-04:00",
         "Def": true,
         "Label": "Impresora HP Laserjet Enterprise M608dn Duplex"
       }
