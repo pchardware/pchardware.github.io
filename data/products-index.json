@@ -4739,6 +4739,15 @@
         "Date": "2024-05-24T18:48:59.9459432-04:00",
         "Update": "2024-05-24T19:55:13.9865368-04:00",
         "Label": "Impresora Epson WorkForce ST-8000"
+      },
+      {
+        "Price": 1250.00,
+        "Features": [
+          "Oficina"
+        ],
+        "Date": "2024-05-24T20:04:26.0028912-04:00",
+        "Update": "2024-05-24T20:06:33.5369203-04:00",
+        "Label": "Impresora HP Laserjet Enterprise M608dn Duplex"
       }
     ],
     "Red": [
