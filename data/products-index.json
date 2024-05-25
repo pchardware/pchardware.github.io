@@ -4642,6 +4642,7 @@
         ],
         "Date": "2024-05-24T18:48:38.9465954-04:00",
         "Update": "2024-05-24T19:44:15.2572522-04:00",
+        "Def": true,
         "Label": "Encuadernadora Fellowes 5218301 Galaxy 500"
       },
       {
@@ -4652,6 +4653,7 @@
         ],
         "Date": "2024-05-24T18:48:43.1801468-04:00",
         "Update": "2024-05-24T19:44:15.3064718-04:00",
+        "Def": true,
         "Label": "Engrapadora Bostitch Stapler Black"
       },
       {
@@ -4661,6 +4663,7 @@
         ],
         "Date": "2024-05-24T18:48:47.7857429-04:00",
         "Update": "2024-05-24T19:44:15.3263408-04:00",
+        "Def": true,
         "Label": "Engrapadora Rapesco Stapling"
       },
       {
@@ -4670,6 +4673,7 @@
         ],
         "Date": "2024-05-24T18:48:51.6737433-04:00",
         "Update": "2024-05-24T19:44:15.3459741-04:00",
+        "Def": true,
         "Label": "Guillotina HFS 17\" Heavy Duty A3"
       },
       {
@@ -4683,6 +4687,7 @@
         ],
         "Date": "2024-05-24T18:48:55.8778098-04:00",
         "Update": "2024-05-24T19:44:15.3652583-04:00",
+        "Def": true,
         "Label": "Impresora Epson ECO Tank ET-M3170 Monocromo"
       },
       {
@@ -4694,6 +4699,7 @@
         ],
         "Date": "2024-05-24T18:49:03.9877445-04:00",
         "Update": "2024-05-24T19:44:15.4076458-04:00",
+        "Def": true,
         "Label": "Plastificadora Fellowes Laminator Venus 2 125"
       },
       {
@@ -4719,6 +4725,7 @@
         ],
         "Date": "2024-05-24T18:48:59.9459432-04:00",
         "Update": "2024-05-24T19:55:13.9865368-04:00",
+        "Def": true,
         "Label": "Impresora Epson WorkForce ST-8000"
       },
       {
@@ -4728,6 +4735,7 @@
         ],
         "Date": "2024-05-24T20:04:26.0028912-04:00",
         "Update": "2024-05-24T20:06:33.5369203-04:00",
+        "Def": true,
         "Label": "Impresora HP Laserjet Enterprise M608dn Duplex"
       }
     ],
@@ -4737,6 +4745,7 @@
         "Features": [],
         "Date": "2024-05-24T18:49:07.9157016-04:00",
         "Update": "2024-05-24T19:44:15.4281219-04:00",
+        "Def": true,
         "Label": "Switch TP-Link LiteWave 5 Port Gigabit Ethernet"
       }
     ]
