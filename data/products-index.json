@@ -59,6 +59,24 @@
         "Update": "2024-05-13T07:30:59.2128344-04:00",
         "Discount": 15.0,
         "Label": "PC Ryzen 3 5300G +X570S Gaming X +16GB DDR4 RGB +512GB M.2 +CX550 550W +MSI 24\""
+      },
+      {
+        "Price": 909.00,
+        "Features": [],
+        "Date": "2024-05-26T07:32:40.4676158-04:00",
+        "Update": "2024-05-26T07:57:36.6071177-04:00",
+        "Discount": 23.0,
+        "Label": "PC Ryzen 3 5300G +Gigabyte X570S Gaming X +16GB DDR4 3600mhz +500GB M.2 500W +MSI Pro 24\""
+      }
+    ],
+    "": [
+      {
+        "Price": 969.00,
+        "Features": [],
+        "Date": "2024-05-26T07:37:18.2965803-04:00",
+        "Update": "2024-05-26T07:57:36.6446769-04:00",
+        "Discount": 23.0,
+        "Label": "PC Ryzen 5 5600G +X570S Gaming X +16GB DDR4 RGB+ 512GB SSD +700W +Chasis RGB +MSI Pro 24\""
       }
     ]
   },
