@@ -578,6 +578,24 @@
         "Update": "2024-05-23T09:58:31.7641572-04:00",
         "Discount": 9.0,
         "Label": "Kit i9-14900K +Líquido RYUO III 240 ARGB +Strix Z790-F Gaming +64GB DDR5 RGB"
+      },
+      {
+        "Price": 910.00,
+        "Features": [
+          "12va Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.2GHz",
+          "2x16",
+          "6200mhz",
+          "10xUSB",
+          "6xSATA",
+          "6xAudio"
+        ],
+        "Date": "2024-01-28T06:21:13.649846-05:00",
+        "Update": "2024-05-26T09:51:46.9855544-04:00",
+        "Discount": 15.0,
+        "Label": "Kit i9-12900K +H60x RGB Elite +Strix Z690-E Gaming Wifi +32GB Corsair RGB"
       }
     ],
     "Moderado": [
@@ -1403,6 +1421,26 @@
         "Date": "2023-03-27T12:00:05.9787174-04:00",
         "Update": "2024-05-14T08:04:23.6321091-04:00",
         "Label": "Disipador Líquido Corsair H100x RGB Elite"
+      },
+      {
+        "Price": 130.00,
+        "Features": [
+          "1500rpm",
+          "48cfm",
+          "28db",
+          "Copper",
+          "1xFan",
+          "120mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "LGA 20XX",
+          "AM5",
+          "AM4"
+        ],
+        "Date": "2023-05-11T13:08:14.7226355-04:00",
+        "Update": "2024-05-26T09:51:46.9637479-04:00",
+        "Label": "Disipador Líquido Corsair H60x RGB Elite"
       }
     ],
     "Disco Duro": [
