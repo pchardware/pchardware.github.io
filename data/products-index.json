@@ -3892,10 +3892,21 @@
       },
       {
         "Price": 215.00,
-        "Features": [],
+        "Features": [
+          "12Gen",
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "25MB L3",
+          "34456pm",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
         "Date": "2024-05-25T23:01:27.6116167-04:00",
-        "Update": "2024-05-26T10:19:23.0811109-04:00",
-        "Label": "CPU - Intel Core i7-12700KF"
+        "Update": "2024-05-26T11:23:40.4386743-04:00",
+        "Label": "Micro Intel Core i7-12700KF"
       }
     ]
   },
