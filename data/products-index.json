@@ -41,6 +41,14 @@
         "Discount": 19.0,
         "Def": true,
         "Label": "PC RTX 3060 12GB +i5-12600KF +TUF Z690-Plus Wifi +32GB DDR5 +512GB M.2 +Acer 27\""
+      },
+      {
+        "Price": 1149.00,
+        "Features": [],
+        "Date": "2024-05-27T08:09:14.7134414-04:00",
+        "Update": "2024-05-27T08:32:25.3629938-04:00",
+        "Discount": 25.0,
+        "Label": "PC RTX 3050 OC 6GB +i3-12100F +B760M DS3H +16GB DDR4 RGB +500GB M.2 +700W +Chasis RGB +MSI Pro 24\""
       }
     ],
     "Multimedia": [
