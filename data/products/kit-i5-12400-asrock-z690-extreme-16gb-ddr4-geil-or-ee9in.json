@@ -1,0 +1,28 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Moderado",
+  "Images": [
+    "/images/products/kit-i5-12400-asrock-z690-extreme-16gb-ddr4-geil-or-ee9in-1.webp",
+    "/images/products/kit-i5-12400-asrock-z690-extreme-16gb-ddr4-geil-or-ee9in-2.webp",
+    "/images/products/kit-i5-12400-asrock-z690-extreme-16gb-ddr4-geil-or-ee9in-3.webp",
+    "/images/products/kit-i5-12400-asrock-z690-extreme-16gb-ddr4-geil-or-ee9in-4.webp",
+    "/images/products/kit-i5-12400-asrock-z690-extreme-16gb-ddr4-geil-or-ee9in-5.webp",
+    "/images/products/kit-i5-12400-asrock-z690-extreme-16gb-ddr4-geil-or-ee9in-6.webp",
+    "/images/products/kit-i5-12400-asrock-z690-extreme-16gb-ddr4-geil-or-ee9in-7.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12400 +Disipador\n+ Board ASRock Z690 EXTREME DDR4\n+ RAM DDR4 GeIL ORION RGB 16GB 3600mhz\n",
+  "Price": 459.00,
+  "Features": [
+    "12 Hilos",
+    "6 Core",
+    "4.4GHz",
+    "2x8GB",
+    "6xAudio",
+    "5xUSB",
+    "8xSATA"
+  ],
+  "Date": "2024-05-28T02:43:31.4484048-04:00",
+  "Update": "2024-05-28T02:47:22.406187-04:00",
+  "Discount": 10.0,
+  "Label": "Kit i5-12400 +ASRock Z690 EXTREME +16GB DDR4 GeIL ORION RGB 3600mhz"
+}
