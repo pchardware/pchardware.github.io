@@ -35,7 +35,7 @@
         "Label": "PC RTX 3060 12GB +i5-12600KF +TUF Z690-Plus Wifi +32GB DDR5 +512GB M.2 +Acer 27\""
       },
       {
-        "Price": 1123.00,
+        "Price": 1117.00,
         "Features": [],
         "Date": "2024-05-27T08:09:14.7134414-04:00",
         "Update": "2024-05-27T08:32:25.3629938-04:00",
@@ -45,7 +45,7 @@
     ],
     "Multimedia": [
       {
-        "Price": 894.00,
+        "Price": 890.00,
         "Features": [],
         "Date": "2024-04-27T05:48:56.699818-04:00",
         "Update": "2024-05-04T08:26:33.9071219-04:00",
@@ -62,7 +62,7 @@
         "Label": "PC Ryzen 3 5300G +X570S Gaming X +16GB DDR4 RGB +512GB M.2 +CX550 550W +MSI 24\""
       },
       {
-        "Price": 893.00,
+        "Price": 889.00,
         "Features": [],
         "Date": "2024-05-26T07:32:40.4676158-04:00",
         "Update": "2024-05-26T07:57:36.6071177-04:00",
@@ -73,7 +73,7 @@
     ],
     "": [
       {
-        "Price": 953.00,
+        "Price": 947.00,
         "Features": [],
         "Date": "2024-05-26T07:37:18.2965803-04:00",
         "Update": "2024-05-26T07:57:36.6446769-04:00",
@@ -85,7 +85,7 @@
   "Torres": {
     "Multimedia": [
       {
-        "Price": 635.00,
+        "Price": 631.00,
         "Features": [],
         "Date": "2024-04-27T04:41:03.137563-04:00",
         "Update": "2024-05-04T08:26:33.8874966-04:00",
@@ -109,7 +109,7 @@
         "Label": "Torre i5-12400 +Z690 EXTREME +16GB DDR4 +500GB M.2 +EVGA 850W +Chasis RGB Black"
       },
       {
-        "Price": 793.00,
+        "Price": 787.00,
         "Features": [],
         "Date": "2024-05-13T08:28:37.7031053-04:00",
         "Update": "2024-05-24T04:53:12.3881849-04:00",
@@ -135,7 +135,7 @@
         "Label": "Torre RTX 3050 6GB OC +i3-14100F +B760M DS3H +16GB DDR4 TridentZ RGB +500GB M2 +750W +Chasis"
       },
       {
-        "Price": 1233.00,
+        "Price": 1227.00,
         "Features": [],
         "Date": "2024-05-24T04:24:27.3214469-04:00",
         "Update": "2024-05-24T04:46:42.795841-04:00",
@@ -143,7 +143,7 @@
         "Label": "Torre RTX 4060 WindForce OC 8GB +i5-12600KF +Z690 EXTREME +16GB DDR4 +512GB M2 +Chasis RGB"
       },
       {
-        "Price": 1183.00,
+        "Price": 1179.00,
         "Features": [],
         "Date": "2024-05-24T04:25:43.8730468-04:00",
         "Update": "2024-05-24T04:46:42.8329648-04:00",
@@ -159,7 +159,7 @@
         "Label": "Torre RTX 4060 Gaming OC 8GB +i5-12600KF +Z790 Eagle AX +32GB DDR5 +850W"
       },
       {
-        "Price": 1823.00,
+        "Price": 1819.00,
         "Features": [],
         "Date": "2024-04-27T07:51:59.1867818-04:00",
         "Update": "2024-05-24T04:53:12.3349723-04:00",
@@ -584,7 +584,7 @@
   "Componentes": {
     "Fuente": [
       {
-        "Price": 45.00,
+        "Price": 42.00,
         "Features": [
           "juego de cables"
         ],
@@ -593,7 +593,7 @@
         "Label": "Corsair Cable Kit Blue"
       },
       {
-        "Price": 45.00,
+        "Price": 42.00,
         "Features": [
           "juego de cables"
         ],
@@ -614,7 +614,7 @@
         "Label": "Fuente de Servidor HP 578322-B21 1200W"
       },
       {
-        "Price": 75.00,
+        "Price": 69.00,
         "Features": [
           "45A",
           "2x 6+2Pin",
@@ -628,7 +628,7 @@
         "Label": "Fuente Apevia Spirit 600W"
       },
       {
-        "Price": 79.00,
+        "Price": 75.00,
         "Features": [
           "35A",
           "80+",
@@ -681,7 +681,7 @@
         "Label": "Fuente Gigabyte UD850GM 850W"
       },
       {
-        "Price": 185.00,
+        "Price": 179.00,
         "Features": [
           "71A",
           "80+ PLATINUM",
@@ -713,7 +713,7 @@
         "Label": "Fuente EVGA 750W"
       },
       {
-        "Price": 235.00,
+        "Price": 225.00,
         "Features": [
           "ATX 3.0",
           "80+ Gold",
@@ -751,7 +751,7 @@
         "Label": "Fuente Corsair HX1500i 1500W"
       },
       {
-        "Price": 159.00,
+        "Price": 155.00,
         "Features": [
           "ATX 3.0",
           "80+ Bronze",
@@ -789,7 +789,7 @@
         "Label": "Fuente EVGA 850 BQ 850W"
       },
       {
-        "Price": 229.00,
+        "Price": 219.00,
         "Features": [
           "ATX 3.0",
           "83A",
@@ -808,7 +808,7 @@
         "Label": "Fuente EVGA SuperNova 1000G XC 1000W"
       },
       {
-        "Price": 239.00,
+        "Price": 229.00,
         "Features": [
           "80+ Gold",
           "Full Modular",
@@ -825,7 +825,7 @@
         "Label": "Fuente Asus ROG Strix 1000W"
       },
       {
-        "Price": 315.00,
+        "Price": 299.00,
         "Features": [
           "ATX 3.0",
           "83A",
@@ -860,7 +860,7 @@
         "Label": "Fuente Corsair CX550 550W"
       },
       {
-        "Price": 149.00,
+        "Price": 145.00,
         "Features": [
           "63A",
           "80+ Platinum",
@@ -878,7 +878,7 @@
         "Label": "Fuente Corsair AX760 760W"
       },
       {
-        "Price": 85.00,
+        "Price": 79.00,
         "Features": [
           "53A",
           "1x 4+4Pin",
@@ -893,7 +893,7 @@
         "Label": "Fuente Apevia Spirit 700W ATX-SP700"
       },
       {
-        "Price": 70.00,
+        "Price": 65.00,
         "Features": [
           "30A",
           "1x 4+4Pin",
@@ -928,7 +928,7 @@
         "Label": "Fuente Corsair CX750M 750W"
       },
       {
-        "Price": 135.00,
+        "Price": 129.00,
         "Features": [
           "ATX3.0",
           "63A",
@@ -947,7 +947,7 @@
         "Label": "Fuente MSI MAG A750BN 750W"
       },
       {
-        "Price": 179.00,
+        "Price": 175.00,
         "Features": [
           "ATX 3.0",
           "70A",
@@ -967,7 +967,7 @@
         "Label": "Fuente MSI MAG A850GL 850W"
       },
       {
-        "Price": 209.00,
+        "Price": 199.00,
         "Features": [
           "ATX 3.0",
           "80+ Gold",
@@ -986,7 +986,7 @@
         "Label": "Fuente Asus TUF 850W"
       },
       {
-        "Price": 215.00,
+        "Price": 205.00,
         "Features": [
           "ATX 3.0",
           "83A",
@@ -1005,7 +1005,7 @@
         "Label": "Fuente Gigabyte UD1000GM 1000W"
       },
       {
-        "Price": 225.00,
+        "Price": 199.00,
         "Features": [
           "ATX 3.0",
           "80+ Gold",
@@ -1026,7 +1026,7 @@
         "Label": "Fuente Corsair RM850x Shift 850W"
       },
       {
-        "Price": 245.00,
+        "Price": 209.00,
         "Features": [
           "80+ Gold",
           "Full Modular",
@@ -2898,7 +2898,7 @@
         "Label": "SSD M.2 TeamGroup T-Force Z44L 1TB"
       },
       {
-        "Price": 49.00,
+        "Price": 45.00,
         "Features": [
           "540mbs",
           "400TBW",
