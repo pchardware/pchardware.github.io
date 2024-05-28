@@ -2,7 +2,7 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 2029.00,
+        "Price": 2019.00,
         "Features": [],
         "Date": "2024-04-20T10:42:06.0831707-04:00",
         "Update": "2024-05-04T08:26:33.8073761-04:00",
@@ -10,7 +10,7 @@
         "Label": "PC RTX 4060 Ti 8GB +Core i7-12700K +Z790 Eagle AX +32GB DDR5 +512GB M.2 +27\""
       },
       {
-        "Price": 1459.00,
+        "Price": 1455.00,
         "Features": [],
         "Date": "2024-03-16T03:23:44.5153672-04:00",
         "Update": "2024-05-14T08:04:23.728329-04:00",
@@ -26,7 +26,7 @@
         "Label": "PC RTX 4070 Super Master +i9-12900K +Liquida +TUF Z690-Plus Wifi +64GB DDR5 +2TB M.2 + Thor 850W +27\""
       },
       {
-        "Price": 1769.00,
+        "Price": 1765.00,
         "Features": [],
         "Date": "2024-03-16T03:24:24.1080741-04:00",
         "Update": "2024-05-23T10:12:14.5185716-04:00",
@@ -135,7 +135,7 @@
         "Label": "Torre RTX 3050 6GB OC +i3-14100F +B760M DS3H +16GB DDR4 TridentZ RGB +500GB M2 +750W +Chasis"
       },
       {
-        "Price": 1249.00,
+        "Price": 1245.00,
         "Features": [],
         "Date": "2024-05-24T04:24:27.3214469-04:00",
         "Update": "2024-05-24T04:46:42.795841-04:00",
@@ -151,7 +151,7 @@
         "Label": "Torre RTX 4060 Eagle OC 8GB +i5-13500 +B760M PRO RS +16GB DDR5 6000mhz +500GB M2 +850W +Chasis RGB"
       },
       {
-        "Price": 1339.00,
+        "Price": 1335.00,
         "Features": [],
         "Date": "2024-04-14T10:24:42.6082746-04:00",
         "Update": "2024-05-24T04:53:12.2948024-04:00",
@@ -159,7 +159,7 @@
         "Label": "Torre RTX 4060 Gaming OC 8GB +i5-12600KF +Z790 Eagle AX +32GB DDR5 +850W"
       },
       {
-        "Price": 1895.00,
+        "Price": 1855.00,
         "Features": [],
         "Date": "2024-04-27T07:51:59.1867818-04:00",
         "Update": "2024-05-24T04:53:12.3349723-04:00",
@@ -167,7 +167,7 @@
         "Label": "Torre RTX 4060 Ti 3X 8GB +i7-12700K +MEG Z690 ACE +32GB DDR5 +850W +Chasis RGB"
       },
       {
-        "Price": 1099.00,
+        "Price": 1095.00,
         "Features": [],
         "Date": "2024-03-11T10:53:00.3667551-04:00",
         "Update": "2024-05-24T04:53:12.4062109-04:00",
@@ -183,7 +183,7 @@
         "Label": "Torre RX 6600 8GB +i3-14100F +B760M PRO RS +32GB DDR5 +512 M.2 +750W +Chasis RGB"
       },
       {
-        "Price": 1339.00,
+        "Price": 1335.00,
         "Features": [],
         "Date": "2024-03-01T09:14:28.6647646-05:00",
         "Update": "2024-05-24T04:53:12.4451279-04:00",
@@ -196,7 +196,7 @@
   "Kits": {
     "Rendimiento": [
       {
-        "Price": 424.00,
+        "Price": 414.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -213,7 +213,7 @@
         "Label": "Kit i5-12600K +Gigabyte Z790 Eagle AX"
       },
       {
-        "Price": 544.00,
+        "Price": 534.00,
         "Features": [
           "20 Hilos",
           "12 Core",
@@ -228,7 +228,7 @@
         "Label": "Kit i7-12700K +Asus ROG Strix Z690-E Gaming Wifi"
       },
       {
-        "Price": 398.00,
+        "Price": 394.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -244,7 +244,7 @@
         "Label": "Kit i5-12600KF +Asus TUF Z690-Plus Wifi"
       },
       {
-        "Price": 428.00,
+        "Price": 418.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -276,7 +276,7 @@
         "Label": "Kit i7-14700K + MSI MPG Z790 EDGE WIFI"
       },
       {
-        "Price": 805.00,
+        "Price": 775.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -292,7 +292,7 @@
         "Label": "Kit i9-12900K +MEG Z690 ACE +Líquido MasterLiquid ML240L ARGB V2"
       },
       {
-        "Price": 965.00,
+        "Price": 935.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -327,7 +327,7 @@
         "Label": "Kit i5-14600K +Gigabyte Z790 Eagle AX"
       },
       {
-        "Price": 675.00,
+        "Price": 645.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -343,7 +343,7 @@
         "Label": "Kit i9-12900K + MSI MEG Z690 ACE Potencia y estilo en un solo combo"
       },
       {
-        "Price": 546.00,
+        "Price": 536.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -361,7 +361,7 @@
         "Label": "Kit i5-12600K +Hyper 212 Spectrum V3 +Z690 AERO G DDR4 +16GB DDR4 3200mhz"
       },
       {
-        "Price": 489.00,
+        "Price": 479.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -376,7 +376,7 @@
         "Label": "Kit Intel Core i5-12600K +Hyper 212 Spectrum V3 +Gigabyte Z690 AERO G DDR4"
       },
       {
-        "Price": 475.00,
+        "Price": 465.00,
         "Features": [
           "12Gen",
           "20 Hilos",
@@ -3197,7 +3197,7 @@
         "Label": "Board Asus ROG Strix Z690-E Gaming Wifi"
       },
       {
-        "Price": 345.00,
+        "Price": 315.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "DDR5",
@@ -3582,7 +3582,7 @@
         "Label": "Micro Intel Core i9-12900K"
       },
       {
-        "Price": 199.00,
+        "Price": 189.00,
         "Features": [
           "12Gen",
           "16 Hilos",
@@ -3600,7 +3600,7 @@
         "Label": "Micro Intel Core i5-12600K"
       },
       {
-        "Price": 249.00,
+        "Price": 239.00,
         "Features": [
           "12Gen",
           "20 Hilos",
@@ -3618,7 +3618,7 @@
         "Label": "Micro Intel Core i7-12700K"
       },
       {
-        "Price": 169.00,
+        "Price": 165.00,
         "Features": [
           "12Gen",
           "16 Hilos",
@@ -3794,7 +3794,7 @@
         "Label": "Micro AMD Ryzen 3 5300G +Disipador"
       },
       {
-        "Price": 215.00,
+        "Price": 209.00,
         "Features": [
           "12Gen",
           "20 Hilos",
