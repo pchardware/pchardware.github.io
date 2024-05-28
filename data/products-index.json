@@ -18,7 +18,7 @@
         "Label": "PC RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +AOC 24\""
       },
       {
-        "Price": 2949.00,
+        "Price": 2939.00,
         "Features": [],
         "Date": "2024-05-13T07:45:34.4854167-04:00",
         "Update": "2024-05-23T10:12:14.4969723-04:00",
@@ -276,7 +276,7 @@
         "Label": "Kit i7-14700K + MSI MPG Z790 EDGE WIFI"
       },
       {
-        "Price": 775.00,
+        "Price": 765.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -292,7 +292,7 @@
         "Label": "Kit i9-12900K +MEG Z690 ACE +Líquido MasterLiquid ML240L ARGB V2"
       },
       {
-        "Price": 935.00,
+        "Price": 925.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -327,7 +327,7 @@
         "Label": "Kit i5-14600K +Gigabyte Z790 Eagle AX"
       },
       {
-        "Price": 645.00,
+        "Price": 635.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -528,7 +528,7 @@
         "Label": "Kit i7-14700K +Liquida 240 ARGB +MPG Z790 EDGE +64GB DDR5 G.Skill Trident Z5 RGB"
       },
       {
-        "Price": 909.00,
+        "Price": 899.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -3564,7 +3564,7 @@
         "Label": "Micro AMD Ryzen 5 5600G +Disipador"
       },
       {
-        "Price": 335.00,
+        "Price": 325.00,
         "Features": [
           "12Gen",
           "24 Hilos",
