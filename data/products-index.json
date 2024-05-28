@@ -18,14 +18,6 @@
         "Label": "PC RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +AOC 24\""
       },
       {
-        "Price": 2339.00,
-        "Features": [],
-        "Date": "2024-04-19T09:30:33.0428038-04:00",
-        "Update": "2024-05-23T10:12:14.4701076-04:00",
-        "Discount": 27.0,
-        "Label": "PC i9-14900K +Strix Z790-F Gaming Wifi +64GB DDR5 +1TB M.2 +2TB HDD +850W +27\""
-      },
-      {
         "Price": 2949.00,
         "Features": [],
         "Date": "2024-05-13T07:45:34.4854167-04:00",
@@ -66,6 +58,7 @@
         "Date": "2024-05-13T06:53:32.8200031-04:00",
         "Update": "2024-05-13T07:30:59.2128344-04:00",
         "Discount": 15.0,
+        "Def": true,
         "Label": "PC Ryzen 3 5300G +X570S Gaming X +16GB DDR4 RGB +512GB M.2 +CX550 550W +MSI 24\""
       },
       {
@@ -74,6 +67,7 @@
         "Date": "2024-05-26T07:32:40.4676158-04:00",
         "Update": "2024-05-26T07:57:36.6071177-04:00",
         "Discount": 23.0,
+        "Def": true,
         "Label": "PC Ryzen 3 5300G +Gigabyte X570S Gaming X +16GB DDR4 3600mhz +500GB M.2 500W +MSI Pro 24\""
       }
     ],
@@ -121,16 +115,6 @@
         "Update": "2024-05-24T04:53:12.3881849-04:00",
         "Discount": 19.0,
         "Label": "Torre i5-12400 +Z690 EXTREME +16GB DDR4 RGB +512GB M.2 +MSI 750W + Chasis RGB"
-      }
-    ],
-    "Entusiasta": [
-      {
-        "Price": 3069.00,
-        "Features": [],
-        "Date": "2024-04-24T03:52:55.4140473-04:00",
-        "Update": "2024-05-04T08:26:34.0673275-04:00",
-        "Discount": 30.0,
-        "Label": "Torre RTX 4070 Ti Super OC 16GB +i9-14900K +MSI MPG Z790 EDGE +64GB DDR5 +2TB M.2 +850W"
       }
     ],
     "Gamer": [
@@ -206,16 +190,6 @@
         "Discount": 21.0,
         "Def": true,
         "Label": "Torre RTX 3060 12GB +i5-12600KF +TUF Z690-Plus Wifi +32GB DDR5 +512GB M.2 +750W"
-      }
-    ],
-    "Pro": [
-      {
-        "Price": 1839.00,
-        "Features": [],
-        "Date": "2024-04-14T11:06:43.2322357-04:00",
-        "Update": "2024-05-24T04:53:12.3529086-04:00",
-        "Discount": 33.0,
-        "Label": "Torre i9-14900K +Líquido +Z790-F Gaming Wifi +64GB DDR5 +1TB M.2 +2TB HDD +850W"
       }
     ]
   },
@@ -456,6 +430,7 @@
         "Date": "2024-05-07T10:18:16.6653644-04:00",
         "Update": "2024-05-23T09:58:31.8308143-04:00",
         "Discount": 4.0,
+        "Def": true,
         "Label": "Kit Ryzen 3 5300G +Gigabyte X570S Gaming X +8GB DDR4 Team T-Force Vulcan Z 3200mhz"
       },
       {
@@ -475,6 +450,7 @@
         "Date": "2024-05-07T09:51:09.2370776-04:00",
         "Update": "2024-05-23T10:04:15.1176204-04:00",
         "Discount": 10.0,
+        "Def": true,
         "Label": "Kit Ryzen 3 5300G +Gigabyte X570S Gaming X +16GB RAM DDR4 GeIL ORION RGB 3600mhz"
       },
       {
@@ -497,22 +473,6 @@
       }
     ],
     "Entusiasta": [
-      {
-        "Price": 1004.00,
-        "Features": [
-          "14Gen",
-          "24 Core",
-          "32 Hilos",
-          "6Ghz",
-          "Wifi",
-          "Bluetooth",
-          "10xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-04-13T04:12:47.4749085-04:00",
-        "Update": "2024-04-30T09:33:05.5039424-04:00",
-        "Label": "Kit i9-14900K +Strix Z790-F Gaming"
-      },
       {
         "Price": 1029.00,
         "Features": [
@@ -548,44 +508,6 @@
         "Update": "2024-05-23T09:58:31.7205027-04:00",
         "Discount": 9.0,
         "Label": "Kit i7-14700K +Liquida 240 ARGB +MPG Z790 EDGE +64GB DDR5 G.Skill Trident Z5 RGB"
-      },
-      {
-        "Price": 1239.00,
-        "Features": [
-          "14Gen",
-          "24 Core",
-          "32 Hilos",
-          "6Ghz",
-          "2x32GB",
-          "6400mhz",
-          "Wifi",
-          "Bluetooth",
-          "10xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-04-13T04:13:05.9454818-04:00",
-        "Update": "2024-05-23T09:58:31.7425482-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i9-14900K +Strix Z790-F Gaming +64GB DDR5 G.Skill Trident Z5 RGB 6400mhz"
-      },
-      {
-        "Price": 1489.00,
-        "Features": [
-          "14Gen",
-          "24 Core",
-          "32 Hilos",
-          "6Ghz",
-          "2x32GB",
-          "6400mhz",
-          "Wifi",
-          "Bluetooth",
-          "10xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-04-13T04:13:52.914243-04:00",
-        "Update": "2024-05-23T09:58:31.7641572-04:00",
-        "Discount": 9.0,
-        "Label": "Kit i9-14900K +Líquido RYUO III 240 ARGB +Strix Z790-F Gaming +64GB DDR5 RGB"
       },
       {
         "Price": 909.00,
@@ -1201,27 +1123,6 @@
         "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce X 240"
       },
       {
-        "Price": 249.00,
-        "Features": [
-          "2200rpm",
-          "71cfm",
-          "36db",
-          "2xFan",
-          "240mm",
-          "Copper",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "LGA 20XX",
-          "AM5",
-          "AM4",
-          "TR4"
-        ],
-        "Date": "2023-10-11T10:56:20.6230943-04:00",
-        "Update": "2024-04-10T12:09:21.3054565-04:00",
-        "Label": "Disipador Líquido ASUS ROG RYUO III 240 ARGB"
-      },
-      {
         "Price": 135.00,
         "Features": [
           "2xFan",
@@ -1783,18 +1684,6 @@
         "Label": "Fan KIT Corsair AR120 RGB 3x120mm"
       },
       {
-        "Price": 11.00,
-        "Features": [
-          "120mm",
-          "Bola",
-          "90cfm",
-          "3Pin"
-        ],
-        "Date": "2024-04-30T06:44:55.3819281-04:00",
-        "Update": "2024-05-02T16:59:00.9739302-04:00",
-        "Label": "Fan Corsair 120mm Brushless"
-      },
-      {
         "Price": 14.00,
         "Features": [
           "Magnetic Levitation",
@@ -2127,17 +2016,6 @@
         "Date": "2023-12-28T14:07:23.8098728-05:00",
         "Update": "2024-01-28T13:12:19.9574746-05:00",
         "Label": "RAM DDR4 G.Skill TridentZ RGB 64GB 3600mhz"
-      },
-      {
-        "Price": 245.00,
-        "Features": [
-          "2x32GB",
-          "CL32",
-          "Disipadas"
-        ],
-        "Date": "2024-01-16T04:52:56.2821241-05:00",
-        "Update": "2024-01-28T13:12:19.99336-05:00",
-        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 64GB 6400mhz"
       },
       {
         "Price": 235.00,
@@ -3777,24 +3655,6 @@
         "Label": "Micro Intel Core i7-14700K"
       },
       {
-        "Price": 599.00,
-        "Features": [
-          "14Gen",
-          "24 Core",
-          "32 Hilos",
-          "6Ghz",
-          "36mb L3",
-          "253W",
-          "60899pm",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-10-23T12:31:45.6342687-04:00",
-        "Update": "2024-05-19T21:05:41.5295114-04:00",
-        "Label": "Micro Intel Core i9-14900K"
-      },
-      {
         "Price": 189.00,
         "Features": [
           "12Gen",
@@ -3896,6 +3756,7 @@
         ],
         "Date": "2023-12-28T22:14:48.5974394-05:00",
         "Update": "2024-05-21T09:40:34.2453728-04:00",
+        "Def": true,
         "Label": "Micro AMD Ryzen 3 5300G +Disipador"
       },
       {
