@@ -1,40 +1,5 @@
 {
   "Computadoras": {
-    "Gamer": [
-      {
-        "Price": 1997.00,
-        "Features": [],
-        "Date": "2024-04-20T10:42:06.0831707-04:00",
-        "Update": "2024-05-04T08:26:33.8073761-04:00",
-        "Discount": 20.0,
-        "Label": "PC RTX 4060 Ti 8GB +Core i7-12700K +Z790 Eagle AX +32GB DDR5 +512GB M.2 +27\""
-      },
-      {
-        "Price": 1443.00,
-        "Features": [],
-        "Date": "2024-03-16T03:23:44.5153672-04:00",
-        "Update": "2024-05-14T08:04:23.728329-04:00",
-        "Discount": 20.0,
-        "Label": "PC RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +AOC 24\""
-      },
-      {
-        "Price": 1769.00,
-        "Features": [],
-        "Date": "2024-03-16T03:24:24.1080741-04:00",
-        "Update": "2024-05-23T10:12:14.5185716-04:00",
-        "Discount": 19.0,
-        "Def": true,
-        "Label": "PC RTX 3060 12GB +i5-12600KF +TUF Z690-Plus Wifi +32GB DDR5 +512GB M.2 +Acer 27\""
-      },
-      {
-        "Price": 1117.00,
-        "Features": [],
-        "Date": "2024-05-27T08:09:14.7134414-04:00",
-        "Update": "2024-05-27T08:32:25.3629938-04:00",
-        "Discount": 25.0,
-        "Label": "PC RTX 3050 OC 6GB +i3-12100F +B760M DS3H +16GB DDR4 RGB +500GB M.2 +700W +Chasis RGB +MSI Pro 24\""
-      }
-    ],
     "Multimedia": [
       {
         "Price": 890.00,
@@ -61,6 +26,24 @@
         "Discount": 23.0,
         "Def": true,
         "Label": "PC Ryzen 3 5300G +Gigabyte X570S Gaming X +16GB DDR4 3600mhz +500GB M.2 500W +MSI Pro 24\""
+      }
+    ],
+    "Gamer": [
+      {
+        "Price": 1443.00,
+        "Features": [],
+        "Date": "2024-03-16T03:23:44.5153672-04:00",
+        "Update": "2024-05-14T08:04:23.728329-04:00",
+        "Discount": 20.0,
+        "Label": "PC RX 6600 8GB +i5-12600KF +Z690 EXTREME +16GB 3600mhz DDR4 +512GB M.2 +AOC 24\""
+      },
+      {
+        "Price": 1117.00,
+        "Features": [],
+        "Date": "2024-05-27T08:09:14.7134414-04:00",
+        "Update": "2024-05-27T08:32:25.3629938-04:00",
+        "Discount": 25.0,
+        "Label": "PC RTX 3050 OC 6GB +i3-12100F +B760M DS3H +16GB DDR4 RGB +500GB M.2 +700W +Chasis RGB +MSI Pro 24\""
       }
     ],
     "": [
@@ -4379,21 +4362,6 @@
         "Date": "2023-12-28T14:08:53.0334804-05:00",
         "Update": "2024-01-18T10:29:16.5258104-05:00",
         "Label": "Monitor AOC 24\" 165Hz VA 1ms"
-      },
-      {
-        "Price": 329.00,
-        "Features": [
-          "8Bit",
-          "HDR10",
-          "Gaming",
-          "QHD",
-          "2K",
-          "DP",
-          "250nit"
-        ],
-        "Date": "2023-12-07T22:24:09.640104-05:00",
-        "Update": "2024-01-25T12:38:36.4470355-05:00",
-        "Label": "Monitor Acer Nitro 27\" 1440p Curvo 170Hz 1ms VA SPK"
       },
       {
         "Price": 195.00,
