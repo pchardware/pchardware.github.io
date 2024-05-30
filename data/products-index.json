@@ -2,14 +2,6 @@
   "Computadoras": {
     "Multimedia": [
       {
-        "Price": 890.00,
-        "Features": [],
-        "Date": "2024-04-27T05:48:56.699818-04:00",
-        "Update": "2024-05-04T08:26:33.9071219-04:00",
-        "Discount": 35.0,
-        "Label": "PC i3-14100 +B760M PRO RS +16 DDR4 +512GB M.2 +500W +Chasis RGB +MSI 25\""
-      },
-      {
         "Price": 931.00,
         "Features": [],
         "Date": "2024-05-13T06:53:32.8200031-04:00",
@@ -17,15 +9,6 @@
         "Discount": 15.0,
         "Def": true,
         "Label": "PC Ryzen 3 5300G +X570S Gaming X +16GB DDR4 RGB +512GB M.2 +CX550 550W +MSI 24\""
-      },
-      {
-        "Price": 889.00,
-        "Features": [],
-        "Date": "2024-05-26T07:32:40.4676158-04:00",
-        "Update": "2024-05-26T07:57:36.6071177-04:00",
-        "Discount": 23.0,
-        "Def": true,
-        "Label": "PC Ryzen 3 5300G +Gigabyte X570S Gaming X +16GB DDR4 3600mhz +500GB M.2 500W +MSI Pro 24\""
       }
     ],
     "Gamer": [
@@ -59,14 +42,6 @@
   },
   "Torres": {
     "Multimedia": [
-      {
-        "Price": 631.00,
-        "Features": [],
-        "Date": "2024-04-27T04:41:03.137563-04:00",
-        "Update": "2024-05-04T08:26:33.8874966-04:00",
-        "Discount": 10.0,
-        "Label": "Torre i3-14100 +Gigabyte B760M DS3H +16GB DDR4 +500GB M.2 +500W +Chasis RGB"
-      },
       {
         "Price": 683.00,
         "Features": [],
@@ -557,22 +532,6 @@
         "Date": "2023-09-11T09:09:29.0343419-04:00",
         "Update": "2023-11-03T12:22:11.728327-04:00",
         "Label": "Fuente Apevia Spirit 600W"
-      },
-      {
-        "Price": 75.00,
-        "Features": [
-          "35A",
-          "80+",
-          "2x 6+2Pin",
-          "6x SATA",
-          "1x 4+4 EPS",
-          "140mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-05-12T07:54:08.9581203-04:00",
-        "Update": "2023-12-29T14:20:08.0902021-05:00",
-        "Label": "Fuente Thermaltake SMART 500W"
       },
       {
         "Price": 259.00,
@@ -1831,22 +1790,6 @@
         "Date": "2024-04-30T06:44:38.2139693-04:00",
         "Update": "2024-04-30T09:42:29.9164595-04:00",
         "Label": "Disipador Noctua NH-D15 Chromax Black"
-      },
-      {
-        "Price": 119.00,
-        "Features": [
-          "1700rpm",
-          "25.1dB",
-          "LGA 1200",
-          "LGA 1700",
-          "LGA 2011",
-          "LGA 2066",
-          "AM4",
-          "AM5"
-        ],
-        "Date": "2024-04-30T06:44:44.0058799-04:00",
-        "Update": "2024-04-30T09:42:29.9336256-04:00",
-        "Label": "Disipador Noctua NH-U12S Redux Grey"
       }
     ],
     "Memoria RAM": [
@@ -3815,15 +3758,6 @@
         "Date": "2023-07-26T18:49:01.6603508-04:00",
         "Update": "2023-07-31T14:53:37.2835019-04:00",
         "Label": "Adaptador HDMI a DVI"
-      },
-      {
-        "Price": 9.00,
-        "Features": [
-          "DCA106-HV"
-        ],
-        "Date": "2023-06-07T14:58:54.5233761-04:00",
-        "Update": "2023-12-14T07:55:28.8631803-05:00",
-        "Label": "Conversor DINO HDMI a VGA"
       }
     ],
     "Externo": [
