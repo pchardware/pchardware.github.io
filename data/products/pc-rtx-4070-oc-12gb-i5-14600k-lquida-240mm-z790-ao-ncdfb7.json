@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-rtx-4070-oc-12gb-i5-14600k-lquida-240mm-z790-ao-ncdfb7-1.webp",
+    "/images/products/pc-rtx-4070-oc-12gb-i5-14600k-lquida-240mm-z790-ao-ncdfb7-2.webp",
+    "/images/products/pc-rtx-4070-oc-12gb-i5-14600k-lquida-240mm-z790-ao-ncdfb7-3.webp",
+    "/images/products/pc-rtx-4070-oc-12gb-i5-14600k-lquida-240mm-z790-ao-ncdfb7-4.webp",
+    "/images/products/pc-rtx-4070-oc-12gb-i5-14600k-lquida-240mm-z790-ao-ncdfb7-5.webp",
+    "/images/products/pc-rtx-4070-oc-12gb-i5-14600k-lquida-240mm-z790-ao-ncdfb7-6.webp",
+    "/images/products/pc-rtx-4070-oc-12gb-i5-14600k-lquida-240mm-z790-ao-ncdfb7-7.webp",
+    "/images/products/pc-rtx-4070-oc-12gb-i5-14600k-lquida-240mm-z790-ao-ncdfb7-8.webp",
+    "/images/products/pc-rtx-4070-oc-12gb-i5-14600k-lquida-240mm-z790-ao-ncdfb7-9.webp",
+    "/images/products/pc-rtx-4070-oc-12gb-i5-14600k-lquida-240mm-z790-ao-ncdfb7-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-14600K\n+ Disipador Líquido Gigabyte GP-AORUS Waterforce II 240 G2\n+ Board Gigabyte Z790 Aorus Elite AX\n+ RAM DDR5 Gigabyte Aorus RGB 32GB 6000mhz\n+ SSD M.2 TeamGroup T-Force Z44L 1TB\n+ Tarjeta de Video Gigabyte RTX 4070 Gaming OC V2 12GB\n+ Fuente Gigabyte UD850GM 850W\n+ Chasis Cougar Archon 2 Mesh RGB Black\n+ Monitor Acer Nitro 24\" 165Hz 1ms SPK VA\n+ COMBO Teclado MSI Forge GK100 + Mouse\n",
+  "Price": 2255.00,
+  "Features": [],
+  "Date": "2024-05-31T08:06:41.7828097-04:00",
+  "Update": "2024-05-31T08:35:36.7520837-04:00",
+  "Discount": 19.0,
+  "Label": "PC RTX 4070 OC 12GB +i5-14600K +Líquida 240mm +Z790 Aorus Elite AX +32GB DDR5 +1TB M.2 + 850W + 24\""
+}
