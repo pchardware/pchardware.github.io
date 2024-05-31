@@ -27,6 +27,30 @@
         "Update": "2024-05-27T08:32:25.3629938-04:00",
         "Discount": 25.0,
         "Label": "PC RTX 3050 OC 6GB +i3-12100F +B760M DS3H +16GB DDR4 RGB +500GB M.2 +700W +Chasis RGB +MSI Pro 24\""
+      },
+      {
+        "Price": 2255.00,
+        "Features": [],
+        "Date": "2024-05-31T08:06:41.7828097-04:00",
+        "Update": "2024-05-31T08:35:36.7520837-04:00",
+        "Discount": 19.0,
+        "Label": "PC RTX 4070 OC 12GB +i5-14600K +Líquida 240mm +Z790 Aorus Elite AX +32GB DDR5 +1TB M.2 + 850W + 24\""
+      },
+      {
+        "Price": 2299.00,
+        "Features": [],
+        "Date": "2024-05-31T08:09:32.8710197-04:00",
+        "Update": "2024-05-31T08:35:36.788911-04:00",
+        "Discount": 23.0,
+        "Label": "PC RTX 4070 Ti OC 12GB +i7-12700K +Líquida +MEG Z690 ACE +32GB DDR5 RGB +500G +850W +24\""
+      },
+      {
+        "Price": 2349.00,
+        "Features": [],
+        "Date": "2024-05-31T08:15:50.1434046-04:00",
+        "Update": "2024-05-31T08:35:36.820801-04:00",
+        "Discount": 23.0,
+        "Label": "PC RTX 4070 Ti OC 12GB +i7-12700K +Líquida +Strix Z690-E Gaming +32GB DDR5 RGB +500GB M.2 +1000W + 24\""
       }
     ],
     "": [
@@ -37,6 +61,34 @@
         "Update": "2024-05-26T07:57:36.6446769-04:00",
         "Discount": 23.0,
         "Label": "PC Ryzen 5 5600G +X570S Gaming X +16GB DDR4 RGB+ 512GB SSD +700W +Chasis RGB +MSI Pro 24\""
+      }
+    ],
+    "Entusiasta": [
+      {
+        "Price": 2899.00,
+        "Features": [],
+        "Date": "2024-05-31T07:58:30.4733851-04:00",
+        "Update": "2024-05-31T08:35:36.6828564-04:00",
+        "Discount": 21.0,
+        "Label": "PC RTX 4070 Ti OC 12GB +i9-12900K +Liquida +MSI MEG Z690 ACE +32GB DDR5 RGB +2T M2 +1000w +27\""
+      },
+      {
+        "Price": 3465.00,
+        "Features": [],
+        "Date": "2024-05-31T08:00:09.5909348-04:00",
+        "Update": "2024-05-31T08:35:36.7098197-04:00",
+        "Discount": 30.0,
+        "Label": "PC RTX 4070 Ti Super OC 16GB +i7-14700K +Líquida +Strix Z790-F Gaming +64GB DDR5 RGB +2TB M2 +850W Platinum +27\""
+      }
+    ],
+    "Rendimiento": [
+      {
+        "Price": 2565.00,
+        "Features": [],
+        "Date": "2024-05-31T08:02:51.264212-04:00",
+        "Update": "2024-05-31T08:35:36.730599-04:00",
+        "Discount": 20.0,
+        "Label": "PC RX 7800 XT 16GB +Ryzen 9 7900X +Liquida +Strix B650-A +64GB DDR5 RGB+ 1TB M2 +850W +27\""
       }
     ]
   },
