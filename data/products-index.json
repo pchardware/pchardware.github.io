@@ -2695,19 +2695,6 @@
         "Label": "SSD M.2 Solidigm P41 Plus 512GB"
       },
       {
-        "Price": 155.00,
-        "Features": [
-          "7000mbs",
-          "1400tbw",
-          "HeatSink",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-10-03T06:56:34.7397369-04:00",
-        "Update": "2024-02-28T05:32:17.4955931-05:00",
-        "Label": "SSD M.2 Team Group T-Force Gaming Cardea A440 2TB"
-      },
-      {
         "Price": 75.00,
         "Features": [
           "3500mbs",
