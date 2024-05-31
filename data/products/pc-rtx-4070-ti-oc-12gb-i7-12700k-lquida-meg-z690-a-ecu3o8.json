@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i7-12700k-lquida-meg-z690-a-ecu3o8-1.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i7-12700k-lquida-meg-z690-a-ecu3o8-2.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i7-12700k-lquida-meg-z690-a-ecu3o8-3.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i7-12700k-lquida-meg-z690-a-ecu3o8-4.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i7-12700k-lquida-meg-z690-a-ecu3o8-5.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i7-12700k-lquida-meg-z690-a-ecu3o8-6.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i7-12700k-lquida-meg-z690-a-ecu3o8-7.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i7-12700k-lquida-meg-z690-a-ecu3o8-8.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i7-12700k-lquida-meg-z690-a-ecu3o8-9.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i7-12700k-lquida-meg-z690-a-ecu3o8-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i7-12700K\n+ Disipador Líquido Cooler Master MasterLiquid ML240L ARGB V2\n+ Board MSI MEG Z690 ACE\n+ RAM DDR5 G.Skill Trident Z5 NEO RGB 32GB 6400mhz\n+ SSD M.2 Corsair MP600 GS 500GB\n+ Tarjeta de Video Gigabyte RTX 4070 Ti Windforce OC 12GB\n+ Fuente Thermaltake Smart BM3 850W\n+ Chasis Cougar Archon 2 Mesh RGB Black\n+ Monitor Acer Nitro 24\" 165Hz 1ms SPK VA\n+ COMBO Teclado Asus TUF Gaming K1 + Mouse M3\n",
+  "Price": 2299.00,
+  "Features": [],
+  "Date": "2024-05-31T08:09:32.8710197-04:00",
+  "Update": "2024-05-31T08:35:36.788911-04:00",
+  "Discount": 23.0,
+  "Label": "PC RTX 4070 Ti OC 12GB +i7-12700K +Líquida +MEG Z690 ACE +32GB DDR5 RGB +500G +850W +24\""
+}
