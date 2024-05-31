@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i7-12700k-lquida-strix-z690-br4e6l-1.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i7-12700k-lquida-strix-z690-br4e6l-2.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i7-12700k-lquida-strix-z690-br4e6l-3.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i7-12700k-lquida-strix-z690-br4e6l-4.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i7-12700k-lquida-strix-z690-br4e6l-5.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i7-12700k-lquida-strix-z690-br4e6l-6.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i7-12700k-lquida-strix-z690-br4e6l-7.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i7-12700k-lquida-strix-z690-br4e6l-8.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i7-12700k-lquida-strix-z690-br4e6l-9.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i7-12700k-lquida-strix-z690-br4e6l-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i7-12700K\n+ Disipador Líquido Cooler Master MasterLiquid ML240L ARGB V2\n+ Board Asus ROG Strix Z690-E Gaming Wifi\n+ RAM DDR5 G.Skill Trident Z5 NEO RGB 32GB 6400mhz\n+ SSD M.2 Corsair MP600 GS 500GB\n+ Tarjeta de Video Gigabyte RTX 4070 Ti Windforce OC 12GB\n+ Fuente Corsair RM1000X 1000W\n+ Chasis Cougar Archon 2 Mesh RGB Black\n+ Monitor AOC 24\" 165Hz VA 1ms\n+ COMBO Teclado Asus TUF Gaming K1 + Mouse M3\n",
+  "Price": 2349.00,
+  "Features": [],
+  "Date": "2024-05-31T08:15:50.1434046-04:00",
+  "Update": "2024-05-31T08:35:36.820801-04:00",
+  "Discount": 23.0,
+  "Label": "PC RTX 4070 Ti OC 12GB +i7-12700K +Líquida +Strix Z690-E Gaming +32GB DDR5 RGB +500GB M.2 +1000W + 24\""
+}
