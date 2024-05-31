@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Entusiasta",
+  "Images": [
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i9-12900k-liquida-msi-meg-z-prgbuk-1.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i9-12900k-liquida-msi-meg-z-prgbuk-2.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i9-12900k-liquida-msi-meg-z-prgbuk-3.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i9-12900k-liquida-msi-meg-z-prgbuk-4.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i9-12900k-liquida-msi-meg-z-prgbuk-5.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i9-12900k-liquida-msi-meg-z-prgbuk-6.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i9-12900k-liquida-msi-meg-z-prgbuk-7.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i9-12900k-liquida-msi-meg-z-prgbuk-8.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i9-12900k-liquida-msi-meg-z-prgbuk-9.webp",
+    "/images/products/pc-rtx-4070-ti-oc-12gb-i9-12900k-liquida-msi-meg-z-prgbuk-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i9-12900K\n+ Disipador Líquido Asus TUF Gaming LC II 360 ARGB\n+ Board MSI MEG Z690 ACE\n+ RAM DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz\n+ SSD M.2 Samsung 980 PRO 2TB\n+ Tarjeta de Video Gigabyte RTX 4070 Ti Windforce OC 12GB\n+ Fuente Corsair RM1000X 1000W\n+ Chasis Cougar Uniface S Black\n+ Monitor Acer Nitro 27\" 1440p 170Hz IPS 0.5ms 10Bit 400nit 4xUSB3 A.Ajustable SPK-3W\n+ COMBO Teclado Asus TUF Gaming K1 + Mouse M3\n",
+  "Price": 2899.00,
+  "Features": [],
+  "Date": "2024-05-31T07:58:30.4733851-04:00",
+  "Update": "2024-05-31T08:35:36.6828564-04:00",
+  "Discount": 21.0,
+  "Label": "PC RTX 4070 Ti OC 12GB +i9-12900K +Liquida +MSI MEG Z690 ACE +32GB DDR5 RGB +2T M2 +1000w +27\""
+}
