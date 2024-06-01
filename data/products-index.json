@@ -1670,6 +1670,13 @@
         "Date": "2023-09-02T12:38:41.9633686-04:00",
         "Update": "2024-05-16T09:40:37.9386074-04:00",
         "Label": "Fan HUB Corsair Comander Core XT"
+      },
+      {
+        "Price": 5.00,
+        "Features": [],
+        "Date": "2024-06-01T15:56:21.5715548-04:00",
+        "Update": "2024-06-01T16:41:03.103694-04:00",
+        "Label": "Pasta Termica - Arctic Silver 5 High-Density Polysynthetic Silver Thermal Compound AS5-3.5G"
       }
     ],
     "Disipador por Aire": [
@@ -1842,6 +1849,34 @@
         "Date": "2024-04-30T06:44:38.2139693-04:00",
         "Update": "2024-04-30T09:42:29.9164595-04:00",
         "Label": "Disipador Noctua NH-D15 Chromax Black"
+      },
+      {
+        "Price": 17.00,
+        "Features": [],
+        "Date": "2024-06-01T15:56:26.5539425-04:00",
+        "Update": "2024-06-01T16:41:03.135035-04:00",
+        "Label": "Disipador AMD Wraith Stealth x7 AM4"
+      },
+      {
+        "Price": 15.00,
+        "Features": [],
+        "Date": "2024-06-01T15:56:39.9622361-04:00",
+        "Update": "2024-06-01T16:41:03.1617861-04:00",
+        "Label": "Disipador Intel Original LGA 1700"
+      },
+      {
+        "Price": 5.00,
+        "Features": [],
+        "Date": "2024-06-01T15:56:44.2189999-04:00",
+        "Update": "2024-06-01T16:41:03.1959068-04:00",
+        "Label": "Disipador AMD AM3 DKM-7D52A-A1-GP"
+      },
+      {
+        "Price": 29.00,
+        "Features": [],
+        "Date": "2024-06-01T15:56:48.5252604-04:00",
+        "Update": "2024-06-01T16:41:03.2270608-04:00",
+        "Label": "Disipador AMD Wraith Prism RGB LED AM4"
       }
     ],
     "Memoria RAM": [
@@ -4519,6 +4554,15 @@
         "Update": "2024-05-24T19:44:15.4281219-04:00",
         "Def": true,
         "Label": "Switch TP-Link LiteWave 5 Port Gigabit Ethernet"
+      }
+    ],
+    "Silla": [
+      {
+        "Price": 379.00,
+        "Features": [],
+        "Date": "2024-06-01T15:56:17.4134549-04:00",
+        "Update": "2024-06-01T16:41:03.0740341-04:00",
+        "Label": "Silla Devoko Ergonomic Gaming RED"
       }
     ]
   }
