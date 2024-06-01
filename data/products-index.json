@@ -1740,19 +1740,6 @@
     ],
     "Disipador por Aire": [
       {
-        "Price": 8.00,
-        "Features": [
-          "LGA 1200",
-          "Aluminio",
-          "1xFan",
-          "Top-flow",
-          "Negro"
-        ],
-        "Date": "2023-05-11T12:52:12.030034-04:00",
-        "Update": "2023-10-09T17:48:20.6834048-04:00",
-        "Label": "Disipador Intel Generic Plus"
-      },
-      {
         "Price": 49.00,
         "Features": [
           "ARGB",
@@ -1774,22 +1761,6 @@
         "Date": "2023-06-19T07:49:47.5425532-04:00",
         "Update": "2023-10-09T17:48:20.6927476-04:00",
         "Label": "Disipador Cooler Master Hyper 212 Spectrum V3"
-      },
-      {
-        "Price": 5.00,
-        "Features": [
-          "LGA 115X",
-          "2800rpm",
-          "22dBA",
-          "Aluminio",
-          "1xFan",
-          "19mm",
-          "Top-flow",
-          "Negro"
-        ],
-        "Date": "2023-06-07T15:04:28.5510666-04:00",
-        "Update": "2023-10-09T17:48:20.8414306-04:00",
-        "Label": "Disipador Intel Stock Original"
       },
       {
         "Price": 89.00,
@@ -1910,13 +1881,6 @@
         "Label": "Disipador Noctua NH-D15 Chromax Black"
       },
       {
-        "Price": 15.00,
-        "Features": [],
-        "Date": "2024-06-01T15:56:39.9622361-04:00",
-        "Update": "2024-06-01T16:41:03.1617861-04:00",
-        "Label": "Disipador Intel Original LGA 1700"
-      },
-      {
         "Price": 5.00,
         "Features": [],
         "Date": "2024-06-01T15:56:44.2189999-04:00",
@@ -1964,6 +1928,54 @@
         "Date": "2024-06-01T15:56:48.5252604-04:00",
         "Update": "2024-06-01T19:20:55.5130094-04:00",
         "Label": "Disipador AMD Wraith Prism RGB LED"
+      },
+      {
+        "Price": 8.00,
+        "Features": [
+          "Aluminio",
+          "1xFan",
+          "Top-flow",
+          "Negro"
+        ],
+        "Date": "2023-05-11T12:52:12.030034-04:00",
+        "Update": "2024-06-01T19:34:28.2811172-04:00",
+        "Label": "Disipador Intel Generic Plus LGA 1200"
+      },
+      {
+        "Price": 5.00,
+        "Features": [
+          "2800rpm",
+          "22dBA",
+          "Aluminio",
+          "1xFan",
+          "19mm",
+          "Top-flow",
+          "Negro"
+        ],
+        "Date": "2023-06-07T15:04:28.5510666-04:00",
+        "Update": "2024-06-01T19:34:28.3218564-04:00",
+        "Label": "Disipador Intel Stock Original LGA 115X"
+      },
+      {
+        "Price": 15.00,
+        "Features": [
+          "LGA 1700",
+          "Cobre",
+          "Aluminio",
+          "Stock",
+          "Original",
+          "1xFan",
+          "65W",
+          "PWM",
+          "28dB",
+          "3150rpm",
+          "Top-flow",
+          "Negro",
+          "M23901-001"
+        ],
+        "Date": "2024-06-01T15:56:39.9622361-04:00",
+        "Update": "2024-06-01T19:34:28.3477128-04:00",
+        "Label": "Disipador Intel Laminar RM1"
       }
     ],
     "Memoria RAM": [
