@@ -1910,13 +1910,6 @@
         "Label": "Disipador Noctua NH-D15 Chromax Black"
       },
       {
-        "Price": 17.00,
-        "Features": [],
-        "Date": "2024-06-01T15:56:26.5539425-04:00",
-        "Update": "2024-06-01T16:41:03.135035-04:00",
-        "Label": "Disipador AMD Wraith Stealth x7 AM4"
-      },
-      {
         "Price": 15.00,
         "Features": [],
         "Date": "2024-06-01T15:56:39.9622361-04:00",
@@ -1931,11 +1924,19 @@
         "Label": "Disipador AMD AM3 DKM-7D52A-A1-GP"
       },
       {
-        "Price": 29.00,
-        "Features": [],
-        "Date": "2024-06-01T15:56:48.5252604-04:00",
-        "Update": "2024-06-01T16:41:03.2270608-04:00",
-        "Label": "Disipador AMD Wraith Prism RGB LED AM4"
+        "Price": 17.00,
+        "Features": [
+          "AM4",
+          "90mm",
+          "Aluminio",
+          "1xFan",
+          "PWM",
+          "Top-flow",
+          "Negro"
+        ],
+        "Date": "2023-07-17T23:40:19.2345723-04:00",
+        "Update": "2024-06-01T19:20:55.4665327-04:00",
+        "Label": "Disipador AMD Wraith Stealth x5"
       },
       {
         "Price": 17.00,
@@ -1944,12 +1945,25 @@
           "90mm",
           "Aluminio",
           "1xFan",
+          "PWM",
           "Top-flow",
           "Negro"
         ],
-        "Date": "2023-07-17T23:40:19.2345723-04:00",
-        "Update": "2024-06-01T18:38:46.1026393-04:00",
-        "Label": "Enfriamiento AMD Wraith Stealth"
+        "Date": "2024-06-01T15:56:26.5539425-04:00",
+        "Update": "2024-06-01T19:20:55.4899504-04:00",
+        "Label": "Disipador AMD Wraith Stealth x7"
+      },
+      {
+        "Price": 29.00,
+        "Features": [
+          "AM4",
+          "1xFan",
+          "PWM",
+          "Top-Flow"
+        ],
+        "Date": "2024-06-01T15:56:48.5252604-04:00",
+        "Update": "2024-06-01T19:20:55.5130094-04:00",
+        "Label": "Disipador AMD Wraith Prism RGB LED"
       }
     ],
     "Memoria RAM": [
