@@ -1828,36 +1828,6 @@
         "Label": "Disipador AMD AM3 DKM-7D52A-A1-GP"
       },
       {
-        "Price": 17.00,
-        "Features": [
-          "AM4",
-          "90mm",
-          "Aluminio",
-          "1xFan",
-          "PWM",
-          "Top-flow",
-          "Negro"
-        ],
-        "Date": "2023-07-17T23:40:19.2345723-04:00",
-        "Update": "2024-06-01T19:20:55.4665327-04:00",
-        "Label": "Disipador AMD Wraith Stealth x5"
-      },
-      {
-        "Price": 17.00,
-        "Features": [
-          "AM4",
-          "90mm",
-          "Aluminio",
-          "1xFan",
-          "PWM",
-          "Top-flow",
-          "Negro"
-        ],
-        "Date": "2024-06-01T15:56:26.5539425-04:00",
-        "Update": "2024-06-01T19:20:55.4899504-04:00",
-        "Label": "Disipador AMD Wraith Stealth x7"
-      },
-      {
         "Price": 29.00,
         "Features": [
           "AM4",
@@ -1916,6 +1886,42 @@
         "Date": "2024-06-01T15:56:39.9622361-04:00",
         "Update": "2024-06-01T19:34:28.3477128-04:00",
         "Label": "Disipador Intel Laminar RM1"
+      },
+      {
+        "Price": 17.00,
+        "Features": [
+          "AM4",
+          "44dB",
+          "49.7cfm",
+          "1900rpm",
+          "90mm",
+          "Aluminio",
+          "1xFan",
+          "PWM",
+          "Top-flow",
+          "Negro"
+        ],
+        "Date": "2023-07-17T23:40:19.2345723-04:00",
+        "Update": "2024-06-01T22:19:50.7134342-04:00",
+        "Label": "Disipador AMD Wraith Stealth x5 S3000"
+      },
+      {
+        "Price": 17.00,
+        "Features": [
+          "AM4",
+          "44dB",
+          "49.7cfm",
+          "1900rpm",
+          "90mm",
+          "Aluminio",
+          "1xFan",
+          "PWM",
+          "Top-flow",
+          "Negro"
+        ],
+        "Date": "2024-06-01T15:56:26.5539425-04:00",
+        "Update": "2024-06-01T22:19:50.7388346-04:00",
+        "Label": "Disipador AMD Wraith Stealth x7 S5000"
       }
     ],
     "Memoria RAM": [
