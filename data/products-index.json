@@ -1,25 +1,5 @@
 {
   "Computadoras": {
-    "Multimedia": [
-      {
-        "Price": 931.00,
-        "Features": [],
-        "Date": "2024-05-13T06:53:32.8200031-04:00",
-        "Update": "2024-05-13T07:30:59.2128344-04:00",
-        "Discount": 15.0,
-        "Def": true,
-        "Label": "PC Ryzen 3 5300G +X570S Gaming X +16GB DDR4 RGB +512GB M.2 +CX550 550W +MSI 24\""
-      },
-      {
-        "Price": 889.00,
-        "Features": [],
-        "Date": "2024-05-26T07:32:40.4676158-04:00",
-        "Update": "2024-06-01T18:38:46.2379506-04:00",
-        "Discount": 23.0,
-        "Def": true,
-        "Label": "PC Ryzen 3 5300G +Gigabyte X570S Gaming X +16GB DDR4 3600mhz +500GB M.2 500W +MSI Pro 24\""
-      }
-    ],
     "Gamer": [
       {
         "Price": 1443.00,
@@ -97,14 +77,6 @@
         "Update": "2024-05-31T08:35:36.6828564-04:00",
         "Discount": 21.0,
         "Label": "PC RTX 4070 Ti OC 12GB +i9-12900K +Liquida +MSI MEG Z690 ACE +32GB DDR5 RGB +2T M2 +1000w +27\""
-      },
-      {
-        "Price": 3465.00,
-        "Features": [],
-        "Date": "2024-05-31T08:00:09.5909348-04:00",
-        "Update": "2024-05-31T08:35:36.7098197-04:00",
-        "Discount": 30.0,
-        "Label": "PC RTX 4070 Ti Super OC 16GB +i7-14700K +Líquida +Strix Z790-F Gaming +64GB DDR5 RGB +2TB M2 +850W Platinum +27\""
       }
     ],
     "Rendimiento": [
@@ -116,35 +88,20 @@
         "Discount": 20.0,
         "Label": "PC RX 7800 XT 16GB +Ryzen 9 7900X +Liquida +Strix B650-A +64GB DDR5 RGB+ 1TB M2 +850W +27\""
       }
+    ],
+    "Multimedia": [
+      {
+        "Price": 889.00,
+        "Features": [],
+        "Date": "2024-05-26T07:32:40.4676158-04:00",
+        "Update": "2024-06-01T18:38:46.2379506-04:00",
+        "Discount": 23.0,
+        "Def": true,
+        "Label": "PC Ryzen 3 5300G +Gigabyte X570S Gaming X +16GB DDR4 3600mhz +500GB M.2 500W +MSI Pro 24\""
+      }
     ]
   },
   "Torres": {
-    "Multimedia": [
-      {
-        "Price": 683.00,
-        "Features": [],
-        "Date": "2024-04-29T08:50:52.710014-04:00",
-        "Update": "2024-05-24T04:03:55.9287894-04:00",
-        "Discount": 19.0,
-        "Label": "Torre i3-14100 +B760M PRO RS +16GB RAM 6000mhz +500GB M.2 Corsair+ CORSAIR CX550 550W"
-      },
-      {
-        "Price": 839.00,
-        "Features": [],
-        "Date": "2024-05-04T08:28:34.7719769-04:00",
-        "Update": "2024-05-24T04:53:12.370499-04:00",
-        "Discount": 21.0,
-        "Label": "Torre i5-12400 +Z690 EXTREME +16GB DDR4 +500GB M.2 +EVGA 850W +Chasis RGB Black"
-      },
-      {
-        "Price": 787.00,
-        "Features": [],
-        "Date": "2024-05-13T08:28:37.7031053-04:00",
-        "Update": "2024-05-24T04:53:12.3881849-04:00",
-        "Discount": 19.0,
-        "Label": "Torre i5-12400 +Z690 EXTREME +16GB DDR4 RGB +512GB M.2 +MSI 750W + Chasis RGB"
-      }
-    ],
     "Gamer": [
       {
         "Price": 903.00,
@@ -218,6 +175,24 @@
         "Update": "2024-06-01T18:38:46.2139339-04:00",
         "Discount": 23.0,
         "Label": "Torre RTX 4060 Ti 3X 8GB +i7-12700K +MEG Z690 ACE +32GB DDR5 +850W +Chasis RGB"
+      }
+    ],
+    "Multimedia": [
+      {
+        "Price": 839.00,
+        "Features": [],
+        "Date": "2024-05-04T08:28:34.7719769-04:00",
+        "Update": "2024-05-24T04:53:12.370499-04:00",
+        "Discount": 21.0,
+        "Label": "Torre i5-12400 +Z690 EXTREME +16GB DDR4 +500GB M.2 +EVGA 850W +Chasis RGB Black"
+      },
+      {
+        "Price": 787.00,
+        "Features": [],
+        "Date": "2024-05-13T08:28:37.7031053-04:00",
+        "Update": "2024-05-24T04:53:12.3881849-04:00",
+        "Discount": 19.0,
+        "Label": "Torre i5-12400 +Z690 EXTREME +16GB DDR4 RGB +512GB M.2 +MSI 750W + Chasis RGB"
       }
     ]
   },
@@ -620,25 +595,6 @@
         "Label": "Fuente Apevia Spirit 600W"
       },
       {
-        "Price": 259.00,
-        "Features": [
-          "71A",
-          "80+ PLATINUM",
-          "ARGB",
-          "Full Modular",
-          "1x 16Pin",
-          "2x 4+4 EPS",
-          "3x 6+2Pin",
-          "10x SATA",
-          "160mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-08-08T10:02:44.4021387-04:00",
-        "Update": "2024-01-24T02:24:17.2899613-05:00",
-        "Label": "Fuente Asus ROG Thor 850W Platinum II"
-      },
-      {
         "Price": 165.00,
         "Features": [
           "71A",
@@ -818,22 +774,6 @@
         "Date": "2024-03-13T15:18:09.1634271-04:00",
         "Update": "2024-05-02T12:10:14.2938118-04:00",
         "Label": "Fuente Asus ROG Strix 1000W Aura Edition"
-      },
-      {
-        "Price": 105.00,
-        "Features": [
-          "44A",
-          "80+ Bronze",
-          "2x 6+2Pin",
-          "9x SATA",
-          "1x 4+4 EPS",
-          "125mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2024-04-20T12:17:06.5900159-04:00",
-        "Update": "2024-05-02T12:10:14.3909345-04:00",
-        "Label": "Fuente Corsair CX550 550W"
       },
       {
         "Price": 145.00,
@@ -3047,19 +2987,6 @@
         "Date": "2024-01-30T08:59:41.0005017-05:00",
         "Update": "2024-05-02T11:18:30.6036018-04:00",
         "Label": "SSD M.2 Corsair MP600 PRO LPX 500GB"
-      },
-      {
-        "Price": 99.00,
-        "Features": [
-          "7100mbs",
-          "700TBW",
-          "HeatSink",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2024-01-30T08:59:46.8640677-05:00",
-        "Update": "2024-05-02T11:18:30.6194969-04:00",
-        "Label": "SSD M.2 Corsair MP600 PRO LPX 1TB White"
       },
       {
         "Price": 135.00,
