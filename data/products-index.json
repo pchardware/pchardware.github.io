@@ -128,14 +128,6 @@
         "Label": "Torre RTX 4060 WindForce OC 8GB +i5-12600KF +Z690 EXTREME +16GB DDR4 +512GB M2 +Chasis RGB"
       },
       {
-        "Price": 1179.00,
-        "Features": [],
-        "Date": "2024-05-24T04:25:43.8730468-04:00",
-        "Update": "2024-05-24T04:46:42.8329648-04:00",
-        "Discount": 28.0,
-        "Label": "Torre RTX 4060 Eagle OC 8GB +i5-13500 +B760M PRO RS +16GB DDR5 6000mhz +500GB M2 +850W +Chasis RGB"
-      },
-      {
         "Price": 1317.00,
         "Features": [],
         "Date": "2024-04-14T10:24:42.6082746-04:00",
@@ -1906,7 +1898,7 @@
         "Label": "Disipador AMD Wraith Stealth x5 S3000"
       },
       {
-        "Price": 17.00,
+        "Price": 19.00,
         "Features": [
           "AM4",
           "44dB",
@@ -2091,17 +2083,6 @@
         "Date": "2024-02-16T14:41:55.9514851-05:00",
         "Update": "2024-04-12T10:07:16.8222787-04:00",
         "Label": "RAM DDR4 Team Group T-Force Delta 2 RGB 8GB 3200mhz White"
-      },
-      {
-        "Price": 65.00,
-        "Features": [
-          "1x16GB",
-          "CL36",
-          "Disipadas"
-        ],
-        "Date": "2023-10-14T10:09:22.7542158-04:00",
-        "Update": "2024-04-23T06:09:28.2111203-04:00",
-        "Label": "RAM DDR5 G.Skill Ripjaws S5 16GB 6000mhz"
       },
       {
         "Price": 99.00,
@@ -4333,19 +4314,6 @@
         "Date": "2024-05-14T07:14:11.5313563-04:00",
         "Update": "2024-05-14T07:54:12.0235481-04:00",
         "Label": "Mouse Corsair Katar Pro XT"
-      },
-      {
-        "Price": 87.00,
-        "Features": [
-          "16000 dpi",
-          "Optico",
-          "17 Botones",
-          "Gaming",
-          "USB"
-        ],
-        "Date": "2023-11-30T11:15:16.2508817-05:00",
-        "Update": "2024-05-14T08:04:23.4964857-04:00",
-        "Label": "Mouse Corsair Scimitar RGB Elite Black"
       },
       {
         "Price": 15.00,
