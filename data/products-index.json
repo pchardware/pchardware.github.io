@@ -120,14 +120,6 @@
         "Label": "Torre RTX 3050 6GB OC +i3-14100F +B760M DS3H +16GB DDR4 TridentZ RGB +500GB M2 +750W +Chasis"
       },
       {
-        "Price": 1227.00,
-        "Features": [],
-        "Date": "2024-05-24T04:24:27.3214469-04:00",
-        "Update": "2024-05-24T04:46:42.795841-04:00",
-        "Discount": 21.0,
-        "Label": "Torre RTX 4060 WindForce OC 8GB +i5-12600KF +Z690 EXTREME +16GB DDR4 +512GB M2 +Chasis RGB"
-      },
-      {
         "Price": 1317.00,
         "Features": [],
         "Date": "2024-04-14T10:24:42.6082746-04:00",
@@ -1710,25 +1702,6 @@
         "Date": "2023-08-01T11:14:33.9125632-04:00",
         "Update": "2023-11-18T23:49:17.4042767-05:00",
         "Label": "Disipador Cooler Master Hyper 620S Dual"
-      },
-      {
-        "Price": 59.00,
-        "Features": [
-          "ARGB",
-          "4 Head Pipes",
-          "52cfm",
-          "27dba",
-          "154mm",
-          "1800rpm",
-          "AM5",
-          "AM4",
-          "LGA1700",
-          "LGA1200",
-          "LGA115X"
-        ],
-        "Date": "2023-10-18T06:47:53.8475463-04:00",
-        "Update": "2023-12-24T02:51:09.5976575-05:00",
-        "Label": "Disipador Cooler Master 212 Halo White"
       },
       {
         "Price": 45.00,
@@ -3755,20 +3728,6 @@
         "Date": "2023-10-09T15:58:54.823495-04:00",
         "Update": "2023-11-24T11:14:38.8759837-05:00",
         "Label": "PBT Backlit Keycap Upgrade Set White"
-      },
-      {
-        "Price": 99.00,
-        "Features": [
-          "65%",
-          "Mecánico",
-          "RGB",
-          "Inálambrico-Cableado",
-          "Gaming",
-          "TKL"
-        ],
-        "Date": "2024-01-30T08:59:02.920246-05:00",
-        "Update": "2024-01-30T10:47:53.6671655-05:00",
-        "Label": "Teclado Cooler Master CK721"
       },
       {
         "Price": 79.00,
