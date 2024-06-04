@@ -43,16 +43,6 @@
         "Label": "PC RTX 3060 12GB +i5-12600KF +TUF Z690-Plus Wifi +32GB DDR5 +512GB M.2 +Acer 27\""
       }
     ],
-    "": [
-      {
-        "Price": 947.00,
-        "Features": [],
-        "Date": "2024-05-26T07:37:18.2965803-04:00",
-        "Update": "2024-05-26T07:57:36.6446769-04:00",
-        "Discount": 23.0,
-        "Label": "PC Ryzen 5 5600G +X570S Gaming X +16GB DDR4 RGB+ 512GB SSD +700W +Chasis RGB +MSI Pro 24\""
-      }
-    ],
     "Rendimiento": [
       {
         "Price": 2565.00,
@@ -293,24 +283,6 @@
         "Label": "Kit i9-12900K + MSI MEG Z690 ACE Potencia y estilo en un solo combo"
       },
       {
-        "Price": 526.00,
-        "Features": [
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "2x8GB",
-          "DDR4",
-          "Disipadas",
-          "Wifi",
-          "8xUSB",
-          "6xSATA"
-        ],
-        "Date": "2024-02-26T10:02:49.6528025-05:00",
-        "Update": "2024-05-03T07:21:36.1348918-04:00",
-        "Discount": 5.0,
-        "Label": "Kit i5-12600K +Hyper 212 Spectrum V3 +Z690 AERO G DDR4 +16GB DDR4 3200mhz"
-      },
-      {
         "Price": 469.00,
         "Features": [
           "16 Hilos",
@@ -344,63 +316,41 @@
         "Label": "Kit i7-12700K +Asus TUF Z690-Plus Wifi"
       }
     ],
-    "Esencial": [
+    "Moderado": [
       {
-        "Price": 357.00,
+        "Price": 475.00,
         "Features": [
-          "8 Hilos",
-          "4 Core",
-          "4.7GHz",
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
           "2x8GB",
-          "3200mhz",
-          "Disipadas",
-          "5333mhz",
-          "4xSATA",
-          "5xUSB"
+          "6xAudio",
+          "5xUSB",
+          "8xSATA"
         ],
-        "Date": "2024-04-22T08:19:06.3819866-04:00",
-        "Update": "2024-04-22T08:22:32.3532179-04:00",
-        "Discount": 5.0,
-        "Label": "Kit i3-14100 +Gigabyte B760M DS3H +16GB DDR4 Team T-Force Vulcan Z 3200mhz"
+        "Date": "2024-05-04T08:34:18.0750749-04:00",
+        "Update": "2024-05-23T10:04:15.0972477-04:00",
+        "Discount": 8.0,
+        "Label": "Kit i5-12400 +ASRock Z690 EXTREME +16GB DDR4 G.Skill TridentZ RGB 16GB 3600mhz"
       },
       {
-        "Price": 309.00,
+        "Price": 459.00,
         "Features": [
-          "8 Hilos",
-          "4 Core",
-          "4.7GHz",
-          "1x8GB",
-          "3200mhz",
-          "Disipadas",
-          "5333mhz",
-          "4xSATA",
-          "5xUSB"
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "2x8GB",
+          "6xAudio",
+          "5xUSB",
+          "8xSATA"
         ],
-        "Date": "2024-05-07T09:51:48.1955241-04:00",
-        "Update": "2024-05-23T09:58:31.8077274-04:00",
-        "Discount": 4.0,
-        "Label": "Kit i3-14100F +Gigabyte B760M DS3H +8GB DDR4 Team T-Force Vulcan Z 8GB 3200mhz"
-      },
-      {
-        "Price": 339.00,
-        "Features": [
-          "8 Hilos",
-          "4 Core",
-          "4.2GHz",
-          "1x8GB",
-          "Disipada",
-          "5100mhz",
-          "14xVRM",
-          "6xSATA",
-          "7xUSB",
-          "6xAudio"
-        ],
-        "Date": "2024-05-07T10:18:16.6653644-04:00",
-        "Update": "2024-05-23T09:58:31.8308143-04:00",
-        "Discount": 4.0,
-        "Def": true,
-        "Label": "Kit Ryzen 3 5300G +Gigabyte X570S Gaming X +8GB DDR4 Team T-Force Vulcan Z 3200mhz"
-      },
+        "Date": "2024-05-28T02:43:31.4484048-04:00",
+        "Update": "2024-05-28T02:47:22.406187-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i5-12400 +ASRock Z690 EXTREME +16GB DDR4 GeIL ORION RGB 3600mhz"
+      }
+    ],
+    "Esencial": [
       {
         "Price": 369.00,
         "Features": [
@@ -438,40 +388,6 @@
         "Update": "2024-05-24T04:03:55.9487895-04:00",
         "Discount": 4.0,
         "Label": "Kit i3-14100 +ASRock B760M PRO RS +16GB DDR5 Corsair Vengeance 5200mhz"
-      }
-    ],
-    "Moderado": [
-      {
-        "Price": 475.00,
-        "Features": [
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "2x8GB",
-          "6xAudio",
-          "5xUSB",
-          "8xSATA"
-        ],
-        "Date": "2024-05-04T08:34:18.0750749-04:00",
-        "Update": "2024-05-23T10:04:15.0972477-04:00",
-        "Discount": 8.0,
-        "Label": "Kit i5-12400 +ASRock Z690 EXTREME +16GB DDR4 G.Skill TridentZ RGB 16GB 3600mhz"
-      },
-      {
-        "Price": 459.00,
-        "Features": [
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "2x8GB",
-          "6xAudio",
-          "5xUSB",
-          "8xSATA"
-        ],
-        "Date": "2024-05-28T02:43:31.4484048-04:00",
-        "Update": "2024-05-28T02:47:22.406187-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i5-12400 +ASRock Z690 EXTREME +16GB DDR4 GeIL ORION RGB 3600mhz"
       }
     ],
     "Entusiasta": [
@@ -611,23 +527,6 @@
         "Date": "2023-08-08T10:08:04.4203937-04:00",
         "Update": "2024-04-30T06:43:07.9340674-04:00",
         "Label": "Fuente Corsair RM1000e 1000W"
-      },
-      {
-        "Price": 329.00,
-        "Features": [
-          "125A",
-          "80+ PLATINUM",
-          "Full Modular",
-          "9x 6+2Pin",
-          "3x 4+4 EPS",
-          "8x SATA",
-          "200mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-10-02T14:28:39.3910059-04:00",
-        "Update": "2024-05-02T12:10:14.1954783-04:00",
-        "Label": "Fuente Corsair HX1500i 1500W"
       },
       {
         "Price": 155.00,
@@ -1831,17 +1730,6 @@
         "Update": "2023-10-31T11:23:29.2791521-04:00",
         "Def": true,
         "Label": "RAM DDR5 Corsair Vengenance RGB 32GB 6000mhz White"
-      },
-      {
-        "Price": 29.00,
-        "Features": [
-          "1x8GB",
-          "CL16",
-          "Disipadas"
-        ],
-        "Date": "2023-10-16T10:24:18.3365215-04:00",
-        "Update": "2023-12-24T03:04:22.448173-05:00",
-        "Label": "RAM DDR4 Team T-Force Vulcan Z 8GB 3200mhz"
       },
       {
         "Price": 145.00,
@@ -3254,25 +3142,6 @@
         "Date": "2023-10-09T15:59:15.4094076-04:00",
         "Update": "2024-05-19T21:05:41.1917481-04:00",
         "Label": "Micro AMD Ryzen 9 7900X"
-      },
-      {
-        "Price": 159.00,
-        "Features": [
-          "Radeon Graphics",
-          "AM4",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "16MB L3",
-          "65W",
-          "19898pm",
-          "DDR4",
-          "Serie 5000",
-          "CPU"
-        ],
-        "Date": "2023-10-13T09:28:27.261681-04:00",
-        "Update": "2024-05-19T21:05:41.2289645-04:00",
-        "Label": "Micro AMD Ryzen 5 5600G +Disipador"
       },
       {
         "Price": 325.00,
