@@ -104,14 +104,6 @@
         "Discount": 21.0,
         "Def": true,
         "Label": "Torre RTX 3060 12GB +i5-12600KF +TUF Z690-Plus Wifi +32GB DDR5 +512GB M.2 +750W"
-      },
-      {
-        "Price": 1819.00,
-        "Features": [],
-        "Date": "2024-04-27T07:51:59.1867818-04:00",
-        "Update": "2024-06-01T18:38:46.2139339-04:00",
-        "Discount": 23.0,
-        "Label": "Torre RTX 4060 Ti 3X 8GB +i7-12700K +MEG Z690 ACE +32GB DDR5 +850W +Chasis RGB"
       }
     ],
     "Multimedia": [
@@ -351,26 +343,6 @@
       }
     ],
     "Esencial": [
-      {
-        "Price": 369.00,
-        "Features": [
-          "8 Hilos",
-          "4 Core",
-          "4.2GHz",
-          "2x8GB",
-          "Disipadas",
-          "5100mhz",
-          "14xVRM",
-          "6xSATA",
-          "7xUSB",
-          "6xAudio"
-        ],
-        "Date": "2024-05-07T09:51:09.2370776-04:00",
-        "Update": "2024-05-23T10:04:15.1176204-04:00",
-        "Discount": 10.0,
-        "Def": true,
-        "Label": "Kit Ryzen 3 5300G +Gigabyte X570S Gaming X +16GB RAM DDR4 GeIL ORION RGB 3600mhz"
-      },
       {
         "Price": 369.00,
         "Features": [
@@ -1898,17 +1870,6 @@
         "Label": "RAM DDR4 GeIL ORION RGB 16GB 3600mhz"
       },
       {
-        "Price": 95.00,
-        "Features": [
-          "2x16GB",
-          "CL18",
-          "Disipadas"
-        ],
-        "Date": "2023-12-28T14:07:31.4096308-05:00",
-        "Update": "2024-05-02T13:05:17.8334649-04:00",
-        "Label": "RAM DDR4 G.Skill Ripjaws V 32GB 4000mhz"
-      },
-      {
         "Price": 79.00,
         "Features": [
           "2x8GB",
@@ -3352,26 +3313,6 @@
         "Date": "2024-01-17T02:39:13.7412454-05:00",
         "Update": "2024-05-19T21:05:41.7376988-04:00",
         "Label": "Micro Intel Core i3-12100F +Disipador"
-      },
-      {
-        "Price": 109.00,
-        "Features": [
-          "Radeon Graphics",
-          "AM4",
-          "8 Hilos",
-          "4 Core",
-          "4.2GHz",
-          "8MB L3",
-          "65W",
-          "12896pm",
-          "DDR4",
-          "Serie5000",
-          "CPU"
-        ],
-        "Date": "2023-12-28T22:14:48.5974394-05:00",
-        "Update": "2024-05-21T09:40:34.2453728-04:00",
-        "Def": true,
-        "Label": "Micro AMD Ryzen 3 5300G +Disipador"
       },
       {
         "Price": 209.00,
