@@ -2642,18 +2642,6 @@
         "Label": "SSD M.2 WD SN350 2TB"
       },
       {
-        "Price": 85.00,
-        "Features": [
-          "3500mbs",
-          "600TBW",
-          "NVME",
-          "PCIe 3"
-        ],
-        "Date": "2024-03-13T15:18:38.7153298-04:00",
-        "Update": "2024-03-16T02:57:27.9301551-04:00",
-        "Label": "SSD M.2 Samsung 980 1TB"
-      },
-      {
         "Price": 139.00,
         "Features": [
           "4150mbs",
@@ -4008,22 +3996,6 @@
         "Date": "2023-12-28T14:08:53.0334804-05:00",
         "Update": "2024-01-18T10:29:16.5258104-05:00",
         "Label": "Monitor AOC 24\" 165Hz VA 1ms"
-      },
-      {
-        "Price": 195.00,
-        "Features": [
-          "8bit",
-          "FRC",
-          "Gaming",
-          "300nit",
-          "FHD",
-          "1080p",
-          "HDMI",
-          "Flat"
-        ],
-        "Date": "2024-01-30T08:58:58.7450569-05:00",
-        "Update": "2024-02-28T07:53:53.6270823-05:00",
-        "Label": "Monitor MSI PRO 25\" 100Hz IPS 1ms SPK"
       },
       {
         "Price": 239.00,
