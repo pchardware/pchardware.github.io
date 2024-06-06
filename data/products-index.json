@@ -1097,18 +1097,6 @@
         "Label": "HDD 3.5 Seagate Pipeline 2TB"
       },
       {
-        "Price": 219.00,
-        "Features": [
-          "256mb",
-          "7200rpm",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2024-04-30T06:44:18.4466039-04:00",
-        "Update": "2024-05-02T11:07:45.2382471-04:00",
-        "Label": "HDD 3.5 Seagate Exos X16 16TB"
-      },
-      {
         "Price": 165.00,
         "Features": [
           "256mb",
@@ -3498,40 +3486,6 @@
         "Label": "Adaptador HDMI a DVI"
       }
     ],
-    "Externo": [
-      {
-        "Price": 39.00,
-        "Features": [
-          "USB-A",
-          "Enclosure"
-        ],
-        "Date": "2023-10-02T14:29:27.3170143-04:00",
-        "Update": "2023-10-09T17:48:21.5099705-04:00",
-        "Label": "Caja Externo 3.5 Orico USB 3.0 3588US3-BK"
-      },
-      {
-        "Price": 50.00,
-        "Features": [
-          "2.5",
-          "3.5",
-          "USB3"
-        ],
-        "Date": "2023-10-18T06:47:28.3292927-04:00",
-        "Update": "2023-12-04T16:09:51.4924274-05:00",
-        "Label": "Docking NEXIN 1xBay NEX-DS1U3"
-      },
-      {
-        "Price": 17.00,
-        "Features": [
-          "USB-C",
-          "USB-A",
-          "UASP"
-        ],
-        "Date": "2024-05-25T23:01:19.7068775-04:00",
-        "Update": "2024-05-26T10:19:23.025321-04:00",
-        "Label": "Enclosure 2.5 Sanzang SZPW25 USB3"
-      }
-    ],
     "Control": [
       {
         "Price": 125.00,
@@ -3732,6 +3686,30 @@
         "Date": "2023-12-12T03:35:09.5904673-05:00",
         "Update": "2024-05-14T08:14:06.1478526-04:00",
         "Label": "WebCam Logitech C270h"
+      }
+    ],
+    "Externo": [
+      {
+        "Price": 50.00,
+        "Features": [
+          "2.5",
+          "3.5",
+          "USB3"
+        ],
+        "Date": "2023-10-18T06:47:28.3292927-04:00",
+        "Update": "2023-12-04T16:09:51.4924274-05:00",
+        "Label": "Docking NEXIN 1xBay NEX-DS1U3"
+      },
+      {
+        "Price": 17.00,
+        "Features": [
+          "USB-C",
+          "USB-A",
+          "UASP"
+        ],
+        "Date": "2024-05-25T23:01:19.7068775-04:00",
+        "Update": "2024-05-26T10:19:23.025321-04:00",
+        "Label": "Enclosure 2.5 Sanzang SZPW25 USB3"
       }
     ],
     "Mouse": [
