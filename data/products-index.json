@@ -1091,6 +1091,42 @@
         "Date": "2023-08-29T08:41:32.7866809-04:00",
         "Update": "2024-06-06T04:56:45.7920592-04:00",
         "Label": "Disipador Líquido Corsair iCUE H150i ELITE CAPELLIX XT"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "420mm",
+          "RGB",
+          "1700rpm",
+          "89CFFM",
+          "35.8dBa",
+          "LGA 1700",
+          "LGA 1200",
+          "AM4",
+          "AM5",
+          "sTRX4"
+        ],
+        "Date": "2024-06-07T05:57:11.579527-04:00",
+        "Update": "2024-06-07T07:18:14.0941526-04:00",
+        "Label": "Disipador Líquido Corsair iCUE H170i Elite Capellix"
+      },
+      {
+        "Price": 295.00,
+        "Features": [
+          "360mm",
+          "ARGB",
+          "2200rpm",
+          "70CFM",
+          "36dBa",
+          "LGA 1700",
+          "LGA 1200",
+          "AM4",
+          "AM5",
+          "TR4"
+        ],
+        "Date": "2024-06-07T05:57:32.8023552-04:00",
+        "Update": "2024-06-07T07:18:14.1300022-04:00",
+        "Label": "Disipador Líquido Asus ROG Ryuo III 360 ARGB"
       }
     ],
     "Disco Duro": [
@@ -1690,6 +1726,22 @@
         "Date": "2024-06-01T15:56:26.5539425-04:00",
         "Update": "2024-06-01T22:19:50.7388346-04:00",
         "Label": "Disipador AMD Wraith Stealth x7 S5000"
+      },
+      {
+        "Price": 83.00,
+        "Features": [
+          "6xPipes",
+          "1500rpm",
+          "66.87CFM",
+          "5.6dBa",
+          "LGA 1700",
+          "LGA 1200",
+          "AM4",
+          "AM5"
+        ],
+        "Date": "2024-06-07T05:57:38.9863907-04:00",
+        "Update": "2024-06-07T07:18:14.1681273-04:00",
+        "Label": "Disipador Thermalright Peerless Assassin 120 Mini"
       }
     ],
     "Memoria RAM": [
