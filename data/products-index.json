@@ -3537,6 +3537,21 @@
         "Date": "2024-04-20T12:17:46.3669934-04:00",
         "Update": "2024-05-02T17:23:42.4680595-04:00",
         "Label": "COMBO Teclado MSI Forge GK100 + Mouse"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "Mecánico",
+          "RGB",
+          "Palm-Rest",
+          "Retroiluminado",
+          "Anti-Ghosting",
+          "Gaming",
+          "Full"
+        ],
+        "Date": "2024-06-07T05:57:53.4587984-04:00",
+        "Update": "2024-06-07T07:32:47.8509436-04:00",
+        "Label": "Teclado Corsair K70 LUX RGB Cherry Brown"
       }
     ],
     "Adaptador": [
@@ -4014,6 +4029,17 @@
         "Date": "2023-09-02T12:38:48.8628172-04:00",
         "Update": "2024-06-06T04:56:45.7493861-04:00",
         "Label": "Mouse Corsair Harpoon RGB"
+      },
+      {
+        "Price": 8.00,
+        "Features": [
+          "259mmx208mm",
+          "3mm",
+          "Bordes Cosidos"
+        ],
+        "Date": "2024-06-07T05:57:17.8355099-04:00",
+        "Update": "2024-06-07T07:32:47.8083553-04:00",
+        "Label": "Mouse Pad Goma Cosido 10.2 x 8.2"
       }
     ],
     "Monitor": [
