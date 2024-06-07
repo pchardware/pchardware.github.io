@@ -1972,20 +1972,6 @@
         "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
       },
       {
-        "Price": 229.00,
-        "Features": [
-          "Tempered Glass",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro",
-          "1xHDD"
-        ],
-        "Date": "2024-01-18T07:08:34.7724156-05:00",
-        "Update": "2024-05-16T09:40:37.8633757-04:00",
-        "Label": "Chasis Cougar Uniface S Black"
-      },
-      {
         "Price": 225.00,
         "Features": [
           "Tempered Glass",
@@ -1999,6 +1985,20 @@
         "Date": "2024-05-16T09:19:23.8380237-04:00",
         "Update": "2024-05-16T09:43:16.7137926-04:00",
         "Label": "Chasis Asus A21 Black"
+      },
+      {
+        "Price": 229.00,
+        "Features": [
+          "Tempered Glass",
+          "Gamer",
+          "Mid Tower",
+          "EATX",
+          "Negro",
+          "1xHDD"
+        ],
+        "Date": "2024-01-18T07:08:34.7724156-05:00",
+        "Update": "2024-06-06T22:20:53.7133779-04:00",
+        "Label": "Chasis Cougar Uniface S Black"
       }
     ],
     "Tarjeta Gráfica": [
