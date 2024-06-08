@@ -1,0 +1,20 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/torre-i5-12400-b760m-pro-rs-32gb-ddr5-512gb-m2-700-vty60u-1.webp",
+    "/images/products/torre-i5-12400-b760m-pro-rs-32gb-ddr5-512gb-m2-700-vty60u-2.webp",
+    "/images/products/torre-i5-12400-b760m-pro-rs-32gb-ddr5-512gb-m2-700-vty60u-3.webp",
+    "/images/products/torre-i5-12400-b760m-pro-rs-32gb-ddr5-512gb-m2-700-vty60u-4.webp",
+    "/images/products/torre-i5-12400-b760m-pro-rs-32gb-ddr5-512gb-m2-700-vty60u-5.webp",
+    "/images/products/torre-i5-12400-b760m-pro-rs-32gb-ddr5-512gb-m2-700-vty60u-6.webp",
+    "/images/products/torre-i5-12400-b760m-pro-rs-32gb-ddr5-512gb-m2-700-vty60u-7.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12400 +Disipador\n+ Board ASRock B760M PRO RS\n+ RAM DDR5 Patriot Viper Venom 32GB 6200mhz\n+ SSD M.2 Solidigm P41 Plus 512GB\n+ Fuente Apevia Spirit 700W ATX-SP700\n+ Chasis Cougar Archon 2 Mesh RGB Black\n",
+  "Price": 715.00,
+  "Features": [],
+  "Date": "2024-06-08T07:16:32.2976349-04:00",
+  "Update": "2024-06-08T07:57:16.4009447-04:00",
+  "Discount": 15.0,
+  "Label": "Torre i5-12400 +B760M PRO RS +32GB DDR5 +512GB M2 +700W +Chasis RGB"
+}
