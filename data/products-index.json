@@ -1137,18 +1137,6 @@
         "Date": "2024-04-30T06:44:25.3977192-04:00",
         "Update": "2024-05-02T11:07:45.2598525-04:00",
         "Label": "HDD 3.5 Seagate Exos X14 12TB"
-      },
-      {
-        "Price": 89.00,
-        "Features": [
-          "5900rpm",
-          "64mb",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2024-05-06T23:38:30.148428-04:00",
-        "Update": "2024-05-07T00:12:02.8490292-04:00",
-        "Label": "HDD 3.5 Seagate Desktop 4TB"
       }
     ],
     "Otros": [
@@ -2479,18 +2467,6 @@
     ],
     "Disco Sólido": [
       {
-        "Price": 65.00,
-        "Features": [
-          "2350mbs",
-          "210TBW",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-12-15T02:02:51.8715106-05:00",
-        "Update": "2024-01-24T02:06:55.6449616-05:00",
-        "Label": "SSD M.2 MSI SPatium M371 1TB"
-      },
-      {
         "Price": 69.00,
         "Features": [
           "3500mbs",
@@ -3231,23 +3207,6 @@
         "Date": "2023-08-08T10:07:50.0509327-04:00",
         "Update": "2024-05-19T21:05:41.6423975-04:00",
         "Label": "Micro Intel Core i5-12400F +Disipador"
-      },
-      {
-        "Price": 235.00,
-        "Features": [
-          "13Gen",
-          "20 Hilos",
-          "14 Core",
-          "4.8GHz",
-          "24MB L3",
-          "32035pm",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-06-07T15:04:52.0919704-04:00",
-        "Update": "2024-05-19T21:05:41.7056237-04:00",
-        "Label": "Micro Intel Core i5-13500 +Disipador"
       },
       {
         "Price": 119.00,
