@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-rtx-4070-oc-12gb-i7-12700k-liquida-z790-aorus-e-8i47qh-1.webp",
+    "/images/products/pc-rtx-4070-oc-12gb-i7-12700k-liquida-z790-aorus-e-8i47qh-2.webp",
+    "/images/products/pc-rtx-4070-oc-12gb-i7-12700k-liquida-z790-aorus-e-8i47qh-3.webp",
+    "/images/products/pc-rtx-4070-oc-12gb-i7-12700k-liquida-z790-aorus-e-8i47qh-4.webp",
+    "/images/products/pc-rtx-4070-oc-12gb-i7-12700k-liquida-z790-aorus-e-8i47qh-5.webp",
+    "/images/products/pc-rtx-4070-oc-12gb-i7-12700k-liquida-z790-aorus-e-8i47qh-6.webp",
+    "/images/products/pc-rtx-4070-oc-12gb-i7-12700k-liquida-z790-aorus-e-8i47qh-7.webp",
+    "/images/products/pc-rtx-4070-oc-12gb-i7-12700k-liquida-z790-aorus-e-8i47qh-8.webp",
+    "/images/products/pc-rtx-4070-oc-12gb-i7-12700k-liquida-z790-aorus-e-8i47qh-9.webp",
+    "/images/products/pc-rtx-4070-oc-12gb-i7-12700k-liquida-z790-aorus-e-8i47qh-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i7-12700K\n+ Disipador Líquido Gigabyte GP-AORUS Waterforce II 240 G2\n+ Board Gigabyte Z790 Aorus Elite AX\n+ RAM DDR5 Gigabyte Aorus RGB 32GB 6000mhz\n+ SSD M.2 Team Group MP44 1TB\n+ Tarjeta de Video Gigabyte RTX 4070 Gaming OC V2 12GB\n+ Fuente Gigabyte UD1000GM 1000W\n+ Chasis Cougar Archon 2 Mesh RGB Black\n+ Monitor Acer Nitro 27\" 1440p Curvo 170Hz 1ms VA SPK\n+ COMBO Teclado Asus TUF Gaming K1 + Mouse M3\n",
+  "Price": 2359.00,
+  "Features": [],
+  "Date": "2024-06-10T08:04:42.0438781-04:00",
+  "Update": "2024-06-10T08:29:50.9676627-04:00",
+  "Discount": 25.0,
+  "Label": "PC RTX 4070 OC 12GB +i7-12700K +Liquida +Z790 Aorus Elite +32GB DDR5 +1TB M2 +1000W +Acer 27\""
+}
