@@ -1,0 +1,21 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Pro",
+  "Images": [
+    "/images/products/torre-i5-12600k-msi-meg-z690-ace-32gb-ddr5-rgb-640-gvyxm0-1.webp",
+    "/images/products/torre-i5-12600k-msi-meg-z690-ace-32gb-ddr5-rgb-640-gvyxm0-2.webp",
+    "/images/products/torre-i5-12600k-msi-meg-z690-ace-32gb-ddr5-rgb-640-gvyxm0-3.webp",
+    "/images/products/torre-i5-12600k-msi-meg-z690-ace-32gb-ddr5-rgb-640-gvyxm0-4.webp",
+    "/images/products/torre-i5-12600k-msi-meg-z690-ace-32gb-ddr5-rgb-640-gvyxm0-5.webp",
+    "/images/products/torre-i5-12600k-msi-meg-z690-ace-32gb-ddr5-rgb-640-gvyxm0-6.webp",
+    "/images/products/torre-i5-12600k-msi-meg-z690-ace-32gb-ddr5-rgb-640-gvyxm0-7.webp",
+    "/images/products/torre-i5-12600k-msi-meg-z690-ace-32gb-ddr5-rgb-640-gvyxm0-8.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12600K\n+ Disipador Cooler Master Hyper 212 Spectrum V3\n+ Board MSI MEG Z690 ACE\n+ RAM DDR5 G.Skill Trident Z5 NEO RGB 32GB 6400mhz\n+ SSD M.2 Team Group MP44 1TB\n+ Fuente MSI MAG A850GL 850W\n+ Chasis Cougar Archon 2 Mesh RGB Black\n",
+  "Price": 1089.00,
+  "Features": [],
+  "Date": "2024-06-10T08:08:58.3468789-04:00",
+  "Update": "2024-06-10T08:29:51.0280979-04:00",
+  "Discount": 16.0,
+  "Label": "Torre i5-12600K +MSI MEG Z690 ACE +32GB DDR5 RGB 6400mhz +1TB M.2 +850W +Chasis RGB Black"
+}
