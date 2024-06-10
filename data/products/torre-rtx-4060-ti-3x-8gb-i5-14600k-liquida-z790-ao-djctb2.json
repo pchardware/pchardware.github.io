@@ -1,0 +1,23 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/torre-rtx-4060-ti-3x-8gb-i5-14600k-liquida-z790-ao-djctb2-1.webp",
+    "/images/products/torre-rtx-4060-ti-3x-8gb-i5-14600k-liquida-z790-ao-djctb2-2.webp",
+    "/images/products/torre-rtx-4060-ti-3x-8gb-i5-14600k-liquida-z790-ao-djctb2-3.webp",
+    "/images/products/torre-rtx-4060-ti-3x-8gb-i5-14600k-liquida-z790-ao-djctb2-4.webp",
+    "/images/products/torre-rtx-4060-ti-3x-8gb-i5-14600k-liquida-z790-ao-djctb2-5.webp",
+    "/images/products/torre-rtx-4060-ti-3x-8gb-i5-14600k-liquida-z790-ao-djctb2-6.webp",
+    "/images/products/torre-rtx-4060-ti-3x-8gb-i5-14600k-liquida-z790-ao-djctb2-7.webp",
+    "/images/products/torre-rtx-4060-ti-3x-8gb-i5-14600k-liquida-z790-ao-djctb2-8.webp",
+    "/images/products/torre-rtx-4060-ti-3x-8gb-i5-14600k-liquida-z790-ao-djctb2-9.webp",
+    "/images/products/torre-rtx-4060-ti-3x-8gb-i5-14600k-liquida-z790-ao-djctb2-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-14600K\n+ Disipador Líquido Cooler Master MasterLiquid ML240L ARGB V2\n+ Board Gigabyte Z790 Aorus Elite AX\n+ RAM DDR5 Gigabyte Aorus RGB 32GB 6000mhz\n+ SSD M.2 HP FX900 Pro 512GB\n+ HDD 3.5 Seagate Pipeline 2TB\n+ Tarjeta de Video MSI Ventus RTX 4060 Ti 3X 8GB\n+ Fuente Thermaltake Smart BM3 850W\n+ Chasis Cougar Archon 2 Mesh RGB Black\n",
+  "Price": 1779.00,
+  "Features": [],
+  "Date": "2024-06-10T07:56:16.3731797-04:00",
+  "Update": "2024-06-10T08:29:50.84071-04:00",
+  "Discount": 22.0,
+  "Label": "Torre RTX 4060 Ti 3X 8GB +i5-14600K +Liquida +Z790 Aorus Elite AX +32GB DDR5 +512GB M2 +850W"
+}
