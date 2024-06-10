@@ -33,6 +33,22 @@
         "Discount": 19.0,
         "Def": true,
         "Label": "PC RTX 3060 12GB +i5-12600KF +TUF Z690-Plus Wifi +32GB DDR5 +512GB M.2 +Acer 27\""
+      },
+      {
+        "Price": 2109.00,
+        "Features": [],
+        "Date": "2024-06-10T08:00:35.4518559-04:00",
+        "Update": "2024-06-10T08:29:50.8835488-04:00",
+        "Discount": 26.0,
+        "Label": "PC RTX 4060 Ti 3X 8GB +i5-14600K +Liquida +Z790 Aorus Elite +32GB DDR5 +512GB M2 +850W +AOC 24\""
+      },
+      {
+        "Price": 2359.00,
+        "Features": [],
+        "Date": "2024-06-10T08:04:42.0438781-04:00",
+        "Update": "2024-06-10T08:29:50.9676627-04:00",
+        "Discount": 25.0,
+        "Label": "PC RTX 4070 OC 12GB +i7-12700K +Liquida +Z790 Aorus Elite +32GB DDR5 +1TB M2 +1000W +Acer 27\""
       }
     ],
     "Rendimiento": [
@@ -43,6 +59,16 @@
         "Update": "2024-05-31T08:35:36.730599-04:00",
         "Discount": 20.0,
         "Label": "PC RX 7800 XT 16GB +Ryzen 9 7900X +Liquida +Strix B650-A +64GB DDR5 RGB+ 1TB M2 +850W +27\""
+      }
+    ],
+    "Pro": [
+      {
+        "Price": 1339.00,
+        "Features": [],
+        "Date": "2024-06-10T08:10:00.6764939-04:00",
+        "Update": "2024-06-10T08:29:51.103189-04:00",
+        "Discount": 20.0,
+        "Label": "PC i5-12600K +MSI MEG Z690 ACE +32GB DDR5 +1TB M.2 +850W +Chasis RGB Black +MSI Pro 24\""
       }
     ]
   },
@@ -120,6 +146,32 @@
         "Update": "2024-06-08T07:57:16.4745825-04:00",
         "Discount": 17.0,
         "Label": "Torre RTX 4060 OC 8GB +i5-12600KF +Z790 Aorus Elite AX +32GB DDR5 +1TB M2 +850W +Chasis Blanco"
+      },
+      {
+        "Price": 1779.00,
+        "Features": [],
+        "Date": "2024-06-10T07:56:16.3731797-04:00",
+        "Update": "2024-06-10T08:29:50.84071-04:00",
+        "Discount": 22.0,
+        "Label": "Torre RTX 4060 Ti 3X 8GB +i5-14600K +Liquida +Z790 Aorus Elite AX +32GB DDR5 +512GB M2 +850W"
+      },
+      {
+        "Price": 1935.00,
+        "Features": [],
+        "Date": "2024-06-10T08:03:57.908033-04:00",
+        "Update": "2024-06-10T08:29:50.9250655-04:00",
+        "Discount": 21.0,
+        "Label": "Torre RTX 4070 OC 12GB +i7-12700K +Liquida +Z790 Aorus Elite AX +32GB DDR5 +1TB M.2 +1000W"
+      }
+    ],
+    "Pro": [
+      {
+        "Price": 1089.00,
+        "Features": [],
+        "Date": "2024-06-10T08:08:58.3468789-04:00",
+        "Update": "2024-06-10T08:29:51.0280979-04:00",
+        "Discount": 16.0,
+        "Label": "Torre i5-12600K +MSI MEG Z690 ACE +32GB DDR5 RGB 6400mhz +1TB M.2 +850W +Chasis RGB Black"
       }
     ]
   },
