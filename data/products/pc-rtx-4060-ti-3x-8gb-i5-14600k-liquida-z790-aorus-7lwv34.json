@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-rtx-4060-ti-3x-8gb-i5-14600k-liquida-z790-aorus-7lwv34-1.webp",
+    "/images/products/pc-rtx-4060-ti-3x-8gb-i5-14600k-liquida-z790-aorus-7lwv34-2.webp",
+    "/images/products/pc-rtx-4060-ti-3x-8gb-i5-14600k-liquida-z790-aorus-7lwv34-3.webp",
+    "/images/products/pc-rtx-4060-ti-3x-8gb-i5-14600k-liquida-z790-aorus-7lwv34-4.webp",
+    "/images/products/pc-rtx-4060-ti-3x-8gb-i5-14600k-liquida-z790-aorus-7lwv34-5.webp",
+    "/images/products/pc-rtx-4060-ti-3x-8gb-i5-14600k-liquida-z790-aorus-7lwv34-6.webp",
+    "/images/products/pc-rtx-4060-ti-3x-8gb-i5-14600k-liquida-z790-aorus-7lwv34-7.webp",
+    "/images/products/pc-rtx-4060-ti-3x-8gb-i5-14600k-liquida-z790-aorus-7lwv34-8.webp",
+    "/images/products/pc-rtx-4060-ti-3x-8gb-i5-14600k-liquida-z790-aorus-7lwv34-9.webp",
+    "/images/products/pc-rtx-4060-ti-3x-8gb-i5-14600k-liquida-z790-aorus-7lwv34-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-14600K\n+ Disipador Líquido Cooler Master MasterLiquid ML240L ARGB V2\n+ Board Gigabyte Z790 Aorus Elite AX\n+ RAM DDR5 Gigabyte Aorus RGB 32GB 6000mhz\n+ SSD M.2 HP FX900 Pro 512GB\n+ HDD 3.5 Seagate Pipeline 2TB\n+ Tarjeta de Video MSI Ventus RTX 4060 Ti 3X 8GB\n+ Fuente Thermaltake Smart BM3 850W\n+ Chasis Cougar Archon 2 Mesh RGB Black\n+ Monitor AOC 24\" 165Hz VA 1ms\n+ COMBO Teclado Asus TUF Gaming K1 + Mouse M3\n",
+  "Price": 2109.00,
+  "Features": [],
+  "Date": "2024-06-10T08:00:35.4518559-04:00",
+  "Update": "2024-06-10T08:29:50.8835488-04:00",
+  "Discount": 26.0,
+  "Label": "PC RTX 4060 Ti 3X 8GB +i5-14600K +Liquida +Z790 Aorus Elite +32GB DDR5 +512GB M2 +850W +AOC 24\""
+}
