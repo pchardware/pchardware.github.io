@@ -1,14 +1,16 @@
 {
   "Computadoras": {
-    "Gamer": [
+    "Rendimiento": [
       {
-        "Price": 1117.00,
+        "Price": 2565.00,
         "Features": [],
-        "Date": "2024-05-27T08:09:14.7134414-04:00",
-        "Update": "2024-05-27T08:32:25.3629938-04:00",
-        "Discount": 25.0,
-        "Label": "PC RTX 3050 OC 6GB +i3-12100F +B760M DS3H +16GB DDR4 RGB +500GB M.2 +700W +Chasis RGB +MSI Pro 24\""
-      },
+        "Date": "2024-05-31T08:02:51.264212-04:00",
+        "Update": "2024-05-31T08:35:36.730599-04:00",
+        "Discount": 20.0,
+        "Label": "PC RX 7800 XT 16GB +Ryzen 9 7900X +Liquida +Strix B650-A +64GB DDR5 RGB+ 1TB M2 +850W +27\""
+      }
+    ],
+    "Gamer": [
       {
         "Price": 2255.00,
         "Features": [],
@@ -24,15 +26,6 @@
         "Update": "2024-06-01T18:38:46.1718814-04:00",
         "Discount": 20.0,
         "Label": "PC RTX 4060 Ti 8GB +Core i7-12700K +Z790 Eagle AX +32GB DDR5 +512GB M.2 +27\""
-      },
-      {
-        "Price": 1769.00,
-        "Features": [],
-        "Date": "2024-03-16T03:24:24.1080741-04:00",
-        "Update": "2024-06-01T18:38:46.1904768-04:00",
-        "Discount": 19.0,
-        "Def": true,
-        "Label": "PC RTX 3060 12GB +i5-12600KF +TUF Z690-Plus Wifi +32GB DDR5 +512GB M.2 +Acer 27\""
       },
       {
         "Price": 2109.00,
@@ -51,16 +44,6 @@
         "Label": "PC RTX 4070 OC 12GB +i7-12700K +Liquida +Z790 Aorus Elite +32GB DDR5 +1TB M2 +1000W +Acer 27\""
       }
     ],
-    "Rendimiento": [
-      {
-        "Price": 2565.00,
-        "Features": [],
-        "Date": "2024-05-31T08:02:51.264212-04:00",
-        "Update": "2024-05-31T08:35:36.730599-04:00",
-        "Discount": 20.0,
-        "Label": "PC RX 7800 XT 16GB +Ryzen 9 7900X +Liquida +Strix B650-A +64GB DDR5 RGB+ 1TB M2 +850W +27\""
-      }
-    ],
     "Pro": [
       {
         "Price": 1339.00,
@@ -75,29 +58,12 @@
   "Torres": {
     "Gamer": [
       {
-        "Price": 1317.00,
-        "Features": [],
-        "Date": "2024-04-14T10:24:42.6082746-04:00",
-        "Update": "2024-05-24T04:53:12.2948024-04:00",
-        "Discount": 17.0,
-        "Label": "Torre RTX 4060 Gaming OC 8GB +i5-12600KF +Z790 Eagle AX +32GB DDR5 +850W"
-      },
-      {
         "Price": 983.00,
         "Features": [],
         "Date": "2024-04-23T06:10:18.6626968-04:00",
         "Update": "2024-05-24T04:53:12.4246594-04:00",
         "Discount": 22.0,
         "Label": "Torre RX 6600 8GB +i3-14100F +B760M PRO RS +32GB DDR5 +512 M.2 +750W +Chasis RGB"
-      },
-      {
-        "Price": 1339.00,
-        "Features": [],
-        "Date": "2024-03-01T09:14:28.6647646-05:00",
-        "Update": "2024-05-24T04:53:12.4451279-04:00",
-        "Discount": 21.0,
-        "Def": true,
-        "Label": "Torre RTX 3060 12GB +i5-12600KF +TUF Z690-Plus Wifi +32GB DDR5 +512GB M.2 +750W"
       },
       {
         "Price": 2869.00,
@@ -122,14 +88,6 @@
         "Update": "2024-06-08T07:57:16.4184089-04:00",
         "Discount": 11.0,
         "Label": "Torre i5-12400 +Gigabyte B760M DS3H +16GB DDR4 RGB 3600mhz +512GB M2 +600W +Chasis RGB Black"
-      },
-      {
-        "Price": 965.00,
-        "Features": [],
-        "Date": "2024-06-08T07:18:57.0858516-04:00",
-        "Update": "2024-06-08T07:57:16.4369969-04:00",
-        "Discount": 16.0,
-        "Label": "Torre RTX 3050 6GB +i5-12400F +B760M DS3H +16GB DDR4 +500GB M2 +750W +Chasis RGB"
       },
       {
         "Price": 1345.00,
@@ -208,38 +166,6 @@
         "Date": "2024-04-11T11:15:34.6893058-04:00",
         "Update": "2024-04-11T11:53:18.2498667-04:00",
         "Label": "Kit i7-12700K +Asus ROG Strix Z690-E Gaming Wifi"
-      },
-      {
-        "Price": 398.00,
-        "Features": [
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "DDR5",
-          "6000mhz",
-          "6xAudio",
-          "6xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-04-11T11:12:47.3049779-04:00",
-        "Update": "2024-04-20T12:09:03.9467089-04:00",
-        "Label": "Kit i5-12600KF +Asus TUF Z690-Plus Wifi"
-      },
-      {
-        "Price": 418.00,
-        "Features": [
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "DDR5",
-          "6000mhz",
-          "6xAudio",
-          "6xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-04-11T11:14:37.2413337-04:00",
-        "Update": "2024-04-20T12:09:03.9794068-04:00",
-        "Label": "Kit Intel Core i5-12600K +Asus TUF Z690-Plus Wifi"
       },
       {
         "Price": 774.00,
@@ -323,24 +249,6 @@
         "Update": "2024-04-25T12:00:04.0579226-04:00",
         "Discount": 5.0,
         "Label": "Kit i9-12900K + MSI MEG Z690 ACE Potencia y estilo en un solo combo"
-      },
-      {
-        "Price": 465.00,
-        "Features": [
-          "12Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "DDR5",
-          "6000mhz",
-          "6xAudio",
-          "6xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-05-28T02:45:03.045848-04:00",
-        "Update": "2024-05-28T02:50:28.9938748-04:00",
-        "Discount": 3.0,
-        "Label": "Kit i7-12700K +Asus TUF Z690-Plus Wifi"
       }
     ],
     "Esencial": [
@@ -1162,18 +1070,6 @@
         "Date": "2023-07-26T16:42:06.8492862-04:00",
         "Update": "2024-04-10T12:09:21.375684-04:00",
         "Label": "HDD 3.5 Seagate Pipeline 2TB"
-      },
-      {
-        "Price": 165.00,
-        "Features": [
-          "256mb",
-          "7200rpm",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2024-04-30T06:44:25.3977192-04:00",
-        "Update": "2024-05-02T11:07:45.2598525-04:00",
-        "Label": "HDD 3.5 Seagate Exos X14 12TB"
       }
     ],
     "Otros": [
@@ -2170,6 +2066,7 @@
         ],
         "Date": "2024-04-11T02:50:44.4454084-04:00",
         "Update": "2024-04-14T10:19:27.9376726-04:00",
+        "Def": true,
         "Label": "Tarjeta de Video MSI RTX 3050 Ventus 2X OC 6GB"
       },
       {
@@ -2583,18 +2480,6 @@
         "Label": "SSD M.2 Team Group MP44L 1TB"
       },
       {
-        "Price": 59.00,
-        "Features": [
-          "4800mbs",
-          "300TBW",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2024-01-23T14:30:53.2121378-05:00",
-        "Update": "2024-02-28T07:53:53.5970948-05:00",
-        "Label": "SSD M.2 Corsair MP600 GS 500GB"
-      },
-      {
         "Price": 69.00,
         "Features": [
           "7400mbs",
@@ -2818,26 +2703,6 @@
         "Date": "2023-10-16T10:24:22.1843395-04:00",
         "Update": "2024-05-02T09:37:04.7271091-04:00",
         "Label": "Board MSI Z790 Gaming Pro Wifi"
-      },
-      {
-        "Price": 229.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "6000mhz",
-          "15xVRM",
-          "6xAudio",
-          "6xUSB",
-          "4xSATA",
-          "HDMI",
-          "DisplayPort",
-          "LGA1700",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-05-11T07:56:36.6020035-04:00",
-        "Update": "2024-05-02T09:37:04.7467435-04:00",
-        "Label": "Board Asus TUF Z690-Plus Wifi"
       },
       {
         "Price": 405.00,
