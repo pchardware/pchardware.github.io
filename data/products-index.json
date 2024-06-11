@@ -325,21 +325,6 @@
         "Label": "Kit i9-12900K + MSI MEG Z690 ACE Potencia y estilo en un solo combo"
       },
       {
-        "Price": 469.00,
-        "Features": [
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "Wifi",
-          "8xUSB",
-          "6xSATA"
-        ],
-        "Date": "2024-02-26T10:08:53.3357047-05:00",
-        "Update": "2024-05-23T10:04:15.0565649-04:00",
-        "Discount": 4.0,
-        "Label": "Kit Intel Core i5-12600K +Hyper 212 Spectrum V3 +Gigabyte Z690 AERO G DDR4"
-      },
-      {
         "Price": 465.00,
         "Features": [
           "12Gen",
@@ -1738,22 +1723,6 @@
         "Date": "2024-06-01T15:56:26.5539425-04:00",
         "Update": "2024-06-01T22:19:50.7388346-04:00",
         "Label": "Disipador AMD Wraith Stealth x7 S5000"
-      },
-      {
-        "Price": 83.00,
-        "Features": [
-          "6xPipes",
-          "1500rpm",
-          "66.87CFM",
-          "5.6dBa",
-          "LGA 1700",
-          "LGA 1200",
-          "AM4",
-          "AM5"
-        ],
-        "Date": "2024-06-07T05:57:38.9863907-04:00",
-        "Update": "2024-06-07T07:18:14.1681273-04:00",
-        "Label": "Disipador Thermalright Peerless Assassin 120 Mini"
       }
     ],
     "Memoria RAM": [
@@ -1878,18 +1847,6 @@
         "Date": "2024-02-16T14:41:51.7835873-05:00",
         "Update": "2024-04-12T09:38:23.0745973-04:00",
         "Label": "RAM DDR4 ADATA XPG Spectrix D41 RGB 8GB 3000mhz"
-      },
-      {
-        "Price": 35.00,
-        "Features": [
-          "1x8GB",
-          "CL15",
-          "Disipadas"
-        ],
-        "Date": "2024-02-16T14:41:59.9676662-05:00",
-        "Update": "2024-04-12T09:38:23.1156803-04:00",
-        "Def": true,
-        "Label": "RAM DDR4 Kingston HyperX Fury RGB 8GB 3000mhz"
       },
       {
         "Price": 139.00,
@@ -2986,27 +2943,6 @@
         "Date": "2023-10-03T06:55:49.2464488-04:00",
         "Update": "2024-05-02T09:37:04.8688628-04:00",
         "Label": "Board Gigabyte Z790 Aorus Elite AX"
-      },
-      {
-        "Price": 235.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR4",
-          "5333mhz",
-          "Wifi",
-          "8xUSB",
-          "6xSATA",
-          "4xM.2",
-          "LGA 1700",
-          "ATX",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio",
-          "MOBO"
-        ],
-        "Date": "2024-02-18T08:16:18.8265622-05:00",
-        "Update": "2024-05-03T07:21:36.1139614-04:00",
-        "Label": "Board Gigabyte Z690 AERO G DDR4"
       },
       {
         "Price": 295.00,
