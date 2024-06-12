@@ -17,6 +17,7 @@
         "Date": "2024-05-31T08:06:41.7828097-04:00",
         "Update": "2024-05-31T08:35:36.7520837-04:00",
         "Discount": 19.0,
+        "Def": true,
         "Label": "PC RTX 4070 OC 12GB +i5-14600K +Líquida 240mm +Z790 Aorus Elite AX +32GB DDR5 +1TB M.2 + 850W + 24\""
       },
       {
@@ -1522,6 +1523,7 @@
         "Features": [],
         "Date": "2024-06-01T15:56:44.2189999-04:00",
         "Update": "2024-06-01T16:41:03.1959068-04:00",
+        "Def": true,
         "Label": "Disipador AMD AM3 DKM-7D52A-A1-GP"
       },
       {
@@ -1534,6 +1536,7 @@
         ],
         "Date": "2024-06-01T15:56:48.5252604-04:00",
         "Update": "2024-06-01T19:20:55.5130094-04:00",
+        "Def": true,
         "Label": "Disipador AMD Wraith Prism RGB LED"
       },
       {
@@ -1582,6 +1585,7 @@
         ],
         "Date": "2024-06-01T15:56:39.9622361-04:00",
         "Update": "2024-06-01T19:34:28.3477128-04:00",
+        "Def": true,
         "Label": "Disipador Intel Laminar RM1"
       },
       {
@@ -1600,6 +1604,7 @@
         ],
         "Date": "2023-07-17T23:40:19.2345723-04:00",
         "Update": "2024-06-01T22:19:50.7134342-04:00",
+        "Def": true,
         "Label": "Disipador AMD Wraith Stealth x5 S3000"
       },
       {
@@ -1618,6 +1623,7 @@
         ],
         "Date": "2024-06-01T15:56:26.5539425-04:00",
         "Update": "2024-06-01T22:19:50.7388346-04:00",
+        "Def": true,
         "Label": "Disipador AMD Wraith Stealth x7 S5000"
       }
     ],
@@ -3241,6 +3247,7 @@
         ],
         "Date": "2024-04-20T12:17:58.1586146-04:00",
         "Update": "2024-04-22T07:44:58.3868017-04:00",
+        "Def": true,
         "Label": "Teclado MSI Vigor GK50 Elite TKL LL"
       },
       {
@@ -3792,6 +3799,7 @@
         ],
         "Date": "2023-07-09T16:44:32.5135505-04:00",
         "Update": "2023-12-14T08:51:11.7359479-05:00",
+        "Def": true,
         "Label": "Monitor Acer Nitro 24\" 165Hz 1ms SPK VA"
       },
       {
