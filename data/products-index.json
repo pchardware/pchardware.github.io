@@ -62,20 +62,12 @@
         "Label": "Torre i5-12400 +Gigabyte B760M DS3H +16GB DDR4 RGB 3600mhz +512GB M2 +600W +Chasis RGB Black"
       },
       {
-        "Price": 1345.00,
+        "Price": 1335.00,
         "Features": [],
         "Date": "2024-06-08T07:26:55.4217573-04:00",
         "Update": "2024-06-08T07:57:16.4561463-04:00",
         "Discount": 15.0,
         "Label": "Torre RTX 4060 EVO 8GB OC +i5-12400F +Z790 Eagle AX +32GB DDR5 +500GB M2 +2TB HDD +750W"
-      },
-      {
-        "Price": 1445.00,
-        "Features": [],
-        "Date": "2024-06-08T07:33:24.4293975-04:00",
-        "Update": "2024-06-08T07:57:16.4745825-04:00",
-        "Discount": 17.0,
-        "Label": "Torre RTX 4060 OC 8GB +i5-12600KF +Z790 Aorus Elite AX +32GB DDR5 +1TB M2 +850W +Chasis Blanco"
       },
       {
         "Price": 1779.00,
@@ -92,16 +84,6 @@
         "Update": "2024-06-10T08:29:50.9250655-04:00",
         "Discount": 21.0,
         "Label": "Torre RTX 4070 OC 12GB +i7-12700K +Liquida +Z790 Aorus Elite AX +32GB DDR5 +1TB M.2 +1000W"
-      }
-    ],
-    "Pro": [
-      {
-        "Price": 1089.00,
-        "Features": [],
-        "Date": "2024-06-10T08:08:58.3468789-04:00",
-        "Update": "2024-06-10T08:29:51.0280979-04:00",
-        "Discount": 16.0,
-        "Label": "Torre i5-12600K +MSI MEG Z690 ACE +32GB DDR5 RGB 6400mhz +1TB M.2 +850W +Chasis RGB Black"
       }
     ]
   },
@@ -543,26 +525,6 @@
         "Date": "2024-05-03T06:17:23.2912172-04:00",
         "Update": "2024-05-03T09:34:05.523577-04:00",
         "Label": "Fuente MSI MAG A750BN 750W"
-      },
-      {
-        "Price": 175.00,
-        "Features": [
-          "ATX 3.0",
-          "70A",
-          "80+ Gold",
-          "Full Modular",
-          "1x 16Pin",
-          "4x 6+2Pin",
-          "8x SATA",
-          "2x 4+4 EPS",
-          "4x Molex",
-          "140mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2024-04-11T02:49:01.5018153-04:00",
-        "Update": "2024-05-03T09:37:11.1054372-04:00",
-        "Label": "Fuente MSI MAG A850GL 850W"
       },
       {
         "Price": 199.00,
@@ -3022,7 +2984,7 @@
         "Label": "Micro Intel Core i3-14100F +Disipador"
       },
       {
-        "Price": 169.00,
+        "Price": 159.00,
         "Features": [
           "12va Gen",
           "12 Hilos",
@@ -3039,7 +3001,7 @@
         "Label": "Micro Intel Core i5-12400F +Disipador"
       },
       {
-        "Price": 119.00,
+        "Price": 109.00,
         "Features": [
           "12va Gen",
           "8 Hilos",
@@ -3335,29 +3297,6 @@
         "Date": "2024-01-03T08:13:00.6537346-05:00",
         "Update": "2024-01-28T06:49:14.6733309-05:00",
         "Label": "Cable Molex a SATA"
-      }
-    ],
-    "Auriculares": [
-      {
-        "Price": 135.00,
-        "Features": [
-          "Hi-Res",
-          "7.1",
-          "RGB",
-          "USB-C",
-          "USB-A",
-          "50mm",
-          "20hz-40khz",
-          "32ohm",
-          "310g",
-          "Micrófono",
-          "Headset",
-          "Cascos",
-          "Audífonos"
-        ],
-        "Date": "2023-10-23T12:32:21.2274943-04:00",
-        "Update": "2023-11-27T09:23:42.4497275-05:00",
-        "Label": "Auriculares Asus ROG Fusion II 300 Gaming"
       }
     ],
     "Webcam": [
