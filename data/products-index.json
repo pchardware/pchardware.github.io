@@ -10,14 +10,6 @@
         "Label": "PC RTX 4060 Ti 8GB +Core i7-12700K +Z790 Eagle AX +32GB DDR5 +512GB M.2 +27\""
       },
       {
-        "Price": 2109.00,
-        "Features": [],
-        "Date": "2024-06-10T08:00:35.4518559-04:00",
-        "Update": "2024-06-10T08:29:50.8835488-04:00",
-        "Discount": 26.0,
-        "Label": "PC RTX 4060 Ti 3X 8GB +i5-14600K +Liquida +Z790 Aorus Elite +32GB DDR5 +512GB M2 +850W +AOC 24\""
-      },
-      {
         "Price": 2359.00,
         "Features": [],
         "Date": "2024-06-10T08:04:42.0438781-04:00",
@@ -45,14 +37,6 @@
         "Discount": 15.0,
         "Def": true,
         "Label": "Torre RTX 4060 EVO 8GB OC +i5-12400F +Z790 Eagle AX +32GB DDR5 +500GB M2 +2TB HDD +750W"
-      },
-      {
-        "Price": 1779.00,
-        "Features": [],
-        "Date": "2024-06-10T07:56:16.3731797-04:00",
-        "Update": "2024-06-10T08:29:50.84071-04:00",
-        "Discount": 22.0,
-        "Label": "Torre RTX 4060 Ti 3X 8GB +i5-14600K +Liquida +Z790 Aorus Elite AX +32GB DDR5 +512GB M2 +850W"
       },
       {
         "Price": 1935.00,
@@ -147,23 +131,6 @@
         "Update": "2024-04-25T12:00:03.9994283-04:00",
         "Discount": 15.0,
         "Label": "Kit i9-12900K +MSI MEG Z690 ACE +32GB DDR5 Corsair Dominator Platinum"
-      },
-      {
-        "Price": 533.00,
-        "Features": [
-          "14-Gen",
-          "20 Core",
-          "28 Hilos",
-          "5.6Ghz",
-          "Wifi",
-          "Bluetooth",
-          "7xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-04-13T04:17:05.2257782-04:00",
-        "Update": "2024-04-25T12:00:04.022379-04:00",
-        "Discount": 5.0,
-        "Label": "Kit i5-14600K +Gigabyte Z790 Eagle AX"
       },
       {
         "Price": 619.00,
@@ -1684,17 +1651,6 @@
         "Label": "RAM DDR4 Team Group T-Force Delta 2 RGB 8GB 3200mhz White"
       },
       {
-        "Price": 99.00,
-        "Features": [
-          "2x16GB",
-          "CL40",
-          "Disipadas"
-        ],
-        "Date": "2023-10-09T15:59:12.4893615-04:00",
-        "Update": "2024-05-02T13:05:17.7537898-04:00",
-        "Label": "RAM DDR5 Patriot Viper Venom 32GB 6200mhz"
-      },
-      {
         "Price": 65.00,
         "Features": [
           "2x8GB",
@@ -1888,7 +1844,7 @@
         "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X White OC 8GB"
       },
       {
-        "Price": 345.00,
+        "Price": 339.00,
         "Features": [
           "3xFan",
           "1x8Pin",
@@ -2169,25 +2125,6 @@
         "Date": "2024-04-11T02:49:46.3017721-04:00",
         "Update": "2024-05-04T08:26:33.9935371-04:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Gaming OC V2 12GB"
-      },
-      {
-        "Price": 525.00,
-        "Features": [
-          "DLSS3",
-          "3xFan",
-          "1x8Pin",
-          "650WR",
-          "300mm",
-          "3xDisplay Port",
-          "1xHDMI",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-01-30T09:00:00.9284294-05:00",
-        "Update": "2024-05-07T00:12:02.7142877-04:00",
-        "Label": "Tarjeta de Video Asus TUF RTX 4060 Ti 8GB OC"
       },
       {
         "Price": 289.00,
@@ -2866,24 +2803,6 @@
         "Date": "2024-02-01T21:14:34.2946119-05:00",
         "Update": "2024-05-19T21:05:41.4273113-04:00",
         "Label": "Micro Intel Core i3-14100 +Disipador"
-      },
-      {
-        "Price": 319.00,
-        "Features": [
-          "14Gen",
-          "14 Core",
-          "20 Hilos",
-          "5.3Ghz",
-          "24MB L3",
-          "39241pm",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-11-30T11:21:40.9533793-05:00",
-        "Update": "2024-05-19T21:05:41.465528-04:00",
-        "Label": "Micro Intel Core i5-14600K"
       },
       {
         "Price": 419.00,
