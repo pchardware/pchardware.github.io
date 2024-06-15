@@ -17,6 +17,16 @@
         "Discount": 25.0,
         "Label": "PC RTX 4070 OC 12GB +i7-12700K +Liquida +Z790 Aorus Elite +32GB DDR5 +1TB M2 +1000W +Acer 27\""
       }
+    ],
+    "Multimedia": [
+      {
+        "Price": 835.00,
+        "Features": [],
+        "Date": "2024-06-15T11:55:02.3781114-04:00",
+        "Update": "2024-06-15T11:56:25.2318667-04:00",
+        "Discount": 16.0,
+        "Label": "Torre i3-14100 +Gigabyte B760M DS3H +16GB DDR4 RGB 16GB+1TB M.2 +700W +MSI Pro 24\""
+      }
     ]
   },
   "Torres": {
@@ -45,6 +55,16 @@
         "Update": "2024-06-10T08:29:50.9250655-04:00",
         "Discount": 21.0,
         "Label": "Torre RTX 4070 OC 12GB +i7-12700K +Liquida +Z790 Aorus Elite AX +32GB DDR5 +1TB M.2 +1000W"
+      }
+    ],
+    "Multimedia": [
+      {
+        "Price": 655.00,
+        "Features": [],
+        "Date": "2024-06-15T11:50:29.715162-04:00",
+        "Update": "2024-06-15T11:54:46.0645986-04:00",
+        "Discount": 17.0,
+        "Label": "Torre i3-14100 +Gigabyte B760M DS3H +16GB DDR4 RGB 16GB+1TB M.2 +700W + Chasis"
       }
     ]
   },
