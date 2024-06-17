@@ -1,23 +1,5 @@
 {
   "Computadoras": {
-    "Gamer": [
-      {
-        "Price": 1997.00,
-        "Features": [],
-        "Date": "2024-04-20T10:42:06.0831707-04:00",
-        "Update": "2024-06-01T18:38:46.1718814-04:00",
-        "Discount": 20.0,
-        "Label": "PC RTX 4060 Ti 8GB +Core i7-12700K +Z790 Eagle AX +32GB DDR5 +512GB M.2 +27\""
-      },
-      {
-        "Price": 2359.00,
-        "Features": [],
-        "Date": "2024-06-10T08:04:42.0438781-04:00",
-        "Update": "2024-06-10T08:29:50.9676627-04:00",
-        "Discount": 25.0,
-        "Label": "PC RTX 4070 OC 12GB +i7-12700K +Liquida +Z790 Aorus Elite +32GB DDR5 +1TB M2 +1000W +Acer 27\""
-      }
-    ],
     "Multimedia": [
       {
         "Price": 835.00,
@@ -55,14 +37,6 @@
         "Discount": 15.0,
         "Def": true,
         "Label": "Torre RTX 4060 EVO 8GB OC +i5-12400F +Z790 Eagle AX +32GB DDR5 +500GB M2 +2TB HDD +750W"
-      },
-      {
-        "Price": 1935.00,
-        "Features": [],
-        "Date": "2024-06-10T08:03:57.908033-04:00",
-        "Update": "2024-06-10T08:29:50.9250655-04:00",
-        "Discount": 21.0,
-        "Label": "Torre RTX 4070 OC 12GB +i7-12700K +Liquida +Z790 Aorus Elite AX +32GB DDR5 +1TB M.2 +1000W"
       },
       {
         "Price": 909.00,
@@ -110,21 +84,6 @@
         "Date": "2024-04-11T11:15:12.6184151-04:00",
         "Update": "2024-04-11T11:53:18.2128881-04:00",
         "Label": "Kit i5-12600K +Gigabyte Z790 Eagle AX"
-      },
-      {
-        "Price": 528.00,
-        "Features": [
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "DDR5",
-          "10xUSB",
-          "6xAudio",
-          "6xSATA"
-        ],
-        "Date": "2024-04-11T11:15:34.6893058-04:00",
-        "Update": "2024-04-11T11:53:18.2498667-04:00",
-        "Label": "Kit i7-12700K +Asus ROG Strix Z690-E Gaming Wifi"
       },
       {
         "Price": 749.00,
@@ -196,27 +155,6 @@
         "Update": "2024-06-17T10:10:18.5864006-04:00",
         "Discount": 2.0,
         "Label": "Kit i7-12700K +Cooler Master Hyper 620S Dual +Gigabyte Z790 Eagle AX"
-      },
-      {
-        "Price": 679.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "DDR5",
-          "7600mhz",
-          "14xVRM",
-          "Wifi",
-          "Bluetooth",
-          "7xUSB",
-          "4xSATA",
-          "3xAudio"
-        ],
-        "Date": "2024-06-17T10:04:44.4858523-04:00",
-        "Update": "2024-06-17T10:10:18.6168788-04:00",
-        "Discount": 3.0,
-        "Label": "Kit i7-12700K +Cooler Master Hyper 620S Dual +Gigabyte Z790 Eagle AX +32GB DDR5 RGB"
       }
     ],
     "Esencial": [
@@ -237,26 +175,6 @@
         "Update": "2024-05-24T04:03:55.9487895-04:00",
         "Discount": 4.0,
         "Label": "Kit i3-14100 +ASRock B760M PRO RS +16GB DDR5 Corsair Vengeance 5200mhz"
-      }
-    ],
-    "Entusiasta": [
-      {
-        "Price": 863.00,
-        "Features": [
-          "12va Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.2GHz",
-          "2x16",
-          "6200mhz",
-          "10xUSB",
-          "6xSATA",
-          "6xAudio"
-        ],
-        "Date": "2024-01-28T06:21:13.649846-05:00",
-        "Update": "2024-05-26T09:51:46.9855544-04:00",
-        "Discount": 15.0,
-        "Label": "Kit i9-12900K +H60x RGB Elite +Strix Z690-E Gaming Wifi +32GB Corsair RGB"
       }
     ],
     "Moderado": [
@@ -467,24 +385,6 @@
         "Date": "2023-09-11T09:09:29.0343419-04:00",
         "Update": "2023-11-03T12:22:11.728327-04:00",
         "Label": "Fuente Apevia Spirit 600W"
-      },
-      {
-        "Price": 165.00,
-        "Features": [
-          "71A",
-          "80+ Gold",
-          "Full Modular",
-          "4x 6+2Pin",
-          "8x SATA",
-          "2x 4+4 EPS",
-          "Hydraulic",
-          "140mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-10-03T06:55:40.1387236-04:00",
-        "Update": "2024-02-16T14:51:46.5686549-05:00",
-        "Label": "Fuente Gigabyte UD850GM 850W"
       },
       {
         "Price": 179.00,
@@ -979,23 +879,6 @@
         "Date": "2024-05-03T06:18:04.426155-04:00",
         "Update": "2024-05-03T11:52:25.3129454-04:00",
         "Label": "Disipador Líquido Corsair iCUE H150 RGB"
-      },
-      {
-        "Price": 265.00,
-        "Features": [
-          "3xFan",
-          "2500rpm",
-          "38dB",
-          "360mm",
-          "LGA 1700",
-          "LGA 15XX",
-          "LGA 1200",
-          "AM4",
-          "sTRX4"
-        ],
-        "Date": "2024-05-03T06:18:09.2978313-04:00",
-        "Update": "2024-05-03T11:52:25.3327294-04:00",
-        "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce 360"
       },
       {
         "Price": 229.00,
@@ -1927,17 +1810,6 @@
         "Label": "RAM DDR4 G.Skill Ripjaws V 64GB 3600mhz"
       },
       {
-        "Price": 135.00,
-        "Features": [
-          "2x16",
-          "CL40",
-          "Disipadas"
-        ],
-        "Date": "2024-01-27T21:38:20.2269354-05:00",
-        "Update": "2024-05-02T17:09:30.7329602-04:00",
-        "Label": "RAM DDR5 Gigabyte Aorus RGB 32GB 6000mhz"
-      },
-      {
         "Price": 59.00,
         "Features": [
           "1x16GB",
@@ -2494,18 +2366,6 @@
         "Label": "SSD M.2 TeamGroup MP34 1TB"
       },
       {
-        "Price": 59.00,
-        "Features": [
-          "2400mbs",
-          "80TBW",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-11-27T09:55:03.5320741-05:00",
-        "Update": "2024-02-28T07:53:53.5384234-05:00",
-        "Label": "SSD M.2 WD Green SN350 960GB"
-      },
-      {
         "Price": 65.00,
         "Features": [
           "2150mbs",
@@ -2639,26 +2499,6 @@
       }
     ],
     "Board": [
-      {
-        "Price": 289.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "6400mhz",
-          "17xVRM",
-          "10xUSB",
-          "6xAudio",
-          "6xSATA",
-          "DisplayPort",
-          "HDMI",
-          "LGA 1700",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-05-11T07:51:07.1403838-04:00",
-        "Update": "2024-05-02T09:37:04.6316032-04:00",
-        "Label": "Board Asus ROG Strix Z690-E Gaming Wifi"
-      },
       {
         "Price": 299.00,
         "Features": [
