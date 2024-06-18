@@ -1,0 +1,29 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-i7-12700k-gigabyte-z790-aorus-elite-ax-1.webp",
+    "/images/products/kit-i7-12700k-gigabyte-z790-aorus-elite-ax-2.webp",
+    "/images/products/kit-i7-12700k-gigabyte-z790-aorus-elite-ax-3.webp",
+    "/images/products/kit-i7-12700k-gigabyte-z790-aorus-elite-ax-4.webp",
+    "/images/products/kit-i7-12700k-gigabyte-z790-aorus-elite-ax-5.webp"
+  ],
+  "Description": "+ Micro Intel Core i7-12700K\n+ Board Gigabyte Z790 Aorus Elite AX\n",
+  "Price": 505.00,
+  "Features": [
+    "12Gen",
+    "20 Hilos",
+    "12 Core",
+    "5GHz",
+    "7600mhz",
+    "19xVRM",
+    "Wifi",
+    "9xUSB",
+    "6xSATA",
+    "3xAudio"
+  ],
+  "Date": "2024-06-18T12:19:45.3105254-04:00",
+  "Update": "2024-06-18T12:34:20.853335-04:00",
+  "Discount": 3.0,
+  "Label": "Kit i7-12700K +Gigabyte Z790 Aorus Elite AX"
+}
