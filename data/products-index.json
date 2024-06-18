@@ -22,14 +22,6 @@
   "Torres": {
     "Gamer": [
       {
-        "Price": 2869.00,
-        "Features": [],
-        "Date": "2024-06-05T06:54:05.7184408-04:00",
-        "Update": "2024-06-05T06:57:39.8944695-04:00",
-        "Discount": 22.0,
-        "Label": "Torre RTX 4070 Ti SUPER 16GB +i7-14700K +Liquida +Z790-F Gaming Wifi +32G DDR5 RGB +1TB M2 +1000W"
-      },
-      {
         "Price": 1335.00,
         "Features": [],
         "Date": "2024-06-08T07:26:55.4217573-04:00",
@@ -2362,23 +2354,6 @@
         "Date": "2024-02-28T05:29:52.7076632-05:00",
         "Update": "2024-05-07T00:12:02.747237-04:00",
         "Label": "Tarjeta de Video Asus Dual RTX 3050 6GB OC"
-      },
-      {
-        "Price": 989.00,
-        "Features": [
-          "3xFan",
-          "DLSS3",
-          "1x16Pin",
-          "750WR",
-          "305mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-02-16T17:52:47.8557688-05:00",
-        "Update": "2024-05-07T00:12:02.7638688-04:00",
-        "Label": "Tarjeta de video Asus TUF RTX 4070 Ti SUPER 16GB"
       },
       {
         "Price": 385.00,
