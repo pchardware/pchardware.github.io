@@ -1,0 +1,31 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-i7-12700k-cooler-master-hyper-620s-dual-gigaby-j79xkk-1.webp",
+    "/images/products/kit-i7-12700k-cooler-master-hyper-620s-dual-gigaby-j79xkk-2.webp",
+    "/images/products/kit-i7-12700k-cooler-master-hyper-620s-dual-gigaby-j79xkk-3.webp",
+    "/images/products/kit-i7-12700k-cooler-master-hyper-620s-dual-gigaby-j79xkk-4.webp",
+    "/images/products/kit-i7-12700k-cooler-master-hyper-620s-dual-gigaby-j79xkk-5.webp",
+    "/images/products/kit-i7-12700k-cooler-master-hyper-620s-dual-gigaby-j79xkk-6.webp",
+    "/images/products/kit-i7-12700k-cooler-master-hyper-620s-dual-gigaby-j79xkk-7.webp"
+  ],
+  "Description": "+ Micro Intel Core i7-12700K\n+ Disipador Cooler Master Hyper 620S Dual\n+ Board Gigabyte Z790 Aorus Elite AX\n",
+  "Price": 595.00,
+  "Features": [
+    "12Gen",
+    "20 Hilos",
+    "12 Core",
+    "5GHz",
+    "7600mhz",
+    "19xVRM",
+    "Wifi",
+    "9xUSB",
+    "6xSATA",
+    "3xAudio"
+  ],
+  "Date": "2024-06-18T12:20:14.3906454-04:00",
+  "Update": "2024-06-18T12:34:20.8732552-04:00",
+  "Discount": 2.0,
+  "Label": "Kit i7-12700K +Cooler Master Hyper 620S Dual +Gigabyte Z790 Aorus Elite AX"
+}
