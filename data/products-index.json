@@ -170,44 +170,6 @@
         "Label": "Kit i7-12700K +MSI MEG Z690 ACE"
       },
       {
-        "Price": 505.00,
-        "Features": [
-          "12Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "7600mhz",
-          "19xVRM",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "3xAudio"
-        ],
-        "Date": "2024-06-18T12:19:45.3105254-04:00",
-        "Update": "2024-06-18T12:34:20.853335-04:00",
-        "Discount": 3.0,
-        "Label": "Kit i7-12700K +Gigabyte Z790 Aorus Elite AX"
-      },
-      {
-        "Price": 595.00,
-        "Features": [
-          "12Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "7600mhz",
-          "19xVRM",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "3xAudio"
-        ],
-        "Date": "2024-06-18T12:20:14.3906454-04:00",
-        "Update": "2024-06-18T12:34:20.8732552-04:00",
-        "Discount": 2.0,
-        "Label": "Kit i7-12700K +Cooler Master Hyper 620S Dual +Gigabyte Z790 Aorus Elite AX"
-      },
-      {
         "Price": 675.00,
         "Features": [
           "12Gen",
@@ -972,6 +934,7 @@
         ],
         "Date": "2024-05-03T06:18:04.426155-04:00",
         "Update": "2024-05-03T11:52:25.3129454-04:00",
+        "Def": true,
         "Label": "Disipador Líquido Corsair iCUE H150 RGB"
       },
       {
@@ -1715,19 +1678,81 @@
         "Label": "Disipador AMD Wraith Stealth x7 S5000"
       }
     ],
-    "Memoria RAM": [
+    "Chasis": [
       {
-        "Price": 129.00,
+        "Price": 95.0,
         "Features": [
-          "2x16GB",
-          "CL36",
-          "Disipadas"
+          "8 GPU",
+          "Acero",
+          "Abierto"
         ],
-        "Date": "2023-10-02T14:28:55.7243127-04:00",
-        "Update": "2023-10-31T11:23:29.2791521-04:00",
-        "Def": true,
-        "Label": "RAM DDR5 Corsair Vengenance RGB 32GB 6000mhz White"
+        "Date": "2023-06-07T15:06:17.9384399-04:00",
+        "Update": "2023-12-14T07:55:28.8181172-05:00",
+        "Label": "Chasis MLLIQUEA Mining Rig Frame"
       },
+      {
+        "Price": 159.00,
+        "Features": [
+          "Tempered Glass",
+          "3xFan ARGB",
+          "3xUSB",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "Negro",
+          "2xHDD"
+        ],
+        "Date": "2024-04-30T06:45:15.022489-04:00",
+        "Update": "2024-04-30T09:42:29.9510849-04:00",
+        "Label": "Chasis Cougar Archon 2 Mesh RGB White"
+      },
+      {
+        "Price": 159.00,
+        "Features": [
+          "Tempered Glass",
+          "3xFan ARGB",
+          "3xUSB",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "Negro",
+          "2xHDD"
+        ],
+        "Date": "2023-11-03T12:22:56.9620417-04:00",
+        "Update": "2024-05-04T08:26:33.7233299-04:00",
+        "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
+      },
+      {
+        "Price": 225.00,
+        "Features": [
+          "Tempered Glass",
+          "Gamer",
+          "Mid Tower",
+          "M-ATX",
+          "Negro",
+          "2xHDD",
+          "Minimalista"
+        ],
+        "Date": "2024-05-16T09:19:23.8380237-04:00",
+        "Update": "2024-05-16T09:43:16.7137926-04:00",
+        "Label": "Chasis Asus A21 Black"
+      },
+      {
+        "Price": 229.00,
+        "Features": [
+          "Tempered Glass",
+          "Gamer",
+          "Mid Tower",
+          "EATX",
+          "Negro",
+          "1xHDD"
+        ],
+        "Date": "2024-01-18T07:08:34.7724156-05:00",
+        "Update": "2024-06-06T22:20:53.7133779-04:00",
+        "Label": "Chasis Cougar Uniface S Black"
+      }
+    ],
+    "Memoria RAM": [
       {
         "Price": 145.00,
         "Features": [
@@ -1914,80 +1939,6 @@
         "Date": "2024-05-06T23:38:17.6026307-04:00",
         "Update": "2024-05-07T00:12:02.7983371-04:00",
         "Label": "RAM DDR5 Corsair Vengeance 16GB 5200mhz"
-      }
-    ],
-    "Chasis": [
-      {
-        "Price": 95.0,
-        "Features": [
-          "8 GPU",
-          "Acero",
-          "Abierto"
-        ],
-        "Date": "2023-06-07T15:06:17.9384399-04:00",
-        "Update": "2023-12-14T07:55:28.8181172-05:00",
-        "Label": "Chasis MLLIQUEA Mining Rig Frame"
-      },
-      {
-        "Price": 159.00,
-        "Features": [
-          "Tempered Glass",
-          "3xFan ARGB",
-          "3xUSB",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro",
-          "2xHDD"
-        ],
-        "Date": "2024-04-30T06:45:15.022489-04:00",
-        "Update": "2024-04-30T09:42:29.9510849-04:00",
-        "Label": "Chasis Cougar Archon 2 Mesh RGB White"
-      },
-      {
-        "Price": 159.00,
-        "Features": [
-          "Tempered Glass",
-          "3xFan ARGB",
-          "3xUSB",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro",
-          "2xHDD"
-        ],
-        "Date": "2023-11-03T12:22:56.9620417-04:00",
-        "Update": "2024-05-04T08:26:33.7233299-04:00",
-        "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
-      },
-      {
-        "Price": 225.00,
-        "Features": [
-          "Tempered Glass",
-          "Gamer",
-          "Mid Tower",
-          "M-ATX",
-          "Negro",
-          "2xHDD",
-          "Minimalista"
-        ],
-        "Date": "2024-05-16T09:19:23.8380237-04:00",
-        "Update": "2024-05-16T09:43:16.7137926-04:00",
-        "Label": "Chasis Asus A21 Black"
-      },
-      {
-        "Price": 229.00,
-        "Features": [
-          "Tempered Glass",
-          "Gamer",
-          "Mid Tower",
-          "EATX",
-          "Negro",
-          "1xHDD"
-        ],
-        "Date": "2024-01-18T07:08:34.7724156-05:00",
-        "Update": "2024-06-06T22:20:53.7133779-04:00",
-        "Label": "Chasis Cougar Uniface S Black"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2414,18 +2365,6 @@
         "Label": "SSD 2.5 Team Group T-FORCE VULCAN Z 480GB"
       },
       {
-        "Price": 75.00,
-        "Features": [
-          "3500mbs",
-          "1660TBW",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2023-12-19T06:41:55.578723-05:00",
-        "Update": "2024-02-28T07:53:53.4936819-05:00",
-        "Label": "SSD M.2 TeamGroup MP34 1TB"
-      },
-      {
         "Price": 65.00,
         "Features": [
           "2150mbs",
@@ -2727,27 +2666,6 @@
         "Date": "2023-07-26T18:49:47.5277946-04:00",
         "Update": "2024-05-02T09:37:04.8512982-04:00",
         "Label": "Board ASRock B760M PRO RS"
-      },
-      {
-        "Price": 269.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "7600mhz",
-          "19xVRM",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio",
-          "LGA 1700",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-10-03T06:55:49.2464488-04:00",
-        "Update": "2024-05-02T09:37:04.8688628-04:00",
-        "Label": "Board Gigabyte Z790 Aorus Elite AX"
       },
       {
         "Price": 295.00,
