@@ -10,7 +10,7 @@
         "Label": "PC i3-14100 +Gigabyte B760M DS3H +16GB DDR4 RGB 16GB+1TB M.2 +700W +MSI Pro 24\""
       },
       {
-        "Price": 965.00,
+        "Price": 961.00,
         "Features": [],
         "Date": "2024-06-15T12:01:56.4560597-04:00",
         "Update": "2024-06-15T12:04:30.5527404-04:00",
@@ -22,7 +22,7 @@
   "Torres": {
     "Gamer": [
       {
-        "Price": 1335.00,
+        "Price": 1325.00,
         "Features": [],
         "Date": "2024-06-08T07:26:55.4217573-04:00",
         "Update": "2024-06-08T07:57:16.4561463-04:00",
@@ -31,7 +31,7 @@
         "Label": "Torre RTX 4060 EVO 8GB OC +i5-12400F +Z790 Eagle AX +32GB DDR5 +500GB M2 +2TB HDD +750W"
       },
       {
-        "Price": 909.00,
+        "Price": 905.00,
         "Features": [],
         "Date": "2024-06-16T12:04:14.2016745-04:00",
         "Update": "2024-06-16T12:29:39.8985983-04:00",
@@ -49,7 +49,7 @@
         "Label": "Torre i3-14100 +Gigabyte B760M DS3H +16GB DDR4 RGB 16GB+1TB M.2 +700W + Chasis"
       },
       {
-        "Price": 785.00,
+        "Price": 781.00,
         "Features": [],
         "Date": "2024-06-15T11:58:08.6084311-04:00",
         "Update": "2024-06-15T12:00:28.921632-04:00",
@@ -78,7 +78,7 @@
         "Label": "Kit i5-12600K +Gigabyte Z790 Eagle AX"
       },
       {
-        "Price": 749.00,
+        "Price": 743.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -94,7 +94,7 @@
         "Label": "Kit i9-12900K +MEG Z690 ACE +Líquido MasterLiquid ML240L ARGB V2"
       },
       {
-        "Price": 909.00,
+        "Price": 903.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -112,7 +112,7 @@
         "Label": "Kit i9-12900K +MSI MEG Z690 ACE +32GB DDR5 Corsair Dominator Platinum"
       },
       {
-        "Price": 619.00,
+        "Price": 613.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -234,7 +234,7 @@
     ],
     "Moderado": [
       {
-        "Price": 344.00,
+        "Price": 340.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "12 Hilos",
@@ -252,7 +252,7 @@
         "Label": "Kit i5-12400 +Board ASRock B760M PRO RS"
       },
       {
-        "Price": 334.00,
+        "Price": 330.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "12 Hilos",
@@ -269,7 +269,7 @@
         "Label": "Kit i5-12400 +Gigabyte B760M DS3H"
       },
       {
-        "Price": 405.00,
+        "Price": 401.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "12 Hilos",
@@ -290,7 +290,7 @@
         "Label": "Kit i5-12400 +Gigabyte Z790 Eagle AX"
       },
       {
-        "Price": 445.00,
+        "Price": 441.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "12 Hilos",
@@ -311,7 +311,7 @@
         "Label": "Kit i5-12400 +MSI Z790 Gaming Pro Wifi"
       },
       {
-        "Price": 399.00,
+        "Price": 395.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "12 Hilos",
@@ -330,7 +330,7 @@
         "Label": "Kit i5-12400 +Gigabyte B760M DS3H DDR4 +16GB DDR4 GeIL ORION RGB 3600mhz"
       },
       {
-        "Price": 459.00,
+        "Price": 455.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "12 Hilos",
@@ -350,7 +350,7 @@
         "Label": "Kit i5-12400 +ASRock B760M PRO RS +32GB DDR5 Corsair Vengeance 5200mhz"
       },
       {
-        "Price": 525.00,
+        "Price": 521.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "12 Hilos",
@@ -372,7 +372,7 @@
         "Label": "Kit i5-12400 +Gigabyte Z790 Eagle AX +16GB DDR5 Corsair Vengeance 5200mhz"
       },
       {
-        "Price": 565.00,
+        "Price": 561.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "12 Hilos",
@@ -1932,7 +1932,7 @@
     ],
     "Tarjeta Gráfica": [
       {
-        "Price": 385.00,
+        "Price": 379.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -1949,7 +1949,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Gaming OC 8GB"
       },
       {
-        "Price": 449.00,
+        "Price": 479.00,
         "Features": [
           "Liquida",
           "2x8Pin",
@@ -1966,7 +1966,7 @@
         "Label": "Tarjeta de Video EVGA RTX 3080Ti XC3 Hydro Copper 12GB"
       },
       {
-        "Price": 375.00,
+        "Price": 369.00,
         "Features": [
           "DLSS3",
           "2xFan",
@@ -1983,7 +1983,7 @@
         "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X White OC 8GB"
       },
       {
-        "Price": 339.00,
+        "Price": 335.00,
         "Features": [
           "3xFan",
           "1x8Pin",
@@ -1999,7 +1999,7 @@
         "Label": "Tarjeta de Video MSI Ventus 3x RTX 3060 12GB"
       },
       {
-        "Price": 585.00,
+        "Price": 579.00,
         "Features": [
           "2xFan",
           "700WR",
@@ -2014,7 +2014,7 @@
         "Label": "Tarjeta de Video Saphire RX 7800 XT 16GB"
       },
       {
-        "Price": 495.00,
+        "Price": 485.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2048,7 +2048,7 @@
         "Label": "Tarjeta de Video Gigabyte Aorus RTX 4070 Super Master 12GB"
       },
       {
-        "Price": 989.00,
+        "Price": 985.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2081,7 +2081,7 @@
         "Label": "Tarjeta de Video MSI RTX 3050 Ventus 2X OC 6GB"
       },
       {
-        "Price": 429.00,
+        "Price": 425.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2098,7 +2098,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 3070 Gaming OC 8GB"
       },
       {
-        "Price": 379.00,
+        "Price": 375.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -2115,7 +2115,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4060 Eagle OC 8GB"
       },
       {
-        "Price": 295.00,
+        "Price": 289.00,
         "Features": [
           "2xFan",
           "1x8Pin",
@@ -2131,7 +2131,7 @@
         "Label": "Tarjeta de Video XFX Speedster Swift 210 RX 6650 XT Core 8GB"
       },
       {
-        "Price": 595.00,
+        "Price": 589.00,
         "Features": [
           "3xFan",
           "1x8Pin",
@@ -2147,7 +2147,7 @@
         "Label": "Tarjeta de Video Asus ROG Strix RTX 4060 Ti OC 8GB"
       },
       {
-        "Price": 425.00,
+        "Price": 419.00,
         "Features": [
           "3xFan",
           "1x8Pin+6Pin",
@@ -2163,7 +2163,7 @@
         "Label": "Tarjeta de Video Gigabyte Aorus RX 6750 XT Elite 12GB"
       },
       {
-        "Price": 435.00,
+        "Price": 429.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -2181,7 +2181,7 @@
         "Label": "Tarjeta de Video Asus ProArt RTX 4060 OC 8GB"
       },
       {
-        "Price": 699.00,
+        "Price": 695.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2215,7 +2215,7 @@
         "Label": "Tarjeta de Video MSI RTX 3050 Gaming X 6GB"
       },
       {
-        "Price": 479.00,
+        "Price": 475.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -2232,7 +2232,7 @@
         "Label": "Tarjeta de Video Asus ROG Strix RTX 4060 OC 8GB"
       },
       {
-        "Price": 479.00,
+        "Price": 465.00,
         "Features": [
           "3xFan",
           "2x8Pin",
@@ -2248,7 +2248,7 @@
         "Label": "Tarjeta de Video XFX Speedster SWFT 319 RX 6800 16GB"
       },
       {
-        "Price": 289.00,
+        "Price": 285.00,
         "Features": [
           "2xFan",
           "500WR",
@@ -2279,7 +2279,7 @@
         "Label": "Tarjeta de Video Asus Dual RTX 3050 6GB OC"
       },
       {
-        "Price": 385.00,
+        "Price": 379.00,
         "Features": [
           "DLSS3",
           "2xFan",
@@ -2298,7 +2298,7 @@
         "Label": "Tarjeta de Video Asus Dual RTX 4060 EVO 8GB OC"
       },
       {
-        "Price": 265.00,
+        "Price": 269.00,
         "Features": [
           "3xFan",
           "1x8Pin",
@@ -2712,28 +2712,7 @@
     ],
     "Microprocesador": [
       {
-        "Price": 349.00,
-        "Features": [
-          "Radeon Graphics",
-          "AM5",
-          "24 Hilos",
-          "12 Core",
-          "5.6GHz",
-          "64MB L3",
-          "170W",
-          "51896pm",
-          "PCIe 5",
-          "DDR5",
-          "Unlocked",
-          "Serie 7000",
-          "CPU"
-        ],
-        "Date": "2023-10-09T15:59:15.4094076-04:00",
-        "Update": "2024-05-19T21:05:41.1917481-04:00",
-        "Label": "Micro AMD Ryzen 9 7900X"
-      },
-      {
-        "Price": 325.00,
+        "Price": 319.00,
         "Features": [
           "12Gen",
           "24 Hilos",
@@ -2822,7 +2801,7 @@
         "Label": "Micro Intel Core i3-14100 +Disipador"
       },
       {
-        "Price": 419.00,
+        "Price": 415.00,
         "Features": [
           "14Gen",
           "20 Core",
@@ -2840,7 +2819,7 @@
         "Label": "Micro Intel Core i7-14700K"
       },
       {
-        "Price": 189.00,
+        "Price": 185.00,
         "Features": [
           "12Gen",
           "12 Hilos",
@@ -2874,7 +2853,7 @@
         "Label": "Micro Intel Core i3-14100F +Disipador"
       },
       {
-        "Price": 159.00,
+        "Price": 155.00,
         "Features": [
           "12va Gen",
           "12 Hilos",
