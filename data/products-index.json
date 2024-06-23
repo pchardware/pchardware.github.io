@@ -2,14 +2,6 @@
   "Computadoras": {
     "Multimedia": [
       {
-        "Price": 835.00,
-        "Features": [],
-        "Date": "2024-06-15T11:55:02.3781114-04:00",
-        "Update": "2024-06-15T12:04:30.5343124-04:00",
-        "Discount": 16.0,
-        "Label": "PC i3-14100 +Gigabyte B760M DS3H +16GB DDR4 RGB 16GB+1TB M.2 +700W +MSI Pro 24\""
-      },
-      {
         "Price": 961.00,
         "Features": [],
         "Date": "2024-06-15T12:01:56.4560597-04:00",
@@ -29,25 +21,9 @@
         "Discount": 15.0,
         "Def": true,
         "Label": "Torre RTX 4060 EVO 8GB OC +i5-12400F +Z790 Eagle AX +32GB DDR5 +500GB M2 +2TB HDD +750W"
-      },
-      {
-        "Price": 905.00,
-        "Features": [],
-        "Date": "2024-06-16T12:04:14.2016745-04:00",
-        "Update": "2024-06-16T12:29:39.8985983-04:00",
-        "Discount": 18.0,
-        "Label": "Torre RTX 3050 6GB +i5-12400F +B760M DS3H +16GB DDR4 RGB +1TB M.2+ 700W + Chasis RGB Black"
       }
     ],
     "Multimedia": [
-      {
-        "Price": 655.00,
-        "Features": [],
-        "Date": "2024-06-15T11:50:29.715162-04:00",
-        "Update": "2024-06-15T11:54:46.0645986-04:00",
-        "Discount": 17.0,
-        "Label": "Torre i3-14100 +Gigabyte B760M DS3H +16GB DDR4 RGB 16GB+1TB M.2 +700W + Chasis"
-      },
       {
         "Price": 781.00,
         "Features": [],
@@ -311,25 +287,6 @@
         "Label": "Kit i5-12400 +MSI Z790 Gaming Pro Wifi"
       },
       {
-        "Price": 395.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "2x8GB",
-          "3600",
-          "DDR4",
-          "5333mhz",
-          "9xVRM",
-          "5xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-06-17T09:38:38.0855504-04:00",
-        "Update": "2024-06-17T10:01:34.2401262-04:00",
-        "Label": "Kit i5-12400 +Gigabyte B760M DS3H DDR4 +16GB DDR4 GeIL ORION RGB 3600mhz"
-      },
-      {
         "Price": 455.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -426,21 +383,6 @@
         "Date": "2023-08-20T10:12:14.5675243-04:00",
         "Update": "2023-10-09T17:48:20.9552936-04:00",
         "Label": "Fuente de Servidor HP 578322-B21 1200W"
-      },
-      {
-        "Price": 69.00,
-        "Features": [
-          "45A",
-          "2x 6+2Pin",
-          "4x SATA",
-          "1x 4+4 EPS",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-09-11T09:09:29.0343419-04:00",
-        "Update": "2023-11-03T12:22:11.728327-04:00",
-        "Def": true,
-        "Label": "Fuente Apevia Spirit 600W"
       },
       {
         "Price": 179.00,
@@ -1873,17 +1815,6 @@
         "Date": "2024-02-16T14:41:55.9514851-05:00",
         "Update": "2024-04-12T10:07:16.8222787-04:00",
         "Label": "RAM DDR4 Team Group T-Force Delta 2 RGB 8GB 3200mhz White"
-      },
-      {
-        "Price": 65.00,
-        "Features": [
-          "2x8GB",
-          "CL18",
-          "Disipadas"
-        ],
-        "Date": "2023-03-30T09:56:49.769494-04:00",
-        "Update": "2024-05-02T13:05:17.7897981-04:00",
-        "Label": "RAM DDR4 GeIL ORION RGB 16GB 3600mhz"
       },
       {
         "Price": 79.00,
