@@ -2709,6 +2709,28 @@
         "Date": "2023-03-29T20:18:17.8757341-04:00",
         "Update": "2024-06-24T07:11:32.4831446-04:00",
         "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
+      },
+      {
+        "Price": 209.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR4",
+          "53330mhz",
+          "16xVRM",
+          "Wifi",
+          "Bluetooth",
+          "10xUSB",
+          "6xSATA",
+          "HDMI",
+          "DisplayPort",
+          "6xAudio",
+          "LGA 1700",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2024-06-24T07:12:48.2494361-04:00",
+        "Update": "2024-06-24T08:07:41.5581779-04:00",
+        "Label": "Board MSI MAG Z790 OMAHAWK WIFI DDR4"
       }
     ],
     "Red": [
