@@ -9,7 +9,7 @@
     "/images/products/hdd-35-seagate-exos-x14-12tb-5.webp"
   ],
   "Description": "Model\nBrand: Seagate\nSeries: Exos X14\nModel: ST12000NM0558\nPart Number: ST12000NM0558\nPackaging: Bare Drive\n\n\nPerformance\nInterface: SATA 6.0Gb/s\nCapacity: 12TB\nRPM: 7200 RPM\nCache: 256MB\n\n\nDimensions\nForm Factor: 3.5\"",
-  "Price": 165.00,
+  "Price": 169.00,
   "Features": [
     "256mb",
     "7200rpm",
@@ -17,6 +17,6 @@
     "6 Gbps"
   ],
   "Date": "2024-04-30T06:44:25.3977192-04:00",
-  "Update": "2024-05-02T11:07:45.2598525-04:00",
+  "Update": "2024-06-24T07:11:32.7005539-04:00",
   "Label": "HDD 3.5 Seagate Exos X14 12TB"
 }
