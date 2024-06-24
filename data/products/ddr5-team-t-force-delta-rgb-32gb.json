@@ -1,0 +1,20 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Memoria RAM",
+  "Images": [
+    "/images/products/ddr5-team-t-force-delta-rgb-32gb-1.webp",
+    "/images/products/ddr5-team-t-force-delta-rgb-32gb-2.webp",
+    "/images/products/ddr5-team-t-force-delta-rgb-32gb-3.webp"
+  ],
+  "Description": "Model\nBrand: Team\nSeries: T-Force Delta RGB\nModel: FF3D532G6400HC32ADC01\n\n\nDetails\nCapacity: 32GB (2 x 16GB)\nType: 288-Pin PC RAM\nSpeed: DDR5 6400 (PC5 51200)\nCAS Latency: 32\nTiming: 32-39-39-84\nVoltage: 1.35V\nECC: No\nBuffered/Registered: Unbuffered\nBIOS/Performance Profile: Intel XMP 3.0\nColor: Black\nHeat Spreader: Yes\nFeatures: RGB Colors & 120° Ultra-Wide Lighting\n\nSupports Intel XMP3.0 for One-Click Overclocking\n\nPower Management ICs (PMICs) Equipped for Stable, Efficient Power Usage\n\nStrengthened PMIC Cooling Design\n\nOn-die ECC for Stable System\n\nHigh-Quality ICs Selected for Stability & Reliability\n\nEquipped with Smart RGB IC Controller that Supports Various Lighting Effect Software\nRecommend Use: Intel 600 Series / Intel 700 Series\nLED Color: RGB",
+  "Price": 125.00,
+  "Features": [
+    "2x16GB",
+    "6400mhz",
+    "C32",
+    "Disipadas"
+  ],
+  "Date": "2024-06-24T07:12:54.5616884-04:00",
+  "Update": "2024-06-24T09:19:56.5722286-04:00",
+  "Label": "DDR5 Team T-Force Delta RGB 32GB"
+}
