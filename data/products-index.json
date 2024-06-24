@@ -3770,6 +3770,21 @@
         "Date": "2024-01-30T08:58:58.7450569-05:00",
         "Update": "2024-06-24T07:11:32.5475388-04:00",
         "Label": "Monitor MSI PRO 25\" 100Hz IPS 1ms SPK"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "VA",
+          "DP",
+          "1080p",
+          "FHD",
+          "Flat",
+          "250nit",
+          "HDMI"
+        ],
+        "Date": "2024-06-24T07:13:39.2495883-04:00",
+        "Update": "2024-06-24T08:22:24.1560617-04:00",
+        "Label": "Monitor MSI Pro 22\" FHD 100Hz"
       }
     ],
     "Impresora": [
