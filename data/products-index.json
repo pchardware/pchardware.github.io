@@ -2441,6 +2441,23 @@
         "Date": "2024-06-24T07:12:35.6738092-04:00",
         "Update": "2024-06-24T10:16:53.1296824-04:00",
         "Label": "Tarjeta de Video Asus ROG Strix RTX 4070 12GB"
+      },
+      {
+        "Price": 979.00,
+        "Features": [
+          "DLSS3",
+          "3xfan",
+          "1x16Pin",
+          "750WR",
+          "336mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-06-24T07:12:41.6496521-04:00",
+        "Update": "2024-06-24T11:49:19.1044274-04:00",
+        "Label": "Tarjeta de Video Asus ROG Strix RTX 4070 Ti 12GB"
       }
     ],
     "Disco Sólido": [
