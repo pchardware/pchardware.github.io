@@ -1389,7 +1389,7 @@
     ],
     "Disipador por Aire": [
       {
-        "Price": 49.00,
+        "Price": 55.00,
         "Features": [
           "ARGB",
           "4xPipes",
@@ -1409,7 +1409,6 @@
         ],
         "Date": "2023-06-19T07:49:47.5425532-04:00",
         "Update": "2023-10-09T17:48:20.6927476-04:00",
-        "Def": true,
         "Label": "Disipador Cooler Master Hyper 212 Spectrum V3"
       },
       {
@@ -2750,6 +2749,24 @@
         "Label": "Micro Intel Core i7-14700K"
       },
       {
+        "Price": 599.00,
+        "Features": [
+          "14Gen",
+          "24 Core",
+          "32 Hilos",
+          "6Ghz",
+          "36mb L3",
+          "253W",
+          "60899pm",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-10-23T12:31:45.6342687-04:00",
+        "Update": "2024-05-19T21:05:41.5295114-04:00",
+        "Label": "Micro Intel Core i9-14900K"
+      },
+      {
         "Price": 185.00,
         "Features": [
           "12Gen",
@@ -3485,6 +3502,21 @@
         "Date": "2024-02-28T05:29:58.139187-05:00",
         "Update": "2024-02-28T07:53:53.7454237-05:00",
         "Label": "Monitor AOpen FireLegend 24\" IPS 180Hz 1ms"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "FHD",
+          "8Bits",
+          "FRC",
+          "1080p",
+          "250nit",
+          "DP",
+          "Flat"
+        ],
+        "Date": "2024-01-18T07:09:18.7560023-05:00",
+        "Update": "2024-04-10T12:11:14.6188968-04:00",
+        "Label": "Monitor Asus TUF 24\" 165Hz IPS 1ms SPK"
       },
       {
         "Price": 179.00,
