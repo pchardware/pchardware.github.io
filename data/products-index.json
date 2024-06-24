@@ -1948,6 +1948,18 @@
         "Date": "2024-05-06T23:38:17.6026307-04:00",
         "Update": "2024-05-07T00:12:02.7983371-04:00",
         "Label": "RAM DDR5 Corsair Vengeance 16GB 5200mhz"
+      },
+      {
+        "Price": 59.00,
+        "Features": [
+          "1x16GB",
+          "5200mhz",
+          "CL38",
+          "Disipadas"
+        ],
+        "Date": "2024-06-24T07:12:14.4177241-04:00",
+        "Update": "2024-06-24T09:17:13.8821813-04:00",
+        "Label": "DDR5 XPG Lancer 16GB"
       }
     ],
     "Tarjeta Gráfica": [
@@ -3658,6 +3670,19 @@
         "Date": "2024-06-07T05:57:17.8355099-04:00",
         "Update": "2024-06-07T07:32:47.8083553-04:00",
         "Label": "Mouse Pad Goma Cosido 10.2 x 8.2"
+      },
+      {
+        "Price": 25.00,
+        "Features": [
+          "Gaming",
+          "8 botónes",
+          "16000dpi",
+          "Optico",
+          "USB"
+        ],
+        "Date": "2024-06-24T07:12:09.4026898-04:00",
+        "Update": "2024-06-24T09:15:15.1524526-04:00",
+        "Label": "Mouse AOC Agon Gaming AGM700 RGB"
       }
     ],
     "Monitor": [
