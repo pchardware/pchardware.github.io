@@ -707,6 +707,42 @@
         "Date": "2023-04-15T07:27:14.991735-04:00",
         "Update": "2024-06-24T07:11:32.3590516-04:00",
         "Label": "Fuente Thermaltake SMART 600W 80+"
+      },
+      {
+        "Price": 155.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "60A",
+          "4x 6+2Pin",
+          "1x 4+4 EPS",
+          "8x SATA",
+          "6x PATA",
+          "150mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2024-06-24T07:12:20.5062473-04:00",
+        "Update": "2024-06-24T08:17:21.214873-04:00",
+        "Label": "Fuente NZXT C750 NP-C750M 750W"
+      },
+      {
+        "Price": 149.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "62A",
+          "6x 6+2Pin",
+          "2x 4+4 EPS",
+          "8x SATA",
+          "5x PATA",
+          "160mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2024-06-24T07:12:27.3296679-04:00",
+        "Update": "2024-06-24T08:17:21.2349675-04:00",
+        "Label": "Fuente MSI MPG A750GF"
       }
     ],
     "Disipador Líquido": [
