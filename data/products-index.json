@@ -2424,6 +2424,23 @@
         "Date": "2024-04-11T02:49:11.5578956-04:00",
         "Update": "2024-06-24T07:11:32.5909857-04:00",
         "Label": "Tarjeta de Video Asus TUF Gaming RTX 4070 SUPER OC 12GB"
+      },
+      {
+        "Price": 769.00,
+        "Features": [
+          "DLSS3",
+          "3xfan",
+          "1x16Pin",
+          "650WR",
+          "339mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-06-24T07:12:35.6738092-04:00",
+        "Update": "2024-06-24T10:16:53.1296824-04:00",
+        "Label": "Tarjeta de Video Asus ROG Strix RTX 4070 12GB"
       }
     ],
     "Disco Sólido": [
