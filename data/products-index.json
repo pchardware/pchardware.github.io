@@ -23,11 +23,19 @@
         "Label": "Torre RTX 4060 EVO 8GB OC +i5-12400F +Z790 Eagle AX +32GB DDR5 +500GB M2 +2TB HDD +750W"
       },
       {
-        "Price": 2989.00,
+        "Price": 2415.00,
+        "Features": [],
+        "Date": "2024-06-24T09:30:06.6830261-04:00",
+        "Update": "2024-06-24T09:40:12.9638753-04:00",
+        "Discount": 22.0,
+        "Label": "Torre RTX 4070 12GB +i9-12900K +Liquida +Strix Z790-H Gaming +32GB DDR5 +500GB M2 +850W"
+      },
+      {
+        "Price": 2969.00,
         "Features": [],
         "Date": "2024-06-24T09:24:49.6531195-04:00",
-        "Update": "2024-06-24T09:26:55.7617354-04:00",
-        "Discount": 4.0,
+        "Update": "2024-06-24T09:41:14.0269934-04:00",
+        "Discount": 24.0,
         "Label": "Torre RTX 4070 Ti 12GB +i9-14900K +Liquida +Strix Z790-F Gaming +32GB DDR5 +2TB M2 +1000W"
       }
     ],
