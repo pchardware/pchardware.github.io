@@ -1327,17 +1327,6 @@
         "Label": "PCIe Card Riser Coboc Miner adapter 16x"
       },
       {
-        "Price": 30.00,
-        "Features": [
-          "8xFan",
-          "8xARGB",
-          "PWM"
-        ],
-        "Date": "2023-12-15T02:03:00.6236319-05:00",
-        "Update": "2024-05-02T16:59:00.8015813-04:00",
-        "Label": "Fan HUB Thermalright Controlador ARGB 8x"
-      },
-      {
         "Price": 7.00,
         "Features": [
           "1200rpm",
@@ -2051,22 +2040,6 @@
         "Date": "2023-12-07T21:45:13.7040885-05:00",
         "Update": "2024-01-24T02:40:53.2079343-05:00",
         "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X White OC 8GB"
-      },
-      {
-        "Price": 335.00,
-        "Features": [
-          "3xFan",
-          "1x8Pin",
-          "550WR",
-          "316mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "DLSS"
-        ],
-        "Date": "2023-06-29T07:39:14.2136094-04:00",
-        "Update": "2024-02-28T06:06:48.9532641-05:00",
-        "Label": "Tarjeta de Video MSI Ventus 3x RTX 3060 12GB"
       },
       {
         "Price": 579.00,
