@@ -1,0 +1,22 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/torre-rtx-4060-oc-8gb-i5-12600kf-z790-aorus-elite--p6gdfq-1.webp",
+    "/images/products/torre-rtx-4060-oc-8gb-i5-12600kf-z790-aorus-elite--p6gdfq-2.webp",
+    "/images/products/torre-rtx-4060-oc-8gb-i5-12600kf-z790-aorus-elite--p6gdfq-3.webp",
+    "/images/products/torre-rtx-4060-oc-8gb-i5-12600kf-z790-aorus-elite--p6gdfq-4.webp",
+    "/images/products/torre-rtx-4060-oc-8gb-i5-12600kf-z790-aorus-elite--p6gdfq-5.webp",
+    "/images/products/torre-rtx-4060-oc-8gb-i5-12600kf-z790-aorus-elite--p6gdfq-6.webp",
+    "/images/products/torre-rtx-4060-oc-8gb-i5-12600kf-z790-aorus-elite--p6gdfq-7.webp",
+    "/images/products/torre-rtx-4060-oc-8gb-i5-12600kf-z790-aorus-elite--p6gdfq-8.webp",
+    "/images/products/torre-rtx-4060-oc-8gb-i5-12600kf-z790-aorus-elite--p6gdfq-9.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12600KF\n+ Disipador Thermaltake UX200 SE White\n+ Board Gigabyte Z790 Aorus Elite AX ICE\n+ DDR5 Team T-Force Delta RGB 32GB\n+ SSD M.2 Team Group MP44 1TB\n+ Tarjeta de Video MSI RTX 4060 Ventus 2X White OC 8GB\n+ Fuente MSI MPG A750GF\n+ Chasis Cougar Archon 2 Mesh RGB White\n",
+  "Price": 1379.00,
+  "Features": [],
+  "Date": "2024-06-27T06:00:42.832258-04:00",
+  "Update": "2024-06-27T07:00:25.2938695-04:00",
+  "Discount": 21.0,
+  "Label": "Torre RTX 4060 OC 8GB +i5-12600KF +Z790 Aorus Elite AX ICE +32GB DDR5 +1TB M2 +750W"
+}
