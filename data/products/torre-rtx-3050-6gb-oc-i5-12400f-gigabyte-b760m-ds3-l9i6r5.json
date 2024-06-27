@@ -1,0 +1,21 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/torre-rtx-3050-6gb-oc-i5-12400f-gigabyte-b760m-ds3-l9i6r5-1.webp",
+    "/images/products/torre-rtx-3050-6gb-oc-i5-12400f-gigabyte-b760m-ds3-l9i6r5-2.webp",
+    "/images/products/torre-rtx-3050-6gb-oc-i5-12400f-gigabyte-b760m-ds3-l9i6r5-3.webp",
+    "/images/products/torre-rtx-3050-6gb-oc-i5-12400f-gigabyte-b760m-ds3-l9i6r5-4.webp",
+    "/images/products/torre-rtx-3050-6gb-oc-i5-12400f-gigabyte-b760m-ds3-l9i6r5-5.webp",
+    "/images/products/torre-rtx-3050-6gb-oc-i5-12400f-gigabyte-b760m-ds3-l9i6r5-6.webp",
+    "/images/products/torre-rtx-3050-6gb-oc-i5-12400f-gigabyte-b760m-ds3-l9i6r5-7.webp",
+    "/images/products/torre-rtx-3050-6gb-oc-i5-12400f-gigabyte-b760m-ds3-l9i6r5-8.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12400F +Disipador\n+ Board Gigabyte B760M DS3H DDR4\n+ RAM DDR4 G.Skill TridentZ RGB 16GB 3600mhz\n+ SSD M.2 HP EX900 1TB\n+ Tarjeta de Video Asus Dual RTX 3050 6GB OC\n+ Fuente Thermaltake SMART 600W 80+\n+ Chasis Cougar Archon 2 Mesh RGB Black\n",
+  "Price": 939.00,
+  "Features": [],
+  "Date": "2024-06-27T05:55:04.3289537-04:00",
+  "Update": "2024-06-27T07:00:25.1971105-04:00",
+  "Discount": 22.0,
+  "Label": "Torre RTX 3050 6GB OC +i5-12400F +Gigabyte B760M DS3H +16GB DDR4 +1TB M2 +600W"
+}
