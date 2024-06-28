@@ -19,7 +19,7 @@
         "Label": "Torre RTX 4070 12GB +i9-12900K +Liquida +Strix Z790-H Gaming +32GB DDR5 +500GB M2 +850W"
       },
       {
-        "Price": 2969.00,
+        "Price": 2959.00,
         "Features": [],
         "Date": "2024-06-24T09:24:49.6531195-04:00",
         "Update": "2024-06-24T09:41:14.0269934-04:00",
@@ -27,7 +27,7 @@
         "Label": "Torre RTX 4070 Ti 12GB +i9-14900K +Liquida +Strix Z790-F Gaming +32GB DDR5 +2TB M2 +1000W"
       },
       {
-        "Price": 1459.00,
+        "Price": 1449.00,
         "Features": [],
         "Date": "2024-06-24T09:44:23.9068305-04:00",
         "Update": "2024-06-24T09:50:13.8235147-04:00",
@@ -98,7 +98,7 @@
         "Label": "Kit i5-12600K +Gigabyte Z790 Eagle AX"
       },
       {
-        "Price": 743.00,
+        "Price": 733.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -114,7 +114,7 @@
         "Label": "Kit i9-12900K +MEG Z690 ACE +Líquido MasterLiquid ML240L ARGB V2"
       },
       {
-        "Price": 903.00,
+        "Price": 893.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -310,7 +310,7 @@
         "Label": "Kit i5-12400 +Gigabyte Z790 Eagle AX"
       },
       {
-        "Price": 441.00,
+        "Price": 437.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "12 Hilos",
@@ -373,7 +373,7 @@
         "Label": "Kit i5-12400 +Gigabyte Z790 Eagle AX +16GB DDR5 Corsair Vengeance 5200mhz"
       },
       {
-        "Price": 561.00,
+        "Price": 557.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "12 Hilos",
@@ -862,7 +862,7 @@
         "Label": "Corsair Hydro XC7 RGB PRO CPU Water Block"
       },
       {
-        "Price": 135.00,
+        "Price": 125.00,
         "Features": [
           "2xFan",
           "240mm",
@@ -912,7 +912,7 @@
         "Label": "Disipador Líquido Asus TUF Gaming LC 240 ARGB"
       },
       {
-        "Price": 185.00,
+        "Price": 189.00,
         "Features": [
           "2xFan",
           "280mm",
@@ -993,7 +993,7 @@
         "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce II 360 G2"
       },
       {
-        "Price": 189.00,
+        "Price": 185.00,
         "Features": [
           "2xFan",
           "2500rpm",
@@ -2679,7 +2679,7 @@
         "Label": "Board Gigabyte X570S Gaming X"
       },
       {
-        "Price": 259.00,
+        "Price": 255.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "DDR5",
