@@ -66,16 +66,6 @@
         "Discount": 21.0,
         "Label": "Torre Asus RTX 4060 OC 8GB +i5-12600KF +MAG Z790 TOMAHAWK +32GB DDR4 +1TB M2 +850W"
       }
-    ],
-    "Multimedia": [
-      {
-        "Price": 781.00,
-        "Features": [],
-        "Date": "2024-06-15T11:58:08.6084311-04:00",
-        "Update": "2024-06-15T12:00:28.921632-04:00",
-        "Discount": 20.0,
-        "Label": "Torre i5-12400 +B760M PRO RS +32GB DDR5 Corsair +512GB M.2 +750W + Chasis RGB Black"
-      }
     ]
   },
   "Kits": {
@@ -250,149 +240,6 @@
         "Update": "2024-05-24T04:03:55.9487895-04:00",
         "Discount": 4.0,
         "Label": "Kit i3-14100 +ASRock B760M PRO RS +16GB DDR5 Corsair Vengeance 5200mhz"
-      }
-    ],
-    "Moderado": [
-      {
-        "Price": 340.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "DDR5",
-          "7200mhz",
-          "9xVRM",
-          "5xUSB",
-          "4xSATA",
-          "3xAudio"
-        ],
-        "Date": "2024-06-16T12:30:42.4828191-04:00",
-        "Update": "2024-06-17T10:01:34.1539892-04:00",
-        "Label": "Kit i5-12400 +Board ASRock B760M PRO RS"
-      },
-      {
-        "Price": 330.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "DDR4",
-          "5333mhz",
-          "9xVRM",
-          "5xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-06-16T12:31:01.2283215-04:00",
-        "Update": "2024-06-17T10:01:34.1721869-04:00",
-        "Label": "Kit i5-12400 +Gigabyte B760M DS3H"
-      },
-      {
-        "Price": 401.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "DDR5",
-          "7600mhz",
-          "14xVRM",
-          "Wifi",
-          "Bluetooth",
-          "7xUSB",
-          "4xSATA",
-          "3xAudio"
-        ],
-        "Date": "2024-06-16T12:58:30.22771-04:00",
-        "Update": "2024-06-17T10:01:34.1902968-04:00",
-        "Discount": 3.0,
-        "Label": "Kit i5-12400 +Gigabyte Z790 Eagle AX"
-      },
-      {
-        "Price": 437.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "DDR5",
-          "7200mhz",
-          "16xVRM",
-          "Wifi",
-          "Dual Lan",
-          "7xUSB",
-          "4xSATA",
-          "6xAudio"
-        ],
-        "Date": "2024-06-16T12:58:46.0114174-04:00",
-        "Update": "2024-06-17T10:01:34.209882-04:00",
-        "Discount": 3.0,
-        "Label": "Kit i5-12400 +MSI Z790 Gaming Pro Wifi"
-      },
-      {
-        "Price": 455.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "DDR5",
-          "2x16GB",
-          "5200mhz",
-          "9xVRM",
-          "5xUSB",
-          "4xSATA",
-          "3xAudio"
-        ],
-        "Date": "2024-06-17T09:39:00.7168153-04:00",
-        "Update": "2024-06-17T10:01:34.2592926-04:00",
-        "Discount": 3.0,
-        "Label": "Kit i5-12400 +ASRock B760M PRO RS +32GB DDR5 Corsair Vengeance 5200mhz"
-      },
-      {
-        "Price": 521.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "DDR5",
-          "2x16GB",
-          "5600mhz",
-          "14xVRM",
-          "Wifi",
-          "Bluetooth",
-          "7xUSB",
-          "4xSATA",
-          "3xAudio"
-        ],
-        "Date": "2024-06-17T09:39:29.4547565-04:00",
-        "Update": "2024-06-17T10:01:34.2785986-04:00",
-        "Discount": 1.0,
-        "Label": "Kit i5-12400 +Gigabyte Z790 Eagle AX +16GB DDR5 Corsair Vengeance 5200mhz"
-      },
-      {
-        "Price": 557.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "DDR5",
-          "2x16GB",
-          "5200mhz",
-          "16xVRM",
-          "Wifi",
-          "Dual Lan",
-          "7xUSB",
-          "4xSATA",
-          "6xAudio"
-        ],
-        "Date": "2024-06-17T09:40:05.8207803-04:00",
-        "Update": "2024-06-17T10:01:34.2962386-04:00",
-        "Discount": 1.0,
-        "Label": "i5-12400 +MSI Z790 Gaming Pro Wifi +32GB DDR5 Corsair Vengeance 5200mhz"
       }
     ],
     "Entusiasta": [
@@ -642,6 +489,7 @@
         ],
         "Date": "2023-04-15T07:27:10.1467554-04:00",
         "Update": "2024-05-02T12:58:32.4151532-04:00",
+        "Def": true,
         "Label": "Fuente Corsair CX750M 750W"
       },
       {
@@ -2153,6 +2001,7 @@
         ],
         "Date": "2024-04-11T02:50:44.4454084-04:00",
         "Update": "2024-04-14T10:19:27.9376726-04:00",
+        "Def": true,
         "Label": "Tarjeta de Video MSI RTX 3050 Ventus 2X OC 6GB"
       },
       {
@@ -3003,23 +2852,6 @@
         "Date": "2023-10-23T12:31:45.6342687-04:00",
         "Update": "2024-05-19T21:05:41.5295114-04:00",
         "Label": "Micro Intel Core i9-14900K"
-      },
-      {
-        "Price": 185.00,
-        "Features": [
-          "12Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "18MB L3",
-          "19412pm",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-02-17T09:45:29.425139-05:00",
-        "Update": "2024-05-19T21:05:41.5604591-04:00",
-        "Label": "Micro Intel Core i5-12400 +Disipador"
       },
       {
         "Price": 139.00,
