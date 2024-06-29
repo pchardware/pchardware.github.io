@@ -35,14 +35,6 @@
         "Label": "Torre RTX 4060 EVO 8GB OC +i7-12700K +Liquida +MSI MAG Z790 TOMAHAWK +32GB DDR4 +512GB M2 +850W"
       },
       {
-        "Price": 939.00,
-        "Features": [],
-        "Date": "2024-06-27T05:55:04.3289537-04:00",
-        "Update": "2024-06-27T07:00:25.1971105-04:00",
-        "Discount": 22.0,
-        "Label": "Torre RTX 3050 6GB OC +i5-12400F +Gigabyte B760M DS3H +16GB DDR4 +1TB M2 +600W"
-      },
-      {
         "Price": 999.00,
         "Features": [],
         "Date": "2024-06-27T05:56:42.8633436-04:00",
@@ -2315,18 +2307,6 @@
         "Date": "2024-01-18T07:09:07.276212-05:00",
         "Update": "2024-01-24T02:11:20.8206983-05:00",
         "Label": "SSD 2.5 Team Group T-FORCE VULCAN Z 480GB"
-      },
-      {
-        "Price": 65.00,
-        "Features": [
-          "2150mbs",
-          "500TBW",
-          "PCIe 3",
-          "NVMe"
-        ],
-        "Date": "2024-01-17T02:39:31.0198684-05:00",
-        "Update": "2024-02-28T07:53:53.552858-05:00",
-        "Label": "SSD M.2 HP EX900 1TB"
       },
       {
         "Price": 85.00,
