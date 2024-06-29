@@ -2306,18 +2306,6 @@
     ],
     "Disco Sólido": [
       {
-        "Price": 69.00,
-        "Features": [
-          "3500mbs",
-          "600TBW",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-12-07T13:20:26.5920422-05:00",
-        "Update": "2024-01-24T02:11:20.7047976-05:00",
-        "Label": "SSD M.2 TeamGroup T-Force Z44L 1TB"
-      },
-      {
         "Price": 45.00,
         "Features": [
           "540mbs",
