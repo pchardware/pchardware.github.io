@@ -232,6 +232,40 @@
         "Update": "2024-05-24T04:03:55.9487895-04:00",
         "Discount": 4.0,
         "Label": "Kit i3-14100 +ASRock B760M PRO RS +16GB DDR5 Corsair Vengeance 5200mhz"
+      },
+      {
+        "Price": 284.00,
+        "Features": [
+          "14Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.7GHz",
+          "DDR4",
+          "5333mhz",
+          "9xVRM",
+          "5xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-06-30T08:36:59.6042603-04:00",
+        "Update": "2024-06-30T10:08:12.9214372-04:00",
+        "Label": "Kit i3-14100F +Disipador +Gigabyte B760M DS3H DDR4"
+      },
+      {
+        "Price": 294.00,
+        "Features": [
+          "14Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.7GHz",
+          "DDR4",
+          "5333mhz",
+          "9xVRM",
+          "5xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-06-30T09:59:35.8077836-04:00",
+        "Update": "2024-06-30T10:08:12.9609644-04:00",
+        "Label": "Kit i3-14100F +Disipador +ASRock B760M PRO RS"
       }
     ],
     "Entusiasta": [
@@ -250,6 +284,42 @@
         "Date": "2024-04-13T04:12:47.4749085-04:00",
         "Update": "2024-06-24T07:11:32.6294947-04:00",
         "Label": "Kit i9-14900K +Strix Z790-F Gaming"
+      }
+    ],
+    "Moderado": [
+      {
+        "Price": 300.00,
+        "Features": [
+          "12va Gen",
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "DDR5",
+          "7200mhz",
+          "9xVRM",
+          "5xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-06-30T08:36:28.9258313-04:00",
+        "Update": "2024-06-30T10:08:12.9011908-04:00",
+        "Label": "Kit i5-12400F +Disipador +Gigabyte B760M DS3H DDR4"
+      },
+      {
+        "Price": 310.00,
+        "Features": [
+          "12va Gen",
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "DDR5",
+          "7200mhz",
+          "9xVRM",
+          "5xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-06-30T08:37:19.9960773-04:00",
+        "Update": "2024-06-30T10:08:12.9405996-04:00",
+        "Label": "Kit i5-12400F +Disipador +ASRock B760M PRO RS"
       }
     ]
   },
