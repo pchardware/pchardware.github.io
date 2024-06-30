@@ -27,14 +27,6 @@
         "Label": "Torre RTX 4070 Ti 12GB +i9-14900K +Liquida +Strix Z790-F Gaming +32GB DDR5 +2TB M2 +1000W"
       },
       {
-        "Price": 1449.00,
-        "Features": [],
-        "Date": "2024-06-24T09:44:23.9068305-04:00",
-        "Update": "2024-06-24T09:50:13.8235147-04:00",
-        "Discount": 24.0,
-        "Label": "Torre RTX 4060 EVO 8GB OC +i7-12700K +Liquida +MSI MAG Z790 TOMAHAWK +32GB DDR4 +512GB M2 +850W"
-      },
-      {
         "Price": 999.00,
         "Features": [],
         "Date": "2024-06-27T05:56:42.8633436-04:00",
@@ -1097,18 +1089,6 @@
         "Date": "2024-04-30T06:44:18.4466039-04:00",
         "Update": "2024-06-24T07:11:32.6653525-04:00",
         "Label": "HDD 3.5 Seagate Exos X16 16TB"
-      },
-      {
-        "Price": 169.00,
-        "Features": [
-          "256mb",
-          "7200rpm",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2024-04-30T06:44:25.3977192-04:00",
-        "Update": "2024-06-24T07:11:32.7005539-04:00",
-        "Label": "HDD 3.5 Seagate Exos X14 12TB"
       }
     ],
     "Otros": [
@@ -1805,17 +1785,6 @@
         "Date": "2023-11-03T12:23:00.2905889-04:00",
         "Update": "2024-04-10T12:10:23.9404614-04:00",
         "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 7000mhz"
-      },
-      {
-        "Price": 119.00,
-        "Features": [
-          "2x16GB",
-          "CL18",
-          "Disipadas"
-        ],
-        "Date": "2024-02-16T14:42:08.0239053-05:00",
-        "Update": "2024-04-12T09:38:23.0197282-04:00",
-        "Label": "RAM DDR4 G.Skill TridentZ RGB Neo 32GB 4000mhz"
       },
       {
         "Price": 37.00,
