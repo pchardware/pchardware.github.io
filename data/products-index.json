@@ -35,14 +35,6 @@
         "Label": "Torre RTX 3050 Gaming X 6GB +i5-12400F +B760M PRO RS +16GB DDR4 +512GB M2 +600W"
       },
       {
-        "Price": 1379.00,
-        "Features": [],
-        "Date": "2024-06-27T06:00:42.832258-04:00",
-        "Update": "2024-06-27T07:00:25.2938695-04:00",
-        "Discount": 21.0,
-        "Label": "Torre RTX 4060 OC 8GB +i5-12600KF +Z790 Aorus Elite AX ICE +32GB DDR5 +1TB M2 +750W"
-      },
-      {
         "Price": 1389.00,
         "Features": [],
         "Date": "2024-06-27T06:06:50.3679127-04:00",
@@ -1467,24 +1459,6 @@
         "Label": "Disipador Thermalright Assassin King 120 SE ARGB"
       },
       {
-        "Price": 65.00,
-        "Features": [
-          "4xPipes",
-          "1550rpm",
-          "58CFM",
-          "25.6dB",
-          "LGA 1200",
-          "LGA 1700",
-          "LGA 17XX",
-          "AM4",
-          "AM5",
-          "2xFan"
-        ],
-        "Date": "2024-01-27T21:38:36.4661258-05:00",
-        "Update": "2024-01-29T01:33:18.3951298-05:00",
-        "Label": "Disipador Thermalright Assassin X 120 R SE Plus"
-      },
-      {
         "Price": 55.00,
         "Features": [
           "ARGB",
@@ -2406,18 +2380,6 @@
         "Date": "2024-04-11T02:50:38.8694184-04:00",
         "Update": "2024-04-11T07:58:42.0409318-04:00",
         "Label": "SSD M.2 WD Blue SN580 2TB"
-      },
-      {
-        "Price": 95.00,
-        "Features": [
-          "7400mbs",
-          "1450TBW",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2023-09-23T17:40:17.7101762-04:00",
-        "Update": "2024-05-02T11:18:30.5871608-04:00",
-        "Label": "SSD M.2 Team Group MP44 1TB"
       },
       {
         "Price": 79.00,
