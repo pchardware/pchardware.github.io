@@ -1,0 +1,26 @@
+{
+  "Category": "Kits",
+  "SubCategory": "",
+  "Images": [
+    "/images/products/kit-i5-12600kf-hyper-620s-dual-gigabyte-z790-eagle-nwkbmb-1.webp",
+    "/images/products/kit-i5-12600kf-hyper-620s-dual-gigabyte-z790-eagle-nwkbmb-2.webp",
+    "/images/products/kit-i5-12600kf-hyper-620s-dual-gigabyte-z790-eagle-nwkbmb-3.webp",
+    "/images/products/kit-i5-12600kf-hyper-620s-dual-gigabyte-z790-eagle-nwkbmb-4.webp",
+    "/images/products/kit-i5-12600kf-hyper-620s-dual-gigabyte-z790-eagle-nwkbmb-5.webp",
+    "/images/products/kit-i5-12600kf-hyper-620s-dual-gigabyte-z790-eagle-nwkbmb-6.webp",
+    "/images/products/kit-i5-12600kf-hyper-620s-dual-gigabyte-z790-eagle-nwkbmb-7.webp",
+    "/images/products/kit-i5-12600kf-hyper-620s-dual-gigabyte-z790-eagle-nwkbmb-8.webp",
+    "/images/products/kit-i5-12600kf-hyper-620s-dual-gigabyte-z790-eagle-nwkbmb-9.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12600KF\n+ Disipador Cooler Master Hyper 620S Dual\n+ Board Gigabyte Z790 Eagle AX\n+ 2x RAM DDR5 Corsair Vengeance 16GB 5200mhz\n",
+  "Price": 595.00,
+  "Features": [
+    "12Gen",
+    "16 Hilos",
+    "10 Core",
+    "4.9GHz"
+  ],
+  "Date": "2024-07-01T05:12:02.5479018-04:00",
+  "Update": "2024-07-01T07:39:23.3642523-04:00",
+  "Label": "Kit i5-12600KF +Hyper 620S Dual +Gigabyte Z790 Eagle AX +16GB DDR5 5200mhz"
+}
