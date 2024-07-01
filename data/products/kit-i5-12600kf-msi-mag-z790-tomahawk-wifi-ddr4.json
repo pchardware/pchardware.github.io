@@ -1,0 +1,30 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-i5-12600kf-msi-mag-z790-tomahawk-wifi-ddr4-1.webp",
+    "/images/products/kit-i5-12600kf-msi-mag-z790-tomahawk-wifi-ddr4-2.webp",
+    "/images/products/kit-i5-12600kf-msi-mag-z790-tomahawk-wifi-ddr4-3.webp",
+    "/images/products/kit-i5-12600kf-msi-mag-z790-tomahawk-wifi-ddr4-4.webp",
+    "/images/products/kit-i5-12600kf-msi-mag-z790-tomahawk-wifi-ddr4-5.webp",
+    "/images/products/kit-i5-12600kf-msi-mag-z790-tomahawk-wifi-ddr4-6.webp",
+    "/images/products/kit-i5-12600kf-msi-mag-z790-tomahawk-wifi-ddr4-7.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12600KF\n+ Board MSI MAG Z790 TOMAHAWK WIFI DDR4\n",
+  "Price": 378.00,
+  "Features": [
+    "12Gen",
+    "16 Hilos",
+    "10 Core",
+    "4.9GHz",
+    "DDR4",
+    "53330mhz",
+    "16xVRM",
+    "Wifi",
+    "Bluetooth",
+    "10xUSB"
+  ],
+  "Date": "2024-07-01T04:52:12.4067676-04:00",
+  "Update": "2024-07-01T07:39:23.2709215-04:00",
+  "Label": "Kit i5-12600KF +MSI MAG Z790 TOMAHAWK WIFI DDR4"
+}
