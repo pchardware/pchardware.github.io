@@ -1,0 +1,30 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-i5-12600kf-msi-meg-z690-ace-1.webp",
+    "/images/products/kit-i5-12600kf-msi-meg-z690-ace-2.webp",
+    "/images/products/kit-i5-12600kf-msi-meg-z690-ace-3.webp",
+    "/images/products/kit-i5-12600kf-msi-meg-z690-ace-4.webp",
+    "/images/products/kit-i5-12600kf-msi-meg-z690-ace-5.webp",
+    "/images/products/kit-i5-12600kf-msi-meg-z690-ace-6.webp",
+    "/images/products/kit-i5-12600kf-msi-meg-z690-ace-7.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12600KF\n+ Board MSI MEG Z690 ACE\n",
+  "Price": 468.00,
+  "Features": [
+    "12Gen",
+    "16 Hilos",
+    "10 Core",
+    "4.9GHz",
+    "DDR5",
+    "6666mhz",
+    "22xVRM",
+    "Wifi",
+    "7xUSB",
+    "6xSATA"
+  ],
+  "Date": "2024-07-01T04:53:01.8533789-04:00",
+  "Update": "2024-07-01T07:39:23.3200918-04:00",
+  "Label": "Kit i5-12600KF +MSI MEG Z690 ACE"
+}
