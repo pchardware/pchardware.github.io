@@ -196,6 +196,101 @@
         "Update": "2024-06-18T12:34:20.9295652-04:00",
         "Discount": 1.0,
         "Label": "Kit i7-12700K +Hyper 620S Dual +MSI MEG Z690 ACE +32GB DDR5 RGB 6400mhz"
+      },
+      {
+        "Price": 378.00,
+        "Features": [
+          "12Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "DDR4",
+          "53330mhz",
+          "16xVRM",
+          "Wifi",
+          "Bluetooth",
+          "10xUSB"
+        ],
+        "Date": "2024-07-01T04:52:12.4067676-04:00",
+        "Update": "2024-07-01T07:39:23.2709215-04:00",
+        "Label": "Kit i5-12600KF +MSI MAG Z790 TOMAHAWK WIFI DDR4"
+      },
+      {
+        "Price": 424.00,
+        "Features": [
+          "12Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "DDR5",
+          "7200mhz",
+          "16xVRM",
+          "Wifi",
+          "Dual Lan",
+          "7xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-07-01T04:52:31.4861577-04:00",
+        "Update": "2024-07-01T07:39:23.2956565-04:00",
+        "Label": "Kit i5-12600KF +MSI Z790 Gaming Pro Wifi"
+      },
+      {
+        "Price": 468.00,
+        "Features": [
+          "12Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "DDR5",
+          "6666mhz",
+          "22xVRM",
+          "Wifi",
+          "7xUSB",
+          "6xSATA"
+        ],
+        "Date": "2024-07-01T04:53:01.8533789-04:00",
+        "Update": "2024-07-01T07:39:23.3200918-04:00",
+        "Label": "Kit i5-12600KF +MSI MEG Z690 ACE"
+      },
+      {
+        "Price": 549.00,
+        "Features": [
+          "12Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "53330mhz",
+          "16xVRM",
+          "Wifi",
+          "Bluetooth",
+          "10xUSB",
+          "2x8GB",
+          "3600mhz",
+          "Disipadas"
+        ],
+        "Date": "2024-07-01T05:11:17.0759418-04:00",
+        "Update": "2024-07-01T07:39:23.3432403-04:00",
+        "Discount": 3.0,
+        "Label": "Kit i5-12600KF +Hyper 620S Dual +MSI MAG Z790 TOMAHAWK +32GB DDR4 3600mhz"
+      },
+      {
+        "Price": 695.00,
+        "Features": [
+          "12Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "DDR5",
+          "6666mhz",
+          "22xVRM",
+          "Wifi",
+          "7xUSB",
+          "6xSATA"
+        ],
+        "Date": "2024-07-01T05:12:52.2765564-04:00",
+        "Update": "2024-07-01T07:39:23.3886895-04:00",
+        "Discount": 1.0,
+        "Label": "Kit i5-12600KF +Hyper 620S Dual +MSI MEG Z690 ACE + 32GB DDR5 RGB 6400mhz"
       }
     ],
     "Esencial": [
@@ -304,6 +399,20 @@
         "Date": "2024-06-30T08:37:19.9960773-04:00",
         "Update": "2024-06-30T10:08:12.9405996-04:00",
         "Label": "Kit i5-12400F +Disipador +ASRock B760M PRO RS"
+      }
+    ],
+    "": [
+      {
+        "Price": 595.00,
+        "Features": [
+          "12Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz"
+        ],
+        "Date": "2024-07-01T05:12:02.5479018-04:00",
+        "Update": "2024-07-01T07:39:23.3642523-04:00",
+        "Label": "Kit i5-12600KF +Hyper 620S Dual +Gigabyte Z790 Eagle AX +16GB DDR5 5200mhz"
       }
     ]
   },
