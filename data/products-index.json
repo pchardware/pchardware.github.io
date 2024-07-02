@@ -132,6 +132,7 @@
         "Date": "2024-06-17T10:03:53.2858004-04:00",
         "Update": "2024-06-17T10:10:18.5864006-04:00",
         "Discount": 2.0,
+        "Def": true,
         "Label": "Kit i7-12700K +Cooler Master Hyper 620S Dual +Gigabyte Z790 Eagle AX"
       },
       {
@@ -153,6 +154,7 @@
         "Date": "2024-06-18T12:19:10.2334217-04:00",
         "Update": "2024-06-18T12:34:20.8331865-04:00",
         "Discount": 3.0,
+        "Def": true,
         "Label": "Kit i7-12700K +MSI MEG Z690 ACE"
       },
       {
@@ -174,6 +176,7 @@
         "Date": "2024-06-18T12:20:55.2149782-04:00",
         "Update": "2024-06-18T12:34:20.894431-04:00",
         "Discount": 2.0,
+        "Def": true,
         "Label": "Kit i7-12700K +MSI MEG Z690 ACE +32GB DDR5 Trident Z5 Neo RGB 6400mhz"
       },
       {
@@ -195,6 +198,7 @@
         "Date": "2024-06-18T12:21:38.9439181-04:00",
         "Update": "2024-06-18T12:34:20.9295652-04:00",
         "Discount": 1.0,
+        "Def": true,
         "Label": "Kit i7-12700K +Hyper 620S Dual +MSI MEG Z690 ACE +32GB DDR5 RGB 6400mhz"
       },
       {
@@ -1852,17 +1856,6 @@
         "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 4400mhz"
       },
       {
-        "Price": 149.00,
-        "Features": [
-          "2x16GB",
-          "CL36",
-          "Disipadas"
-        ],
-        "Date": "2023-11-03T12:23:00.2905889-04:00",
-        "Update": "2024-04-10T12:10:23.9404614-04:00",
-        "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 7000mhz"
-      },
-      {
         "Price": 37.00,
         "Features": [
           "1x8GB",
@@ -2839,6 +2832,7 @@
         ],
         "Date": "2023-02-17T09:30:45.7586545-05:00",
         "Update": "2024-05-19T21:05:41.3274271-04:00",
+        "Def": true,
         "Label": "Micro Intel Core i7-12700K"
       },
       {
