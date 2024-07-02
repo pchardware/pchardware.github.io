@@ -2,7 +2,7 @@
   "Torres": {
     "Gamer": [
       {
-        "Price": 1325.00,
+        "Price": 1331.00,
         "Features": [],
         "Date": "2024-06-08T07:26:55.4217573-04:00",
         "Update": "2024-06-08T07:57:16.4561463-04:00",
@@ -35,7 +35,7 @@
         "Label": "Torre RTX 3050 Gaming X 6GB +i5-12400F +B760M PRO RS +16GB DDR4 +512GB M2 +600W"
       },
       {
-        "Price": 1385.00,
+        "Price": 1391.00,
         "Features": [],
         "Date": "2024-06-27T06:06:50.3679127-04:00",
         "Update": "2024-06-27T07:00:25.3362477-04:00",
@@ -47,7 +47,7 @@
   "Kits": {
     "Rendimiento": [
       {
-        "Price": 414.00,
+        "Price": 420.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -64,7 +64,7 @@
         "Label": "Kit i5-12600K +Gigabyte Z790 Eagle AX"
       },
       {
-        "Price": 723.00,
+        "Price": 729.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -80,7 +80,7 @@
         "Label": "Kit i9-12900K +MEG Z690 ACE +Líquido MasterLiquid ML240L ARGB V2"
       },
       {
-        "Price": 883.00,
+        "Price": 889.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -98,7 +98,7 @@
         "Label": "Kit i9-12900K +MSI MEG Z690 ACE +32GB DDR5 Corsair Dominator Platinum"
       },
       {
-        "Price": 609.00,
+        "Price": 615.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -114,7 +114,7 @@
         "Label": "Kit i9-12900K + MSI MEG Z690 ACE Potencia y estilo en un solo combo"
       },
       {
-        "Price": 551.00,
+        "Price": 557.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "20 Hilos",
@@ -136,7 +136,7 @@
         "Label": "Kit i7-12700K +Cooler Master Hyper 620S Dual +Gigabyte Z790 Eagle AX"
       },
       {
-        "Price": 541.00,
+        "Price": 547.00,
         "Features": [
           "12Gen",
           "20 Hilos",
@@ -158,7 +158,7 @@
         "Label": "Kit i7-12700K +MSI MEG Z690 ACE"
       },
       {
-        "Price": 681.00,
+        "Price": 687.00,
         "Features": [
           "12Gen",
           "20 Hilos",
@@ -180,7 +180,7 @@
         "Label": "Kit i7-12700K +MSI MEG Z690 ACE +32GB DDR5 Trident Z5 Neo RGB 6400mhz"
       },
       {
-        "Price": 771.00,
+        "Price": 777.00,
         "Features": [
           "12Gen",
           "20 Hilos",
@@ -202,7 +202,7 @@
         "Label": "Kit i7-12700K +Hyper 620S Dual +MSI MEG Z690 ACE +32GB DDR5 RGB 6400mhz"
       },
       {
-        "Price": 378.00,
+        "Price": 384.00,
         "Features": [
           "12Gen",
           "16 Hilos",
@@ -239,7 +239,7 @@
         "Label": "Kit i5-12600KF +MSI Z790 Gaming Pro Wifi"
       },
       {
-        "Price": 468.00,
+        "Price": 474.00,
         "Features": [
           "12Gen",
           "16 Hilos",
@@ -257,7 +257,7 @@
         "Label": "Kit i5-12600KF +MSI MEG Z690 ACE"
       },
       {
-        "Price": 549.00,
+        "Price": 555.00,
         "Features": [
           "12Gen",
           "16 Hilos",
@@ -278,7 +278,7 @@
         "Label": "Kit i5-12600KF +Hyper 620S Dual +MSI MAG Z790 TOMAHAWK +32GB DDR4 3600mhz"
       },
       {
-        "Price": 695.00,
+        "Price": 701.00,
         "Features": [
           "12Gen",
           "16 Hilos",
@@ -407,7 +407,7 @@
     ],
     "": [
       {
-        "Price": 595.00,
+        "Price": 601.00,
         "Features": [
           "12Gen",
           "16 Hilos",
@@ -2516,7 +2516,7 @@
     ],
     "Board": [
       {
-        "Price": 299.00,
+        "Price": 305.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "DDR5",
@@ -2623,7 +2623,7 @@
         "Label": "Board Asus ROG Strix Z790-F Gaming Wifi"
       },
       {
-        "Price": 219.00,
+        "Price": 225.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "DDR5",
@@ -2726,7 +2726,7 @@
         "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
       },
       {
-        "Price": 209.00,
+        "Price": 215.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "DDR4",
