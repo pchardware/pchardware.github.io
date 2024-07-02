@@ -11,7 +11,7 @@
         "Label": "Torre RTX 4060 EVO 8GB OC +i5-12400F +Z790 Eagle AX +32GB DDR5 +500GB M2 +2TB HDD +750W"
       },
       {
-        "Price": 2415.00,
+        "Price": 2411.00,
         "Features": [],
         "Date": "2024-06-24T09:30:06.6830261-04:00",
         "Update": "2024-06-24T09:40:12.9638753-04:00",
@@ -19,7 +19,7 @@
         "Label": "Torre RTX 4070 12GB +i9-12900K +Liquida +Strix Z790-H Gaming +32GB DDR5 +500GB M2 +850W"
       },
       {
-        "Price": 2959.00,
+        "Price": 2955.00,
         "Features": [],
         "Date": "2024-06-24T09:24:49.6531195-04:00",
         "Update": "2024-06-24T09:41:14.0269934-04:00",
@@ -64,7 +64,7 @@
         "Label": "Kit i5-12600K +Gigabyte Z790 Eagle AX"
       },
       {
-        "Price": 733.00,
+        "Price": 729.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -80,7 +80,7 @@
         "Label": "Kit i9-12900K +MEG Z690 ACE +Líquido MasterLiquid ML240L ARGB V2"
       },
       {
-        "Price": 893.00,
+        "Price": 889.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -98,7 +98,7 @@
         "Label": "Kit i9-12900K +MSI MEG Z690 ACE +32GB DDR5 Corsair Dominator Platinum"
       },
       {
-        "Price": 613.00,
+        "Price": 609.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -114,7 +114,7 @@
         "Label": "Kit i9-12900K + MSI MEG Z690 ACE Potencia y estilo en un solo combo"
       },
       {
-        "Price": 545.00,
+        "Price": 551.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "20 Hilos",
@@ -135,7 +135,7 @@
         "Label": "Kit i7-12700K +Cooler Master Hyper 620S Dual +Gigabyte Z790 Eagle AX"
       },
       {
-        "Price": 535.00,
+        "Price": 541.00,
         "Features": [
           "12Gen",
           "20 Hilos",
@@ -156,7 +156,7 @@
         "Label": "Kit i7-12700K +MSI MEG Z690 ACE"
       },
       {
-        "Price": 675.00,
+        "Price": 681.00,
         "Features": [
           "12Gen",
           "20 Hilos",
@@ -177,7 +177,7 @@
         "Label": "Kit i7-12700K +MSI MEG Z690 ACE +32GB DDR5 Trident Z5 Neo RGB 6400mhz"
       },
       {
-        "Price": 765.00,
+        "Price": 771.00,
         "Features": [
           "12Gen",
           "20 Hilos",
@@ -349,7 +349,7 @@
     ],
     "Entusiasta": [
       {
-        "Price": 1004.00,
+        "Price": 1000.00,
         "Features": [
           "14Gen",
           "24 Core",
@@ -2788,7 +2788,7 @@
     ],
     "Microprocesador": [
       {
-        "Price": 319.00,
+        "Price": 315.00,
         "Features": [
           "12Gen",
           "24 Hilos",
@@ -2824,7 +2824,7 @@
         "Label": "Micro Intel Core i5-12600K"
       },
       {
-        "Price": 239.00,
+        "Price": 245.00,
         "Features": [
           "12Gen",
           "20 Hilos",
@@ -2877,7 +2877,7 @@
         "Label": "Micro Intel Core i3-14100 +Disipador"
       },
       {
-        "Price": 415.00,
+        "Price": 409.00,
         "Features": [
           "14Gen",
           "20 Core",
@@ -2895,7 +2895,7 @@
         "Label": "Micro Intel Core i7-14700K"
       },
       {
-        "Price": 599.00,
+        "Price": 595.00,
         "Features": [
           "14Gen",
           "24 Core",
@@ -2965,7 +2965,7 @@
         "Label": "Micro Intel Core i7-12700KF"
       },
       {
-        "Price": 529.00,
+        "Price": 525.00,
         "Features": [
           "13ra Gen",
           "32 Hilos",
