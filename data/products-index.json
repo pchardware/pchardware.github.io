@@ -11,7 +11,7 @@
         "Label": "Torre RTX 4060 EVO 8GB OC +i5-12400F +Z790 Eagle AX +32GB DDR5 +500GB M2 +2TB HDD +750W"
       },
       {
-        "Price": 2411.00,
+        "Price": 2401.00,
         "Features": [],
         "Date": "2024-06-24T09:30:06.6830261-04:00",
         "Update": "2024-06-24T09:40:12.9638753-04:00",
@@ -19,7 +19,7 @@
         "Label": "Torre RTX 4070 12GB +i9-12900K +Liquida +Strix Z790-H Gaming +32GB DDR5 +500GB M2 +850W"
       },
       {
-        "Price": 2955.00,
+        "Price": 2949.00,
         "Features": [],
         "Date": "2024-06-24T09:24:49.6531195-04:00",
         "Update": "2024-06-24T09:41:14.0269934-04:00",
@@ -35,7 +35,7 @@
         "Label": "Torre RTX 3050 Gaming X 6GB +i5-12400F +B760M PRO RS +16GB DDR4 +512GB M2 +600W"
       },
       {
-        "Price": 1389.00,
+        "Price": 1385.00,
         "Features": [],
         "Date": "2024-06-27T06:06:50.3679127-04:00",
         "Update": "2024-06-27T07:00:25.3362477-04:00",
@@ -64,7 +64,7 @@
         "Label": "Kit i5-12600K +Gigabyte Z790 Eagle AX"
       },
       {
-        "Price": 729.00,
+        "Price": 723.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -80,7 +80,7 @@
         "Label": "Kit i9-12900K +MEG Z690 ACE +Líquido MasterLiquid ML240L ARGB V2"
       },
       {
-        "Price": 889.00,
+        "Price": 883.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -807,7 +807,7 @@
         "Label": "Kit Líquido Thermaltake Pacific C360 Ddc"
       },
       {
-        "Price": 239.00,
+        "Price": 235.00,
         "Features": [
           "2500rpm",
           "81cfm",
@@ -865,7 +865,7 @@
         "Label": "Corsair Hydro XC7 RGB PRO CPU Water Block"
       },
       {
-        "Price": 125.00,
+        "Price": 119.00,
         "Features": [
           "2xFan",
           "240mm",
@@ -879,7 +879,7 @@
         "Label": "Disipador Líquido Cooler Master MasterLiquid ML240L ARGB V2"
       },
       {
-        "Price": 205.00,
+        "Price": 199.00,
         "Features": [
           "2000rpm",
           "67cfm",
@@ -897,7 +897,7 @@
         "Label": "Disipador Líquido Asus TUF Gaming LC II 360 ARGB"
       },
       {
-        "Price": 149.00,
+        "Price": 145.00,
         "Features": [
           "2000rpm",
           "67cfm",
@@ -915,7 +915,7 @@
         "Label": "Disipador Líquido Asus TUF Gaming LC 240 ARGB"
       },
       {
-        "Price": 189.00,
+        "Price": 185.00,
         "Features": [
           "2xFan",
           "280mm",
@@ -936,7 +936,7 @@
         "Label": "Disipador Líquido Asus ROG Strix LC II 280 ARGB"
       },
       {
-        "Price": 195.00,
+        "Price": 189.00,
         "Features": [
           "2xFan",
           "2150rpm",
@@ -957,7 +957,7 @@
         "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce II 240 G2"
       },
       {
-        "Price": 229.00,
+        "Price": 225.00,
         "Features": [
           "3xFan",
           "1500rpm",
@@ -975,7 +975,7 @@
         "Label": "Disipador Líquido Corsair iCUE H150 RGB"
       },
       {
-        "Price": 229.00,
+        "Price": 215.00,
         "Features": [
           "3xFan",
           "2150rpm",
@@ -996,7 +996,7 @@
         "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce II 360 G2"
       },
       {
-        "Price": 185.00,
+        "Price": 179.00,
         "Features": [
           "2xFan",
           "2500rpm",
@@ -1037,7 +1037,7 @@
         "Label": "Disipador Líquido Corsair H100x RGB Elite"
       },
       {
-        "Price": 99.00,
+        "Price": 95.00,
         "Features": [
           "1500rpm",
           "48cfm",
@@ -1098,7 +1098,7 @@
         "Label": "Disipador Líquido Corsair iCUE H150i ELITE CAPELLIX XT"
       },
       {
-        "Price": 275.00,
+        "Price": 269.00,
         "Features": [
           "420mm",
           "RGB",
@@ -1116,7 +1116,7 @@
         "Label": "Disipador Líquido Corsair iCUE H170i Elite Capellix"
       },
       {
-        "Price": 295.00,
+        "Price": 285.00,
         "Features": [
           "360mm",
           "ARGB",
