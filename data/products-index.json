@@ -27,14 +27,6 @@
         "Label": "Torre RTX 4070 Ti 12GB +i9-14900K +Liquida +Strix Z790-F Gaming +32GB DDR5 +2TB M2 +1000W"
       },
       {
-        "Price": 999.00,
-        "Features": [],
-        "Date": "2024-06-27T05:56:42.8633436-04:00",
-        "Update": "2024-06-27T07:00:25.2567342-04:00",
-        "Discount": 21.0,
-        "Label": "Torre RTX 3050 Gaming X 6GB +i5-12400F +B760M PRO RS +16GB DDR4 +512GB M2 +600W"
-      },
-      {
         "Price": 1391.00,
         "Features": [],
         "Date": "2024-06-27T06:06:50.3679127-04:00",
@@ -725,18 +717,6 @@
         "Date": "2024-05-03T06:18:15.0494605-04:00",
         "Update": "2024-05-03T10:28:09.2474222-04:00",
         "Label": "Fuente Corsair RM850x Shift 850W"
-      },
-      {
-        "Price": 99.00,
-        "Features": [
-          "42A",
-          "2x 6+2-Pin",
-          "6x SATA",
-          "1x 4+4 EPS"
-        ],
-        "Date": "2023-04-15T07:27:14.991735-04:00",
-        "Update": "2024-06-24T07:11:32.3590516-04:00",
-        "Label": "Fuente Thermaltake SMART 600W 80+"
       },
       {
         "Price": 155.00,
