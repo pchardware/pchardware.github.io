@@ -1057,16 +1057,6 @@
         "Label": "Disipador Líquido Corsair H60x RGB Elite"
       },
       {
-        "Price": 4.00,
-        "Features": [
-          "CLC",
-          "Tubo Suave"
-        ],
-        "Date": "2024-05-25T23:01:03.1426914-04:00",
-        "Update": "2024-05-26T10:20:30.6696852-04:00",
-        "Label": "Barrow Ftting THKN-3/8-B03"
-      },
-      {
         "Price": 6.00,
         "Features": [
           "CLC"
@@ -1152,6 +1142,28 @@
         "Date": "2024-06-24T07:13:32.6655956-04:00",
         "Update": "2024-06-24T16:05:54.3078322-04:00",
         "Label": "Freezmod Bomba SC600 19W +Deposito 193mm G1/4"
+      },
+      {
+        "Price": 4.00,
+        "Features": [
+          "3/8\" ID",
+          "1/2\" OD",
+          "G1/4",
+          "THKN-3/8-B03",
+          "Tubo Suave",
+          "Tubo Blando",
+          "CLC"
+        ],
+        "Date": "2024-05-25T23:01:03.1426914-04:00",
+        "Update": "2024-07-03T13:44:22.2463254-04:00",
+        "Label": "Racor Barrow Ftting"
+      },
+      {
+        "Price": 35.00,
+        "Features": [],
+        "Date": "2024-06-24T07:13:24.2816403-04:00",
+        "Update": "2024-07-03T13:44:22.2834401-04:00",
+        "Label": "CLC - Aluminum Radiador 240mm"
       }
     ],
     "Disco Duro": [
