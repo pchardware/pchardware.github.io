@@ -1057,15 +1057,6 @@
         "Label": "Disipador Líquido Corsair H60x RGB Elite"
       },
       {
-        "Price": 6.00,
-        "Features": [
-          "CLC"
-        ],
-        "Date": "2024-05-26T10:28:18.7065694-04:00",
-        "Update": "2024-06-01T18:38:46.2607907-04:00",
-        "Label": "Barrow Tubo Suave 1M"
-      },
-      {
         "Price": 259.00,
         "Features": [
           "2100rpm",
@@ -1124,46 +1115,92 @@
         "Label": "Disipador Líquido Asus ROG Ryuo III 360 ARGB"
       },
       {
-        "Price": 39.00,
-        "Features": [
-          "CLC",
-          "LGA 1700",
-          "AM5"
-        ],
-        "Date": "2024-06-24T07:13:15.8256366-04:00",
-        "Update": "2024-06-24T16:05:54.2840024-04:00",
-        "Label": "Barrow CPU Water Block A-RGB [LTYK3-04I/LTYK3A-04 V2] LGA115X 1200 1700 AM5"
-      },
-      {
-        "Price": 45.00,
-        "Features": [
-          "CLC"
-        ],
-        "Date": "2024-06-24T07:13:32.6655956-04:00",
-        "Update": "2024-06-24T16:05:54.3078322-04:00",
-        "Label": "Freezmod Bomba SC600 19W +Deposito 193mm G1/4"
-      },
-      {
         "Price": 4.00,
         "Features": [
           "3/8\" ID",
           "1/2\" OD",
           "G1/4",
+          "9.5mm ID",
+          "12.7mm OD",
           "THKN-3/8-B03",
-          "Tubo Suave",
-          "Tubo Blando",
+          "Suave",
+          "Blando",
+          "Refrigeración",
+          "Líquida",
+          "Custom",
+          "Personalizada",
           "CLC"
         ],
         "Date": "2024-05-25T23:01:03.1426914-04:00",
-        "Update": "2024-07-03T13:44:22.2463254-04:00",
-        "Label": "Racor Barrow Ftting"
+        "Update": "2024-07-03T15:06:52.4285793-04:00",
+        "Label": "Racor Barrow Ftting 3/8 - 1/2"
+      },
+      {
+        "Price": 6.00,
+        "Features": [
+          "3/8\" ID",
+          "1/2\" OD",
+          "9.5mm ID",
+          "12.7mm OD",
+          "Suave",
+          "Refrigeración",
+          "Líquida",
+          "Custom",
+          "Personalizada",
+          "CLC"
+        ],
+        "Date": "2024-05-26T10:28:18.7065694-04:00",
+        "Update": "2024-07-03T15:06:52.4737547-04:00",
+        "Label": "Tubo Blando Barrow 1M"
       },
       {
         "Price": 35.00,
-        "Features": [],
+        "Features": [
+          "G1/4",
+          "Incluye Tornillos",
+          "Refrigeración",
+          "Líquida",
+          "Custom",
+          "Personalizada",
+          "CLC"
+        ],
         "Date": "2024-06-24T07:13:24.2816403-04:00",
-        "Update": "2024-07-03T13:44:22.2834401-04:00",
-        "Label": "CLC - Aluminum Radiador 240mm"
+        "Update": "2024-07-03T15:06:52.5041226-04:00",
+        "Label": "Radiador OEM Aluminum 240mm"
+      },
+      {
+        "Price": 39.00,
+        "Features": [
+          "G1/4",
+          "Refrigeración",
+          "Líquida",
+          "Custom",
+          "Personalizada",
+          "CLC",
+          "LTYK3-04I",
+          "LTYK3A-04 V2",
+          "LGA 115X",
+          "LGA 1200",
+          "LGA 1700",
+          "AM5"
+        ],
+        "Date": "2024-06-24T07:13:15.8256366-04:00",
+        "Update": "2024-07-03T15:06:52.537549-04:00",
+        "Label": "Bloque CPU Barrow Water A-RGB"
+      },
+      {
+        "Price": 45.00,
+        "Features": [
+          "G1/4",
+          "Refrigeración",
+          "Líquida",
+          "Custom",
+          "Personalizada",
+          "CLC"
+        ],
+        "Date": "2024-06-24T07:13:32.6655956-04:00",
+        "Update": "2024-07-03T15:09:19.9210222-04:00",
+        "Label": "Bomba Freezmod SC600 19W +Deposito 193mm"
       }
     ],
     "Disco Duro": [
