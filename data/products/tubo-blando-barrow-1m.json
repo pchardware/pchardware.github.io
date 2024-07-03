@@ -5,7 +5,7 @@
     "/images/products/tubo-blando-barrow-1m-1.webp",
     "/images/products/tubo-blando-barrow-1m-2.webp"
   ],
-  "Description": "",
+  "Description": "Los Tubos es por donde circulará nuestro Líquido que se encargará de refrigerar junto con otros elementos “Radiador, ventiladores”  nuestra CPU, GPU, ChipSet, VRMs etc. Estos se han de comprar en base al diámetro exterior de nuestros Racores. Por Ejemplo, si tengo un Racor con OD 16mm/ID 12mm el tubo ha de ser de las mismas medidas para que encaje y no hayan fugas de líquido.",
   "Price": 6.00,
   "Features": [
     "3/8\" ID",
@@ -20,6 +20,6 @@
     "CLC"
   ],
   "Date": "2024-05-26T10:28:18.7065694-04:00",
-  "Update": "2024-07-03T15:06:52.4737547-04:00",
+  "Update": "2024-07-03T15:12:29.1419264-04:00",
   "Label": "Tubo Blando Barrow 1M"
 }
