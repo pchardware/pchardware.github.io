@@ -32,6 +32,7 @@
         "Date": "2024-06-27T06:06:50.3679127-04:00",
         "Update": "2024-06-27T07:00:25.3362477-04:00",
         "Discount": 21.0,
+        "Def": true,
         "Label": "Torre Asus RTX 4060 OC 8GB +i5-12600KF +MAG Z790 TOMAHAWK +32GB DDR4 +1TB M2 +850W"
       }
     ]
@@ -205,6 +206,7 @@
         ],
         "Date": "2024-07-01T04:52:12.4067676-04:00",
         "Update": "2024-07-01T07:39:23.2709215-04:00",
+        "Def": true,
         "Label": "Kit i5-12600KF +MSI MAG Z790 TOMAHAWK WIFI DDR4"
       },
       {
@@ -263,6 +265,7 @@
         "Date": "2024-07-01T05:11:17.0759418-04:00",
         "Update": "2024-07-01T07:39:23.3432403-04:00",
         "Discount": 3.0,
+        "Def": true,
         "Label": "Kit i5-12600KF +Hyper 620S Dual +MSI MAG Z790 TOMAHAWK +32GB DDR4 3600mhz"
       },
       {
@@ -1215,18 +1218,6 @@
         "Date": "2023-07-26T16:42:06.8492862-04:00",
         "Update": "2024-04-10T12:09:21.375684-04:00",
         "Label": "HDD 3.5 Seagate Pipeline 2TB"
-      },
-      {
-        "Price": 235.00,
-        "Features": [
-          "256mb",
-          "7200rpm",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2024-04-30T06:44:18.4466039-04:00",
-        "Update": "2024-06-24T07:11:32.6653525-04:00",
-        "Label": "HDD 3.5 Seagate Exos X16 16TB"
       }
     ],
     "Otros": [
@@ -2426,17 +2417,6 @@
     ],
     "Disco Sólido": [
       {
-        "Price": 45.00,
-        "Features": [
-          "540mbs",
-          "400TBW",
-          "SATA3"
-        ],
-        "Date": "2024-01-18T07:09:07.276212-05:00",
-        "Update": "2024-01-24T02:11:20.8206983-05:00",
-        "Label": "SSD 2.5 Team Group T-FORCE VULCAN Z 480GB"
-      },
-      {
         "Price": 85.00,
         "Features": [
           "5000mbs",
@@ -2777,6 +2757,7 @@
         ],
         "Date": "2024-06-24T07:12:48.2494361-04:00",
         "Update": "2024-06-24T09:50:13.8035227-04:00",
+        "Def": true,
         "Label": "Board MSI MAG Z790 TOMAHAWK WIFI DDR4"
       }
     ],
@@ -2970,24 +2951,6 @@
         "Date": "2023-08-08T10:07:50.0509327-04:00",
         "Update": "2024-05-19T21:05:41.6423975-04:00",
         "Label": "Micro Intel Core i5-12400F +Disipador"
-      },
-      {
-        "Price": 209.00,
-        "Features": [
-          "12Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "25MB L3",
-          "34456pm",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2024-05-25T23:01:27.6116167-04:00",
-        "Update": "2024-05-26T11:23:40.4386743-04:00",
-        "Label": "Micro Intel Core i7-12700KF"
       },
       {
         "Price": 525.00,
