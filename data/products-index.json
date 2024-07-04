@@ -1183,10 +1183,11 @@
         "Label": "Tubo Blando Barrow 1M"
       },
       {
-        "Price": 104.00,
+        "Price": 135.00,
         "Features": [],
         "Date": "2024-07-03T15:14:18.6761569-04:00",
-        "Update": "2024-07-03T15:27:09.1096785-04:00",
+        "Update": "2024-07-03T23:24:09.1972281-04:00",
+        "Discount": 3.0,
         "Label": "KIT Enfriamiento Custom GPU 240mm"
       }
     ],
