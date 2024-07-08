@@ -541,22 +541,6 @@
         "Label": "Fuente Corsair AX760 760W"
       },
       {
-        "Price": 79.00,
-        "Features": [
-          "53A",
-          "1x 4+4Pin",
-          "2x 6+2Pin",
-          "4x SATA",
-          "4x PATA",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-12-28T22:14:43.0215162-05:00",
-        "Update": "2024-05-02T12:58:32.3546637-04:00",
-        "Def": true,
-        "Label": "Fuente Apevia Spirit 700W ATX-SP700"
-      },
-      {
         "Price": 65.00,
         "Features": [
           "30A",
