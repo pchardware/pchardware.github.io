@@ -2,15 +2,6 @@
   "Torres": {
     "Gamer": [
       {
-        "Price": 1331.00,
-        "Features": [],
-        "Date": "2024-06-08T07:26:55.4217573-04:00",
-        "Update": "2024-06-08T07:57:16.4561463-04:00",
-        "Discount": 15.0,
-        "Def": true,
-        "Label": "Torre RTX 4060 EVO 8GB OC +i5-12400F +Z790 Eagle AX +32GB DDR5 +500GB M2 +2TB HDD +750W"
-      },
-      {
         "Price": 2401.00,
         "Features": [],
         "Date": "2024-06-24T09:30:06.6830261-04:00",
@@ -25,37 +16,11 @@
         "Update": "2024-06-24T09:41:14.0269934-04:00",
         "Discount": 24.0,
         "Label": "Torre RTX 4070 Ti 12GB +i9-14900K +Liquida +Strix Z790-F Gaming +32GB DDR5 +2TB M2 +1000W"
-      },
-      {
-        "Price": 1391.00,
-        "Features": [],
-        "Date": "2024-06-27T06:06:50.3679127-04:00",
-        "Update": "2024-06-27T07:00:25.3362477-04:00",
-        "Discount": 21.0,
-        "Def": true,
-        "Label": "Torre Asus RTX 4060 OC 8GB +i5-12600KF +MAG Z790 TOMAHAWK +32GB DDR4 +1TB M2 +850W"
       }
     ]
   },
   "Kits": {
     "Rendimiento": [
-      {
-        "Price": 420.00,
-        "Features": [
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "DDR5",
-          "7600mhz",
-          "Wifi",
-          "Bluetooth",
-          "7xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-04-11T11:15:12.6184151-04:00",
-        "Update": "2024-04-11T11:53:18.2128881-04:00",
-        "Label": "Kit i5-12600K +Gigabyte Z790 Eagle AX"
-      },
       {
         "Price": 729.00,
         "Features": [
@@ -459,21 +424,6 @@
         "Date": "2023-11-14T14:40:10.1214379-05:00",
         "Update": "2024-04-11T08:10:38.3756269-04:00",
         "Label": "Fuente EVGA Supernova 850 P5 850W"
-      },
-      {
-        "Price": 115.00,
-        "Features": [
-          "59A",
-          "2x 6+2Pin",
-          "9x SATA",
-          "1x 4+4 EPS",
-          "140mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-08-16T09:16:30.0204629-04:00",
-        "Update": "2024-04-20T12:09:03.8453396-04:00",
-        "Label": "Fuente EVGA 750W"
       },
       {
         "Price": 225.00,
@@ -1546,6 +1496,7 @@
         ],
         "Date": "2023-06-19T07:49:47.5425532-04:00",
         "Update": "2023-10-09T17:48:20.6927476-04:00",
+        "Def": true,
         "Label": "Disipador Cooler Master Hyper 212 Spectrum V3"
       },
       {
@@ -1767,22 +1718,6 @@
         "Label": "Chasis Cougar Archon 2 Mesh RGB White"
       },
       {
-        "Price": 159.00,
-        "Features": [
-          "Tempered Glass",
-          "3xFan ARGB",
-          "3xUSB",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro",
-          "2xHDD"
-        ],
-        "Date": "2023-11-03T12:22:56.9620417-04:00",
-        "Update": "2024-05-04T08:26:33.7233299-04:00",
-        "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
-      },
-      {
         "Price": 225.00,
         "Features": [
           "Tempered Glass",
@@ -1911,17 +1846,6 @@
         "Date": "2024-02-16T14:41:55.9514851-05:00",
         "Update": "2024-04-12T10:07:16.8222787-04:00",
         "Label": "RAM DDR4 Team Group T-Force Delta 2 RGB 8GB 3200mhz White"
-      },
-      {
-        "Price": 79.00,
-        "Features": [
-          "2x8GB",
-          "CL18",
-          "Disipadas"
-        ],
-        "Date": "2024-01-18T07:08:40.5888674-05:00",
-        "Update": "2024-05-02T13:05:17.8524339-04:00",
-        "Label": "RAM DDR4 G.Skill TridentZ RGB 16GB 3600mhz"
       },
       {
         "Price": 155.00,
@@ -2441,18 +2365,6 @@
         "Label": "SSD M.2 Team Group MP44L 1TB"
       },
       {
-        "Price": 69.00,
-        "Features": [
-          "7400mbs",
-          "300BTW",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2024-01-27T21:38:27.250846-05:00",
-        "Update": "2024-02-28T07:53:53.6122493-05:00",
-        "Label": "SSD M.2 HP FX900 Pro 512GB"
-      },
-      {
         "Price": 129.00,
         "Features": [
           "3200mbs",
@@ -2570,26 +2482,6 @@
         "Date": "2024-01-18T07:08:47.0369887-05:00",
         "Update": "2024-05-02T09:37:04.6877691-04:00",
         "Label": "Board Gigabyte Z790 Aorus Elite AX ICE"
-      },
-      {
-        "Price": 205.00,
-        "Features": [
-          "AM4",
-          "DDR4",
-          "5100mhz",
-          "14xVRM",
-          "6xSATA",
-          "7xUSB",
-          "6xAudio",
-          "HDMI",
-          "DisplayPort",
-          "ATX",
-          "AMD",
-          "MOBO"
-        ],
-        "Date": "2023-12-28T14:08:17.4889383-05:00",
-        "Update": "2024-05-02T09:37:04.7060761-04:00",
-        "Label": "Board Gigabyte X570S Gaming X"
       },
       {
         "Price": 255.00,
@@ -2810,24 +2702,6 @@
         "Date": "2023-05-11T07:00:48.0876416-04:00",
         "Update": "2024-05-19T21:05:41.2620149-04:00",
         "Label": "Micro Intel Core i9-12900K"
-      },
-      {
-        "Price": 195.00,
-        "Features": [
-          "12Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "20MB L3",
-          "27741pm",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-02-17T09:44:28.156292-05:00",
-        "Update": "2024-05-19T21:05:41.2943158-04:00",
-        "Label": "Micro Intel Core i5-12600K"
       },
       {
         "Price": 245.00,
