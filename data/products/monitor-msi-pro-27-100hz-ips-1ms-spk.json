@@ -1,0 +1,26 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Monitor",
+  "Images": [
+    "/images/products/monitor-msi-pro-27-100hz-ips-1ms-spk-1.webp",
+    "/images/products/monitor-msi-pro-27-100hz-ips-1ms-spk-2.webp",
+    "/images/products/monitor-msi-pro-27-100hz-ips-1ms-spk-3.webp",
+    "/images/products/monitor-msi-pro-27-100hz-ips-1ms-spk-4.webp",
+    "/images/products/monitor-msi-pro-27-100hz-ips-1ms-spk-5.webp",
+    "/images/products/monitor-msi-pro-27-100hz-ips-1ms-spk-6.webp"
+  ],
+  "Description": "Tamaño de pantalla perfecto de 27\" para el espacio de trabajo de programación, codificación y diseño de sitios web.\nLa frecuencia de actualización de 100 Hz proporciona una mejor experiencia de visualización con imagen sin parpadeos.\nLa pantalla certificada TÜV garantiza la protección y la salud de la vista.\nMSI La tecnología EyesErgo con tecnología anti-parpadeo ayuda a prevenir la fatiga ocular y la fatiga.\nPanel IPS con ángulo de visión amplio de 178° diseñado para una imagen de alta calidad\nMontaje VESA estándar y diseño de ranura para accesorios.\nDos altavoces incorporados.\n\nActualiza tu espacio de trabajo y disfruta de una mejor experiencia visual con el monitor PRO MP275. El PRO MP275 es una pantalla IPS de 27\" y puede tener una resolución de hasta 1920 x 1080 (FHD). La tasa de 100 Hz y el tiempo de 1 ms (MPRT) / 4 ms (GTG) proporcionan una experiencia de visualización más suave, mejor.",
+  "Price": 269.00,
+  "Features": [
+    "Gaming",
+    "300nit",
+    "VGA",
+    "HDMI",
+    "1080p",
+    "FHD",
+    "Flat"
+  ],
+  "Date": "2024-07-09T10:48:54.2971047-04:00",
+  "Update": "2024-07-09T17:50:53.5129139-04:00",
+  "Label": "Monitor MSI Pro 27\" 100Hz IPS 1ms SPK"
+}
