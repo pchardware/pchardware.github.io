@@ -3802,25 +3802,6 @@
     ],
     "Monitor": [
       {
-        "Price": 229.00,
-        "Features": [
-          "HDR10",
-          "8Bit",
-          "Gaming",
-          "VA",
-          "FRC",
-          "DP",
-          "1080p",
-          "FHD",
-          "Flat",
-          "250nit"
-        ],
-        "Date": "2023-07-09T16:44:32.5135505-04:00",
-        "Update": "2023-12-14T08:51:11.7359479-05:00",
-        "Def": true,
-        "Label": "Monitor Acer Nitro 24\" 165Hz 1ms SPK VA"
-      },
-      {
         "Price": 235.00,
         "Features": [
           "8Bits",
@@ -3888,11 +3869,38 @@
         "Label": "Monitor MSI Pro 27FHD 100Hz IPS 1ms SPK-?W [MP275 3PC3]"
       },
       {
+        "Price": 229.00,
+        "Features": [
+          "HDR10",
+          "8Bit",
+          "Gaming",
+          "FRC",
+          "DP",
+          "1080p",
+          "FHD",
+          "Flat",
+          "250nit"
+        ],
+        "Date": "2023-07-09T16:44:32.5135505-04:00",
+        "Update": "2024-07-09T17:37:26.2479608-04:00",
+        "Def": true,
+        "Label": "Monitor Acer Nitro 24\" VA 165Hz 1ms SPK"
+      },
+      {
         "Price": 185.00,
-        "Features": [],
+        "Features": [
+          "Gaming",
+          "VA",
+          "VGA",
+          "HDMI",
+          "1080p",
+          "FHD",
+          "Flat",
+          "250nit"
+        ],
         "Date": "2024-07-09T10:47:43.4241347-04:00",
-        "Update": "2024-07-09T13:10:05.0118634-04:00",
-        "Label": "Monitor AOpen 24FHD 100Hz 1ms [24SA2Y HBI]"
+        "Update": "2024-07-09T17:37:26.2836353-04:00",
+        "Label": "Monitor AOpen FireLegend 24\" VA 100Hz 1ms"
       }
     ],
     "Impresora": [
