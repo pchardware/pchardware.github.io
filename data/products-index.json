@@ -2857,9 +2857,24 @@
       },
       {
         "Price": 235.00,
-        "Features": [],
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR4",
+          "53330mhz",
+          "10xVRM",
+          "Wifi",
+          "Bluetooth",
+          "8xUSB",
+          "4xSATA",
+          "HDMI",
+          "DisplayPort",
+          "6xAudio",
+          "LGA 1700",
+          "ATX",
+          "MOBO"
+        ],
         "Date": "2024-07-09T10:47:38.8047241-04:00",
-        "Update": "2024-07-09T10:54:03.3526063-04:00",
+        "Update": "2024-07-09T12:15:52.9007541-04:00",
         "Label": "Board Gigabyte UD Z790 S Wifi DDR4"
       }
     ],
