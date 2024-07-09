@@ -3114,6 +3114,27 @@
         "Date": "2023-05-11T07:28:15.7616729-04:00",
         "Update": "2024-07-09T10:47:17.393777-04:00",
         "Label": "Micro Intel Core i3-12100 +Disipador"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "Radeon Graphics",
+          "AM4",
+          "12 Hilos",
+          "6 Core",
+          "4.6GHz",
+          "16MB L3",
+          "65W",
+          "20104pm",
+          "PCIe 3",
+          "DDR4",
+          "Serie 5000",
+          "Wraith Stealth Cooler",
+          "CPU"
+        ],
+        "Date": "2024-07-09T10:47:30.2812038-04:00",
+        "Update": "2024-07-09T12:35:44.4125152-04:00",
+        "Label": "Micro AMD Ryzen 5 5600GT +Disipador"
       }
     ]
   },
@@ -3858,6 +3879,13 @@
         "Date": "2023-12-07T22:24:09.640104-05:00",
         "Update": "2024-06-01T18:38:46.1452141-04:00",
         "Label": "Monitor Acer Nitro 27\" 1440p Curvo 170Hz 1ms VA SPK"
+      },
+      {
+        "Price": 269.00,
+        "Features": [],
+        "Date": "2024-07-09T10:48:54.2971047-04:00",
+        "Update": "2024-07-09T12:35:44.4793419-04:00",
+        "Label": "Monitor MSI Pro 27FHD 100Hz IPS 1ms SPK-?W [MP275 3PC3]"
       }
     ],
     "Impresora": [
