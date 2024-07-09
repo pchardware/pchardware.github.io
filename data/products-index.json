@@ -293,6 +293,61 @@
         "Update": "2024-07-01T07:39:23.3886895-04:00",
         "Discount": 1.0,
         "Label": "Kit i5-12600KF +Hyper 620S Dual +MSI MEG Z690 ACE + 32GB DDR5 RGB 6400mhz"
+      },
+      {
+        "Price": 680.00,
+        "Features": [
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "2x16",
+          "6000mhz",
+          "Wifi",
+          "7xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-01-28T05:41:45.404773-05:00",
+        "Update": "2024-07-09T10:47:17.4416122-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i7-12700K +Hyper 212 Spectrum V3 +MSI Z790 Gaming Pro Wifi +32GB DDR5 RGB"
+      },
+      {
+        "Price": 511.00,
+        "Features": [
+          "12Gen",
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "7600mhz",
+          "19xVRM",
+          "Wifi",
+          "9xUSB",
+          "6xSATA",
+          "3xAudio"
+        ],
+        "Date": "2024-06-18T12:19:45.3105254-04:00",
+        "Update": "2024-07-09T10:47:17.6556686-04:00",
+        "Discount": 3.0,
+        "Label": "Kit i7-12700K +Gigabyte Z790 Aorus Elite AX"
+      },
+      {
+        "Price": 601.00,
+        "Features": [
+          "12Gen",
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "7600mhz",
+          "19xVRM",
+          "Wifi",
+          "9xUSB",
+          "6xSATA",
+          "3xAudio"
+        ],
+        "Date": "2024-06-18T12:20:14.3906454-04:00",
+        "Update": "2024-07-09T10:47:17.6978685-04:00",
+        "Discount": 2.0,
+        "Label": "Kit i7-12700K +Cooler Master Hyper 620S Dual +Gigabyte Z790 Aorus Elite AX"
       }
     ],
     "Esencial": [
@@ -732,6 +787,33 @@
         "Date": "2024-06-24T07:12:27.3296679-04:00",
         "Update": "2024-06-24T08:17:21.2349675-04:00",
         "Label": "Fuente MSI MPG A750GF"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "59A",
+          "2x 6+2Pin",
+          "9x SATA",
+          "1x 4+4 EPS",
+          "140mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-08-16T09:16:30.0204629-04:00",
+        "Update": "2024-07-09T10:47:17.5690389-04:00",
+        "Label": "Fuente EVGA 750W"
+      },
+      {
+        "Price": 99.00,
+        "Features": [
+          "42A",
+          "2x 6+2-Pin",
+          "6x SATA",
+          "1x 4+4 EPS"
+        ],
+        "Date": "2023-04-15T07:27:14.991735-04:00",
+        "Update": "2024-07-09T10:47:17.7398029-04:00",
+        "Label": "Fuente Thermaltake SMART 600W 80+"
       }
     ],
     "Disipador Líquido": [
@@ -1522,7 +1604,6 @@
         ],
         "Date": "2023-06-19T07:49:47.5425532-04:00",
         "Update": "2023-10-09T17:48:20.6927476-04:00",
-        "Def": true,
         "Label": "Disipador Cooler Master Hyper 212 Spectrum V3"
       },
       {
@@ -1713,6 +1794,27 @@
         "Update": "2024-06-01T22:19:50.7388346-04:00",
         "Def": true,
         "Label": "Disipador AMD Wraith Stealth x7 S5000"
+      },
+      {
+        "Price": 45.00,
+        "Features": [
+          "ARGB",
+          "4xPipes",
+          "68cfm",
+          "30dBA",
+          "2500rpm",
+          "Negro",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4",
+          "AM5",
+          "Tower",
+          "1xFan"
+        ],
+        "Date": "2023-09-23T14:09:08.5628773-04:00",
+        "Update": "2024-07-09T10:47:17.3513077-04:00",
+        "Label": "Disipador ID-COOLING SE-214-XT ARGB Black"
       }
     ],
     "Chasis": [
@@ -1929,6 +2031,17 @@
         "Date": "2024-06-24T07:13:00.3057292-04:00",
         "Update": "2024-06-24T09:19:09.2135348-04:00",
         "Label": "DDR5 Team Group T-CREATE EXPERT 32GB"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "CL36",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-30T09:56:12.5688722-04:00",
+        "Update": "2024-07-09T10:47:17.5261918-04:00",
+        "Label": "DDR5 Corsair Vengeance RGB 32GB 6000mhz"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2363,6 +2476,24 @@
         "Date": "2024-06-24T07:12:41.6496521-04:00",
         "Update": "2024-06-24T11:49:19.1044274-04:00",
         "Label": "Tarjeta de Video Asus ROG Strix RTX 4070 Ti 12GB"
+      },
+      {
+        "Price": 385.00,
+        "Features": [
+          "2xFan",
+          "8GB",
+          "1x8Pin",
+          "DLSS3",
+          "550WR",
+          "247mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-08-08T10:08:12.7346355-04:00",
+        "Update": "2024-07-09T10:47:17.3087322-04:00",
+        "Label": "Tarjeta de Video MSI RTX 4060 Gaming X"
       }
     ],
     "Disco Sólido": [
@@ -2462,6 +2593,17 @@
         "Date": "2023-08-29T08:42:45.4600847-04:00",
         "Update": "2024-06-24T07:11:32.7695033-04:00",
         "Label": "SSD M.2 Samsung 990 Pro 2TB"
+      },
+      {
+        "Price": 150.00,
+        "Features": [
+          "7450mbs",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2023-08-21T08:57:50.0608494-04:00",
+        "Update": "2024-07-09T10:47:17.4836349-04:00",
+        "Label": "SSD M.2 Samsung 990 PRO 1TB"
       }
     ],
     "Board": [
@@ -2677,6 +2819,27 @@
         "Update": "2024-06-24T09:50:13.8035227-04:00",
         "Def": true,
         "Label": "Board MSI MAG Z790 TOMAHAWK WIFI DDR4"
+      },
+      {
+        "Price": 269.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "7600mhz",
+          "19xVRM",
+          "Wifi",
+          "9xUSB",
+          "6xSATA",
+          "DisplayPort",
+          "HDMI",
+          "3xAudio",
+          "LGA 1700",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-10-03T06:55:49.2464488-04:00",
+        "Update": "2024-07-09T10:47:17.6138244-04:00",
+        "Label": "Board Gigabyte Z790 Aorus Elite AX"
       }
     ],
     "Red": [
@@ -2889,6 +3052,22 @@
         "Date": "2023-10-09T15:59:15.4094076-04:00",
         "Update": "2024-07-09T10:02:06.4676001-04:00",
         "Label": "Micro AMD Ryzen 9 7900X"
+      },
+      {
+        "Price": 140.00,
+        "Features": [
+          "12va Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.3GHz",
+          "12MB L3",
+          "DDR4-DDR5",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-05-11T07:28:15.7616729-04:00",
+        "Update": "2024-07-09T10:47:17.393777-04:00",
+        "Label": "Micro Intel Core i3-12100 +Disipador"
       }
     ]
   },
@@ -3539,6 +3718,19 @@
         "Date": "2024-06-24T07:12:09.4026898-04:00",
         "Update": "2024-06-24T09:15:15.1524526-04:00",
         "Label": "Mouse AOC Agon Gaming AGM700 RGB"
+      },
+      {
+        "Price": 63.00,
+        "Features": [
+          "16000dpi",
+          "Optico",
+          "11 botónes",
+          "Gaming",
+          "USB"
+        ],
+        "Date": "2023-06-19T07:49:10.8952301-04:00",
+        "Update": "2024-07-09T10:47:17.2654922-04:00",
+        "Label": "Mause Logitech G502 Hero"
       }
     ],
     "Monitor": [
