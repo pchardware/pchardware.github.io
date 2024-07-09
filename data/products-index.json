@@ -2042,6 +2042,13 @@
         "Date": "2023-03-30T09:56:12.5688722-04:00",
         "Update": "2024-07-09T10:47:17.5261918-04:00",
         "Label": "DDR5 Corsair Vengeance RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 235.00,
+        "Features": [],
+        "Date": "2024-07-09T10:47:49.373272-04:00",
+        "Update": "2024-07-09T10:54:03.3529588-04:00",
+        "Label": "DDR5 CORSAIR Vengeance RGB 64GB 6000mhz"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2604,6 +2611,13 @@
         "Date": "2023-08-21T08:57:50.0608494-04:00",
         "Update": "2024-07-09T10:47:17.4836349-04:00",
         "Label": "SSD M.2 Samsung 990 PRO 1TB"
+      },
+      {
+        "Price": 39.00,
+        "Features": [],
+        "Date": "2024-07-09T10:47:34.2225862-04:00",
+        "Update": "2024-07-09T10:54:03.3524253-04:00",
+        "Label": "SSD M.2 HP EX900 256GB"
       }
     ],
     "Board": [
@@ -2840,6 +2854,13 @@
         "Date": "2023-10-03T06:55:49.2464488-04:00",
         "Update": "2024-07-09T10:47:17.6138244-04:00",
         "Label": "Board Gigabyte Z790 Aorus Elite AX"
+      },
+      {
+        "Price": 235.00,
+        "Features": [],
+        "Date": "2024-07-09T10:47:38.8047241-04:00",
+        "Update": "2024-07-09T10:54:03.3526063-04:00",
+        "Label": "Board Gigabyte UD Z790 S Wifi DDR4"
       }
     ],
     "Red": [
