@@ -3862,13 +3862,6 @@
         "Label": "Monitor Acer Nitro 27\" 1440p Curvo 170Hz 1ms VA SPK"
       },
       {
-        "Price": 269.00,
-        "Features": [],
-        "Date": "2024-07-09T10:48:54.2971047-04:00",
-        "Update": "2024-07-09T12:35:44.4793419-04:00",
-        "Label": "Monitor MSI Pro 27FHD 100Hz IPS 1ms SPK-?W [MP275 3PC3]"
-      },
-      {
         "Price": 229.00,
         "Features": [
           "HDR10",
@@ -3887,10 +3880,24 @@
         "Label": "Monitor Acer Nitro 24\" VA 165Hz 1ms SPK"
       },
       {
+        "Price": 269.00,
+        "Features": [
+          "Gaming",
+          "300nit",
+          "VGA",
+          "HDMI",
+          "1080p",
+          "FHD",
+          "Flat"
+        ],
+        "Date": "2024-07-09T10:48:54.2971047-04:00",
+        "Update": "2024-07-09T17:50:53.5129139-04:00",
+        "Label": "Monitor MSI Pro 27\" 100Hz IPS 1ms SPK"
+      },
+      {
         "Price": 185.00,
         "Features": [
           "Gaming",
-          "VA",
           "VGA",
           "HDMI",
           "1080p",
@@ -3899,7 +3906,7 @@
           "250nit"
         ],
         "Date": "2024-07-09T10:47:43.4241347-04:00",
-        "Update": "2024-07-09T17:37:26.2836353-04:00",
+        "Update": "2024-07-09T17:51:46.3253919-04:00",
         "Label": "Monitor AOpen FireLegend 24\" VA 100Hz 1ms"
       }
     ],
