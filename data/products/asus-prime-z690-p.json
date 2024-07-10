@@ -1,0 +1,32 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Board",
+  "Images": [
+    "/images/products/asus-prime-z690-p-1.webp",
+    "/images/products/asus-prime-z690-p-2.webp",
+    "/images/products/asus-prime-z690-p-3.webp",
+    "/images/products/asus-prime-z690-p-4.webp",
+    "/images/products/asus-prime-z690-p-5.webp",
+    "/images/products/asus-prime-z690-p-6.webp"
+  ],
+  "Description": "Model\nBrand: ASUS\nModel: PRIME Z690-P\nPart Number: 90MB19Q0-M0AAY0\n\n\nSupported CPU\nCPU Socket Type: LGA 1700* Designed with dual mounting holes compatible with both Intel LGA1700 and LGA1200 cooling brackets.\nCPU Type: Supports 13th / 12th Gen Intel Core Processors, Pentium Gold and Celeron Processors**May require a BIOS update to boot the 13th gen Intel® Core™ desktop processors. Visit: https://www.asus.com/news/oujwh1old5n6oglf/* Refer to www.asus.com for CPU support list.\nSupported CPU Technologies: Supports Intel Turbo Boost Technology 2.0 and Intel Turbo Boost Max Technology 3.0** Intel Turbo Boost Max Technology 3.0 support depends on the CPU types.\n\n\nChipsets\nChipset: Intel Z690\n\n\nOnboard Video\nOnboard Video Chipset: Supported only by CPU with integrated graphic\n\n\nMemory\nNumber of Memory Slots: 4x288pin (DDR5)\nMemory Standard: DDR5 6000(OC) / 5800(OC) / 5600(OC) / 5400(OC) / 5200(OC) / 5000(OC) / 4800* Refer to www.asus.com for the Memory QVL (Qualified Vendors Lists).\nMaximum Memory Supported: 128GB\nChannel Supported: Dual Channel\n\n\nExpansion Slots\nPCI Express 5.0 x16: 1 x PCI Express 5.0 x16* Actual support may vary by CPU.* Please check PCIe bifurcation table in support site.\nPCI Express 4.0 x16: 1 x PCI Express 4.0 x16* Supports x4 mode.\nPCI Express 3.0 x16: 2 x PCI Express 3.0 x16* Support x4 mode.\nPCI Express x1: 1 x PCIe 3.0 x1\nOther Slots: V-M.2 slot only (Key E, CNVi & PCIe)** Wi-Fi module and vertical M.2 Key E bracket set are purchased separately.\n\n\nStorage Devices\nSATA 6Gb/s: 4 x SATA 6Gb/s\nM.2: Intel 12th Gen Processors:M.2_1 slot (Key M), type 2242/2260/2280/22110- Intel 12th Gen processors support PCIe 4.0 x4 mode.Intel Z690 Chipset:**M.2_2 slot (Key M), type 2242/2260/2280 (supports PCIe 4.0 x4 mode)M.2_3 slot (Key M), type 2242/2260/2280/22110 (supports PCIe 4.0 x4 & SATA modes)* Intel Rapid Storage Technology supports NVMe RAID 0/1/5, SATA RAID 0/1/5/10.** Intel Rapid Storage Technology supports Intel Optane Memory H Series on PCH attached M.2 slots.\nIntel Optane Ready: Yes\n\n\nOnboard Audio\nAudio Channels: 7.1 Channels\n\n\nOnboard LAN\nLAN Chipset: Realtek 2.5Gb Ethernet\nMax LAN Speed: 2.5Gbps\n\n\nRear Panel Ports\nBack I/O Ports: 1 x USB 3.2 Gen 2x2 port (1 x USB Type-C)1 x USB 3.2 Gen 2 port (1 x Type-A)2 x USB 3.2 Gen 1 ports (2 x Type-A)2 x USB 2.0 ports (2 x Type-A) 1 x DisplayPort1 x HDMI port1 x Realtek 2.5Gb Ethernet port5 x Audio jacks1 x Optical S/PDIF out port1 x PS/2 Keyboard/Mouse combo port\n\n\nInternal I/O Connectors\nOnboard USB: 1 x USB 3.2 Gen 1 connector (supports USB Type-C) 2 x USB 3.2 Gen 1 headers support additional 4 USB 3.2 Gen 1 ports2 x USB 2.0 headers support additional 4 USB 2.0 ports\nOther Connectors: Fan and Cooling related 1 x 4-pin CPU Fan header1 x 4-pin CPU OPT Fan header1 x 4-pin AIO Pump header3 x 4-pin Chassis Fan headersMiscellaneous3 x Addressable Gen 2 headers2 x AURA RGB headers1 x Clear CMOS header1 x COM Port header1 x Front Panel Audio header (AAFP) 1 x SPI TPM header (14-1pin)1 x 20-5pin System Panel header1 x Thunderbolt header\n\n\nPhysical Spec\nForm Factor: ATX\nLED Lighting: RGB\nDimensions (W x L): 12.0\" x 9.2\"\nPower Pin: 1 x 24-pin Main Power connector1 x 8-pin +12V Power connector1 x 4-pin +12V Power connector\n\n\nWindows Compatibility\nWindows 11: Ready\n\n\nFeatures\nFeatures: Special Features:ASUS 5X PROTECTION III- DIGI+ VRM (- Digital power design with DrMOS)- LANGuard - Overvoltage Protection- SafeSlot- Stainless-Steel Back I/OASUS Q-Design - Q-DIMM- Q-SlotASUS Thermal Solution- Flexible M.2 heatsink - VRM heatsink designASUS EZ DIY- ProCoolAURA Sync- AURA RGB headers- Addressable Gen 2 RGB headersSoftware Features:ASUS Exclusive SoftwareArmoury Crate- AURA Sync- Fan Xpert 4 AI Suite 3- Performance And Power Saving UtilityTurboV EVOEPU DIGI+ VRMASUS CPU-ZNorton Anti-virus software (Free Trial version) WinRARUEFI BIOSASUS EZ DIY - ASUS CrashFree BIOS 3 - ASUS EZ Flash 3 - ASUS UEFI BIOS EZ ModeBIOS:192 (128+64) Mb Flash ROM, UEFI AMI BIOSManageability:WOL by PME, PXE Operating System:Windows 11 64-bit, Windows 10 64-bit\n\n\nPackaging\nPackage Contents: Accessories:Cables2 x SATA 6Gb/s cables Miscellaneous1 x I/O Shield 1 x M.2 Rubber Package2 x M.2 SSD screw packagesInstallation Media1 x Support DVDDocumentation1 x User guide",
+  "Price": 290.00,
+  "Features": [
+    "12Gen-13Gen-14Gen",
+    "DDR5",
+    "6000mhz",
+    "15xVRM",
+    "5xUSB",
+    "4xSATA",
+    "DisplayPort",
+    "HDMI",
+    "6xAudio",
+    "PS2",
+    "LGA 1700",
+    "ATX",
+    "MOBO"
+  ],
+  "Date": "2023-03-29T20:18:04.9318135-04:00",
+  "Update": "2024-07-10T12:45:13.5398279-04:00",
+  "Label": "ASUS Prime Z690-P"
+}
