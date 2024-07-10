@@ -50,14 +50,6 @@
         "Update": "2024-07-09T08:01:00.9872922-04:00",
         "Discount": 21.0,
         "Label": "Torre RX 7800 XT 16GB +i9-12900K +MSI MEG Z690 ACE +32GB DDR5 +1TB M.2 +850W +Chasis RGB"
-      },
-      {
-        "Price": 2069.00,
-        "Features": [],
-        "Date": "2024-07-09T08:05:17.1684226-04:00",
-        "Update": "2024-07-09T08:07:41.0400515-04:00",
-        "Discount": 18.0,
-        "Label": "Torre RX 7800 XT 16GB +Liquida +Ryzen 9 7900X +Strix B650-A Gaming +32GB DDR5 +500GB M2 +850W"
       }
     ]
   },
@@ -78,24 +70,6 @@
         "Update": "2024-04-25T12:00:03.9795887-04:00",
         "Discount": 10.0,
         "Label": "Kit i9-12900K +MEG Z690 ACE +Líquido MasterLiquid ML240L ARGB V2"
-      },
-      {
-        "Price": 893.00,
-        "Features": [
-          "12va Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.2GHz",
-          "2x16GB",
-          "6200mz",
-          "Wifi",
-          "7xUSB",
-          "6xSATA"
-        ],
-        "Date": "2024-04-13T04:16:43.4899602-04:00",
-        "Update": "2024-04-25T12:00:03.9994283-04:00",
-        "Discount": 15.0,
-        "Label": "Kit i9-12900K +MSI MEG Z690 ACE +32GB DDR5 Corsair Dominator Platinum"
       },
       {
         "Price": 619.00,
@@ -860,7 +834,7 @@
         "Label": "Cooler Master Kits LGA 1700"
       },
       {
-        "Price": 300.00,
+        "Price": 299.00,
         "Features": [
           "360mm",
           "RGB",
@@ -1089,26 +1063,7 @@
         "Label": "Disipador Líquido ASUS ROG Strix LC II 240 ARGB"
       },
       {
-        "Price": 155.00,
-        "Features": [
-          "1500rpm",
-          "48cfm",
-          "28db",
-          "2xFan",
-          "240mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "LGA 20XX",
-          "AM5",
-          "AM4"
-        ],
-        "Date": "2023-03-27T12:00:05.9787174-04:00",
-        "Update": "2024-05-14T08:04:23.6321091-04:00",
-        "Label": "Disipador Líquido Corsair H100x RGB Elite"
-      },
-      {
-        "Price": 95.00,
+        "Price": 99.00,
         "Features": [
           "1500rpm",
           "48cfm",
@@ -1679,7 +1634,7 @@
         "Label": "Disipador Cooler Master Hyper 620S Dual"
       },
       {
-        "Price": 45.00,
+        "Price": 49.00,
         "Features": [
           "5 Head Pipes",
           "1550rpm",
@@ -1954,17 +1909,6 @@
         "Label": "RAM DDR4 Corsair Vengeance LPX 32GB 3600mhz"
       },
       {
-        "Price": 165.00,
-        "Features": [
-          "2x16",
-          "CL36",
-          "Disipadas"
-        ],
-        "Date": "2024-01-16T04:52:38.201793-05:00",
-        "Update": "2024-01-24T02:30:20.3291427-05:00",
-        "Label": "RAM DDR5 Corsair Dominator Platinum RGB 32GB 6200mhz"
-      },
-      {
         "Price": 115.00,
         "Features": [
           "2x16GB",
@@ -2167,23 +2111,6 @@
         "Label": "Tarjeta de Video EVGA RTX 3080Ti XC3 Hydro Copper 12GB"
       },
       {
-        "Price": 369.00,
-        "Features": [
-          "DLSS3",
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "199 mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-12-07T21:45:13.7040885-05:00",
-        "Update": "2024-01-24T02:40:53.2079343-05:00",
-        "Label": "Tarjeta de Video MSI RTX 4060 Ventus 2X White OC 8GB"
-      },
-      {
         "Price": 579.00,
         "Features": [
           "2xFan",
@@ -2330,22 +2257,6 @@
         "Date": "2024-04-20T12:17:52.9989097-04:00",
         "Update": "2024-04-20T12:56:56.0979612-04:00",
         "Label": "Tarjeta de Video Asus ROG Strix RTX 4060 Ti OC 8GB"
-      },
-      {
-        "Price": 419.00,
-        "Features": [
-          "3xFan",
-          "1x8Pin+6Pin",
-          "650WR",
-          "296mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-03-13T15:18:04.3313972-04:00",
-        "Update": "2024-04-20T18:32:14.3024973-04:00",
-        "Label": "Tarjeta de Video Gigabyte Aorus RX 6750 XT Elite 12GB"
       },
       {
         "Price": 429.00,
