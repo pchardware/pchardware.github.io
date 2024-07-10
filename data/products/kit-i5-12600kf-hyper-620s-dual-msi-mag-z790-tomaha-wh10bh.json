@@ -13,7 +13,7 @@
     "/images/products/kit-i5-12600kf-hyper-620s-dual-msi-mag-z790-tomaha-wh10bh-9.webp"
   ],
   "Description": "+ Micro Intel Core i5-12600KF\n+ Disipador Cooler Master Hyper 620S Dual\n+ Board MSI MAG Z790 TOMAHAWK WIFI DDR4\n+ RAM DDR4 Corsair Vengeance LPX 32GB 3600mhz\n",
-  "Price": 555.00,
+  "Price": 559.00,
   "Features": [
     "12Gen",
     "16 Hilos",
@@ -31,6 +31,5 @@
   "Date": "2024-07-01T05:11:17.0759418-04:00",
   "Update": "2024-07-01T07:39:23.3432403-04:00",
   "Discount": 3.0,
-  "Def": true,
   "Label": "Kit i5-12600KF +Hyper 620S Dual +MSI MAG Z790 TOMAHAWK +32GB DDR4 3600mhz"
 }
