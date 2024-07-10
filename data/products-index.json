@@ -34,7 +34,7 @@
         "Label": "Torre RTX 3050 Gaming X 6GB +i5-12400F +B760M PRO RS +32GB DDR5 +1TB M.2 +850W +Chasis RGB"
       },
       {
-        "Price": 1169.00,
+        "Price": 1183.00,
         "Features": [],
         "Date": "2024-07-09T07:42:20.2785812-04:00",
         "Update": "2024-07-09T08:01:00.940748-04:00",
@@ -44,7 +44,7 @@
     ],
     "Pro": [
       {
-        "Price": 1829.00,
+        "Price": 1833.00,
         "Features": [],
         "Date": "2024-07-09T07:44:15.1904619-04:00",
         "Update": "2024-07-09T08:01:00.9872922-04:00",
@@ -64,7 +64,7 @@
   "Kits": {
     "Rendimiento": [
       {
-        "Price": 729.00,
+        "Price": 733.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -80,7 +80,7 @@
         "Label": "Kit i9-12900K +MEG Z690 ACE +Líquido MasterLiquid ML240L ARGB V2"
       },
       {
-        "Price": 889.00,
+        "Price": 893.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -98,7 +98,7 @@
         "Label": "Kit i9-12900K +MSI MEG Z690 ACE +32GB DDR5 Corsair Dominator Platinum"
       },
       {
-        "Price": 615.00,
+        "Price": 619.00,
         "Features": [
           "12va Gen",
           "24 Hilos",
@@ -114,7 +114,7 @@
         "Label": "Kit i9-12900K + MSI MEG Z690 ACE Potencia y estilo en un solo combo"
       },
       {
-        "Price": 557.00,
+        "Price": 571.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "20 Hilos",
@@ -135,7 +135,7 @@
         "Label": "Kit i7-12700K +Cooler Master Hyper 620S Dual +Gigabyte Z790 Eagle AX"
       },
       {
-        "Price": 547.00,
+        "Price": 551.00,
         "Features": [
           "12Gen",
           "20 Hilos",
@@ -156,7 +156,7 @@
         "Label": "Kit i7-12700K +MSI MEG Z690 ACE"
       },
       {
-        "Price": 687.00,
+        "Price": 691.00,
         "Features": [
           "12Gen",
           "20 Hilos",
@@ -177,7 +177,7 @@
         "Label": "Kit i7-12700K +MSI MEG Z690 ACE +32GB DDR5 Trident Z5 Neo RGB 6400mhz"
       },
       {
-        "Price": 777.00,
+        "Price": 781.00,
         "Features": [
           "12Gen",
           "20 Hilos",
@@ -198,7 +198,7 @@
         "Label": "Kit i7-12700K +Hyper 620S Dual +MSI MEG Z690 ACE +32GB DDR5 RGB 6400mhz"
       },
       {
-        "Price": 388.00,
+        "Price": 398.00,
         "Features": [
           "12Gen",
           "16 Hilos",
@@ -235,7 +235,7 @@
         "Label": "Kit i5-12600KF +MSI Z790 Gaming Pro Wifi"
       },
       {
-        "Price": 474.00,
+        "Price": 478.00,
         "Features": [
           "12Gen",
           "16 Hilos",
@@ -253,7 +253,7 @@
         "Label": "Kit i5-12600KF +MSI MEG Z690 ACE"
       },
       {
-        "Price": 559.00,
+        "Price": 569.00,
         "Features": [
           "12Gen",
           "16 Hilos",
@@ -274,7 +274,7 @@
         "Label": "Kit i5-12600KF +Hyper 620S Dual +MSI MAG Z790 TOMAHAWK +32GB DDR4 3600mhz"
       },
       {
-        "Price": 701.00,
+        "Price": 705.00,
         "Features": [
           "12Gen",
           "16 Hilos",
@@ -458,7 +458,7 @@
     ],
     "": [
       {
-        "Price": 601.00,
+        "Price": 615.00,
         "Features": [
           "12Gen",
           "16 Hilos",
@@ -2793,7 +2793,7 @@
     ],
     "Board": [
       {
-        "Price": 305.00,
+        "Price": 309.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "DDR5",
@@ -2880,7 +2880,7 @@
         "Label": "Board Asus ROG Strix Z790-F Gaming Wifi"
       },
       {
-        "Price": 225.00,
+        "Price": 239.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "DDR5",
@@ -2942,25 +2942,6 @@
         "Date": "2024-05-14T07:14:07.372319-04:00",
         "Update": "2024-05-14T07:54:11.9904198-04:00",
         "Label": "Board Asus ROG Strix B650-A Gaming Wifi"
-      },
-      {
-        "Price": 335.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "7800mhz",
-          "8xUSB",
-          "6xAudio",
-          "4xSATA",
-          "LGA 1700",
-          "DisplayPort",
-          "HDMI",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-03-29T20:18:17.8757341-04:00",
-        "Update": "2024-06-24T07:11:32.4831446-04:00",
-        "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
       },
       {
         "Price": 269.00,
@@ -3042,7 +3023,7 @@
         "Label": "Board Gigabyte B760M DS3H DDR4"
       },
       {
-        "Price": 219.00,
+        "Price": 229.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "5333mhz",
@@ -3063,7 +3044,7 @@
         "Label": "Board MSI MAG Z790 TOMAHAWK WIFI DDR4"
       },
       {
-        "Price": 235.00,
+        "Price": 225.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "5333mhz",
@@ -3084,7 +3065,7 @@
         "Label": "Board Gigabyte UD Z790 S Wifi DDR4"
       },
       {
-        "Price": 290.00,
+        "Price": 219.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "DDR5",
@@ -3103,6 +3084,26 @@
         "Date": "2023-03-29T20:18:04.9318135-04:00",
         "Update": "2024-07-10T13:49:13.5952418-04:00",
         "Label": "Board Asus Prime Z690-P"
+      },
+      {
+        "Price": 335.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "7800mhz",
+          "19xVRM",
+          "8xUSB",
+          "6xAudio",
+          "4xSATA",
+          "LGA 1700",
+          "DisplayPort",
+          "HDMI",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-03-29T20:18:17.8757341-04:00",
+        "Update": "2024-07-10T14:06:39.5974714-04:00",
+        "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
       }
     ],
     "Red": [
