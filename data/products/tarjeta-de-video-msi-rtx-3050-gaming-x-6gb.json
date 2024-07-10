@@ -13,7 +13,6 @@
   "Features": [
     "DLSS3",
     "2xfan",
-    "1x8Pin",
     "300WR",
     "205mm",
     "GeForce",
@@ -22,6 +21,6 @@
     "Gráfica"
   ],
   "Date": "2024-04-30T06:45:08.3025165-04:00",
-  "Update": "2024-04-30T11:06:23.4337319-04:00",
+  "Update": "2024-07-10T19:53:36.7922027-04:00",
   "Label": "Tarjeta de Video MSI RTX 3050 Gaming X 6GB"
 }
