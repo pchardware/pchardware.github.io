@@ -2984,27 +2984,6 @@
         "Label": "Board Gigabyte Z790 Aorus Elite AX"
       },
       {
-        "Price": 290.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "6000mhz",
-          "15xVRM",
-          "5xUSB",
-          "4xSATA",
-          "DisplayPort",
-          "HDMI",
-          "6xAudio",
-          "PS2",
-          "LGA 1700",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-03-29T20:18:04.9318135-04:00",
-        "Update": "2024-07-10T12:45:13.5398279-04:00",
-        "Label": "ASUS Prime Z690-P"
-      },
-      {
         "Price": 255.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -3103,6 +3082,27 @@
         "Date": "2024-07-09T10:47:38.8047241-04:00",
         "Update": "2024-07-10T13:38:42.6491962-04:00",
         "Label": "Board Gigabyte UD Z790 S Wifi DDR4"
+      },
+      {
+        "Price": 290.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "6000mhz",
+          "15xVRM",
+          "DisplayPort",
+          "HDMI",
+          "6xAudio",
+          "5xUSB",
+          "4xSATA",
+          "PS2",
+          "LGA 1700",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-03-29T20:18:04.9318135-04:00",
+        "Update": "2024-07-10T13:49:13.5952418-04:00",
+        "Label": "Board Asus Prime Z690-P"
       }
     ],
     "Red": [
