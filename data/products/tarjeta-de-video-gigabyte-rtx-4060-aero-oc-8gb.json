@@ -1,0 +1,30 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/tarjeta-de-video-gigabyte-rtx-4060-aero-oc-8gb-1.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rtx-4060-aero-oc-8gb-2.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rtx-4060-aero-oc-8gb-3.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rtx-4060-aero-oc-8gb-4.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rtx-4060-aero-oc-8gb-5.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rtx-4060-aero-oc-8gb-6.webp",
+    "/images/products/tarjeta-de-video-gigabyte-rtx-4060-aero-oc-8gb-7.webp"
+  ],
+  "Description": "Model\nBrand: GIGABYTE\nSeries: AERO\nModel: GV-N4060AERO OC-8GD\n\n\nInterface\nInterface: PCI Express 4.0 x8\n\n\nChipset\nChipset Manufacturer: NVIDIA\nGPU Series: NVIDIA GeForce RTX 40 Series\nGPU: GeForce RTX 4060\nCUDA Cores: 3072 Cores\n\n\nMemory\nEffective Memory Clock: 17000 MHz\nMemory Size: 8GB\nMemory Interface: 128-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 2 x HDMI\nDisplayPort: 2 x DisplayPort\n\n\nDetails\nMax Resolution: 7680 x 4320\nCooler: Triple Fans\nThermal Design Power: 115W\nRecommended PSU Wattage: 450W\nPower Connector: 8-Pin\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 281 mm\nSlot Width: 2 Slots",
+  "Price": 415.00,
+  "Features": [
+    "3xFan",
+    "DLSS3",
+    "1x8Pin",
+    "450W",
+    "2xDisplay Port",
+    "2xHDMI",
+    "281mm",
+    "NVIDEA",
+    "Geforce",
+    "GPU"
+  ],
+  "Date": "2024-01-18T07:09:23.6519574-05:00",
+  "Update": "2024-07-10T12:45:13.7481299-04:00",
+  "Label": "Tarjeta de Video Gigabyte RTX 4060 AERO OC 8GB"
+}
