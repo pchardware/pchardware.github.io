@@ -2078,23 +2078,6 @@
         "Label": "Tarjeta de Video Asus ProArt RTX 4070 OC 12GB"
       },
       {
-        "Price": 265.00,
-        "Features": [
-          "DLSS3",
-          "2xfan",
-          "1x8Pin",
-          "300WR",
-          "205mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-04-30T06:45:08.3025165-04:00",
-        "Update": "2024-04-30T11:06:23.4337319-04:00",
-        "Label": "Tarjeta de Video MSI RTX 3050 Gaming X 6GB"
-      },
-      {
         "Price": 475.00,
         "Features": [
           "DLSS3",
@@ -2325,6 +2308,22 @@
         "Date": "2024-05-24T03:49:39.3140444-04:00",
         "Update": "2024-07-10T19:39:41.1078404-04:00",
         "Label": "Tarjeta de Video Asus Dual RTX 3050 6GB"
+      },
+      {
+        "Price": 265.00,
+        "Features": [
+          "DLSS3",
+          "2xfan",
+          "300WR",
+          "205mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2024-04-30T06:45:08.3025165-04:00",
+        "Update": "2024-07-10T19:53:36.7922027-04:00",
+        "Label": "Tarjeta de Video MSI RTX 3050 Gaming X 6GB"
       }
     ],
     "Memoria RAM": [
