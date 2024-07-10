@@ -1,0 +1,23 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disco Sólido",
+  "Images": [
+    "/images/products/ssd-m2-hp-ex900-250gb-1.webp",
+    "/images/products/ssd-m2-hp-ex900-250gb-2.webp",
+    "/images/products/ssd-m2-hp-ex900-250gb-3.webp",
+    "/images/products/ssd-m2-hp-ex900-250gb-4.webp",
+    "/images/products/ssd-m2-hp-ex900-250gb-5.webp"
+  ],
+  "Description": "Model\nBrand: HP\nSeries: EX900\nModel: 2YY43AA#ABC\nDevice Type: Internal Solid State Drive (SSD)\nUsed For: Consumer\n\n\nDetails\nForm Factor: M.2 2280\nCapacity: 250GB\nMemory Components: 3D TLC\nInterface: PCI-Express 3.0 x4\nController: HP\n\n\nPerformance\nMax Sequential Read: Up to 2100 MBps\nMax Sequential Write: Up to 1300 MBps\n4KB Random Read: Up to 120,000 IOPS\n4KB Random Write: Up to 105,000 IOPS\nRead Latency: 0.028 ms\nWrite Latency: 0.035 ms\nMTBF: 2,000,000 hours\n\n\nFeatures\nFeatures: High performance\n\nLow power\n\nIncreased system responsiveness\n\nHigh reliability\n\nSmall form-factor\n\nMinimum weight\n\nEnhanced ruggedness\n\nHigh data Integrity and Security\n\n\nEnvironmental\nPower Consumption (Idle): 0.68W\nPower Consumption (Active): 2.99W\nOperating Temperature: 0°C ~ +70°C\nStorage Temperature: -40°C ~ +85°C\nOperating Humidity: 5-95%\nMax Shock Resistance: 100G / 6 msec\nMax Vibration Resistance: 3.1 GRMS (2-500 Hz)\n\n\nDimensions & Weight\nHeight: 2.40mm\nWidth: 22.00mm\nDepth: 80.00mm\nWeight: 5.40g",
+  "Price": 39.00,
+  "Features": [
+    "2100mbs",
+    "200TBW",
+    "TLC",
+    "NVMe",
+    "PCIe3"
+  ],
+  "Date": "2024-07-09T10:47:34.2225862-04:00",
+  "Update": "2024-07-10T12:45:14.0305168-04:00",
+  "Label": "SSD M.2 HP EX900 250GB"
+}
