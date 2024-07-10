@@ -2144,21 +2144,6 @@
         "Label": "Tarjeta de Video MSI Ventus RTX 3050 2X XS 8GB OC"
       },
       {
-        "Price": 259.00,
-        "Features": [
-          "2xFan",
-          "550WR",
-          "201mm",
-          "NVIDIA",
-          "GPU",
-          "Gráfica",
-          "DLSS"
-        ],
-        "Date": "2024-02-28T05:29:52.7076632-05:00",
-        "Update": "2024-05-07T00:12:02.747237-04:00",
-        "Label": "Tarjeta de Video Asus Dual RTX 3050 6GB OC"
-      },
-      {
         "Price": 379.00,
         "Features": [
           "DLSS3",
@@ -2192,21 +2177,6 @@
         "Date": "2023-05-11T19:24:18.7527581-04:00",
         "Update": "2024-05-14T08:04:23.6591482-04:00",
         "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 Eagle WindForce 3X 8GB"
-      },
-      {
-        "Price": 255.00,
-        "Features": [
-          "2xFan",
-          "550WR",
-          "201mm",
-          "NVIDIA",
-          "GPU",
-          "Gráfica",
-          "DLSS"
-        ],
-        "Date": "2024-05-24T03:49:39.3140444-04:00",
-        "Update": "2024-05-24T19:54:45.125887-04:00",
-        "Label": "Tarjeta de Video Asus Dual RTX 3050 6GB"
       },
       {
         "Price": 775.00,
@@ -2325,6 +2295,36 @@
         "Date": "2023-10-16T10:24:33.0618949-04:00",
         "Update": "2024-07-10T12:45:13.7828271-04:00",
         "Label": "Tarjeta de Video Gigabyte RX 7600 8GB"
+      },
+      {
+        "Price": 259.00,
+        "Features": [
+          "2xFan",
+          "450WR",
+          "201mm",
+          "NVIDIA",
+          "GPU",
+          "Gráfica",
+          "DLSS"
+        ],
+        "Date": "2024-02-28T05:29:52.7076632-05:00",
+        "Update": "2024-07-10T19:37:57.5607657-04:00",
+        "Label": "Tarjeta de Video Asus Dual RTX 3050 6GB OC"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "2xFan",
+          "450WR",
+          "201mm",
+          "NVIDIA",
+          "GPU",
+          "Gráfica",
+          "DLSS"
+        ],
+        "Date": "2024-05-24T03:49:39.3140444-04:00",
+        "Update": "2024-07-10T19:39:41.1078404-04:00",
+        "Label": "Tarjeta de Video Asus Dual RTX 3050 6GB"
       }
     ],
     "Memoria RAM": [
