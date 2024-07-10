@@ -11,7 +11,7 @@
     "/images/products/kit-i5-12600kf-msi-mag-z790-tomahawk-wifi-ddr4-7.webp"
   ],
   "Description": "+ Micro Intel Core i5-12600KF\n+ Board MSI MAG Z790 TOMAHAWK WIFI DDR4\n",
-  "Price": 384.00,
+  "Price": 388.00,
   "Features": [
     "12Gen",
     "16 Hilos",
@@ -26,6 +26,5 @@
   ],
   "Date": "2024-07-01T04:52:12.4067676-04:00",
   "Update": "2024-07-01T07:39:23.2709215-04:00",
-  "Def": true,
   "Label": "Kit i5-12600KF +MSI MAG Z790 TOMAHAWK WIFI DDR4"
 }
