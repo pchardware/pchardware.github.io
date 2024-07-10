@@ -2902,26 +2902,6 @@
         "Label": "Board Gigabyte Z790 Eagle AX"
       },
       {
-        "Price": 149.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR4",
-          "5333mhz",
-          "9xVRM",
-          "5xUSB",
-          "HDMI",
-          "DisplayPort",
-          "VGA",
-          "4xSATA",
-          "LGA 1700",
-          "Micro ATX",
-          "MOBO"
-        ],
-        "Date": "2023-12-17T00:52:07.8205125-05:00",
-        "Update": "2024-05-02T09:37:04.8130279-04:00",
-        "Label": "Board Gigabyte B760M DS3H DDR4"
-      },
-      {
         "Price": 159.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -3004,28 +2984,6 @@
         "Label": "Board Gigabyte Z790 Aorus Elite AX"
       },
       {
-        "Price": 235.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR4",
-          "53330mhz",
-          "10xVRM",
-          "Wifi",
-          "Bluetooth",
-          "8xUSB",
-          "4xSATA",
-          "HDMI",
-          "DisplayPort",
-          "6xAudio",
-          "LGA 1700",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2024-07-09T10:47:38.8047241-04:00",
-        "Update": "2024-07-09T12:28:38.6893787-04:00",
-        "Label": "Board Gigabyte UD Z790 S Wifi DDR4"
-      },
-      {
         "Price": 290.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -3051,9 +3009,10 @@
         "Features": [
           "12Gen-13Gen-14Gen",
           "8xSATA",
+          "16VRM",
           "8xUSB",
           "DDR5",
-          "6800mhz",
+          "7200mhz",
           "LGA 1700",
           "ATX",
           "DisplayPort",
@@ -3062,7 +3021,7 @@
           "MOBO"
         ],
         "Date": "2023-07-26T18:48:46.1112283-04:00",
-        "Update": "2024-07-10T12:45:13.574262-04:00",
+        "Update": "2024-07-10T13:36:16.3095032-04:00",
         "Label": "ASRock Z790 PG RIPTIDE"
       },
       {
@@ -3073,7 +3032,6 @@
           "5333mhz",
           "13xVRM",
           "6xAudio",
-          "DDR4",
           "6xUSB",
           "HDMI",
           "PS2",
@@ -3082,14 +3040,33 @@
           "MOBO"
         ],
         "Date": "2023-10-19T09:32:16.7888545-04:00",
-        "Update": "2024-07-10T13:27:47.5381406-04:00",
+        "Update": "2024-07-10T13:38:42.5232251-04:00",
         "Label": "Board ASRock Z690 PG Riptide DDR4"
+      },
+      {
+        "Price": 149.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "5333mhz",
+          "9xVRM",
+          "5xUSB",
+          "HDMI",
+          "DisplayPort",
+          "VGA",
+          "4xSATA",
+          "LGA 1700",
+          "Micro ATX",
+          "MOBO"
+        ],
+        "Date": "2023-12-17T00:52:07.8205125-05:00",
+        "Update": "2024-07-10T13:38:42.5651348-04:00",
+        "Label": "Board Gigabyte B760M DS3H DDR4"
       },
       {
         "Price": 219.00,
         "Features": [
           "12Gen-13Gen-14Gen",
-          "53330mhz",
+          "5333mhz",
           "16xVRM",
           "Wifi",
           "Bluetooth",
@@ -3103,8 +3080,29 @@
           "MOBO"
         ],
         "Date": "2024-06-24T07:12:48.2494361-04:00",
-        "Update": "2024-07-10T13:27:47.5828347-04:00",
+        "Update": "2024-07-10T13:38:42.607174-04:00",
         "Label": "Board MSI MAG Z790 TOMAHAWK WIFI DDR4"
+      },
+      {
+        "Price": 235.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "5333mhz",
+          "10xVRM",
+          "Wifi",
+          "Bluetooth",
+          "8xUSB",
+          "4xSATA",
+          "HDMI",
+          "DisplayPort",
+          "6xAudio",
+          "LGA 1700",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2024-07-09T10:47:38.8047241-04:00",
+        "Update": "2024-07-10T13:38:42.6491962-04:00",
+        "Label": "Board Gigabyte UD Z790 S Wifi DDR4"
       }
     ],
     "Red": [
