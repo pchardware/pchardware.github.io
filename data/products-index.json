@@ -10,7 +10,7 @@
         "Label": "Torre RTX 4070 12GB +i9-12900K +Liquida +Strix Z790-H Gaming +32GB DDR5 +500GB M2 +850W"
       },
       {
-        "Price": 2917.00,
+        "Price": 2911.00,
         "Features": [],
         "Date": "2024-06-24T09:24:49.6531195-04:00",
         "Update": "2024-06-24T09:41:14.0269934-04:00",
@@ -80,7 +80,7 @@
         "Label": "Kit i9-12900K + MSI MEG Z690 ACE Potencia y estilo en un solo combo"
       },
       {
-        "Price": 571.00,
+        "Price": 575.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "20 Hilos",
@@ -101,7 +101,7 @@
         "Label": "Kit i7-12700K +Cooler Master Hyper 620S Dual +Gigabyte Z790 Eagle AX"
       },
       {
-        "Price": 551.00,
+        "Price": 555.00,
         "Features": [
           "12Gen",
           "20 Hilos",
@@ -122,7 +122,7 @@
         "Label": "Kit i7-12700K +MSI MEG Z690 ACE"
       },
       {
-        "Price": 691.00,
+        "Price": 695.00,
         "Features": [
           "12Gen",
           "20 Hilos",
@@ -143,7 +143,7 @@
         "Label": "Kit i7-12700K +MSI MEG Z690 ACE +32GB DDR5 Trident Z5 Neo RGB 6400mhz"
       },
       {
-        "Price": 781.00,
+        "Price": 785.00,
         "Features": [
           "12Gen",
           "20 Hilos",
@@ -238,7 +238,7 @@
         "Label": "Kit i5-12600KF +Hyper 620S Dual +MSI MEG Z690 ACE + 32GB DDR5 RGB 6400mhz"
       },
       {
-        "Price": 680.00,
+        "Price": 684.00,
         "Features": [
           "20 Hilos",
           "12 Core",
@@ -255,7 +255,7 @@
         "Label": "Kit i7-12700K +Hyper 212 Spectrum V3 +MSI Z790 Gaming Pro Wifi +32GB DDR5 RGB"
       },
       {
-        "Price": 511.00,
+        "Price": 515.00,
         "Features": [
           "12Gen",
           "20 Hilos",
@@ -274,7 +274,7 @@
         "Label": "Kit i7-12700K +Gigabyte Z790 Aorus Elite AX"
       },
       {
-        "Price": 601.00,
+        "Price": 605.00,
         "Features": [
           "12Gen",
           "20 Hilos",
@@ -295,7 +295,7 @@
     ],
     "Esencial": [
       {
-        "Price": 373.00,
+        "Price": 379.00,
         "Features": [
           "8 Hilos",
           "4 Core",
@@ -349,7 +349,7 @@
     ],
     "Entusiasta": [
       {
-        "Price": 994.00,
+        "Price": 988.00,
         "Features": [
           "14Gen",
           "24 Core",
@@ -2417,18 +2417,6 @@
         "Label": "RAM DDR5 Corsair Vengeance 16GB 5200mhz"
       },
       {
-        "Price": 59.00,
-        "Features": [
-          "1x16GB",
-          "5200mhz",
-          "CL38",
-          "Disipadas"
-        ],
-        "Date": "2024-06-24T07:12:14.4177241-04:00",
-        "Update": "2024-07-10T12:45:13.924015-04:00",
-        "Label": "RAM DDR5 XPG Lancer 16GB"
-      },
-      {
         "Price": 115.00,
         "Features": [
           "2x16GB",
@@ -2515,6 +2503,17 @@
         "Date": "2024-07-10T19:10:10.5172815-04:00",
         "Update": "2024-07-10T19:16:13.7558053-04:00",
         "Label": "RAM DDR4 G.Skill Ripjaws V 32GB 3600mhz"
+      },
+      {
+        "Price": 59.00,
+        "Features": [
+          "1x16GB",
+          "CL38",
+          "Disipadas"
+        ],
+        "Date": "2024-06-24T07:12:14.4177241-04:00",
+        "Update": "2024-07-10T19:21:58.0769012-04:00",
+        "Label": "RAM DDR5 XPG Lancer 16GB 5200mhz"
       }
     ],
     "Disco Sólido": [
@@ -3042,7 +3041,7 @@
         "Label": "Micro Intel Core i9-12900K"
       },
       {
-        "Price": 245.00,
+        "Price": 249.00,
         "Features": [
           "12Gen",
           "20 Hilos",
@@ -3078,7 +3077,7 @@
         "Label": "Micro Intel Core i5-12600KF"
       },
       {
-        "Price": 159.00,
+        "Price": 165.00,
         "Features": [
           "14Gen",
           "8 Hilos",
@@ -3095,7 +3094,7 @@
         "Label": "Micro Intel Core i3-14100 +Disipador"
       },
       {
-        "Price": 409.00,
+        "Price": 405.00,
         "Features": [
           "14Gen",
           "20 Core",
@@ -3113,7 +3112,7 @@
         "Label": "Micro Intel Core i7-14700K"
       },
       {
-        "Price": 595.00,
+        "Price": 589.00,
         "Features": [
           "14Gen",
           "24 Core",
@@ -3165,7 +3164,7 @@
         "Label": "Micro Intel Core i5-12400F +Disipador"
       },
       {
-        "Price": 525.00,
+        "Price": 519.00,
         "Features": [
           "13ra Gen",
           "32 Hilos",
@@ -3203,7 +3202,7 @@
         "Label": "Micro AMD Ryzen 9 7900X"
       },
       {
-        "Price": 140.00,
+        "Price": 139.00,
         "Features": [
           "12va Gen",
           "8 Hilos",
@@ -3240,7 +3239,7 @@
         "Label": "Micro AMD Ryzen 5 5600GT +Disipador"
       },
       {
-        "Price": 160.00,
+        "Price": 155.00,
         "Features": [
           "13ra Gen",
           "8 Hilos",
