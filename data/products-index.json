@@ -18,7 +18,7 @@
         "Label": "Torre RTX 4070 Ti 12GB +i9-14900K +Liquida +Strix Z790-F Gaming +32GB DDR5 +2TB M2 +1000W"
       },
       {
-        "Price": 1019.00,
+        "Price": 1023.00,
         "Features": [],
         "Date": "2024-07-09T01:06:13.8035791-04:00",
         "Update": "2024-07-09T01:12:57.7792824-04:00",
@@ -26,7 +26,7 @@
         "Label": "Torre RTX 3050 6GB OC +i5-12400F +Gigabyte B760M DS3H +32GB DDR4 +1TB M.2 +750W + Chasis RGB"
       },
       {
-        "Price": 1075.00,
+        "Price": 1079.00,
         "Features": [],
         "Date": "2024-07-09T07:40:53.2415493-04:00",
         "Update": "2024-07-09T08:01:00.8984121-04:00",
@@ -198,7 +198,7 @@
         "Label": "Kit i7-12700K +Hyper 620S Dual +MSI MEG Z690 ACE +32GB DDR5 RGB 6400mhz"
       },
       {
-        "Price": 384.00,
+        "Price": 388.00,
         "Features": [
           "12Gen",
           "16 Hilos",
@@ -213,7 +213,6 @@
         ],
         "Date": "2024-07-01T04:52:12.4067676-04:00",
         "Update": "2024-07-01T07:39:23.2709215-04:00",
-        "Def": true,
         "Label": "Kit i5-12600KF +MSI MAG Z790 TOMAHAWK WIFI DDR4"
       },
       {
@@ -254,7 +253,7 @@
         "Label": "Kit i5-12600KF +MSI MEG Z690 ACE"
       },
       {
-        "Price": 555.00,
+        "Price": 559.00,
         "Features": [
           "12Gen",
           "16 Hilos",
@@ -272,7 +271,6 @@
         "Date": "2024-07-01T05:11:17.0759418-04:00",
         "Update": "2024-07-01T07:39:23.3432403-04:00",
         "Discount": 3.0,
-        "Def": true,
         "Label": "Kit i5-12600KF +Hyper 620S Dual +MSI MAG Z790 TOMAHAWK +32GB DDR4 3600mhz"
       },
       {
@@ -352,7 +350,7 @@
     ],
     "Esencial": [
       {
-        "Price": 369.00,
+        "Price": 373.00,
         "Features": [
           "8 Hilos",
           "4 Core",
@@ -370,7 +368,7 @@
         "Label": "Kit i3-14100 +ASRock B760M PRO RS +16GB DDR5 Corsair Vengeance 5200mhz"
       },
       {
-        "Price": 284.00,
+        "Price": 288.00,
         "Features": [
           "14Gen",
           "8 Hilos",
@@ -387,7 +385,7 @@
         "Label": "Kit i3-14100F +Disipador +Gigabyte B760M DS3H DDR4"
       },
       {
-        "Price": 294.00,
+        "Price": 298.00,
         "Features": [
           "14Gen",
           "8 Hilos",
@@ -424,7 +422,7 @@
     ],
     "Moderado": [
       {
-        "Price": 300.00,
+        "Price": 304.00,
         "Features": [
           "12va Gen",
           "12 Hilos",
@@ -441,7 +439,7 @@
         "Label": "Kit i5-12400F +Disipador +Gigabyte B760M DS3H DDR4"
       },
       {
-        "Price": 310.00,
+        "Price": 314.00,
         "Features": [
           "12va Gen",
           "12 Hilos",
@@ -2904,7 +2902,7 @@
         "Label": "Board Gigabyte Z790 Eagle AX"
       },
       {
-        "Price": 145.00,
+        "Price": 149.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "DDR4",
@@ -2924,7 +2922,7 @@
         "Label": "Board Gigabyte B760M DS3H DDR4"
       },
       {
-        "Price": 155.00,
+        "Price": 159.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "DDR5",
@@ -2983,29 +2981,6 @@
         "Date": "2023-03-29T20:18:17.8757341-04:00",
         "Update": "2024-06-24T07:11:32.4831446-04:00",
         "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
-      },
-      {
-        "Price": 215.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR4",
-          "53330mhz",
-          "16xVRM",
-          "Wifi",
-          "Bluetooth",
-          "10xUSB",
-          "6xSATA",
-          "HDMI",
-          "DisplayPort",
-          "6xAudio",
-          "LGA 1700",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2024-06-24T07:12:48.2494361-04:00",
-        "Update": "2024-06-24T09:50:13.8035227-04:00",
-        "Def": true,
-        "Label": "Board MSI MAG Z790 TOMAHAWK WIFI DDR4"
       },
       {
         "Price": 269.00,
@@ -3091,11 +3066,12 @@
         "Label": "ASRock Z790 PG RIPTIDE"
       },
       {
-        "Price": 195.00,
+        "Price": 199.00,
         "Features": [
-          "12va-13ra-14ta",
+          "12Gen-13Gen-14Gen",
           "8xSATA",
-          "4800mhz",
+          "5333mhz",
+          "13xVRM",
           "6xAudio",
           "DDR4",
           "6xUSB",
@@ -3106,8 +3082,29 @@
           "MOBO"
         ],
         "Date": "2023-10-19T09:32:16.7888545-04:00",
-        "Update": "2024-07-10T12:45:13.6798624-04:00",
+        "Update": "2024-07-10T13:27:47.5381406-04:00",
         "Label": "Board ASRock Z690 PG Riptide DDR4"
+      },
+      {
+        "Price": 219.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "53330mhz",
+          "16xVRM",
+          "Wifi",
+          "Bluetooth",
+          "10xUSB",
+          "6xSATA",
+          "HDMI",
+          "DisplayPort",
+          "6xAudio",
+          "LGA 1700",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2024-06-24T07:12:48.2494361-04:00",
+        "Update": "2024-07-10T13:27:47.5828347-04:00",
+        "Label": "Board MSI MAG Z790 TOMAHAWK WIFI DDR4"
       }
     ],
     "Red": [
