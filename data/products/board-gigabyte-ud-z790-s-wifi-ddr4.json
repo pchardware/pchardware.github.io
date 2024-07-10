@@ -12,8 +12,7 @@
   "Price": 235.00,
   "Features": [
     "12Gen-13Gen-14Gen",
-    "DDR4",
-    "53330mhz",
+    "5333mhz",
     "10xVRM",
     "Wifi",
     "Bluetooth",
@@ -27,6 +26,6 @@
     "MOBO"
   ],
   "Date": "2024-07-09T10:47:38.8047241-04:00",
-  "Update": "2024-07-09T12:28:38.6893787-04:00",
+  "Update": "2024-07-10T13:38:42.6491962-04:00",
   "Label": "Board Gigabyte UD Z790 S Wifi DDR4"
 }
