@@ -1859,196 +1859,6 @@
         "Label": "Chasis Cougar Uniface S Black"
       }
     ],
-    "Memoria RAM": [
-      {
-        "Price": 145.00,
-        "Features": [
-          "2x32GB",
-          "CL22",
-          "Disipadas"
-        ],
-        "Date": "2023-12-28T14:07:45.8653331-05:00",
-        "Update": "2023-12-28T19:11:11.6570708-05:00",
-        "Label": "RAM DDR4 Crucial Pro 64GB 3200mhz"
-      },
-      {
-        "Price": 115.00,
-        "Features": [
-          "2x16GB",
-          "CL18",
-          "Disipadas"
-        ],
-        "Date": "2023-12-28T14:07:27.1052026-05:00",
-        "Update": "2024-01-28T13:12:19.9327608-05:00",
-        "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 4000mhz"
-      },
-      {
-        "Price": 175.00,
-        "Features": [
-          "2x32GB",
-          "CL18",
-          "Disipadas"
-        ],
-        "Date": "2023-12-28T14:07:23.8098728-05:00",
-        "Update": "2024-01-28T13:12:19.9574746-05:00",
-        "Label": "RAM DDR4 G.Skill TridentZ RGB 64GB 3600mhz"
-      },
-      {
-        "Price": 125.00,
-        "Features": [
-          "2x16GB",
-          "CL19",
-          "Disipadas"
-        ],
-        "Date": "2024-01-29T01:27:22.8011628-05:00",
-        "Update": "2024-01-29T01:30:46.7377262-05:00",
-        "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 4400mhz"
-      },
-      {
-        "Price": 37.00,
-        "Features": [
-          "1x8GB",
-          "CL16",
-          "Disipadas"
-        ],
-        "Date": "2024-02-16T14:41:51.7835873-05:00",
-        "Update": "2024-04-12T09:38:23.0745973-04:00",
-        "Label": "RAM DDR4 ADATA XPG Spectrix D41 RGB 8GB 3000mhz"
-      },
-      {
-        "Price": 139.00,
-        "Features": [
-          "2x16GB",
-          "CL32",
-          "Disipadas"
-        ],
-        "Date": "2024-03-07T09:33:05.0381701-05:00",
-        "Update": "2024-04-12T09:38:23.1491043-04:00",
-        "Label": "RAM DDR5 G.Skill Trident Z5 NEO RGB 32GB 6400mhz"
-      },
-      {
-        "Price": 39.00,
-        "Features": [
-          "1x8GB",
-          "CL16",
-          "Disipadas"
-        ],
-        "Date": "2024-02-16T14:41:55.9514851-05:00",
-        "Update": "2024-04-12T10:07:16.8222787-04:00",
-        "Label": "RAM DDR4 Team Group T-Force Delta 2 RGB 8GB 3200mhz White"
-      },
-      {
-        "Price": 155.00,
-        "Features": [
-          "2x16GB",
-          "CL34",
-          "Disipadas"
-        ],
-        "Date": "2024-04-11T02:50:27.6714995-04:00",
-        "Update": "2024-05-02T13:05:18.0136631-04:00",
-        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
-      },
-      {
-        "Price": 155.00,
-        "Features": [
-          "2x32GB",
-          "C18",
-          "Disipadas"
-        ],
-        "Date": "2024-02-16T14:42:16.5355631-05:00",
-        "Update": "2024-05-02T13:05:18.0552297-04:00",
-        "Label": "RAM DDR4 G.Skill Ripjaws V 64GB 3600mhz"
-      },
-      {
-        "Price": 59.00,
-        "Features": [
-          "1x16GB",
-          "CL40",
-          "Disipadas"
-        ],
-        "Date": "2024-05-06T23:38:17.6026307-04:00",
-        "Update": "2024-05-07T00:12:02.7983371-04:00",
-        "Label": "RAM DDR5 Corsair Vengeance 16GB 5200mhz"
-      },
-      {
-        "Price": 59.00,
-        "Features": [
-          "1x16GB",
-          "5200mhz",
-          "CL38",
-          "Disipadas"
-        ],
-        "Date": "2024-06-24T07:12:14.4177241-04:00",
-        "Update": "2024-07-10T12:45:13.924015-04:00",
-        "Label": "RAM DDR5 XPG Lancer 16GB"
-      },
-      {
-        "Price": 115.00,
-        "Features": [
-          "2x16GB",
-          "C30",
-          "Disipadas"
-        ],
-        "Date": "2024-06-24T07:13:00.3057292-04:00",
-        "Update": "2024-07-10T12:45:13.9603871-04:00",
-        "Label": "RAM DDR5 Team Group T-CREATE EXPERT 32GB 6000mhz"
-      },
-      {
-        "Price": 135.00,
-        "Features": [
-          "CL36",
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-03-30T09:56:12.5688722-04:00",
-        "Update": "2024-07-10T12:45:13.996107-04:00",
-        "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 6000mhz"
-      },
-      {
-        "Price": 235.00,
-        "Features": [
-          "CL40",
-          "2x32GB",
-          "Disipadas"
-        ],
-        "Date": "2024-07-09T10:47:49.373272-04:00",
-        "Update": "2024-07-10T12:45:14.0708453-04:00",
-        "Label": "RAM DDR5 Corsair Vengeance RGB 64GB 6000mhz"
-      },
-      {
-        "Price": 129.00,
-        "Features": [
-          "2x16GB",
-          "CL40",
-          "Disipadas"
-        ],
-        "Date": "2024-07-10T11:21:07.8375315-04:00",
-        "Update": "2024-07-10T12:45:14.2641737-04:00",
-        "Label": "RAM DDR5 PNY XLR8 MAKO 32GB RGB 6400mhz"
-      },
-      {
-        "Price": 119.00,
-        "Features": [
-          "2x16GB",
-          "CL40",
-          "Disipadas"
-        ],
-        "Date": "2024-07-10T11:21:11.9061683-04:00",
-        "Update": "2024-07-10T12:45:14.3111413-04:00",
-        "Label": "RAM DDR5 PNY XLR8 MAKO 32GB 6400mhz"
-      },
-      {
-        "Price": 49.00,
-        "Features": [
-          "1x16GB",
-          "C18",
-          "Disipada"
-        ],
-        "Date": "2024-07-10T18:54:45.0215826-04:00",
-        "Update": "2024-07-10T19:01:02.0151908-04:00",
-        "Label": "RAM DDR4 Corsair Vengeance LPX 16GB 3600mhz"
-      }
-    ],
     "Tarjeta Gráfica": [
       {
         "Price": 379.00,
@@ -2515,6 +2325,174 @@
         "Date": "2023-10-16T10:24:33.0618949-04:00",
         "Update": "2024-07-10T12:45:13.7828271-04:00",
         "Label": "Tarjeta de Video Gigabyte RX 7600 8GB"
+      }
+    ],
+    "Memoria RAM": [
+      {
+        "Price": 115.00,
+        "Features": [
+          "2x16GB",
+          "CL18",
+          "Disipadas"
+        ],
+        "Date": "2023-12-28T14:07:27.1052026-05:00",
+        "Update": "2024-01-28T13:12:19.9327608-05:00",
+        "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 4000mhz"
+      },
+      {
+        "Price": 175.00,
+        "Features": [
+          "2x32GB",
+          "CL18",
+          "Disipadas"
+        ],
+        "Date": "2023-12-28T14:07:23.8098728-05:00",
+        "Update": "2024-01-28T13:12:19.9574746-05:00",
+        "Label": "RAM DDR4 G.Skill TridentZ RGB 64GB 3600mhz"
+      },
+      {
+        "Price": 125.00,
+        "Features": [
+          "2x16GB",
+          "CL19",
+          "Disipadas"
+        ],
+        "Date": "2024-01-29T01:27:22.8011628-05:00",
+        "Update": "2024-01-29T01:30:46.7377262-05:00",
+        "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 4400mhz"
+      },
+      {
+        "Price": 37.00,
+        "Features": [
+          "1x8GB",
+          "CL16",
+          "Disipadas"
+        ],
+        "Date": "2024-02-16T14:41:51.7835873-05:00",
+        "Update": "2024-04-12T09:38:23.0745973-04:00",
+        "Label": "RAM DDR4 ADATA XPG Spectrix D41 RGB 8GB 3000mhz"
+      },
+      {
+        "Price": 139.00,
+        "Features": [
+          "2x16GB",
+          "CL32",
+          "Disipadas"
+        ],
+        "Date": "2024-03-07T09:33:05.0381701-05:00",
+        "Update": "2024-04-12T09:38:23.1491043-04:00",
+        "Label": "RAM DDR5 G.Skill Trident Z5 NEO RGB 32GB 6400mhz"
+      },
+      {
+        "Price": 39.00,
+        "Features": [
+          "1x8GB",
+          "CL16",
+          "Disipadas"
+        ],
+        "Date": "2024-02-16T14:41:55.9514851-05:00",
+        "Update": "2024-04-12T10:07:16.8222787-04:00",
+        "Label": "RAM DDR4 Team Group T-Force Delta 2 RGB 8GB 3200mhz White"
+      },
+      {
+        "Price": 155.00,
+        "Features": [
+          "2x16GB",
+          "CL34",
+          "Disipadas"
+        ],
+        "Date": "2024-04-11T02:50:27.6714995-04:00",
+        "Update": "2024-05-02T13:05:18.0136631-04:00",
+        "Label": "RAM DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz"
+      },
+      {
+        "Price": 59.00,
+        "Features": [
+          "1x16GB",
+          "CL40",
+          "Disipadas"
+        ],
+        "Date": "2024-05-06T23:38:17.6026307-04:00",
+        "Update": "2024-05-07T00:12:02.7983371-04:00",
+        "Label": "RAM DDR5 Corsair Vengeance 16GB 5200mhz"
+      },
+      {
+        "Price": 59.00,
+        "Features": [
+          "1x16GB",
+          "5200mhz",
+          "CL38",
+          "Disipadas"
+        ],
+        "Date": "2024-06-24T07:12:14.4177241-04:00",
+        "Update": "2024-07-10T12:45:13.924015-04:00",
+        "Label": "RAM DDR5 XPG Lancer 16GB"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "2x16GB",
+          "C30",
+          "Disipadas"
+        ],
+        "Date": "2024-06-24T07:13:00.3057292-04:00",
+        "Update": "2024-07-10T12:45:13.9603871-04:00",
+        "Label": "RAM DDR5 Team Group T-CREATE EXPERT 32GB 6000mhz"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "CL36",
+          "2x16GB",
+          "Disipadas"
+        ],
+        "Date": "2023-03-30T09:56:12.5688722-04:00",
+        "Update": "2024-07-10T12:45:13.996107-04:00",
+        "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 6000mhz"
+      },
+      {
+        "Price": 235.00,
+        "Features": [
+          "CL40",
+          "2x32GB",
+          "Disipadas"
+        ],
+        "Date": "2024-07-09T10:47:49.373272-04:00",
+        "Update": "2024-07-10T12:45:14.0708453-04:00",
+        "Label": "RAM DDR5 Corsair Vengeance RGB 64GB 6000mhz"
+      },
+      {
+        "Price": 129.00,
+        "Features": [
+          "2x16GB",
+          "CL40",
+          "Disipadas"
+        ],
+        "Date": "2024-07-10T11:21:07.8375315-04:00",
+        "Update": "2024-07-10T12:45:14.2641737-04:00",
+        "Label": "RAM DDR5 PNY XLR8 MAKO 32GB RGB 6400mhz"
+      },
+      {
+        "Price": 119.00,
+        "Features": [
+          "2x16GB",
+          "CL40",
+          "Disipadas"
+        ],
+        "Date": "2024-07-10T11:21:11.9061683-04:00",
+        "Update": "2024-07-10T12:45:14.3111413-04:00",
+        "Label": "RAM DDR5 PNY XLR8 MAKO 32GB 6400mhz"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "1x16GB",
+          "C18",
+          "Disipada"
+        ],
+        "Date": "2024-07-10T18:54:45.0215826-04:00",
+        "Update": "2024-07-10T19:01:02.0151908-04:00",
+        "Label": "RAM DDR4 Corsair Vengeance LPX 16GB 3600mhz"
       }
     ],
     "Disco Sólido": [
