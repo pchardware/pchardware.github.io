@@ -3939,20 +3939,6 @@
     ],
     "Monitor": [
       {
-        "Price": 235.00,
-        "Features": [
-          "8Bits",
-          "FRC",
-          "350nit",
-          "FHD",
-          "Flat",
-          "1080p"
-        ],
-        "Date": "2023-12-28T14:08:53.0334804-05:00",
-        "Update": "2024-01-18T10:29:16.5258104-05:00",
-        "Label": "Monitor AOC 24\" 165Hz VA 1ms"
-      },
-      {
         "Price": 239.00,
         "Features": [
           "8Bits",
@@ -3999,24 +3985,6 @@
         "Label": "Monitor Acer Nitro 27\" 1440p Curvo 170Hz 1ms VA SPK"
       },
       {
-        "Price": 229.00,
-        "Features": [
-          "HDR10",
-          "8Bit",
-          "Gaming",
-          "FRC",
-          "DP",
-          "1080p",
-          "FHD",
-          "Flat",
-          "250nit"
-        ],
-        "Date": "2023-07-09T16:44:32.5135505-04:00",
-        "Update": "2024-07-09T17:37:26.2479608-04:00",
-        "Def": true,
-        "Label": "Monitor Acer Nitro 24\" VA 165Hz 1ms SPK"
-      },
-      {
         "Price": 269.00,
         "Features": [
           "Gaming",
@@ -4045,6 +4013,43 @@
         "Date": "2024-07-09T10:47:43.4241347-04:00",
         "Update": "2024-07-09T17:51:46.3253919-04:00",
         "Label": "Monitor AOpen FireLegend 24\" VA 100Hz 1ms"
+      },
+      {
+        "Price": 235.00,
+        "Features": [
+          "8Bits",
+          "FRC",
+          "350nit",
+          "Gaming",
+          "DP",
+          "2xHDMI",
+          "VGA",
+          "FHD",
+          "Flat",
+          "1080p"
+        ],
+        "Date": "2023-12-28T14:08:53.0334804-05:00",
+        "Update": "2024-07-10T20:07:51.7497307-04:00",
+        "Label": "Monitor AOC 24\" VA 165Hz 1ms"
+      },
+      {
+        "Price": 229.00,
+        "Features": [
+          "HDR10",
+          "8Bit",
+          "Gaming",
+          "FRC",
+          "Speakers",
+          "DP",
+          "1080p",
+          "FHD",
+          "Flat",
+          "250nit"
+        ],
+        "Date": "2023-07-09T16:44:32.5135505-04:00",
+        "Update": "2024-07-10T20:07:51.7850186-04:00",
+        "Def": true,
+        "Label": "Monitor Acer Nitro 24\" VA 165Hz 1ms"
       }
     ],
     "Impresora": [
