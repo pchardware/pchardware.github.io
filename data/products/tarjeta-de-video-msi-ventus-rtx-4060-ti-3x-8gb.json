@@ -10,7 +10,7 @@
     "/images/products/tarjeta-de-video-msi-ventus-rtx-4060-ti-3x-8gb-6.webp"
   ],
   "Description": "Model\nBrand: MSI\nSeries: Ventus\nModel: RTX 4060 Ti VENTUS 3X 8G OC\n\n\nInterface\nInterface: PCI Express 4.0 x8\n\n\nChipset\nChipset Manufacturer: NVIDIA\nGPU Series: NVIDIA GeForce RTX 40 Series\nGPU: GeForce RTX 4060 Ti\nCUDA Cores: 4352 Cores\n\n\nMemory\nEffective Memory Clock: 18000 MHz (18 Gbps)\nMemory Size: 8GB\nMemory Interface: 128-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12 Ultimate\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 1 x HDMI 2.1a\nDisplayPort: 3 x DisplayPort 1.4a\n\n\nDetails\nMax Resolution: 7680 x 4320\nCooler: Triple Fans\nThermal Design Power: 160W\nRecommended PSU Wattage: 550W\nPower Connector: 8-Pin\nHDCP Ready: Yes\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 308 mm",
-  "Price": 485.00,
+  "Price": 465.00,
   "Features": [
     "DLSS3",
     "3xfan",
