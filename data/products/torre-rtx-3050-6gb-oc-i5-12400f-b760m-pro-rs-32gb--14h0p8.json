@@ -1,0 +1,21 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/torre-rtx-3050-6gb-oc-i5-12400f-b760m-pro-rs-32gb--14h0p8-1.webp",
+    "/images/products/torre-rtx-3050-6gb-oc-i5-12400f-b760m-pro-rs-32gb--14h0p8-2.webp",
+    "/images/products/torre-rtx-3050-6gb-oc-i5-12400f-b760m-pro-rs-32gb--14h0p8-3.webp",
+    "/images/products/torre-rtx-3050-6gb-oc-i5-12400f-b760m-pro-rs-32gb--14h0p8-4.webp",
+    "/images/products/torre-rtx-3050-6gb-oc-i5-12400f-b760m-pro-rs-32gb--14h0p8-5.webp",
+    "/images/products/torre-rtx-3050-6gb-oc-i5-12400f-b760m-pro-rs-32gb--14h0p8-6.webp",
+    "/images/products/torre-rtx-3050-6gb-oc-i5-12400f-b760m-pro-rs-32gb--14h0p8-7.webp",
+    "/images/products/torre-rtx-3050-6gb-oc-i5-12400f-b760m-pro-rs-32gb--14h0p8-8.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12400F +Disipador\n+ Board ASRock B760M PRO RS\n+ RAM DDR5 G.Skill Trident Z5 NEO RGB 32GB 6400mhz\n+ SSD M.2 AData Legend 850 1TB\n+ Tarjeta de Video Asus Dual RTX 3050 6GB OC\n+ Fuente Thermaltake SMART 600W 80+\n+ Chasis Cougar Archon 2 Mesh RGB White\n",
+  "Price": 1049.00,
+  "Features": [],
+  "Date": "2024-07-11T09:44:13.6150846-04:00",
+  "Update": "2024-07-11T10:19:17.8917481-04:00",
+  "Discount": 6.0,
+  "Label": "Torre RTX 3050 6GB OC +i5-12400F +B760M PRO RS +32GB DDR5 +1TB M2 +600W +Chasis RGB"
+}
