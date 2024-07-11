@@ -3937,121 +3937,6 @@
         "Label": "Mouse Corsair IRONCLAW RGB Wireless"
       }
     ],
-    "Monitor": [
-      {
-        "Price": 239.00,
-        "Features": [
-          "8Bits",
-          "FRC",
-          "FHD",
-          "250nit",
-          "FLAT",
-          "DP",
-          "HDMI",
-          "Speakers"
-        ],
-        "Date": "2024-02-28T05:29:58.139187-05:00",
-        "Update": "2024-02-28T07:53:53.7454237-05:00",
-        "Label": "Monitor AOpen FireLegend 24\" IPS 180Hz 1ms"
-      },
-      {
-        "Price": 255.00,
-        "Features": [
-          "FHD",
-          "8Bits",
-          "FRC",
-          "1080p",
-          "250nit",
-          "DP",
-          "Flat"
-        ],
-        "Date": "2024-01-18T07:09:18.7560023-05:00",
-        "Update": "2024-04-10T12:11:14.6188968-04:00",
-        "Label": "Monitor Asus TUF 24\" 165Hz IPS 1ms SPK"
-      },
-      {
-        "Price": 329.00,
-        "Features": [
-          "8Bit",
-          "HDR10",
-          "Gaming",
-          "QHD",
-          "2K",
-          "DP",
-          "250nit"
-        ],
-        "Date": "2023-12-07T22:24:09.640104-05:00",
-        "Update": "2024-06-01T18:38:46.1452141-04:00",
-        "Label": "Monitor Acer Nitro 27\" 1440p Curvo 170Hz 1ms VA SPK"
-      },
-      {
-        "Price": 269.00,
-        "Features": [
-          "Gaming",
-          "300nit",
-          "VGA",
-          "HDMI",
-          "1080p",
-          "FHD",
-          "Flat"
-        ],
-        "Date": "2024-07-09T10:48:54.2971047-04:00",
-        "Update": "2024-07-09T17:50:53.5129139-04:00",
-        "Label": "Monitor MSI Pro 27\" 100Hz IPS 1ms SPK"
-      },
-      {
-        "Price": 185.00,
-        "Features": [
-          "Gaming",
-          "VGA",
-          "HDMI",
-          "1080p",
-          "FHD",
-          "Flat",
-          "250nit"
-        ],
-        "Date": "2024-07-09T10:47:43.4241347-04:00",
-        "Update": "2024-07-09T17:51:46.3253919-04:00",
-        "Label": "Monitor AOpen FireLegend 24\" VA 100Hz 1ms"
-      },
-      {
-        "Price": 235.00,
-        "Features": [
-          "8Bits",
-          "FRC",
-          "350nit",
-          "Gaming",
-          "DP",
-          "2xHDMI",
-          "VGA",
-          "FHD",
-          "Flat",
-          "1080p"
-        ],
-        "Date": "2023-12-28T14:08:53.0334804-05:00",
-        "Update": "2024-07-10T20:07:51.7497307-04:00",
-        "Label": "Monitor AOC 24\" VA 165Hz 1ms"
-      },
-      {
-        "Price": 229.00,
-        "Features": [
-          "HDR10",
-          "8Bit",
-          "Gaming",
-          "FRC",
-          "Speakers",
-          "DP",
-          "1080p",
-          "FHD",
-          "Flat",
-          "250nit"
-        ],
-        "Date": "2023-07-09T16:44:32.5135505-04:00",
-        "Update": "2024-07-10T20:07:51.7850186-04:00",
-        "Def": true,
-        "Label": "Monitor Acer Nitro 24\" VA 165Hz 1ms"
-      }
-    ],
     "Impresora": [
       {
         "Price": 545.00,
@@ -4196,6 +4081,129 @@
         "Date": "2024-06-01T15:56:17.4134549-04:00",
         "Update": "2024-06-01T16:41:03.0740341-04:00",
         "Label": "Silla Devoko Ergonomic Gaming RED"
+      }
+    ],
+    "Monitor": [
+      {
+        "Price": 235.00,
+        "Features": [
+          "8Bits",
+          "FRC",
+          "350nit",
+          "Gaming",
+          "DP",
+          "2xHDMI",
+          "VGA",
+          "FHD",
+          "Flat",
+          "1080p"
+        ],
+        "Date": "2023-12-28T14:08:53.0334804-05:00",
+        "Update": "2024-07-10T20:07:51.7497307-04:00",
+        "Label": "Monitor AOC 24\" VA 165Hz 1ms"
+      },
+      {
+        "Price": 239.00,
+        "Features": [
+          "8Bits",
+          "FRC",
+          "Speakers",
+          "DP",
+          "HDMI",
+          "FHD",
+          "250nit",
+          "FLAT"
+        ],
+        "Date": "2024-02-28T05:29:58.139187-05:00",
+        "Update": "2024-07-10T20:16:01.6546731-04:00",
+        "Label": "Monitor AOpen FireLegend 24\" IPS 180Hz 1ms"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "FHD",
+          "8Bits",
+          "FRC",
+          "DP",
+          "2xHDMI",
+          "Speakers",
+          "Gaming",
+          "1080p",
+          "250nit",
+          "Flat"
+        ],
+        "Date": "2024-01-18T07:09:18.7560023-05:00",
+        "Update": "2024-07-10T20:16:01.6877992-04:00",
+        "Label": "Monitor Asus TUF 24\" 165Hz IPS 1ms"
+      },
+      {
+        "Price": 329.00,
+        "Features": [
+          "8Bit",
+          "HDR10",
+          "QHD",
+          "2K",
+          "DP",
+          "HDMI",
+          "Speakers",
+          "Gaming",
+          "1500R",
+          "250nit"
+        ],
+        "Date": "2023-12-07T22:24:09.640104-05:00",
+        "Update": "2024-07-10T20:16:01.7255476-04:00",
+        "Label": "Monitor Acer Nitro 27\" VA 1440p Curvo 170Hz 1ms"
+      },
+      {
+        "Price": 229.00,
+        "Features": [
+          "HDR10",
+          "8Bit",
+          "Gaming",
+          "FRC",
+          "Speakers",
+          "DP",
+          "2xHDMI",
+          "1080p",
+          "FHD",
+          "Flat",
+          "250nit"
+        ],
+        "Date": "2023-07-09T16:44:32.5135505-04:00",
+        "Update": "2024-07-10T20:16:01.7614656-04:00",
+        "Def": true,
+        "Label": "Monitor Acer Nitro 24\" VA 165Hz 1ms"
+      },
+      {
+        "Price": 269.00,
+        "Features": [
+          "300nit",
+          "Speakers",
+          "HDMI",
+          "VGA",
+          "Gaming",
+          "1080p",
+          "FHD",
+          "Flat"
+        ],
+        "Date": "2024-07-09T10:48:54.2971047-04:00",
+        "Update": "2024-07-10T20:16:01.7970976-04:00",
+        "Label": "Monitor MSI Pro 27\" IPS 100Hz 1ms"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "Gaming",
+          "1080p",
+          "FHD",
+          "HDMI",
+          "VGA",
+          "Flat",
+          "250nit"
+        ],
+        "Date": "2024-07-09T10:47:43.4241347-04:00",
+        "Update": "2024-07-10T20:16:01.8327612-04:00",
+        "Label": "Monitor AOpen FireLegend 24\" VA 100Hz 1ms"
       }
     ]
   }
