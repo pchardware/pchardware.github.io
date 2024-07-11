@@ -2,7 +2,7 @@
   "Torres": {
     "Gamer": [
       {
-        "Price": 2401.00,
+        "Price": 2367.00,
         "Features": [],
         "Date": "2024-06-24T09:30:06.6830261-04:00",
         "Update": "2024-06-24T09:40:12.9638753-04:00",
@@ -10,7 +10,7 @@
         "Label": "Torre RTX 4070 12GB +i9-12900K +Liquida +Strix Z790-H Gaming +32GB DDR5 +500GB M2 +850W"
       },
       {
-        "Price": 2911.00,
+        "Price": 2891.00,
         "Features": [],
         "Date": "2024-06-24T09:24:49.6531195-04:00",
         "Update": "2024-06-24T09:41:14.0269934-04:00",
@@ -36,7 +36,7 @@
     ],
     "Pro": [
       {
-        "Price": 1833.00,
+        "Price": 1829.00,
         "Features": [],
         "Date": "2024-07-09T07:44:15.1904619-04:00",
         "Update": "2024-07-09T08:01:00.9872922-04:00",
@@ -1387,7 +1387,7 @@
         "Label": "Fan Corsair AF120 White LED 120mm"
       },
       {
-        "Price": 43.00,
+        "Price": 37.00,
         "Features": [
           "PCIe x1",
           "Alimentación SATA",
@@ -1431,7 +1431,7 @@
         "Label": "Fan Uphere 12BK3 120mm"
       },
       {
-        "Price": 55.00,
+        "Price": 49.00,
         "Features": [
           "6Gbs",
           "SATA 3",
@@ -1454,7 +1454,7 @@
         "Label": "Fan KIT Thermalright ARGB 3x120mm"
       },
       {
-        "Price": 80.00,
+        "Price": 79.00,
         "Features": [
           "3xFan",
           "1900rpm",
@@ -1467,7 +1467,7 @@
         "Label": "Fan KIT Asus TUF Gaming TF120 ARGB 3x120mm +Controller"
       },
       {
-        "Price": 90.00,
+        "Price": 89.00,
         "Features": [
           "Hydraulic",
           "3xFan",
@@ -1861,7 +1861,7 @@
     ],
     "Tarjeta Gráfica": [
       {
-        "Price": 379.00,
+        "Price": 385.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -1895,7 +1895,7 @@
         "Label": "Tarjeta de Video EVGA RTX 3080Ti XC3 Hydro Copper 12GB"
       },
       {
-        "Price": 579.00,
+        "Price": 575.00,
         "Features": [
           "2xFan",
           "700WR",
@@ -1910,7 +1910,7 @@
         "Label": "Tarjeta de Video Saphire RX 7800 XT 16GB"
       },
       {
-        "Price": 485.00,
+        "Price": 465.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -1927,7 +1927,7 @@
         "Label": "Tarjeta de Video MSI Ventus RTX 4060 Ti 3X 8GB"
       },
       {
-        "Price": 839.00,
+        "Price": 835.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -1944,7 +1944,7 @@
         "Label": "Tarjeta de Video Gigabyte Aorus RTX 4070 Super Master 12GB"
       },
       {
-        "Price": 985.00,
+        "Price": 975.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -1977,7 +1977,7 @@
         "Label": "Tarjeta de Video MSI RTX 3050 Ventus 2X OC 6GB"
       },
       {
-        "Price": 425.00,
+        "Price": 419.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2027,7 +2027,7 @@
         "Label": "Tarjeta de Video XFX Speedster Swift 210 RX 6650 XT Core 8GB"
       },
       {
-        "Price": 589.00,
+        "Price": 585.00,
         "Features": [
           "3xFan",
           "1x8Pin",
@@ -2061,7 +2061,7 @@
         "Label": "Tarjeta de Video Asus ProArt RTX 4060 OC 8GB"
       },
       {
-        "Price": 695.00,
+        "Price": 689.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2095,7 +2095,7 @@
         "Label": "Tarjeta de Video Asus ROG Strix RTX 4060 OC 8GB"
       },
       {
-        "Price": 465.00,
+        "Price": 459.00,
         "Features": [
           "3xFan",
           "2x8Pin",
@@ -2162,7 +2162,7 @@
         "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 Eagle WindForce 3X 8GB"
       },
       {
-        "Price": 775.00,
+        "Price": 769.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2179,7 +2179,7 @@
         "Label": "Tarjeta de Video Asus TUF Gaming RTX 4070 SUPER OC 12GB"
       },
       {
-        "Price": 769.00,
+        "Price": 735.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2196,7 +2196,7 @@
         "Label": "Tarjeta de Video Asus ROG Strix RTX 4070 12GB"
       },
       {
-        "Price": 979.00,
+        "Price": 959.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2213,7 +2213,7 @@
         "Label": "Tarjeta de Video Asus ROG Strix RTX 4070 Ti 12GB"
       },
       {
-        "Price": 385.00,
+        "Price": 389.00,
         "Features": [
           "2xFan",
           "8GB",
@@ -2231,7 +2231,7 @@
         "Label": "Tarjeta de Video MSI RTX 4060 Gaming X"
       },
       {
-        "Price": 469.00,
+        "Price": 455.00,
         "Features": [
           "2xFan",
           "8GB",
@@ -2246,7 +2246,7 @@
         "Label": "Tarjeta de Video Asus Dual RTX 4060Ti OC"
       },
       {
-        "Price": 415.00,
+        "Price": 399.00,
         "Features": [
           "3xFan",
           "DLSS3",
@@ -3006,7 +3006,7 @@
         "Label": "Tarjeta de Red Fenvi Wireless 1200 Dual Band +Bluetooh"
       },
       {
-        "Price": 43.00,
+        "Price": 39.00,
         "Features": [
           "PCIe x1",
           "Wifi",
