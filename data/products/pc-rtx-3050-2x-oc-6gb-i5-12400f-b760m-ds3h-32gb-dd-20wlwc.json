@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-rtx-3050-2x-oc-6gb-i5-12400f-b760m-ds3h-32gb-dd-20wlwc-1.webp",
+    "/images/products/pc-rtx-3050-2x-oc-6gb-i5-12400f-b760m-ds3h-32gb-dd-20wlwc-2.webp",
+    "/images/products/pc-rtx-3050-2x-oc-6gb-i5-12400f-b760m-ds3h-32gb-dd-20wlwc-3.webp",
+    "/images/products/pc-rtx-3050-2x-oc-6gb-i5-12400f-b760m-ds3h-32gb-dd-20wlwc-4.webp",
+    "/images/products/pc-rtx-3050-2x-oc-6gb-i5-12400f-b760m-ds3h-32gb-dd-20wlwc-5.webp",
+    "/images/products/pc-rtx-3050-2x-oc-6gb-i5-12400f-b760m-ds3h-32gb-dd-20wlwc-6.webp",
+    "/images/products/pc-rtx-3050-2x-oc-6gb-i5-12400f-b760m-ds3h-32gb-dd-20wlwc-7.webp",
+    "/images/products/pc-rtx-3050-2x-oc-6gb-i5-12400f-b760m-ds3h-32gb-dd-20wlwc-8.webp",
+    "/images/products/pc-rtx-3050-2x-oc-6gb-i5-12400f-b760m-ds3h-32gb-dd-20wlwc-9.webp",
+    "/images/products/pc-rtx-3050-2x-oc-6gb-i5-12400f-b760m-ds3h-32gb-dd-20wlwc-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12400F +Disipador\n+ Board Gigabyte B760M DS3H DDR4\n+ 2x RAM DDR4 Corsair Vengeance LPX 16GB 3600mhz\n+ SSD M.2 Patriot P300 512GB\n+ Tarjeta de Video MSI RTX 3050 Ventus 2X OC 6GB\n+ Fuente Thermaltake SMART 600W 80+\n+ Chasis Cougar Archon 2 Mesh RGB White\n+ Monitor AOpen FireLegend 24\" VA 100Hz 1ms\n+ COMBO Teclado MSI Forge GK100 + Mouse\n",
+  "Price": 1215.00,
+  "Features": [],
+  "Date": "2024-07-13T02:08:23.7084209-04:00",
+  "Update": "2024-07-13T02:20:22.6076239-04:00",
+  "Discount": 23.0,
+  "Label": "PC RTX 3050 2X OC 6GB +i5-12400F +B760M DS3H +32GB DDR4 +512GB M2 +600W +Monitor 24\""
+}
