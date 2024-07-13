@@ -85,6 +85,16 @@
         "Discount": 9.0,
         "Label": "Torre i3-12100 +B760M DS3H +8GB DDR4 +250GB M.2 +600W +Chasis RGB White"
       }
+    ],
+    "Entusiasta": [
+      {
+        "Price": 3169.00,
+        "Features": [],
+        "Date": "2024-07-13T01:52:17.0525507-04:00",
+        "Update": "2024-07-13T01:56:48.0023438-04:00",
+        "Discount": 29.0,
+        "Label": "Torre RTX 4070 Ti 12GB +i9-14900K +Liquida +Strix Z790-H Gaming +64GB DDR5 +1TB M2 +1000W"
+      }
     ]
   },
   "Kits": {
