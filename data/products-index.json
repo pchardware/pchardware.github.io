@@ -32,14 +32,6 @@
   "Torres": {
     "Gamer": [
       {
-        "Price": 2367.00,
-        "Features": [],
-        "Date": "2024-06-24T09:30:06.6830261-04:00",
-        "Update": "2024-06-24T09:40:12.9638753-04:00",
-        "Discount": 22.0,
-        "Label": "Torre RTX 4070 12GB +i9-12900K +Liquida +Strix Z790-H Gaming +32GB DDR5 +500GB M2 +850W"
-      },
-      {
         "Price": 2891.00,
         "Features": [],
         "Date": "2024-06-24T09:24:49.6531195-04:00",
@@ -2655,19 +2647,6 @@
         "Label": "SSD M.2 WD Blue SN580 2TB"
       },
       {
-        "Price": 79.00,
-        "Features": [
-          "7100mbs",
-          "350TBW",
-          "HeatSink",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2024-01-30T08:59:41.0005017-05:00",
-        "Update": "2024-05-02T11:18:30.6036018-04:00",
-        "Label": "SSD M.2 Corsair MP600 PRO LPX 500GB"
-      },
-      {
         "Price": 135.00,
         "Features": [
           "3600mbs",
@@ -3476,20 +3455,6 @@
         "Date": "2024-02-20T04:08:15.7576333-05:00",
         "Update": "2024-02-20T07:14:58.417012-05:00",
         "Label": "Teclado Logitech G413 SE"
-      },
-      {
-        "Price": 85.00,
-        "Features": [
-          "Mecánico",
-          "80%",
-          "RGB",
-          "Mystical Ligth",
-          "Gaming"
-        ],
-        "Date": "2024-04-20T12:17:58.1586146-04:00",
-        "Update": "2024-04-22T07:44:58.3868017-04:00",
-        "Def": true,
-        "Label": "Teclado MSI Vigor GK50 Elite TKL LL"
       },
       {
         "Price": 75.00,
