@@ -2209,25 +2209,6 @@
         "Label": "Tarjeta de Video MSI Ventus RTX 3050 2X XS 8GB OC"
       },
       {
-        "Price": 379.00,
-        "Features": [
-          "DLSS3",
-          "2xFan",
-          "1x8Pin",
-          "550WR",
-          "227mm",
-          "3xDisplay Port",
-          "1xHDMI",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-05-06T23:38:13.6605873-04:00",
-        "Update": "2024-05-07T00:12:02.7808898-04:00",
-        "Label": "Tarjeta de Video Asus Dual RTX 4060 EVO 8GB OC"
-      },
-      {
         "Price": 265.00,
         "Features": [
           "3xFan",
@@ -2430,17 +2411,6 @@
         "Date": "2023-12-28T14:07:23.8098728-05:00",
         "Update": "2024-01-28T13:12:19.9574746-05:00",
         "Label": "RAM DDR4 G.Skill TridentZ RGB 64GB 3600mhz"
-      },
-      {
-        "Price": 125.00,
-        "Features": [
-          "2x16GB",
-          "CL19",
-          "Disipadas"
-        ],
-        "Date": "2024-01-29T01:27:22.8011628-05:00",
-        "Update": "2024-01-29T01:30:46.7377262-05:00",
-        "Label": "RAM DDR4 G.Skill TridentZ RGB 32GB 4400mhz"
       },
       {
         "Price": 37.00,
