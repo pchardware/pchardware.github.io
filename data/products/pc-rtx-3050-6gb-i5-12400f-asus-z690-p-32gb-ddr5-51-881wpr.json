@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-rtx-3050-6gb-i5-12400f-asus-z690-p-32gb-ddr5-51-881wpr-1.webp",
+    "/images/products/pc-rtx-3050-6gb-i5-12400f-asus-z690-p-32gb-ddr5-51-881wpr-2.webp",
+    "/images/products/pc-rtx-3050-6gb-i5-12400f-asus-z690-p-32gb-ddr5-51-881wpr-3.webp",
+    "/images/products/pc-rtx-3050-6gb-i5-12400f-asus-z690-p-32gb-ddr5-51-881wpr-4.webp",
+    "/images/products/pc-rtx-3050-6gb-i5-12400f-asus-z690-p-32gb-ddr5-51-881wpr-5.webp",
+    "/images/products/pc-rtx-3050-6gb-i5-12400f-asus-z690-p-32gb-ddr5-51-881wpr-6.webp",
+    "/images/products/pc-rtx-3050-6gb-i5-12400f-asus-z690-p-32gb-ddr5-51-881wpr-7.webp",
+    "/images/products/pc-rtx-3050-6gb-i5-12400f-asus-z690-p-32gb-ddr5-51-881wpr-8.webp",
+    "/images/products/pc-rtx-3050-6gb-i5-12400f-asus-z690-p-32gb-ddr5-51-881wpr-9.webp",
+    "/images/products/pc-rtx-3050-6gb-i5-12400f-asus-z690-p-32gb-ddr5-51-881wpr-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12400F +Disipador\n+ Board Asus Prime Z690-P\n+ 2x RAM DDR5 Corsair Vengeance 16GB 5200mhz\n+ SSD M.2 Patriot P300 512GB\n+ Tarjeta de Video Asus Dual RTX 3050 6GB\n+ Fuente Apevia Spirit 600W\n+ Chasis Cougar Archon 2 Mesh RGB White\n+ Monitor AOpen FireLegend 24\" VA 100Hz 1ms\n+ COMBO Teclado MSI Forge GK100 + Mouse\n",
+  "Price": 1299.00,
+  "Features": [],
+  "Date": "2024-07-16T08:58:19.189849-04:00",
+  "Update": "2024-07-16T09:13:58.6910188-04:00",
+  "Discount": 11.0,
+  "Label": "PC RTX 3050 6GB +i5-12400F +Asus Z690-P +32GB DDR5 +512GB M2 +600W + Monitor 24\""
+}
