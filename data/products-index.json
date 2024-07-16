@@ -8,14 +8,6 @@
         "Update": "2024-07-13T02:20:22.5643382-04:00",
         "Discount": 23.0,
         "Label": "PC i3-12100 +B760M DS3H +8GB DDR4 +512GB M2 +600W +Monitor 24\" +Raton y Teclado"
-      },
-      {
-        "Price": 1089.00,
-        "Features": [],
-        "Date": "2024-07-13T02:11:35.3460864-04:00",
-        "Update": "2024-07-13T02:20:22.6465558-04:00",
-        "Discount": 24.0,
-        "Label": "PC i3-14100 +B760M PRO RS +32GB DDR5 +1TB M2 +750W +Monitor 24\" +Raton y Teclado"
       }
     ],
     "Gamer": [
@@ -375,60 +367,6 @@
         "Label": "Kit i7-12700K +Cooler Master Hyper 620S Dual +Gigabyte Z790 Aorus Elite AX"
       }
     ],
-    "Esencial": [
-      {
-        "Price": 379.00,
-        "Features": [
-          "8 Hilos",
-          "4 Core",
-          "4.7GHz",
-          "1x8GB",
-          "3200mhz",
-          "Disipadas",
-          "5333mhz",
-          "4xSATA",
-          "5xUSB"
-        ],
-        "Date": "2024-05-06T12:05:16.7932965-04:00",
-        "Update": "2024-05-24T04:03:55.9487895-04:00",
-        "Discount": 4.0,
-        "Label": "Kit i3-14100 +ASRock B760M PRO RS +16GB DDR5 Corsair Vengeance 5200mhz"
-      },
-      {
-        "Price": 288.00,
-        "Features": [
-          "14Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.7GHz",
-          "DDR4",
-          "5333mhz",
-          "9xVRM",
-          "5xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-06-30T08:36:59.6042603-04:00",
-        "Update": "2024-06-30T10:08:12.9214372-04:00",
-        "Label": "Kit i3-14100F +Disipador +Gigabyte B760M DS3H DDR4"
-      },
-      {
-        "Price": 298.00,
-        "Features": [
-          "14Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.7GHz",
-          "DDR4",
-          "5333mhz",
-          "9xVRM",
-          "5xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-06-30T09:59:35.8077836-04:00",
-        "Update": "2024-06-30T10:08:12.9609644-04:00",
-        "Label": "Kit i3-14100F +Disipador +ASRock B760M PRO RS"
-      }
-    ],
     "Entusiasta": [
       {
         "Price": 988.00,
@@ -481,6 +419,42 @@
         "Date": "2024-06-30T08:37:19.9960773-04:00",
         "Update": "2024-06-30T10:08:12.9405996-04:00",
         "Label": "Kit i5-12400F +Disipador +ASRock B760M PRO RS"
+      }
+    ],
+    "Esencial": [
+      {
+        "Price": 288.00,
+        "Features": [
+          "14Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.7GHz",
+          "DDR4",
+          "5333mhz",
+          "9xVRM",
+          "5xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-06-30T08:36:59.6042603-04:00",
+        "Update": "2024-06-30T10:08:12.9214372-04:00",
+        "Label": "Kit i3-14100F +Disipador +Gigabyte B760M DS3H DDR4"
+      },
+      {
+        "Price": 298.00,
+        "Features": [
+          "14Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.7GHz",
+          "DDR4",
+          "5333mhz",
+          "9xVRM",
+          "5xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-06-30T09:59:35.8077836-04:00",
+        "Update": "2024-06-30T10:08:12.9609644-04:00",
+        "Label": "Kit i3-14100F +Disipador +ASRock B760M PRO RS"
       }
     ],
     "": [
@@ -3113,23 +3087,6 @@
         "Date": "2023-10-16T10:24:13.8080802-04:00",
         "Update": "2024-05-19T21:05:41.3707217-04:00",
         "Label": "Micro Intel Core i5-12600KF"
-      },
-      {
-        "Price": 165.00,
-        "Features": [
-          "14Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.7GHz",
-          "12MB L3",
-          "15458pm",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2024-02-01T21:14:34.2946119-05:00",
-        "Update": "2024-05-19T21:05:41.4273113-04:00",
-        "Label": "Micro Intel Core i3-14100 +Disipador"
       },
       {
         "Price": 405.00,
