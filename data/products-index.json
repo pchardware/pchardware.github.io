@@ -1936,6 +1936,27 @@
         "Date": "2024-06-01T15:56:21.5715548-04:00",
         "Update": "2024-06-01T16:41:03.103694-04:00",
         "Label": "Pasta Termica - Arctic Silver 5 High-Density Polysynthetic Silver Thermal Compound AS5-3.5G"
+      },
+      {
+        "Price": 6.00,
+        "Features": [],
+        "Date": "2023-12-04T16:21:19.8112801-05:00",
+        "Update": "2024-07-17T19:13:04.3035329-04:00",
+        "Label": "Cable SATA a 2xSATA"
+      },
+      {
+        "Price": 4.00,
+        "Features": [],
+        "Date": "2023-12-04T16:21:23.4675923-05:00",
+        "Update": "2024-07-17T19:13:04.3479851-04:00",
+        "Label": "Cable SATA a Molex"
+      },
+      {
+        "Price": 5.00,
+        "Features": [],
+        "Date": "2024-01-03T08:13:00.6537346-05:00",
+        "Update": "2024-07-17T19:13:04.3912384-04:00",
+        "Label": "Cable Molex a SATA"
       }
     ],
     "Disipador por Aire": [
@@ -3818,19 +3839,6 @@
         "Label": "Teclado Cooler Master SK622 RGB White"
       },
       {
-        "Price": 115.00,
-        "Features": [
-          "60%",
-          "RGB Brown",
-          "Mechanical",
-          "RGB",
-          "Eng"
-        ],
-        "Date": "2023-11-14T14:40:12.9994604-05:00",
-        "Update": "2023-11-14T17:41:04.9342727-05:00",
-        "Label": "Teclado Corsair K65 RGB Mini"
-      },
-      {
         "Price": 25.00,
         "Features": [],
         "Date": "2023-10-09T15:58:54.823495-04:00",
@@ -3905,6 +3913,19 @@
         "Date": "2024-04-20T12:17:46.3669934-04:00",
         "Update": "2024-06-24T07:11:32.8034445-04:00",
         "Label": "COMBO Teclado MSI Forge GK100 + Mouse"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "60%",
+          "RGB Brown",
+          "Mechanical",
+          "RGB",
+          "Eng"
+        ],
+        "Date": "2023-11-14T14:40:12.9994604-05:00",
+        "Update": "2024-07-17T19:14:02.9203265-04:00",
+        "Label": "Teclado Corsair K65 RGB Mini"
       }
     ],
     "Control": [
@@ -3960,27 +3981,6 @@
         "Date": "2023-11-03T12:22:45.5376533-04:00",
         "Update": "2023-11-24T11:14:38.9904937-05:00",
         "Label": "Cable Omni Gear USB 3.0 Extender 0.9m"
-      },
-      {
-        "Price": 6.00,
-        "Features": [],
-        "Date": "2023-12-04T16:21:19.8112801-05:00",
-        "Update": "2023-12-05T16:42:29.9802402-05:00",
-        "Label": "Cable SATA a 2xSATA"
-      },
-      {
-        "Price": 4.00,
-        "Features": [],
-        "Date": "2023-12-04T16:21:23.4675923-05:00",
-        "Update": "2023-12-05T16:45:36.904454-05:00",
-        "Label": "Cable SATA a Molex"
-      },
-      {
-        "Price": 5.00,
-        "Features": [],
-        "Date": "2024-01-03T08:13:00.6537346-05:00",
-        "Update": "2024-01-28T06:49:14.6733309-05:00",
-        "Label": "Cable Molex a SATA"
       }
     ],
     "Webcam": [
