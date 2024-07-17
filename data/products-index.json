@@ -27,6 +27,16 @@
         "Discount": 11.0,
         "Label": "PC RTX 3050 6GB +i5-12400F +Asus Z690-P +32GB DDR5 +512GB M2 +600W + Monitor 24\""
       }
+    ],
+    "Pro": [
+      {
+        "Price": 2909.00,
+        "Features": [],
+        "Date": "2024-07-17T11:04:32.9632936-04:00",
+        "Update": "2024-07-17T11:07:16.4335864-04:00",
+        "Discount": 22.0,
+        "Label": "PC RTX 4070 Ti 12GB +i9-12900K +Liquida +MSI MEG Z690 ACE +64GB DDR5 +1TB M2 +1000W +Mon 27\""
+      }
     ]
   },
   "Torres": {
@@ -2248,6 +2258,17 @@
         "Label": "RAM DDR4 G.Skill TridentZ RGB 64GB 3600mhz"
       },
       {
+        "Price": 155.00,
+        "Features": [
+          "2x16GB",
+          "CL36",
+          "Disipadas"
+        ],
+        "Date": "2023-11-03T12:23:00.2905889-04:00",
+        "Update": "2024-04-10T12:10:23.9404614-04:00",
+        "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 7000mhz"
+      },
+      {
         "Price": 37.00,
         "Features": [
           "1x8GB",
@@ -2912,6 +2933,42 @@
         "Date": "2023-05-11T07:00:48.0876416-04:00",
         "Update": "2024-05-19T21:05:41.2620149-04:00",
         "Label": "Micro Intel Core i9-12900K"
+      },
+      {
+        "Price": 199.00,
+        "Features": [
+          "12Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "20MB L3",
+          "27741pm",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-02-17T09:44:28.156292-05:00",
+        "Update": "2024-05-19T21:05:41.2943158-04:00",
+        "Label": "Micro Intel Core i5-12600K"
+      },
+      {
+        "Price": 249.00,
+        "Features": [
+          "12Gen",
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "25MB L3",
+          "34631pm",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-02-17T09:30:45.7586545-05:00",
+        "Update": "2024-05-19T21:05:41.3274271-04:00",
+        "Label": "Micro Intel Core i7-12700K"
       },
       {
         "Price": 169.00,
