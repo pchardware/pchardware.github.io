@@ -829,24 +829,6 @@
         "Label": "Fuente Asus ROG Strix 1000W Aura Edition"
       },
       {
-        "Price": 145.00,
-        "Features": [
-          "63A",
-          "80+ Platinum",
-          "Full Modular",
-          "2x 4+4 EPS",
-          "12x SATA",
-          "6x 6+2Pin",
-          "160mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2024-04-23T06:08:00.9414054-04:00",
-        "Update": "2024-05-02T12:10:14.4081273-04:00",
-        "Def": true,
-        "Label": "Fuente Corsair AX760 760W"
-      },
-      {
         "Price": 65.00,
         "Features": [
           "30A",
@@ -962,24 +944,6 @@
         "Label": "Fuente Corsair RM850x Shift 850W"
       },
       {
-        "Price": 155.00,
-        "Features": [
-          "80+ Gold",
-          "Full Modular",
-          "60A",
-          "4x 6+2Pin",
-          "1x 4+4 EPS",
-          "8x SATA",
-          "6x PATA",
-          "150mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2024-06-24T07:12:20.5062473-04:00",
-        "Update": "2024-06-24T08:17:21.214873-04:00",
-        "Label": "Fuente NZXT C750 NP-C750M 750W"
-      },
-      {
         "Price": 115.00,
         "Features": [
           "59A",
@@ -993,38 +957,6 @@
         "Date": "2023-08-16T09:16:30.0204629-04:00",
         "Update": "2024-07-09T10:47:17.5690389-04:00",
         "Label": "Fuente EVGA 750W"
-      },
-      {
-        "Price": 75.00,
-        "Features": [
-          "45A",
-          "2x 6+2Pin",
-          "4x SATA",
-          "1x 4+4 EPS",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-09-11T09:09:29.0343419-04:00",
-        "Update": "2024-07-10T12:45:13.639774-04:00",
-        "Label": "Fuente Apevia Spirit 600W"
-      },
-      {
-        "Price": 225.00,
-        "Features": [
-          "80+ Gold",
-          "Full Modular",
-          "6x 6+2Pin",
-          "63A",
-          "2x 4+4 EPS",
-          "150mm",
-          "6x SATA",
-          "6x PATA",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2024-07-10T11:20:46.6904938-04:00",
-        "Update": "2024-07-10T12:45:14.1068173-04:00",
-        "Label": "Fuente NZXT C1000 1000W"
       },
       {
         "Price": 135.00,
@@ -1092,6 +1024,74 @@
         "Date": "2023-04-15T07:27:14.991735-04:00",
         "Update": "2024-07-17T18:24:29.2019464-04:00",
         "Label": "Fuente Thermaltake SMART 600W 80+"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "63A",
+          "80+ Platinum",
+          "Full Modular",
+          "2x 4+4 EPS",
+          "12x SATA",
+          "6x 6+2Pin",
+          "160mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2024-04-23T06:08:00.9414054-04:00",
+        "Update": "2024-07-17T18:41:52.2333503-04:00",
+        "Def": true,
+        "Label": "Fuente Corsair AX760 760W"
+      },
+      {
+        "Price": 75.00,
+        "Features": [
+          "45A",
+          "2x 6+2Pin",
+          "4x SATA",
+          "1x 4+4 EPS",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-09-11T09:09:29.0343419-04:00",
+        "Update": "2024-07-17T18:41:52.2676192-04:00",
+        "Label": "Fuente Apevia Spirit 600W"
+      },
+      {
+        "Price": 225.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "6x 6+2Pin",
+          "63A",
+          "2x 4+4 EPS",
+          "150mm",
+          "6x SATA",
+          "6x PATA",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2024-07-10T11:20:46.6904938-04:00",
+        "Update": "2024-07-17T18:41:52.3027733-04:00",
+        "Label": "Fuente NZXT C1000 1000W"
+      },
+      {
+        "Price": 155.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "60A",
+          "4x 6+2Pin",
+          "1x 4+4 EPS",
+          "8x SATA",
+          "6x PATA",
+          "150mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2024-06-24T07:12:20.5062473-04:00",
+        "Update": "2024-07-17T18:42:36.8633479-04:00",
+        "Label": "Fuente NZXT C750 NP-C750M 750W"
       }
     ],
     "Disipador Líquido": [
