@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Pro",
+  "Images": [
+    "/images/products/pc-rtx-4070-ti-12gb-i9-12900k-liquida-msi-meg-z690-ixvo3s-1.webp",
+    "/images/products/pc-rtx-4070-ti-12gb-i9-12900k-liquida-msi-meg-z690-ixvo3s-2.webp",
+    "/images/products/pc-rtx-4070-ti-12gb-i9-12900k-liquida-msi-meg-z690-ixvo3s-3.webp",
+    "/images/products/pc-rtx-4070-ti-12gb-i9-12900k-liquida-msi-meg-z690-ixvo3s-4.webp",
+    "/images/products/pc-rtx-4070-ti-12gb-i9-12900k-liquida-msi-meg-z690-ixvo3s-5.webp",
+    "/images/products/pc-rtx-4070-ti-12gb-i9-12900k-liquida-msi-meg-z690-ixvo3s-6.webp",
+    "/images/products/pc-rtx-4070-ti-12gb-i9-12900k-liquida-msi-meg-z690-ixvo3s-7.webp",
+    "/images/products/pc-rtx-4070-ti-12gb-i9-12900k-liquida-msi-meg-z690-ixvo3s-8.webp",
+    "/images/products/pc-rtx-4070-ti-12gb-i9-12900k-liquida-msi-meg-z690-ixvo3s-9.webp",
+    "/images/products/pc-rtx-4070-ti-12gb-i9-12900k-liquida-msi-meg-z690-ixvo3s-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i9-12900K\n+ Disipador Líquido Cooler Master MasterLiquid ML240L ARGB V2\n+ Board MSI MEG Z690 ACE\n+ 2x RAM DDR5 G.Skill Trident Z5 NEO RGB 32GB 6400mhz\n+ SSD M.2 Samsung 990 PRO 1TB\n+ Tarjeta de Video Asus ROG Strix RTX 4070 Ti 12GB\n+ Fuente EVGA SuperNova 1000G XC 1000W\n+ Chasis Cougar Uniface S Black\n+ Monitor MSI Pro 27\" IPS 100Hz 1ms\n+ COMBO Teclado Asus TUF Gaming K1 + Mouse M3\n",
+  "Price": 2909.00,
+  "Features": [],
+  "Date": "2024-07-17T11:04:32.9632936-04:00",
+  "Update": "2024-07-17T11:07:16.4335864-04:00",
+  "Discount": 22.0,
+  "Label": "PC RTX 4070 Ti 12GB +i9-12900K +Liquida +MSI MEG Z690 ACE +64GB DDR5 +1TB M2 +1000W +Mon 27\""
+}
