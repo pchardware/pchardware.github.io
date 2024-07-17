@@ -82,7 +82,7 @@
         "Label": "Torre RTX 3050 6GB OC +i5-12400F +B760M PRO RS +32GB DDR5 +1TB M2 +600W +Chasis RGB"
       },
       {
-        "Price": 1339.00,
+        "Price": 1335.00,
         "Features": [],
         "Date": "2024-07-13T01:22:26.879287-04:00",
         "Update": "2024-07-13T01:43:01.1757552-04:00",
@@ -90,7 +90,7 @@
         "Label": "Torre RTX 4060 Gaming X +i5-12600KF +Liquida +Z690 PG Riptide +32GB DDR4 +750W +Chasis RGB"
       },
       {
-        "Price": 1655.00,
+        "Price": 1647.00,
         "Features": [],
         "Date": "2024-07-13T01:44:56.8893171-04:00",
         "Update": "2024-07-17T11:25:21.9029316-04:00",
@@ -108,7 +108,7 @@
         "Label": "Torre RX 7800 XT 16GB +i9-12900K +MSI MEG Z690 ACE +32GB DDR5 +1TB M.2 +850W +Chasis RGB"
       },
       {
-        "Price": 2869.00,
+        "Price": 2859.00,
         "Features": [],
         "Date": "2024-07-13T02:00:39.679024-04:00",
         "Update": "2024-07-13T02:04:01.3750643-04:00",
@@ -128,7 +128,7 @@
     ],
     "Entusiasta": [
       {
-        "Price": 3169.00,
+        "Price": 3159.00,
         "Features": [],
         "Date": "2024-07-13T01:52:17.0525507-04:00",
         "Update": "2024-07-13T01:56:48.0023438-04:00",
@@ -1126,7 +1126,7 @@
         "Label": "Kit Líquido Thermaltake Pacific C360 Ddc"
       },
       {
-        "Price": 235.00,
+        "Price": 229.00,
         "Features": [
           "2500rpm",
           "81cfm",
@@ -1198,7 +1198,7 @@
         "Label": "Disipador Líquido Cooler Master MasterLiquid ML240L ARGB V2"
       },
       {
-        "Price": 199.00,
+        "Price": 195.00,
         "Features": [
           "2000rpm",
           "67cfm",
@@ -1255,7 +1255,7 @@
         "Label": "Disipador Líquido Asus ROG Strix LC II 280 ARGB"
       },
       {
-        "Price": 189.00,
+        "Price": 185.00,
         "Features": [
           "2xFan",
           "2150rpm",
@@ -1276,7 +1276,7 @@
         "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce II 240 G2"
       },
       {
-        "Price": 225.00,
+        "Price": 219.00,
         "Features": [
           "3xFan",
           "1500rpm",
@@ -1294,7 +1294,7 @@
         "Label": "Disipador Líquido Corsair iCUE H150 RGB"
       },
       {
-        "Price": 215.00,
+        "Price": 209.00,
         "Features": [
           "3xFan",
           "2150rpm",
@@ -1337,7 +1337,7 @@
         "Label": "Disipador Líquido ASUS ROG Strix LC II 240 ARGB"
       },
       {
-        "Price": 99.00,
+        "Price": 95.00,
         "Features": [
           "1500rpm",
           "48cfm",
@@ -1357,7 +1357,7 @@
         "Label": "Disipador Líquido Corsair H60x RGB Elite"
       },
       {
-        "Price": 259.00,
+        "Price": 255.00,
         "Features": [
           "2100rpm",
           "66cfm",
@@ -1379,7 +1379,7 @@
         "Label": "Disipador Líquido Corsair iCUE H150i ELITE CAPELLIX XT"
       },
       {
-        "Price": 269.00,
+        "Price": 265.00,
         "Features": [
           "420mm",
           "RGB",
@@ -1397,7 +1397,7 @@
         "Label": "Disipador Líquido Corsair iCUE H170i Elite Capellix"
       },
       {
-        "Price": 285.00,
+        "Price": 275.00,
         "Features": [
           "360mm",
           "ARGB",
@@ -1511,7 +1511,7 @@
         "Label": "KIT Enfriamiento Custom GPU 240mm"
       },
       {
-        "Price": 249.00,
+        "Price": 239.00,
         "Features": [
           "2200rpm",
           "71cfm",
@@ -1549,7 +1549,7 @@
         "Label": "Disipador Líquido MSI MAG CORELIQUID C240"
       },
       {
-        "Price": 279.00,
+        "Price": 269.00,
         "Features": [
           "240mm",
           "RGB",
@@ -1566,7 +1566,7 @@
         "Label": "Disipador Líquido NZXT Kraken Elite RGB 280 Black"
       },
       {
-        "Price": 239.00,
+        "Price": 235.00,
         "Features": [
           "240mm",
           "RGB",
@@ -2114,25 +2114,6 @@
         "Label": "Disipador Intel Laminar RM1"
       },
       {
-        "Price": 17.00,
-        "Features": [
-          "AM4",
-          "44dB",
-          "49.7cfm",
-          "1900rpm",
-          "90mm",
-          "Aluminio",
-          "1xFan",
-          "PWM",
-          "Top-flow",
-          "Negro"
-        ],
-        "Date": "2023-07-17T23:40:19.2345723-04:00",
-        "Update": "2024-06-01T22:19:50.7134342-04:00",
-        "Def": true,
-        "Label": "Disipador AMD Wraith Stealth x5 S3000"
-      },
-      {
         "Price": 19.00,
         "Features": [
           "AM4",
@@ -2196,6 +2177,25 @@
         "Date": "2024-07-17T11:46:57.3833992-04:00",
         "Update": "2024-07-17T13:28:07.7237437-04:00",
         "Label": "Disipador Noctua NA-FK1 Redux UPGRADE a NH-U12S Redux"
+      },
+      {
+        "Price": 17.00,
+        "Features": [
+          "AM4",
+          "44dB",
+          "49.7cfm",
+          "1900rpm",
+          "90mm",
+          "Aluminio",
+          "1xFan",
+          "PWM",
+          "Top-flow",
+          "Negro"
+        ],
+        "Date": "2023-07-17T23:40:19.2345723-04:00",
+        "Update": "2024-07-17T18:11:26.7389733-04:00",
+        "Def": true,
+        "Label": "Disipador AMD Wraith Stealth x5 S3000"
       }
     ],
     "Chasis": [
@@ -2994,7 +2994,7 @@
         "Label": "SSD M.2 MSI Spatium M450 2TB"
       },
       {
-        "Price": 99.00,
+        "Price": 95.00,
         "Features": [
           "5000mbs",
           "600TBW",
