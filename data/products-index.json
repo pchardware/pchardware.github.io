@@ -2391,23 +2391,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 3070 Gaming OC 8GB"
       },
       {
-        "Price": 375.00,
-        "Features": [
-          "DLSS3",
-          "3xFan",
-          "1x8Pin",
-          "450WR",
-          "272mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-11-18T08:41:47.9392507-05:00",
-        "Update": "2024-04-15T18:13:08.2318775-04:00",
-        "Label": "Tarjeta de Video Gigabyte RTX 4060 Eagle OC 8GB"
-      },
-      {
         "Price": 289.00,
         "Features": [
           "2xFan",
@@ -3359,7 +3342,7 @@
         "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
       },
       {
-        "Price": 235.00,
+        "Price": 219.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "DDR5",
