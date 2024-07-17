@@ -980,24 +980,6 @@
         "Label": "Fuente NZXT C750 NP-C750M 750W"
       },
       {
-        "Price": 149.00,
-        "Features": [
-          "80+ Gold",
-          "Full Modular",
-          "62A",
-          "6x 6+2Pin",
-          "2x 4+4 EPS",
-          "8x SATA",
-          "5x PATA",
-          "160mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2024-06-24T07:12:27.3296679-04:00",
-        "Update": "2024-06-24T08:17:21.2349675-04:00",
-        "Label": "Fuente MSI MPG A750GF"
-      },
-      {
         "Price": 115.00,
         "Features": [
           "59A",
@@ -1045,21 +1027,6 @@
         "Label": "Fuente NZXT C1000 1000W"
       },
       {
-        "Price": 99.00,
-        "Features": [
-          "42A",
-          "2x 6+2-Pin",
-          "6x SATA",
-          "1x 4+4 EPS",
-          "140mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-04-15T07:27:14.991735-04:00",
-        "Update": "2024-07-10T18:39:45.1351413-04:00",
-        "Label": "Fuente Thermaltake SMART 600W 80+"
-      },
-      {
         "Price": 135.00,
         "Features": [
           "80+ Bronze",
@@ -1092,6 +1059,39 @@
         "Date": "2024-07-17T11:45:10.1592468-04:00",
         "Update": "2024-07-17T13:28:07.3783863-04:00",
         "Label": "Fuente EVGA 600 BA 600W"
+      },
+      {
+        "Price": 149.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "62A",
+          "6x 6+2Pin",
+          "2x 4+4 EPS",
+          "8x SATA",
+          "5x PATA",
+          "160mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2024-06-24T07:12:27.3296679-04:00",
+        "Update": "2024-07-17T18:22:49.6370861-04:00",
+        "Label": "Fuente MSI MPG A750GF 750W"
+      },
+      {
+        "Price": 99.00,
+        "Features": [
+          "42A",
+          "2x 6+2-Pin",
+          "6x SATA",
+          "1x 4+4 EPS",
+          "140mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-04-15T07:27:14.991735-04:00",
+        "Update": "2024-07-17T18:24:29.2019464-04:00",
+        "Label": "Fuente Thermaltake SMART 600W 80+"
       }
     ],
     "Disipador Líquido": [
