@@ -3425,6 +3425,27 @@
         "Features": [
           "12Gen-13Gen-14Gen",
           "DDR5",
+          "6600mhz",
+          "14xVRM",
+          "WIFI",
+          "6xUSB",
+          "4xSATA",
+          "LGA 1700",
+          "DP",
+          "HDMI",
+          "Bluetooth",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-12-07T23:40:26.7525408-05:00",
+        "Update": "2024-07-17T14:47:06.1382726-04:00",
+        "Label": "Board MSI Pro Z790-S Wifi"
+      },
+      {
+        "Price": 235.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
           "7600mhz",
           "Wifi",
           "9xUSB",
@@ -3438,29 +3459,8 @@
           "MOBO"
         ],
         "Date": "2023-05-14T10:52:20.5741642-04:00",
-        "Update": "2024-07-17T11:25:21.0732333-04:00",
+        "Update": "2024-07-17T14:51:40.4562054-04:00",
         "Label": "Board Gigabyte Z790 UD AC"
-      },
-      {
-        "Price": 235.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "6600mhz",
-          "14xVRM",
-          "wifi",
-          "x7USB",
-          "x4SATA",
-          "LGA1700",
-          "DP",
-          "HDMMI",
-          "WIFI",
-          "Bluetooth",
-          "ATX"
-        ],
-        "Date": "2023-12-07T23:40:26.7525408-05:00",
-        "Update": "2024-07-17T14:39:57.4752304-04:00",
-        "Label": "Board MSI Pro Z790-S Wifi"
       }
     ],
     "Red": [
