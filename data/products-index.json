@@ -1058,6 +1058,40 @@
         "Date": "2023-04-15T07:27:14.991735-04:00",
         "Update": "2024-07-10T18:39:45.1351413-04:00",
         "Label": "Fuente Thermaltake SMART 600W 80+"
+      },
+      {
+        "Price": 135.00,
+        "Features": [
+          "80+ Bronze",
+          "63A",
+          "120mm",
+          "1x 4+4 EPS",
+          "4x 6+2Pin",
+          "9x SATA",
+          "3x PATA",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2024-07-17T11:45:00.2798724-04:00",
+        "Update": "2024-07-17T13:28:07.3396422-04:00",
+        "Label": "Fuente EVGA 750BP 750W"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "80+ Bronze",
+          "50A",
+          "140mm",
+          "1x 4+4 EPS",
+          "2x 6+2Pin",
+          "6x SATA",
+          "3x PATA",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2024-07-17T11:45:10.1592468-04:00",
+        "Update": "2024-07-17T13:28:07.3783863-04:00",
+        "Label": "Fuente EVGA 600 BA 600W"
       }
     ],
     "Disipador Líquido": [
@@ -1496,6 +1530,57 @@
         "Date": "2023-10-11T10:56:20.6230943-04:00",
         "Update": "2024-07-17T11:25:21.1419038-04:00",
         "Label": "Disipador Líquido ASUS ROG RYUO III 240 ARGB"
+      },
+      {
+        "Price": 279.00,
+        "Features": [
+          "240mm",
+          "RGB",
+          "1500rpm",
+          "91CFM",
+          "35dBa",
+          "LGA 1700",
+          "LGA 1200",
+          "AM4",
+          "AM5"
+        ],
+        "Date": "2024-07-17T11:45:21.301412-04:00",
+        "Update": "2024-07-17T13:28:07.4776603-04:00",
+        "Label": "Disipador Líquido NZXT Kraken Elite RGB 280 Black"
+      },
+      {
+        "Price": 239.00,
+        "Features": [
+          "240mm",
+          "RGB",
+          "1500rpm",
+          "91CFM",
+          "35dBa",
+          "LGA 1700",
+          "LGA 1200",
+          "AM4",
+          "AM5"
+        ],
+        "Date": "2024-07-17T11:46:21.5677009-04:00",
+        "Update": "2024-07-17T13:28:07.5545167-04:00",
+        "Label": "Disipador Líquido NZXT Kraken RGB 280 Black"
+      },
+      {
+        "Price": 159.00,
+        "Features": [
+          "240mm",
+          "ARGB",
+          "2000rpm",
+          "79CFM",
+          "34dBa",
+          "LGA 1700",
+          "LGA 1200",
+          "AM4",
+          "AM5"
+        ],
+        "Date": "2024-07-17T11:46:43.7038037-04:00",
+        "Update": "2024-07-17T13:28:07.5927902-04:00",
+        "Label": "Disipador Líquido MSI MAG CORELIQUID C240"
       }
     ],
     "Disco Duro": [
@@ -2102,6 +2187,15 @@
         "Date": "2024-04-30T06:44:44.0058799-04:00",
         "Update": "2024-07-17T11:25:21.2492547-04:00",
         "Label": "Disipador Noctua NH-U12S Redux Grey"
+      },
+      {
+        "Price": 25.00,
+        "Features": [
+          "Actualización"
+        ],
+        "Date": "2024-07-17T11:46:57.3833992-04:00",
+        "Update": "2024-07-17T13:28:07.7237437-04:00",
+        "Label": "Disipador Noctua NA-FK1 Redux UPGRADE a NH-U12S Redux"
       }
     ],
     "Chasis": [
@@ -2831,6 +2925,28 @@
         "Update": "2024-07-17T11:25:21.0402673-04:00",
         "Def": true,
         "Label": "RAM DDR5 Corsair Dominator Platinum RGB 32GB 6200mhz"
+      },
+      {
+        "Price": 149.00,
+        "Features": [
+          "2x16GB",
+          "CL36",
+          "Disipadas"
+        ],
+        "Date": "2024-07-17T11:44:55.5368237-04:00",
+        "Update": "2024-07-17T13:28:07.3019437-04:00",
+        "Label": "RAM DDR5 G.Skill Ripjaws M5 RGB 32GB 6400mhz"
+      },
+      {
+        "Price": 129.00,
+        "Features": [
+          "2x16GB",
+          "CL40",
+          "Disipadas"
+        ],
+        "Date": "2024-07-17T11:45:15.5422442-04:00",
+        "Update": "2024-07-17T13:28:53.03542-04:00",
+        "Label": "RAM DDR5 G.Skill Ripjaws M5 RGB 32GB 5200mhz"
       }
     ],
     "Disco Sólido": [
@@ -2977,6 +3093,17 @@
         "Date": "2024-07-10T11:20:59.3921584-04:00",
         "Update": "2024-07-10T12:45:14.2219381-04:00",
         "Label": "SSD M.2 Patriot Viper VP4300 Lite 1TB"
+      },
+      {
+        "Price": 39.00,
+        "Features": [
+          "520mbs",
+          "200TBW",
+          "SATA 3"
+        ],
+        "Date": "2024-07-17T11:46:52.2695912-04:00",
+        "Update": "2024-07-17T13:28:07.6300457-04:00",
+        "Label": "SSD 2.5 Team Group T-FORCE VULCAN Z 240GB"
       }
     ],
     "Board": [
@@ -4260,6 +4387,13 @@
         "Label": "Mouse AOC Agon Gaming AGM700 RGB"
       },
       {
+        "Price": 115.00,
+        "Features": [],
+        "Date": "2024-07-17T11:45:26.4240467-04:00",
+        "Update": "2024-07-17T13:28:07.5181387-04:00",
+        "Label": "Mouse Logitech G Pro Wireless League of Legends"
+      },
+      {
         "Price": 63.00,
         "Features": [
           "16000dpi",
@@ -4269,8 +4403,8 @@
           "USB"
         ],
         "Date": "2023-06-19T07:49:10.8952301-04:00",
-        "Update": "2024-07-09T10:47:17.2654922-04:00",
-        "Label": "Mause Logitech G502 Hero"
+        "Update": "2024-07-17T13:28:52.9820022-04:00",
+        "Label": "Mouse Logitech G502 Hero"
       }
     ],
     "Impresora": [
