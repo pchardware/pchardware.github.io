@@ -1,0 +1,25 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-intel-core-i5-12600k-gigabyte-z790-ud-ac-1.webp",
+    "/images/products/kit-intel-core-i5-12600k-gigabyte-z790-ud-ac-2.webp",
+    "/images/products/kit-intel-core-i5-12600k-gigabyte-z790-ud-ac-3.webp",
+    "/images/products/kit-intel-core-i5-12600k-gigabyte-z790-ud-ac-4.webp",
+    "/images/products/kit-intel-core-i5-12600k-gigabyte-z790-ud-ac-5.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12600K\n+ Board Gigabyte Z790 UD AC\n",
+  "Price": 434.00,
+  "Features": [
+    "16 Hilos",
+    "10 Core",
+    "4.9GHz",
+    "9xUSB",
+    "6xSATA",
+    "3xAudio",
+    "Wifi"
+  ],
+  "Date": "2024-02-05T07:59:43.6879613-05:00",
+  "Update": "2024-07-17T11:25:21.1072703-04:00",
+  "Label": "Kit Intel Core i5-12600K + Gigabyte Z790 UD AC"
+}
