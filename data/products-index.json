@@ -2722,26 +2722,6 @@
         "Label": "Board Gigabyte Z790 Aorus Elite AX"
       },
       {
-        "Price": 255.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "8xSATA",
-          "16VRM",
-          "8xUSB",
-          "DDR5",
-          "7200mhz",
-          "LGA 1700",
-          "ATX",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio",
-          "MOBO"
-        ],
-        "Date": "2023-07-26T18:48:46.1112283-04:00",
-        "Update": "2024-07-10T13:36:16.3095032-04:00",
-        "Label": "ASRock Z790 PG RIPTIDE"
-      },
-      {
         "Price": 199.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -2861,6 +2841,26 @@
         "Date": "2023-03-29T20:18:17.8757341-04:00",
         "Update": "2024-07-10T14:06:39.5974714-04:00",
         "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "8xSATA",
+          "16VRM",
+          "8xUSB",
+          "DDR5",
+          "7200mhz",
+          "LGA 1700",
+          "ATX",
+          "DisplayPort",
+          "HDMI",
+          "3xAudio",
+          "MOBO"
+        ],
+        "Date": "2023-07-26T18:48:46.1112283-04:00",
+        "Update": "2024-07-17T10:57:39.6762808-04:00",
+        "Label": "Board ASRock Z790 PG RIPTIDE"
       }
     ],
     "Red": [
