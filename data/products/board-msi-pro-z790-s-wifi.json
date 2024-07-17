@@ -17,17 +17,17 @@
     "DDR5",
     "6600mhz",
     "14xVRM",
-    "wifi",
-    "x7USB",
-    "x4SATA",
-    "LGA1700",
-    "DP",
-    "HDMMI",
     "WIFI",
+    "6xUSB",
+    "4xSATA",
+    "LGA 1700",
+    "DP",
+    "HDMI",
     "Bluetooth",
-    "ATX"
+    "ATX",
+    "MOBO"
   ],
   "Date": "2023-12-07T23:40:26.7525408-05:00",
-  "Update": "2024-07-17T14:39:57.4752304-04:00",
+  "Update": "2024-07-17T14:47:06.1382726-04:00",
   "Label": "Board MSI Pro Z790-S Wifi"
 }
