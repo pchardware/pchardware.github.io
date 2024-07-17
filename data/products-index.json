@@ -2777,17 +2777,6 @@
         "Label": "RAM DDR5 Corsair Vengeance 16GB 5200mhz"
       },
       {
-        "Price": 115.00,
-        "Features": [
-          "2x16GB",
-          "C30",
-          "Disipadas"
-        ],
-        "Date": "2024-06-24T07:13:00.3057292-04:00",
-        "Update": "2024-07-10T12:45:13.9603871-04:00",
-        "Label": "RAM DDR5 Team Group T-CREATE EXPERT 32GB 6000mhz"
-      },
-      {
         "Price": 135.00,
         "Features": [
           "CL36",
@@ -2810,17 +2799,6 @@
         "Label": "RAM DDR5 Corsair Vengeance RGB 64GB 6000mhz"
       },
       {
-        "Price": 129.00,
-        "Features": [
-          "2x16GB",
-          "CL40",
-          "Disipadas"
-        ],
-        "Date": "2024-07-10T11:21:07.8375315-04:00",
-        "Update": "2024-07-10T12:45:14.2641737-04:00",
-        "Label": "RAM DDR5 PNY XLR8 MAKO 32GB RGB 6400mhz"
-      },
-      {
         "Price": 119.00,
         "Features": [
           "2x16GB",
@@ -2830,39 +2808,6 @@
         "Date": "2024-07-10T11:21:11.9061683-04:00",
         "Update": "2024-07-10T12:45:14.3111413-04:00",
         "Label": "RAM DDR5 PNY XLR8 MAKO 32GB 6400mhz"
-      },
-      {
-        "Price": 49.00,
-        "Features": [
-          "1x16GB",
-          "C18",
-          "Disipada"
-        ],
-        "Date": "2024-07-10T18:54:45.0215826-04:00",
-        "Update": "2024-07-10T19:01:02.0151908-04:00",
-        "Label": "RAM DDR4 Corsair Vengeance LPX 16GB 3600mhz"
-      },
-      {
-        "Price": 79.00,
-        "Features": [
-          "1x32GB",
-          "C22",
-          "Disipada"
-        ],
-        "Date": "2024-07-10T19:09:58.892588-04:00",
-        "Update": "2024-07-10T19:16:13.721769-04:00",
-        "Label": "RAM DDR4 Crucial Pro 32GB 3200mhz"
-      },
-      {
-        "Price": 85.00,
-        "Features": [
-          "1x32GB",
-          "C18",
-          "Disipada"
-        ],
-        "Date": "2024-07-10T19:10:10.5172815-04:00",
-        "Update": "2024-07-10T19:16:13.7558053-04:00",
-        "Label": "RAM DDR4 G.Skill Ripjaws V 32GB 3600mhz"
       },
       {
         "Price": 59.00,
@@ -2910,6 +2855,61 @@
         "Label": "RAM DDR5 Corsair Dominator Platinum RGB 32GB 6200mhz"
       },
       {
+        "Price": 115.00,
+        "Features": [
+          "2x16GB",
+          "CL30",
+          "Disipadas"
+        ],
+        "Date": "2024-06-24T07:13:00.3057292-04:00",
+        "Update": "2024-07-17T19:04:25.8917775-04:00",
+        "Label": "RAM DDR5 Team Group T-CREATE EXPERT 32GB 6000mhz"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "1x16GB",
+          "CL18",
+          "Disipadas"
+        ],
+        "Date": "2024-07-10T18:54:45.0215826-04:00",
+        "Update": "2024-07-17T19:04:25.9321-04:00",
+        "Label": "RAM DDR4 Corsair Vengeance LPX 16GB 3600mhz"
+      },
+      {
+        "Price": 79.00,
+        "Features": [
+          "1x32GB",
+          "CL22",
+          "Disipadas"
+        ],
+        "Date": "2024-07-10T19:09:58.892588-04:00",
+        "Update": "2024-07-17T19:04:25.9766177-04:00",
+        "Label": "RAM DDR4 Crucial Pro 32GB 3200mhz"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "1x32GB",
+          "CL18",
+          "Disipadas"
+        ],
+        "Date": "2024-07-10T19:10:10.5172815-04:00",
+        "Update": "2024-07-17T19:04:26.0170713-04:00",
+        "Label": "RAM DDR4 G.Skill Ripjaws V 32GB 3600mhz"
+      },
+      {
+        "Price": 129.00,
+        "Features": [
+          "2x16GB",
+          "CL40",
+          "Disipadas"
+        ],
+        "Date": "2024-07-10T11:21:07.8375315-04:00",
+        "Update": "2024-07-17T19:05:27.8082258-04:00",
+        "Label": "RAM DDR5 PNY XLR8 MAKO 32GB RGB 6400mhz"
+      },
+      {
         "Price": 149.00,
         "Features": [
           "2x16GB",
@@ -2917,7 +2917,7 @@
           "Disipadas"
         ],
         "Date": "2024-07-17T11:44:55.5368237-04:00",
-        "Update": "2024-07-17T13:28:07.3019437-04:00",
+        "Update": "2024-07-17T19:05:27.8519874-04:00",
         "Label": "RAM DDR5 G.Skill Ripjaws M5 RGB 32GB 6400mhz"
       },
       {
@@ -2928,7 +2928,7 @@
           "Disipadas"
         ],
         "Date": "2024-07-17T11:45:15.5422442-04:00",
-        "Update": "2024-07-17T13:28:53.03542-04:00",
+        "Update": "2024-07-17T19:05:27.8959123-04:00",
         "Label": "RAM DDR5 G.Skill Ripjaws M5 RGB 32GB 5200mhz"
       }
     ],
