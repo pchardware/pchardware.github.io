@@ -50,30 +50,6 @@
         "Label": "Torre RTX 4070 Ti 12GB +i9-14900K +Liquida +Strix Z790-F Gaming +32GB DDR5 +2TB M2 +1000W"
       },
       {
-        "Price": 1079.00,
-        "Features": [],
-        "Date": "2024-07-09T07:40:53.2415493-04:00",
-        "Update": "2024-07-09T08:01:00.8984121-04:00",
-        "Discount": 11.0,
-        "Label": "Torre RTX 3050 Gaming X 6GB +i5-12400F +B760M PRO RS +32GB DDR5 +1TB M.2 +850W +Chasis RGB"
-      },
-      {
-        "Price": 1179.00,
-        "Features": [],
-        "Date": "2024-07-09T07:42:20.2785812-04:00",
-        "Update": "2024-07-09T08:01:00.940748-04:00",
-        "Discount": 12.0,
-        "Label": "Torre RX 6600 Eagle WindForce 3X 8GB +i5-12400F +Z790 Eagle AX +32GB DDR5 +1TB M.2 +850W +Chasis"
-      },
-      {
-        "Price": 1079.00,
-        "Features": [],
-        "Date": "2024-07-11T09:20:24.6687649-04:00",
-        "Update": "2024-07-11T10:19:17.8573199-04:00",
-        "Discount": 11.0,
-        "Label": "Torre RX 6600 3X 8GB +i5-12600KF +ASRock Z690 PG Riptide +16GB DDR4 +1TB M.2 +750W +Chasis"
-      },
-      {
         "Price": 1049.00,
         "Features": [],
         "Date": "2024-07-11T09:44:13.6150846-04:00",
@@ -2965,18 +2941,6 @@
         "Date": "2024-01-23T14:30:33.8207872-05:00",
         "Update": "2024-02-28T07:53:53.5680735-05:00",
         "Label": "SSD M.2 AData Legend 850 1TB"
-      },
-      {
-        "Price": 79.00,
-        "Features": [
-          "5000mbs",
-          "600TBW",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2024-01-23T14:30:49.6123113-05:00",
-        "Update": "2024-02-28T07:53:53.5823128-05:00",
-        "Label": "SSD M.2 Team Group MP44L 1TB"
       },
       {
         "Price": 129.00,
