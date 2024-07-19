@@ -64,14 +64,6 @@
         "Update": "2024-07-13T01:43:01.1757552-04:00",
         "Discount": 25.0,
         "Label": "Torre RTX 4060 Gaming X +i5-12600KF +Liquida +Z690 PG Riptide +32GB DDR4 +750W +Chasis RGB"
-      },
-      {
-        "Price": 1647.00,
-        "Features": [],
-        "Date": "2024-07-13T01:44:56.8893171-04:00",
-        "Update": "2024-07-17T11:25:21.9029316-04:00",
-        "Discount": 19.0,
-        "Label": "Torre RTX 4060 Ti 3X 8GB +i7-12700K +Liquida +MEG Z690 ACE +32GB DDR5 +1TB M.2 +850W"
       }
     ],
     "Pro": [
@@ -2969,18 +2961,6 @@
         "Label": "SSD M.2 MSI Spatium M450 2TB"
       },
       {
-        "Price": 95.00,
-        "Features": [
-          "5000mbs",
-          "600TBW",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2024-04-11T02:50:58.4941382-04:00",
-        "Update": "2024-05-02T11:18:30.6704811-04:00",
-        "Label": "SSD M.2 Samsung 990 EVO 1TB"
-      },
-      {
         "Price": 189.00,
         "Features": [
           "7450mbs",
@@ -3424,20 +3404,6 @@
         "Date": "2023-12-04T17:33:10.8492635-05:00",
         "Update": "2024-05-02T17:02:07.7771433-04:00",
         "Label": "Tarjeta de Red Fenvi Wireless 1200 Dual Band +Bluetooh"
-      },
-      {
-        "Price": 39.00,
-        "Features": [
-          "PCIe x1",
-          "Wifi",
-          "2.4 GHz",
-          "5.8 GHz",
-          "Interna",
-          "Adaptador"
-        ],
-        "Date": "2023-12-04T16:21:27.4025597-05:00",
-        "Update": "2024-05-02T17:02:07.795165-04:00",
-        "Label": "Tarjeta de Red Rosewill Dual Band AC1300 Wireless"
       }
     ],
     "Microprocesador": [
