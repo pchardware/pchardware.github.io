@@ -92,16 +92,6 @@
         "Label": "Torre RTX 4070 12GB +i9-13900K +Liquida +Strix Z790-H Gaming +64GB DDR5 +2TB M2 +1000W"
       }
     ],
-    "Multimedia": [
-      {
-        "Price": 589.00,
-        "Features": [],
-        "Date": "2024-07-11T09:18:55.8418156-04:00",
-        "Update": "2024-07-11T10:19:17.8229523-04:00",
-        "Discount": 9.0,
-        "Label": "Torre i3-12100 +B760M DS3H +8GB DDR4 +250GB M.2 +600W +Chasis RGB White"
-      }
-    ],
     "Entusiasta": [
       {
         "Price": 3159.00,
@@ -3012,19 +3002,6 @@
         "Date": "2023-08-21T08:57:50.0608494-04:00",
         "Update": "2024-07-09T10:47:17.4836349-04:00",
         "Label": "SSD M.2 Samsung 990 PRO 1TB"
-      },
-      {
-        "Price": 39.00,
-        "Features": [
-          "2100mbs",
-          "200TBW",
-          "TLC",
-          "NVMe",
-          "PCIe3"
-        ],
-        "Date": "2024-07-09T10:47:34.2225862-04:00",
-        "Update": "2024-07-10T12:45:14.0305168-04:00",
-        "Label": "SSD M.2 HP EX900 250GB"
       },
       {
         "Price": 115.00,
