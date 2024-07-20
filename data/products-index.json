@@ -1495,18 +1495,6 @@
         "Label": "HDD 3.5 Seagate Pipeline 2TB"
       },
       {
-        "Price": 169.00,
-        "Features": [
-          "256mb",
-          "7200rpm",
-          "SATA 3",
-          "6 Gbps"
-        ],
-        "Date": "2024-04-30T06:44:25.3977192-04:00",
-        "Update": "2024-07-10T12:45:13.8509837-04:00",
-        "Label": "HDD 3.5 Seagate Exos X14 HSMR 12TB"
-      },
-      {
         "Price": 165.00,
         "Features": [
           "256mb",
