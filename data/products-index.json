@@ -1,15 +1,5 @@
 {
   "Computadoras": {
-    "Multimedia": [
-      {
-        "Price": 889.00,
-        "Features": [],
-        "Date": "2024-07-13T02:06:39.3526913-04:00",
-        "Update": "2024-07-13T02:20:22.5643382-04:00",
-        "Discount": 23.0,
-        "Label": "PC i3-12100 +B760M DS3H +8GB DDR4 +512GB M2 +600W +Monitor 24\" +Raton y Teclado"
-      }
-    ],
     "Gamer": [
       {
         "Price": 1215.00,
@@ -330,44 +320,6 @@
         "Update": "2024-07-17T11:25:21.7949029-04:00",
         "Discount": 10.0,
         "Label": "Kit i7-12700K +Hyper 212 Spectrum V3 +MSI Z790 Gaming Pro Wifi +32GB DDR5 RGB"
-      },
-      {
-        "Price": 515.00,
-        "Features": [
-          "12Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "7600mhz",
-          "19xVRM",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "3xAudio"
-        ],
-        "Date": "2024-06-18T12:19:45.3105254-04:00",
-        "Update": "2024-07-17T11:25:21.8307577-04:00",
-        "Discount": 3.0,
-        "Label": "Kit i7-12700K +Gigabyte Z790 Aorus Elite AX"
-      },
-      {
-        "Price": 605.00,
-        "Features": [
-          "12Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "7600mhz",
-          "19xVRM",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "3xAudio"
-        ],
-        "Date": "2024-06-18T12:20:14.3906454-04:00",
-        "Update": "2024-07-17T11:25:21.8663954-04:00",
-        "Discount": 2.0,
-        "Label": "Kit i7-12700K +Cooler Master Hyper 620S Dual +Gigabyte Z790 Aorus Elite AX"
       }
     ],
     "Entusiasta": [
@@ -2677,17 +2629,6 @@
         "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 7000mhz"
       },
       {
-        "Price": 37.00,
-        "Features": [
-          "1x8GB",
-          "CL16",
-          "Disipadas"
-        ],
-        "Date": "2024-02-16T14:41:51.7835873-05:00",
-        "Update": "2024-04-12T09:38:23.0745973-04:00",
-        "Label": "RAM DDR4 ADATA XPG Spectrix D41 RGB 8GB 3000mhz"
-      },
-      {
         "Price": 139.00,
         "Features": [
           "2x16GB",
@@ -3104,27 +3045,6 @@
         "Date": "2024-04-11T02:51:03.0617681-04:00",
         "Update": "2024-05-02T09:37:04.7881931-04:00",
         "Label": "Board Gigabyte Z790 Eagle AX"
-      },
-      {
-        "Price": 269.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "7600mhz",
-          "19xVRM",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio",
-          "LGA 1700",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-10-03T06:55:49.2464488-04:00",
-        "Update": "2024-07-09T10:47:17.6138244-04:00",
-        "Label": "Board Gigabyte Z790 Aorus Elite AX"
       },
       {
         "Price": 199.00,
