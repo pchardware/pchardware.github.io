@@ -1,0 +1,21 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/torre-rtx-3050-6gb-i5-12400f-b760m-ds3h-32gb-ddr4--jdxekx-1.webp",
+    "/images/products/torre-rtx-3050-6gb-i5-12400f-b760m-ds3h-32gb-ddr4--jdxekx-2.webp",
+    "/images/products/torre-rtx-3050-6gb-i5-12400f-b760m-ds3h-32gb-ddr4--jdxekx-3.webp",
+    "/images/products/torre-rtx-3050-6gb-i5-12400f-b760m-ds3h-32gb-ddr4--jdxekx-4.webp",
+    "/images/products/torre-rtx-3050-6gb-i5-12400f-b760m-ds3h-32gb-ddr4--jdxekx-5.webp",
+    "/images/products/torre-rtx-3050-6gb-i5-12400f-b760m-ds3h-32gb-ddr4--jdxekx-6.webp",
+    "/images/products/torre-rtx-3050-6gb-i5-12400f-b760m-ds3h-32gb-ddr4--jdxekx-7.webp",
+    "/images/products/torre-rtx-3050-6gb-i5-12400f-b760m-ds3h-32gb-ddr4--jdxekx-8.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12400F +Disipador\n+ Board Gigabyte B760M DS3H DDR4\n+ 2x RAM DDR4 Corsair Vengeance LPX 16GB 3600mhz\n+ SSD M.2 Patriot Viper VP4300 Lite 1TB\n+ Tarjeta de Video Asus Dual RTX 3050 6GB\n+ Fuente EVGA 750BP 750W\n+ Chasis Asus A21 Black\n",
+  "Price": 1099.00,
+  "Features": [],
+  "Date": "2024-07-21T00:41:55.4143032-04:00",
+  "Update": "2024-07-21T02:17:07.8047258-04:00",
+  "Discount": 17.0,
+  "Label": "Torre RTX 3050 6GB +i5-12400F +B760M DS3H +32GB DDR4 +1TB M.2 +750W +Chasis RGB"
+}
