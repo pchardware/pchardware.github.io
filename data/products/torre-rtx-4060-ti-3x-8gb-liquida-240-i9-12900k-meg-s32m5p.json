@@ -1,0 +1,23 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/torre-rtx-4060-ti-3x-8gb-liquida-240-i9-12900k-meg-s32m5p-1.webp",
+    "/images/products/torre-rtx-4060-ti-3x-8gb-liquida-240-i9-12900k-meg-s32m5p-2.webp",
+    "/images/products/torre-rtx-4060-ti-3x-8gb-liquida-240-i9-12900k-meg-s32m5p-3.webp",
+    "/images/products/torre-rtx-4060-ti-3x-8gb-liquida-240-i9-12900k-meg-s32m5p-4.webp",
+    "/images/products/torre-rtx-4060-ti-3x-8gb-liquida-240-i9-12900k-meg-s32m5p-5.webp",
+    "/images/products/torre-rtx-4060-ti-3x-8gb-liquida-240-i9-12900k-meg-s32m5p-6.webp",
+    "/images/products/torre-rtx-4060-ti-3x-8gb-liquida-240-i9-12900k-meg-s32m5p-7.webp",
+    "/images/products/torre-rtx-4060-ti-3x-8gb-liquida-240-i9-12900k-meg-s32m5p-8.webp",
+    "/images/products/torre-rtx-4060-ti-3x-8gb-liquida-240-i9-12900k-meg-s32m5p-9.webp",
+    "/images/products/torre-rtx-4060-ti-3x-8gb-liquida-240-i9-12900k-meg-s32m5p-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i9-12900K\n+ Disipador Líquido MSI MAG CORELIQUID C240\n+ Board MSI MEG Z690 ACE\n+ 2x RAM DDR5 G.Skill Trident Z5 NEO RGB 32GB 6400mhz\n+ SSD M.2 Samsung 990 PRO 1TB\n+ Tarjeta de Video MSI Ventus RTX 4060 Ti 3X 8GB\n+ Fuente EVGA Supernova 850 P5 850W\n+ Chasis Cougar Uniface S Black\n+ 4x Fan Cooler Master SickleFlow 120 V2 ARGB 120mm\n",
+  "Price": 2125.00,
+  "Features": [],
+  "Date": "2024-07-21T01:00:08.8516792-04:00",
+  "Update": "2024-07-21T02:17:07.8399119-04:00",
+  "Discount": 20.0,
+  "Label": "Torre RTX 4060 Ti 3X 8GB +Liquida 240 +i9-12900K +MEG Z690 ACE +64GB DDR5 +1TB M.2 +850W"
+}
