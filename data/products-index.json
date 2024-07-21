@@ -38,6 +38,38 @@
         "Update": "2024-06-24T09:41:14.0269934-04:00",
         "Discount": 24.0,
         "Label": "Torre RTX 4070 Ti 12GB +i9-14900K +Liquida +Strix Z790-F Gaming +32GB DDR5 +2TB M2 +1000W"
+      },
+      {
+        "Price": 1279.00,
+        "Features": [],
+        "Date": "2024-07-21T00:39:00.6865921-04:00",
+        "Update": "2024-07-21T02:17:07.7337289-04:00",
+        "Discount": 19.0,
+        "Label": "Torre RTX 4060 Gaming X 8GB +i5-12400 +MAG Z790 TOMAHAWK WIFI +32GB DDR4 +1TB M.2 +750W +Chasis RGB"
+      },
+      {
+        "Price": 1869.00,
+        "Features": [],
+        "Date": "2024-07-21T00:40:44.5596359-04:00",
+        "Update": "2024-07-21T02:17:07.7694704-04:00",
+        "Discount": 20.0,
+        "Label": "Torre RTX 4060 Ti 3X 8GB +i7-12700K +Hyper 620S Dual +Z790 PG RIPTIDE +64GB DDR5 +1TB M.2 +750W"
+      },
+      {
+        "Price": 1099.00,
+        "Features": [],
+        "Date": "2024-07-21T00:41:55.4143032-04:00",
+        "Update": "2024-07-21T02:17:07.8047258-04:00",
+        "Discount": 17.0,
+        "Label": "Torre RTX 3050 6GB +i5-12400F +B760M DS3H +32GB DDR4 +1TB M.2 +750W +Chasis RGB"
+      },
+      {
+        "Price": 2125.00,
+        "Features": [],
+        "Date": "2024-07-21T01:00:08.8516792-04:00",
+        "Update": "2024-07-21T02:17:07.8399119-04:00",
+        "Discount": 20.0,
+        "Label": "Torre RTX 4060 Ti 3X 8GB +Liquida 240 +i9-12900K +MEG Z690 ACE +64GB DDR5 +1TB M.2 +850W"
       }
     ],
     "Entusiasta": [
@@ -58,6 +90,48 @@
         "Update": "2024-07-13T02:04:01.3750643-04:00",
         "Discount": 32.0,
         "Label": "Torre RTX 4070 12GB +i9-13900K +Liquida +Strix Z790-H Gaming +64GB DDR5 +2TB M2 +1000W"
+      },
+      {
+        "Price": 969.00,
+        "Features": [],
+        "Date": "2024-07-21T00:17:36.7935775-04:00",
+        "Update": "2024-07-21T02:17:07.6970466-04:00",
+        "Discount": 15.0,
+        "Label": "Torre i5-12600K +Hyper 212 +Asus Prime Z690-P +32GB DDR5 +1TB M.2 +750W +Chasis RGB"
+      }
+    ],
+    "Multimedia": [
+      {
+        "Price": 615.00,
+        "Features": [],
+        "Date": "2024-07-21T00:12:04.417297-04:00",
+        "Update": "2024-07-21T02:17:07.5902064-04:00",
+        "Discount": 11.0,
+        "Label": "Torre i3-12100 +B760M DS3H +8GB DDR4 RGB +512GB M2 +600W +Chasis RGB"
+      },
+      {
+        "Price": 685.00,
+        "Features": [],
+        "Date": "2024-07-21T00:13:44.8279574-04:00",
+        "Update": "2024-07-21T02:17:07.6257431-04:00",
+        "Discount": 11.0,
+        "Label": "Torre i3-13100 +B760M PRO RS +16GB DDR5 +512GB M.2 +600W +Cougar Archon RGB"
+      },
+      {
+        "Price": 869.00,
+        "Features": [],
+        "Date": "2024-07-21T00:15:30.355959-04:00",
+        "Update": "2024-07-21T02:17:07.6615956-04:00",
+        "Discount": 10.0,
+        "Label": "Torre i5-12400 +Z690 PG Riptide +32GB DDR4 +1TB M.2 +750W +Chasis RGB"
+      },
+      {
+        "Price": 675.00,
+        "Features": [],
+        "Date": "2024-07-21T01:00:59.2433662-04:00",
+        "Update": "2024-07-21T02:17:07.8753712-04:00",
+        "Discount": 11.0,
+        "Label": "Torre i3-12100 +Z690 PG Riptide +16GB DDR4 +512GB M.2 +600W +Chasis RGB"
       }
     ]
   },
@@ -2469,24 +2543,6 @@
         "Label": "Tarjeta de Video Asus ROG Strix RTX 4070 Ti 12GB"
       },
       {
-        "Price": 389.00,
-        "Features": [
-          "2xFan",
-          "8GB",
-          "1x8Pin",
-          "DLSS3",
-          "550WR",
-          "247mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-08-08T10:08:12.7346355-04:00",
-        "Update": "2024-07-09T10:47:17.3087322-04:00",
-        "Label": "Tarjeta de Video MSI RTX 4060 Gaming X"
-      },
-      {
         "Price": 455.00,
         "Features": [
           "2xFan",
@@ -2580,6 +2636,23 @@
         "Date": "2024-04-30T06:45:08.3025165-04:00",
         "Update": "2024-07-10T19:53:36.7922027-04:00",
         "Label": "Tarjeta de Video MSI RTX 3050 Gaming X 6GB"
+      },
+      {
+        "Price": 389.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "DLSS3",
+          "550WR",
+          "247mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica"
+        ],
+        "Date": "2023-08-08T10:08:12.7346355-04:00",
+        "Update": "2024-07-21T02:17:07.5511482-04:00",
+        "Label": "Tarjeta de Video MSI RTX 4060 Gaming X 8GB"
       }
     ],
     "Memoria RAM": [
