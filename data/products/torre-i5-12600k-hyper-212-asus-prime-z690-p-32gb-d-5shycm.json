@@ -1,0 +1,21 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Pro",
+  "Images": [
+    "/images/products/torre-i5-12600k-hyper-212-asus-prime-z690-p-32gb-d-5shycm-1.webp",
+    "/images/products/torre-i5-12600k-hyper-212-asus-prime-z690-p-32gb-d-5shycm-2.webp",
+    "/images/products/torre-i5-12600k-hyper-212-asus-prime-z690-p-32gb-d-5shycm-3.webp",
+    "/images/products/torre-i5-12600k-hyper-212-asus-prime-z690-p-32gb-d-5shycm-4.webp",
+    "/images/products/torre-i5-12600k-hyper-212-asus-prime-z690-p-32gb-d-5shycm-5.webp",
+    "/images/products/torre-i5-12600k-hyper-212-asus-prime-z690-p-32gb-d-5shycm-6.webp",
+    "/images/products/torre-i5-12600k-hyper-212-asus-prime-z690-p-32gb-d-5shycm-7.webp",
+    "/images/products/torre-i5-12600k-hyper-212-asus-prime-z690-p-32gb-d-5shycm-8.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12600K\n+ Disipador Cooler Master Hyper 212 Spectrum V3\n+ Board Asus Prime Z690-P\n+ 2x RAM DDR5 Corsair Vengeance 16GB 5200mhz\n+ SSD M.2 Patriot Viper VP4300 Lite 1TB\n+ Fuente EVGA 750BP 750W\n+ Chasis Cougar Archon 2 Mesh RGB White\n",
+  "Price": 969.00,
+  "Features": [],
+  "Date": "2024-07-21T00:17:36.7935775-04:00",
+  "Update": "2024-07-21T02:17:07.6970466-04:00",
+  "Discount": 15.0,
+  "Label": "Torre i5-12600K +Hyper 212 +Asus Prime Z690-P +32GB DDR5 +1TB M.2 +750W +Chasis RGB"
+}
