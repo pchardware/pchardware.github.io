@@ -17,16 +17,6 @@
         "Discount": 11.0,
         "Label": "PC RTX 3050 6GB +i5-12400F +Asus Z690-P +32GB DDR5 +512GB M2 +600W + Monitor 24\""
       }
-    ],
-    "Pro": [
-      {
-        "Price": 2909.00,
-        "Features": [],
-        "Date": "2024-07-17T11:04:32.9632936-04:00",
-        "Update": "2024-07-17T11:07:16.4335864-04:00",
-        "Discount": 22.0,
-        "Label": "PC RTX 4070 Ti 12GB +i9-12900K +Liquida +MSI MEG Z690 ACE +64GB DDR5 +1TB M2 +1000W +Mon 27\""
-      }
     ]
   },
   "Torres": {
@@ -38,38 +28,6 @@
         "Update": "2024-06-24T09:41:14.0269934-04:00",
         "Discount": 24.0,
         "Label": "Torre RTX 4070 Ti 12GB +i9-14900K +Liquida +Strix Z790-F Gaming +32GB DDR5 +2TB M2 +1000W"
-      },
-      {
-        "Price": 1279.00,
-        "Features": [],
-        "Date": "2024-07-21T00:39:00.6865921-04:00",
-        "Update": "2024-07-21T02:17:07.7337289-04:00",
-        "Discount": 19.0,
-        "Label": "Torre RTX 4060 Gaming X 8GB +i5-12400 +MAG Z790 TOMAHAWK WIFI +32GB DDR4 +1TB M.2 +750W +Chasis RGB"
-      },
-      {
-        "Price": 1869.00,
-        "Features": [],
-        "Date": "2024-07-21T00:40:44.5596359-04:00",
-        "Update": "2024-07-21T02:17:07.7694704-04:00",
-        "Discount": 20.0,
-        "Label": "Torre RTX 4060 Ti 3X 8GB +i7-12700K +Hyper 620S Dual +Z790 PG RIPTIDE +64GB DDR5 +1TB M.2 +750W"
-      },
-      {
-        "Price": 1099.00,
-        "Features": [],
-        "Date": "2024-07-21T00:41:55.4143032-04:00",
-        "Update": "2024-07-21T02:17:07.8047258-04:00",
-        "Discount": 17.0,
-        "Label": "Torre RTX 3050 6GB +i5-12400F +B760M DS3H +32GB DDR4 +1TB M.2 +750W +Chasis RGB"
-      },
-      {
-        "Price": 2125.00,
-        "Features": [],
-        "Date": "2024-07-21T01:00:08.8516792-04:00",
-        "Update": "2024-07-21T02:17:07.8399119-04:00",
-        "Discount": 20.0,
-        "Label": "Torre RTX 4060 Ti 3X 8GB +Liquida 240 +i9-12900K +MEG Z690 ACE +64GB DDR5 +1TB M.2 +850W"
       }
     ],
     "Entusiasta": [
@@ -90,14 +48,6 @@
         "Update": "2024-07-13T02:04:01.3750643-04:00",
         "Discount": 32.0,
         "Label": "Torre RTX 4070 12GB +i9-13900K +Liquida +Strix Z790-H Gaming +64GB DDR5 +2TB M2 +1000W"
-      },
-      {
-        "Price": 969.00,
-        "Features": [],
-        "Date": "2024-07-21T00:17:36.7935775-04:00",
-        "Update": "2024-07-21T02:17:07.6970466-04:00",
-        "Discount": 15.0,
-        "Label": "Torre i5-12600K +Hyper 212 +Asus Prime Z690-P +32GB DDR5 +1TB M.2 +750W +Chasis RGB"
       }
     ],
     "Multimedia": [
@@ -116,14 +66,6 @@
         "Update": "2024-07-21T02:17:07.6257431-04:00",
         "Discount": 11.0,
         "Label": "Torre i3-13100 +B760M PRO RS +16GB DDR5 +512GB M.2 +600W +Cougar Archon RGB"
-      },
-      {
-        "Price": 869.00,
-        "Features": [],
-        "Date": "2024-07-21T00:15:30.355959-04:00",
-        "Update": "2024-07-21T02:17:07.6615956-04:00",
-        "Discount": 10.0,
-        "Label": "Torre i5-12400 +Z690 PG Riptide +32GB DDR4 +1TB M.2 +750W +Chasis RGB"
       },
       {
         "Price": 675.00,
@@ -168,24 +110,6 @@
         "Update": "2024-04-25T12:00:04.0579226-04:00",
         "Discount": 5.0,
         "Label": "Kit i9-12900K + MSI MEG Z690 ACE Potencia y estilo en un solo combo"
-      },
-      {
-        "Price": 398.00,
-        "Features": [
-          "12Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "DDR4",
-          "53330mhz",
-          "16xVRM",
-          "Wifi",
-          "Bluetooth",
-          "10xUSB"
-        ],
-        "Date": "2024-07-01T04:52:12.4067676-04:00",
-        "Update": "2024-07-01T07:39:23.2709215-04:00",
-        "Label": "Kit i5-12600KF +MSI MAG Z790 TOMAHAWK WIFI DDR4"
       },
       {
         "Price": 424.00,
@@ -2276,23 +2200,6 @@
         "Label": "Tarjeta de Video Saphire RX 7800 XT 16GB"
       },
       {
-        "Price": 465.00,
-        "Features": [
-          "DLSS3",
-          "3xfan",
-          "1x8Pin",
-          "550WR",
-          "308mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-03-07T08:37:39.3194438-05:00",
-        "Update": "2024-03-07T09:30:26.0956361-05:00",
-        "Label": "Tarjeta de Video MSI Ventus RTX 4060 Ti 3X 8GB"
-      },
-      {
         "Price": 835.00,
         "Features": [
           "DLSS3",
@@ -2974,18 +2881,6 @@
         "Label": "SSD M.2 Patriot P300 512GB"
       },
       {
-        "Price": 105.00,
-        "Features": [
-          "7400mbs",
-          "800TBW",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2024-07-10T11:20:59.3921584-04:00",
-        "Update": "2024-07-10T12:45:14.2219381-04:00",
-        "Label": "SSD M.2 Patriot Viper VP4300 Lite 1TB"
-      },
-      {
         "Price": 39.00,
         "Features": [
           "520mbs",
@@ -3144,27 +3039,6 @@
         "Date": "2023-12-17T00:52:07.8205125-05:00",
         "Update": "2024-07-10T13:38:42.5651348-04:00",
         "Label": "Board Gigabyte B760M DS3H DDR4"
-      },
-      {
-        "Price": 229.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "5333mhz",
-          "16xVRM",
-          "Wifi",
-          "Bluetooth",
-          "10xUSB",
-          "6xSATA",
-          "HDMI",
-          "DisplayPort",
-          "6xAudio",
-          "LGA 1700",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2024-06-24T07:12:48.2494361-04:00",
-        "Update": "2024-07-10T13:38:42.607174-04:00",
-        "Label": "Board MSI MAG Z790 TOMAHAWK WIFI DDR4"
       },
       {
         "Price": 225.00,
@@ -3636,27 +3510,6 @@
         "Date": "2023-06-07T10:25:59.490678-04:00",
         "Update": "2023-07-11T12:41:46.9692357-04:00",
         "Label": "Teclado Asus TUF Gaming K1"
-      },
-      {
-        "Price": 99.00,
-        "Features": [
-          "Membrana",
-          "RGB",
-          "Palm rest",
-          "Macros",
-          "Aura Sync",
-          "Gaming",
-          "Multimedia",
-          "Full",
-          "7000dpi",
-          "Optico",
-          "7 botónes",
-          "Palm-Claw",
-          "USB"
-        ],
-        "Date": "2023-07-26T18:48:03.9197668-04:00",
-        "Update": "2023-07-27T11:33:38.2530039-04:00",
-        "Label": "COMBO Teclado Asus TUF Gaming K1 + Mouse M3"
       },
       {
         "Price": 99.00,
