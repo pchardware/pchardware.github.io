@@ -168,38 +168,6 @@
         "Label": "Kit i5-12600KF +Hyper 620S Dual +MSI MEG Z690 ACE + 32GB DDR5 RGB 6400mhz"
       },
       {
-        "Price": 434.00,
-        "Features": [
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "9xUSB",
-          "6xSATA",
-          "3xAudio",
-          "Wifi"
-        ],
-        "Date": "2024-02-05T07:59:43.6879613-05:00",
-        "Update": "2024-07-17T11:25:21.1072703-04:00",
-        "Label": "Kit Intel Core i5-12600K + Gigabyte Z790 UD AC"
-      },
-      {
-        "Price": 438.00,
-        "Features": [
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "DDR5",
-          "7600mhz",
-          "Wifi",
-          "Bluetooth",
-          "7xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-04-11T11:15:12.6184151-04:00",
-        "Update": "2024-07-17T11:25:21.1749868-04:00",
-        "Label": "Kit i5-12600K +Gigabyte Z790 Eagle AX"
-      },
-      {
         "Price": 893.00,
         "Features": [
           "12va Gen",
@@ -217,27 +185,6 @@
         "Discount": 15.0,
         "Def": true,
         "Label": "Kit i9-12900K +MSI MEG Z690 ACE +32GB DDR5 Corsair Dominator Platinum"
-      },
-      {
-        "Price": 575.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "DDR5",
-          "7600mhz",
-          "14xVRM",
-          "Wifi",
-          "Bluetooth",
-          "7xUSB",
-          "4xSATA",
-          "3xAudio"
-        ],
-        "Date": "2024-06-17T10:03:53.2858004-04:00",
-        "Update": "2024-07-17T11:25:21.602352-04:00",
-        "Discount": 2.0,
-        "Label": "Kit i7-12700K +Cooler Master Hyper 620S Dual +Gigabyte Z790 Eagle AX"
       },
       {
         "Price": 555.00,
@@ -409,27 +356,6 @@
         "Label": "Kit i5-12400 +Gigabyte B760M DS3H"
       },
       {
-        "Price": 425.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "DDR5",
-          "7600mhz",
-          "14xVRM",
-          "Wifi",
-          "Bluetooth",
-          "7xUSB",
-          "4xSATA",
-          "3xAudio"
-        ],
-        "Date": "2024-06-16T12:58:30.22771-04:00",
-        "Update": "2024-07-17T11:25:21.3920517-04:00",
-        "Discount": 3.0,
-        "Label": "Kit i5-12400 +Gigabyte Z790 Eagle AX"
-      },
-      {
         "Price": 441.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -469,28 +395,6 @@
         "Update": "2024-07-17T11:25:21.4756207-04:00",
         "Discount": 3.0,
         "Label": "Kit i5-12400 +ASRock B760M PRO RS +32GB DDR5 Corsair Vengeance 5200mhz"
-      },
-      {
-        "Price": 545.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "DDR5",
-          "2x16GB",
-          "5600mhz",
-          "14xVRM",
-          "Wifi",
-          "Bluetooth",
-          "7xUSB",
-          "4xSATA",
-          "3xAudio"
-        ],
-        "Date": "2024-06-17T09:39:29.4547565-04:00",
-        "Update": "2024-07-17T11:25:21.5207902-04:00",
-        "Discount": 1.0,
-        "Label": "Kit i5-12400 +Gigabyte Z790 Eagle AX +16GB DDR5 Corsair Vengeance 5200mhz"
       },
       {
         "Price": 561.00,
@@ -549,20 +453,6 @@
         "Date": "2024-06-30T09:59:35.8077836-04:00",
         "Update": "2024-06-30T10:08:12.9609644-04:00",
         "Label": "Kit i3-14100F +Disipador +ASRock B760M PRO RS"
-      }
-    ],
-    "": [
-      {
-        "Price": 615.00,
-        "Features": [
-          "12Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz"
-        ],
-        "Date": "2024-07-01T05:12:02.5479018-04:00",
-        "Update": "2024-07-01T07:39:23.3642523-04:00",
-        "Label": "Kit i5-12600KF +Hyper 620S Dual +Gigabyte Z790 Eagle AX +16GB DDR5 5200mhz"
       }
     ]
   },
@@ -2981,28 +2871,6 @@
         "Label": "Board Asus ROG Strix Z790-F Gaming Wifi"
       },
       {
-        "Price": 239.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "7600mhz",
-          "14xVRM",
-          "Wifi",
-          "Bluetooth",
-          "7xUSB",
-          "4xSATA",
-          "HDMI",
-          "DisplayPort",
-          "3xAudio",
-          "LGA 1700",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2024-04-11T02:51:03.0617681-04:00",
-        "Update": "2024-05-02T09:37:04.7881931-04:00",
-        "Label": "Board Gigabyte Z790 Eagle AX"
-      },
-      {
         "Price": 199.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -3245,24 +3113,6 @@
         "Label": "Micro Intel Core i9-12900K"
       },
       {
-        "Price": 199.00,
-        "Features": [
-          "12Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "20MB L3",
-          "27741pm",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-02-17T09:44:28.156292-05:00",
-        "Update": "2024-05-19T21:05:41.2943158-04:00",
-        "Label": "Micro Intel Core i5-12600K"
-      },
-      {
         "Price": 249.00,
         "Features": [
           "12Gen",
@@ -3297,24 +3147,6 @@
         "Date": "2023-10-16T10:24:13.8080802-04:00",
         "Update": "2024-05-19T21:05:41.3707217-04:00",
         "Label": "Micro Intel Core i5-12600KF"
-      },
-      {
-        "Price": 405.00,
-        "Features": [
-          "14Gen",
-          "20 Core",
-          "28 Hilos",
-          "5.6Ghz",
-          "33mb L3",
-          "253W",
-          "53708pm",
-          "LGA 1700",
-          "DDR4-DDR5",
-          "CPU"
-        ],
-        "Date": "2023-10-23T12:31:42.2126394-04:00",
-        "Update": "2024-05-19T21:05:41.4999376-04:00",
-        "Label": "Micro Intel Core i7-14700K"
       },
       {
         "Price": 589.00,
