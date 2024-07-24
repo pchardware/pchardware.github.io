@@ -720,24 +720,6 @@
         "Label": "Fuente Thermaltake SMART 600W 80+"
       },
       {
-        "Price": 145.00,
-        "Features": [
-          "63A",
-          "80+ Platinum",
-          "Full Modular",
-          "2x 4+4 EPS",
-          "12x SATA",
-          "6x 6+2Pin",
-          "160mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2024-04-23T06:08:00.9414054-04:00",
-        "Update": "2024-07-17T18:41:52.2333503-04:00",
-        "Def": true,
-        "Label": "Fuente Corsair AX760 760W"
-      },
-      {
         "Price": 75.00,
         "Features": [
           "45A",
@@ -1358,13 +1340,6 @@
         "Date": "2024-02-28T05:29:42.4360359-05:00",
         "Update": "2024-02-28T07:53:53.6898996-05:00",
         "Label": "Adaptador Cable USB-C a HDMI"
-      },
-      {
-        "Price": 12.00,
-        "Features": [],
-        "Date": "2023-07-17T23:37:33.911055-04:00",
-        "Update": "2024-03-13T15:24:12.997856-04:00",
-        "Label": "Cable EnLabs 1-to-5 3Pins Addressable RGB Splitter Y Cable"
       },
       {
         "Price": 53.00,
@@ -2724,28 +2699,6 @@
         "Date": "2024-02-16T17:53:32.8637228-05:00",
         "Update": "2024-05-02T09:37:04.6507858-04:00",
         "Label": "Board MSI MEG Z690 ACE"
-      },
-      {
-        "Price": 279.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "7600mhz",
-          "19xVRM",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio",
-          "PS2",
-          "LGA 1700",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2024-01-18T07:08:47.0369887-05:00",
-        "Update": "2024-05-02T09:37:04.6877691-04:00",
-        "Label": "Board Gigabyte Z790 Aorus Elite AX ICE"
       },
       {
         "Price": 255.00,
