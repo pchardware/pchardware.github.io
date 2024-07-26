@@ -140,6 +140,21 @@
         "Update": "2024-07-01T07:39:23.3886895-04:00",
         "Discount": 1.0,
         "Label": "Kit i5-12600KF +Hyper 620S Dual +MSI MEG Z690 ACE + 32GB DDR5 RGB 6400mhz"
+      },
+      {
+        "Price": 434.00,
+        "Features": [
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "9xUSB",
+          "6xSATA",
+          "3xAudio",
+          "Wifi"
+        ],
+        "Date": "2024-02-05T07:59:43.6879613-05:00",
+        "Update": "2024-07-26T08:53:48.0181266-04:00",
+        "Label": "Kit Intel Core i5-12600K + Gigabyte Z790 UD AC"
       }
     ],
     "Entusiasta": [
@@ -723,6 +738,24 @@
         "Date": "2024-06-24T07:12:20.5062473-04:00",
         "Update": "2024-07-17T18:42:36.8633479-04:00",
         "Label": "Fuente NZXT C750 NP-C750M 750W"
+      },
+      {
+        "Price": 225.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "x6 Rails",
+          "1x 8+4Pin",
+          "1x 8pin",
+          "10x Peripheral",
+          "14x SATA",
+          "8x PCI-E",
+          "ATX",
+          "PSU"
+        ],
+        "Date": "2023-12-04T16:20:55.8266367-05:00",
+        "Update": "2024-07-26T08:53:47.8218808-04:00",
+        "Label": "Fuente Enermax MaxRevo 1350W"
       }
     ],
     "Disipador Líquido": [
@@ -1555,6 +1588,13 @@
         "Date": "2024-01-03T08:13:00.6537346-05:00",
         "Update": "2024-07-17T19:13:04.3912384-04:00",
         "Label": "Cable Molex a SATA"
+      },
+      {
+        "Price": 16.00,
+        "Features": [],
+        "Date": "2024-05-03T10:37:20.0612972-04:00",
+        "Update": "2024-07-26T08:53:47.8967591-04:00",
+        "Label": "Thermalright LGA1700-BCF Black V2"
       }
     ],
     "Disipador por Aire": [
@@ -1873,6 +1913,22 @@
         "Date": "2024-01-18T07:08:34.7724156-05:00",
         "Update": "2024-06-06T22:20:53.7133779-04:00",
         "Label": "Chasis Cougar Uniface S Black"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "Tempered Glass",
+          "3xFan ARGB",
+          "3xUSB",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "Negro",
+          "2xHDD"
+        ],
+        "Date": "2023-11-03T12:22:56.9620417-04:00",
+        "Update": "2024-07-26T08:53:47.9383117-04:00",
+        "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2520,6 +2576,17 @@
         "Date": "2024-07-17T11:45:15.5422442-04:00",
         "Update": "2024-07-17T19:05:27.8959123-04:00",
         "Label": "RAM DDR5 G.Skill Ripjaws M5 RGB 32GB 5200mhz"
+      },
+      {
+        "Price": 115.00,
+        "Features": [
+          "2x16GB",
+          "CL46",
+          "Disipadas"
+        ],
+        "Date": "2023-12-28T14:08:58.0730318-05:00",
+        "Update": "2024-07-26T08:53:47.8566533-04:00",
+        "Label": "RAM DDR5 Team Group T-CREATE 32GB 5600mhz"
       }
     ],
     "Disco Sólido": [
@@ -2616,6 +2683,24 @@
         "Date": "2024-07-17T11:46:52.2695912-04:00",
         "Update": "2024-07-17T13:28:07.6300457-04:00",
         "Label": "SSD 2.5 Team Group T-FORCE VULCAN Z 240GB"
+      },
+      {
+        "Price": 85.00,
+        "Features": [],
+        "Date": "2023-06-07T13:41:54.6393687-04:00",
+        "Update": "2024-07-26T08:53:47.7208322-04:00",
+        "Label": "SSD 2.5 - Patriot Burst 960GB Sata3 (560/540)"
+      },
+      {
+        "Price": 59.00,
+        "Features": [
+          "530mbs",
+          "400tbw",
+          "SATA 3"
+        ],
+        "Date": "2023-06-07T13:42:05.5721644-04:00",
+        "Update": "2024-07-26T08:53:47.787771-04:00",
+        "Label": "SSD 2.5 Team Group CX2 512GB"
       }
     ],
     "Board": [
@@ -3121,6 +3206,24 @@
         "Date": "2023-02-17T09:45:29.425139-05:00",
         "Update": "2024-07-17T11:25:21.2840769-04:00",
         "Label": "Micro Intel Core i5-12400 +Disipador"
+      },
+      {
+        "Price": 209.00,
+        "Features": [
+          "12Gen",
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "25MB L3",
+          "34456pm",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2024-05-25T23:01:27.6116167-04:00",
+        "Update": "2024-07-26T08:53:47.9757996-04:00",
+        "Label": "Micro Intel Core i7-12700KF"
       }
     ]
   },
@@ -3277,6 +3380,17 @@
         "Date": "2023-11-14T14:40:12.9994604-05:00",
         "Update": "2024-07-17T19:14:02.9203265-04:00",
         "Label": "Teclado Corsair K65 RGB Mini"
+      },
+      {
+        "Price": 45.00,
+        "Features": [
+          "Inalámbrico",
+          "Membrana",
+          "Full"
+        ],
+        "Date": "2023-07-09T16:45:11.3382579-04:00",
+        "Update": "2024-07-26T08:53:47.7543881-04:00",
+        "Label": "COMBO Teclado + Mouse Logitech MK270"
       }
     ],
     "Control": [
