@@ -2701,6 +2701,42 @@
         "Date": "2023-06-07T13:42:05.5721644-04:00",
         "Update": "2024-07-26T08:53:47.787771-04:00",
         "Label": "SSD 2.5 Team Group CX2 512GB"
+      },
+      {
+        "Price": 145.00,
+        "Features": [
+          "7400mbs",
+          "2500TBW",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2024-07-26T09:05:54.7357868-04:00",
+        "Update": "2024-07-26T09:26:42.7099775-04:00",
+        "Label": "SSD M.2 Team Group MP44 2TB"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "5000mbs",
+          "650TBW",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2024-07-26T09:06:01.5189589-04:00",
+        "Update": "2024-07-26T09:26:42.7434724-04:00",
+        "Label": "SSD M.2 Team Group T-Force G50 1TB"
+      },
+      {
+        "Price": 119.00,
+        "Features": [
+          "7000mbs",
+          "600TBW",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2024-07-26T09:06:11.1089097-04:00",
+        "Update": "2024-07-26T09:26:42.7774295-04:00",
+        "Label": "SSD M.2 Corsair MP600 Elite 1TB"
       }
     ],
     "Board": [
