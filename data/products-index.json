@@ -3009,6 +3009,27 @@
         "Date": "2023-07-26T18:48:46.1112283-04:00",
         "Update": "2024-07-17T15:14:51.4053108-04:00",
         "Label": "Board ASRock Z790 PG RIPTIDE"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "8266mhz",
+          "16xVRM",
+          "Wifi",
+          "Dual Lan",
+          "9xUSB",
+          "6xSATA",
+          "HDMI",
+          "3xAudio",
+          "LGA 1700",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2024-07-26T09:27:39.1800339-04:00",
+        "Update": "2024-07-26T09:38:18.6425418-04:00",
+        "Label": "MB Gigabyte Z790 Aorus Elite X AX"
       }
     ],
     "Red": [
