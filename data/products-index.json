@@ -3047,6 +3047,21 @@
         "Date": "2023-12-04T17:33:10.8492635-05:00",
         "Update": "2024-05-02T17:02:07.7771433-04:00",
         "Label": "Tarjeta de Red Fenvi Wireless 1200 Dual Band +Bluetooh"
+      },
+      {
+        "Price": 49.00,
+        "Features": [
+          "2.5GB",
+          "PCIe x1",
+          "interna",
+          "2.4GHz",
+          "5GHz",
+          "Adaptador",
+          "Wifi"
+        ],
+        "Date": "2024-07-26T09:35:32.328137-04:00",
+        "Update": "2024-07-26T09:46:36.582698-04:00",
+        "Label": "Tarjeta de Red TP-Link Wifi Adapter TX201"
       }
     ],
     "Microprocesador": [
