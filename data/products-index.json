@@ -47,6 +47,7 @@
         "Date": "2024-07-21T00:12:04.417297-04:00",
         "Update": "2024-07-21T02:17:07.5902064-04:00",
         "Discount": 11.0,
+        "Def": true,
         "Label": "Torre i3-12100 +B760M DS3H +8GB DDR4 RGB +512GB M2 +600W +Chasis RGB"
       },
       {
@@ -63,6 +64,7 @@
         "Date": "2024-07-21T01:00:59.2433662-04:00",
         "Update": "2024-07-21T02:17:07.8753712-04:00",
         "Discount": 11.0,
+        "Def": true,
         "Label": "Torre i3-12100 +Z690 PG Riptide +16GB DDR4 +512GB M.2 +600W +Chasis RGB"
       }
     ]
@@ -3223,6 +3225,7 @@
         ],
         "Date": "2023-05-11T07:28:15.7616729-04:00",
         "Update": "2024-07-09T10:47:17.393777-04:00",
+        "Def": true,
         "Label": "Micro Intel Core i3-12100 +Disipador"
       },
       {
@@ -4163,7 +4166,6 @@
         ],
         "Date": "2023-07-09T16:44:32.5135505-04:00",
         "Update": "2024-07-10T20:16:01.7614656-04:00",
-        "Def": true,
         "Label": "Monitor Acer Nitro 24\" VA 165Hz 1ms"
       },
       {
