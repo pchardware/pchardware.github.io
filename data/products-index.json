@@ -2167,22 +2167,6 @@
         "Label": "Tarjeta de Video MSI Ventus RTX 3050 2X XS 8GB OC"
       },
       {
-        "Price": 265.00,
-        "Features": [
-          "3xFan",
-          "1x8Pin",
-          "500WR",
-          "282mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-05-11T19:24:18.7527581-04:00",
-        "Update": "2024-05-14T08:04:23.6591482-04:00",
-        "Label": "Tarjeta de Video Gigabyte Radeon RX 6600 Eagle WindForce 3X 8GB"
-      },
-      {
         "Price": 769.00,
         "Features": [
           "DLSS3",
