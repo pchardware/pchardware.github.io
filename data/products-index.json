@@ -74,6 +74,14 @@
         "Discount": 11.0,
         "Def": true,
         "Label": "Torre i3-12100 +Z690 PG Riptide +16GB DDR4 +512GB M.2 +600W +Chasis RGB"
+      },
+      {
+        "Price": 859.00,
+        "Features": [],
+        "Date": "2024-07-28T07:57:05.2896862-04:00",
+        "Update": "2024-07-28T08:02:25.898172-04:00",
+        "Discount": 16.0,
+        "Label": "Torre i5-12400 +ASRock Z690 PG Riptide +32GB DDR4 +1TB M.2 +750W +Chasis RGB"
       }
     ]
   },
