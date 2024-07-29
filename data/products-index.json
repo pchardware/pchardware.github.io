@@ -2,38 +2,12 @@
   "Computadoras": {
     "Gamer": [
       {
-        "Price": 1215.00,
-        "Features": [],
-        "Date": "2024-07-13T02:08:23.7084209-04:00",
-        "Update": "2024-07-13T02:20:22.6076239-04:00",
-        "Discount": 23.0,
-        "Label": "PC RTX 3050 2X OC 6GB +i5-12400F +B760M DS3H +32GB DDR4 +512GB M2 +600W +Monitor 24\""
-      },
-      {
         "Price": 1299.00,
         "Features": [],
         "Date": "2024-07-16T08:58:19.189849-04:00",
         "Update": "2024-07-16T09:13:58.6910188-04:00",
         "Discount": 11.0,
         "Label": "PC RTX 3050 6GB +i5-12400F +Asus Z690-P +32GB DDR5 +512GB M2 +600W + Monitor 24\""
-      },
-      {
-        "Price": 1545.00,
-        "Features": [],
-        "Date": "2024-07-29T05:45:40.0887589-04:00",
-        "Update": "2024-07-29T05:53:58.2083277-04:00",
-        "Discount": 18.0,
-        "Label": "PC RX 6650 XT 8GB +i5-12400 +Hyper 212 +Asus Prime Z690-P +32GB DDR5 +1TB M.2 +750W +Mon MSI 25\""
-      }
-    ],
-    "Multimedia": [
-      {
-        "Price": 879.00,
-        "Features": [],
-        "Date": "2024-07-29T05:34:31.9003871-04:00",
-        "Update": "2024-07-29T05:41:32.5544096-04:00",
-        "Discount": 9.0,
-        "Label": "PC i3-13100 +Gigabyte B760M DS3H +16GB DDR4 +512GB M.2 +600W +Monitor AOpen 24\""
       }
     ],
     "Entusiasta": [
@@ -94,15 +68,6 @@
     ],
     "Multimedia": [
       {
-        "Price": 615.00,
-        "Features": [],
-        "Date": "2024-07-21T00:12:04.417297-04:00",
-        "Update": "2024-07-21T02:17:07.5902064-04:00",
-        "Discount": 11.0,
-        "Def": true,
-        "Label": "Torre i3-12100 +B760M DS3H +8GB DDR4 RGB +512GB M2 +600W +Chasis RGB"
-      },
-      {
         "Price": 685.00,
         "Features": [],
         "Date": "2024-07-21T00:13:44.8279574-04:00",
@@ -118,14 +83,6 @@
         "Discount": 11.0,
         "Def": true,
         "Label": "Torre i3-12100 +Z690 PG Riptide +16GB DDR4 +512GB M.2 +600W +Chasis RGB"
-      },
-      {
-        "Price": 859.00,
-        "Features": [],
-        "Date": "2024-07-28T07:57:05.2896862-04:00",
-        "Update": "2024-07-28T08:02:25.898172-04:00",
-        "Discount": 16.0,
-        "Label": "Torre i5-12400 +ASRock Z690 PG Riptide +32GB DDR4 +1TB M.2 +750W +Chasis RGB"
       }
     ],
     "Gamer": [
@@ -257,23 +214,6 @@
     ],
     "Moderado": [
       {
-        "Price": 304.00,
-        "Features": [
-          "12va Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "DDR5",
-          "7200mhz",
-          "9xVRM",
-          "5xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-06-30T08:36:28.9258313-04:00",
-        "Update": "2024-06-30T10:08:12.9011908-04:00",
-        "Label": "Kit i5-12400F +Disipador +Gigabyte B760M DS3H DDR4"
-      },
-      {
         "Price": 314.00,
         "Features": [
           "12va Gen",
@@ -289,124 +229,9 @@
         "Date": "2024-06-30T08:37:19.9960773-04:00",
         "Update": "2024-06-30T10:08:12.9405996-04:00",
         "Label": "Kit i5-12400F +Disipador +ASRock B760M PRO RS"
-      },
-      {
-        "Price": 348.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "DDR5",
-          "7200mhz",
-          "9xVRM",
-          "5xUSB",
-          "4xSATA",
-          "3xAudio"
-        ],
-        "Date": "2024-06-16T12:30:42.4828191-04:00",
-        "Update": "2024-07-17T11:25:21.3192843-04:00",
-        "Label": "Kit i5-12400 +Board ASRock B760M PRO RS"
-      },
-      {
-        "Price": 338.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "DDR4",
-          "5333mhz",
-          "9xVRM",
-          "5xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-06-16T12:31:01.2283215-04:00",
-        "Update": "2024-07-17T11:25:21.3541626-04:00",
-        "Label": "Kit i5-12400 +Gigabyte B760M DS3H"
-      },
-      {
-        "Price": 441.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "DDR5",
-          "7200mhz",
-          "16xVRM",
-          "Wifi",
-          "Dual Lan",
-          "7xUSB",
-          "4xSATA",
-          "6xAudio"
-        ],
-        "Date": "2024-06-16T12:58:46.0114174-04:00",
-        "Update": "2024-07-17T11:25:21.4323013-04:00",
-        "Discount": 3.0,
-        "Label": "Kit i5-12400 +MSI Z790 Gaming Pro Wifi"
-      },
-      {
-        "Price": 463.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "DDR5",
-          "2x16GB",
-          "5200mhz",
-          "9xVRM",
-          "5xUSB",
-          "4xSATA",
-          "3xAudio"
-        ],
-        "Date": "2024-06-17T09:39:00.7168153-04:00",
-        "Update": "2024-07-17T11:25:21.4756207-04:00",
-        "Discount": 3.0,
-        "Label": "Kit i5-12400 +ASRock B760M PRO RS +32GB DDR5 Corsair Vengeance 5200mhz"
-      },
-      {
-        "Price": 561.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "DDR5",
-          "2x16GB",
-          "5200mhz",
-          "16xVRM",
-          "Wifi",
-          "Dual Lan",
-          "7xUSB",
-          "4xSATA",
-          "6xAudio"
-        ],
-        "Date": "2024-06-17T09:40:05.8207803-04:00",
-        "Update": "2024-07-17T11:25:21.5603382-04:00",
-        "Discount": 1.0,
-        "Label": "i5-12400 +MSI Z790 Gaming Pro Wifi +32GB DDR5 Corsair Vengeance 5200mhz"
       }
     ],
     "Esencial": [
-      {
-        "Price": 288.00,
-        "Features": [
-          "14Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.7GHz",
-          "DDR4",
-          "5333mhz",
-          "9xVRM",
-          "5xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-06-30T08:36:59.6042603-04:00",
-        "Update": "2024-06-30T10:08:12.9214372-04:00",
-        "Label": "Kit i3-14100F +Disipador +Gigabyte B760M DS3H DDR4"
-      },
       {
         "Price": 298.00,
         "Features": [
@@ -2096,22 +1921,6 @@
         "Label": "Tarjeta de Video Gigabyte RTX 4070 Ti Super Gaming OC 16GB"
       },
       {
-        "Price": 249.00,
-        "Features": [
-          "2xfan",
-          "300WR",
-          "189mm",
-          "DLSS",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-04-11T02:50:44.4454084-04:00",
-        "Update": "2024-04-14T10:19:27.9376726-04:00",
-        "Label": "Tarjeta de Video MSI RTX 3050 Ventus 2X OC 6GB"
-      },
-      {
         "Price": 419.00,
         "Features": [
           "DLSS3",
@@ -2312,22 +2121,6 @@
         "Date": "2024-01-18T07:09:23.6519574-05:00",
         "Update": "2024-07-10T12:45:13.7481299-04:00",
         "Label": "Tarjeta de Video Gigabyte RTX 4060 AERO OC 8GB"
-      },
-      {
-        "Price": 325.00,
-        "Features": [
-          "3xFan",
-          "1x8Pin",
-          "550WR",
-          "274mm",
-          "Radeon",
-          "AMD",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2023-10-16T10:24:33.0618949-04:00",
-        "Update": "2024-07-10T12:45:13.7828271-04:00",
-        "Label": "Tarjeta de Video Gigabyte RX 7600 8GB"
       },
       {
         "Price": 259.00,
@@ -2888,25 +2681,6 @@
         "Label": "Board ASRock Z690 PG Riptide DDR4"
       },
       {
-        "Price": 149.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "5333mhz",
-          "9xVRM",
-          "5xUSB",
-          "HDMI",
-          "DisplayPort",
-          "VGA",
-          "4xSATA",
-          "LGA 1700",
-          "Micro ATX",
-          "MOBO"
-        ],
-        "Date": "2023-12-17T00:52:07.8205125-05:00",
-        "Update": "2024-07-10T13:38:42.5651348-04:00",
-        "Label": "Board Gigabyte B760M DS3H DDR4"
-      },
-      {
         "Price": 225.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -3325,23 +3099,6 @@
         "Date": "2023-03-22T09:04:00.899336-04:00",
         "Update": "2024-07-10T12:45:13.7138634-04:00",
         "Label": "Micro Intel Core i3-13100 +Disipador"
-      },
-      {
-        "Price": 189.00,
-        "Features": [
-          "12Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "18MB L3",
-          "19412pm",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-02-17T09:45:29.425139-05:00",
-        "Update": "2024-07-17T11:25:21.2840769-04:00",
-        "Label": "Micro Intel Core i5-12400 +Disipador"
       },
       {
         "Price": 209.00,
