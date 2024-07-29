@@ -35,6 +35,16 @@
         "Discount": 9.0,
         "Label": "PC i3-13100 +Gigabyte B760M DS3H +16GB DDR4 +512GB M.2 +600W +Monitor AOpen 24\""
       }
+    ],
+    "Entusiasta": [
+      {
+        "Price": 2785.00,
+        "Features": [],
+        "Date": "2024-07-29T06:06:11.2816669-04:00",
+        "Update": "2024-07-29T06:12:06.2054381-04:00",
+        "Discount": 30.0,
+        "Label": "PC RTX 4070 Super Master 12GB +Liquida +i9-12900K +MEG Z690 ACE +32GB DDR5 +1TB M.2 +1000W +27\""
+      }
     ]
   },
   "Torres": {
