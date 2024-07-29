@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/pc-rx-6650-xt-8gb-i5-12400-hyper-212-asus-prime-z6-5f3dlb-1.webp",
+    "/images/products/pc-rx-6650-xt-8gb-i5-12400-hyper-212-asus-prime-z6-5f3dlb-2.webp",
+    "/images/products/pc-rx-6650-xt-8gb-i5-12400-hyper-212-asus-prime-z6-5f3dlb-3.webp",
+    "/images/products/pc-rx-6650-xt-8gb-i5-12400-hyper-212-asus-prime-z6-5f3dlb-4.webp",
+    "/images/products/pc-rx-6650-xt-8gb-i5-12400-hyper-212-asus-prime-z6-5f3dlb-5.webp",
+    "/images/products/pc-rx-6650-xt-8gb-i5-12400-hyper-212-asus-prime-z6-5f3dlb-6.webp",
+    "/images/products/pc-rx-6650-xt-8gb-i5-12400-hyper-212-asus-prime-z6-5f3dlb-7.webp",
+    "/images/products/pc-rx-6650-xt-8gb-i5-12400-hyper-212-asus-prime-z6-5f3dlb-8.webp",
+    "/images/products/pc-rx-6650-xt-8gb-i5-12400-hyper-212-asus-prime-z6-5f3dlb-9.webp",
+    "/images/products/pc-rx-6650-xt-8gb-i5-12400-hyper-212-asus-prime-z6-5f3dlb-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12400 +Disipador\n+ Disipador Cooler Master Hyper 212 Spectrum V3\n+ Board Asus Prime Z690-P\n+ 2x RAM DDR5 Corsair Vengeance 16GB 5200mhz\n+ SSD M.2 Team Group T-Force G50 1TB\n+ Tarjeta de Video XFX Speedster Swift 210 RX 6650 XT Core 8GB\n+ Fuente MSI MPG A750GF 750W\n+ Chasis Cougar Archon 2 Mesh RGB Black\n+ Monitor MSI PRO 25\" 100Hz IPS 1ms SPK\n+ COMBO Teclado MSI Forge GK100 + Mouse\n",
+  "Price": 1545.00,
+  "Features": [],
+  "Date": "2024-07-29T05:45:40.0887589-04:00",
+  "Update": "2024-07-29T05:53:58.2083277-04:00",
+  "Discount": 18.0,
+  "Label": "PC RX 6650 XT 8GB +i5-12400 +Hyper 212 +Asus Prime Z690-P +32GB DDR5 +1TB M.2 +750W +Mon MSI 25\""
+}
