@@ -1,0 +1,23 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Entusiasta",
+  "Images": [
+    "/images/products/pc-rtx-4070-super-master-12gb-liquida-i9-12900k-me-537vvf-1.webp",
+    "/images/products/pc-rtx-4070-super-master-12gb-liquida-i9-12900k-me-537vvf-2.webp",
+    "/images/products/pc-rtx-4070-super-master-12gb-liquida-i9-12900k-me-537vvf-3.webp",
+    "/images/products/pc-rtx-4070-super-master-12gb-liquida-i9-12900k-me-537vvf-4.webp",
+    "/images/products/pc-rtx-4070-super-master-12gb-liquida-i9-12900k-me-537vvf-5.webp",
+    "/images/products/pc-rtx-4070-super-master-12gb-liquida-i9-12900k-me-537vvf-6.webp",
+    "/images/products/pc-rtx-4070-super-master-12gb-liquida-i9-12900k-me-537vvf-7.webp",
+    "/images/products/pc-rtx-4070-super-master-12gb-liquida-i9-12900k-me-537vvf-8.webp",
+    "/images/products/pc-rtx-4070-super-master-12gb-liquida-i9-12900k-me-537vvf-9.webp",
+    "/images/products/pc-rtx-4070-super-master-12gb-liquida-i9-12900k-me-537vvf-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i9-12900K\n+ Disipador Líquido Gigabyte GP-AORUS Waterforce II 240 G2\n+ Board MSI MEG Z690 ACE\n+ RAM DDR5 G.Skill Trident Z5 RGB 32GB 7200mhz\n+ SSD M.2 Samsung 990 PRO 1TB\n+ Tarjeta de Video Gigabyte Aorus RTX 4070 Super Master 12GB\n+ Fuente Corsair RM1000e 1000W\n+ Chasis Cougar Uniface S Black\n+ Monitor MSI Pro 27\" IPS 100Hz 1ms\n+ Teclado Corsair Gaming K55 RGB Pro\n+ Mouse Logitech G502 Hero\n",
+  "Price": 2785.00,
+  "Features": [],
+  "Date": "2024-07-29T06:06:11.2816669-04:00",
+  "Update": "2024-07-29T06:12:06.2054381-04:00",
+  "Discount": 30.0,
+  "Label": "PC RTX 4070 Super Master 12GB +Liquida +i9-12900K +MEG Z690 ACE +32GB DDR5 +1TB M.2 +1000W +27\""
+}
