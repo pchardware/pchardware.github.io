@@ -2482,6 +2482,17 @@
         "Date": "2023-12-28T14:08:58.0730318-05:00",
         "Update": "2024-07-26T08:53:47.8566533-04:00",
         "Label": "RAM DDR5 Team Group T-CREATE 32GB 5600mhz"
+      },
+      {
+        "Price": 45.00,
+        "Features": [
+          "1x16GB",
+          "CL16",
+          "Disipadas"
+        ],
+        "Date": "2024-07-30T15:31:40.9014128-04:00",
+        "Update": "2024-07-30T19:04:29.6049254-04:00",
+        "Label": "DDR4 G.SKILL Ripjaws V 16GB 3200Mhz C16"
       }
     ],
     "Disco Sólido": [
