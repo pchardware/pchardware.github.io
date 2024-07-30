@@ -1175,6 +1175,18 @@
         "Date": "2024-07-10T11:21:16.0292157-04:00",
         "Update": "2024-07-10T12:45:14.356447-04:00",
         "Label": "HDD 3.5 Seagate v7 SED 12TB"
+      },
+      {
+        "Price": 235.00,
+        "Features": [
+          "256mb",
+          "7200rpm",
+          "SATA 3",
+          "6 Gbps"
+        ],
+        "Date": "2024-04-30T06:44:18.4466039-04:00",
+        "Update": "2024-07-30T14:25:21.5433222-04:00",
+        "Label": "HDD 3.5 Seagate Exos X16 16TB"
       }
     ],
     "Otros": [
@@ -1760,6 +1772,31 @@
         "Update": "2024-07-17T18:11:26.7389733-04:00",
         "Def": true,
         "Label": "Disipador AMD Wraith Stealth x5 S3000"
+      },
+      {
+        "Price": 119.00,
+        "Features": [
+          "Dual",
+          "2xFan",
+          "6xPipes",
+          "ARGB",
+          "Premium",
+          "52cfm",
+          "27dBA",
+          "Cobre",
+          "157mm",
+          "2050rpm",
+          "Negro",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4",
+          "AM5",
+          "Tower"
+        ],
+        "Date": "2023-07-26T18:49:11.7802452-04:00",
+        "Update": "2024-07-30T14:25:21.3655251-04:00",
+        "Label": "Disipador Cooler Master Hyper 622 Halo Black"
       }
     ],
     "Chasis": [
@@ -2180,6 +2217,26 @@
         "Date": "2023-06-19T07:48:26.3260961-04:00",
         "Update": "2024-07-28T08:37:37.7651473-04:00",
         "Label": "Tarjeta de Video Asus Dual RTX 4060Ti OC 8GB"
+      },
+      {
+        "Price": 329.00,
+        "Features": [
+          "2xFan",
+          "1x8Pin",
+          "550WR",
+          "PCIe4",
+          "HDMI",
+          "3xDisplayPort",
+          "235mm",
+          "GeForce",
+          "NVIDIA",
+          "GPU",
+          "Gráfica",
+          "DLSS"
+        ],
+        "Date": "2023-12-19T06:42:17.7775209-05:00",
+        "Update": "2024-07-30T14:25:21.4549969-04:00",
+        "Label": "Tarjeta de Video MSI RTX 3060 Ventus 2x 12GB OC"
       }
     ],
     "Memoria RAM": [
@@ -2849,6 +2906,46 @@
         "Date": "2024-07-26T09:27:39.1800339-04:00",
         "Update": "2024-07-26T09:38:18.6425418-04:00",
         "Label": "MB Gigabyte Z790 Aorus Elite X AX"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "12va-13ra",
+          "8xSATA",
+          "5000mhz",
+          "ATX",
+          "6xUSB",
+          "PS2",
+          "LGA 1700",
+          "DisplayPort",
+          "HDMI",
+          "3xAudio"
+        ],
+        "Date": "2023-08-01T11:14:37.8225714-04:00",
+        "Update": "2024-07-30T14:25:21.3227023-04:00",
+        "Label": "Motherboard ASRock Z690 Pro RS DDR4"
+      },
+      {
+        "Price": 189.00,
+        "Features": [
+          "12va-13ra-14ta",
+          "DDR5",
+          "5800mhz",
+          "PCIe 5.0",
+          "M.2 Gen4",
+          "Bios Flashback",
+          "3xM.2",
+          "7xUSB",
+          "HDMI",
+          "4xSATA",
+          "LGA 1700",
+          "3xAudio",
+          "PS2",
+          "MOBO"
+        ],
+        "Date": "2023-10-23T12:32:47.8333341-04:00",
+        "Update": "2024-07-30T14:25:21.4105561-04:00",
+        "Label": "Board ASRock Z690 Phantom Gaming 4 D5"
       }
     ],
     "Red": [
@@ -3099,6 +3196,22 @@
         "Date": "2024-05-25T23:01:27.6116167-04:00",
         "Update": "2024-07-26T08:53:47.9757996-04:00",
         "Label": "Micro Intel Core i7-12700KF"
+      },
+      {
+        "Price": 175.00,
+        "Features": [
+          "AM4",
+          "6 Core",
+          "12 Hilos",
+          "4.6GHz",
+          "DDR4",
+          "Unlocked",
+          "Serie 5000",
+          "CPU"
+        ],
+        "Date": "2023-11-30T11:20:49.6412308-05:00",
+        "Update": "2024-07-30T14:25:21.4994598-04:00",
+        "Label": "Micro AMD Ryzen 5 5600X +Disipador"
       }
     ]
   },
