@@ -1,0 +1,29 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-i5-12600kf-asrock-z690-pg-riptide-ddr4-1.webp",
+    "/images/products/kit-i5-12600kf-asrock-z690-pg-riptide-ddr4-2.webp",
+    "/images/products/kit-i5-12600kf-asrock-z690-pg-riptide-ddr4-3.webp",
+    "/images/products/kit-i5-12600kf-asrock-z690-pg-riptide-ddr4-4.webp",
+    "/images/products/kit-i5-12600kf-asrock-z690-pg-riptide-ddr4-5.webp",
+    "/images/products/kit-i5-12600kf-asrock-z690-pg-riptide-ddr4-6.webp",
+    "/images/products/kit-i5-12600kf-asrock-z690-pg-riptide-ddr4-7.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12600KF\n+ Board ASRock Z690 PG Riptide DDR4\n",
+  "Price": 368.00,
+  "Features": [
+    "12Gen",
+    "16 Hilos",
+    "10 Core",
+    "4.9GHz",
+    "8xSATA",
+    "5333mhz",
+    "13xVRM",
+    "6xAudio",
+    "6xUSB"
+  ],
+  "Date": "2024-07-31T08:11:22.890423-04:00",
+  "Update": "2024-07-31T08:33:30.0509269-04:00",
+  "Label": "Kit i5-12600KF +ASRock Z690 PG Riptide DDR4"
+}
