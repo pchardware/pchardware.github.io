@@ -1,0 +1,34 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-i7-12700kf-lquida-strix-z790-h-gaming-wifi-32g-9tzytp-1.webp",
+    "/images/products/kit-i7-12700kf-lquida-strix-z790-h-gaming-wifi-32g-9tzytp-2.webp",
+    "/images/products/kit-i7-12700kf-lquida-strix-z790-h-gaming-wifi-32g-9tzytp-3.webp",
+    "/images/products/kit-i7-12700kf-lquida-strix-z790-h-gaming-wifi-32g-9tzytp-4.webp",
+    "/images/products/kit-i7-12700kf-lquida-strix-z790-h-gaming-wifi-32g-9tzytp-5.webp",
+    "/images/products/kit-i7-12700kf-lquida-strix-z790-h-gaming-wifi-32g-9tzytp-6.webp",
+    "/images/products/kit-i7-12700kf-lquida-strix-z790-h-gaming-wifi-32g-9tzytp-7.webp",
+    "/images/products/kit-i7-12700kf-lquida-strix-z790-h-gaming-wifi-32g-9tzytp-8.webp",
+    "/images/products/kit-i7-12700kf-lquida-strix-z790-h-gaming-wifi-32g-9tzytp-9.webp"
+  ],
+  "Description": "+ Micro Intel Core i7-12700KF\n+ Disipador Líquido Asus ROG Strix LC II 280 ARGB\n+ Board Asus ROG Strix Z790-H Gaming Wifi\n+ RAM DDR5 Corsair Vengeance RGB 32GB 6000mhz\n",
+  "Price": 859.00,
+  "Features": [
+    "12Gen",
+    "20 Hilos",
+    "12 Core",
+    "5GHz",
+    "2x16GB",
+    "6000mhz",
+    "DDR5",
+    "19xVRM",
+    "8xUSB",
+    "6xAudio",
+    "4xSATA"
+  ],
+  "Date": "2024-07-31T13:35:24.9470337-04:00",
+  "Update": "2024-07-31T13:47:35.105233-04:00",
+  "Discount": 5.0,
+  "Label": "Kit i7-12700KF +Líquida +Strix Z790-H Gaming Wifi +32GB DDR5 Corsair Vengeance RGB"
+}
