@@ -304,6 +304,26 @@
         "Update": "2024-07-31T08:51:03.7932492-04:00",
         "Discount": 3.0,
         "Label": "Kit i5-12600K +Hyper 212 +Z790 Aorus Elite X AX +32GB DDR5 Trident Z5 NEO RGB"
+      },
+      {
+        "Price": 859.00,
+        "Features": [
+          "12Gen",
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "2x16GB",
+          "6000mhz",
+          "DDR5",
+          "19xVRM",
+          "8xUSB",
+          "6xAudio",
+          "4xSATA"
+        ],
+        "Date": "2024-07-31T13:35:24.9470337-04:00",
+        "Update": "2024-07-31T13:47:35.105233-04:00",
+        "Discount": 5.0,
+        "Label": "Kit i7-12700KF +Líquida +Strix Z790-H Gaming Wifi +32GB DDR5 Corsair Vengeance RGB"
       }
     ],
     "Entusiasta": [
