@@ -1,0 +1,31 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Moderado",
+  "Images": [
+    "/images/products/kit-i5-12400f-disipador-asrock-z690-pg-riptide-ddr-jcsknk-1.webp",
+    "/images/products/kit-i5-12400f-disipador-asrock-z690-pg-riptide-ddr-jcsknk-2.webp",
+    "/images/products/kit-i5-12400f-disipador-asrock-z690-pg-riptide-ddr-jcsknk-3.webp",
+    "/images/products/kit-i5-12400f-disipador-asrock-z690-pg-riptide-ddr-jcsknk-4.webp",
+    "/images/products/kit-i5-12400f-disipador-asrock-z690-pg-riptide-ddr-jcsknk-5.webp",
+    "/images/products/kit-i5-12400f-disipador-asrock-z690-pg-riptide-ddr-jcsknk-6.webp",
+    "/images/products/kit-i5-12400f-disipador-asrock-z690-pg-riptide-ddr-jcsknk-7.webp",
+    "/images/products/kit-i5-12400f-disipador-asrock-z690-pg-riptide-ddr-jcsknk-8.webp",
+    "/images/products/kit-i5-12400f-disipador-asrock-z690-pg-riptide-ddr-jcsknk-9.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12400F +Disipador\n+ Board ASRock Z690 PG Riptide DDR4\n",
+  "Price": 354.00,
+  "Features": [
+    "12va Gen",
+    "12 Hilos",
+    "6 Core",
+    "4.4GHz",
+    "8xSATA",
+    "5333mhz",
+    "13xVRM",
+    "6xAudio",
+    "6xUSB"
+  ],
+  "Date": "2024-07-31T08:11:46.5234604-04:00",
+  "Update": "2024-07-31T08:33:30.0875427-04:00",
+  "Label": "Kit i5-12400F +Disipador +ASRock Z690 PG Riptide DDR4"
+}
