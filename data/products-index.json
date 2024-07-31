@@ -664,6 +664,23 @@
         "Date": "2023-12-04T16:20:55.8266367-05:00",
         "Update": "2024-07-26T08:53:47.8218808-04:00",
         "Label": "Fuente Enermax MaxRevo 1350W"
+      },
+      {
+        "Price": 159.00,
+        "Features": [
+          "ATX 3.0",
+          "62A",
+          "80+ Gold",
+          "Full Modular",
+          "3x 6+2Pin",
+          "7x SATA",
+          "2x 4+4 EPS",
+          "151mm",
+          "PSU"
+        ],
+        "Date": "2024-07-31T06:19:37.3875087-04:00",
+        "Update": "2024-07-31T06:25:31.3049433-04:00",
+        "Label": "PSU CORSAIR RM750e 750W 80+ Gold Full Modular"
       }
     ],
     "Disipador Líquido": [
