@@ -2668,6 +2668,18 @@
         "Date": "2023-06-07T13:41:54.6393687-04:00",
         "Update": "2024-07-31T06:16:13.8913358-04:00",
         "Label": "SSD 2.5 Patriot Burst 960GB"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "5150mbs",
+          "600TBW",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2024-07-31T06:19:43.7673573-04:00",
+        "Update": "2024-07-31T08:00:19.1755995-04:00",
+        "Label": "SSD M.2 Western Digital BLACK SN770 1TB"
       }
     ],
     "Board": [
