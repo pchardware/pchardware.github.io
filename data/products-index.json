@@ -193,6 +193,97 @@
         "Date": "2024-02-05T07:59:43.6879613-05:00",
         "Update": "2024-07-26T08:53:48.0181266-04:00",
         "Label": "Kit Intel Core i5-12600K + Gigabyte Z790 UD AC"
+      },
+      {
+        "Price": 624.00,
+        "Features": [
+          "12Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.2GHz",
+          "DDR5",
+          "6666mhz",
+          "22xVRM",
+          "Wifi",
+          "7xUSB",
+          "6xSATA",
+          "5xM.2"
+        ],
+        "Date": "2024-07-31T08:07:55.1594061-04:00",
+        "Update": "2024-07-31T08:33:29.8318481-04:00",
+        "Label": "Kit i9-12900K +MSI MEG Z690 ACE"
+      },
+      {
+        "Price": 428.00,
+        "Features": [
+          "12Gen",
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "25MB L3",
+          "DDR5",
+          "6000mhz",
+          "15xVRM",
+          "6xAudio",
+          "5xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-07-31T08:08:23.1043105-04:00",
+        "Update": "2024-07-31T08:33:29.8687301-04:00",
+        "Label": "Kit i7-12700KF +Asus Prime Z690-P"
+      },
+      {
+        "Price": 590.00,
+        "Features": [
+          "12Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.2GHz",
+          "DDR5",
+          "8266mhz",
+          "16xVRM",
+          "Wifi",
+          "Dual Lan",
+          "9xUSB",
+          "6xSATA"
+        ],
+        "Date": "2024-07-31T08:09:53.7071491-04:00",
+        "Update": "2024-07-31T08:33:29.9771246-04:00",
+        "Label": "Kit i9-12900K +Gigabyte Z790 Aorus Elite X AX"
+      },
+      {
+        "Price": 454.00,
+        "Features": [
+          "12Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "DDR5",
+          "7200mhz",
+          "16xVRM",
+          "7xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-07-31T08:11:01.1199837-04:00",
+        "Update": "2024-07-31T08:33:30.0139976-04:00",
+        "Label": "Kit i5-12600K +MSI Z790 Gaming Pro Wifi"
+      },
+      {
+        "Price": 368.00,
+        "Features": [
+          "12Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "8xSATA",
+          "5333mhz",
+          "13xVRM",
+          "6xAudio",
+          "6xUSB"
+        ],
+        "Date": "2024-07-31T08:11:22.890423-04:00",
+        "Update": "2024-07-31T08:33:30.0509269-04:00",
+        "Label": "Kit i5-12600KF +ASRock Z690 PG Riptide DDR4"
       }
     ],
     "Entusiasta": [
@@ -211,6 +302,43 @@
         "Date": "2024-04-13T04:12:47.4749085-04:00",
         "Update": "2024-06-24T07:11:32.6294947-04:00",
         "Label": "Kit i9-14900K +Strix Z790-F Gaming"
+      },
+      {
+        "Price": 854.00,
+        "Features": [
+          "13ra Gen",
+          "32 Hilos",
+          "24 Core",
+          "5.7GHz",
+          "DDR5",
+          "7800mhz",
+          "19xVRM",
+          "8xUSB",
+          "6xAudio",
+          "4xSATA"
+        ],
+        "Date": "2024-07-31T08:09:08.1077715-04:00",
+        "Update": "2024-07-31T08:33:29.9047349-04:00",
+        "Label": "Kit i9-13900K +Asus ROG Strix Z790-H Gaming Wifi"
+      },
+      {
+        "Price": 988.00,
+        "Features": [
+          "14Gen",
+          "24 Core",
+          "32 Hilos",
+          "6Ghz",
+          "DDR5",
+          "7200mhz",
+          "19xVRM",
+          "Wifi",
+          "Bluetooth",
+          "10xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-07-31T08:09:28.5786173-04:00",
+        "Update": "2024-07-31T08:33:29.940817-04:00",
+        "Label": "Kit i9-14900K +Asus ROG Strix Z790-F Gaming Wifi"
       }
     ],
     "Moderado": [
@@ -231,6 +359,23 @@
         "Update": "2024-06-30T10:08:12.9405996-04:00",
         "Def": true,
         "Label": "Kit i5-12400F +Disipador +ASRock B760M PRO RS"
+      },
+      {
+        "Price": 354.00,
+        "Features": [
+          "12va Gen",
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "8xSATA",
+          "5333mhz",
+          "13xVRM",
+          "6xAudio",
+          "6xUSB"
+        ],
+        "Date": "2024-07-31T08:11:46.5234604-04:00",
+        "Update": "2024-07-31T08:33:30.0875427-04:00",
+        "Label": "Kit i5-12400F +Disipador +ASRock Z690 PG Riptide DDR4"
       }
     ],
     "Esencial": [
@@ -2936,45 +3081,6 @@
         "Label": "Board ASRock Z790 PG RIPTIDE"
       },
       {
-        "Price": 275.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "8266mhz",
-          "16xVRM",
-          "Wifi",
-          "Dual Lan",
-          "9xUSB",
-          "6xSATA",
-          "HDMI",
-          "3xAudio",
-          "LGA 1700",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2024-07-26T09:27:39.1800339-04:00",
-        "Update": "2024-07-26T09:38:18.6425418-04:00",
-        "Label": "MB Gigabyte Z790 Aorus Elite X AX"
-      },
-      {
-        "Price": 185.00,
-        "Features": [
-          "12va-13ra",
-          "8xSATA",
-          "5000mhz",
-          "ATX",
-          "6xUSB",
-          "PS2",
-          "LGA 1700",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio"
-        ],
-        "Date": "2023-08-01T11:14:37.8225714-04:00",
-        "Update": "2024-07-30T14:25:21.3227023-04:00",
-        "Label": "Motherboard ASRock Z690 Pro RS DDR4"
-      },
-      {
         "Price": 189.00,
         "Features": [
           "12va-13ra-14ta",
@@ -2995,6 +3101,45 @@
         "Date": "2023-10-23T12:32:47.8333341-04:00",
         "Update": "2024-07-30T14:25:21.4105561-04:00",
         "Label": "Board ASRock Z690 Phantom Gaming 4 D5"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "8266mhz",
+          "16xVRM",
+          "Wifi",
+          "Dual Lan",
+          "9xUSB",
+          "6xSATA",
+          "HDMI",
+          "3xAudio",
+          "LGA 1700",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2024-07-26T09:27:39.1800339-04:00",
+        "Update": "2024-07-31T08:39:40.0107175-04:00",
+        "Label": "Board Gigabyte Z790 Aorus Elite X AX"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "12va-13ra",
+          "8xSATA",
+          "5000mhz",
+          "ATX",
+          "6xUSB",
+          "PS2",
+          "LGA 1700",
+          "DisplayPort",
+          "HDMI",
+          "3xAudio"
+        ],
+        "Date": "2023-08-01T11:14:37.8225714-04:00",
+        "Update": "2024-07-31T08:39:40.0551101-04:00",
+        "Label": "Board ASRock Z690 Pro RS DDR4"
       }
     ],
     "Red": [
