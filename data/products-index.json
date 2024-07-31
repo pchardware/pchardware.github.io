@@ -2595,13 +2595,6 @@
         "Label": "SSD 2.5 Team Group T-FORCE VULCAN Z 240GB"
       },
       {
-        "Price": 85.00,
-        "Features": [],
-        "Date": "2023-06-07T13:41:54.6393687-04:00",
-        "Update": "2024-07-26T08:53:47.7208322-04:00",
-        "Label": "SSD 2.5 - Patriot Burst 960GB Sata3 (560/540)"
-      },
-      {
         "Price": 59.00,
         "Features": [
           "530mbs",
@@ -2647,6 +2640,17 @@
         "Date": "2024-07-26T09:06:11.1089097-04:00",
         "Update": "2024-07-26T09:26:42.7774295-04:00",
         "Label": "SSD M.2 Corsair MP600 Elite 1TB"
+      },
+      {
+        "Price": 85.00,
+        "Features": [
+          "560mbs",
+          "835TBW",
+          "SATA3"
+        ],
+        "Date": "2023-06-07T13:41:54.6393687-04:00",
+        "Update": "2024-07-31T06:16:13.8913358-04:00",
+        "Label": "SSD 2.5 Patriot Burst 960GB"
       }
     ],
     "Board": [
