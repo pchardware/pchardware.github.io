@@ -284,6 +284,26 @@
         "Date": "2024-07-31T08:11:22.890423-04:00",
         "Update": "2024-07-31T08:33:30.0509269-04:00",
         "Label": "Kit i5-12600KF +ASRock Z690 PG Riptide DDR4"
+      },
+      {
+        "Price": 665.00,
+        "Features": [
+          "12Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "DDR5",
+          "8266mhz",
+          "16xVRM",
+          "Wifi",
+          "Dual Lan",
+          "9xUSB",
+          "6xSATA"
+        ],
+        "Date": "2024-07-31T08:43:34.0491493-04:00",
+        "Update": "2024-07-31T08:51:03.7932492-04:00",
+        "Discount": 3.0,
+        "Label": "Kit i5-12600K +Hyper 212 +Z790 Aorus Elite X AX +32GB DDR5 Trident Z5 NEO RGB"
       }
     ],
     "Entusiasta": [
