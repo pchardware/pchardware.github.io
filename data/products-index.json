@@ -73,6 +73,7 @@
         "Date": "2024-07-21T00:13:44.8279574-04:00",
         "Update": "2024-07-21T02:17:07.6257431-04:00",
         "Discount": 11.0,
+        "Def": true,
         "Label": "Torre i3-13100 +B760M PRO RS +16GB DDR5 +512GB M.2 +600W +Cougar Archon RGB"
       },
       {
@@ -228,6 +229,7 @@
         ],
         "Date": "2024-06-30T08:37:19.9960773-04:00",
         "Update": "2024-06-30T10:08:12.9405996-04:00",
+        "Def": true,
         "Label": "Kit i5-12400F +Disipador +ASRock B760M PRO RS"
       }
     ],
@@ -247,6 +249,7 @@
         ],
         "Date": "2024-06-30T09:59:35.8077836-04:00",
         "Update": "2024-06-30T10:08:12.9609644-04:00",
+        "Def": true,
         "Label": "Kit i3-14100F +Disipador +ASRock B760M PRO RS"
       }
     ]
@@ -1727,6 +1730,7 @@
         ],
         "Date": "2023-09-23T14:09:08.5628773-04:00",
         "Update": "2024-07-09T10:47:17.3513077-04:00",
+        "Def": true,
         "Label": "Disipador ID-COOLING SE-214-XT ARGB Black"
       },
       {
@@ -2853,6 +2857,7 @@
         ],
         "Date": "2023-07-26T18:49:47.5277946-04:00",
         "Update": "2024-07-17T14:55:55.0185996-04:00",
+        "Def": true,
         "Label": "Board ASRock B760M PRO RS"
       },
       {
