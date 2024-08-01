@@ -1,0 +1,33 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Esencial",
+  "Images": [
+    "/images/products/kit-i3-13100-asrock-b760m-pro-rs-16gb-ddr5-xpg-lan-v5c7a0-1.webp",
+    "/images/products/kit-i3-13100-asrock-b760m-pro-rs-16gb-ddr5-xpg-lan-v5c7a0-2.webp",
+    "/images/products/kit-i3-13100-asrock-b760m-pro-rs-16gb-ddr5-xpg-lan-v5c7a0-3.webp",
+    "/images/products/kit-i3-13100-asrock-b760m-pro-rs-16gb-ddr5-xpg-lan-v5c7a0-4.webp",
+    "/images/products/kit-i3-13100-asrock-b760m-pro-rs-16gb-ddr5-xpg-lan-v5c7a0-5.webp",
+    "/images/products/kit-i3-13100-asrock-b760m-pro-rs-16gb-ddr5-xpg-lan-v5c7a0-6.webp",
+    "/images/products/kit-i3-13100-asrock-b760m-pro-rs-16gb-ddr5-xpg-lan-v5c7a0-7.webp",
+    "/images/products/kit-i3-13100-asrock-b760m-pro-rs-16gb-ddr5-xpg-lan-v5c7a0-8.webp",
+    "/images/products/kit-i3-13100-asrock-b760m-pro-rs-16gb-ddr5-xpg-lan-v5c7a0-9.webp",
+    "/images/products/kit-i3-13100-asrock-b760m-pro-rs-16gb-ddr5-xpg-lan-v5c7a0-10.webp"
+  ],
+  "Description": "+ Micro Intel Core i3-13100 +Disipador\n+ Board ASRock B760M PRO RS\n+ RAM DDR5 XPG Lancer 16GB 5200mhz\n",
+  "Price": 369.00,
+  "Features": [
+    "13ra Gen",
+    "8 Hilos",
+    "4 Core",
+    "4.5GHz",
+    "7200mhz",
+    "9xVRM",
+    "5xUSB",
+    "4xSATA"
+  ],
+  "Date": "2024-08-01T07:18:39.6433742-04:00",
+  "Update": "2024-08-01T07:37:56.6517901-04:00",
+  "Discount": 4.0,
+  "Def": true,
+  "Label": "Kit i3-13100 +ASRock B760M PRO RS +16GB DDR5 XPG Lancer 5200mhz"
+}
