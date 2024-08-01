@@ -324,6 +324,45 @@
         "Update": "2024-07-31T13:47:35.105233-04:00",
         "Discount": 5.0,
         "Label": "Kit i7-12700KF +Líquida +Strix Z790-H Gaming Wifi +32GB DDR5 Corsair Vengeance RGB"
+      },
+      {
+        "Price": 885.00,
+        "Features": [
+          "12Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.2GHz",
+          "2x16",
+          "7200mhz",
+          "16xVRM",
+          "Wifi",
+          "Dual Lan",
+          "9xUSB",
+          "6xSATA"
+        ],
+        "Date": "2024-08-01T07:15:56.3889707-04:00",
+        "Update": "2024-08-01T07:37:56.5310961-04:00",
+        "Discount": 5.0,
+        "Label": "Kit i9-12900K +Líquido 240 ARGB +Gigabyte Z790 Aorus Elite X AX +32GB DDR5 RGB"
+      },
+      {
+        "Price": 579.00,
+        "Features": [
+          "12Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "2x16GB",
+          "6400mhz",
+          "14xVRM",
+          "WIFI",
+          "6xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-08-01T07:20:31.9701058-04:00",
+        "Update": "2024-08-01T07:37:56.7034378-04:00",
+        "Discount": 3.0,
+        "Label": "Kit i5-12600KF +Hyper 212 +Z790-S Wifi +32GB DDR5 G.Skill Trident Z5 NEO RGB"
       }
     ],
     "Entusiasta": [
@@ -416,6 +455,41 @@
         "Date": "2024-07-31T08:11:46.5234604-04:00",
         "Update": "2024-07-31T08:33:30.0875427-04:00",
         "Label": "Kit i5-12400F +Disipador +ASRock Z690 PG Riptide DDR4"
+      },
+      {
+        "Price": 385.00,
+        "Features": [
+          "12va Gen",
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "1x16GB",
+          "8xSATA",
+          "5000mhz",
+          "ATX",
+          "6xUSB"
+        ],
+        "Date": "2024-08-01T07:12:42.7033927-04:00",
+        "Update": "2024-08-01T07:37:56.4915411-04:00",
+        "Label": "Kit i5-12400F +ASRock Z690 Pro RS +16GB DDR4 G.SKILL Ripjaws V 3200Mhz"
+      },
+      {
+        "Price": 399.00,
+        "Features": [
+          "12va Gen",
+          "12 Hilos",
+          "6 Core",
+          "4.4GHz",
+          "1x16GB",
+          "8xSATA",
+          "5333mhz",
+          "13xVRM",
+          "6xAudio",
+          "6xUSB"
+        ],
+        "Date": "2024-08-01T07:17:55.6783794-04:00",
+        "Update": "2024-08-01T07:37:56.5786161-04:00",
+        "Label": "Kit i5-12400F +ASRock Z690 PG Riptide +16GB DDR4 G.SKILL Ripjaws V 3200Mhz"
       }
     ],
     "Esencial": [
@@ -436,6 +510,24 @@
         "Update": "2024-06-30T10:08:12.9609644-04:00",
         "Def": true,
         "Label": "Kit i3-14100F +Disipador +ASRock B760M PRO RS"
+      },
+      {
+        "Price": 369.00,
+        "Features": [
+          "13ra Gen",
+          "8 Hilos",
+          "4 Core",
+          "4.5GHz",
+          "7200mhz",
+          "9xVRM",
+          "5xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-08-01T07:18:39.6433742-04:00",
+        "Update": "2024-08-01T07:37:56.6517901-04:00",
+        "Discount": 4.0,
+        "Def": true,
+        "Label": "Kit i3-13100 +ASRock B760M PRO RS +16GB DDR5 XPG Lancer 5200mhz"
       }
     ]
   },
