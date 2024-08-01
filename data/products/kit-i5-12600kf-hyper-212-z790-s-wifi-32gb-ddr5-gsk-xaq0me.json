@@ -1,0 +1,33 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Rendimiento",
+  "Images": [
+    "/images/products/kit-i5-12600kf-hyper-212-z790-s-wifi-32gb-ddr5-gsk-xaq0me-1.webp",
+    "/images/products/kit-i5-12600kf-hyper-212-z790-s-wifi-32gb-ddr5-gsk-xaq0me-2.webp",
+    "/images/products/kit-i5-12600kf-hyper-212-z790-s-wifi-32gb-ddr5-gsk-xaq0me-3.webp",
+    "/images/products/kit-i5-12600kf-hyper-212-z790-s-wifi-32gb-ddr5-gsk-xaq0me-4.webp",
+    "/images/products/kit-i5-12600kf-hyper-212-z790-s-wifi-32gb-ddr5-gsk-xaq0me-5.webp",
+    "/images/products/kit-i5-12600kf-hyper-212-z790-s-wifi-32gb-ddr5-gsk-xaq0me-6.webp",
+    "/images/products/kit-i5-12600kf-hyper-212-z790-s-wifi-32gb-ddr5-gsk-xaq0me-7.webp",
+    "/images/products/kit-i5-12600kf-hyper-212-z790-s-wifi-32gb-ddr5-gsk-xaq0me-8.webp",
+    "/images/products/kit-i5-12600kf-hyper-212-z790-s-wifi-32gb-ddr5-gsk-xaq0me-9.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12600KF\n+ Disipador Cooler Master Hyper 212 Spectrum V3\n+ Board MSI Pro Z790-S Wifi\n+ RAM DDR5 G.Skill Trident Z5 NEO RGB 32GB 6400mhz\n",
+  "Price": 579.00,
+  "Features": [
+    "12Gen",
+    "16 Hilos",
+    "10 Core",
+    "4.9GHz",
+    "2x16GB",
+    "6400mhz",
+    "14xVRM",
+    "WIFI",
+    "6xUSB",
+    "4xSATA"
+  ],
+  "Date": "2024-08-01T07:20:31.9701058-04:00",
+  "Update": "2024-08-01T07:37:56.7034378-04:00",
+  "Discount": 3.0,
+  "Label": "Kit i5-12600KF +Hyper 212 +Z790-S Wifi +32GB DDR5 G.Skill Trident Z5 NEO RGB"
+}
