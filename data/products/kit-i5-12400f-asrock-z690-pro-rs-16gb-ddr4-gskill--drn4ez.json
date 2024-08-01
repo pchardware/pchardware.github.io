@@ -1,0 +1,29 @@
+{
+  "Category": "Kits",
+  "SubCategory": "Moderado",
+  "Images": [
+    "/images/products/kit-i5-12400f-asrock-z690-pro-rs-16gb-ddr4-gskill--drn4ez-1.webp",
+    "/images/products/kit-i5-12400f-asrock-z690-pro-rs-16gb-ddr4-gskill--drn4ez-2.webp",
+    "/images/products/kit-i5-12400f-asrock-z690-pro-rs-16gb-ddr4-gskill--drn4ez-3.webp",
+    "/images/products/kit-i5-12400f-asrock-z690-pro-rs-16gb-ddr4-gskill--drn4ez-4.webp",
+    "/images/products/kit-i5-12400f-asrock-z690-pro-rs-16gb-ddr4-gskill--drn4ez-5.webp",
+    "/images/products/kit-i5-12400f-asrock-z690-pro-rs-16gb-ddr4-gskill--drn4ez-6.webp",
+    "/images/products/kit-i5-12400f-asrock-z690-pro-rs-16gb-ddr4-gskill--drn4ez-7.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12400F +Disipador\n+ Board ASRock Z690 Pro RS DDR4\n+ DDR4 G.SKILL Ripjaws V 16GB 3200Mhz C16\n",
+  "Price": 385.00,
+  "Features": [
+    "12va Gen",
+    "12 Hilos",
+    "6 Core",
+    "4.4GHz",
+    "1x16GB",
+    "8xSATA",
+    "5000mhz",
+    "ATX",
+    "6xUSB"
+  ],
+  "Date": "2024-08-01T07:12:42.7033927-04:00",
+  "Update": "2024-08-01T07:37:56.4915411-04:00",
+  "Label": "Kit i5-12400F +ASRock Z690 Pro RS +16GB DDR4 G.SKILL Ripjaws V 3200Mhz"
+}
