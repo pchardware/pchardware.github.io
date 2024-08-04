@@ -88,20 +88,20 @@
     ],
     "Gamer": [
       {
-        "Price": 1575.00,
-        "Features": [],
-        "Date": "2024-07-28T08:25:05.8080259-04:00",
-        "Update": "2024-07-28T08:37:37.8003002-04:00",
-        "Discount": 19.0,
-        "Label": "Torre RTX 4060Ti OC 8GB +i7-12700KF +Liquida +MSI Z790 Gaming Pro +32GB DDR5 +1TB M.2 +850W"
-      },
-      {
         "Price": 2075.00,
         "Features": [],
         "Date": "2024-07-28T10:51:02.3613434-04:00",
         "Update": "2024-07-28T10:58:11.0536334-04:00",
         "Discount": 27.0,
         "Label": "Torre RTX 4070 12GB +i5-12600K +Liquida 240 +Strix Z790-H +32GB DDR5 +1TB M.2 +850W"
+      },
+      {
+        "Price": 1575.00,
+        "Features": [],
+        "Date": "2024-07-28T08:25:05.8080259-04:00",
+        "Update": "2024-08-04T07:21:28.1802623-04:00",
+        "Discount": 19.0,
+        "Label": "Torre RTX 4060Ti OC 8GB /i7-12700KF /Liquida /MSI Z790 Gaming Pro /32GB DDR5 /1TB M.2 /850W"
       }
     ]
   },
