@@ -1,0 +1,21 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/torre-gamer-12gen-1.webp",
+    "/images/products/torre-gamer-12gen-2.webp",
+    "/images/products/torre-gamer-12gen-3.webp",
+    "/images/products/torre-gamer-12gen-4.webp",
+    "/images/products/torre-gamer-12gen-5.webp",
+    "/images/products/torre-gamer-12gen-6.webp",
+    "/images/products/torre-gamer-12gen-7.webp",
+    "/images/products/torre-gamer-12gen-8.webp",
+    "/images/products/torre-gamer-12gen-9.webp"
+  ],
+  "Description": "+ Micro Intel Core i5-12600K\n+ Disipador Cooler Master Hyper 212 Spectrum V3\n+ Board MSI Pro Z790-S Wifi\n+ RAM DDR5 G.Skill Trident Z5 NEO RGB 32GB 6400mhz\n+ SSD M.2 MSI Spatium M480 Pro 1TB\n+ Tarjeta de Video XFX Speedster Swift 210 RX 6650 XT Core 8GB\n+ Fuente MSI MPG A750GF 750W\n+ Chasis Cougar Archon 2 Mesh RGB Black\n",
+  "Price": 1330.00,
+  "Features": [],
+  "Date": "2024-08-04T09:23:15.9615886-04:00",
+  "Update": "2024-08-04T09:24:43.8263294-04:00",
+  "Label": "Torre Gamer 12Gen"
+}
