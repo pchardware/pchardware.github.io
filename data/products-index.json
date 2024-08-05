@@ -1,26 +1,4 @@
 {
-  "Computadoras": {
-    "Gamer": [
-      {
-        "Price": 1299.00,
-        "Features": [],
-        "Date": "2024-07-16T08:58:19.189849-04:00",
-        "Update": "2024-07-16T09:13:58.6910188-04:00",
-        "Discount": 11.0,
-        "Label": "PC RTX 3050 6GB +i5-12400F +Asus Z690-P +32GB DDR5 +512GB M2 +600W + Monitor 24\""
-      }
-    ],
-    "Entusiasta": [
-      {
-        "Price": 2785.00,
-        "Features": [],
-        "Date": "2024-07-29T06:06:11.2816669-04:00",
-        "Update": "2024-07-29T06:12:06.2054381-04:00",
-        "Discount": 30.0,
-        "Label": "PC RTX 4070 Super Master 12GB +Liquida +i9-12900K +MEG Z690 ACE +32GB DDR5 +1TB M.2 +1000W +27\""
-      }
-    ]
-  },
   "Torres": {
     "Pro": [
       {
@@ -84,14 +62,6 @@
         "Update": "2024-07-28T10:58:11.0536334-04:00",
         "Discount": 27.0,
         "Label": "Torre RTX 4070 12GB +i5-12600K +Liquida 240 +Strix Z790-H +32GB DDR5 +1TB M.2 +850W"
-      },
-      {
-        "Price": 1575.00,
-        "Features": [],
-        "Date": "2024-07-28T08:25:05.8080259-04:00",
-        "Update": "2024-08-04T07:21:28.1802623-04:00",
-        "Discount": 19.0,
-        "Label": "Torre RTX 4060Ti OC 8GB /i7-12700KF /Liquida /MSI Z790 Gaming Pro /32GB DDR5 /1TB M.2 /850W"
       },
       {
         "Price": 1330.00,
@@ -219,25 +189,6 @@
         "Date": "2024-07-31T08:07:55.1594061-04:00",
         "Update": "2024-07-31T08:33:29.8318481-04:00",
         "Label": "Kit i9-12900K +MSI MEG Z690 ACE"
-      },
-      {
-        "Price": 428.00,
-        "Features": [
-          "12Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "25MB L3",
-          "DDR5",
-          "6000mhz",
-          "15xVRM",
-          "6xAudio",
-          "5xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-07-31T08:08:23.1043105-04:00",
-        "Update": "2024-07-31T08:33:29.8687301-04:00",
-        "Label": "Kit i7-12700KF +Asus Prime Z690-P"
       },
       {
         "Price": 590.00,
@@ -588,27 +539,6 @@
         "Label": "Fuente EVGA Supernova 850 P5 850W"
       },
       {
-        "Price": 225.00,
-        "Features": [
-          "ATX 3.0",
-          "80+ Gold",
-          "Full Modular",
-          "Zero RPM",
-          "1x 16Pin",
-          "6x 6+2Pin",
-          "83A",
-          "2x 4+4 EPS",
-          "151mm",
-          "7xSATA",
-          "4x PATA",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-08-08T10:08:04.4203937-04:00",
-        "Update": "2024-04-30T06:43:07.9340674-04:00",
-        "Label": "Fuente Corsair RM1000e 1000W"
-      },
-      {
         "Price": 155.00,
         "Features": [
           "ATX 3.0",
@@ -700,25 +630,6 @@
         "Date": "2023-12-19T06:42:21.8253659-05:00",
         "Update": "2024-05-02T12:58:32.3775833-04:00",
         "Label": "Fuente EVGA 400 N1 400W"
-      },
-      {
-        "Price": 139.00,
-        "Features": [
-          "Modular",
-          "2x 4+4 EPS",
-          "62A",
-          "80+ Bronze",
-          "4x 6+2Pin",
-          "8x SATA",
-          "4x PATA",
-          "150mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-04-15T07:27:10.1467554-04:00",
-        "Update": "2024-05-02T12:58:32.4151532-04:00",
-        "Def": true,
-        "Label": "Fuente Corsair CX750M 750W"
       },
       {
         "Price": 129.00,
@@ -2491,20 +2402,6 @@
         "Label": "Tarjeta de Video MSI RTX 4060 Gaming X 8GB"
       },
       {
-        "Price": 455.00,
-        "Features": [
-          "2xFan",
-          "1x8Pin",
-          "650WR",
-          "GeForce",
-          "NVIDIA",
-          "GPU"
-        ],
-        "Date": "2023-06-19T07:48:26.3260961-04:00",
-        "Update": "2024-07-28T08:37:37.7651473-04:00",
-        "Label": "Tarjeta de Video Asus Dual RTX 4060Ti OC 8GB"
-      },
-      {
         "Price": 329.00,
         "Features": [
           "2xFan",
@@ -2807,18 +2704,6 @@
         "Label": "SSD M.2 WD Blue SN580 2TB"
       },
       {
-        "Price": 135.00,
-        "Features": [
-          "3600mbs",
-          "1200TBW",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2024-02-20T04:08:11.8629348-05:00",
-        "Update": "2024-05-02T11:18:30.6354961-04:00",
-        "Label": "SSD M.2 MSI Spatium M450 2TB"
-      },
-      {
         "Price": 189.00,
         "Features": [
           "7450mbs",
@@ -3052,27 +2937,6 @@
         "Date": "2024-07-09T10:47:38.8047241-04:00",
         "Update": "2024-07-10T13:38:42.6491962-04:00",
         "Label": "Board Gigabyte UD Z790 S Wifi DDR4"
-      },
-      {
-        "Price": 219.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "6000mhz",
-          "15xVRM",
-          "DisplayPort",
-          "HDMI",
-          "6xAudio",
-          "5xUSB",
-          "4xSATA",
-          "PS2",
-          "LGA 1700",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-03-29T20:18:04.9318135-04:00",
-        "Update": "2024-07-10T13:49:13.5952418-04:00",
-        "Label": "Board Asus Prime Z690-P"
       },
       {
         "Price": 335.00,
