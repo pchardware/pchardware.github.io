@@ -34,26 +34,6 @@
         "Label": "Torre RTX 4070 OC 12GB +Ryzen 9 7900X +Liquida +Strix B650-A Gaming +32GB DDR5 +1TB M.2 +850W"
       }
     ],
-    "Multimedia": [
-      {
-        "Price": 685.00,
-        "Features": [],
-        "Date": "2024-07-21T00:13:44.8279574-04:00",
-        "Update": "2024-07-21T02:17:07.6257431-04:00",
-        "Discount": 11.0,
-        "Def": true,
-        "Label": "Torre i3-13100 +B760M PRO RS +16GB DDR5 +512GB M.2 +600W +Cougar Archon RGB"
-      },
-      {
-        "Price": 675.00,
-        "Features": [],
-        "Date": "2024-07-21T01:00:59.2433662-04:00",
-        "Update": "2024-07-21T02:17:07.8753712-04:00",
-        "Discount": 11.0,
-        "Def": true,
-        "Label": "Torre i3-12100 +Z690 PG Riptide +16GB DDR4 +512GB M.2 +600W +Chasis RGB"
-      }
-    ],
     "Gamer": [
       {
         "Price": 2075.00,
@@ -377,116 +357,6 @@
         "Update": "2024-07-31T08:33:29.940817-04:00",
         "Label": "Kit i9-14900K +Asus ROG Strix Z790-F Gaming Wifi"
       }
-    ],
-    "Moderado": [
-      {
-        "Price": 314.00,
-        "Features": [
-          "12va Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "DDR5",
-          "7200mhz",
-          "9xVRM",
-          "5xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-06-30T08:37:19.9960773-04:00",
-        "Update": "2024-06-30T10:08:12.9405996-04:00",
-        "Def": true,
-        "Label": "Kit i5-12400F +Disipador +ASRock B760M PRO RS"
-      },
-      {
-        "Price": 354.00,
-        "Features": [
-          "12va Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "8xSATA",
-          "5333mhz",
-          "13xVRM",
-          "6xAudio",
-          "6xUSB"
-        ],
-        "Date": "2024-07-31T08:11:46.5234604-04:00",
-        "Update": "2024-07-31T08:33:30.0875427-04:00",
-        "Label": "Kit i5-12400F +Disipador +ASRock Z690 PG Riptide DDR4"
-      },
-      {
-        "Price": 385.00,
-        "Features": [
-          "12va Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "1x16GB",
-          "8xSATA",
-          "5000mhz",
-          "ATX",
-          "6xUSB"
-        ],
-        "Date": "2024-08-01T07:12:42.7033927-04:00",
-        "Update": "2024-08-01T07:37:56.4915411-04:00",
-        "Label": "Kit i5-12400F +ASRock Z690 Pro RS +16GB DDR4 G.SKILL Ripjaws V 3200Mhz"
-      },
-      {
-        "Price": 399.00,
-        "Features": [
-          "12va Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "1x16GB",
-          "8xSATA",
-          "5333mhz",
-          "13xVRM",
-          "6xAudio",
-          "6xUSB"
-        ],
-        "Date": "2024-08-01T07:17:55.6783794-04:00",
-        "Update": "2024-08-01T07:37:56.5786161-04:00",
-        "Label": "Kit i5-12400F +ASRock Z690 PG Riptide +16GB DDR4 G.SKILL Ripjaws V 3200Mhz"
-      }
-    ],
-    "Esencial": [
-      {
-        "Price": 298.00,
-        "Features": [
-          "14Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.7GHz",
-          "DDR4",
-          "5333mhz",
-          "9xVRM",
-          "5xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-06-30T09:59:35.8077836-04:00",
-        "Update": "2024-06-30T10:08:12.9609644-04:00",
-        "Def": true,
-        "Label": "Kit i3-14100F +Disipador +ASRock B760M PRO RS"
-      },
-      {
-        "Price": 369.00,
-        "Features": [
-          "13ra Gen",
-          "8 Hilos",
-          "4 Core",
-          "4.5GHz",
-          "7200mhz",
-          "9xVRM",
-          "5xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-08-01T07:18:39.6433742-04:00",
-        "Update": "2024-08-01T07:37:56.6517901-04:00",
-        "Discount": 4.0,
-        "Def": true,
-        "Label": "Kit i3-13100 +ASRock B760M PRO RS +16GB DDR5 XPG Lancer 5200mhz"
-      }
     ]
   },
   "Componentes": {
@@ -709,21 +579,6 @@
         "Date": "2024-05-03T06:18:15.0494605-04:00",
         "Update": "2024-05-03T10:28:09.2474222-04:00",
         "Label": "Fuente Corsair RM850x Shift 850W"
-      },
-      {
-        "Price": 115.00,
-        "Features": [
-          "59A",
-          "2x 6+2Pin",
-          "9x SATA",
-          "1x 4+4 EPS",
-          "140mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2023-08-16T09:16:30.0204629-04:00",
-        "Update": "2024-07-09T10:47:17.5690389-04:00",
-        "Label": "Fuente EVGA 750W"
       },
       {
         "Price": 129.00,
@@ -2009,22 +1864,6 @@
         "Label": "Chasis MLLIQUEA Mining Rig Frame"
       },
       {
-        "Price": 159.00,
-        "Features": [
-          "Tempered Glass",
-          "3xFan ARGB",
-          "3xUSB",
-          "Gamer",
-          "Mid Tower",
-          "ATX",
-          "Negro",
-          "2xHDD"
-        ],
-        "Date": "2024-04-30T06:45:15.022489-04:00",
-        "Update": "2024-04-30T09:42:29.9510849-04:00",
-        "Label": "Chasis Cougar Archon 2 Mesh RGB White"
-      },
-      {
         "Price": 225.00,
         "Features": [
           "Tempered Glass",
@@ -2785,18 +2624,6 @@
         "Label": "SSD M.2 Team Group MP44 2TB"
       },
       {
-        "Price": 95.00,
-        "Features": [
-          "5000mbs",
-          "650TBW",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2024-07-26T09:06:01.5189589-04:00",
-        "Update": "2024-07-26T09:26:42.7434724-04:00",
-        "Label": "SSD M.2 Team Group T-Force G50 1TB"
-      },
-      {
         "Price": 119.00,
         "Features": [
           "7000mbs",
@@ -3000,27 +2827,6 @@
         "Date": "2024-05-14T07:14:07.372319-04:00",
         "Update": "2024-07-17T14:53:30.3770786-04:00",
         "Label": "Board Asus ROG Strix B650-A Gaming Wifi"
-      },
-      {
-        "Price": 159.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "7200mhz",
-          "9xVRM",
-          "5xUSB",
-          "4xSATA",
-          "HDMI",
-          "DisplayPort",
-          "3xAudio",
-          "LGA 1700",
-          "Micro ATX",
-          "MOBO"
-        ],
-        "Date": "2023-07-26T18:49:47.5277946-04:00",
-        "Update": "2024-07-17T14:55:55.0185996-04:00",
-        "Def": true,
-        "Label": "Board ASRock B760M PRO RS"
       },
       {
         "Price": 235.00,
@@ -3247,23 +3053,6 @@
         "Date": "2024-02-16T17:52:51.8800101-05:00",
         "Update": "2024-05-19T21:05:41.6082432-04:00",
         "Label": "Micro Intel Core i3-14100F +Disipador"
-      },
-      {
-        "Price": 155.00,
-        "Features": [
-          "12va Gen",
-          "12 Hilos",
-          "6 Core",
-          "4.4GHz",
-          "18MB L3",
-          "19566pm",
-          "DDR4-DDR5",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-08-08T10:07:50.0509327-04:00",
-        "Update": "2024-05-19T21:05:41.6423975-04:00",
-        "Label": "Micro Intel Core i5-12400F +Disipador"
       },
       {
         "Price": 499.00,
