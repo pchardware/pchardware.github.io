@@ -2912,24 +2912,6 @@
         "Date": "2024-07-26T09:27:39.1800339-04:00",
         "Update": "2024-07-31T08:39:40.0107175-04:00",
         "Label": "Board Gigabyte Z790 Aorus Elite X AX"
-      },
-      {
-        "Price": 185.00,
-        "Features": [
-          "12va-13ra",
-          "8xSATA",
-          "5000mhz",
-          "ATX",
-          "6xUSB",
-          "PS2",
-          "LGA 1700",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio"
-        ],
-        "Date": "2023-08-01T11:14:37.8225714-04:00",
-        "Update": "2024-07-31T08:39:40.0551101-04:00",
-        "Label": "Board ASRock Z690 Pro RS DDR4"
       }
     ],
     "Red": [
