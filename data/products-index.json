@@ -301,6 +301,86 @@
         "Update": "2024-08-01T07:37:56.7034378-04:00",
         "Discount": 3.0,
         "Label": "Kit i5-12600KF +Hyper 212 +Z790-S Wifi +32GB DDR5 G.Skill Trident Z5 NEO RGB"
+      },
+      {
+        "Price": 561.00,
+        "Features": [
+          "12Gen",
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "DDR5",
+          "6666mhz",
+          "22xVRM",
+          "Wifi",
+          "7xUSB",
+          "6xSATA",
+          "5xM.2I",
+          "6xAudio"
+        ],
+        "Date": "2024-06-18T12:19:10.2334217-04:00",
+        "Update": "2024-08-07T15:17:19.74586-04:00",
+        "Discount": 3.0,
+        "Label": "Kit i7-12700K +MSI MEG Z690 ACE"
+      },
+      {
+        "Price": 701.00,
+        "Features": [
+          "12Gen",
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "2x16GB",
+          "DDR5",
+          "22xVRM",
+          "Wifi",
+          "7xUSB",
+          "6xSATA",
+          "5xM.2I",
+          "6xAudio"
+        ],
+        "Date": "2024-06-18T12:20:55.2149782-04:00",
+        "Update": "2024-08-07T15:17:19.7823973-04:00",
+        "Discount": 2.0,
+        "Label": "Kit i7-12700K +MSI MEG Z690 ACE +32GB DDR5 Trident Z5 Neo RGB 6400mhz"
+      },
+      {
+        "Price": 791.00,
+        "Features": [
+          "12Gen",
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "2x16GB",
+          "DDR5",
+          "22xVRM",
+          "Wifi",
+          "7xUSB",
+          "6xSATA",
+          "5xM.2I",
+          "6xAudio"
+        ],
+        "Date": "2024-06-18T12:21:38.9439181-04:00",
+        "Update": "2024-08-07T15:17:19.8168571-04:00",
+        "Discount": 1.0,
+        "Label": "Kit i7-12700K +Hyper 620S Dual +MSI MEG Z690 ACE +32GB DDR5 RGB 6400mhz"
+      },
+      {
+        "Price": 690.00,
+        "Features": [
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "2x16",
+          "6000mhz",
+          "Wifi",
+          "7xUSB",
+          "4xSATA"
+        ],
+        "Date": "2024-01-28T05:41:45.404773-05:00",
+        "Update": "2024-08-07T15:17:19.8517363-04:00",
+        "Discount": 10.0,
+        "Label": "Kit i7-12700K +Hyper 212 Spectrum V3 +MSI Z790 Gaming Pro Wifi +32GB DDR5 RGB"
       }
     ],
     "Entusiasta": [
@@ -731,6 +811,25 @@
         "Date": "2024-07-31T06:19:37.3875087-04:00",
         "Update": "2024-07-31T06:25:31.3049433-04:00",
         "Label": "PSU CORSAIR RM750e 750W 80+ Gold Full Modular"
+      },
+      {
+        "Price": 209.00,
+        "Features": [
+          "80+ Gold",
+          "Full Modular",
+          "83A",
+          "6x 6+2Pin",
+          "14x SATA",
+          "3x 4+4 EPS",
+          "8x PATA",
+          "180mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2023-04-15T07:27:11.3654492-04:00",
+        "Update": "2024-08-07T15:17:19.7061547-04:00",
+        "Def": true,
+        "Label": "Fuente Corsair RM1000X 1000W"
       }
     ],
     "Disipador Líquido": [
@@ -1206,6 +1305,45 @@
         "Date": "2024-07-17T11:46:21.5677009-04:00",
         "Update": "2024-07-17T14:25:49.0415541-04:00",
         "Label": "Disipador Líquido NZXT Kraken RGB 280 Black"
+      },
+      {
+        "Price": 229.00,
+        "Features": [
+          "2500rpm",
+          "81cfm",
+          "38db",
+          "Copper",
+          "3xFan",
+          "360mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "LGA 20XX",
+          "LGA 1366",
+          "AM4",
+          "TR4"
+        ],
+        "Date": "2023-06-19T07:48:54.393261-04:00",
+        "Update": "2024-08-07T15:17:19.5274973-04:00",
+        "Label": "Disipador Líquido Asus ROG Strix LC II 360 ARGB"
+      },
+      {
+        "Price": 169.00,
+        "Features": [
+          "1750rpm",
+          "72cfm",
+          "27db",
+          "3xFan",
+          "360mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM5",
+          "AM4"
+        ],
+        "Date": "2023-10-11T10:56:44.8974468-04:00",
+        "Update": "2024-08-07T15:17:19.5641439-04:00",
+        "Label": "Disipador Líquido Cooler Master MasterLiquid 360L Core"
       }
     ],
     "Disco Duro": [
@@ -1563,6 +1701,17 @@
         "Date": "2024-05-03T10:37:20.0612972-04:00",
         "Update": "2024-07-26T08:53:47.8967591-04:00",
         "Label": "Thermalright LGA1700-BCF Black V2"
+      },
+      {
+        "Price": 32.00,
+        "Features": [
+          "8xFan",
+          "8xARGB",
+          "PWM"
+        ],
+        "Date": "2023-12-15T02:03:00.6236319-05:00",
+        "Update": "2024-08-07T15:17:19.6712144-04:00",
+        "Label": "Fan HUB Thermalright Controlador ARGB 8x"
       }
     ],
     "Disipador por Aire": [
@@ -2912,6 +3061,25 @@
         "Date": "2024-07-26T09:27:39.1800339-04:00",
         "Update": "2024-07-31T08:39:40.0107175-04:00",
         "Label": "Board Gigabyte Z790 Aorus Elite X AX"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "4800mhz",
+          "VGA",
+          "5xUSB",
+          "4xSATA",
+          "HDMI",
+          "DisplayPort",
+          "LGA 1700",
+          "3xAudio",
+          "Micro ATX",
+          "MOBO"
+        ],
+        "Date": "2023-10-11T10:56:24.0277774-04:00",
+        "Update": "2024-08-07T15:17:19.599903-04:00",
+        "Label": "Board MSI Pro B760M-P DDR4"
       }
     ],
     "Red": [
@@ -3179,6 +3347,23 @@
         "Date": "2023-11-30T11:20:49.6412308-05:00",
         "Update": "2024-07-30T14:25:21.4994598-04:00",
         "Label": "Micro AMD Ryzen 5 5600X +Disipador"
+      },
+      {
+        "Price": 375.00,
+        "Features": [
+          "13Gen",
+          "24 Hilos",
+          "16 Core",
+          "5.4GHz",
+          "30MB L3",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-03-22T09:04:14.8362359-04:00",
+        "Update": "2024-08-07T15:17:19.6362845-04:00",
+        "Label": "Micro Intel Core i7-13700K"
       }
     ]
   },
