@@ -16,22 +16,6 @@
         "Update": "2024-07-28T07:42:39.5280638-04:00",
         "Discount": 11.0,
         "Label": "Torre i5-12600K +Hyper 212 Spectrum V3 +MSI Pro Z790-S Wifi +32GB DDR5 +512GB M.2 +750W"
-      },
-      {
-        "Price": 1235.00,
-        "Features": [],
-        "Date": "2024-07-28T08:07:11.9852243-04:00",
-        "Update": "2024-07-28T08:13:15.3646303-04:00",
-        "Discount": 18.0,
-        "Label": "Torre i9-12900K +Corsair H60x RGB Elite +Z790 Aorus Elite X AX +32GB DDR5 +1TB M.2 +750W"
-      },
-      {
-        "Price": 1993.00,
-        "Features": [],
-        "Date": "2024-07-28T10:44:17.3769738-04:00",
-        "Update": "2024-07-28T10:48:19.0047855-04:00",
-        "Discount": 9.0,
-        "Label": "Torre RTX 4070 OC 12GB +Ryzen 9 7900X +Liquida +Strix B650-A Gaming +32GB DDR5 +1TB M.2 +850W"
       }
     ],
     "Gamer": [
@@ -42,13 +26,6 @@
         "Update": "2024-07-28T10:58:11.0536334-04:00",
         "Discount": 27.0,
         "Label": "Torre RTX 4070 12GB +i5-12600K +Liquida 240 +Strix Z790-H +32GB DDR5 +1TB M.2 +850W"
-      },
-      {
-        "Price": 1330.00,
-        "Features": [],
-        "Date": "2024-08-04T09:23:15.9615886-04:00",
-        "Update": "2024-08-04T09:24:43.8263294-04:00",
-        "Label": "Torre Gamer 12Gen"
       }
     ],
     "Entusiasta": [
@@ -1909,28 +1886,6 @@
         "Label": "Disipador AMD Wraith Stealth x7 S5000"
       },
       {
-        "Price": 45.00,
-        "Features": [
-          "ARGB",
-          "4xPipes",
-          "68cfm",
-          "30dBA",
-          "2500rpm",
-          "Negro",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4",
-          "AM5",
-          "Tower",
-          "1xFan"
-        ],
-        "Date": "2023-09-23T14:09:08.5628773-04:00",
-        "Update": "2024-07-09T10:47:17.3513077-04:00",
-        "Def": true,
-        "Label": "Disipador ID-COOLING SE-214-XT ARGB Black"
-      },
-      {
         "Price": 119.00,
         "Features": [
           "1700rpm",
@@ -2208,23 +2163,6 @@
         "Date": "2023-12-19T06:42:00.2738717-05:00",
         "Update": "2024-04-30T06:43:08.0682226-04:00",
         "Label": "Tarjeta de Video Asus ProArt RTX 4060 OC 8GB"
-      },
-      {
-        "Price": 689.00,
-        "Features": [
-          "DLSS3",
-          "3xfan",
-          "1x8Pin",
-          "650WR",
-          "300mm",
-          "GeForce",
-          "NVIDIA",
-          "GPU",
-          "Gráfica"
-        ],
-        "Date": "2024-04-30T06:45:02.7666735-04:00",
-        "Update": "2024-04-30T09:33:05.552666-04:00",
-        "Label": "Tarjeta de Video Asus ProArt RTX 4070 OC 12GB"
       },
       {
         "Price": 475.00,
@@ -2713,18 +2651,6 @@
         "Date": "2023-08-21T08:57:50.0608494-04:00",
         "Update": "2024-07-09T10:47:17.4836349-04:00",
         "Label": "SSD M.2 Samsung 990 PRO 1TB"
-      },
-      {
-        "Price": 115.00,
-        "Features": [
-          "7400mbs",
-          "700TBW",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2024-07-10T11:20:51.0492471-04:00",
-        "Update": "2024-07-10T12:45:14.1453882-04:00",
-        "Label": "SSD M.2 MSI Spatium M480 Pro 1TB"
       },
       {
         "Price": 65.00,
