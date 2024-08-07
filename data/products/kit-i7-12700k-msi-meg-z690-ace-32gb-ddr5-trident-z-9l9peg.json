@@ -11,7 +11,7 @@
     "/images/products/kit-i7-12700k-msi-meg-z690-ace-32gb-ddr5-trident-z-9l9peg-7.webp"
   ],
   "Description": "+ Micro Intel Core i7-12700K\n+ Board MSI MEG Z690 ACE\n+ RAM DDR5 G.Skill Trident Z5 NEO RGB 32GB 6400mhz\n",
-  "Price": 695.00,
+  "Price": 701.00,
   "Features": [
     "12Gen",
     "20 Hilos",
@@ -27,7 +27,7 @@
     "6xAudio"
   ],
   "Date": "2024-06-18T12:20:55.2149782-04:00",
-  "Update": "2024-07-17T11:25:21.677507-04:00",
+  "Update": "2024-08-07T15:17:19.7823973-04:00",
   "Discount": 2.0,
   "Label": "Kit i7-12700K +MSI MEG Z690 ACE +32GB DDR5 Trident Z5 Neo RGB 6400mhz"
 }
