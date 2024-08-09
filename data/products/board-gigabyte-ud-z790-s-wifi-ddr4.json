@@ -15,6 +15,10 @@
     "5333mhz",
     "10xVRM",
     "Wifi",
+    "Q-Flash",
+    "PCIe4",
+    "M.2 Gen4",
+    "3xM.2",
     "Bluetooth",
     "8xUSB",
     "4xSATA",
@@ -26,6 +30,6 @@
     "MOBO"
   ],
   "Date": "2024-07-09T10:47:38.8047241-04:00",
-  "Update": "2024-07-10T13:38:42.6491962-04:00",
+  "Update": "2024-08-09T16:55:12.7302174-04:00",
   "Label": "Board Gigabyte UD Z790 S Wifi DDR4"
 }
