@@ -1898,6 +1898,13 @@
         "Date": "2023-07-26T18:49:11.7802452-04:00",
         "Update": "2024-07-30T14:25:21.3655251-04:00",
         "Label": "Disipador Cooler Master Hyper 622 Halo Black"
+      },
+      {
+        "Price": 149.00,
+        "Features": [],
+        "Date": "2024-08-08T01:34:31.8902554-04:00",
+        "Update": "2024-08-09T17:00:53.0078578-04:00",
+        "Label": "Disipador Noctua NH-U14S with NF-A15 Brown"
       }
     ],
     "Chasis": [
@@ -2783,46 +2790,6 @@
         "Label": "Board Asus ROG Strix Z790-F Gaming Wifi"
       },
       {
-        "Price": 199.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "8xSATA",
-          "5333mhz",
-          "13xVRM",
-          "6xAudio",
-          "6xUSB",
-          "HDMI",
-          "PS2",
-          "LGA 1700",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-10-19T09:32:16.7888545-04:00",
-        "Update": "2024-07-10T13:38:42.5232251-04:00",
-        "Label": "Board ASRock Z690 PG Riptide DDR4"
-      },
-      {
-        "Price": 225.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "5333mhz",
-          "10xVRM",
-          "Wifi",
-          "Bluetooth",
-          "8xUSB",
-          "4xSATA",
-          "HDMI",
-          "DisplayPort",
-          "6xAudio",
-          "LGA 1700",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2024-07-09T10:47:38.8047241-04:00",
-        "Update": "2024-07-10T13:38:42.6491962-04:00",
-        "Label": "Board Gigabyte UD Z790 S Wifi DDR4"
-      },
-      {
         "Price": 335.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -2841,27 +2808,6 @@
         "Date": "2023-03-29T20:18:17.8757341-04:00",
         "Update": "2024-07-10T14:06:39.5974714-04:00",
         "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
-      },
-      {
-        "Price": 219.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "6600mhz",
-          "14xVRM",
-          "WIFI",
-          "6xUSB",
-          "4xSATA",
-          "LGA 1700",
-          "DP",
-          "HDMI",
-          "Bluetooth",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-12-07T23:40:26.7525408-05:00",
-        "Update": "2024-07-17T14:47:06.1382726-04:00",
-        "Label": "Board MSI Pro Z790-S Wifi"
       },
       {
         "Price": 295.00,
@@ -2886,28 +2832,6 @@
         "Label": "Board Asus ROG Strix B650-A Gaming Wifi"
       },
       {
-        "Price": 235.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "7600mhz",
-          "18xVRM",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "LGA 1700",
-          "PS2",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-05-14T10:52:20.5741642-04:00",
-        "Update": "2024-07-17T14:58:28.7150267-04:00",
-        "Label": "Board Gigabyte Z790 UD AC"
-      },
-      {
         "Price": 255.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -2926,28 +2850,6 @@
         "Date": "2023-07-26T18:48:46.1112283-04:00",
         "Update": "2024-07-17T15:14:51.4053108-04:00",
         "Label": "Board ASRock Z790 PG RIPTIDE"
-      },
-      {
-        "Price": 189.00,
-        "Features": [
-          "12va-13ra-14ta",
-          "DDR5",
-          "5800mhz",
-          "PCIe 5.0",
-          "M.2 Gen4",
-          "Bios Flashback",
-          "3xM.2",
-          "7xUSB",
-          "HDMI",
-          "4xSATA",
-          "LGA 1700",
-          "3xAudio",
-          "PS2",
-          "MOBO"
-        ],
-        "Date": "2023-10-23T12:32:47.8333341-04:00",
-        "Update": "2024-07-30T14:25:21.4105561-04:00",
-        "Label": "Board ASRock Z690 Phantom Gaming 4 D5"
       },
       {
         "Price": 275.00,
@@ -2971,13 +2873,135 @@
         "Label": "Board Gigabyte Z790 Aorus Elite X AX"
       },
       {
+        "Price": 199.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "8xSATA",
+          "5333mhz",
+          "BIOS Flashback",
+          "PCIe5",
+          "13xVRM",
+          "M.2 Gen4",
+          "3xM.2",
+          "6xAudio",
+          "6xUSB",
+          "HDMI",
+          "PS2",
+          "LGA 1700",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-10-19T09:32:16.7888545-04:00",
+        "Update": "2024-08-09T16:55:12.6910134-04:00",
+        "Label": "Board ASRock Z690 PG Riptide DDR4"
+      },
+      {
+        "Price": 225.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "5333mhz",
+          "10xVRM",
+          "Wifi",
+          "Q-Flash",
+          "PCIe4",
+          "M.2 Gen4",
+          "3xM.2",
+          "Bluetooth",
+          "8xUSB",
+          "4xSATA",
+          "HDMI",
+          "DisplayPort",
+          "6xAudio",
+          "LGA 1700",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2024-07-09T10:47:38.8047241-04:00",
+        "Update": "2024-08-09T16:55:12.7302174-04:00",
+        "Label": "Board Gigabyte UD Z790 S Wifi DDR4"
+      },
+      {
+        "Price": 219.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "6600mhz",
+          "14xVRM",
+          "PCIe5",
+          "M.2 Gen4",
+          "3x M.2",
+          "WIFI",
+          "6xUSB",
+          "4xSATA",
+          "LGA 1700",
+          "DP",
+          "HDMI",
+          "Bluetooth",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-12-07T23:40:26.7525408-05:00",
+        "Update": "2024-08-09T16:55:12.7701425-04:00",
+        "Label": "Board MSI Pro Z790-S Wifi"
+      },
+      {
+        "Price": 235.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "7600mhz",
+          "18xVRM",
+          "Q-Flash",
+          "PCIe5",
+          "M.2 Gen4",
+          "3x M.2",
+          "Wifi",
+          "9xUSB",
+          "6xSATA",
+          "LGA 1700",
+          "PS2",
+          "DisplayPort",
+          "HDMI",
+          "3xAudio",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-05-14T10:52:20.5741642-04:00",
+        "Update": "2024-08-09T16:55:12.8100772-04:00",
+        "Label": "Board Gigabyte Z790 UD AC"
+      },
+      {
+        "Price": 189.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "5800mhz",
+          "10xVRM",
+          "PCIe5",
+          "M.2 Gen4",
+          "Bios Flashback",
+          "3xM.2",
+          "7xUSB",
+          "HDMI",
+          "4xSATA",
+          "LGA 1700",
+          "3xAudio",
+          "PS2",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-10-23T12:32:47.8333341-04:00",
+        "Update": "2024-08-09T16:55:12.8513755-04:00",
+        "Label": "Board ASRock Z690 Phantom Gaming 4 D5"
+      },
+      {
         "Price": 165.00,
         "Features": [
           "12Gen-13Gen-14Gen",
           "4800mhz",
           "8xVRM",
           "VGA",
-          "PCIe 4",
+          "PCIe4",
           "M.2  Gen4",
           "2xM.2",
           "5xUSB",
@@ -2990,7 +3014,7 @@
           "MOBO"
         ],
         "Date": "2023-10-11T10:56:24.0277774-04:00",
-        "Update": "2024-08-09T13:59:06.7754666-04:00",
+        "Update": "2024-08-09T16:55:12.8901785-04:00",
         "Label": "Board MSI Pro B760M-P DDR4"
       }
     ],
@@ -3258,6 +3282,13 @@
         "Date": "2023-03-22T09:04:14.8362359-04:00",
         "Update": "2024-08-07T15:17:19.6362845-04:00",
         "Label": "Micro Intel Core i7-13700K"
+      },
+      {
+        "Price": 255.00,
+        "Features": [],
+        "Date": "2024-08-08T01:34:14.9282379-04:00",
+        "Update": "2024-08-09T17:00:52.9453725-04:00",
+        "Label": "Micro Intel Core i5-14500"
       }
     ]
   },
@@ -3616,6 +3647,15 @@
         "Date": "2024-06-07T05:57:26.9623429-04:00",
         "Update": "2024-07-10T12:45:13.8847712-04:00",
         "Label": "Caja Externo 2.5 GiGimundo USB-C"
+      },
+      {
+        "Price": 17.00,
+        "Features": [
+          "SZPW25-C3-BK"
+        ],
+        "Date": "2024-08-08T01:34:08.46623-04:00",
+        "Update": "2024-08-09T17:00:52.9009373-04:00",
+        "Label": "Caja 2.5 Sanzang USB3 USB Type C to A"
       }
     ],
     "Mouse": [
