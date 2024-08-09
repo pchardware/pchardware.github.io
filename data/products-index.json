@@ -221,26 +221,6 @@
         "Label": "Kit i5-12600K +Hyper 212 +Z790 Aorus Elite X AX +32GB DDR5 Trident Z5 NEO RGB"
       },
       {
-        "Price": 859.00,
-        "Features": [
-          "12Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "2x16GB",
-          "6000mhz",
-          "DDR5",
-          "19xVRM",
-          "8xUSB",
-          "6xAudio",
-          "4xSATA"
-        ],
-        "Date": "2024-07-31T13:35:24.9470337-04:00",
-        "Update": "2024-07-31T13:47:35.105233-04:00",
-        "Discount": 5.0,
-        "Label": "Kit i7-12700KF +Líquida +Strix Z790-H Gaming Wifi +32GB DDR5 Corsair Vengeance RGB"
-      },
-      {
         "Price": 885.00,
         "Features": [
           "12Gen",
@@ -341,23 +321,6 @@
         "Update": "2024-08-07T15:17:19.8168571-04:00",
         "Discount": 1.0,
         "Label": "Kit i7-12700K +Hyper 620S Dual +MSI MEG Z690 ACE +32GB DDR5 RGB 6400mhz"
-      },
-      {
-        "Price": 690.00,
-        "Features": [
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "2x16",
-          "6000mhz",
-          "Wifi",
-          "7xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-01-28T05:41:45.404773-05:00",
-        "Update": "2024-08-07T15:17:19.8517363-04:00",
-        "Discount": 10.0,
-        "Label": "Kit i7-12700K +Hyper 212 Spectrum V3 +MSI Z790 Gaming Pro Wifi +32GB DDR5 RGB"
       }
     ],
     "Entusiasta": [
@@ -1303,24 +1266,6 @@
         "Date": "2023-06-19T07:48:54.393261-04:00",
         "Update": "2024-08-07T15:17:19.5274973-04:00",
         "Label": "Disipador Líquido Asus ROG Strix LC II 360 ARGB"
-      },
-      {
-        "Price": 169.00,
-        "Features": [
-          "1750rpm",
-          "72cfm",
-          "27db",
-          "3xFan",
-          "360mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM5",
-          "AM4"
-        ],
-        "Date": "2023-10-11T10:56:44.8974468-04:00",
-        "Update": "2024-08-07T15:17:19.5641439-04:00",
-        "Label": "Disipador Líquido Cooler Master MasterLiquid 360L Core"
       }
     ],
     "Disco Duro": [
@@ -2427,17 +2372,6 @@
         "Label": "RAM DDR5 Corsair Vengeance 16GB 5200mhz"
       },
       {
-        "Price": 135.00,
-        "Features": [
-          "CL36",
-          "2x16GB",
-          "Disipadas"
-        ],
-        "Date": "2023-03-30T09:56:12.5688722-04:00",
-        "Update": "2024-07-10T12:45:13.996107-04:00",
-        "Label": "RAM DDR5 Corsair Vengeance RGB 32GB 6000mhz"
-      },
-      {
         "Price": 235.00,
         "Features": [
           "CL40",
@@ -3287,24 +3221,6 @@
         "Date": "2023-03-22T09:04:00.899336-04:00",
         "Update": "2024-07-10T12:45:13.7138634-04:00",
         "Label": "Micro Intel Core i3-13100 +Disipador"
-      },
-      {
-        "Price": 209.00,
-        "Features": [
-          "12Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "25MB L3",
-          "34456pm",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2024-05-25T23:01:27.6116167-04:00",
-        "Update": "2024-07-26T08:53:47.9757996-04:00",
-        "Label": "Micro Intel Core i7-12700KF"
       },
       {
         "Price": 175.00,
