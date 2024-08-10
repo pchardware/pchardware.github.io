@@ -2,7 +2,7 @@
   "Torres": {
     "Pro": [
       {
-        "Price": 2839.00,
+        "Price": 2829.00,
         "Features": [],
         "Date": "2024-07-13T02:00:39.679024-04:00",
         "Update": "2024-07-13T02:04:01.3750643-04:00",
@@ -20,7 +20,7 @@
     ],
     "Gamer": [
       {
-        "Price": 2065.00,
+        "Price": 2055.00,
         "Features": [],
         "Date": "2024-07-28T10:51:02.3613434-04:00",
         "Update": "2024-07-28T10:58:11.0536334-04:00",
@@ -30,7 +30,7 @@
     ],
     "Entusiasta": [
       {
-        "Price": 3149.00,
+        "Price": 3129.00,
         "Features": [],
         "Date": "2024-07-13T01:52:17.0525507-04:00",
         "Update": "2024-08-04T11:49:52.690327-04:00",
@@ -1889,7 +1889,7 @@
         "Label": "Tarjeta de Video EVGA RTX 3080Ti XC3 Hydro Copper 12GB"
       },
       {
-        "Price": 575.00,
+        "Price": 565.00,
         "Features": [
           "2xFan",
           "700WR",
@@ -1904,7 +1904,7 @@
         "Label": "Tarjeta de Video Saphire RX 7800 XT 16GB"
       },
       {
-        "Price": 835.00,
+        "Price": 829.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -1921,7 +1921,7 @@
         "Label": "Tarjeta de Video Gigabyte Aorus RTX 4070 Super Master 12GB"
       },
       {
-        "Price": 975.00,
+        "Price": 969.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -1971,7 +1971,7 @@
         "Label": "Tarjeta de Video XFX Speedster Swift 210 RX 6650 XT Core 8GB"
       },
       {
-        "Price": 585.00,
+        "Price": 579.00,
         "Features": [
           "3xFan",
           "1x8Pin",
@@ -2005,7 +2005,7 @@
         "Label": "Tarjeta de Video Asus ProArt RTX 4060 OC 8GB"
       },
       {
-        "Price": 475.00,
+        "Price": 469.00,
         "Features": [
           "DLSS3",
           "3xFan",
@@ -2022,7 +2022,7 @@
         "Label": "Tarjeta de Video Asus ROG Strix RTX 4060 OC 8GB"
       },
       {
-        "Price": 459.00,
+        "Price": 445.00,
         "Features": [
           "3xFan",
           "2x8Pin",
@@ -2054,7 +2054,7 @@
         "Label": "Tarjeta de Video MSI Ventus RTX 3050 2X XS 8GB OC"
       },
       {
-        "Price": 769.00,
+        "Price": 765.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2071,7 +2071,7 @@
         "Label": "Tarjeta de Video Asus TUF Gaming RTX 4070 SUPER OC 12GB"
       },
       {
-        "Price": 735.00,
+        "Price": 725.00,
         "Features": [
           "DLSS3",
           "3xfan",
@@ -2088,7 +2088,7 @@
         "Label": "Tarjeta de Video Asus ROG Strix RTX 4070 12GB"
       },
       {
-        "Price": 959.00,
+        "Price": 939.00,
         "Features": [
           "DLSS3",
           "3xfan",
