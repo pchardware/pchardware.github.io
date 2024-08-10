@@ -58,62 +58,6 @@
         "Label": "Kit i9-12900K + MSI MEG Z690 ACE Potencia y estilo en un solo combo"
       },
       {
-        "Price": 424.00,
-        "Features": [
-          "12Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "DDR5",
-          "7200mhz",
-          "16xVRM",
-          "Wifi",
-          "Dual Lan",
-          "7xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-07-01T04:52:31.4861577-04:00",
-        "Update": "2024-07-01T07:39:23.2956565-04:00",
-        "Label": "Kit i5-12600KF +MSI Z790 Gaming Pro Wifi"
-      },
-      {
-        "Price": 478.00,
-        "Features": [
-          "12Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "DDR5",
-          "6666mhz",
-          "22xVRM",
-          "Wifi",
-          "7xUSB",
-          "6xSATA"
-        ],
-        "Date": "2024-07-01T04:53:01.8533789-04:00",
-        "Update": "2024-07-01T07:39:23.3200918-04:00",
-        "Label": "Kit i5-12600KF +MSI MEG Z690 ACE"
-      },
-      {
-        "Price": 705.00,
-        "Features": [
-          "12Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "DDR5",
-          "6666mhz",
-          "22xVRM",
-          "Wifi",
-          "7xUSB",
-          "6xSATA"
-        ],
-        "Date": "2024-07-01T05:12:52.2765564-04:00",
-        "Update": "2024-07-01T07:39:23.3886895-04:00",
-        "Discount": 1.0,
-        "Label": "Kit i5-12600KF +Hyper 620S Dual +MSI MEG Z690 ACE + 32GB DDR5 RGB 6400mhz"
-      },
-      {
         "Price": 434.00,
         "Features": [
           "16 Hilos",
@@ -184,23 +128,6 @@
         "Label": "Kit i5-12600K +MSI Z790 Gaming Pro Wifi"
       },
       {
-        "Price": 368.00,
-        "Features": [
-          "12Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "8xSATA",
-          "5333mhz",
-          "13xVRM",
-          "6xAudio",
-          "6xUSB"
-        ],
-        "Date": "2024-07-31T08:11:22.890423-04:00",
-        "Update": "2024-07-31T08:33:30.0509269-04:00",
-        "Label": "Kit i5-12600KF +ASRock Z690 PG Riptide DDR4"
-      },
-      {
         "Price": 665.00,
         "Features": [
           "12Gen",
@@ -239,25 +166,6 @@
         "Update": "2024-08-01T07:37:56.5310961-04:00",
         "Discount": 5.0,
         "Label": "Kit i9-12900K +Líquido 240 ARGB +Gigabyte Z790 Aorus Elite X AX +32GB DDR5 RGB"
-      },
-      {
-        "Price": 579.00,
-        "Features": [
-          "12Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "2x16GB",
-          "6400mhz",
-          "14xVRM",
-          "WIFI",
-          "6xUSB",
-          "4xSATA"
-        ],
-        "Date": "2024-08-01T07:20:31.9701058-04:00",
-        "Update": "2024-08-01T07:37:56.7034378-04:00",
-        "Discount": 3.0,
-        "Label": "Kit i5-12600KF +Hyper 212 +Z790-S Wifi +32GB DDR5 G.Skill Trident Z5 NEO RGB"
       },
       {
         "Price": 561.00,
@@ -520,26 +428,6 @@
         "Date": "2023-12-19T06:42:21.8253659-05:00",
         "Update": "2024-05-02T12:58:32.3775833-04:00",
         "Label": "Fuente EVGA 400 N1 400W"
-      },
-      {
-        "Price": 129.00,
-        "Features": [
-          "ATX3.0",
-          "63A",
-          "80+ Bronze",
-          "1x 16Pin",
-          "2x 4+4 EPS",
-          "2x 6+2Pin",
-          "5x SATA",
-          "2x PATA",
-          "140mm",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2024-05-03T06:17:23.2912172-04:00",
-        "Update": "2024-05-03T09:34:05.523577-04:00",
-        "Def": true,
-        "Label": "Fuente MSI MAG A750BN 750W"
       },
       {
         "Price": 199.00,
@@ -2663,18 +2551,6 @@
         "Label": "SSD 2.5 Patriot Burst 960GB"
       },
       {
-        "Price": 95.00,
-        "Features": [
-          "5150mbs",
-          "600TBW",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2024-07-31T06:19:43.7673573-04:00",
-        "Update": "2024-07-31T08:00:19.1755995-04:00",
-        "Label": "SSD M.2 Western Digital BLACK SN770 1TB"
-      },
-      {
         "Price": 69.00,
         "Features": [
           "3600mbs",
@@ -3104,24 +2980,6 @@
         "Date": "2023-02-17T09:30:45.7586545-05:00",
         "Update": "2024-05-19T21:05:41.3274271-04:00",
         "Label": "Micro Intel Core i7-12700K"
-      },
-      {
-        "Price": 169.00,
-        "Features": [
-          "12Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "20MB L3",
-          "27439pm",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-10-16T10:24:13.8080802-04:00",
-        "Update": "2024-05-19T21:05:41.3707217-04:00",
-        "Label": "Micro Intel Core i5-12600KF"
       },
       {
         "Price": 579.00,
