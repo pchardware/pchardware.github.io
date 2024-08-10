@@ -8,7 +8,7 @@
     "/images/products/tarjeta-de-video-asus-rog-strix-rtx-4070-ti-12gb-4.webp"
   ],
   "Description": "La tarjeta de video Asus ROG Strix RTX 4070 Ti 12GB tiene las siguientes características:\n\nMotor gráfico: NVIDIA® GeForce RTX™ 4070 Ti\nEstándar de bus: PCI Express 4.0\nMemoria de video: 12GB GDDR6X\nVelocidad del reloj del motor: Modo OC: 2640 MHz / Modo predeterminado: 2610 MHz\nNúcleos CUDA: 7680\nVelocidad de la memoria: 21 Gbps\nInterfaz de memoria: 192-bit\nResolución máxima digital: 7680 x 4320\nSoporte HDCP: Sí (2.3).\nSoporte de visualización máximo: 4.\nConectores de alimentación: 1 x 16 pines\nRanura: 3.15\nDimensiones: 336 x 150 x 63 mm\nPSU recomendada: 750W\n\nAdemás, cuenta con tecnología NVIDIA DLSS3, arquitectura ultraeficiente Ada Lovelace y trazado de rayos completo. Los núcleos tensor de cuarta generación ofrecen un rendimiento hasta 4 veces mayor con DLSS 3 frente al renderizado de fuerza bruta. Los núcleos RT de tercera generación ofrecen hasta 2 veces el rendimiento de trazado de rayos.\n\nLos ventiladores Axial-tech se han ampliado para propulsar un 31% más de aire a través de la tarjeta, lo que establece el escenario para temperaturas más bajas, menos ruido y un mayor rendimiento1. Los dos ventiladores laterales giran en sentido contrario a las agujas del reloj para minimizar la turbulencia y maximizar la dispersión del aire a través del disipador de calor.",
-  "Price": 959.00,
+  "Price": 939.00,
   "Features": [
     "DLSS3",
     "3xfan",
