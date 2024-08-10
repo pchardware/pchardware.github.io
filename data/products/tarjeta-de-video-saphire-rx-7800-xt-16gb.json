@@ -9,7 +9,7 @@
     "/images/products/tarjeta-de-video-saphire-rx-7800-xt-16gb-5.webp"
   ],
   "Description": "Model\nBrand: SAPPHIRE\nModel: 21330-01-20G\n\n\nInterface\nInterface: PCI Express 4.0 x16\n\n\nChipset\nChipset Manufacturer: AMD\nGPU Series: AMD Radeon RX 7000 Series\nGPU: Radeon RX 7800 XT\nCore Clock: 2124 MHz\nBoost Clock: 2430 MHz\nStream Processors: 3840 Stream Processors\n\n\nMemory\nMemory Size: 16GB\nMemory Interface: 256-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12 Ultimate\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 1 x HDMI 2.1\nDisplayPort: 3 x DisplayPort 2.1\n\n\nDetails\nMax Resolution: 7680 x 4320\nCooler: Double Fans\nThermal Design Power: 263W\nRecommended PSU Wattage: 700W\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 280 mm\nSlot Width: 2.5 Slots",
-  "Price": 575.00,
+  "Price": 565.00,
   "Features": [
     "2xFan",
     "700WR",
