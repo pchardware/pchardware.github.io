@@ -8,7 +8,7 @@
     "/images/products/tarjeta-de-video-asus-rog-strix-rtx-4060-oc-8gb-4.webp"
   ],
   "Description": "Model\nBrand: ASUS\nSeries: ROG\nModel: ROG-STRIX-RTX4060-O8G-GAMING\nPart Number: 90YV0JB0-M0AA00\n\n\nInterface\nInterface: PCI Express 4.0\n\n\nChipset\nChipset Manufacturer: NVIDIA\nGPU Series: NVIDIA GeForce RTX 40 Series\nGPU: GeForce RTX 4060\nCUDA Cores: 3072 Cores\n\n\nMemory\nEffective Memory Clock: 17000 MHz\nMemory Size: 8GB\nMemory Interface: 128-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 4\nHDMI: 1 x HDMI 2.1a\nDisplayPort: 3 x DisplayPort 1.4a\n\n\nDetails\nMax Resolution: 7680 x 4320\nCooler: Triple Fans\nThermal Design Power: 115W\nRecommended PSU Wattage: 550W\nPower Connector: 8-Pin\nHDCP Ready: Yes\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 312 mm\nSlot Width: 3.1 Slots",
-  "Price": 475.00,
+  "Price": 469.00,
   "Features": [
     "DLSS3",
     "3xFan",
