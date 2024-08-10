@@ -10,7 +10,7 @@
         "Label": "Torre RTX 4070 12GB +i9-13900K +Liquida +Strix Z790-H Gaming +64GB DDR5 +2TB M2 +1000W"
       },
       {
-        "Price": 939.00,
+        "Price": 929.00,
         "Features": [],
         "Date": "2024-07-28T06:51:25.2461404-04:00",
         "Update": "2024-07-28T07:42:39.5280638-04:00",
@@ -20,7 +20,7 @@
     ],
     "Gamer": [
       {
-        "Price": 2075.00,
+        "Price": 2065.00,
         "Features": [],
         "Date": "2024-07-28T10:51:02.3613434-04:00",
         "Update": "2024-07-28T10:58:11.0536334-04:00",
@@ -58,7 +58,7 @@
         "Label": "Kit i9-12900K + MSI MEG Z690 ACE Potencia y estilo en un solo combo"
       },
       {
-        "Price": 434.00,
+        "Price": 424.00,
         "Features": [
           "16 Hilos",
           "10 Core",
@@ -111,7 +111,7 @@
         "Label": "Kit i9-12900K +Gigabyte Z790 Aorus Elite X AX"
       },
       {
-        "Price": 454.00,
+        "Price": 444.00,
         "Features": [
           "12Gen",
           "16 Hilos",
@@ -128,7 +128,7 @@
         "Label": "Kit i5-12600K +MSI Z790 Gaming Pro Wifi"
       },
       {
-        "Price": 665.00,
+        "Price": 655.00,
         "Features": [
           "12Gen",
           "16 Hilos",
@@ -1955,7 +1955,7 @@
         "Label": "Tarjeta de Video Gigabyte RTX 3070 Gaming OC 8GB"
       },
       {
-        "Price": 289.00,
+        "Price": 285.00,
         "Features": [
           "2xFan",
           "1x8Pin",
@@ -2572,6 +2572,7 @@
         ],
         "Date": "2024-08-08T01:34:00.7772698-04:00",
         "Update": "2024-08-08T02:27:17.8370464-04:00",
+        "Def": true,
         "Label": "SSD M.2 Samsung MZ-VPW2560 256GB"
       },
       {
@@ -2596,6 +2597,7 @@
         ],
         "Date": "2024-08-08T01:34:40.0803144-04:00",
         "Update": "2024-08-08T02:27:17.998162-04:00",
+        "Def": true,
         "Label": "SSD M.2 Samsung MZ-VL42560 256GB"
       }
     ],
@@ -2946,7 +2948,7 @@
         "Label": "Micro Intel Core i9-12900K"
       },
       {
-        "Price": 199.00,
+        "Price": 189.00,
         "Features": [
           "12Gen",
           "16 Hilos",
@@ -3072,7 +3074,7 @@
         "Label": "Micro Intel Core i3-12100 +Disipador"
       },
       {
-        "Price": 165.00,
+        "Price": 159.00,
         "Features": [
           "Radeon Graphics",
           "AM4",
@@ -3109,7 +3111,7 @@
         "Label": "Micro Intel Core i3-13100 +Disipador"
       },
       {
-        "Price": 175.00,
+        "Price": 165.00,
         "Features": [
           "AM4",
           "6 Core",
