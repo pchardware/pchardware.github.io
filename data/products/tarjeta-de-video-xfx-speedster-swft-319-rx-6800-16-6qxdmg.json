@@ -10,7 +10,7 @@
     "/images/products/tarjeta-de-video-xfx-speedster-swft-319-rx-6800-16-6qxdmg-6.webp"
   ],
   "Description": "Model\nBrand: XFX\nSeries: Speedster\nModel: RX-68XLAQFD9\n\n\nInterface\nInterface: PCI Express 4.0\n\n\nChipset\nChipset Manufacturer: AMD\nGPU Series: AMD Radeon RX 6000 Series\nGPU: Radeon RX 6800\nCore Clock: 1815 MHz\nBoost Clock: 2105 MHz\nStream Processors: 3840 Stream Processors\n\n\nMemory\nEffective Memory Clock: 16000 MHz\nMemory Size: 16GB\nMemory Interface: 256-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12\n\n\nPorts\nHDMI: 1 x HDMI 2.1\nDisplayPort: 3 x DisplayPort 1.4\n\n\nDetails\nMax Resolution: 7680 x 4320\nVirtual Reality Ready: Yes\nCooler: Triple Fans\nThermal Design Power: 250W\nRecommended PSU Wattage: 750W\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 340 mm\nCard Dimensions (L x H): 13.38\" x 5.12\" x 2.05\"",
-  "Price": 459.00,
+  "Price": 445.00,
   "Features": [
     "3xFan",
     "2x8Pin",
