@@ -146,89 +146,6 @@
         "Update": "2024-07-31T08:51:03.7932492-04:00",
         "Discount": 3.0,
         "Label": "Kit i5-12600K +Hyper 212 +Z790 Aorus Elite X AX +32GB DDR5 Trident Z5 NEO RGB"
-      },
-      {
-        "Price": 885.00,
-        "Features": [
-          "12Gen",
-          "24 Hilos",
-          "16 Core",
-          "5.2GHz",
-          "2x16",
-          "7200mhz",
-          "16xVRM",
-          "Wifi",
-          "Dual Lan",
-          "9xUSB",
-          "6xSATA"
-        ],
-        "Date": "2024-08-01T07:15:56.3889707-04:00",
-        "Update": "2024-08-01T07:37:56.5310961-04:00",
-        "Discount": 5.0,
-        "Label": "Kit i9-12900K +Líquido 240 ARGB +Gigabyte Z790 Aorus Elite X AX +32GB DDR5 RGB"
-      },
-      {
-        "Price": 561.00,
-        "Features": [
-          "12Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "DDR5",
-          "6666mhz",
-          "22xVRM",
-          "Wifi",
-          "7xUSB",
-          "6xSATA",
-          "5xM.2I",
-          "6xAudio"
-        ],
-        "Date": "2024-06-18T12:19:10.2334217-04:00",
-        "Update": "2024-08-07T15:17:19.74586-04:00",
-        "Discount": 3.0,
-        "Label": "Kit i7-12700K +MSI MEG Z690 ACE"
-      },
-      {
-        "Price": 701.00,
-        "Features": [
-          "12Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "2x16GB",
-          "DDR5",
-          "22xVRM",
-          "Wifi",
-          "7xUSB",
-          "6xSATA",
-          "5xM.2I",
-          "6xAudio"
-        ],
-        "Date": "2024-06-18T12:20:55.2149782-04:00",
-        "Update": "2024-08-07T15:17:19.7823973-04:00",
-        "Discount": 2.0,
-        "Label": "Kit i7-12700K +MSI MEG Z690 ACE +32GB DDR5 Trident Z5 Neo RGB 6400mhz"
-      },
-      {
-        "Price": 791.00,
-        "Features": [
-          "12Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "2x16GB",
-          "DDR5",
-          "22xVRM",
-          "Wifi",
-          "7xUSB",
-          "6xSATA",
-          "5xM.2I",
-          "6xAudio"
-        ],
-        "Date": "2024-06-18T12:21:38.9439181-04:00",
-        "Update": "2024-08-07T15:17:19.8168571-04:00",
-        "Discount": 1.0,
-        "Label": "Kit i7-12700K +Hyper 620S Dual +MSI MEG Z690 ACE +32GB DDR5 RGB 6400mhz"
       }
     ],
     "Entusiasta": [
@@ -766,24 +683,6 @@
         "Date": "2024-04-11T02:49:41.9333866-04:00",
         "Update": "2024-04-11T08:04:32.1228613-04:00",
         "Label": "Disipador Líquido Asus TUF Gaming LC II 360 ARGB"
-      },
-      {
-        "Price": 145.00,
-        "Features": [
-          "2000rpm",
-          "67cfm",
-          "29db",
-          "2xFan",
-          "240mm",
-          "LGA 1700",
-          "LGA 1366",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4"
-        ],
-        "Date": "2024-04-11T02:49:55.1254282-04:00",
-        "Update": "2024-04-11T08:04:32.1404206-04:00",
-        "Label": "Disipador Líquido Asus TUF Gaming LC 240 ARGB"
       },
       {
         "Price": 185.00,
@@ -1504,13 +1403,6 @@
         "Date": "2024-01-03T08:13:00.6537346-05:00",
         "Update": "2024-07-17T19:13:04.3912384-04:00",
         "Label": "Cable Molex a SATA"
-      },
-      {
-        "Price": 16.00,
-        "Features": [],
-        "Date": "2024-05-03T10:37:20.0612972-04:00",
-        "Update": "2024-07-26T08:53:47.8967591-04:00",
-        "Label": "Thermalright LGA1700-BCF Black V2"
       },
       {
         "Price": 32.00,
@@ -2964,24 +2856,6 @@
         "Date": "2023-02-17T09:44:28.156292-05:00",
         "Update": "2024-05-19T21:05:41.2943158-04:00",
         "Label": "Micro Intel Core i5-12600K"
-      },
-      {
-        "Price": 255.00,
-        "Features": [
-          "12Gen",
-          "20 Hilos",
-          "12 Core",
-          "5GHz",
-          "25MB L3",
-          "34631pm",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-02-17T09:30:45.7586545-05:00",
-        "Update": "2024-05-19T21:05:41.3274271-04:00",
-        "Label": "Micro Intel Core i7-12700K"
       },
       {
         "Price": 579.00,
