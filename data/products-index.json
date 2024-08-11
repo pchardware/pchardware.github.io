@@ -2867,6 +2867,24 @@
         "Label": "Micro Intel Core i5-12600K"
       },
       {
+        "Price": 169.00,
+        "Features": [
+          "12Gen",
+          "16 Hilos",
+          "10 Core",
+          "4.9GHz",
+          "20MB L3",
+          "27439pm",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2023-10-16T10:24:13.8080802-04:00",
+        "Update": "2024-05-19T21:05:41.3707217-04:00",
+        "Label": "Micro Intel Core i5-12600KF"
+      },
+      {
         "Price": 579.00,
         "Features": [
           "14Gen",
