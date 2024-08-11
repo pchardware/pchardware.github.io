@@ -9,8 +9,17 @@
   ],
   "Description": "Model\nBrand: Noctua\nModel: NH-U14S\n\n\nDetails\nType: Fan & Heatsinks\nFan Size: 140mm\nCPU Socket Compatibility: Intel LGA 2066 / 2011-0 & 2011-3 (Square ILM) / 1700 / 1200 / 1156 / 1155 / 1151 / 1150\n\nAMD AM4 / AM3+ / AM3 / AM2+ / AM2 / FM2+ (backplate required) / FM2 / FM1\nBearing Type: SSO2-Bearing (Self-Stabilising Oil-Presure Bearing)\nRPM: 1500 RPM (standard), 1200 RPM (w/ L.N.A.), 300 RPM (PWM)\nAir Flow: 82.52 CFM (standard), 67.98 CFM (w/ L.N.A)\nNoise Level: 24.6 dBA (standard), 19.2 dBA (w/ L.N.A.)\nHeatsink Material: Copper (Base and Heat-pipes), Alum. (cooling Fins), Soldered Joints, Nickel Plated.\nFan Mounting Types to Heatsink: Horizontal\n\n\nDimensions & Weight\nMax CPU Cooler Height: 165 mm\nFan Dimensions: 140.00 x 140.00 x 25.00 mm\nWeight: 935g\n\n\nFeatures\nFeatures: Award-winning NH-U series.\n\nFull RAM compatibility on LGA20xx.\n\nReasonable size for better overall compatibility.\n\nNF-A15 140mm PWM Fan.\n\nPWM support and Low-Noise Adaptor.\n\nAnti-vibration pads and fan-clips for second NF-A15 (optional).\n\nSecuFirm2 mounting system.\n\nCompatibility with past and future sockets.\n\nNT-H1 thermal compound.",
   "Price": 149.00,
-  "Features": [],
+  "Features": [
+    "1500rpm",
+    "82.52CFM",
+    "24.6dB",
+    "LGA 1200",
+    "LGA 1700",
+    "LGA 2011",
+    "LGA 2066",
+    "AM4"
+  ],
   "Date": "2024-08-08T01:34:31.8902554-04:00",
-  "Update": "2024-08-09T17:00:53.0078578-04:00",
+  "Update": "2024-08-11T02:53:46.0255052-04:00",
   "Label": "Disipador Noctua NH-U14S with NF-A15 Brown"
 }
