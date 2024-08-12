@@ -385,27 +385,6 @@
         "Label": "Fuente Gigabyte UD1000GM 1000W"
       },
       {
-        "Price": 199.00,
-        "Features": [
-          "ATX 3.0",
-          "80+ Gold",
-          "Full Modular",
-          "71A",
-          "Zero RPM",
-          "160mm",
-          "1x16Pin",
-          "2x 4+4 EPS",
-          "4x 6+2Pin",
-          "12x SATA",
-          "8x PATA",
-          "PSU",
-          "ATX"
-        ],
-        "Date": "2024-05-03T06:18:15.0494605-04:00",
-        "Update": "2024-05-03T10:28:09.2474222-04:00",
-        "Label": "Fuente Corsair RM850x Shift 850W"
-      },
-      {
         "Price": 129.00,
         "Features": [
           "80+ Bronze",
@@ -1458,29 +1437,6 @@
         "Label": "Disipador Cooler Master Hyper 620S Dual"
       },
       {
-        "Price": 49.00,
-        "Features": [
-          "5 Head Pipes",
-          "1550rpm",
-          "PWM",
-          "67cfm",
-          "26db",
-          "235w",
-          "bronce",
-          "Tower",
-          "1xFan",
-          "ARGB",
-          "148mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4"
-        ],
-        "Date": "2023-12-28T14:08:43.281203-05:00",
-        "Update": "2023-12-28T16:59:47.5987897-05:00",
-        "Label": "Disipador Thermalright Assassin King 120 SE ARGB"
-      },
-      {
         "Price": 55.00,
         "Features": [
           "ARGB",
@@ -2417,18 +2373,6 @@
         "Label": "SSD 2.5 Team Group CX2 512GB"
       },
       {
-        "Price": 145.00,
-        "Features": [
-          "7400mbs",
-          "2500TBW",
-          "PCIe 4",
-          "NVMe"
-        ],
-        "Date": "2024-07-26T09:05:54.7357868-04:00",
-        "Update": "2024-07-26T09:26:42.7099775-04:00",
-        "Label": "SSD M.2 Team Group MP44 2TB"
-      },
-      {
         "Price": 119.00,
         "Features": [
           "7000mbs",
@@ -2589,28 +2533,6 @@
         "Label": "Board Asus ROG Strix Z790-H Gaming Wifi"
       },
       {
-        "Price": 295.00,
-        "Features": [
-          "AM5",
-          "DDR5",
-          "6400mhz",
-          "14xVRM",
-          "Bios FlashBack",
-          "7xUSB",
-          "Wifi",
-          "5xAudio",
-          "4xSATA",
-          "DisplayPort",
-          "HDMI",
-          "AMD",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2024-05-14T07:14:07.372319-04:00",
-        "Update": "2024-07-17T14:53:30.3770786-04:00",
-        "Label": "Board Asus ROG Strix B650-A Gaming Wifi"
-      },
-      {
         "Price": 255.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -2748,30 +2670,6 @@
         "Date": "2023-05-14T10:52:20.5741642-04:00",
         "Update": "2024-08-09T16:55:12.8100772-04:00",
         "Label": "Board Gigabyte Z790 UD AC"
-      },
-      {
-        "Price": 189.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "5800mhz",
-          "10xVRM",
-          "PCIe5",
-          "M.2 Gen4",
-          "Bios Flashback",
-          "3xM.2",
-          "7xUSB",
-          "HDMI",
-          "4xSATA",
-          "LGA 1700",
-          "3xAudio",
-          "PS2",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-10-23T12:32:47.8333341-04:00",
-        "Update": "2024-08-09T16:55:12.8513755-04:00",
-        "Label": "Board ASRock Z690 Phantom Gaming 4 D5"
       },
       {
         "Price": 165.00,
@@ -3610,29 +3508,6 @@
         "Date": "2024-04-11T02:50:32.4061292-04:00",
         "Update": "2024-04-11T08:32:28.5942684-04:00",
         "Label": "Mouse Pad Corsair MM300 Pro"
-      },
-      {
-        "Price": 49.00,
-        "Features": [
-          "73g",
-          "Compact",
-          "RGB",
-          "400IPS",
-          "FPS",
-          "MOBA",
-          "iCUE",
-          "fingertip",
-          "18000dpi",
-          "6 botónes",
-          "Ambidestro",
-          "50M de clics",
-          "Macros",
-          "Optico",
-          "USB"
-        ],
-        "Date": "2024-05-14T07:14:11.5313563-04:00",
-        "Update": "2024-05-14T07:54:12.0235481-04:00",
-        "Label": "Mouse Corsair Katar Pro XT"
       },
       {
         "Price": 15.00,
