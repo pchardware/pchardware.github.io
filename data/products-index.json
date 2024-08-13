@@ -58,21 +58,6 @@
         "Label": "Kit i9-12900K + MSI MEG Z690 ACE Potencia y estilo en un solo combo"
       },
       {
-        "Price": 424.00,
-        "Features": [
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "9xUSB",
-          "6xSATA",
-          "3xAudio",
-          "Wifi"
-        ],
-        "Date": "2024-02-05T07:59:43.6879613-05:00",
-        "Update": "2024-07-26T08:53:48.0181266-04:00",
-        "Label": "Kit Intel Core i5-12600K + Gigabyte Z790 UD AC"
-      },
-      {
         "Price": 624.00,
         "Features": [
           "12Gen",
@@ -2621,32 +2606,6 @@
         "Date": "2023-12-07T23:40:26.7525408-05:00",
         "Update": "2024-08-09T16:55:12.7701425-04:00",
         "Label": "Board MSI Pro Z790-S Wifi"
-      },
-      {
-        "Price": 235.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "DDR5",
-          "7600mhz",
-          "18xVRM",
-          "Q-Flash",
-          "PCIe5",
-          "M.2 Gen4",
-          "3x M.2",
-          "Wifi",
-          "9xUSB",
-          "6xSATA",
-          "LGA 1700",
-          "PS2",
-          "DisplayPort",
-          "HDMI",
-          "3xAudio",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-05-14T10:52:20.5741642-04:00",
-        "Update": "2024-08-09T16:55:12.8100772-04:00",
-        "Label": "Board Gigabyte Z790 UD AC"
       },
       {
         "Price": 165.00,
