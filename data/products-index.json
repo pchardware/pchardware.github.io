@@ -2574,29 +2574,6 @@
         "Label": "Board Gigabyte Z790 Aorus Elite X AX"
       },
       {
-        "Price": 199.00,
-        "Features": [
-          "12Gen-13Gen-14Gen",
-          "8xSATA",
-          "5333mhz",
-          "BIOS Flashback",
-          "PCIe5",
-          "13xVRM",
-          "M.2 Gen4",
-          "3xM.2",
-          "6xAudio",
-          "6xUSB",
-          "HDMI",
-          "PS2",
-          "LGA 1700",
-          "ATX",
-          "MOBO"
-        ],
-        "Date": "2023-10-19T09:32:16.7888545-04:00",
-        "Update": "2024-08-09T16:55:12.6910134-04:00",
-        "Label": "Board ASRock Z690 PG Riptide DDR4"
-      },
-      {
         "Price": 225.00,
         "Features": [
           "12Gen-13Gen-14Gen",
@@ -2763,24 +2740,6 @@
         "Date": "2023-02-17T09:44:28.156292-05:00",
         "Update": "2024-05-19T21:05:41.2943158-04:00",
         "Label": "Micro Intel Core i5-12600K"
-      },
-      {
-        "Price": 169.00,
-        "Features": [
-          "12Gen",
-          "16 Hilos",
-          "10 Core",
-          "4.9GHz",
-          "20MB L3",
-          "27439pm",
-          "DDR4-DDR5",
-          "Unlocked",
-          "LGA 1700",
-          "CPU"
-        ],
-        "Date": "2023-10-16T10:24:13.8080802-04:00",
-        "Update": "2024-05-19T21:05:41.3707217-04:00",
-        "Label": "Micro Intel Core i5-12600KF"
       },
       {
         "Price": 579.00,
@@ -3263,25 +3222,6 @@
         "Date": "2023-10-09T15:59:49.8284237-04:00",
         "Update": "2024-05-14T08:04:23.6036849-04:00",
         "Label": "Webcam Logitech C270 HD"
-      },
-      {
-        "Price": 49.00,
-        "Features": [
-          "0.9MP",
-          "720p",
-          "Panorámica",
-          "Corrección de iluminación",
-          "Reducción de ruido",
-          "55°",
-          "30fps",
-          "HD",
-          "Micrófono",
-          "1.5m",
-          "USB"
-        ],
-        "Date": "2023-12-12T03:35:09.5904673-05:00",
-        "Update": "2024-05-14T08:14:06.1478526-04:00",
-        "Label": "WebCam Logitech C270h"
       }
     ],
     "Externo": [
