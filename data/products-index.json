@@ -1,15 +1,5 @@
 {
   "Torres": {
-    "Pro": [
-      {
-        "Price": 2829.00,
-        "Features": [],
-        "Date": "2024-07-13T02:00:39.679024-04:00",
-        "Update": "2024-07-13T02:04:01.3750643-04:00",
-        "Discount": 32.0,
-        "Label": "Torre RTX 4070 12GB +i9-13900K +Liquida +Strix Z790-H Gaming +64GB DDR5 +2TB M2 +1000W"
-      }
-    ],
     "Gamer": [
       {
         "Price": 2055.00,
@@ -18,16 +8,6 @@
         "Update": "2024-07-28T10:58:11.0536334-04:00",
         "Discount": 27.0,
         "Label": "Torre RTX 4070 12GB +i5-12600K +Liquida 240 +Strix Z790-H +32GB DDR5 +1TB M.2 +850W"
-      }
-    ],
-    "Entusiasta": [
-      {
-        "Price": 3129.00,
-        "Features": [],
-        "Date": "2024-07-13T01:52:17.0525507-04:00",
-        "Update": "2024-08-04T11:49:52.690327-04:00",
-        "Discount": 29.0,
-        "Label": "Torre Gamer 14 Gen 4070 Ti 12GB +i9-14900K +Liquida +Strix Z790-H Gaming +64GB DDR5"
       }
     ]
   },
@@ -802,24 +782,6 @@
         "Date": "2024-06-07T05:57:11.579527-04:00",
         "Update": "2024-06-07T07:18:14.0941526-04:00",
         "Label": "Disipador Líquido Corsair iCUE H170i Elite Capellix"
-      },
-      {
-        "Price": 275.00,
-        "Features": [
-          "360mm",
-          "ARGB",
-          "2200rpm",
-          "70CFM",
-          "36dBa",
-          "LGA 1700",
-          "LGA 1200",
-          "AM4",
-          "AM5",
-          "TR4"
-        ],
-        "Date": "2024-06-07T05:57:32.8023552-04:00",
-        "Update": "2024-06-07T07:18:14.1300022-04:00",
-        "Label": "Disipador Líquido Asus ROG Ryuo III 360 ARGB"
       },
       {
         "Price": 4.00,
