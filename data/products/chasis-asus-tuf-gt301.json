@@ -13,15 +13,21 @@
   "Price": 245.00,
   "Features": [
     "Tempered Glass",
-    "4xFan",
     "ARGB",
+    "4xFan",
+    "360mm Front",
+    "320mm GPU",
+    "2xUSB3.2",
     "2xHDD",
     "Gamer",
     "Mid Tower",
     "ATX",
-    "Negro"
+    "160mm PSU",
+    "160mm CPU",
+    "Negro",
+    "Case"
   ],
   "Date": "2023-06-29T07:38:28.5002459-04:00",
-  "Update": "2024-05-03T07:21:36.0442162-04:00",
+  "Update": "2024-08-16T12:33:29.0204981-04:00",
   "Label": "Chasis Asus TUF GT301"
 }
