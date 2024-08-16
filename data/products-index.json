@@ -511,6 +511,25 @@
         "Update": "2024-08-07T15:17:19.7061547-04:00",
         "Def": true,
         "Label": "Fuente Corsair RM1000X 1000W"
+      },
+      {
+        "Price": 129.00,
+        "Features": [
+          "ATX3.0",
+          "63A",
+          "80+ Bronze",
+          "1x 16Pin",
+          "2x 4+4 EPS",
+          "2x 6+2Pin",
+          "5x SATA",
+          "2x PATA",
+          "140mm",
+          "PSU",
+          "ATX"
+        ],
+        "Date": "2024-05-03T06:17:23.2912172-04:00",
+        "Update": "2024-08-16T12:33:29.0570517-04:00",
+        "Label": "Fuente MSI MAG A750BN 750W"
       }
     ],
     "Disipador Líquido": [
@@ -1604,32 +1623,89 @@
         "Label": "Chasis MLLIQUEA Mining Rig Frame"
       },
       {
+        "Price": 275.00,
+        "Features": [
+          "Vertical",
+          "Tempered Glass",
+          "360mm Front",
+          "280mm Up",
+          "2xFan",
+          "1xUSB-C",
+          "1xUSB3",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "2xHDD",
+          "Negro",
+          "Case"
+        ],
+        "Date": "2023-11-11T12:36:37.8216832-05:00",
+        "Update": "2024-08-16T12:33:28.8946083-04:00",
+        "Label": "Chasis Corsair 4000D Airflow"
+      },
+      {
+        "Price": 245.00,
+        "Features": [
+          "Tempered Glass",
+          "ARGB",
+          "4xFan",
+          "360mm Front",
+          "320mm GPU",
+          "2xUSB3.2",
+          "2xHDD",
+          "Gamer",
+          "Mid Tower",
+          "ATX",
+          "160mm PSU",
+          "160mm CPU",
+          "Negro",
+          "Case"
+        ],
+        "Date": "2023-06-29T07:38:28.5002459-04:00",
+        "Update": "2024-08-16T12:33:29.0204981-04:00",
+        "Label": "Chasis Asus TUF GT301"
+      },
+      {
         "Price": 225.00,
         "Features": [
           "Tempered Glass",
+          "360mm Front",
+          "380mm GPU",
+          "HiddenConectors",
+          "2xUSB3",
           "Gamer",
           "Mid Tower",
           "M-ATX",
-          "Negro",
           "2xHDD",
-          "Minimalista"
+          "165mm CPU",
+          "Negro",
+          "Case"
         ],
         "Date": "2024-05-16T09:19:23.8380237-04:00",
-        "Update": "2024-05-16T09:43:16.7137926-04:00",
+        "Update": "2024-08-16T12:33:29.1024732-04:00",
         "Label": "Chasis Asus A21 Black"
       },
       {
         "Price": 229.00,
         "Features": [
+          "Extended ATX",
+          "420mm Front",
+          "360mm Top",
+          "400mm GPU",
+          "2xUSB3",
+          "1xUSB-C",
           "Tempered Glass",
           "Gamer",
           "Mid Tower",
-          "EATX",
+          "E-ATX",
+          "180mm CPU",
+          "210mm PSU",
           "Negro",
-          "1xHDD"
+          "1xHDD",
+          "Case"
         ],
         "Date": "2024-01-18T07:08:34.7724156-05:00",
-        "Update": "2024-06-06T22:20:53.7133779-04:00",
+        "Update": "2024-08-16T12:33:29.1401567-04:00",
         "Label": "Chasis Cougar Uniface S Black"
       },
       {
@@ -1638,15 +1714,39 @@
           "Tempered Glass",
           "3xFan ARGB",
           "3xUSB",
+          "360mm Front",
+          "315mm GPU",
           "Gamer",
           "Mid Tower",
           "ATX",
+          "170mm CPU",
+          "160mm PSU",
           "Negro",
-          "2xHDD"
+          "2xHDD",
+          "Case"
         ],
         "Date": "2023-11-03T12:22:56.9620417-04:00",
-        "Update": "2024-07-26T08:53:47.9383117-04:00",
+        "Update": "2024-08-16T12:33:29.245693-04:00",
         "Label": "Chasis Cougar Archon 2 Mesh RGB Black"
+      },
+      {
+        "Price": 249.00,
+        "Features": [
+          "10xHDD",
+          "4xFan",
+          "3xUSB",
+          "Vertical GPU",
+          "GPU 295mm",
+          "Mid Tower",
+          "ATX",
+          "CPU 160mm",
+          "PSU 200mm",
+          "Negro",
+          "Case"
+        ],
+        "Date": "2024-08-16T10:03:23.7023189-04:00",
+        "Update": "2024-08-16T12:33:29.4858798-04:00",
+        "Label": "Chasis DarkRock CLASSICO Storage Master"
       }
     ],
     "Tarjeta Gráfica": [
@@ -2371,6 +2471,18 @@
         "Update": "2024-08-08T02:27:17.998162-04:00",
         "Def": true,
         "Label": "SSD M.2 Samsung MZ-VL42560 256GB"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "5150mbs",
+          "600TBW",
+          "PCIe 4",
+          "NVMe"
+        ],
+        "Date": "2024-07-31T06:19:43.7673573-04:00",
+        "Update": "2024-08-16T12:33:29.3167949-04:00",
+        "Label": "SSD M.2 Western Digital BLACK SN770 1TB"
       }
     ],
     "Board": [
@@ -2571,6 +2683,30 @@
         "Date": "2023-10-11T10:56:24.0277774-04:00",
         "Update": "2024-08-09T16:55:12.8901785-04:00",
         "Label": "Board MSI Pro B760M-P DDR4"
+      },
+      {
+        "Price": 189.00,
+        "Features": [
+          "12Gen-13Gen-14Gen",
+          "DDR5",
+          "5800mhz",
+          "10xVRM",
+          "PCIe5",
+          "M.2 Gen4",
+          "Bios Flashback",
+          "3xM.2",
+          "7xUSB",
+          "HDMI",
+          "4xSATA",
+          "LGA 1700",
+          "3xAudio",
+          "PS2",
+          "ATX",
+          "MOBO"
+        ],
+        "Date": "2023-10-23T12:32:47.8333341-04:00",
+        "Update": "2024-08-16T12:33:29.3495276-04:00",
+        "Label": "Board ASRock Z690 Phantom Gaming 4 D5"
       }
     ],
     "Red": [
@@ -2817,6 +2953,24 @@
         "Date": "2024-08-08T01:34:14.9282379-04:00",
         "Update": "2024-08-11T03:03:33.9020041-04:00",
         "Label": "Micro Intel Core i5-14500"
+      },
+      {
+        "Price": 209.00,
+        "Features": [
+          "12Gen",
+          "20 Hilos",
+          "12 Core",
+          "5GHz",
+          "25MB L3",
+          "34456pm",
+          "DDR4-DDR5",
+          "Unlocked",
+          "LGA 1700",
+          "CPU"
+        ],
+        "Date": "2024-05-25T23:01:27.6116167-04:00",
+        "Update": "2024-08-16T12:33:29.2829683-04:00",
+        "Label": "Micro Intel Core i7-12700KF"
       }
     ]
   },
@@ -3568,22 +3722,6 @@
         "Label": "Monitor AOC 24\" VA 165Hz 1ms"
       },
       {
-        "Price": 239.00,
-        "Features": [
-          "8Bits",
-          "FRC",
-          "Speakers",
-          "DP",
-          "HDMI",
-          "FHD",
-          "250nit",
-          "FLAT"
-        ],
-        "Date": "2024-02-28T05:29:58.139187-05:00",
-        "Update": "2024-07-10T20:16:01.6546731-04:00",
-        "Label": "Monitor AOpen FireLegend 24\" IPS 180Hz 1ms"
-      },
-      {
         "Price": 255.00,
         "Features": [
           "FHD",
@@ -3600,22 +3738,6 @@
         "Date": "2024-01-18T07:09:18.7560023-05:00",
         "Update": "2024-07-10T20:16:01.6877992-04:00",
         "Label": "Monitor Asus TUF 24\" 165Hz IPS 1ms"
-      },
-      {
-        "Price": 269.00,
-        "Features": [
-          "300nit",
-          "Speakers",
-          "HDMI",
-          "VGA",
-          "Gaming",
-          "1080p",
-          "FHD",
-          "Flat"
-        ],
-        "Date": "2024-07-09T10:48:54.2971047-04:00",
-        "Update": "2024-07-10T20:16:01.7970976-04:00",
-        "Label": "Monitor MSI Pro 27\" IPS 100Hz 1ms"
       },
       {
         "Price": 185.00,
@@ -3662,6 +3784,124 @@
         "Date": "2024-08-08T01:33:49.2919118-04:00",
         "Update": "2024-08-08T02:49:37.2358805-04:00",
         "Label": "Monitor AOC 24'' FHD IPS 100Hz"
+      },
+      {
+        "Price": 395.00,
+        "Features": [
+          "QHD",
+          "2K",
+          "HDR10",
+          "Gaming",
+          "Flat",
+          "FRC",
+          "DP",
+          "Display"
+        ],
+        "Date": "2023-11-24T09:48:56.279126-05:00",
+        "Update": "2024-08-16T12:33:28.9704917-04:00",
+        "Label": "Monitor Acer Nitro 27\" 1440p 170Hz IPS 0.5ms 10Bit 400nit 4xUSB3 A.Ajustable SPK-3W"
+      },
+      {
+        "Price": 239.00,
+        "Features": [
+          "8Bits",
+          "FRC",
+          "Speakers",
+          "DP",
+          "HDMI",
+          "FHD",
+          "1080p",
+          "250nit",
+          "Flat",
+          "Display"
+        ],
+        "Date": "2024-02-28T05:29:58.139187-05:00",
+        "Update": "2024-08-16T12:33:29.1759621-04:00",
+        "Label": "Monitor AOpen FireLegend 24\" IPS 180Hz 1ms"
+      },
+      {
+        "Price": 269.00,
+        "Features": [
+          "300nit",
+          "Speakers",
+          "HDMI",
+          "VGA",
+          "Gaming",
+          "1080p",
+          "FHD",
+          "Flat",
+          "Display"
+        ],
+        "Date": "2024-07-09T10:48:54.2971047-04:00",
+        "Update": "2024-08-16T12:33:29.2110142-04:00",
+        "Label": "Monitor MSI Pro 27\" IPS 100Hz 1ms"
+      },
+      {
+        "Price": 275.00,
+        "Features": [
+          "UltraFino",
+          "ZeroFrame",
+          "FreeSync Premium",
+          "HDR10",
+          "1xDP 1.2",
+          "1xHDMI 2.0",
+          "SPK-1W",
+          "VESA 75x75",
+          "250nit",
+          "FHD",
+          "1080p",
+          "Gaming",
+          "Display"
+        ],
+        "Date": "2024-08-16T10:03:17.2578472-04:00",
+        "Update": "2024-08-16T12:33:29.4523596-04:00",
+        "Label": "Monitor AOpen FireLegend 27\" IPS 180Hz 1ms"
+      }
+    ],
+    "Backup": [
+      {
+        "Price": 139.00,
+        "Features": [
+          "Digital",
+          "6 Salidas",
+          "255 Watts",
+          "120V",
+          "UPS"
+        ],
+        "Date": "2023-05-12T07:53:07.7837276-04:00",
+        "Update": "2024-08-16T12:33:28.9316668-04:00",
+        "Label": "Backup APC BE425M 425VA"
+      },
+      {
+        "Price": 165.00,
+        "Features": [
+          "Digital",
+          "7 Salidas",
+          "USB 1.5A",
+          "330 Watts",
+          "120V",
+          "UPS"
+        ],
+        "Date": "2024-08-16T10:03:06.3791479-04:00",
+        "Update": "2024-08-16T12:33:29.3854445-04:00",
+        "Label": "Backup APC BE600M1 600VA"
+      }
+    ],
+    "Altavoces": [
+      {
+        "Price": 105.00,
+        "Features": [
+          "8W RMS",
+          "Subwoofer 4\"",
+          "Medio 2\"",
+          "USB",
+          "AUX",
+          "Parlantes",
+          "Speakers"
+        ],
+        "Date": "2024-08-16T10:03:11.778136-04:00",
+        "Update": "2024-08-16T12:33:29.4186678-04:00",
+        "Label": "Altavoces Creative Pebble Plus 2.1"
       }
     ]
   }
