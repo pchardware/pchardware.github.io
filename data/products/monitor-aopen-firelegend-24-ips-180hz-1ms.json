@@ -17,10 +17,12 @@
     "DP",
     "HDMI",
     "FHD",
+    "1080p",
     "250nit",
-    "FLAT"
+    "Flat",
+    "Display"
   ],
   "Date": "2024-02-28T05:29:58.139187-05:00",
-  "Update": "2024-07-10T20:16:01.6546731-04:00",
+  "Update": "2024-08-16T12:33:29.1759621-04:00",
   "Label": "Monitor AOpen FireLegend 24\" IPS 180Hz 1ms"
 }
