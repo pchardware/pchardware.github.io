@@ -16,14 +16,19 @@
   "Price": 225.00,
   "Features": [
     "Tempered Glass",
+    "360mm Front",
+    "380mm GPU",
+    "HiddenConectors",
+    "2xUSB3",
     "Gamer",
     "Mid Tower",
     "M-ATX",
-    "Negro",
     "2xHDD",
-    "Minimalista"
+    "165mm CPU",
+    "Negro",
+    "Case"
   ],
   "Date": "2024-05-16T09:19:23.8380237-04:00",
-  "Update": "2024-05-16T09:43:16.7137926-04:00",
+  "Update": "2024-08-16T12:33:29.1024732-04:00",
   "Label": "Chasis Asus A21 Black"
 }
