@@ -1,0 +1,34 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Monitor",
+  "Images": [
+    "/images/products/monitor-aopen-firelegend-27-ips-180hz-1ms-1.webp",
+    "/images/products/monitor-aopen-firelegend-27-ips-180hz-1ms-2.webp",
+    "/images/products/monitor-aopen-firelegend-27-ips-180hz-1ms-3.webp",
+    "/images/products/monitor-aopen-firelegend-27-ips-180hz-1ms-4.webp",
+    "/images/products/monitor-aopen-firelegend-27-ips-180hz-1ms-5.webp",
+    "/images/products/monitor-aopen-firelegend-27-ips-180hz-1ms-6.webp",
+    "/images/products/monitor-aopen-firelegend-27-ips-180hz-1ms-7.webp",
+    "/images/products/monitor-aopen-firelegend-27-ips-180hz-1ms-8.webp"
+  ],
+  "Description": "Model\nBrand: AOPEN\nModel: 27KG3 M3bip\nPart Number: UM.HX3AA.303\nCabinet Color: Black\n\n\nDisplay\nScreen Size: 27''\nWidescreen: Yes\nGlare Screen: Anti-glare\nPanel: IPS\nDisplay Type: FHD\nAdaptive Sync Technology: FreeSync Premium (AMD Adaptive Sync)\nRecommended Resolution: 1920 x 1080\nViewing Angle: 178° (H) / 178° (V)\nAspect Ratio: 16:9\nBrightness: 250 cd/m2\nContrast Ratio: 100 Million:1 MAX (ACM)\nResponse Time: 1ms (TVR)\nDisplay Colors: 16.7 Million\nPixel Pitch: 0.311mm\nRefresh Rate: 180 Hz\nCurved Surface Screen: Flat Panel\n\n\nConnectivity\nVideo Ports: 1 x DisplayPort 1.2 / 1 x HDMI 2.0\n\n\nPower\nPower Supply: 100 - 240 VAC, 50/60Hz\nPower Consumption: Normal Operation: <48 Watts\nOff (power-save): <1 Watts\n\n\nConvenience\nRegulatory Approvals: UL, cUL, FCC Class B, CE, TUV/GS, VCCI, RoHS\nStand Adjustments: Tilt: -2° to 13°\nBuilt-in Speakers: 2 x 1W\nVESA Compatibility - Mountable: 75 x 75mm\n\n\nDimensions & Weight\nDimensions (H x W x D): 18.86\" x 24.17\" x 6.69\"\nWeight: 8.84 lbs.\n\n\nPackaging\nPackage Contents: Display\nStand\nPower Cord\nHDMI Cable",
+  "Price": 275.00,
+  "Features": [
+    "UltraFino",
+    "ZeroFrame",
+    "FreeSync Premium",
+    "HDR10",
+    "1xDP 1.2",
+    "1xHDMI 2.0",
+    "SPK-1W",
+    "VESA 75x75",
+    "250nit",
+    "FHD",
+    "1080p",
+    "Gaming",
+    "Display"
+  ],
+  "Date": "2024-08-16T10:03:17.2578472-04:00",
+  "Update": "2024-08-16T12:33:29.4523596-04:00",
+  "Label": "Monitor AOpen FireLegend 27\" IPS 180Hz 1ms"
+}
