@@ -1,0 +1,27 @@
+{
+  "Category": "Periféricos",
+  "SubCategory": "Monitor",
+  "Images": [
+    "/images/products/monitor-msi-pro-25-100hz-ips-1ms-speakers-1.webp",
+    "/images/products/monitor-msi-pro-25-100hz-ips-1ms-speakers-2.webp",
+    "/images/products/monitor-msi-pro-25-100hz-ips-1ms-speakers-3.webp",
+    "/images/products/monitor-msi-pro-25-100hz-ips-1ms-speakers-4.webp",
+    "/images/products/monitor-msi-pro-25-100hz-ips-1ms-speakers-5.webp",
+    "/images/products/monitor-msi-pro-25-100hz-ips-1ms-speakers-6.webp"
+  ],
+  "Description": "Model\nBrand: MSI\nSeries: Pro Series\nModel: PRO MP251\nPart Number: PRO MP251\n\n\nDisplay\nScreen Size: 24.5\nGlare Screen: Anti-glare\nMaximum Resolution: 1920 x 1080\nRecommended Resolution: 1920 x 1080\nRefresh Rate: 100 Hz\nViewing Angle: 178° (H) / 178° (V)\nDisplay Colors: 16.7 Million\nBrightness: 300 cd/m2\nContrast Ratio: 1,000:1\nAspect Ratio: 16:9\nResponse Time: 1 ms\nPanel: IPS\nDisplay Type: FHD\n\n\nConnectivity\nD-Sub: 1\nHDMI: 1 x HDMI 1.4\nHeadphone: 1x Headphone-out\n\n\nConvenience\nBuilt-in Speakers: 2x 2W\nVESA Compatibility - Mountable: 100 x 100mm\n\n\nPackaging\nPackage Contents: Power Cord, HDMI Cable",
+  "Price": 205.00,
+  "Features": [
+    "8bit",
+    "FRC",
+    "Gaming",
+    "300nit",
+    "FHD",
+    "1080p",
+    "HDMI",
+    "Flat"
+  ],
+  "Date": "2024-01-30T08:58:58.7450569-05:00",
+  "Update": "2024-08-17T10:15:36.5858207-04:00",
+  "Label": "Monitor MSI PRO 25\" 100Hz IPS 1ms Speakers"
+}
