@@ -1,0 +1,26 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disipador Líquido",
+  "Images": [
+    "/images/products/lquida-custom-thermaltake-pacific-c360-ddc-1.webp",
+    "/images/products/lquida-custom-thermaltake-pacific-c360-ddc-2.webp",
+    "/images/products/lquida-custom-thermaltake-pacific-c360-ddc-3.webp",
+    "/images/products/lquida-custom-thermaltake-pacific-c360-ddc-4.webp"
+  ],
+  "Description": "Model\nBrand: Thermaltake\nSeries: Pacific C360 DDC Soft Tube Water Cooling Kit\nModel: CL-W253-CU12SW-A\nType: Water Cooling Kit\n\n\nBlock\nBlock Compatibility: Intel LGA 2066 / 2011 / 1700 / 1366 / 1156 / 1155 / 1151 / 1150 / 775\nAMD AM4 / AM3+ / AM3 / AM2+ / AM2 / FM2 / FM1\n\n\nPump\nPump Dim.: 86.54 (L) x 62 (W) x 140.1 (H) mm\n\n\nRadiator\nRadiator Size: 399.00 x 119.00 x 29.50 mm\nRadiator Material: Copper\n\n\nFan\nFan Size: 3 Fan Slots (120 mm)\nFan RPM: 500 - 1500 RPM\n\n\nTube\nTube Dim.: OD: 16mm , ID: 12mm\n\n\nCoolant\nCoolant Capacity: T1000 Coolant Pure Clear\n\n\nPackage Contents: \nCPU Water Block - Pacific W4 ARGB CPU Water Block x1\nPump/Reservoir- Pacific PR15-DDC Pump/Reservoir Combo x1\nCopper Radiator- Pacific C360 Radiator 29.5 (H) x 119 (W) x 399 (L) mm x1\nARGB Fan- Pure 12 ARGB Sync Radiator Fan TT Premium Edition x3\n- ARGB LED ControllerFittings - Pacific 1/2'' ID x 3/4'' OD Compression \n- Black x6- Pacific G1/4 90 Degree Adapter \n- Black x2Coolant- \nThermaltake T1000 Coolant Pure Clear x1\nTube- V-tubler 4T 1/2'‘(12.7mm) ID x 3/4'‘(19mm) OD Transparent Tube x2 \nMetersAccessory- Intel and AMD Universal Backplated & Mounting Kit- 24pin ATX Bridge Tool x1\n- Thermaltake Thermal Grease x1",
+  "Price": 299.00,
+  "Features": [
+    "360mm",
+    "RGB",
+    "CPU + GPU",
+    "LGA 1700",
+    "LGA 1200",
+    "LGA 115X",
+    "LGA 20XX",
+    "LGA 1366",
+    "AM4"
+  ],
+  "Date": "2023-03-27T12:00:21.1716972-04:00",
+  "Update": "2024-08-17T10:01:15.3358882-04:00",
+  "Label": "Líquida CUSTOM Thermaltake Pacific C360 Ddc"
+}
