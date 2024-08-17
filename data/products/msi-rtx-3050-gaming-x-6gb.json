@@ -1,0 +1,31 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Tarjeta Gráfica",
+  "Images": [
+    "/images/products/msi-rtx-3050-gaming-x-6gb-1.webp",
+    "/images/products/msi-rtx-3050-gaming-x-6gb-2.webp",
+    "/images/products/msi-rtx-3050-gaming-x-6gb-3.webp",
+    "/images/products/msi-rtx-3050-gaming-x-6gb-4.webp",
+    "/images/products/msi-rtx-3050-gaming-x-6gb-5.webp"
+  ],
+  "Description": "Model\nBrand: MSI\nSeries: Gaming\nModel: RTX 3050 GAMING X 6G\n\n\nInterface\nInterface: PCI Express 4.0 x8\n\n\nChipset\nChipset Manufacturer: NVIDIA\nGPU Series: NVIDIA GeForce RTX 30 Series\nGPU: GeForce RTX 3050\nBoost Clock: 1507 MHz\nCUDA Cores: 2304 Cores\n\n\nMemory\nEffective Memory Clock: 14000 MHz\nMemory Size: 6GB\nMemory Interface: 96-Bit\nMemory Type: GDDR6\n\n\n3D API\nDirectX: DirectX 12 Ultimate\nOpenGL: OpenGL 4.6\n\n\nPorts\nMulti-Monitor Support: 3\nHDMI: 2 x HDMI 2.1\nDisplayPort: 1 x DisplayPort 1.4a\n\n\nDetails\nMax Resolution: 7680 x 4320\nCooler: Double Fans\nThermal Design Power: 70W\nHDCP Ready: Yes\n\n\nForm Factor & Dimensions\nForm Factor: ATX\nMax GPU Length: 205 mm",
+  "Price": 265.00,
+  "Features": [
+    "2xFan",
+    "300WR",
+    "205mm",
+    "PCIe4",
+    "2xHDMI 2.1",
+    "1xDP 1.4a",
+    "DLSS",
+    "NVidia",
+    "GeForce",
+    "GPU",
+    "Gráfica",
+    "Tarjeta",
+    "Video"
+  ],
+  "Date": "2024-04-30T06:45:08.3025165-04:00",
+  "Update": "2024-08-17T09:50:16.746009-04:00",
+  "Label": "MSI RTX 3050 GAMING X 6GB"
+}
