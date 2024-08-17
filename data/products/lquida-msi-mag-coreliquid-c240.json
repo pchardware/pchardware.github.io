@@ -1,0 +1,30 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disipador Líquido",
+  "Images": [
+    "/images/products/lquida-msi-mag-coreliquid-c240-1.webp",
+    "/images/products/lquida-msi-mag-coreliquid-c240-2.webp",
+    "/images/products/lquida-msi-mag-coreliquid-c240-3.webp",
+    "/images/products/lquida-msi-mag-coreliquid-c240-4.webp",
+    "/images/products/lquida-msi-mag-coreliquid-c240-5.webp",
+    "/images/products/lquida-msi-mag-coreliquid-c240-6.webp",
+    "/images/products/lquida-msi-mag-coreliquid-c240-7.webp",
+    "/images/products/lquida-msi-mag-coreliquid-c240-8.webp"
+  ],
+  "Description": "Model\nBrand: MSI\nSeries: C Series\nModel: CORELIQUID C240\nType: Liquid Cooling System\n\n\nBlock\nBlock Compatibility: Intel LGA 2066 / 2011-3 / 2011 / 1700 Ready / 1366 / 1200 / 1156 / 1155 / 1151 / 1150\n\nAMD AM5 / AM4 / AM3+ / AM3 / AM2+ / AM2 / FM2+ / FM2 / FM1\nBlock Dim.: 70.50 x 70.50 x 52.00 mm\n\n\nPump\nPump Noise: 18 dBA\n\n\nRadiator\nRadiator Size: 276.00 x 120.00 x 27.00 mm\nRadiator Material: Aluminum\n\n\nFan\nFan Size: 2 Fan Slots (120 mm)\nFan Dim.: 120.00 x 120.00 x 25.00 mm\nBearing Type: Two Ball Bearing\nFan RPM: 500 ~ 2000 RPM\nFan Air Flow: 78.73 CFM\nFan Noise: 14.3 ~ 34.3 dBA\nFan Connector: 4-Pin (PWM)\n3-Pin ARGB\nColor: Black\nLED Color: ARGB\n\n\nTube\nTube Dim.: Length: 400 mm\n\n\nPackage Contents\nPackage Contents: Accessories:\n1 x 1 to 2 PWM Fan Splitter Cable",
+  "Price": 159.00,
+  "Features": [
+    "240mm",
+    "ARGB",
+    "2000rpm",
+    "79CFM",
+    "34dBa",
+    "LGA 1700",
+    "LGA 1200",
+    "AM4",
+    "AM5"
+  ],
+  "Date": "2024-07-17T11:46:43.7038037-04:00",
+  "Update": "2024-08-17T10:01:15.8960631-04:00",
+  "Label": "Líquida MSI MAG CORELIQUID C240"
+}
