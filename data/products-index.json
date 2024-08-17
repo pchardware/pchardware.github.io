@@ -547,67 +547,11 @@
         "Label": "Cooler Master Kits LGA 1700"
       },
       {
-        "Price": 299.00,
-        "Features": [
-          "360mm",
-          "RGB",
-          "CUSTOM",
-          "CPU + GPU",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "LGA 20XX",
-          "LGA 1366",
-          "AM4"
-        ],
-        "Date": "2023-03-27T12:00:21.1716972-04:00",
-        "Update": "2023-10-03T09:09:19.0025351-04:00",
-        "Label": "Kit Líquido Thermaltake Pacific C360 Ddc"
-      },
-      {
-        "Price": 229.00,
-        "Features": [
-          "2500rpm",
-          "81cfm",
-          "38db",
-          "Copper",
-          "3xFan",
-          "360mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "LGA 20XX",
-          "LGA 1366",
-          "AM4",
-          "TR4"
-        ],
-        "Date": "2023-11-03T12:22:39.1132927-04:00",
-        "Update": "2023-11-03T14:29:33.1325138-04:00",
-        "Label": "Disipador Líquido Asus ROG Strix LC II 360 ARGB White"
-      },
-      {
         "Price": 10.0,
         "Features": [],
         "Date": "2023-11-03T12:23:24.2344408-04:00",
         "Update": "2023-11-03T14:29:33.2358759-04:00",
         "Label": "Enermax Mounting Bracket for LIQMAX III and AQUAFUSION on Intel LGA 1700"
-      },
-      {
-        "Price": 595.00,
-        "Features": [
-          "360mm",
-          "Premium",
-          "RGB",
-          "CUSTOM",
-          "CPU + GPU",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM4"
-        ],
-        "Date": "2023-05-11T13:08:17.1127956-04:00",
-        "Update": "2023-12-14T07:55:28.8926854-05:00",
-        "Label": "Kit Líquido Corsair Hydro XH305i"
       },
       {
         "Price": 85.00,
@@ -621,187 +565,6 @@
         "Date": "2023-06-07T10:27:59.8644959-04:00",
         "Update": "2023-12-24T02:51:09.4932969-05:00",
         "Label": "Corsair Hydro XC7 RGB PRO CPU Water Block"
-      },
-      {
-        "Price": 195.00,
-        "Features": [
-          "2000rpm",
-          "67cfm",
-          "29db",
-          "2xFan",
-          "240mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "AM5",
-          "AM4"
-        ],
-        "Date": "2024-04-11T02:49:41.9333866-04:00",
-        "Update": "2024-04-11T08:04:32.1228613-04:00",
-        "Label": "Disipador Líquido Asus TUF Gaming LC II 360 ARGB"
-      },
-      {
-        "Price": 185.00,
-        "Features": [
-          "2xFan",
-          "280mm",
-          "2100rpm",
-          "102cfm",
-          "36dB",
-          "PWM",
-          "LGA 1700",
-          "AM5",
-          "AM4",
-          "LGA 115X",
-          "LGA 1200",
-          "LGA 20XX",
-          "AMD TR4**"
-        ],
-        "Date": "2024-05-03T06:18:25.3942417-04:00",
-        "Update": "2024-05-03T11:04:09.1661903-04:00",
-        "Label": "Disipador Líquido Asus ROG Strix LC II 280 ARGB"
-      },
-      {
-        "Price": 185.00,
-        "Features": [
-          "2xFan",
-          "2150rpm",
-          "57cfm",
-          "31dB",
-          "240mm",
-          "LGA 1700",
-          "LGA 15XX",
-          "LGA 1200",
-          "AM4",
-          "AM5",
-          "sTR4",
-          "LGA 1366",
-          "LGA 20XX"
-        ],
-        "Date": "2024-05-03T01:07:54.4972071-04:00",
-        "Update": "2024-05-03T11:52:25.2510034-04:00",
-        "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce II 240 G2"
-      },
-      {
-        "Price": 219.00,
-        "Features": [
-          "3xFan",
-          "1500rpm",
-          "48cfm",
-          "28dB",
-          "360mm",
-          "LGA 1700",
-          "LGA 15XX",
-          "LGA 1200",
-          "AM4",
-          "AM5"
-        ],
-        "Date": "2024-05-03T06:18:04.426155-04:00",
-        "Update": "2024-05-03T11:52:25.3129454-04:00",
-        "Label": "Disipador Líquido Corsair iCUE H150 RGB"
-      },
-      {
-        "Price": 209.00,
-        "Features": [
-          "3xFan",
-          "2150rpm",
-          "57cfm",
-          "31dB",
-          "360mm",
-          "LGA 1700",
-          "LGA 15XX",
-          "LGA 1200",
-          "AM4",
-          "AM5",
-          "sTR4",
-          "LGA 1366",
-          "LGA 20XX"
-        ],
-        "Date": "2024-05-03T06:18:19.9860597-04:00",
-        "Update": "2024-05-03T11:52:25.3524081-04:00",
-        "Label": "Disipador Líquido Gigabyte GP-AORUS Waterforce II 360 G2"
-      },
-      {
-        "Price": 179.00,
-        "Features": [
-          "2xFan",
-          "2500rpm",
-          "81cfm",
-          "38dba",
-          "Cobre",
-          "240mm",
-          "PWM",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "LGA 20XX",
-          "AM4",
-          "AM5",
-          "TR4**"
-        ],
-        "Date": "2023-06-19T07:48:51.0981438-04:00",
-        "Update": "2024-05-03T11:56:57.508752-04:00",
-        "Label": "Disipador Líquido ASUS ROG Strix LC II 240 ARGB"
-      },
-      {
-        "Price": 95.00,
-        "Features": [
-          "1500rpm",
-          "48cfm",
-          "28db",
-          "Copper",
-          "1xFan",
-          "120mm",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "LGA 20XX",
-          "AM5",
-          "AM4"
-        ],
-        "Date": "2023-05-11T13:08:14.7226355-04:00",
-        "Update": "2024-05-26T09:51:46.9637479-04:00",
-        "Label": "Disipador Líquido Corsair H60x RGB Elite"
-      },
-      {
-        "Price": 255.00,
-        "Features": [
-          "2100rpm",
-          "66cfm",
-          "37db",
-          "3xFan",
-          "360mm",
-          "Copper",
-          "Dynamic",
-          "LGA 1700",
-          "LGA 1200",
-          "LGA 115X",
-          "LGA 20XX",
-          "AM5",
-          "AM4",
-          "sTRX4"
-        ],
-        "Date": "2023-08-29T08:41:32.7866809-04:00",
-        "Update": "2024-06-06T04:56:45.7920592-04:00",
-        "Label": "Disipador Líquido Corsair iCUE H150i ELITE CAPELLIX XT"
-      },
-      {
-        "Price": 265.00,
-        "Features": [
-          "420mm",
-          "RGB",
-          "1700rpm",
-          "89CFFM",
-          "35.8dBa",
-          "LGA 1700",
-          "LGA 1200",
-          "AM4",
-          "AM5",
-          "sTRX4"
-        ],
-        "Date": "2024-06-07T05:57:11.579527-04:00",
-        "Update": "2024-06-07T07:18:14.0941526-04:00",
-        "Label": "Disipador Líquido Corsair iCUE H170i Elite Capellix"
       },
       {
         "Price": 4.00,
@@ -892,12 +655,247 @@
         "Label": "Tubo Blando Barrow 1M"
       },
       {
+        "Price": 299.00,
+        "Features": [
+          "360mm",
+          "RGB",
+          "CPU + GPU",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "LGA 20XX",
+          "LGA 1366",
+          "AM4"
+        ],
+        "Date": "2023-03-27T12:00:21.1716972-04:00",
+        "Update": "2024-08-17T10:01:15.3358882-04:00",
+        "Label": "Líquida CUSTOM Thermaltake Pacific C360 Ddc"
+      },
+      {
+        "Price": 229.00,
+        "Features": [
+          "2500rpm",
+          "81cfm",
+          "38db",
+          "Copper",
+          "3xFan",
+          "360mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "LGA 20XX",
+          "LGA 1366",
+          "AM4",
+          "TR4"
+        ],
+        "Date": "2023-11-03T12:22:39.1132927-04:00",
+        "Update": "2024-08-17T10:01:15.3727501-04:00",
+        "Label": "Líquida Asus ROG Strix LC II 360 ARGB White"
+      },
+      {
+        "Price": 595.00,
+        "Features": [
+          "360mm",
+          "Premium",
+          "RGB",
+          "CPU + GPU",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM4"
+        ],
+        "Date": "2023-05-11T13:08:17.1127956-04:00",
+        "Update": "2024-08-17T10:01:15.408006-04:00",
+        "Label": "Líquida CUSTOM Corsair Hydro XH305i"
+      },
+      {
+        "Price": 195.00,
+        "Features": [
+          "2000rpm",
+          "67cfm",
+          "29db",
+          "2xFan",
+          "240mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "AM5",
+          "AM4"
+        ],
+        "Date": "2024-04-11T02:49:41.9333866-04:00",
+        "Update": "2024-08-17T10:01:15.4432889-04:00",
+        "Label": "Líquida Asus TUF Gaming LC II 360 ARGB"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "2xFan",
+          "280mm",
+          "2100rpm",
+          "102cfm",
+          "36dB",
+          "PWM",
+          "LGA 1700",
+          "AM5",
+          "AM4",
+          "LGA 115X",
+          "LGA 1200",
+          "LGA 20XX",
+          "AMD TR4**"
+        ],
+        "Date": "2024-05-03T06:18:25.3942417-04:00",
+        "Update": "2024-08-17T10:01:15.508159-04:00",
+        "Label": "Líquida Asus ROG Strix LC II 280 ARGB"
+      },
+      {
+        "Price": 185.00,
+        "Features": [
+          "2xFan",
+          "2150rpm",
+          "57cfm",
+          "31dB",
+          "240mm",
+          "LGA 1700",
+          "LGA 15XX",
+          "LGA 1200",
+          "AM4",
+          "AM5",
+          "sTR4",
+          "LGA 1366",
+          "LGA 20XX"
+        ],
+        "Date": "2024-05-03T01:07:54.4972071-04:00",
+        "Update": "2024-08-17T10:01:15.543482-04:00",
+        "Label": "Líquida Gigabyte GP-AORUS Waterforce II 240 G2"
+      },
+      {
+        "Price": 219.00,
+        "Features": [
+          "3xFan",
+          "1500rpm",
+          "48cfm",
+          "28dB",
+          "360mm",
+          "LGA 1700",
+          "LGA 15XX",
+          "LGA 1200",
+          "AM4",
+          "AM5"
+        ],
+        "Date": "2024-05-03T06:18:04.426155-04:00",
+        "Update": "2024-08-17T10:01:15.5784411-04:00",
+        "Label": "Líquida Corsair iCUE H150 RGB"
+      },
+      {
+        "Price": 209.00,
+        "Features": [
+          "3xFan",
+          "2150rpm",
+          "57cfm",
+          "31dB",
+          "360mm",
+          "LGA 1700",
+          "LGA 15XX",
+          "LGA 1200",
+          "AM4",
+          "AM5",
+          "sTR4",
+          "LGA 1366",
+          "LGA 20XX"
+        ],
+        "Date": "2024-05-03T06:18:19.9860597-04:00",
+        "Update": "2024-08-17T10:01:15.6139323-04:00",
+        "Label": "Líquida Gigabyte GP-AORUS Waterforce II 360 G2"
+      },
+      {
+        "Price": 179.00,
+        "Features": [
+          "2xFan",
+          "2500rpm",
+          "81cfm",
+          "38dba",
+          "Cobre",
+          "240mm",
+          "PWM",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "LGA 20XX",
+          "AM4",
+          "AM5",
+          "TR4**"
+        ],
+        "Date": "2023-06-19T07:48:51.0981438-04:00",
+        "Update": "2024-08-17T10:01:15.648064-04:00",
+        "Label": "Líquida ASUS ROG Strix LC II 240 ARGB"
+      },
+      {
+        "Price": 95.00,
+        "Features": [
+          "1500rpm",
+          "48cfm",
+          "28db",
+          "Copper",
+          "1xFan",
+          "120mm",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "LGA 20XX",
+          "AM5",
+          "AM4"
+        ],
+        "Date": "2023-05-11T13:08:14.7226355-04:00",
+        "Update": "2024-08-17T10:01:15.6910171-04:00",
+        "Label": "Líquida Corsair H60x RGB Elite"
+      },
+      {
+        "Price": 255.00,
+        "Features": [
+          "2100rpm",
+          "66cfm",
+          "37db",
+          "3xFan",
+          "360mm",
+          "Copper",
+          "Dynamic",
+          "LGA 1700",
+          "LGA 1200",
+          "LGA 115X",
+          "LGA 20XX",
+          "AM5",
+          "AM4",
+          "sTRX4"
+        ],
+        "Date": "2023-08-29T08:41:32.7866809-04:00",
+        "Update": "2024-08-17T10:01:15.7320049-04:00",
+        "Label": "Líquida Corsair iCUE H150i ELITE CAPELLIX XT"
+      },
+      {
+        "Price": 265.00,
+        "Features": [
+          "420mm",
+          "RGB",
+          "1700rpm",
+          "89CFFM",
+          "35.8dBa",
+          "LGA 1700",
+          "LGA 1200",
+          "AM4",
+          "AM5",
+          "sTRX4"
+        ],
+        "Date": "2024-06-07T05:57:11.579527-04:00",
+        "Update": "2024-08-17T10:01:15.7704814-04:00",
+        "Label": "Líquida Corsair iCUE H170i Elite Capellix"
+      },
+      {
         "Price": 135.00,
         "Features": [],
         "Date": "2024-07-03T15:14:18.6761569-04:00",
-        "Update": "2024-07-03T23:24:09.1972281-04:00",
+        "Update": "2024-08-17T10:01:15.815321-04:00",
         "Discount": 3.0,
-        "Label": "KIT Enfriamiento Custom GPU 240mm"
+        "Label": "Líquida CUSTOM 240mm para GPU"
       },
       {
         "Price": 239.00,
@@ -917,8 +915,8 @@
           "TR4"
         ],
         "Date": "2023-10-11T10:56:20.6230943-04:00",
-        "Update": "2024-07-17T11:25:21.1419038-04:00",
-        "Label": "Disipador Líquido ASUS ROG RYUO III 240 ARGB"
+        "Update": "2024-08-17T10:01:15.8548997-04:00",
+        "Label": "Líquida ASUS ROG RYUO III 240 ARGB"
       },
       {
         "Price": 159.00,
@@ -934,8 +932,8 @@
           "AM5"
         ],
         "Date": "2024-07-17T11:46:43.7038037-04:00",
-        "Update": "2024-07-17T13:28:07.5927902-04:00",
-        "Label": "Disipador Líquido MSI MAG CORELIQUID C240"
+        "Update": "2024-08-17T10:01:15.8960631-04:00",
+        "Label": "Líquida MSI MAG CORELIQUID C240"
       },
       {
         "Price": 269.00,
@@ -951,8 +949,8 @@
           "AM5"
         ],
         "Date": "2024-07-17T11:45:21.301412-04:00",
-        "Update": "2024-07-17T14:25:49.0037852-04:00",
-        "Label": "Disipador Líquido NZXT Kraken Elite RGB 280 Black"
+        "Update": "2024-08-17T10:01:15.9371083-04:00",
+        "Label": "Líquida NZXT Kraken Elite RGB 280 Black"
       },
       {
         "Price": 235.00,
@@ -968,8 +966,8 @@
           "AM5"
         ],
         "Date": "2024-07-17T11:46:21.5677009-04:00",
-        "Update": "2024-07-17T14:25:49.0415541-04:00",
-        "Label": "Disipador Líquido NZXT Kraken RGB 280 Black"
+        "Update": "2024-08-17T10:01:15.9734023-04:00",
+        "Label": "Líquida NZXT Kraken RGB 280 Black"
       },
       {
         "Price": 229.00,
@@ -989,8 +987,8 @@
           "TR4"
         ],
         "Date": "2023-06-19T07:48:54.393261-04:00",
-        "Update": "2024-08-07T15:17:19.5274973-04:00",
-        "Label": "Disipador Líquido Asus ROG Strix LC II 360 ARGB"
+        "Update": "2024-08-17T10:01:16.0140517-04:00",
+        "Label": "Líquida Asus ROG Strix LC II 360 ARGB"
       }
     ],
     "Disco Duro": [
