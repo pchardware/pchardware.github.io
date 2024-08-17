@@ -1,0 +1,30 @@
+{
+  "Category": "Componentes",
+  "SubCategory": "Disipador Líquido",
+  "Images": [
+    "/images/products/lquida-nzxt-kraken-elite-rgb-280-black-1.webp",
+    "/images/products/lquida-nzxt-kraken-elite-rgb-280-black-2.webp",
+    "/images/products/lquida-nzxt-kraken-elite-rgb-280-black-3.webp",
+    "/images/products/lquida-nzxt-kraken-elite-rgb-280-black-4.webp",
+    "/images/products/lquida-nzxt-kraken-elite-rgb-280-black-5.webp",
+    "/images/products/lquida-nzxt-kraken-elite-rgb-280-black-6.webp",
+    "/images/products/lquida-nzxt-kraken-elite-rgb-280-black-7.webp",
+    "/images/products/lquida-nzxt-kraken-elite-rgb-280-black-8.webp"
+  ],
+  "Description": "Model\nBrand: NZXT\nSeries: Kraken Elite RGB\nModel: Kraken Elite RGB 280 Black\nPart Number: RL-KR28E-B1\nType: Liquid Cooling System\n\n\nBlock\nBlock Compatibility: Intel Socket LGA 1700, 1200/115X\nAMD Socket AM5, AM4, sTRX4*, TR4* (*Threadripper bracket not included)\nBlock Compatibility - AMD: AMD Socket AM5, AM4, sTRX4*, TR4* (*Threadripper bracket not included)\nBlock Compatibility - Intel: Intel Socket LGA 1700, 1200/115X\nBlock Dim.: Diameter: 81.9mm H: 59.5mm\nBlock Material: Copper\n\n\nRadiator\nRadiator Size: 143 x 315 x 30mm\nRadiator Material: Aluminum\n\n\nFan\nFan Size: 2 Fan Slots (140 mm)\nFan Dim.: 140 x 140 x 26mm\nBearing Type: Fluid Dynamic Bearing\nFan RPM: 500-1,500 ± 150 RPM\nFan Air Flow: 90.79 CFM\nFan Noise: 34.48 dBA\nFan Connector: 4-pin PWM\nColor: Black\nLED Color: RGB",
+  "Price": 269.00,
+  "Features": [
+    "240mm",
+    "RGB",
+    "1500rpm",
+    "91CFM",
+    "35dBa",
+    "LGA 1700",
+    "LGA 1200",
+    "AM4",
+    "AM5"
+  ],
+  "Date": "2024-07-17T11:45:21.301412-04:00",
+  "Update": "2024-08-17T10:01:15.9371083-04:00",
+  "Label": "Líquida NZXT Kraken Elite RGB 280 Black"
+}
