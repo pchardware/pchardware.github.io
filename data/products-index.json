@@ -9,6 +9,16 @@
         "Discount": 27.0,
         "Label": "Torre RTX 4070 12GB +i5-12600K +Liquida 240 +Strix Z790-H +32GB DDR5 +1TB M.2 +850W"
       }
+    ],
+    "Multimedia": [
+      {
+        "Price": 749.00,
+        "Features": [],
+        "Date": "2024-08-18T05:11:31.6000109-04:00",
+        "Update": "2024-08-18T05:14:00.96631-04:00",
+        "Discount": 10.0,
+        "Label": "Torre i3-13100 +MSI Pro B760M-P +16GB DDR4 3200Mhz C16 +500GB M.2 +600W +Chasis"
+      }
     ]
   },
   "Kits": {
