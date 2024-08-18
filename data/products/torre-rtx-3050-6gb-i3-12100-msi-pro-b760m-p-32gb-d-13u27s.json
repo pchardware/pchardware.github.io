@@ -1,0 +1,22 @@
+{
+  "Category": "Torres",
+  "SubCategory": "Gamer",
+  "Images": [
+    "/images/products/torre-rtx-3050-6gb-i3-12100-msi-pro-b760m-p-32gb-d-13u27s-1.webp",
+    "/images/products/torre-rtx-3050-6gb-i3-12100-msi-pro-b760m-p-32gb-d-13u27s-2.webp",
+    "/images/products/torre-rtx-3050-6gb-i3-12100-msi-pro-b760m-p-32gb-d-13u27s-3.webp",
+    "/images/products/torre-rtx-3050-6gb-i3-12100-msi-pro-b760m-p-32gb-d-13u27s-4.webp",
+    "/images/products/torre-rtx-3050-6gb-i3-12100-msi-pro-b760m-p-32gb-d-13u27s-5.webp",
+    "/images/products/torre-rtx-3050-6gb-i3-12100-msi-pro-b760m-p-32gb-d-13u27s-6.webp",
+    "/images/products/torre-rtx-3050-6gb-i3-12100-msi-pro-b760m-p-32gb-d-13u27s-7.webp",
+    "/images/products/torre-rtx-3050-6gb-i3-12100-msi-pro-b760m-p-32gb-d-13u27s-8.webp"
+  ],
+  "Description": "+ Micro Intel Core i3-12100 +Disipador\n+ Board MSI Pro B760M-P DDR4\n+ 2x RAM DDR4 G.SKILL Ripjaws V 16GB 3200Mhz C16\n+ SSD M.2 MSI Spatium M450 500GB\n+ Asus Dual RTX 3050 6GB\n+ Fuente MSI MPG A750GF 750W\n+ Chasis Cougar Archon 2 Mesh RGB Black\n",
+  "Price": 1015.00,
+  "Features": [],
+  "Date": "2024-08-18T12:28:19.2969927-04:00",
+  "Update": "2024-08-18T12:31:09.6528735-04:00",
+  "Discount": 17.0,
+  "Def": true,
+  "Label": "Torre RTX 3050 6GB +i3-12100 +MSI Pro B760M-P +32GB DDR4 3200Mhz +500GB M.2 +MSI 750W +Chasis"
+}
