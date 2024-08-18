@@ -43,6 +43,16 @@
         "Discount": 10.0,
         "Label": "Torre i3-13100 +MSI Pro B760M-P +16GB DDR4 3200Mhz C16 +500GB M.2 +600W +Chasis"
       }
+    ],
+    "Pro": [
+      {
+        "Price": 1499.00,
+        "Features": [],
+        "Date": "2024-08-18T12:21:05.3027068-04:00",
+        "Update": "2024-08-18T12:24:29.5158052-04:00",
+        "Discount": 23.0,
+        "Label": "Torre i9-12900K +MSI MAG CORELIQUID C240 +MSI MEG Z690 ACE +64GB DDR5 +1TB M.2 +750W"
+      }
     ]
   },
   "Kits": {
