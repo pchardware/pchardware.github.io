@@ -41,6 +41,15 @@
         "Discount": 17.0,
         "Def": true,
         "Label": "Torre RTX 3050 6GB +i3-12100 +MSI Pro B760M-P +32GB DDR4 3200Mhz +500GB M.2 +MSI 750W +Chasis"
+      },
+      {
+        "Price": 1329.00,
+        "Features": [],
+        "Date": "2024-08-18T12:37:29.4925368-04:00",
+        "Update": "2024-08-18T12:39:52.6631168-04:00",
+        "Discount": 17.0,
+        "Def": true,
+        "Label": "Torre RX 6650 XT Core 8GB +i5-12600K +H60x RGB Elite +MSI Pro Z790-S Wifi +32GB DDR5 +1TB M.2 +750W"
       }
     ],
     "Multimedia": [
