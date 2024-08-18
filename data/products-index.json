@@ -32,6 +32,15 @@
         "Update": "2024-08-18T12:16:23.6141565-04:00",
         "Discount": 17.0,
         "Label": "Torre RX 6800 16GB +i5-14500 +Hyper 212 +MSI Pro Z790-S Wifi +32GB DDR5 +1TB M.2 +750W MSI"
+      },
+      {
+        "Price": 1015.00,
+        "Features": [],
+        "Date": "2024-08-18T12:28:19.2969927-04:00",
+        "Update": "2024-08-18T12:31:09.6528735-04:00",
+        "Discount": 17.0,
+        "Def": true,
+        "Label": "Torre RTX 3050 6GB +i3-12100 +MSI Pro B760M-P +32GB DDR4 3200Mhz +500GB M.2 +MSI 750W +Chasis"
       }
     ],
     "Multimedia": [
