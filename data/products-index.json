@@ -71,6 +71,16 @@
         "Discount": 23.0,
         "Label": "Torre i9-12900K +MSI MAG CORELIQUID C240 +MSI MEG Z690 ACE +64GB DDR5 +1TB M.2 +750W"
       }
+    ],
+    "Entusiasta": [
+      {
+        "Price": 3059.00,
+        "Features": [],
+        "Date": "2024-08-18T14:51:46.6342337-04:00",
+        "Update": "2024-08-18T14:54:03.1803004-04:00",
+        "Discount": 22.0,
+        "Label": "Torre Asus RTX 4070 Ti 12GB +i9-14900K +ROG Strix Z790-H Gaming Wifi +64GB DDR5 +2TB M.2 +1000W"
+      }
     ]
   },
   "Kits": {
