@@ -1,0 +1,22 @@
+{
+  "Category": "Computadoras",
+  "SubCategory": "Multimedia",
+  "Images": [
+    "/images/products/pc-i3-13100-msi-pro-b760m-p-16gb-ddr4-3200mhz-c16--7hkyy1-1.webp",
+    "/images/products/pc-i3-13100-msi-pro-b760m-p-16gb-ddr4-3200mhz-c16--7hkyy1-2.webp",
+    "/images/products/pc-i3-13100-msi-pro-b760m-p-16gb-ddr4-3200mhz-c16--7hkyy1-3.webp",
+    "/images/products/pc-i3-13100-msi-pro-b760m-p-16gb-ddr4-3200mhz-c16--7hkyy1-4.webp",
+    "/images/products/pc-i3-13100-msi-pro-b760m-p-16gb-ddr4-3200mhz-c16--7hkyy1-5.webp",
+    "/images/products/pc-i3-13100-msi-pro-b760m-p-16gb-ddr4-3200mhz-c16--7hkyy1-6.webp",
+    "/images/products/pc-i3-13100-msi-pro-b760m-p-16gb-ddr4-3200mhz-c16--7hkyy1-7.webp",
+    "/images/products/pc-i3-13100-msi-pro-b760m-p-16gb-ddr4-3200mhz-c16--7hkyy1-8.webp"
+  ],
+  "Description": "+ Micro Intel Core i3-13100 +Disipador\n+ Board MSI Pro B760M-P DDR4\n+ RAM DDR4 G.SKILL Ripjaws V 16GB 3200Mhz C16\n+ SSD M.2 Samsung MZ-VPW2560 256GB\n+ Fuente Thermaltake SMART 600W 80+\n+ Chasis Cougar Archon 2 Mesh RGB Black\n+ Monitor AOC 24'' FHD IPS 100Hz\n+ COMBO Teclado + Mouse Logitech MK270\n",
+  "Price": 889.00,
+  "Features": [],
+  "Date": "2024-08-19T10:54:53.5027203-04:00",
+  "Update": "2024-08-19T11:06:46.4407613-04:00",
+  "Discount": 15.0,
+  "Def": true,
+  "Label": "PC i3-13100 +MSI Pro B760M-P +16GB DDR4 3200Mhz C16 +256GB M.2 +600W +Chasis +Monitor AOC 24\""
+}
