@@ -9,6 +9,17 @@
         "Discount": 28.0,
         "Label": "PC RTX 4060 OC 8GB +i5-12600K +Hyper 212 +Z790-S Wifi +32GB DDR5 +1TB m.2 +850W +Mon 24\""
       }
+    ],
+    "Multimedia": [
+      {
+        "Price": 889.00,
+        "Features": [],
+        "Date": "2024-08-19T10:54:53.5027203-04:00",
+        "Update": "2024-08-19T11:06:46.4407613-04:00",
+        "Discount": 15.0,
+        "Def": true,
+        "Label": "PC i3-13100 +MSI Pro B760M-P +16GB DDR4 3200Mhz C16 +256GB M.2 +600W +Chasis +Monitor AOC 24\""
+      }
     ]
   },
   "Torres": {
