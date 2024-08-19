@@ -1,4 +1,16 @@
 {
+  "Computadoras": {
+    "Gamer": [
+      {
+        "Price": 1835.00,
+        "Features": [],
+        "Date": "2024-08-19T10:46:36.8618056-04:00",
+        "Update": "2024-08-19T10:50:55.9123808-04:00",
+        "Discount": 28.0,
+        "Label": "PC RTX 4060 OC 8GB +i5-12600K +Hyper 212 +Z790-S Wifi +32GB DDR5 +1TB m.2 +850W +Mon 24\""
+      }
+    ]
+  },
   "Torres": {
     "Multimedia": [
       {
