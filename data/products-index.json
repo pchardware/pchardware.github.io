@@ -1,14 +1,16 @@
 {
   "Torres": {
-    "Gamer": [
+    "Multimedia": [
       {
-        "Price": 2055.00,
+        "Price": 749.00,
         "Features": [],
-        "Date": "2024-07-28T10:51:02.3613434-04:00",
-        "Update": "2024-07-28T10:58:11.0536334-04:00",
-        "Discount": 27.0,
-        "Label": "Torre RTX 4070 12GB +i5-12600K +Liquida 240 +Strix Z790-H +32GB DDR5 +1TB M.2 +850W"
-      },
+        "Date": "2024-08-18T05:11:31.6000109-04:00",
+        "Update": "2024-08-18T05:14:00.96631-04:00",
+        "Discount": 10.0,
+        "Label": "Torre i3-13100 +MSI Pro B760M-P +16GB DDR4 3200Mhz C16 +500GB M.2 +600W +Chasis"
+      }
+    ],
+    "Gamer": [
       {
         "Price": 1335.00,
         "Features": [],
@@ -50,16 +52,6 @@
         "Discount": 17.0,
         "Def": true,
         "Label": "Torre RX 6650 XT Core 8GB +i5-12600K +H60x RGB Elite +MSI Pro Z790-S Wifi +32GB DDR5 +1TB M.2 +750W"
-      }
-    ],
-    "Multimedia": [
-      {
-        "Price": 749.00,
-        "Features": [],
-        "Date": "2024-08-18T05:11:31.6000109-04:00",
-        "Update": "2024-08-18T05:14:00.96631-04:00",
-        "Discount": 10.0,
-        "Label": "Torre i3-13100 +MSI Pro B760M-P +16GB DDR4 3200Mhz C16 +500GB M.2 +600W +Chasis"
       }
     ],
     "Pro": [
@@ -1474,24 +1466,6 @@
         "Date": "2023-10-16T10:24:39.6367232-04:00",
         "Update": "2024-02-20T04:12:06.3830671-05:00",
         "Label": "Disipador Thermaltake UX200 SE White"
-      },
-      {
-        "Price": 165.00,
-        "Features": [
-          "6xPipes",
-          "1500rpm",
-          "82.52CFM",
-          "24.6dB",
-          "LGA 1200",
-          "LGA 1700",
-          "LGA 2011",
-          "LGA 2066",
-          "AM4",
-          "2xFan"
-        ],
-        "Date": "2024-04-30T06:44:38.2139693-04:00",
-        "Update": "2024-04-30T09:42:29.9164595-04:00",
-        "Label": "Disipador Noctua NH-D15 Chromax Black"
       },
       {
         "Price": 5.00,
@@ -2980,28 +2954,6 @@
         "Date": "2024-04-11T02:49:11.5578956-04:00",
         "Update": "2024-08-17T09:50:16.5578209-04:00",
         "Label": "Asus TUF Gaming RTX 4070 SUPER 12GB OC Edition"
-      },
-      {
-        "Price": 725.00,
-        "Features": [
-          "3xFan",
-          "1x16Pin",
-          "650WR",
-          "339mm",
-          "PCIe4",
-          "2xHDMI 2.1",
-          "3xDP 1.4a",
-          "DLSS",
-          "NVidia",
-          "GeForce",
-          "GPU",
-          "Gráfica",
-          "Tarjeta",
-          "Video"
-        ],
-        "Date": "2024-06-24T07:12:35.6738092-04:00",
-        "Update": "2024-08-17T09:50:16.593729-04:00",
-        "Label": "Asus ROG Strix RTX 4070 12GB"
       },
       {
         "Price": 939.00,
