@@ -1,15 +1,1 @@
-{
-  "Category": "Componentes",
-  "SubCategory": "Otros",
-  "Images": [
-    "/images/products/pasta-termica-protronix-series-9-extreme-1.webp"
-  ],
-  "Description": "The Protronix Series 9 thermal compound paste is 62% more thermally conductive than the Series 7. The high density formula is suitable for extreme environments and applications that demand the very best performance. Exceptional long term stability, odorless, low oil content, non-curing, non-volatile, non-corrosive, non-toxic, flame retardant, not electrically conductive\n\nOperating Temperature: -50/340\nThermal Conductivity: > 5.15W /m-K\nThermal Resistance: < 0.004? -in/W 45% metal oxide compounds",
-  "Price": 5.00,
-  "Features": [
-    "Jeringuilla"
-  ],
-  "Date": "2023-06-07T15:03:43.1820356-04:00",
-  "Update": "2023-09-11T11:17:59.1789125-04:00",
-  "Label": "Pasta Termica Protronix Series 9 Extreme"
-}
+{"Category":"Componentes","SubCategory":"Otros","Images":["/images/products/pasta-termica-protronix-series-9-extreme-1.webp"],"Description":"The Protronix Series 9 thermal compound paste is 62% more thermally conductive than the Series 7. The high density formula is suitable for extreme environments and applications that demand the very best performance. Exceptional long term stability, odorless, low oil content, non-curing, non-volatile, non-corrosive, non-toxic, flame retardant, not electrically conductive\n\nOperating Temperature: -50/340\nThermal Conductivity: > 5.15W /m-K\nThermal Resistance: < 0.004? -in/W 45% metal oxide compounds","Price":5.00,"Features":["Jeringuilla"],"Date":"2023-06-07T15:03:43.1820356-04:00","Update":"2023-09-11T11:17:59.1789125-04:00","Label":"Pasta Termica Protronix Series 9 Extreme"}
