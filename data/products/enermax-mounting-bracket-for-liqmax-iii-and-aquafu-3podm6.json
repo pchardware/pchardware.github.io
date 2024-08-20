@@ -1,13 +1,1 @@
-{
-  "Category": "Componentes",
-  "SubCategory": "Disipador Líquido",
-  "Images": [
-    "/images/products/enermax-mounting-bracket-for-liqmax-iii-and-aquafu-3podm6-1.webp"
-  ],
-  "Description": "Model\nBrand: Enermax\nModel: ELC-1700A\n\n\nDetails\nTypes: Bracket\nColors: Black\n\n\nAdditional Information\nDate First Available: December 22, 2021",
-  "Price": 10.0,
-  "Features": [],
-  "Date": "2023-11-03T12:23:24.2344408-04:00",
-  "Update": "2023-11-03T14:29:33.2358759-04:00",
-  "Label": "Enermax Mounting Bracket for LIQMAX III and AQUAFUSION on Intel LGA 1700"
-}
+{"Category":"Componentes","SubCategory":"Disipador Líquido","Images":["/images/products/enermax-mounting-bracket-for-liqmax-iii-and-aquafu-3podm6-1.webp"],"Description":"Model\nBrand: Enermax\nModel: ELC-1700A\n\n\nDetails\nTypes: Bracket\nColors: Black\n\n\nAdditional Information\nDate First Available: December 22, 2021","Price":10.0,"Features":[],"Date":"2023-11-03T12:23:24.2344408-04:00","Update":"2023-11-03T14:29:33.2358759-04:00","Label":"Enermax Mounting Bracket for LIQMAX III and AQUAFUSION on Intel LGA 1700"}
