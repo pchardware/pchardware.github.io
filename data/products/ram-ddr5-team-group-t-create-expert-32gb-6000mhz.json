@@ -1,18 +1,1 @@
-{
-  "Category": "Componentes",
-  "SubCategory": "Memoria RAM",
-  "Images": [
-    "/images/products/ram-ddr5-team-group-t-create-expert-32gb-6000mhz-1.webp",
-    "/images/products/ram-ddr5-team-group-t-create-expert-32gb-6000mhz-2.webp"
-  ],
-  "Description": "Model\nBrand: Team Group\nSeries: T-CREATE EXPERT\nModel: CTCED532G6000HC30DC01\nPart Number: CTCED532G6000HC30DC01\n\n\nDetails\nCapacity: 32GB (2 x 16GB)\nType: 288-Pin PC RAM\nSpeed: DDR5 6000 (PC5 48000)\nCAS Latency: 30\nTiming: 30-36-36-76\nVoltage: 1.35V\nECC: No\nBuffered/Registered: Unbuffered / Unregistered\nMulti-channel Kit: Dual Channel Kit\nBIOS/Performance Profile: Intel XMP 3.0\nColor: Black\nHeat Spreader: Yes\nRecommend Use: Intel: 700 series and 600 series\nLED Color: None",
-  "Price": 115.00,
-  "Features": [
-    "2x16GB",
-    "CL30",
-    "Disipadas"
-  ],
-  "Date": "2024-06-24T07:13:00.3057292-04:00",
-  "Update": "2024-07-17T19:04:25.8917775-04:00",
-  "Label": "RAM DDR5 Team Group T-CREATE EXPERT 32GB 6000mhz"
-}
+{"Category":"Componentes","SubCategory":"Memoria RAM","Images":["/images/products/ram-ddr5-team-group-t-create-expert-32gb-6000mhz-1.webp","/images/products/ram-ddr5-team-group-t-create-expert-32gb-6000mhz-2.webp"],"Description":"Model\nBrand: Team Group\nSeries: T-CREATE EXPERT\nModel: CTCED532G6000HC30DC01\nPart Number: CTCED532G6000HC30DC01\n\n\nDetails\nCapacity: 32GB (2 x 16GB)\nType: 288-Pin PC RAM\nSpeed: DDR5 6000 (PC5 48000)\nCAS Latency: 30\nTiming: 30-36-36-76\nVoltage: 1.35V\nECC: No\nBuffered/Registered: Unbuffered / Unregistered\nMulti-channel Kit: Dual Channel Kit\nBIOS/Performance Profile: Intel XMP 3.0\nColor: Black\nHeat Spreader: Yes\nRecommend Use: Intel: 700 series and 600 series\nLED Color: None","Price":115.00,"Features":["2x16GB","CL30","Disipadas"],"Date":"2024-06-24T07:13:00.3057292-04:00","Update":"2024-07-17T19:04:25.8917775-04:00","Label":"RAM DDR5 Team Group T-CREATE EXPERT 32GB 6000mhz"}
