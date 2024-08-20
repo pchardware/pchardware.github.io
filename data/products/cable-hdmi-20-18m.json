@@ -1,18 +1,1 @@
-{
-  "Category": "Periféricos",
-  "SubCategory": "Otros",
-  "Images": [
-    "/images/products/cable-hdmi-20-18m-1.webp",
-    "/images/products/cable-hdmi-20-18m-2.webp",
-    "/images/products/cable-hdmi-20-18m-3.webp",
-    "/images/products/cable-hdmi-20-18m-4.webp",
-    "/images/products/cable-hdmi-20-18m-5.webp",
-    "/images/products/cable-hdmi-20-18m-6.webp"
-  ],
-  "Description": "Details\nColor: Black\n\n\nGroup\nStyle: Male to Male",
-  "Price": 10.00,
-  "Features": [],
-  "Date": "2023-08-21T08:58:50.8949152-04:00",
-  "Update": "2023-11-24T11:14:38.7496521-05:00",
-  "Label": "Cable HDMI 2.0, 1.8m"
-}
+{"Category":"Periféricos","SubCategory":"Otros","Images":["/images/products/cable-hdmi-20-18m-1.webp","/images/products/cable-hdmi-20-18m-2.webp","/images/products/cable-hdmi-20-18m-3.webp","/images/products/cable-hdmi-20-18m-4.webp","/images/products/cable-hdmi-20-18m-5.webp","/images/products/cable-hdmi-20-18m-6.webp"],"Description":"Details\nColor: Black\n\n\nGroup\nStyle: Male to Male","Price":10.00,"Features":[],"Date":"2023-08-21T08:58:50.8949152-04:00","Update":"2023-11-24T11:14:38.7496521-05:00","Label":"Cable HDMI 2.0, 1.8m"}
