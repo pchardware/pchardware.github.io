@@ -1,18 +1,1 @@
-{
-  "Category": "Componentes",
-  "SubCategory": "Memoria RAM",
-  "Images": [
-    "/images/products/ram-ddr4-geil-orion-rgb-16gb-3600mhz-1.webp",
-    "/images/products/ram-ddr4-geil-orion-rgb-16gb-3600mhz-2.webp"
-  ],
-  "Description": "Model\nBrand: GeIL\nSeries: ORION RGB\nModel: GAOSR416GB3600C18BDC\n\n\nDetails\nCapacity: 16GB (2 x 8GB)\nType: 288-Pin PC RAM\nSpeed: DDR4 3600 (PC4 28800)\nCAS Latency: 18\nTiming: 18-22-22-42\nVoltage: 1.35V\nMulti-channel Kit: Dual Channel Kit\nColor: Red\nRecommend Use: AMD &amp; Intel Compatible\nLED Color: RGB",
-  "Price": 65.00,
-  "Features": [
-    "2x8GB",
-    "CL18",
-    "Disipadas"
-  ],
-  "Date": "2023-03-30T09:56:49.769494-04:00",
-  "Update": "2024-05-02T13:05:17.7897981-04:00",
-  "Label": "RAM DDR4 GeIL ORION RGB 16GB 3600mhz"
-}
+{"Category":"Componentes","SubCategory":"Memoria RAM","Images":["/images/products/ram-ddr4-geil-orion-rgb-16gb-3600mhz-1.webp","/images/products/ram-ddr4-geil-orion-rgb-16gb-3600mhz-2.webp"],"Description":"Model\nBrand: GeIL\nSeries: ORION RGB\nModel: GAOSR416GB3600C18BDC\n\n\nDetails\nCapacity: 16GB (2 x 8GB)\nType: 288-Pin PC RAM\nSpeed: DDR4 3600 (PC4 28800)\nCAS Latency: 18\nTiming: 18-22-22-42\nVoltage: 1.35V\nMulti-channel Kit: Dual Channel Kit\nColor: Red\nRecommend Use: AMD &amp; Intel Compatible\nLED Color: RGB","Price":65.0,"Features":["2x8GB","CL18","Dual Channel","Disipadas"],"Date":"2023-03-30T09:56:49.769494-04:00","Update":"2024-09-28T13:17:02.3947592-04:00","Label":"RAM DDR4 GeIL ORION RGB 16GB 3600mhz"}
