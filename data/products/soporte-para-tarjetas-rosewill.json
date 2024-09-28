@@ -1,16 +1,1 @@
-{
-  "Category": "Componentes",
-  "SubCategory": "Tarjeta Gráfica",
-  "Images": [
-    "/images/products/soporte-para-tarjetas-rosewill-1.webp",
-    "/images/products/soporte-para-tarjetas-rosewill-2.webp",
-    "/images/products/soporte-para-tarjetas-rosewill-3.webp",
-    "/images/products/soporte-para-tarjetas-rosewill-4.webp"
-  ],
-  "Description": "Model\nBrand: Rosewill\nModel: GPU-BKIT\n\n\nFeatures\nType: GPU Holder\n\n\nSpec\nSpecifications: 95.00 x 86.00 x 260.00 mm\n\n\nFeatures\nFeatures: 2 x Holder \n1 x Base \n2 x Bracket",
-  "Price": 10.00,
-  "Features": [],
-  "Date": "2024-02-28T05:30:17.0431477-05:00",
-  "Update": "2024-04-14T14:21:07.7919663-04:00",
-  "Label": "Soporte para Tarjetas Rosewill"
-}
+{"Category":"Componentes","SubCategory":"Tarjeta Gráfica","Images":["/images/products/soporte-para-tarjetas-rosewill-1.webp","/images/products/soporte-para-tarjetas-rosewill-2.webp","/images/products/soporte-para-tarjetas-rosewill-3.webp","/images/products/soporte-para-tarjetas-rosewill-4.webp"],"Description":"Model\nBrand: Rosewill\nModel: GPU-BKIT\n\n\nFeatures\nType: GPU Holder\n\n\nSpec\nSpecifications: 95.00 x 86.00 x 260.00 mm\n\n\nFeatures\nFeatures: 2 x Holder \n1 x Base \n2 x Bracket","Price":9.00,"Features":[],"Date":"2024-02-28T05:30:17.0431477-05:00","Update":"2024-04-14T14:21:07.7919663-04:00","Label":"Soporte para Tarjetas Rosewill"}
