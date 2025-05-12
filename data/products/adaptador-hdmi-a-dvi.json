@@ -1,15 +1,1 @@
-{
-  "Category": "Periféricos",
-  "SubCategory": "Adaptador",
-  "Images": [
-    "/images/products/adaptador-hdmi-a-dvi-1.webp",
-    "/images/products/adaptador-hdmi-a-dvi-2.webp",
-    "/images/products/adaptador-hdmi-a-dvi-3.webp"
-  ],
-  "Description": "Model\nBrand: BYTECC\nModel: DVI-HM\n\n\nDetails\nChanger Type: DVI (Male) to HDMI (Female)\nColor: Black\n\n\nConnectors\nConnector A: 1 x DVI (Dual-link) Male\nConnector B: 1 x HDMI Female\n\n\nFeatures\nFeatures: Solution for an High-definition Display to use with DVI video card",
-  "Price": 7.00,
-  "Features": [],
-  "Date": "2023-07-26T18:49:01.6603508-04:00",
-  "Update": "2023-07-31T14:53:37.2835019-04:00",
-  "Label": "Adaptador HDMI a DVI"
-}
+{"Category":"Periféricos","SubCategory":"Adaptador","Images":["/images/products/adaptador-hdmi-a-dvi-1.webp","/images/products/adaptador-hdmi-a-dvi-2.webp","/images/products/adaptador-hdmi-a-dvi-3.webp"],"Description":"Model\nBrand: BYTECC\nModel: DVI-HM\n\n\nDetails\nChanger Type: DVI (Male) to HDMI (Female)\nColor: Black\n\n\nConnectors\nConnector A: 1 x DVI (Dual-link) Male\nConnector B: 1 x HDMI Female\n\n\nFeatures\nFeatures: Solution for an High-definition Display to use with DVI video card","Price":13.00,"Features":[],"Date":"2025-04-24T14:41:42.7666394-04:00","Update":"2025-05-12T10:57:44.6081537-04:00","Label":"Adaptador HDMI a DVI"}
