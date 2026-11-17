@@ -131,6 +131,7 @@ h2{font-size:17px;letter-spacing:-.01em;margin:26px 0 12px}
 .ci .qty{height:36px}.ci .qty button{height:34px;width:34px}
 .ci .lt{font-weight:700;justify-self:end;font-variant-numeric:tabular-nums}
 .ci small{color:var(--mut);margin-left:6px}
+.ci .bw{grid-column:2/-1}
 .tot{display:flex;justify-content:space-between;font-size:20px;font-weight:700;padding:16px 0 0;border-top:1px solid var(--line);margin-top:4px;font-variant-numeric:tabular-nums}
 footer{background:var(--bg);color:var(--on);margin-top:32px;padding:28px 0 88px;font-size:13.5px}
 .fcols{display:grid;gap:16px;margin-bottom:22px}
@@ -500,15 +501,46 @@ function cartView(){
  if(keep.length!=c.items.length){c.items=keep;setCart(c)}
  document.title="Cesta · "+(M.Title||"");
  if(!keep.length){v.innerHTML='<div class="msg">La cesta está vacía.<br><br><a class="btn" data-nav href="./">Ver el catálogo</a></div>';return}
- var tot=0,h='<div class="cartbox"><h2>Cesta</h2><div class="box">';
+ if(!BL&&bList().length)bLoad();
+ var R=cRules(keep),tot=0,h='<div class="cartbox"><h2>Cesta</h2><div class="box">';
  keep.forEach(function(i){var p=bySlug[i.productId],q=parseInt(i.qty,10)||0;tot+=p.Price*q;
   h+='<div class="ci"><img loading="lazy" alt="" src="'+thumb(p)+'"><a class="name" data-nav href="'+pUrl(p.slug)+'">'+esc(p.Label)+'</a><button class="x" data-rm="'+esc(p.slug)+'" aria-label="Quitar">'+IC.x+"</button>"+
-   '<span><span class="qty"><button data-cq="-1" data-s="'+esc(p.slug)+'" aria-label="Menos">−</button><input type="number" min="0" max="99" value="'+q+'" data-ci="'+esc(p.slug)+'"><button data-cq="1" data-s="'+esc(p.slug)+'" aria-label="Más">+</button></span><small>× '+money(p.Price)+'</small></span><span class="lt">'+money(p.Price*q)+"</span></div>"});
+   '<span><span class="qty"><button data-cq="-1" data-s="'+esc(p.slug)+'" aria-label="Menos">−</button><input type="number" min="0" max="99" value="'+q+'" data-ci="'+esc(p.slug)+'"><button data-cq="1" data-s="'+esc(p.slug)+'" aria-label="Más">+</button></span><small>× '+money(p.Price)+'</small></span><span class="lt">'+money(p.Price*q)+"</span>"+
+   (R[p.slug]||[]).map(function(x){return'<span class="bw">'+esc(x)+"</span>"}).join("")+"</div>"});
  var tr=(M.CartPayMethod?"<div>"+IC.cash+"<span><b>Forma de pago</b><span>"+esc(M.CartPayMethod)+"</span></span></div>":"")+
   (M.CartShipping?"<div>"+IC.truck+"<span><b>Envío</b><span>"+esc(M.CartShipping)+"</span></span></div>":"");
  h+='<div class="tot"><span>Total</span><span>'+usd(tot)+"</span></div></div>"+(tr?'<div class="box trust">'+tr+"</div>":"")+
   '<div class="acts col"><button class="btn wa" id="order">'+IC.wa+'Enviar el pedido por WhatsApp</button><button class="btn alt" id="empty">Vaciar la cesta</button></div></div>';
  v.innerHTML=h}
+/* restricciones de VENTA en la cesta: las dependencias marcadas «sale» (data/builder.json) valen también fuera del armador.
+   Un artículo que cumple `when` solo se vende junto con uno compatible de cada componente destino, y como mucho `max_qty`
+   unidades por cada uno de esos acompañantes. Artículo sin datos = no se avisa. Devuelve {slug: [avisos]}. */
+function cRules(items){var out={},I={},L=[],D=[],seen={};if(!BL)return out;
+ BL.forEach(function(b){var k;for(k in b.items)if(!I[k])I[k]=b.items[k];
+  b.links.forEach(function(l){var s=JSON.stringify(l);if(!seen[s]){seen[s]=1;L.push(l)}});
+  b.deps.forEach(function(d){var s=JSON.stringify(d),g=[];if(!d.sale||seen[s])return;seen[s]=1;
+   b.slots.forEach(function(sl){var ts=sl.types.filter(function(t){return(d.targets||[]).indexOf(t)>=0});if(ts.length)g.push({n:sl.n,t:ts})});
+   D.push({d:d,g:g})})});
+ function one(x,y){for(var i=0;i<L.length;i++){var l=L[i];if(l[0]==x.t&&l[2]==y.t&&!bLink(bAx(x,l[1]),bAx(y,l[3]),l[4],l[5]))return false}return true}
+ function fits(x,y){return one(x,y)&&one(y,x)}
+ function add(k,t){(out[k]=out[k]||[]).push(t)}
+ var cart=items.map(function(i){return{k:i.productId,q:parseInt(i.qty,10)||0,it:I[i.productId]}}).filter(function(c){return c.it&&c.q>0});
+ D.forEach(function(r){var w=r.d.when,ok=(w["in"]||[]).map(String),mq=+r.d.max_qty||0,units=0,cap=r.g.length?1e9:1;
+  var mine=cart.filter(function(c){var v=(c.it.dv||{})[w.field],vs=Array.isArray(v)?v:[v];
+   return c.it.t==w.type&&vs.some(function(y){return y!=null&&ok.indexOf(String(y))>=0})});
+  if(!mine.length)return;
+  var names=r.g.map(function(g){return g.n}).join(" y ");
+  /* acompañantes de m por componente: sirven con m y, entre sí, con alguno de cada otro componente (juego completo) */
+  function sets(m){var raw=r.g.map(function(g){return cart.filter(function(c){return g.t.indexOf(c.it.t)>=0&&fits(m.it,c.it)})});
+   return{raw:raw,ok:raw.map(function(l,i){return l.filter(function(c){return raw.every(function(o,j){return j==i||o.some(function(x){return fits(c.it,x.it)})})})})}}
+  var used=r.g.map(function(){return{}});
+  mine.forEach(function(m){units+=m.q;var s=sets(m),miss=r.g.filter(function(g,i){return!s.raw[i].length}).map(function(g){return g.n});
+   s.ok.forEach(function(l,i){l.forEach(function(c){used[i][c.k]=c.q})});
+   if(miss.length){m.bad=1;add(m.k,"Solo se vende junto con "+names+" compatibles. Falta en la cesta: "+miss.join(" y ")+".")}
+   else if(s.ok.some(function(l){return!l.length})){m.bad=1;add(m.k,"Solo se vende junto con "+names+" compatibles. Los de la cesta no son compatibles entre sí.")}});
+  used.forEach(function(u){var n=0,k;for(k in u)n+=u[k];cap=Math.min(cap,n)});
+  if(mq&&cap>0&&units>cap*mq)mine.forEach(function(m){if(!m.bad)add(m.k,"Máximo "+mq+(names?" por cada "+names:" por pedido")+": en esta cesta, hasta "+cap*mq+".")})});
+ return out}
 function order(){
  var t="Hola, quiero esta orden:\n------------------------------\n",tot=0,items=[];
  getCart().items.forEach(function(i){var p=bySlug[i.productId],q=parseInt(i.qty,10)||0;if(!p||q<=0)return;
