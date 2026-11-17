@@ -2,6 +2,7 @@
    Página y datos: se sirve lo guardado al instante y se revalida en segundo plano (si cambió, se avisa a la página).
    Fotos: lo guardado manda; la dirección lleva ?v= con la versión de la ficha, así una foto cambiada baja de nuevo. */
 var C = "cat-v1", IMG = "cat-img-v1", MAX_IMG = 1500;
+var changed = {};   // lo que cambio mientras la pagina aun no escuchaba: se le avisa cuando saluda (mensaje "prime")
 
 self.addEventListener("install", function () { self.skipWaiting(); });
 self.addEventListener("activate", function (e) { e.waitUntil(self.clients.claim()); });
@@ -16,7 +17,8 @@ function revalidate(k) {
         var a = old && old.headers.get("etag"), b = res.headers.get("etag");
         return c.put(k, res.clone()).then(function () {
           if (old && (!a || a !== b)) {
-            return self.clients.matchAll().then(function (cl) {
+            changed[k] = 1;
+            return self.clients.matchAll({ includeUncontrolled: true }).then(function (cl) {
               cl.forEach(function (x) { x.postMessage({ t: "upd", url: k }); });
               return res;
             });
@@ -63,6 +65,10 @@ self.addEventListener("fetch", function (e) {
 self.addEventListener("message", function (e) {
   var d = e.data || {};
   if (d.t !== "prime") return;
+  (d.urls || []).forEach(function (u) {
+    var k = key(u);
+    if (changed[k]) { delete changed[k]; if (e.source) e.source.postMessage({ t: "upd", url: k }); }
+  });
   e.waitUntil(caches.open(C).then(function (c) {
     return Promise.all((d.urls || []).map(function (u) {
       var k = key(u);
