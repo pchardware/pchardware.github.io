@@ -193,6 +193,7 @@ var IC={
  shield:'<svg viewBox="0 0 24 24"><path d="M12 3l8 3v6c0 4.6-3.2 7.9-8 9-4.8-1.1-8-4.4-8-9V6z"/><path d="M8.8 12l2.3 2.3 4.2-4.3"/></svg>',
  truck:'<svg viewBox="0 0 24 24"><path d="M2 6h11v10H2zM13 9h4.5L21 12.5V16h-8z"/><circle cx="6.5" cy="17.5" r="1.8"/><circle cx="17" cy="17.5" r="1.8"/></svg>',
  cash:'<svg viewBox="0 0 24 24"><rect x="2.5" y="6" width="19" height="12" rx="2"/><circle cx="12" cy="12" r="2.6"/><path d="M6 9.5v5M18 9.5v5"/></svg>',
+ chk:'<svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>',
  down:'<svg viewBox="0 0 24 24"><path d="M12 4v11M7 11l5 5 5-5M5 20h14"/></svg>',
  gift:'<svg viewBox="0 0 24 24"><path d="M4 11h16v9H4zM3 7h18v4H3zM12 7v13M12 7C10 3 6 4 7 6s5 1 5 1zM12 7c2-4 6-3 5-1s-5 1-5 1z"/></svg>',
  tree:'<svg viewBox="0 0 24 24"><path d="M12 3l5 6h-3l4 5h-4l4 5H6l4-5H6l4-5H7zM12 19v2"/></svg>',
@@ -406,7 +407,10 @@ document.addEventListener("click",function(e){
  if(!t)return;var d=t.dataset,s;
  if(t.id=="zoom"){if(e.target.tagName!="IMG")$("zoom").hidden=true;return}
  if(d.nav!=null){if(e.ctrlKey||e.metaKey||e.shiftKey||t.target)return;e.preventDefault();go(t.getAttribute("href"));return}
- if(t.id=="inst"){if(dip){dip.prompt();dip.userChoice.then(function(){dip=null;$("inst").hidden=true},function(){})}return}
+ if(t.id=="inst"){
+  if(dip){dip.prompt();dip.userChoice.then(function(){dip=null;$("inst").hidden=true},function(){})}
+  else if(hasIt)location.href="intent://"+ROOT.replace(/^https?:\/\//,"")+"#Intent;scheme=https;S.browser_fallback_url="+enc(ROOT)+";end";
+  return}
  if(t.id=="wa"||d.wa!=null){window.open(waUrl(waMsg),"_blank");return}
  if(d.cat!=null){F={category:d.cat,subcategory:"",feature:"",search:F.search,sort:F.sort};go(qs(),true);return}
  if(d.sub!=null){F.subcategory=F.subcategory==d.sub?"":d.sub;F.feature="";go(qs(),true);return}
@@ -439,9 +443,19 @@ window.addEventListener("storage",function(e){if(e.key=="cart"&&ready){cartCount
 window.addEventListener("scroll",function(){$("top").hidden=window.scrollY<600},{passive:true});
 /* instalable: el botón aparece solo cuando el navegador permite instalar DIRECTO (un toque y confirmar). Donde no se puede
    (iPhone, o si ya está instalada) no se muestra: nada de mandar al visitante a buscar menús (Leo 17/nov/2026). */
-var dip=null;$("inst").innerHTML=IC.down+"Instalar app";
-window.addEventListener("beforeinstallprompt",function(e){e.preventDefault();dip=e;$("inst").hidden=false});
-window.addEventListener("appinstalled",function(){dip=null;$("inst").hidden=true});
+var touched=false;["pointerdown","keydown","touchstart"].forEach(function(n){window.addEventListener(n,function(){touched=true},{passive:true,once:true})});
+/* un solo botón en la cabecera: «Instalar app» cuando el navegador permite instalar directo, o «Abrir app» cuando ya está
+   instalada y se entró por el navegador (solo Android: es donde el navegador lo dice, `getInstalledRelatedApps`, y donde un
+   enlace intent:// puede pasar a la app; en computadora Chrome ya ofrece «Abrir en aplicación» en su barra). */
+var dip=null,hasIt=false,demo=new URLSearchParams(location.search).get("demo");
+function instBtn(){var b=$("inst"),on=dip||hasIt;b.hidden=!on;if(on)b.innerHTML=dip?IC.down+"Instalar app":IC.up.replace("M5 15l7-7 7 7","M7 17L17 7M9 7h8v8")+"Abrir app"}
+var standalone=!!(window.matchMedia&&matchMedia("(display-mode: standalone)").matches)||navigator.standalone===true;
+if(!standalone&&/android/i.test(navigator.userAgent)&&navigator.getInstalledRelatedApps)
+ navigator.getInstalledRelatedApps().then(function(a){if(!dip&&!demo){hasIt=a.length>0;instBtn()}},function(){});
+window.addEventListener("beforeinstallprompt",function(e){e.preventDefault();if(demo)return;dip=e;hasIt=false;instBtn()});
+window.addEventListener("appinstalled",function(){dip=null;hasIt=false;instBtn()});
+/* ?demo=app / ?demo=instalar: ensenan los dos estados del botón aunque el equipo no los permita (revisión en vista previa) */
+if(demo=="app"){hasIt=true;instBtn()}else if(demo=="instalar"){dip={prompt:function(){},userChoice:{then:function(){}}};instBtn()}
 $("cartBtn").innerHTML=IC.cart;$("top").innerHTML=IC.up;$("wa").innerHTML=IC.wa;$("zoom").lastChild.innerHTML=IC.x;
 
 /* ── guardado en el teléfono: abre al instante y sin conexión; se refresca solo si cambió ── */
