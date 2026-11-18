@@ -188,6 +188,11 @@ footer p{margin:0 0 6px;opacity:.7}
 .bside{display:flex;flex-direction:column;align-items:flex-end;gap:5px}
 .bside .lt{font-weight:700;font-variant-numeric:tabular-nums}
 .bchg{border:1px solid #d0d5dd;border-radius:8px;padding:5px 11px;font-size:13px;color:#344054;background:#fff;white-space:nowrap}
+.bact{display:flex;align-items:center;gap:2px}
+.bx{color:#98a2b3;width:32px;height:32px;display:flex;align-items:center;justify-content:center}.bx svg{width:18px;height:18px}
+.bq{display:flex;align-items:center;margin-top:6px}.bq small{color:var(--mut);margin-left:6px}
+.bq .qty{height:32px;border-radius:8px}.bq .qty button{width:32px;height:30px;font-size:18px}.bq .qty button:disabled{color:#d0d5dd}
+.bq .qty b{min-width:22px;text-align:center;font-variant-numeric:tabular-nums}
 .bchg.go{background:var(--bg);border-color:var(--bg);color:var(--on)}
 .bd{font-size:12.5px;color:var(--mut);white-space:nowrap}
 .bd.on{color:var(--ok);font-weight:600}
@@ -579,7 +584,7 @@ function order(){
 /* ── armador: el visitante dice para qué es y cuánto quiere gastar y recibe una selección ya compatible; puede cambiar cada
    componente viendo solo lo que sirve con el resto. Todo sale de data/builder.json (lo calcula el catálogo al generarse):
    componentes, artículos con sus datos de compatibilidad, reglas y las selecciones recomendadas por uso. ── */
-var BL=null,BD=null,BT=0,bY=0,PCS=pcLoad(),PC={u:"",n:0,p:{}},PCold=null,bFx={};
+var BL=null,BD=null,BT=0,bY=0,PCS=pcLoad(),PC={u:"",n:0,p:{},q:{}},PCold=null,bFx={};
 function pcLoad(){var o;try{o=JSON.parse(localStorage.getItem("pcs")||"null")}catch(e){}return o&&typeof o=="object"?o:{}}
 function pcSave(){if(BD)PCS[BD.k]=PC;try{localStorage.setItem("pcs",JSON.stringify(PCS))}catch(e){}}
 function bHome(){return"./?armar="+enc(BD.k)}
@@ -613,21 +618,27 @@ function bSec(){var b=M.Builders||{},l=bList(),one=l.length==1?l[0]:null;
  return{t:b.title||(one&&one.title)||"Armar",i:b.intro||(one&&one.intro)||""}}
 /* armador por la dirección; uno solo = directo; si no, null (se elige) */
 function bSel(k){var b=BL.filter(function(x){return x.k==k})[0]||(BL.length==1?BL[0]:null);if(b!==BD){BD=b;PCold=null;bFx={};
- if(b){var o=PCS[b.k];PC=o&&o.p?o:{u:"",n:0,p:{}};bClean()}}return b}
+ if(b){var o=PCS[b.k];PC=o&&o.p?o:{u:"",n:0,p:{},q:{}};if(!PC.q)PC.q={};bClean()}}return b}
 function bLoad(){if(BT==1)return;BT=1;
  getJSON("data/builder.json").then(function(d){var k=BD&&BD.k;BL=(d&&d.list)||[];BD=null;BT=2;if(k)bSel(k);route(true)})
   .catch(function(){BT=0;if(!BL&&!$("vBuild").hidden)$("vBuild").innerHTML='<div class="msg">No se pudo cargar.<br>Revisa la conexión.<br><br><button class="btn" id="bRetry">Reintentar</button></div>'})}
 function bOk(k){return!!(BD.items[k]&&bySlug[k])}
-function bClean(){var k;for(k in PC.p)if(!bOk(PC.p[k])||BD.items[PC.p[k]].s!=k)delete PC.p[k];if(PC.u&&PC.u!=FREE&&!bUse())PC.u=""}
+function bClean(){var k;for(k in PC.p)if(!bOk(PC.p[k])||BD.items[PC.p[k]].s!=k)delete PC.p[k];for(k in PC.q)if(!PC.p[k]||PC.q[k]>bMax(+k,PC.p[k]))delete PC.q[k];if(PC.u&&PC.u!=FREE&&!bUse())PC.u=""}
 var FREE="__libre";
+/* CANTIDAD por componente (la estructura dice cuántas admite; x=0 = sin tope → 8): unidades elegidas y su máximo para un artículo,
+   recortado por las dependencias con tope (p. ej. «de este tipo, solo 1») */
+function bQ(i){return PC.q&&PC.q[i]||1}
+function bMax(si,k){var x=BD.slots[si].x,m=x==null?1:x||8,it=BD.items[k];if(!it)return 1;
+ BD.deps.forEach(function(d){var w=d.when,ok=(w["in"]||[]).map(String);if(!d.max_qty||w.type!=it.t)return;
+  var v=(it.dv||{})[w.field],vs=Array.isArray(v)?v:[v];if(vs.some(function(y){return y!=null&&ok.indexOf(String(y))>=0}))m=Math.min(m,+d.max_qty)});return m}
 function bUse(){return BD.uses.filter(function(u){return u.k==PC.u})[0]}
 /* selecciones recomendadas de un uso: solo las que siguen enteras en el catálogo, con el precio de hoy */
 function bBuilds(u){return u.b.filter(function(b){return b.i.every(function(x){return bOk(x[0])})})
- .map(function(b){return{i:b.i,p:b.i.reduce(function(a,x){return a+bySlug[x[0]].Price},0)}}).sort(function(a,b){return a.p-b.p})}
+ .map(function(b){return{i:b.i,p:b.i.reduce(function(a,x){return a+bySlug[x[0]].Price*(x[1]||1)},0)}}).sort(function(a,b){return a.p-b.p})}
 function bApply(u,n){var bs=bBuilds(u);if(!bs.length)return;n=Math.max(0,Math.min(bs.length-1,n));
- PC={u:u.k,n:n,p:{}};bs[n].i.forEach(function(x){PC.p[BD.items[x[0]].s]=x[0]});pcSave()}
+ PC={u:u.k,n:n,p:{},q:{}};bs[n].i.forEach(function(x){var si=BD.items[x[0]].s;PC.p[si]=x[0];if(x[1]>1)PC.q[si]=x[1]});pcSave()}
 /* compatibilidad: mismo criterio que el generador del catálogo (dato desconocido = no se puede negar) */
-function bAx(it,k){if(k=="__qty")return 1;var v=it.ax[k];return v==null?null:v}
+function bAx(it,k,q){q=q||1;if(k=="__qty")return q;var v=it.ax[k];if(v==null)return null;return typeof v=="number"&&/\*__qty$/.test(k)?v*q:v}
 function bLink(va,vb,ma,mb){
  if(va==null&&ma["default"]!=null)va=ma["default"];if(vb==null&&mb["default"]!=null)vb=mb["default"];
  if(va==null||vb==null)return true;
@@ -637,9 +648,9 @@ function bLink(va,vb,ma,mb){
  var t=[[ma,va,vb],[mb,vb,va]],i,ic,ik;
  for(i=0;i<2;i++)if(t[i][0].dir=="ge"&&t[i][0].order){ic=t[i][0].order.indexOf(t[i][1]);ik=t[i][0].order.indexOf(t[i][2]);return ic<0||ik<0?t[i][1]==t[i][2]:ik>=ic}
  return va==vb}
-function bPair(a,b){var x=BD.items[a],y=BD.items[b],i,l;
- for(i=0;i<BD.links.length;i++){l=BD.links[i];if(l[0]==x.t&&l[2]==y.t&&!bLink(bAx(x,l[1]),bAx(y,l[3]),l[4],l[5]))return false}return true}
-function bBad(k,si){var out=[],j;for(j in PC.p)if(j!=si&&!bPair(k,PC.p[j]))out.push(+j);return out}
+function bPair(a,b,qa,qb){var x=BD.items[a],y=BD.items[b],i,l;
+ for(i=0;i<BD.links.length;i++){l=BD.links[i];if(l[0]==x.t&&l[2]==y.t&&!bLink(bAx(x,l[1],qa),bAx(y,l[3],qb),l[4],l[5]))return false}return true}
+function bBad(k,si,q){var out=[],j;if(q==null)q=bQ(si);for(j in PC.p)if(j!=si&&!bPair(k,PC.p[j],q,bQ(j)))out.push(+j);return out}
 /* un artículo elegido puede hacer NECESARIO un componente opcional: {componente: artículo que lo exige} */
 function bNeed(){var need={},k;for(k in PC.p)(function(k){var it=BD.items[PC.p[k]];
  BD.deps.forEach(function(d){var w=d.when,ok=(w["in"]||[]).map(String);if(w.type!=it.t||!d.targets)return;
@@ -652,17 +663,19 @@ function bFix(si){var q=bBad(PC.p[si],si),lock={},done=[],g=0;lock[si]=1;
  while(q.length&&g++<20){var j=q.shift();if(lock[j])continue;
   var old=bySlug[PC.p[j]].Price,best=null,bd=1e9,loose=null,ld=1e9;
   Object.keys(BD.items).forEach(function(k){if(BD.items[k].s!=j||!bySlug[k])return;var o,all=true,lk=true;
-   for(o in PC.p){if(o==j)continue;if(!bPair(k,PC.p[o])){all=false;if(lock[o])lk=false}}
+   for(o in PC.p){if(o==j)continue;if(!bPair(k,PC.p[o],bQ(j),bQ(o))){all=false;if(lock[o])lk=false}}
    var dd=Math.abs(bySlug[k].Price-old);if(all&&dd<bd){bd=dd;best=k}if(lk&&dd<ld){ld=dd;loose=k}});
   var k=best||loose;if(!k)continue;PC.p[j]=k;lock[j]=1;done.push(j);
   if(!best)bBad(k,j).forEach(function(o){if(!lock[o]&&q.indexOf(o)<0)q.push(o)})}
  return done}
 function bRows(){var need=bNeed(),tot=0,nbad=0,miss=[],n=0,h='<div class="box">';
  BD.slots.forEach(function(s,i){var k=PC.p[i],p=k&&bySlug[k],req=s.req||need[i]!=null;
-  if(p){var bad=bBad(k,i);tot+=p.Price;n++;if(bad.length)nbad++;
+  if(p){var bad=bBad(k,i),q=bQ(i),mx=bMax(i,k);tot+=p.Price*q;n++;if(bad.length)nbad++;
    h+='<div class="br"><img loading="lazy" alt="" src="'+thumb(p)+'"><div><span class="bl">'+esc(s.n)+'</span><a class="name" data-nav href="'+pUrl(k)+'">'+esc(p.Label)+"</a>"+(bFx[i]?'<span class="bd on">'+IC.chk+"Cambiado para que sea compatible</span>":"")+
     bad.map(function(j){return'<span class="bw">No es compatible con '+esc(bySlug[PC.p[j]].Label)+"</span>"}).join("")+
-    '</div><div class="bside"><span class="lt">'+money(p.Price)+'</span><button class="bchg" data-bs="'+i+'">Cambiar</button></div></div>'}
+    (mx>1||q>1?'<span class="bq"><span class="qty"><button data-bq="'+i+'" data-d="-1" aria-label="Menos"'+(q<=1?" disabled":"")+'>−</button><b>'+q+'</b><button data-bq="'+i+'" data-d="1" aria-label="Más"'+
+     (q>=mx||bBad(k,i,q+1).length>bad.length?" disabled":"")+">+</button></span><small>× "+money(p.Price)+"</small></span>":"")+
+    '</div><div class="bside"><span class="lt">'+money(p.Price*q)+'</span><span class="bact"><button class="bchg" data-bs="'+i+'">Cambiar</button><button class="bx" data-bx="'+i+'" aria-label="Quitar">'+IC.x+"</button></span></div></div>"}
   else{if(req)miss.push(s.n);
    h+='<div class="br"><span class="ph">'+IC.add+'</span><div><span class="bl">'+esc(s.n)+"<i"+(req?"":' class="op"')+">"+(req?"Necesario":"Opcional")+'</i></span><span class="feat">'+
     esc(need[i]!=null?"Lo necesita "+bySlug[need[i]].Label:s.h)+'</span></div><div class="bside"><button class="bchg'+(req?" go":"")+'" data-bs="'+i+'">'+(req?"Elegir":"Añadir")+"</button></div></div>"}});
@@ -684,7 +697,8 @@ function bView(){
    '<div class="msg">No disponible por ahora.<br><br><a class="btn" data-nav href="./">Ver el catálogo</a></div>';return}
  if(want!=BD.k&&imp==null&&c==null)history.replaceState(null,"",new URL(bHome(),ROOT).href);
  document.title=BD.title+" · "+(M.Title||"");T("b",BD.k+":open",true);
- if(imp!=null){PC={u:"",n:0,p:{}};imp.split(",").forEach(function(k){if(bOk(k))PC.p[BD.items[k].s]=k});pcSave();
+ if(imp!=null){PC={u:"",n:0,p:{},q:{}};imp.split(",").forEach(function(x){var k=x.split("*")[0],q=parseInt(x.split("*")[1],10)||1;
+  if(bOk(k)){var si=BD.items[k].s;PC.p[si]=k;q=Math.min(q,bMax(si,k));if(q>1)PC.q[si]=q}});pcSave();
   history.replaceState(null,"",new URL(bHome(),ROOT).href)}
  if(c!=null&&BD.slots[c]){bPick(+c);return}
  var use=bUse(),bs=use?bBuilds(use):[],n=Math.min(PC.n||0,bs.length-1);
@@ -711,15 +725,15 @@ function bPick(si){var s=BD.slots[si],cur=PC.p[si],need=bNeed()[si]!=null,cp=cur
  $("vBuild").innerHTML='<div class="cartbox"><div class="crumb">'+(BL.length>1?'<a data-nav href="./?armar=">'+esc(bSec().t)+"</a>›":"")+'<a data-nav href="'+bHome()+'">'+esc(BD.title)+"</a>›<span>"+esc(s.n)+'</span></div><h2 style="margin-top:0">'+esc(s.n)+"</h2>"+(s.h?'<p class="bint">'+esc(s.h)+"</p>":"")+
   (ok.length?'<div class="box">'+ok.map(row).join("")+"</div>":'<div class="box feat">Nada de lo disponible es compatible con lo que ya elegiste.</div>')+
   (no.length?'<details class="binc"><summary>'+no.length+" más, que obligan a cambiar otros componentes</summary><div class=\"box\">"+no.map(row).join("")+"</div></details>":"")+
-  (cur&&!s.req&&!need?'<div class="acts col"><button class="btn alt" data-bp="">Quitar</button></div>':"")+"</div>"}
+  (cur?'<div class="acts col"><button class="btn alt" data-bp="">Quitar</button></div>':"")+"</div>"}
 function bBack(){if(history.state&&history.state.b)history.back();else go(bHome(),true)}
 function bText(){var t="Hola, armé esta selección en tu sitio web:\n------------------------------\n",tot=0;
- BD.slots.forEach(function(s,i){var p=PC.p[i]&&bySlug[PC.p[i]];if(p){t+="- "+s.n+": "+p.Label+" ($"+p.Price+")\n";tot+=p.Price}});
+ BD.slots.forEach(function(s,i){var p=PC.p[i]&&bySlug[PC.p[i]];if(p){var q=bQ(i);t+="- "+s.n+": "+(q>1?q+" × ":"")+p.Label+" ($"+p.Price*q+")\n";tot+=p.Price*q}});
  return t+"\nTotal: $"+tot+" USD\n¿Me la pueden revisar?"}
 
 /* ── eventos ── */
 document.addEventListener("click",function(e){
- var t=e.target.closest("[data-nav],[data-cat],[data-sub],[data-kw],[data-add],[data-q],[data-cq],[data-rm],[data-wa],#wa,#pAdd,#pShare,#inst,#order,#empty,[data-bu],[data-bn],[data-bs],[data-bp],#bCart,#bWa,#bShare,#bReset,#bRetry,#gImg,#gPr,#gNx,#cartBtn,#top,#zoom");
+ var t=e.target.closest("[data-nav],[data-cat],[data-sub],[data-kw],[data-add],[data-q],[data-cq],[data-rm],[data-wa],#wa,#pAdd,#pShare,#inst,#order,#empty,[data-bu],[data-bn],[data-bs],[data-bp],[data-bx],[data-bq],#bCart,#bWa,#bShare,#bReset,#bRetry,#gImg,#gPr,#gNx,#cartBtn,#top,#zoom");
  if(!t)return;var d=t.dataset,s;
  if(t.id=="zoom"){if(e.target.tagName!="IMG")$("zoom").hidden=true;return}
  if(d.nav!=null){if(e.ctrlKey||e.metaKey||e.shiftKey||t.target)return;e.preventDefault();var hb=t.closest("[data-hb]");if(hb)T("home",hb.getAttribute("data-hb"));go(t.getAttribute("href"));return}
@@ -741,20 +755,24 @@ document.addEventListener("click",function(e){
  if(d.cq!=null){var c=getCart().items.filter(function(i){return i.productId===d.s})[0];setQty(d.s,Math.min(99,(c?parseInt(c.qty,10)||0:0)+ +d.cq));cartView();return}
  if(d.rm!=null){setQty(d.rm,0);cartView();return}
  if(t.id=="bRetry"){bView();return}
- if(d.bu!=null||d.bn!=null||d.bs!=null||d.bp!=null||/^b(Cart|Wa|Share|Reset)$/.test(t.id)){if(!BD)return;var bu=bUse();
+ if(d.bu!=null||d.bn!=null||d.bs!=null||d.bp!=null||d.bx!=null||d.bq!=null||/^b(Cart|Wa|Share|Reset)$/.test(t.id)){if(!BD)return;var bu=bUse();
   if(d.bu!=null&&d.bu!=PC.u)T("b",BD.k+":use:"+d.bu);
   if(d.bu==FREE){if(PC.u!=FREE){PC.u=FREE;PC.n=0;bFx={};pcSave();bView()}return}
   if(d.bu!=null){var nu=BD.uses.filter(function(x){return x.k==d.bu})[0];if(nu&&nu!==bu){PCold=null;bFx={};bApply(nu,Math.floor((bBuilds(nu).length-1)/3));bView()}return}
   if(d.bn!=null){if(bu){bFx={};bApply(bu,(PC.n||0)+ +d.bn);bPaint()}return}
+  if(d.bx!=null){delete PC.p[d.bx];delete PC.q[d.bx];delete bFx[d.bx];pcSave();bPaint();return}
+  if(d.bq!=null){var qi=+d.bq,qk=PC.p[qi],qn=bQ(qi)+ +d.d;if(!qk||qn<1||qn>bMax(qi,qk))return;bFx={};
+   if(qn>1)PC.q[qi]=qn;else delete PC.q[qi];pcSave();bPaint();return}
   if(d.bs!=null){bY=window.scrollY;history.pushState({b:1},"",new URL(bHome()+"&c="+d.bs,ROOT).href);route();return}
   if(d.bp!=null){var si=new URLSearchParams(location.search).get("c");if(si==null)return;
-   bFx={};if(d.bp){PC.p[si]=d.bp;bFix(si).forEach(function(j){bFx[j]=1})}else delete PC.p[si];pcSave();bBack();return}
-  if(t.id=="bCart"){T("b",BD.k+":cart");var nn=0;Object.keys(PC.p).forEach(function(k){if(!inCart(PC.p[k]))setQty(PC.p[k],1);nn++});if(nn){toast("Añadido a la cesta");go("./?cart=1")}return}
+   bFx={};if(d.bp){PC.p[si]=d.bp;var q0=Math.min(bQ(si),bMax(si,d.bp));if(q0>1&&bBad(d.bp,si,q0).length>bBad(d.bp,si,1).length)q0=1;
+    if(q0>1)PC.q[si]=q0;else delete PC.q[si];bFix(si).forEach(function(j){bFx[j]=1})}else{delete PC.p[si];delete PC.q[si]}pcSave();bBack();return}
+  if(t.id=="bCart"){T("b",BD.k+":cart");var nn=0;Object.keys(PC.p).forEach(function(k){var c=getCart().items.filter(function(x){return x.productId===PC.p[k]})[0];setQty(PC.p[k],Math.max(bQ(k),c?parseInt(c.qty,10)||0:0));nn++});if(nn){toast("Añadido a la cesta");go("./?cart=1")}return}
   if(t.id=="bWa"){T("wa","armador");T("b",BD.k+":wa");window.open(waUrl(bText()),"_blank");return}
-  if(t.id=="bShare"){T("b",BD.k+":share");var bl=new URL(bHome()+"&pc="+BD.slots.map(function(s,i){return PC.p[i]}).filter(Boolean).join(","),ROOT).href;
+  if(t.id=="bShare"){T("b",BD.k+":share");var bl=new URL(bHome()+"&pc="+BD.slots.map(function(s,i){return PC.p[i]?PC.p[i]+(bQ(i)>1?"*"+bQ(i):""):""}).filter(Boolean).join(","),ROOT).href;
    if(navigator.share)navigator.share({title:BD.title,url:bl}).catch(function(){});
    else if(navigator.clipboard)navigator.clipboard.writeText(bl).then(function(){toast("Enlace copiado")},function(){});return}
-  if(t.id=="bReset"){if(PCold){PC=PCold;PCold=null}else{PCold=PC;PC={u:"",n:0,p:{}}}bFx={};pcSave();bView();window.scrollTo(0,0);return}
+  if(t.id=="bReset"){if(PCold){PC=PCold;PCold=null}else{PCold=PC;PC={u:"",n:0,p:{},q:{}}}bFx={};pcSave();bView();window.scrollTo(0,0);return}
   return}
  if(t.id=="order"){order();return}
  if(t.id=="empty"){setCart({items:[]});cartView();return}
