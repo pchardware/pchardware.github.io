@@ -458,7 +458,9 @@ var HOME={
   return h?"<section><h2>"+esc(b.title||"Explora por categoría")+"</h2>"+h+"</section>":""},
  offers:function(b){var r=all.filter(function(p){return p.Discount>0}).sort(function(a,b){return b.d-a.d}).slice(0,16);
   return r.length?"<section><h2>"+esc(b.title||"Ofertas")+'</h2><div class="hrow">'+r.map(card).join("")+"</div></section>":""},
- "new":function(b){var r=all.slice().sort(function(a,b){return b.d-a.d}).slice(0,12);
+ /* b.days = plazo: solo las fichas creadas en los últimos N días; si no entró nada en ese plazo el bloque no sale (sin plazo = las 12 más nuevas) */
+ "new":function(b){var t=b.days>0?Date.now()-b.days*864e5:0;
+  var r=all.filter(function(p){return p.d>=t}).sort(function(a,b){return b.d-a.d}).slice(0,12);
   return r.length?"<section><h2>"+esc(b.title||"Novedades")+'</h2><div class="hrow">'+r.map(card).join("")+"</div></section>":""},
  trust:function(b){var t=trust(false);return t?(b.title?"<section><h2>"+esc(b.title)+"</h2>":"<section>")+'<div class="box trust htrust">'+t+"</div></section>":""}
 };
