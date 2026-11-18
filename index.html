@@ -282,12 +282,12 @@ var F={category:"",subcategory:"",feature:"",search:"",sort:"new"};
 var enc=encodeURIComponent;
 /* ── medición propia: contadores anónimos hacia el catálogo (M.Stats = a dónde; sin ella no se manda nada). No lleva nada del
    visitante: «distintos» se calcula aquí con la fecha de la visita anterior guardada en este equipo. Con ?medir=no este equipo
-   deja de contar (?medir=si vuelve). Se manda en lotes y al salir; si falla, se pierde: nunca estorba a la página. ── */
-var TQ=[],TT=0,TS={},tOff=false,tNew=false,tLast="",tF={},tQ=0;
-try{var tm=new URLSearchParams(location.search).get("medir");if(tm)localStorage.setItem("nomedir",tm=="no"?"1":"");tOff=localStorage.getItem("nomedir")=="1"}catch(e){}
+   deja de contar, con ?medir=equipo cuenta APARTE como del negocio (?medir=si vuelve a cliente); la app instalada también va aparte. Se manda en lotes y al salir; si falla, se pierde: nunca estorba a la página. ── */
+var TQ=[],TT=0,TS={},tOff=false,tNew=false,tLast="",tF={},tQ=0,tTeam=false;
+try{var tm=new URLSearchParams(location.search).get("medir");if(tm)localStorage.setItem("nomedir",tm=="no"?"1":tm=="equipo"?"2":"");var tn=localStorage.getItem("nomedir");tOff=tn=="1";tTeam=tn=="2"}catch(e){}
 function T(k,v,once){if(tOff||(ready&&!M.Stats))return;v=String(v==null?"":v);if(once){if(TS[k+"|"+v])return;TS[k+"|"+v]=1}
  TQ.push([k,v]);clearTimeout(TT);if(TQ.length>=40)tSend();else TT=setTimeout(tSend,4000)}
-function tSend(){clearTimeout(TT);if(!ready||!TQ.length)return;var u=M.Stats,b;if(!u||tOff){TQ=[];return}b=JSON.stringify({e:TQ.splice(0,60)});
+function tSend(){clearTimeout(TT);if(!ready||!TQ.length)return;var u=M.Stats,b;if(!u||tOff){TQ=[];return}b={e:TQ.splice(0,60)};if(tTeam)b.w=1;if(standalone)b.a=1;b=JSON.stringify(b);
  try{if(!(navigator.sendBeacon&&navigator.sendBeacon(u,b)))fetch(u,{method:"POST",body:b,mode:"no-cors",keepalive:true}).catch(function(){})}catch(e){}}
 document.addEventListener("visibilitychange",function(){if(document.visibilityState=="hidden")tSend()});
 window.addEventListener("pagehide",tSend);
@@ -365,7 +365,7 @@ function load(quiet){
     d[c][s].forEach(function(p){p.Category=c;p.SubCategory=s;p.slug=toSlug(p.Label);p.u=Date.parse(p.Update)||0;p.d=Date.parse(p.Date)||p.u;p.v=Math.floor(p.u/1000).toString(36);
      p.w=words(p).map(function(w){return w.toLowerCase()});p.f=p.w.map(norm);
      p.t=[norm(c),norm(s)].concat(p.f,[norm(p.Label)]).join(" ");all.push(p);bySlug[p.slug]=p})})});
-  ready=true;if(!M.Stats)TQ=[];tVisit();chrome();route(quiet);
+  ready=true;if(!M.Stats)TQ=[];tVisit();if(tm){toast(tm=="equipo"?"Este equipo cuenta como del negocio":tm=="no"?"Este equipo no se cuenta":"Este equipo cuenta como cliente",4000);tm=""}chrome();route(quiet);
  }).catch(function(){if(ready)return;
   $("grid").innerHTML="";$("state").hidden=false;$("state").innerHTML='No se pudo cargar el catálogo.<br>Revisa la conexión.<br><br><button class="btn" id="retry">Reintentar</button>';
   $("retry").onclick=function(){load()}})}
