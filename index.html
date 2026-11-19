@@ -131,6 +131,11 @@ h2{font-size:17px;letter-spacing:-.01em;margin:26px 0 12px}
 .ci .qty{height:36px}.ci .qty button{height:34px;width:34px}
 .ci .lt{font-weight:700;justify-self:end;font-variant-numeric:tabular-nums}
 .ci small{color:var(--mut);margin-left:6px}
+.stk{margin-left:auto;display:inline-flex;align-items:center;gap:5px;height:22px;padding:0 9px;border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--mut);font-size:12px;font-weight:500;line-height:1;cursor:pointer;font-variant-numeric:tabular-nums}
+.stk svg{width:14px;height:14px;margin:0;stroke-width:1.9}.stk b{color:var(--ink);font-weight:700}
+.stk:hover{border-color:#d0d5dd;color:var(--ink)}.stk.on{background:var(--soft);border-color:var(--soft)}
+.stk.no,.stk.no b{color:var(--hot);border-color:var(--hotbg);background:var(--hotbg)}
+.ci .stk{margin:0 0 0 8px;padding:0 7px;vertical-align:middle}
 .ci .bw{grid-column:2/-1}
 .tot{display:flex;justify-content:space-between;font-size:20px;font-weight:700;padding:16px 0 0;border-top:1px solid var(--line);margin-top:4px;font-variant-numeric:tabular-nums}
 footer{background:var(--bg);color:var(--on);margin-top:32px;padding:28px 0 88px;font-size:13.5px}
@@ -351,7 +356,7 @@ var AC=null;try{AC=JSON.parse(localStorage.getItem("acct")||"null")}catch(e){}
 function accBtn(){var b=$("accBtn");if(!M.Auth||!M.Auth.client){b.hidden=true;return}b.hidden=false;
  b.innerHTML=AC?'<span class="av">'+esc(String(AC.name||"?").charAt(0).toUpperCase())+"</span>":IC.user}
 function accOpen(){var v=$("acc");
- v.firstElementChild.innerHTML='<button id="accX" aria-label="Cerrar">'+IC.x+"</button>"+(AC?'<div class="who in">'+esc(String(AC.name||"?").charAt(0).toUpperCase())+"</div><h2>"+esc(AC.name)+"</h2><p>"+esc(M.Title||"")+'</p><div id="accAd"></div><div id="accWa"></div><p class="sv" style="margin-top:4px">Tu cesta, tus configuraciones y tu dirección están guardadas en tu cuenta</p><button class="lk" id="accOut">Cerrar sesión</button><a class="lk pv" href="'+esc(ROOT+"privacidad.html")+'">Privacidad</a>'
+ v.firstElementChild.innerHTML='<button id="accX" aria-label="Cerrar">'+IC.x+"</button>"+(AC?'<div class="who in">'+esc(String(AC.name||"?").charAt(0).toUpperCase())+"</div><h2>"+esc(AC.name)+"</h2><p>"+esc(M.Title||"")+(STK?" · Equipo":"")+'</p><div id="accAd"></div><div id="accWa"></div><p class="sv" style="margin-top:4px">Tu cesta, tus configuraciones y tu dirección están guardadas en tu cuenta</p><button class="lk" id="accOut">Cerrar sesión</button><a class="lk pv" href="'+esc(ROOT+"privacidad.html")+'">Privacidad</a>'
   :'<div class="who">'+IC.user+"</div><h2>"+esc(M.Title||"Entrar")+'</h2><p>Entra y tu cesta, tus configuraciones y tu dirección quedan guardadas en tu cuenta</p><div id="gbtn"></div><a class="lk pv" href="'+esc(ROOT+"privacidad.html")+'">Privacidad</a>');
  v.hidden=false;if(!AC)gLoad();else{accAd();accWa.n=null;accWa()}}
 /* WhatsApp confirmado: el cliente no escribe su número; envía al WhatsApp del catálogo un mensaje ya escrito con un código y el
@@ -423,8 +428,22 @@ function gInit(){try{google.accounts.id.initialize({client_id:M.Auth.client,call
 function gCred(r){if(!r||!r.credential)return;
  fetch(M.Auth.url,{method:"POST",body:JSON.stringify({c:r.credential})}).then(function(x){return x.ok?x.json():null}).then(function(d){
   if(!d||!d.t){toast("No se pudo entrar",3000);return}AC={t:d.t,name:d.name};try{localStorage.setItem("acct",JSON.stringify(AC))}catch(e){}
-  $("acc").hidden=true;accBtn();T("auth","in");toast("Hola, "+d.name,2500);route(true);syPull(true)}).catch(function(){toast("No se pudo entrar",3000)})}
-function accOut(){T("auth","out");tSend();AC=null;try{localStorage.removeItem("acct");localStorage.removeItem("addr")}catch(e){}syGet().addr={r:0,d:0};sySet();try{google.accounts.id.disableAutoSelect()}catch(e){}$("acc").hidden=true;accBtn();route(true)}
+  $("acc").hidden=true;accBtn();T("auth","in");toast("Hola, "+d.name,2500);route(true);syPull(true);stkGet(1)}).catch(function(){toast("No se pudo entrar",3000)})}
+function accOut(){T("auth","out");tSend();AC=null;STK=null;STKv={};try{localStorage.removeItem("acct");localStorage.removeItem("addr")}catch(e){}syGet().addr={r:0,d:0};sySet();try{google.accounts.id.disableAutoSelect()}catch(e){}$("acc").hidden=true;accBtn();route(true)}
+/* EQUIPO del negocio (Nexo lo reconoce por su Google o su WhatsApp confirmado): puede ver las existencias y la cesta no le deja
+   pedir más de las que hay. A un cliente normal el servidor no le da nada de esto. STK = {team, q: {artículo: unidades}} o null.
+   El número va OCULTO: solo se ve al pulsar «Existencias» (STKv = los artículos destapados en esta visita). */
+var STK=null,stkAt=0,STKv={},IC_BOX='<svg viewBox="0 0 24 24"><path d="M3.5 7.5L12 3.5l8.5 4v9L12 20.5l-8.5-4z"/><path d="M3.5 7.5L12 11.5l8.5-4M12 11.5v9"/></svg>';
+function stkGet(force){if(!AC||!AC.t||!M.Auth||!M.Auth.url)return;var n=Date.now();if(!force&&n-stkAt<60000)return;stkAt=n;
+ fetch(M.Auth.url+"/stock",{method:"POST",body:JSON.stringify({t:AC.t})}).then(function(x){return x.ok?x.json():null}).then(function(d){
+  if(!d)return;var o=JSON.stringify(STK);STK=d.team?d:null;if(JSON.stringify(STK)!=o)route(true)}).catch(function(){})}
+function qMax(s){return STK&&STK.q&&STK.q[s]!=null?STK.q[s]:99}
+/* sm = en la fila de la cesta (solo icono mientras está oculto); q = unidades pedidas: si pasan de las que hay, se ve solo y en rojo */
+function stkBtn(s,q,sm){if(!STK||!STK.q||STK.q[s]==null)return"";var n=STK.q[s],no=q>n,on=no||STKv[s];
+ return'<button type="button" class="stk'+(on?" on":"")+(no?" no":"")+'" data-stk="'+esc(s)+'" data-sq="'+(q||0)+'"'+(sm?' data-sm="1"':"")+
+  ' aria-label="Existencias">'+IC_BOX+(sm&&!on?"":"Existencias")+(on?" <b>"+n+"</b>":"")+"</button>"}
+document.addEventListener("click",function(e){var t=e.target.closest("[data-stk]");if(!t)return;e.preventDefault();e.stopPropagation();
+ var s=t.getAttribute("data-stk");STKv[s]=!STKv[s];t.outerHTML=stkBtn(s,+t.getAttribute("data-sq")||0,t.hasAttribute("data-sm"))},true);
 function ymd(d){return d.getFullYear()+"-"+("0"+(d.getMonth()+1)).slice(-2)+"-"+("0"+d.getDate()).slice(-2)}
 /* visita = una por sesión del navegador; d/w/m/n = primera del día, de la semana (desde el domingo), del mes, primera vez */
 function tVisit(){var d=new Date(),day=ymd(d),ss=null,last="";
@@ -496,7 +515,7 @@ function getCart(){var c;try{c=JSON.parse(localStorage.getItem("cart")||"null")}
 function setCart(c){try{localStorage.setItem("cart",JSON.stringify(c))}catch(e){}cartCount();syMark("cart")}
 function inCart(s){return getCart().items.some(function(i){return i.productId===s})}
 function cartCount(){var n=getCart().items.reduce(function(a,i){return a+(parseInt(i.qty,10)||0)},0);$("cartBtn").setAttribute("data-n",n)}
-function setQty(s,q){var c=getCart(),i=c.items.findIndex(function(x){return x.productId===s});
+function setQty(s,q){var mx=qMax(s);if(q>mx){q=mx;toast("No hay más unidades",1800)}var c=getCart(),i=c.items.findIndex(function(x){return x.productId===s});
  if(q<=0){if(i>=0)c.items.splice(i,1)}else if(i>=0)c.items[i].qty=String(q);else c.items.push({productId:s,qty:String(q)});setCart(c);if(q>0)tCk("con")}
 
 /* ── datos ── */
@@ -530,7 +549,7 @@ function chrome(){
  var rgb=/^\s*\d+\s*,\s*\d+\s*,\s*\d+\s*$/.test(M.BackgroundColor||"")?"rgb("+M.BackgroundColor+")":"";
  if(rgb){var cc=M.BackgroundColor.split(",").map(Number),st=document.documentElement.style;st.setProperty("--bg",rgb);
   st.setProperty("--on",.299*cc[0]+.587*cc[1]+.114*cc[2]>165?"#14171c":"#fff")}
- if($("searchBox").firstElementChild.tagName!="svg")$("searchBox").insertAdjacentHTML("afterbegin",IC.search);accBtn();if(!syPull.did){syPull.did=1;syPull()}
+ if($("searchBox").firstElementChild.tagName!="svg")$("searchBox").insertAdjacentHTML("afterbegin",IC.search);accBtn();if(!syPull.did){syPull.did=1;syPull();stkGet(1)}
  $("fCols").innerHTML=trust(false);
  var t=(M.Title||"").toUpperCase().split(" "),h=Math.round(t.length/2);
  var se=season(),nt=se?(M.Season.text||se.t+(M.HeadNotification?" · "+M.HeadNotification:"")):M.HeadNotification||"";
@@ -547,7 +566,7 @@ function qs(){var o={},k;if(F.category)o.category=F.category;if(F.subcategory)o.
  var s=[];for(k in o)s.push(k+"="+enc(o[k]));return s.length?"./?"+s.join("&"):"./"}
 function go(url,rep){history[rep?"replaceState":"pushState"](null,"",new URL(url,ROOT).href);route()}
 function route(keep){
- if(!ready)return;
+ if(!ready)return;stkGet();
  var u=new URLSearchParams(location.search),pm=location.pathname.match(/\/a\/([^\/]+)\.html$/),p=pm?decodeURIComponent(pm[1]):u.get("p"),cart=pm?null:u.get("cart"),arm=!pm&&!p&&!cart&&bList().length&&u.has("armar")?(u.get("armar")||"*"):null;
  if(p&&!pm)history.replaceState(null,"",new URL(pUrl(p),ROOT).href);
  var wasList=!$("vList").hidden;
@@ -648,9 +667,9 @@ function product(slug){
   (p.SubCategory?'<a data-nav href="./?category='+enc(norm(p.Category))+"&subcategory="+enc(norm(p.SubCategory))+'">'+esc(p.SubCategory)+"</a>›":"")+"<span>"+esc(p.Label)+"</span></div>"+
   '<div class="pv"><div><div class="gal" id="gal" style="background-image:url('+thumb(p)+')"><img id="gImg" alt="'+esc(p.Label)+'" width="1024" height="768">'+
   '<button class="pr" id="gPr" hidden aria-label="Anterior">'+IC.l+'</button><button class="nx" id="gNx" hidden aria-label="Siguiente">'+IC.r+'</button><span class="cnt" id="gCnt" hidden></span></div></div>'+
-  '<div><div class="box"><div class="tags">'+(st?'<span class="b1">'+esc(st)+"</span>":"")+(di?'<span class="b2">'+esc(di)+"</span>":"")+"</div>"+
+  '<div><div class="box"><div class="tags">'+(st?'<span class="b1">'+esc(st)+"</span>":"")+(di?'<span class="b2">'+esc(di)+"</span>":"")+stkBtn(slug,0)+"</div>"+
   "<h1>"+esc(p.Label)+'</h1><div class="price">'+usd(p.Price)+'</div><div class="specs">'+(p.Features||[]).map(function(f){return"<span>"+esc(f)+"</span>"}).join("")+"</div>"+
-  '<div class="acts"><span class="qty"><button data-q="-1" aria-label="Menos">−</button><input id="pQty" type="number" min="1" max="99" value="'+(it?parseInt(it.qty,10)||1:1)+'"><button data-q="1" aria-label="Más">+</button></span>'+
+  '<div class="acts"><span class="qty"><button data-q="-1" aria-label="Menos">−</button><input id="pQty" type="number" min="1" max="'+qMax(slug)+'" value="'+(it?parseInt(it.qty,10)||1:1)+'"><button data-q="1" aria-label="Más">+</button></span>'+
   '<button class="btn" id="pAdd">'+IC.cart+(it?"Actualizar la cesta":"Añadir a la cesta")+"</button>"+
   '<div class="two">'+(M.Cell>0?'<button class="btn wao" data-wa="1">'+IC.wa+"Preguntar</button>":"")+'<button class="btn alt" id="pShare">'+IC.share+"Compartir</button></div></div></div>"+
   (trust(true)?'<div class="box trust">'+trust(true)+"</div>":"")+"</div></div>"+
@@ -679,7 +698,7 @@ function cartView(){
  var R=cRules(keep),tot=0,h='<div class="cartbox"><h2>Cesta</h2><div class="box">';
  keep.forEach(function(i){var p=bySlug[i.productId],q=parseInt(i.qty,10)||0;tot+=p.Price*q;
   h+='<div class="ci"><img loading="lazy" alt="" src="'+thumb(p)+'"><a class="name" data-nav href="'+pUrl(p.slug)+'">'+esc(p.Label)+'</a><button class="x" data-rm="'+esc(p.slug)+'" aria-label="Quitar">'+IC.x+"</button>"+
-   '<span><span class="qty"><button data-cq="-1" data-s="'+esc(p.slug)+'" aria-label="Menos">−</button><input type="number" min="0" max="99" value="'+q+'" data-ci="'+esc(p.slug)+'"><button data-cq="1" data-s="'+esc(p.slug)+'" aria-label="Más">+</button></span><small>× '+money(p.Price)+'</small></span><span class="lt">'+money(p.Price*q)+"</span>"+
+   '<span><span class="qty"><button data-cq="-1" data-s="'+esc(p.slug)+'" aria-label="Menos">−</button><input type="number" min="0" max="'+qMax(p.slug)+'" value="'+q+'" data-ci="'+esc(p.slug)+'"><button data-cq="1" data-s="'+esc(p.slug)+'" aria-label="Más">+</button></span><small>× '+money(p.Price)+'</small>'+stkBtn(p.slug,q,1)+'</span><span class="lt">'+money(p.Price*q)+"</span>"+
    (R[p.slug]||[]).map(function(x){return'<span class="bw">'+esc(x)+"</span>"}).join("")+"</div>"});
  var tr=(M.CartPayMethod?"<div>"+IC.cash+"<span><b>Forma de pago</b><span>"+esc(M.CartPayMethod)+"</span></span></div>":"")+
   (M.CartShipping?"<div>"+IC.truck+"<span><b>Envío</b><span>"+esc(M.CartShipping)+"</span></span></div>":"");
@@ -901,7 +920,7 @@ document.addEventListener("click",function(e){
  if(d.kw!=null){F.feature=F.feature==d.kw?"":d.kw;go(qs(),true);return}
  if(d.add!=null){s=d.add;var on=inCart(s),p=bySlug[s];setQty(s,on?0:1);if(!on)T("add",s);t.classList.toggle("on",!on);t.innerHTML=on?IC.plus:IC.ok;
   toast(on?"Quitado de la cesta":"Añadido a la cesta");return}
- if(d.q!=null){var q=$("pQty");q.value=Math.min(99,Math.max(1,(parseInt(q.value,10)||1)+ +d.q));return}
+ if(d.q!=null){var q=$("pQty");q.value=Math.min(gal?qMax(gal.slug):99,Math.max(1,(parseInt(q.value,10)||1)+ +d.q));return}
  if(t.id=="pAdd"&&gal){var n=Math.min(99,Math.max(1,parseInt($("pQty").value,10)||1)),pp=bySlug[gal.slug];setQty(gal.slug,n);T("add",gal.slug);toast("Añadido a la cesta");return}
  if(t.id=="pShare"&&gal){T("share",gal.slug);var sp=bySlug[gal.slug],su=new URL(pUrl(gal.slug),ROOT).href;
   if(navigator.share)navigator.share({title:sp?sp.Label:"",url:su}).catch(function(){});
