@@ -180,6 +180,25 @@ footer p{margin:0 0 6px;opacity:.7}
 #acc #gbtn{display:flex;justify-content:center;min-height:44px}
 #acc .btn{width:100%}
 #accAd{text-align:left;margin:0 0 12px}
+#accBuy .bcard{background:#fff;border:1px solid var(--line);border-radius:16px;margin:0 0 12px;overflow:hidden}
+#accBuy .bchd{display:flex;align-items:center;gap:12px;padding:12px 18px;background:var(--soft);border-bottom:1px solid var(--line)}
+#accBuy .bhw{flex:1;min-width:0}#accBuy .bhw b{font-size:15.5px}#accBuy .bchd small{display:block;color:var(--mut);font-size:13px;margin-top:1px}
+#accBuy .btag{display:inline-block;margin-left:8px;font-size:12px;font-weight:600;color:var(--ink);background:#fff;border:1px solid var(--line);border-radius:999px;padding:1px 9px;vertical-align:2px}
+#accBuy .bmt{text-align:right;flex:none}#accBuy .bmt small{display:block;font-size:12px;font-weight:400;color:var(--mut)}#accBuy .bmt b{display:block;font-size:17px;font-variant-numeric:tabular-nums}
+#accBuy .bln{display:flex;align-items:center;gap:14px;padding:12px 18px}#accBuy .bln+.bln{border-top:1px solid var(--soft)}
+#accBuy .bim{width:56px;height:56px;flex:none;border-radius:12px;border:1px solid var(--soft);background:#fff;display:flex;align-items:center;justify-content:center;overflow:hidden}
+#accBuy .bim img{width:100%;height:100%;object-fit:contain}#accBuy .bim i{display:block;width:100%;height:100%;background:var(--soft)}
+#accBuy .bnm{flex:1;min-width:0;font-size:14.5px;line-height:1.35;overflow-wrap:anywhere}#accBuy .bnm a{color:var(--ink);text-decoration:none}#accBuy .bnm a:hover{text-decoration:underline}
+#accBuy .bnm small{display:block;color:var(--mut);font-size:13px;margin-top:2px}#accBuy .bpr{font-variant-numeric:tabular-nums;white-space:nowrap}
+#accBuy .bsub{margin:0;padding:12px 18px 0;font-size:12.5px;font-weight:700;color:var(--mut)}
+#accBuy .bsum{display:flex;gap:10px;margin:0 0 6px}#accBuy .bsum div{flex:1;background:#fff;border:1px solid var(--line);border-radius:14px;padding:10px 14px;display:grid}
+#accBuy .bsum b{font-size:20px}#accBuy .bsum span{font-size:13px;color:var(--mut)}#accBuy .bmon{margin:16px 2px 8px}
+#accBuy .bwho{font-size:13px;color:#93370d;background:#fef0c7;border-radius:10px;padding:8px 12px;margin:0 0 10px}#accBuy .bnote{color:var(--mut)}
+#accBuy .bempty{padding:16px}#accBuy .bempty p{margin:0 0 12px}
+#comoBar{position:fixed;left:50%;bottom:16px;transform:translateX(-50%);z-index:60;display:flex;align-items:center;gap:14px;background:#1d2939;color:#fff;
+ border-radius:12px;padding:9px 10px 9px 16px;font-size:14px;box-shadow:0 8px 30px rgba(16,24,40,.3);max-width:calc(100vw - 32px)}
+@media(max-width:700px){#comoBar{bottom:84px}}
+#comoBar span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}#comoBar button{flex:none;border:0;border-radius:8px;background:#fff;color:#1d2939;font:inherit;font-weight:700;padding:6px 12px;cursor:pointer}
 #accAd label{display:block;font-size:12.5px;color:var(--mut);margin:10px 2px 4px}
 #accAd select,#accAd textarea{width:100%;border:1px solid #d0d5dd;border-radius:10px;padding:10px 12px;font:inherit;font-size:15px;background:#fff;color:var(--ink)}
 #accAd textarea{min-height:68px;resize:vertical;display:block}
@@ -399,13 +418,20 @@ try{var tU=new URLSearchParams(location.search),tm=tU.get("medir");tDe=tU.get("d
 try{if(tm)localStorage.setItem("nomedir",tm=="no"?"1":tm=="equipo"?"2":"");var tn=localStorage.getItem("nomedir");tOff=tn=="1";tTeam=tn=="2"}catch(e){}
 function T(k,v,once){if(tOff||(ready&&!M.Stats))return;v=String(v==null?"":v);if(once){if(TS[k+"|"+v])return;TS[k+"|"+v]=1}
  TQ.push([k,v]);clearTimeout(TT);if(TQ.length>=40)tSend();else TT=setTimeout(tSend,4000)}
-function tSend(){clearTimeout(TT);if(!ready||!TQ.length)return;var u=M.Stats,b;if(!u||tOff){TQ=[];return}b={e:TQ.splice(0,60)};if(tTeam)b.w=1;if(standalone)b.a=1;if(AC&&AC.t)b.t=AC.t;b=JSON.stringify(b);
+function tSend(){if(COMO){TQ=[];return}clearTimeout(TT);if(!ready||!TQ.length)return;var u=M.Stats,b;if(!u||tOff){TQ=[];return}b={e:TQ.splice(0,60)};if(tTeam)b.w=1;if(standalone)b.a=1;if(AC&&AC.t)b.t=AC.t;b=JSON.stringify(b);
  try{if(!(navigator.sendBeacon&&navigator.sendBeacon(u,b)))fetch(u,{method:"POST",body:b,mode:"no-cors",keepalive:true}).catch(function(){})}catch(e){}}
 document.addEventListener("visibilitychange",function(){if(document.visibilityState=="hidden")tSend()});
 window.addEventListener("pagehide",tSend);
 /* ── entrada con Google (M.Auth = {client, url}; sin ella no hay botón). La librería de Google se carga solo al abrir la hoja.
    La sesión (un token del catálogo) se guarda en este equipo y viaja con los contadores: el uso se sabe por persona. ── */
 var AC=null;try{AC=JSON.parse(localStorage.getItem("acct")||"null")}catch(e){}
+/* VER COMO CLIENTE (T-114): ?como=<n> lo enciende para esta pestaña; AC0 = la sesión propia (su token autoriza; el nombre es el del cliente) */
+var COMO=null;try{COMO=JSON.parse(sessionStorage.getItem("como")||"null")}catch(e){}
+(function(){var q=new URLSearchParams(location.search),c=q.get("como");if(c==null)return;q.delete("como");
+ if(/^\d+$/.test(c)){if(!COMO||COMO.id!=c)COMO={id:c,name:""};try{sessionStorage.setItem("como",JSON.stringify(COMO))}catch(e){}}
+ else{COMO=null;try{sessionStorage.removeItem("como")}catch(e){}}
+ history.replaceState(null,"",location.pathname+(q.toString()?"?"+q:"")+location.hash)})();
+var AC0=AC;if(COMO&&!AC0)COMO=null;if(COMO)AC={t:AC0.t,name:COMO.name||"Cliente",pic:""};
 function accFirst(){return String((AC&&AC.name)||"").trim().split(/\s+/)[0]||""}
 /* TRATO CERCANO (Leo 19/nov/2026: «que el usuario sienta su nombre más acogido; se ve bastante frío»): cada persona tiene su color
    (sale de su nombre, siempre el mismo) y se la saluda según la hora de su teléfono. */
@@ -427,23 +453,23 @@ function accSide(cur){var a=adGet(),tm=TX&&TX.menu?TX.menu():null,T0=M.Title||""
  return'<div class="ahd"><div class="who" style="background:'+accTone()+'">'+esc(String(AC.name||"?").charAt(0).toUpperCase())+"</div><div><h1>"+accHi()+", "+esc(accFirst()||AC.name)+"</h1><p>"+
   (STK?"Gracias por cuidar "+esc(T0||"el catálogo")+" con nosotros":"Qué bueno tenerte de vuelta"+(T0?" en "+esc(T0):""))+"</p></div></div>"+
   '<p class="acap">Mi cuenta</p><div class="amenu">'+accRow("./?cuenta=direccion",IC.truck,"Dirección de entrega",[a.d,a.m,a.p].filter(Boolean).join(", ")||"Sin dirección","",cur=="direccion")+
-  (M.Cell>0?accRow("./?cuenta=whatsapp",IC.wa,"WhatsApp","…","amWa",cur=="whatsapp"):"")+"</div>"+
+  (M.Cell>0?accRow("./?cuenta=whatsapp",IC.wa,"WhatsApp","…","amWa",cur=="whatsapp"):"")+(M.Auth&&M.Auth.buy||STK||COMO?accRow("./?cuenta=compras",IC.bag,"Mis compras","Lo que has comprado aquí","",cur=="compras"):"")+"</div>"+
   (tm&&tm.length?'<p class="acap">Equipo</p><div class="amenu">'+tm.map(function(r){return accRow(r.h,r.i,r.t,r.s)}).join("")+"</div>":TX&&TX.acc?TX.acc():"")+
-  '<div class="afoot"><p class="sv">Tu cesta, tus configuraciones y tu dirección están guardadas en tu cuenta</p><button class="lk" id="accOut">Cerrar sesión</button><a class="lk pv" href="'+esc(ROOT+"privacidad.html")+'">Privacidad</a></div>'}
-function accWaSub(){if(!(M.Cell>0)||!$("amWa"))return;
+  '<div class="afoot"><p class="sv">Tu cesta, tus configuraciones y tu dirección están guardadas en tu cuenta</p><button class="lk" id="accOut">'+(COMO?"Salir de la vista como cliente":"Cerrar sesión")+'</button><a class="lk pv" href="'+esc(ROOT+"privacidad.html")+'">Privacidad</a></div>'}
+function accWaSub(){if(COMO){var w=$("amWa");if(w)w.querySelector("small").textContent=(COMO.phones||[]).length?COMO.phones.map(function(p){return"+"+p}).join(", "):"Sin confirmar";return}if(!(M.Cell>0)||!$("amWa"))return;
  fetch(M.Auth.url+"/phone",{method:"POST",body:JSON.stringify({t:AC.t})}).then(function(x){return x.ok?x.json():null}).then(function(d){var e=$("amWa");if(!d||!d.phones||!e)return;
   if(!d.wa&&!d.phones.length){e.parentNode.removeChild(e);return}e.querySelector("small").textContent=d.phones.length?d.phones.map(function(p){return"+"+p}).join(", "):"Sin confirmar"}).catch(function(){})}
 /* sec = lo que pide la dirección ("" = el menú). En el teléfono se ve una cosa u otra; desde 900 px, las dos (sin sección = la
    primera). keep = refresco por detrás: solo se repinta el menú, nunca un formulario a medio escribir. */
-function accView(sec,keep){var v=$("vAcc"),T0=M.Title||"",cur=sec=="whatsapp"&&M.Cell>0?"whatsapp":"direccion";
- document.title=(sec=="direccion"?"Dirección · ":sec=="whatsapp"?"WhatsApp · ":"Cuenta · ")+T0;
+function accView(sec,keep){var v=$("vAcc"),T0=M.Title||"",cur=sec=="compras"?"compras":sec=="whatsapp"&&M.Cell>0?"whatsapp":"direccion";
+ document.title=(sec=="compras"?"Mis compras · ":sec=="direccion"?"Dirección · ":sec=="whatsapp"?"WhatsApp · ":"Cuenta · ")+T0;
  if(keep&&v.dataset.s===sec&&v.querySelector(".aside")){v.querySelector(".aside").innerHTML=accSide(cur);accWaSub();return}
  var bk='<a class="abk" data-nav href="./?cuenta">'+IC.l+"Cuenta</a>";
  v.dataset.s=sec;
  v.innerHTML='<div class="alay" data-s="'+esc(sec)+'"><aside class="aside">'+accSide(cur)+'</aside><section class="amain">'+bk+
-  (cur=="whatsapp"?'<h1 class="at">WhatsApp</h1><p class="ap">Para hablar contigo de tus pedidos</p><div class="apanel"><div id="accWa"></div></div>':
+  (cur=="compras"?'<h1 class="at">Mis compras</h1><p class="ap">Lo que has comprado en '+esc(T0||"la tienda")+'</p><div id="accBuy"></div>':cur=="whatsapp"?'<h1 class="at">WhatsApp</h1><p class="ap">Para hablar contigo de tus pedidos</p><div class="apanel"><div id="accWa"></div></div>':
    '<h1 class="at">Dirección de entrega</h1><p class="ap">Para la entrega de tus pedidos</p><div class="apanel"><div id="accAd"></div></div>')+"</section></div>";
- if(cur=="whatsapp"){accWa.n=null;accWa()}else accAd();
+ if(cur=="whatsapp"){accWa.n=null;accWa()}else if(cur=="compras")accBuy();else accAd();
  accWaSub()}
 /* WhatsApp confirmado: el cliente no escribe su número; envía al WhatsApp del catálogo un mensaje ya escrito con un código y el
    servidor toma el número del propio mensaje. Mientras espera, la hoja pregunta cada pocos segundos si ya quedó. */
@@ -458,14 +484,60 @@ function syVal(k){return k=="cart"?getCart():k=="pcs"?pcLoad():adGet()}
 /* DIRECCIÓN de entrega ({p: provincia, m: municipio, d: dirección}) y ENTREGA: M.Ship = {geo: {provincia: [municipios]},
    prov: {provincia: 1 normal | 2 a veces; la que falta = sin servicio}, zones: [{n, p}], free}, todo lo pone el catálogo. El
    pedido lleva la dirección; con precio para su municipio o provincia en `zones`, la cesta suma el envío. */
-function adGet(){var o;try{o=JSON.parse(localStorage.getItem("addr")||"null")}catch(e){}return o&&typeof o=="object"?o:{}}
+function adGet(){if(COMO)return COMO.addr||{};var o;try{o=JSON.parse(localStorage.getItem("addr")||"null")}catch(e){}return o&&typeof o=="object"?o:{}}
 function adSet(o){try{localStorage.setItem("addr",JSON.stringify(o))}catch(e){}syMark("addr")}
 function shZones(){return M.Ship&&Array.isArray(M.Ship.zones)?M.Ship.zones:[]}
 function shOf(tot){var a=adGet(),z=shZones().filter(function(x){return x.n===a.m||x.n===a.p})[0];if(!z)return null;
  var p=+z.p||0;if(+M.Ship.free>0&&tot>=+M.Ship.free)p=0;return{n:z.n,p:p}}
 function shNote(p){if(!p||!M.Ship||!M.Ship.prov||!Object.keys(M.Ship.prov).length)return"";var v=M.Ship.prov[p];
  return v==1?"":v==2?"Entregas en "+p+": solo a veces, se confirma con el pedido":"Por ahora no hacemos entregas en "+p}
-function accAd(){var e=$("accAd");if(!e||!AC)return;var a=adGet(),G=(M.Ship&&M.Ship.geo)||{},P=Object.keys(G);
+/* MIS COMPRAS (T-114): lo que el cliente compró en este catálogo, reconocido por sus WhatsApp CONFIRMADOS. Solo lo que Nexo deja ver
+   a un cliente (sin hora, sin observaciones, recargos ni intermediarios; nombres de la ficha o limpios). ?como=<n> = el equipo lo ve
+   como lo vería ese cliente. Fotos: la de la ficha publicada o, si no, la miniatura que da Nexo para esa compra. */
+IC.bag='<svg viewBox="0 0 24 24"><path d="M6 8h12l-1 12H7z"/><path d="M9 8a3 3 0 0 1 6 0"/></svg>';
+var BUYM=["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],BUYT={};
+function buyDay(s){var p=String(s||"").split("-");return +p[2]+" de "+BUYM[+p[1]-1]+(+p[0]!=new Date().getFullYear()?" de "+p[0]:"")}
+function buyLines(b,as){return b.lines.map(function(l){var p=l.slug&&bySlug[l.slug],k=l.d+"/"+l.pid;
+  var im=p?'<img src="'+esc(thumb(p))+'" alt="" loading="lazy">':BUYT[k]?'<img src="'+BUYT[k]+'" alt="">':
+   "<i"+(l.img?' data-bd="'+l.d+'" data-bp="'+l.pid+'"'+(as?' data-ba="'+esc(as)+'"':""):"")+"></i>";
+  var nm=esc(l.name);
+  return'<div class="bln"><span class="bim">'+im+'</span><span class="bnm">'+(p?'<a data-nav href="./?p='+encodeURIComponent(l.slug)+'">'+nm+"</a>":nm)+
+   (l.qty!=1?"<small>"+l.qty+" × "+money(l.price)+"</small>":"")+'</span><span class="bpr">'+money(l.price*l.qty)+"</span></div>"}).join("")}
+function buyCard(e,as){var g=e.type=="garantia",n=g?0:e.lines.reduce(function(a,l){return a+(+l.qty||0)},0);
+ var body=g?(e.back?'<p class="bsub">Devolviste</p>'+buyLines(e.back,as):"")+(e.out?'<p class="bsub">Te llevaste</p>'+buyLines(e.out,as):""):buyLines(e,as);
+ var tag=g?'<span class="btag">Garantía</span>':e.type=="devolucion"?'<span class="btag">Devolución</span>':"";
+ return'<div class="bcard"><div class="bchd"><div class="bhw"><b>'+buyDay(e.day)+"</b>"+tag+"<small>"+(g?"Cambio en garantía":n==1?"1 artículo":n+" artículos")+"</small></div>"+
+  (g?"":'<div class="bmt"><small>'+(e.type=="devolucion"?"Devuelto":"Total")+"</small><b>"+money(e.total)+"</b></div>")+"</div>"+body+"</div>"}
+function buyImgs(el){if(!window.IntersectionObserver)return;var io=new IntersectionObserver(function(xs){xs.forEach(function(x){if(!x.isIntersecting)return;var i=x.target;io.unobserve(i);
+  var k=i.getAttribute("data-bd")+"/"+i.getAttribute("data-bp");
+  fetch(M.Auth.url+"/cmt",{method:"POST",body:JSON.stringify({t:AC&&AC.t,d:i.getAttribute("data-bd"),p:i.getAttribute("data-bp"),as:i.getAttribute("data-ba")||undefined})})
+   .then(function(r){return r.ok?r.blob():null}).then(function(b){if(!b||!i.isConnected)return;BUYT[k]=URL.createObjectURL(b);var g=document.createElement("img");g.alt="";g.src=BUYT[k];i.replaceWith(g)}).catch(function(){})})},{rootMargin:"300px"});
+ [].forEach.call(el.querySelectorAll("[data-bd]"),function(x){io.observe(x)})}
+function accBuy(){var e=$("accBuy");if(!e||!AC||!M.Auth||!M.Auth.url)return;var as=COMO?COMO.id:"";
+ e.innerHTML='<p class="bnote">Cargando…</p>';
+ fetch(M.Auth.url+"/compras",{method:"POST",body:JSON.stringify({t:AC.t,as:as||undefined})}).then(function(r){return r.ok?r.json():null}).then(function(d){
+  if(!e.isConnected)return;
+  if(!d||d.off||!d.events){e.innerHTML='<p class="bnote">Todavía no está disponible.</p>';return}
+  var h=d.as!==undefined?'<p class="bwho">Así lo ve '+esc(d.as||"el cliente")+(d.on?"":" · aún no está encendido para los clientes")+"</p>":d.on?"":'<p class="bwho">Solo lo ve el equipo: aún no está encendido para los clientes</p>';
+  if(!d.events.length){
+   e.innerHTML=h+'<div class="apanel bempty">'+(d.as===undefined&&!d.phones&&M.Cell>0?'<p>Confirma tu WhatsApp y aquí verás lo que has comprado.</p><a class="btn" data-nav href="./?cuenta=whatsapp">Confirmar mi WhatsApp</a>':
+    "<p>"+(d.as!==undefined?"Este cliente no tiene compras en este catálogo.":"Aún no vemos compras con tu WhatsApp. Si compraste con otro número, confírmalo también.")+"</p>")+"</div>";return}
+  var s=d.summary,mo=[],cur="";
+  d.events.forEach(function(x){var m=BUYM[+x.day.slice(5,7)-1]+" "+x.day.slice(0,4);if(m!=cur){mo.push([m,[]]);cur=m}mo[mo.length-1][1].push(x)});
+  e.innerHTML=h+'<div class="bsum"><div><b>'+s.buys+"</b><span>"+(s.buys==1?"compra":"compras")+"</span></div>"+(s.garantias?"<div><b>"+s.garantias+"</b><span>"+(s.garantias==1?"garantía":"garantías")+"</span></div>":"")+"</div>"+
+   mo.map(function(m){return'<p class="acap bmon">'+m[0]+"</p>"+m[1].map(function(x){return buyCard(x,as)}).join("")}).join("");
+  buyImgs(e)}).catch(function(){if(e.isConnected)e.innerHTML='<p class="bnote">No se pudo cargar. Revisa la conexión.</p>'})}
+function comoGet(){if(!COMO||COMO.ok||comoGet.busy||!M.Auth||!M.Auth.url)return;comoGet.busy=1;comoBar();
+ fetch(M.Auth.url+"/como",{method:"POST",body:JSON.stringify({t:AC0.t,as:COMO.id})}).then(function(r){return r.ok?r.json():null}).then(function(d){comoGet.busy=0;
+  if(!d){toast("No se puede ver como ese cliente",3000);comoExit();return}
+  COMO={id:COMO.id,ok:1,name:d.name,linked:d.linked,addr:d.addr||{},phones:d.phones||[]};try{sessionStorage.setItem("como",JSON.stringify(COMO))}catch(e){}
+  AC={t:AC0.t,name:d.name||"Cliente",pic:""};comoBar();accBtn();route(true)}).catch(function(){comoGet.busy=0})}
+function comoExit(){COMO=null;try{sessionStorage.removeItem("como")}catch(e){}location.href=location.pathname+"?cuenta"}
+function comoBar(){var b=$("comoBar");if(!COMO){if(b)b.remove();return}
+ if(!b){b=document.createElement("div");b.id="comoBar";document.body.appendChild(b)}
+ b.innerHTML="<span>Viendo como <b>"+esc(COMO.name||"…")+"</b>"+(COMO.ok&&!COMO.linked?" · sin cuenta en el catálogo":"")+'</span><button type="button">Salir</button>';
+ b.querySelector("button").onclick=comoExit}
+function accAd(){if(COMO){var e0=$("accAd"),a0=COMO.addr||{};if(e0)e0.innerHTML='<p class="an">'+(esc([a0.d,a0.m,a0.p].filter(Boolean).join(", "))||"Sin dirección")+"</p>";return}var e=$("accAd");if(!e||!AC)return;var a=adGet(),G=(M.Ship&&M.Ship.geo)||{},P=Object.keys(G);
  function op(L,cur){return'<option value="">Elegir</option>'+L.map(function(x){return"<option"+(x===cur?" selected":"")+">"+esc(x)+"</option>"}).join("")}
  e.innerHTML=(P.length?'<label for="adP">Provincia</label><select id="adP">'+op(P,a.p)+'</select><p class="an" id="adN">'+esc(shNote(a.p))+
    '</p><label for="adM">Municipio</label><select id="adM">'+op(G[a.p]||[],a.m)+"</select>":"")+
@@ -478,7 +550,7 @@ function accAd(){var e=$("accAd");if(!e||!AC)return;var a=adGet(),G=(M.Ship&&M.S
  $("adOk").onclick=function(){adSet(cur());dirty();toast("Dirección guardada",1500);route(true)}}
 function syHas(k){var v=syVal(k);return k=="cart"?v.items.length>0:Object.keys(v).length>0}
 function syLocal(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
-function syOn(){return!!(AC&&AC.t&&M.Auth&&M.Auth.client)}
+function syOn(){return!COMO&&!!(AC&&AC.t&&M.Auth&&M.Auth.client)}
 function syMark(k){syGet()[k].d=1;sySet();syN++;if(syOn()){clearTimeout(syT);syT=setTimeout(syPush,1500)}}
 function syPost(put){return fetch(M.Auth.url+"/state",{method:"POST",body:JSON.stringify(put?{t:AC.t,put:put}:{t:AC.t})}).then(function(x){return x.ok?x.json():null})}
 function syPush(){if(!syOn())return;var S=syGet(),put={},n=syN,any=0;syK.forEach(function(k){if(S[k].d){put[k]=syVal(k);any=1}});if(!any)return;
@@ -498,7 +570,7 @@ function syPull(fresh){if(!syOn())return;var S=syGet();if(fresh)syK.forEach(func
 function accNote(what){if(!M.Auth||!M.Auth.client)return"";
  return AC?'<p class="sv"><svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>Guardada en tu cuenta</p>':'<button class="sv" data-acc>'+IC.user+"Entra para guardar "+what+"</button>"}
 var waT=0;
-function accWa(rm){if(!AC||!$("accWa"))return;
+function accWa(rm){if(COMO){var w=$("accWa");if(w)w.innerHTML=(COMO.phones||[]).length?COMO.phones.map(function(p){return'<p class="an">+'+esc(p)+"</p>"}).join(""):'<p class="an">Sin WhatsApp confirmado</p>';return}if(!AC||!$("accWa"))return;
  fetch(M.Auth.url+"/phone",{method:"POST",body:JSON.stringify(rm?{t:AC.t,rm:rm}:{t:AC.t})}).then(function(x){return x.ok?x.json():null}).then(function(d){
   var e=$("accWa");if(!d||!d.phones||!e)return;
   if(accWa.n!=null&&d.phones.length>accWa.n){clearInterval(waT);waT=0;toast("WhatsApp confirmado",2500)}
@@ -515,20 +587,20 @@ function gCred(r){if(!r||!r.credential)return;
  fetch(M.Auth.url,{method:"POST",body:JSON.stringify({c:r.credential})}).then(function(x){return x.ok?x.json():null}).then(function(d){
   if(!d||!d.t){toast("No se pudo entrar",3000);return}AC={t:d.t,name:d.name};try{localStorage.setItem("acct",JSON.stringify(AC))}catch(e){}
   $("acc").hidden=true;accBtn();T("auth","in");toast("Hola, "+d.name,2500);route(true);syPull(true);stkGet(1)}).catch(function(){toast("No se pudo entrar",3000)})}
-function accOut(){T("auth","out");tSend();AC=null;STK=null;STKv={};TX=null;txL=0;try{localStorage.removeItem("acct");localStorage.removeItem("addr")}catch(e){}syGet().addr={r:0,d:0};sySet();try{google.accounts.id.disableAutoSelect()}catch(e){}$("acc").hidden=true;accBtn();route(true)}
+function accOut(){if(COMO){comoExit();return}T("auth","out");tSend();AC=null;STK=null;STKv={};TX=null;txL=0;try{localStorage.removeItem("acct");localStorage.removeItem("addr")}catch(e){}syGet().addr={r:0,d:0};sySet();try{google.accounts.id.disableAutoSelect()}catch(e){}$("acc").hidden=true;accBtn();route(true)}
 /* EQUIPO del negocio (Nexo lo reconoce por su Google o su WhatsApp confirmado): puede ver las existencias y la cesta no le deja
    pedir más de las que hay. A un cliente normal el servidor no le da nada de esto. STK = {team, q: {artículo: unidades}} o null.
    El número va OCULTO: solo se ve al pulsar «Existencias» (STKv = los artículos destapados en esta visita). */
 var STK=null,stkAt=0,STKv={},IC_BOX='<svg viewBox="0 0 24 24"><path d="M3.5 7.5L12 3.5l8.5 4v9L12 20.5l-8.5-4z"/><path d="M3.5 7.5L12 11.5l8.5-4M12 11.5v9"/></svg>';
-function stkGet(force){if(!AC||!AC.t||!M.Auth||!M.Auth.url)return;var n=Date.now();if(!force&&n-stkAt<60000)return;stkAt=n;
+function stkGet(force){if(COMO){comoBar();comoGet();return}if(!AC||!AC.t||!M.Auth||!M.Auth.url)return;var n=Date.now();if(!force&&n-stkAt<60000)return;stkAt=n;
  fetch(M.Auth.url+"/stock",{method:"POST",body:JSON.stringify({t:AC.t})}).then(function(x){return x.ok?x.json():null}).then(function(d){
   if(!d)return;if(d.t&&AC){AC.t=d.t;try{localStorage.setItem("acct",JSON.stringify(AC))}catch(e){}}
   if(d.x)txGet();else if(!TX&&/[?&]uso=/.test(location.search))go("./",1);var o=JSON.stringify(STK);STK=d.team?d:null;if(JSON.stringify(STK)!=o)route(true)}).catch(function(){})}
 /* EQUIPO con permiso: Nexo le entrega aparte lo suyo (no va en el sitio). TX = {view, f, q, acc} o null */
 var TX=null,txL=0;
-function txGet(){if(txL||!AC||!AC.t||!M.Auth||!M.Auth.url)return;txL=1;
+function txGet(){if(COMO)return;if(txL||!AC||!AC.t||!M.Auth||!M.Auth.url)return;txL=1;
  fetch(M.Auth.url+"/x",{method:"POST",body:JSON.stringify({t:AC.t})}).then(function(x){return x.ok?x.text():null}).then(function(c){
-  if(!c){txL=0;return}TX=new Function("X",c)({M:M,ac:function(){return AC},$:$,esc:esc,go:go,url:M.Auth.url});route(true)}).catch(function(){txL=0})}
+  if(!c){txL=0;return}TX=new Function("X",c)({M:M,ac:function(){return AC},$:$,esc:esc,go:go,url:M.Auth.url,buy:1,como:1});route(true)}).catch(function(){txL=0})}
 function qMax(s){return STK&&STK.q&&STK.q[s]!=null?STK.q[s]:99}
 /* sm = en la fila de la cesta (solo icono mientras está oculto); q = unidades pedidas: si pasan de las que hay, se ve solo y en rojo */
 function stkBtn(s,q,sm){if(!STK||!STK.q||STK.q[s]==null)return"";var n=STK.q[s],no=q>n,on=no||STKv[s];
