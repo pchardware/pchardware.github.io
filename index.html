@@ -185,7 +185,7 @@ footer p{margin:0 0 6px;opacity:.7}
 #accBuy .bhw{flex:1;min-width:0}#accBuy .bhw b{font-size:15.5px}#accBuy .bchd small{display:block;color:var(--mut);font-size:13px;margin-top:1px}
 #accBuy .btag{display:inline-block;margin-left:8px;font-size:12px;font-weight:600;color:var(--ink);background:#fff;border:1px solid var(--line);border-radius:999px;padding:1px 9px;vertical-align:2px}
 #accBuy .bmt{text-align:right;flex:none}#accBuy .bmt small{display:block;font-size:12px;font-weight:400;color:var(--mut)}#accBuy .bmt b{display:block;font-size:17px;font-variant-numeric:tabular-nums}
-#accBuy .bln{display:flex;align-items:center;gap:14px;padding:12px 18px}#accBuy .bln+.bln{border-top:1px solid var(--soft)}
+#accBuy .bln{display:flex;align-items:center;gap:14px;padding:12px 18px}#accBuy .bln+.bln{border-top:1px solid var(--soft)}#accBuy .bsv .bim{border:0;background:var(--page);color:var(--mut)}#accBuy .bsv .bim svg{width:24px;height:24px}
 #accBuy .bim{width:56px;height:56px;flex:none;border-radius:12px;border:1px solid var(--soft);background:#fff;display:flex;align-items:center;justify-content:center;overflow:hidden}
 #accBuy .bim img{width:100%;height:100%;object-fit:contain}#accBuy .bim i{display:block;width:100%;height:100%;background:var(--soft)}
 #accBuy .bnm{flex:1;min-width:0;font-size:14.5px;line-height:1.35;overflow-wrap:anywhere}#accBuy .bnm a{color:var(--ink);text-decoration:none}#accBuy .bnm a:hover{text-decoration:underline}
@@ -497,17 +497,19 @@ function shNote(p){if(!p||!M.Ship||!M.Ship.prov||!Object.keys(M.Ship.prov).lengt
 IC.bag='<svg viewBox="0 0 24 24"><path d="M6 8h12l-1 12H7z"/><path d="M9 8a3 3 0 0 1 6 0"/></svg>';
 var BUYM=["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],BUYT={};
 function buyDay(s){var p=String(s||"").split("-");return +p[2]+" de "+BUYM[+p[1]-1]+(+p[0]!=new Date().getFullYear()?" de "+p[0]:"")}
+var BUYS={envio:'<path d="M14 18V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v11a1 1 0 0 0 1 1h2"/><path d="M15 18H9"/><path d="M19 18h2a1 1 0 0 0 1-1v-3.65a1 1 0 0 0-.22-.624l-3.48-4.35A1 1 0 0 0 17.52 8H14"/><circle cx="17" cy="18" r="2"/><circle cx="7" cy="18" r="2"/>',montaje:'<path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/>'};
+function buySvcs(b){return(b.svcs||[]).map(function(s){var ic=BUYS[s.svc]||BUYS.montaje;return'<div class="bln bsv"><span class="bim"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'+ic+'</svg></span><span class="bnm">'+esc(s.name)+'</span>'+(s.price!=null?'<span class="bpr">'+money(s.price)+'</span>':'')+'</div>'}).join("")}
 function buyLines(b,as){return b.lines.map(function(l){var p=l.slug&&bySlug[l.slug],k=l.d+"/"+l.pid;
   var im=p?'<img src="'+esc(thumb(p))+'" alt="" loading="lazy">':BUYT[k]?'<img src="'+BUYT[k]+'" alt="">':
    "<i"+(l.img?' data-bd="'+l.d+'" data-bp="'+l.pid+'"'+(as?' data-ba="'+esc(as)+'"':""):"")+"></i>";
   var nm=esc(l.name);
   return'<div class="bln"><span class="bim">'+im+'</span><span class="bnm">'+(p?'<a data-nav href="./?p='+encodeURIComponent(l.slug)+'">'+nm+"</a>":nm)+
-   (l.qty!=1?"<small>"+l.qty+" × "+money(l.price)+"</small>":"")+'</span><span class="bpr">'+money(l.price*l.qty)+"</span></div>"}).join("")}
+   (l.qty!=1?"<small>"+l.qty+" × "+money(l.price)+"</small>":"")+'</span><span class="bpr">'+money(l.price*l.qty)+"</span></div>"}).join("")+buySvcs(b)}
 function buyCard(e,as){var g=e.type=="garantia",n=g?0:e.lines.reduce(function(a,l){return a+(+l.qty||0)},0);
  var body=g?(e.back?'<p class="bsub">Devolviste</p>'+buyLines(e.back,as):"")+(e.out?'<p class="bsub">Te llevaste</p>'+buyLines(e.out,as):""):buyLines(e,as);
  var tag=g?'<span class="btag">Garantía</span>':e.type=="devolucion"?'<span class="btag">Devolución</span>':"";
  return'<div class="bcard"><div class="bchd"><div class="bhw"><b>'+buyDay(e.day)+"</b>"+tag+"<small>"+(g?"Cambio en garantía":n==1?"1 artículo":n+" artículos")+"</small></div>"+
-  (g?"":'<div class="bmt"><small>'+(e.type=="devolucion"?"Devuelto":"Total")+"</small><b>"+money(e.total)+"</b></div>")+"</div>"+body+"</div>"}
+  (g?"":'<div class="bmt"><small>'+(e.type=="devolucion"?"Devuelto":"Total")+"</small><b>"+money(e.paid!=null?e.paid:e.total)+"</b></div>")+"</div>"+body+"</div>"}
 function buyImgs(el){if(!window.IntersectionObserver)return;var io=new IntersectionObserver(function(xs){xs.forEach(function(x){if(!x.isIntersecting)return;var i=x.target;io.unobserve(i);
   var k=i.getAttribute("data-bd")+"/"+i.getAttribute("data-bp");
   fetch(M.Auth.url+"/cmt",{method:"POST",body:JSON.stringify({t:AC&&AC.t,d:i.getAttribute("data-bd"),p:i.getAttribute("data-bp"),as:i.getAttribute("data-ba")||undefined})})
