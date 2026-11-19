@@ -29,10 +29,11 @@ button{cursor:pointer;background:none;border:0;padding:0}
 svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;vertical-align:middle;flex:none}
 [hidden]{display:none!important}
 .wrap{max-width:1180px;margin:0 auto;padding:0 14px}
+html{scrollbar-gutter:stable}
 #note{background:var(--bg);color:var(--on);font-size:12px;text-align:center;padding:6px 0;box-shadow:inset 0 0 0 99px rgba(0,0,0,.22)}
 header{background:var(--bg);color:var(--on);position:sticky;top:0;z-index:5;box-shadow:0 4px 14px rgba(16,24,40,.10)}
 .bar{display:flex;align-items:center;flex-wrap:wrap;gap:0 14px;min-height:56px}
-.brand{flex:1;font-size:18px;letter-spacing:.09em;font-weight:300;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.brand{flex:1;font-size:18px;letter-spacing:.09em;font-weight:300;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:56px}
 .brand b{font-weight:800}
 .brand svg{width:18px;height:18px;margin-left:8px;vertical-align:-3px}
 #note.se{box-shadow:none}
@@ -123,7 +124,17 @@ img.bad{opacity:0}
 h2{font-size:17px;letter-spacing:-.01em;margin:26px 0 12px}
 .rel{display:flex;gap:12px;overflow-x:auto;padding-bottom:8px}
 .rel .card{flex:none;width:172px}
-.cartbox{max-width:760px;margin:0 auto}
+/* UN MARCO (.wrap) para TODAS las vistas: ninguna tiene ancho propio ni se centra aparte. Lo que cambia con la pantalla es el
+   REPARTO: una columna en el teléfono; dos desde 900 px (.lay2 = principal + lateral fijo). Textos y campos nunca se estiran. */
+.lay2{display:grid;grid-template-columns:minmax(0,1fr);gap:14px}
+.lay2>*{min-width:0}
+.side>.box+*{margin-top:14px}
+@media(min-width:900px){.lay2{grid-template-columns:minmax(0,1fr) 360px;gap:24px;align-items:start}.lay2>.side{position:sticky;top:72px;max-height:calc(100vh - 84px);overflow:auto}
+ .lay2.bl2{grid-template-columns:360px minmax(0,1fr)}.bl2 .bsec{margin-top:0}
+ .bpk .box{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);column-gap:28px}.bpk .box>.br:nth-child(2){border-top:0;padding-top:0}.bpk .box>.br:nth-last-child(2):nth-child(odd){padding-bottom:0}.bpk .acts{max-width:360px}}
+.bl2{gap:0}
+.side .tot:first-child{border-top:0;padding-top:0;margin-top:0}
+.bint,.cartbox>p,.ap{max-width:70ch}
 .ci{display:grid;grid-template-columns:64px 1fr auto;gap:6px 12px;align-items:center;padding:14px 0;border-top:1px solid var(--soft)}
 .ci:first-child{border-top:0;padding-top:0}
 .ci img{width:64px;height:48px;object-fit:contain;background:#fff;border:1px solid var(--line);border-radius:8px;grid-row:span 2}
@@ -150,7 +161,11 @@ footer p{margin:0 0 6px;opacity:.7}
 #wa svg{width:27px;height:27px}
 #top{position:fixed;right:20px;bottom:78px;width:40px;height:40px;border-radius:50%;background:#fff;border:1px solid var(--line);color:#344054;box-shadow:0 4px 12px rgba(16,24,40,.14);display:flex;align-items:center;justify-content:center;z-index:6}
 #accBtn+#cartBtn{margin-left:2px}
-#accBtn .av{width:28px;height:28px;border-radius:50%;background:var(--on);color:var(--bg);font-weight:700;font-size:14px;display:flex;align-items:center;justify-content:center}
+#accBtn.in{width:auto;max-width:210px;gap:7px;padding:0 10px 0 6px;border-radius:999px;background:rgba(255,255,255,.12)}
+#accBtn .nm{font-size:14px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+#accBtn .nm i{font-style:normal;font-weight:400;opacity:.85}
+@media(max-width:559px){#accBtn .nm i{display:none}#accBtn.in{max-width:150px}}
+#accBtn .av{flex:none;width:28px;height:28px;border-radius:50%;background:var(--on);color:var(--bg);font-weight:700;font-size:14px;display:flex;align-items:center;justify-content:center}
 #acc{position:fixed;inset:0;background:rgba(20,23,28,.5);z-index:11;display:flex;align-items:center;justify-content:center;padding:16px}
 #acc .box{position:relative;width:100%;max-width:360px;text-align:center;padding:30px 24px 26px;border:0;border-radius:18px;box-shadow:0 18px 50px rgba(16,24,40,.28)}
 #accX{position:absolute;top:8px;right:8px;width:38px;height:38px;border-radius:50%;display:flex;align-items:center;justify-content:center;color:var(--mut)}
@@ -192,6 +207,41 @@ button.sv{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
 #acc #accOut{margin-top:16px;color:var(--mut)}
 #acc .pv{display:block;width:max-content;margin:14px auto 0;font-size:13px;color:var(--mut)}
 #accWa .wt{margin:8px 0 0;text-align:center;font-size:13px}
+#vAcc{padding:14px 0 72px}
+/* cuenta: en el teléfono, el menú (?cuenta) o la sección (?cuenta=…); desde 900 px, menú lateral fijo + sección a la derecha */
+.alay[data-s=""] .amain,.alay:not([data-s=""]) .aside{display:none}
+@media(min-width:900px){.alay{display:grid;grid-template-columns:320px minmax(0,1fr);gap:32px;align-items:start}
+ .alay[data-s] .aside,.alay[data-s] .amain{display:block}.aside{position:sticky;top:72px;max-height:calc(100vh - 84px);overflow:auto}.amain{max-width:680px}
+ #vAcc .amain .abk{display:none}#vAcc .amain h1.at{margin-top:2px}#vAcc .amenu a.on{background:var(--soft)}#vAcc .amenu a.on b{color:var(--ink)}}
+#vAcc .ahd{display:flex;align-items:center;gap:14px;margin:4px 2px 4px}
+#vAcc .ahd .who{width:52px;height:52px;border-radius:50%;background:var(--bg);color:#fff;display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:700;flex:none}
+#vAcc .ahd div{min-width:0}
+#vAcc .ahd h1{margin:0;font-size:20px;overflow-wrap:anywhere}
+#vAcc .ahd p{margin:2px 0 0;color:var(--mut);font-size:14px}
+#vAcc .acap{font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--mut);margin:20px 4px 8px}
+#vAcc .amenu{background:#fff;border:1px solid var(--line);border-radius:14px;overflow:hidden}
+#vAcc .amenu a{display:flex;align-items:center;gap:12px;padding:12px 14px;border-top:1px solid var(--line);color:var(--ink)}
+#vAcc .amenu a:first-child{border-top:0}
+#vAcc .amenu a:active{background:var(--soft)}
+#vAcc .amenu a>span{flex:1;min-width:0;display:grid;gap:1px}
+#vAcc .amenu b{font-size:15px;font-weight:600}
+#vAcc .amenu small{font-size:13px;color:var(--mut);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+#vAcc .amenu>a>svg{width:18px;height:18px;color:var(--mut)}
+#vAcc .ai{width:36px;height:36px;border-radius:10px;background:var(--soft);display:flex;align-items:center;justify-content:center;flex:none;color:var(--ink)}
+#vAcc .ai svg{width:19px;height:19px}
+#vAcc .abk{display:inline-flex;align-items:center;gap:3px;padding:6px 2px;font-size:14px;font-weight:600;color:var(--ink)}
+#vAcc .abk svg{width:18px;height:18px}
+#vAcc h1.at{font-size:21px;margin:6px 2px 2px}
+#vAcc .ap{margin:0 2px 14px;color:var(--mut);font-size:14px}
+#vAcc .apanel{background:#fff;border:1px solid var(--line);border-radius:14px;padding:4px 16px 16px}
+#vAcc #accAd,#vAcc #accWa{margin:0}
+#vAcc .apanel:has(>#accWa:empty){display:none}
+#vAcc .btn{width:100%}
+#vAcc .lk{display:inline-block;font-size:14px;color:var(--ink);text-decoration:underline;text-underline-offset:3px}
+#vAcc .afoot{text-align:center;margin-top:22px}
+#vAcc .afoot .sv{margin:0}
+#vAcc #accOut{margin-top:14px;color:var(--mut)}
+#vAcc .pv{display:block;width:max-content;margin:12px auto 0;font-size:13px;color:var(--mut)}
 #toast{position:fixed;left:50%;bottom:22px;transform:translateX(-50%);background:rgba(20,23,28,.92);color:#fff;padding:9px 16px;border-radius:999px;font-size:14px;z-index:9;max-width:80%;text-align:center}
 #zoom{position:fixed;inset:0;background:#fff;z-index:10;overflow:auto;display:flex;align-items:center;justify-content:center;cursor:zoom-out}
 #zoom img{max-width:100%;height:auto}
@@ -298,6 +348,7 @@ button.sv{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
  <section id="vCart" hidden></section>
  <section id="vBuild" hidden></section>
  <section id="vX" hidden></section>
+ <section id="vAcc" hidden></section>
 </main>
 <footer id="contacto"><div class="wrap">
  <div class="fcols" id="fCols"></div><div class="fline"><p id="fFoot"></p><p id="fCopy"></p></div>
@@ -355,12 +406,45 @@ window.addEventListener("pagehide",tSend);
 /* ── entrada con Google (M.Auth = {client, url}; sin ella no hay botón). La librería de Google se carga solo al abrir la hoja.
    La sesión (un token del catálogo) se guarda en este equipo y viaja con los contadores: el uso se sabe por persona. ── */
 var AC=null;try{AC=JSON.parse(localStorage.getItem("acct")||"null")}catch(e){}
-function accBtn(){var b=$("accBtn");if(!M.Auth||!M.Auth.client){b.hidden=true;return}b.hidden=false;
- b.innerHTML=AC?'<span class="av">'+esc(String(AC.name||"?").charAt(0).toUpperCase())+"</span>":IC.user}
-function accOpen(){var v=$("acc");
- v.firstElementChild.innerHTML='<button id="accX" aria-label="Cerrar">'+IC.x+"</button>"+(AC?'<div class="who in">'+esc(String(AC.name||"?").charAt(0).toUpperCase())+"</div><h2>"+esc(AC.name)+"</h2><p>"+esc(M.Title||"")+(STK?" · Equipo":"")+'</p><div id="accAd"></div><div id="accWa"></div>'+(TX?TX.acc():"")+'<p class="sv" style="margin-top:4px">Tu cesta, tus configuraciones y tu dirección están guardadas en tu cuenta</p><button class="lk" id="accOut">Cerrar sesión</button><a class="lk pv" href="'+esc(ROOT+"privacidad.html")+'">Privacidad</a>'
-  :'<div class="who">'+IC.user+"</div><h2>"+esc(M.Title||"Entrar")+'</h2><p>Entra y tu cesta, tus configuraciones y tu dirección quedan guardadas en tu cuenta</p><div id="gbtn"></div><a class="lk pv" href="'+esc(ROOT+"privacidad.html")+'">Privacidad</a>');
- v.hidden=false;if(!AC)gLoad();else{accAd();accWa.n=null;accWa()}}
+function accFirst(){return String((AC&&AC.name)||"").trim().split(/\s+/)[0]||""}
+/* TRATO CERCANO (Leo 19/nov/2026: «que el usuario sienta su nombre más acogido; se ve bastante frío»): cada persona tiene su color
+   (sale de su nombre, siempre el mismo) y se la saluda según la hora de su teléfono. */
+var AC_TONES=["#c2410c","#0f766e","#7c3aed","#be185d","#1d4ed8","#15803d","#b45309","#0e7490"];
+function accTone(){var n=String((AC&&AC.name)||""),h=0;for(var i=0;i<n.length;i++)h=(h*31+n.charCodeAt(i))>>>0;return AC_TONES[h%AC_TONES.length]}
+function accHi(){var h=new Date().getHours();return h>=5&&h<12?"Buenos días":h>=12&&h<19?"Buenas tardes":"Buenas noches"}
+function accBtn(){var b=$("accBtn");if(!M.Auth||!M.Auth.client){b.hidden=true;return}b.hidden=false;b.classList.toggle("in",!!AC);
+ b.innerHTML=AC?'<span class="av" style="background:'+accTone()+';color:#fff">'+esc(String(AC.name||"?").charAt(0).toUpperCase())+'</span><span class="nm"><i>Hola, </i>'+esc(accFirst())+"</span>":IC.user}
+function accOpen(){if(AC){$("acc").hidden=true;go("./?cuenta");return}var v=$("acc");
+ v.firstElementChild.innerHTML='<button id="accX" aria-label="Cerrar">'+IC.x+'</button><div class="who">'+IC.user+"</div><h2>"+esc(M.Title||"Entrar")+'</h2><p>Entra y tu cesta, tus configuraciones y tu dirección quedan guardadas en tu cuenta</p><div id="gbtn"></div><a class="lk pv" href="'+esc(ROOT+"privacidad.html")+'">Privacidad</a>';
+ v.hidden=false;gLoad()}
+/* CUENTA = una página con MENÚ (Leo 19/nov/2026: «necesita un menú para acceder a las distintas cosas que se vayan incorporando; un
+   diálogo con todo mezclado no»). ?cuenta = el menú: «Mi cuenta» (dirección, WhatsApp) y «Equipo» (las filas que entrega Nexo,
+   TX.menu() = [{t, s, h, i}]); cada cosa en su propia pantalla (?cuenta=direccion | whatsapp; las del equipo, ?uso=…). Algo nuevo de
+   la cuenta = una fila más del menú + su pantalla. El diálogo #acc queda solo para ENTRAR. */
+function accRow(h,i,t,sb,id,on){return'<a data-nav href="'+esc(h)+'"'+(id?' id="'+id+'"':"")+(on?' class="on"':"")+">"+(i?'<i class="ai">'+i+"</i>":"")+"<span><b>"+esc(t)+"</b>"+
+ (sb!=null?"<small>"+esc(sb)+"</small>":"")+"</span>"+IC.r+"</a>"}
+function accSide(cur){var a=adGet(),tm=TX&&TX.menu?TX.menu():null,T0=M.Title||"";
+ return'<div class="ahd"><div class="who" style="background:'+accTone()+'">'+esc(String(AC.name||"?").charAt(0).toUpperCase())+"</div><div><h1>"+accHi()+", "+esc(accFirst()||AC.name)+"</h1><p>"+
+  (STK?"Gracias por cuidar "+esc(T0||"el catálogo")+" con nosotros":"Qué bueno tenerte de vuelta"+(T0?" en "+esc(T0):""))+"</p></div></div>"+
+  '<p class="acap">Mi cuenta</p><div class="amenu">'+accRow("./?cuenta=direccion",IC.truck,"Dirección de entrega",[a.d,a.m,a.p].filter(Boolean).join(", ")||"Sin dirección","",cur=="direccion")+
+  (M.Cell>0?accRow("./?cuenta=whatsapp",IC.wa,"WhatsApp","…","amWa",cur=="whatsapp"):"")+"</div>"+
+  (tm&&tm.length?'<p class="acap">Equipo</p><div class="amenu">'+tm.map(function(r){return accRow(r.h,r.i,r.t,r.s)}).join("")+"</div>":TX&&TX.acc?TX.acc():"")+
+  '<div class="afoot"><p class="sv">Tu cesta, tus configuraciones y tu dirección están guardadas en tu cuenta</p><button class="lk" id="accOut">Cerrar sesión</button><a class="lk pv" href="'+esc(ROOT+"privacidad.html")+'">Privacidad</a></div>'}
+function accWaSub(){if(!(M.Cell>0)||!$("amWa"))return;
+ fetch(M.Auth.url+"/phone",{method:"POST",body:JSON.stringify({t:AC.t})}).then(function(x){return x.ok?x.json():null}).then(function(d){var e=$("amWa");if(!d||!d.phones||!e)return;
+  if(!d.wa&&!d.phones.length){e.parentNode.removeChild(e);return}e.querySelector("small").textContent=d.phones.length?d.phones.map(function(p){return"+"+p}).join(", "):"Sin confirmar"}).catch(function(){})}
+/* sec = lo que pide la dirección ("" = el menú). En el teléfono se ve una cosa u otra; desde 900 px, las dos (sin sección = la
+   primera). keep = refresco por detrás: solo se repinta el menú, nunca un formulario a medio escribir. */
+function accView(sec,keep){var v=$("vAcc"),T0=M.Title||"",cur=sec=="whatsapp"&&M.Cell>0?"whatsapp":"direccion";
+ document.title=(sec=="direccion"?"Dirección · ":sec=="whatsapp"?"WhatsApp · ":"Cuenta · ")+T0;
+ if(keep&&v.dataset.s===sec&&v.querySelector(".aside")){v.querySelector(".aside").innerHTML=accSide(cur);accWaSub();return}
+ var bk='<a class="abk" data-nav href="./?cuenta">'+IC.l+"Cuenta</a>";
+ v.dataset.s=sec;
+ v.innerHTML='<div class="alay" data-s="'+esc(sec)+'"><aside class="aside">'+accSide(cur)+'</aside><section class="amain">'+bk+
+  (cur=="whatsapp"?'<h1 class="at">WhatsApp</h1><p class="ap">Para hablar contigo de tus pedidos</p><div class="apanel"><div id="accWa"></div></div>':
+   '<h1 class="at">Dirección de entrega</h1><p class="ap">Para la entrega de tus pedidos</p><div class="apanel"><div id="accAd"></div></div>')+"</section></div>";
+ if(cur=="whatsapp"){accWa.n=null;accWa()}else accAd();
+ accWaSub()}
 /* WhatsApp confirmado: el cliente no escribe su número; envía al WhatsApp del catálogo un mensaje ya escrito con un código y el
    servidor toma el número del propio mensaje. Mientras espera, la hoja pregunta cada pocos segundos si ya quedó. */
 /* GUARDADO EN LA CUENTA: la cesta ("cart") y las configuraciones del armador ("pcs") siguen viviendo en este equipo; con sesión
@@ -383,7 +467,7 @@ function shNote(p){if(!p||!M.Ship||!M.Ship.prov||!Object.keys(M.Ship.prov).lengt
  return v==1?"":v==2?"Entregas en "+p+": solo a veces, se confirma con el pedido":"Por ahora no hacemos entregas en "+p}
 function accAd(){var e=$("accAd");if(!e||!AC)return;var a=adGet(),G=(M.Ship&&M.Ship.geo)||{},P=Object.keys(G);
  function op(L,cur){return'<option value="">Elegir</option>'+L.map(function(x){return"<option"+(x===cur?" selected":"")+">"+esc(x)+"</option>"}).join("")}
- e.innerHTML='<p class="ah">Dirección para la entrega de tus pedidos</p>'+(P.length?'<label for="adP">Provincia</label><select id="adP">'+op(P,a.p)+'</select><p class="an" id="adN">'+esc(shNote(a.p))+
+ e.innerHTML=(P.length?'<label for="adP">Provincia</label><select id="adP">'+op(P,a.p)+'</select><p class="an" id="adN">'+esc(shNote(a.p))+
    '</p><label for="adM">Municipio</label><select id="adM">'+op(G[a.p]||[],a.m)+"</select>":"")+
   '<label for="adD">Dirección</label><textarea id="adD" maxlength="300" placeholder="Calle, número, entre calles">'+esc(a.d||"")+'</textarea><button class="btn" id="adOk" disabled>Guardar dirección</button>';
  /* nada se guarda hasta pulsar «Guardar dirección»; el botón se enciende solo cuando lo escrito difiere de lo guardado */
@@ -576,7 +660,10 @@ function go(url,rep){history[rep?"replaceState":"pushState"](null,"",new URL(url
 function route(keep){
  if(!ready)return;stkGet();
  var u=new URLSearchParams(location.search),pm=location.pathname.match(/\/a\/([^\/]+)\.html$/),p=pm?decodeURIComponent(pm[1]):u.get("p"),cart=pm?null:u.get("cart"),arm=!pm&&!p&&!cart&&bList().length&&u.has("armar")?(u.get("armar")||"*"):null;
- $("vX").hidden=true;
+ var accOn=$("vAcc").hidden?null:$("vAcc").dataset.s;$("vX").hidden=$("vAcc").hidden=true;
+ if(!pm&&u.has("cuenta")){if(!AC||!AC.t){go("./",1);return}var sec=u.get("cuenta")||"";
+  $("vList").hidden=$("vProd").hidden=$("vCart").hidden=$("vBuild").hidden=$("searchBox").hidden=$("cats").hidden=$("acc").hidden=true;$("vAcc").hidden=false;
+  accView(sec,!!keep&&accOn===sec);if(!keep)window.scrollTo(0,0);return}
  if(!pm&&u.has("uso")){if(!AC||!AC.t){go("./",1);return}
   $("vList").hidden=$("vProd").hidden=$("vCart").hidden=$("vBuild").hidden=$("searchBox").hidden=$("cats").hidden=$("acc").hidden=true;
   var vx=$("vX");vx.hidden=false;if(TX)TX.view(u,vx);else vx.innerHTML='<div class="msg">Cargando…</div>';if(!keep)window.scrollTo(0,0);return}
@@ -708,18 +795,18 @@ function cartView(){
  if(!keep.length){v.innerHTML='<div class="msg">La cesta está vacía.<br><br><a class="btn" data-nav href="./">Ver el catálogo</a></div>';return}
  var co="";try{co=localStorage.getItem("co")||""}catch(e){}if(cSig()!=co){tCk("con");tCk("ver")}
  if(!BL&&bList().length)bLoad();
- var R=cRules(keep),tot=0,h='<div class="cartbox"><h2>Cesta</h2><div class="box">';
+ var R=cRules(keep),tot=0,h='<div class="cartbox"><h2>Cesta</h2><div class="lay2"><div class="box">';
  keep.forEach(function(i){var p=bySlug[i.productId],q=parseInt(i.qty,10)||0;tot+=p.Price*q;
   h+='<div class="ci"><img loading="lazy" alt="" src="'+thumb(p)+'"><a class="name" data-nav href="'+pUrl(p.slug)+'">'+esc(p.Label)+'</a><button class="x" data-rm="'+esc(p.slug)+'" aria-label="Quitar">'+IC.x+"</button>"+
    '<span><span class="qty"><button data-cq="-1" data-s="'+esc(p.slug)+'" aria-label="Menos">−</button><input type="number" min="0" max="'+qMax(p.slug)+'" value="'+q+'" data-ci="'+esc(p.slug)+'"><button data-cq="1" data-s="'+esc(p.slug)+'" aria-label="Más">+</button></span><small>× '+money(p.Price)+'</small>'+stkBtn(p.slug,q,1)+'</span><span class="lt">'+money(p.Price*q)+"</span>"+
    (R[p.slug]||[]).map(function(x){return'<span class="bw">'+esc(x)+"</span>"}).join("")+"</div>"});
  var tr=(M.CartPayMethod?"<div>"+IC.cash+"<span><b>Forma de pago</b><span>"+esc(M.CartPayMethod)+"</span></span></div>":"")+
   (M.CartShipping?"<div>"+IC.truck+"<span><b>Envío</b><span>"+esc(M.CartShipping)+"</span></span></div>":"");
- var sh=shOf(tot),ad=adGet();
+ var sh=shOf(tot),ad=adGet();h+='</div><div class="side"><div class="box">';
  if(sh)h+='<div class="shp"><span>Envío · '+esc(sh.n)+(ad.d?"<small>"+esc(ad.d)+"</small>":"")+"</span><span>"+(sh.p?money(sh.p):"Gratis")+"</span></div>";
  var dn=AC?shNote(ad.p):"";if(dn)h+='<p class="sv" style="margin:0 0 12px">'+IC.truck+esc(dn)+"</p>";
  h+='<div class="tot"><span>Total</span><span>'+usd(tot+(sh?sh.p:0))+"</span></div></div>"+(tr?'<div class="box trust">'+tr+"</div>":"")+
-  '<div class="acts col"><button class="btn wa" id="order">'+IC.wa+'Enviar el pedido por WhatsApp</button><button class="btn alt" id="empty">Vaciar la cesta</button>'+accNote("tu cesta")+"</div></div>";
+  '<div class="acts col"><button class="btn wa" id="order">'+IC.wa+'Enviar el pedido por WhatsApp</button><button class="btn alt" id="empty">Vaciar la cesta</button>'+accNote("tu cesta")+"</div></div></div></div>";
  v.innerHTML=h}
 /* restricciones de VENTA en la cesta: las dependencias marcadas «sale» (data/builder.json) valen también fuera del armador.
    Un artículo que cumple `when` solo se vende junto con uno compatible de cada componente destino, y como mucho `max_qty`
@@ -882,12 +969,12 @@ function bView(){
  if(c!=null&&BD.slots[c]){bPick(+c);return}
  var use=bUse(),bs=use?bBuilds(use):[],n=Math.min(PC.n||0,bs.length-1);
  var h='<div class="cartbox">'+(BL.length>1?'<div class="crumb"><a data-nav href="./?armar=">'+esc(bSec().t)+"</a>›<span>"+esc(BD.title)+"</span></div>":"")+"<h2"+(BL.length>1?' style="margin-top:0"':"")+">"+esc(BD.title)+"</h2>"+(BD.intro?'<p class="bint">'+esc(BD.intro)+"</p>":"")+
-  '<div class="box"><div class="sec">1 · ¿Para qué es?</div><div class="uses"'+(bs.length?"":' style="margin:0"')+">"+
+  '<div class="lay2 bl2"><div class="side"><div class="box"><div class="sec">1 · ¿Para qué es?</div><div class="uses"'+(bs.length?"":' style="margin:0"')+">"+
   BD.uses.map(function(x){return'<button class="use'+(x.k==PC.u?" on":"")+'" data-bu="'+esc(x.k)+'"><b>'+esc(x.n)+"</b><span>"+esc(x.d)+"</span></button>"}).join("")+
   '<button class="use'+(PC.u==FREE?" on":"")+'" data-bu="'+FREE+'"><b>Libre</b><span>Elige tú cada componente; te avisamos si algo no es compatible.</span></button></div>';
  if(bs.length)h+='<div class="sec">2 · ¿Cuánto quieres gastar?</div><div class="bud"><button id="bLess" data-bn="-1" aria-label="Menos">−</button><span class="price" id="bPrice"></span><button id="bMore" data-bn="1" aria-label="Más">+</button></div>'+
   '<input id="bRange" type="range" min="0" max="'+(bs.length-1)+'" step="1" value="'+n+'" aria-label="Presupuesto"><div class="bends"><span>'+money(bs[0].p)+"</span><span>"+money(bs[bs.length-1].p)+"</span></div>";
- h+='</div><div class="sec bsec">'+(bs.length?"3 · Revisa y cambia lo que quieras":PC.u==FREE?"2 · Elige cada componente":"O elige tú cada componente")+'</div><div id="bRows"></div></div>';
+ h+='</div></div><div class="bmain"><div class="sec bsec">'+(bs.length?"3 · Revisa y cambia lo que quieras":PC.u==FREE?"2 · Elige cada componente":"O elige tú cada componente")+'</div><div id="bRows"></div></div></div></div>';
  v.innerHTML=h;bPaint()}
 /* lo que cambia al mover el presupuesto (sin rehacer el control que se está arrastrando) */
 function bPaint(){var use=bUse(),bs=use?bBuilds(use):[],n=Math.min(PC.n||0,bs.length-1);
@@ -901,7 +988,7 @@ function bPick(si){var s=BD.slots[si],cur=PC.p[si],need=bNeed()[si]!=null,cp=cur
    (x.bad.length?'<span class="bw">Cambia también: '+esc(x.bad.map(function(j){return BD.slots[j].n}).join(", "))+"</span>":"")+"</span>"+
    '<span class="bside"><span class="lt">'+money(x.p.Price)+"</span>"+(x.k==cur?'<span class="bd on">'+IC.chk+"Elegido</span>":cur?'<span class="bd">'+(d>0?"+ "+money(d):d<0?"− "+money(-d):"mismo precio")+"</span>":"")+"</span></button>"}
  var ok=its.filter(function(x){return!x.bad.length}),no=its.filter(function(x){return x.bad.length});
- $("vBuild").innerHTML='<div class="cartbox"><div class="crumb">'+(BL.length>1?'<a data-nav href="./?armar=">'+esc(bSec().t)+"</a>›":"")+'<a data-nav href="'+bHome()+'">'+esc(BD.title)+"</a>›<span>"+esc(s.n)+'</span></div><h2 style="margin-top:0">'+esc(s.n)+"</h2>"+(s.h?'<p class="bint">'+esc(s.h)+"</p>":"")+
+ $("vBuild").innerHTML='<div class="cartbox bpk"><div class="crumb">'+(BL.length>1?'<a data-nav href="./?armar=">'+esc(bSec().t)+"</a>›":"")+'<a data-nav href="'+bHome()+'">'+esc(BD.title)+"</a>›<span>"+esc(s.n)+'</span></div><h2 style="margin-top:0">'+esc(s.n)+"</h2>"+(s.h?'<p class="bint">'+esc(s.h)+"</p>":"")+
   (ok.length?'<div class="box">'+ok.map(row).join("")+"</div>":'<div class="box feat">Nada de lo disponible es compatible con lo que ya elegiste.</div>')+
   (no.length?'<details class="binc"><summary>'+no.length+" más, que obligan a cambiar otros componentes</summary><div class=\"box\">"+no.map(row).join("")+"</div></details>":"")+
   (cur?'<div class="acts col"><button class="btn alt" data-bp="">Quitar</button></div>':"")+"</div>"}
