@@ -375,6 +375,20 @@ button.sv{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
 @media(min-width:720px){.htrust{display:grid;grid-template-columns:repeat(3,1fr);gap:0 24px}.htrust div{border-top:0!important}}
 #allh{margin:18px 0 4px}
 #zoom button{position:fixed;top:10px;right:10px;width:44px;height:44px;border-radius:50%;background:rgba(20,23,28,.7);color:#fff;display:flex;align-items:center;justify-content:center}
+.nsel{display:flex;align-items:center;justify-content:space-between;gap:8px;width:100%;min-height:42px;box-sizing:border-box;border:1px solid #d0d5dd;border-radius:10px;background:#fff;padding:0 11px;font:inherit;font-size:15px;color:var(--ink);text-align:left;cursor:pointer;-webkit-tap-highlight-color:transparent}
+.nsel>span{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.nsel>span.ph{color:var(--mut)}
+.nsel svg{width:16px;height:16px;flex:none;fill:none;stroke:var(--mut);stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.nsel:focus-visible{outline:2px solid var(--bg);outline-offset:-1px}.nsel:disabled{background:#f9fafb;cursor:default}.nsel:disabled svg{display:none}
+.tools .nsel{margin-left:auto;width:auto;max-width:60%;min-height:36px;height:36px;border-color:var(--line);padding:0 10px;font-size:13.5px}
+#accAd .nsel{padding:0 12px}
+.nsov{position:fixed;inset:0;z-index:90;background:rgba(0,0,0,.35);display:flex;align-items:flex-end;color-scheme:light}.nsov.w{align-items:center;padding:16px;box-sizing:border-box}
+.nsls{background:#fff;color:var(--ink);width:100%;max-width:560px;margin:0 auto;box-sizing:border-box;border-radius:16px 16px 0 0;max-height:70%;overflow-y:auto;padding:8px 0 calc(10px + env(safe-area-inset-bottom));font-size:16px}
+.nsov.w .nsls{max-width:400px;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,.2);padding:8px 0}
+.nsls .hd{width:36px;height:4px;border-radius:2px;background:var(--line);margin:0 auto 6px}.nsov.w .nsls .hd{display:none}
+.nsls .tt{font-size:15px;font-weight:700;padding:4px 16px 6px}.nsls .gh{font-size:11px;color:var(--mut);text-transform:uppercase;letter-spacing:1px;padding:14px 16px 4px}
+.nsls button{display:flex;align-items:center;gap:10px;width:100%;min-height:48px;padding:0 16px;border:0;background:none;text-align:left;font:inherit;font-size:16px;color:var(--ink);cursor:pointer;-webkit-tap-highlight-color:transparent}
+.nsls button>span{flex:1;min-width:0}.nsls button.on{background:var(--soft);font-weight:600}.nsls button:disabled{opacity:.4;cursor:default}
+.nsls button svg{width:16px;height:16px;flex:none;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
 </style>
 </head>
 <body>
@@ -1289,6 +1303,40 @@ if("serviceWorker" in navigator&&location.protocol!="file:"){
    if(Date.now()-k>60000){try{sessionStorage.setItem("rl",Date.now())}catch(x){}location.reload()}}})}
 load();
 })();
+/* SELECTOR PROPIO (19/nov/2026: el nativo de Android se ve feo): todo <select> de la página queda OCULTO como fuente del valor y delante
+   va un botón (texto elegido + flecha) que abre una hoja clara desde abajo (diálogo centrado con ratón): grupos en gris, marca en el
+   elegido, deshabilitadas en gris; un toque elige y dispara input+change en el <select> (los manejadores de siempre siguen valiendo);
+   tocar fuera / Escape = no cambiar. `s.value = …` y cambiar sus opciones se reflejan solos. MISMO código que el equipo
+   (catalog_team/barra.js, marca `_nsel`: el primero que lo convierte gana). */
+(function(){if(!window.HTMLSelectElement||!window.MutationObserver)return;
+var VAL=Object.getOwnPropertyDescriptor(HTMLSelectElement.prototype,"value"),IDX=Object.getOwnPropertyDescriptor(HTMLSelectElement.prototype,"selectedIndex"),
+ ARR='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>',OK='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>',
+ E=function(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})},
+ isPh=function(o){return o&&o.disabled&&o.value===""};
+function lab(s){if(s.id){var f=document.querySelector('label[for="'+s.id+'"]');if(f)return f}return s.closest("label")}
+function title(s){if(s.getAttribute("aria-label"))return s.getAttribute("aria-label");var l=lab(s),sp=l&&(l.querySelector(":scope>span")||l);return sp?sp.textContent:(s.title||"")}
+function paint(s){var b=s._nsel;if(!b||!b.firstChild)return;var o=s.options[IDX.get.call(s)];b.firstChild.textContent=o?o.text:"—";b.firstChild.className=!o||isPh(o)||o.value===""?"ph":"";b.disabled=s.disabled}
+function open(s){var b=s._nsel,cur=VAL.get.call(s),wide=matchMedia("(min-width: 600px) and (pointer: fine)").matches,h="",t=title(s),opts=[];
+ [].forEach.call(s.children,function(c){var add=function(o){if(isPh(o))return;opts.push(o);var on=o.value===cur&&o.selected;
+   h+='<button type="button" role="option" data-i="'+(opts.length-1)+'"'+(on?' class="on" aria-selected="true"':"")+(o.disabled&&!on?" disabled":"")+"><span>"+E(o.text)+"</span>"+(on?OK:"")+"</button>"};
+  if(c.tagName=="OPTGROUP"){var ch=[].filter.call(c.children,function(o){return!isPh(o)});if(ch.length){h+='<div class="gh">'+E(c.label)+"</div>";ch.forEach(add)}}else if(c.tagName=="OPTION")add(c)});
+ var ov=document.createElement("div");ov.className="nsov"+(wide?" w":"");
+ ov.innerHTML='<div class="nsls" role="listbox"'+(t?' aria-label="'+E(t)+'"':"")+'><div class="hd"></div>'+(t?'<div class="tt">'+E(t)+"</div>":"")+h+"</div>";
+ var close=function(){ov.remove();document.removeEventListener("keydown",key,true);try{b.focus({preventScroll:true})}catch(x){}},
+  key=function(e){if(e.key=="Escape"){e.stopPropagation();close()}};
+ ov.onclick=function(e){e.stopPropagation();var r=e.target.closest&&e.target.closest("button[data-i]");if(!r){if(!e.target.closest(".nsls"))close();return}if(r.disabled)return;
+  var o=opts[+r.getAttribute("data-i")];close();if(o.selected)return;o.selected=true;paint(s);
+  s.dispatchEvent(new Event("input",{bubbles:true}));s.dispatchEvent(new Event("change",{bubbles:true}))};
+ document.addEventListener("keydown",key,true);document.body.appendChild(ov);var on=ov.querySelector("button.on");if(on)on.scrollIntoView({block:"center"})}
+function up(){[].forEach.call(document.querySelectorAll("select:not([multiple]):not([data-nsel])"),function(s){s.setAttribute("data-nsel","");if(s._nsel)return;
+ var b=document.createElement("button");b.type="button";b.className="nsel";b.setAttribute("aria-haspopup","listbox");if(s.getAttribute("aria-label"))b.setAttribute("aria-label",s.getAttribute("aria-label"));
+ b.innerHTML="<span></span>"+ARR;b.onclick=function(e){e.preventDefault();e.stopPropagation();if(!s.disabled)open(s)};
+ s._nsel=b;s.style.display="none";s.parentNode.insertBefore(b,s.nextSibling);
+ var l=s.id&&document.querySelector('label[for="'+s.id+'"]');if(l)l.addEventListener("click",function(e){e.preventDefault();if(!s.disabled)b.click()});
+ Object.defineProperty(s,"value",{configurable:true,get:function(){return VAL.get.call(s)},set:function(v){VAL.set.call(s,v);paint(s)}});
+ Object.defineProperty(s,"selectedIndex",{configurable:true,get:function(){return IDX.get.call(s)},set:function(v){IDX.set.call(s,v);paint(s)}});
+ new MutationObserver(function(){paint(s)}).observe(s,{childList:true,subtree:true,attributes:true,attributeFilter:["disabled","selected"]});paint(s)})}
+up();new MutationObserver(up).observe(document.body,{childList:true,subtree:true})})();
 </script>
 </body>
 </html>
