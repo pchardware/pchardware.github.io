@@ -83,6 +83,13 @@ img.bad{opacity:0}
 @keyframes sk{to{background-position:-200% 0}}
 @media(prefers-reduced-motion:reduce){.sk{animation:none}.card{transition:none}}
 .msg{padding:56px 12px;text-align:center;color:var(--mut)}
+.cewrap{min-height:calc(100vh - 360px);display:flex;align-items:center;justify-content:center;padding:28px 0}
+.box.cempty{width:100%;max-width:440px;text-align:center;padding:34px 24px 26px}
+.cempty .ico{width:72px;height:72px;margin:0 auto 16px;border-radius:50%;background:var(--soft);color:var(--mut);display:flex;align-items:center;justify-content:center}
+.cempty .ico svg{width:34px;height:34px;stroke-width:1.6}
+.cempty h2{margin:0 0 6px;font-size:20px;color:var(--ink)}
+.cempty p{margin:0 0 20px;color:var(--mut);font-size:14.5px}
+.cempty .chips{justify-content:center;flex-wrap:wrap;overflow:visible;padding:18px 0 0;margin-top:22px;border-top:1px solid var(--soft)}
 .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;height:46px;padding:0 18px;border-radius:10px;border:1px solid var(--bg);background:var(--bg);color:var(--on);font-weight:600;font-size:15px;white-space:nowrap}
 .btn.alt{background:#fff;color:var(--ink);border-color:#d0d5dd}
 .btn.wa{background:var(--wa);border-color:var(--wa);color:#fff}
@@ -871,7 +878,9 @@ function cartView(){
  var c=getCart(),v=$("vCart"),keep=c.items.filter(function(i){return bySlug[i.productId]});
  if(keep.length!=c.items.length){c.items=keep;setCart(c)}
  document.title="Cesta · "+(M.Title||"");
- if(!keep.length){v.innerHTML='<div class="msg">La cesta está vacía.<br><br><a class="btn" data-nav href="./">Ver el catálogo</a></div>';return}
+ if(!keep.length){var ch="";cats.forEach(function(c){if(all.some(function(p){return p.Category===c.name}))ch+=chip(c.name,false,"cat",norm(c.name))});
+  v.innerHTML='<div class="cewrap"><div class="box cempty"><div class="ico">'+IC.cart+'</div><h2>Tu cesta está vacía</h2><p>Añade artículos desde el catálogo y aquí verás el total.</p>'+
+   '<a class="btn" data-nav href="./">Ver el catálogo</a>'+(ch?'<div class="chips">'+ch+"</div>":"")+"</div></div>";return}
  var co="";try{co=localStorage.getItem("co")||""}catch(e){}if(cSig()!=co){tCk("con");tCk("ver")}
  if(!BL&&bList().length)bLoad();
  var R=cRules(keep),tot=0,h='<div class="cartbox"><h2>Cesta</h2><div class="lay2"><div class="box">';
@@ -1098,7 +1107,7 @@ document.addEventListener("click",function(e){
  if(d.sub!=null){F.subcategory=F.subcategory==d.sub?"":d.sub;F.feature="";go(qs(),true);return}
  if(d.kw!=null){F.feature=F.feature==d.kw?"":d.kw;go(qs(),true);return}
  if(d.add!=null){s=d.add;var on=inCart(s),p=bySlug[s];setQty(s,on?0:1);if(!on)T("add",s);t.classList.toggle("on",!on);t.innerHTML=on?IC.plus:IC.ok;
-  toast(on?"Quitado de la cesta":"Añadido a la cesta");return}
+  toast(on?"Quitado de la cesta":"Añadido a la cesta");if(!$("vCart").hidden)cartView();return}
  if(d.q!=null){var q=$("pQty");q.value=Math.min(gal?qMax(gal.slug):99,Math.max(1,(parseInt(q.value,10)||1)+ +d.q));return}
  if(t.id=="pAdd"&&gal){var n=Math.min(99,Math.max(1,parseInt($("pQty").value,10)||1)),pp=bySlug[gal.slug];setQty(gal.slug,n);T("add",gal.slug);toast("Añadido a la cesta");return}
  if(t.id=="pShare"&&gal){T("share",gal.slug);var sp=bySlug[gal.slug],su=new URL(pUrl(gal.slug),ROOT).href;
