@@ -83,6 +83,7 @@ img.bad{opacity:0}
 @keyframes sk{to{background-position:-200% 0}}
 @media(prefers-reduced-motion:reduce){.sk{animation:none}.card{transition:none}}
 .msg{padding:56px 12px;text-align:center;color:var(--mut)}
+
 .cewrap{min-height:calc(100vh - 360px);display:flex;align-items:center;justify-content:center;padding:28px 0}
 .box.cempty{width:100%;max-width:440px;text-align:center;padding:34px 24px 26px}
 .cempty .ico{width:72px;height:72px;margin:0 auto 16px;border-radius:50%;background:var(--soft);color:var(--mut);display:flex;align-items:center;justify-content:center}
@@ -172,6 +173,11 @@ footer p{margin:0 0 6px;opacity:.7}
 #accBtn .nm i{font-style:normal;font-weight:400;opacity:.85}
 @media(max-width:559px){#accBtn .nm i{display:none}#accBtn.in{max-width:150px}}
 #accBtn .av{flex:none;width:28px;height:28px;border-radius:50%;background:var(--on);color:var(--bg);font-weight:700;font-size:14px;display:flex;align-items:center;justify-content:center}
+#gesBtn{color:inherit}
+#gesBtn:hover,#gesBtn.on{background:rgba(255,255,255,.12)}
+#gesBtn:not([hidden])+#accBtn{margin-left:2px}
+#vAcc .gpage{max-width:560px}
+#vAcc .gpage .ap+.acap{margin-top:6px}
 #acc{position:fixed;inset:0;background:rgba(20,23,28,.5);z-index:11;display:flex;align-items:center;justify-content:center;padding:16px}
 #acc .box{position:relative;width:100%;max-width:360px;text-align:center;padding:30px 24px 26px;border:0;border-radius:18px;box-shadow:0 18px 50px rgba(16,24,40,.28)}
 #accX{position:absolute;top:8px;right:8px;width:38px;height:38px;border-radius:50%;display:flex;align-items:center;justify-content:center;color:var(--mut)}
@@ -351,6 +357,7 @@ button.sv{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
   <div class="bar">
    <a class="brand" data-nav href="./" id="brand"></a>
    <div class="search" id="searchBox"><input id="q" type="search" placeholder="Buscar en el catálogo" autocomplete="off" enterkeyhint="search"><button id="inst" hidden></button></div>
+   <a class="ic" id="gesBtn" data-nav href="./?gestion" hidden aria-label="Gestión del sitio" title="Gestión del sitio"></a>
    <button class="ic" id="accBtn" hidden aria-label="Cuenta"></button>
    <button class="ic" id="cartBtn" data-n="0" aria-label="Cesta"></button>
   </div>
@@ -391,6 +398,7 @@ var IC={
  plus:'<svg viewBox="0 0 24 24"><circle cx="9" cy="20" r="1.5"/><circle cx="18" cy="20" r="1.5"/><path d="M2 3h3l2.6 12h11l1.2-4M15 3v6M12 6h6"/></svg>',
  ok:'<svg viewBox="0 0 24 24"><circle cx="9" cy="20" r="1.5"/><circle cx="18" cy="20" r="1.5"/><path d="M2 3h3l2.6 12h11l1.2-4M12 6l2.5 2.5L19 4"/></svg>',
  x:'<svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg>',
+ ges:'<svg viewBox="0 0 24 24"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8.5 7V5.5A1.5 1.5 0 0 1 10 4h4a1.5 1.5 0 0 1 1.5 1.5V7M3 12.5h18"/></svg>',
  l:'<svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg>',
  r:'<svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></svg>',
  up:'<svg viewBox="0 0 24 24"><path d="M5 15l7-7 7 7"/></svg>',
@@ -453,14 +461,24 @@ function accOpen(){if(AC){$("acc").hidden=true;go("./?cuenta");return}var v=$("a
 
 
 
+
+
+
+
+function gesBtn(on){var b=$("gesBtn"),tm=!COMO&&AC&&TX&&TX.menu?TX.menu():null;b.hidden=!(tm&&tm.length);b.classList.toggle("on",!!on);
+ if(!b.firstChild)b.innerHTML=IC.ges}
+function gesView(){var v=$("vAcc"),tm=TX&&TX.menu?TX.menu():null,T0=M.Title||"",G=[],B={};
+ (tm||[]).forEach(function(r){var g=r.g||"";if(!B[g]){B[g]=[];G.push(g)}B[g].push(r)});
+ v.dataset.s="*g";document.title="Gestión del sitio · "+T0;
+ v.innerHTML='<div class="gpage"><h1 class="at">Gestión del sitio</h1><p class="ap">Gracias por cuidar '+esc(T0||"el catálogo")+" con nosotros</p>"+
+  (!tm?'<div class="msg">Cargando…</div>':G.map(function(g){return(g?'<p class="acap">'+esc(g)+"</p>":"")+'<div class="amenu">'+B[g].map(function(r){return accRow(r.h,r.i,r.t,r.s)}).join("")+"</div>"}).join(""))+"</div>"}
 function accRow(h,i,t,sb,id,on){return'<a data-nav href="'+esc(h)+'"'+(id?' id="'+id+'"':"")+(on?' class="on"':"")+">"+(i?'<i class="ai">'+i+"</i>":"")+"<span><b>"+esc(t)+"</b>"+
  (sb!=null?"<small>"+esc(sb)+"</small>":"")+"</span>"+IC.r+"</a>"}
-function accSide(cur){var a=adGet(),tm=TX&&TX.menu?TX.menu():null,T0=M.Title||"";
+function accSide(cur){var a=adGet(),T0=M.Title||"";
  return'<div class="ahd"><div class="who" style="background:'+accTone()+'">'+esc(String(AC.name||"?").charAt(0).toUpperCase())+"</div><div><h1>"+accHi()+", "+esc(accFirst()||AC.name)+"</h1><p>"+
-  (STK?"Gracias por cuidar "+esc(T0||"el catálogo")+" con nosotros":"Qué bueno tenerte de vuelta"+(T0?" en "+esc(T0):""))+"</p></div></div>"+
+  "Qué bueno tenerte de vuelta"+(T0?" en "+esc(T0):"")+"</p></div></div>"+
   '<p class="acap">Mi cuenta</p><div class="amenu">'+accRow("./?cuenta=direccion",IC.truck,"Dirección de entrega",[a.d,a.m,a.p].filter(Boolean).join(", ")||"Sin dirección","",cur=="direccion")+
   (M.Cell>0?accRow("./?cuenta=whatsapp",IC.wa,"WhatsApp","…","amWa",cur=="whatsapp"):"")+(M.Auth&&M.Auth.buy||STK||COMO?accRow("./?cuenta=compras",IC.bag,"Mis compras","Lo que has comprado aquí","",cur=="compras"):"")+"</div>"+
-  (tm&&tm.length?'<p class="acap">Equipo</p><div class="amenu">'+tm.map(function(r){return accRow(r.h,r.i,r.t,r.s)}).join("")+"</div>":TX&&TX.acc?TX.acc():"")+
   '<div class="afoot"><p class="sv">Tu cesta, tus configuraciones y tu dirección están guardadas en tu cuenta</p><button class="lk" id="accOut">'+(COMO?"Salir de la vista como cliente":"Cerrar sesión")+'</button><a class="lk pv" href="'+esc(ROOT+"privacidad.html")+'">Privacidad</a></div>'}
 function accWaSub(){if(COMO){var w=$("amWa");if(w)w.querySelector("small").textContent=(COMO.phones||[]).length?COMO.phones.map(function(p){return"+"+p}).join(", "):"Sin confirmar";return}if(!(M.Cell>0)||!$("amWa"))return;
  fetch(M.Auth.url+"/phone",{method:"POST",body:JSON.stringify({t:AC.t})}).then(function(x){return x.ok?x.json():null}).then(function(d){var e=$("amWa");if(!d||!d.phones||!e)return;
@@ -609,7 +627,7 @@ var STK=null,stkAt=0,STKv={},IC_BOX='<svg viewBox="0 0 24 24"><path d="M3.5 7.5L
 function stkGet(force){if(COMO){comoBar();comoGet();return}if(!AC||!AC.t||!M.Auth||!M.Auth.url)return;var n=Date.now();if(!force&&n-stkAt<60000)return;stkAt=n;
  fetch(M.Auth.url+"/stock",{method:"POST",body:JSON.stringify({t:AC.t})}).then(function(x){return x.ok?x.json():null}).then(function(d){
   if(!d)return;if(d.t&&AC){AC.t=d.t;try{localStorage.setItem("acct",JSON.stringify(AC))}catch(e){}}
-  if(d.x)txGet();else if(!TX&&/[?&]uso=/.test(location.search))go("./",1);var o=JSON.stringify(STK);STK=d.team?d:null;if(JSON.stringify(STK)!=o)route(true)}).catch(function(){})}
+  if(d.x)txGet();else if(!TX&&/[?&](uso=|gestion)/.test(location.search))go("./",1);var o=JSON.stringify(STK);STK=d.team?d:null;if(JSON.stringify(STK)!=o)route(true)}).catch(function(){})}
  
 var TX=null,txL=0;
 function txGet(){if(COMO)return;if(txL||!AC||!AC.t||!M.Auth||!M.Auth.url)return;txL=1;
@@ -747,9 +765,13 @@ function route(keep){
  if(!ready)return;stkGet();
  var u=new URLSearchParams(location.search),pm=location.pathname.match(/\/a\/([^\/]+)\.html$/),p=pm?decodeURIComponent(pm[1]):u.get("p"),cart=pm?null:u.get("cart"),arm=!pm&&!p&&!cart&&bList().length&&u.has("armar")?(u.get("armar")||"*"):null;
  var accOn=$("vAcc").hidden?null:$("vAcc").dataset.s;$("vX").hidden=$("vAcc").hidden=true;
+ gesBtn(!pm&&(u.has("gestion")||u.has("uso")));
  if(!pm&&u.has("cuenta")){if(!AC||!AC.t){go("./",1);return}var sec=u.get("cuenta")||"";
   $("vList").hidden=$("vProd").hidden=$("vCart").hidden=$("vBuild").hidden=$("searchBox").hidden=$("cats").hidden=$("acc").hidden=true;$("vAcc").hidden=false;
   accView(sec,!!keep&&accOn===sec);if(!keep)window.scrollTo(0,0);return}
+ if(!pm&&u.has("gestion")){if(!AC||!AC.t||COMO){go("./",1);return}
+  $("vList").hidden=$("vProd").hidden=$("vCart").hidden=$("vBuild").hidden=$("searchBox").hidden=$("cats").hidden=$("acc").hidden=true;$("vAcc").hidden=false;
+  gesView();if(!keep)window.scrollTo(0,0);return}
  if(!pm&&u.has("uso")){if(!AC||!AC.t){go("./",1);return}
   $("vList").hidden=$("vProd").hidden=$("vCart").hidden=$("vBuild").hidden=$("searchBox").hidden=$("cats").hidden=$("acc").hidden=true;
   var vx=$("vX");vx.hidden=false;if(TX)TX.view(u,vx);else vx.innerHTML='<div class="msg">Cargando…</div>';if(!keep)window.scrollTo(0,0);return}
