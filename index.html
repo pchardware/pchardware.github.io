@@ -185,6 +185,7 @@ button.sv{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
 #acc .lk{display:inline-block;font-size:14px;color:var(--ink);text-decoration:underline;text-underline-offset:3px}
 #accWa .lk{margin:10px 2px 0}
 #acc #accOut{margin-top:16px;color:var(--mut)}
+#acc .pv{display:block;width:max-content;margin:14px auto 0;font-size:13px;color:var(--mut)}
 #accWa .wt{margin:8px 0 0;text-align:center;font-size:13px}
 #toast{position:fixed;left:50%;bottom:22px;transform:translateX(-50%);background:rgba(20,23,28,.92);color:#fff;padding:9px 16px;border-radius:999px;font-size:14px;z-index:9;max-width:80%;text-align:center}
 #zoom{position:fixed;inset:0;background:#fff;z-index:10;overflow:auto;display:flex;align-items:center;justify-content:center;cursor:zoom-out}
@@ -350,8 +351,8 @@ var AC=null;try{AC=JSON.parse(localStorage.getItem("acct")||"null")}catch(e){}
 function accBtn(){var b=$("accBtn");if(!M.Auth||!M.Auth.client){b.hidden=true;return}b.hidden=false;
  b.innerHTML=AC?'<span class="av">'+esc(String(AC.name||"?").charAt(0).toUpperCase())+"</span>":IC.user}
 function accOpen(){var v=$("acc");
- v.firstElementChild.innerHTML='<button id="accX" aria-label="Cerrar">'+IC.x+"</button>"+(AC?'<div class="who in">'+esc(String(AC.name||"?").charAt(0).toUpperCase())+"</div><h2>"+esc(AC.name)+"</h2><p>"+esc(M.Title||"")+'</p><div id="accAd"></div><div id="accWa"></div><p class="sv" style="margin-top:4px">Tu cesta, tus configuraciones y tu dirección están guardadas en tu cuenta</p><button class="lk" id="accOut">Cerrar sesión</button>'
-  :'<div class="who">'+IC.user+"</div><h2>"+esc(M.Title||"Entrar")+'</h2><p>Entra y tu cesta, tus configuraciones y tu dirección quedan guardadas en tu cuenta</p><div id="gbtn"></div>');
+ v.firstElementChild.innerHTML='<button id="accX" aria-label="Cerrar">'+IC.x+"</button>"+(AC?'<div class="who in">'+esc(String(AC.name||"?").charAt(0).toUpperCase())+"</div><h2>"+esc(AC.name)+"</h2><p>"+esc(M.Title||"")+'</p><div id="accAd"></div><div id="accWa"></div><p class="sv" style="margin-top:4px">Tu cesta, tus configuraciones y tu dirección están guardadas en tu cuenta</p><button class="lk" id="accOut">Cerrar sesión</button><a class="lk pv" href="'+esc(ROOT+"privacidad.html")+'">Privacidad</a>'
+  :'<div class="who">'+IC.user+"</div><h2>"+esc(M.Title||"Entrar")+'</h2><p>Entra y tu cesta, tus configuraciones y tu dirección quedan guardadas en tu cuenta</p><div id="gbtn"></div><a class="lk pv" href="'+esc(ROOT+"privacidad.html")+'">Privacidad</a>');
  v.hidden=false;if(!AC)gLoad();else{accAd();accWa.n=null;accWa()}}
 /* WhatsApp confirmado: el cliente no escribe su número; envía al WhatsApp del catálogo un mensaje ya escrito con un código y el
    servidor toma el número del propio mensaje. Mientras espera, la hoja pregunta cada pocos segundos si ya quedó. */
