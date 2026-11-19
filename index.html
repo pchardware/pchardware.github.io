@@ -124,8 +124,7 @@ img.bad{opacity:0}
 h2{font-size:17px;letter-spacing:-.01em;margin:26px 0 12px}
 .rel{display:flex;gap:12px;overflow-x:auto;padding-bottom:8px}
 .rel .card{flex:none;width:172px}
-/* UN MARCO (.wrap) para TODAS las vistas: ninguna tiene ancho propio ni se centra aparte. Lo que cambia con la pantalla es el
-   REPARTO: una columna en el teléfono; dos desde 900 px (.lay2 = principal + lateral fijo). Textos y campos nunca se estiran. */
+
 .lay2{display:grid;grid-template-columns:minmax(0,1fr);gap:14px}
 .lay2>*{min-width:0}
 .side>.box+*{margin-top:14px}
@@ -227,7 +226,7 @@ button.sv{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
 #acc .pv{display:block;width:max-content;margin:14px auto 0;font-size:13px;color:var(--mut)}
 #accWa .wt{margin:8px 0 0;text-align:center;font-size:13px}
 #vAcc{padding:14px 0 72px}
-/* cuenta: en el teléfono, el menú (?cuenta) o la sección (?cuenta=…); desde 900 px, menú lateral fijo + sección a la derecha */
+
 .alay[data-s=""] .amain,.alay:not([data-s=""]) .aside{display:none}
 @media(min-width:900px){.alay{display:grid;grid-template-columns:320px minmax(0,1fr);gap:32px;align-items:start}
  .alay[data-s] .aside,.alay[data-s] .amain{display:block}.aside{position:sticky;top:72px;max-height:calc(100vh - 84px);overflow:auto}.amain{max-width:680px}
@@ -408,11 +407,11 @@ var $=function(id){return document.getElementById(id)};
 var M={},all=[],bySlug={},cats=[],ready=false,listY=0,gal=null,waMsg="";
 var F={category:"",subcategory:"",feature:"",search:"",sort:"new"};
 var enc=encodeURIComponent;
-/* ── medición propia: contadores anónimos hacia el catálogo (M.Stats = a dónde; sin ella no se manda nada). No lleva nada del
-   visitante: «distintos» se calcula aquí con la fecha de la visita anterior guardada en este equipo. Con ?medir=no este equipo
-   deja de contar, con ?medir=equipo cuenta APARTE como del negocio (?medir=si vuelve a cliente); la app instalada también va aparte.
-   ORIGEN de la visita: marca del enlace (?de=revolico; se quita de la dirección para que no viaje al compartir), si no el sitio de
-   procedencia, «directo» o «app». CESTA: pasos contados una vez por visita (con artículos / los traía / la abrió / envió). Se manda en lotes y al salir; si falla, se pierde: nunca estorba a la página. ── */
+
+
+
+
+
 var TQ=[],TT=0,TS={},tOff=false,tNew=false,tLast="",tF={},tQ=0,tTeam=false,tDe="",tOrig="";
 try{var tU=new URLSearchParams(location.search),tm=tU.get("medir");tDe=tU.get("de")||"";if(tU.has("de")||tU.has("medir")){tU.delete("de");tU.delete("medir");tU=tU.toString();history.replaceState(null,"",location.pathname+(tU?"?"+tU:"")+location.hash)}}catch(e){}
 try{if(tm)localStorage.setItem("nomedir",tm=="no"?"1":tm=="equipo"?"2":"");var tn=localStorage.getItem("nomedir");tOff=tn=="1";tTeam=tn=="2"}catch(e){}
@@ -422,10 +421,10 @@ function tSend(){if(COMO){TQ=[];return}clearTimeout(TT);if(!ready||!TQ.length)re
  try{if(!(navigator.sendBeacon&&navigator.sendBeacon(u,b)))fetch(u,{method:"POST",body:b,mode:"no-cors",keepalive:true}).catch(function(){})}catch(e){}}
 document.addEventListener("visibilitychange",function(){if(document.visibilityState=="hidden")tSend()});
 window.addEventListener("pagehide",tSend);
-/* ── entrada con Google (M.Auth = {client, url}; sin ella no hay botón). La librería de Google se carga solo al abrir la hoja.
-   La sesión (un token del catálogo) se guarda en este equipo y viaja con los contadores: el uso se sabe por persona. ── */
+
+
 var AC=null;try{AC=JSON.parse(localStorage.getItem("acct")||"null")}catch(e){}
-/* VER COMO CLIENTE (T-114): ?como=<n> lo enciende para esta pestaña; AC0 = la sesión propia (su token autoriza; el nombre es el del cliente) */
+ 
 var COMO=null;try{COMO=JSON.parse(sessionStorage.getItem("como")||"null")}catch(e){}
 (function(){var q=new URLSearchParams(location.search),c=q.get("como");if(c==null)return;q.delete("como");
  if(/^\d+$/.test(c)){if(!COMO||COMO.id!=c)COMO={id:c,name:""};try{sessionStorage.setItem("como",JSON.stringify(COMO))}catch(e){}}
@@ -433,8 +432,8 @@ var COMO=null;try{COMO=JSON.parse(sessionStorage.getItem("como")||"null")}catch(
  history.replaceState(null,"",location.pathname+(q.toString()?"?"+q:"")+location.hash)})();
 var AC0=AC;if(COMO&&!AC0)COMO=null;if(COMO)AC={t:AC0.t,name:COMO.name||"Cliente",pic:""};
 function accFirst(){return String((AC&&AC.name)||"").trim().split(/\s+/)[0]||""}
-/* TRATO CERCANO (Leo 19/nov/2026: «que el usuario sienta su nombre más acogido; se ve bastante frío»): cada persona tiene su color
-   (sale de su nombre, siempre el mismo) y se la saluda según la hora de su teléfono. */
+
+
 var AC_TONES=["#c2410c","#0f766e","#7c3aed","#be185d","#1d4ed8","#15803d","#b45309","#0e7490"];
 function accTone(){var n=String((AC&&AC.name)||""),h=0;for(var i=0;i<n.length;i++)h=(h*31+n.charCodeAt(i))>>>0;return AC_TONES[h%AC_TONES.length]}
 function accHi(){var h=new Date().getHours();return h>=5&&h<12?"Buenos días":h>=12&&h<19?"Buenas tardes":"Buenas noches"}
@@ -443,10 +442,10 @@ function accBtn(){var b=$("accBtn");if(!M.Auth||!M.Auth.client){b.hidden=true;re
 function accOpen(){if(AC){$("acc").hidden=true;go("./?cuenta");return}var v=$("acc");
  v.firstElementChild.innerHTML='<button id="accX" aria-label="Cerrar">'+IC.x+'</button><div class="who">'+IC.user+"</div><h2>"+esc(M.Title||"Entrar")+'</h2><p>Entra y tu cesta, tus configuraciones y tu dirección quedan guardadas en tu cuenta</p><div id="gbtn"></div><a class="lk pv" href="'+esc(ROOT+"privacidad.html")+'">Privacidad</a>';
  v.hidden=false;gLoad()}
-/* CUENTA = una página con MENÚ (Leo 19/nov/2026: «necesita un menú para acceder a las distintas cosas que se vayan incorporando; un
-   diálogo con todo mezclado no»). ?cuenta = el menú: «Mi cuenta» (dirección, WhatsApp) y «Equipo» (las filas que entrega Nexo,
-   TX.menu() = [{t, s, h, i}]); cada cosa en su propia pantalla (?cuenta=direccion | whatsapp; las del equipo, ?uso=…). Algo nuevo de
-   la cuenta = una fila más del menú + su pantalla. El diálogo #acc queda solo para ENTRAR. */
+
+
+
+
 function accRow(h,i,t,sb,id,on){return'<a data-nav href="'+esc(h)+'"'+(id?' id="'+id+'"':"")+(on?' class="on"':"")+">"+(i?'<i class="ai">'+i+"</i>":"")+"<span><b>"+esc(t)+"</b>"+
  (sb!=null?"<small>"+esc(sb)+"</small>":"")+"</span>"+IC.r+"</a>"}
 function accSide(cur){var a=adGet(),tm=TX&&TX.menu?TX.menu():null,T0=M.Title||"";
@@ -459,8 +458,8 @@ function accSide(cur){var a=adGet(),tm=TX&&TX.menu?TX.menu():null,T0=M.Title||""
 function accWaSub(){if(COMO){var w=$("amWa");if(w)w.querySelector("small").textContent=(COMO.phones||[]).length?COMO.phones.map(function(p){return"+"+p}).join(", "):"Sin confirmar";return}if(!(M.Cell>0)||!$("amWa"))return;
  fetch(M.Auth.url+"/phone",{method:"POST",body:JSON.stringify({t:AC.t})}).then(function(x){return x.ok?x.json():null}).then(function(d){var e=$("amWa");if(!d||!d.phones||!e)return;
   if(!d.wa&&!d.phones.length){e.parentNode.removeChild(e);return}e.querySelector("small").textContent=d.phones.length?d.phones.map(function(p){return"+"+p}).join(", "):"Sin confirmar"}).catch(function(){})}
-/* sec = lo que pide la dirección ("" = el menú). En el teléfono se ve una cosa u otra; desde 900 px, las dos (sin sección = la
-   primera). keep = refresco por detrás: solo se repinta el menú, nunca un formulario a medio escribir. */
+
+
 function accView(sec,keep){var v=$("vAcc"),T0=M.Title||"",cur=sec=="compras"?"compras":sec=="whatsapp"&&M.Cell>0?"whatsapp":"direccion";
  document.title=(sec=="compras"?"Mis compras · ":sec=="direccion"?"Dirección · ":sec=="whatsapp"?"WhatsApp · ":"Cuenta · ")+T0;
  if(keep&&v.dataset.s===sec&&v.querySelector(".aside")){v.querySelector(".aside").innerHTML=accSide(cur);accWaSub();return}
@@ -471,19 +470,19 @@ function accView(sec,keep){var v=$("vAcc"),T0=M.Title||"",cur=sec=="compras"?"co
    '<h1 class="at">Dirección de entrega</h1><p class="ap">Para la entrega de tus pedidos</p><div class="apanel"><div id="accAd"></div></div>')+"</section></div>";
  if(cur=="whatsapp"){accWa.n=null;accWa()}else if(cur=="compras")accBuy();else accAd();
  accWaSub()}
-/* WhatsApp confirmado: el cliente no escribe su número; envía al WhatsApp del catálogo un mensaje ya escrito con un código y el
-   servidor toma el número del propio mensaje. Mientras espera, la hoja pregunta cada pocos segundos si ya quedó. */
-/* GUARDADO EN LA CUENTA: la cesta ("cart") y las configuraciones del armador ("pcs") siguen viviendo en este equipo; con sesión
-   además se suben y, al abrir en otro equipo o navegador, se bajan. SY recuerda por clave la versión del servidor que este equipo
-   ya tiene (r) y si hay cambios sin subir (d). Al ENTRAR con cosas ya aquí, se UNEN con las de la cuenta. */
+
+
+
+
+
 var SY=null,syT=0,syN=0,syK=["cart","pcs","addr"];
 function syGet(){if(!SY){try{SY=JSON.parse(localStorage.getItem("sy")||"null")}catch(e){}if(!SY||typeof SY!="object")SY={}}
  syK.forEach(function(k){if(!SY[k]||typeof SY[k]!="object")SY[k]={r:0,d:0}});return SY}
 function sySet(){try{localStorage.setItem("sy",JSON.stringify(SY))}catch(e){}}
 function syVal(k){return k=="cart"?getCart():k=="pcs"?pcLoad():adGet()}
-/* DIRECCIÓN de entrega ({p: provincia, m: municipio, d: dirección}) y ENTREGA: M.Ship = {geo: {provincia: [municipios]},
-   prov: {provincia: 1 normal | 2 a veces; la que falta = sin servicio}, zones: [{n, p}], free}, todo lo pone el catálogo. El
-   pedido lleva la dirección; con precio para su municipio o provincia en `zones`, la cesta suma el envío. */
+
+
+
 function adGet(){if(COMO)return COMO.addr||{};var o;try{o=JSON.parse(localStorage.getItem("addr")||"null")}catch(e){}return o&&typeof o=="object"?o:{}}
 function adSet(o){try{localStorage.setItem("addr",JSON.stringify(o))}catch(e){}syMark("addr")}
 function shZones(){return M.Ship&&Array.isArray(M.Ship.zones)?M.Ship.zones:[]}
@@ -491,9 +490,9 @@ function shOf(tot){var a=adGet(),z=shZones().filter(function(x){return x.n===a.m
  var p=+z.p||0;if(+M.Ship.free>0&&tot>=+M.Ship.free)p=0;return{n:z.n,p:p}}
 function shNote(p){if(!p||!M.Ship||!M.Ship.prov||!Object.keys(M.Ship.prov).length)return"";var v=M.Ship.prov[p];
  return v==1?"":v==2?"Entregas en "+p+": solo a veces, se confirma con el pedido":"Por ahora no hacemos entregas en "+p}
-/* MIS COMPRAS (T-114): lo que el cliente compró en este catálogo, reconocido por sus WhatsApp CONFIRMADOS. Solo lo que Nexo deja ver
-   a un cliente (sin hora, sin observaciones, recargos ni intermediarios; nombres de la ficha o limpios). ?como=<n> = el equipo lo ve
-   como lo vería ese cliente. Fotos: la de la ficha publicada o, si no, la miniatura que da Nexo para esa compra. */
+
+
+
 IC.bag='<svg viewBox="0 0 24 24"><path d="M6 8h12l-1 12H7z"/><path d="M9 8a3 3 0 0 1 6 0"/></svg>';
 var BUYM=["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],BUYT={};
 function buyDay(s){var p=String(s||"").split("-");return +p[2]+" de "+BUYM[+p[1]-1]+(+p[0]!=new Date().getFullYear()?" de "+p[0]:"")}
@@ -523,7 +522,7 @@ function accBuy(){var e=$("accBuy");if(!e||!AC||!M.Auth||!M.Auth.url)return;var 
   var h=d.as!==undefined?'<p class="bwho">Así lo ve '+esc(d.as||"el cliente")+(d.on?"":" · aún no está encendido para los clientes")+"</p>":d.on?"":'<p class="bwho">Solo lo ve el equipo: aún no está encendido para los clientes</p>';
   if(!d.events.length){
    e.innerHTML=h+'<div class="apanel bempty">'+(d.as===undefined&&!d.phones&&M.Cell>0?'<p>Confirma tu WhatsApp y aquí verás lo que has comprado.</p><a class="btn" data-nav href="./?cuenta=whatsapp">Confirmar mi WhatsApp</a>':
-    "<p>"+(d.as!==undefined?"Este cliente no tiene compras en este catálogo.":"Aún no vemos compras con tu WhatsApp. Si compraste con otro número, confírmalo también.")+"</p>")+"</div>";return}
+    "<p>"+(d.as!==undefined?"Este cliente no tiene compras.":"Aún no vemos compras con tu WhatsApp. Si compraste con otro número, confírmalo también.")+"</p>")+"</div>";return}
   var s=d.summary,mo=[],cur="";
   d.events.forEach(function(x){var m=BUYM[+x.day.slice(5,7)-1]+" "+x.day.slice(0,4);if(m!=cur){mo.push([m,[]]);cur=m}mo[mo.length-1][1].push(x)});
   e.innerHTML=h+'<div class="bsum"><div><b>'+s.buys+"</b><span>"+(s.buys==1?"compra":"compras")+"</span></div>"+(s.garantias?"<div><b>"+s.garantias+"</b><span>"+(s.garantias==1?"garantía":"garantías")+"</span></div>":"")+"</div>"+
@@ -544,7 +543,7 @@ function accAd(){if(COMO){var e0=$("accAd"),a0=COMO.addr||{};if(e0)e0.innerHTML=
  e.innerHTML=(P.length?'<label for="adP">Provincia</label><select id="adP">'+op(P,a.p)+'</select><p class="an" id="adN">'+esc(shNote(a.p))+
    '</p><label for="adM">Municipio</label><select id="adM">'+op(G[a.p]||[],a.m)+"</select>":"")+
   '<label for="adD">Dirección</label><textarea id="adD" maxlength="300" placeholder="Calle, número, entre calles">'+esc(a.d||"")+'</textarea><button class="btn" id="adOk" disabled>Guardar dirección</button>';
- /* nada se guarda hasta pulsar «Guardar dirección»; el botón se enciende solo cuando lo escrito difiere de lo guardado */
+  
  function cur(){var o={d:$("adD").value.trim()},p=$("adP"),m=$("adM");if(p&&p.value){o.p=p.value;if(m.value)o.m=m.value}return o}
  function dirty(){var o=cur(),g=adGet();$("adOk").disabled=(o.d||"")==(g.d||"")&&(o.p||"")==(g.p||"")&&(o.m||"")==(g.m||"")}
  e.onchange=function(ev){var p=$("adP");if(p&&ev.target===p){$("adM").innerHTML=op(G[p.value]||[],"");$("adN").textContent=shNote(p.value)}dirty()};
@@ -568,7 +567,7 @@ function syPull(fresh){if(!syOn())return;var S=syGet();if(fresh)syK.forEach(func
    if(l.d||(!l.r&&syHas(k))){syMerge(k,sv.v);l.d=1}else syLocal(k,sv.v);
    l.r=sv.r;ch=1});
   sySet();if(ch){cartCount();PCS=pcLoad();route(true)}syPush()}).catch(function(){})}
-/* invitación a entrar justo donde el cliente tiene algo que perder: en la cesta y en el configurador */
+ 
 function accNote(what){if(!M.Auth||!M.Auth.client)return"";
  return AC?'<p class="sv"><svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>Guardada en tu cuenta</p>':'<button class="sv" data-acc>'+IC.user+"Entra para guardar "+what+"</button>"}
 var waT=0;
@@ -590,28 +589,28 @@ function gCred(r){if(!r||!r.credential)return;
   if(!d||!d.t){toast("No se pudo entrar",3000);return}AC={t:d.t,name:d.name};try{localStorage.setItem("acct",JSON.stringify(AC))}catch(e){}
   $("acc").hidden=true;accBtn();T("auth","in");toast("Hola, "+d.name,2500);route(true);syPull(true);stkGet(1)}).catch(function(){toast("No se pudo entrar",3000)})}
 function accOut(){if(COMO){comoExit();return}T("auth","out");tSend();AC=null;STK=null;STKv={};TX=null;txL=0;try{localStorage.removeItem("acct");localStorage.removeItem("addr")}catch(e){}syGet().addr={r:0,d:0};sySet();try{google.accounts.id.disableAutoSelect()}catch(e){}$("acc").hidden=true;accBtn();route(true)}
-/* EQUIPO del negocio (Nexo lo reconoce por su Google o su WhatsApp confirmado): puede ver las existencias y la cesta no le deja
-   pedir más de las que hay. A un cliente normal el servidor no le da nada de esto. STK = {team, q: {artículo: unidades}} o null.
-   El número va OCULTO: solo se ve al pulsar «Existencias» (STKv = los artículos destapados en esta visita). */
+
+
+
 var STK=null,stkAt=0,STKv={},IC_BOX='<svg viewBox="0 0 24 24"><path d="M3.5 7.5L12 3.5l8.5 4v9L12 20.5l-8.5-4z"/><path d="M3.5 7.5L12 11.5l8.5-4M12 11.5v9"/></svg>';
 function stkGet(force){if(COMO){comoBar();comoGet();return}if(!AC||!AC.t||!M.Auth||!M.Auth.url)return;var n=Date.now();if(!force&&n-stkAt<60000)return;stkAt=n;
  fetch(M.Auth.url+"/stock",{method:"POST",body:JSON.stringify({t:AC.t})}).then(function(x){return x.ok?x.json():null}).then(function(d){
   if(!d)return;if(d.t&&AC){AC.t=d.t;try{localStorage.setItem("acct",JSON.stringify(AC))}catch(e){}}
   if(d.x)txGet();else if(!TX&&/[?&]uso=/.test(location.search))go("./",1);var o=JSON.stringify(STK);STK=d.team?d:null;if(JSON.stringify(STK)!=o)route(true)}).catch(function(){})}
-/* EQUIPO con permiso: Nexo le entrega aparte lo suyo (no va en el sitio). TX = {view, f, q, acc} o null */
+ 
 var TX=null,txL=0;
 function txGet(){if(COMO)return;if(txL||!AC||!AC.t||!M.Auth||!M.Auth.url)return;txL=1;
  fetch(M.Auth.url+"/x",{method:"POST",body:JSON.stringify({t:AC.t})}).then(function(x){return x.ok?x.text():null}).then(function(c){
   if(!c){txL=0;return}TX=new Function("X",c)({M:M,ac:function(){return AC},$:$,esc:esc,go:go,url:M.Auth.url,buy:1,como:1});route(true)}).catch(function(){txL=0})}
 function qMax(s){return STK&&STK.q&&STK.q[s]!=null?STK.q[s]:99}
-/* sm = en la fila de la cesta (solo icono mientras está oculto); q = unidades pedidas: si pasan de las que hay, se ve solo y en rojo */
+ 
 function stkBtn(s,q,sm){if(!STK||!STK.q||STK.q[s]==null)return"";var n=STK.q[s],no=q>n,on=no||STKv[s];
  return'<button type="button" class="stk'+(on?" on":"")+(no?" no":"")+'" data-stk="'+esc(s)+'" data-sq="'+(q||0)+'"'+(sm?' data-sm="1"':"")+
   ' aria-label="Existencias">'+IC_BOX+(sm&&!on?"":"Existencias")+(on?" <b>"+n+"</b>":"")+"</button>"}
 document.addEventListener("click",function(e){var t=e.target.closest("[data-stk]");if(!t)return;e.preventDefault();e.stopPropagation();
  var s=t.getAttribute("data-stk");STKv[s]=!STKv[s];t.outerHTML=stkBtn(s,+t.getAttribute("data-sq")||0,t.hasAttribute("data-sm"))},true);
 function ymd(d){return d.getFullYear()+"-"+("0"+(d.getMonth()+1)).slice(-2)+"-"+("0"+d.getDate()).slice(-2)}
-/* visita = una por sesión del navegador; d/w/m/n = primera del día, de la semana (desde el domingo), del mes, primera vez */
+ 
 function tVisit(){var d=new Date(),day=ymd(d),ss=null,last="";
  try{ss=sessionStorage.getItem("tv");sessionStorage.setItem("tv","1")}catch(e){}if(ss)return;
  try{last=localStorage.getItem("tl")||"";localStorage.setItem("tl",day)}catch(e){}
@@ -621,22 +620,22 @@ function tVisit(){var d=new Date(),day=ymd(d),ss=null,last="";
  tOrig=tSrc();try{sessionStorage.setItem("ts",tOrig)}catch(e){}T("src",tOrig);
  var sg=cSig(),co="",cl="";try{co=localStorage.getItem("co")||"";cl=localStorage.getItem("cl")||""}catch(e){}
  if(sg&&sg!=co){tCk("con");tCk("trae");if(sg!=cl){try{localStorage.setItem("cl",sg)}catch(e){}getCart().items.forEach(function(i){T("left",i.productId)})}}}
-/* origen: la marca del enlace manda; si no, el sitio desde el que llegó (solo el nombre del sitio, nunca la página) */
+ 
 function tSrc(){var d=tDe.toLowerCase().replace(/[^a-z0-9_-]/g,"").slice(0,24),h="",i,K=[["facebook","facebook"],["fb.","facebook"],["instagram","instagram"],["revolico","revolico"],["whatsapp","whatsapp"],["wa.me","whatsapp"],["telegram","telegram"],["t.me","telegram"],["google","google"],["bing","bing"],["youtube","youtube"],["tiktok","tiktok"]];
  if(d)return d;if(standalone)return"app";try{h=new URL(document.referrer).hostname.toLowerCase().replace(/^www\./,"")}catch(e){}
  if(!h||h==location.hostname)return"directo";for(i=0;i<K.length;i++)if(h.indexOf(K[i][0])>=0)return K[i][1];return("web:"+h).slice(0,60)}
-/* pasos de la cesta: cada uno cuenta una vez por visita. Una cesta igual a la del último pedido enviado ya no cuenta como pendiente */
+ 
 function cSig(){return getCart().items.map(function(i){return i.productId+"*"+i.qty}).sort().join(",")}
 function tCk(s){var f="";try{f=sessionStorage.getItem("ck")||"";if(f.indexOf(s+",")>=0)return;sessionStorage.setItem("ck",f+s+",")}catch(e){}T("ck",s,true)}
-/* pantalla vista: cuenta solo cuando cambia (la página se repinta sola muchas veces); la primera de la sesión es la entrada */
+ 
 function tView(n,sig){if(tLast==n+"|"+sig)return false;tLast=n+"|"+sig;if(tNew){tNew=false;T("land",n)}T("pv",n);return true}
-/* La ficha se muestra con la dirección a/<slug>.html: es la página que lleva la tarjeta (foto, nombre, precio) al compartir,
-   así el enlace copiado de la barra también la muestra. <base> mantiene todas las rutas relativas a la raíz del sitio. */
+
+
 var ROOT=location.href.split(/[?#]/)[0].replace(/a\/[^\/]+\.html$/,"").replace(/index\.html$/,"");
 (function(){var b=document.createElement("base");b.href=ROOT;document.head.appendChild(b)})();
 function pUrl(slug){return"a/"+enc(slug)+".html"}
 
-/* ── utilidades ── */
+ 
 function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]})}
 function money(n){return(n||0).toLocaleString("en-US",{style:"currency",currency:"USD",minimumFractionDigits:0})}
 function usd(n){return money(n)+'<small class="cur">USD</small>'}
@@ -649,7 +648,7 @@ function words(p){return(p.Features||[]).concat(p.Label.split(" ")).reduce(funct
 function thumb(p){return"images/products/"+enc(p.slug)+"-0.webp?v="+p.v}
 function toast(t,ms){var e=$("toast");e.textContent=t;e.hidden=false;clearTimeout(toast.t);toast.t=setTimeout(function(){e.hidden=true},ms||1600)}
 
-/* avisos Not1/Not2: mini-lenguaje heredado  {status}  {discount}  {discount?'a':'b'} */
+ 
 function notEval(x,p){
  var v={discount:p.Discount>0?"- "+money(p.Discount):"",status:p.Def===true?M.ProductDefStatus:M.ProductStatus,category:norm(p.Category),subcategory:norm(p.SubCategory)},i=0;
  x=x.replace(/'([^']*)'/g,function(m,s){i++;v["["+i+"]"]=s;return"["+i+"]"});
@@ -659,7 +658,7 @@ function notEval(x,p){
 function note(t,p){if(!t)return"";return t.replace(/{([^}]*)}/g,function(m,x){var r=notEval(x,p);return r==null?"":r})}
 function badges(p){var a=note(M.Not1,p),b=note(M.Not2,p);return(a?'<span class="b1">'+esc(a)+"</span>":"")+(b?'<span class="b2">'+esc(b)+"</span>":"")}
 
-/* ── red: reintentos, la conexión es lenta e inestable ── */
+ 
 function getJSON(u,tries){
  tries=tries||4;var i=0;
  function once(){
@@ -667,14 +666,14 @@ function getJSON(u,tries){
   return fetch(u,c?{signal:c.signal}:{}).then(function(r){clearTimeout(t);if(r.status==404){var e=new Error("404");e.gone=true;throw e}if(!r.ok)throw new Error(r.status);return r.json()})
    .catch(function(e){clearTimeout(t);if(e.gone||++i>=tries)throw e;return new Promise(function(ok){setTimeout(ok,1500*i)}).then(once)})}
  return once()}
-/* foto que falla: 3 reintentos espaciados; después queda oculta y se reintenta al volver la conexión */
+ 
 document.addEventListener("error",function(e){var g=e.target;if(!g||g.tagName!="IMG"||!g.getAttribute("src"))return;
  var n=(g._n||0)+1;g._n=n;if(n>3){g.classList.add("bad");return}
  setTimeout(function(){if(g.isConnected)g.src=g.getAttribute("src")},2000*n)},true);
 document.addEventListener("load",function(e){var g=e.target;if(g&&g.tagName=="IMG"){g._n=0;g.classList.remove("bad")}},true);
 window.addEventListener("online",function(){[].forEach.call(document.querySelectorAll("img.bad"),function(g){g._n=0;g.src=g.getAttribute("src")});if(!ready)load()});
 
-/* ── cesta (mismo formato que la plantilla anterior: no se pierde la de nadie) ── */
+ 
 function getCart(){var c;try{c=JSON.parse(localStorage.getItem("cart")||"null")}catch(e){}
  if(!c||!Array.isArray(c.items))c={items:[]};
  c.items=c.items.filter(function(i){return typeof i.productId=="string"&&i.qty!=null});return c}
@@ -684,7 +683,7 @@ function cartCount(){var n=getCart().items.reduce(function(a,i){return a+(parseI
 function setQty(s,q){var mx=qMax(s);if(q>mx){q=mx;toast("No hay más unidades",1800)}var c=getCart(),i=c.items.findIndex(function(x){return x.productId===s});
  if(q<=0){if(i>=0)c.items.splice(i,1)}else if(i>=0)c.items[i].qty=String(q);else c.items.push({productId:s,qty:String(q)});setCart(c);if(q>0)tCk("con")}
 
-/* ── datos ── */
+ 
 function load(quiet){
  if(!quiet&&!ready){$("state").hidden=true;$("grid").innerHTML=new Array(7).join('<div class="card sk"></div>')}
  return Promise.all([getJSON("data/manifest.json"),getJSON("data/products-index.json")]).then(function(r){
@@ -698,14 +697,14 @@ function load(quiet){
  }).catch(function(){if(ready)return;
   $("grid").innerHTML="";$("state").hidden=false;$("state").innerHTML='No se pudo cargar el catálogo.<br>Revisa la conexión.<br><br><button class="btn" id="retry">Reintentar</button>';
   $("retry").onclick=function(){load()}})}
-/* garantía, envío y pago: los textos del propio catálogo, con su icono */
+ 
 function trust(full){var a=[];
  if(M.Warranty)a.push([IC.shield,"Garantía",full?M.Warranty:M.Warranty.split(/\r?\n/)[0]]);
  if(M.CartShipping)a.push([IC.truck,"Envío",M.CartShipping]);
  if(M.CartPayMethod)a.push([IC.cash,"Pago",full?M.CartPayMethod:M.CartPayMethod.replace(/\s*\n\s*/g," · ")]);
  return a.map(function(x){return"<div>"+x[0]+"<span><b>"+x[1]+"</b><span>"+esc(x[2])+"</span></span></div>"}).join("")}
-/* toque de temporada: lo fija el catálogo (Season = {key, text, from, to}); fuera de sus fechas el sitio queda normal.
-   c = color de la franja superior, i/ic = icono junto al nombre y su color, t = saludo si no hay frase propia */
+
+
 var SEASONS={navidad:{c:"#8c1d18",i:"tree",ic:"#7ad19a",t:"Felices fiestas"},finanio:{c:"#1d3a6e",i:"star",ic:"#f5c84c",t:"Feliz año nuevo"},
  enamorados:{c:"#9d174d",i:"heart",ic:"#f9a8c4",t:"Feliz Día de los Enamorados"},madres:{c:"#7b2d8e",i:"heart",ic:"#e9b8f5",t:"Feliz Día de las Madres"}};
 function season(){var s=M.Season,d=new Date(),t=d.getFullYear()+"-"+("0"+(d.getMonth()+1)).slice(-2)+"-"+("0"+d.getDate()).slice(-2);
@@ -727,7 +726,7 @@ function chrome(){
  $("fCopy").textContent="© "+new Date().getFullYear()+" "+(M.Title||"");
  $("wa").hidden=!(M.Cell>0);cartCount()}
 
-/* ── rutas: la dirección es el estado (?p= artículo, ?cart=1 cesta, filtros como antes) ── */
+ 
 function qs(){var o={},k;if(F.category)o.category=F.category;if(F.subcategory)o.subcategory=F.subcategory;if(F.feature)o.feature=F.feature;if(F.search)o.search=F.search;if(F.sort!="new")o.sort=F.sort;
  var s=[];for(k in o)s.push(k+"="+enc(o[k]));return s.length?"./?"+s.join("&"):"./"}
 function go(url,rep){history[rep?"replaceState":"pushState"](null,"",new URL(url,ROOT).href);route()}
@@ -758,25 +757,25 @@ function route(keep){
  $("sort").value=F.sort;list();
  if(!wasList&&!keep)window.scrollTo(0,listY)}
 
-/* ── listado ── */
+ 
 function chip(label,on,attr,val){return'<button class="chip'+(on?" on":"")+'" data-'+attr+'="'+esc(val)+'">'+esc(label)+"</button>"}
 function card(p){var on=inCart(p.slug);
  return'<article class="card"><a class="pic" data-nav href="'+pUrl(p.slug)+'"><img loading="lazy" decoding="async" width="400" height="300" alt="" src="'+thumb(p)+'">'+badges(p)+"</a>"+
   '<div class="info"><a class="name" data-nav href="'+pUrl(p.slug)+'">'+esc(p.Label)+'</a><span class="feat">'+esc((p.Features||[]).join(", "))+"</span>"+
   '<div class="row"><span class="price">'+usd(p.Price)+'</span><button class="add'+(on?" on":"")+'" data-add="'+esc(p.slug)+'" aria-label="Cesta">'+(on?IC.ok:IC.plus)+"</button></div></div></article>"}
-/* ORDEN de subcategorías: el que fija el catálogo (SubOrder = {categoría: [subcategoría…]}); las que no estén ahí van después en
-   orden alfabético y «Otros» siempre al final (orden genérico por defecto). */
+
+
 function subOrd(cat,list){var o=((M.SubOrder||{})[cat]||[]).map(norm);
  function k(s){var n=norm(s),i=o.indexOf(n);return[n=="otros"?2:i<0?1:0,i<0?0:i,n]}
  return list.slice().sort(function(a,b){var x=k(a),y=k(b);return x[0]-y[0]||x[1]-y[1]||(x[2]<y[2]?-1:x[2]>y[2]?1:0)})}
-/* foto de un tipo en la portada: compuesta («una delante, dos detrás»), la de la ficha elegida, o la automática (más nuevo o más caro) */
+ 
 function tileImg(cat,sub){var T=M.Tiles||{},g=function(o){return(o&&o[cat]||{})[sub||""]};
  var im=g(T.img);if(im)return im;
  var k=g(T.pick);if(k&&bySlug[k])return thumb(bySlug[k]);
  var byP=T.auto=="price";
  return thumb(all.filter(function(p){return p.Category===cat&&p.SubCategory===sub}).sort(function(a,b){return byP?b.Price-a.Price:b.d-a.d})[0])}
-/* ── PORTADA (bloques sobre el listado «Todos» sin filtros): la configura el catálogo (manifest Home.blocks, en orden). Todo sale de
-   los datos que ya se bajaron: sin peticiones de más. Con un filtro o una búsqueda desaparece y queda el listado de siempre. ── */
+
+
 var HOME={
  builders:function(b){if(!bList().length)return"";
   return bPromo(b.title,true)},
@@ -789,7 +788,7 @@ var HOME={
   return h?"<section><h2>"+esc(b.title||"Explora por categoría")+"</h2>"+h+"</section>":""},
  offers:function(b){var r=all.filter(function(p){return p.Discount>0}).sort(function(a,b){return b.d-a.d}).slice(0,16);
   return r.length?"<section><h2>"+esc(b.title||"Ofertas")+'</h2><div class="hrow">'+r.map(card).join("")+"</div></section>":""},
- /* b.days = plazo: solo las fichas creadas en los últimos N días; si no entró nada en ese plazo el bloque no sale (sin plazo = las 12 más nuevas) */
+  
  "new":function(b){var t=b.days>0?Date.now()-b.days*864e5:0;
   var r=all.filter(function(p){return p.d>=t}).sort(function(a,b){return b.d-a.d}).slice(0,12);
   return r.length?"<section><h2>"+esc(b.title||"Novedades")+'</h2><div class="hrow">'+r.map(card).join("")+"</div></section>":""},
@@ -798,7 +797,7 @@ var HOME={
 function home(on){var h="",ks=[];if(on&&M.Home&&M.Home.blocks)M.Home.blocks.forEach(function(b){var x=HOME[b.k]?HOME[b.k](b):"";if(x){h+=x;ks.push(b.k)}});
  $("home").innerHTML=h;$("home").hidden=!h;$("allh").hidden=!h;
  [].forEach.call($("home").children,function(el,i){el.setAttribute("data-hb",ks[i]||"")});return!!h}
-/* pestañas: fuera del listado, también visibles en el configurador (que es una pestaña más y se marca activa) */
+ 
 function tabs(arm){var h=chip("Todos",!arm&&!F.category,"cat","");
  cats.forEach(function(c){h+=chip(c.name,!arm&&norm(c.name)==F.category,"cat",norm(c.name))});
  if(bList().length)h+='<a class="chip bt'+(arm?" on":"")+'" data-nav href="./?armar=">'+bIcon()+esc((M.Builders||{}).tab||bSec().t)+"</a>";var c=$("cats");c.innerHTML=h;
@@ -813,7 +812,7 @@ function list(){
  Object.keys(subs).forEach(function(x){if(sl.indexOf(x)<0)sl.push(x)});
  $("subs").innerHTML=sl.map(function(s){return chip(s,norm(s)==F.subcategory,"sub",norm(s))}).join("");
  var pool=scope.filter(function(p){return!F.subcategory||norm(p.SubCategory)==F.subcategory});
- /* palabras clave: las más frecuentes entre el 5 % y el 70 % de los artículos del filtro */
+  
  var fr={},lab={};pool.forEach(function(p){var seen={};p.w.forEach(function(w,i){var k=p.f[i];if(!k||seen[k])return;seen[k]=1;fr[k]=(fr[k]||0)+1;lab[k]=w})});
  var mn=Math.ceil(pool.length*.05),mx=Math.floor(pool.length*.7);
  var kws=Object.keys(fr).filter(function(k){return fr[k]>=mn&&fr[k]<=mx}).sort(function(a,b){return fr[b]-fr[a]}).slice(0,15);
@@ -826,10 +825,10 @@ function list(){
  $("grid").innerHTML=(!hm&&!F.category&&!F.feature&&!F.search&&res.length&&bList().length?bPromo():"")+res.map(card).join("");
  if(TX)TX.q(F.search,$("qX"));else $("qX").hidden=true;
  $("state").hidden=res.length>0;if(!res.length)$("state").textContent="No hay artículos con ese filtro.";
- /* búsqueda: se anota cuando deja de escribir (no cada letra); aparte las que no encuentran nada */
+  
  clearTimeout(tQ);if(F.search){var sq=F.search.toLowerCase().slice(0,40),z=!res.length;tQ=setTimeout(function(){T("q",sq,true);if(z)T("q0",sq,true)},2500)}}
 
-/* ── artículo ── */
+ 
 function product(slug){
  var p=bySlug[slug],v=$("vProd");
  if(!p){v.innerHTML='<div class="msg">Este artículo ya no está disponible.<br><br><a class="btn" data-nav href="./">Ver el catálogo</a></div>';return}
@@ -861,7 +860,7 @@ function showImg(){if(!gal)return;var n=gal.imgs.length,g=$("gImg");if(!g)return
  $("gPr").hidden=$("gNx").hidden=$("gCnt").hidden=n<2;$("gCnt").textContent=(gal.i+1)+" / "+n}
 function step(d){if(!gal)return;var n=gal.imgs.length;gal.i=(gal.i+d+n)%n;$("gal").style.backgroundImage="none";showImg();if(!$("zoom").hidden)$("zoom").firstChild.src=gal.imgs[gal.i]}
 
-/* ── cesta ── */
+ 
 function cartView(){
  var c=getCart(),v=$("vCart"),keep=c.items.filter(function(i){return bySlug[i.productId]});
  if(keep.length!=c.items.length){c.items=keep;setCart(c)}
@@ -882,9 +881,9 @@ function cartView(){
  h+='<div class="tot"><span>Total</span><span>'+usd(tot+(sh?sh.p:0))+"</span></div></div>"+(tr?'<div class="box trust">'+tr+"</div>":"")+
   '<div class="acts col"><button class="btn wa" id="order">'+IC.wa+'Enviar el pedido por WhatsApp</button><button class="btn alt" id="empty">Vaciar la cesta</button>'+accNote("tu cesta")+"</div></div></div></div>";
  v.innerHTML=h}
-/* restricciones de VENTA en la cesta: las dependencias marcadas «sale» (data/builder.json) valen también fuera del armador.
-   Un artículo que cumple `when` solo se vende junto con uno compatible de cada componente destino, y como mucho `max_qty`
-   unidades por cada uno de esos acompañantes. Artículo sin datos = no se avisa. Devuelve {slug: [avisos]}. */
+
+
+
 function cRules(items){var out={},I={},L=[],D=[],seen={};if(!BL)return out;
  BL.forEach(function(b){var k;for(k in b.items)if(!I[k])I[k]=b.items[k];
   b.links.forEach(function(l){var s=JSON.stringify(l);if(!seen[s]){seen[s]=1;L.push(l)}});
@@ -900,7 +899,7 @@ function cRules(items){var out={},I={},L=[],D=[],seen={};if(!BL)return out;
    return c.it.t==w.type&&vs.some(function(y){return y!=null&&ok.indexOf(String(y))>=0})});
   if(!mine.length)return;
   var names=r.g.map(function(g){return g.n}).join(" y ");
-  /* acompañantes de m por componente: sirven con m y, entre sí, con alguno de cada otro componente (juego completo) */
+   
   function sets(m){var raw=r.g.map(function(g){return cart.filter(function(c){return g.t.indexOf(c.it.t)>=0&&fits(m.it,c.it)})});
    return{raw:raw,ok:raw.map(function(l,i){return l.filter(function(c){return raw.every(function(o,j){return j==i||o.some(function(x){return fits(c.it,x.it)})})})})}}
   var used=r.g.map(function(){return{}});
@@ -921,17 +920,17 @@ function order(){
  var sh=shOf(tot),ad=adGet();if(sh){t+="\nEnvío ("+sh.n+"): "+(sh.p?"$"+sh.p:"gratis");tot+=sh.p}
  t+="\nTotal: $"+tot+" USD";if(AC&&(ad.p||ad.d))t+="\n\nEntrega: "+[ad.p,ad.m,ad.d].filter(Boolean).join(" · ");window.open(waUrl(t),"_blank")}
 
-/* ── armador: el visitante dice para qué es y cuánto quiere gastar y recibe una selección ya compatible; puede cambiar cada
-   componente viendo solo lo que sirve con el resto. Todo sale de data/builder.json (lo calcula el catálogo al generarse):
-   componentes, artículos con sus datos de compatibilidad, reglas y las selecciones recomendadas por uso. ── */
+
+
+
 var BL=null,BD=null,BT=0,bY=0,PCS=pcLoad(),PC={u:"",n:0,p:{},q:{}},PCold=null,bFx={};
 function pcLoad(){var o;try{o=JSON.parse(localStorage.getItem("pcs")||"null")}catch(e){}return o&&typeof o=="object"?o:{}}
 function pcSave(){if(BD)PCS[BD.k]=PC;try{localStorage.setItem("pcs",JSON.stringify(PCS))}catch(e){}syMark("pcs")}
 function bHome(){return"./?armar="+enc(BD.k)}
-/* la sección: armadores anunciados en el manifest y su título/intro (los pone el catálogo; con uno solo, los de ese armador) */
-/* icono de la sección (lo elige el catálogo: Builders.icon); en el MENÚ va resaltada (icono y texto en el color de acento) */
+ 
+ 
 var BI={
- /* plan = «tools» de Tabler Icons (MIT): lápiz y regla, diseñar/planear antes de armar */
+  
  plan:'<path d="M3 21h4l13-13a1.5 1.5 0 0 0-4-4l-13 13v4"/><path d="M14.5 5.5l4 4"/><path d="M12 8l-5-5-4 4 5 5"/><path d="M7 8l-1.5 1.5"/><path d="M16 12l5 5-4 4-5-5"/><path d="M16 17l-1.5 1.5"/>',
  case3d:'<path d="M3.5 4.5L9 3v18l-5.5-1.5z"/><path d="M9 3l11.5 1.8v14.4L9 21"/><ellipse cx="14.8" cy="7.6" rx="2.6" ry="2.3"/><ellipse cx="14.8" cy="12" rx="2.6" ry="2.3"/><ellipse cx="14.8" cy="16.4" rx="2.6" ry="2.3"/>',
  casedoor:'<rect x="8" y="2.5" width="12.5" height="19" rx="1.8"/><path d="M8 3.5L3.5 5.5v13L8 20.5"/><circle cx="14.25" cy="7.5" r="2.1"/><circle cx="14.25" cy="12" r="2.1"/><circle cx="14.25" cy="16.5" r="2.1"/>',
@@ -956,7 +955,7 @@ function bPromo(t,big){return'<a class="bpromo'+(big?" big":"")+'" data-nav href
 function bList(){var b=M.Builders;return b&&b.list?b.list:[]}
 function bSec(){var b=M.Builders||{},l=bList(),one=l.length==1?l[0]:null;
  return{t:b.title||(one&&one.title)||"Armar",i:b.intro||(one&&one.intro)||""}}
-/* armador por la dirección; uno solo = directo; si no, null (se elige) */
+ 
 function bSel(k){var b=BL.filter(function(x){return x.k==k})[0]||(BL.length==1?BL[0]:null);if(b!==BD){BD=b;PCold=null;bFx={};
  if(b){var o=PCS[b.k];PC=o&&o.p?o:{u:"",n:0,p:{},q:{}};if(!PC.q)PC.q={};bClean()}}return b}
 function bLoad(){if(BT==1)return;BT=1;
@@ -965,19 +964,19 @@ function bLoad(){if(BT==1)return;BT=1;
 function bOk(k){return!!(BD.items[k]&&bySlug[k])}
 function bClean(){var k;for(k in PC.p)if(!bOk(PC.p[k])||BD.items[PC.p[k]].s!=k)delete PC.p[k];for(k in PC.q)if(!PC.p[k]||PC.q[k]>bMax(+k,PC.p[k]))delete PC.q[k];if(PC.u&&PC.u!=FREE&&!bUse())PC.u=""}
 var FREE="__libre";
-/* CANTIDAD por componente (la estructura dice cuántas admite; x=0 = sin tope → 8): unidades elegidas y su máximo para un artículo,
-   recortado por las dependencias con tope (p. ej. «de este tipo, solo 1») */
+
+
 function bQ(i){return PC.q&&PC.q[i]||1}
 function bMax(si,k){var x=BD.slots[si].x,m=x==null?1:x||8,it=BD.items[k];if(!it)return 1;
  BD.deps.forEach(function(d){var w=d.when,ok=(w["in"]||[]).map(String);if(!d.max_qty||w.type!=it.t)return;
   var v=(it.dv||{})[w.field],vs=Array.isArray(v)?v:[v];if(vs.some(function(y){return y!=null&&ok.indexOf(String(y))>=0}))m=Math.min(m,+d.max_qty)});return m}
 function bUse(){return BD.uses.filter(function(u){return u.k==PC.u})[0]}
-/* selecciones recomendadas de un uso: solo las que siguen enteras en el catálogo, con el precio de hoy */
+ 
 function bBuilds(u){return u.b.filter(function(b){return b.i.every(function(x){return bOk(x[0])})})
  .map(function(b){return{i:b.i,p:b.i.reduce(function(a,x){return a+bySlug[x[0]].Price*(x[1]||1)},0)}}).sort(function(a,b){return a.p-b.p})}
 function bApply(u,n){var bs=bBuilds(u);if(!bs.length)return;n=Math.max(0,Math.min(bs.length-1,n));
  PC={u:u.k,n:n,p:{},q:{}};bs[n].i.forEach(function(x){var si=BD.items[x[0]].s;PC.p[si]=x[0];if(x[1]>1)PC.q[si]=x[1]});pcSave()}
-/* compatibilidad: mismo criterio que el generador del catálogo (dato desconocido = no se puede negar) */
+ 
 function bAx(it,k,q){q=q||1;if(k=="__qty")return q;var v=it.ax[k];if(v==null)return null;return typeof v=="number"&&/\*__qty$/.test(k)?v*q:v}
 function bLink(va,vb,ma,mb){
  if(va==null&&ma["default"]!=null)va=ma["default"];if(vb==null&&mb["default"]!=null)vb=mb["default"];
@@ -991,14 +990,14 @@ function bLink(va,vb,ma,mb){
 function bPair(a,b,qa,qb){var x=BD.items[a],y=BD.items[b],i,l;
  for(i=0;i<BD.links.length;i++){l=BD.links[i];if(l[0]==x.t&&l[2]==y.t&&!bLink(bAx(x,l[1],qa),bAx(y,l[3],qb),l[4],l[5]))return false}return true}
 function bBad(k,si,q){var out=[],j;if(q==null)q=bQ(si);for(j in PC.p)if(j!=si&&!bPair(k,PC.p[j],q,bQ(j)))out.push(+j);return out}
-/* un artículo elegido puede hacer NECESARIO un componente opcional: {componente: artículo que lo exige} */
+ 
 function bNeed(){var need={},k;for(k in PC.p)(function(k){var it=BD.items[PC.p[k]];
  BD.deps.forEach(function(d){var w=d.when,ok=(w["in"]||[]).map(String);if(w.type!=it.t||!d.targets)return;
   var v=(it.dv||{})[w.field],vs=Array.isArray(v)?v:[v];
   if(!vs.some(function(x){return x!=null&&ok.indexOf(String(x))>=0}))return;
   BD.slots.forEach(function(s,j){if(j!=k&&s.types.some(function(t){return d.targets.indexOf(t)>=0}))need[j]=PC.p[k]})})})(k);return need}
-/* al elegir algo que no sirve con otros componentes, esos se cambian solos por el compatible de precio más parecido
-   (si arrastra a otro, también); lo que no tenga arreglo queda marcado en rojo. Devuelve los componentes cambiados. */
+
+
 function bFix(si){var q=bBad(PC.p[si],si),lock={},done=[],g=0;lock[si]=1;
  while(q.length&&g++<20){var j=q.shift();if(lock[j])continue;
   var old=bySlug[PC.p[j]].Price,best=null,bd=1e9,loose=null,ld=1e9;
@@ -1050,7 +1049,7 @@ function bView(){
   '<input id="bRange" type="range" min="0" max="'+(bs.length-1)+'" step="1" value="'+n+'" aria-label="Presupuesto"><div class="bends"><span>'+money(bs[0].p)+"</span><span>"+money(bs[bs.length-1].p)+"</span></div>";
  h+='</div></div><div class="bmain"><div class="sec bsec">'+(bs.length?"3 · Revisa y cambia lo que quieras":PC.u==FREE?"2 · Elige cada componente":"O elige tú cada componente")+'</div><div id="bRows"></div></div></div></div>';
  v.innerHTML=h;bPaint()}
-/* lo que cambia al mover el presupuesto (sin rehacer el control que se está arrastrando) */
+ 
 function bPaint(){var use=bUse(),bs=use?bBuilds(use):[],n=Math.min(PC.n||0,bs.length-1);
  if(bs.length&&$("bPrice")){$("bPrice").innerHTML=usd(bs[n].p);$("bLess").disabled=n<=0;$("bMore").disabled=n>=bs.length-1;$("bRange").value=n}
  if($("bRows"))$("bRows").innerHTML=bRows()}
@@ -1071,7 +1070,7 @@ function bText(){var t="Hola, armé esta selección en tu sitio web:\n----------
  BD.slots.forEach(function(s,i){var p=PC.p[i]&&bySlug[PC.p[i]];if(p){var q=bQ(i);t+="- "+s.n+": "+(q>1?q+" × ":"")+p.Label+" ($"+p.Price*q+")\n";tot+=p.Price*q}});
  return t+"\nTotal: $"+tot+" USD\n¿Me la pueden revisar?"}
 
-/* ── eventos ── */
+ 
 document.addEventListener("click",function(e){
  var t=e.target.closest("[data-nav],[data-cat],[data-sub],[data-kw],[data-add],[data-q],[data-cq],[data-rm],[data-wa],#wa,#pAdd,#pShare,#inst,#order,#empty,[data-bu],[data-bn],[data-bs],[data-bp],[data-bx],[data-bq],#bCart,#bWa,#bShare,#bReset,#bRetry,#gImg,#gPr,#gNx,#cartBtn,#top,#zoom,#accBtn,#accX,#accOut,#accWaGo,[data-prm],[data-acc],#acc");
  if(!t)return;var d=t.dataset,s;
@@ -1139,12 +1138,12 @@ document.addEventListener("touchend",function(e){if(tx==null)return;var dx=e.cha
 window.addEventListener("popstate",function(){$("zoom").hidden=true;route()});
 window.addEventListener("storage",function(e){if(e.key=="cart"&&ready){cartCount();route(true)}});
 window.addEventListener("scroll",function(){$("top").hidden=window.scrollY<600},{passive:true});
-/* instalable: el botón aparece solo cuando el navegador permite instalar DIRECTO (un toque y confirmar). Donde no se puede
-   (iPhone, o si ya está instalada) no se muestra: nada de mandar al visitante a buscar menús (Leo 17/nov/2026). */
+
+
 var touched=false;["pointerdown","keydown","touchstart"].forEach(function(n){window.addEventListener(n,function(){touched=true},{passive:true,once:true})});
-/* un solo botón en la cabecera: «Instalar app» cuando el navegador permite instalar directo, o «Abrir app» cuando ya está
-   instalada y se entró por el navegador (solo Android: es donde el navegador lo dice, `getInstalledRelatedApps`, y donde un
-   enlace intent:// puede pasar a la app; en computadora Chrome ya ofrece «Abrir en aplicación» en su barra). */
+
+
+
 var dip=null,hasIt=false,demo=new URLSearchParams(location.search).get("demo");
 function instBtn(){var b=$("inst"),on=dip||hasIt;b.hidden=!on;if(on)b.innerHTML=dip?IC.down+"Instalar app":IC.up.replace("M5 15l7-7 7 7","M7 17L17 7M9 7h8v8")+"Abrir app"}
 var standalone=!!(window.matchMedia&&matchMedia("(display-mode: standalone)").matches)||navigator.standalone===true;
@@ -1152,11 +1151,11 @@ if(!standalone&&/android/i.test(navigator.userAgent)&&navigator.getInstalledRela
  navigator.getInstalledRelatedApps().then(function(a){if(!dip&&!demo){hasIt=a.length>0;instBtn()}},function(){});
 window.addEventListener("beforeinstallprompt",function(e){e.preventDefault();if(demo)return;dip=e;hasIt=false;instBtn()});
 window.addEventListener("appinstalled",function(){T("inst","ok");dip=null;hasIt=false;instBtn()});
-/* ?demo=app / ?demo=instalar: ensenan los dos estados del botón aunque el equipo no los permita (revisión en vista previa) */
+ 
 if(demo=="app"){hasIt=true;instBtn()}else if(demo=="instalar"){dip={prompt:function(){},userChoice:{then:function(){}}};instBtn()}
 $("cartBtn").innerHTML=IC.cart;$("top").innerHTML=IC.up;$("wa").innerHTML=IC.wa;$("zoom").lastChild.innerHTML=IC.x;
 
-/* ── guardado en el teléfono: abre al instante y sin conexión; se refresca solo si cambió ── */
+ 
 if("serviceWorker" in navigator&&location.protocol!="file:"){
  navigator.serviceWorker.register("sw.js").then(function(){return navigator.serviceWorker.ready}).then(function(reg){
   if(reg.active)reg.active.postMessage({t:"prime",urls:["./","data/manifest.json","data/products-index.json"].map(function(u){return new URL(u,ROOT).href})})}).catch(function(){});
