@@ -476,8 +476,8 @@ function accView(sec,keep){var v=$("vAcc"),T0=M.Title||"",cur=sec=="compras"?"co
 
 
 var SY=null,syT=0,syN=0,syK=["cart","pcs","addr"];
-/* VER COMO UNA PERSONA DEL EQUIPO: el servidor manda SU cesta, SUS configuraciones y SU dirección (d.va) y viven solo EN MEMORIA (VAS):
-   nada se escribe en este navegador ni se sube a la cuenta de quien mira; al recargar o salir vuelve todo lo propio, intacto */
+
+
 var VAS=null;
 function stGet(k){if(VAS)return VAS[k]?JSON.parse(JSON.stringify(VAS[k])):null;try{return JSON.parse(localStorage.getItem(k)||"null")}catch(e){return null}}
 function stSet(k,v){if(VAS){VAS[k]=v;return}try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
