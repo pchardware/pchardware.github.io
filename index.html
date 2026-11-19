@@ -290,12 +290,14 @@ button.sv{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
   <h2 id="allh" hidden>Todos los artículos</h2>
   <div class="tools">
    <select id="sort" aria-label="Ordenar por"><option value="new">Recientes</option><option value="asc">Más económicos</option><option value="desc">Más costosos</option></select></div>
+  <div id="qX" hidden></div>
   <div class="grid" id="grid"><div class="card sk"></div><div class="card sk"></div><div class="card sk"></div><div class="card sk"></div><div class="card sk"></div><div class="card sk"></div></div>
   <div class="msg" id="state" hidden></div>
  </section>
  <section id="vProd" hidden></section>
  <section id="vCart" hidden></section>
  <section id="vBuild" hidden></section>
+ <section id="vX" hidden></section>
 </main>
 <footer id="contacto"><div class="wrap">
  <div class="fcols" id="fCols"></div><div class="fline"><p id="fFoot"></p><p id="fCopy"></p></div>
@@ -356,7 +358,7 @@ var AC=null;try{AC=JSON.parse(localStorage.getItem("acct")||"null")}catch(e){}
 function accBtn(){var b=$("accBtn");if(!M.Auth||!M.Auth.client){b.hidden=true;return}b.hidden=false;
  b.innerHTML=AC?'<span class="av">'+esc(String(AC.name||"?").charAt(0).toUpperCase())+"</span>":IC.user}
 function accOpen(){var v=$("acc");
- v.firstElementChild.innerHTML='<button id="accX" aria-label="Cerrar">'+IC.x+"</button>"+(AC?'<div class="who in">'+esc(String(AC.name||"?").charAt(0).toUpperCase())+"</div><h2>"+esc(AC.name)+"</h2><p>"+esc(M.Title||"")+(STK?" · Equipo":"")+'</p><div id="accAd"></div><div id="accWa"></div><p class="sv" style="margin-top:4px">Tu cesta, tus configuraciones y tu dirección están guardadas en tu cuenta</p><button class="lk" id="accOut">Cerrar sesión</button><a class="lk pv" href="'+esc(ROOT+"privacidad.html")+'">Privacidad</a>'
+ v.firstElementChild.innerHTML='<button id="accX" aria-label="Cerrar">'+IC.x+"</button>"+(AC?'<div class="who in">'+esc(String(AC.name||"?").charAt(0).toUpperCase())+"</div><h2>"+esc(AC.name)+"</h2><p>"+esc(M.Title||"")+(STK?" · Equipo":"")+'</p><div id="accAd"></div><div id="accWa"></div>'+(TX?TX.acc():"")+'<p class="sv" style="margin-top:4px">Tu cesta, tus configuraciones y tu dirección están guardadas en tu cuenta</p><button class="lk" id="accOut">Cerrar sesión</button><a class="lk pv" href="'+esc(ROOT+"privacidad.html")+'">Privacidad</a>'
   :'<div class="who">'+IC.user+"</div><h2>"+esc(M.Title||"Entrar")+'</h2><p>Entra y tu cesta, tus configuraciones y tu dirección quedan guardadas en tu cuenta</p><div id="gbtn"></div><a class="lk pv" href="'+esc(ROOT+"privacidad.html")+'">Privacidad</a>');
  v.hidden=false;if(!AC)gLoad();else{accAd();accWa.n=null;accWa()}}
 /* WhatsApp confirmado: el cliente no escribe su número; envía al WhatsApp del catálogo un mensaje ya escrito con un código y el
@@ -429,14 +431,20 @@ function gCred(r){if(!r||!r.credential)return;
  fetch(M.Auth.url,{method:"POST",body:JSON.stringify({c:r.credential})}).then(function(x){return x.ok?x.json():null}).then(function(d){
   if(!d||!d.t){toast("No se pudo entrar",3000);return}AC={t:d.t,name:d.name};try{localStorage.setItem("acct",JSON.stringify(AC))}catch(e){}
   $("acc").hidden=true;accBtn();T("auth","in");toast("Hola, "+d.name,2500);route(true);syPull(true);stkGet(1)}).catch(function(){toast("No se pudo entrar",3000)})}
-function accOut(){T("auth","out");tSend();AC=null;STK=null;STKv={};try{localStorage.removeItem("acct");localStorage.removeItem("addr")}catch(e){}syGet().addr={r:0,d:0};sySet();try{google.accounts.id.disableAutoSelect()}catch(e){}$("acc").hidden=true;accBtn();route(true)}
+function accOut(){T("auth","out");tSend();AC=null;STK=null;STKv={};TX=null;txL=0;try{localStorage.removeItem("acct");localStorage.removeItem("addr")}catch(e){}syGet().addr={r:0,d:0};sySet();try{google.accounts.id.disableAutoSelect()}catch(e){}$("acc").hidden=true;accBtn();route(true)}
 /* EQUIPO del negocio (Nexo lo reconoce por su Google o su WhatsApp confirmado): puede ver las existencias y la cesta no le deja
    pedir más de las que hay. A un cliente normal el servidor no le da nada de esto. STK = {team, q: {artículo: unidades}} o null.
    El número va OCULTO: solo se ve al pulsar «Existencias» (STKv = los artículos destapados en esta visita). */
 var STK=null,stkAt=0,STKv={},IC_BOX='<svg viewBox="0 0 24 24"><path d="M3.5 7.5L12 3.5l8.5 4v9L12 20.5l-8.5-4z"/><path d="M3.5 7.5L12 11.5l8.5-4M12 11.5v9"/></svg>';
 function stkGet(force){if(!AC||!AC.t||!M.Auth||!M.Auth.url)return;var n=Date.now();if(!force&&n-stkAt<60000)return;stkAt=n;
  fetch(M.Auth.url+"/stock",{method:"POST",body:JSON.stringify({t:AC.t})}).then(function(x){return x.ok?x.json():null}).then(function(d){
-  if(!d)return;var o=JSON.stringify(STK);STK=d.team?d:null;if(JSON.stringify(STK)!=o)route(true)}).catch(function(){})}
+  if(!d)return;if(d.t&&AC){AC.t=d.t;try{localStorage.setItem("acct",JSON.stringify(AC))}catch(e){}}
+  if(d.x)txGet();else if(!TX&&/[?&]uso=/.test(location.search))go("./",1);var o=JSON.stringify(STK);STK=d.team?d:null;if(JSON.stringify(STK)!=o)route(true)}).catch(function(){})}
+/* EQUIPO con permiso: Nexo le entrega aparte lo suyo (no va en el sitio). TX = {view, f, q, acc} o null */
+var TX=null,txL=0;
+function txGet(){if(txL||!AC||!AC.t||!M.Auth||!M.Auth.url)return;txL=1;
+ fetch(M.Auth.url+"/x",{method:"POST",body:JSON.stringify({t:AC.t})}).then(function(x){return x.ok?x.text():null}).then(function(c){
+  if(!c){txL=0;return}TX=new Function("X",c)({M:M,ac:function(){return AC},$:$,esc:esc,go:go,url:M.Auth.url});route(true)}).catch(function(){txL=0})}
 function qMax(s){return STK&&STK.q&&STK.q[s]!=null?STK.q[s]:99}
 /* sm = en la fila de la cesta (solo icono mientras está oculto); q = unidades pedidas: si pasan de las que hay, se ve solo y en rojo */
 function stkBtn(s,q,sm){if(!STK||!STK.q||STK.q[s]==null)return"";var n=STK.q[s],no=q>n,on=no||STKv[s];
@@ -568,6 +576,10 @@ function go(url,rep){history[rep?"replaceState":"pushState"](null,"",new URL(url
 function route(keep){
  if(!ready)return;stkGet();
  var u=new URLSearchParams(location.search),pm=location.pathname.match(/\/a\/([^\/]+)\.html$/),p=pm?decodeURIComponent(pm[1]):u.get("p"),cart=pm?null:u.get("cart"),arm=!pm&&!p&&!cart&&bList().length&&u.has("armar")?(u.get("armar")||"*"):null;
+ $("vX").hidden=true;
+ if(!pm&&u.has("uso")){if(!AC||!AC.t){go("./",1);return}
+  $("vList").hidden=$("vProd").hidden=$("vCart").hidden=$("vBuild").hidden=$("searchBox").hidden=$("cats").hidden=$("acc").hidden=true;
+  var vx=$("vX");vx.hidden=false;if(TX)TX.view(u,vx);else vx.innerHTML='<div class="msg">Cargando…</div>';if(!keep)window.scrollTo(0,0);return}
  if(p&&!pm)history.replaceState(null,"",new URL(pUrl(p),ROOT).href);
  var wasList=!$("vList").hidden;
  if(wasList&&(p||cart||arm))listY=window.scrollY;
@@ -651,6 +663,7 @@ function list(){
  var res=pool.filter(function(p){if(F.feature&&p.f.indexOf(F.feature)<0)return false;for(var i=0;i<ws.length;i++)if(p.t.indexOf(ws[i])<0)return false;return true});
  res.sort(F.sort=="asc"?function(a,b){return a.Price-b.Price}:F.sort=="desc"?function(a,b){return b.Price-a.Price}:function(a,b){return b.u-a.u});
  $("grid").innerHTML=(!hm&&!F.category&&!F.feature&&!F.search&&res.length&&bList().length?bPromo():"")+res.map(card).join("");
+ if(TX)TX.q(F.search,$("qX"));else $("qX").hidden=true;
  $("state").hidden=res.length>0;if(!res.length)$("state").textContent="No hay artículos con ese filtro.";
  /* búsqueda: se anota cuando deja de escribir (no cada letra); aparte las que no encuentran nada */
  clearTimeout(tQ);if(F.search){var sq=F.search.toLowerCase().slice(0,40),z=!res.length;tQ=setTimeout(function(){T("q",sq,true);if(z)T("q0",sq,true)},2500)}}
@@ -671,11 +684,11 @@ function product(slug){
   "<h1>"+esc(p.Label)+'</h1><div class="price">'+usd(p.Price)+'</div><div class="specs">'+(p.Features||[]).map(function(f){return"<span>"+esc(f)+"</span>"}).join("")+"</div>"+
   '<div class="acts"><span class="qty"><button data-q="-1" aria-label="Menos">−</button><input id="pQty" type="number" min="1" max="'+qMax(slug)+'" value="'+(it?parseInt(it.qty,10)||1:1)+'"><button data-q="1" aria-label="Más">+</button></span>'+
   '<button class="btn" id="pAdd">'+IC.cart+(it?"Actualizar la cesta":"Añadir a la cesta")+"</button>"+
-  '<div class="two">'+(M.Cell>0?'<button class="btn wao" data-wa="1">'+IC.wa+"Preguntar</button>":"")+'<button class="btn alt" id="pShare">'+IC.share+"Compartir</button></div></div></div>"+
+  '<div class="two">'+(M.Cell>0?'<button class="btn wao" data-wa="1">'+IC.wa+"Preguntar</button>":"")+'<button class="btn alt" id="pShare">'+IC.share+"Compartir</button></div></div></div>"+'<div id="pX"></div>'+
   (trust(true)?'<div class="box trust">'+trust(true)+"</div>":"")+"</div></div>"+
   '<div class="box dbox" id="pDescBox" hidden><div class="sec">Descripción</div><p class="desc" id="pDesc"></p></div>'+
   (rel.length?'<h2>Artículos relacionados</h2><div class="rel">'+rel.map(card).join("")+"</div>":"");
- gal={slug:slug,imgs:["images/products/"+enc(slug)+"-1.webp?v="+p.v],i:0};showImg();
+ gal={slug:slug,imgs:["images/products/"+enc(slug)+"-1.webp?v="+p.v],i:0};showImg();if(TX)TX.f(slug,$("pX"));
  waMsg='Hola, me interesa el artículo "'+p.Label+'" que vi en tu sitio web. ¿Podrías darme más información?';
  getJSON("data/products/"+enc(slug)+".json").then(function(d){
   if(!gal||gal.slug!==slug)return;
