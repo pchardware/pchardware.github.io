@@ -476,6 +476,12 @@ function accView(sec,keep){var v=$("vAcc"),T0=M.Title||"",cur=sec=="compras"?"co
 
 
 var SY=null,syT=0,syN=0,syK=["cart","pcs","addr"];
+/* VER COMO UNA PERSONA DEL EQUIPO: el servidor manda SU cesta, SUS configuraciones y SU dirección (d.va) y viven solo EN MEMORIA (VAS):
+   nada se escribe en este navegador ni se sube a la cuenta de quien mira; al recargar o salir vuelve todo lo propio, intacto */
+var VAS=null;
+function stGet(k){if(VAS)return VAS[k]?JSON.parse(JSON.stringify(VAS[k])):null;try{return JSON.parse(localStorage.getItem(k)||"null")}catch(e){return null}}
+function stSet(k,v){if(VAS){VAS[k]=v;return}try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
+function vaEnter(d){VAS={cart:d.cart&&d.cart.v||{items:[]},pcs:d.pcs&&d.pcs.v||{},addr:d.addr&&d.addr.v||{}};clearTimeout(syT);cartCount();PCS=pcLoad();route(true)}
 function syGet(){if(!SY){try{SY=JSON.parse(localStorage.getItem("sy")||"null")}catch(e){}if(!SY||typeof SY!="object")SY={}}
  syK.forEach(function(k){if(!SY[k]||typeof SY[k]!="object")SY[k]={r:0,d:0}});return SY}
 function sySet(){try{localStorage.setItem("sy",JSON.stringify(SY))}catch(e){}}
@@ -483,8 +489,8 @@ function syVal(k){return k=="cart"?getCart():k=="pcs"?pcLoad():adGet()}
 
 
 
-function adGet(){if(COMO)return COMO.addr||{};var o;try{o=JSON.parse(localStorage.getItem("addr")||"null")}catch(e){}return o&&typeof o=="object"?o:{}}
-function adSet(o){try{localStorage.setItem("addr",JSON.stringify(o))}catch(e){}syMark("addr")}
+function adGet(){if(COMO)return COMO.addr||{};var o=stGet("addr");return o&&typeof o=="object"?o:{}}
+function adSet(o){stSet("addr",o);syMark("addr")}
 function shZones(){return M.Ship&&Array.isArray(M.Ship.zones)?M.Ship.zones:[]}
 function shOf(tot){var a=adGet(),z=shZones().filter(function(x){return x.n===a.m||x.n===a.p})[0];if(!z)return null;
  var p=+z.p||0;if(+M.Ship.free>0&&tot>=+M.Ship.free)p=0;return{n:z.n,p:p}}
@@ -550,18 +556,18 @@ function accAd(){if(COMO){var e0=$("accAd"),a0=COMO.addr||{};if(e0)e0.innerHTML=
  e.oninput=dirty;
  $("adOk").onclick=function(){adSet(cur());dirty();toast("Dirección guardada",1500);route(true)}}
 function syHas(k){var v=syVal(k);return k=="cart"?v.items.length>0:Object.keys(v).length>0}
-function syLocal(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
-function syOn(){return!COMO&&!!(AC&&AC.t&&M.Auth&&M.Auth.client)}
-function syMark(k){syGet()[k].d=1;sySet();syN++;if(syOn()){clearTimeout(syT);syT=setTimeout(syPush,1500)}}
-function syPost(put){return fetch(M.Auth.url+"/state",{method:"POST",body:JSON.stringify(put?{t:AC.t,put:put}:{t:AC.t})}).then(function(x){return x.ok?x.json():null})}
+function syLocal(k,v){stSet(k,v)}
+function syOn(){return!COMO&&!VAS&&!!(AC&&AC.t&&M.Auth&&M.Auth.client)}
+function syMark(k){if(VAS)return;syGet()[k].d=1;sySet();syN++;if(syOn()){clearTimeout(syT);syT=setTimeout(syPush,1500)}}
+function syPost(put){return fetch(M.Auth.url+"/state",{method:"POST",body:JSON.stringify(put?{t:AC.t,put:put,va:1}:{t:AC.t,va:1})}).then(function(x){return x.ok?x.json():null})}
 function syPush(){if(!syOn())return;var S=syGet(),put={},n=syN,any=0;syK.forEach(function(k){if(S[k].d){put[k]=syVal(k);any=1}});if(!any)return;
- syPost(put).then(function(d){if(!d)return;Object.keys(put).forEach(function(k){if(d[k]){S[k].r=d[k].r;if(n==syN)S[k].d=0}});sySet();
+ syPost(put).then(function(d){if(!d)return;if(d.va){vaEnter(d);return}Object.keys(put).forEach(function(k){if(d[k]){S[k].r=d[k].r;if(n==syN)S[k].d=0}});sySet();
   if(n!=syN){clearTimeout(syT);syT=setTimeout(syPush,1500)}}).catch(function(){})}
 function syMerge(k,sv){var lv=syVal(k);
  if(k=="cart")((sv&&sv.items)||[]).forEach(function(i){if(i&&typeof i.productId=="string"&&!lv.items.some(function(x){return x.productId===i.productId}))lv.items.push(i)});
  else Object.keys(sv||{}).forEach(function(b){if(!lv[b])lv[b]=sv[b]});syLocal(k,lv)}
 function syPull(fresh){if(!syOn())return;var S=syGet();if(fresh)syK.forEach(function(k){S[k]={r:0,d:0}});
- syPost().then(function(d){if(!d)return;var ch=0;syK.forEach(function(k){var sv=d[k],l=S[k];
+ syPost().then(function(d){if(!d)return;if(d.va){vaEnter(d);return}var ch=0;syK.forEach(function(k){var sv=d[k],l=S[k];
    if(!sv){if(syHas(k))l.d=1;return}
    if(sv.r==l.r)return;
    if(l.d||(!l.r&&syHas(k))){syMerge(k,sv.v);l.d=1}else syLocal(k,sv.v);
@@ -674,10 +680,10 @@ document.addEventListener("load",function(e){var g=e.target;if(g&&g.tagName=="IM
 window.addEventListener("online",function(){[].forEach.call(document.querySelectorAll("img.bad"),function(g){g._n=0;g.src=g.getAttribute("src")});if(!ready)load()});
 
  
-function getCart(){var c;try{c=JSON.parse(localStorage.getItem("cart")||"null")}catch(e){}
+function getCart(){var c=stGet("cart");
  if(!c||!Array.isArray(c.items))c={items:[]};
  c.items=c.items.filter(function(i){return typeof i.productId=="string"&&i.qty!=null});return c}
-function setCart(c){try{localStorage.setItem("cart",JSON.stringify(c))}catch(e){}cartCount();syMark("cart")}
+function setCart(c){stSet("cart",c);cartCount();syMark("cart")}
 function inCart(s){return getCart().items.some(function(i){return i.productId===s})}
 function cartCount(){var n=getCart().items.reduce(function(a,i){return a+(parseInt(i.qty,10)||0)},0);$("cartBtn").setAttribute("data-n",n)}
 function setQty(s,q){var mx=qMax(s);if(q>mx){q=mx;toast("No hay más unidades",1800)}var c=getCart(),i=c.items.findIndex(function(x){return x.productId===s});
@@ -924,8 +930,8 @@ function order(){
 
 
 var BL=null,BD=null,BT=0,bY=0,PCS=pcLoad(),PC={u:"",n:0,p:{},q:{}},PCold=null,bFx={};
-function pcLoad(){var o;try{o=JSON.parse(localStorage.getItem("pcs")||"null")}catch(e){}return o&&typeof o=="object"?o:{}}
-function pcSave(){if(BD)PCS[BD.k]=PC;try{localStorage.setItem("pcs",JSON.stringify(PCS))}catch(e){}syMark("pcs")}
+function pcLoad(){var o=stGet("pcs");return o&&typeof o=="object"?o:{}}
+function pcSave(){if(BD)PCS[BD.k]=PC;stSet("pcs",PCS);syMark("pcs")}
 function bHome(){return"./?armar="+enc(BD.k)}
  
  
