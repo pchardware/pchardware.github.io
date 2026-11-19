@@ -171,10 +171,10 @@ footer p{margin:0 0 6px;opacity:.7}
 #accBtn.in{width:auto;max-width:210px;gap:7px;padding:0 10px 0 6px;border-radius:999px;background:rgba(255,255,255,.12)}
 #accBtn .nm{font-size:14px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 #accBtn .nm i{font-style:normal;font-weight:400;opacity:.85}
-@media(max-width:559px){#accBtn .nm i{display:none}#accBtn.in{max-width:150px}}
+@media(max-width:559px){#accBtn .nm{display:none}#accBtn.in{width:40px;padding:0;gap:0;background:none}}
 #accBtn .av{flex:none;width:28px;height:28px;border-radius:50%;background:var(--on);color:var(--bg);font-weight:700;font-size:14px;display:flex;align-items:center;justify-content:center}
 #gesBtn{color:inherit}
-#gesBtn:hover,#gesBtn.on{background:rgba(255,255,255,.12)}
+@media(hover:hover){#gesBtn:hover{background:rgba(255,255,255,.12)}}
 #gesBtn:not([hidden])+#accBtn{margin-left:2px}
 #vAcc .gpage{max-width:none}
 #vAcc .gpage .ap+.acap{margin-top:6px}
