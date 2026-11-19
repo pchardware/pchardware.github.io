@@ -218,8 +218,9 @@ footer p{margin:0 0 6px;opacity:.7}
  border-radius:12px;padding:9px 10px 9px 16px;font-size:14px;box-shadow:0 8px 30px rgba(16,24,40,.3);max-width:calc(100vw - 32px)}
 @media(max-width:700px){#comoBar{bottom:84px}}
 #comoBar span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}#comoBar button{flex:none;border:0;border-radius:8px;background:#fff;color:#1d2939;font:inherit;font-weight:700;padding:6px 12px;cursor:pointer}
-#accAd label{display:block;font-size:12.5px;color:var(--mut);margin:10px 2px 4px}
-#accAd select,#accAd textarea{width:100%;border:1px solid #d0d5dd;border-radius:10px;padding:10px 12px;font:inherit;font-size:15px;background:#fff;color:var(--ink)}
+#accAd label,#accNm label{display:block;font-size:12.5px;color:var(--mut);margin:10px 2px 4px}
+#accNm .an{margin:6px 2px 0;font-size:13px;color:var(--mut)}#accNm .btn{margin-top:10px}#nmOk:disabled{opacity:.4;cursor:default}
+#accAd select,#accAd textarea,#accNm input{width:100%;border:1px solid #d0d5dd;border-radius:10px;padding:10px 12px;font:inherit;font-size:15px;background:#fff;color:var(--ink)}
 #accAd textarea{min-height:68px;resize:vertical;display:block}
 #accAd .an{margin:6px 2px 0;font-size:13px;color:var(--mut)}
 #accAd .an:empty{display:none}
@@ -453,7 +454,12 @@ var COMO=null;try{COMO=JSON.parse(sessionStorage.getItem("como")||"null")}catch(
  else{COMO=null;try{sessionStorage.removeItem("como")}catch(e){}}
  history.replaceState(null,"",location.pathname+(q.toString()?"?"+q:"")+location.hash)})();
 var AC0=AC;if(COMO&&!AC0)COMO=null;if(COMO)AC={t:AC0.t,name:COMO.name||"Cliente",pic:""};
-function accFirst(){return String((AC&&AC.name)||"").trim().split(/\s+/)[0]||""}
+ 
+function accFirst(){var n=String((AC&&AC.name)||"").trim();return AC&&AC.nk&&!COMO?n:n.split(/\s+/)[0]||""}
+ 
+function acWho(w){if(!w||!AC||COMO||VAS)return;var n=w.n||w.g||AC.name;if(n===AC.name&&!!AC.nk===!!w.n&&AC.g===w.g)return;
+ AC.name=n;AC.g=w.g;AC.nk=w.n?1:0;try{localStorage.setItem("acct",JSON.stringify(AC))}catch(e){}accBtn();
+ var v=$("vAcc"),s=v&&v.querySelector(".aside");if(s&&!v.hidden)s.innerHTML=accSide(v.dataset.s||"direccion");accWaSub()}
 
 
 var AC_TONES=["#c2410c","#0f766e","#7c3aed","#be185d","#1d4ed8","#15803d","#b45309","#0e7490"];
@@ -484,7 +490,7 @@ function accRow(h,i,t,sb,id,on){return'<a data-nav href="'+esc(h)+'"'+(id?' id="
 function accSide(cur){var a=adGet(),T0=M.Title||"";
  return'<div class="ahd"><div class="who" style="background:'+accTone()+'">'+esc(String(AC.name||"?").charAt(0).toUpperCase())+"</div><div><h1>"+accHi()+", "+esc(accFirst()||AC.name)+"</h1><p>"+
   "Qué bueno tenerte de vuelta"+(T0?" en "+esc(T0):"")+"</p></div></div>"+
-  '<p class="acap">Mi cuenta</p><div class="amenu">'+accRow("./?cuenta=direccion",IC.truck,"Dirección de entrega",[a.d,a.m,a.p].filter(Boolean).join(", ")||"Sin dirección","",cur=="direccion")+
+  '<p class="acap">Mi cuenta</p><div class="amenu">'+accRow("./?cuenta=nombre",IC.user,"Tu nombre",AC.name||"","",cur=="nombre")+accRow("./?cuenta=direccion",IC.truck,"Dirección de entrega",[a.d,a.m,a.p].filter(Boolean).join(", ")||"Sin dirección","",cur=="direccion")+
   (M.Cell>0?accRow("./?cuenta=whatsapp",IC.wa,"WhatsApp","…","amWa",cur=="whatsapp"):"")+(M.Auth&&M.Auth.buy||STK||COMO?accRow("./?cuenta=compras",IC.bag,"Mis compras","Lo que has comprado aquí","",cur=="compras"):"")+"</div>"+
   '<div class="afoot"><p class="sv">Tu cesta, tus configuraciones y tu dirección están guardadas en tu cuenta</p><button class="lk" id="accOut">'+(COMO?"Salir de la vista como cliente":"Cerrar sesión")+'</button><a class="lk pv" href="'+esc(ROOT+"privacidad.html")+'">Privacidad</a></div>'}
 function accWaSub(){if(COMO){var w=$("amWa");if(w)w.querySelector("small").textContent=(COMO.phones||[]).length?COMO.phones.map(function(p){return"+"+p}).join(", "):"Sin confirmar";return}if(!(M.Cell>0)||!$("amWa"))return;
@@ -492,16 +498,31 @@ function accWaSub(){if(COMO){var w=$("amWa");if(w)w.querySelector("small").textC
   if(!d.wa&&!d.phones.length){e.parentNode.removeChild(e);return}e.querySelector("small").textContent=d.phones.length?d.phones.map(function(p){return"+"+p}).join(", "):"Sin confirmar"}).catch(function(){})}
 
 
-function accView(sec,keep){var v=$("vAcc"),T0=M.Title||"",cur=sec=="compras"?"compras":sec=="whatsapp"&&M.Cell>0?"whatsapp":"direccion";
- document.title=(sec=="compras"?"Mis compras · ":sec=="direccion"?"Dirección · ":sec=="whatsapp"?"WhatsApp · ":"Cuenta · ")+T0;
+function accView(sec,keep){var v=$("vAcc"),T0=M.Title||"",cur=sec=="compras"?"compras":sec=="nombre"?"nombre":sec=="whatsapp"&&M.Cell>0?"whatsapp":"direccion";
+ document.title=(sec=="compras"?"Mis compras · ":sec=="nombre"?"Tu nombre · ":sec=="direccion"?"Dirección · ":sec=="whatsapp"?"WhatsApp · ":"Cuenta · ")+T0;
  if(keep&&v.dataset.s===sec&&v.querySelector(".aside")){v.querySelector(".aside").innerHTML=accSide(cur);accWaSub();return}
  var bk='<a class="abk" data-nav href="./?cuenta">'+IC.l+"Cuenta</a>";
  v.dataset.s=sec;
  v.innerHTML='<div class="alay" data-s="'+esc(sec)+'"><aside class="aside">'+accSide(cur)+'</aside><section class="amain">'+bk+
-  (cur=="compras"?'<h1 class="at">Mis compras</h1><p class="ap">Lo que has comprado en '+esc(T0||"la tienda")+'</p><div id="accBuy"></div>':cur=="whatsapp"?'<h1 class="at">WhatsApp</h1><p class="ap">Para hablar contigo de tus pedidos</p><div class="apanel"><div id="accWa"></div></div>':
+  (cur=="compras"?'<h1 class="at">Mis compras</h1><p class="ap">Lo que has comprado en '+esc(T0||"la tienda")+'</p><div id="accBuy"></div>':
+   cur=="nombre"?'<h1 class="at">Tu nombre</h1><p class="ap">Cómo quieres que te llamemos</p><div class="apanel"><div id="accNm"></div></div>':cur=="whatsapp"?'<h1 class="at">WhatsApp</h1><p class="ap">Para hablar contigo de tus pedidos</p><div class="apanel"><div id="accWa"></div></div>':
    '<h1 class="at">Dirección de entrega</h1><p class="ap">Para la entrega de tus pedidos</p><div class="apanel"><div id="accAd"></div></div>')+"</section></div>";
- if(cur=="whatsapp"){accWa.n=null;accWa()}else if(cur=="compras")accBuy();else accAd();
+ if(cur=="whatsapp"){accWa.n=null;accWa()}else if(cur=="compras")accBuy();else if(cur=="nombre")accNm();else accAd();
  accWaSub()}
+
+
+function accNm(){var e=$("accNm");if(!e||!AC)return;
+ if(!syOn()){e.innerHTML='<p class="an">'+esc(AC.name||"")+"</p>";return}
+ var g=AC.g||(AC.nk?"":AC.name)||"",now=AC.nk?AC.name:"";
+ e.innerHTML='<label for="nmI">Nombre</label><input id="nmI" maxlength="40" autocomplete="nickname" placeholder="'+esc(g)+'" value="'+esc(now)+'">'+
+  '<button class="btn" id="nmOk" disabled>Guardar nombre</button>';
+ var i=$("nmI"),b=$("nmOk");
+ function val(){return i.value.split(/\s+/).filter(Boolean).join(" ")}
+ i.oninput=function(){b.disabled=val()==(AC.nk?AC.name:"")};
+ i.onkeydown=function(ev){if(ev.key=="Enter"&&!b.disabled)b.click()};
+ b.onclick=function(){var n=val();b.disabled=true;
+  syPost({nm:n}).then(function(d){if(!d||d.va||!d.who){toast("No se pudo guardar",2500);b.disabled=false;return}
+   acWho(d.who);toast("Nombre guardado",1500);accNm()}).catch(function(){toast("No se pudo guardar",2500);b.disabled=false})}}
 
 
 
@@ -599,13 +620,13 @@ function syOn(){return!COMO&&!VAS&&!!(AC&&AC.t&&M.Auth&&M.Auth.client)}
 function syMark(k){if(VAS)return;syGet()[k].d=1;sySet();syN++;if(syOn()){clearTimeout(syT);syT=setTimeout(syPush,1500)}}
 function syPost(put){return fetch(M.Auth.url+"/state",{method:"POST",body:JSON.stringify(put?{t:AC.t,put:put,va:1}:{t:AC.t,va:1})}).then(function(x){return x.ok?x.json():null})}
 function syPush(){if(!syOn())return;var S=syGet(),put={},n=syN,any=0;syK.forEach(function(k){if(S[k].d){put[k]=syVal(k);any=1}});if(!any)return;
- syPost(put).then(function(d){if(!d)return;if(d.va){vaEnter(d);return}Object.keys(put).forEach(function(k){if(d[k]){S[k].r=d[k].r;if(n==syN)S[k].d=0}});sySet();
+ syPost(put).then(function(d){if(!d)return;if(d.va){vaEnter(d);return}acWho(d.who);Object.keys(put).forEach(function(k){if(d[k]){S[k].r=d[k].r;if(n==syN)S[k].d=0}});sySet();
   if(n!=syN){clearTimeout(syT);syT=setTimeout(syPush,1500)}}).catch(function(){})}
 function syMerge(k,sv){var lv=syVal(k);
  if(k=="cart")((sv&&sv.items)||[]).forEach(function(i){if(i&&typeof i.productId=="string"&&!lv.items.some(function(x){return x.productId===i.productId}))lv.items.push(i)});
  else Object.keys(sv||{}).forEach(function(b){if(!lv[b])lv[b]=sv[b]});syLocal(k,lv)}
 function syPull(fresh){if(!syOn())return;var S=syGet();if(fresh)syK.forEach(function(k){S[k]={r:0,d:0}});
- syPost().then(function(d){if(!d)return;if(d.va){vaEnter(d);return}var ch=0;syK.forEach(function(k){var sv=d[k],l=S[k];
+ syPost().then(function(d){if(!d)return;if(d.va){vaEnter(d);return}acWho(d.who);var ch=0;syK.forEach(function(k){var sv=d[k],l=S[k];
    if(!sv){if(syHas(k))l.d=1;return}
    if(sv.r==l.r)return;
    if(l.d||(!l.r&&syHas(k))){syMerge(k,sv.v);l.d=1}else syLocal(k,sv.v);
@@ -630,7 +651,7 @@ function gInit(){try{google.accounts.id.initialize({client_id:M.Auth.client,call
  var e=$("gbtn");if(e)google.accounts.id.renderButton(e,{theme:"outline",size:"large",shape:"pill",text:"continue_with",logo_alignment:"center",locale:"es",width:Math.min(312,e.clientWidth||312)})}catch(e){}}
 function gCred(r){if(!r||!r.credential)return;
  fetch(M.Auth.url,{method:"POST",body:JSON.stringify({c:r.credential})}).then(function(x){return x.ok?x.json():null}).then(function(d){
-  if(!d||!d.t){toast("No se pudo entrar",3000);return}AC={t:d.t,name:d.name};try{localStorage.setItem("acct",JSON.stringify(AC))}catch(e){}
+  if(!d||!d.t){toast("No se pudo entrar",3000);return}AC={t:d.t,name:d.name,g:d.g,nk:d.nk};try{localStorage.setItem("acct",JSON.stringify(AC))}catch(e){}
   $("acc").hidden=true;accBtn();T("auth","in");toast("Hola, "+d.name,2500);route(true);syPull(true);stkGet(1)}).catch(function(){toast("No se pudo entrar",3000)})}
 function accOut(){if(COMO){comoExit();return}T("auth","out");tSend();AC=null;STK=null;STKv={};TX=null;txL=0;try{localStorage.removeItem("acct");localStorage.removeItem("addr")}catch(e){}syGet().addr={r:0,d:0};sySet();try{google.accounts.id.disableAutoSelect()}catch(e){}$("acc").hidden=true;accBtn();route(true)}
 
