@@ -434,6 +434,10 @@ button.sv{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
 <script>
 (function(){
 "use strict";
+ 
+var LSP=location.pathname.replace(/[^\/]*$/,"");if(LSP=="/")LSP="";
+function NS(n){var s=null;try{s=window[n]}catch(e){}return{getItem:function(k){return s.getItem(LSP+k)},setItem:function(k,v){s.setItem(LSP+k,v)},removeItem:function(k){s.removeItem(LSP+k)}}}
+var localStorage=NS("localStorage"),sessionStorage=NS("sessionStorage");
 var IC={
  cart:'<svg viewBox="0 0 24 24"><circle cx="9" cy="20" r="1.5"/><circle cx="18" cy="20" r="1.5"/><path d="M2 3h3l2.6 12h11L21 7H6.2"/></svg>',
  plus:'<svg viewBox="0 0 24 24"><circle cx="9" cy="20" r="1.5"/><circle cx="18" cy="20" r="1.5"/><path d="M2 3h3l2.6 12h11l1.2-4M15 3v6M12 6h6"/></svg>',
