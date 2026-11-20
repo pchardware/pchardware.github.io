@@ -479,6 +479,8 @@ document.addEventListener("visibilitychange",function(){if(document.visibilitySt
 window.addEventListener("pagehide",tSend);
 
 
+ 
+(function(){var m=/[#&]llave=([A-Za-z0-9_.-]+)/.exec(location.hash);if(!m)return;history.replaceState(null,"",location.pathname+"?gestion");try{var q=new XMLHttpRequest();q.open("GET","data/manifest.json",false);q.send();var u=(JSON.parse(q.responseText).Auth||{}).url;if(!u)throw 0;var x=new XMLHttpRequest();x.open("POST",u+"/llave",false);x.send(JSON.stringify({k:m[1]}));if(x.status!=200)throw 0;var d=JSON.parse(x.responseText);localStorage.setItem("acct",JSON.stringify({t:d.t,name:d.name,g:d.g,nk:d.nk}))}catch(e){history.replaceState(null,"",location.pathname)}})();
 var AC=null;try{AC=JSON.parse(localStorage.getItem("acct")||"null")}catch(e){}
  
 var COMO=null;try{COMO=JSON.parse(sessionStorage.getItem("como")||"null")}catch(e){}
@@ -1303,11 +1305,11 @@ if("serviceWorker" in navigator&&location.protocol!="file:"){
    if(Date.now()-k>60000){try{sessionStorage.setItem("rl",Date.now())}catch(x){}location.reload()}}})}
 load();
 })();
-/* SELECTOR PROPIO (19/nov/2026: el nativo de Android se ve feo): todo <select> de la página queda OCULTO como fuente del valor y delante
-   va un botón (texto elegido + flecha) que abre una hoja clara desde abajo (diálogo centrado con ratón): grupos en gris, marca en el
-   elegido, deshabilitadas en gris; un toque elige y dispara input+change en el <select> (los manejadores de siempre siguen valiendo);
-   tocar fuera / Escape = no cambiar. `s.value = …` y cambiar sus opciones se reflejan solos. MISMO código que el equipo
-   (catalog_team/barra.js, marca `_nsel`: el primero que lo convierte gana). */
+
+
+
+
+
 (function(){if(!window.HTMLSelectElement||!window.MutationObserver)return;
 var VAL=Object.getOwnPropertyDescriptor(HTMLSelectElement.prototype,"value"),IDX=Object.getOwnPropertyDescriptor(HTMLSelectElement.prototype,"selectedIndex"),
  ARR='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>',OK='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>',
