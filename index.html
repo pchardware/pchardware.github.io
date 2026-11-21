@@ -1130,7 +1130,7 @@ function cartView(){
  if(sh)h+='<div class="shp"><span>Envío · '+esc(sh.n)+(ad.d?"<small>"+esc(ad.d)+"</small>":"")+"</span><span>"+(sh.p?money(sh.p):"Gratis")+"</span></div>";
  var dn=AC?shNote(ad.p):"";if(dn)h+='<p class="sv" style="margin:0 0 12px">'+IC.truck+esc(dn)+"</p>";
  h+='<div class="tot"><span>Total</span><span>'+usd(tot+(sh?sh.p:0))+"</span></div></div>"+(tr?'<div class="box trust">'+tr+"</div>":"")+
-  '<div class="acts col"><button class="btn wa" id="order">'+IC.wa+'Enviar el pedido por WhatsApp</button><button class="btn alt" id="empty">Vaciar la cesta</button>'+accNote("tu cesta")+"</div></div></div></div>";
+  '<div class="acts col"><button class="btn wa" id="order">'+IC.wa+'Enviar el pedido</button><button class="btn alt" id="empty">Vaciar la cesta</button>'+accNote("tu cesta")+"</div></div></div></div>";
  v.innerHTML=h}
 
 
