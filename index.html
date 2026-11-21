@@ -219,6 +219,10 @@ h2{font-family:var(--fhead);font-size:17px;letter-spacing:-.01em;margin:26px 0 1
 .czr:first-child{border-top:0}
 .czp{grid-area:img;align-self:start;display:block;width:96px;height:96px;padding:7px;background:#fff;border:1px solid var(--line);border-radius:min(var(--r),10px);overflow:hidden}
 .czp img{display:block;width:100%;height:100%;object-fit:contain}
+.czp{position:relative;cursor:zoom-in}
+.czp i{position:absolute;right:4px;bottom:4px;width:24px;height:24px;border-radius:7px;background:rgba(20,23,28,.62);color:#fff;display:flex;align-items:center;justify-content:center;transition:opacity .15s}
+.czp i svg{width:14px;height:14px;stroke-width:2.2}
+@media(hover:hover){.czp i{opacity:0}.czp:hover i,.czp:focus-visible i{opacity:1}}
 .czm{grid-area:nm;min-width:0}
 .czm small{display:block;margin:1px 0 3px;font-size:11px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--mut);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .czm a{font-size:15.5px;font-weight:600;line-height:1.3;color:var(--ink);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
@@ -492,6 +496,12 @@ button.sv{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
 @media(min-width:720px){.htrust{display:grid;grid-template-columns:repeat(3,1fr);gap:0 24px}.htrust div{border-top:0!important}}
 #allh{margin:18px 0 4px}
 #zoom button{position:fixed;top:10px;right:10px;width:44px;height:44px;border-radius:50%;background:rgba(20,23,28,.7);color:#fff;display:flex;align-items:center;justify-content:center}
+
+#zoom button.zn{top:50%;margin-top:-24px;width:48px;height:48px}
+#zoom #zPr{left:12px;right:auto}
+#zCap{position:fixed;left:50%;bottom:14px;transform:translateX(-50%);width:max-content;max-width:calc(100% - 32px);margin:0;padding:7px 14px;border-radius:14px;background:rgba(20,23,28,.78);color:#fff;font-size:13.5px;line-height:1.35;text-align:center;pointer-events:none}
+#zCap:empty{display:none}
+#zCap b{font-weight:600;opacity:.75;margin-left:8px;white-space:nowrap;font-variant-numeric:tabular-nums}
 .nsel{display:flex;align-items:center;justify-content:space-between;gap:8px;width:100%;min-height:42px;box-sizing:border-box;border:1px solid var(--bd);border-radius:10px;background:var(--card);padding:0 11px;font:inherit;font-size:15px;color:var(--ink);text-align:left;cursor:pointer;-webkit-tap-highlight-color:transparent}
 .nsel>span{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.nsel>span.ph{color:var(--mut)}
 .nsel svg{width:16px;height:16px;flex:none;fill:none;stroke:var(--mut);stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
@@ -799,7 +809,7 @@ box-shadow:inset 0 0 0 1px color-mix(in srgb,currentColor 32%,transparent)}
 <button id="wa" hidden aria-label="WhatsApp"></button>
 <div id="acc" hidden><div class="box"></div></div>
 <div id="toast" hidden></div>
-<div id="zoom" hidden><img alt=""><button aria-label="Cerrar"></button></div>
+<div id="zoom" hidden><img alt=""><button class="zn" id="zPr" aria-label="Anterior"></button><button class="zn" id="zNx" aria-label="Siguiente"></button><p id="zCap"></p><button aria-label="Cerrar"></button></div>
 <script>
 (function(){
 "use strict";
@@ -812,6 +822,7 @@ var IC={
  plus:'<svg viewBox="0 0 24 24"><circle cx="9" cy="20" r="1.5"/><circle cx="18" cy="20" r="1.5"/><path d="M2 3h3l2.6 12h11l1.2-4M15 3v6M12 6h6"/></svg>',
  ok:'<svg viewBox="0 0 24 24"><circle cx="9" cy="20" r="1.5"/><circle cx="18" cy="20" r="1.5"/><path d="M2 3h3l2.6 12h11l1.2-4M12 6l2.5 2.5L19 4"/></svg>',
  x:'<svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg>',
+ full:'<svg viewBox="0 0 24 24"><path d="M14 4h6v6M10 20H4v-6M20 4l-7 7M4 20l7-7"/></svg>',
  trash:'<svg viewBox="0 0 24 24"><path d="M4 7h16M10 11v6M14 11v6M5.5 7l1 12.5A1.5 1.5 0 0 0 8 21h8a1.5 1.5 0 0 0 1.5-1.5L18.5 7M9 7V4.5A1.5 1.5 0 0 1 10.5 3h3A1.5 1.5 0 0 1 15 4.5V7"/></svg>',
  ges:'<svg viewBox="0 0 24 24"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8.5 7V5.5A1.5 1.5 0 0 1 10 4h4a1.5 1.5 0 0 1 1.5 1.5V7M3 12.5h18"/></svg>',
  l:'<svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg>',
@@ -1748,7 +1759,15 @@ function product(slug){
 function showImg(){if(!gal)return;var n=gal.imgs.length,g=$("gImg");if(!g)return;
  if(g.getAttribute("src")!=gal.imgs[gal.i]){g._n=0;g.src=gal.imgs[gal.i]}
  $("gPr").hidden=$("gNx").hidden=$("gCnt").hidden=n<2;$("gCnt").textContent=(gal.i+1)+" / "+n}
-function step(d){if(!gal)return;var n=gal.imgs.length;gal.i=(gal.i+d+n)%n;$("gal").style.backgroundImage="none";showImg();if(!$("zoom").hidden)$("zoom").firstChild.src=gal.imgs[gal.i]}
+function step(d){if(!gal)return;var n=gal.imgs.length;gal.i=(gal.i+d+n)%n;if($("gal"))$("gal").style.backgroundImage="none";showImg();if(!$("zoom").hidden)zPaint()}
+ 
+function zPaint(){if(!gal)return;var z=$("zoom"),n=gal.imgs.length,p=bySlug[gal.slug];z.firstChild.src=gal.imgs[gal.i];$("zPr").hidden=$("zNx").hidden=n<2;
+ $("zCap").innerHTML=p?esc(p.Label)+(n>1?"<b>"+(gal.i+1)+" / "+n+"</b>":""):""}
+function zOpen(){$("zoom").hidden=false;zPaint()}
+function zClose(){$("zoom").hidden=true;if(gal&&gal.cz)gal=null}
+function czZoom(slug){var p=bySlug[slug];if(!p)return;gal={slug:slug,imgs:["images/products/"+enc(slug)+"-1.webp?v="+p.v],i:0,cz:1};zOpen();
+ getJSON("data/products/"+enc(slug)+".json").then(function(d){if(!gal||gal.slug!==slug||!gal.cz||!d.Images||!d.Images.length)return;
+  gal.imgs=d.Images.map(function(x){return"."+x+"?v="+p.v});if(!$("zoom").hidden)zPaint()}).catch(function(){})}
 
  
 function cartView(){
@@ -1762,7 +1781,7 @@ function cartView(){
  if(!BL&&bList().length)bLoad();
  var R=cRules(keep),tot=0,n=0,rows="";
  keep.forEach(function(i){var p=bySlug[i.productId],q=parseInt(i.qty,10)||0,s=esc(p.slug);tot+=p.Price*q;n+=q;
-  rows+='<div class="czr"><a class="czp" data-nav href="'+pUrl(p.slug)+'" tabindex="-1" aria-hidden="true"><img loading="lazy" alt="" src="'+thumb(p)+'"></a>'+
+  rows+='<div class="czr"><button type="button" class="czp" data-cz="'+s+'" aria-label="Ver las fotos"><img loading="lazy" alt="" src="'+thumb(p)+'"><i>'+IC.full+"</i></button>"+
    '<div class="czm">'+(p.SubCategory||p.Category?"<small>"+esc(p.SubCategory||p.Category)+"</small>":"")+'<a data-nav href="'+pUrl(p.slug)+'">'+esc(p.Label)+"</a></div>"+
    '<button class="czx" data-rm="'+s+'" aria-label="Quitar" title="Quitar">'+IC.trash+"</button>"+
    (q>1?'<div class="czu">'+money(p.Price)+" c/u</div>":"")+
@@ -1985,7 +2004,7 @@ function bText(){var t="Hola, armé esta selección en tu sitio web:\n----------
  
 document.addEventListener("click",function(e){
  var mm=$("accMenu");if(mm&&!mm.hidden&&!e.target.closest("#accBtn"))mm.hidden=true;if(e.target.closest("#accMOut")){accOut();return}
- var t=e.target.closest("[data-nav],[data-cat],[data-sub],[data-kw],[data-add],[data-q],[data-cq],[data-rm],[data-wa],#wa,#pAdd,#pShare,#inst,#order,#orderB,#czBack,#empty,[data-bu],[data-bn],[data-bs],[data-bp],[data-bx],[data-bq],#bCart,#bWa,#bShare,#bReset,#bRetry,#gImg,#gPr,#gNx,#cartBtn,#top,#zoom,#accBtn,#accX,#accOut,#accWaGo,[data-prm],[data-acc],#acc,#more");
+ var t=e.target.closest("[data-nav],[data-cat],[data-sub],[data-kw],[data-add],[data-q],[data-cq],[data-rm],[data-wa],#wa,#pAdd,#pShare,#inst,#order,#orderB,#czBack,#empty,[data-cz],#zPr,#zNx,[data-bu],[data-bn],[data-bs],[data-bp],[data-bx],[data-bq],#bCart,#bWa,#bShare,#bReset,#bRetry,#gImg,#gPr,#gNx,#cartBtn,#top,#zoom,#accBtn,#accX,#accOut,#accWaGo,[data-prm],[data-acc],#acc,#more");
  if(!t)return;var d=t.dataset,s;
  if(t.id=="more"){more(t);return}
  if(t.id=="accBtn"){if(AC&&(gesOk()||buyOk()))accMenu();else accOpen();return}
@@ -1995,7 +2014,9 @@ document.addEventListener("click",function(e){
  if(t.id=="accWaGo"){accWaWait();return}
  if(d.acc!=null){accOpen();return}
  if(d.prm){accWa(d.prm);return}
- if(t.id=="zoom"){if(e.target.tagName!="IMG")$("zoom").hidden=true;return}
+ if(t.id=="zPr"||t.id=="zNx"){step(t.id=="zNx"?1:-1);return}
+ if(t.id=="zoom"){if(e.target.tagName!="IMG")zClose();return}
+ if(d.cz!=null){czZoom(d.cz);return}
  if(d.nav!=null){if(e.ctrlKey||e.metaKey||e.shiftKey||t.target)return;e.preventDefault();var hb=t.closest("[data-hb]");if(hb)T("home",hb.getAttribute("data-hb"));go(t.getAttribute("href"));return}
  if(t.id=="inst"){
   if(dip){dip.prompt();dip.userChoice.then(function(){dip=null;$("inst").hidden=true},function(){})}
@@ -2039,7 +2060,7 @@ document.addEventListener("click",function(e){
  if(t.id=="empty"){czSave();getCart().items.forEach(function(i){T("rm",i.productId)});setCart({items:[]});cartView();return}
  if(t.id=="gPr"){step(-1);return}
  if(t.id=="gNx"){step(1);return}
- if(t.id=="gImg"&&gal){$("zoom").firstChild.src=gal.imgs[gal.i];$("zoom").hidden=false;return}
+ if(t.id=="gImg"&&gal){zOpen();return}
  if(t.id=="cartBtn"){go("./?cart=1");return}
  if(t.id=="top"){window.scrollTo(0,0);return}
 });
@@ -2048,9 +2069,10 @@ document.addEventListener("change",function(e){var t=e.target;
  if(t.id=="sort"){F.sort=t.value;go(qs(),true)}
  else if(t.dataset.ci!=null){var cv=Math.min(99,Math.max(0,parseInt(t.value,10)||0));if(!cv){czSave(t.dataset.ci);T("rm",t.dataset.ci)}setQty(t.dataset.ci,cv);cartView()}});
 var qT;$("q").addEventListener("input",function(){clearTimeout(qT);var v=this.value;qT=setTimeout(function(){var fb=!$("vBuild").hidden;if(fb){if(!v.trim())return;F.category=F.subcategory=F.feature=""}F.search=v.trim();go(qs(),!fb)},300)});
-var tx=null;document.addEventListener("touchstart",function(e){tx=e.target.closest("#gal")&&e.touches.length==1?e.touches[0].clientX:null},{passive:true});
+var tx=null;document.addEventListener("touchstart",function(e){tx=e.target.closest("#gal,#zoom")&&e.touches.length==1?e.touches[0].clientX:null},{passive:true});
+document.addEventListener("keydown",function(e){if($("zoom").hidden)return;if(e.key=="Escape")zClose();else if(e.key=="ArrowLeft"||e.key=="ArrowRight")step(e.key=="ArrowRight"?1:-1)});
 document.addEventListener("touchend",function(e){if(tx==null)return;var dx=e.changedTouches[0].clientX-tx;tx=null;if(Math.abs(dx)>45&&gal&&gal.imgs.length>1)step(dx<0?1:-1)},{passive:true});
-window.addEventListener("popstate",function(){$("zoom").hidden=true;route()});
+window.addEventListener("popstate",function(){zClose();route()});
 window.addEventListener("storage",function(e){if(e.key=="cart"&&ready){cartCount();route(true)}});
 window.addEventListener("scroll",function(){$("top").hidden=window.scrollY<600},{passive:true});
 
@@ -2068,7 +2090,7 @@ window.addEventListener("beforeinstallprompt",function(e){e.preventDefault();if(
 window.addEventListener("appinstalled",function(){T("inst","ok");dip=null;hasIt=false;instBtn()});
  
 if(demo=="app"){hasIt=true;instBtn()}else if(demo=="instalar"){dip={prompt:function(){},userChoice:{then:function(){}}};instBtn()}
-$("cartBtn").innerHTML=IC.cart;$("top").innerHTML=IC.up;$("wa").innerHTML=IC.wa;$("zoom").lastChild.innerHTML=IC.x;
+$("cartBtn").innerHTML=IC.cart;$("top").innerHTML=IC.up;$("wa").innerHTML=IC.wa;$("zoom").lastChild.innerHTML=IC.x;$("zPr").innerHTML=IC.l;$("zNx").innerHTML=IC.r;
 
  
 if("serviceWorker" in navigator&&location.protocol!="file:"){
