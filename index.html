@@ -110,6 +110,7 @@ html[data-sel="2"] #contacto,html[data-sel="3"] #contacto{position:relative}
 .tools select{margin-left:auto;border:1px solid var(--line);border-radius:10px;height:36px;padding:0 10px;background:var(--card);font-size:13.5px}
 .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;padding-bottom:28px}
 @media(min-width:560px){.grid{grid-template-columns:repeat(auto-fill,minmax(204px,1fr));gap:16px}}
+.grid>.more{grid-column:1/-1;justify-self:center;min-width:220px;margin-top:6px}.more span{font-weight:400;color:var(--mut)}
 .card{border:1px solid var(--line);border-radius:var(--r);overflow:hidden;display:flex;flex-direction:column;background:var(--card);transition:box-shadow .15s,transform .15s}
 @media(hover:hover){.card:hover{box-shadow:0 8px 24px rgba(16,24,40,.10);transform:translateY(-2px)}}
 .pic{position:relative;display:block;aspect-ratio:4/3;background:#fff;padding:6px}
@@ -1529,6 +1530,11 @@ function tabs(arm){var h=chip("Todos",!arm&&!F.category,"cat","");
  cats.forEach(function(c){h+=chip(c.name,!arm&&norm(c.name)==F.category,"cat",norm(c.name))});
  if(bList().length)h+='<a class="chip bt'+(arm?" on":"")+'" data-nav href="./?armar=">'+bIcon()+esc((M.Builders||{}).tab||bSec().t)+"</a>";var c=$("cats");c.innerHTML=h;
  var o=c.querySelector(".on");if(o){var r=o.getBoundingClientRect(),b=c.getBoundingClientRect();if(r.right>b.right)c.scrollLeft+=r.right-b.right+14;else if(r.left<b.left)c.scrollLeft-=b.left-r.left+14}}
+var LN=0,LK="",LR=[];
+function pgSize(){var c=1;try{c=getComputedStyle($("grid")).gridTemplateColumns.split(" ").filter(Boolean).length||1}catch(e){}return c*Math.ceil(24/c)}
+function moreTx(){return"Ver más <span>(quedan "+(LR.length-LN)+")</span>"}
+function more(b){var a=LR.slice(LN,LN+pgSize());LN+=a.length;b.insertAdjacentHTML("beforebegin",a.map(card).join(""));
+ if(LR.length>LN)b.innerHTML=moreTx();else b.remove()}
 function list(){
  tabs(false);
  var hm=home(!F.category&&!F.subcategory&&!F.feature&&!F.search);
@@ -1549,7 +1555,10 @@ function list(){
  var ws=F.search.split(" ").map(norm).filter(Boolean);
  var res=pool.filter(function(p){if(F.feature&&p.f.indexOf(F.feature)<0)return false;for(var i=0;i<ws.length;i++)if(p.t.indexOf(ws[i])<0)return false;return true});
  res.sort(F.sort=="asc"?function(a,b){return a.Price-b.Price}:F.sort=="desc"?function(a,b){return b.Price-a.Price}:function(a,b){return b.u-a.u});
- $("grid").innerHTML=(!hm&&!F.category&&!F.feature&&!F.search&&res.length&&bList().length?bPromo():"")+res.map(card).join("");
+  
+ var lk=[F.category,F.subcategory,F.feature,F.search,F.sort,hm].join("|");if(lk!=LK){LK=lk;LN=pgSize()}LR=res;
+ $("grid").innerHTML=(!hm&&!F.category&&!F.feature&&!F.search&&res.length&&bList().length?bPromo():"")+res.slice(0,LN).map(card).join("")+
+  (res.length>LN?'<button type="button" class="btn alt more" id="more">'+moreTx()+"</button>":"");
  if(TX)TX.q(F.search,$("qX"));else $("qX").hidden=true;
  $("state").hidden=res.length>0;if(!res.length)$("state").textContent="No hay artículos con ese filtro.";
   
@@ -1802,8 +1811,9 @@ function bText(){var t="Hola, armé esta selección en tu sitio web:\n----------
  
 document.addEventListener("click",function(e){
  var mm=$("accMenu");if(mm&&!mm.hidden&&!e.target.closest("#accBtn"))mm.hidden=true;if(e.target.closest("#accMOut")){accOut();return}
- var t=e.target.closest("[data-nav],[data-cat],[data-sub],[data-kw],[data-add],[data-q],[data-cq],[data-rm],[data-wa],#wa,#pAdd,#pShare,#inst,#order,#empty,[data-bu],[data-bn],[data-bs],[data-bp],[data-bx],[data-bq],#bCart,#bWa,#bShare,#bReset,#bRetry,#gImg,#gPr,#gNx,#cartBtn,#top,#zoom,#accBtn,#accX,#accOut,#accWaGo,[data-prm],[data-acc],#acc");
+ var t=e.target.closest("[data-nav],[data-cat],[data-sub],[data-kw],[data-add],[data-q],[data-cq],[data-rm],[data-wa],#wa,#pAdd,#pShare,#inst,#order,#empty,[data-bu],[data-bn],[data-bs],[data-bp],[data-bx],[data-bq],#bCart,#bWa,#bShare,#bReset,#bRetry,#gImg,#gPr,#gNx,#cartBtn,#top,#zoom,#accBtn,#accX,#accOut,#accWaGo,[data-prm],[data-acc],#acc,#more");
  if(!t)return;var d=t.dataset,s;
+ if(t.id=="more"){more(t);return}
  if(t.id=="accBtn"){if(AC&&(gesOk()||buyOk()))accMenu();else accOpen();return}
  if(t.id=="accX"||(t.id=="acc"&&e.target==t)){$("acc").hidden=true;return}
  if(t.id=="acc")return;
