@@ -1759,8 +1759,8 @@ function product(slug){
  var st=note(M.Not1,p),di=note(M.Not2,p),it=getCart().items.filter(function(i){return i.productId===slug})[0];
  var rel=all.filter(function(x){return x!==p&&x.Category===p.Category&&x.SubCategory===p.SubCategory})
   .sort(function(a,b){return Math.abs(a.Price-p.Price)-Math.abs(b.Price-p.Price)}).slice(0,12);
- v.innerHTML='<div class="crumb"><a data-nav href="./?category='+enc(norm(p.Category))+'">'+esc(p.Category)+"</a>›"+
-  (p.SubCategory?'<a data-nav href="./?category='+enc(norm(p.Category))+"&subcategory="+enc(norm(p.SubCategory))+'">'+esc(p.SubCategory)+"</a>›":"")+"<span>"+esc(p.Label)+"</span></div>"+
+ v.innerHTML='<div class="crumb"><a data-nav href="./?category='+enc(norm(p.Category))+'">'+esc(p.Category)+"</a>"+(p.SubCategory?"›":"")+
+  (p.SubCategory?'<a data-nav href="./?category='+enc(norm(p.Category))+"&subcategory="+enc(norm(p.SubCategory))+'">'+esc(p.SubCategory)+"</a>":"")+"</div>"+
   '<div class="pv"><div><div class="gal" id="gal" style="background-image:url('+thumb(p)+')"><img id="gImg" alt="'+esc(p.Label)+'" width="1024" height="768">'+
   '<button class="pr" id="gPr" hidden aria-label="Anterior">'+IC.l+'</button><button class="nx" id="gNx" hidden aria-label="Siguiente">'+IC.r+'</button><span class="cnt" id="gCnt" hidden></span></div><div class="gth" id="gTh"></div></div>'+
   '<div><div class="box"><div class="tags">'+(st?'<span class="b1">'+esc(st)+"</span>":"")+(di?'<span class="b2">'+esc(di)+"</span>":"")+stkBtn(slug,0)+"</div>"+
