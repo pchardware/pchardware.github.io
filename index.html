@@ -15,6 +15,10 @@
 <meta property="og:description" content="Transporte disponible y flexibilidad en la forma de pago.">
 <meta name="description" content="Transporte disponible y flexibilidad en la forma de pago.">
 <meta property="og:url" content="https://pchardware.github.io/">
+<meta property="og:image" content="https://pchardware.github.io/images/og/cover.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="images/icons/fav.png">
 <link rel="preload" href="fonts/manrope.woff2" as="font" type="font/woff2" crossorigin>
 <style>
@@ -36,6 +40,8 @@ header{background:var(--hd);color:var(--hdon);position:sticky;top:0;z-index:5;bo
 .bar{display:flex;align-items:center;flex-wrap:wrap;gap:0 14px;min-height:56px}
 .brand{flex:1;font-family:var(--fbrand);text-transform:uppercase;font-size:18px;letter-spacing:.09em;font-weight:300;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:56px}
 .brand b{font-weight:800}
+.brand .bi{display:inline-block;height:32px;width:auto;margin-right:11px;vertical-align:-9px}
+.brand .bi.in{--bh:clamp(32px,2.1em,46px);height:var(--bh);margin:0 0 0 .12em;vertical-align:calc(.36em - var(--bh)/2)}
 .brand svg{width:18px;height:18px;margin-left:8px;vertical-align:-3px}
 #note.se{box-shadow:none}
 #note svg{width:15px;height:15px;margin-right:6px;vertical-align:-3px}
@@ -945,7 +951,10 @@ function chrome(){
  $("fCols").innerHTML=trust(false);
  var t=(M.Title||"").split(" "),h=Math.round(t.length/2);
  var se=season(),nt=se?(M.Season.text||se.t+(M.HeadNotification?" · "+M.HeadNotification:"")):M.HeadNotification||"";
- $("brand").innerHTML=(t.length<2?"<b>"+esc(t[0]||"")+"</b>":"<b>"+esc(t.slice(0,h).join(" "))+"</b> "+esc(t.slice(h).join(" ")))+
+ var la=M.Logo&&+M.LogoAt<=t.length?+M.LogoAt||0:0,lg=M.Logo?'<img class="bi'+(la?" in":"")+'" alt="" src="images/icons/logo.png?v='+esc(M.Logo)+'">':"",
+  wd=function(a,b){for(var s="",i=a;i<b;i++)s+=(i>a&&i+1!=la?" ":"")+(i+1==la?lg+esc(t[i].slice(1)):esc(t[i]));return s};
+ if(la)$("brand").setAttribute("aria-label",M.Title);else $("brand").removeAttribute("aria-label");
+ $("brand").innerHTML=(la?"":lg)+(t.length<2?"<b>"+wd(0,1)+"</b>":"<b>"+wd(0,h)+"</b>"+(h+1==la?"":" ")+wd(h,t.length))+
   (se?IC[se.i].replace("<svg",'<svg style="color:'+se.ic+'"'):"");
  $("note").hidden=!nt;$("note").className=se?"se":"";$("note").style.background=se?se.c:"";$("note").style.color=se?"#fff":"";
  $("note").firstChild.innerHTML=(se?IC.gift:"")+esc(nt);
