@@ -129,6 +129,16 @@ img.bad{opacity:0}
 .feat{color:var(--mut);font-size:12px;line-height:1.35;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .row{display:flex;align-items:center;justify-content:space-between;margin-top:auto;padding-top:6px}
 .price{color:var(--pr);font-size:18px;font-weight:700;letter-spacing:-.01em;font-variant-numeric:tabular-nums}
+
+.pxl{margin-top:auto;padding-top:6px;font-size:12px;font-weight:500;line-height:1.25;color:var(--mut);font-variant-numeric:tabular-nums}
+.pxl s{color:var(--ink3);font-weight:600;text-decoration:line-through;text-decoration-color:var(--sale,var(--hot));text-decoration-thickness:1.5px}
+.pxl+.row{margin-top:0;padding-top:2px}
+.pxl.pup{font-size:11px;font-weight:600;letter-spacing:.01em}
+.pv .pxl{margin:2px 0 0;padding:0;font-size:14.5px}.pv .pxl.pup{font-size:12.5px}
+:root .row.rb .price,:root .pv .price.rb{color:var(--sale,var(--hot))}
+:root[data-theme=bloque]{--sale:#d4145a}
+:root[data-theme=oceano] .row.rb .price{background:var(--hot);color:#fff}
+.hpp .was{font-size:.58em;font-weight:500;margin-right:.45em;opacity:.65;letter-spacing:0;text-decoration-thickness:1.5px}
 .add{width:36px;height:36px;border:1px solid var(--bd);border-radius:50%;color:var(--ink3);display:flex;align-items:center;justify-content:center}
 .add svg{width:19px;height:19px}
 .add.on{background:var(--bg);border-color:var(--bg);color:var(--on)}
@@ -1109,6 +1119,14 @@ function pUrl(slug){return"a/"+enc(slug)+".html"}
  
 function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]})}
 function money(n){return(n||0).toLocaleString("en-US",{style:"currency",currency:"USD",minimumFractionDigits:0})}
+
+
+
+function pxN(p){var n=Date.now(),c=M.Prices||{};if(p.Was>p.Price&&Date.parse(p.WasTo)>n){if(c.amt&&!(p.Discount>0))p.Discount=p.Was-p.Price}else delete p.Was;
+ if(!(Date.parse(p.Up)>n&&c.up))delete p.Up}
+function pxOff(p){return p.Discount>0||!!p.Was}
+function pxRb(p){return p.Was&&(M.Prices||{}).red?" rb":""}
+function pxTag(p,t){t=t||"span";return p.Was?"<"+t+' class="pxl">Antes <s>'+money(p.Was)+"</s></"+t+">":p.Up?"<"+t+' class="pxl pup">'+esc(M.Prices.up)+"</"+t+">":""}
 function usd(n){return money(n)+'<small class="cur">USD</small>'}
 var ACC={"á":"a","é":"e","í":"i","ó":"o","ú":"u","ü":"u","ñ":"n","Á":"A","É":"E","Í":"I","Ó":"O","Ú":"U","Ü":"U","Ñ":"N"};
 function norm(s){if(!s||!s.trim())return"";return s.replace(/[áéíóúüñÁÉÍÓÚÜÑ]/g,function(c){return ACC[c]}).replace(/[^\w-]/g,"_").toLowerCase()}
@@ -1163,7 +1181,7 @@ function load(quiet){
    Object.keys(d[c]).forEach(function(s){subs.push(s);
     d[c][s].forEach(function(p){p.Category=c;p.SubCategory=s;p.slug=toSlug(p.Label);p.u=Date.parse(p.Update)||0;p.d=Date.parse(p.Date)||p.u;p.v=Math.floor(p.u/1000).toString(36);
      p.w=words(p).map(function(w){return w.toLowerCase()});p.f=p.w.map(norm);
-     p.t=[norm(c),norm(s)].concat(p.f,[norm(p.Label)]).join(" ");all.push(p);bySlug[p.slug]=p})})});
+     p.t=[norm(c),norm(s)].concat(p.f,[norm(p.Label)]).join(" ");pxN(p);all.push(p);bySlug[p.slug]=p})})});
   ready=true;if(!M.Stats)TQ=[];tVisit();if(tm){toast(tm=="equipo"?"Este equipo cuenta como del negocio":tm=="no"?"Este equipo no se cuenta":"Este equipo cuenta como cliente",4000);tm=""}chrome();route(quiet);introOff();
  }).catch(function(){if(ready)return;
   $("grid").innerHTML="";$("state").hidden=false;$("state").innerHTML='No se pudo cargar el catálogo.<br>Revisa la conexión.<br><br><button class="btn" id="retry">Reintentar</button>';
@@ -1417,7 +1435,7 @@ function chip(label,on,attr,val){return'<button class="chip'+(on?" on":"")+'" da
 function card(p){var on=inCart(p.slug);
  return'<article class="card"><a class="pic" data-nav href="'+pUrl(p.slug)+'"><img loading="lazy" decoding="async" width="400" height="300" alt="" src="'+thumb(p)+'">'+badges(p)+"</a>"+
   '<div class="info"><span class="kick">'+esc(p.SubCategory||p.Category||"")+'</span><a class="name" data-nav href="'+pUrl(p.slug)+'">'+esc(p.Label)+'</a><span class="feat">'+esc((p.Features||[]).join(", "))+"</span>"+
-  '<div class="row"><span class="price">'+usd(p.Price)+'</span><button class="add'+(on?" on":"")+'" data-add="'+esc(p.slug)+'" aria-label="Cesta">'+(on?IC.ok:IC.plus)+"</button></div></div></article>"}
+  pxTag(p)+'<div class="row'+pxRb(p)+'"><span class="price">'+usd(p.Price)+'</span><button class="add'+(on?" on":"")+'" data-add="'+esc(p.slug)+'" aria-label="Cesta">'+(on?IC.ok:IC.plus)+"</button></div></div></article>"}
 
 
 function subOrd(cat,list){var o=((M.SubOrder||{})[cat]||[]).map(norm);
@@ -1441,7 +1459,7 @@ var HOME={
    h+='<div class="tiles">'+subOrd(c.name,subs).map(function(sc){
     return'<a class="tile" data-nav href="./?category='+enc(norm(c.name))+"&subcategory="+enc(norm(sc))+'"><img loading="lazy" decoding="async" alt="" width="400" height="300" src="'+tileImg(c.name,sc)+'"><span>'+esc(sc||c.name)+"</span></a>"}).join("")+"</div>"});
   return h?"<section><h2>"+esc(b.title||"Explora por categoría")+"</h2>"+h+"</section>":""},
- offers:function(b){var r=all.filter(function(p){return p.Discount>0}).sort(function(a,b){return b.d-a.d}).slice(0,16);
+ offers:function(b){var r=all.filter(pxOff).sort(function(a,b){return b.d-a.d}).slice(0,16);
   return r.length?"<section><h2>"+esc(b.title||"Ofertas")+'</h2><div class="hrow">'+r.map(card).join("")+"</div></section>":""},
   
  "new":function(b){var t=b.days>0?Date.now()-b.days*864e5:0;
@@ -1503,14 +1521,14 @@ function heroKick(H){var k=H.kick||"count",n,pl=function(n,a,b){return n+" "+(n>
  if(k=="none")return"";
  if(k=="text")return esc(H.text||"");
  if(k=="new"){n=all.filter(function(p){return p.d>=Date.now()-7*864e5}).length;return n?pl(n,"artículo nuevo","artículos nuevos")+" esta semana":""}
- if(k=="offers"){n=all.filter(function(p){return p.Discount>0}).length;return n?pl(n,"artículo","artículos")+" en oferta":""}
+ if(k=="offers"){n=all.filter(pxOff).length;return n?pl(n,"artículo","artículos")+" en oferta":""}
  if(k=="fresh"){var w=LM?heroWhen(LM):"";return w?"Actualizado "+w:""}
  var nc=cats.filter(function(c){return all.some(function(p){return p.Category===c.name})}).length;
  return all.length?all.length+" artículos"+(nc>1?" · "+nc+" categorías":""):""}
  
 function heroImg(cls,src,j,sz){return'<img class="'+cls+'" alt="" decoding="async" '+(j<2?"":"data-")+'src="'+src+'"'+(sz||"")+">"}
 function heroProd(p,k,j){return'<a class="hsd hsp" data-nav href="'+pUrl(p.slug)+'"><div class="hin"><p class="hk">'+k+'</p><p class="ht">'+esc(p.Label)+
-  '</p><p class="hpp">'+usd(p.Price)+'</p><span class="hgo">Ver artículo</span></div><span class="hpi">'+
+  '</p><p class="hpp">'+(p.Was?'<s class="was">'+money(p.Was)+"</s>":"")+usd(p.Price)+'</p><span class="hgo">Ver artículo</span></div><span class="hpi">'+
   heroImg("",thumb(p),j,' width="400" height="300"')+"</span></a>"}
 function heroCat(c,x,n,j){return'<a class="hsd hsp hsc" data-nav href="./?category='+enc(norm(c))+(x?"&subcategory="+enc(norm(x)):"")+'"><div class="hin"><p class="hk">'+
   esc(x?c:"")+'</p><p class="ht">'+esc(x||c)+'</p><p class="hpp hpc">'+n+(n>1?" artículos":" artículo")+'</p><span class="hgo">Ver todos</span></div><span class="hpi">'+
@@ -1532,7 +1550,7 @@ function heroOwn(s,j){var l=s.l||{},n=function(c,x){return all.some(function(p){
 function heroSlides(H){var r=[],seen={},pr=function(p,k){if(!p||seen[p.slug])return;seen[p.slug]=1;r.push(heroProd(p,k,r.length+1))};
  (Array.isArray(H.slides)?H.slides:[]).forEach(function(s){if(!s)return;
   if(s.t=="p")pr(bySlug[s.s],"Destacado");
-  else if(s.t=="o")all.filter(function(p){return p.Discount>0}).sort(function(a,b){return b.d-a.d}).slice(0,6).forEach(function(p){pr(p,"Oferta")});
+  else if(s.t=="o")all.filter(pxOff).sort(function(a,b){return b.d-a.d}).slice(0,6).forEach(function(p){pr(p,"Oferta")});
   else if(s.t=="c"){var n=all.filter(function(p){return p.Category===s.c&&(!s.x||p.SubCategory===s.x)}).length;if(n)r.push(heroCat(s.c,s.x||"",n,r.length+1))}
   else if(s.t=="s"){var x=heroSecS(s);if(x)r.push(x)}
   else if(s.t=="i"&&s.img)r.push(heroOwn(s,r.length+1))});
@@ -1661,7 +1679,7 @@ function product(slug){
   '<div class="pv"><div><div class="gal" id="gal" style="background-image:url('+thumb(p)+')"><img id="gImg" alt="'+esc(p.Label)+'" width="1024" height="768">'+
   '<button class="pr" id="gPr" hidden aria-label="Anterior">'+IC.l+'</button><button class="nx" id="gNx" hidden aria-label="Siguiente">'+IC.r+'</button><span class="cnt" id="gCnt" hidden></span></div></div>'+
   '<div><div class="box"><div class="tags">'+(st?'<span class="b1">'+esc(st)+"</span>":"")+(di?'<span class="b2">'+esc(di)+"</span>":"")+stkBtn(slug,0)+"</div>"+
-  "<h1>"+esc(p.Label)+'</h1><div class="price">'+usd(p.Price)+'</div><div class="specs">'+(p.Features||[]).map(function(f){return"<span>"+esc(f)+"</span>"}).join("")+"</div>"+
+  "<h1>"+esc(p.Label)+'</h1>'+pxTag(p,"div")+'<div class="price'+pxRb(p)+'">'+usd(p.Price)+'</div><div class="specs">'+(p.Features||[]).map(function(f){return"<span>"+esc(f)+"</span>"}).join("")+"</div>"+
   '<div class="acts"><span class="qty"><button data-q="-1" aria-label="Menos">−</button><input id="pQty" type="number" min="1" max="'+qMax(slug)+'" value="'+(it?parseInt(it.qty,10)||1:1)+'"><button data-q="1" aria-label="Más">+</button></span>'+
   '<button class="btn" id="pAdd">'+IC.cart+(it?"Actualizar la cesta":"Añadir a la cesta")+"</button>"+
   '<div class="two">'+(M.Cell>0?'<button class="btn wao" data-wa="1">'+IC.wa+"Preguntar</button>":"")+'<button class="btn alt" id="pShare">'+IC.share+"Compartir</button></div></div></div>"+'<div id="pX"></div>'+
