@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="es" data-theme="brisa">
+<html lang="es">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>PC Hardware</title>
 <link rel="manifest" href="app.webmanifest">
-<meta name="theme-color" content="#f3f7f4">
+<meta name="theme-color" content="#222222">
 <link rel="apple-touch-icon" href="images/icons/app-192.png">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="PC Hardware">
@@ -16,7 +16,6 @@
 <meta name="description" content="Transporte disponible y flexibilidad en la forma de pago.">
 <meta property="og:url" content="https://pchardware.github.io/">
 <link rel="icon" type="image/png" href="images/icons/fav.png">
-<link rel="preload" href="fonts/outfit.woff2" as="font" type="font/woff2" crossorigin>
 <style>
 :root{--acc:#b42318;--bg:rgb(34,34,34);--on:#fff;--hd:var(--bg);--hdon:var(--on);--ft:var(--bg);--fton:var(--on);--card:#fff;--bd:#d0d5dd;--ink2:#344054;--ink3:#475467;--mut2:#98a2b3;--soft2:#e9ecf0;--r2:14px;--sh:rgba(16,24,40,.10);--font:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;--fbrand:var(--font);--fhead:var(--font);--ink:#14171c;--mut:#667085;--line:#e4e7ec;--page:#f4f5f7;--soft:#f1f3f6;--ok:#12715b;--okbg:#e3f3ec;--hot:#b42318;--hotbg:#fde9e7;--wa:#128c4a;--r:12px}
 *{box-sizing:border-box}
@@ -392,91 +391,7 @@ button.sv{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
 .nsls button svg{width:16px;height:16px;flex:none;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
 
 #hero,.kick{display:none}
-[data-theme] #hero{display:block;position:relative;margin:14px 0 6px;overflow:hidden}
-[data-theme] .hk,[data-theme] .hs,[data-theme] .ht{margin:0}
-[data-theme] .hs:empty,[data-theme] .hk:empty{display:none}
-[data-theme] .hn,[data-theme] #hero>i{display:none}
-[data-theme] .kick{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-[data-theme] .acts .btn,[data-theme] .acts .two .btn{min-width:0;white-space:normal;line-height:1.15;text-align:center}
-[data-theme] .pv h1{overflow-wrap:anywhere}
-@keyframes t-up{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
-@keyframes t-pop{0%{opacity:0;transform:scale(.9)}70%{opacity:1;transform:scale(1.03)}100%{opacity:1;transform:none}}
-@keyframes t-fade{from{opacity:0}to{opacity:1}}
-@keyframes t-float{50%{transform:translateY(-12px) rotate(6deg)}}
-@keyframes t-blink{50%{opacity:0}}
-@keyframes t-wig{0%,100%{transform:rotate(10deg)}50%{transform:rotate(16deg) scale(1.05)}}
-[data-theme] .grid .card:nth-child(2){animation-delay:.05s}[data-theme] .grid .card:nth-child(3){animation-delay:.1s}[data-theme] .grid .card:nth-child(4){animation-delay:.15s}
-[data-theme] .grid .card:nth-child(5){animation-delay:.2s}[data-theme] .grid .card:nth-child(6){animation-delay:.25s}
-@media(prefers-reduced-motion:reduce){[data-theme] *,[data-theme] *::before,[data-theme] *::after{animation:none!important;transition:none!important}}
-@font-face{font-family:TF;src:url(fonts/outfit.woff2) format("woff2");font-weight:400 800;font-display:swap}
-[data-theme=brisa]{--bg:#0b6e66;--on:#fff;--hd:transparent;--hdon:#0f2b28;--ft:#093d38;--fton:#d6ece7;--ink:#0f2421;--ink2:#2a433f;--ink3:#3c5651;--mut:#647a76;--mut2:#93a6a2;
---line:#dbe7e3;--bd:#c9dad5;--page:#f3f7f4;--soft:#e0f1eb;--soft2:#d0e8e0;--r:24px;--r2:26px;--pr:var(--bg);--acc:#f0553a;--hot:#c2410c;--hotbg:#ffe6dc;
---font:TF,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
-[data-theme=brisa] body{background:radial-gradient(900px 420px at 50% -80px,#cdeee3 0,transparent 70%) no-repeat var(--page)}
-[data-theme=brisa] #note{box-shadow:none;font-weight:500}
-[data-theme=brisa] header{background:none;box-shadow:none;padding-top:10px}
-[data-theme=brisa] header>.wrap{padding:0 10px}
-[data-theme=brisa] .bar{background:rgba(255,255,255,.88);-webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px);border:1px solid #fff;border-radius:26px;padding:0 8px 0 18px;min-height:60px;box-shadow:0 10px 30px rgba(11,110,102,.16)}
-[data-theme=brisa] .brand{text-transform:none;letter-spacing:-.03em;font-weight:500;font-size:22px;line-height:60px}
-[data-theme=brisa] .brand b{font-weight:800;color:var(--bg)}
-[data-theme=brisa] .search input{height:42px;border-radius:999px;background:var(--soft);border:1px solid transparent;color:var(--ink)}
-[data-theme=brisa] .search input:focus{background:#fff;border-color:var(--bg)}
-[data-theme=brisa] .search>svg{top:12px}
-[data-theme=brisa] #accBtn .av,[data-theme=brisa] #inst{background:var(--bg);color:var(--on)}
-[data-theme=brisa] #accBtn.in{background:var(--soft)}
-@media(max-width:559px){[data-theme=brisa] #accBtn.in{background:none}}
-[data-theme=brisa] #hero{margin:16px 0 4px;padding:30px 22px 30px;border-radius:30px;background:linear-gradient(135deg,#0b6e66 0%,#11958a 55%,#3cc5ae 100%);color:#fff}
-[data-theme=brisa] #hero>i{display:block;position:absolute;border-radius:50%;background:rgba(255,255,255,.13)}
-[data-theme=brisa] #hero>i:nth-of-type(1){width:230px;height:230px;right:-70px;top:-100px}
-[data-theme=brisa] #hero>i:nth-of-type(2){width:120px;height:120px;right:70px;bottom:-66px;background:rgba(255,255,255,.1);animation:t-float 7s ease-in-out infinite}
-[data-theme=brisa] .hin{position:relative;z-index:1}
-[data-theme=brisa] .hk{display:inline-block;font-size:12.5px;font-weight:600;background:rgba(255,255,255,.18);padding:4px 12px;border-radius:999px}
-[data-theme=brisa] .ht{margin-top:12px;font-size:clamp(34px,8vw,58px);line-height:1;font-weight:800;letter-spacing:-.04em}
-[data-theme=brisa] .ht b{font-weight:800;color:#c4f5e8}
-[data-theme=brisa] .hs{margin-top:10px;font-size:16px;opacity:.92;max-width:46ch}
-[data-theme=brisa] #cats{border-bottom:0;gap:8px;padding:14px 0 4px}
-[data-theme=brisa] #cats .chip{background:#fff;border:0;border-radius:999px;padding:9px 17px;font-size:14.5px;font-weight:600;color:var(--ink2);box-shadow:0 2px 8px rgba(15,36,33,.07)}
-[data-theme=brisa] #cats .chip.on{background:var(--bg);color:var(--on);box-shadow:0 6px 16px rgba(11,110,102,.3)}
-[data-theme=brisa] .chip{border-color:var(--line)}
-[data-theme=brisa] #kws .chip{background:var(--soft);color:var(--bg);border-radius:999px;font-weight:600}
-[data-theme=brisa] h2{font-size:22px;font-weight:800;letter-spacing:-.025em}
-[data-theme=brisa] #home h2::before,[data-theme=brisa] #allh::before{content:"";display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--acc);margin-right:9px;vertical-align:2px}
-[data-theme=brisa] .grid{gap:12px}
-@media(min-width:560px){[data-theme=brisa] .grid{gap:20px}}
-[data-theme=brisa] .grid .card:nth-child(-n+12){animation:t-up .5s both}
-[data-theme=brisa] .card{border:0;border-radius:24px;box-shadow:0 1px 2px rgba(15,36,33,.04),0 12px 30px rgba(15,36,33,.08)}
-@media(hover:hover){[data-theme=brisa] .card:hover{transform:translateY(-4px);box-shadow:0 2px 4px rgba(15,36,33,.05),0 20px 40px rgba(11,110,102,.16)}[data-theme=brisa] .card:hover .pic img{transform:scale(1.05)}}
-[data-theme=brisa] .pic{background:var(--soft);margin:8px 8px 0;border-radius:18px;padding:12px}
-[data-theme=brisa] .pic img{mix-blend-mode:multiply;transition:transform .3s}
-[data-theme=brisa] .b1,[data-theme=brisa] .b2{background:#fff;box-shadow:0 2px 6px rgba(15,36,33,.12);font-weight:700}
-[data-theme=brisa] .b2{color:var(--acc)}
-[data-theme=brisa] .info{border-top:0;padding:12px 14px 14px}
-[data-theme=brisa] .kick{display:block;font-size:11px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--bg)}
-[data-theme=brisa] .name{font-size:15px;font-weight:600}
-[data-theme=brisa] .feat{-webkit-line-clamp:1}
-[data-theme=brisa] .price{font-size:21px;font-weight:800;letter-spacing:-.02em}
-[data-theme=brisa] .card .row{flex-wrap:wrap;gap:8px}
-[data-theme=brisa] .card .add{flex:1 0 100%;width:auto;height:38px;gap:6px;border:0;border-radius:999px;background:var(--bg);color:var(--on);font-size:14px;font-weight:700}
-[data-theme=brisa] .card .add svg{width:17px;height:17px}
-[data-theme=brisa] .card .add::after{content:"Añadir"}
-[data-theme=brisa] .card .add.on{background:var(--soft);color:var(--bg)}
-[data-theme=brisa] .card .add.on::after{content:"En la cesta"}
-[data-theme=brisa] .tiles{grid-template-columns:repeat(4,minmax(0,1fr));gap:14px 8px}
-@media(min-width:560px){[data-theme=brisa] .tiles{grid-template-columns:repeat(auto-fill,minmax(112px,1fr));gap:18px 12px}}
-[data-theme=brisa] .tile{border:0;background:none;overflow:visible;align-items:center}
-[data-theme=brisa] .tile img{width:100%;aspect-ratio:1;border-radius:50%;padding:14%;background:#fff;box-shadow:0 8px 20px rgba(15,36,33,.1);transition:transform .25s}
-[data-theme=brisa] .tile span{border-top:0;text-align:center;min-height:0;padding:8px 2px 0;font-size:12.5px}
-@media(hover:hover){[data-theme=brisa] .tile:hover img{transform:scale(1.07)}}
-[data-theme=brisa] .bpromo{border:0;border-radius:24px;box-shadow:0 12px 30px rgba(15,36,33,.08)}
-[data-theme=brisa] .bpromo.big{background:linear-gradient(120deg,#f0553a,#ff8c5f);color:#fff;padding:20px}
-[data-theme=brisa] .gal{border:0;border-radius:28px;box-shadow:0 0 0 8px var(--soft)}
-[data-theme=brisa] .box{border:0;border-radius:26px;box-shadow:0 10px 30px rgba(15,36,33,.07)}
-[data-theme=brisa] .pv h1{font-size:28px;font-weight:800;letter-spacing:-.03em;line-height:1.12}
-[data-theme=brisa] .pv .price{font-size:38px}
-[data-theme=brisa] .specs span{background:var(--soft);border-radius:999px;padding:5px 12px;color:var(--bg);font-weight:600}
-[data-theme=brisa] .btn{border-radius:999px;height:50px;font-weight:700}
-[data-theme=brisa] .qty,[data-theme=brisa] .nsel{border-radius:999px}
-[data-theme=brisa] footer{border-radius:34px 34px 0 0;margin-top:44px;padding-top:36px}
+
 </style>
 </head>
 <body>
