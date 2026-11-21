@@ -149,7 +149,7 @@ img.bad{opacity:0}
 @media(prefers-reduced-motion:reduce){.sk{animation:none}.card{transition:none}}
 .msg{padding:56px 12px;text-align:center;color:var(--mut)}
 
-.cewrap{min-height:calc(100vh - 360px);display:flex;align-items:center;justify-content:center;padding:28px 0}
+.cewrap{min-height:calc(100vh - 360px);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;padding:28px 0}
 .box.cempty{width:100%;max-width:440px;text-align:center;padding:34px 24px 26px}
 .cempty .ico{width:72px;height:72px;margin:0 auto 16px;border-radius:50%;background:var(--soft);color:var(--mut);display:flex;align-items:center;justify-content:center}
 .cempty .ico svg{width:34px;height:34px;stroke-width:1.6}
@@ -1820,8 +1820,8 @@ function cartView(){
  if(keep.length!=c.items.length){c.items=keep;setCart(c)}
  document.title="Cesta · "+(M.Title||"");
  if(!keep.length){var ch="";cats.forEach(function(c){if(all.some(function(p){return p.Category===c.name}))ch+=chip(c.name,false,"cat",norm(c.name))});
-  v.innerHTML=(czU?'<div class="cartbox cz">'+czUndo()+"</div>":"")+'<div class="cewrap"><div class="box cempty"><div class="ico">'+IC.cart+'</div><h2>Tu cesta está vacía</h2><p>Añade artículos desde el catálogo y aquí verás el total.</p>'+
-   '<a class="btn" data-nav href="./">Ver el catálogo</a>'+(ch?'<div class="chips">'+ch+"</div>":"")+"</div></div>";return}
+  v.innerHTML=(czU?'<div class="cartbox cz">'+czUndo()+"</div>":"")+'<div class="cewrap"><div id="cX"></div><div class="box cempty"><div class="ico">'+IC.cart+'</div><h2>Tu cesta está vacía</h2><p>Añade artículos desde el catálogo y aquí verás el total.</p>'+
+   '<a class="btn" data-nav href="./">Ver el catálogo</a>'+(ch?'<div class="chips">'+ch+"</div>":"")+"</div></div>";cxHook([]);return}
  var co="";try{co=localStorage.getItem("co")||""}catch(e){}if(cSig()!=co){tCk("con");tCk("ver")}
  if(!BL&&bList().length)bLoad();
  var R=cRules(keep),tot=0,n=0,rows="";
@@ -1846,11 +1846,15 @@ function cartView(){
   (dn?'<p class="sv czd">'+IC.truck+esc(dn)+"</p>":"")+
   '<div class="czo"><span>Total</span><span>'+usd(gt)+"</span></div>"+
   '<button class="btn wa" id="order">'+IC.wa+'Enviar el pedido</button><p class="czw">Se abre WhatsApp con tu pedido ya escrito</p>'+accNote("tu cesta")+"</div>"+
-  (tr?'<div class="box trust">'+tr+"</div>":"")+"</div></div>"+
+  '<div id="cX"></div>'+(tr?'<div class="box trust">'+tr+"</div>":"")+"</div></div>"+
   '<div class="czbar"><div><small>Total</small><b>'+money(gt)+'</b></div><button class="btn wa" id="orderB">'+IC.wa+"Enviar el pedido</button></div></div>";
- v.innerHTML=h;
+ v.innerHTML=h;cxHook(keep);
   
  if(window.IntersectionObserver){if(czIO)czIO.disconnect();czIO=new IntersectionObserver(function(e){var b=v.querySelector(".czbar");if(b)b.classList.toggle("off",e[e.length-1].isIntersecting)});czIO.observe($("order"))}}
+ 
+function cxHook(keep){var el=$("cX");if(!el)return;if(!(TX&&TX.c)){el.hidden=true;return}
+ TX.c(keep.map(function(i){var p=bySlug[i.productId];return{slug:p.slug,label:p.Label,qty:parseInt(i.qty,10)||0,price:p.Price}}),el,
+  {clear:function(){setCart({items:[]});cartView()},money:money})}
  
 var czU=null,czIO=null;
 function czSave(s){var p=s&&bySlug[s];czU={it:getCart().items.map(function(i){return{productId:i.productId,qty:i.qty}}),t:p?"Quitaste «"+p.Label+"»":"Vaciaste la cesta"}}
