@@ -1344,7 +1344,7 @@ function bRows(){var need=bNeed(),tot=0,nbad=0,miss=[],n=0,h='<div class="box">'
    miss.length?IC.x+"<span>Falta elegir: "+esc(miss.join(", "))+"</span>":IC.chk+"<span>Todos los componentes son compatibles entre sí.</span>")+"</div>"+
   '<div class="box btot"><span>Total</span><span>'+usd(tot)+"</span></div>"+
   '<div class="acts col"><button class="btn" id="bCart"'+(nbad?" disabled":"")+">"+IC.cart+"Añadir todo a la cesta</button>"+
-  (M.Cell>0?'<button class="btn wao" id="bWa">'+IC.wa+"Consultar por WhatsApp</button>":"")+
+  (M.Cell>0?'<button class="btn wao" id="bWa">'+IC.wa+"Consultar</button>":"")+
   '<div class="two"><button class="btn alt" id="bShare">'+IC.share+'Compartir</button><button class="btn alt" id="bReset">Empezar de cero</button></div>'+accNote("esta configuración")+"</div>";
  else if(PCold)h+='<div class="acts col"><button class="btn alt" id="bReset">Deshacer</button></div>';
  return h}
