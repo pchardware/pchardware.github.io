@@ -1517,21 +1517,21 @@ var LM=0,HR={i:0,t:0,p:0,sw:0,x:null};
 function heroConf(){var h=M.Home&&M.Home.hero;return h&&typeof h=="object"?h:{}}
 function heroWhen(t){var d=new Date(t),n=new Date(),k=Math.round((new Date(n.getFullYear(),n.getMonth(),n.getDate())-new Date(d.getFullYear(),d.getMonth(),d.getDate()))/864e5);
  return k<=0?"hoy":k==1?"ayer":k<=7?"el "+["dom","lun","mar","mié","jue","vie","sáb"][d.getDay()]+" "+d.getDate()+" "+["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"][d.getMonth()]:""}
-function heroKick(H){var k=H.kick||"count",n,pl=function(n,a,b){return n+" "+(n>1?b:a)};
- if(k=="none")return"";
+ 
+function heroKick(H){var k=H.kick||"none";
+ if(k=="none"||k=="count")return"";
  if(k=="text")return esc(H.text||"");
- if(k=="new"){n=all.filter(function(p){return p.d>=Date.now()-7*864e5}).length;return n?pl(n,"artículo nuevo","artículos nuevos")+" esta semana":""}
- if(k=="offers"){n=all.filter(pxOff).length;return n?pl(n,"artículo","artículos")+" en oferta":""}
+ if(k=="new")return all.some(function(p){return p.d>=Date.now()-7*864e5})?"Nuevos esta semana":"";
+ if(k=="offers")return all.some(pxOff)?"Artículos en oferta":"";
  if(k=="fresh"){var w=LM?heroWhen(LM):"";return w?"Actualizado "+w:""}
- var nc=cats.filter(function(c){return all.some(function(p){return p.Category===c.name})}).length;
- return all.length?all.length+" artículos"+(nc>1?" · "+nc+" categorías":""):""}
+ return""}
  
 function heroImg(cls,src,j,sz){return'<img class="'+cls+'" alt="" decoding="async" '+(j<2?"":"data-")+'src="'+src+'"'+(sz||"")+">"}
 function heroProd(p,k,j){return'<a class="hsd hsp" data-nav href="'+pUrl(p.slug)+'"><div class="hin"><p class="hk">'+k+'</p><p class="ht">'+esc(p.Label)+
   '</p><p class="hpp">'+(p.Was?'<s class="was">'+money(p.Was)+"</s>":"")+usd(p.Price)+'</p><span class="hgo">Ver artículo</span></div><span class="hpi">'+
   heroImg("",thumb(p),j,' width="400" height="300"')+"</span></a>"}
 function heroCat(c,x,n,j){return'<a class="hsd hsp hsc" data-nav href="./?category='+enc(norm(c))+(x?"&subcategory="+enc(norm(x)):"")+'"><div class="hin"><p class="hk">'+
-  esc(x?c:"")+'</p><p class="ht">'+esc(x||c)+'</p><p class="hpp hpc">'+n+(n>1?" artículos":" artículo")+'</p><span class="hgo">Ver todos</span></div><span class="hpi">'+
+  esc(x?c:"")+'</p><p class="ht">'+esc(x||c)+'</p><span class="hgo">Ver todos</span></div><span class="hpi">'+
   heroImg("",tileImg(c,x),j,' width="400" height="300"')+"</span></a>"}
 
 
@@ -1557,8 +1557,7 @@ function heroSlides(H){var r=[],seen={},pr=function(p,k){if(!p||seen[p.slug])ret
  return r}
 function hero(on){var e=$("hero"),H=heroConf();e.hidden=!on||!document.documentElement.hasAttribute("data-theme")||H.on===false||H.on===0;
  if(e.hidden){heroStop();return}
- var b='<div class="hin"><p class="hk">'+heroKick(H)+'</p><h1 class="ht">'+bnm(2)+'</h1><p class="hs">'+esc(M.Tagline||"")+"</p></div>"+
-  ((H.kick||"count")=="count"?'<div class="hn"><b>'+all.length+"</b><span>artículos</span></div>":""),sl=heroSlides(H),h=b;
+ var b='<div class="hin"><p class="hk">'+heroKick(H)+'</p><h1 class="ht">'+bnm(2)+'</h1><p class="hs">'+esc(M.Tagline||"")+"</p></div>",sl=heroSlides(H),h=b;
  if(sl.length){h='<div class="hss" aria-roledescription="carrusel"><div class="hsd on">'+b+"</div>"+sl.join("")+'</div><div class="hdots">';
   for(var i=0;i<=sl.length;i++)h+='<button type="button" class="hdot'+(i?"":" on")+'" data-hd="'+i+'" aria-label="Diapositiva '+(i+1)+'"></button>';h+="</div>"}
  h+="<i></i><i></i>"+seHero();
@@ -1611,7 +1610,7 @@ function tabs(arm){var h=chip("Todos",!arm&&!F.category,"cat","");
  var o=c.querySelector(".on");if(o){var r=o.getBoundingClientRect(),b=c.getBoundingClientRect();if(r.right>b.right)c.scrollLeft+=r.right-b.right+14;else if(r.left<b.left)c.scrollLeft-=b.left-r.left+14}}
 var LN=0,LK="",LR=[];
 function pgSize(){var c=1;try{c=getComputedStyle($("grid")).gridTemplateColumns.split(" ").filter(Boolean).length||1}catch(e){}return c*Math.ceil(24/c)}
-function moreTx(){return"Ver más <span>(quedan "+(LR.length-LN)+")</span>"}
+function moreTx(){return"Ver más"} 
  
 function cut(n){return LR.length-n<12?LR.length:n}
 function more(b){var a=LR.slice(LN,cut(LN+pgSize()));LN+=a.length;b.insertAdjacentHTML("beforebegin",a.map(card).join(""));
