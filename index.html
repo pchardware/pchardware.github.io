@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es" data-theme="grafito">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>PC Hardware</title>
 <link rel="manifest" href="app.webmanifest">
-<meta name="theme-color" content="#222222">
+<meta name="theme-color" content="#17191c">
 <link rel="apple-touch-icon" href="images/icons/app-192.png">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="PC Hardware">
@@ -16,6 +16,7 @@
 <meta name="description" content="Transporte disponible y flexibilidad en la forma de pago.">
 <meta property="og:url" content="https://pchardware.github.io/">
 <link rel="icon" type="image/png" href="images/icons/fav.png">
+<link rel="preload" href="fonts/manrope.woff2" as="font" type="font/woff2" crossorigin>
 <style>
 :root{--acc:#b42318;--bg:rgb(34,34,34);--on:#fff;--hd:var(--bg);--hdon:var(--on);--ft:var(--bg);--fton:var(--on);--card:#fff;--bd:#d0d5dd;--ink2:#344054;--ink3:#475467;--mut2:#98a2b3;--soft2:#e9ecf0;--r2:14px;--sh:rgba(16,24,40,.10);--font:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;--fbrand:var(--font);--fhead:var(--font);--ink:#14171c;--mut:#667085;--line:#e4e7ec;--page:#f4f5f7;--soft:#f1f3f6;--ok:#12715b;--okbg:#e3f3ec;--hot:#b42318;--hotbg:#fde9e7;--wa:#128c4a;--r:12px}
 *{box-sizing:border-box}
@@ -139,7 +140,7 @@ h2{font-family:var(--fhead);font-size:17px;letter-spacing:-.01em;margin:26px 0 1
 @media(min-width:900px){.lay2{grid-template-columns:minmax(0,1fr) 360px;gap:24px;align-items:start}.lay2>.side{position:sticky;top:72px;max-height:calc(100vh - 84px);overflow:auto}
  .lay2.bl2{grid-template-columns:360px minmax(0,1fr)}.bl2 .bsec{margin-top:0}
  .bpk .box{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);column-gap:28px}.bpk .box>.br:nth-child(2){border-top:0;padding-top:0}.bpk .box>.br:nth-last-child(2):nth-child(odd){padding-bottom:0}.bpk .acts{max-width:360px}}
-.bl2{gap:0}
+@media(max-width:899px){.bl2{gap:0}}
 .side .tot:first-child{border-top:0;padding-top:0;margin-top:0}
 .bint,.cartbox>p,.ap{max-width:70ch}
 .ci{display:grid;grid-template-columns:64px 1fr auto;gap:6px 12px;align-items:center;padding:14px 0;border-top:1px solid var(--soft)}
@@ -391,7 +392,96 @@ button.sv{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
 .nsls button svg{width:16px;height:16px;flex:none;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
 
 #hero,.kick{display:none}
-
+[data-theme] #hero{display:block;position:relative;margin:14px 0 6px;overflow:hidden}
+[data-theme] .hk,[data-theme] .hs,[data-theme] .ht{margin:0}
+[data-theme] .hs:empty,[data-theme] .hk:empty{display:none}
+[data-theme] .hn,[data-theme] #hero>i{display:none}
+[data-theme] .chip.on{background:var(--bg);border-color:var(--bg);color:var(--on)}
+[data-theme] #kws .chip.on{background:var(--ink);color:#fff}
+[data-theme] .use{border-radius:min(var(--r),14px)}
+[data-theme] .bchg{border-radius:min(var(--r),9px)}
+[data-theme] .br img,[data-theme] .br .ph,[data-theme] .ci img{border-radius:min(var(--r),8px)}
+[data-theme] .kick{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+[data-theme] .acts .btn,[data-theme] .acts .two .btn{min-width:0;white-space:normal;line-height:1.15;text-align:center}
+[data-theme] .pv h1{overflow-wrap:anywhere}
+@keyframes t-up{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@keyframes t-pop{0%{opacity:0;transform:scale(.9)}70%{opacity:1;transform:scale(1.03)}100%{opacity:1;transform:none}}
+@keyframes t-fade{from{opacity:0}to{opacity:1}}
+@keyframes t-float{50%{transform:translateY(-12px) rotate(6deg)}}
+@keyframes t-blink{50%{opacity:0}}
+@keyframes t-wig{0%,100%{transform:rotate(10deg)}50%{transform:rotate(16deg) scale(1.05)}}
+[data-theme] .grid .card:nth-child(2){animation-delay:.05s}[data-theme] .grid .card:nth-child(3){animation-delay:.1s}[data-theme] .grid .card:nth-child(4){animation-delay:.15s}
+[data-theme] .grid .card:nth-child(5){animation-delay:.2s}[data-theme] .grid .card:nth-child(6){animation-delay:.25s}
+@media(prefers-reduced-motion:reduce){[data-theme] *,[data-theme] *::before,[data-theme] *::after{animation:none!important;transition:none!important}}
+@font-face{font-family:TF;src:url(fonts/manrope.woff2) format("woff2");font-weight:400 800;font-display:swap}
+[data-theme=grafito]{--bg:#17191c;--on:#fff;--hd:#17191c;--hdon:#f5f6f7;--ft:#141618;--fton:#b9bec6;--ink:#111418;--ink2:#2c323b;--ink3:#434b57;--mut:#5f6875;--mut2:#98a0ab;
+--line:#e3e6ea;--bd:#d2d6dc;--page:#f5f6f7;--soft:#eef0f2;--soft2:#e4e7eb;--r:14px;--r2:18px;--acc:#d92d20;--hot:#b42318;--hotbg:#fdeceb;--ok:#0f7a55;--okbg:#e4f4ec;
+--e1:0 0 0 1px rgba(17,20,24,.06),0 1px 2px rgba(17,20,24,.05);--e2:0 0 0 1px rgba(17,20,24,.08),0 16px 36px rgba(17,20,24,.13);
+--font:TF,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+[data-theme=grafito] body{font-size:14.5px;letter-spacing:-.003em}
+[data-theme=grafito] #note{background:#0c0d0f;color:#c9ced6;box-shadow:none;font-size:11.5px;font-weight:500;letter-spacing:.04em}
+[data-theme=grafito] header{background:linear-gradient(180deg,#202327,#141618);box-shadow:inset 0 1px 0 rgba(255,255,255,.07),0 10px 28px rgba(17,20,24,.14)}
+[data-theme=grafito] .bar{min-height:60px}
+[data-theme=grafito] .brand{letter-spacing:.16em;font-weight:300;font-size:16.5px;line-height:60px}
+[data-theme=grafito] .brand b{font-weight:800}
+[data-theme=grafito] .search input{height:40px;border-radius:12px;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.12);transition:background .15s,box-shadow .15s}
+[data-theme=grafito] .search input:focus{background:#fff;border-color:#fff;box-shadow:0 0 0 4px rgba(255,255,255,.16)}
+[data-theme=grafito] .search>svg{top:11px}
+[data-theme=grafito] #accBtn.in{background:rgba(255,255,255,.1)}
+@media(max-width:559px){[data-theme=grafito] #accBtn.in{background:none}}
+[data-theme=grafito] #inst{border-radius:12px}
+[data-theme=grafito] #hero{margin:0;padding:34px 0 26px;border-bottom:1px solid var(--line)}
+[data-theme=grafito] .hk{display:flex;align-items:center;gap:8px;font-size:11.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--mut)}
+[data-theme=grafito] .hk::before{content:"";width:6px;height:6px;border-radius:50%;background:var(--ok);box-shadow:0 0 0 4px var(--okbg)}
+[data-theme=grafito] .ht{margin-top:12px;font-size:clamp(36px,9vw,72px);line-height:1;font-weight:300;letter-spacing:-.045em;color:var(--mut)}
+[data-theme=grafito] .ht b{font-weight:800;color:var(--ink)}
+[data-theme=grafito] .hs{margin-top:12px;font-size:16px;color:var(--ink3);max-width:50ch}
+[data-theme=grafito] #cats{gap:26px}
+[data-theme=grafito] #cats .chip{font-size:14px;font-weight:600;letter-spacing:.01em;padding:15px 1px 13px;box-shadow:none;transition:color .15s}
+[data-theme=grafito] #cats .chip.on{font-weight:800}
+@media(hover:hover){[data-theme=grafito] #cats .chip:hover{color:var(--ink)}}
+[data-theme=grafito] .chip{border:0;box-shadow:var(--e1);font-weight:500;transition:box-shadow .15s}
+[data-theme=grafito] .chip.on{box-shadow:none}
+[data-theme=grafito] #kws .chip{box-shadow:none;border-radius:8px;font-weight:500}
+[data-theme=grafito] .tools .nsel{border:0;box-shadow:var(--e1);border-radius:12px}
+[data-theme=grafito] .nsel,[data-theme=grafito] .qty{border-radius:12px}
+[data-theme=grafito] h2{font-size:20px;font-weight:800;letter-spacing:-.03em}
+[data-theme=grafito] .hcat{letter-spacing:.14em;font-size:11.5px}
+@media(min-width:560px){[data-theme=grafito] .grid{gap:18px}}
+[data-theme=grafito] .grid .card:nth-child(-n+12){animation:t-up .4s both}
+[data-theme=grafito] .card{border:0;box-shadow:var(--e1);transition:box-shadow .2s,transform .2s}
+@media(hover:hover){[data-theme=grafito] .card:hover{transform:translateY(-3px);box-shadow:var(--e2)}[data-theme=grafito] .card:hover .pic img{transform:scale(1.04)}}
+[data-theme=grafito] .pic{padding:10px}
+[data-theme=grafito] .pic img{transition:transform .3s}
+[data-theme=grafito] .b1,[data-theme=grafito] .b2{font-weight:700;letter-spacing:.04em;box-shadow:0 1px 3px rgba(17,20,24,.12)}
+[data-theme=grafito] .b1{background:#fff}
+[data-theme=grafito] .b2{background:var(--acc);color:#fff}
+[data-theme=grafito] .info{border-top:1px solid var(--soft);padding:11px 13px 13px;gap:4px}
+[data-theme=grafito] .kick{display:block;font-size:10.5px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--mut2)}
+[data-theme=grafito] .name{font-size:14.5px;font-weight:700;letter-spacing:-.01em}
+[data-theme=grafito] .price{font-size:20px;font-weight:800;letter-spacing:-.03em}
+[data-theme=grafito] .add{width:38px;height:38px;border:0;background:var(--bg);color:var(--on);transition:transform .15s,background .15s}
+[data-theme=grafito] .add.on{background:var(--ok)}
+@media(hover:hover){[data-theme=grafito] .add:hover{transform:scale(1.08)}}
+[data-theme=grafito] .tile{border:0;box-shadow:var(--e1);transition:box-shadow .2s,transform .2s}
+[data-theme=grafito] .tile span{border-top:1px solid var(--soft);font-weight:700;text-align:center}
+@media(hover:hover){[data-theme=grafito] .tile:hover{transform:translateY(-3px);box-shadow:var(--e2)}}
+[data-theme=grafito] .bpromo{border:0;box-shadow:var(--e1)}
+[data-theme=grafito] .bpromo.big{background:radial-gradient(420px 200px at 100% 0,rgba(255,255,255,.1),transparent 70%),linear-gradient(180deg,#202327,#141618);box-shadow:0 14px 34px rgba(17,20,24,.18)}
+[data-theme=grafito] .bpromo.big b{font-size:18px;font-weight:800;letter-spacing:-.02em}
+[data-theme=grafito] .gal{border:0;box-shadow:var(--e1)}
+[data-theme=grafito] .box{border:0;box-shadow:var(--e1)}
+[data-theme=grafito] .pv h1{font-size:27px;font-weight:800;letter-spacing:-.035em;line-height:1.14}
+[data-theme=grafito] .pv .price{font-size:38px;font-weight:800;letter-spacing:-.04em}
+[data-theme=grafito] .specs span{background:var(--soft);border-radius:8px;padding:5px 10px;font-weight:600;color:var(--ink2)}
+[data-theme=grafito] .btn{border-radius:12px;font-weight:700;height:50px;transition:transform .12s,box-shadow .15s}
+[data-theme=grafito] .btn:not(.alt):not(.wa):not(.wao){background:linear-gradient(180deg,#24272c,#141618);border-color:#141618;box-shadow:0 10px 22px rgba(17,20,24,.22)}
+[data-theme=grafito] .btn.alt{border:0;box-shadow:var(--e1)}
+@media(hover:hover){[data-theme=grafito] .btn:hover{transform:translateY(-1px)}}
+[data-theme=grafito] .sec{letter-spacing:.14em}
+[data-theme=grafito] #top{border:0;box-shadow:var(--e2)}
+[data-theme=grafito] footer{background:linear-gradient(180deg,#1b1e22,#111315);box-shadow:inset 0 1px 0 rgba(255,255,255,.06)}
+[data-theme=grafito] .fcols b{font-weight:700;color:#fff}
 </style>
 </head>
 <body>
