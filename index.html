@@ -62,8 +62,10 @@ html #note.se{position:relative;overflow:hidden;box-shadow:none;background:var(-
 @media(min-width:900px){.seg{--sgz:1.15}}
 @media(max-width:560px){.seg{--sgz:.8}}
 
-#seH{top:100%;--sgz:.8;transform-origin:50% 0;transition:opacity .28s,transform .28s}
-@media(max-width:560px){#seH{--sgz:.64}}
+#seH{--sgz:.92;top:calc(100% - 8px);height:calc(var(--shh,24px)*var(--sgz));background:var(--shg) 0 0/calc(var(--shw,264px)*var(--sgz)) calc(var(--shh,24px)*var(--sgz)) repeat-x;
+ transform-origin:50% 0;transition:opacity .28s,transform .28s}
+#seH::after{background:var(--shl) 0 0/calc(var(--shw,264px)*var(--sgz)) calc(var(--shh,24px)*var(--sgz)) repeat-x}
+@media(max-width:560px){#seH{--sgz:.8;top:calc(100% - 7px)}}
 html.seup #seH{opacity:0;transform:translateY(-8px) scaleY(.55)}
 @media(prefers-reduced-motion:reduce){#seH{transition:none}}
 
@@ -1202,12 +1204,12 @@ function seArt(){if(SEA!==null)return;SEA=0;var done=function(d){if(SEA)return;S
 function seObj(q){var p=String(q).split(":"),o=SEA.o[p[0]];return typeof o=="function"?o(p[1],p[2],p[3]):String(o||"").replace(/@1/g,p[1]||"#888").replace(/@2/g,p[2]||"#fff")}
 function seKit(sk){return SEA&&SEA.k&&SEA.k[sk]||null}
  
-function seGar(sk,gl){var se=SE[sk],a=seKit(sk),j=0,s,d,i,t;
- if(a&&a.g){var n=a.gn||3,k=a.gs||20;s='<svg xmlns="http://www.w3.org/2000/svg" width="264" height="'+(k+16)+'" viewBox="0 0 264 '+(k+16)+'">'+(gl?"":'<path d="M0 3Q66 21 132 3T264 3" fill="none" stroke="'+(a.gw||"#8b9099")+'" stroke-width="1.2"/>');
-  for(d=0;d<2;d++)for(i=0;i<n;i++,j++){t=(i+.5)/n;var x=d*132+t*132,y=3+36*t*(1-t),q=a.g[j%a.g.length];
+function seGar(sk,gl,low){var se=SE[sk],a=seKit(sk),j=0,s,d,i,t;
+ if(a&&a.g){var n=a.gn||3,k=low?Math.min(a.gs||20,14):a.gs||20,F=low?16:36,H=low?k+9:k+16;s='<svg xmlns="http://www.w3.org/2000/svg" width="264" height="'+H+'" viewBox="0 0 264 '+H+'">'+(gl?"":'<path d="M0 3Q66 '+(low?11:21)+' 132 3T264 3" fill="none" stroke="'+(a.gw||"#8b9099")+'" stroke-width="1.2"/>');
+  for(d=0;d<2;d++)for(i=0;i<n;i++,j++){t=(i+.5)/n;var x=d*132+t*132,y=3+F*t*(1-t),q=a.g[j%a.g.length];
    s+=gl?'<circle fill="'+(q.split(":")[1]||"#fff")+'" fill-opacity=".3" cx="'+x.toFixed(1)+'" cy="'+(y+1+k*.56).toFixed(1)+'" r="'+(k*.6).toFixed(1)+'"/>':
     '<g transform="translate('+(x-k/2).toFixed(1)+" "+(y+.5).toFixed(1)+") scale("+(k/48).toFixed(3)+')">'+seObj(q)+"</g>"}
-  return[seUri(s+"</svg>"),264,k+16]}
+  return[seUri(s+"</svg>"),264,H]}
  var m=se.g=="flag"?5:3;s='<svg xmlns="http://www.w3.org/2000/svg" width="240" height="28" viewBox="0 0 240 28">'+(gl?"":'<path d="M0 2Q60 16 120 2T240 2" fill="none" stroke="#8b9099" stroke-width="1.1"/>');
  for(d=0;d<2;d++)for(i=0;i<m;i++,j++){t=(i+.5)/m;
   s+='<g transform="translate('+(d*120+t*120-6).toFixed(1)+" "+(1.5+28*t*(1-t)).toFixed(1)+')">'+(gl?'<circle fill="@" fill-opacity=".3" cx="6" cy="8.5" r="7.5"/>':SG[se.g]).replace(/@/g,se.gc[j%se.gc.length])+"</g>"}
@@ -1263,23 +1265,26 @@ function seScene(h){var s=h.querySelector(".ses");if(h.style.paddingBottom)h.sty
  if(o>4){if(o<=64)h.style.paddingBottom=Math.round(parseFloat(getComputedStyle(h).paddingBottom)+o+6)+"px";else s.style.visibility="hidden"}}
 var seRT=0;window.addEventListener("resize",function(){clearTimeout(seRT);seRT=setTimeout(seFit,150)});
 var seUp=false;window.addEventListener("scroll",function(){var u=(window.pageYOffset||0)>40;if(u!=seUp){seUp=u;document.documentElement.classList.toggle("seup",u)}},{passive:true});
-function sePaint(sk){var de=document.documentElement,st=de.style,se=SE[sk],V=["--sea","--sex","--sek","--sep","--set","--seg","--seh","--sgw","--sgh","--sei"],
-  art=SEA?"1":"",key=(sk||"")+"|"+seLvl()+"|"+art,rk=(sk||"")+"|"+seLvl();
+ 
+var SEGH={mercado:1};function seInHero(){return!!SEGH[document.documentElement.getAttribute("data-theme")]}
+function sePaint(sk){var de=document.documentElement,st=de.style,se=SE[sk],V=["--sea","--sex","--sek","--sep","--set","--seg","--seh","--sgw","--sgh","--shg","--shl","--shw","--shh","--sei"],
+  art=SEA?"1":"",key=(sk||"")+"|"+seLvl()+"|"+art+"|"+(seInHero()?1:0),rk=(sk||"")+"|"+seLvl();
  if(se&&!SEA)seArt();
  if(de._sek===key){seTone();return}de._sek=key;
  var ft=$("contacto"),fg=ft.querySelector(".seg"),want=!!se&&!!art&&seLvl()>=2;
  if(want&&!fg)ft.insertAdjacentHTML("afterbegin",'<span class="seg"></span>');else if(!want&&fg)fg.remove();
- var hg=$("seH");if(want&&!hg)$("brand").closest("header").insertAdjacentHTML("beforeend",'<span class="seg" id="seH"></span>');else if(!want&&hg)hg.remove();
+ var hg=$("seH"),wh=want&&!seInHero();if(wh&&!hg)$("brand").closest("header").insertAdjacentHTML("beforeend",'<span class="seg" id="seH"></span>');else if(!wh&&hg)hg.remove();
  if(!se){de.removeAttribute("data-se");de.removeAttribute("data-sel");V.forEach(function(v){st.removeProperty(v)});de._ser="";seRain("");seTone();return}
  de.setAttribute("data-se",sk);de.setAttribute("data-sel",seLvl());
  st.setProperty("--sea","linear-gradient(90deg,"+se.a+","+se.b+" 50%,"+se.a+")");st.setProperty("--sex",se.x);st.setProperty("--sek",se.k);
  st.setProperty("--sep",sePat(se));st.setProperty("--set",seTr(se.tr));
- if(art){var g=seGar(sk);st.setProperty("--seg",g[0]);st.setProperty("--sgw",g[1]+"px");st.setProperty("--sgh",g[2]+"px");st.setProperty("--seh",se.gl?seGar(sk,1)[0]:"none")}
+ if(art){var g=seGar(sk);st.setProperty("--seg",g[0]);st.setProperty("--sgw",g[1]+"px");st.setProperty("--sgh",g[2]+"px");st.setProperty("--seh",se.gl?seGar(sk,1)[0]:"none");
+  g=seGar(sk,0,1);st.setProperty("--shg",g[0]);st.setProperty("--shw",g[1]+"px");st.setProperty("--shh",g[2]+"px");st.setProperty("--shl",se.gl?seGar(sk,1,1)[0]:"none")}
  seTone();
  if(de._ser!==rk){de._ser=rk;if(seLvl()>=3)seRain(sk,SEF!=null);else seRain("")}}
  
 function seHero(){var sk=seKey(),se=SE[sk],a=seKit(sk);if(!se||!SEA||seLvl()<2)return"";
- return(a&&a.s?'<span class="ses"><svg viewBox="0 0 200 150" aria-hidden="true">'+a.s.map(function(q){
+ return(seInHero()?'<span class="seg"></span>':"")+(a&&a.s?'<span class="ses"><svg viewBox="0 0 200 150" aria-hidden="true">'+a.s.map(function(q){
   return'<g transform="translate('+q[1]+" "+q[2]+") rotate("+(q[4]||0)+" "+q[3]/2+" "+q[3]/2+") scale("+(q[3]/48).toFixed(3)+')">'+seObj(q[0])+"</g>"}).join("")+"</svg></span>":"")}
  
 function seRain(sk,force){var se=SE[sk],o=$("seP");if(o)o.remove();if(!se||!se.p)return;
