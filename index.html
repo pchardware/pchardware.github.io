@@ -471,7 +471,7 @@ button.sv{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
 header,#note{padding-left:var(--tbl);padding-right:var(--tbr);-webkit-app-region:drag;app-region:drag}
 header a,header button,header input,#searchBox,#accMenu,#note a,#note button{-webkit-app-region:no-drag;app-region:no-drag}}
 
-#hero,.kick,#fBrand{display:none}
+#hero,.kick{display:none}
 [data-theme] #hero{display:block;position:relative;margin:14px 0 6px;overflow:hidden;overflow:clip}
 [data-theme] .hk,[data-theme] .hs,[data-theme] .ht{margin:0}
 [data-theme] .hs:empty,[data-theme] .hk:empty{display:none}
@@ -695,10 +695,6 @@ box-shadow:inset 0 0 0 1px color-mix(in srgb,currentColor 32%,transparent)}
 [data-theme=marco] footer{position:relative;overflow:hidden;background:radial-gradient(700px 300px at 86% 0,#1d2027,transparent 70%),#0e1014;box-shadow:none;padding-top:38px}
 [data-theme=marco] footer::before{content:"";position:absolute;left:0;right:0;top:0;height:2px;background:var(--mg)}
 [data-theme=marco] footer::after{content:"";position:absolute;left:0;bottom:0;width:58px;height:58px;background:var(--mc);clip-path:var(--tri)}
-[data-theme=marco] #fBrand{display:block;margin-bottom:28px;padding-bottom:28px;border-bottom:1px solid rgba(255,255,255,.09)}
-[data-theme=marco] .fbn{font-size:clamp(19px,5.4vw,26px);line-height:1.5;font-weight:300;letter-spacing:.16em;text-transform:uppercase;white-space:nowrap;color:var(--m1)}
-[data-theme=marco] .fbn b{font-weight:800}
-[data-theme=marco] .fbt{margin:12px 0 0;font-size:15px;font-weight:300;color:var(--m2)}
 [data-theme=marco] .fcols svg{box-sizing:content-box;flex:none;padding:9px;border-radius:11px 11px 11px 0;background:rgba(255,255,255,.07);color:var(--m1);clip-path:polygon(0 0,100% 0,100% 100%,8px 100%,0 calc(100% - 8px))}
 </style>
 </head>
@@ -741,7 +737,7 @@ box-shadow:inset 0 0 0 1px color-mix(in srgb,currentColor 32%,transparent)}
  <section id="vAcc" hidden></section>
 </main>
 <footer id="contacto"><div class="wrap">
- <div id="fBrand"></div><div class="fcols" id="fCols"></div><div class="fline"><p id="fFoot"></p><p id="fCopy"></p></div>
+ <div class="fcols" id="fCols"></div><div class="fline"><p id="fFoot"></p><p id="fCopy"></p></div>
 </div></footer>
 <button id="top" hidden aria-label="Subir"></button>
 <button id="wa" hidden aria-label="WhatsApp"></button>
@@ -1386,9 +1382,8 @@ function chrome(){
   (se&&SEA===-1?IC[se.i].replace("<svg",'<svg class="sei"'):"");
  $("note").hidden=!nt;$("note").className=se?"se":"";
  $("note").firstChild.innerHTML=(se&&nt?IC[se.i]:"")+esc(nt);sePaint(sk);
- $("fBrand").innerHTML='<div class="fbn">'+bnm(2)+"</div>"+(M.Tagline?'<p class="fbt">'+esc(M.Tagline)+"</p>":"");
- $("fFoot").textContent=M.Foot||"";
- $("fCopy").textContent="© "+new Date().getFullYear()+" "+(M.Title||"");
+ $("fFoot").textContent=M.Foot||"";$("fFoot").hidden=!M.Foot;
+ $("fCopy").textContent="© "+new Date().getFullYear()+" "+(M.Title||"")+(M.Tagline?" · "+M.Tagline:"");
  $("wa").hidden=!(M.Cell>0);cartCount()}
 
  
