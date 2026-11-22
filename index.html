@@ -410,6 +410,7 @@ footer p{margin:0 0 6px;opacity:.7}
 .admk{background:none;border:0}.admk svg{width:34px;height:34px;fill:var(--hot,#d92d20);stroke:#fff;stroke-width:1.6;filter:drop-shadow(0 2px 3px rgba(0,0,0,.35))}
 .adps{display:flex;align-items:center;gap:10px;margin-top:8px;padding:9px 10px 9px 12px;border-radius:10px;background:var(--soft)}
 .adps[hidden]{display:none}.adpi svg{width:20px;height:20px;display:block;fill:none;stroke:var(--ink);stroke-width:1.9}
+.adps.adbad{background:rgba(247,144,9,.13)}.adps.adbad .adpi svg{stroke:#dc6803}.adps.adbad small{color:var(--ink)}.adps .adpt .czch{display:block;margin-top:4px}
 .adpt{flex:1;min-width:0;line-height:1.3}.adpt b{display:block;font-size:14px;color:var(--ink)}.adpt small{font-size:13px;color:var(--mut)}
 .adx2{flex:none;width:32px;height:32px;display:flex;align-items:center;justify-content:center;border-radius:8px;color:var(--mut);font-size:13px;font-weight:600}
 .adx2 svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round}a.adx2{width:auto;padding:0 6px;color:var(--ink);text-decoration:underline}
@@ -426,6 +427,14 @@ footer p{margin:0 0 6px;opacity:.7}
 .czac input{width:19px;height:19px;flex:none;margin:1px 0 0;accent-color:var(--wa);cursor:pointer}
 .czac small{display:block;margin-top:2px;font-size:12.5px;color:var(--mut)}
 
+.czmt{display:flex;align-items:center;gap:10px;width:100%;min-height:46px;margin:6px 0 4px;padding:7px 12px;border:1px solid var(--line);border-radius:11px;background:var(--card);color:var(--ink2);font-size:14px;text-align:left;cursor:pointer}
+.czmt i{position:relative;width:18px;height:18px;flex:none;border:2px solid var(--bd);border-radius:5px}
+.czmt.on{border-color:var(--ink);color:var(--ink)}
+.czmt.on i{border-color:var(--ink);background:var(--ink)}
+.czmt.on i:after{content:"";position:absolute;left:4px;top:0;width:5px;height:10px;border:solid var(--card);border-width:0 2px 2px 0;transform:rotate(45deg)}
+.czmt span{flex:1;min-width:0;font-weight:600}
+.czmt small{display:block;font-size:12.5px;font-weight:400;color:var(--mut)}
+.czmt b{flex:none;font-weight:700;white-space:nowrap;font-variant-numeric:tabular-nums;text-align:right}
 .czpy{margin:-4px 0 14px}
 .czpy h4{margin:0 0 8px;font-size:14px;font-weight:600;color:var(--ink)}
 .czpy button{display:flex;align-items:center;gap:10px;width:100%;min-height:46px;margin:0 0 6px;padding:7px 12px;border:1px solid var(--line);border-radius:11px;background:var(--card);color:var(--ink2);font-size:14px;text-align:left;cursor:pointer}
@@ -1251,10 +1260,11 @@ function etSel(){var o=null;try{o=JSON.parse(localStorage.getItem("eta2")||"null
  return{d:isFinite(d)?Math.min(d,13):0,k:k,a:k=="a"||k=="e"?(isFinite(a)?a:720):null,b:k=="b"||k=="e"?(isFinite(b)?b:840):null,x:X}}
 function etSave(s){try{if(!s.d&&!s.k&&!s.x)localStorage.removeItem("eta2");else localStorage.setItem("eta2",JSON.stringify({f:etIso(etDay(s.d)),k:s.k,a:s.a,b:s.b,x:s.x||undefined}))}catch(e){}}
 function etKey(a){return gOk(a.g)?gKey(a.g):a.p&&a.m?a.p+"|"+a.m:""}
-function etCk(a,s){return etKey(a)+"/"+s.d+"/"+s.a+"/"+s.b}
+function etMnt(){var m=mtSel();return m?m.p:0}
+function etCk(a,s){return etKey(a)+"/"+s.d+"/"+s.a+"/"+s.b+"/"+etMnt()}
 function etHave(a,s){s=s||etSel();var e=etKey(a)&&ETV[etCk(a,s)];return e&&Date.now()-e.at<3e5?e.d:undefined}
 function etGet(a,s){s=s||etSel();var k=etCk(a,s);if(!etKey(a)||!(M.Auth&&M.Auth.url))return Promise.resolve(null);if(ETQ[k])return ETQ[k];
- var b=gOk(a.g)?{lat:+a.g[0],lon:+a.g[1]}:{p:a.p,m:a.m};b.d=s.d;if(s.a!=null)b.a=s.a;if(s.b!=null)b.b=s.b;
+ var b=gOk(a.g)?{lat:+a.g[0],lon:+a.g[1]}:{p:a.p,m:a.m};b.d=s.d;if(s.a!=null)b.a=s.a;if(s.b!=null)b.b=s.b;if(etMnt())b.mnt=etMnt();
  return(ETQ[k]=fetch(M.Auth.url+"/entrega",{method:"POST",body:JSON.stringify(b)}).then(function(r){return r.ok?r.json():null})
   .then(function(d){delete ETQ[k];ETV[k]={at:Date.now(),d:d&&"r" in d?d:null};return ETV[k].d}).catch(function(){delete ETQ[k];return null}))}
 
@@ -1287,7 +1297,7 @@ function etAsk(s){return etDn(s.d)+(s.k?", "+etWin(s.a,s.b):"")}
 
 var ET_MIN=60;
 function etNar(s){return s.k=="e"&&s.b-s.a<ET_MIN}
-function etDif(E,s){return!!(E&&E.r&&(etNar(s)||"x" in E&&(s.k=="b"||s.k=="e")&&(E.x==null||s.b<E.x)))}
+function etDif(E,s){return!!(E&&E.r&&(etNar(s)||s.k=="e"&&E.lim&&s.b>E.lim.a||"x" in E&&(s.k=="b"||s.k=="e")&&(E.x==null||s.b<E.x)))}
 
 
 
@@ -1298,7 +1308,8 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=fa
   
  
 
- function tOpt(v,lo,hi,t,L,X){var h="";for(var m=lo;m<=hi;m+=15){var n=L&&(t=="b"?m<L.b:m>L.a)?"a acordar":t!="a"&&X!=null&&m<X?"difícil":"";
+
+ function tOpt(v,lo,hi,t,L,X){var h="";for(var m=lo;m<=hi;m+=15){var n=L&&(t=="b"||t=="h"?m<L.b:m>L.a)?"a acordar":t=="h"&&L&&m>L.a||t!="a"&&X!=null&&m<X?"difícil":"";
   h+='<option value="'+m+'"'+(m==v?" selected":"")+(n?' data-n="'+n+'"':"")+">"+etHm(m)+"</option>"}return h}
  function draw(){var s=etSel(),E=etHave(ad),L=E&&E.lim,days="",i,LO=480,HI=1200;
    
@@ -1310,7 +1321,7 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=fa
   var K=[["","Lo antes posible"],["b","Antes de"],["a","Después de"],["e","Entre"]].map(function(x){return'<button type="button" data-k="'+x[0]+'" class="'+(s.k==x[0]?"on":"")+'" aria-pressed="'+(s.k==x[0])+'">'+x[1]+"</button>"}).join("");
   var T=s.k=="b"?'<div class="ettm"><select data-t="b" aria-label="Antes de">'+tOpt(s.b,Math.max(LO+15,mn),HI,"b",L,X)+"</select></div>":
    s.k=="a"?'<div class="ettm"><select data-t="a" aria-label="Después de">'+tOpt(s.a,Math.max(LO,mn),HI-15,"a",L)+"</select></div>":
-   s.k=="e"?'<div class="ettm"><select data-t="a" aria-label="Desde">'+tOpt(s.a,Math.max(LO,mn),HI-15,"f",L,X)+'</select><span>y</span><select data-t="b" aria-label="Hasta">'+tOpt(s.b,s.a+15,HI,"b",L,Math.max(X==null?0:X,s.a+ET_MIN))+"</select></div>":"";
+   s.k=="e"?'<div class="ettm"><select data-t="a" aria-label="Desde">'+tOpt(s.a,Math.max(LO,mn),HI-15,"f",L,X)+'</select><span>y</span><select data-t="b" aria-label="Hasta">'+tOpt(s.b,s.a+15,HI,"h",L,Math.max(X==null?0:X,s.a+ET_MIN))+"</select></div>":"";
   var R=E===undefined?'<p class="etr etw">Calculando…</p>':!E||!E.r?'<p class="etr">'+IC.clock+"<span>Con ese horario la entrega se acuerda con el pedido</span></p>":
    etDif(E,s)?'<p class="etr etd">'+IC.wa+'<span>'+(etNar(s)?"Una franja de menos de una hora es difícil":"Llegar a esa hora es difícil")+'. <a href="'+waUrl("Hola, ¿pueden entregarme un pedido "+etAsk(s)+"?")+
     '" target="_blank" rel="noopener">Escríbenos por WhatsApp</a> y vemos si se puede.</span></p>':
@@ -1386,9 +1397,12 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
   '<label>Observación <small class="adop">(opcional)</small></label><textarea data-ad="o" maxlength="200" rows="2"'+dis+' placeholder="'+(ro?"Sin observación":"Ej. portón verde, llamar al llegar")+'">'+esc(a.o||"")+"</textarea>"+
   (ro?"":'<button class="btn adok" disabled>Guardar dirección</button>');
   
- function ps(){var b=q(".adps");if(!b)return;if(!g){b.hidden=true;return}var r=ptHave(g);b.hidden=false;
+  
+ function mis(){if(!g)return false;var r=ptHave(g),p=q('[data-ad="p"]'),m=q('[data-ad="m"]');return!!(r&&r.m&&p&&(p.value!==r.p||m.value!==r.m))}
+ function ps(){var b=q(".adps");if(!b)return;if(!g){b.hidden=true;return}var r=ptHave(g),x=mis();b.hidden=false;b.classList.toggle("adbad",x);
   b.innerHTML='<span class="adpi">'+IC.pin+'</span><span class="adpt"><b>'+(r&&r.m?esc(r.m)+(r.p?", "+esc(r.p):""):"Punto marcado")+"</b><small>"+
-   (r===undefined?(pt?"Calculando el envío…":"Punto marcado en el mapa"):!r?"Punto marcado en el mapa":r.price!=null?"Envío hasta aquí: "+(r.price?money(r.price):"Gratis"):"Ese punto queda fuera de la zona de entrega")+"</small></span>"+
+   (x?"No coincide con el municipio elegido":r===undefined?(pt?"Calculando el envío…":"Punto marcado en el mapa"):!r?"Punto marcado en el mapa":r.price!=null?"Envío hasta aquí: "+(r.price?money(r.price):"Gratis"):"Ese punto queda fuera de la zona de entrega")+"</small>"+
+   (x&&!ro&&(G[r.p]||[]).indexOf(r.m)>=0?'<button type="button" class="czch" data-use>Usar '+esc(r.m)+"</button>":"")+"</span>"+
    (ro?'<a class="adx2" href="'+gLink(g)+'" target="_blank" rel="noopener">Ver</a>':'<button type="button" class="adx2" data-clr aria-label="Quitar el punto">'+IC.x+"</button>")}
  function setP(v){var p=q('[data-ad="p"]'),m=q('[data-ad="m"]');if(!p||!v||!v.p||!G[v.p])return;
   if(p.value!==v.p){p.value=v.p;m.innerHTML=op(G[v.p]||[],"",v.p);q('[data-ad="n"]').textContent=shNote(v.p)}
@@ -1415,15 +1429,18 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
  function cur(){var o={d:q('[data-ad="d"]').value.trim()},ob=q('[data-ad="o"]').value.trim(),p=q('[data-ad="p"]'),m=q('[data-ad="m"]'),z=q('[data-ad="z"]');
   if(p&&p.value){o.p=p.value;if(m.value){o.m=m.value;if(z&&z.value)o.z=z.value}}if(g)o.g=g;if(ob)o.o=ob;return o}
  function dirty(){var b=q(".adok");if(!b)return;var o=cur(),s=adGet();if(X)s=s.alt&&typeof s.alt=="object"?s.alt:{};
+   
+  if(mis()||(g&&pt&&ptHave(g)===undefined)){b.disabled=true;return}
   b.disabled=(o.d||"")==(s.d||"")&&(o.o||"")==(s.o||"")&&(o.p||"")==(s.p||(s.m||gOk(s.g)?"":DP))&&(o.m||"")==(s.m||"")&&(o.z||"")==(s.z||"")&&(o.g?gKey(o.g):"")==(gOk(s.g)?gKey(s.g):"")}
  ps();
  if(ro)return;
  if(g)ptGet(g).then(function(){if(e.isConnected)ps()});
  e.onchange=function(ev){var p=q('[data-ad="p"]'),m=q('[data-ad="m"]');if(p&&ev.target===p){m.innerHTML=op(G[p.value]||[],"",p.value);q('[data-ad="n"]').textContent=shNote(p.value)}
-  if(p&&(ev.target===p||ev.target===m))q('[data-ad="zw"]').innerHTML=zw(p.value,m.value,"");dirty()};
+  if(p&&(ev.target===p||ev.target===m)){q('[data-ad="zw"]').innerHTML=zw(p.value,m.value,"");ps()}dirty()};
  e.oninput=dirty;
  e.onclick=function(ev){var t=ev.target.closest&&ev.target.closest("button");if(!t||!e.contains(t))return;
   if(t.hasAttribute("data-gps"))gps(t);else if(t.hasAttribute("data-map"))mapOpen();else if(t.hasAttribute("data-clr"))setG(null);
+  else if(t.hasAttribute("data-use")){setP(ptHave(g));ps();dirty()}
   else if(t.classList.contains("adok")){var A=adGet(),o=cur();if(X){A=Object.assign({},A);A.alt=o;adSet(A)}else{if(A.alt)o.alt=A.alt;adSet(o)}dirty();toast("Dirección guardada",1500);if(opt.saved)opt.saved();else route(true)}};
  if(opt.map&&g)mapOpen()}
  
@@ -2164,6 +2181,28 @@ function pyBox(t){if(!pyOn())return"";var k0=pySel();
    '<p class="czpn">Otras formas o condiciones de pago se acuerdan después de hacer el pedido.</p>')+"</div>"}
 function pyLine(t){if(!pyOn())return"";var k=pySel(),q=pyQ(k,t);return"\nPago: "+PYN[k]+(q.w?(k=="otra"?" (":" · ")+q.w+(k=="otra"?")":""):"")}
 
+
+
+
+
+function mtOn(){try{return localStorage.getItem("mnt")=="1"}catch(e){return false}}
+function mtSet(v){try{v?localStorage.setItem("mnt","1"):localStorage.removeItem("mnt")}catch(e){}}
+function mtParts(){return(M.Mount&&M.Mount.parts)||[]}
+function mtCount(items){var P=mtParts(),c={};P.forEach(function(p){c[p.k]=0});
+ items.forEach(function(i){var p=bySlug[i.productId],q=parseInt(i.qty,10)||0;if(!p||q<=0)return;
+  var h=P.filter(function(x){var s=x.subs?x.subs.indexOf(p.SubCategory)>=0:!!x.re;try{return s&&(!x.re||new RegExp(x.re,"i").test(p.Label))}catch(e){return false}})[0];
+  if(h)c[h.k]+=q});
+ P.forEach(function(p){if(p.needs&&c[p.k]&&!p.needs.some(function(k){return c[k]}))c[p.needs[0]]=(c[p.needs[0]]||0)+c[p.k]});return c}
+function mtCalc(c){var P=mtParts(),cap=+(M.Mount&&M.Mount.cap)||0,cov={},t=0;
+ if(P.some(function(p){return p.all&&c[p.k]}))return cap;
+ P.forEach(function(p){if(c[p.k])(p.covers||[]).forEach(function(k){cov[k]=1})});
+ P.forEach(function(p){if(!cov[p.k])t+=(+p.p||0)*(c[p.k]||0)});return cap?Math.min(t,cap):t}
+ 
+function mtOf(items){if(!mtParts().length)return null;var c=mtCount(items),p=mtCalc(c);if(!(p>0))return null;
+ return{p:p,n:mtParts().filter(function(x){return c[x.k]}).map(function(x){return(c[x.k]>1?c[x.k]+" ":"")+x.n}).join(", ")}}
+ 
+function mtSel(){return mtOn()?mtOf(getCart().items):null}
+
  
 function cartView(){
  var c=getCart(),v=$("vCart"),keep=c.items.filter(function(i){return bySlug[i.productId]});
@@ -2187,7 +2226,9 @@ function cartView(){
  function tx(s){return esc(String(s).replace(/\n\s*\n+/g,"\n").trim())}
  var tr=(M.CartPayMethod&&!pyOn()?"<div>"+IC.cash+"<span><b>Forma de pago</b><span>"+tx(M.CartPayMethod)+"</span></span></div>":"")+
   (M.CartShipping?"<div>"+IC.truck+"<span><b>Envío</b><span>"+tx(M.CartShipping)+"</span></span></div>":"");
- var pk=dlOff()&&dlPk(),D=pk||COMO?null:etDest(),ad=D?D.a:adGet(),sh=pk?null:shOf(tot,ad),gq=gOk(ad.g)?ptHave(ad.g):undefined,gt=tot+(sh?sh.p:0);
+ var mA=mtOf(keep),mS=mA&&mtOn()?mA:null;
+ var pk=dlOff()&&dlPk(),D=pk||COMO?null:etDest(),ad=D?D.a:adGet(),sh=pk?null:shOf(tot,ad),gq=gOk(ad.g)?ptHave(ad.g):undefined,gt=tot+(sh?sh.p:0)+(mS?mS.p:0);
+ var mtB=mA?'<button type="button" class="czmt'+(mS?" on":"")+'" role="checkbox" aria-checked="'+!!mS+'" id="mtB"><i></i><span>Montaje<small>'+esc(mA.n)+"</small></span><b>"+money(mA.p)+"</b></button>":"";
  
 
  var adC=!COMO&&!!(M.Ship&&M.Ship.geo),has=!!(ad.p||ad.m||ad.d||gOk(ad.g)),chB=adC?'<button type="button" class="czch" id="adCh">'+(has?"Cambiar":"Añadir dirección")+"</button>":"";
@@ -2206,7 +2247,7 @@ function cartView(){
  var h='<div class="cartbox cz"><div class="czh"><h2>Tu cesta</h2><span class="czn">'+n+(n==1?" artículo":" artículos")+'</span><a class="czk" data-nav href="./">'+IC.l+"Seguir comprando</a></div>"+czUndo()+
   '<div class="lay2"><div class="box czl">'+rows+'<div class="czf"><button id="empty">'+IC.trash+"Vaciar la cesta</button></div></div>"+
   '<div class="side"><div class="box czs"><h3>Resumen del pedido</h3>'+
-  '<div class="czv"><span>Artículos ('+n+")</span><span>"+money(tot)+"</span></div>"+dlB+
+  '<div class="czv"><span>Artículos ('+n+")</span><span>"+money(tot)+"</span></div>"+mtB+dlB+
   (pk?'<div class="czv"><span>Recoger en el local<small>Te indicamos dónde por WhatsApp</small></span><span class="czg">Gratis</span></div>':
    sh?'<div class="czv"><span>Envío · '+esc(sh.n)+(sh.v>1?" · "+sh.v+" viajes":"")+(ad.d?"<small>"+esc(ad.d)+"</small>":gOk(ad.g)?"<small>Punto marcado en el mapa</small>":"")+chB+"</span><span"+(sh.p?"":' class="czg"')+">"+(sh.p?money(sh.p):"Gratis")+"</span></div>":
    adC?'<div class="czv"><span>Envío'+(ad.m||ad.d?"<small>"+esc([ad.m,ad.d].filter(Boolean).join(" · "))+"</small>":"")+chB+'</span><span class="czq">'+(gOk(ad.g)&&ptHave(ad.g)===undefined?"…":"Se acuerda")+"</span></div>":"")+
@@ -2217,6 +2258,7 @@ function cartView(){
   '<div class="czbar"><div><small>Total</small><b>'+money(gt)+'</b></div><button class="btn wa" id="orderB">'+IC.wa+"Enviar el pedido</button></div></div>";
  v.innerHTML=h;cxHook(keep);if(pyOn()){pyRate(function(){if(!$("vCart").hidden)cartView()});[].forEach.call(v.querySelectorAll("[data-py]"),function(b){b.onclick=function(){pySet(b.getAttribute("data-py"));cartView()}})}if($("adCh"))$("adCh").onclick=function(){adSheet(D&&D.i?1:0)};
  if($("etCh"))$("etCh").onclick=function(){etSheet(adGet())};
+ if($("mtB"))$("mtB").onclick=function(){mtSet(!mtOn());cartView()};
  [].forEach.call(v.querySelectorAll("[data-dl]"),function(b){b.onclick=function(){if((b.getAttribute("data-dl")=="1")!=dlPk()){dlSet(b.getAttribute("data-dl")=="1");cartView()}}});
   
  if(window.IntersectionObserver){if(czIO)czIO.disconnect();czIO=new IntersectionObserver(function(e){var b=v.querySelector(".czbar");if(b)b.classList.toggle("off",e[e.length-1].isIntersecting)});czIO.observe($("order"))}}
@@ -2304,7 +2346,8 @@ function order(){
  if(!items.length)return;
  T("wa","pedido");items.forEach(function(x){T("ord",x.id)});tCk("con");tCk("ver");tCk("pedido");
  var so=tOrig;try{so=so||sessionStorage.getItem("ts")||"";localStorage.setItem("co",cSig())}catch(e){}if(so)T("so",so,true);
- var pk=dlOff()&&dlPk(),D=pk?null:etDest(),ad=pk?{}:D.a,sh=pk?null:shOf(tot,ad),e0=etSel(),A1=pk?{}:adGet(),A2=!pk&&etOn(e0)?adAlt():null;if(sh){t+="\nEnvío ("+sh.n+(sh.v>1?", "+sh.v+" viajes":"")+"): "+(sh.p?"$"+sh.p:"gratis");tot+=sh.p}
+ var mt=mtOn()?mtOf(ci):null;if(mt)t+="\nMontaje ("+mt.n+"): $"+mt.p;
+ var pk=dlOff()&&dlPk(),D=pk?null:etDest(),ad=pk?{}:D.a,sh=pk?null:shOf(tot,ad),e0=etSel(),A1=pk?{}:adGet(),A2=!pk&&etOn(e0)?adAlt():null;if(mt)tot+=mt.p;if(sh){t+="\nEnvío ("+sh.n+(sh.v>1?", "+sh.v+" viajes":"")+"): "+(sh.p?"$"+sh.p:"gratis");tot+=sh.p}
  function adT(a,h){var x="";if(a.p||a.m||a.d)x+="\n"+h+[a.p,a.m,a.z,a.d].filter(Boolean).join(" · ");if(gOk(a.g))x+="\nUbicación: "+gLink(a.g);if(a.o)x+="\nObservación: "+a.o;return x}
  t+="\nTotal: $"+tot+" USD"+pyLine(tot);if(pk)t+="\n\nEntrega: recoger en el local";t+="\n"+adT(A1,"Entrega: ");if(t.slice(-1)=="\n")t=t.slice(0,-1);
  var E=pk?undefined:D.E,eS=D?D.s:e0;
