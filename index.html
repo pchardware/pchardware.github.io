@@ -387,6 +387,7 @@ footer p{margin:0 0 6px;opacity:.7}
 #accNm .an{margin:6px 2px 0;font-size:13px;color:var(--mut)}#accNm .btn{margin-top:10px}#nmOk:disabled{opacity:.4;cursor:default}
 .adf select,.adf textarea,#accNm input{width:100%;border:1px solid var(--bd);border-radius:10px;padding:10px 12px;font:inherit;font-size:15px;background:var(--card);color:var(--ink)}
 .adf textarea{min-height:68px;resize:vertical;display:block}
+.adf textarea[data-ad="o"]{min-height:46px}.adf label .adop{font-size:inherit;opacity:.75}
 .adf .an{margin:6px 2px 0;font-size:13px;color:var(--mut)}
 .adf .an:empty{display:none}
 .adf .btn{margin-top:10px}
@@ -416,6 +417,17 @@ footer p{margin:0 0 6px;opacity:.7}
 .czet>svg{width:17px;height:17px;flex:none;margin-top:1px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
 .czet b{color:var(--ink);font-weight:600}.czet small{display:block;margin-top:1px;font-size:12.5px;color:var(--mut)}
 .czet .czch{display:block;margin-top:3px;padding:0;border:0;background:none;font-size:13px;font-weight:600;color:var(--ink);text-decoration:underline;text-underline-offset:3px;cursor:pointer}
+
+.czgw{display:flex;align-items:center;gap:5px;margin-top:3px;font-size:12.5px;color:var(--mut)}
+.czgw svg{width:14px;height:14px;flex:none;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.czac{margin:0 0 14px;padding:10px 12px;border:1px solid var(--line);border-radius:11px;font-size:14px;line-height:1.4;color:var(--ink2)}
+.czac.nag{border-color:var(--hot);background:var(--hotbg)}
+.czac label{display:flex;align-items:flex-start;gap:10px;cursor:pointer}
+.czac input{width:19px;height:19px;flex:none;margin:1px 0 0;accent-color:var(--wa);cursor:pointer}
+.czac small{display:block;margin-top:2px;font-size:12.5px;color:var(--mut)}
+.czac .czch{display:block;margin:6px 0 0 29px;padding:0;border:0;background:none;font-size:13px;font-weight:600;color:var(--ink);text-decoration:underline;text-underline-offset:3px;cursor:pointer}
+.czac .czwx{margin:8px 0 0 29px;white-space:pre-line;font-size:13px;color:var(--ink2)}
+.czac .czan{margin:8px 0 0 29px;font-size:13px;font-weight:600;color:var(--hot)}
 .etg{margin:4px 0 12px}.etg>small{display:block;margin:0 2px 2px;font-size:12.5px;font-weight:600;color:var(--mut)}
 .etg select,.etg .nsel{width:100%}
 .etk{display:grid;grid-template-columns:1.3fr 1fr 1fr 1fr;gap:4px;padding:4px;border-radius:12px;background:var(--soft)}
@@ -424,7 +436,7 @@ footer p{margin:0 0 6px;opacity:.7}
 .ettm{display:flex;align-items:center;gap:8px;margin-top:8px}.ettm>select,.ettm>.nsel{flex:1;min-width:0}.ettm>span{color:var(--mut);font-size:14px}
 .etr{display:flex;align-items:flex-start;gap:9px;margin:4px 0 12px;padding:10px 12px;border-radius:11px;background:var(--soft);font-size:14px;line-height:1.35;color:var(--ink2)}
 .etr svg{width:17px;height:17px;flex:none;margin-top:1px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
-.etr b{color:var(--ink);font-weight:600}.etr.etw{color:var(--mut)}
+.etr b{color:var(--ink);font-weight:600}.etr.etw{color:var(--mut)}.etr.etd{background:rgba(247,144,9,.13);color:var(--ink)}.etr.etd svg{color:#dc6803}.etr.etd a{color:inherit;font-weight:600;text-decoration:underline}
 .adbx .etok{width:100%}
 .adsh{position:fixed;inset:0;z-index:80;background:rgba(16,24,40,.5);display:flex;align-items:flex-end;justify-content:center}
 .adbx{width:100%;max-width:520px;max-height:92vh;overflow:auto;background:var(--card);border-radius:18px 18px 0 0;padding:6px 18px calc(18px + env(safe-area-inset-bottom,0px));box-shadow:0 -10px 40px rgba(16,24,40,.25)}
@@ -1214,16 +1226,25 @@ function etTxt(r){return r?etDn(r.d)+", "+etWin(r.a,r.b):""}
 function etAsk(s){return etDn(s.d)+(s.k?", "+etWin(s.a,s.b):"")}
 
 
-function etSheet(ad){var ov=document.createElement("div");ov.className="adsh";
+function etDif(E,s){return!!(E&&E.r&&"x" in E&&(s.k=="b"||s.k=="e")&&(E.x==null||s.b<E.x))}
+
+
+function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null;ov.className="adsh";
   
  function tOpt(v,lo,hi,t,L){var h="";for(var m=lo;m<=hi;m+=15)h+='<option value="'+m+'"'+(m==v?" selected":"")+(L&&(t=="b"?m<L.b:m>L.a)?' data-n="a acordar"':"")+">"+etHm(m)+"</option>";return h}
  function draw(){var s=etSel(),E=etHave(ad),L=E&&E.lim,days="",i,LO=480,HI=1200;
+   
+  if(E){LH=E.h;LX={d:s.d,x:E.x}}var mn=!s.d&&LH!=null&&LH<=HI-15?LH:0;
+  if(mn&&s.k&&((s.k!="a"&&s.b<mn)||(s.k!="b"&&s.a<mn))){if(s.k=="b")s.b=LX&&LX.d==s.d&&LX.x!=null?Math.max(mn,LX.x):mn;
+   else{s.a=Math.max(s.a,mn);if(s.k=="e"&&s.b<=s.a)s.b=Math.min(HI,s.a+60)}etSave(s);E=etHave(ad);L=E&&E.lim}
   for(i=0;i<7;i++){var nm=etDn(i).replace(/^el /,"");days+='<option value="'+i+'"'+(i==s.d?" selected":"")+">"+nm.charAt(0).toUpperCase()+nm.slice(1)+"</option>"}
   var K=[["","Lo antes posible"],["b","Antes de"],["a","Después de"],["e","Entre"]].map(function(x){return'<button type="button" data-k="'+x[0]+'" class="'+(s.k==x[0]?"on":"")+'" aria-pressed="'+(s.k==x[0])+'">'+x[1]+"</button>"}).join("");
-  var T=s.k=="b"?'<div class="ettm"><select data-t="b" aria-label="Antes de">'+tOpt(s.b,LO+15,HI,"b",L)+"</select></div>":
-   s.k=="a"?'<div class="ettm"><select data-t="a" aria-label="Después de">'+tOpt(s.a,LO,HI-15,"a",L)+"</select></div>":
-   s.k=="e"?'<div class="ettm"><select data-t="a" aria-label="Desde">'+tOpt(s.a,LO,HI-15,"a",L)+'</select><span>y</span><select data-t="b" aria-label="Hasta">'+tOpt(s.b,s.a+15,HI,"b",L)+"</select></div>":"";
+  var T=s.k=="b"?'<div class="ettm"><select data-t="b" aria-label="Antes de">'+tOpt(s.b,Math.max(LO+15,mn),HI,"b",L)+"</select></div>":
+   s.k=="a"?'<div class="ettm"><select data-t="a" aria-label="Después de">'+tOpt(s.a,Math.max(LO,mn),HI-15,"a",L)+"</select></div>":
+   s.k=="e"?'<div class="ettm"><select data-t="a" aria-label="Desde">'+tOpt(s.a,Math.max(LO,mn),HI-15,"a",L)+'</select><span>y</span><select data-t="b" aria-label="Hasta">'+tOpt(s.b,s.a+15,HI,"b",L)+"</select></div>":"";
   var R=E===undefined?'<p class="etr etw">Calculando…</p>':!E||!E.r?'<p class="etr">'+IC.clock+"<span>Con ese horario la entrega se acuerda con el pedido</span></p>":
+   etDif(E,s)?'<p class="etr etd">'+IC.wa+'<span>Llegar a esa hora es difícil. <a href="'+waUrl("Hola, ¿pueden entregarme un pedido "+etAsk(s)+"?")+
+    '" target="_blank" rel="noopener">Escríbenos por WhatsApp</a> y vemos si se puede.</span></p>':
    '<p class="etr">'+IC.clock+"<span>"+(E.r.d>s.d?"Ese día no da tiempo. ":"")+"Llega <b>"+esc(etTxt(E.r))+"</b></span></p>";
   ov.innerHTML='<div class="adbx" role="dialog" aria-modal="true" aria-label="Horario de entrega"><div class="adhd"><b>Horario de entrega</b><button type="button" class="adcl" aria-label="Cerrar">'+IC.x+"</button></div>"+
    '<div class="etg"><small>Día</small><select data-t="d" aria-label="Día">'+days+"</select></div>"+
@@ -1256,6 +1277,8 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",a=ro?(COMO.addr||{}):
   (P.length?'<label>Provincia</label><select data-ad="p"'+dis+">"+op(P,a.p)+'</select><p class="an" data-ad="n">'+esc(shNote(a.p))+
    '</p><label>Municipio</label><select data-ad="m"'+dis+">"+op(G[a.p]||[],a.m)+'</select><div data-ad="zw">'+zw(a.p,a.m,a.z)+"</div>":"")+
   '<label>Dirección</label><textarea data-ad="d" maxlength="300"'+dis+' placeholder="'+(ro?"Sin dirección":"Calle, número, entre calles, referencias")+'">'+esc(a.d||"")+"</textarea>"+
+   
+  '<label>Observación <small class="adop">(opcional)</small></label><textarea data-ad="o" maxlength="200" rows="2"'+dis+' placeholder="'+(ro?"Sin observación":"Ej. portón verde, llamar al llegar")+'">'+esc(a.o||"")+"</textarea>"+
   (ro?"":'<button class="btn adok" disabled>Guardar dirección</button>');
   
  function ps(){var b=q(".adps");if(!b)return;if(!g){b.hidden=true;return}var r=ptHave(g);b.hidden=false;
@@ -1284,10 +1307,10 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",a=ro?(COMO.addr||{}):
    function(er){btn.disabled=false;btn.classList.remove("on");toast(er&&er.code==1?"Sin permiso para la ubicación: elígela en el mapa":"No se pudo obtener tu ubicación: elígela en el mapa",3200)},
    {enableHighAccuracy:true,timeout:15000,maximumAge:60000})}
   
- function cur(){var o={d:q('[data-ad="d"]').value.trim()},p=q('[data-ad="p"]'),m=q('[data-ad="m"]'),z=q('[data-ad="z"]');
-  if(p&&p.value){o.p=p.value;if(m.value){o.m=m.value;if(z&&z.value)o.z=z.value}}if(g)o.g=g;return o}
+ function cur(){var o={d:q('[data-ad="d"]').value.trim()},ob=q('[data-ad="o"]').value.trim(),p=q('[data-ad="p"]'),m=q('[data-ad="m"]'),z=q('[data-ad="z"]');
+  if(p&&p.value){o.p=p.value;if(m.value){o.m=m.value;if(z&&z.value)o.z=z.value}}if(g)o.g=g;if(ob)o.o=ob;return o}
  function dirty(){var b=q(".adok");if(!b)return;var o=cur(),s=adGet();
-  b.disabled=(o.d||"")==(s.d||"")&&(o.p||"")==(s.p||"")&&(o.m||"")==(s.m||"")&&(o.z||"")==(s.z||"")&&(o.g?gKey(o.g):"")==(gOk(s.g)?gKey(s.g):"")}
+  b.disabled=(o.d||"")==(s.d||"")&&(o.o||"")==(s.o||"")&&(o.p||"")==(s.p||"")&&(o.m||"")==(s.m||"")&&(o.z||"")==(s.z||"")&&(o.g?gKey(o.g):"")==(gOk(s.g)?gKey(s.g):"")}
  ps();
  if(ro)return;
  if(g)ptGet(g).then(function(){if(e.isConnected)ps()});
@@ -2017,7 +2040,7 @@ function cartView(){
  var R=cRules(keep),tot=0,n=0,rows="";
  keep.forEach(function(i){var p=bySlug[i.productId],q=parseInt(i.qty,10)||0,s=esc(p.slug);tot+=p.Price*q;n+=q;
   rows+='<div class="czr"><button type="button" class="czp" data-cz="'+s+'" aria-label="Ver las fotos"><img loading="lazy" alt="" src="'+thumb(p)+'"><i>'+IC.full+"</i></button>"+
-   '<div class="czm">'+(p.SubCategory||p.Category?"<small>"+esc(p.SubCategory||p.Category)+"</small>":"")+'<a data-nav href="'+pUrl(p.slug)+'">'+esc(p.Label)+"</a></div>"+
+   '<div class="czm">'+(p.SubCategory||p.Category?"<small>"+esc(p.SubCategory||p.Category)+"</small>":"")+'<a data-nav href="'+pUrl(p.slug)+'">'+esc(p.Label)+"</a>"+(wTerm(p)?'<span class="czgw">'+IC.shield+"Garantía: "+esc(wTerm(p))+"</span>":"")+"</div>"+
    '<button class="czx" data-rm="'+s+'" aria-label="Quitar" title="Quitar">'+IC.trash+"</button>"+
    (q>1?'<div class="czu">'+money(p.Price)+" c/u</div>":"")+
    '<div class="czc"><span class="qty"><button data-cq="-1" data-s="'+s+'" aria-label="Menos">−</button><input type="number" min="0" max="'+qMax(p.slug)+'" value="'+q+'" data-ci="'+s+'" aria-label="Cantidad"><button data-cq="1" data-s="'+s+'" aria-label="Más">+</button></span>'+stkBtn(p.slug,q,1)+"</div>"+
@@ -2037,8 +2060,8 @@ function cartView(){
   
  var eA=!pk&&!COMO&&!(gq&&gq.price==null)&&!!etKey(ad),E=eA?etHave(ad):undefined,eS=etSel(),eQ=eS.d||eS.k;
  if(eA&&E===undefined)etGet(ad).then(function(){if(!$("vCart").hidden)cartView()});
- var etB=eA&&E!==undefined&&(E||eQ)?'<div class="czet">'+IC.clock+"<span>"+(E&&E.r?"Llega <b>"+esc(etTxt(E.r))+"</b>":"Fecha y hora de entrega: se acuerdan con el pedido")+
-  (eQ&&!(E&&E.r&&etTxt(E.r)==etAsk(eS))?"<small>Pediste: "+esc(etAsk(eS))+"</small>":"")+
+ var etB=eA&&E!==undefined&&(E||eQ)?'<div class="czet">'+IC.clock+"<span>"+(etDif(E,eS)?"Pediste <b>"+esc(etAsk(eS))+"</b><small>Es difícil a esa hora: lo vemos por WhatsApp</small>":E&&E.r?"Llega <b>"+esc(etTxt(E.r))+"</b>":"Fecha y hora de entrega: se acuerdan con el pedido")+
+  (eQ&&!etDif(E,eS)&&!(E&&E.r&&etTxt(E.r)==etAsk(eS))?"<small>Pediste: "+esc(etAsk(eS))+"</small>":"")+
   '<button type="button" class="czch" id="etCh">'+(eQ?"Cambiar horario":"Elegir horario")+"</button></span></div>":"";
  var h='<div class="cartbox cz"><div class="czh"><h2>Tu cesta</h2><span class="czn">'+n+(n==1?" artículo":" artículos")+'</span><a class="czk" data-nav href="./">'+IC.l+"Seguir comprando</a></div>"+czUndo()+
   '<div class="lay2"><div class="box czl">'+rows+'<div class="czf"><button id="empty">'+IC.trash+"Vaciar la cesta</button></div></div>"+
@@ -2048,14 +2071,32 @@ function cartView(){
    sh?'<div class="czv"><span>Envío · '+esc(sh.n)+(sh.v>1?" · "+sh.v+" viajes":"")+(ad.d?"<small>"+esc(ad.d)+"</small>":gOk(ad.g)?"<small>Punto marcado en el mapa</small>":"")+chB+"</span><span"+(sh.p?"":' class="czg"')+">"+(sh.p?money(sh.p):"Gratis")+"</span></div>":
    adC?'<div class="czv"><span>Envío'+(ad.m||ad.d?"<small>"+esc([ad.m,ad.d].filter(Boolean).join(" · "))+"</small>":"")+chB+'</span><span class="czq">'+(gOk(ad.g)&&ptHave(ad.g)===undefined?"…":"Se acuerda")+"</span></div>":"")+
   (dn?'<p class="sv czd">'+IC.truck+esc(dn)+"</p>":"")+etB+
-  '<div class="czo"><span>Total</span><span>'+usd(gt)+"</span></div>"+
+  '<div class="czo"><span>Total</span><span>'+usd(gt)+"</span></div>"+wBox(keep,tx)+
   '<button class="btn wa" id="order">'+IC.wa+'Enviar el pedido</button><p class="czw">Se abre WhatsApp con tu pedido ya escrito</p>'+accNote("tu cesta")+"</div>"+
   '<div id="cX"></div>'+(tr?'<div class="box trust">'+tr+"</div>":"")+"</div></div>"+
   '<div class="czbar"><div><small>Total</small><b>'+money(gt)+'</b></div><button class="btn wa" id="orderB">'+IC.wa+"Enviar el pedido</button></div></div>";
- v.innerHTML=h;cxHook(keep);if($("adCh"))$("adCh").onclick=adSheet;if($("etCh"))$("etCh").onclick=function(){etSheet(ad)};
+ v.innerHTML=h;cxHook(keep);if($("adCh"))$("adCh").onclick=adSheet;
+ if($("wAc"))$("wAc").onchange=function(){wOk=this.checked?wSum(keep):"";if(wOk)wNag=false;cartView()};if($("wSee"))$("wSee").onclick=function(){wSee=!wSee;cartView()};if($("etCh"))$("etCh").onclick=function(){etSheet(ad)};
  [].forEach.call(v.querySelectorAll("[data-dl]"),function(b){b.onclick=function(){if((b.getAttribute("data-dl")=="1")!=dlPk()){dlSet(b.getAttribute("data-dl")=="1");cartView()}}});
   
  if(window.IntersectionObserver){if(czIO)czIO.disconnect();czIO=new IntersectionObserver(function(e){var b=v.querySelector(".czbar");if(b)b.classList.toggle("off",e[e.length-1].isIntersecting)});czIO.observe($("order"))}}
+
+
+
+
+var wOk="",wSee=false,wNag=false;
+function wTerm(p){if(!M.WarrantyTerm)return"";var s=norm(p.SubCategory||""),c=norm(p.Category||""),r=String(M.WarrantyTerm).trim(),hit=0;
+ String(M.WarrantyBy||"").split(/\r?\n/).forEach(function(l){var i=l.indexOf(":");if(i<1)return;var k=norm(l.slice(0,i).trim()),v=l.slice(i+1).trim();
+  if(!k||!v)return;if(k==s){r=v;hit=2}else if(k==c&&hit<2){r=v;hit=1}});return r}
+ 
+function wSum(items){var g=M.WarrantyTerm?String(M.WarrantyTerm).trim():"",gen=0,ex={},o=[];if(!g)return"";
+ items.forEach(function(i){var p=bySlug[i.productId];if(!p)return;var t=wTerm(p);if(t==g){gen=1;return}var n=p.SubCategory||p.Category||"";(ex[t]=ex[t]||[]).indexOf(n)<0&&ex[t].push(n)});
+ if(gen)o.push(g);for(var t in ex)o.push(ex[t].join(", ")+": "+t);return o.join(" · ")}
+function wNeed(items){var s=wSum(items);return s&&wOk!==s}
+function wBox(items,tx){var s=wSum(items);if(!s)return"";var ok=wOk===s,nag=wNag&&!ok;
+ return'<div class="czac'+(nag?" nag":"")+'"><label><input type="checkbox" id="wAc"'+(ok?" checked":"")+"><span>Acepto las condiciones de garantía<small>"+esc(s)+"</small></span></label>"+
+  (M.Warranty?'<button type="button" class="czch" id="wSee">'+(wSee?"Ocultar las condiciones":"Ver las condiciones")+"</button>"+(wSee?'<div class="czwx">'+tx(M.Warranty)+"</div>":""):"")+
+  (nag?'<p class="czan">Marca la casilla para enviar el pedido</p>':"")+"</div>"}
  
 function cxHook(keep){var el=$("cX");if(!el)return;if(!(TX&&TX.c)){el.hidden=true;return}
  TX.c(keep.map(function(i){var p=bySlug[i.productId];return{slug:p.slug,label:p.Label,qty:parseInt(i.qty,10)||0,price:p.Price}}),el,
@@ -2096,6 +2137,8 @@ function cRules(items){var out={},I={},L=[],D=[],seen={};if(!BL)return out;
   if(mq&&cap>0&&units>cap*mq)mine.forEach(function(m){if(!m.bad)add(m.k,"Máximo "+mq+(names?" por cada "+names:" por pedido")+": en esta cesta, hasta "+cap*mq+".")})});
  return out}
 function order(){
+ var ci=getCart().items.filter(function(i){return bySlug[i.productId]&&(parseInt(i.qty,10)||0)>0});
+ if(ci.length&&wNeed(ci)){wNag=true;cartView();var b=document.querySelector(".czac");if(b)b.scrollIntoView({behavior:"smooth",block:"center"});return}
  var t="Hola, quiero esta orden:\n------------------------------\n",tot=0,items=[];
  getCart().items.forEach(function(i){var p=bySlug[i.productId],q=parseInt(i.qty,10)||0;if(!p||q<=0)return;
   t+="- "+q+"x $"+p.Price+" "+p.Label+"\n";tot+=p.Price*q;items.push({id:p.slug,name:p.Label,quantity:q,price:p.Price})});
@@ -2103,8 +2146,9 @@ function order(){
  T("wa","pedido");items.forEach(function(x){T("ord",x.id)});tCk("con");tCk("ver");tCk("pedido");
  var so=tOrig;try{so=so||sessionStorage.getItem("ts")||"";localStorage.setItem("co",cSig())}catch(e){}if(so)T("so",so,true);
  var pk=dlOff()&&dlPk(),sh=pk?null:shOf(tot),ad=pk?{}:adGet();if(sh){t+="\nEnvío ("+sh.n+(sh.v>1?", "+sh.v+" viajes":"")+"): "+(sh.p?"$"+sh.p:"gratis");tot+=sh.p}
- t+="\nTotal: $"+tot+" USD";if(pk)t+="\n\nEntrega: recoger en el local";if(ad.p||ad.m||ad.d)t+="\n\nEntrega: "+[ad.p,ad.m,ad.z,ad.d].filter(Boolean).join(" · ");if(gOk(ad.g))t+=(ad.p||ad.m||ad.d?"\n":"\n\n")+"Ubicación: "+gLink(ad.g);
- var E=pk?undefined:etHave(ad),eS=etSel();if(E!==undefined&&(E||eS.d||eS.k)){if(eS.d||eS.k)t+="\nHorario pedido: "+etAsk(eS);if(E&&E.r&&etTxt(E.r)!=etAsk(eS))t+="\nLlega: "+etTxt(E.r)}
+ t+="\nTotal: $"+tot+" USD";if(pk)t+="\n\nEntrega: recoger en el local";if(ad.p||ad.m||ad.d)t+="\n\nEntrega: "+[ad.p,ad.m,ad.z,ad.d].filter(Boolean).join(" · ");if(gOk(ad.g))t+=(ad.p||ad.m||ad.d?"\n":"\n\n")+"Ubicación: "+gLink(ad.g);if(ad.o)t+=(ad.p||ad.m||ad.d||gOk(ad.g)?"\n":"\n\n")+"Observación: "+ad.o;
+ var E=pk?undefined:etHave(ad),eS=etSel();if(E!==undefined&&(E||eS.d||eS.k)){if(eS.d||eS.k)t+="\nHorario pedido: "+etAsk(eS);if(etDif(E,eS))t+=" (difícil: ¿se puede?)";else if(E&&E.r&&etTxt(E.r)!=etAsk(eS))t+="\nLlega: "+etTxt(E.r)}
+ if(wSum(ci))t+="\n\nAcepté las condiciones de garantía ("+wSum(ci)+")";
   
  if(gOk(ad.g)&&!COMO&&!VAS&&M.Auth&&M.Auth.url)try{fetch(M.Auth.url+"/pedido",{method:"POST",keepalive:true,body:JSON.stringify({t:AC&&AC.t||"",a:ad,total:tot,
   items:items.map(function(x){return[x.id,x.quantity]})})}).catch(function(){})}catch(e){}
