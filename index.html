@@ -2409,8 +2409,7 @@ function order(){
  var E=pk?undefined:D.E,eS=D?D.s:e0;
  if(A2){t+="\nHorario pedido: "+etAsk(e0)+"\n"+adT(A2,"Si no, "+etWin(e0.x.a,e0.x.b)+", en: ");
   if(E!==undefined){if(etDif(E,eS))t+="\n\nLlega: difícil a esas horas, ¿se puede?";else if(E&&E.r)t+="\n\nLlega: "+etTxt(E.r)+(D.i?", a la otra dirección":"")}}
- else if(E!==undefined&&(E||eS.d||eS.k)){if(eS.d||eS.k)t+="\nHorario pedido: "+etAsk(eS);if(etDif(E,eS))t+=(eS.k?"":"
-Llega: "+etTxt(E.r))+" (difícil: ¿se puede?)";else if(E&&E.r&&etTxt(E.r)!=etAsk(eS))t+="\nLlega: "+etTxt(E.r)}
+ else if(E!==undefined&&(E||eS.d||eS.k)){if(eS.d||eS.k)t+="\nHorario pedido: "+etAsk(eS);if(etDif(E,eS))t+=(eS.k?"":"\nLlega: "+etTxt(E.r))+" (difícil: ¿se puede?)";else if(E&&E.r&&etTxt(E.r)!=etAsk(eS))t+="\nLlega: "+etTxt(E.r)}
  if(wSum(ci))t+="\n\nAcepté las condiciones de garantía ("+wSum(ci)+")";
   
  var aP=Object.assign({},A1);delete aP.alt;if(A2)aP.alt=A2;
