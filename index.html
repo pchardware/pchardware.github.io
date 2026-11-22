@@ -1297,7 +1297,7 @@ function etAsk(s){return etDn(s.d)+(s.k?", "+etWin(s.a,s.b):"")}
 
 var ET_MIN=60;
 function etNar(s){return s.k=="e"&&s.b-s.a<ET_MIN}
-function etDif(E,s){return!!(E&&E.r&&(etNar(s)||s.k=="e"&&E.lim&&s.b>E.lim.a||"x" in E&&(s.k=="b"||s.k=="e")&&(E.x==null||s.b<E.x)))}
+function etDif(E,s){return!!(E&&E.r&&(etNar(s)||"x" in E&&(s.k=="b"||s.k=="e")&&(E.x==null||s.b<E.x)))}
 
 
 
@@ -1309,7 +1309,7 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=fa
  
 
 
- function tOpt(v,lo,hi,t,L,X){var h="";for(var m=lo;m<=hi;m+=15){var n=L&&(t=="b"||t=="h"?m<L.b:m>L.a)?"a acordar":t=="h"&&L&&m>L.a||t!="a"&&X!=null&&m<X?"difícil":"";
+ function tOpt(v,lo,hi,t,L,X){var h="";for(var m=lo;m<=hi;m+=15){var n=L&&(t=="b"?m<L.b:m>L.a)?"a acordar":t!="a"&&X!=null&&m<X?"difícil":"";
   h+='<option value="'+m+'"'+(m==v?" selected":"")+(n?' data-n="'+n+'"':"")+">"+etHm(m)+"</option>"}return h}
  function draw(){var s=etSel(),E=etHave(ad),L=E&&E.lim,days="",i,LO=480,HI=1200;
    
@@ -1317,11 +1317,12 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=fa
   if(mn&&s.k&&((s.k!="a"&&s.b<mn)||(s.k!="b"&&s.a<mn))){if(s.k=="b")s.b=LX&&LX.d==s.d&&LX.x!=null?Math.max(mn,LX.x):mn;
    else{s.a=Math.max(s.a,mn);if(s.k=="e"&&s.b<=s.a)s.b=Math.min(HI,s.a+60)}etSave(s);if(!tch)snap=etRw();E=etHave(ad);L=E&&E.lim}
   var X=LX&&LX.d==s.d?(LX.x==null?1e9:LX.x):null;
+  var HB=L&&s.k=="e"&&s.a+15<=L.a?L.a:HI;if(s.k=="e"&&s.b>HB){s.b=HB;etSave(s);if(!tch)snap=etRw();E=etHave(ad)}
   for(i=0;i<7;i++){var nm=etDn(i).replace(/^el /,"");days+='<option value="'+i+'"'+(i==s.d?" selected":"")+">"+nm.charAt(0).toUpperCase()+nm.slice(1)+"</option>"}
   var K=[["","Lo antes posible"],["b","Antes de"],["a","Después de"],["e","Entre"]].map(function(x){return'<button type="button" data-k="'+x[0]+'" class="'+(s.k==x[0]?"on":"")+'" aria-pressed="'+(s.k==x[0])+'">'+x[1]+"</button>"}).join("");
   var T=s.k=="b"?'<div class="ettm"><select data-t="b" aria-label="Antes de">'+tOpt(s.b,Math.max(LO+15,mn),HI,"b",L,X)+"</select></div>":
    s.k=="a"?'<div class="ettm"><select data-t="a" aria-label="Después de">'+tOpt(s.a,Math.max(LO,mn),HI-15,"a",L)+"</select></div>":
-   s.k=="e"?'<div class="ettm"><select data-t="a" aria-label="Desde">'+tOpt(s.a,Math.max(LO,mn),HI-15,"f",L,X)+'</select><span>y</span><select data-t="b" aria-label="Hasta">'+tOpt(s.b,s.a+15,HI,"h",L,Math.max(X==null?0:X,s.a+ET_MIN))+"</select></div>":"";
+   s.k=="e"?'<div class="ettm"><select data-t="a" aria-label="Desde">'+tOpt(s.a,Math.max(LO,mn),HI-15,"f",L,X)+'</select><span>y</span><select data-t="b" aria-label="Hasta">'+tOpt(s.b,s.a+15,HB,"b",L,Math.max(X==null?0:X,s.a+ET_MIN))+"</select></div>":"";
   var R=E===undefined?'<p class="etr etw">Calculando…</p>':!E||!E.r?'<p class="etr">'+IC.clock+"<span>Con ese horario la entrega se acuerda con el pedido</span></p>":
    etDif(E,s)?'<p class="etr etd">'+IC.wa+'<span>'+(etNar(s)?"Una franja de menos de una hora es difícil":"Llegar a esa hora es difícil")+'. <a href="'+waUrl("Hola, ¿pueden entregarme un pedido "+etAsk(s)+"?")+
     '" target="_blank" rel="noopener">Escríbenos por WhatsApp</a> y vemos si se puede.</span></p>':
