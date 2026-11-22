@@ -1215,13 +1215,14 @@ function etAsk(s){return etDn(s.d)+(s.k?", "+etWin(s.a,s.b):"")}
 
 
 function etSheet(ad){var ov=document.createElement("div");ov.className="adsh";
- function tOpt(v,lo,hi){var h="";for(var m=lo;m<=hi;m+=15)h+='<option value="'+m+'"'+(m==v?" selected":"")+">"+etHm(m)+"</option>";return h}
- function draw(){var s=etSel(),E=etHave(ad),days="",i,LO=480,HI=1200;
+  
+ function tOpt(v,lo,hi,t,L){var h="";for(var m=lo;m<=hi;m+=15)h+='<option value="'+m+'"'+(m==v?" selected":"")+">"+etHm(m)+(L&&(t=="b"?m<L.b:m>L.a)?" · a acordar":"")+"</option>";return h}
+ function draw(){var s=etSel(),E=etHave(ad),L=E&&E.lim,days="",i,LO=480,HI=1200;
   for(i=0;i<7;i++){var nm=etDn(i).replace(/^el /,"");days+='<option value="'+i+'"'+(i==s.d?" selected":"")+">"+nm.charAt(0).toUpperCase()+nm.slice(1)+"</option>"}
   var K=[["","Lo antes posible"],["b","Antes de"],["a","Después de"],["e","Entre"]].map(function(x){return'<button type="button" data-k="'+x[0]+'" class="'+(s.k==x[0]?"on":"")+'" aria-pressed="'+(s.k==x[0])+'">'+x[1]+"</button>"}).join("");
-  var T=s.k=="b"?'<div class="ettm"><select data-t="b" aria-label="Antes de">'+tOpt(s.b,LO+15,HI)+"</select></div>":
-   s.k=="a"?'<div class="ettm"><select data-t="a" aria-label="Después de">'+tOpt(s.a,LO,HI-15)+"</select></div>":
-   s.k=="e"?'<div class="ettm"><select data-t="a" aria-label="Desde">'+tOpt(s.a,LO,HI-15)+'</select><span>y</span><select data-t="b" aria-label="Hasta">'+tOpt(s.b,s.a+15,HI)+"</select></div>":"";
+  var T=s.k=="b"?'<div class="ettm"><select data-t="b" aria-label="Antes de">'+tOpt(s.b,LO+15,HI,"b",L)+"</select></div>":
+   s.k=="a"?'<div class="ettm"><select data-t="a" aria-label="Después de">'+tOpt(s.a,LO,HI-15,"a",L)+"</select></div>":
+   s.k=="e"?'<div class="ettm"><select data-t="a" aria-label="Desde">'+tOpt(s.a,LO,HI-15,"a",L)+'</select><span>y</span><select data-t="b" aria-label="Hasta">'+tOpt(s.b,s.a+15,HI,"b",L)+"</select></div>":"";
   var R=E===undefined?'<p class="etr etw">Calculando…</p>':!E||!E.r?'<p class="etr">'+IC.clock+"<span>Con ese horario la entrega se acuerda con el pedido</span></p>":
    '<p class="etr">'+IC.clock+"<span>"+(E.r.d>s.d?"Ese día no da tiempo. ":"")+"Llega <b>"+esc(etTxt(E.r))+"</b></span></p>";
   ov.innerHTML='<div class="adbx" role="dialog" aria-modal="true" aria-label="Horario de entrega"><div class="adhd"><b>Horario de entrega</b><button type="button" class="adcl" aria-label="Cerrar">'+IC.x+"</button></div>"+
