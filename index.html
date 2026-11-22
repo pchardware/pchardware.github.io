@@ -417,9 +417,15 @@ footer p{margin:0 0 6px;opacity:.7}
 .czet b{color:var(--ink);font-weight:600}.czet small{display:block;margin-top:1px;font-size:12.5px;color:var(--mut)}
 .czet .czch{display:block;margin-top:3px;padding:0;border:0;background:none;font-size:13px;font-weight:600;color:var(--ink);text-decoration:underline;text-underline-offset:3px;cursor:pointer}
 .etg{margin:4px 0 12px}.etg>small{display:block;margin:0 2px 2px;font-size:12.5px;font-weight:600;color:var(--mut)}
-.etop{display:flex;align-items:center;justify-content:space-between;gap:12px;width:100%;margin:6px 0;padding:12px 13px;border:1px solid var(--line);border-radius:11px;background:none;font-size:14.5px;color:var(--ink);text-align:left;cursor:pointer}
-.etop small{font-size:12.5px;color:var(--mut);text-align:right}
-.etop.on{border-color:var(--ink);box-shadow:inset 0 0 0 1px var(--ink)}
+.etg select,.etg .nsel{width:100%}
+.etk{display:grid;grid-template-columns:repeat(4,1fr);gap:4px;padding:4px;border-radius:12px;background:var(--soft)}
+.etk button{min-height:38px;padding:0 4px;border:0;border-radius:9px;background:none;color:var(--mut);font-size:13.5px;font-weight:600;cursor:pointer}
+.etk button.on{background:var(--card);color:var(--ink);box-shadow:0 1px 3px rgba(0,0,0,.12)}
+.ettm{display:flex;align-items:center;gap:8px;margin-top:8px}.ettm>select,.ettm>.nsel{flex:1;min-width:0}.ettm>span{color:var(--mut);font-size:14px}
+.etr{display:flex;align-items:flex-start;gap:9px;margin:4px 0 12px;padding:10px 12px;border-radius:11px;background:var(--soft);font-size:14px;line-height:1.35;color:var(--ink2)}
+.etr svg{width:17px;height:17px;flex:none;margin-top:1px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.etr b{color:var(--ink);font-weight:600}.etr.etw{color:var(--mut)}
+.adbx .etok{width:100%}
 .adsh{position:fixed;inset:0;z-index:80;background:rgba(16,24,40,.5);display:flex;align-items:flex-end;justify-content:center}
 .adbx{width:100%;max-width:520px;max-height:92vh;overflow:auto;background:var(--card);border-radius:18px 18px 0 0;padding:6px 18px calc(18px + env(safe-area-inset-bottom,0px));box-shadow:0 -10px 40px rgba(16,24,40,.25)}
 @media(min-width:600px){.adsh{align-items:center;padding:24px}.adbx{border-radius:18px;padding-bottom:20px}}
@@ -1183,31 +1189,53 @@ function ptGet(g){var k=gKey(g);if(PTV[k])return Promise.resolve(PTV[k]);if(PTQ[
 
 
 var ETV={},ETQ={};
+
+
+function etDay(i){var d=new Date();d.setHours(12,0,0,0);d.setDate(d.getDate()+i);return d}
+function etIso(d){return d.getFullYear()+"-"+(d.getMonth()<9?"0":"")+(d.getMonth()+1)+"-"+(d.getDate()<10?"0":"")+d.getDate()}
+function etSel(){var o=null;try{o=JSON.parse(localStorage.getItem("eta2")||"null")}catch(e){}o=o&&typeof o=="object"?o:{};
+ var d=0;if(o.f){var x=new Date(o.f+"T12:00:00");d=Math.max(0,Math.round((x-etDay(0))/864e5))}
+ var k=["b","a","e"].indexOf(o.k)>=0?o.k:"",a=+o.a,b=+o.b;
+ return{d:isFinite(d)?Math.min(d,13):0,k:k,a:k=="a"||k=="e"?(isFinite(a)?a:720):null,b:k=="b"||k=="e"?(isFinite(b)?b:840):null}}
+function etSave(s){try{if(!s.d&&!s.k)localStorage.removeItem("eta2");else localStorage.setItem("eta2",JSON.stringify({f:etIso(etDay(s.d)),k:s.k,a:s.a,b:s.b}))}catch(e){}}
 function etKey(a){return gOk(a.g)?gKey(a.g):a.p&&a.m?a.p+"|"+a.m:""}
-function etHave(a){var k=etKey(a),e=k&&ETV[k];return e&&Date.now()-e.at<3e5?e.d:undefined}
-function etGet(a){var k=etKey(a);if(!k||!(M.Auth&&M.Auth.url))return Promise.resolve(null);if(ETQ[k])return ETQ[k];
- var b=gOk(a.g)?{lat:+a.g[0],lon:+a.g[1]}:{p:a.p,m:a.m};
+function etCk(a,s){return etKey(a)+"/"+s.d+"/"+s.a+"/"+s.b}
+function etHave(a){var s=etSel(),e=etKey(a)&&ETV[etCk(a,s)];return e&&Date.now()-e.at<3e5?e.d:undefined}
+function etGet(a){var s=etSel(),k=etCk(a,s);if(!etKey(a)||!(M.Auth&&M.Auth.url))return Promise.resolve(null);if(ETQ[k])return ETQ[k];
+ var b=gOk(a.g)?{lat:+a.g[0],lon:+a.g[1]}:{p:a.p,m:a.m};b.d=s.d;if(s.a!=null)b.a=s.a;if(s.b!=null)b.b=s.b;
  return(ETQ[k]=fetch(M.Auth.url+"/entrega",{method:"POST",body:JSON.stringify(b)}).then(function(r){return r.ok?r.json():null})
-  .then(function(d){delete ETQ[k];ETV[k]={at:Date.now(),d:d&&d.o?d:null};return ETV[k].d}).catch(function(){delete ETQ[k];return null}))}
-function etSel(){try{var s=(localStorage.getItem("eta")||"0,0").split(",");return{w:+s[0]||0,n:s[1]=="1"}}catch(e){return{w:0,n:false}}}
-function etSave(w,n){try{if(!w&&!n)localStorage.removeItem("eta");else localStorage.setItem("eta",w+","+(n?1:0))}catch(e){}}
-function etHm(m){var h=Math.floor(m/60),i=m%60,a=h<12?"AM":"PM";h=h%12||12;return(h==1?"la ":"las ")+h+":"+(i<10?"0":"")+i+" "+a}
-function etTxt(r){if(!r)return"";var d=["hoy","mañana","pasado mañana"][r.d]||"en "+r.d+" días";
- return d+", "+(r.a!=null&&r.b!=null?"entre "+etHm(r.a)+" y "+etHm(r.b):r.a!=null?"después de "+etHm(r.a):"antes de "+etHm(r.b))}
- 
-function etPick(E){var s=etSel(),w=s.w>0&&s.w<=E.w.length?s.w:0,r=(E.o[w]||[])[s.n?1:0];return{r:r||null,w:w?E.w[w-1]:"",n:s.n}}
-function etSheet(E){var ov=document.createElement("div");ov.className="adsh";
- function row(w,n,t,g){var s=etSel(),on=(s.w==w&&s.n==n),r=(E.o[w]||[])[n?1:0];
-  return'<button type="button" class="etop'+(on?" on":"")+'" data-w="'+w+'" data-n="'+(n?1:0)+'" data-g="'+g+'"><span>'+esc(t)+"</span><small>"+esc(r?etTxt(r):"Se acuerda")+"</small></button>"}
- function draw(){var s=etSel(),h='<div class="adbx" role="dialog" aria-modal="true" aria-label="Horario de entrega"><div class="adhd"><b>Horario de entrega</b><button type="button" class="adcl" aria-label="Cerrar">'+IC.x+"</button></div>"+
-  '<div class="etg"><small>Día</small>'+row(s.w,false,"Lo antes posible",1)+row(s.w,true,"Para mañana",1)+"</div>"+
-  '<div class="etg"><small>Hora</small>'+row(0,s.n,"Cualquier hora",2)+E.w.map(function(t,i){return row(i+1,s.n,t,2)}).join("")+"</div></div>";
-  ov.innerHTML=h}
+  .then(function(d){delete ETQ[k];ETV[k]={at:Date.now(),d:d&&"r" in d?d:null};return ETV[k].d}).catch(function(){delete ETQ[k];return null}))}
+function etHm(m){var h=Math.floor(m/60),i=m%60,a=h<12?"AM":"PM";h=h%12||12;return h+":"+(i<10?"0":"")+i+" "+a}
+function etAt(m){return(Math.floor(m/60)%12==1?"la ":"las ")+etHm(m)}
+function etDn(i){if(i==0)return"hoy";if(i==1)return"mañana";var d=etDay(i);
+ return"el "+["dom","lun","mar","mié","jue","vie","sáb"][d.getDay()]+" "+d.getDate()+" "+["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"][d.getMonth()]}
+function etWin(a,b){return a!=null&&b!=null?"entre "+etAt(a)+" y "+etAt(b):a!=null?"después de "+etAt(a):b!=null?"antes de "+etAt(b):""}
+function etTxt(r){return r?etDn(r.d)+", "+etWin(r.a,r.b):""}
+function etAsk(s){return etDn(s.d)+(s.k?", "+etWin(s.a,s.b):"")}
+
+
+function etSheet(ad){var ov=document.createElement("div");ov.className="adsh";
+ function tOpt(v,lo,hi){var h="";for(var m=lo;m<=hi;m+=15)h+='<option value="'+m+'"'+(m==v?" selected":"")+">"+etHm(m)+"</option>";return h}
+ function draw(){var s=etSel(),E=etHave(ad),days="",i,LO=480,HI=1200;
+  for(i=0;i<7;i++){var nm=etDn(i).replace(/^el /,"");days+='<option value="'+i+'"'+(i==s.d?" selected":"")+">"+nm.charAt(0).toUpperCase()+nm.slice(1)+"</option>"}
+  var K=[["","Cualquier hora"],["b","Antes de"],["a","Después de"],["e","Entre"]].map(function(x){return'<button type="button" data-k="'+x[0]+'" class="'+(s.k==x[0]?"on":"")+'" aria-pressed="'+(s.k==x[0])+'">'+x[1]+"</button>"}).join("");
+  var T=s.k=="b"?'<div class="ettm"><select data-t="b" aria-label="Antes de">'+tOpt(s.b,LO+15,HI)+"</select></div>":
+   s.k=="a"?'<div class="ettm"><select data-t="a" aria-label="Después de">'+tOpt(s.a,LO,HI-15)+"</select></div>":
+   s.k=="e"?'<div class="ettm"><select data-t="a" aria-label="Desde">'+tOpt(s.a,LO,HI-15)+'</select><span>y</span><select data-t="b" aria-label="Hasta">'+tOpt(s.b,s.a+15,HI)+"</select></div>":"";
+  var R=E===undefined?'<p class="etr etw">Calculando…</p>':!E||!E.r?'<p class="etr">'+IC.clock+"<span>Con ese horario la entrega se acuerda con el pedido</span></p>":
+   '<p class="etr">'+IC.clock+"<span>"+(E.r.d>s.d?"Ese día no da tiempo. ":"")+"Llega <b>"+esc(etTxt(E.r))+"</b></span></p>";
+  ov.innerHTML='<div class="adbx" role="dialog" aria-modal="true" aria-label="Horario de entrega"><div class="adhd"><b>Horario de entrega</b><button type="button" class="adcl" aria-label="Cerrar">'+IC.x+"</button></div>"+
+   '<div class="etg"><small>Día</small><select data-t="d" aria-label="Día">'+days+"</select></div>"+
+   '<div class="etg"><small>Hora</small><div class="etk">'+K+"</div>"+T+"</div>"+R+
+   '<button type="button" class="btn etok">Listo</button></div>';
+  if(E===undefined)etGet(ad).then(function(){if(ov.parentNode)draw()})}
  function close(){ov.remove();document.removeEventListener("keydown",key,true);document.body.classList.remove("adon");cartView()}
- function key(ev){if(ev.key=="Escape"){ev.stopPropagation();close()}}
- ov.onclick=function(ev){var b=ev.target.closest&&ev.target.closest(".etop");
-  if(b){etSave(+b.getAttribute("data-w"),b.getAttribute("data-n")=="1");if(b.getAttribute("data-g")=="2")close();else draw();return}
-  if(ev.target===ov||(ev.target.closest&&ev.target.closest(".adcl")))close()};
+ function key(ev){if(ev.key=="Escape"&&!document.querySelector(".nsov")){ev.stopPropagation();close()}}
+ ov.onchange=function(ev){var t=ev.target.getAttribute&&ev.target.getAttribute("data-t");if(!t)return;var s=etSel(),v=+ev.target.value;
+  if(t=="d")s.d=v;else s[t]=v;if(s.k=="e"&&s.b<=s.a)s.b=Math.min(1200,s.a+60);etSave(s);draw()};
+ ov.onclick=function(ev){var b=ev.target.closest&&ev.target.closest("[data-k]");
+  if(b){var s=etSel(),k=b.getAttribute("data-k");if(k!=s.k){s.k=k;s.a=k=="a"?960:k=="e"?720:null;s.b=k=="b"?720:k=="e"?840:null;etSave(s);draw()}return}
+  if(ev.target===ov||(ev.target.closest&&ev.target.closest(".adcl,.etok")))close()};
  document.addEventListener("keydown",key,true);draw();document.body.appendChild(ov);document.body.classList.add("adon")}
 function gLink(g){return"https://www.google.com/maps?q="+(+g[0]).toFixed(5)+","+(+g[1]).toFixed(5)}
 var MLB=null;
@@ -2006,11 +2034,11 @@ function cartView(){
  var dlB=dlOff()?'<div class="czdl" role="group" aria-label="Entrega"><button type="button" data-dl="0" class="'+(pk?"":"on")+'" aria-pressed="'+!pk+'">'+IC.truck+'Envío</button><button type="button" data-dl="1" class="'+(pk?"on":"")+'" aria-pressed="'+pk+'">'+IC.shop+"Recoger</button></div>":"";
  if(!pk&&gOk(ad.g)&&gq===undefined)ptGet(ad.g).then(function(){if(!$("vCart").hidden)cartView()});
   
- var eA=!pk&&!COMO&&!(gq&&gq.price==null)&&!!etKey(ad),E=eA?etHave(ad):undefined,eP=E?etPick(E):null;
+ var eA=!pk&&!COMO&&!(gq&&gq.price==null)&&!!etKey(ad),E=eA?etHave(ad):undefined,eS=etSel(),eQ=eS.d||eS.k;
  if(eA&&E===undefined)etGet(ad).then(function(){if(!$("vCart").hidden)cartView()});
- var etB=eP?'<div class="czet">'+IC.clock+"<span>"+(eP.r?"Llega <b>"+esc(etTxt(eP.r))+"</b>":"Fecha y hora de entrega: se acuerdan con el pedido")+
-  (eP.w||eP.n?"<small>Pediste: "+esc([eP.n?"para mañana":"",eP.w?eP.w.charAt(0).toLowerCase()+eP.w.slice(1):""].filter(Boolean).join(", "))+"</small>":"")+
-  '<button type="button" class="czch" id="etCh">'+(eP.w||eP.n?"Cambiar horario":"Elegir horario")+"</button></span></div>":"";
+ var etB=eA&&E!==undefined&&(E||eQ)?'<div class="czet">'+IC.clock+"<span>"+(E&&E.r?"Llega <b>"+esc(etTxt(E.r))+"</b>":"Fecha y hora de entrega: se acuerdan con el pedido")+
+  (eQ&&!(E&&E.r&&etTxt(E.r)==etAsk(eS))?"<small>Pediste: "+esc(etAsk(eS))+"</small>":"")+
+  '<button type="button" class="czch" id="etCh">'+(eQ?"Cambiar horario":"Elegir horario")+"</button></span></div>":"";
  var h='<div class="cartbox cz"><div class="czh"><h2>Tu cesta</h2><span class="czn">'+n+(n==1?" artículo":" artículos")+'</span><a class="czk" data-nav href="./">'+IC.l+"Seguir comprando</a></div>"+czUndo()+
   '<div class="lay2"><div class="box czl">'+rows+'<div class="czf"><button id="empty">'+IC.trash+"Vaciar la cesta</button></div></div>"+
   '<div class="side"><div class="box czs"><h3>Resumen del pedido</h3>'+
@@ -2023,7 +2051,7 @@ function cartView(){
   '<button class="btn wa" id="order">'+IC.wa+'Enviar el pedido</button><p class="czw">Se abre WhatsApp con tu pedido ya escrito</p>'+accNote("tu cesta")+"</div>"+
   '<div id="cX"></div>'+(tr?'<div class="box trust">'+tr+"</div>":"")+"</div></div>"+
   '<div class="czbar"><div><small>Total</small><b>'+money(gt)+'</b></div><button class="btn wa" id="orderB">'+IC.wa+"Enviar el pedido</button></div></div>";
- v.innerHTML=h;cxHook(keep);if($("adCh"))$("adCh").onclick=adSheet;if($("etCh"))$("etCh").onclick=function(){etSheet(E)};
+ v.innerHTML=h;cxHook(keep);if($("adCh"))$("adCh").onclick=adSheet;if($("etCh"))$("etCh").onclick=function(){etSheet(ad)};
  [].forEach.call(v.querySelectorAll("[data-dl]"),function(b){b.onclick=function(){if((b.getAttribute("data-dl")=="1")!=dlPk()){dlSet(b.getAttribute("data-dl")=="1");cartView()}}});
   
  if(window.IntersectionObserver){if(czIO)czIO.disconnect();czIO=new IntersectionObserver(function(e){var b=v.querySelector(".czbar");if(b)b.classList.toggle("off",e[e.length-1].isIntersecting)});czIO.observe($("order"))}}
@@ -2075,7 +2103,7 @@ function order(){
  var so=tOrig;try{so=so||sessionStorage.getItem("ts")||"";localStorage.setItem("co",cSig())}catch(e){}if(so)T("so",so,true);
  var pk=dlOff()&&dlPk(),sh=pk?null:shOf(tot),ad=pk?{}:adGet();if(sh){t+="\nEnvío ("+sh.n+(sh.v>1?", "+sh.v+" viajes":"")+"): "+(sh.p?"$"+sh.p:"gratis");tot+=sh.p}
  t+="\nTotal: $"+tot+" USD";if(pk)t+="\n\nEntrega: recoger en el local";if(ad.p||ad.m||ad.d)t+="\n\nEntrega: "+[ad.p,ad.m,ad.z,ad.d].filter(Boolean).join(" · ");if(gOk(ad.g))t+=(ad.p||ad.m||ad.d?"\n":"\n\n")+"Ubicación: "+gLink(ad.g);
- var E=pk?undefined:etHave(ad),eP=E?etPick(E):null;if(eP){if(eP.n||eP.w)t+="\nHorario pedido: "+[eP.n?"para mañana":"",eP.w].filter(Boolean).join(", ");if(eP.r)t+="\nLlega: "+etTxt(eP.r)}
+ var E=pk?undefined:etHave(ad),eS=etSel();if(E!==undefined&&(E||eS.d||eS.k)){if(eS.d||eS.k)t+="\nHorario pedido: "+etAsk(eS);if(E&&E.r&&etTxt(E.r)!=etAsk(eS))t+="\nLlega: "+etTxt(E.r)}
   
  if(gOk(ad.g)&&!COMO&&!VAS&&M.Auth&&M.Auth.url)try{fetch(M.Auth.url+"/pedido",{method:"POST",keepalive:true,body:JSON.stringify({t:AC&&AC.t||"",a:ad,total:tot,
   items:items.map(function(x){return[x.id,x.quantity]})})}).catch(function(){})}catch(e){}
