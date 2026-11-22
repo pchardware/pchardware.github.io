@@ -1315,7 +1315,7 @@ function etAsk(s){return etDn(s.d)+(s.k?", "+etWin(s.a,s.b):"")}
 
 var ET_MIN=60;
 function etNar(s){return s.k=="e"&&s.b-s.a<ET_MIN}
-function etDif(E,s){return!!(E&&E.r&&(E.dif||etNar(s)||"x" in E&&(s.k=="b"&&(E.x==null||s.b<E.x)||s.k=="e"&&E.x==null)))}
+function etDif(E,s){return!!(E&&E.r&&(E.dif||E.r.t||etNar(s)||"x" in E&&(s.k=="b"&&(E.x==null||s.b<E.x)||s.k=="e"&&E.x==null)))}
 
 
 
