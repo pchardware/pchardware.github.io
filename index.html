@@ -2313,7 +2313,7 @@ function cartView(){
   '<div class="czbar"><div><small>Total</small><b>'+money(gt)+'</b></div><button class="btn wa" id="orderB">'+IC.wa+"Enviar el pedido</button></div></div>";
  v.innerHTML=h;cxHook(keep);if(pyOn()){pyRate(function(){if(!$("vCart").hidden)cartView()});[].forEach.call(v.querySelectorAll("[data-py]"),function(b){b.onclick=function(){pySet(b.getAttribute("data-py"));cartView()}})}if($("adCh"))$("adCh").onclick=function(){adSheet(D&&D.i?1:0)};
  if($("etCh"))$("etCh").onclick=function(){etSheet(adGet())};
- if($("mtB"))$("mtB").onclick=function(){mtSet(!mtOn());cartView()};
+ if($("mtB"))$("mtB").onclick=function(){var on=!mtOn();mtSet(on);if(!on)mtXSet({});cartView()};    
  [].forEach.call(v.querySelectorAll("[data-mxo]"),function(b){b.onclick=mtSheet});
  [].forEach.call(v.querySelectorAll("[data-dl]"),function(b){b.onclick=function(){if((b.getAttribute("data-dl")=="1")!=dlPk()){dlSet(b.getAttribute("data-dl")=="1");cartView()}}});
   
