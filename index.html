@@ -1043,9 +1043,11 @@ function adSet(o){stSet("addr",o);syMark("addr")}
 function shZones(){return M.Ship&&Array.isArray(M.Ship.zones)?M.Ship.zones:[]}
 
 
-function shAreas(m){var A=M.Ship&&M.Ship.areas;return m&&A&&Array.isArray(A[m])?A[m]:null}
-function shOf(tot){var a=adGet(),ar=shAreas(a.m),za=ar&&a.z?ar.filter(function(x){return x[0]===a.z})[0]:null,
- z=za&&za[1]!=null?{n:za[0],p:za[1]}:shZones().filter(function(x){return x.n===a.m||x.n===a.p})[0];if(!z)return null;
+
+function shArea(p,m){var A=M.Ship&&M.Ship.areas;return p&&m&&A&&A[p]&&A[p][m]&&typeof A[p][m]=="object"?A[p][m]:null}
+function shOf(tot){var a=adGet(),A=shArea(a.p,a.m),z=null;
+ if(A){var rr=a.z?(A.r||[]).filter(function(x){return x[0]===a.z})[0]:null,v=rr?rr[1]:A.p;if(v!=null)z={n:rr?rr[0]:a.m,p:v}}
+ if(!z)z=shZones().filter(function(x){return x.n===a.m||x.n===a.p})[0];if(!z)return null;
  var p=+z.p||0;if(+M.Ship.free>0&&tot>=+M.Ship.free)p=0;return{n:z.n,p:p}}
 function shNote(p){if(!p||!M.Ship||!M.Ship.prov||!Object.keys(M.Ship.prov).length)return"";var v=M.Ship.prov[p];
  return v==1?"":v==2?"Entregas en "+p+": solo a veces, se confirma con el pedido":"Por ahora no hacemos entregas en "+p}
@@ -1112,10 +1114,10 @@ function comoBar(){var b=$("comoBar");if(!COMO){if(b)b.remove();return}
 
 function accAd(){var e=$("accAd");if(!e||!AC)return;var ro=!!COMO,dis=ro?" disabled":"",a=ro?(COMO.addr||{}):adGet(),G=(M.Ship&&M.Ship.geo)||{},P=Object.keys(G);
  function op(L,cur){if(ro&&cur&&L.indexOf(cur)<0)L=L.concat([cur]);return'<option value="">'+(ro?"":"Elegir")+"</option>"+L.map(function(x){return"<option"+(x===cur?" selected":"")+">"+esc(x)+"</option>"}).join("")}
- function zw(m,z){var ar=shAreas(m);if(!ar)return"";var L=ar.map(function(x){return x[0]});if(z&&L.indexOf(z)<0)L=L.concat([z]);
-  return'<label for="adZ">Reparto o zona</label><select id="adZ"'+dis+'><option value="">'+(ro?"":"Otro, o no sé")+"</option>"+L.map(function(x){return"<option"+(x===z?" selected":"")+">"+esc(x)+"</option>"}).join("")+"</select>"}
+ function zw(p,m,z){var A=shArea(p,m);if(!A||!A.r||!A.r.length)return"";var L=A.r.map(function(x){return x[0]});if(z&&L.indexOf(z)<0)L=L.concat([z]);
+  return'<label for="adZ">Reparto</label><select id="adZ"'+dis+'><option value="">'+(ro?"":"Otro, o no sé")+"</option>"+L.map(function(x){return"<option"+(x===z?" selected":"")+">"+esc(x)+"</option>"}).join("")+"</select>"}
  e.innerHTML=(P.length?'<label for="adP">Provincia</label><select id="adP"'+dis+">"+op(P,a.p)+'</select><p class="an" id="adN">'+esc(shNote(a.p))+
-   '</p><label for="adM">Municipio</label><select id="adM"'+dis+">"+op(G[a.p]||[],a.m)+'</select><div id="adZw">'+zw(a.m,a.z)+"</div>":"")+
+   '</p><label for="adM">Municipio</label><select id="adM"'+dis+">"+op(G[a.p]||[],a.m)+'</select><div id="adZw">'+zw(a.p,a.m,a.z)+"</div>":"")+
   '<label for="adD">Dirección</label><textarea id="adD" maxlength="300"'+dis+' placeholder="'+(ro?"Sin dirección":"Calle, número, entre calles")+'">'+esc(a.d||"")+"</textarea>"+
   (ro?"":'<button class="btn" id="adOk" disabled>Guardar dirección</button>');
  if(ro)return;
@@ -1123,7 +1125,7 @@ function accAd(){var e=$("accAd");if(!e||!AC)return;var ro=!!COMO,dis=ro?" disab
  function cur(){var o={d:$("adD").value.trim()},p=$("adP"),m=$("adM"),z=$("adZ");if(p&&p.value){o.p=p.value;if(m.value){o.m=m.value;if(z&&z.value)o.z=z.value}}return o}
  function dirty(){var o=cur(),g=adGet();$("adOk").disabled=(o.d||"")==(g.d||"")&&(o.p||"")==(g.p||"")&&(o.m||"")==(g.m||"")&&(o.z||"")==(g.z||"")}
  e.onchange=function(ev){var p=$("adP"),m=$("adM");if(p&&ev.target===p){m.innerHTML=op(G[p.value]||[],"");$("adN").textContent=shNote(p.value)}
-  if(p&&(ev.target===p||ev.target===m))$("adZw").innerHTML=zw(m.value,"");dirty()};
+  if(p&&(ev.target===p||ev.target===m))$("adZw").innerHTML=zw(p.value,m.value,"");dirty()};
  e.oninput=dirty;
  $("adOk").onclick=function(){adSet(cur());dirty();toast("Dirección guardada",1500);route(true)}}
 function syHas(k){var v=syVal(k);return k=="cart"?v.items.length>0:Object.keys(v).length>0}
