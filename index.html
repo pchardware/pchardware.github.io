@@ -410,7 +410,6 @@ footer p{margin:0 0 6px;opacity:.7}
 .admk{background:none;border:0}.admk svg{width:34px;height:34px;fill:var(--hot,#d92d20);stroke:#fff;stroke-width:1.6;filter:drop-shadow(0 2px 3px rgba(0,0,0,.35))}
 .adps{display:flex;align-items:center;gap:10px;margin-top:8px;padding:9px 10px 9px 12px;border-radius:10px;background:var(--soft)}
 .adps[hidden]{display:none}.adpi svg{width:20px;height:20px;display:block;fill:none;stroke:var(--ink);stroke-width:1.9}
-.adps.adbad{background:rgba(247,144,9,.13)}.adps.adbad .adpi svg{stroke:#dc6803}.adps.adbad small{color:var(--ink)}.adps .adpt .czch{display:block;margin-top:4px}
 .adpt{flex:1;min-width:0;line-height:1.3}.adpt b{display:block;font-size:14px;color:var(--ink)}.adpt small{font-size:13px;color:var(--mut)}
 .adx2{flex:none;width:32px;height:32px;display:flex;align-items:center;justify-content:center;border-radius:8px;color:var(--mut);font-size:13px;font-weight:600}
 .adx2 svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round}a.adx2{width:auto;padding:0 6px;color:var(--ink);text-decoration:underline}
@@ -1373,12 +1372,9 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
   '<label>Observación <small class="adop">(opcional)</small></label><textarea data-ad="o" maxlength="200" rows="2"'+dis+' placeholder="'+(ro?"Sin observación":"Ej. portón verde, llamar al llegar")+'">'+esc(a.o||"")+"</textarea>"+
   (ro?"":'<button class="btn adok" disabled>Guardar dirección</button>');
   
-  
- function mis(){if(!g)return false;var r=ptHave(g),p=q('[data-ad="p"]'),m=q('[data-ad="m"]');return!!(r&&r.m&&p&&(p.value!==r.p||m.value!==r.m))}
- function ps(){var b=q(".adps");if(!b)return;if(!g){b.hidden=true;return}var r=ptHave(g),x=mis();b.hidden=false;b.classList.toggle("adbad",x);
+ function ps(){var b=q(".adps");if(!b)return;if(!g){b.hidden=true;return}var r=ptHave(g);b.hidden=false;
   b.innerHTML='<span class="adpi">'+IC.pin+'</span><span class="adpt"><b>'+(r&&r.m?esc(r.m)+(r.p?", "+esc(r.p):""):"Punto marcado")+"</b><small>"+
-   (x?"No coincide con el municipio elegido":r===undefined?(pt?"Calculando el envío…":"Punto marcado en el mapa"):!r?"Punto marcado en el mapa":r.price!=null?"Envío hasta aquí: "+(r.price?money(r.price):"Gratis"):"Ese punto queda fuera de la zona de entrega")+"</small>"+
-   (x&&!ro&&(G[r.p]||[]).indexOf(r.m)>=0?'<button type="button" class="czch" data-use>Usar '+esc(r.m)+"</button>":"")+"</span>"+
+   (r===undefined?(pt?"Calculando el envío…":"Punto marcado en el mapa"):!r?"Punto marcado en el mapa":r.price!=null?"Envío hasta aquí: "+(r.price?money(r.price):"Gratis"):"Ese punto queda fuera de la zona de entrega")+"</small></span>"+
    (ro?'<a class="adx2" href="'+gLink(g)+'" target="_blank" rel="noopener">Ver</a>':'<button type="button" class="adx2" data-clr aria-label="Quitar el punto">'+IC.x+"</button>")}
  function setP(v){var p=q('[data-ad="p"]'),m=q('[data-ad="m"]');if(!p||!v||!v.p||!G[v.p])return;
   if(p.value!==v.p){p.value=v.p;m.innerHTML=op(G[v.p]||[],"");q('[data-ad="n"]').textContent=shNote(v.p)}
@@ -1405,18 +1401,15 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
  function cur(){var o={d:q('[data-ad="d"]').value.trim()},ob=q('[data-ad="o"]').value.trim(),p=q('[data-ad="p"]'),m=q('[data-ad="m"]'),z=q('[data-ad="z"]');
   if(p&&p.value){o.p=p.value;if(m.value){o.m=m.value;if(z&&z.value)o.z=z.value}}if(g)o.g=g;if(ob)o.o=ob;return o}
  function dirty(){var b=q(".adok");if(!b)return;var o=cur(),s=adGet();if(X)s=s.alt&&typeof s.alt=="object"?s.alt:{};
-   
-  if(mis()||(g&&pt&&ptHave(g)===undefined)){b.disabled=true;return}
   b.disabled=(o.d||"")==(s.d||"")&&(o.o||"")==(s.o||"")&&(o.p||"")==(s.p||"")&&(o.m||"")==(s.m||"")&&(o.z||"")==(s.z||"")&&(o.g?gKey(o.g):"")==(gOk(s.g)?gKey(s.g):"")}
  ps();
  if(ro)return;
  if(g)ptGet(g).then(function(){if(e.isConnected)ps()});
  e.onchange=function(ev){var p=q('[data-ad="p"]'),m=q('[data-ad="m"]');if(p&&ev.target===p){m.innerHTML=op(G[p.value]||[],"");q('[data-ad="n"]').textContent=shNote(p.value)}
-  if(p&&(ev.target===p||ev.target===m)){q('[data-ad="zw"]').innerHTML=zw(p.value,m.value,"");ps()}dirty()};
+  if(p&&(ev.target===p||ev.target===m))q('[data-ad="zw"]').innerHTML=zw(p.value,m.value,"");dirty()};
  e.oninput=dirty;
  e.onclick=function(ev){var t=ev.target.closest&&ev.target.closest("button");if(!t||!e.contains(t))return;
   if(t.hasAttribute("data-gps"))gps(t);else if(t.hasAttribute("data-map"))mapOpen();else if(t.hasAttribute("data-clr"))setG(null);
-  else if(t.hasAttribute("data-use")){setP(ptHave(g));ps();dirty()}
   else if(t.classList.contains("adok")){var A=adGet(),o=cur();if(X){A=Object.assign({},A);A.alt=o;adSet(A)}else{if(A.alt)o.alt=A.alt;adSet(o)}dirty();toast("Dirección guardada",1500);if(opt.saved)opt.saved();else route(true)}};
  if(opt.map&&g)mapOpen()}
  
