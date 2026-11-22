@@ -443,8 +443,11 @@ footer p{margin:0 0 6px;opacity:.7}
 .czac .czwx{margin:8px 0 0 29px;white-space:pre-line;font-size:13px;color:var(--ink2)}
 .czac .czan{margin:8px 0 0 29px;font-size:13px;font-weight:600;color:var(--hot)}
 .wdl{margin:4px 0 12px}.wdr{display:flex;justify-content:space-between;gap:12px;padding:9px 12px;border:1px solid var(--line);border-radius:10px;margin-bottom:6px;font-size:14px;color:var(--ink2)}
-.wdr b{color:var(--ink);text-align:right}.wdr.wdh{border-color:var(--hot);background:var(--hotbg);color:var(--hot)}.wdr.wdh b{color:var(--hot)}
-.wdx{font-size:14px;line-height:1.55;color:var(--ink2);margin-bottom:26px}.wdx .wdh{color:var(--hot);font-weight:600}
+.wdr b{color:var(--ink);text-align:right}
+
+.wdr.wdh{border-color:var(--ink);border-width:1.5px;color:var(--ink);font-weight:600}
+.wdh b{background:linear-gradient(transparent 58%,rgba(250,204,21,.55) 58%);padding:0 2px;border-radius:2px}
+.wdx{font-size:14px;line-height:1.55;color:var(--ink2);margin-bottom:26px}
 .etg{margin:4px 0 12px}
 .czch.etxa{margin:-4px 0 12px 2px}
 .etx{margin:0 0 12px;padding:8px 10px 10px;border:1px solid var(--bd);border-radius:12px}
@@ -2222,18 +2225,19 @@ function wNeed(items){var s=wSum(items);return s&&wOk!==s}
 
 
 
+
+
 function wWords(s){return norm(String(s||"")).split(/[_-]+/).filter(function(w){return w.length>2})}
 function wDialog(items,go){var s=wSum(items);if(!s)return go();var g=String(M.WarrantyTerm).trim(),ex={},gen=0,red=[];
  items.forEach(function(i){var p=bySlug[i.productId];if(!p)return;var t=wTerm(p),n=p.SubCategory||p.Category||"";if(t==g){gen=1;return}
-  (ex[t]=ex[t]||[]).indexOf(n)<0&&ex[t].push(n);var w=wWords(n);if(w.length)red.push(w)});
- 
-
+  (ex[t]=ex[t]||[]).indexOf(n)<0&&ex[t].push(n)});
  var off=[];String(M.WarrantyBy||"").split(/\r?\n/).forEach(function(l){var i=l.indexOf(":");if(i<1||l.slice(i+1).trim()==g)return;var w=wWords(l.slice(0,i));if(w.length)off.push(w)});
  function has(L,seg){var sw=wWords(seg);return L.some(function(w){return w.every(function(x){return sw.some(function(y){return y.indexOf(x)==0})})})}
- function hot(seg){return has(red,seg)}
+ var gR=new RegExp(g.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+"(\\s+de\\s+)?","i");
+ function cut(x){if(has(off,x))return"";if(!gR.test(x))return x;x=x.replace(gR,"").replace(/^\s+/,"");return x.charAt(0).toUpperCase()+x.slice(1)}
  var rows=(gen?'<div class="wdr"><span>Garantía</span><b>'+esc(g)+"</b></div>":"");for(var t in ex)rows+='<div class="wdr wdh"><span>'+esc(ex[t].join(", "))+"</span><b>"+esc(t)+"</b></div>";
  var body=M.Warranty?String(M.Warranty).replace(/\r/g,"").replace(/\n\s*\n+/g,"\n").trim().split("\n").map(function(l){
-  return(l.match(/[^.]+\.?\s*/g)||[l]).map(function(x){return hot(x)?'<span class="wdh">'+esc(x)+"</span>":has(off,x)?"":esc(x)}).join("").trim()}).filter(Boolean).join("<br>"):"";
+  return(l.match(/[^.]+\.?\s*/g)||[l]).map(function(x){return esc(cut(x))}).join("").trim()}).filter(Boolean).join("<br>"):"";
  var ov=document.createElement("div");ov.className="adsh";
  ov.innerHTML='<div class="adbx" role="dialog" aria-modal="true" aria-label="Condiciones de garantía"><div class="adhd"><b>Condiciones de garantía</b><button type="button" class="adcl" aria-label="Cerrar">'+IC.x+"</button></div>"+
   '<div class="wdl">'+rows+"</div>"+(body?'<div class="wdx">'+body+"</div>":"")+'<button type="button" class="btn etok wdok">Acepto las condiciones</button></div>';
