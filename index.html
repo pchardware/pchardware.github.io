@@ -435,6 +435,16 @@ footer p{margin:0 0 6px;opacity:.7}
 .czmt span{flex:1;min-width:0;font-weight:600}
 .czmt small{display:block;font-size:12.5px;font-weight:400;color:var(--mut)}
 .czmt b{flex:none;font-weight:700;white-space:nowrap;font-variant-numeric:tabular-nums;text-align:right}
+.czmx{margin:0 0 6px;padding:2px 12px 6px}
+.czmx p{margin:6px 0 4px;font-size:13px;font-weight:600;color:var(--ink)}
+.czmx .czch{display:block;margin:2px 0 0;padding:0;border:0;background:none;font-size:13px;font-weight:600;color:var(--ink);text-decoration:underline;text-underline-offset:3px;cursor:pointer}
+.czmxr{display:flex;align-items:center;justify-content:space-between;gap:10px;min-height:34px;font-size:14px;color:var(--ink)}
+.czmxr.z{color:var(--mut)}
+.czmxr small{margin-left:6px;font-size:12px;color:var(--mut)}
+.czmxr em{display:flex;align-items:center;gap:2px;font-style:normal}
+.czmxr button{width:30px;height:30px;border:0;border-radius:8px;background:var(--soft);color:var(--ink);font-size:16px;cursor:pointer}
+.czmxr button:disabled{opacity:.4;cursor:default}
+.czmxr b{min-width:24px;text-align:center;font-variant-numeric:tabular-nums}
 .czpy{margin:-4px 0 14px}
 .czpy h4{margin:0 0 8px;font-size:14px;font-weight:600;color:var(--ink)}
 .czpy button{display:flex;align-items:center;gap:10px;width:100%;min-height:46px;margin:0 0 6px;padding:7px 12px;border:1px solid var(--line);border-radius:11px;background:var(--card);color:var(--ink2);font-size:14px;text-align:left;cursor:pointer}
@@ -2186,23 +2196,45 @@ function pyLine(t){if(!pyOn())return"";var k=pySel(),q=pyQ(k,t);return"\nPago: "
 
 
 
+
+
+
+
 function mtOn(){try{return localStorage.getItem("mnt")=="1"}catch(e){return false}}
 function mtSet(v){try{v?localStorage.setItem("mnt","1"):localStorage.removeItem("mnt")}catch(e){}}
 function mtParts(){return(M.Mount&&M.Mount.parts)||[]}
-function mtCount(items){var P=mtParts(),c={};P.forEach(function(p){c[p.k]=0});
+function mtX(){var o=null;try{o=JSON.parse(localStorage.getItem("mntx")||"null")}catch(e){}var r={};
+ if(o&&typeof o=="object")mtParts().forEach(function(p){var n=parseInt(o[p.k],10);if(n>0)r[p.k]=Math.min(n,99)});return r}
+function mtXSet(o){try{Object.keys(o).length?localStorage.setItem("mntx",JSON.stringify(o)):localStorage.removeItem("mntx")}catch(e){}}
+ 
+function mtUnits(x,p){if(!x.u)return 1;try{var r=new RegExp(x.u,"i"),L=(p.Features||[]).concat([p.Label]);
+ for(var i=0;i<L.length;i++){var m=r.exec(String(L[i]));if(m&&parseInt(m[1],10)>0)return parseInt(m[1],10)}}catch(e){}return 1}
+function mtCount(items,ex){var P=mtParts(),c={};P.forEach(function(p){c[p.k]=0});
  items.forEach(function(i){var p=bySlug[i.productId],q=parseInt(i.qty,10)||0;if(!p||q<=0)return;
   var h=P.filter(function(x){var s=x.subs?x.subs.indexOf(p.SubCategory)>=0:!!x.re;try{return s&&(!x.re||new RegExp(x.re,"i").test(p.Label))}catch(e){return false}})[0];
-  if(h)c[h.k]+=q});
+  if(h)c[h.k]+=q*mtUnits(h,p)});
+ if(ex)Object.keys(ex).forEach(function(k){if(k in c)c[k]+=ex[k]});
  P.forEach(function(p){if(p.needs&&c[p.k]&&!p.needs.some(function(k){return c[k]}))c[p.needs[0]]=(c[p.needs[0]]||0)+c[p.k]});return c}
+function mtCost(p,n){var per=parseInt(p.per,10)||0;return(+p.p||0)*(per>1?Math.ceil(n/per):n)}
 function mtCalc(c){var P=mtParts(),cap=+(M.Mount&&M.Mount.cap)||0,cov={},t=0;
  if(P.some(function(p){return p.all&&c[p.k]}))return cap;
  P.forEach(function(p){if(c[p.k])(p.covers||[]).forEach(function(k){cov[k]=1})});
- P.forEach(function(p){if(!cov[p.k])t+=(+p.p||0)*(c[p.k]||0)});return cap?Math.min(t,cap):t}
+ P.forEach(function(p){if(!cov[p.k])t+=mtCost(p,c[p.k]||0)});return cap?Math.min(t,cap):t}
  
-function mtOf(items){if(!mtParts().length)return null;var c=mtCount(items),p=mtCalc(c);if(!(p>0))return null;
- return{p:p,n:mtParts().filter(function(x){return c[x.k]}).map(function(x){return(c[x.k]>1?c[x.k]+" ":"")+x.n}).join(", ")}}
+function mtOf(items){var P=mtParts();if(!P.length)return null;var ex=mtX(),c0=mtCount(items),c=mtCount(items,ex);
+ function txt(f){return P.filter(function(x){return f(x)>0}).map(function(x){var n=f(x);return(n>1?n+" ":"")+x.n}).join(", ")}
+ return{p:mtCalc(c),n:txt(function(x){return c0[x.k]}),x:txt(function(x){return c[x.k]-c0[x.k]})}}
  
-function mtSel(){return mtOn()?mtOf(getCart().items):null}
+function mtSel(){var m=mtOn()?mtOf(getCart().items):null;return m&&m.p>0?m:null}
+ 
+function mtTxt(m,mi){return[m.n,m.x?(mi?"piezas mías: ":"piezas tuyas: ")+m.x:""].filter(Boolean).join(" · ")}
+ 
+var MTO=false;
+function mtXBox(){var ex=mtX(),open=MTO||Object.keys(ex).length;
+ return'<div class="czmx">'+(open?'<p>Piezas tuyas que también quieres montar</p>'+mtParts().map(function(p){var n=ex[p.k]||0;
+   return'<div class="czmxr'+(n?"":" z")+'"><span>'+esc(p.n)+(p.unit?"<small>"+esc(p.unit)+"</small>":"")+'</span><em><button type="button" data-mx="'+esc(p.k)+':-1" aria-label="Menos"'+(n?"":" disabled")+'>−</button><b>'+n+
+    '</b><button type="button" data-mx="'+esc(p.k)+':1" aria-label="Más">+</button></em></div>'}).join(""):
+  '<button type="button" class="czch" data-mxo>Montar también piezas tuyas</button>')+"</div>"}
 
  
 function cartView(){
@@ -2227,9 +2259,10 @@ function cartView(){
  function tx(s){return esc(String(s).replace(/\n\s*\n+/g,"\n").trim())}
  var tr=(M.CartPayMethod&&!pyOn()?"<div>"+IC.cash+"<span><b>Forma de pago</b><span>"+tx(M.CartPayMethod)+"</span></span></div>":"")+
   (M.CartShipping?"<div>"+IC.truck+"<span><b>Envío</b><span>"+tx(M.CartShipping)+"</span></span></div>":"");
- var mA=mtOf(keep),mS=mA&&mtOn()?mA:null;
+ var mA=mtOf(keep),mO=!!mA&&mtOn(),mS=mO&&mA.p>0?mA:null;
  var pk=dlOff()&&dlPk(),D=pk||COMO?null:etDest(),ad=D?D.a:adGet(),sh=pk?null:shOf(tot,ad),gq=gOk(ad.g)?ptHave(ad.g):undefined,gt=tot+(sh?sh.p:0)+(mS?mS.p:0);
- var mtB=mA?'<button type="button" class="czmt'+(mS?" on":"")+'" role="checkbox" aria-checked="'+!!mS+'" id="mtB"><i></i><span>Montaje<small>'+esc(mA.n)+"</small></span><b>"+money(mA.p)+"</b></button>":"";
+ var mtB=mA?'<button type="button" class="czmt'+(mO?" on":"")+'" role="checkbox" aria-checked="'+mO+'" id="mtB"><i></i><span>Montaje<small>'+esc(mO?mtTxt(mA)||"Elige qué montar":mA.n||"De piezas tuyas")+"</small></span>"+
+  (mA.p>0?"<b>"+money(mA.p)+"</b>":"")+"</button>"+(mO?mtXBox():""):"";
  
 
  var adC=!COMO&&!!(M.Ship&&M.Ship.geo),has=!!(ad.p||ad.m||ad.d||gOk(ad.g)),chB=adC?'<button type="button" class="czch" id="adCh">'+(has?"Cambiar":"Añadir dirección")+"</button>":"";
@@ -2260,6 +2293,9 @@ function cartView(){
  v.innerHTML=h;cxHook(keep);if(pyOn()){pyRate(function(){if(!$("vCart").hidden)cartView()});[].forEach.call(v.querySelectorAll("[data-py]"),function(b){b.onclick=function(){pySet(b.getAttribute("data-py"));cartView()}})}if($("adCh"))$("adCh").onclick=function(){adSheet(D&&D.i?1:0)};
  if($("etCh"))$("etCh").onclick=function(){etSheet(adGet())};
  if($("mtB"))$("mtB").onclick=function(){mtSet(!mtOn());cartView()};
+ [].forEach.call(v.querySelectorAll("[data-mx]"),function(b){b.onclick=function(){var a=b.getAttribute("data-mx").split(":"),ex=mtX();
+  ex[a[0]]=Math.max(0,Math.min(99,(ex[a[0]]||0)+(+a[1])));if(!ex[a[0]])delete ex[a[0]];mtXSet(ex);MTO=true;cartView()}});
+ [].forEach.call(v.querySelectorAll("[data-mxo]"),function(b){b.onclick=function(){MTO=true;cartView()}});
  [].forEach.call(v.querySelectorAll("[data-dl]"),function(b){b.onclick=function(){if((b.getAttribute("data-dl")=="1")!=dlPk()){dlSet(b.getAttribute("data-dl")=="1");cartView()}}});
   
  if(window.IntersectionObserver){if(czIO)czIO.disconnect();czIO=new IntersectionObserver(function(e){var b=v.querySelector(".czbar");if(b)b.classList.toggle("off",e[e.length-1].isIntersecting)});czIO.observe($("order"))}}
@@ -2347,7 +2383,7 @@ function order(){
  if(!items.length)return;
  T("wa","pedido");items.forEach(function(x){T("ord",x.id)});tCk("con");tCk("ver");tCk("pedido");
  var so=tOrig;try{so=so||sessionStorage.getItem("ts")||"";localStorage.setItem("co",cSig())}catch(e){}if(so)T("so",so,true);
- var mt=mtOn()?mtOf(ci):null;if(mt)t+="\nMontaje ("+mt.n+"): $"+mt.p;
+ var mt=mtOn()?mtOf(ci):null;if(mt&&!(mt.p>0))mt=null;if(mt)t+="\nMontaje ("+mtTxt(mt,1)+"): $"+mt.p;
  var pk=dlOff()&&dlPk(),D=pk?null:etDest(),ad=pk?{}:D.a,sh=pk?null:shOf(tot,ad),e0=etSel(),A1=pk?{}:adGet(),A2=!pk&&etOn(e0)?adAlt():null;if(mt)tot+=mt.p;if(sh){t+="\nEnvío ("+sh.n+(sh.v>1?", "+sh.v+" viajes":"")+"): "+(sh.p?"$"+sh.p:"gratis");tot+=sh.p}
  function adT(a,h){var x="";if(a.p||a.m||a.d)x+="\n"+h+[a.p,a.m,a.z,a.d].filter(Boolean).join(" · ");if(gOk(a.g))x+="\nUbicación: "+gLink(a.g);if(a.o)x+="\nObservación: "+a.o;return x}
  t+="\nTotal: $"+tot+" USD"+pyLine(tot);if(pk)t+="\n\nEntrega: recoger en el local";t+="\n"+adT(A1,"Entrega: ");if(t.slice(-1)=="\n")t=t.slice(0,-1);
