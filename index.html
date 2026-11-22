@@ -2015,7 +2015,11 @@ function order(){
  T("wa","pedido");items.forEach(function(x){T("ord",x.id)});tCk("con");tCk("ver");tCk("pedido");
  var so=tOrig;try{so=so||sessionStorage.getItem("ts")||"";localStorage.setItem("co",cSig())}catch(e){}if(so)T("so",so,true);
  var sh=shOf(tot),ad=adGet();if(sh){t+="\nEnvío ("+sh.n+(sh.v>1?", "+sh.v+" viajes":"")+"): "+(sh.p?"$"+sh.p:"gratis");tot+=sh.p}
- t+="\nTotal: $"+tot+" USD";if(ad.p||ad.m||ad.d)t+="\n\nEntrega: "+[ad.p,ad.m,ad.z,ad.d].filter(Boolean).join(" · ");if(gOk(ad.g))t+=(ad.p||ad.m||ad.d?"\n":"\n\n")+"Ubicación: "+gLink(ad.g);window.open(waUrl(t),"_blank")}
+ t+="\nTotal: $"+tot+" USD";if(ad.p||ad.m||ad.d)t+="\n\nEntrega: "+[ad.p,ad.m,ad.z,ad.d].filter(Boolean).join(" · ");if(gOk(ad.g))t+=(ad.p||ad.m||ad.d?"\n":"\n\n")+"Ubicación: "+gLink(ad.g);
+  
+ if(gOk(ad.g)&&!COMO&&!VAS&&M.Auth&&M.Auth.url)try{fetch(M.Auth.url+"/pedido",{method:"POST",keepalive:true,body:JSON.stringify({t:AC&&AC.t||"",a:ad,total:tot,
+  items:items.map(function(x){return[x.id,x.quantity]})})}).catch(function(){})}catch(e){}
+ window.open(waUrl(t),"_blank")}
 
 
 
