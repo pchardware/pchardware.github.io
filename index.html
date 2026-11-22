@@ -435,8 +435,12 @@ footer p{margin:0 0 6px;opacity:.7}
 .czmt span{flex:1;min-width:0;font-weight:600}
 .czmt small{display:block;font-size:12.5px;font-weight:400;color:var(--mut)}
 .czmt b{flex:none;font-weight:700;white-space:nowrap;font-variant-numeric:tabular-nums;text-align:right}
-.czmx{margin:0 0 6px;padding:2px 12px 6px}
-.czmx p{margin:6px 0 4px;font-size:13px;font-weight:600;color:var(--ink)}
+.czmx{margin:0 0 8px;padding:0 12px}
+.czmxh{margin:2px 0 8px;font-size:13.5px;color:var(--mut)}
+.czmxt{display:flex;justify-content:space-between;align-items:baseline;margin:10px 0 12px;padding-top:10px;border-top:1px solid var(--line);font-size:15px;font-weight:600;color:var(--ink)}
+.czmxt b{font-variant-numeric:tabular-nums;text-align:right}
+.adbx .czmxr{min-height:40px;font-size:15px}
+.adbx .czmxr button{width:36px;height:36px}
 .czmx .czch{display:block;margin:2px 0 0;padding:0;border:0;background:none;font-size:13px;font-weight:600;color:var(--ink);text-decoration:underline;text-underline-offset:3px;cursor:pointer}
 .czmxr{display:flex;align-items:center;justify-content:space-between;gap:10px;min-height:34px;font-size:14px;color:var(--ink)}
 .czmxr.z{color:var(--mut)}
@@ -2232,13 +2236,24 @@ function mtOf(items){var P=mtParts();if(!P.length)return null;var ex=mtX(),c0=mt
 function mtSel(){var m=mtOn()?mtOf(getCart().items):null;return m&&m.p>0?m:null}
  
 function mtTxt(m,mi){return[m.n,m.x?(mi?"piezas mías: ":"piezas tuyas: ")+m.x:""].filter(Boolean).join(" · ")}
- 
-var MTO=false;
-function mtXBox(){var ex=mtX(),open=MTO||Object.keys(ex).length;
- return'<div class="czmx">'+(open?'<p>Piezas tuyas que también quieres montar</p>'+mtParts().map(function(p){var n=ex[p.k]||0;
-   return'<div class="czmxr'+(n?"":" z")+'"><span>'+esc(p.n)+(p.unit?"<small>"+esc(p.unit)+"</small>":"")+'</span><em><button type="button" data-mx="'+esc(p.k)+':-1" aria-label="Menos"'+(n?"":" disabled")+'>−</button><b>'+n+
-    '</b><button type="button" data-mx="'+esc(p.k)+':1" aria-label="Más">+</button></em></div>'}).join(""):
-  '<button type="button" class="czch" data-mxo>Montar también piezas tuyas</button>')+"</div>"}
+
+
+
+function mtXBox(){return'<div class="czmx"><button type="button" class="czch" data-mxo>'+(Object.keys(mtX()).length?"Cambiar piezas tuyas":"Añadir piezas tuyas")+"</button></div>"}
+function mtSheet(){var ov=document.createElement("div");ov.className="adsh";
+ function draw(){var ex=mtX(),m=mtOf(getCart().items);
+  ov.innerHTML='<div class="adbx" role="dialog" aria-modal="true" aria-label="Piezas tuyas"><div class="adhd"><b>Piezas tuyas</b><button type="button" class="adcl" aria-label="Cerrar">'+IC.x+"</button></div>"+
+   '<p class="czmxh">Lo que traes tú y también quieres que montemos</p>'+mtParts().map(function(p){var n=ex[p.k]||0;
+    return'<div class="czmxr'+(n?"":" z")+'"><span>'+esc(p.n)+(p.unit?"<small>"+esc(p.unit)+"</small>":"")+'</span><em><button type="button" data-mx="'+esc(p.k)+':-1" aria-label="Menos"'+(n?"":" disabled")+'>−</button><b>'+n+
+     '</b><button type="button" data-mx="'+esc(p.k)+':1" aria-label="Más">+</button></em></div>'}).join("")+
+   '<div class="czmxt"><span>Montaje</span><b>'+(m&&m.p>0?money(m.p):"—")+"</b></div>"+
+   '<button type="button" class="btn etok">Listo</button></div>'}
+ function close(){ov.remove();document.removeEventListener("keydown",key,true);document.body.classList.remove("adon");cartView()}
+ function key(ev){if(ev.key=="Escape"&&!document.querySelector(".nsov")&&ov===etTop()){ev.stopPropagation();close()}}
+ ov.onclick=function(ev){var b=ev.target.closest&&ev.target.closest("[data-mx]");
+  if(b){var a=b.getAttribute("data-mx").split(":"),ex=mtX();ex[a[0]]=Math.max(0,Math.min(99,(ex[a[0]]||0)+(+a[1])));if(!ex[a[0]])delete ex[a[0]];mtXSet(ex);draw();return}
+  if(ev.target===ov||ev.target.closest&&ev.target.closest(".etok,.adcl"))close()};
+ document.addEventListener("keydown",key,true);draw();document.body.appendChild(ov);document.body.classList.add("adon")}
 
  
 function cartView(){
@@ -2296,10 +2311,8 @@ function cartView(){
   '<div class="czbar"><div><small>Total</small><b>'+money(gt)+'</b></div><button class="btn wa" id="orderB">'+IC.wa+"Enviar el pedido</button></div></div>";
  v.innerHTML=h;cxHook(keep);if(pyOn()){pyRate(function(){if(!$("vCart").hidden)cartView()});[].forEach.call(v.querySelectorAll("[data-py]"),function(b){b.onclick=function(){pySet(b.getAttribute("data-py"));cartView()}})}if($("adCh"))$("adCh").onclick=function(){adSheet(D&&D.i?1:0)};
  if($("etCh"))$("etCh").onclick=function(){etSheet(adGet())};
- if($("mtB"))$("mtB").onclick=function(){mtSet(!mtOn());MTO=false;cartView()};    
- [].forEach.call(v.querySelectorAll("[data-mx]"),function(b){b.onclick=function(){var a=b.getAttribute("data-mx").split(":"),ex=mtX();
-  ex[a[0]]=Math.max(0,Math.min(99,(ex[a[0]]||0)+(+a[1])));if(!ex[a[0]])delete ex[a[0]];mtXSet(ex);MTO=true;cartView()}});
- [].forEach.call(v.querySelectorAll("[data-mxo]"),function(b){b.onclick=function(){MTO=true;cartView()}});
+ if($("mtB"))$("mtB").onclick=function(){mtSet(!mtOn());cartView()};
+ [].forEach.call(v.querySelectorAll("[data-mxo]"),function(b){b.onclick=mtSheet});
  [].forEach.call(v.querySelectorAll("[data-dl]"),function(b){b.onclick=function(){if((b.getAttribute("data-dl")=="1")!=dlPk()){dlSet(b.getAttribute("data-dl")=="1");cartView()}}});
   
  if(window.IntersectionObserver){if(czIO)czIO.disconnect();czIO=new IntersectionObserver(function(e){var b=v.querySelector(".czbar");if(b)b.classList.toggle("off",e[e.length-1].isIntersecting)});czIO.observe($("order"))}}
