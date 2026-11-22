@@ -449,7 +449,7 @@ footer p{margin:0 0 6px;opacity:.7}
 .wdh b{background:linear-gradient(transparent 58%,rgba(250,204,21,.55) 58%);padding:0 2px;border-radius:2px}
 .wdx{font-size:14px;line-height:1.55;color:var(--ink2);margin-bottom:26px}
 .etg{margin:4px 0 12px}
-.czch.etxa{margin:-4px 0 12px 2px}
+.czch.etxa{margin:-2px 0 14px 2px}
 .etx{margin:0 0 12px;padding:8px 10px 10px;border:1px solid var(--bd);border-radius:12px}
 .etxh{display:flex;align-items:center;justify-content:space-between;margin:0 0 6px}
 .etxh small{margin:0 2px;font-size:12.5px;font-weight:600;color:var(--mut)}
@@ -1316,8 +1316,9 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=fa
     '" target="_blank" rel="noopener">Escríbenos por WhatsApp</a> y vemos si se puede.</span></p>':
    '<p class="etr">'+IC.clock+"<span>"+(E.r.d>s.d?"Ese día no da tiempo. ":"")+"Llega <b>"+esc(etTxt(E.r))+"</b></span></p>";
    
-  var XB="",xs=s.x,xb=adAlt();
-  if(s.k&&!xs)XB='<button type="button" class="czch etxa" data-x="1">¿A otra hora estás en otra dirección?</button>';
+  var XB="",XA="",xs=s.x,xb=adAlt();
+   
+  if(s.k&&!xs)XA='<button type="button" class="czch etxa" data-x="1">¿A otra hora estás en otra dirección?</button>';
   else if(s.k){var K2=[["b","Antes de"],["a","Después de"],["e","Entre"]].map(function(x){return'<button type="button" data-k2="'+x[0]+'" class="'+(xs.k==x[0]?"on":"")+'" aria-pressed="'+(xs.k==x[0])+'">'+x[1]+"</button>"}).join("");
    var T2=xs.k=="b"?'<div class="ettm"><select data-t="xb" aria-label="Antes de">'+tOpt(xs.b,LO+15,HI,"b",null)+"</select></div>":
     xs.k=="a"?'<div class="ettm"><select data-t="xa" aria-label="Después de">'+tOpt(xs.a,LO,HI-15,"a",null)+"</select></div>":
@@ -1333,7 +1334,7 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=fa
     if(dE===undefined)etLoad(function(){if(ov.parentNode)draw()})}}
   ov.innerHTML='<div class="adbx" role="dialog" aria-modal="true" aria-label="Horario de entrega"><div class="adhd"><b>Horario de entrega</b><button type="button" class="adcl" aria-label="Cerrar">'+IC.x+"</button></div>"+
    '<div class="etg"><small>Día</small><select data-t="d" aria-label="Día">'+days+"</select></div>"+
-   '<div class="etg"><small>Hora</small><div class="etk">'+K+"</div>"+T+"</div>"+XB+R+
+   '<div class="etg"><small>Hora</small><div class="etk">'+K+"</div>"+T+"</div>"+XB+R+XA+
    '<button type="button" class="btn etok">Listo</button></div>';
   if(E===undefined)etGet(ad).then(function(){if(ov.parentNode)draw()})}
  function close(keep){if(!keep&&dirty())try{if(snap==null)localStorage.removeItem("eta2");else localStorage.setItem("eta2",snap)}catch(e){}
