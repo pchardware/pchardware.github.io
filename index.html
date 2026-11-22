@@ -1361,15 +1361,21 @@ function mapLib(){if(window.L)return Promise.resolve(window.L);if(MLB)return MLB
   s.onerror=function(){MLB=null;ko()};document.head.appendChild(s)}))}
 function accAd(){var e=$("accAd");if(e&&AC)adForm(e,{})}
 function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(COMO.addr||{}):adGet(),a=X?(A0.alt&&typeof A0.alt=="object"?A0.alt:{}):A0,G=(M.Ship&&M.Ship.geo)||{},P=Object.keys(G),
-  pt=!ro&&M.Auth&&M.Auth.url,g=gOk(a.g)?[+a.g[0],+a.g[1]]:null,map=null,mk=null;
+  pt=!ro&&M.Auth&&M.Auth.url,g=gOk(a.g)?[+a.g[0],+a.g[1]]:null,map=null,mk=null,
+   
+  DP=!ro&&!a.p&&!a.m&&!g&&G["La Habana"]?"La Habana":"",ap=a.p||DP;
  function q(s){return e.querySelector(s)}
- function op(L,cur){if(cur&&L.indexOf(cur)<0)L=L.concat([cur]);return'<option value="">'+(ro?"":"Elegir")+"</option>"+L.map(function(x){return"<option"+(x===cur?" selected":"")+">"+esc(x)+"</option>"}).join("")}
+  
+ function opN(x,p){var S=M.Ship||{},V=S.prov||{},A=S.areas;if(!Object.keys(V).length)return"";
+  if(!p)return V[x]==2?"Solo a veces":V[x]?"":"Sin servicio por ahora";
+  if(!V[p]||!A||!A[p])return"";var z=shArea(p,x);return!z||(z.p==null&&!(z.r||[]).some(function(r){return r[1]!=null}))?"Sin servicio por ahora":""}
+ function op(L,cur,p){if(cur&&L.indexOf(cur)<0)L=L.concat([cur]);return'<option value="">'+(ro?"":"Elegir")+"</option>"+L.map(function(x){var n=ro?"":opN(x,p);return"<option"+(x===cur?" selected":"")+(n?' data-n="'+esc(n)+'"':"")+">"+esc(x)+"</option>"}).join("")}
  function zw(p,m,z){var A=shArea(p,m);if(!A||!A.r||!A.r.length)return"";var L=A.r.map(function(x){return x[0]});if(z&&L.indexOf(z)<0)L=L.concat([z]);
   return'<label>Reparto</label><select data-ad="z"'+dis+'><option value="">'+(ro?"":"Otro, o no sé")+"</option>"+L.map(function(x){return"<option"+(x===z?" selected":"")+">"+esc(x)+"</option>"}).join("")+"</select>"}
  e.innerHTML=(pt||(ro&&g)?'<label>Ubicación</label>'+(ro?"":'<div class="adpb"><button type="button" class="adb" data-gps>'+IC.gps+'Usar mi ubicación</button><button type="button" class="adb" data-map>'+IC.map+"Elegir en el mapa</button></div>")+
    '<div class="admap" hidden></div><div class="adps" hidden></div>':"")+
-  (P.length?'<label>Provincia</label><select data-ad="p"'+dis+">"+op(P,a.p)+'</select><p class="an" data-ad="n">'+esc(shNote(a.p))+
-   '</p><label>Municipio</label><select data-ad="m"'+dis+">"+op(G[a.p]||[],a.m)+'</select><div data-ad="zw">'+zw(a.p,a.m,a.z)+"</div>":"")+
+  (P.length?'<label>Provincia</label><select data-ad="p"'+dis+">"+op(P,ap)+'</select><p class="an" data-ad="n">'+esc(shNote(ap))+
+   '</p><label>Municipio</label><select data-ad="m"'+dis+">"+op(G[ap]||[],a.m,ap)+'</select><div data-ad="zw">'+zw(ap,a.m,a.z)+"</div>":"")+
   '<label>Dirección</label><textarea data-ad="d" maxlength="300"'+dis+' placeholder="'+(ro?"Sin dirección":"Calle, número, entre calles, referencias")+'">'+esc(a.d||"")+"</textarea>"+
    
   '<label>Observación <small class="adop">(opcional)</small></label><textarea data-ad="o" maxlength="200" rows="2"'+dis+' placeholder="'+(ro?"Sin observación":"Ej. portón verde, llamar al llegar")+'">'+esc(a.o||"")+"</textarea>"+
@@ -1380,7 +1386,7 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
    (r===undefined?(pt?"Calculando el envío…":"Punto marcado en el mapa"):!r?"Punto marcado en el mapa":r.price!=null?"Envío hasta aquí: "+(r.price?money(r.price):"Gratis"):"Ese punto queda fuera de la zona de entrega")+"</small></span>"+
    (ro?'<a class="adx2" href="'+gLink(g)+'" target="_blank" rel="noopener">Ver</a>':'<button type="button" class="adx2" data-clr aria-label="Quitar el punto">'+IC.x+"</button>")}
  function setP(v){var p=q('[data-ad="p"]'),m=q('[data-ad="m"]');if(!p||!v||!v.p||!G[v.p])return;
-  if(p.value!==v.p){p.value=v.p;m.innerHTML=op(G[v.p]||[],"");q('[data-ad="n"]').textContent=shNote(v.p)}
+  if(p.value!==v.p){p.value=v.p;m.innerHTML=op(G[v.p]||[],"",v.p);q('[data-ad="n"]').textContent=shNote(v.p)}
   if(v.m&&(G[v.p]||[]).indexOf(v.m)>=0)m.value=v.m;q('[data-ad="zw"]').innerHTML=zw(p.value,m.value,"")}
  function setG(v,move){g=v;ps();dirty();if(map){if(!g){if(mk){mk.remove();mk=null}}else{if(mk)mk.setLatLng(g);else mkAdd();if(move)map.setView(g,Math.max(map.getZoom(),16))}}
   if(g){var k=g;ptGet(g).then(function(r){if(g!==k||!e.isConnected)return;if(r)setP(r);ps();dirty()})}}
@@ -1404,11 +1410,11 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
  function cur(){var o={d:q('[data-ad="d"]').value.trim()},ob=q('[data-ad="o"]').value.trim(),p=q('[data-ad="p"]'),m=q('[data-ad="m"]'),z=q('[data-ad="z"]');
   if(p&&p.value){o.p=p.value;if(m.value){o.m=m.value;if(z&&z.value)o.z=z.value}}if(g)o.g=g;if(ob)o.o=ob;return o}
  function dirty(){var b=q(".adok");if(!b)return;var o=cur(),s=adGet();if(X)s=s.alt&&typeof s.alt=="object"?s.alt:{};
-  b.disabled=(o.d||"")==(s.d||"")&&(o.o||"")==(s.o||"")&&(o.p||"")==(s.p||"")&&(o.m||"")==(s.m||"")&&(o.z||"")==(s.z||"")&&(o.g?gKey(o.g):"")==(gOk(s.g)?gKey(s.g):"")}
+  b.disabled=(o.d||"")==(s.d||"")&&(o.o||"")==(s.o||"")&&(o.p||"")==(s.p||(s.m||gOk(s.g)?"":DP))&&(o.m||"")==(s.m||"")&&(o.z||"")==(s.z||"")&&(o.g?gKey(o.g):"")==(gOk(s.g)?gKey(s.g):"")}
  ps();
  if(ro)return;
  if(g)ptGet(g).then(function(){if(e.isConnected)ps()});
- e.onchange=function(ev){var p=q('[data-ad="p"]'),m=q('[data-ad="m"]');if(p&&ev.target===p){m.innerHTML=op(G[p.value]||[],"");q('[data-ad="n"]').textContent=shNote(p.value)}
+ e.onchange=function(ev){var p=q('[data-ad="p"]'),m=q('[data-ad="m"]');if(p&&ev.target===p){m.innerHTML=op(G[p.value]||[],"",p.value);q('[data-ad="n"]').textContent=shNote(p.value)}
   if(p&&(ev.target===p||ev.target===m))q('[data-ad="zw"]').innerHTML=zw(p.value,m.value,"");dirty()};
  e.oninput=dirty;
  e.onclick=function(ev){var t=ev.target.closest&&ev.target.closest("button");if(!t||!e.contains(t))return;
