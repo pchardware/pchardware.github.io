@@ -2208,7 +2208,7 @@ function mtX(){var o=null;try{o=JSON.parse(localStorage.getItem("mntx")||"null")
 function mtXSet(o){try{Object.keys(o).length?localStorage.setItem("mntx",JSON.stringify(o)):localStorage.removeItem("mntx")}catch(e){}}
  
 function mtUnits(x,p){if(!x.u)return 1;try{var r=new RegExp(x.u,"i"),L=(p.Features||[]).concat([p.Label]);
- for(var i=0;i<L.length;i++){var m=r.exec(String(L[i]));if(m&&parseInt(m[1],10)>0)return parseInt(m[1],10)}}catch(e){}return 1}
+ for(var i=0;i<L.length;i++){var m=r.exec(String(L[i])),n=m?parseInt(m.slice(1).filter(Boolean)[0],10):0;if(n>0)return n}}catch(e){}return 1}    
 function mtCount(items,ex){var P=mtParts(),c={};P.forEach(function(p){c[p.k]=0});
  items.forEach(function(i){var p=bySlug[i.productId],q=parseInt(i.qty,10)||0;if(!p||q<=0)return;
   var h=P.filter(function(x){var s=x.subs?x.subs.indexOf(p.SubCategory)>=0:!!x.re;try{return s&&(!x.re||new RegExp(x.re,"i").test(p.Label))}catch(e){return false}})[0];
@@ -2216,10 +2216,13 @@ function mtCount(items,ex){var P=mtParts(),c={};P.forEach(function(p){c[p.k]=0})
  if(ex)Object.keys(ex).forEach(function(k){if(k in c)c[k]+=ex[k]});
  P.forEach(function(p){if(p.needs&&c[p.k]&&!p.needs.some(function(k){return c[k]}))c[p.needs[0]]=(c[p.needs[0]]||0)+c[p.k]});return c}
 function mtCost(p,n){var per=parseInt(p.per,10)||0;return(+p.p||0)*(per>1?Math.ceil(n/per):n)}
-function mtCalc(c){var P=mtParts(),cap=+(M.Mount&&M.Mount.cap)||0,cov={},t=0;
- if(P.some(function(p){return p.all&&c[p.k]}))return cap;
+
+
+
+function mtCalc(c){var P=mtParts(),cap=+(M.Mount&&M.Mount.cap)||0,cov={},t=0,pcs=1,has=P.some(function(p){return p.pc});
+ P.forEach(function(p){if((has?p.pc:p.all||p.covers)&&c[p.k]>pcs)pcs=c[p.k]});
  P.forEach(function(p){if(c[p.k])(p.covers||[]).forEach(function(k){cov[k]=1})});
- P.forEach(function(p){if(!cov[p.k])t+=mtCost(p,c[p.k]||0)});return cap?Math.min(t,cap):t}
+ P.forEach(function(p){if(!cov[p.k])t+=p.all&&cap?cap*(c[p.k]||0):mtCost(p,c[p.k]||0)});return cap?Math.min(t,cap*pcs):t}
  
 function mtOf(items){var P=mtParts();if(!P.length)return null;var ex=mtX(),c0=mtCount(items),c=mtCount(items,ex);
  function txt(f){return P.filter(function(x){return f(x)>0}).map(function(x){var n=f(x);return(n>1?n+" ":"")+x.n}).join(", ")}
@@ -2292,7 +2295,7 @@ function cartView(){
   '<div class="czbar"><div><small>Total</small><b>'+money(gt)+'</b></div><button class="btn wa" id="orderB">'+IC.wa+"Enviar el pedido</button></div></div>";
  v.innerHTML=h;cxHook(keep);if(pyOn()){pyRate(function(){if(!$("vCart").hidden)cartView()});[].forEach.call(v.querySelectorAll("[data-py]"),function(b){b.onclick=function(){pySet(b.getAttribute("data-py"));cartView()}})}if($("adCh"))$("adCh").onclick=function(){adSheet(D&&D.i?1:0)};
  if($("etCh"))$("etCh").onclick=function(){etSheet(adGet())};
- if($("mtB"))$("mtB").onclick=function(){mtSet(!mtOn());cartView()};
+ if($("mtB"))$("mtB").onclick=function(){mtSet(!mtOn());MTO=false;cartView()};    
  [].forEach.call(v.querySelectorAll("[data-mx]"),function(b){b.onclick=function(){var a=b.getAttribute("data-mx").split(":"),ex=mtX();
   ex[a[0]]=Math.max(0,Math.min(99,(ex[a[0]]||0)+(+a[1])));if(!ex[a[0]])delete ex[a[0]];mtXSet(ex);MTO=true;cartView()}});
  [].forEach.call(v.querySelectorAll("[data-mxo]"),function(b){b.onclick=function(){MTO=true;cartView()}});
