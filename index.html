@@ -1263,13 +1263,16 @@ function etTxt(r){return r?etDn(r.d)+", "+etWin(r.a,r.b):""}
 function etAsk(s){return etDn(s.d)+(s.k?", "+etWin(s.a,s.b):"")}
 
 
-function etDif(E,s){return!!(E&&E.r&&"x" in E&&(s.k=="b"||s.k=="e")&&(E.x==null||s.b<E.x))}
+var ET_MIN=60;
+function etNar(s){return s.k=="e"&&s.b-s.a<ET_MIN}
+function etDif(E,s){return!!(E&&E.r&&(etNar(s)||"x" in E&&(s.k=="b"||s.k=="e")&&(E.x==null||s.b<E.x)))}
 
 
 function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null;ov.className="adsh";
   
-  
- function tOpt(v,lo,hi,t,L,X){var h="";for(var m=lo;m<=hi;m+=15){var n=L&&(t=="b"?m<L.b:m>L.a)?"a acordar":t=="b"&&X!=null&&m<X?"difícil":"";
+ 
+
+ function tOpt(v,lo,hi,t,L,X){var h="";for(var m=lo;m<=hi;m+=15){var n=L&&(t=="b"?m<L.b:m>L.a)?"a acordar":t!="a"&&X!=null&&m<X?"difícil":"";
   h+='<option value="'+m+'"'+(m==v?" selected":"")+(n?' data-n="'+n+'"':"")+">"+etHm(m)+"</option>"}return h}
  function draw(){var s=etSel(),E=etHave(ad),L=E&&E.lim,days="",i,LO=480,HI=1200;
    
@@ -1281,9 +1284,9 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null;ov.cla
   var K=[["","Lo antes posible"],["b","Antes de"],["a","Después de"],["e","Entre"]].map(function(x){return'<button type="button" data-k="'+x[0]+'" class="'+(s.k==x[0]?"on":"")+'" aria-pressed="'+(s.k==x[0])+'">'+x[1]+"</button>"}).join("");
   var T=s.k=="b"?'<div class="ettm"><select data-t="b" aria-label="Antes de">'+tOpt(s.b,Math.max(LO+15,mn),HI,"b",L,X)+"</select></div>":
    s.k=="a"?'<div class="ettm"><select data-t="a" aria-label="Después de">'+tOpt(s.a,Math.max(LO,mn),HI-15,"a",L)+"</select></div>":
-   s.k=="e"?'<div class="ettm"><select data-t="a" aria-label="Desde">'+tOpt(s.a,Math.max(LO,mn),HI-15,"a",L)+'</select><span>y</span><select data-t="b" aria-label="Hasta">'+tOpt(s.b,s.a+15,HI,"b",L,X)+"</select></div>":"";
+   s.k=="e"?'<div class="ettm"><select data-t="a" aria-label="Desde">'+tOpt(s.a,Math.max(LO,mn),HI-15,"f",L,X)+'</select><span>y</span><select data-t="b" aria-label="Hasta">'+tOpt(s.b,s.a+15,HI,"b",L,Math.max(X==null?0:X,s.a+ET_MIN))+"</select></div>":"";
   var R=E===undefined?'<p class="etr etw">Calculando…</p>':!E||!E.r?'<p class="etr">'+IC.clock+"<span>Con ese horario la entrega se acuerda con el pedido</span></p>":
-   etDif(E,s)?'<p class="etr etd">'+IC.wa+'<span>Llegar a esa hora es difícil. <a href="'+waUrl("Hola, ¿pueden entregarme un pedido "+etAsk(s)+"?")+
+   etDif(E,s)?'<p class="etr etd">'+IC.wa+'<span>'+(etNar(s)?"Una franja de menos de una hora es difícil":"Llegar a esa hora es difícil")+'. <a href="'+waUrl("Hola, ¿pueden entregarme un pedido "+etAsk(s)+"?")+
     '" target="_blank" rel="noopener">Escríbenos por WhatsApp</a> y vemos si se puede.</span></p>':
    '<p class="etr">'+IC.clock+"<span>"+(E.r.d>s.d?"Ese día no da tiempo. ":"")+"Llega <b>"+esc(etTxt(E.r))+"</b></span></p>";
    
@@ -2124,7 +2127,7 @@ function cartView(){
   
  var eX=!eO?"":D.i?"<small>"+esc(etWin(e0.a,e0.b).replace(/^./,function(c){return c.toUpperCase()})+" en "+adNm(adGet()))+" no da tiempo</small>":
   "<small>Si no, "+esc(etWin(e0.x.a,e0.x.b)+" en "+adNm(adAlt()))+"</small>";
- var etB=eA&&E!==undefined&&(E||eQ)?'<div class="czet">'+IC.clock+"<span>"+(etDif(E,eS)?"Pediste <b>"+esc(etAsk(eS))+"</b><small>Es difícil a esa hora: lo vemos por WhatsApp</small>":E&&E.r?"Llega <b>"+esc(etTxt(E.r))+"</b>":"Fecha y hora de entrega: se acuerdan con el pedido")+
+ var etB=eA&&E!==undefined&&(E||eQ)?'<div class="czet">'+IC.clock+"<span>"+(etDif(E,eS)?"Pediste <b>"+esc(etAsk(eS))+"</b><small>"+(etNar(eS)?"Franja corta, es difícil":"Es difícil a esa hora")+": lo vemos por WhatsApp</small>":E&&E.r?"Llega <b>"+esc(etTxt(E.r))+"</b>":"Fecha y hora de entrega: se acuerdan con el pedido")+
   (eQ&&!etDif(E,eS)&&!(E&&E.r&&etTxt(E.r)==etAsk(eS))?"<small>Pediste: "+esc(etAsk(eS))+"</small>":"")+eX+
   '<button type="button" class="czch" id="etCh">'+(eQ?"Cambiar horario":"Elegir horario")+"</button></span></div>":"";
  var h='<div class="cartbox cz"><div class="czh"><h2>Tu cesta</h2><span class="czn">'+n+(n==1?" artículo":" artículos")+'</span><a class="czk" data-nav href="./">'+IC.l+"Seguir comprando</a></div>"+czUndo()+
