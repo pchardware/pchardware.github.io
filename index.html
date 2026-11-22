@@ -442,6 +442,9 @@ footer p{margin:0 0 6px;opacity:.7}
 .czac .czch{display:block;margin:6px 0 0 29px;padding:0;border:0;background:none;font-size:13px;font-weight:600;color:var(--ink);text-decoration:underline;text-underline-offset:3px;cursor:pointer}
 .czac .czwx{margin:8px 0 0 29px;white-space:pre-line;font-size:13px;color:var(--ink2)}
 .czac .czan{margin:8px 0 0 29px;font-size:13px;font-weight:600;color:var(--hot)}
+.wdl{margin:4px 0 12px}.wdr{display:flex;justify-content:space-between;gap:12px;padding:9px 12px;border:1px solid var(--line);border-radius:10px;margin-bottom:6px;font-size:14px;color:var(--ink2)}
+.wdr b{color:var(--ink);text-align:right}.wdr.wdh{border-color:var(--hot);background:var(--hotbg);color:var(--hot)}.wdr.wdh b{color:var(--hot)}
+.wdx{font-size:14px;line-height:1.55;color:var(--ink2);margin-bottom:16px}.wdx .wdh{color:var(--hot);font-weight:600}
 .etg{margin:4px 0 12px}
 .czch.etxa{margin:-4px 0 12px 2px}
 .etx{margin:0 0 12px;padding:8px 10px 10px;border:1px solid var(--bd);border-radius:12px}
@@ -2194,12 +2197,12 @@ function cartView(){
    sh?'<div class="czv"><span>Envío · '+esc(sh.n)+(sh.v>1?" · "+sh.v+" viajes":"")+(ad.d?"<small>"+esc(ad.d)+"</small>":gOk(ad.g)?"<small>Punto marcado en el mapa</small>":"")+chB+"</span><span"+(sh.p?"":' class="czg"')+">"+(sh.p?money(sh.p):"Gratis")+"</span></div>":
    adC?'<div class="czv"><span>Envío'+(ad.m||ad.d?"<small>"+esc([ad.m,ad.d].filter(Boolean).join(" · "))+"</small>":"")+chB+'</span><span class="czq">'+(gOk(ad.g)&&ptHave(ad.g)===undefined?"…":"Se acuerda")+"</span></div>":"")+
   (dn?'<p class="sv czd">'+IC.truck+esc(dn)+"</p>":"")+etB+
-  '<div class="czo"><span>Total</span><span>'+usd(gt)+"</span></div>"+pyBox(gt)+wBox(keep,tx)+
+  '<div class="czo"><span>Total</span><span>'+usd(gt)+"</span></div>"+pyBox(gt)+
   '<button class="btn wa" id="order">'+IC.wa+'Enviar el pedido</button><p class="czw">Se abre WhatsApp con tu pedido ya escrito</p>'+accNote("tu cesta")+"</div>"+
   '<div id="cX"></div>'+(tr?'<div class="box trust">'+tr+"</div>":"")+"</div></div>"+
   '<div class="czbar"><div><small>Total</small><b>'+money(gt)+'</b></div><button class="btn wa" id="orderB">'+IC.wa+"Enviar el pedido</button></div></div>";
  v.innerHTML=h;cxHook(keep);if(pyOn()){pyRate(function(){if(!$("vCart").hidden)cartView()});[].forEach.call(v.querySelectorAll("[data-py]"),function(b){b.onclick=function(){pySet(b.getAttribute("data-py"));cartView()}})}if($("adCh"))$("adCh").onclick=function(){adSheet(D&&D.i?1:0)};
- if($("wAc"))$("wAc").onchange=function(){wOk=this.checked?wSum(keep):"";if(wOk)wNag=false;cartView()};if($("wSee"))$("wSee").onclick=function(){wSee=!wSee;cartView()};if($("etCh"))$("etCh").onclick=function(){etSheet(adGet())};
+ if($("etCh"))$("etCh").onclick=function(){etSheet(adGet())};
  [].forEach.call(v.querySelectorAll("[data-dl]"),function(b){b.onclick=function(){if((b.getAttribute("data-dl")=="1")!=dlPk()){dlSet(b.getAttribute("data-dl")=="1");cartView()}}});
   
  if(window.IntersectionObserver){if(czIO)czIO.disconnect();czIO=new IntersectionObserver(function(e){var b=v.querySelector(".czbar");if(b)b.classList.toggle("off",e[e.length-1].isIntersecting)});czIO.observe($("order"))}}
@@ -2207,7 +2210,7 @@ function cartView(){
 
 
 
-var wOk="",wSee=false,wNag=false;
+var wOk="";
 function wTerm(p){if(!M.WarrantyTerm)return"";var s=norm(p.SubCategory||""),c=norm(p.Category||""),r=String(M.WarrantyTerm).trim(),hit=0;
  String(M.WarrantyBy||"").split(/\r?\n/).forEach(function(l){var i=l.indexOf(":");if(i<1)return;var k=norm(l.slice(0,i).trim()),v=l.slice(i+1).trim();
   if(!k||!v)return;if(k==s){r=v;hit=2}else if(k==c&&hit<2){r=v;hit=1}});return r}
@@ -2216,10 +2219,24 @@ function wSum(items){var g=M.WarrantyTerm?String(M.WarrantyTerm).trim():"",gen=0
  items.forEach(function(i){var p=bySlug[i.productId];if(!p)return;var t=wTerm(p);if(t==g){gen=1;return}var n=p.SubCategory||p.Category||"";(ex[t]=ex[t]||[]).indexOf(n)<0&&ex[t].push(n)});
  if(gen)o.push(g);for(var t in ex)o.push(ex[t].join(", ")+": "+t);return o.join(" · ")}
 function wNeed(items){var s=wSum(items);return s&&wOk!==s}
-function wBox(items,tx){var s=wSum(items);if(!s)return"";var ok=wOk===s,nag=wNag&&!ok;
- return'<div class="czac'+(nag?" nag":"")+'"><label><input type="checkbox" id="wAc"'+(ok?" checked":"")+"><span>Acepto las condiciones de garantía<small>"+esc(s)+"</small></span></label>"+
-  (M.Warranty?'<button type="button" class="czch" id="wSee">'+(wSee?"Ocultar las condiciones":"Ver las condiciones")+"</button>"+(wSee?'<div class="czwx">'+tx(M.Warranty)+"</div>":""):"")+
-  (nag?'<p class="czan">Marca la casilla para enviar el pedido</p>':"")+"</div>"}
+
+
+
+function wWords(s){return norm(String(s||"")).split(/[_-]+/).filter(function(w){return w.length>2})}
+function wDialog(items,go){var s=wSum(items);if(!s)return go();var g=String(M.WarrantyTerm).trim(),ex={},gen=0,red=[];
+ items.forEach(function(i){var p=bySlug[i.productId];if(!p)return;var t=wTerm(p),n=p.SubCategory||p.Category||"";if(t==g){gen=1;return}
+  (ex[t]=ex[t]||[]).indexOf(n)<0&&ex[t].push(n);var w=wWords(n);if(w.length)red.push(w)});
+ function hot(seg){var sw=wWords(seg);return red.some(function(w){return w.every(function(x){return sw.some(function(y){return y.indexOf(x)==0})})})}
+ var rows=(gen?'<div class="wdr"><span>Garantía</span><b>'+esc(g)+"</b></div>":"");for(var t in ex)rows+='<div class="wdr wdh"><span>'+esc(ex[t].join(", "))+"</span><b>"+esc(t)+"</b></div>";
+ var body=M.Warranty?String(M.Warranty).replace(/\r/g,"").replace(/\n\s*\n+/g,"\n").trim().split("\n").map(function(l){
+  return(l.match(/[^.]+\.?\s*/g)||[l]).map(function(x){return hot(x)?'<span class="wdh">'+esc(x)+"</span>":esc(x)}).join("")}).join("<br>"):"";
+ var ov=document.createElement("div");ov.className="adsh";
+ ov.innerHTML='<div class="adbx" role="dialog" aria-modal="true" aria-label="Condiciones de garantía"><div class="adhd"><b>Condiciones de garantía</b><button type="button" class="adcl" aria-label="Cerrar">'+IC.x+"</button></div>"+
+  '<div class="wdl">'+rows+"</div>"+(body?'<div class="wdx">'+body+"</div>":"")+'<button type="button" class="btn etok wdok">Acepto las condiciones</button></div>';
+ function close(){ov.remove();document.removeEventListener("keydown",key,true);if(!document.querySelector(".adsh"))document.body.classList.remove("adon")}
+ function key(ev){if(ev.key=="Escape"&&ov===etTop()){ev.stopPropagation();close()}}
+ ov.onclick=function(ev){if(ev.target.closest&&ev.target.closest(".wdok")){wOk=s;close();go()}else if(ev.target===ov||ev.target.closest&&ev.target.closest(".adcl"))close()};
+ document.addEventListener("keydown",key,true);document.body.appendChild(ov);document.body.classList.add("adon")}
  
 function cxHook(keep){var el=$("cX");if(!el)return;if(!(TX&&TX.c)){el.hidden=true;return}
  TX.c(keep.map(function(i){var p=bySlug[i.productId];return{slug:p.slug,label:p.Label,qty:parseInt(i.qty,10)||0,price:p.Price}}),el,
@@ -2261,7 +2278,7 @@ function cRules(items){var out={},I={},L=[],D=[],seen={};if(!BL)return out;
  return out}
 function order(){
  var ci=getCart().items.filter(function(i){return bySlug[i.productId]&&(parseInt(i.qty,10)||0)>0});
- if(ci.length&&wNeed(ci)){wNag=true;cartView();var b=document.querySelector(".czac");if(b)b.scrollIntoView({behavior:"smooth",block:"center"});return}
+ if(ci.length&&wNeed(ci))return wDialog(ci,order);
  var t="Hola, quiero esta orden:\n------------------------------\n",tot=0,items=[];
  getCart().items.forEach(function(i){var p=bySlug[i.productId],q=parseInt(i.qty,10)||0;if(!p||q<=0)return;
   t+="- "+q+"x $"+p.Price+" "+p.Label+"\n";tot+=p.Price*q;items.push({id:p.slug,name:p.Label,quantity:q,price:p.Price})});
