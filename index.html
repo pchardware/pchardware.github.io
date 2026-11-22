@@ -1048,7 +1048,15 @@ function shArea(p,m){var A=M.Ship&&M.Ship.areas;return p&&m&&A&&A[p]&&A[p][m]&&t
 function shOf(tot){var a=adGet(),A=shArea(a.p,a.m),z=null;
  if(A){var rr=a.z?(A.r||[]).filter(function(x){return x[0]===a.z})[0]:null,v=rr?rr[1]:A.p;if(v!=null)z={n:rr?rr[0]:a.m,p:v}}
  if(!z)z=shZones().filter(function(x){return x.n===a.m||x.n===a.p})[0];if(!z)return null;
- var p=+z.p||0;if(+M.Ship.free>0&&tot>=+M.Ship.free)p=0;return{n:z.n,p:p}}
+ var p=+z.p||0,b=shBulk();if(b.big&&p<b.min)p=b.min;p=p*b.v;if(+M.Ship.free>0&&tot>=+M.Ship.free)p=0;return{n:z.n,p:p,v:b.v}}
+
+
+function shBulk(){var B=(M.Ship&&M.Ship.bulk)||{},S=B.subs||[],R=B.room||{},big=false,sz=[],bins=[];
+ getCart().items.forEach(function(i){var p=bySlug[i.productId],q=parseInt(i.qty,10)||0;if(!p||q<=0)return;
+  if(S.indexOf(p.SubCategory)>=0)big=true;for(var k=0,r=+R[p.SubCategory]||0;r>0&&k<q;k++)sz.push(r)});
+ sz.sort(function(x,y){return y-x});
+ sz.forEach(function(r){for(var i=0;i<bins.length;i++)if(bins[i]+r<=100.001){bins[i]+=r;return}bins.push(r)});
+ return{big:big,min:+B.min||0,v:Math.max(1,bins.length)}}
 function shNote(p){if(!p||!M.Ship||!M.Ship.prov||!Object.keys(M.Ship.prov).length)return"";var v=M.Ship.prov[p];
  return v==1?"":v==2?"Entregas en "+p+": solo a veces, se confirma con el pedido":"Por ahora no hacemos entregas en "+p}
 
@@ -1854,7 +1862,7 @@ function cartView(){
   '<div class="lay2"><div class="box czl">'+rows+'<div class="czf"><button id="empty">'+IC.trash+"Vaciar la cesta</button></div></div>"+
   '<div class="side"><div class="box czs"><h3>Resumen del pedido</h3>'+
   '<div class="czv"><span>Artículos ('+n+")</span><span>"+money(tot)+"</span></div>"+
-  (sh?'<div class="czv"><span>Envío · '+esc(sh.n)+(ad.d?"<small>"+esc(ad.d)+"</small>":"")+"</span><span"+(sh.p?"":' class="czg"')+">"+(sh.p?money(sh.p):"Gratis")+"</span></div>":"")+
+  (sh?'<div class="czv"><span>Envío · '+esc(sh.n)+(sh.v>1?" · "+sh.v+" viajes":"")+(ad.d?"<small>"+esc(ad.d)+"</small>":"")+"</span><span"+(sh.p?"":' class="czg"')+">"+(sh.p?money(sh.p):"Gratis")+"</span></div>":"")+
   (dn?'<p class="sv czd">'+IC.truck+esc(dn)+"</p>":"")+
   '<div class="czo"><span>Total</span><span>'+usd(gt)+"</span></div>"+
   '<button class="btn wa" id="order">'+IC.wa+'Enviar el pedido</button><p class="czw">Se abre WhatsApp con tu pedido ya escrito</p>'+accNote("tu cesta")+"</div>"+
@@ -1909,7 +1917,7 @@ function order(){
  if(!items.length)return;
  T("wa","pedido");items.forEach(function(x){T("ord",x.id)});tCk("con");tCk("ver");tCk("pedido");
  var so=tOrig;try{so=so||sessionStorage.getItem("ts")||"";localStorage.setItem("co",cSig())}catch(e){}if(so)T("so",so,true);
- var sh=shOf(tot),ad=adGet();if(sh){t+="\nEnvío ("+sh.n+"): "+(sh.p?"$"+sh.p:"gratis");tot+=sh.p}
+ var sh=shOf(tot),ad=adGet();if(sh){t+="\nEnvío ("+sh.n+(sh.v>1?", "+sh.v+" viajes":"")+"): "+(sh.p?"$"+sh.p:"gratis");tot+=sh.p}
  t+="\nTotal: $"+tot+" USD";if(AC&&(ad.p||ad.d))t+="\n\nEntrega: "+[ad.p,ad.m,ad.z,ad.d].filter(Boolean).join(" · ");window.open(waUrl(t),"_blank")}
 
 
