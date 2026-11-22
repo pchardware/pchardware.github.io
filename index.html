@@ -624,7 +624,7 @@ button.sv{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
 .nsls{position:relative;background:var(--card);color:var(--ink);width:100%;max-width:560px;margin:0 auto;box-sizing:border-box;border-radius:16px 16px 0 0;max-height:70%;overflow-y:auto;padding:8px 0 calc(10px + env(safe-area-inset-bottom));font-size:16px}
 .nsov.w .nsls{width:auto;margin:0;border-radius:10px;border:1px solid var(--line);box-shadow:0 10px 28px rgba(16,24,40,.16);padding:4px 0}.nsov.w .tt{display:none}.nsov.w .gh{padding:10px 12px 2px}.nsov.w .nsls button{min-height:38px;padding:0 12px;font-size:15px;white-space:nowrap}
 .nsls .hd{width:36px;height:4px;border-radius:2px;background:var(--line);margin:0 auto 6px}.nsov.w .nsls .hd{display:none}
-.nsls .tt{font-size:15px;font-weight:700;padding:4px 16px 6px}.nsls .gh{font-size:11px;color:var(--mut);text-transform:uppercase;letter-spacing:1px;padding:14px 16px 4px}
+.nsls .tt{font-size:15px;font-weight:700;padding:4px 16px 6px}.nsls .gh{font-size:11px;color:var(--mut);text-transform:uppercase;letter-spacing:1px;padding:14px 16px 4px}.nsls button+.gh{border-top:1px solid var(--line);margin-top:6px}
 .nsls button{display:flex;align-items:center;gap:10px;width:100%;min-height:48px;padding:0 16px;border:0;background:none;text-align:left;font:inherit;font-size:16px;color:var(--ink);cursor:pointer;-webkit-tap-highlight-color:transparent}
 .nsls button>span{flex:1;min-width:0}.nsls button small{margin-left:8px;font-size:12.5px;font-weight:400;color:var(--mut);opacity:.8}.nsls button.on{background:var(--soft);font-weight:600}.nsls button:disabled{opacity:.4;cursor:default}
 .nsls button svg{width:16px;height:16px;flex:none;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
@@ -1369,7 +1369,11 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
  function opN(x,p){var S=M.Ship||{},V=S.prov||{},A=S.areas;if(!Object.keys(V).length)return"";
   if(!p)return V[x]==2?"Solo a veces":V[x]?"":"Sin servicio por ahora";
   if(!V[p]||!A||!A[p])return"";var z=shArea(p,x);return!z||(z.p==null&&!(z.r||[]).some(function(r){return r[1]!=null}))?"Sin servicio por ahora":""}
- function op(L,cur,p){if(cur&&L.indexOf(cur)<0)L=L.concat([cur]);return'<option value="">'+(ro?"":"Elegir")+"</option>"+L.map(function(x){var n=ro?"":opN(x,p);return"<option"+(x===cur?" selected":"")+(n?' data-n="'+esc(n)+'"':"")+">"+esc(x)+"</option>"}).join("")}
+  
+ function op(L,cur,p){if(cur&&L.indexOf(cur)<0)L=L.concat([cur]);var h='<option value="">'+(ro?"":"Elegir")+"</option>",Y=[],N=[];
+  function o(x,n){return"<option"+(x===cur?" selected":"")+(n?' data-n="'+esc(n)+'"':"")+">"+esc(x)+"</option>"}
+  L.forEach(function(x){var n=ro?"":opN(x,p);(n=="Sin servicio por ahora"?N:Y).push(o(x,n=="Solo a veces"?n:""))});
+  return h+(N.length&&Y.length?'<optgroup label="Con entrega">'+Y.join("")+'</optgroup><optgroup label="Sin servicio por ahora">'+N.join("")+"</optgroup>":Y.concat(N).join(""))}
  function zw(p,m,z){var A=shArea(p,m);if(!A||!A.r||!A.r.length)return"";var L=A.r.map(function(x){return x[0]});if(z&&L.indexOf(z)<0)L=L.concat([z]);
   return'<label>Reparto</label><select data-ad="z"'+dis+'><option value="">'+(ro?"":"Otro, o no sé")+"</option>"+L.map(function(x){return"<option"+(x===z?" selected":"")+">"+esc(x)+"</option>"}).join("")+"</select>"}
  e.innerHTML=(pt||(ro&&g)?'<label>Ubicación</label>'+(ro?"":'<div class="adpb"><button type="button" class="adb" data-gps>'+IC.gps+'Usar mi ubicación</button><button type="button" class="adb" data-map>'+IC.map+"Elegir en el mapa</button></div>")+
