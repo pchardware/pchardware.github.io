@@ -2198,13 +2198,19 @@ function czZoom(slug){var p=bySlug[slug];if(!p)return;gal={slug:slug,imgs:["imag
 
 var PYN={usd:"USD en efectivo",cup:"CUP en efectivo",eur:"EUR en efectivo",zelle:"Zelle",paypal:"PayPal",cashapp:"Cash App",otra:"Otra forma"},PYR;
 function pyOn(){return!!(M.Pay&&M.Pay.on)}
-function pyKeys(){return M.Pay.on.concat("otra")}
+
+
+var PYD=["zelle","paypal","cashapp"];
+function pyDig(){return M.Pay.on.filter(function(k){return PYD.indexOf(k)>=0})}
+function pyKeys(){var D=pyDig(),K=[];M.Pay.on.forEach(function(k){if(D.length<2||PYD.indexOf(k)<0)K.push(k);else if(K.indexOf("dig")<0)K.push("dig")});
+ if(D.length>1){D=D.map(function(k){return PYN[k]});PYN.dig=D.slice(0,-1).join(", ")+" o "+D[D.length-1]}return K.concat("otra")}
+function pyF(k){var F=M.Pay.fee||{};return k=="dig"?Math.max.apply(null,pyDig().map(function(x){return F[x]||0})):F[k]||0}
 
 
 
 
 
-function pySel(){var k="";try{k=localStorage.getItem("pay")||""}catch(e){}var K=pyKeys();return k=="mix"||K.indexOf(k)>=0?k:K[0]}
+function pySel(){var k="";try{k=localStorage.getItem("pay")||""}catch(e){}var K=pyKeys();if(PYD.indexOf(k)>=0&&K.indexOf("dig")>=0)k="dig";return k=="mix"||K.indexOf(k)>=0?k:K[0]}
 function pyCur(k){return k=="cup"?"CUP":k=="eur"?"EUR":"USD"}
 function pyMx(){var o=null,r={};try{o=JSON.parse(localStorage.getItem("paymx")||"null")}catch(e){}
  if(o&&typeof o=="object")pyKeys().forEach(function(k){if(k=="otra"){if(o.otra)r.otra=1}else{var n=+o[k];if(n>0)r[k]=Math.round(n*100)/100}});return r}
@@ -2214,19 +2220,19 @@ function pyR(k){return k=="cup"?!!PYR:k=="eur"?!!(PYR&&PYR.e):true}
  
 function pyCupX(u){var T=M.Pay.cup||[],i,p=0;for(i=0;i<T.length;i++)if(T[i][0]==null||u<=T[i][0]){p=T[i][1];break}return Math.round(PYR.u*(1+p/100))}
  
-function pyU(k,a){var f=(M.Pay.fee||{})[k]||0,T,i,x;if(!pyR(k))return null;
+function pyU(k,a){var f=pyF(k),T,i,x;if(!pyR(k))return null;
  if(k=="cup"){T=M.Pay.cup||[];for(i=0;i<T.length;i++){x=Math.round(PYR.u*(1+T[i][1]/100));if(T[i][0]==null||a/x<=T[i][0])return a/x}return a/Math.round(PYR.u)}
  if(k=="eur")return a*PYR.e/(PYR.u*(1+f/100));
  return a/(1+f/100)}
  
-function pyA(k,u){var f=(M.Pay.fee||{})[k]||0;if(u<=0)return 0;if(!pyR(k))return null;
+function pyA(k,u){var f=pyF(k);if(u<=0)return 0;if(!pyR(k))return null;
  if(k=="cup")return Math.ceil(u*pyCupX(u)/50)*50;
  if(k=="eur")return Math.ceil(u*PYR.u*(1+f/100)/PYR.e);
  return f?Math.ceil(u*(1+f/100)):Math.ceil(u*100)/100}
  
 function pyMs(t,o){o=o||pyMx();var c=0,n=0;Object.keys(o).forEach(function(k){if(k=="otra")return;var u=pyU(k,o[k]);if(u==null)n++;else c+=u});
- var r=Math.round((t-c)*100)/100;if(Math.abs(r)<0.5)r=0;return{c:c,r:r,n:n,o:o}}
-function pyPt(k,a,full){var f=(M.Pay.fee||{})[k]||0,u;
+ var r=Math.round((t-c)*100)/100;if(r>-1.5&&r<0.5)r=0;    return{c:c,r:r,n:n,o:o}}
+function pyPt(k,a,full){var f=pyF(k),u;
  if(k=="cup"){u=pyU(k,a);return pyN(a)+" CUP"+(full?" en efectivo ("+(u?"tasa "+Math.round(a/u):"tasa por confirmar")+")":"")}
  if(k=="eur")return pyN(a)+" EUR"+(full?" en efectivo":"");
  if(k=="usd")return"$"+pyN(a)+(full?" USD en efectivo":" efectivo");
@@ -2234,7 +2240,7 @@ function pyPt(k,a,full){var f=(M.Pay.fee||{})[k]||0,u;
 function pyMt(m,full){var L=Object.keys(m.o).filter(function(k){return k!="otra"}).map(function(k){return pyPt(k,m.o[k],full)});
  if(m.o.otra&&(m.n||m.r>0))L.push(full?"el resto"+(m.n?"":" ($"+pyN(m.r)+")")+" en otra forma, se acuerda":"resto en otra forma");return L.join(" + ")}
  
-function pyAlt(){var L=pyKeys().slice(1).filter(function(k){return k!="otra"}).map(function(k){return k=="cup"||k=="eur"?pyCur(k):PYN[k]});
+function pyAlt(){var L=pyKeys().slice(1).filter(function(k){return k!="otra"}).map(function(k){return k=="cup"||k=="eur"?pyCur(k):k=="dig"?pyDig().map(function(x){return PYN[x]}).join(", "):PYN[k]});
  return(L.length?L.join(", ")+", ":"")+"transferencia o combinadas"}
 var PYAL='<p class="czpn al"><b>CUP por transferencia no vale lo mismo que CUP en efectivo.</b> Esa y cualquier otra forma o condición de pago se acuerdan después de hacer el pedido.</p>';
 function pySet(k){try{localStorage.setItem("pay",k)}catch(e){}}
@@ -2243,7 +2249,7 @@ function pyRate(cb){if(PYR!==undefined)return;if(!M.Auth||!M.Auth.url){PYR=null;
  fetch(M.Auth.url+"/tasa",{method:"POST",body:"{}"}).then(function(r){return r.ok?r.json():null}).then(function(d){PYR=d&&d.u?d:null;cb()}).catch(function(){PYR=null;cb()})}
 function pyN(n){return n.toLocaleString("en-US",{maximumFractionDigits:2})}
  
-function pyQ(k,t){var f=(M.Pay.fee||{})[k]||0,R=PYR,v,x,T,i,p=0;
+function pyQ(k,t){var f=pyF(k),R=PYR,v,x,T,i,p=0;
  if(k=="otra")return{a:"Se acuerda",s:"CUP por transferencia y otras",q:1,w:"se acuerda después del pedido"};
  if(k=="usd")return{a:money(t),w:"$"+pyN(t)+" USD"};
  if(k=="cup"||k=="eur"){if(R===0||R===undefined)return{a:"…",q:1,w:""};if(!R||k=="eur"&&!R.e)return{a:"Se confirma",s:"La tasa se confirma con el pedido",q:1,w:"tasa por confirmar"}}
@@ -2264,7 +2270,7 @@ function pyBox(t){if(!pyOn())return"";var K=pyKeys(),p0=K[0],k0=pySel(),alt=k0!=
  
 function pySheet(t){var ov=document.createElement("div"),K=pyKeys(),p0=K[0],md=pySel()=="mix"?1:0;ov.className="adsh";
  function sum(){var m=pyMs(t),s=ov.querySelector(".pysum");if(!s)return;
-  K.forEach(function(k){var e=ov.querySelector('[data-pe="'+k+'"]'),f=(M.Pay.fee||{})[k]||0,a=m.o[k],u;if(!e)return;
+  K.forEach(function(k){var e=ov.querySelector('[data-pe="'+k+'"]'),f=pyF(k),a=m.o[k],u;if(!e)return;
    if(!pyR(k)){e.textContent=PYR===0?"Buscando la tasa…":"Hoy sin tasa: se confirma con el pedido";return}
    u=a?pyU(k,a):0;e.textContent=a&&k!="usd"?"Equivale a "+money(Math.round(u*100)/100):k=="cup"?"Efectivo · tasa del día":k=="eur"?"Efectivo · tasa del día"+(f?" + "+f+" %":""):k=="usd"?"Efectivo":f?"Recargo "+f+" %":""});
   s.innerHTML='<div><span>Total</span><b>'+money(t)+"</b></div><div><span>Cubres</span><b>"+money(Math.round(m.c*100)/100)+"</b></div>"+
