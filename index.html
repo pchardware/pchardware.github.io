@@ -252,11 +252,11 @@ h2{font-family:var(--fhead);font-size:17px;letter-spacing:-.01em;margin:26px 0 1
 .czx{grid-area:rm;align-self:start;justify-self:end;width:34px;height:34px;margin:-5px -8px 0 0;border-radius:9px;color:var(--mut2);display:flex;align-items:center;justify-content:center;transition:background .15s,color .15s}
 .czx svg{width:18px;height:18px}
 @media(hover:hover){.czx:hover{background:var(--hotbg);color:var(--hot)}}
-.czc{grid-area:ct;display:flex;align-items:center;gap:8px;min-width:0;margin-top:12px}
+.czc{grid-area:ct;display:flex;flex-wrap:wrap;align-items:center;gap:6px 8px;min-width:0;margin-top:12px}
 .czc .qty{height:36px;border-radius:999px;border-color:transparent;background:var(--soft)}
 .czc .qty button{width:34px;height:34px;font-size:18px;color:var(--ink2)}
 .czc .qty input{width:28px;font-weight:700;font-variant-numeric:tabular-nums}
-.czr .stk{margin:0}
+.czr .stk{flex:none;margin:0}
 .czt{grid-area:lt;align-self:end;justify-self:end;margin-top:12px;font-size:17px;font-weight:700;line-height:36px;color:var(--ink);font-variant-numeric:tabular-nums;white-space:nowrap}
 .czr .bw{grid-column:2/-1;margin-top:10px}
 .czf{display:flex;padding:13px 0 15px;border-top:1px solid var(--soft)}
@@ -1552,7 +1552,7 @@ function qMax(s){return STK&&STK.q&&STK.q[s]!=null?STK.q[s]:99}
  
 function stkBtn(s,q,sm){if(!STK||!STK.q||STK.q[s]==null)return"";var n=STK.q[s],no=q>n,on=no||STKv[s];
  return'<button type="button" class="stk'+(on?" on":"")+(no?" no":"")+'" data-stk="'+esc(s)+'" data-sq="'+(q||0)+'"'+(sm?' data-sm="1"':"")+
-  ' aria-label="Existencias">'+IC_BOX+(sm&&!on?"":"Existencias")+(on?" <b>"+n+"</b>":"")+"</button>"}
+  ' aria-label="Existencias">'+IC_BOX+(sm?"":"Existencias")+(on?(sm?"<b>":" <b>")+n+"</b>":"")+"</button>"}
 document.addEventListener("click",function(e){var t=e.target.closest("[data-stk]");if(!t)return;e.preventDefault();e.stopPropagation();
  var s=t.getAttribute("data-stk");STKv[s]=!STKv[s];t.outerHTML=stkBtn(s,+t.getAttribute("data-sq")||0,t.hasAttribute("data-sm"))},true);
 function ymd(d){return d.getFullYear()+"-"+("0"+(d.getMonth()+1)).slice(-2)+"-"+("0"+d.getDate()).slice(-2)}
