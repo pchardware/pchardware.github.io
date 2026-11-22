@@ -428,7 +428,20 @@ footer p{margin:0 0 6px;opacity:.7}
 .czac .czch{display:block;margin:6px 0 0 29px;padding:0;border:0;background:none;font-size:13px;font-weight:600;color:var(--ink);text-decoration:underline;text-underline-offset:3px;cursor:pointer}
 .czac .czwx{margin:8px 0 0 29px;white-space:pre-line;font-size:13px;color:var(--ink2)}
 .czac .czan{margin:8px 0 0 29px;font-size:13px;font-weight:600;color:var(--hot)}
-.etg{margin:4px 0 12px}.etg>small{display:block;margin:0 2px 2px;font-size:12.5px;font-weight:600;color:var(--mut)}
+.etg{margin:4px 0 12px}
+.czch.etxa{margin:-4px 0 12px 2px}
+.etx{margin:0 0 12px;padding:8px 10px 10px;border:1px solid var(--bd);border-radius:12px}
+.etxh{display:flex;align-items:center;justify-content:space-between;margin:0 0 6px}
+.etxh small{margin:0 2px;font-size:12.5px;font-weight:600;color:var(--mut)}
+.etxq{width:30px;height:30px;display:flex;align-items:center;justify-content:center;padding:0;border:0;border-radius:8px;background:none;color:var(--mut);cursor:pointer}
+.etxq svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round}
+.etx .etk{grid-template-columns:1fr 1fr 1fr}
+.etxd{display:flex;align-items:flex-start;gap:10px;margin-top:8px;padding:9px 10px 9px 12px;border-radius:10px;background:var(--soft)}
+.etxd>svg{width:20px;height:20px;flex:none;margin-top:1px;fill:none;stroke:var(--ink);stroke-width:1.9}
+.etxd small{display:block}
+.adbx .czch.etxa,.adbx .etx .czch{display:block;text-decoration:underline;text-underline-offset:3px}
+.adbx .etxd .czch{margin:3px 0 0}
+.adbx .etx>.czch{margin:8px 0 0 2px}.etg>small{display:block;margin:0 2px 2px;font-size:12.5px;font-weight:600;color:var(--mut)}
 .etg select,.etg .nsel{width:100%}
 .etk{display:grid;grid-template-columns:1.3fr 1fr 1fr 1fr;gap:4px;padding:4px;border-radius:12px;background:var(--soft)}
 .etk button{min-height:38px;padding:2px 4px;line-height:1.15;border:0;border-radius:9px;background:none;color:var(--mut);font-size:13.5px;font-weight:600;cursor:pointer}
@@ -1093,12 +1106,15 @@ function syVal(k){return k=="cart"?getCart():k=="pcs"?pcLoad():adGet()}
 
 function adGet(){if(COMO)return COMO.addr||{};var o=stGet("addr");return o&&typeof o=="object"?o:{}}
 function adSet(o){stSet("addr",o);syMark("addr")}
+
+
+function adAlt(){var a=adGet(),b=a&&a.alt;return b&&typeof b=="object"&&(b.p||b.m||b.d||gOk(b.g))?b:null}
 function shZones(){return M.Ship&&Array.isArray(M.Ship.zones)?M.Ship.zones:[]}
 
 
 
 function shArea(p,m){var A=M.Ship&&M.Ship.areas;return p&&m&&A&&A[p]&&A[p][m]&&typeof A[p][m]=="object"?A[p][m]:null}
-function shOf(tot){var a=adGet(),A=shArea(a.p,a.m),z=null,G=gOk(a.g)?ptHave(a.g):undefined;
+function shOf(tot,a){a=a||adGet();var A=shArea(a.p,a.m),z=null,G=gOk(a.g)?ptHave(a.g):undefined;
  if(G&&G.price!=null)z={n:G.m||a.m,p:G.price};else if(G)return null;
  if(!z&&A){var rr=a.z?(A.r||[]).filter(function(x){return x[0]===a.z})[0]:null,v=rr?rr[1]:A.p;if(v!=null)z={n:rr?rr[0]:a.m,p:v}}
  if(!z)z=shZones().filter(function(x){return x.n===a.m||x.n===a.p})[0];if(!z)return null;
@@ -1208,15 +1224,36 @@ function etIso(d){return d.getFullYear()+"-"+(d.getMonth()<9?"0":"")+(d.getMonth
 function etSel(){var o=null;try{o=JSON.parse(localStorage.getItem("eta2")||"null")}catch(e){}o=o&&typeof o=="object"?o:{};
  var d=0;if(o.f){var x=new Date(o.f+"T12:00:00");d=Math.max(0,Math.round((x-etDay(0))/864e5))}
  var k=["b","a","e"].indexOf(o.k)>=0?o.k:"",a=+o.a,b=+o.b;
- return{d:isFinite(d)?Math.min(d,13):0,k:k,a:k=="a"||k=="e"?(isFinite(a)?a:720):null,b:k=="b"||k=="e"?(isFinite(b)?b:840):null}}
-function etSave(s){try{if(!s.d&&!s.k)localStorage.removeItem("eta2");else localStorage.setItem("eta2",JSON.stringify({f:etIso(etDay(s.d)),k:s.k,a:s.a,b:s.b}))}catch(e){}}
+ var x=o.x&&typeof o.x=="object"&&["b","a","e"].indexOf(o.x.k)>=0?o.x:null,X=null;
+ if(x){var xa=+x.a,xb=+x.b;X={k:x.k,a:x.k=="a"||x.k=="e"?(isFinite(xa)?xa:1080):null,b:x.k=="b"||x.k=="e"?(isFinite(xb)?xb:1200):null}}
+ return{d:isFinite(d)?Math.min(d,13):0,k:k,a:k=="a"||k=="e"?(isFinite(a)?a:720):null,b:k=="b"||k=="e"?(isFinite(b)?b:840):null,x:X}}
+function etSave(s){try{if(!s.d&&!s.k&&!s.x)localStorage.removeItem("eta2");else localStorage.setItem("eta2",JSON.stringify({f:etIso(etDay(s.d)),k:s.k,a:s.a,b:s.b,x:s.x||undefined}))}catch(e){}}
 function etKey(a){return gOk(a.g)?gKey(a.g):a.p&&a.m?a.p+"|"+a.m:""}
 function etCk(a,s){return etKey(a)+"/"+s.d+"/"+s.a+"/"+s.b}
-function etHave(a){var s=etSel(),e=etKey(a)&&ETV[etCk(a,s)];return e&&Date.now()-e.at<3e5?e.d:undefined}
-function etGet(a){var s=etSel(),k=etCk(a,s);if(!etKey(a)||!(M.Auth&&M.Auth.url))return Promise.resolve(null);if(ETQ[k])return ETQ[k];
+function etHave(a,s){s=s||etSel();var e=etKey(a)&&ETV[etCk(a,s)];return e&&Date.now()-e.at<3e5?e.d:undefined}
+function etGet(a,s){s=s||etSel();var k=etCk(a,s);if(!etKey(a)||!(M.Auth&&M.Auth.url))return Promise.resolve(null);if(ETQ[k])return ETQ[k];
  var b=gOk(a.g)?{lat:+a.g[0],lon:+a.g[1]}:{p:a.p,m:a.m};b.d=s.d;if(s.a!=null)b.a=s.a;if(s.b!=null)b.b=s.b;
  return(ETQ[k]=fetch(M.Auth.url+"/entrega",{method:"POST",body:JSON.stringify(b)}).then(function(r){return r.ok?r.json():null})
   .then(function(d){delete ETQ[k];ETV[k]={at:Date.now(),d:d&&"r" in d?d:null};return ETV[k].d}).catch(function(){delete ETQ[k];return null}))}
+
+
+function etOn(s){return!!(s.k&&s.x&&adAlt())}
+function etS2(s){return{d:s.d,k:s.x.k,a:s.x.a,b:s.x.b}}
+function etOut(a){var q=gOk(a.g)?ptHave(a.g):undefined;return!!(q&&q.price==null)}
+function etDest(){var a=adGet(),s=etSel(),E=etKey(a)?etHave(a,s):null,D={a:a,s:s,E:E,i:0};if(!etOn(s))return D;
+ var b=adAlt(),s2=etS2(s),E2=etKey(b)&&!etOut(b)?etHave(b,s2):null;
+ function ok(X,q){return X&&X.r&&X.r.d==q.d&&!etDif(X,q)}
+ if(ok(E,s))return D;if(E===undefined||E2===undefined||(gOk(b.g)&&ptHave(b.g)===undefined)){D.E=undefined;return D}
+ var B={a:b,s:s2,E:E2,i:1};if(ok(E2,s2))return B;
+ function t(X){return X&&X.r?X.r.d*1e4+(X.r.a!=null?X.r.a:X.r.b!=null?X.r.b:0):1e9}
+ return t(E2)<t(E)?B:D}
+ 
+function etNeed(){var s=etSel(),a=adGet(),P=[];if(etKey(a)&&etHave(a,s)===undefined)P.push(function(){return etGet(a,s)});
+ if(etOn(s)){var b=adAlt(),s2=etS2(s);if(gOk(b.g)&&ptHave(b.g)===undefined)P.push(function(){return ptGet(b.g)});
+  else if(etKey(b)&&!etOut(b)&&etHave(b,s2)===undefined)P.push(function(){return etGet(b,s2)})}return P}
+function etLoad(cb){var P=etNeed(),n=P.length;if(n)Promise.all(P.map(function(f){return f()})).then(function(){if(etNeed().length<n)cb()});return n}
+function adNm(a){return a&&(a.z||a.m||a.p||(a.d?a.d.split(/[,\n]/)[0].slice(0,40):""))||"la otra dirección"}
+function etTop(){var L=document.querySelectorAll(".adsh");return L[L.length-1]}
 function etHm(m){var h=Math.floor(m/60),i=m%60,a=h<12?"AM":"PM";h=h%12||12;return h+":"+(i<10?"0":"")+i+" "+a}
 function etAt(m){return(Math.floor(m/60)%12==1?"la ":"las ")+etHm(m)}
 function etDn(i){if(i==0)return"hoy";if(i==1)return"mañana";var d=etDay(i);
@@ -1249,16 +1286,37 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null;ov.cla
    etDif(E,s)?'<p class="etr etd">'+IC.wa+'<span>Llegar a esa hora es difícil. <a href="'+waUrl("Hola, ¿pueden entregarme un pedido "+etAsk(s)+"?")+
     '" target="_blank" rel="noopener">Escríbenos por WhatsApp</a> y vemos si se puede.</span></p>':
    '<p class="etr">'+IC.clock+"<span>"+(E.r.d>s.d?"Ese día no da tiempo. ":"")+"Llega <b>"+esc(etTxt(E.r))+"</b></span></p>";
+   
+  var XB="",xs=s.x,xb=adAlt();
+  if(s.k&&!xs)XB='<button type="button" class="czch etxa" data-x="1">¿A otra hora estás en otra dirección?</button>';
+  else if(s.k){var K2=[["b","Antes de"],["a","Después de"],["e","Entre"]].map(function(x){return'<button type="button" data-k2="'+x[0]+'" class="'+(xs.k==x[0]?"on":"")+'" aria-pressed="'+(xs.k==x[0])+'">'+x[1]+"</button>"}).join("");
+   var T2=xs.k=="b"?'<div class="ettm"><select data-t="xb" aria-label="Antes de">'+tOpt(xs.b,LO+15,HI,"b",null)+"</select></div>":
+    xs.k=="a"?'<div class="ettm"><select data-t="xa" aria-label="Después de">'+tOpt(xs.a,LO,HI-15,"a",null)+"</select></div>":
+    '<div class="ettm"><select data-t="xa" aria-label="Desde">'+tOpt(xs.a,LO,HI-15,"a",null)+'</select><span>y</span><select data-t="xb" aria-label="Hasta">'+tOpt(xs.b,xs.a+15,HI,"b",null)+"</select></div>";
+   XB='<div class="etx"><div class="etxh"><small>Si no, en otra dirección</small><button type="button" class="etxq" data-x="0" aria-label="Quitar la otra dirección" title="Quitar">'+IC.x+"</button></div>"+
+    '<div class="etk">'+K2+"</div>"+T2+(xb?'<div class="etxd">'+IC.pin+'<span class="adpt"><b>'+esc(adNm(xb))+"</b>"+(xb.d?"<small>"+esc(xb.d)+"</small>":"")+
+    '<button type="button" class="czch" data-xa>Cambiar</button></span></div>':'<button type="button" class="czch" data-xa>Añadir la otra dirección</button>')+"</div>";
+   if(xb){var D=etDest(),dE=D.E,dS=D.s,nm=" · "+esc(adNm(D.a));
+    R=dE===undefined?'<p class="etr etw">Calculando…</p>':!dE||!dE.r?'<p class="etr">'+IC.clock+"<span>Con esos horarios la entrega se acuerda con el pedido</span></p>":
+     etDif(dE,dS)?'<p class="etr etd">'+IC.wa+'<span>Llegar a esas horas es difícil. <a href="'+waUrl("Hola, ¿pueden entregarme un pedido "+etAsk(s)+", o si no "+etWin(xs.a,xs.b)+" en otra dirección?")+
+      '" target="_blank" rel="noopener">Escríbenos por WhatsApp</a> y vemos si se puede.</span></p>':
+     '<p class="etr">'+IC.clock+"<span>"+(dE.r.d>s.d?"Ese día no da tiempo. ":"")+"Llega <b>"+esc(etTxt(dE.r))+"</b>"+nm+"</span></p>";
+    if(dE===undefined)etLoad(function(){if(ov.parentNode)draw()})}}
   ov.innerHTML='<div class="adbx" role="dialog" aria-modal="true" aria-label="Horario de entrega"><div class="adhd"><b>Horario de entrega</b><button type="button" class="adcl" aria-label="Cerrar">'+IC.x+"</button></div>"+
    '<div class="etg"><small>Día</small><select data-t="d" aria-label="Día">'+days+"</select></div>"+
-   '<div class="etg"><small>Hora</small><div class="etk">'+K+"</div>"+T+"</div>"+R+
+   '<div class="etg"><small>Hora</small><div class="etk">'+K+"</div>"+T+"</div>"+XB+R+
    '<button type="button" class="btn etok">Listo</button></div>';
   if(E===undefined)etGet(ad).then(function(){if(ov.parentNode)draw()})}
  function close(){ov.remove();document.removeEventListener("keydown",key,true);document.body.classList.remove("adon");cartView()}
- function key(ev){if(ev.key=="Escape"&&!document.querySelector(".nsov")){ev.stopPropagation();close()}}
+ function key(ev){if(ev.key=="Escape"&&!document.querySelector(".nsov")&&ov===etTop()){ev.stopPropagation();close()}}
  ov.onchange=function(ev){var t=ev.target.getAttribute&&ev.target.getAttribute("data-t");if(!t)return;var s=etSel(),v=+ev.target.value;
+  if(t=="xa"||t=="xb"){if(!s.x)return;s.x[t.slice(1)]=v;if(s.x.k=="e"&&s.x.b<=s.x.a)s.x.b=Math.min(1200,s.x.a+60);etSave(s);draw();return}
   if(t=="d")s.d=v;else s[t]=v;if(s.k=="e"&&s.b<=s.a)s.b=Math.min(1200,s.a+60);etSave(s);draw()};
- ov.onclick=function(ev){var b=ev.target.closest&&ev.target.closest("[data-k]");
+ ov.onclick=function(ev){var c=ev.target.closest&&ev.target.closest("[data-x],[data-k2],[data-xa]");
+  if(c){var s=etSel();if(c.hasAttribute("data-xa")){adSheet(1,draw);return}
+   if(c.hasAttribute("data-x")){s.x=c.getAttribute("data-x")=="1"?{k:"a",a:1080,b:null}:null;etSave(s);draw();if(s.x&&!adAlt())adSheet(1,draw);return}
+   var k2=c.getAttribute("data-k2");if(s.x&&k2!=s.x.k){s.x={k:k2,a:k2=="b"?null:1080,b:k2=="b"?1020:k2=="e"?1200:null};etSave(s);draw()}return}
+  var b=ev.target.closest&&ev.target.closest("[data-k]");
   if(b){var s=etSel(),k=b.getAttribute("data-k");if(k!=s.k){s.k=k;s.a=k=="a"?960:k=="e"?720:null;s.b=k=="b"?720:k=="e"?840:null;etSave(s);draw()}return}
   if(ev.target===ov||(ev.target.closest&&ev.target.closest(".adcl,.etok")))close()};
  document.addEventListener("keydown",key,true);draw();document.body.appendChild(ov);document.body.classList.add("adon")}
@@ -1269,7 +1327,7 @@ function mapLib(){if(window.L)return Promise.resolve(window.L);if(MLB)return MLB
  return(MLB=new Promise(function(ok,ko){var s=document.createElement("script");s.src=b+"leaflet.min.js";s.onload=function(){ok(window.L)};
   s.onerror=function(){MLB=null;ko()};document.head.appendChild(s)}))}
 function accAd(){var e=$("accAd");if(e&&AC)adForm(e,{})}
-function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",a=ro?(COMO.addr||{}):adGet(),G=(M.Ship&&M.Ship.geo)||{},P=Object.keys(G),
+function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(COMO.addr||{}):adGet(),a=X?(A0.alt&&typeof A0.alt=="object"?A0.alt:{}):A0,G=(M.Ship&&M.Ship.geo)||{},P=Object.keys(G),
   pt=!ro&&M.Auth&&M.Auth.url,g=gOk(a.g)?[+a.g[0],+a.g[1]]:null,map=null,mk=null;
  function q(s){return e.querySelector(s)}
  function op(L,cur){if(cur&&L.indexOf(cur)<0)L=L.concat([cur]);return'<option value="">'+(ro?"":"Elegir")+"</option>"+L.map(function(x){return"<option"+(x===cur?" selected":"")+">"+esc(x)+"</option>"}).join("")}
@@ -1312,7 +1370,7 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",a=ro?(COMO.addr||{}):
   
  function cur(){var o={d:q('[data-ad="d"]').value.trim()},ob=q('[data-ad="o"]').value.trim(),p=q('[data-ad="p"]'),m=q('[data-ad="m"]'),z=q('[data-ad="z"]');
   if(p&&p.value){o.p=p.value;if(m.value){o.m=m.value;if(z&&z.value)o.z=z.value}}if(g)o.g=g;if(ob)o.o=ob;return o}
- function dirty(){var b=q(".adok");if(!b)return;var o=cur(),s=adGet();
+ function dirty(){var b=q(".adok");if(!b)return;var o=cur(),s=adGet();if(X)s=s.alt&&typeof s.alt=="object"?s.alt:{};
   b.disabled=(o.d||"")==(s.d||"")&&(o.o||"")==(s.o||"")&&(o.p||"")==(s.p||"")&&(o.m||"")==(s.m||"")&&(o.z||"")==(s.z||"")&&(o.g?gKey(o.g):"")==(gOk(s.g)?gKey(s.g):"")}
  ps();
  if(ro)return;
@@ -1322,16 +1380,16 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",a=ro?(COMO.addr||{}):
  e.oninput=dirty;
  e.onclick=function(ev){var t=ev.target.closest&&ev.target.closest("button");if(!t||!e.contains(t))return;
   if(t.hasAttribute("data-gps"))gps(t);else if(t.hasAttribute("data-map"))mapOpen();else if(t.hasAttribute("data-clr"))setG(null);
-  else if(t.classList.contains("adok")){adSet(cur());dirty();toast("Dirección guardada",1500);if(opt.saved)opt.saved();else route(true)}};
+  else if(t.classList.contains("adok")){var A=adGet(),o=cur();if(X){A=Object.assign({},A);A.alt=o;adSet(A)}else{if(A.alt)o.alt=A.alt;adSet(o)}dirty();toast("Dirección guardada",1500);if(opt.saved)opt.saved();else route(true)}};
  if(opt.map&&g)mapOpen()}
  
-function adSheet(){var ov=document.createElement("div");ov.className="adsh";
- ov.innerHTML='<div class="adbx" role="dialog" aria-modal="true" aria-label="Dirección de entrega"><div class="adhd"><b>Dirección de entrega</b><button type="button" class="adcl" aria-label="Cerrar">'+IC.x+'</button></div><div class="adf"></div></div>';
- function close(){ov.remove();document.removeEventListener("keydown",key,true);document.body.classList.remove("adon")}
- function key(ev){if(ev.key=="Escape"&&!document.querySelector(".nsov")){ev.stopPropagation();close()}}
+function adSheet(i,after){var ov=document.createElement("div"),TT;ov.className="adsh";i=i===1?1:0;TT=i?"Otra dirección":"Dirección de entrega";
+ ov.innerHTML='<div class="adbx" role="dialog" aria-modal="true" aria-label="'+TT+'"><div class="adhd"><b>'+TT+'</b><button type="button" class="adcl" aria-label="Cerrar">'+IC.x+'</button></div><div class="adf"></div></div>';
+ function close(){ov.remove();document.removeEventListener("keydown",key,true);if(!document.querySelector(".adsh"))document.body.classList.remove("adon")}
+ function key(ev){if(ev.key=="Escape"&&!document.querySelector(".nsov")&&ov===etTop()){ev.stopPropagation();close()}}
  ov.onclick=function(ev){if(ev.target===ov||(ev.target.closest&&ev.target.closest(".adcl")))close()};
  document.addEventListener("keydown",key,true);document.body.appendChild(ov);document.body.classList.add("adon");
- adForm(ov.querySelector(".adf"),{map:1,saved:function(){close();cartView()}})}
+ adForm(ov.querySelector(".adf"),{map:1,alt:i,saved:function(){close();if(after)after();cartView()}})}
 function syHas(k){var v=syVal(k);return k=="cart"?v.items.length>0:Object.keys(v).length>0}
 function syLocal(k,v){stSet(k,v)}
 function syOn(){return!COMO&&!VAS&&!!(AC&&AC.t&&M.Auth&&M.Auth.client)}
@@ -2053,7 +2111,7 @@ function cartView(){
  function tx(s){return esc(String(s).replace(/\n\s*\n+/g,"\n").trim())}
  var tr=(M.CartPayMethod?"<div>"+IC.cash+"<span><b>Forma de pago</b><span>"+tx(M.CartPayMethod)+"</span></span></div>":"")+
   (M.CartShipping?"<div>"+IC.truck+"<span><b>Envío</b><span>"+tx(M.CartShipping)+"</span></span></div>":"");
- var pk=dlOff()&&dlPk(),sh=pk?null:shOf(tot),ad=adGet(),gq=gOk(ad.g)?ptHave(ad.g):undefined,gt=tot+(sh?sh.p:0);
+ var pk=dlOff()&&dlPk(),D=pk||COMO?null:etDest(),ad=D?D.a:adGet(),sh=pk?null:shOf(tot,ad),gq=gOk(ad.g)?ptHave(ad.g):undefined,gt=tot+(sh?sh.p:0);
  
 
  var adC=!COMO&&!!(M.Ship&&M.Ship.geo),has=!!(ad.p||ad.m||ad.d||gOk(ad.g)),chB=adC?'<button type="button" class="czch" id="adCh">'+(has?"Cambiar":"Añadir dirección")+"</button>":"";
@@ -2061,10 +2119,13 @@ function cartView(){
  var dlB=dlOff()?'<div class="czdl" role="group" aria-label="Entrega"><button type="button" data-dl="0" class="'+(pk?"":"on")+'" aria-pressed="'+!pk+'">'+IC.truck+'Envío</button><button type="button" data-dl="1" class="'+(pk?"on":"")+'" aria-pressed="'+pk+'">'+IC.shop+"Recoger</button></div>":"";
  if(!pk&&gOk(ad.g)&&gq===undefined)ptGet(ad.g).then(function(){if(!$("vCart").hidden)cartView()});
   
- var eA=!pk&&!COMO&&!(gq&&gq.price==null)&&!!etKey(ad),E=eA?etHave(ad):undefined,eS=etSel(),eQ=eS.d||eS.k;
- if(eA&&E===undefined)etGet(ad).then(function(){if(!$("vCart").hidden)cartView()});
+ var eA=!pk&&!COMO&&!(gq&&gq.price==null)&&!!etKey(ad),E=eA?D.E:undefined,eS=D?D.s:etSel(),eQ=eS.d||eS.k,e0=etSel(),eO=eA&&etOn(e0);
+ if(!pk&&!COMO)etLoad(function(){if(!$("vCart").hidden)cartView()});
+  
+ var eX=!eO?"":D.i?"<small>"+esc(etWin(e0.a,e0.b).replace(/^./,function(c){return c.toUpperCase()})+" en "+adNm(adGet()))+" no da tiempo</small>":
+  "<small>Si no, "+esc(etWin(e0.x.a,e0.x.b)+" en "+adNm(adAlt()))+"</small>";
  var etB=eA&&E!==undefined&&(E||eQ)?'<div class="czet">'+IC.clock+"<span>"+(etDif(E,eS)?"Pediste <b>"+esc(etAsk(eS))+"</b><small>Es difícil a esa hora: lo vemos por WhatsApp</small>":E&&E.r?"Llega <b>"+esc(etTxt(E.r))+"</b>":"Fecha y hora de entrega: se acuerdan con el pedido")+
-  (eQ&&!etDif(E,eS)&&!(E&&E.r&&etTxt(E.r)==etAsk(eS))?"<small>Pediste: "+esc(etAsk(eS))+"</small>":"")+
+  (eQ&&!etDif(E,eS)&&!(E&&E.r&&etTxt(E.r)==etAsk(eS))?"<small>Pediste: "+esc(etAsk(eS))+"</small>":"")+eX+
   '<button type="button" class="czch" id="etCh">'+(eQ?"Cambiar horario":"Elegir horario")+"</button></span></div>":"";
  var h='<div class="cartbox cz"><div class="czh"><h2>Tu cesta</h2><span class="czn">'+n+(n==1?" artículo":" artículos")+'</span><a class="czk" data-nav href="./">'+IC.l+"Seguir comprando</a></div>"+czUndo()+
   '<div class="lay2"><div class="box czl">'+rows+'<div class="czf"><button id="empty">'+IC.trash+"Vaciar la cesta</button></div></div>"+
@@ -2078,8 +2139,8 @@ function cartView(){
   '<button class="btn wa" id="order">'+IC.wa+'Enviar el pedido</button><p class="czw">Se abre WhatsApp con tu pedido ya escrito</p>'+accNote("tu cesta")+"</div>"+
   '<div id="cX"></div>'+(tr?'<div class="box trust">'+tr+"</div>":"")+"</div></div>"+
   '<div class="czbar"><div><small>Total</small><b>'+money(gt)+'</b></div><button class="btn wa" id="orderB">'+IC.wa+"Enviar el pedido</button></div></div>";
- v.innerHTML=h;cxHook(keep);if($("adCh"))$("adCh").onclick=adSheet;
- if($("wAc"))$("wAc").onchange=function(){wOk=this.checked?wSum(keep):"";if(wOk)wNag=false;cartView()};if($("wSee"))$("wSee").onclick=function(){wSee=!wSee;cartView()};if($("etCh"))$("etCh").onclick=function(){etSheet(ad)};
+ v.innerHTML=h;cxHook(keep);if($("adCh"))$("adCh").onclick=function(){adSheet(D&&D.i?1:0)};
+ if($("wAc"))$("wAc").onchange=function(){wOk=this.checked?wSum(keep):"";if(wOk)wNag=false;cartView()};if($("wSee"))$("wSee").onclick=function(){wSee=!wSee;cartView()};if($("etCh"))$("etCh").onclick=function(){etSheet(adGet())};
  [].forEach.call(v.querySelectorAll("[data-dl]"),function(b){b.onclick=function(){if((b.getAttribute("data-dl")=="1")!=dlPk()){dlSet(b.getAttribute("data-dl")=="1");cartView()}}});
   
  if(window.IntersectionObserver){if(czIO)czIO.disconnect();czIO=new IntersectionObserver(function(e){var b=v.querySelector(".czbar");if(b)b.classList.toggle("off",e[e.length-1].isIntersecting)});czIO.observe($("order"))}}
@@ -2148,12 +2209,17 @@ function order(){
  if(!items.length)return;
  T("wa","pedido");items.forEach(function(x){T("ord",x.id)});tCk("con");tCk("ver");tCk("pedido");
  var so=tOrig;try{so=so||sessionStorage.getItem("ts")||"";localStorage.setItem("co",cSig())}catch(e){}if(so)T("so",so,true);
- var pk=dlOff()&&dlPk(),sh=pk?null:shOf(tot),ad=pk?{}:adGet();if(sh){t+="\nEnvío ("+sh.n+(sh.v>1?", "+sh.v+" viajes":"")+"): "+(sh.p?"$"+sh.p:"gratis");tot+=sh.p}
- t+="\nTotal: $"+tot+" USD";if(pk)t+="\n\nEntrega: recoger en el local";if(ad.p||ad.m||ad.d)t+="\n\nEntrega: "+[ad.p,ad.m,ad.z,ad.d].filter(Boolean).join(" · ");if(gOk(ad.g))t+=(ad.p||ad.m||ad.d?"\n":"\n\n")+"Ubicación: "+gLink(ad.g);if(ad.o)t+=(ad.p||ad.m||ad.d||gOk(ad.g)?"\n":"\n\n")+"Observación: "+ad.o;
- var E=pk?undefined:etHave(ad),eS=etSel();if(E!==undefined&&(E||eS.d||eS.k)){if(eS.d||eS.k)t+="\nHorario pedido: "+etAsk(eS);if(etDif(E,eS))t+=" (difícil: ¿se puede?)";else if(E&&E.r&&etTxt(E.r)!=etAsk(eS))t+="\nLlega: "+etTxt(E.r)}
+ var pk=dlOff()&&dlPk(),D=pk?null:etDest(),ad=pk?{}:D.a,sh=pk?null:shOf(tot,ad),e0=etSel(),A1=pk?{}:adGet(),A2=!pk&&etOn(e0)?adAlt():null;if(sh){t+="\nEnvío ("+sh.n+(sh.v>1?", "+sh.v+" viajes":"")+"): "+(sh.p?"$"+sh.p:"gratis");tot+=sh.p}
+ function adT(a,h){var x="";if(a.p||a.m||a.d)x+="\n"+h+[a.p,a.m,a.z,a.d].filter(Boolean).join(" · ");if(gOk(a.g))x+="\nUbicación: "+gLink(a.g);if(a.o)x+="\nObservación: "+a.o;return x}
+ t+="\nTotal: $"+tot+" USD";if(pk)t+="\n\nEntrega: recoger en el local";t+="\n"+adT(A1,"Entrega: ");if(t.slice(-1)=="\n")t=t.slice(0,-1);
+ var E=pk?undefined:D.E,eS=D?D.s:e0;
+ if(A2){t+="\nHorario pedido: "+etAsk(e0)+"\n"+adT(A2,"Si no, "+etWin(e0.x.a,e0.x.b)+", en: ");
+  if(E!==undefined){if(etDif(E,eS))t+="\n\nLlega: difícil a esas horas, ¿se puede?";else if(E&&E.r)t+="\n\nLlega: "+etTxt(E.r)+(D.i?", a la otra dirección":"")}}
+ else if(E!==undefined&&(E||eS.d||eS.k)){if(eS.d||eS.k)t+="\nHorario pedido: "+etAsk(eS);if(etDif(E,eS))t+=" (difícil: ¿se puede?)";else if(E&&E.r&&etTxt(E.r)!=etAsk(eS))t+="\nLlega: "+etTxt(E.r)}
  if(wSum(ci))t+="\n\nAcepté las condiciones de garantía ("+wSum(ci)+")";
   
- if(gOk(ad.g)&&!COMO&&!VAS&&M.Auth&&M.Auth.url)try{fetch(M.Auth.url+"/pedido",{method:"POST",keepalive:true,body:JSON.stringify({t:AC&&AC.t||"",a:ad,total:tot,
+ var aP=Object.assign({},A1);delete aP.alt;if(A2)aP.alt=A2;
+ if((gOk(aP.g)||A2&&gOk(A2.g))&&!COMO&&!VAS&&M.Auth&&M.Auth.url)try{fetch(M.Auth.url+"/pedido",{method:"POST",keepalive:true,body:JSON.stringify({t:AC&&AC.t||"",a:aP,total:tot,
   items:items.map(function(x){return[x.id,x.quantity]})})}).catch(function(){})}catch(e){}
  window.open(waUrl(t),"_blank")}
 
