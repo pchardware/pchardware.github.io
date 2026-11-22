@@ -2387,8 +2387,8 @@ function cartView(){
    (R[p.slug]||[]).map(function(x){return'<span class="bw">'+esc(x)+"</span>"}).join("")+"</div>"});
   
  function tx(s){return esc(String(s).replace(/\n\s*\n+/g,"\n").trim())}
- var tr=(M.CartPayMethod&&!pyOn()?"<div>"+IC.cash+"<span><b>Forma de pago</b><span>"+tx(M.CartPayMethod)+"</span></span></div>":"")+
-  (M.CartShipping?"<div>"+IC.truck+"<span><b>Envío</b><span>"+tx(M.CartShipping)+"</span></span></div>":"");
+  
+ var tr=M.CartPayMethod&&!pyOn()?"<div>"+IC.cash+"<span><b>Forma de pago</b><span>"+tx(M.CartPayMethod)+"</span></span></div>":"";
  var mO=mtOn(),mA=mtOf(keep,!mO);mO=!!mA&&mO;var mS=mO&&mA.p>0?mA:null;    
  var pk=dlOff()&&dlPk(),D=pk||COMO?null:etDest(),ad=D?D.a:adGet(),sh=pk?null:shOf(tot,ad),gq=gOk(ad.g)?ptHave(ad.g):undefined,gt=tot+(sh?sh.p:0)+(mS?mS.p:0);
  var mtB=mA?'<button type="button" class="czmt'+(mO?" on":"")+'" role="checkbox" aria-checked="'+mO+'" id="mtB"><i></i><span>Montaje<small>'+esc(mO?mtTxt(mA)||"Elige qué montar":mA.n||"De piezas tuyas")+"</small></span>"+
@@ -2405,6 +2405,7 @@ function cartView(){
   
  var eX=!eO?"":D.i?"<small>"+esc(etWin(e0.a,e0.b).replace(/^./,function(c){return c.toUpperCase()})+" en "+adNm(adGet()))+" no da tiempo</small>":
   "<small>Si no, "+esc(etWin(e0.x.a,e0.x.b)+" en "+adNm(adAlt()))+"</small>";
+ if(M.CartShipping&&!(pk||sh||adC||eA))tr+="<div>"+IC.truck+"<span><b>Envío</b><span>"+tx(M.CartShipping)+"</span></span></div>";
  var etB=eA&&E!==undefined&&(E||eQ)?'<div class="czet">'+IC.clock+"<span>"+(etDif(E,eS)?(eS.k?"Pediste <b>"+esc(etAsk(eS)):"Llega <b>"+esc(etTxt(E.r)))+"</b><small>"+(etNar(eS)?"Franja corta, es difícil":!eS.k?"Es difícil":"Es difícil a esa hora")+": lo vemos por WhatsApp</small>":E&&E.r?"Llega <b>"+esc(etTxt(E.r))+"</b>":"Fecha y hora de entrega: se acuerdan con el pedido")+
   (eQ&&!etDif(E,eS)&&!(E&&E.r&&etTxt(E.r)==etAsk(eS))?"<small>Pediste: "+esc(etAsk(eS))+"</small>":"")+eX+
   '<button type="button" class="czch" id="etCh">'+(eQ?"Cambiar horario":"Elegir horario")+"</button></span></div>":"";
