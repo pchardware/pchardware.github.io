@@ -486,8 +486,13 @@ footer p{margin:0 0 6px;opacity:.7}
 .czpy button>svg{width:18px;height:18px;flex:none;fill:none;stroke:var(--mut);stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
 .adbx .czpy{margin:4px 0 8px}
 
-.czs .czpy{margin:-8px 0 14px}.czs .czpy .czi{min-height:52px;margin:0;padding:10px 0;border:0;border-radius:0;gap:12px;color:var(--ink);font-size:14.5px}
-.czs .czpy .czi .czic,.czs .czpy .czi .czir{flex:none}.czs .czpy .czi .czit{flex:1;font-weight:400;text-align:left}.czs .czpy .czi .czir.czr1{display:inline-flex}
+.czs .czpy{margin:-6px 0 14px}
+.czs .czpy .czpf{display:flex;align-items:center;gap:10px;width:100%;min-height:46px;margin:0;padding:8px 12px 8px 14px;border:0;border-radius:11px;background:var(--soft);color:var(--ink);text-align:left;cursor:pointer}
+.czs .czpy .czpf .czpl{flex:1;font-size:14px;font-weight:500;color:var(--mut)}
+.czs .czpy .czpf .czpv{flex:none;max-width:75%;text-align:right;line-height:1.3}.czs .czpy .czpf .czpv b{display:block;font-weight:600;font-size:14.5px;white-space:normal}
+.czs .czpy .czpf .czpv small{display:block;margin-top:1px;font-size:12.5px;font-weight:400;color:var(--mut);font-variant-numeric:tabular-nums}
+.czs .czpy .czpf .czpv small.pyf{color:#b54708}
+.czs .czpy .czpf>svg{flex:none;width:16px;height:16px;stroke:var(--mut);stroke-width:2;transform:rotate(90deg)}
 .pymx{margin:6px 0 4px}
 .pymr{display:flex;align-items:center;gap:10px;padding:8px 0;border-bottom:1px solid var(--line)}
 .pymr>span{flex:1;min-width:0;font-size:14.5px;font-weight:600;color:var(--ink)}
@@ -2293,8 +2298,9 @@ function pyBox(t){if(!pyOn())return"";var K=pyKeys(),p0=K[0],k0=pySel(),alt=k0!=
  
 
  if(!alt){lb=PYN[p0]}else if(k0!="mix"&&am==money(t))am="";
- return'<div class="czpy"><button type="button" class="czi" data-pyo aria-label="Forma de pago"><span class="czic">'+IC.cash+'</span><span class="czit"><b>Pago: '+esc(lb)+(am?'<span class="czir czr1">'+IC.r+"</span>":"")+"</b>"+(sm?"<small>"+esc(sm)+"</small>":"")+"</span>"+
-  (am?'<span class="czia'+(cl?" "+cl:"")+'">'+esc(am)+"</span>":'<span class="czir">'+IC.r+"</span>")+"</button>"+(al?PYAL:"")+"</div>"}
+ var sb=[am,sm].filter(Boolean).join(" · ");
+ return'<div class="czpy"><button type="button" class="czpf" data-pyo aria-label="Cambiar la forma de pago"><span class="czpl">Pago</span><span class="czpv"><b>'+esc(lb)+"</b>"+
+  (sb?"<small"+(cl=="pyf"?' class="pyf"':"")+">"+esc(sb)+"</small>":"")+"</span>"+IC.r+"</button>"+(al?PYAL:"")+"</div>"}
  
 function pySheet(t){var ov=document.createElement("div"),K=pyKeys(),p0=K[0],md=pySel()=="mix"?1:0;ov.className="adsh";
  function sum(){var m=pyMs(t),s=ov.querySelector(".pysum");if(!s)return;
@@ -2424,7 +2430,8 @@ function cartView(){
  function czI(o){var tg=o.b?"button":"div";return"<"+tg+' class="czi'+(o.c?" "+o.c:"")+'"'+(o.b?' type="button" '+o.b:"")+'><span class="czic">'+(o.i||"")+'</span><span class="czit">'+czT(o.t,o)+"</span>"+
   (o.a!=null?'<span class="czia'+(o.ac?" "+o.ac:"")+'">'+o.a+"</span>":o.r?'<span class="czir">'+IC.r+"</span>":"")+"</"+tg+">"}
   
- var mtS=esc(mO?mtTxt(mA)||"Elige qué montar":mA&&(mA.n||"De piezas tuyas")),mtA=mA&&mA.p>0?'<span class="czia'+(mO?"":" czoff")+'">'+money(mA.p)+"</span>":"";    
+  
+ var mtS=esc(mO?mtTxt(mA)||"Elige qué montar":mA&&(mA.p>0?"Te lo montamos por "+money(mA.p):mA.n||"De piezas tuyas")),mtA=mO&&mA&&mA.p>0?'<span class="czia">'+money(mA.p)+"</span>":"";
  var mtB=!mA?"":!mO?'<button type="button" class="czi czmc" role="checkbox" aria-checked="false" id="mtB"><span class="czic"><i></i></span><span class="czit">'+czT("Montaje",{s:[mtS]})+"</span>"+mtA+"</button>":
   '<div class="czi czim"><button type="button" class="czmc on" role="checkbox" aria-checked="true" id="mtB" aria-label="Montaje"><span class="czic"><i></i></span></button>'+
   '<button type="button" class="czmo" data-mxo aria-label="'+(Object.keys(mtX()).length?"Cambiar piezas tuyas":"Añadir piezas tuyas")+'"><span class="czit">'+czT("Montaje",{s:[mtS],r:1,a:mtA||null})+"</span>"+(mtA||'<span class="czir">'+IC.r+"</span>")+"</button></div>";
