@@ -1440,8 +1440,9 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=fa
    
   
 
-   
-  var TA=Math.max(LO,mn,L&&L.b!=null?Math.min(L.b,HI-15):0);if(s.k&&s.k!="b"&&s.a<TA){s.a=TA;if(s.k=="e"&&s.b<=s.a)s.b=Math.min(HI,s.a+60);etSave(s);if(!tch)snap=etRw();E=etHave(ad);L=E&&E.lim}
+  
+
+  var TA=Math.max(LO,mn,Math.min(HI-15,LX&&LX.d==s.d&&LX.x!=null?LX.x:L&&L.b!=null?L.b:0));if(s.k&&s.k!="b"&&s.a<TA){s.a=TA;if(s.k=="e"&&s.b<=s.a)s.b=Math.min(HI,s.a+60);etSave(s);if(!tch)snap=etRw();E=etHave(ad);L=E&&E.lim}
   var TB=L&&L.a!=null?L.a:HI,TC=Math.max(TB,s.k=="e"?s.a+15:Math.max(LO+15,mn));if(s.k&&s.k!="a"&&s.b>TC){s.b=TC;etSave(s);if(!tch)snap=etRw();E=etHave(ad);L=E&&E.lim}
   var X=LX&&LX.d==s.d?(LX.x==null?1e9:LX.x):null;  for(i=etLate()?1:0;i<7;i++){var nm=etDn(i).replace(/^el /,"");days+='<option value="'+i+'"'+(i==s.d?" selected":"")+">"+nm.charAt(0).toUpperCase()+nm.slice(1)+"</option>"}
   var K=[["","Lo antes posible"],["b","Antes de"],["a","Después de"],["e","Entre"]].map(function(x){return'<button type="button" data-k="'+x[0]+'" class="'+(s.k==x[0]?"on":"")+'" aria-pressed="'+(s.k==x[0])+'">'+x[1]+"</button>"}).join("");
