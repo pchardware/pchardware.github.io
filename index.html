@@ -285,8 +285,10 @@ button.czi{cursor:pointer}.czi.czi0,.czi.czin{border-top:0}.czi.czin{min-height:
 .czia.czg{color:var(--ok)}.czia.czq{font-weight:500;color:var(--mut)}
 .czir{flex:none;display:flex;align-items:center;justify-content:center;width:18px;margin-left:-4px;color:var(--mut)}
 .czir svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
-.czim{padding:0;gap:6px}.czim .czmc{display:flex;align-items:center;gap:12px;flex:1;min-width:0;min-height:52px;padding:10px 0;border:0;background:none;color:inherit;font:inherit;text-align:left;cursor:pointer}
-.czim button.czir{align-self:stretch;width:34px;margin:0 -8px 0 0;padding:0;border:0;background:none;cursor:pointer}
+.czir.czr1{display:inline-flex;width:auto;margin:0 0 0 3px;vertical-align:-3px}
+button.czmc{cursor:pointer}.czim{padding:0;gap:12px}
+.czim .czmc,.czim .czmo{display:flex;align-items:center;align-self:stretch;min-height:52px;padding:10px 0;border:0;background:none;color:inherit;font:inherit;text-align:left;cursor:pointer}
+.czim .czmc{flex:none}.czim .czmo{flex:1;min-width:0;gap:12px}
 .czmc i{position:relative;width:18px;height:18px;flex:none;border:2px solid var(--bd);border-radius:5px}
 .czmc.on i{border-color:var(--ink);background:var(--ink)}
 .czmc.on i:after{content:"";position:absolute;left:4px;top:0;width:5px;height:10px;border:solid var(--card);border-width:0 2px 2px 0;transform:rotate(45deg)}
@@ -2418,10 +2420,15 @@ function cartView(){
  
 
 
- function czI(o){var tg=o.b?"button":"div";return"<"+tg+' class="czi'+(o.c?" "+o.c:"")+'"'+(o.b?' type="button" '+o.b:"")+'><span class="czic">'+(o.i||"")+'</span><span class="czit"><b>'+o.t+"</b>"+(o.s||[]).filter(Boolean).map(function(x){return"<small>"+x+"</small>"}).join("")+"</span>"+
-  (o.a!=null?'<span class="czia'+(o.ac?" "+o.ac:"")+'">'+o.a+"</span>":"")+(o.r?'<span class="czir">'+IC.r+"</span>":"")+"</"+tg+">"}
- var mtB=mA?'<div class="czi czim"><button type="button" class="czmc'+(mO?" on":"")+'" role="checkbox" aria-checked="'+mO+'" id="mtB"><span class="czic"><i></i></span><span class="czit"><b>Montaje</b><small>'+esc(mO?mtTxt(mA)||"Elige qué montar":mA.n||"De piezas tuyas")+"</small></span>"+
-  (mA.p>0?'<span class="czia">'+money(mA.p)+"</span>":"")+"</button>"+(mO?'<button type="button" class="czir" data-mxo aria-label="'+(Object.keys(mtX()).length?"Cambiar piezas tuyas":"Añadir piezas tuyas")+'">'+IC.r+"</button>":"")+"</div>":"";
+  
+ function czT(t,o){return"<b>"+t+(o.r&&o.a!=null?'<span class="czir czr1">'+IC.r+"</span>":"")+"</b>"+(o.s||[]).filter(Boolean).map(function(x){return"<small>"+x+"</small>"}).join("")}
+ function czI(o){var tg=o.b?"button":"div";return"<"+tg+' class="czi'+(o.c?" "+o.c:"")+'"'+(o.b?' type="button" '+o.b:"")+'><span class="czic">'+(o.i||"")+'</span><span class="czit">'+czT(o.t,o)+"</span>"+
+  (o.a!=null?'<span class="czia'+(o.ac?" "+o.ac:"")+'">'+o.a+"</span>":o.r?'<span class="czir">'+IC.r+"</span>":"")+"</"+tg+">"}
+  
+ var mtS=esc(mO?mtTxt(mA)||"Elige qué montar":mA&&(mA.n||"De piezas tuyas")),mtA=mA&&mA.p>0?'<span class="czia">'+money(mA.p)+"</span>":"";
+ var mtB=!mA?"":!mO?'<button type="button" class="czi czmc" role="checkbox" aria-checked="false" id="mtB"><span class="czic"><i></i></span><span class="czit">'+czT("Montaje",{s:[mtS]})+"</span>"+mtA+"</button>":
+  '<div class="czi czim"><button type="button" class="czmc on" role="checkbox" aria-checked="true" id="mtB" aria-label="Montaje"><span class="czic"><i></i></span></button>'+
+  '<button type="button" class="czmo" data-mxo aria-label="'+(Object.keys(mtX()).length?"Cambiar piezas tuyas":"Añadir piezas tuyas")+'"><span class="czit">'+czT("Montaje",{s:[mtS],r:1,a:mtA||null})+"</span>"+(mtA||'<span class="czir">'+IC.r+"</span>")+"</button></div>";
  
 
  var adC=!COMO&&!!(M.Ship&&M.Ship.geo),has=!!(ad.p||ad.m||ad.d||gOk(ad.g)),chB=adC?'id="adCh" aria-label="'+(has?"Cambiar la dirección":"Añadir dirección")+'"':"";
