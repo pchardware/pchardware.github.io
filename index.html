@@ -550,6 +550,10 @@ footer p{margin:0 0 6px;opacity:.7}
 .etr svg{width:17px;height:17px;flex:none;margin-top:1px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
 .etr b{color:var(--ink);font-weight:600}.etr.etw{color:var(--mut)}.etr.etd{background:rgba(247,144,9,.13);color:var(--ink)}.etr.etd svg{color:#dc6803}.etr.etd a{color:inherit;font-weight:600;text-decoration:underline}
 .adbx .etok{width:100%}
+
+.adbx .adft{position:sticky;bottom:calc(-18px - env(safe-area-inset-bottom,0px));z-index:2;margin:12px -18px calc(-18px - env(safe-area-inset-bottom,0px));padding:10px 18px calc(18px + env(safe-area-inset-bottom,0px));background:var(--card);box-shadow:0 -1px 0 var(--line)}
+.adbx .adft .czmxt{margin:0 0 10px;padding-top:0;border-top:0}
+@media(min-width:600px){.adbx .adft{bottom:-20px;margin-bottom:-20px;padding-bottom:20px}}
 .adbx .etok.nag{animation:etnag .45s}
 @keyframes etnag{20%,60%{transform:translateX(-6px)}40%,80%{transform:translateX(6px)}}
 .adsh{position:fixed;inset:0;z-index:80;background:rgba(16,24,40,.5);display:flex;align-items:flex-end;justify-content:center}
@@ -1445,7 +1449,7 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=fa
   ov.innerHTML='<div class="adbx" role="dialog" aria-modal="true" aria-label="Horario de entrega"><div class="adhd"><b>Horario de entrega</b><button type="button" class="adcl" aria-label="Cerrar">'+IC.x+"</button></div>"+
    '<div class="etg"><small>Día</small><select data-t="d" aria-label="Día">'+days+"</select></div>"+
    '<div class="etg"><small>Hora</small><div class="etk">'+K+"</div>"+T+"</div>"+XB+R+XA+
-   '<button type="button" class="btn etok">Listo</button></div>';
+   '<div class="adft"><button type="button" class="btn etok">Listo</button></div></div>';
   if(E===undefined)etGet(ad).then(function(){if(ov.parentNode)draw()})}
  function close(keep){if(!keep&&dirty())try{if(snap==null)OS.removeItem("eta2");else OS.setItem("eta2",snap)}catch(e){}
   ov.remove();document.removeEventListener("keydown",key,true);document.body.classList.remove("adon");cartView()}
@@ -1494,7 +1498,7 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
   '<label>Dirección</label><textarea data-ad="d" maxlength="300"'+dis+' placeholder="'+(ro?"Sin dirección":"Calle, número, entre calles, referencias")+'">'+esc(a.d||"")+"</textarea>"+
    
   '<label>Observación <small class="adop">(opcional)</small></label><textarea data-ad="o" maxlength="200" rows="2"'+dis+' placeholder="'+(ro?"Sin observación":"Ej. portón verde, llamar al llegar")+'">'+esc(a.o||"")+"</textarea>"+
-  (ro?"":'<button class="btn adok" disabled>Guardar dirección</button>');
+  (ro?"":'<div class="adft"><button class="btn adok" disabled>Guardar dirección</button></div>');
   
   
  function mis(){if(!g)return false;var r=ptHave(g),p=q('[data-ad="p"]'),m=q('[data-ad="m"]');return!!(r&&r.m&&p&&(p.value!==r.p||m.value!==r.m))}
@@ -2347,7 +2351,7 @@ function pySheet(t){var ov=document.createElement("div"),K=pyKeys(),p0=K[0],md=p
     return'<div class="pymr"><span>'+esc(PYN[k])+'<small data-pe="'+k+'"></small></span><label><input type="text" inputmode="decimal" autocomplete="off" data-pa="'+k+'" value="'+(m[k]||"")+'"'+(ok?"":" disabled")+' aria-label="'+esc(PYN[k])+'"><i>'+pyCur(k)+"</i></label>"+
      '<button type="button" class="czch" data-pr="'+k+'"'+(ok?"":" disabled")+">Resto</button></div>"}).join("")+"</div>"+
    (K.indexOf("otra")>=0?'<button type="button" class="pymo'+(m.otra?" on":"")+'" role="checkbox" aria-checked="'+!!m.otra+'" data-pmo><i></i><span>El resto en otra forma<small>Escríbenos antes de pedir para acordarlo</small></span></button>':"")+
-   '<div class="pysum"></div><button type="button" class="btn etok">Listo</button>';
+   '<div class="pysum"></div><div class="adft"><button type="button" class="btn etok">Listo</button></div>';
   ov.innerHTML=h+"</div>";if(md)sum()}
  function put(m){pyMxSet(m);pySet("mix");sum()}
  function close(){ov.remove();document.removeEventListener("keydown",key,true);document.body.classList.remove("adon");
@@ -2422,8 +2426,8 @@ function mtSheet(){var ov=document.createElement("div");ov.className="adsh";
    '<p class="czmxh">Lo que traes tú y también quieres que montemos</p>'+mtParts().map(function(p){var n=ex[p.k]||0;
     return'<div class="czmxr'+(n?"":" z")+'"><span>'+esc(p.n)+(p.unit?"<small>"+esc(p.unit)+"</small>":"")+'</span><em><button type="button" data-mx="'+esc(p.k)+':-1" aria-label="Menos"'+(n?"":" disabled")+'>−</button><b>'+n+
      '</b><button type="button" data-mx="'+esc(p.k)+':1" aria-label="Más">+</button></em></div>'}).join("")+
-   '<div class="czmxt"><span>Montaje</span><b>'+(m&&m.p>0?money(m.p):"—")+"</b></div>"+
-   '<button type="button" class="btn etok">Listo</button></div>'}
+   '<div class="adft"><div class="czmxt"><span>Montaje</span><b>'+(m&&m.p>0?money(m.p):"—")+"</b></div>"+
+   '<button type="button" class="btn etok">Listo</button></div></div>'}
  function close(){ov.remove();document.removeEventListener("keydown",key,true);document.body.classList.remove("adon");cartView()}
  function key(ev){if(ev.key=="Escape"&&!document.querySelector(".nsov")&&ov===etTop()){ev.stopPropagation();close()}}
  ov.onclick=function(ev){var b=ev.target.closest&&ev.target.closest("[data-mx]");
@@ -2554,7 +2558,7 @@ function wDialog(items,go){var s=wSum(items),mn=mtNotes(items),wk=wKey(items);if
  var ov=document.createElement("div");ov.className="adsh";
  ov.innerHTML='<div class="adbx" role="dialog" aria-modal="true" aria-label="Condiciones"><div class="adhd"><b>'+(s?"Condiciones de garantía":"Condiciones del montaje")+'</b><button type="button" class="adcl" aria-label="Cerrar">'+IC.x+"</button></div>"+
   (rows?'<div class="wdl">'+rows+"</div>":"")+(body?'<div class="wdx">'+body+"</div>":"")+
-  (mn.length?'<div class="wdm">'+(s?"<b>Montaje</b>":"")+mn.map(function(x){return"<p>"+esc(x)+"</p>"}).join("")+"</div>":"")+'<button type="button" class="btn etok wdok">Acepto las condiciones</button></div>';
+  (mn.length?'<div class="wdm">'+(s?"<b>Montaje</b>":"")+mn.map(function(x){return"<p>"+esc(x)+"</p>"}).join("")+"</div>":"")+'<div class="adft"><button type="button" class="btn etok wdok">Acepto las condiciones</button></div></div>';
  function close(){ov.remove();document.removeEventListener("keydown",key,true);if(!document.querySelector(".adsh"))document.body.classList.remove("adon")}
  function key(ev){if(ev.key=="Escape"&&ov===etTop()){ev.stopPropagation();close()}}
  ov.onclick=function(ev){if(ev.target.closest&&ev.target.closest(".wdok")){wOk=wk;close();go()}else if(ev.target===ov||ev.target.closest&&ev.target.closest(".adcl"))close()};
