@@ -496,23 +496,32 @@ footer p{margin:0 0 6px;opacity:.7}
 .czs .czpy .czpf>svg{flex:none;width:16px;height:16px;stroke:var(--mut);stroke-width:2;transform:rotate(90deg)}
 .pymx{margin:6px 0 4px}
 .pymr{display:flex;align-items:center;gap:10px;padding:8px 0;border-bottom:1px solid var(--line)}
-.pymr>span{flex:1;min-width:0;font-size:14.5px;font-weight:600;color:var(--ink)}
+.pynm{flex:1;min-width:0;font-size:14.5px;font-weight:600;color:var(--ink)}
+
+.pymr.off .pynm{color:var(--ink3);font-weight:500}
 .pymr small{display:block;font-size:12.5px;font-weight:400;color:var(--mut)}
 .pymr label{position:relative;flex:none;width:132px}
 .pymr input{width:100%;border:1px solid var(--bd);border-radius:10px;padding:9px 46px 9px 10px;font:inherit;font-size:15px;text-align:right;font-variant-numeric:tabular-nums;background:var(--card);color:var(--ink)}
 .pymr input:disabled{background:var(--soft)}
 .pymr label i{position:absolute;right:10px;top:50%;transform:translateY(-50%);font-style:normal;font-size:12.5px;color:var(--mut);pointer-events:none}
-.pymr .czch{flex:none;width:48px;padding:0;border:0;background:none;font-size:13px;font-weight:600;color:var(--ink);text-decoration:underline;text-underline-offset:3px;cursor:pointer}
+
+.pyin{flex:none;position:relative}
+.pyin label{display:block;width:140px}
+.pyin input{padding-left:36px}
+.pyaj{position:absolute;left:4px;top:50%;z-index:1;transform:translateY(-50%);width:30px;height:30px;display:grid;place-items:center;border-radius:8px;background:var(--soft);color:var(--ink)}
+.pyaj svg{width:16px;height:16px}
+.pyaj.pyh{visibility:hidden}
+.pymr .czch{flex:none;width:52px;padding:0;border:0;background:none;font-size:13px;font-weight:600;color:var(--ink);text-decoration:underline;text-underline-offset:3px;cursor:pointer}
 .pymr .czch:disabled{opacity:.35;cursor:default;text-decoration:none}
 .pymr{min-height:58px}
-.pyck{flex:1;min-width:0;display:flex;align-items:center;gap:10px;padding:4px 0;text-align:left;font-size:14.5px;font-weight:600;color:var(--ink)}
-.pyck i{position:relative;width:18px;height:18px;flex:none;border:2px solid var(--bd);border-radius:5px}
-.pyck.on i{border-color:var(--ink);background:var(--ink)}
-.pyck.on i:after{content:"";position:absolute;left:4px;top:0;width:5px;height:10px;border:solid var(--card);border-width:0 2px 2px 0;transform:rotate(45deg)}
-.pyck:disabled{opacity:.45;cursor:default}
-.pyck span{min-width:0}
-.pymr input.pyci{background:var(--soft);border-color:var(--soft2)}
 .pysum small{font-weight:400;color:var(--mut)}
+.pynt{margin:12px 2px 4px}
+.pyvx[hidden]{display:none}
+.pyvx{display:flex;align-items:center;gap:10px;margin:12px 0 0;padding:10px 12px;border-radius:12px;background:var(--soft)}
+.pyvx>span{flex:1;min-width:0;font-size:14.5px;font-weight:600;color:var(--ink)}
+.pyvx small{display:block;font-size:12.5px;font-weight:400;color:var(--mut)}
+.pyvx b{flex:none;font-size:15px;font-weight:700;font-variant-numeric:tabular-nums}
+.pyst{display:flex;align-items:baseline;gap:12px;text-align:right}
 .pysum{display:flex;justify-content:space-between;align-items:baseline;gap:10px;margin:12px 0;font-size:15px;font-weight:600;color:var(--ink)}
 .pysum b{font-variant-numeric:tabular-nums;text-align:right}
 .pysum .pyok{color:#067647}
@@ -1253,6 +1262,7 @@ function shBulk(){var B=(M.Ship&&M.Ship.bulk)||{},S=B.subs||[],R=B.room||{},big=
  return{big:big,min:+B.min||0,v:Math.max(1,bins.length)}}
 
 
+IC.fit='<svg viewBox="0 0 24 24"><path d="M4 20L15 9"/><path d="M15 9l2-2 0 0 2 2-2 2z"/><path d="M8 4v3M6.5 5.5h3M19 14v3M17.5 15.5h3M13 3.5v2M12 4.5h2"/></svg>';
 IC.clock='<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>';
 IC.shop='<svg viewBox="0 0 24 24"><path d="M3 9l1.5-5h15L21 9"/><path d="M3 9a3 3 0 0 0 6 0a3 3 0 0 0 6 0a3 3 0 0 0 6 0"/><path d="M5 11.5V20h14v-8.5"/><path d="M10 20v-5h4v5"/></svg>';
 function dlPk(){try{return OS.getItem("dlv")=="pk"}catch(e){return false}}
@@ -2338,23 +2348,19 @@ function pyCur(k){return k=="cup"?"CUP":k=="eur"?"EUR":"USD"}
 
 
 
+function pyRaw(){var o=null,v={},src;try{o=JSON.parse(OS.getItem("paymx")||"null")}catch(e){}
+ if(o&&typeof o=="object"){src=o.v&&typeof o.v=="object"?o.v:o;pyKeys().forEach(function(k){var n=+src[k];if(k!="otra"&&n>0)v[k]=Math.round(n*100)/100})}
+ return{v:v}}
+function pyMxSet(R){try{OS.setItem("paymx",JSON.stringify({v:R.v}))}catch(e){}}
 
 
-function pyRaw(){var o=null,K=pyKeys(),on=[],v={},q=[],src;try{o=JSON.parse(OS.getItem("paymx")||"null")}catch(e){}
- if(o&&typeof o=="object"){src=o.on?o.v||{}:o;(o.on||Object.keys(o).filter(function(k){return +o[k]>0})).forEach(function(k){if(k!="otra"&&on.indexOf(k)<0)on.push(k)});
-  on.forEach(function(k){var n=+src[k];if(n>0)v[k]=Math.round(n*100)/100});if(o.q&&o.q.filter)q=o.q.slice()}
- on=K.filter(function(k){return k!="otra"&&on.indexOf(k)>=0});q=q.filter(function(k){return on.indexOf(k)>=0});
- on.forEach(function(k){if(q.indexOf(k)<0){if(k=="cup")q.unshift(k);else q.push(k)}});return{on:on,v:v,q:q}}
-function pyMxSet(R){try{OS.setItem("paymx",JSON.stringify({on:R.on,v:R.v,q:R.q}))}catch(e){}}
+
+function pyVu(u){var x=PYR&&PYR.u?pyEst(pyDd()):0,d,c,L=[];if(u<0.005)return"";
+ d=Math.floor(u+1e-6);if(d)L.push("$"+d+" USD");c=u-d;
+ if(c>0.004)L.push(x?(Math.floor(c*x/50+1e-6)*50?pyN(Math.floor(c*x/50+1e-6)*50)+" CUP":""):"$"+pyN(Math.round(c*100)/100)+" en CUP");
+ return L.filter(Boolean).join(" + ")}
 var PYS={usd:1,eur:5,cup:50};
 function pyStep(k){return PYS[k]||0.01}
- 
-function pyCmp(R){var c="";R.q.forEach(function(k){if(!c&&pyR(k))c=k});return c}
- 
-function pyMx(t){var R=pyRaw(),c=pyCmp(R),o={},O={},r=t,n=0;
- R.on.forEach(function(k){if(k!=c&&R.v[k]>0){o[k]=R.v[k];var u=pyU(k,o[k]);if(u==null)n++;else r-=u}});
- if(c&&!n&&r>0.004){var a=pyA(c,r);if(a)o[c]=a;else n++}
- R.on.forEach(function(k){if(o[k]!=null)O[k]=o[k]});return{o:O,c:c,n:n}}
  
 function pyR(k){return k=="cup"?!!PYR:k=="eur"?!!(PYR&&PYR.e):true}
 
@@ -2380,10 +2386,15 @@ function pyU(k,a){var f=pyF(k),L,x,d;if(!pyR(k))return null;
 function pyA(k,u){var f=pyF(k),s=pyStep(k),x;if(u<=0)return 0;if(!pyR(k))return null;
  if(k=="cup"){x=pyCupX(u);if(!x)return null;x*=u}else if(k=="eur")x=u*PYR.u*(1+f/100)/PYR.e;else x=u*(1+f/100);
  return Math.round(Math.ceil(x/s-1e-6)*s*100)/100}
+ 
+function pyMs(t,R){R=R||pyRaw();var o={},c=0,n=0;pyKeys().forEach(function(k){var a=R.v[k],u;if(!(a>0))return;o[k]=a;u=pyU(k,a);if(u==null)n++;else c+=u});
+ var r=Math.round((t-c)*100)/100;if(Math.abs(r)<0.005)r=0;return{c:c,r:r,n:n,o:o}}
 
 
-function pyMs(t){var m=pyMx(t),c=0;Object.keys(m.o).forEach(function(k){var u=pyU(k,m.o[k]);if(u!=null)c+=u});
- var r=m.o[m.c]!=null&&!m.n?0:Math.round((t-c)*100)/100;return{c:c,r:r,n:m.n,o:m.o,k:m.c,x:r?0:Math.max(0,Math.round((c-t)*100)/100)}}
+function pyTo(t,k){var R=pyRaw(),m=pyMs(t,R),cur=m.o[k]?pyU(k,m.o[k])||0:0,a,m2;if(m.n||!m.r||!pyR(k))return null;
+ a=cur+m.r>0.004?pyA(k,cur+m.r):0;if(a==null||a==(m.o[k]||0))return null;
+ R.v=Object.assign({},R.v);if(a>0)R.v[k]=a;else delete R.v[k];m2=pyMs(t,R);
+ return m2.n||m2.r>0||(m.r<0&&-m2.r>=-m.r-0.009)?null:R}
 function pyPt(k,a,full){var f=pyF(k),u;
  if(k=="cup"){u=pyU(k,a);return pyN(a)+" CUP"+(full?" en efectivo ("+(u?"tasa "+Math.round(a/u):"tasa por confirmar")+")":"")}
  if(k=="eur")return pyN(a)+" EUR"+(full?" en efectivo":"");
@@ -2412,58 +2423,66 @@ function pyRad(k,t,on,at){var q=pyQ(k,t);
  return'<button type="button" role="radio" aria-checked="'+on+'" '+at+'="'+k+'"'+(on?' class="on"':"")+"><i></i><span>"+esc(PYN[k])+(q.s?"<small>"+esc(q.s)+"</small>":"")+"</span><b"+(q.q?' class="czq"':"")+">"+esc(q.a)+"</b></button>"}
 function pyBox(t){if(!pyOn())return"";var K=pyKeys(),p0=K[0],k0=pySel(),alt=k0!=p0,q,m,lb,sm="",am="",cl="";
  if(k0=="mix"){m=pyMs(t);lb="Pago combinado";sm=pyMt(m)||"Sin montos todavía";
-  if(!m.n&&m.r>0){am="Falta "+money(m.r);cl="pyf"}else if(!m.n&&m.r<0){am="Sobran "+money(-m.r);cl="pyf"}}
+  if(!m.n&&m.r>0){am="Falta "+money(m.r);cl="pyf"}else if(!m.n&&m.r<0&&pyVu(-m.r))am="Te devolvemos "+pyVu(-m.r)}
  else if(alt){q=pyQ(k0,t);lb=PYN[k0];sm=q.s||"";am=q.a;cl=q.q?"czq":""}
  
 
  if(!alt){lb=PYN[p0]}else if(k0!="mix"&&am==money(t))am="";
- var sb=[am,sm].filter(Boolean).join(" · ");
+ var sb=(am.indexOf("Te devolvemos")==0?[sm,am]:[am,sm]).filter(Boolean).join(" · "),    
+  
+
+  CS=["usd","eur"],ch=k0!="mix"&&CS.indexOf(alt?k0:p0)>=0;
  return'<div class="czpy"><button type="button" class="czpf" data-pyo aria-label="Cambiar la forma de pago"><span class="czpl">Pago</span><span class="czpv"><b>'+esc(lb)+"</b>"+
-  (sb?"<small"+(cl=="pyf"?' class="pyf"':"")+">"+esc(sb)+"</small>":"")+"</span>"+IC.r+"</button></div>"}
+  (sb?"<small"+(cl=="pyf"?' class="pyf"':"")+">"+esc(sb)+"</small>":"")+(ch?"<small>Cambio en USD y el pico en CUP</small>":"")+"</span>"+IC.r+"</button></div>"}
  
 function pySheet(t){var ov=document.createElement("div"),K=pyKeys(),p0=K[0],md=pySel()=="mix"?1:0;ov.className="adsh";
- function sum(){var m=pyMs(t),s=ov.querySelector(".pysum"),nb=0;if(!s)return;
-  K.forEach(function(k){var e=ov.querySelector('[data-pe="'+k+'"]'),n=ov.querySelector('[data-pa="'+k+'"]'),p=k==m.k,f=pyF(k),a=m.o[k],s=pyStep(k),u,bad,eq;if(!e)return;
-   if(!pyR(k)){e.textContent=PYR===0?"Buscando la tasa…":"Hoy sin tasa";return}
+ function sum(){var m=pyMs(t),s=ov.querySelector(".pysum"),nb=0,vx=ov.querySelector(".pyvx");if(!s)return;
+  K.forEach(function(k){var e=ov.querySelector('[data-pe="'+k+'"]'),row=e&&e.closest(".pymr"),j=ov.querySelector('[data-pj="'+k+'"]'),f=pyF(k),a=m.o[k],st=pyStep(k),u,bad,eq;if(!e)return;
     
-   if(n){n.classList.toggle("pyci",p);if(p&&n!==document.activeElement)n.value=String(a||0)}
+   row.classList.toggle("off",!a);
+   if(!pyR(k)){e.textContent=PYR===0?"Buscando la tasa…":"Hoy sin tasa";if(j)j.classList.add("pyh");return}
    u=a?pyU(k,a):0;eq=!a||pyCur(k)=="USD"&&!f?"":u==null?"A consultar":"Equivale a "+money(Math.round(u*100)/100);
-   bad=!p&&a&&s>=1&&Math.abs(a/s-Math.round(a/s))>1e-9;e.classList.toggle("pyf",!!bad);if(bad)nb++;
-    
-   e.textContent=bad?(k=="usd"?"Sin monedas: dólares enteros":"Billetes de "+s+" "+pyCur(k)+" o más"):p?"Se calcula sola"+(eq?" · "+eq:""):eq||(f?"Recargo "+f+" %":"")});
-  s.innerHTML="<span>Total "+money(t)+"</span>"+(nb?'<b class="pyf">Revisa los billetes</b>':m.n?"<b>Tasa por confirmar</b>":m.r>0?'<b class="pyf">Falta '+money(m.r)+"</b>":
-   m.r<0?'<b class="pyf">Sobran '+money(-m.r)+"</b>":'<b class="pyok">Completo'+(m.x>1?"<small> · sobran "+money(m.x)+"</small>":"")+"</b>")}
+   bad=a&&st>=1&&Math.abs(a/st-Math.round(a/st))>1e-9;e.classList.toggle("pyf",!!bad);if(bad)nb++;
+   e.textContent=bad?(k=="usd"?"Sin monedas: dólares enteros":"Billetes de "+st+" "+pyCur(k)+" o más"):eq||(f?"Recargo "+f+" %":"")});
+   
+  var any=Object.keys(m.o).length;K.forEach(function(k){var j=ov.querySelector('[data-pj="'+k+'"]');if(j&&pyR(k))j.classList.toggle("pyh",!!(nb||!any||!pyTo(t,k)))});
+  
+
+  vx.hidden=!(!nb&&!m.n&&m.r<0&&pyVu(-m.r));if(!vx.hidden){vx.querySelector("b").textContent=pyVu(-m.r)}
+  s.innerHTML="<span>Total "+money(t)+'</span><span class="pyst">'+(nb?'<b class="pyf">Revisa los billetes</b>':m.n?"<b>Tasa por confirmar</b>":
+   m.r>0?'<b class="pyf">Falta '+money(m.r)+"</b>":'<b class="pyok">Completo</b>')+"</span>"}
  function draw(){var k0=pySel(),R=pyRaw(),h='<div class="adbx" role="dialog" aria-modal="true" aria-label="Forma de pago"><div class="adhd"><b>Forma de pago</b><button type="button" class="adcl" aria-label="Cerrar">'+IC.x+"</button></div>"+
    '<div class="czdl" role="group" aria-label="Cómo"><button type="button" data-pm="0"'+(md?"":' class="on"')+' aria-pressed="'+!md+'">Una forma</button><button type="button" data-pm="1"'+(md?' class="on"':"")+' aria-pressed="'+!!md+'">Combinar</button></div>';
-  if(!md)h+='<div class="czpy" role="radiogroup" aria-label="Forma de pago">'+K.map(function(k){return pyRad(k,t,k==k0,"data-ps")}).join("")+"</div>";
-  else h+=(R.on.length<2?'<p class="czmxh">Marca con qué vas a pagar: una se calcula sola</p>':"")+'<div class="pymx">'+K.filter(function(k){return k!="otra"}).map(function(k){var ok=pyR(k),on=R.on.indexOf(k)>=0;
-    return'<div class="pymr"><button type="button" class="pyck'+(on?" on":"")+'" role="checkbox" aria-checked="'+on+'" data-pk="'+k+'"'+(ok?"":" disabled")+"><i></i><span>"+esc(PYN[k])+'<small data-pe="'+k+'"></small></span></button>'+
-     (!on?"":'<label><input type="text" inputmode="decimal" autocomplete="off" data-pa="'+k+'" value="'+(R.v[k]||"")+'" aria-label="'+esc(PYN[k])+'"><i>'+pyCur(k)+"</i></label>")+"</div>"}).join("")+"</div>"+
+   
+  if(!md)h+='<div class="czpy" role="radiogroup" aria-label="Forma de pago">'+K.map(function(k){return pyRad(k,t,k==k0,"data-ps")}).join("")+"</div>"+
+   '<p class="czmxh pynt">Damos cambio en USD y el pico en CUP</p>';
+  else h+='<div class="pymx">'+K.filter(function(k){return k!="otra"}).map(function(k){var ok=pyR(k);
+    return'<div class="pymr"><span class="pynm">'+esc(PYN[k])+'<small data-pe="'+k+'"></small></span>'+
+      
+     '<span class="pyin"><button type="button" class="pyaj pyh" data-pj="'+k+'" aria-label="Ajustar '+esc(PYN[k])+'" title="Ajustar">'+IC.fit+"</button>"+
+     '<label><input type="text" inputmode="decimal" autocomplete="off" placeholder="0" data-pa="'+k+'" value="'+(R.v[k]||"")+'"'+(ok?"":" disabled")+' aria-label="'+esc(PYN[k])+'"><i>'+pyCur(k)+"</i></label></span></div>"}).join("")+"</div>"+
+    '<div class="pyvx" hidden><span>Te devolvemos</span><b></b></div>'+
    '<div class="pysum"></div><div class="adft"><button type="button" class="btn etok">Listo</button></div>';
   ov.innerHTML=h+"</div>";if(md)sum()}
   
  var dt=0;
  function put(R){pyMxSet(R);pySet("mix");dt=1}
  function close(){ov.remove();document.removeEventListener("keydown",key,true);document.body.classList.remove("adon");
-  if(pySel()=="mix"&&!pyRaw().on.length)pySet(p0);cartView()}    
+  if(pySel()=="mix"&&!Object.keys(pyRaw().v).length)pySet(p0);cartView()}    
  function key(ev){if(ev.key=="Escape"&&!document.querySelector(".nsov")&&ov===etTop()){ev.stopPropagation();close()}}
  ov.oninput=function(ev){var e=ev.target,k=e.getAttribute&&e.getAttribute("data-pa"),R,n;if(!k)return;R=pyRaw();
-  n=parseFloat(String(e.value).replace(/[\s,]/g,""));if(n>0)R.v[k]=Math.round(n*100)/100;else delete R.v[k];
-  R.q.splice(R.q.indexOf(k),1);R.q.push(k);put(R);sum()};    
- ov.onclick=function(ev){var g=function(s){return ev.target.closest&&ev.target.closest(s)},b,R,k,i;
+  n=parseFloat(String(e.value).replace(/[\s,]/g,""));if(n>0)R.v[k]=Math.round(n*100)/100;else delete R.v[k];put(R);sum()};
+ ov.onclick=function(ev){var g=function(s){return ev.target.closest&&ev.target.closest(s)},b,R,k;
   if(b=g("[data-pm]")){if(+b.getAttribute("data-pm")!=md){md=+b.getAttribute("data-pm");draw()}return}
   if(b=g("[data-ps]")){pySet(b.getAttribute("data-ps"));close();return}
-   
-   
-  if(b=g("[data-pk]")){k=b.getAttribute("data-pk");R=pyRaw();var m=pyMx(t);if(m.c&&m.o[m.c]>0)R.v[m.c]=m.o[m.c];
-   i=R.on.indexOf(k);if(i>=0){R.on.splice(i,1);R.q.splice(R.q.indexOf(k),1)}else{R.on.push(k);if(k=="cup")R.q.unshift(k);else R.q.push(k)}put(R);draw();return}
+  if(b=g("[data-pj]")){k=b.getAttribute("data-pj");R=pyTo(t,k);if(R){put(R);ov.querySelector('[data-pa="'+k+'"]').value=R.v[k]||"";sum()}return}
    
   if(ev.target===ov&&dt){var L=ov.querySelector(".etok");if(L){L.classList.remove("nag");void L.offsetWidth;L.classList.add("nag")}return}
   if(ev.target===ov||g(".etok,.adcl"))close()};
  document.addEventListener("keydown",key,true);draw();document.body.appendChild(ov);document.body.classList.add("adon");
  if(PYR===0)(function w(){setTimeout(function(){if(!ov.isConnected)return;if(PYR===0)w();else if(md)draw()},400)})()}
 function pyLine(t){if(!pyOn())return"";var k=pySel(),q,m;
- if(k=="mix"){m=pyMs(t);return"\nPago combinado: "+(pyMt(m,1)||"por acordar")+(m.n?"":m.r>0?" · falta $"+pyN(m.r)+" por acordar":m.r<0?" · sobran $"+pyN(-m.r):m.x>1?" · sobran $"+pyN(m.x)+" por el redondeo":"")}
+ if(k=="mix"){m=pyMs(t);return"\nPago combinado: "+(pyMt(m,1)||"por acordar")+(m.n?"":m.r>0?" · falta $"+pyN(m.r)+" por acordar":m.r<0&&pyVu(-m.r)?" · te devolvemos $"+pyN(-m.r)+" ("+pyVu(-m.r)+")":"")}
  q=pyQ(k,t);return"\nPago: "+PYN[k]+(q.w?(k=="otra"?" (":" · ")+q.w+(k=="otra"?")":""):"")}
 
 
