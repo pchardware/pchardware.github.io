@@ -2297,11 +2297,12 @@ function pyPt(k,a,full){var f=pyF(k),u;
  if(k=="usd")return"$"+pyN(a)+(full?" USD en efectivo":" efectivo");
  return"$"+pyN(a)+" "+PYN[k]+(full&&f?" (recargo "+f+" %)":"")}
 function pyMt(m,full){var L=Object.keys(m.o).filter(function(k){return k!="otra"}).map(function(k){return pyPt(k,m.o[k],full)});
- if(m.o.otra&&(m.n||m.r>0))L.push(full?"el resto"+(m.n?"":" ($"+pyN(m.r)+")")+" en otra forma, se acuerda":"resto en otra forma");return L.join(" + ")}
+ if(m.o.otra&&(m.n||m.r>0))L.push(full?"el resto"+(m.n?"":" ($"+pyN(m.r)+")")+" en otra forma, acordada antes del pedido":"resto en otra forma");return L.join(" + ")}
  
 function pyAlt(){var L=pyKeys().slice(1).filter(function(k){return k!="otra"}).map(function(k){return k=="cup"||k=="eur"?pyCur(k):k=="dig"?pyDig().map(function(x){return PYN[x]}).join(", "):PYN[k]});
  return(L.length?L.join(", ")+", ":"")+"transferencia o combinadas"}
-var PYAL='<p class="czpn al"><b>CUP por transferencia no vale lo mismo que CUP en efectivo.</b> Esa y cualquier otra forma o condición de pago se acuerdan después de hacer el pedido.</p>';
+ 
+var PYAL='<p class="czpn al"><b>Otra forma o condición de pago:</b> escríbenos antes de hacer el pedido para acordarla.</p>';
 function pySet(k){try{OS.setItem("pay",k)}catch(e){}}
  
 function pyRate(cb){if(PYR!==undefined)return;if(!M.Auth||!M.Auth.url){PYR=null;return}PYR=0;
@@ -2309,7 +2310,7 @@ function pyRate(cb){if(PYR!==undefined)return;if(!M.Auth||!M.Auth.url){PYR=null;
 function pyN(n){return n.toLocaleString("en-US",{maximumFractionDigits:2})}
  
 function pyQ(k,t){var f=pyF(k),R=PYR,v,x,T,i,p=0;
- if(k=="otra")return{a:"Se acuerda",s:"CUP por transferencia y otras",q:1,w:"se acuerda después del pedido"};
+ if(k=="otra")return{a:"Se acuerda",s:"Escríbenos antes de pedir",q:1,w:"otra forma, acordada antes del pedido"};
  if(k=="usd")return{a:money(t),w:"$"+pyN(t)+" USD"};
  if(k=="cup"||k=="eur"){if(R===0||R===undefined)return{a:"…",q:1,w:""};if(!R||k=="eur"&&!R.e)return{a:"Se confirma",s:"La tasa se confirma con el pedido",q:1,w:"tasa por confirmar"}}
  if(k=="cup"){x=pyCupX(t);v=Math.max(50,Math.round(t*x/50)*50);
@@ -2340,11 +2341,11 @@ function pySheet(t){var ov=document.createElement("div"),K=pyKeys(),p0=K[0],md=p
  function draw(){var k0=pySel(),m=pyMx(),h='<div class="adbx" role="dialog" aria-modal="true" aria-label="Forma de pago"><div class="adhd"><b>Forma de pago</b><button type="button" class="adcl" aria-label="Cerrar">'+IC.x+"</button></div>"+
    '<div class="czdl" role="group" aria-label="Cómo"><button type="button" data-pm="0"'+(md?"":' class="on"')+' aria-pressed="'+!md+'">Una forma</button><button type="button" data-pm="1"'+(md?' class="on"':"")+' aria-pressed="'+!!md+'">Combinar</button></div>';
   if(!md)h+='<div class="czpy" role="radiogroup" aria-label="Forma de pago">'+K.map(function(k){return pyRad(k,t,k==k0,"data-ps")}).join("")+"</div>"+
-   '<p class="czpn">Otras formas o condiciones de pago se acuerdan después de hacer el pedido.</p>';
+   '<p class="czpn">Para otra forma o condición de pago, escríbenos antes de hacer el pedido.</p>';
   else h+='<p class="czmxh">Escribe cuánto pagas de cada forma</p><div class="pymx">'+K.filter(function(k){return k!="otra"}).map(function(k){var ok=pyR(k);
     return'<div class="pymr"><span>'+esc(PYN[k])+'<small data-pe="'+k+'"></small></span><label><input type="text" inputmode="decimal" autocomplete="off" data-pa="'+k+'" value="'+(m[k]||"")+'"'+(ok?"":" disabled")+' aria-label="'+esc(PYN[k])+'"><i>'+pyCur(k)+"</i></label>"+
      '<button type="button" class="czch" data-pr="'+k+'"'+(ok?"":" disabled")+">Resto</button></div>"}).join("")+"</div>"+
-   (K.indexOf("otra")>=0?'<button type="button" class="pymo'+(m.otra?" on":"")+'" role="checkbox" aria-checked="'+!!m.otra+'" data-pmo><i></i><span>El resto en otra forma<small>CUP por transferencia y otras: se acuerda después del pedido</small></span></button>':"")+
+   (K.indexOf("otra")>=0?'<button type="button" class="pymo'+(m.otra?" on":"")+'" role="checkbox" aria-checked="'+!!m.otra+'" data-pmo><i></i><span>El resto en otra forma<small>Escríbenos antes de pedir para acordarlo</small></span></button>':"")+
    '<div class="pysum"></div><button type="button" class="btn etok">Listo</button>';
   ov.innerHTML=h+"</div>";if(md)sum()}
  function put(m){pyMxSet(m);pySet("mix");sum()}
