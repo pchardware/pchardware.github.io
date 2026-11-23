@@ -1472,12 +1472,15 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=fa
       '" target="_blank" rel="noopener">Escríbenos por WhatsApp</a> y buscamos cómo llegarte.</span></p>':
      !dE||!dE.r?'<p class="etr etd">'+IC.clock+"<span>Con esos horarios la entrega se acuerda con el pedido</span></p>":
      '<p class="etr">'+IC.clock+"<span>"+(dE.r.d>s.d?"Ese día no da tiempo. ":"")+"Llega <b>"+esc(etTxt(dE.r))+"</b>"+nm+"</span></p>";
-    if(dE===undefined)etLoad(function(){if(ov.parentNode)draw()})}}
+    if(dE===undefined)etLoad(function(){later()})}}
   ov.innerHTML='<div class="adbx" role="dialog" aria-modal="true" aria-label="Horario de entrega"><div class="adhd"><b>Horario de entrega</b><button type="button" class="adcl" aria-label="Cerrar">'+IC.x+"</button></div>"+
    '<div class="etg"><small>Día</small><select data-t="d" aria-label="Día">'+days+"</select></div>"+
    '<div class="etg"><small>Hora</small><div class="etk">'+K+"</div>"+T+"</div>"+XB+R+XA+
    '<div class="adft"><button type="button" class="btn etok">Listo</button></div></div>';
-  if(E===undefined)etGet(ad).then(function(){if(ov.parentNode)draw()})}
+  if(E===undefined)etGet(ad).then(function(){later()})}
+ 
+
+ function later(){if(!ov.parentNode)return;if(document.querySelector(".nsov"))setTimeout(later,250);else draw()}
  function close(keep){if(!keep&&dirty())try{if(snap==null)OS.removeItem("eta2");else OS.setItem("eta2",snap)}catch(e){}
   ov.remove();document.removeEventListener("keydown",key,true);document.body.classList.remove("adon");cartView()}
   
