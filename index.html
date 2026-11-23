@@ -281,6 +281,7 @@ button.czi{cursor:pointer}.czi.czi0,.czi.czin{border-top:0}.czi.czin{min-height:
 .czic svg{width:19px;height:19px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
 .czit{flex:1;min-width:0;line-height:1.3}.czit b{display:block;font-weight:600;color:var(--ink)}
 .czit small{display:block;margin-top:2px;font-size:12.5px;font-weight:400;color:var(--mut)}
+.czit small .czpt{display:inline-block;margin-top:4px;padding:2px 8px;border-radius:6px;background:var(--ink);color:var(--card);font-weight:600}
 .czia{flex:none;font-weight:600;white-space:nowrap;font-variant-numeric:tabular-nums;text-align:right}
 .czia.czg{color:var(--ok)}.czia.czq{font-weight:500;color:var(--mut)}
 .czia.czoff{font-weight:400;color:var(--mut);opacity:.75}.czmc:not(.on) .czit b{font-weight:500;color:var(--ink2)}
@@ -2312,7 +2313,7 @@ function pyQ(k,t){var f=pyF(k),R=PYR,v,x,T,i,p=0;
  if(k=="usd")return{a:money(t),w:"$"+pyN(t)+" USD"};
  if(k=="cup"||k=="eur"){if(R===0||R===undefined)return{a:"…",q:1,w:""};if(!R||k=="eur"&&!R.e)return{a:"Se confirma",s:"La tasa se confirma con el pedido",q:1,w:"tasa por confirmar"}}
  if(k=="cup"){x=pyCupX(t);v=Math.max(50,Math.round(t*x/50)*50);
-  return{a:pyN(v)+" CUP",w:pyN(v)+" CUP (tasa "+x+")"}}
+  return{a:pyN(v)+" CUP",s:"Tasa "+x+" · solo efectivo",w:pyN(v)+" CUP (tasa "+x+")"}}
  if(k=="eur"){v=Math.ceil(t*R.u*(1+f/100)/R.e);return{a:pyN(v)+" EUR",s:f?"Tasa del día + "+f+" %":"Tasa del día",w:pyN(v)+" EUR"}}
  v=f?Math.ceil(t*(1+f/100)):t;return{a:money(v),s:f?"Recargo "+f+" %":"",w:"$"+pyN(v)+" USD"+(f?" (recargo "+f+" %)":"")}}
 function pyRad(k,t,on,at){var q=pyQ(k,t);
@@ -2462,10 +2463,13 @@ function cartView(){
   (o.a!=null?'<span class="czia'+(o.ac?" "+o.ac:"")+'">'+o.a+"</span>":o.r?'<span class="czir">'+IC.r+"</span>":"")+"</"+tg+">"}
   
   
- var mtS=esc(mO?mtTxt(mA)||"Elige qué montar":mA&&(mA.p>0?"Te lo montamos por "+money(mA.p):mA.n||"De piezas tuyas")),mtA=mO&&mA&&mA.p>0?'<span class="czia">'+money(mA.p)+"</span>":"";
- var mtB=!mA?"":!mO?'<button type="button" class="czi czmc" role="checkbox" aria-checked="false" id="mtB"><span class="czic"><i></i></span><span class="czit">'+czT("Montaje",{s:[mtS]})+"</span>"+mtA+"</button>":
+ 
+
+ var mX=mA&&(mO?mA:mtOf(keep)),mtP=mX&&mX.x?'<span class="czpt">'+(!mO&&mX.p>0?"Con piezas tuyas ("+esc(mX.x)+"): "+money(mX.p):"Piezas tuyas: "+esc(mX.x))+"</span>":"";
+ var mtS=mO?(esc(mA.n)||(mtP?"":"Elige qué montar")):esc(mA&&(mA.p>0?"Te lo montamos por "+money(mA.p):mA.n||(mtP?"":"De piezas tuyas"))),mtA=mO&&mA&&mA.p>0?'<span class="czia">'+money(mA.p)+"</span>":"";
+ var mtB=!mA?"":!mO?'<button type="button" class="czi czmc" role="checkbox" aria-checked="false" id="mtB"><span class="czic"><i></i></span><span class="czit">'+czT("Montaje",{s:[mtS,mtP]})+"</span>"+mtA+"</button>":
   '<div class="czi czim"><button type="button" class="czmc on" role="checkbox" aria-checked="true" id="mtB" aria-label="Montaje"><span class="czic"><i></i></span></button>'+
-  '<button type="button" class="czmo" data-mxo aria-label="'+(Object.keys(mtX()).length?"Cambiar piezas tuyas":"Añadir piezas tuyas")+'"><span class="czit">'+czT("Montaje",{s:[mtS],r:1,a:mtA||null})+"</span>"+(mtA||'<span class="czir">'+IC.r+"</span>")+"</button></div>";
+  '<button type="button" class="czmo" data-mxo aria-label="'+(Object.keys(mtX()).length?"Cambiar piezas tuyas":"Añadir piezas tuyas")+'"><span class="czit">'+czT("Montaje",{s:[mtS,mtP],r:1,a:mtA||null})+"</span>"+(mtA||'<span class="czir">'+IC.r+"</span>")+"</button></div>";
  
 
  var adC=!COMO&&!!(M.Ship&&M.Ship.geo),has=!!(ad.p||ad.m||ad.d||gOk(ad.g)),chB=adC?'id="adCh" aria-label="'+(has?"Cambiar la dirección":"Añadir dirección")+'"':"";
