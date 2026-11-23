@@ -156,11 +156,16 @@ img.bad{opacity:0}
 .cempty h2{margin:0 0 6px;font-size:20px;color:var(--ink)}
 .cempty p{margin:0 0 20px;color:var(--mut);font-size:14.5px}
 
-.cefill{min-height:calc(100vh - 116px);min-height:calc(100svh - 116px);display:flex;flex-direction:column;justify-content:center}
-.cewrap.sg{min-height:0;padding:22px 0 8px}
-.cesug{display:grid;grid-template-columns:minmax(0,1fr);gap:22px;padding:14px 0 28px}
+.cesug{display:grid;grid-template-columns:minmax(0,1fr);gap:26px;padding:6px 0 8px}
 .cesug>*{min-width:0}
-.cesug h2{margin:0 0 10px}
+.cesug h2{margin:0 0 12px}
+.cem .box.cempty{max-width:none;padding:30px 20px 22px}
+.cem .cempty h3{margin:0 0 6px;font-family:var(--fhead);font-size:19px;letter-spacing:-.01em;color:var(--ink)}
+.cem .cempty p{margin:0 0 18px}
+@media(max-width:899px){.cem .lay2>.side{order:-1}.cem .box.cempty{padding:22px 18px 16px}.cem .cempty .ico{width:56px;height:56px;margin-bottom:12px}.cem .cempty .chips{margin-top:16px;padding-top:14px}}
+@media(min-width:900px){.cem .hrow{display:grid;overflow:visible;padding-bottom:0;gap:16px;grid-template-columns:repeat(3,minmax(0,1fr))}.cem .hrow .card{width:auto}}
+@media(min-width:900px) and (max-width:1099.98px){.cem .hrow>:nth-child(n+4){display:none}.cem section:first-child .hrow>:nth-child(-n+6){display:flex}}
+@media(min-width:1100px){.cem .hrow{grid-template-columns:repeat(4,minmax(0,1fr))}.cem .hrow>:nth-child(n+5){display:none}.cem section:first-child .hrow>:nth-child(-n+8){display:flex}}
 .cempty .chips{justify-content:center;flex-wrap:wrap;overflow:visible;padding:18px 0 0;margin-top:22px;border-top:1px solid var(--soft)}
 .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;height:46px;padding:0 18px;border-radius:10px;border:1px solid var(--bg);background:var(--bg);color:var(--on);font-weight:600;font-size:15px;white-space:nowrap}
 .btn.alt{background:var(--card);color:var(--ink);border-color:var(--bd)}
@@ -2595,8 +2600,12 @@ function cartView(){
  document.title="Cesta · "+(M.Title||"");
  if(!keep.length){var ch="",sg;cats.forEach(function(c){if(all.some(function(p){return p.Category===c.name}))ch+=chip(c.name,false,"cat",norm(c.name))});
   if(czU&&!BL&&bList().length)bLoad();sg=csSug();
-  v.innerHTML=(czU?'<div class="cartbox cz">'+czUndo()+"</div>":"")+(sg?'<div class="cefill">':"")+'<div class="cewrap'+(sg?" sg":"")+'"><div id="cX"></div><div class="box cempty"><div class="ico">'+IC.cart+'</div><h2>Tu cesta está vacía</h2><p>Añade artículos desde el catálogo y aquí verás el total.</p>'+
-   '<a class="btn" data-nav href="./">Ver el catálogo</a>'+(ch?'<div class="chips">'+ch+"</div>":"")+"</div></div>"+(sg?'<div class="cesug">'+sg+"</div></div>":"");cxHook([]);return}
+  if(!sg)v.innerHTML=(czU?'<div class="cartbox cz">'+czUndo()+"</div>":"")+'<div class="cewrap"><div id="cX"></div><div class="box cempty"><div class="ico">'+IC.cart+'</div><h2>Tu cesta está vacía</h2><p>Añade artículos desde el catálogo y aquí verás el total.</p>'+
+   '<a class="btn" data-nav href="./">Ver el catálogo</a>'+(ch?'<div class="chips">'+ch+"</div>":"")+"</div></div>";
+  else v.innerHTML='<div class="cartbox cz cem"><div class="czh"><h2>Tu cesta</h2><a class="czk" data-nav href="./">'+IC.l+"Seguir comprando</a></div>"+czUndo()+
+   '<div class="lay2"><div class="cesug">'+sg+'</div><div class="side"><div id="cX"></div><div class="box czs cempty"><div class="ico">'+IC.cart+'</div><h3>Tu cesta está vacía</h3><p>Añade artículos desde el catálogo y aquí verás el total.</p>'+
+   '<a class="btn" data-nav href="./">Ver el catálogo</a>'+(ch?'<div class="chips">'+ch+"</div>":"")+"</div></div></div></div>";
+  cxHook([]);return}
  var co="";try{co=localStorage.getItem("co")||""}catch(e){}if(cSig()!=co){tCk("con");tCk("ver")}
  if(!BL&&bList().length)bLoad();
  var R=cRules(keep),tot=0,n=0,rows="";
@@ -2766,7 +2775,7 @@ function csSug(){var gone=czU?czU.it.map(function(i){return i.productId}):[],h="
  gone.forEach(function(s){used[s]=1});
  sec("compl","Compatible con lo que elegiste",csCompl(gone));
  sec("visto","Viste hace poco",(stGet("rv")||[]).map(function(s){return bySlug[s]}).filter(Boolean).slice(0,10));
- if(!h&&BT!=1){var o=all.filter(pxOff).sort(function(a,b){return b.d-a.d}).slice(0,10);
+ if(BT!=1){var o=all.filter(pxOff).sort(function(a,b){return b.d-a.d}).slice(0,10);
   if(o.length)sec("offers","Ofertas",o);else sec("new","Novedades",all.slice().sort(function(a,b){return b.d-a.d}).slice(0,10))}
  return h}
 function cxHook(keep,info){var el=$("cX");if(!el)return;if(!(TX&&TX.c)){el.hidden=true;return}
