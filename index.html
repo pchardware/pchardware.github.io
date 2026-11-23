@@ -2398,7 +2398,7 @@ function pyTo(t,k){var R=pyRaw(),m=pyMs(t,R),cur=m.o[k]?pyU(k,m.o[k])||0:0,a,m2;
 function pyPt(k,a,full){var f=pyF(k),u;
  if(k=="cup"){u=pyU(k,a);return pyN(a)+" CUP"+(full?" en efectivo ("+(u?"tasa "+Math.round(a/u):"tasa por confirmar")+")":"")}
  if(k=="eur")return pyN(a)+" EUR"+(full?" en efectivo":"");
- if(k=="usd")return"$"+pyN(a)+(full?" USD en efectivo":" efectivo");
+ if(k=="usd")return full?"$"+pyN(a)+" USD en efectivo":pyN(a)+" USD";    
  return"$"+pyN(a)+" "+PYN[k]+(full&&f?" (recargo "+f+" %)":"")}
 function pyMt(m,full){return Object.keys(m.o).map(function(k){return pyPt(k,m.o[k],full)}).join(" + ")}
  
