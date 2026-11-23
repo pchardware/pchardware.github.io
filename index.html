@@ -1345,7 +1345,10 @@ function etLate(){return etNow()>=1185}
 function etSel(){var o=null;try{o=JSON.parse(OS.getItem("eta2")||"null")}catch(e){}o=o&&typeof o=="object"?o:{};
  var d=0;if(o.f){var x=new Date(o.f+"T12:00:00");d=Math.round((x-etDay(0))/864e5);if(!(d>=0))o={},d=0}
  var k=["b","a","e"].indexOf(o.k)>=0?o.k:"",a=+o.a,b=+o.b;
- if(!d&&k&&(etLate()||k!="a"&&isFinite(b)&&b<=etNow()))return{d:0,k:"",a:null,b:null,x:null};
+ 
+
+ if(!d&&k&&(etLate()||k!="a"&&isFinite(b)&&b<=etNow()))return{d:etLate()?1:0,k:"",a:null,b:null,x:null};
+ if(!d&&etLate())d=1;
  var x=o.x&&typeof o.x=="object"&&["b","a","e"].indexOf(o.x.k)>=0?o.x:null,X=null;
  if(x){var xa=+x.a,xb=+x.b;X={k:x.k,a:x.k=="a"||x.k=="e"?(isFinite(xa)?xa:1080):null,b:x.k=="b"||x.k=="e"?(isFinite(xb)?xb:1200):null}}
  return{d:isFinite(d)?Math.min(d,13):0,k:k,a:k=="a"||k=="e"?(isFinite(a)?a:720):null,b:k=="b"||k=="e"?(isFinite(b)?b:840):null,x:X}}
