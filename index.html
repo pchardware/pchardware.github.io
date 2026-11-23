@@ -2340,7 +2340,7 @@ function pyR(k){return k=="cup"?!!PYR:k=="eur"?!!(PYR&&PYR.e):true}
 
 function pyCupL(){var L=M.Pay.cupl;return L&&L.length==2?L:[50,200]}
 function pyEst(n){var g=0;if(PYR.d)g=Math.max(0,Math.round((etDay(0)-new Date(PYR.d+"T12:00:00"))/864e5)||0);
- return Math.round(Math.max(PYR.u,PYR.u+(PYR.s||0)*(n+g)))}
+ return Math.ceil(Math.max(PYR.u,PYR.u+(PYR.s||0)*(n+g))/5-1e-9)*5}    
 
 
 var PYB=[1,5,10,20,50,100,200,500,1000,5000,10000,20000];
