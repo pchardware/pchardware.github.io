@@ -321,6 +321,7 @@ button.czmc{cursor:pointer}.czim{padding:0;gap:12px}
 .stk svg{width:14px;height:14px;margin:0;stroke-width:1.9}.stk b{color:var(--ink);font-weight:700}
 .stk:hover{border-color:var(--bd);color:var(--ink)}.stk.on{background:var(--soft);border-color:var(--soft)}
 .stk.no,.stk.no b{color:var(--hot);border-color:var(--hotbg);background:var(--hotbg)}
+.stk b.ob{color:#8b5cf6}
 .tot{display:flex;justify-content:space-between;font-size:20px;font-weight:700;padding:16px 0 0;border-top:1px solid var(--line);margin-top:4px;font-variant-numeric:tabular-nums}
 footer{background:var(--ft);color:var(--fton);margin-top:32px;padding:28px 0 88px;font-size:13.5px}
 .fcols{display:grid;gap:16px;margin-bottom:22px}
@@ -1679,9 +1680,11 @@ function txGet(){if(COMO)return;if(txL||!AC||!AC.t||!M.Auth||!M.Auth.url)return;
   if(!c){txL=0;return}TX=new Function("X",c)({M:M,ac:function(){return AC},$:$,esc:esc,go:go,desc:descPaint,url:M.Auth.url,buy:1,como:1,slug:toSlug,hero:{go:heroGo,st:HR,kick:heroKick},season:{list:seList,key:seKey,look:seTry}});route(true)}).catch(function(){txL=0})}
 function qMax(s){return STK&&STK.q&&STK.q[s]!=null?STK.q[s]:99}
  
-function stkBtn(s,q,sm){if(!STK||!STK.q||STK.q[s]==null)return"";var n=STK.q[s],no=q>n,on=no||STKv[s];
+function stkBtn(s,q,sm){if(!STK||!STK.q||STK.q[s]==null)return"";var n=STK.q[s],no=q>n,on=no||STKv[s],u=STK.u&&STK.u[s],v;
+  
+ if(!u)v="<b>"+n+"</b>";else v=(u[0]>0?"<b>"+u[0]+"</b>"+(sm?"":" ·"):"")+'<b class="ob">'+(sm&&u[0]>0?"+":"")+u[1]+(sm?"":" OpenBox")+"</b>";
  return'<button type="button" class="stk'+(on?" on":"")+(no?" no":"")+'" data-stk="'+esc(s)+'" data-sq="'+(q||0)+'"'+(sm?' data-sm="1"':"")+
-  ' aria-label="Existencias">'+IC_BOX+(sm?"":"Existencias")+(on?(sm?"<b>":" <b>")+n+"</b>":"")+"</button>"}
+  ' aria-label="Existencias">'+IC_BOX+(sm?"":"Existencias")+(on?(sm?"":" ")+v:"")+"</button>"}
 document.addEventListener("click",function(e){var t=e.target.closest("[data-stk]");if(!t)return;e.preventDefault();e.stopPropagation();
  var s=t.getAttribute("data-stk");STKv[s]=!STKv[s];t.outerHTML=stkBtn(s,+t.getAttribute("data-sq")||0,t.hasAttribute("data-sm"))},true);
 function ymd(d){return d.getFullYear()+"-"+("0"+(d.getMonth()+1)).slice(-2)+"-"+("0"+d.getDate()).slice(-2)}
