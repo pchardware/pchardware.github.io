@@ -1423,11 +1423,14 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=fa
   if(mn&&s.k&&((s.k!="a"&&s.b<mn)||(s.k!="b"&&s.a<mn))){if(s.k=="b")s.b=LX&&LX.d==s.d&&LX.x!=null?Math.max(mn,LX.x):mn;
    else{s.a=Math.max(s.a,mn);if(s.k=="e"&&s.b<=s.a)s.b=Math.min(HI,s.a+60)}etSave(s);if(!tch)snap=etRw();E=etHave(ad);L=E&&E.lim}
    
+  
+
+  var TB=L&&L.a!=null?L.a:HI,TC=Math.max(TB,s.k=="e"?s.a+15:Math.max(LO+15,mn));if(s.k&&s.k!="a"&&s.b>TC){s.b=TC;etSave(s);if(!tch)snap=etRw();E=etHave(ad);L=E&&E.lim}
   var X=LX&&LX.d==s.d?(LX.x==null?1e9:LX.x):null;  for(i=etLate()?1:0;i<7;i++){var nm=etDn(i).replace(/^el /,"");days+='<option value="'+i+'"'+(i==s.d?" selected":"")+">"+nm.charAt(0).toUpperCase()+nm.slice(1)+"</option>"}
   var K=[["","Lo antes posible"],["b","Antes de"],["a","Después de"],["e","Entre"]].map(function(x){return'<button type="button" data-k="'+x[0]+'" class="'+(s.k==x[0]?"on":"")+'" aria-pressed="'+(s.k==x[0])+'">'+x[1]+"</button>"}).join("");
-  var T=s.k=="b"?'<div class="ettm"><select data-t="b" aria-label="Antes de">'+tOpt(s.b,Math.max(LO+15,mn),HI,"b",L,X)+"</select></div>":
+  var T=s.k=="b"?'<div class="ettm"><select data-t="b" aria-label="Antes de">'+tOpt(s.b,Math.max(LO+15,mn),Math.max(TB,LO+15,mn),"b",L,X)+"</select></div>":
    s.k=="a"?'<div class="ettm"><select data-t="a" aria-label="Después de">'+tOpt(s.a,Math.max(LO,mn),HI-15,"a",L)+"</select></div>":
-   s.k=="e"?'<div class="ettm"><select data-t="a" aria-label="Desde">'+tOpt(s.a,Math.max(LO,mn),HI-15,"a",L)+'</select><span>y</span><select data-t="b" aria-label="Hasta">'+tOpt(s.b,s.a+15,HI,"h",L,s.a+ET_MIN)+"</select></div>":"";
+   s.k=="e"?'<div class="ettm"><select data-t="a" aria-label="Desde">'+tOpt(s.a,Math.max(LO,mn),HI-15,"a",L)+'</select><span>y</span><select data-t="b" aria-label="Hasta">'+tOpt(s.b,s.a+15,Math.max(TB,s.a+15),"h",L,s.a+ET_MIN)+"</select></div>":"";
   var eQ=etAsk(s);eQ=eQ.charAt(0).toUpperCase()+eQ.slice(1);
   var R=E===undefined?'<p class="etr etw">Calculando…</p>':
    etDif(E,s)?'<p class="etr etd">'+IC.wa+"<span>"+(!s.k?"Puede llegar <b>"+esc(etTxt(E.r))+"</b> si lo coordinamos contigo.":"<b>"+esc(eQ)+"</b>: "+(etNar(s)?"una franja tan corta la":"ese horario lo")+" coordinamos contigo.")+
