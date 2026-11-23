@@ -545,7 +545,7 @@ footer p{margin:0 0 6px;opacity:.7}
 .etk{display:grid;grid-template-columns:1.3fr 1fr 1fr 1fr;gap:4px;padding:4px;border-radius:12px;background:var(--soft)}
 .etk button{min-height:38px;padding:2px 4px;line-height:1.15;border:0;border-radius:9px;background:none;color:var(--mut);font-size:13.5px;font-weight:600;cursor:pointer}
 .etk button.on{background:var(--card);color:var(--ink);box-shadow:0 1px 3px rgba(0,0,0,.12)}
-.ettm{display:flex;align-items:center;gap:8px;margin-top:8px}.ettm>select,.ettm>.nsel{flex:1;min-width:0}.ettm>span{color:var(--mut);font-size:14px}
+.ettm{display:flex;align-items:center;gap:8px;margin-top:8px}.etpr{flex:1;display:flex;align-items:center;gap:4px;min-width:0}.etpr>.nsel{flex:1;min-width:0;padding:0 8px}.etpr>i{font-style:normal;color:var(--mut);font-size:14px}.ettm>select,.ettm>.nsel{flex:1;min-width:0}.ettm>span{color:var(--mut);font-size:14px}
 .etr{display:flex;align-items:flex-start;gap:9px;margin:4px 0 12px;padding:10px 12px;border-radius:11px;background:var(--soft);font-size:14px;line-height:1.35;color:var(--ink2)}
 .etr svg{width:17px;height:17px;flex:none;margin-top:1px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
 .etr b{color:var(--ink);font-weight:600}.etr.etw{color:var(--mut)}.etr.etd{background:rgba(247,144,9,.13);color:var(--ink)}.etr.etd svg{color:#dc6803}.etr.etd a{color:inherit;font-weight:600;text-decoration:underline}
@@ -1417,6 +1417,18 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=fa
 
  function tOpt(v,lo,hi,t,L,X){var h="";for(var m=lo;m<=hi;m+=15){var n=L&&(t=="b"||t=="h"?m<L.b:m>L.a)||t=="h"&&L&&m>L.a+15||t!="a"&&X!=null&&m<X?ET_TAG:"";
   h+='<option value="'+m+'"'+(m==v?" selected":"")+(n?' data-n="'+n+'"':"")+">"+etHm(m)+"</option>"}return h}
+ 
+
+
+ function tSel(dt,lb,v,lo,hi,t,L,X){var H={},hs=[],o=document.createElement("div");o.innerHTML="<select>"+tOpt(v,lo,hi,t,L,X)+"</select>";
+  [].forEach.call(o.firstChild.options,function(p){var m=+p.value,h=Math.floor(m/60);if(!H[h]){H[h]=[];hs.push(h)}H[h].push([m,p.getAttribute("data-n")])});
+  if(!hs.length)return"";var ch=Math.floor(v/60);if(!H[ch])ch=v<lo?hs[0]:hs[hs.length-1];
+  function q(n){return n?' data-n="'+n+'"':""}
+  var hh="",g=null;hs.forEach(function(h){var gg=h<12?"AM":"PM",M=H[h],b=M[0];if(gg!=g){hh+=(g?"</optgroup>":"")+'<optgroup label="'+gg+'">';g=gg}
+   M.forEach(function(x){if(Math.abs(x[0]%60-v%60)<Math.abs(b[0]%60-v%60))b=x});
+   hh+='<option value="'+(h==ch?v:b[0])+'"'+(h==ch?" selected":"")+q(M.every(function(x){return x[1]})?ET_TAG:"")+">"+(h%12||12)+"</option>"});
+  var mm=H[ch].map(function(x){var i=x[0]%60;return'<option value="'+x[0]+'"'+(x[0]==v?" selected":"")+q(x[1])+">"+(i<10?"0":"")+i+"</option>"}).join("");
+  return'<div class="etpr"><select data-t="'+dt+'" aria-label="'+lb+'">'+hh+'</optgroup></select><i>:</i><select data-t="'+dt+'" aria-label="'+lb+', minutos">'+mm+"</select><i>"+(ch<12?"AM":"PM")+"</i></div>"}
  function draw(){var s=etSel(),E=etHave(ad),L=E&&E.lim,days="",i,LO=480,HI=1200;
    
   if(E){LH=E.h;LX={d:s.d,x:E.x}}var mn=!s.d&&LH!=null&&LH<=HI-15?LH:0;
@@ -1428,9 +1440,9 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=fa
   var TB=L&&L.a!=null?L.a:HI,TC=Math.max(TB,s.k=="e"?s.a+15:Math.max(LO+15,mn));if(s.k&&s.k!="a"&&s.b>TC){s.b=TC;etSave(s);if(!tch)snap=etRw();E=etHave(ad);L=E&&E.lim}
   var X=LX&&LX.d==s.d?(LX.x==null?1e9:LX.x):null;  for(i=etLate()?1:0;i<7;i++){var nm=etDn(i).replace(/^el /,"");days+='<option value="'+i+'"'+(i==s.d?" selected":"")+">"+nm.charAt(0).toUpperCase()+nm.slice(1)+"</option>"}
   var K=[["","Lo antes posible"],["b","Antes de"],["a","Después de"],["e","Entre"]].map(function(x){return'<button type="button" data-k="'+x[0]+'" class="'+(s.k==x[0]?"on":"")+'" aria-pressed="'+(s.k==x[0])+'">'+x[1]+"</button>"}).join("");
-  var T=s.k=="b"?'<div class="ettm"><select data-t="b" aria-label="Antes de">'+tOpt(s.b,Math.max(LO+15,mn),Math.max(TB,LO+15,mn),"b",L,X)+"</select></div>":
-   s.k=="a"?'<div class="ettm"><select data-t="a" aria-label="Después de">'+tOpt(s.a,Math.max(LO,mn),HI-15,"a",L)+"</select></div>":
-   s.k=="e"?'<div class="ettm"><select data-t="a" aria-label="Desde">'+tOpt(s.a,Math.max(LO,mn),HI-15,"a",L)+'</select><span>y</span><select data-t="b" aria-label="Hasta">'+tOpt(s.b,s.a+15,Math.max(TB,s.a+15),"h",L,s.a+ET_MIN)+"</select></div>":"";
+  var T=s.k=="b"?'<div class="ettm">'+tSel("b","Antes de",s.b,Math.max(LO+15,mn),Math.max(TB,LO+15,mn),"b",L,X)+"</div>":
+   s.k=="a"?'<div class="ettm">'+tSel("a","Después de",s.a,Math.max(LO,mn),HI-15,"a",L)+"</div>":
+   s.k=="e"?'<div class="ettm">'+tSel("a","Desde",s.a,Math.max(LO,mn),HI-15,"a",L)+'<span>y</span>'+tSel("b","Hasta",s.b,s.a+15,Math.max(TB,s.a+15),"h",L,s.a+ET_MIN)+"</div>":"";
   var eQ=etAsk(s);eQ=eQ.charAt(0).toUpperCase()+eQ.slice(1);
   var R=E===undefined?'<p class="etr etw">Calculando…</p>':
    etDif(E,s)?'<p class="etr etd">'+IC.wa+"<span>"+(!s.k?"Puede llegar <b>"+esc(etTxt(E.r))+"</b> si lo coordinamos contigo.":"<b>"+esc(eQ)+"</b>: "+(etNar(s)?"una franja tan corta la":"ese horario lo")+" coordinamos contigo.")+
@@ -1442,9 +1454,9 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=fa
    
   if(s.k&&!xs)XA='<button type="button" class="czch etxa" data-x="1">¿A otra hora estás en otra dirección?</button>';
   else if(s.k){var K2=[["b","Antes de"],["a","Después de"],["e","Entre"]].map(function(x){return'<button type="button" data-k2="'+x[0]+'" class="'+(xs.k==x[0]?"on":"")+'" aria-pressed="'+(xs.k==x[0])+'">'+x[1]+"</button>"}).join("");
-   var T2=xs.k=="b"?'<div class="ettm"><select data-t="xb" aria-label="Antes de">'+tOpt(xs.b,LO+15,HI,"b",null)+"</select></div>":
-    xs.k=="a"?'<div class="ettm"><select data-t="xa" aria-label="Después de">'+tOpt(xs.a,LO,HI-15,"a",null)+"</select></div>":
-    '<div class="ettm"><select data-t="xa" aria-label="Desde">'+tOpt(xs.a,LO,HI-15,"a",null)+'</select><span>y</span><select data-t="xb" aria-label="Hasta">'+tOpt(xs.b,xs.a+15,HI,"b",null)+"</select></div>";
+   var T2=xs.k=="b"?'<div class="ettm">'+tSel("xb","Antes de",xs.b,LO+15,HI,"b",null)+"</div>":
+    xs.k=="a"?'<div class="ettm">'+tSel("xa","Después de",xs.a,LO,HI-15,"a",null)+"</div>":
+    '<div class="ettm">'+tSel("xa","Desde",xs.a,LO,HI-15,"a",null)+'<span>y</span>'+tSel("xb","Hasta",xs.b,xs.a+15,HI,"b",null)+"</div>";
    XB='<div class="etx"><div class="etxh"><small>Si no, en otra dirección</small><button type="button" class="etxq" data-x="0" aria-label="Quitar la otra dirección" title="Quitar">'+IC.x+"</button></div>"+
     '<div class="etk">'+K2+"</div>"+T2+(xb?'<div class="etxd">'+IC.pin+'<span class="adpt"><b>'+esc(adNm(xb))+"</b>"+(xb.d?"<small>"+esc(xb.d)+"</small>":"")+
     '<button type="button" class="czch" data-xa>Cambiar</button></span></div>':'<button type="button" class="czch" data-xa>Añadir la otra dirección</button>')+"</div>";
