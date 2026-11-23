@@ -723,6 +723,8 @@ button.sv{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
 .nsls button{display:flex;align-items:center;gap:10px;width:100%;min-height:48px;padding:0 16px;border:0;background:none;text-align:left;font:inherit;font-size:16px;color:var(--ink);cursor:pointer;-webkit-tap-highlight-color:transparent}
 .nsls button>span{flex:1;min-width:0}.nsls button small{margin-left:8px;font-size:12.5px;font-weight:400;color:var(--mut);opacity:.8}.nsls button.on{background:var(--soft);font-weight:600}.nsls button:disabled{opacity:.4;cursor:default}
 .nsls button svg{width:16px;height:16px;flex:none;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.nsic{display:inline-flex;flex:none;color:var(--mut)}.nsel>span .nsic{vertical-align:-3px;margin-right:8px}.nsls button .nsic{margin-right:10px;vertical-align:-3px}
+.nsel .nsic svg,.nsls button .nsic svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}.nsel .nsic svg.fl,.nsls button .nsic svg.fl{fill:currentColor;stroke:none}
 
 #intro{display:none}
 @media(display-mode:standalone),(display-mode:window-controls-overlay){#intro{position:fixed;inset:0;z-index:99;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:18px;padding:24px;background:var(--ibg);color:var(--ion);transition:opacity .35s ease}}
@@ -1275,6 +1277,7 @@ function shNote(p){if(!p||!M.Ship||!M.Ship.prov||!Object.keys(M.Ship.prov).lengt
 
 IC.rcp='<svg viewBox="0 0 24 24"><path d="M6 3h12v18l-3-2-3 2-3-2-3 2z"/><path d="M9 8h6M9 12h6M9 16h3"/></svg>';
 IC.bag='<svg viewBox="0 0 24 24"><path d="M6 8h12l-1 12H7z"/><path d="M9 8a3 3 0 0 1 6 0"/></svg>';
+IC.tag='<svg viewBox="0 0 24 24"><path d="M3 12V4h8l10 10-8 8z"/><circle cx="7.5" cy="8.5" r="1.5"/></svg>';
 var BUYM=["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],BUYT={};
 function buyDay(s){var p=String(s||"").split("-");return +p[2]+" de "+BUYM[+p[1]-1]+(+p[0]!=new Date().getFullYear()?" de "+p[0]:"")}
 var BUYS={envio:'<path d="M14 18V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v11a1 1 0 0 0 1 1h2"/><path d="M15 18H9"/><path d="M19 18h2a1 1 0 0 0 1-1v-3.65a1 1 0 0 0-.22-.624l-3.48-4.35A1 1 0 0 0 17.52 8H14"/><circle cx="17" cy="18" r="2"/><circle cx="7" cy="18" r="2"/>',montaje:'<path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/>'};
@@ -2421,6 +2424,13 @@ function pyQ(k,t){var f=pyF(k),R=PYR,v,x,T,i,p=0;
  v=f?Math.ceil(t*(1+f/100)):t;return{a:money(v),s:f?"Recargo "+f+" %":"",w:"$"+pyN(v)+" USD"+(f?" (recargo "+f+" %)":"")}}
 function pyRad(k,t,on,at){var q=pyQ(k,t);
  return'<button type="button" role="radio" aria-checked="'+on+'" '+at+'="'+k+'"'+(on?' class="on"':"")+"><i></i><span>"+esc(PYN[k])+(q.s?"<small>"+esc(q.s)+"</small>":"")+"</span><b"+(q.q?' class="czq"':"")+">"+esc(q.a)+"</b></button>"}
+ 
+function pyRows(t){if(!pyOn())return null;var k=pySel(),f=pyF(k),R=PYR,x,p,v,o=[],m,j;
+ if(k=="mix"){m=pyMs(t);for(j in m.o){x=j=="cup"?pyU(j,m.o[j]):null;o.push({k:j,a:m.o[j],x:x?Math.round(m.o[j]/x):null})}return o}
+ if(k=="otra")return[{k:k,a:null}];if(k=="usd")return[{k:k,a:t}];
+ if(k=="cup"){x=pyCupX(t);if(!x)return[{k:k,a:null}];p=pyBill(x);return[{k:k,a:Math.max(p,Math.round(t*x/p)*p),x:x}]}
+ if(k=="eur")return[{k:k,a:R&&R.e?Math.ceil(t*R.u*(1+f/100)/R.e/5-1e-6)*5:null}];
+ v=f?Math.ceil(t*(1+f/100)):t;return[{k:k,a:v}]}
 function pyBox(t){if(!pyOn())return"";var K=pyKeys(),p0=K[0],k0=pySel(),alt=k0!=p0,q,m,lb,sm="",am="",cl="";
  if(k0=="mix"){m=pyMs(t);lb="Pago combinado";sm=pyMt(m)||"Sin montos todavía";
   if(!m.n&&m.r>0){am="Falta "+money(m.r);cl="pyf"}else if(!m.n&&m.r<0&&pyVu(-m.r))am="Te devolvemos "+pyVu(-m.r)}
@@ -2579,6 +2589,8 @@ function cartView(){
  var tr=M.CartPayMethod&&!pyOn()?"<div>"+IC.cash+"<span><b>Forma de pago</b><span>"+tx(M.CartPayMethod)+"</span></span></div>":"";
  var mO=mtOn(),mA=mtOf(keep,!mO);mO=!!mA&&mO;var mS=mO&&mA.p>0?mA:null;    
  var pk=dlOff()&&dlPk(),D=pk||COMO?null:etDest(),ad=D?D.a:adGet(),sh=pk?null:shOf(tot,ad),gq=gOk(ad.g)?ptHave(ad.g):undefined,gt=tot+(sh?sh.p:0)+(mS?mS.p:0);
+  
+ var dc=TX&&TX.dc?Math.max(0,+TX.dc()||0):null;if(dc)gt=Math.max(0,gt-dc);
  
 
 
@@ -2627,11 +2639,13 @@ function cartView(){
    sh?czI({i:IC.truck,t:(dlB?"":"Envío · ")+esc(sh.n)+(sh.v>1?" · "+sh.v+" viajes":""),s:[ad.d?esc(ad.d):gOk(ad.g)?"Punto marcado en el mapa":"",esc(dn)],a:sh.p?money(sh.p):"Gratis",ac:sh.p?"":"czg",r:adC,b:chB,c:dlB?"czin":""}):
    adC?czI({i:IC.truck,t:dlB?"Dirección de envío":"Envío",s:[esc([ad.m,ad.d].filter(Boolean).join(" · ")),esc(dn)],a:gOk(ad.g)&&ptHave(ad.g)===undefined?"…":"Se acuerda",ac:"czq",r:1,b:chB,c:dlB?"czin":""}):
    dn?'<p class="sv czd">'+IC.truck+esc(dn)+"</p>":"")+etB+
+  (dc!=null?czI({i:IC.tag,t:"Descuento",a:dc?"−"+money(dc):null,r:1,b:'data-vdc aria-label="Descuento"'}):"")+
   '<div class="czo"><span>Total</span><span>'+usd(gt)+"</span></div>"+pyBox(gt)+
   '<button class="btn wa" id="order">'+IC.wa+'Enviar el pedido</button>'+(AC?"":accNote("tu cesta"))+"</div>"+    
   '<div id="cX"></div>'+(tr?'<div class="box trust">'+tr+"</div>":"")+"</div></div>"+
   '<div class="czbar"><div><small>Total</small><b>'+money(gt)+'</b></div><button class="btn wa" id="orderB">'+IC.wa+"Enviar el pedido</button></div></div>";
- v.innerHTML=h;cxHook(keep);if(pyOn()){pyRate(function(){if(!$("vCart").hidden)cartView()});[].forEach.call(v.querySelectorAll("[data-py]"),function(b){b.onclick=function(){pySet(b.getAttribute("data-py"));cartView()}});[].forEach.call(v.querySelectorAll("[data-pyo]"),function(b){b.onclick=function(){pySheet(gt)}})}if($("adCh"))$("adCh").onclick=function(){adSheet(D&&D.i?1:0)};
+ v.innerHTML=h;cxHook(keep,{sub:tot,total:gt,disc:dc||0,pick:!!pk,mount:mS?{p:mS.p,n:mA.n||""}:null,
+  ship:pk||!(sh||adC)?null:{p:sh?sh.p:null,n:sh?sh.n:"",v:sh?sh.v:1,prov:ad.p||"",mun:ad.m||"",dir:ad.d||""},pay:TX&&TX.c?pyRows(gt):null});if(pyOn()){pyRate(function(){if(!$("vCart").hidden)cartView()});[].forEach.call(v.querySelectorAll("[data-py]"),function(b){b.onclick=function(){pySet(b.getAttribute("data-py"));cartView()}});[].forEach.call(v.querySelectorAll("[data-pyo]"),function(b){b.onclick=function(){pySheet(gt)}})}if($("adCh"))$("adCh").onclick=function(){adSheet(D&&D.i?1:0)};
  if($("etCh"))$("etCh").onclick=function(){etSheet(adGet())};
  if($("mtB"))$("mtB").onclick=function(){mtSet(!mtOn());cartView()};
  [].forEach.call(v.querySelectorAll("[data-mxo]"),function(b){b.onclick=mtSheet});
@@ -2683,9 +2697,9 @@ function wDialog(items,go){var s=wSum(items),mn=mtNotes(items),wk=wKey(items);if
  ov.onclick=function(ev){if(ev.target.closest&&ev.target.closest(".wdok")){wOk=wk;close();go()}else if(ev.target===ov||ev.target.closest&&ev.target.closest(".adcl"))close()};
  document.addEventListener("keydown",key,true);document.body.appendChild(ov);document.body.classList.add("adon")}
  
-function cxHook(keep){var el=$("cX");if(!el)return;if(!(TX&&TX.c)){el.hidden=true;return}
+function cxHook(keep,info){var el=$("cX");if(!el)return;if(!(TX&&TX.c)){el.hidden=true;return}
  TX.c(keep.map(function(i){var p=bySlug[i.productId];return{slug:p.slug,label:p.Label,qty:parseInt(i.qty,10)||0,price:p.Price}}),el,
-  {clear:function(){cartEmpty();cartView()},money:money})}
+  {clear:function(){cartEmpty();cartView()},money:money,view:cartView,info:info||{}})}
  
 var czU=null,czIO=null;
 function czSave(s){var p=s&&bySlug[s];czU={it:getCart().items.map(function(i){return{productId:i.productId,qty:i.qty}}),t:p?"Quitaste «"+p.Label+"»":"Vaciaste la cesta"}}
@@ -3007,13 +3021,18 @@ load();
 var VAL=Object.getOwnPropertyDescriptor(HTMLSelectElement.prototype,"value"),IDX=Object.getOwnPropertyDescriptor(HTMLSelectElement.prototype,"selectedIndex"),
  ARR='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>',OK='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>',
  E=function(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})},
+  
+ ICO = { user: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>',
+    account: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 7V4a1 1 0 0 0-1-1H5a2 2 0 0 0 0 4h15a1 1 0 0 1 1 1v4h-3a2 2 0 0 0 0 4h3a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1"/><path d="M3 5v14a2 2 0 0 0 2 2h15a1 1 0 0 0 1-1v-4"/></svg>',
+    cash: '<svg class="fl" viewBox="0 -960 960 960" aria-hidden="true"><path d="M260-630q-25 0-42.5-17.5T200-690v-130q0-25 17.5-42.5T260-880h440q25 0 42.5 17.5T760-820v130q0 25-17.5 42.5T700-630H260Zm30-60h380q13 0 21.5-8.5T700-720v-70q0-13-8.5-21.5T670-820H290q-13 0-21.5 8.5T260-790v70q0 13 8.5 21.5T290-690ZM140-80q-25 0-42.5-17.5T80-140v-70h800v70q0 25-17.5 42.5T820-80H140ZM80-240l145-324q8-16 22.5-26t31.5-10h402q17 0 31.5 10t22.5 26l145 324H80Zm260-80h40q8 0 14-6t6-14q0-8-6-14t-14-6h-40q-8 0-14 6t-6 14q0 8 6 14t14 6Zm0-80h40q8 0 14-6t6-14q0-8-6-14t-14-6h-40q-8 0-14 6t-6 14q0 8 6 14t14 6Zm0-80h40q8 0 14-6t6-14q0-8-6-14t-14-6h-40q-8 0-14 6t-6 14q0 8 6 14t14 6Zm120 160h40q8 0 14-6t6-14q0-8-6-14t-14-6h-40q-8 0-14 6t-6 14q0 8 6 14t14 6Zm0-80h40q8 0 14-6t6-14q0-8-6-14t-14-6h-40q-8 0-14 6t-6 14q0 8 6 14t14 6Zm0-80h40q8 0 14-6t6-14q0-8-6-14t-14-6h-40q-8 0-14 6t-6 14q0 8 6 14t14 6Zm120 160h40q8 0 14-6t6-14q0-8-6-14t-14-6h-40q-8 0-14 6t-6 14q0 8 6 14t14 6Zm0-80h40q8 0 14-6t6-14q0-8-6-14t-14-6h-40q-8 0-14 6t-6 14q0 8 6 14t14 6Zm0-80h40q8 0 14-6t6-14q0-8-6-14t-14-6h-40q-8 0-14 6t-6 14q0 8 6 14t14 6Z"/></svg>' },
+ IC=function(o){var k=o&&o.getAttribute&&o.getAttribute("data-icon");return k&&ICO[k]?'<i class="nsic">'+ICO[k]+"</i>":""},
  isPh=function(o){return o&&o.disabled&&o.value===""};
 function lab(s){if(s.id){var f=document.querySelector('label[for="'+s.id+'"]');if(f)return f}return s.closest("label")}
 function title(s){if(s.getAttribute("aria-label"))return s.getAttribute("aria-label");var l=lab(s),sp=l&&(l.querySelector(":scope>span")||l);return sp?sp.textContent:(s.title||"")}
-function paint(s){var b=s._nsel;if(!b||!b.firstChild)return;var o=s.options[IDX.get.call(s)];b.firstChild.textContent=o?o.text:"—";b.firstChild.className=!o||isPh(o)||o.value===""?"ph":"";b.disabled=s.disabled}
+function paint(s){var b=s._nsel;if(!b||!b.firstChild)return;var o=s.options[IDX.get.call(s)];b.firstChild.innerHTML=(o&&!isPh(o)?IC(o):"")+E(o?o.text:"—");b.firstChild.className=!o||isPh(o)||o.value===""?"ph":"";b.disabled=s.disabled}
 function open(s){var b=s._nsel,cur=VAL.get.call(s),wide=matchMedia("(min-width: 600px) and (pointer: fine)").matches,h="",t=title(s),opts=[];
  [].forEach.call(s.children,function(c){var add=function(o){if(isPh(o))return;opts.push(o);var on=o.value===cur&&o.selected;
-   h+='<button type="button" role="option" data-i="'+(opts.length-1)+'"'+(on?' class="on" aria-selected="true"':"")+(o.disabled&&!on?" disabled":"")+"><span>"+E(o.text)+(o.getAttribute("data-n")?"<small>"+E(o.getAttribute("data-n"))+"</small>":"")+"</span>"+(on?OK:"")+"</button>"};
+   h+='<button type="button" role="option" data-i="'+(opts.length-1)+'"'+(on?' class="on" aria-selected="true"':"")+(o.disabled&&!on?" disabled":"")+"><span>"+IC(o)+E(o.text)+(o.getAttribute("data-n")?"<small>"+E(o.getAttribute("data-n"))+"</small>":"")+"</span>"+(on?OK:"")+"</button>"};
   if(c.tagName=="OPTGROUP"){var ch=[].filter.call(c.children,function(o){return!isPh(o)});if(ch.length){h+='<div class="gh">'+E(c.label)+"</div>";ch.forEach(add)}}else if(c.tagName=="OPTION")add(c)});
  var ov=document.createElement("div");ov.className="nsov"+(wide?" w":"");
  ov.innerHTML='<div class="nsls" role="listbox"'+(t?' aria-label="'+E(t)+'"':"")+'><div class="hd"></div>'+(t?'<div class="tt">'+E(t)+"</div>":"")+h+"</div>";
