@@ -283,6 +283,7 @@ button.czi{cursor:pointer}.czi.czi0,.czi.czin{border-top:0}.czi.czin{min-height:
 .czit small{display:block;margin-top:2px;font-size:12.5px;font-weight:400;color:var(--mut)}
 .czia{flex:none;font-weight:600;white-space:nowrap;font-variant-numeric:tabular-nums;text-align:right}
 .czia.czg{color:var(--ok)}.czia.czq{font-weight:500;color:var(--mut)}
+.czia.czoff{font-weight:400;color:var(--mut);opacity:.75}.czmc:not(.on) .czit b{font-weight:500;color:var(--ink2)}
 .czir{flex:none;display:flex;align-items:center;justify-content:center;width:18px;margin-left:-4px;color:var(--mut)}
 .czir svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
 .czir.czr1{display:inline-flex;width:auto;margin:0 0 0 3px;vertical-align:-3px}
@@ -2425,7 +2426,7 @@ function cartView(){
  function czI(o){var tg=o.b?"button":"div";return"<"+tg+' class="czi'+(o.c?" "+o.c:"")+'"'+(o.b?' type="button" '+o.b:"")+'><span class="czic">'+(o.i||"")+'</span><span class="czit">'+czT(o.t,o)+"</span>"+
   (o.a!=null?'<span class="czia'+(o.ac?" "+o.ac:"")+'">'+o.a+"</span>":o.r?'<span class="czir">'+IC.r+"</span>":"")+"</"+tg+">"}
   
- var mtS=esc(mO?mtTxt(mA)||"Elige qué montar":mA&&(mA.n||"De piezas tuyas")),mtA=mA&&mA.p>0?'<span class="czia">'+money(mA.p)+"</span>":"";
+ var mtS=esc(mO?mtTxt(mA)||"Elige qué montar":mA&&(mA.n||"De piezas tuyas")),mtA=mA&&mA.p>0?'<span class="czia'+(mO?"":" czoff")+'">'+money(mA.p)+"</span>":"";    
  var mtB=!mA?"":!mO?'<button type="button" class="czi czmc" role="checkbox" aria-checked="false" id="mtB"><span class="czic"><i></i></span><span class="czit">'+czT("Montaje",{s:[mtS]})+"</span>"+mtA+"</button>":
   '<div class="czi czim"><button type="button" class="czmc on" role="checkbox" aria-checked="true" id="mtB" aria-label="Montaje"><span class="czic"><i></i></span></button>'+
   '<button type="button" class="czmo" data-mxo aria-label="'+(Object.keys(mtX()).length?"Cambiar piezas tuyas":"Añadir piezas tuyas")+'"><span class="czit">'+czT("Montaje",{s:[mtS],r:1,a:mtA||null})+"</span>"+(mtA||'<span class="czir">'+IC.r+"</span>")+"</button></div>";
