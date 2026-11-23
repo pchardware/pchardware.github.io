@@ -2312,7 +2312,7 @@ function pyN(n){return n.toLocaleString("en-US",{maximumFractionDigits:2})}
  
 function pyQ(k,t){var f=pyF(k),R=PYR,v,x,T,i,p=0;
   
- if(k=="otra")return{a:"Por acordar",s:"Escríbenos antes de pedir",q:1,w:"otra forma, acordada antes del pedido"};
+ if(k=="otra")return{a:"Por acordar",q:1,w:"otra forma, acordada antes del pedido"};
  if(k=="usd")return{a:money(t),w:"$"+pyN(t)+" USD"};
  if(k=="cup"||k=="eur"){if(R===0||R===undefined)return{a:"…",q:1,w:""};if(!R||k=="eur"&&!R.e)return{a:"Se confirma",s:"La tasa se confirma con el pedido",q:1,w:"tasa por confirmar"}}
  if(k=="cup"){x=pyCupX(t);v=Math.max(50,Math.round(t*x/50)*50);
@@ -2342,8 +2342,7 @@ function pySheet(t){var ov=document.createElement("div"),K=pyKeys(),p0=K[0],md=p
     m.r<0?'<div class="pyf"><span>Sobran</span><b>'+money(-m.r)+"</b></div>":'<div class="pyok"><span>Completo</span><b></b></div>')}
  function draw(){var k0=pySel(),m=pyMx(),h='<div class="adbx" role="dialog" aria-modal="true" aria-label="Forma de pago"><div class="adhd"><b>Forma de pago</b><button type="button" class="adcl" aria-label="Cerrar">'+IC.x+"</button></div>"+
    '<div class="czdl" role="group" aria-label="Cómo"><button type="button" data-pm="0"'+(md?"":' class="on"')+' aria-pressed="'+!md+'">Una forma</button><button type="button" data-pm="1"'+(md?' class="on"':"")+' aria-pressed="'+!!md+'">Combinar</button></div>';
-  if(!md)h+='<div class="czpy" role="radiogroup" aria-label="Forma de pago">'+K.map(function(k){return pyRad(k,t,k==k0,"data-ps")}).join("")+"</div>"+
-   '<p class="czpn">Para otra forma o condición de pago, escríbenos antes de hacer el pedido.</p>';
+  if(!md)h+='<div class="czpy" role="radiogroup" aria-label="Forma de pago">'+K.map(function(k){return pyRad(k,t,k==k0,"data-ps")}).join("")+"</div>";
   else h+='<p class="czmxh">Escribe cuánto pagas de cada forma</p><div class="pymx">'+K.filter(function(k){return k!="otra"}).map(function(k){var ok=pyR(k);
     return'<div class="pymr"><span>'+esc(PYN[k])+'<small data-pe="'+k+'"></small></span><label><input type="text" inputmode="decimal" autocomplete="off" data-pa="'+k+'" value="'+(m[k]||"")+'"'+(ok?"":" disabled")+' aria-label="'+esc(PYN[k])+'"><i>'+pyCur(k)+"</i></label>"+
      '<button type="button" class="czch" data-pr="'+k+'"'+(ok?"":" disabled")+">Resto</button></div>"}).join("")+"</div>"+
