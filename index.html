@@ -1262,7 +1262,7 @@ function shBulk(){var B=(M.Ship&&M.Ship.bulk)||{},S=B.subs||[],R=B.room||{},big=
  return{big:big,min:+B.min||0,v:Math.max(1,bins.length)}}
 
 
-IC.fit='<svg viewBox="0 0 24 24"><path d="M4 20L15 9"/><path d="M15 9l2-2 0 0 2 2-2 2z"/><path d="M8 4v3M6.5 5.5h3M19 14v3M17.5 15.5h3M13 3.5v2M12 4.5h2"/></svg>';
+IC.fit='<svg viewBox="0 0 24 24"><path d="M7 10h14l-4-4M17 14H3l4 4"/></svg>';    
 IC.clock='<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>';
 IC.shop='<svg viewBox="0 0 24 24"><path d="M3 9l1.5-5h15L21 9"/><path d="M3 9a3 3 0 0 0 6 0a3 3 0 0 0 6 0a3 3 0 0 0 6 0"/><path d="M5 11.5V20h14v-8.5"/><path d="M10 20v-5h4v5"/></svg>';
 function dlPk(){try{return OS.getItem("dlv")=="pk"}catch(e){return false}}
@@ -2449,7 +2449,7 @@ function pySheet(t){var ov=document.createElement("div"),K=pyKeys(),p0=K[0],md=p
    bad=a&&st>=1&&Math.abs(a/st-Math.round(a/st))>1e-9;e.classList.toggle("pyf",!!bad);if(bad)nb++;
    e.textContent=bad?(k=="usd"?"Sin monedas: dólares enteros":"Billetes de "+st+" "+pyCur(k)+" o más"):eq||(f?"Recargo "+f+" %":"")});
    
-  var any=Object.keys(m.o).length;K.forEach(function(k){var j=ov.querySelector('[data-pj="'+k+'"]');if(j&&pyR(k))j.classList.toggle("pyh",!!(nb||!any||!pyTo(t,k,D)))});
+  K.forEach(function(k){var j=ov.querySelector('[data-pj="'+k+'"]');if(j&&pyR(k))j.classList.toggle("pyh",!!(nb||!pyTo(t,k,D)))});
   
 
   vx.hidden=!(!nb&&!m.n&&m.r<0&&pyVu(-m.r));if(!vx.hidden){vx.querySelector("b").textContent=pyVu(-m.r)}
