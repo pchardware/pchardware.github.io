@@ -293,9 +293,8 @@ button.czmc{cursor:pointer}.czim{padding:0;gap:12px}
 .czmc i{position:relative;width:18px;height:18px;flex:none;border:2px solid var(--bd);border-radius:5px}
 .czmc.on i{border-color:var(--ink);background:var(--ink)}
 .czmc.on i:after{content:"";position:absolute;left:4px;top:0;width:5px;height:10px;border:solid var(--card);border-width:0 2px 2px 0;transform:rotate(45deg)}
-.czeh{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px 0 6px;border-top:1px solid var(--line)}
-.czeh>b{font-size:14.5px;font-weight:600;color:var(--ink)}.czeh .czdl{flex:none;width:200px;margin:0}
-.czeh .czdl button{min-height:32px;font-size:13.5px}
+.czeh{padding:12px 0 4px;border-top:1px solid var(--line)}.czeh .czdl{margin:0;padding:3px;border-radius:10px}
+.czeh .czdl button{min-height:32px;border-radius:8px;font-size:13.5px}
 .czo{display:flex;justify-content:space-between;align-items:baseline;gap:12px;margin:12px 0 18px;padding-top:14px;border-top:1px solid var(--line)}
 .czo>span:first-child{font-size:16px;font-weight:600;color:var(--ink)}
 .czo>span:last-child{font-size:30px;font-weight:800;letter-spacing:-.02em;line-height:1;color:var(--ink);font-variant-numeric:tabular-nums;white-space:nowrap}
@@ -487,10 +486,8 @@ footer p{margin:0 0 6px;opacity:.7}
 .czpy button>svg{width:18px;height:18px;flex:none;fill:none;stroke:var(--mut);stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
 .adbx .czpy{margin:4px 0 8px}
 
-.czs .czpy{margin:-6px 0 14px}.czs .czpy h4{margin:0 0 2px;font-size:13px;font-weight:600;color:var(--mut)}
-.czs .czpy button{min-height:50px;margin:0;padding:9px 0;border:0;border-top:1px solid var(--line);border-radius:0;gap:12px}
-.czs .czpy h4+button{border-top:0}.czs .czpy button i{margin:0 1px}
-.czs .czpy button.on{border-color:var(--line)}
+.czs .czpy{margin:-8px 0 14px}.czs .czpy .czi{min-height:52px;margin:0;padding:10px 0;border:0;border-radius:0;gap:12px;color:var(--ink);font-size:14.5px}
+.czs .czpy .czi .czic,.czs .czpy .czi .czir{flex:none}.czs .czpy .czi .czit{flex:1;font-weight:400;text-align:left}.czs .czpy .czi .czir.czr1{display:inline-flex}
 .pymx{margin:6px 0 4px}
 .pymr{display:flex;align-items:center;gap:10px;padding:8px 0;border-bottom:1px solid var(--line)}
 .pymr>span{flex:1;min-width:0;font-size:14.5px;font-weight:600;color:var(--ink)}
@@ -2293,10 +2290,11 @@ function pyBox(t){if(!pyOn())return"";var K=pyKeys(),p0=K[0],k0=pySel(),alt=k0!=
  if(k0=="mix"){m=pyMs(t);lb="Pago combinado";sm=pyMt(m)||"Sin montos todavía";al=!!m.o.otra;
   if(!m.n&&m.r>0&&!m.o.otra){am="Falta "+money(m.r);cl="pyf"}else if(!m.n&&m.r<0){am="Sobran "+money(-m.r);cl="pyf"}}
  else if(alt){q=pyQ(k0,t);lb=PYN[k0];sm=q.s||"";am=q.a;cl=q.q?"czq":""}
- return'<div class="czpy" role="radiogroup" aria-label="Forma de pago"><h4>¿Cómo vas a pagar?</h4>'+pyRad(p0,t,!alt,"data-py")+
-  (alt?'<button type="button" role="radio" aria-checked="true" class="on" data-pyo><i></i><span>'+esc(lb)+(sm?"<small>"+esc(sm)+"</small>":"")+'<em class="pyc">Cambiar</em></span>'+(am?"<b"+(cl?' class="'+cl+'"':"")+">"+esc(am)+"</b>":"")+"</button>":
-   '<button type="button" role="radio" aria-checked="false" data-pyo><i></i><span>Otra forma de pago<small>'+esc(pyAlt())+"</small></span>"+IC.r+"</button>")+
-  (al?PYAL:"")+"</div>"}
+ 
+
+ if(!alt){lb=PYN[p0]}else if(k0!="mix"&&am==money(t))am="";
+ return'<div class="czpy"><button type="button" class="czi" data-pyo aria-label="Forma de pago"><span class="czic">'+IC.cash+'</span><span class="czit"><b>Pago: '+esc(lb)+(am?'<span class="czir czr1">'+IC.r+"</span>":"")+"</b>"+(sm?"<small>"+esc(sm)+"</small>":"")+"</span>"+
+  (am?'<span class="czia'+(cl?" "+cl:"")+'">'+esc(am)+"</span>":'<span class="czir">'+IC.r+"</span>")+"</button>"+(al?PYAL:"")+"</div>"}
  
 function pySheet(t){var ov=document.createElement("div"),K=pyKeys(),p0=K[0],md=pySel()=="mix"?1:0;ov.className="adsh";
  function sum(){var m=pyMs(t),s=ov.querySelector(".pysum");if(!s)return;
@@ -2306,9 +2304,9 @@ function pySheet(t){var ov=document.createElement("div"),K=pyKeys(),p0=K[0],md=p
   s.innerHTML='<div><span>Total</span><b>'+money(t)+"</b></div><div><span>Cubres</span><b>"+money(Math.round(m.c*100)/100)+"</b></div>"+
    (m.n?"<div><span>Partes sin tasa</span><b>se confirman</b></div>":m.r>0?(m.o.otra?"<div><span>Resto en otra forma</span><b>"+money(m.r)+"</b></div>":'<div class="pyf"><span>Falta</span><b>'+money(m.r)+"</b></div>"):
     m.r<0?'<div class="pyf"><span>Sobran</span><b>'+money(-m.r)+"</b></div>":'<div class="pyok"><span>Completo</span><b></b></div>')}
- function draw(){var k0=pySel(),m=pyMx(),h='<div class="adbx" role="dialog" aria-modal="true" aria-label="Otra forma de pago"><div class="adhd"><b>Otra forma de pago</b><button type="button" class="adcl" aria-label="Cerrar">'+IC.x+"</button></div>"+
+ function draw(){var k0=pySel(),m=pyMx(),h='<div class="adbx" role="dialog" aria-modal="true" aria-label="Forma de pago"><div class="adhd"><b>Forma de pago</b><button type="button" class="adcl" aria-label="Cerrar">'+IC.x+"</button></div>"+
    '<div class="czdl" role="group" aria-label="Cómo"><button type="button" data-pm="0"'+(md?"":' class="on"')+' aria-pressed="'+!md+'">Una forma</button><button type="button" data-pm="1"'+(md?' class="on"':"")+' aria-pressed="'+!!md+'">Combinar</button></div>';
-  if(!md)h+='<div class="czpy" role="radiogroup" aria-label="Forma de pago">'+K.slice(1).map(function(k){return pyRad(k,t,k==k0,"data-ps")}).join("")+"</div>"+
+  if(!md)h+='<div class="czpy" role="radiogroup" aria-label="Forma de pago">'+K.map(function(k){return pyRad(k,t,k==k0,"data-ps")}).join("")+"</div>"+
    '<p class="czpn">Otras formas o condiciones de pago se acuerdan después de hacer el pedido.</p>';
   else h+='<p class="czmxh">Escribe cuánto pagas de cada forma</p><div class="pymx">'+K.filter(function(k){return k!="otra"}).map(function(k){var ok=pyR(k);
     return'<div class="pymr"><span>'+esc(PYN[k])+'<small data-pe="'+k+'"></small></span><label><input type="text" inputmode="decimal" autocomplete="off" data-pa="'+k+'" value="'+(m[k]||"")+'"'+(ok?"":" disabled")+' aria-label="'+esc(PYN[k])+'"><i>'+pyCur(k)+"</i></label>"+
@@ -2434,7 +2432,7 @@ function cartView(){
 
  var adC=!COMO&&!!(M.Ship&&M.Ship.geo),has=!!(ad.p||ad.m||ad.d||gOk(ad.g)),chB=adC?'id="adCh" aria-label="'+(has?"Cambiar la dirección":"Añadir dirección")+'"':"";
  var dn=pk?"":gq&&gq.price==null?"Ese punto queda fuera de la zona de entrega: se acuerda con el pedido":has?shNote(ad.p):"";
- var dlB=dlOff()?'<div class="czeh"><b>Entrega</b><div class="czdl" role="group" aria-label="Entrega"><button type="button" data-dl="0" class="'+(pk?"":"on")+'" aria-pressed="'+!pk+'">'+IC.truck+'Envío</button><button type="button" data-dl="1" class="'+(pk?"on":"")+'" aria-pressed="'+pk+'">'+IC.shop+"Recoger</button></div></div>":"";
+ var dlB=dlOff()?'<div class="czeh"><div class="czdl" role="group" aria-label="Entrega"><button type="button" data-dl="0" class="'+(pk?"":"on")+'" aria-pressed="'+!pk+'">Envío</button><button type="button" data-dl="1" class="'+(pk?"on":"")+'" aria-pressed="'+pk+'">Recoger</button></div></div>':"";
  if(!pk&&gOk(ad.g)&&gq===undefined)ptGet(ad.g).then(function(){if(!$("vCart").hidden)cartView()});
   
  var eA=!pk&&!COMO&&!(gq&&gq.price==null)&&!!etKey(ad),E=eA?D.E:undefined,eS=D?D.s:etSel(),eQ=eS.d||eS.k,e0=etSel(),eO=eA&&etOn(e0);
@@ -2445,9 +2443,12 @@ function cartView(){
  if(M.CartShipping&&!(pk||sh||adC||eA))tr+="<div>"+IC.truck+"<span><b>Envío</b><span>"+tx(M.CartShipping)+"</span></span></div>";
   
  var etT,etS=[],etDf=eA&&E!==undefined&&etDif(E,eS);
- if(etDf){etT=eS.k?"Pediste "+esc(etAsk(eS)):"Llega "+esc(etTxt(E.r));etS.push((etNar(eS)?"Franja corta, es difícil":!eS.k?"Es difícil":"Es difícil a esa hora")+": lo vemos por WhatsApp")}
- else if(E&&E.r){etT="Llega "+esc(etTxt(E.r));if(eQ&&etTxt(E.r)!=etAsk(eS))etS.push("Pediste: "+esc(etAsk(eS)))}
- else if(eQ){etT="Pediste "+esc(etAsk(eS));etS.push("Se acuerda con el pedido")}
+  
+ function etK(x){x=String(x).replace(/\b(las|la) /g,"").replace(/entre (\d\d?(?::\d\d)?) ([AP]M) y (\d\d?(?::\d\d)?) ([AP]M)/,function(m,a,p,b,q){return a+(p==q?"":" "+p)+" – "+b+" "+q});return esc(x)}
+ function etC(x){return x.charAt(0).toUpperCase()+x.slice(1)}
+ if(etDf){etT=eS.k?etC(etK(etAsk(eS))):"Llega "+etK(etTxt(E.r));etS.push((eS.k?"Lo pediste · ":"")+(etNar(eS)?"franja corta, es difícil":!eS.k?"es difícil":"es difícil a esa hora")+": lo vemos por WhatsApp")}
+ else if(E&&E.r){etT="Llega "+etK(etTxt(E.r));if(eQ&&etTxt(E.r)!=etAsk(eS))etS.push("Pediste: "+etK(etAsk(eS)))}
+ else if(eQ){etT=etC(etK(etAsk(eS)));etS.push("Lo pediste · se acuerda con el pedido")}
  else{etT="Fecha y hora de entrega";etS.push("Se acuerdan con el pedido")}
  if(eX)etS.push(eX.replace(/^<small>|<\/small>$/g,""));
  var etB=eA&&E!==undefined&&(E||eQ)?czI({i:IC.clock,t:etT,s:etS,r:1,c:"czin",b:'id="etCh" aria-label="'+(eQ?"Cambiar horario":"Elegir horario")+'"'}):"";
@@ -2460,7 +2461,7 @@ function cartView(){
    adC?czI({i:IC.truck,t:dlB?"Dirección de envío":"Envío",s:[esc([ad.m,ad.d].filter(Boolean).join(" · ")),esc(dn)],a:gOk(ad.g)&&ptHave(ad.g)===undefined?"…":"Se acuerda",ac:"czq",r:1,b:chB,c:dlB?"czin":""}):
    dn?'<p class="sv czd">'+IC.truck+esc(dn)+"</p>":"")+etB+
   '<div class="czo"><span>Total</span><span>'+usd(gt)+"</span></div>"+pyBox(gt)+
-  '<button class="btn wa" id="order">'+IC.wa+'Enviar el pedido</button><p class="czw">Se abre WhatsApp con tu pedido ya escrito</p>'+accNote("tu cesta")+"</div>"+
+  '<button class="btn wa" id="order">'+IC.wa+'Enviar el pedido</button>'+(AC?"":accNote("tu cesta"))+"</div>"+    
   '<div id="cX"></div>'+(tr?'<div class="box trust">'+tr+"</div>":"")+"</div></div>"+
   '<div class="czbar"><div><small>Total</small><b>'+money(gt)+'</b></div><button class="btn wa" id="orderB">'+IC.wa+"Enviar el pedido</button></div></div>";
  v.innerHTML=h;cxHook(keep);if(pyOn()){pyRate(function(){if(!$("vCart").hidden)cartView()});[].forEach.call(v.querySelectorAll("[data-py]"),function(b){b.onclick=function(){pySet(b.getAttribute("data-py"));cartView()}});[].forEach.call(v.querySelectorAll("[data-pyo]"),function(b){b.onclick=function(){pySheet(gt)}})}if($("adCh"))$("adCh").onclick=function(){adSheet(D&&D.i?1:0)};
