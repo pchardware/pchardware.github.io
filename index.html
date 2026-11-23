@@ -274,6 +274,25 @@ h2{font-family:var(--fhead);font-size:17px;letter-spacing:-.01em;margin:26px 0 1
 .czv small{display:block;font-size:12.5px;color:var(--mut)}
 .czv .czg{color:var(--ok);font-weight:600}
 .czs .czd{justify-content:flex-start;margin:6px 0 0;text-align:left}
+
+.czi{display:flex;align-items:center;gap:12px;width:100%;min-height:52px;margin:0;padding:10px 0;border:0;border-top:1px solid var(--line);border-radius:0;background:none;color:var(--ink);font:inherit;font-size:14.5px;text-align:left}
+button.czi{cursor:pointer}.czi.czi0,.czi.czin{border-top:0}.czi.czin{min-height:0;padding-top:6px}
+.czic{flex:none;width:20px;display:flex;justify-content:center;color:var(--mut)}
+.czic svg{width:19px;height:19px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.czit{flex:1;min-width:0;line-height:1.3}.czit b{display:block;font-weight:600;color:var(--ink)}
+.czit small{display:block;margin-top:2px;font-size:12.5px;font-weight:400;color:var(--mut)}
+.czia{flex:none;font-weight:600;white-space:nowrap;font-variant-numeric:tabular-nums;text-align:right}
+.czia.czg{color:var(--ok)}.czia.czq{font-weight:500;color:var(--mut)}
+.czir{flex:none;display:flex;align-items:center;justify-content:center;width:18px;margin-left:-4px;color:var(--mut)}
+.czir svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.czim{padding:0;gap:6px}.czim .czmc{display:flex;align-items:center;gap:12px;flex:1;min-width:0;min-height:52px;padding:10px 0;border:0;background:none;color:inherit;font:inherit;text-align:left;cursor:pointer}
+.czim button.czir{align-self:stretch;width:34px;margin:0 -8px 0 0;padding:0;border:0;background:none;cursor:pointer}
+.czmc i{position:relative;width:18px;height:18px;flex:none;border:2px solid var(--bd);border-radius:5px}
+.czmc.on i{border-color:var(--ink);background:var(--ink)}
+.czmc.on i:after{content:"";position:absolute;left:4px;top:0;width:5px;height:10px;border:solid var(--card);border-width:0 2px 2px 0;transform:rotate(45deg)}
+.czeh{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px 0 6px;border-top:1px solid var(--line)}
+.czeh>b{font-size:14.5px;font-weight:600;color:var(--ink)}.czeh .czdl{flex:none;width:200px;margin:0}
+.czeh .czdl button{min-height:32px;font-size:13.5px}
 .czo{display:flex;justify-content:space-between;align-items:baseline;gap:12px;margin:12px 0 18px;padding-top:14px;border-top:1px solid var(--line)}
 .czo>span:first-child{font-size:16px;font-weight:600;color:var(--ink)}
 .czo>span:last-child{font-size:30px;font-weight:800;letter-spacing:-.02em;line-height:1;color:var(--ink);font-variant-numeric:tabular-nums;white-space:nowrap}
@@ -464,6 +483,11 @@ footer p{margin:0 0 6px;opacity:.7}
 .czpy button b.pyf,.pysum .pyf{color:#b54708}
 .czpy button>svg{width:18px;height:18px;flex:none;fill:none;stroke:var(--mut);stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
 .adbx .czpy{margin:4px 0 8px}
+
+.czs .czpy{margin:-6px 0 14px}.czs .czpy h4{margin:0 0 2px;font-size:13px;font-weight:600;color:var(--mut)}
+.czs .czpy button{min-height:50px;margin:0;padding:9px 0;border:0;border-top:1px solid var(--line);border-radius:0;gap:12px}
+.czs .czpy h4+button{border-top:0}.czs .czpy button i{margin:0 1px}
+.czs .czpy button.on{border-color:var(--line)}
 .pymx{margin:6px 0 4px}
 .pymr{display:flex;align-items:center;gap:10px;padding:8px 0;border-bottom:1px solid var(--line)}
 .pymr>span{flex:1;min-width:0;font-size:14.5px;font-weight:600;color:var(--ink)}
@@ -2391,13 +2415,18 @@ function cartView(){
  var tr=M.CartPayMethod&&!pyOn()?"<div>"+IC.cash+"<span><b>Forma de pago</b><span>"+tx(M.CartPayMethod)+"</span></span></div>":"";
  var mO=mtOn(),mA=mtOf(keep,!mO);mO=!!mA&&mO;var mS=mO&&mA.p>0?mA:null;    
  var pk=dlOff()&&dlPk(),D=pk||COMO?null:etDest(),ad=D?D.a:adGet(),sh=pk?null:shOf(tot,ad),gq=gOk(ad.g)?ptHave(ad.g):undefined,gt=tot+(sh?sh.p:0)+(mS?mS.p:0);
- var mtB=mA?'<button type="button" class="czmt'+(mO?" on":"")+'" role="checkbox" aria-checked="'+mO+'" id="mtB"><i></i><span>Montaje<small>'+esc(mO?mtTxt(mA)||"Elige qué montar":mA.n||"De piezas tuyas")+"</small></span>"+
-  (mA.p>0?"<b>"+money(mA.p)+"</b>":"")+"</button>"+(mO?mtXBox():""):"";
  
 
- var adC=!COMO&&!!(M.Ship&&M.Ship.geo),has=!!(ad.p||ad.m||ad.d||gOk(ad.g)),chB=adC?'<button type="button" class="czch" id="adCh">'+(has?"Cambiar":"Añadir dirección")+"</button>":"";
+
+ function czI(o){var tg=o.b?"button":"div";return"<"+tg+' class="czi'+(o.c?" "+o.c:"")+'"'+(o.b?' type="button" '+o.b:"")+'><span class="czic">'+(o.i||"")+'</span><span class="czit"><b>'+o.t+"</b>"+(o.s||[]).filter(Boolean).map(function(x){return"<small>"+x+"</small>"}).join("")+"</span>"+
+  (o.a!=null?'<span class="czia'+(o.ac?" "+o.ac:"")+'">'+o.a+"</span>":"")+(o.r?'<span class="czir">'+IC.r+"</span>":"")+"</"+tg+">"}
+ var mtB=mA?'<div class="czi czim"><button type="button" class="czmc'+(mO?" on":"")+'" role="checkbox" aria-checked="'+mO+'" id="mtB"><span class="czic"><i></i></span><span class="czit"><b>Montaje</b><small>'+esc(mO?mtTxt(mA)||"Elige qué montar":mA.n||"De piezas tuyas")+"</small></span>"+
+  (mA.p>0?'<span class="czia">'+money(mA.p)+"</span>":"")+"</button>"+(mO?'<button type="button" class="czir" data-mxo aria-label="'+(Object.keys(mtX()).length?"Cambiar piezas tuyas":"Añadir piezas tuyas")+'">'+IC.r+"</button>":"")+"</div>":"";
+ 
+
+ var adC=!COMO&&!!(M.Ship&&M.Ship.geo),has=!!(ad.p||ad.m||ad.d||gOk(ad.g)),chB=adC?'id="adCh" aria-label="'+(has?"Cambiar la dirección":"Añadir dirección")+'"':"";
  var dn=pk?"":gq&&gq.price==null?"Ese punto queda fuera de la zona de entrega: se acuerda con el pedido":has?shNote(ad.p):"";
- var dlB=dlOff()?'<div class="czdl" role="group" aria-label="Entrega"><button type="button" data-dl="0" class="'+(pk?"":"on")+'" aria-pressed="'+!pk+'">'+IC.truck+'Envío</button><button type="button" data-dl="1" class="'+(pk?"on":"")+'" aria-pressed="'+pk+'">'+IC.shop+"Recoger</button></div>":"";
+ var dlB=dlOff()?'<div class="czeh"><b>Entrega</b><div class="czdl" role="group" aria-label="Entrega"><button type="button" data-dl="0" class="'+(pk?"":"on")+'" aria-pressed="'+!pk+'">'+IC.truck+'Envío</button><button type="button" data-dl="1" class="'+(pk?"on":"")+'" aria-pressed="'+pk+'">'+IC.shop+"Recoger</button></div></div>":"";
  if(!pk&&gOk(ad.g)&&gq===undefined)ptGet(ad.g).then(function(){if(!$("vCart").hidden)cartView()});
   
  var eA=!pk&&!COMO&&!(gq&&gq.price==null)&&!!etKey(ad),E=eA?D.E:undefined,eS=D?D.s:etSel(),eQ=eS.d||eS.k,e0=etSel(),eO=eA&&etOn(e0);
@@ -2406,17 +2435,22 @@ function cartView(){
  var eX=!eO?"":D.i?"<small>"+esc(etWin(e0.a,e0.b).replace(/^./,function(c){return c.toUpperCase()})+" en "+adNm(adGet()))+" no da tiempo</small>":
   "<small>Si no, "+esc(etWin(e0.x.a,e0.x.b)+" en "+adNm(adAlt()))+"</small>";
  if(M.CartShipping&&!(pk||sh||adC||eA))tr+="<div>"+IC.truck+"<span><b>Envío</b><span>"+tx(M.CartShipping)+"</span></span></div>";
- var etB=eA&&E!==undefined&&(E||eQ)?'<div class="czet">'+IC.clock+"<span>"+(etDif(E,eS)?(eS.k?"Pediste <b>"+esc(etAsk(eS)):"Llega <b>"+esc(etTxt(E.r)))+"</b><small>"+(etNar(eS)?"Franja corta, es difícil":!eS.k?"Es difícil":"Es difícil a esa hora")+": lo vemos por WhatsApp</small>":E&&E.r?"Llega <b>"+esc(etTxt(E.r))+"</b>":"Fecha y hora de entrega: se acuerdan con el pedido")+
-  (eQ&&!etDif(E,eS)&&!(E&&E.r&&etTxt(E.r)==etAsk(eS))?"<small>Pediste: "+esc(etAsk(eS))+"</small>":"")+eX+
-  '<button type="button" class="czch" id="etCh">'+(eQ?"Cambiar horario":"Elegir horario")+"</button></span></div>":"";
+  
+ var etT,etS=[],etDf=eA&&E!==undefined&&etDif(E,eS);
+ if(etDf){etT=eS.k?"Pediste "+esc(etAsk(eS)):"Llega "+esc(etTxt(E.r));etS.push((etNar(eS)?"Franja corta, es difícil":!eS.k?"Es difícil":"Es difícil a esa hora")+": lo vemos por WhatsApp")}
+ else if(E&&E.r){etT="Llega "+esc(etTxt(E.r));if(eQ&&etTxt(E.r)!=etAsk(eS))etS.push("Pediste: "+esc(etAsk(eS)))}
+ else if(eQ){etT="Pediste "+esc(etAsk(eS));etS.push("Se acuerda con el pedido")}
+ else{etT="Fecha y hora de entrega";etS.push("Se acuerdan con el pedido")}
+ if(eX)etS.push(eX.replace(/^<small>|<\/small>$/g,""));
+ var etB=eA&&E!==undefined&&(E||eQ)?czI({i:IC.clock,t:etT,s:etS,r:1,c:"czin",b:'id="etCh" aria-label="'+(eQ?"Cambiar horario":"Elegir horario")+'"'}):"";
  var h='<div class="cartbox cz"><div class="czh"><h2>Tu cesta</h2><span class="czn">'+n+(n==1?" artículo":" artículos")+'</span><a class="czk" data-nav href="./">'+IC.l+"Seguir comprando</a></div>"+czUndo()+
   '<div class="lay2"><div class="box czl">'+rows+'<div class="czf"><button id="empty">'+IC.trash+"Vaciar la cesta</button></div></div>"+
   '<div class="side"><div class="box czs"><h3>Resumen del pedido</h3>'+
-  '<div class="czv"><span>Artículos ('+n+")</span><span>"+money(tot)+"</span></div>"+mtB+dlB+
-  (pk?'<div class="czv"><span>Recoger en el local<small>Te indicamos dónde por WhatsApp</small></span><span class="czg">Gratis</span></div>':
-   sh?'<div class="czv"><span>Envío · '+esc(sh.n)+(sh.v>1?" · "+sh.v+" viajes":"")+(ad.d?"<small>"+esc(ad.d)+"</small>":gOk(ad.g)?"<small>Punto marcado en el mapa</small>":"")+chB+"</span><span"+(sh.p?"":' class="czg"')+">"+(sh.p?money(sh.p):"Gratis")+"</span></div>":
-   adC?'<div class="czv"><span>Envío'+(ad.m||ad.d?"<small>"+esc([ad.m,ad.d].filter(Boolean).join(" · "))+"</small>":"")+chB+'</span><span class="czq">'+(gOk(ad.g)&&ptHave(ad.g)===undefined?"…":"Se acuerda")+"</span></div>":"")+
-  (dn?'<p class="sv czd">'+IC.truck+esc(dn)+"</p>":"")+etB+
+  czI({i:IC.cart,t:"Artículos ("+n+")",a:money(tot),c:"czi0"})+mtB+dlB+
+  (pk?czI({i:IC.shop,t:"Recoger en el local",s:["Te indicamos dónde por WhatsApp"],a:"Gratis",ac:"czg",c:dlB?"czin":""}):
+   sh?czI({i:IC.truck,t:(dlB?"":"Envío · ")+esc(sh.n)+(sh.v>1?" · "+sh.v+" viajes":""),s:[ad.d?esc(ad.d):gOk(ad.g)?"Punto marcado en el mapa":"",esc(dn)],a:sh.p?money(sh.p):"Gratis",ac:sh.p?"":"czg",r:adC,b:chB,c:dlB?"czin":""}):
+   adC?czI({i:IC.truck,t:dlB?"Dirección de envío":"Envío",s:[esc([ad.m,ad.d].filter(Boolean).join(" · ")),esc(dn)],a:gOk(ad.g)&&ptHave(ad.g)===undefined?"…":"Se acuerda",ac:"czq",r:1,b:chB,c:dlB?"czin":""}):
+   dn?'<p class="sv czd">'+IC.truck+esc(dn)+"</p>":"")+etB+
   '<div class="czo"><span>Total</span><span>'+usd(gt)+"</span></div>"+pyBox(gt)+
   '<button class="btn wa" id="order">'+IC.wa+'Enviar el pedido</button><p class="czw">Se abre WhatsApp con tu pedido ya escrito</p>'+accNote("tu cesta")+"</div>"+
   '<div id="cX"></div>'+(tr?'<div class="box trust">'+tr+"</div>":"")+"</div></div>"+
