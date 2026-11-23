@@ -2301,8 +2301,6 @@ function pyMt(m,full){var L=Object.keys(m.o).filter(function(k){return k!="otra"
  
 function pyAlt(){var L=pyKeys().slice(1).filter(function(k){return k!="otra"}).map(function(k){return k=="cup"||k=="eur"?pyCur(k):k=="dig"?pyDig().map(function(x){return PYN[x]}).join(", "):PYN[k]});
  return(L.length?L.join(", ")+", ":"")+"transferencia o combinadas"}
- 
-var PYAL='<p class="czpn al"><b>Otra forma o condición de pago:</b> escríbenos antes de hacer el pedido para acordarla.</p>';
 function pySet(k){try{OS.setItem("pay",k)}catch(e){}}
  
 function pyRate(cb){if(PYR!==undefined)return;if(!M.Auth||!M.Auth.url){PYR=null;return}PYR=0;
@@ -2310,7 +2308,8 @@ function pyRate(cb){if(PYR!==undefined)return;if(!M.Auth||!M.Auth.url){PYR=null;
 function pyN(n){return n.toLocaleString("en-US",{maximumFractionDigits:2})}
  
 function pyQ(k,t){var f=pyF(k),R=PYR,v,x,T,i,p=0;
- if(k=="otra")return{a:"Se acuerda",s:"Escríbenos antes de pedir",q:1,w:"otra forma, acordada antes del pedido"};
+  
+ if(k=="otra")return{a:"Por acordar",s:"Escríbenos antes de pedir",q:1,w:"otra forma, acordada antes del pedido"};
  if(k=="usd")return{a:money(t),w:"$"+pyN(t)+" USD"};
  if(k=="cup"||k=="eur"){if(R===0||R===undefined)return{a:"…",q:1,w:""};if(!R||k=="eur"&&!R.e)return{a:"Se confirma",s:"La tasa se confirma con el pedido",q:1,w:"tasa por confirmar"}}
  if(k=="cup"){x=pyCupX(t);v=Math.max(50,Math.round(t*x/50)*50);
@@ -2319,16 +2318,16 @@ function pyQ(k,t){var f=pyF(k),R=PYR,v,x,T,i,p=0;
  v=f?Math.ceil(t*(1+f/100)):t;return{a:money(v),s:f?"Recargo "+f+" %":"",w:"$"+pyN(v)+" USD"+(f?" (recargo "+f+" %)":"")}}
 function pyRad(k,t,on,at){var q=pyQ(k,t);
  return'<button type="button" role="radio" aria-checked="'+on+'" '+at+'="'+k+'"'+(on?' class="on"':"")+"><i></i><span>"+esc(PYN[k])+(q.s?"<small>"+esc(q.s)+"</small>":"")+"</span><b"+(q.q?' class="czq"':"")+">"+esc(q.a)+"</b></button>"}
-function pyBox(t){if(!pyOn())return"";var K=pyKeys(),p0=K[0],k0=pySel(),alt=k0!=p0,q,m,lb,sm="",am="",cl="",al=k0=="otra";
- if(k0=="mix"){m=pyMs(t);lb="Pago combinado";sm=pyMt(m)||"Sin montos todavía";al=!!m.o.otra;
+function pyBox(t){if(!pyOn())return"";var K=pyKeys(),p0=K[0],k0=pySel(),alt=k0!=p0,q,m,lb,sm="",am="",cl="";
+ if(k0=="mix"){m=pyMs(t);lb="Pago combinado";sm=pyMt(m)||"Sin montos todavía";
   if(!m.n&&m.r>0&&!m.o.otra){am="Falta "+money(m.r);cl="pyf"}else if(!m.n&&m.r<0){am="Sobran "+money(-m.r);cl="pyf"}}
- else if(alt){q=pyQ(k0,t);lb=PYN[k0];sm=al?"":q.s||"";am=q.a;cl=q.q?"czq":""}    
+ else if(alt){q=pyQ(k0,t);lb=PYN[k0];sm=q.s||"";am=q.a;cl=q.q?"czq":""}
  
 
  if(!alt){lb=PYN[p0]}else if(k0!="mix"&&am==money(t))am="";
  var sb=[am,sm].filter(Boolean).join(" · ");
  return'<div class="czpy"><button type="button" class="czpf" data-pyo aria-label="Cambiar la forma de pago"><span class="czpl">Pago</span><span class="czpv"><b>'+esc(lb)+"</b>"+
-  (sb?"<small"+(cl=="pyf"?' class="pyf"':"")+">"+esc(sb)+"</small>":"")+"</span>"+IC.r+"</button>"+(al?PYAL:"")+"</div>"}
+  (sb?"<small"+(cl=="pyf"?' class="pyf"':"")+">"+esc(sb)+"</small>":"")+"</span>"+IC.r+"</button></div>"}
  
 function pySheet(t){var ov=document.createElement("div"),K=pyKeys(),p0=K[0],md=pySel()=="mix"?1:0;ov.className="adsh";
  function sum(){var m=pyMs(t),s=ov.querySelector(".pysum");if(!s)return;
