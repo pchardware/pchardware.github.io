@@ -1399,7 +1399,10 @@ function etAsk(s){return etDn(s.d)+(s.k?", "+etWin(s.a,s.b):"")}
 
 var ET_MIN=60;
 function etNar(s){return s.k=="e"&&s.b-s.a<ET_MIN}
-function etDif(E,s){return!!(E&&E.r&&(E.dif||E.r.t||etNar(s)||"x" in E&&(s.k=="b"&&(E.x==null||s.b<E.x)||s.k=="e"&&E.x==null)))}
+
+
+var ET_TAG="consúltanos";
+function etDif(E,s){return!!(E&&s.k&&!E.r||E&&E.r&&(E.dif||E.r.t||etNar(s)||"x" in E&&(s.k=="b"&&(E.x==null||s.b<E.x)||s.k=="e"&&E.x==null)))}
 
 
 
@@ -1412,7 +1415,7 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=fa
 
  
 
- function tOpt(v,lo,hi,t,L,X){var h="";for(var m=lo;m<=hi;m+=15){var n=L&&(t=="b"||t=="h"?m<L.b:m>L.a)||t=="h"&&L&&m>L.a+15?"a acordar":t!="a"&&X!=null&&m<X?"difícil":"";
+ function tOpt(v,lo,hi,t,L,X){var h="";for(var m=lo;m<=hi;m+=15){var n=L&&(t=="b"||t=="h"?m<L.b:m>L.a)||t=="h"&&L&&m>L.a+15||t!="a"&&X!=null&&m<X?ET_TAG:"";
   h+='<option value="'+m+'"'+(m==v?" selected":"")+(n?' data-n="'+n+'"':"")+">"+etHm(m)+"</option>"}return h}
  function draw(){var s=etSel(),E=etHave(ad),L=E&&E.lim,days="",i,LO=480,HI=1200;
    
@@ -1425,9 +1428,11 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=fa
   var T=s.k=="b"?'<div class="ettm"><select data-t="b" aria-label="Antes de">'+tOpt(s.b,Math.max(LO+15,mn),HI,"b",L,X)+"</select></div>":
    s.k=="a"?'<div class="ettm"><select data-t="a" aria-label="Después de">'+tOpt(s.a,Math.max(LO,mn),HI-15,"a",L)+"</select></div>":
    s.k=="e"?'<div class="ettm"><select data-t="a" aria-label="Desde">'+tOpt(s.a,Math.max(LO,mn),HI-15,"a",L)+'</select><span>y</span><select data-t="b" aria-label="Hasta">'+tOpt(s.b,s.a+15,HI,"h",L,s.a+ET_MIN)+"</select></div>":"";
-  var R=E===undefined?'<p class="etr etw">Calculando…</p>':!E||!E.r?'<p class="etr etd">'+IC.clock+"<span>Con ese horario la entrega se acuerda con el pedido</span></p>":
-   etDif(E,s)?'<p class="etr etd">'+IC.wa+'<span>Llega <b>'+esc(etTxt(E.r))+"</b>, pero "+(etNar(s)?"una franja de menos de una hora es difícil":!s.k?"es difícil":"llegar a esa hora es difícil")+'. <a href="'+waUrl("Hola, ¿pueden entregarme un pedido "+etAsk(s)+"?")+
-    '" target="_blank" rel="noopener">Escríbenos por WhatsApp</a> y vemos si se puede.</span></p>':
+  var eQ=etAsk(s);eQ=eQ.charAt(0).toUpperCase()+eQ.slice(1);
+  var R=E===undefined?'<p class="etr etw">Calculando…</p>':
+   etDif(E,s)?'<p class="etr etd">'+IC.wa+"<span>"+(!s.k?"Puede llegar <b>"+esc(etTxt(E.r))+"</b> si lo coordinamos contigo.":"<b>"+esc(eQ)+"</b>: "+(etNar(s)?"una franja tan corta la":"ese horario lo")+" coordinamos contigo.")+
+    ' <a href="'+waUrl("Hola, ¿pueden entregarme un pedido "+etAsk(s)+"?")+'" target="_blank" rel="noopener">Escríbenos por WhatsApp</a> y buscamos cómo llegarte.</span></p>':
+   !E||!E.r?'<p class="etr etd">'+IC.clock+"<span>Con ese horario la entrega se acuerda con el pedido</span></p>":
    '<p class="etr">'+IC.clock+"<span>"+(E.r.d>s.d?"Ese día no da tiempo. ":"")+"Llega <b>"+esc(etTxt(E.r))+"</b></span></p>";
    
   var XB="",XA="",xs=s.x,xb=adAlt();
@@ -1441,9 +1446,10 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=fa
     '<div class="etk">'+K2+"</div>"+T2+(xb?'<div class="etxd">'+IC.pin+'<span class="adpt"><b>'+esc(adNm(xb))+"</b>"+(xb.d?"<small>"+esc(xb.d)+"</small>":"")+
     '<button type="button" class="czch" data-xa>Cambiar</button></span></div>':'<button type="button" class="czch" data-xa>Añadir la otra dirección</button>')+"</div>";
    if(xb){var D=etDest(),dE=D.E,dS=D.s,nm=" · "+esc(adNm(D.a));
-    R=dE===undefined?'<p class="etr etw">Calculando…</p>':!dE||!dE.r?'<p class="etr etd">'+IC.clock+"<span>Con esos horarios la entrega se acuerda con el pedido</span></p>":
-     etDif(dE,dS)?'<p class="etr etd">'+IC.wa+'<span>Llegar a esas horas es difícil. <a href="'+waUrl("Hola, ¿pueden entregarme un pedido "+etAsk(s)+", o si no "+etWin(xs.a,xs.b)+" en otra dirección?")+
-      '" target="_blank" rel="noopener">Escríbenos por WhatsApp</a> y vemos si se puede.</span></p>':
+    R=dE===undefined?'<p class="etr etw">Calculando…</p>':
+     etDif(dE,dS)?'<p class="etr etd">'+IC.wa+'<span>Esos horarios los coordinamos contigo. <a href="'+waUrl("Hola, ¿pueden entregarme un pedido "+etAsk(s)+", o si no "+etWin(xs.a,xs.b)+" en otra dirección?")+
+      '" target="_blank" rel="noopener">Escríbenos por WhatsApp</a> y buscamos cómo llegarte.</span></p>':
+     !dE||!dE.r?'<p class="etr etd">'+IC.clock+"<span>Con esos horarios la entrega se acuerda con el pedido</span></p>":
      '<p class="etr">'+IC.clock+"<span>"+(dE.r.d>s.d?"Ese día no da tiempo. ":"")+"Llega <b>"+esc(etTxt(dE.r))+"</b>"+nm+"</span></p>";
     if(dE===undefined)etLoad(function(){if(ov.parentNode)draw()})}}
   ov.innerHTML='<div class="adbx" role="dialog" aria-modal="true" aria-label="Horario de entrega"><div class="adhd"><b>Horario de entrega</b><button type="button" class="adcl" aria-label="Cerrar">'+IC.x+"</button></div>"+
@@ -2494,7 +2500,7 @@ function cartView(){
   
  function etK(x){x=String(x).replace(/\b(las|la) /g,"").replace(/entre (\d\d?(?::\d\d)?) ([AP]M) y (\d\d?(?::\d\d)?) ([AP]M)/,function(m,a,p,b,q){return a+(p==q?"":" "+p)+" – "+b+" "+q});return esc(x)}
  function etC(x){return x.charAt(0).toUpperCase()+x.slice(1)}
- if(etDf){etT=eS.k?etC(etK(etAsk(eS))):"Llega "+etK(etTxt(E.r));etS.push((eS.k?"Lo pediste · ":"")+(etNar(eS)?"franja corta, es difícil":!eS.k?"es difícil":"es difícil a esa hora")+": lo vemos por WhatsApp")}
+ if(etDf){etT=eS.k?etC(etK(etAsk(eS))):"Llega "+etK(etTxt(E.r));etS.push((eS.k?"Lo pediste · ":"")+(etNar(eS)?"franja corta, ":"")+"lo coordinamos por WhatsApp")}
  else if(E&&E.r){etT="Llega "+etK(etTxt(E.r));if(eQ&&etTxt(E.r)!=etAsk(eS))etS.push("Pediste: "+etK(etAsk(eS)))}
  else if(eQ){etT=etC(etK(etAsk(eS)));etS.push("Lo pediste · se acuerda con el pedido")}
  else{etT="Fecha y hora de entrega";etS.push("Se acuerdan con el pedido")}
@@ -2617,8 +2623,8 @@ function order(){
  t+="\nTotal: $"+tot+" USD"+pyLine(tot);if(pk)t+="\n\nEntrega: recoger en el local";t+="\n"+adT(A1,"Entrega: ");if(t.slice(-1)=="\n")t=t.slice(0,-1);
  var E=pk?undefined:D.E,eS=D?D.s:e0;
  if(A2){t+="\nHorario pedido: "+etAsk(e0)+"\n"+adT(A2,"Si no, "+etWin(e0.x.a,e0.x.b)+", en: ");
-  if(E!==undefined){if(etDif(E,eS))t+="\n\nLlega: difícil a esas horas, ¿se puede?";else if(E&&E.r)t+="\n\nLlega: "+etTxt(E.r)+(D.i?", a la otra dirección":"")}}
- else if(E!==undefined&&(E||eS.d||eS.k)){if(eS.d||eS.k)t+="\nHorario pedido: "+etAsk(eS);if(etDif(E,eS))t+=(eS.k?"":"\nLlega: "+etTxt(E.r))+" (difícil: ¿se puede?)";else if(E&&E.r&&etTxt(E.r)!=etAsk(eS))t+="\nLlega: "+etTxt(E.r)}
+  if(E!==undefined){if(etDif(E,eS))t+="\n\nLlega: a coordinar, ¿se puede?";else if(E&&E.r)t+="\n\nLlega: "+etTxt(E.r)+(D.i?", a la otra dirección":"")}}
+ else if(E!==undefined&&(E||eS.d||eS.k)){if(eS.d||eS.k)t+="\nHorario pedido: "+etAsk(eS);if(etDif(E,eS))t+=(eS.k?"":"\nLlega: "+etTxt(E.r))+" (a coordinar: ¿se puede?)";else if(E&&E.r&&etTxt(E.r)!=etAsk(eS))t+="\nLlega: "+etTxt(E.r)}
  var wS=wSum(ci),wM=mtNotes(ci).length;if(wS||wM)t+="\n\nAcepté las condiciones "+(wS?"de garantía ("+wS+")"+(wM?" y del montaje":""):"del montaje");
   
  var aP=Object.assign({},A1);delete aP.alt;if(A2)aP.alt=A2;
