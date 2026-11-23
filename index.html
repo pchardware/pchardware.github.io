@@ -534,7 +534,7 @@ footer p{margin:0 0 6px;opacity:.7}
 .etxh small{margin:0 2px;font-size:12.5px;font-weight:600;color:var(--mut)}
 .etxq{width:30px;height:30px;display:flex;align-items:center;justify-content:center;padding:0;border:0;border-radius:8px;background:none;color:var(--mut);cursor:pointer}
 .etxq svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round}
-.etx .etk{grid-template-columns:1fr 1fr 1fr}
+.etx .etk{grid-template-columns:1fr 1fr}
 .etxd{display:flex;align-items:flex-start;gap:10px;margin-top:8px;padding:9px 10px 9px 12px;border-radius:10px;background:var(--soft)}
 .etxd>svg{width:20px;height:20px;flex:none;margin-top:1px;fill:none;stroke:var(--ink);stroke-width:1.9}
 .etxd small{display:block}
@@ -1354,8 +1354,15 @@ function etSel(){var o=null;try{o=JSON.parse(OS.getItem("eta2")||"null")}catch(e
  if(!d&&k&&(etLate()||k!="a"&&isFinite(b)&&b<=etNow()))return{d:etLate()?1:0,k:"",a:null,b:null,x:null};
  if(!d&&etLate())d=1;
  var x=o.x&&typeof o.x=="object"&&["b","a","e"].indexOf(o.x.k)>=0?o.x:null,X=null;
- if(x){var xa=+x.a,xb=+x.b;X={k:x.k,a:x.k=="a"||x.k=="e"?(isFinite(xa)?xa:1080):null,b:x.k=="b"||x.k=="e"?(isFinite(xb)?xb:1200):null}}
- return{d:isFinite(d)?Math.min(d,13):0,k:k,a:k=="a"||k=="e"?(isFinite(a)?a:720):null,b:k=="b"||k=="e"?(isFinite(b)?b:840):null,x:X}}
+  
+ if(x){var xa=x.a==null?NaN:+x.a,xb=x.b==null?NaN:+x.b;X={k:x.k,a:x.k=="a"||x.k=="e"?(isFinite(xa)?xa:null):null,b:x.k=="b"||x.k=="e"?(isFinite(xb)?xb:null):null}}
+ var P={d:isFinite(d)?Math.min(d,13):0,k:k,a:k=="a"||k=="e"?(isFinite(a)?a:720):null,b:k=="b"||k=="e"?(isFinite(b)?b:840):null,x:X};
+ 
+
+ if(X&&k){if(X.k=="e"||X.k==k)X={k:k=="a"?"b":"a",a:null,b:null};
+  if(X.k=="a")X.a=Math.min(1185,Math.max(P.b,X.a==null?P.b:X.a));else X.b=Math.max(495,Math.min(P.a,X.b==null?P.a:X.b));
+  if(X.k=="a"?P.b>1185:P.a<495)X=null;P.x=X}
+ return P}
 function etSave(s){try{if(!s.d&&!s.k&&!s.x)OS.removeItem("eta2");else OS.setItem("eta2",JSON.stringify({f:etIso(etDay(s.d)),k:s.k,a:s.a,b:s.b,x:s.x||undefined}))}catch(e){}}
 function etKey(a){return gOk(a.g)?gKey(a.g):a.p&&a.m?a.p+"|"+a.m:""}
 function etMnt(){var m=mtSel();return m?m.p:0}
@@ -1456,15 +1463,27 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=fa
    !E||!E.r?'<p class="etr etd">'+IC.clock+"<span>Con ese horario la entrega se acuerda con el pedido</span></p>":
    '<p class="etr">'+IC.clock+"<span>"+(E.r.d>s.d?"Ese día no da tiempo. ":"")+"Llega <b>"+esc(etTxt(E.r))+"</b></span></p>";
    
-  var XB="",XA="",xs=s.x,xb=adAlt();
+  var XB="",XA="",xb=adAlt();
+  
+
+
+
+
+  var E2=s.k&&s.x&&xb&&etKey(xb)&&!etOut(xb)?etHave(xb,etS2(s)):null,L2=E2&&E2.lim,XR={};
+  if(s.k){if(s.k!="b"){var r0=Math.max(LO+15,mn),r1=Math.min(s.a,L2&&L2.a!=null?Math.max(L2.a,r0):HI);if(r0<=r1)XR.b=[r0,r1]}
+   if(s.k!="a"){var r2=Math.max(LO,mn,s.b);if(r2<=HI-15)XR.a=[r2,HI-15]}}
+  var XK=["b","a"].filter(function(k){return XR[k]});
+  if(s.k&&s.x){var x0=JSON.stringify(s.x),x=s.x;if(!XK.length)s.x=null;else{if(!XR[x.k])x={k:XK[0],a:null,b:null};var xr=XR[x.k];
+    if(x.k=="a")x={k:"a",a:Math.min(xr[1],Math.max(xr[0],x.a==null?xr[0]:x.a)),b:null};else x={k:"b",a:null,b:Math.min(xr[1],Math.max(xr[0],x.b==null?xr[1]:x.b))};s.x=x}
+   if(JSON.stringify(s.x)!==x0){etSave(s);if(!tch)snap=etRw()}}
+  var xs=s.x;
    
-  if(s.k&&!xs)XA='<button type="button" class="czch etxa" data-x="1">¿A otra hora estás en otra dirección?</button>';
-  else if(s.k){var K2=[["b","Antes de"],["a","Después de"],["e","Entre"]].map(function(x){return'<button type="button" data-k2="'+x[0]+'" class="'+(xs.k==x[0]?"on":"")+'" aria-pressed="'+(xs.k==x[0])+'">'+x[1]+"</button>"}).join("");
-   var T2=xs.k=="b"?'<div class="ettm">'+tSel("xb","Antes de",xs.b,LO+15,HI,"b",null)+"</div>":
-    xs.k=="a"?'<div class="ettm">'+tSel("xa","Después de",xs.a,LO,HI-15,"a",null)+"</div>":
-    '<div class="ettm">'+tSel("xa","Desde",xs.a,LO,HI-15,"a",null)+'<span>y</span>'+tSel("xb","Hasta",xs.b,xs.a+15,HI,"b",null)+"</div>";
+  if(s.k&&!xs&&XK.length)XA='<button type="button" class="czch etxa" data-x="1">¿A otra hora estás en otra dirección?</button>';
+  else if(s.k&&xs){var NM={b:"Antes de",a:"Después de"},xv=xs.k=="a"?xs.a:xs.b,
+    K2=XK.length>1?'<div class="etk">'+XK.map(function(k){return'<button type="button" data-k2="'+k+'" class="'+(xs.k==k?"on":"")+'" aria-pressed="'+(xs.k==k)+'">'+NM[k]+"</button>"}).join("")+"</div>":"",
+    T2='<div class="ettm">'+(XK.length>1?"":"<span>"+NM[xs.k].toLowerCase()+"</span>")+tSel("x"+xs.k,NM[xs.k],xv,XR[xs.k][0],XR[xs.k][1],xs.k,L2,xs.k=="b"&&E2&&"x" in E2?(E2.x==null?1e9:E2.x):null)+"</div>";
    XB='<div class="etx"><div class="etxh"><small>Si no, en otra dirección</small><button type="button" class="etxq" data-x="0" aria-label="Quitar la otra dirección" title="Quitar">'+IC.x+"</button></div>"+
-    '<div class="etk">'+K2+"</div>"+T2+(xb?'<div class="etxd">'+IC.pin+'<span class="adpt"><b>'+esc(adNm(xb))+"</b>"+(xb.d?"<small>"+esc(xb.d)+"</small>":"")+
+    K2+T2+(xb?'<div class="etxd">'+IC.pin+'<span class="adpt"><b>'+esc(adNm(xb))+"</b>"+(xb.d?"<small>"+esc(xb.d)+"</small>":"")+
     '<button type="button" class="czch" data-xa>Cambiar</button></span></div>':'<button type="button" class="czch" data-xa>Añadir la otra dirección</button>')+"</div>";
    if(xb){var D=etDest(),dE=D.E,dS=D.s,nm=" · "+esc(adNm(D.a));
     R=dE===undefined?'<p class="etr etw">Calculando…</p>':
@@ -1493,8 +1512,9 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=fa
  ov.onclick=function(ev){var tb=ev.target.closest&&ev.target.closest(".ettb");if(tb){var hq=tb.parentNode.querySelector('select[data-q="h"]');if(hq&&hq._nsel)hq._nsel.click();return}
   var c=ev.target.closest&&ev.target.closest("[data-x],[data-k2],[data-xa]");
   if(c){var s=etSel();if(c.hasAttribute("data-xa")){adSheet(1,draw);return}tch=true;
-   if(c.hasAttribute("data-x")){s.x=c.getAttribute("data-x")=="1"?{k:"a",a:1080,b:null}:null;etSave(s);draw();if(s.x&&!adAlt())adSheet(1,draw);return}
-   var k2=c.getAttribute("data-k2");if(s.x&&k2!=s.x.k){s.x={k:k2,a:k2=="b"?null:1080,b:k2=="b"?1020:k2=="e"?1200:null};etSave(s);draw()}return}
+    
+   if(c.hasAttribute("data-x")){s.x=c.getAttribute("data-x")=="1"?{k:s.k=="a"?"b":"a",a:null,b:null}:null;etSave(s);draw();if(s.x&&!adAlt())adSheet(1,draw);return}
+   var k2=c.getAttribute("data-k2");if(s.x&&k2!=s.x.k){s.x={k:k2,a:null,b:null};etSave(s);draw()}return}
   var b=ev.target.closest&&ev.target.closest("[data-k]");
   if(b){var s=etSel(),k=b.getAttribute("data-k");if(k!=s.k){tch=true;s.k=k;if(k&&!s.d&&etLate())s.d=1;s.a=k=="a"?960:k=="e"?720:null;s.b=k=="b"?720:k=="e"?840:null;etSave(s);draw()}return}
   if(ev.target.closest&&ev.target.closest(".etok"))close(true);else if(ev.target.closest&&ev.target.closest(".adcl"))close();
