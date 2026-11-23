@@ -483,7 +483,7 @@ footer p{margin:0 0 6px;opacity:.7}
 .czpy button b{flex:none;font-weight:700;white-space:nowrap;font-variant-numeric:tabular-nums;text-align:right}
 .czpy button b.czq{font-weight:500;color:var(--mut)}
 .czpy button .pyc{display:block;font-style:normal;margin-top:2px;font-size:13px;font-weight:600;color:var(--ink);text-decoration:underline;text-underline-offset:3px}
-.czpy button b.pyf,.pysum .pyf{color:#b54708}
+.czpy button b.pyf,.pysum .pyf,.pymr small.pyf{color:#b54708}
 .czpy button>svg{width:18px;height:18px;flex:none;fill:none;stroke:var(--mut);stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
 .adbx .czpy{margin:4px 0 8px}
 
@@ -2313,7 +2313,6 @@ function czZoom(slug){var p=bySlug[slug];if(!p)return;gal={slug:slug,imgs:["imag
 
 
 
-
 var PYN={usd:"USD en efectivo",cup:"CUP en efectivo",eur:"EUR en efectivo",zelle:"Zelle",paypal:"PayPal",cashapp:"Cash App",otra:"Otra forma"},PYR;
 function pyOn(){return!!(M.Pay&&M.Pay.on)}
 
@@ -2335,16 +2334,28 @@ function pyMx(){var o=null,r={};try{o=JSON.parse(OS.getItem("paymx")||"null")}ca
 function pyMxSet(o){try{OS.setItem("paymx",JSON.stringify(o))}catch(e){}}
  
 function pyR(k){return k=="cup"?!!PYR:k=="eur"?!!(PYR&&PYR.e):true}
+
+
+
+
+function pyCupL(){var L=M.Pay.cupl;return L&&L.length==2?L:[50,200]}
+function pyEst(n){var g=0;if(PYR.d)g=Math.max(0,Math.round((etDay(0)-new Date(PYR.d+"T12:00:00"))/864e5)||0);
+ return Math.round(Math.max(PYR.u,PYR.u+(PYR.s||0)*(n+g)))}
+
+
+var PYB=[1,5,10,20,50,100,200,500,1000,5000,10000,20000];
+function pyBill(x){var g=x/10,b=PYB[0];PYB.forEach(function(v){if(Math.abs(Math.log(v/g))<Math.abs(Math.log(b/g)))b=v});return b}
+function pyDd(){var d=0;try{d=etSel().d||0}catch(e){}return d}
  
-function pyCupX(u){var T=M.Pay.cup||[],i,p=0;for(i=0;i<T.length;i++)if(T[i][0]==null||u<=T[i][0]){p=T[i][1];break}return Math.round(PYR.u*(1+p/100))}
+function pyCupX(u){var L=pyCupL(),d=pyDd();return u<=L[0]?pyEst(d):u<=L[1]?pyEst(d+1):null}
  
-function pyU(k,a){var f=pyF(k),T,i,x;if(!pyR(k))return null;
- if(k=="cup"){T=M.Pay.cup||[];for(i=0;i<T.length;i++){x=Math.round(PYR.u*(1+T[i][1]/100));if(T[i][0]==null||a/x<=T[i][0])return a/x}return a/Math.round(PYR.u)}
+function pyU(k,a){var f=pyF(k),L,x,d;if(!pyR(k))return null;
+ if(k=="cup"){L=pyCupL();d=pyDd();x=pyEst(d);if(a/x<=L[0])return a/x;x=pyEst(d+1);return a/x<=L[1]?a/x:null}
  if(k=="eur")return a*PYR.e/(PYR.u*(1+f/100));
  return a/(1+f/100)}
  
 function pyA(k,u){var f=pyF(k);if(u<=0)return 0;if(!pyR(k))return null;
- if(k=="cup")return Math.ceil(u*pyCupX(u)/50)*50;
+ if(k=="cup"){var x=pyCupX(u),b;if(!x)return null;b=pyBill(x);return Math.ceil(u*x/b)*b}
  if(k=="eur")return Math.ceil(u*PYR.u*(1+f/100)/PYR.e);
  return f?Math.ceil(u*(1+f/100)):Math.ceil(u*100)/100}
  
@@ -2371,8 +2382,8 @@ function pyQ(k,t){var f=pyF(k),R=PYR,v,x,T,i,p=0;
  if(k=="otra")return{a:"Por acordar",q:1,w:"otra forma, acordada antes del pedido"};
  if(k=="usd")return{a:money(t),w:"$"+pyN(t)+" USD"};
  if(k=="cup"||k=="eur"){if(R===0||R===undefined)return{a:"…",q:1,w:""};if(!R||k=="eur"&&!R.e)return{a:"Se confirma",s:"La tasa se confirma con el pedido",q:1,w:"tasa por confirmar"}}
- if(k=="cup"){x=pyCupX(t);v=Math.max(50,Math.round(t*x/50)*50);
-  return{a:pyN(v)+" CUP",w:pyN(v)+" CUP (tasa "+x+")"}}
+ if(k=="cup"){x=pyCupX(t);if(!x)return{a:"A consultar",q:1,w:"tasa a consultar"};p=pyBill(x);v=Math.max(p,Math.round(t*x/p)*p);
+  return{a:pyN(v)+" CUP",s:"Billetes de "+pyN(p)+" o más",w:pyN(v)+" CUP (tasa "+x+", billetes de "+pyN(p)+" o más)"}}
  if(k=="eur"){v=Math.ceil(t*R.u*(1+f/100)/R.e);return{a:pyN(v)+" EUR",s:f?"Tasa del día + "+f+" %":"Tasa del día",w:pyN(v)+" EUR"}}
  v=f?Math.ceil(t*(1+f/100)):t;return{a:money(v),s:f?"Recargo "+f+" %":"",w:"$"+pyN(v)+" USD"+(f?" (recargo "+f+" %)":"")}}
 function pyRad(k,t,on,at){var q=pyQ(k,t);
@@ -2392,7 +2403,9 @@ function pySheet(t){var ov=document.createElement("div"),K=pyKeys(),p0=K[0],md=p
  function sum(){var m=pyMs(t),s=ov.querySelector(".pysum");if(!s)return;
   K.forEach(function(k){var e=ov.querySelector('[data-pe="'+k+'"]'),f=pyF(k),a=m.o[k],u;if(!e)return;
    if(!pyR(k)){e.textContent=PYR===0?"Buscando la tasa…":"Hoy sin tasa: se confirma con el pedido";return}
-   u=a?pyU(k,a):0;e.textContent=a&&k!="usd"?"Equivale a "+money(Math.round(u*100)/100):k=="cup"?"Efectivo · tasa del día":k=="eur"?"Efectivo · tasa del día"+(f?" + "+f+" %":""):k=="usd"?"Efectivo":f?"Recargo "+f+" %":""});
+   u=a?pyU(k,a):0;var bl=k=="cup"?pyBill(pyCupX(u||1)||PYR.u):0;e.classList.toggle("pyf",!!(bl&&a&&a%bl));
+   if(bl&&a&&a%bl){e.textContent="Solo billetes de "+pyN(bl)+" o más";return}
+   e.textContent=a&&k!="usd"?(u==null?"A consultar":"Equivale a "+money(Math.round(u*100)/100)):k=="cup"?"Efectivo · billetes de "+pyN(bl)+" o más":k=="eur"?"Efectivo · tasa del día"+(f?" + "+f+" %":""):k=="usd"?"Efectivo":f?"Recargo "+f+" %":""});
   s.innerHTML='<div><span>Total</span><b>'+money(t)+"</b></div><div><span>Cubres</span><b>"+money(Math.round(m.c*100)/100)+"</b></div>"+
    (m.n?"<div><span>Partes sin tasa</span><b>se confirman</b></div>":m.r>0?(m.o.otra?"<div><span>Resto en otra forma</span><b>"+money(m.r)+"</b></div>":'<div class="pyf"><span>Falta</span><b>'+money(m.r)+"</b></div>"):
     m.r<0?'<div class="pyf"><span>Sobran</span><b>'+money(-m.r)+"</b></div>":'<div class="pyok"><span>Completo</span><b></b></div>')}
