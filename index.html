@@ -2613,9 +2613,9 @@ function cartView(){
   
  function etK(x){x=String(x).replace(/\b(las|la) /g,"").replace(/entre (\d\d?(?::\d\d)?) ([AP]M) y (\d\d?(?::\d\d)?) ([AP]M)/,function(m,a,p,b,q){return a+(p==q?"":" "+p)+" – "+b+" "+q});return esc(x)}
  function etC(x){return x.charAt(0).toUpperCase()+x.slice(1)}
- if(etDf){etT=eS.k?etC(etK(etAsk(eS))):"Llega "+etK(etTxt(E.r));etS.push((eS.k?"Lo pediste · ":"")+(etNar(eS)?"franja corta, ":"")+"lo coordinamos por WhatsApp")}
- else if(E&&E.r){etT="Llega "+etK(etTxt(E.r));if(eQ&&etTxt(E.r)!=etAsk(eS))etS.push("Pediste: "+etK(etAsk(eS)))}
- else if(eQ){etT=etC(etK(etAsk(eS)));etS.push("Lo pediste · se acuerda con el pedido")}
+ if(etDf){etT=eS.k?etC(etK(etAsk(eS))):"Llega "+etK(etTxt(E.r));etS.push((eS.k?"Lo necesitas · ":"")+(etNar(eS)?"franja corta, ":"")+"lo coordinamos por WhatsApp")}
+ else if(E&&E.r){etT="Llega "+etK(etTxt(E.r));if(eQ)etS.push("Lo necesitas "+etK(etAsk(eS)))}
+ else if(eQ){etT=etC(etK(etAsk(eS)));etS.push("Lo necesitas · se acuerda con el pedido")}
  else{etT="Fecha y hora de entrega";etS.push("Se acuerdan con el pedido")}
  if(eX)etS.push(eX.replace(/^<small>|<\/small>$/g,""));
  var etB=eA&&E!==undefined&&(E||eQ)?czI({i:IC.clock,t:etT,s:etS,r:1,c:"czin",b:'id="etCh" aria-label="'+(eQ?"Cambiar horario":"Elegir horario")+'"'}):"";
