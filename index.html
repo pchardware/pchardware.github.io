@@ -570,7 +570,6 @@ footer p{margin:0 0 6px;opacity:.7}
 @media(min-width:600px){.adbx .adft{bottom:-20px;margin-bottom:-20px;padding-bottom:20px}}
 .adbx .etok.nag{animation:etnag .45s}
 @keyframes etnag{20%,60%{transform:translateX(-6px)}40%,80%{transform:translateX(6px)}}
-.xnope{animation:xnope .4s ease}@keyframes xnope{20%,60%{transform:translateX(-6px)}40%,80%{transform:translateX(6px)}}
 .adsh{position:fixed;inset:0;z-index:80;background:rgba(16,24,40,.5);display:flex;align-items:flex-end;justify-content:center}
 .adbx{width:100%;max-width:520px;max-height:92vh;overflow:auto;background:var(--card);border-radius:18px 18px 0 0;padding:6px 18px calc(18px + env(safe-area-inset-bottom,0px));box-shadow:0 -10px 40px rgba(16,24,40,.25)}
 @media(min-width:600px){.adsh{align-items:center;padding:24px}.adbx{border-radius:18px;padding-bottom:20px}}
@@ -2583,20 +2582,27 @@ function cartView(){
  var co="";try{co=localStorage.getItem("co")||""}catch(e){}if(cSig()!=co){tCk("con");tCk("ver")}
  if(!BL&&bList().length)bLoad();
  var R=cRules(keep),tot=0,n=0,rows="";
- keep.forEach(function(i){var p=bySlug[i.productId],q=parseInt(i.qty,10)||0,s=esc(p.slug);tot+=p.Price*q;n+=q;
+ 
+
+
+ var PR=TX&&TX.pr?TX.pr:null,prN=0;function pP(p){var o=PR&&PR(p.slug);if(o!=null){prN++;return o}return p.Price}
+ keep.forEach(function(i){var p=bySlug[i.productId],q=parseInt(i.qty,10)||0,s=esc(p.slug),u=pP(p),uc=u!=p.Price;tot+=u*q;n+=q;
   rows+='<div class="czr"><button type="button" class="czp" data-cz="'+s+'" aria-label="Ver las fotos"><img loading="lazy" alt="" src="'+thumb(p)+'"><i>'+IC.full+"</i></button>"+
    '<div class="czm">'+(p.SubCategory||p.Category?"<small>"+esc(p.SubCategory||p.Category)+"</small>":"")+'<a data-nav href="'+pUrl(p.slug)+'">'+esc(p.Label)+"</a>"+czSt(p)+"</div>"+
    '<button class="czx" data-rm="'+s+'" aria-label="Quitar" title="Quitar">'+IC.trash+"</button>"+
-   (q>1?'<div class="czu">'+money(p.Price)+" c/u</div>":"")+
+   (q>1?'<div class="czu">'+money(u)+" c/u</div>":"")+
    '<div class="czc"><span class="qty"><button data-cq="-1" data-s="'+s+'" aria-label="Menos">−</button><input type="number" min="0" max="'+qMax(p.slug)+'" value="'+q+'" data-ci="'+s+'" aria-label="Cantidad"><button data-cq="1" data-s="'+s+'" aria-label="Más">+</button></span>'+stkBtn(p.slug,q,1)+"</div>"+
-   '<div class="czt">'+money(p.Price*q)+"</div>"+
+   (PR?'<button type="button" class="czt czpe'+(uc?" on":"")+'" data-vpr="'+s+'" aria-label="Cambiar el precio">'+(uc?"<s>"+money(p.Price*q)+"</s>":"")+money(u*q)+"</button>":'<div class="czt">'+money(p.Price*q)+"</div>")+
    (R[p.slug]||[]).map(function(x){return'<span class="bw">'+esc(x)+"</span>"}).join("")+"</div>"});
   
  function tx(s){return esc(String(s).replace(/\n\s*\n+/g,"\n").trim())}
   
  var tr=M.CartPayMethod&&!pyOn()?"<div>"+IC.cash+"<span><b>Forma de pago</b><span>"+tx(M.CartPayMethod)+"</span></span></div>":"";
  var mO=mtOn(),mA=mtOf(keep,!mO);mO=!!mA&&mO;var mS=mO&&mA.p>0?mA:null;    
- var pk=dlOff()&&dlPk(),D=pk||COMO?null:etDest(),ad=D?D.a:adGet(),sh=pk?null:shOf(tot,ad),gq=gOk(ad.g)?ptHave(ad.g):undefined,gt=tot+(sh?sh.p:0)+(mS?mS.p:0);
+ var mP0=mA?mA.p:0,mOv=mO&&mA&&PR?PR("@m"):null;if(mOv!=null){mA=Object.assign({},mA,{p:mOv});mS=mA;prN++}
+ var pk=dlOff()&&dlPk(),D=pk||COMO?null:etDest(),ad=D?D.a:adGet(),sh=pk?null:shOf(tot,ad),gq=gOk(ad.g)?ptHave(ad.g):undefined;
+ var sP0=sh?sh.p:null,sOv=PR&&!pk&&(sh||!COMO&&M.Ship&&M.Ship.geo)?PR("@s"):null;if(sOv!=null){prN++;if(sh)sh=Object.assign({},sh,{p:sOv})}
+ var shP=sh?sh.p:sOv!=null?sOv:null,gt=tot+(shP||0)+(mS?mS.p:0);
   
  var dc=TX&&TX.dc?Math.max(0,+TX.dc()||0):null;if(dc)gt=Math.max(0,gt-dc);
  
@@ -2611,7 +2617,7 @@ function cartView(){
  
 
  var mX=mA&&(mO?mA:mtOf(keep)),mtP=mX&&mX.x?'<span class="czpt">'+(!mO&&mX.p>0?"Con piezas tuyas ("+esc(mX.x)+"): "+money(mX.p):"Piezas tuyas: "+esc(mX.x))+"</span>":"";
- var mtS=mO?(esc(mA.n)||(mtP?"":"Elige qué montar")):esc(mA&&(mA.p>0?"Te lo montamos por "+money(mA.p):mA.n||(mtP?"":"De piezas tuyas"))),mtA=mO&&mA&&mA.p>0?'<span class="czia">'+money(mA.p)+"</span>":"";
+ var mtS=mO?(esc(mA.n)||(mtP?"":"Elige qué montar")):esc(mA&&(mA.p>0?"Te lo montamos por "+money(mA.p):mA.n||(mtP?"":"De piezas tuyas"))),mtA=mO&&mA&&(mA.p>0||mOv!=null)?'<span class="czia">'+(mOv!=null&&mOv!=mP0?"<s>"+money(mP0)+"</s> ":"")+money(mA.p)+"</span>":"";
  var mtB=!mA?"":!mO?'<button type="button" class="czi czmc" role="checkbox" aria-checked="false" id="mtB"><span class="czic"><i></i></span><span class="czit">'+czT("Montaje",{s:[mtS,mtP]})+"</span>"+mtA+"</button>":
   '<div class="czi czim"><button type="button" class="czmc on" role="checkbox" aria-checked="true" id="mtB" aria-label="Montaje"><span class="czic"><i></i></span></button>'+
   '<button type="button" class="czmo" data-mxo aria-label="'+(Object.keys(mtX()).length?"Cambiar piezas tuyas":"Añadir piezas tuyas")+'"><span class="czit">'+czT("Montaje",{s:[mtS,mtP],r:1,a:mtA||null})+"</span>"+(mtA||'<span class="czir">'+IC.r+"</span>")+"</button></div>";
@@ -2644,16 +2650,17 @@ function cartView(){
   '<div class="side"><div class="box czs"><h3>Resumen del pedido</h3>'+
   czI({i:IC.cart,t:"Artículos ("+n+")",a:money(tot),c:"czi0"})+mtB+dlB+
   (pk?czI({i:IC.shop,t:"Recoger en el local",s:["Te indicamos dónde por WhatsApp"],a:"Gratis",ac:"czg",c:dlB?"czin":""}):
-   sh?czI({i:IC.truck,t:(dlB?"":"Envío · ")+esc(sh.n)+(sh.v>1?" · "+sh.v+" viajes":""),s:[ad.d?esc(ad.d):gOk(ad.g)?"Punto marcado en el mapa":"",esc(dn)],a:sh.p?money(sh.p):"Gratis",ac:sh.p?"":"czg",r:adC,b:chB,c:dlB?"czin":""}):
-   adC?czI({i:IC.truck,t:dlB?"Dirección de envío":"Envío",s:[esc([ad.m,ad.d].filter(Boolean).join(" · ")),esc(dn)],a:gOk(ad.g)&&ptHave(ad.g)===undefined?"…":"Se acuerda",ac:"czq",r:1,b:chB,c:dlB?"czin":""}):
+   sh?czI({i:IC.truck,t:(dlB?"":"Envío · ")+esc(sh.n)+(sh.v>1?" · "+sh.v+" viajes":""),s:[ad.d?esc(ad.d):gOk(ad.g)?"Punto marcado en el mapa":"",esc(dn)],a:sh.p||sOv!=null?(sOv!=null&&sOv!=sP0?"<s>"+money(sP0||0)+"</s> ":"")+money(sh.p):"Gratis",ac:sh.p||sOv!=null?"":"czg",r:adC,b:chB,c:dlB?"czin":""}):
+   adC?czI({i:IC.truck,t:dlB?"Dirección de envío":"Envío",s:[esc([ad.m,ad.d].filter(Boolean).join(" · ")),esc(dn)],a:sOv!=null?money(sOv):gOk(ad.g)&&ptHave(ad.g)===undefined?"…":"Se acuerda",ac:sOv!=null?"":"czq",r:1,b:chB,c:dlB?"czin":""}):
    dn?'<p class="sv czd">'+IC.truck+esc(dn)+"</p>":"")+etB+
+  (PR?czI({i:IC.pencil,t:"Precios",s:[prN?prN+(prN==1?" cambiado":" cambiados"):""],r:1,b:'data-vpr="" aria-label="Precios"'}):"")+
   (dc!=null?czI({i:IC.tag,t:"Descuento",a:dc?"−"+money(dc):null,r:1,b:'data-vdc aria-label="Descuento"'}):"")+
   '<div class="czo"><span>Total</span><span>'+usd(gt)+"</span></div>"+pyBox(gt)+
   '<button class="btn wa" id="order">'+IC.wa+'Enviar el pedido</button>'+(AC?"":accNote("tu cesta"))+"</div>"+    
   '<div id="cX"></div>'+(tr?'<div class="box trust">'+tr+"</div>":"")+"</div></div>"+
   '<div class="czbar"><div><small>Total</small><b>'+money(gt)+'</b></div><button class="btn wa" id="orderB">'+IC.wa+"Enviar el pedido</button></div></div>";
- v.innerHTML=h;cxHook(keep,{sub:tot,total:gt,disc:dc||0,pick:!!pk,mount:mS?{p:mS.p,n:mA.n||""}:null,
-  ship:pk||!(sh||adC)?null:{p:sh?sh.p:null,n:sh?sh.n:"",v:sh?sh.v:1,prov:ad.p||"",mun:ad.m||"",dir:ad.d||""},pay:TX&&TX.c?pyRows(gt):null});if(pyOn()){pyRate(function(){if(!$("vCart").hidden)cartView()});[].forEach.call(v.querySelectorAll("[data-py]"),function(b){b.onclick=function(){pySet(b.getAttribute("data-py"));cartView()}});[].forEach.call(v.querySelectorAll("[data-pyo]"),function(b){b.onclick=function(){pySheet(gt)}})}if($("adCh"))$("adCh").onclick=function(){adSheet(D&&D.i?1:0)};
+ v.innerHTML=h;cxHook(keep,{sub:tot,total:gt,disc:dc||0,pick:!!pk,mount:mS?{p:mS.p,p0:mP0,ovr:mOv!=null,n:mA.n||""}:null,
+  ship:pk||!(sh||adC)?null:{p:shP,p0:sP0,ovr:sOv!=null,n:sh?sh.n:"",v:sh?sh.v:1,prov:ad.p||"",mun:ad.m||"",dir:ad.d||""},pay:TX&&TX.c?pyRows(gt):null});if(pyOn()){pyRate(function(){if(!$("vCart").hidden)cartView()});[].forEach.call(v.querySelectorAll("[data-py]"),function(b){b.onclick=function(){pySet(b.getAttribute("data-py"));cartView()}});[].forEach.call(v.querySelectorAll("[data-pyo]"),function(b){b.onclick=function(){pySheet(gt)}})}if($("adCh"))$("adCh").onclick=function(){adSheet(D&&D.i?1:0)};
  if($("etCh"))$("etCh").onclick=function(){etSheet(adGet())};
  if($("mtB"))$("mtB").onclick=function(){mtSet(!mtOn());cartView()};
  [].forEach.call(v.querySelectorAll("[data-mxo]"),function(b){b.onclick=mtSheet});
@@ -2706,7 +2713,7 @@ function wDialog(items,go){var s=wSum(items),mn=mtNotes(items),wk=wKey(items);if
  document.addEventListener("keydown",key,true);document.body.appendChild(ov);document.body.classList.add("adon")}
  
 function cxHook(keep,info){var el=$("cX");if(!el)return;if(!(TX&&TX.c)){el.hidden=true;return}
- TX.c(keep.map(function(i){var p=bySlug[i.productId];return{slug:p.slug,label:p.Label,qty:parseInt(i.qty,10)||0,price:p.Price}}),el,
+ TX.c(keep.map(function(i){var p=bySlug[i.productId];var o=TX.pr&&TX.pr(p.slug);return{slug:p.slug,label:p.Label,qty:parseInt(i.qty,10)||0,price:o!=null?o:p.Price,price0:p.Price}}),el,
   {clear:function(){cartEmpty();cartView()},money:money,view:cartView,info:info||{}})}
  
 var czU=null,czIO=null;
@@ -2746,14 +2753,14 @@ function cRules(items){var out={},I={},L=[],D=[],seen={};if(!BL)return out;
 function order(){
  var ci=getCart().items.filter(function(i){return bySlug[i.productId]&&(parseInt(i.qty,10)||0)>0});
  if(ci.length&&wNeed(ci))return wDialog(ci,order);
- var t="Hola, quiero esta orden:\n------------------------------\n",tot=0,items=[];
- getCart().items.forEach(function(i){var p=bySlug[i.productId],q=parseInt(i.qty,10)||0;if(!p||q<=0)return;
-  t+="- "+q+"x $"+p.Price+" "+p.Label+"\n";tot+=p.Price*q;items.push({id:p.slug,name:p.Label,quantity:q,price:p.Price})});
+ var t="Hola, quiero esta orden:\n------------------------------\n",tot=0,items=[],PR=TX&&TX.pr?TX.pr:null;    
+ getCart().items.forEach(function(i){var p=bySlug[i.productId],q=parseInt(i.qty,10)||0;if(!p||q<=0)return;var o=PR&&PR(p.slug),u=o!=null?o:p.Price;
+  t+="- "+q+"x $"+u+" "+p.Label+"\n";tot+=u*q;items.push({id:p.slug,name:p.Label,quantity:q,price:u})});
  if(!items.length)return;
  T("wa","pedido");items.forEach(function(x){T("ord",x.id)});tCk("con");tCk("ver");tCk("pedido");
  var so=tOrig;try{so=so||sessionStorage.getItem("ts")||"";localStorage.setItem("co",cSig())}catch(e){}if(so)T("so",so,true);
- var mt=mtOn()?mtOf(ci):null;if(mt&&!(mt.p>0))mt=null;if(mt)t+="\nMontaje ("+mtTxt(mt,1)+"): $"+mt.p;
- var pk=dlOff()&&dlPk(),D=pk?null:etDest(),ad=pk?{}:D.a,sh=pk?null:shOf(tot,ad),e0=etSel(),A1=pk?{}:adGet(),A2=!pk&&etOn(e0)?adAlt():null;if(mt)tot+=mt.p;if(sh){t+="\nEnvío ("+sh.n+(sh.v>1?", "+sh.v+" viajes":"")+"): "+(sh.p?"$"+sh.p:"gratis");tot+=sh.p}
+ var mt=mtOn()?mtOf(ci):null,mo=mt&&PR?PR("@m"):null;if(mo!=null)mt=Object.assign({},mt,{p:mo});else if(mt&&!(mt.p>0))mt=null;if(mt)t+="\nMontaje ("+mtTxt(mt,1)+"): $"+mt.p;
+ var pk=dlOff()&&dlPk(),D=pk?null:etDest(),ad=pk?{}:D.a,sh=pk?null:shOf(tot,ad),e0=etSel(),A1=pk?{}:adGet(),A2=!pk&&etOn(e0)?adAlt():null,so=PR&&!pk?PR("@s"):null;if(sh&&so!=null)sh=Object.assign({},sh,{p:so});if(mt)tot+=mt.p;if(sh){t+="\nEnvío ("+sh.n+(sh.v>1?", "+sh.v+" viajes":"")+"): "+(sh.p?"$"+sh.p:"gratis");tot+=sh.p}
  function adT(a,h){var x="";if(a.p||a.m||a.d)x+="\n"+h+[a.p,a.m,a.z,a.d].filter(Boolean).join(" · ");if(gOk(a.g))x+="\nUbicación: "+gLink(a.g);if(a.o)x+="\nObservación: "+a.o;return x}
  t+="\nTotal: $"+tot+" USD"+pyLine(tot);if(pk)t+="\n\nEntrega: recoger en el local";t+="\n"+adT(A1,"Entrega: ");if(t.slice(-1)=="\n")t=t.slice(0,-1);
  var E=pk?undefined:D.E,eS=D?D.s:e0;
@@ -3061,34 +3068,6 @@ function up(){[].forEach.call(document.querySelectorAll("select:not([multiple]):
  Object.defineProperty(s,"selectedIndex",{configurable:true,get:function(){return IDX.get.call(s)},set:function(v){IDX.set.call(s,v);paint(s)}});
  new MutationObserver(function(){paint(s)}).observe(s,{childList:true,subtree:true,attributes:true,attributeFilter:["disabled","selected"]});paint(s)})}
 up();new MutationObserver(up).observe(document.body,{childList:true,subtree:true})})();
-
-
-
-
-
-
-(function(){if(window.__sheetGuard)return;window.__sheetGuard=1;
- var D=typeof WeakSet=="function"?new WeakSet():null,FIELD='input:not([type=hidden]),textarea,select,[contenteditable=true],[data-ok],.adok,.etok',
-  CLOSE='.adcl,.nscx,#accX,[aria-label="Cerrar"],[data-close],[aria-haspopup]';
- function isOv(e){if(!e||e.nodeType!=1||e===document.body||e===document.documentElement||!e.firstElementChild)return false;var s=getComputedStyle(e);
-  if(s.position!="fixed"||s.pointerEvents=="none"||e.hidden)return false;var r=e.getBoundingClientRect();var de=document.documentElement;return r.width>=de.clientWidth*.85&&r.height>=de.clientHeight*.6}
- function ovOf(t){for(var e=t;e&&e!==document.body;e=e.parentElement)if(isOv(e))return e;return null}
- function stack(){var L=[];(document.elementsFromPoint?document.elementsFromPoint(1,1):[]).forEach(function(x){var o=ovOf(x);if(o&&L.indexOf(o)<0)L.push(o)});return L}
- function guarded(o){return!!D&&D.has(o)&&!o.classList.contains("nsov")&&!o.querySelector("[role=listbox],[role=menu]")&&!!o.querySelector(FIELD)}
- function nope(el){if(!el)return;el.classList.remove("xnope");void el.offsetWidth;el.classList.add("xnope");setTimeout(function(){el.classList.remove("xnope")},450)}
- function tgt(o){var b=o.querySelector("[data-ok],.adok,.etok");if(b)return b;var L=o.querySelectorAll(".btn");for(var i=L.length-1;i>=0;i--)if(!L[i].closest(CLOSE))return L[i];return o.firstElementChild}
- window.sheetNope=nope;
- function touch(e){var o=ovOf(e.target);if(o&&D)D.add(o)}
- addEventListener("input",touch,true);addEventListener("change",touch,true);
- addEventListener("pointerdown",function(e){var b=e.target.closest&&e.target.closest('button:disabled,[aria-disabled="true"]');
-  if(b&&!b.closest(".nsov,[role=listbox],[role=menu]"))nope(b)},true);
- addEventListener("click",function(e){var t=e.target;
-  if(isOv(t)){if(guarded(t)){e.preventDefault();e.stopImmediatePropagation();nope(tgt(t))}return}
-  var b=t.closest&&t.closest("button,[role=button],[role=option],[role=menuitem],label,a[data-i]"),o=b&&ovOf(b);
-  if(!o||!D||b.closest(CLOSE)||b.disabled||b.getAttribute("aria-disabled")=="true")return;
-  var L=stack(),i=L.indexOf(o);(i<0?[o]:L.slice(i)).forEach(function(x){D.add(x)})},true);
- addEventListener("keydown",function(e){if(e.key!="Escape")return;var o=stack()[0];
-  if(o&&guarded(o)){e.preventDefault();e.stopImmediatePropagation();nope(tgt(o))}},true)})();
 </script>
 </body>
 </html>
