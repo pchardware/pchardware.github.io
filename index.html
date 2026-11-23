@@ -489,8 +489,8 @@ footer p{margin:0 0 6px;opacity:.7}
 
 .czs .czpy{margin:-6px 0 22px;padding-bottom:22px;border-bottom:1px solid var(--line)}   
 .czs .czpy .czpf{display:flex;align-items:center;gap:10px;width:100%;min-height:46px;margin:0;padding:8px 12px 8px 14px;border:0;border-radius:11px;background:var(--soft);color:var(--ink);text-align:left;cursor:pointer}
-.czs .czpy .czpf .czpl{flex:1;font-size:14px;font-weight:500;color:var(--mut)}
-.czs .czpy .czpf .czpv{flex:none;max-width:75%;text-align:right;line-height:1.3}.czs .czpy .czpf .czpv b{display:block;font-weight:600;font-size:14.5px;white-space:normal}
+.czs .czpy .czpf .czpl{flex:none;font-size:14px;font-weight:500;color:var(--mut)}
+.czs .czpy .czpf .czpv{flex:1;min-width:0;text-align:right;line-height:1.3}   .czs .czpy .czpf .czpv b{display:block;font-weight:600;font-size:14.5px;white-space:normal}
 .czs .czpy .czpf .czpv small{display:block;margin-top:1px;font-size:12.5px;font-weight:400;color:var(--mut);font-variant-numeric:tabular-nums}
 .czs .czpy .czpf .czpv small.pyf{color:#b54708}
 .czs .czpy .czpf>svg{flex:none;width:16px;height:16px;stroke:var(--mut);stroke-width:2;transform:rotate(90deg)}
@@ -2322,7 +2322,7 @@ function pyRad(k,t,on,at){var q=pyQ(k,t);
 function pyBox(t){if(!pyOn())return"";var K=pyKeys(),p0=K[0],k0=pySel(),alt=k0!=p0,q,m,lb,sm="",am="",cl="",al=k0=="otra";
  if(k0=="mix"){m=pyMs(t);lb="Pago combinado";sm=pyMt(m)||"Sin montos todavía";al=!!m.o.otra;
   if(!m.n&&m.r>0&&!m.o.otra){am="Falta "+money(m.r);cl="pyf"}else if(!m.n&&m.r<0){am="Sobran "+money(-m.r);cl="pyf"}}
- else if(alt){q=pyQ(k0,t);lb=PYN[k0];sm=q.s||"";am=q.a;cl=q.q?"czq":""}
+ else if(alt){q=pyQ(k0,t);lb=PYN[k0];sm=al?"":q.s||"";am=q.a;cl=q.q?"czq":""}    
  
 
  if(!alt){lb=PYN[p0]}else if(k0!="mix"&&am==money(t))am="";
