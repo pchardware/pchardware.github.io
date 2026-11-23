@@ -1196,6 +1196,22 @@ var SY=null,syT=0,syN=0,syK=["cart","pcs","addr"];
 var VAS=null;
 function stGet(k){if(VAS)return VAS[k]?JSON.parse(JSON.stringify(VAS[k])):null;try{return JSON.parse(localStorage.getItem(k)||"null")}catch(e){return null}}
 function stSet(k,v){if(VAS){VAS[k]=v;return}try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
+
+
+
+var OSK=["dlv","eta2","pay","paymx"];
+function osHas(o,k){return!!o&&typeof o=="object"&&Object.prototype.hasOwnProperty.call(o,k)}
+var OS={getItem:function(k){var o=getCart().o;if(osHas(o,k))return typeof o[k]=="string"?o[k]:null;if(VAS)return null;try{return localStorage.getItem(k)}catch(e){return null}},
+ setItem:function(k,v){osPut(k,v==null?null:String(v))},removeItem:function(k){osPut(k,null)}};
+function osPut(k,v){var c=getCart(),o=c.o&&typeof c.o=="object"?c.o:{};if(!VAS)try{localStorage.removeItem(k)}catch(e){}
+ if(osHas(o,k)&&o[k]===v)return;o[k]=v;c.o=o;setCart(c)}
+ 
+function osMigrate(){if(VAS)return;var c=getCart(),o=c.o&&typeof c.o=="object"?c.o:{},ch=0;
+ try{OSK.forEach(function(k){var v=localStorage.getItem(k);if(v!=null){if(!osHas(o,k)){o[k]=v;ch=1}localStorage.removeItem(k)}});
+  if(!c.mt&&(localStorage.getItem("mnt")||localStorage.getItem("mntx"))){c.mt=mtSt();ch=1}localStorage.removeItem("mnt");localStorage.removeItem("mntx")}catch(e){}
+ if(ch){c.o=o;setCart(c)}}
+ 
+function cartEmpty(){var c=getCart();setCart({items:[],o:c.o,mt:c.mt})}
 function vaEnter(d){VAS={cart:d.cart&&d.cart.v||{items:[]},pcs:d.pcs&&d.pcs.v||{},addr:d.addr&&d.addr.v||{}};clearTimeout(syT);cartCount();PCS=pcLoad();route(true)}
 function syGet(){if(!SY){try{SY=JSON.parse(localStorage.getItem("sy")||"null")}catch(e){}if(!SY||typeof SY!="object")SY={}}
  syK.forEach(function(k){if(!SY[k]||typeof SY[k]!="object")SY[k]={r:0,d:0}});return SY}
@@ -1231,8 +1247,8 @@ function shBulk(){var B=(M.Ship&&M.Ship.bulk)||{},S=B.subs||[],R=B.room||{},big=
 
 IC.clock='<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>';
 IC.shop='<svg viewBox="0 0 24 24"><path d="M3 9l1.5-5h15L21 9"/><path d="M3 9a3 3 0 0 0 6 0a3 3 0 0 0 6 0a3 3 0 0 0 6 0"/><path d="M5 11.5V20h14v-8.5"/><path d="M10 20v-5h4v5"/></svg>';
-function dlPk(){try{return localStorage.getItem("dlv")=="pk"}catch(e){return false}}
-function dlSet(pk){try{if(pk)localStorage.setItem("dlv","pk");else localStorage.removeItem("dlv")}catch(e){}}
+function dlPk(){try{return OS.getItem("dlv")=="pk"}catch(e){return false}}
+function dlSet(pk){try{if(pk)OS.setItem("dlv","pk");else OS.removeItem("dlv")}catch(e){}}
 function dlOff(){return!!(M.Ship&&(M.Ship.geo||shZones().length||M.Ship.areas))}
 function shNote(p){if(!p||!M.Ship||!M.Ship.prov||!Object.keys(M.Ship.prov).length)return"";var v=M.Ship.prov[p];
  return v==1?"":v==2?"Entregas en "+p+": solo a veces, se confirma con el pedido":"Por ahora no hacemos entregas en "+p}
@@ -1325,14 +1341,14 @@ function etIso(d){return d.getFullYear()+"-"+(d.getMonth()<9?"0":"")+(d.getMonth
 
 function etNow(){var d=new Date();return d.getHours()*60+d.getMinutes()}
 function etLate(){return etNow()>=1185}
-function etSel(){var o=null;try{o=JSON.parse(localStorage.getItem("eta2")||"null")}catch(e){}o=o&&typeof o=="object"?o:{};
+function etSel(){var o=null;try{o=JSON.parse(OS.getItem("eta2")||"null")}catch(e){}o=o&&typeof o=="object"?o:{};
  var d=0;if(o.f){var x=new Date(o.f+"T12:00:00");d=Math.round((x-etDay(0))/864e5);if(!(d>=0))o={},d=0}
  var k=["b","a","e"].indexOf(o.k)>=0?o.k:"",a=+o.a,b=+o.b;
  if(!d&&k&&(etLate()||k!="a"&&isFinite(b)&&b<=etNow()))return{d:0,k:"",a:null,b:null,x:null};
  var x=o.x&&typeof o.x=="object"&&["b","a","e"].indexOf(o.x.k)>=0?o.x:null,X=null;
  if(x){var xa=+x.a,xb=+x.b;X={k:x.k,a:x.k=="a"||x.k=="e"?(isFinite(xa)?xa:1080):null,b:x.k=="b"||x.k=="e"?(isFinite(xb)?xb:1200):null}}
  return{d:isFinite(d)?Math.min(d,13):0,k:k,a:k=="a"||k=="e"?(isFinite(a)?a:720):null,b:k=="b"||k=="e"?(isFinite(b)?b:840):null,x:X}}
-function etSave(s){try{if(!s.d&&!s.k&&!s.x)localStorage.removeItem("eta2");else localStorage.setItem("eta2",JSON.stringify({f:etIso(etDay(s.d)),k:s.k,a:s.a,b:s.b,x:s.x||undefined}))}catch(e){}}
+function etSave(s){try{if(!s.d&&!s.k&&!s.x)OS.removeItem("eta2");else OS.setItem("eta2",JSON.stringify({f:etIso(etDay(s.d)),k:s.k,a:s.a,b:s.b,x:s.x||undefined}))}catch(e){}}
 function etKey(a){return gOk(a.g)?gKey(a.g):a.p&&a.m?a.p+"|"+a.m:""}
 function etMnt(){var m=mtSel();return m?m.p:0}
 function etCk(a,s){return etKey(a)+"/"+s.d+"/"+s.a+"/"+s.b+"/"+etMnt()}
@@ -1381,7 +1397,7 @@ function etDif(E,s){return!!(E&&E.r&&(E.dif||E.r.t||etNar(s)||"x" in E&&(s.k=="b
 
 
 function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=false,snap=etRw();ov.className="adsh";
- function etRw(){try{return localStorage.getItem("eta2")}catch(e){return null}}
+ function etRw(){try{return OS.getItem("eta2")}catch(e){return null}}
  function dirty(){return tch&&etRw()!==snap}
   
  
@@ -1427,7 +1443,7 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=fa
    '<div class="etg"><small>Hora</small><div class="etk">'+K+"</div>"+T+"</div>"+XB+R+XA+
    '<button type="button" class="btn etok">Listo</button></div>';
   if(E===undefined)etGet(ad).then(function(){if(ov.parentNode)draw()})}
- function close(keep){if(!keep&&dirty())try{if(snap==null)localStorage.removeItem("eta2");else localStorage.setItem("eta2",snap)}catch(e){}
+ function close(keep){if(!keep&&dirty())try{if(snap==null)OS.removeItem("eta2");else OS.setItem("eta2",snap)}catch(e){}
   ov.remove();document.removeEventListener("keydown",key,true);document.body.classList.remove("adon");cartView()}
   
  function nag(){var b=ov.querySelector(".etok");if(!b)return;b.classList.remove("nag");void b.offsetWidth;b.classList.add("nag")}
@@ -1540,7 +1556,8 @@ function syPush(){if(!syOn())return;var S=syGet(),put={},n=syN,any=0;syK.forEach
   if(n!=syN){clearTimeout(syT);syT=setTimeout(syPush,1500)}}).catch(function(){})}
 function syMerge(k,sv){var lv=syVal(k);
  if(k=="cart"){((sv&&sv.items)||[]).forEach(function(i){if(i&&typeof i.productId=="string"&&!lv.items.some(function(x){return x.productId===i.productId}))lv.items.push(i)});
-  var lm=lv.mt||mtSt(),sm=sv&&sv.mt;if(sm&&typeof sm=="object"){if(sm.on)lm.on=1;if(!lm.x&&sm.x)lm.x=sm.x;lv.mt=lm}}
+  var lm=lv.mt||mtSt(),sm=sv&&sv.mt;if(sm&&typeof sm=="object"){if(sm.on)lm.on=1;if(!lm.x&&sm.x)lm.x=sm.x;lv.mt=lm}
+  var so=sv&&sv.o;if(so&&typeof so=="object"){var lo=lv.o&&typeof lv.o=="object"?lv.o:{};OSK.forEach(function(k){if(osHas(so,k)&&!osHas(lo,k))lo[k]=so[k]});lv.o=lo}}
  else Object.keys(sv||{}).forEach(function(b){if(!lv[b])lv[b]=sv[b]});syLocal(k,lv)}
 function syPull(fresh){if(!syOn())return;var S=syGet();if(fresh)syK.forEach(function(k){S[k]={r:0,d:0}});
  syPost().then(function(d){if(!d)return;if(d.va){vaEnter(d);return}acWho(d.who);var ch=0;syK.forEach(function(k){var sv=d[k],l=S[k];
@@ -1879,7 +1896,7 @@ function chrome(){
  if(rgb){var cc=M.BackgroundColor.split(",").map(Number),st=document.documentElement.style;st.setProperty("--bg",rgb);
   st.setProperty("--on",.299*cc[0]+.587*cc[1]+.114*cc[2]>165?"#14171c":"#fff")}
  if($("searchBox").firstElementChild.tagName!="svg")$("searchBox").insertAdjacentHTML("afterbegin",IC.search);accBtn();if(!syPull.did){syPull.did=1;
-  if(!VAS)try{if((localStorage.getItem("mnt")||localStorage.getItem("mntx"))&&!getCart().mt)mtPut(function(){})}catch(e){}    
+  osMigrate();    
   syPull();stkGet(1)}
  $("fCols").innerHTML=trust(false);
  var t=(M.Title||"").split(" "),h=Math.round(t.length/2);
@@ -2251,11 +2268,11 @@ function pyF(k){var F=M.Pay.fee||{};return k=="dig"?Math.max.apply(null,pyDig().
 
 
 
-function pySel(){var k="";try{k=localStorage.getItem("pay")||""}catch(e){}var K=pyKeys();if(PYD.indexOf(k)>=0&&K.indexOf("dig")>=0)k="dig";return k=="mix"||K.indexOf(k)>=0?k:K[0]}
+function pySel(){var k="";try{k=OS.getItem("pay")||""}catch(e){}var K=pyKeys();if(PYD.indexOf(k)>=0&&K.indexOf("dig")>=0)k="dig";return k=="mix"||K.indexOf(k)>=0?k:K[0]}
 function pyCur(k){return k=="cup"?"CUP":k=="eur"?"EUR":"USD"}
-function pyMx(){var o=null,r={};try{o=JSON.parse(localStorage.getItem("paymx")||"null")}catch(e){}
+function pyMx(){var o=null,r={};try{o=JSON.parse(OS.getItem("paymx")||"null")}catch(e){}
  if(o&&typeof o=="object")pyKeys().forEach(function(k){if(k=="otra"){if(o.otra)r.otra=1}else{var n=+o[k];if(n>0)r[k]=Math.round(n*100)/100}});return r}
-function pyMxSet(o){try{localStorage.setItem("paymx",JSON.stringify(o))}catch(e){}}
+function pyMxSet(o){try{OS.setItem("paymx",JSON.stringify(o))}catch(e){}}
  
 function pyR(k){return k=="cup"?!!PYR:k=="eur"?!!(PYR&&PYR.e):true}
  
@@ -2284,7 +2301,7 @@ function pyMt(m,full){var L=Object.keys(m.o).filter(function(k){return k!="otra"
 function pyAlt(){var L=pyKeys().slice(1).filter(function(k){return k!="otra"}).map(function(k){return k=="cup"||k=="eur"?pyCur(k):k=="dig"?pyDig().map(function(x){return PYN[x]}).join(", "):PYN[k]});
  return(L.length?L.join(", ")+", ":"")+"transferencia o combinadas"}
 var PYAL='<p class="czpn al"><b>CUP por transferencia no vale lo mismo que CUP en efectivo.</b> Esa y cualquier otra forma o condición de pago se acuerdan después de hacer el pedido.</p>';
-function pySet(k){try{localStorage.setItem("pay",k)}catch(e){}}
+function pySet(k){try{OS.setItem("pay",k)}catch(e){}}
  
 function pyRate(cb){if(PYR!==undefined)return;if(!M.Auth||!M.Auth.url){PYR=null;return}PYR=0;
  fetch(M.Auth.url+"/tasa",{method:"POST",body:"{}"}).then(function(r){return r.ok?r.json():null}).then(function(d){PYR=d&&d.u?d:null;cb()}).catch(function(){PYR=null;cb()})}
@@ -2360,7 +2377,7 @@ function pyLine(t){if(!pyOn())return"";var k=pySel(),q,m;
 
 function mtSt(){var c=getCart();if(c.mt&&typeof c.mt=="object")return c.mt;var o={};if(VAS)return o;
  try{if(localStorage.getItem("mnt")=="1")o.on=1;var x=JSON.parse(localStorage.getItem("mntx")||"null");if(x&&typeof x=="object")o.x=x}catch(e){}return o}
-function mtPut(f){var c=getCart(),m=mtSt();f(m);c.mt=m;setCart(c);try{localStorage.removeItem("mnt");localStorage.removeItem("mntx")}catch(e){}}
+function mtPut(f){var c=getCart(),m=mtSt();f(m);c.mt=m;setCart(c);if(!VAS)try{localStorage.removeItem("mnt");localStorage.removeItem("mntx")}catch(e){}}
 function mtOn(){return!!mtSt().on}
 function mtSet(v){mtPut(function(m){if(v)m.on=1;else delete m.on})}
 function mtParts(){return(M.Mount&&M.Mount.parts)||[]}
@@ -2539,7 +2556,7 @@ function wDialog(items,go){var s=wSum(items),mn=mtNotes(items),wk=wKey(items);if
  
 function cxHook(keep){var el=$("cX");if(!el)return;if(!(TX&&TX.c)){el.hidden=true;return}
  TX.c(keep.map(function(i){var p=bySlug[i.productId];return{slug:p.slug,label:p.Label,qty:parseInt(i.qty,10)||0,price:p.Price}}),el,
-  {clear:function(){setCart({items:[]});cartView()},money:money})}
+  {clear:function(){cartEmpty();cartView()},money:money})}
  
 var czU=null,czIO=null;
 function czSave(s){var p=s&&bySlug[s];czU={it:getCart().items.map(function(i){return{productId:i.productId,qty:i.qty}}),t:p?"Quitaste «"+p.Label+"»":"Vaciaste la cesta"}}
@@ -2805,7 +2822,7 @@ document.addEventListener("click",function(e){
   return}
  if(t.id=="order"||t.id=="orderB"){order();return}
  if(t.id=="czBack"){czRestore();return}
- if(t.id=="empty"){czSave();getCart().items.forEach(function(i){T("rm",i.productId)});setCart({items:[]});cartView();return}
+ if(t.id=="empty"){czSave();getCart().items.forEach(function(i){T("rm",i.productId)});cartEmpty();cartView();return}
  if(t.id=="gPr"){step(-1);return}
  if(t.id=="gNx"){step(1);return}
  if(t.id=="gImg"&&gal){zOpen();return}
