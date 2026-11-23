@@ -2611,6 +2611,7 @@ function cartView(){
  var mP0=mA?mA.p:0,mOv=mO&&mA&&PR?PR("@m"):null;if(mOv!=null){mA=Object.assign({},mA,{p:mOv});mS=mA;prN++}
  var pk=dlOff()&&dlPk(),D=pk||COMO?null:etDest(),ad=D?D.a:adGet(),sh=pk?null:shOf(tot,ad),gq=gOk(ad.g)?ptHave(ad.g):undefined;
  var sP0=sh?sh.p:null,sOv=PR&&!pk&&(sh||!COMO&&M.Ship&&M.Ship.geo)?PR("@s"):null;if(sOv!=null){prN++;if(sh)sh=Object.assign({},sh,{p:sOv})}
+ function pE(x){return PR?'<span class="czpe" data-vpr="@s" role="button" aria-label="Cambiar el precio">'+x+"</span>":x}
  var shP=sh?sh.p:sOv!=null?sOv:null,gt=tot+(shP||0)+(mS?mS.p:0);
   
  var dc=TX&&TX.dc?Math.max(0,+TX.dc()||0):null;if(dc)gt=Math.max(0,gt-dc);
@@ -2626,7 +2627,7 @@ function cartView(){
  
 
  var mX=mA&&(mO?mA:mtOf(keep)),mtP=mX&&mX.x?'<span class="czpt">'+(!mO&&mX.p>0?"Con piezas tuyas ("+esc(mX.x)+"): "+money(mX.p):"Piezas tuyas: "+esc(mX.x))+"</span>":"";
- var mtS=mO?(esc(mA.n)||(mtP?"":"Elige qué montar")):esc(mA&&(mA.p>0?"Te lo montamos por "+money(mA.p):mA.n||(mtP?"":"De piezas tuyas"))),mtA=mO&&mA&&(mA.p>0||mOv!=null)?'<span class="czia">'+(mOv!=null&&mOv!=mP0?"<s>"+money(mP0)+"</s> ":"")+money(mA.p)+"</span>":"";
+ var mtS=mO?(esc(mA.n)||(mtP?"":"Elige qué montar")):esc(mA&&(mA.p>0?"Te lo montamos por "+money(mA.p):mA.n||(mtP?"":"De piezas tuyas"))),mtA=mO&&mA&&(mA.p>0||mOv!=null)?'<span class="czia'+(PR?' czpe" data-vpr="@m" role="button" aria-label="Cambiar el precio':"")+'">'+(mOv!=null&&mOv!=mP0?"<s>"+money(mP0)+"</s> ":"")+money(mA.p)+"</span>":"";
  var mtB=!mA?"":!mO?'<button type="button" class="czi czmc" role="checkbox" aria-checked="false" id="mtB"><span class="czic"><i></i></span><span class="czit">'+czT("Montaje",{s:[mtS,mtP]})+"</span>"+mtA+"</button>":
   '<div class="czi czim"><button type="button" class="czmc on" role="checkbox" aria-checked="true" id="mtB" aria-label="Montaje"><span class="czic"><i></i></span></button>'+
   '<button type="button" class="czmo" data-mxo aria-label="'+(Object.keys(mtX()).length?"Cambiar piezas tuyas":"Añadir piezas tuyas")+'"><span class="czit">'+czT("Montaje",{s:[mtS,mtP],r:1,a:mtA||null})+"</span>"+(mtA||'<span class="czir">'+IC.r+"</span>")+"</button></div>";
@@ -2659,10 +2660,9 @@ function cartView(){
   '<div class="side"><div class="box czs"><h3>Resumen del pedido</h3>'+
   czI({i:IC.cart,t:"Artículos ("+n+")",a:money(tot),c:"czi0"})+mtB+dlB+
   (pk?czI({i:IC.shop,t:"Recoger en el local",s:["Te indicamos dónde por WhatsApp"],a:"Gratis",ac:"czg",c:dlB?"czin":""}):
-   sh?czI({i:IC.truck,t:(dlB?"":"Envío · ")+esc(sh.n)+(sh.v>1?" · "+sh.v+" viajes":""),s:[ad.d?esc(ad.d):gOk(ad.g)?"Punto marcado en el mapa":"",esc(dn)],a:sh.p||sOv!=null?(sOv!=null&&sOv!=sP0?"<s>"+money(sP0||0)+"</s> ":"")+money(sh.p):"Gratis",ac:sh.p||sOv!=null?"":"czg",r:adC,b:chB,c:dlB?"czin":""}):
-   adC?czI({i:IC.truck,t:dlB?"Dirección de envío":"Envío",s:[esc([ad.m,ad.d].filter(Boolean).join(" · ")),esc(dn)],a:sOv!=null?money(sOv):gOk(ad.g)&&ptHave(ad.g)===undefined?"…":"Se acuerda",ac:sOv!=null?"":"czq",r:1,b:chB,c:dlB?"czin":""}):
+   sh?czI({i:IC.truck,t:(dlB?"":"Envío · ")+esc(sh.n)+(sh.v>1?" · "+sh.v+" viajes":""),s:[ad.d?esc(ad.d):gOk(ad.g)?"Punto marcado en el mapa":"",esc(dn)],a:pE(sh.p||sOv!=null?(sOv!=null&&sOv!=sP0?"<s>"+money(sP0||0)+"</s> ":"")+money(sh.p):"Gratis"),ac:sh.p||sOv!=null?"":"czg",r:adC,b:chB,c:dlB?"czin":""}):
+   adC?czI({i:IC.truck,t:dlB?"Dirección de envío":"Envío",s:[esc([ad.m,ad.d].filter(Boolean).join(" · ")),esc(dn)],a:sOv!=null?pE(money(sOv)):gOk(ad.g)&&ptHave(ad.g)===undefined?"…":pE("Se acuerda"),ac:sOv!=null?"":"czq",r:1,b:chB,c:dlB?"czin":""}):
    dn?'<p class="sv czd">'+IC.truck+esc(dn)+"</p>":"")+etB+
-  (PR?czI({i:IC.pencil,t:"Precios",s:[prN?prN+(prN==1?" cambiado":" cambiados"):""],r:1,b:'data-vpr="" aria-label="Precios"'}):"")+
   (dc!=null?czI({i:IC.tag,t:"Descuento",a:dc?"−"+money(dc):null,r:1,b:'data-vdc aria-label="Descuento"'}):"")+
   '<div class="czo"><span>Total</span><span>'+usd(gt)+"</span></div>"+pyBox(gt)+
   '<button class="btn wa" id="order">'+IC.wa+'Enviar el pedido</button>'+(AC?"":accNote("tu cesta"))+"</div>"+    
