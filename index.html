@@ -545,7 +545,7 @@ footer p{margin:0 0 6px;opacity:.7}
 .etk{display:grid;grid-template-columns:1.3fr 1fr 1fr 1fr;gap:4px;padding:4px;border-radius:12px;background:var(--soft)}
 .etk button{min-height:38px;padding:2px 4px;line-height:1.15;border:0;border-radius:9px;background:none;color:var(--mut);font-size:13.5px;font-weight:600;cursor:pointer}
 .etk button.on{background:var(--card);color:var(--ink);box-shadow:0 1px 3px rgba(0,0,0,.12)}
-.ettm{display:flex;align-items:center;gap:8px;margin-top:8px}.etpr{flex:1;display:flex;align-items:center;gap:4px;min-width:0}.etpr>.nsel{flex:1;min-width:0;padding:0 8px}.etpr>.nsel>span{text-align:right;font-variant-numeric:tabular-nums}.etpr>i{font-style:normal;color:var(--mut);font-size:14px}.ettm>select,.ettm>.nsel{flex:1;min-width:0}.ettm>span{color:var(--mut);font-size:14px}
+.ettm{display:flex;align-items:center;gap:8px;margin-top:8px}.etpr{flex:1;display:flex;align-items:center;gap:4px;min-width:0}.etpr>.nsel{flex:1;min-width:0;padding:0 8px}.etpr>.nsel>span{text-align:right;font-variant-numeric:tabular-nums}.etpr>.nsel:first-of-type{flex:1.4}.ettm>.etl{flex:none;width:50px;color:var(--mut);font-size:14px}.etpr>i{font-style:normal;color:var(--mut);font-size:14px}.ettm>select,.ettm>.nsel{flex:1;min-width:0}.ettm>span{color:var(--mut);font-size:14px}
 .etr{display:flex;align-items:flex-start;gap:9px;margin:4px 0 12px;padding:10px 12px;border-radius:11px;background:var(--soft);font-size:14px;line-height:1.35;color:var(--ink2)}
 .etr svg{width:17px;height:17px;flex:none;margin-top:1px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
 .etr b{color:var(--ink);font-weight:600}.etr.etw{color:var(--mut)}.etr.etd{background:rgba(247,144,9,.13);color:var(--ink)}.etr.etd svg{color:#dc6803}.etr.etd a{color:inherit;font-weight:600;text-decoration:underline}
@@ -1442,7 +1442,7 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=fa
   var K=[["","Lo antes posible"],["b","Antes de"],["a","Después de"],["e","Entre"]].map(function(x){return'<button type="button" data-k="'+x[0]+'" class="'+(s.k==x[0]?"on":"")+'" aria-pressed="'+(s.k==x[0])+'">'+x[1]+"</button>"}).join("");
   var T=s.k=="b"?'<div class="ettm">'+tSel("b","Antes de",s.b,Math.max(LO+15,mn),Math.max(TB,LO+15,mn),"b",L,X)+"</div>":
    s.k=="a"?'<div class="ettm">'+tSel("a","Después de",s.a,Math.max(LO,mn),HI-15,"a",L)+"</div>":
-   s.k=="e"?'<div class="ettm">'+tSel("a","Desde",s.a,Math.max(LO,mn),HI-15,"a",L)+'<span>y</span>'+tSel("b","Hasta",s.b,s.a+15,Math.max(TB,s.a+15),"h",L,s.a+ET_MIN)+"</div>":"";
+   s.k=="e"?'<div class="ettm"><span class="etl">Desde</span>'+tSel("a","Desde",s.a,Math.max(LO,mn),HI-15,"a",L)+'</div><div class="ettm"><span class="etl">Hasta</span>'+tSel("b","Hasta",s.b,s.a+15,Math.max(TB,s.a+15),"h",L,s.a+ET_MIN)+"</div>":"";
   var eQ=etAsk(s);eQ=eQ.charAt(0).toUpperCase()+eQ.slice(1);
   var R=E===undefined?'<p class="etr etw">Calculando…</p>':
    etDif(E,s)?'<p class="etr etd">'+IC.wa+"<span>"+(!s.k?"Puede llegar <b>"+esc(etTxt(E.r))+"</b> si lo coordinamos contigo.":"<b>"+esc(eQ)+"</b>: "+(etNar(s)?"una franja tan corta la":"ese horario lo")+" coordinamos contigo.")+
@@ -1456,7 +1456,7 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=fa
   else if(s.k){var K2=[["b","Antes de"],["a","Después de"],["e","Entre"]].map(function(x){return'<button type="button" data-k2="'+x[0]+'" class="'+(xs.k==x[0]?"on":"")+'" aria-pressed="'+(xs.k==x[0])+'">'+x[1]+"</button>"}).join("");
    var T2=xs.k=="b"?'<div class="ettm">'+tSel("xb","Antes de",xs.b,LO+15,HI,"b",null)+"</div>":
     xs.k=="a"?'<div class="ettm">'+tSel("xa","Después de",xs.a,LO,HI-15,"a",null)+"</div>":
-    '<div class="ettm">'+tSel("xa","Desde",xs.a,LO,HI-15,"a",null)+'<span>y</span>'+tSel("xb","Hasta",xs.b,xs.a+15,HI,"b",null)+"</div>";
+    '<div class="ettm"><span class="etl">Desde</span>'+tSel("xa","Desde",xs.a,LO,HI-15,"a",null)+'</div><div class="ettm"><span class="etl">Hasta</span>'+tSel("xb","Hasta",xs.b,xs.a+15,HI,"b",null)+"</div>";
    XB='<div class="etx"><div class="etxh"><small>Si no, en otra dirección</small><button type="button" class="etxq" data-x="0" aria-label="Quitar la otra dirección" title="Quitar">'+IC.x+"</button></div>"+
     '<div class="etk">'+K2+"</div>"+T2+(xb?'<div class="etxd">'+IC.pin+'<span class="adpt"><b>'+esc(adNm(xb))+"</b>"+(xb.d?"<small>"+esc(xb.d)+"</small>":"")+
     '<button type="button" class="czch" data-xa>Cambiar</button></span></div>':'<button type="button" class="czch" data-xa>Añadir la otra dirección</button>')+"</div>";
