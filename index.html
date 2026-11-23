@@ -155,6 +155,8 @@ img.bad{opacity:0}
 .cempty .ico svg{width:34px;height:34px;stroke-width:1.6}
 .cempty h2{margin:0 0 6px;font-size:20px;color:var(--ink)}
 .cempty p{margin:0 0 20px;color:var(--mut);font-size:14.5px}
+
+.cefill{min-height:calc(100vh - 116px);min-height:calc(100svh - 116px);display:flex;flex-direction:column;justify-content:center}
 .cewrap.sg{min-height:0;padding:22px 0 8px}
 .cesug{display:grid;grid-template-columns:minmax(0,1fr);gap:22px;padding:14px 0 28px}
 .cesug>*{min-width:0}
@@ -2593,8 +2595,8 @@ function cartView(){
  document.title="Cesta · "+(M.Title||"");
  if(!keep.length){var ch="",sg;cats.forEach(function(c){if(all.some(function(p){return p.Category===c.name}))ch+=chip(c.name,false,"cat",norm(c.name))});
   if(czU&&!BL&&bList().length)bLoad();sg=csSug();
-  v.innerHTML=(czU?'<div class="cartbox cz">'+czUndo()+"</div>":"")+'<div class="cewrap'+(sg?" sg":"")+'"><div id="cX"></div><div class="box cempty"><div class="ico">'+IC.cart+'</div><h2>Tu cesta está vacía</h2><p>Añade artículos desde el catálogo y aquí verás el total.</p>'+
-   '<a class="btn" data-nav href="./">Ver el catálogo</a>'+(ch?'<div class="chips">'+ch+"</div>":"")+"</div></div>"+(sg?'<div class="cesug">'+sg+"</div>":"");cxHook([]);return}
+  v.innerHTML=(czU?'<div class="cartbox cz">'+czUndo()+"</div>":"")+(sg?'<div class="cefill">':"")+'<div class="cewrap'+(sg?" sg":"")+'"><div id="cX"></div><div class="box cempty"><div class="ico">'+IC.cart+'</div><h2>Tu cesta está vacía</h2><p>Añade artículos desde el catálogo y aquí verás el total.</p>'+
+   '<a class="btn" data-nav href="./">Ver el catálogo</a>'+(ch?'<div class="chips">'+ch+"</div>":"")+"</div></div>"+(sg?'<div class="cesug">'+sg+"</div></div>":"");cxHook([]);return}
  var co="";try{co=localStorage.getItem("co")||""}catch(e){}if(cSig()!=co){tCk("con");tCk("ver")}
  if(!BL&&bList().length)bLoad();
  var R=cRules(keep),tot=0,n=0,rows="";
