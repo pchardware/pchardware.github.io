@@ -1321,9 +1321,14 @@ var ETV={},ETQ={};
 
 function etDay(i){var d=new Date();d.setHours(12,0,0,0);d.setDate(d.getDate()+i);return d}
 function etIso(d){return d.getFullYear()+"-"+(d.getMonth()<9?"0":"")+(d.getMonth()+1)+"-"+(d.getDate()<10?"0":"")+d.getDate()}
+
+
+function etNow(){var d=new Date();return d.getHours()*60+d.getMinutes()}
+function etLate(){return etNow()>=1185}
 function etSel(){var o=null;try{o=JSON.parse(localStorage.getItem("eta2")||"null")}catch(e){}o=o&&typeof o=="object"?o:{};
- var d=0;if(o.f){var x=new Date(o.f+"T12:00:00");d=Math.max(0,Math.round((x-etDay(0))/864e5))}
+ var d=0;if(o.f){var x=new Date(o.f+"T12:00:00");d=Math.round((x-etDay(0))/864e5);if(!(d>=0))o={},d=0}
  var k=["b","a","e"].indexOf(o.k)>=0?o.k:"",a=+o.a,b=+o.b;
+ if(!d&&k&&(etLate()||k!="a"&&isFinite(b)&&b<=etNow()))return{d:0,k:"",a:null,b:null,x:null};
  var x=o.x&&typeof o.x=="object"&&["b","a","e"].indexOf(o.x.k)>=0?o.x:null,X=null;
  if(x){var xa=+x.a,xb=+x.b;X={k:x.k,a:x.k=="a"||x.k=="e"?(isFinite(xa)?xa:1080):null,b:x.k=="b"||x.k=="e"?(isFinite(xb)?xb:1200):null}}
  return{d:isFinite(d)?Math.min(d,13):0,k:k,a:k=="a"||k=="e"?(isFinite(a)?a:720):null,b:k=="b"||k=="e"?(isFinite(b)?b:840):null,x:X}}
@@ -1390,7 +1395,8 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=fa
   if(E){LH=E.h;LX={d:s.d,x:E.x}}var mn=!s.d&&LH!=null&&LH<=HI-15?LH:0;
   if(mn&&s.k&&((s.k!="a"&&s.b<mn)||(s.k!="b"&&s.a<mn))){if(s.k=="b")s.b=LX&&LX.d==s.d&&LX.x!=null?Math.max(mn,LX.x):mn;
    else{s.a=Math.max(s.a,mn);if(s.k=="e"&&s.b<=s.a)s.b=Math.min(HI,s.a+60)}etSave(s);if(!tch)snap=etRw();E=etHave(ad);L=E&&E.lim}
-  var X=LX&&LX.d==s.d?(LX.x==null?1e9:LX.x):null;  for(i=0;i<7;i++){var nm=etDn(i).replace(/^el /,"");days+='<option value="'+i+'"'+(i==s.d?" selected":"")+">"+nm.charAt(0).toUpperCase()+nm.slice(1)+"</option>"}
+   
+  var X=LX&&LX.d==s.d?(LX.x==null?1e9:LX.x):null;  for(i=etLate()?1:0;i<7;i++){var nm=etDn(i).replace(/^el /,"");days+='<option value="'+i+'"'+(i==s.d?" selected":"")+">"+nm.charAt(0).toUpperCase()+nm.slice(1)+"</option>"}
   var K=[["","Lo antes posible"],["b","Antes de"],["a","Después de"],["e","Entre"]].map(function(x){return'<button type="button" data-k="'+x[0]+'" class="'+(s.k==x[0]?"on":"")+'" aria-pressed="'+(s.k==x[0])+'">'+x[1]+"</button>"}).join("");
   var T=s.k=="b"?'<div class="ettm"><select data-t="b" aria-label="Antes de">'+tOpt(s.b,Math.max(LO+15,mn),HI,"b",L,X)+"</select></div>":
    s.k=="a"?'<div class="ettm"><select data-t="a" aria-label="Después de">'+tOpt(s.a,Math.max(LO,mn),HI-15,"a",L)+"</select></div>":
@@ -1434,7 +1440,7 @@ function etSheet(ad){var ov=document.createElement("div"),LH=null,LX=null,tch=fa
    if(c.hasAttribute("data-x")){s.x=c.getAttribute("data-x")=="1"?{k:"a",a:1080,b:null}:null;etSave(s);draw();if(s.x&&!adAlt())adSheet(1,draw);return}
    var k2=c.getAttribute("data-k2");if(s.x&&k2!=s.x.k){s.x={k:k2,a:k2=="b"?null:1080,b:k2=="b"?1020:k2=="e"?1200:null};etSave(s);draw()}return}
   var b=ev.target.closest&&ev.target.closest("[data-k]");
-  if(b){var s=etSel(),k=b.getAttribute("data-k");if(k!=s.k){tch=true;s.k=k;s.a=k=="a"?960:k=="e"?720:null;s.b=k=="b"?720:k=="e"?840:null;etSave(s);draw()}return}
+  if(b){var s=etSel(),k=b.getAttribute("data-k");if(k!=s.k){tch=true;s.k=k;if(k&&!s.d&&etLate())s.d=1;s.a=k=="a"?960:k=="e"?720:null;s.b=k=="b"?720:k=="e"?840:null;etSave(s);draw()}return}
   if(ev.target.closest&&ev.target.closest(".etok"))close(true);else if(ev.target.closest&&ev.target.closest(".adcl"))close();
   else if(ev.target===ov){if(dirty())nag();else close()}};
  document.addEventListener("keydown",key,true);draw();document.body.appendChild(ov);document.body.classList.add("adon")}
