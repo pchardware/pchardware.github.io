@@ -2312,7 +2312,7 @@ function pyQ(k,t){var f=pyF(k),R=PYR,v,x,T,i,p=0;
  if(k=="usd")return{a:money(t),w:"$"+pyN(t)+" USD"};
  if(k=="cup"||k=="eur"){if(R===0||R===undefined)return{a:"…",q:1,w:""};if(!R||k=="eur"&&!R.e)return{a:"Se confirma",s:"La tasa se confirma con el pedido",q:1,w:"tasa por confirmar"}}
  if(k=="cup"){x=pyCupX(t);v=Math.max(50,Math.round(t*x/50)*50);
-  return{a:pyN(v)+" CUP",s:"Tasa "+x+" · solo efectivo",w:pyN(v)+" CUP (tasa "+x+")"}}
+  return{a:pyN(v)+" CUP",w:pyN(v)+" CUP (tasa "+x+")"}}
  if(k=="eur"){v=Math.ceil(t*R.u*(1+f/100)/R.e);return{a:pyN(v)+" EUR",s:f?"Tasa del día + "+f+" %":"Tasa del día",w:pyN(v)+" EUR"}}
  v=f?Math.ceil(t*(1+f/100)):t;return{a:money(v),s:f?"Recargo "+f+" %":"",w:"$"+pyN(v)+" USD"+(f?" (recargo "+f+" %)":"")}}
 function pyRad(k,t,on,at){var q=pyQ(k,t);
