@@ -443,6 +443,7 @@ footer p{margin:0 0 6px;opacity:.7}
 .czet .czch{display:block;margin-top:3px;padding:0;border:0;background:none;font-size:13px;font-weight:600;color:var(--ink);text-decoration:underline;text-underline-offset:3px;cursor:pointer}
 
 .czgw{display:flex;align-items:center;gap:5px;margin-top:3px;font-size:12.5px;color:var(--mut)}
+.czsw{display:flex;flex-wrap:wrap;align-items:center;gap:4px 10px;margin-top:5px}.czsw .b1{position:static}.czsw .czgw{margin-top:0}
 .czgw svg{width:14px;height:14px;flex:none;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
 .czac{margin:0 0 14px;padding:10px 12px;border:1px solid var(--line);border-radius:11px;font-size:14px;line-height:1.4;color:var(--ink2)}
 .czac.nag{border-color:var(--hot);background:var(--hotbg)}
@@ -2568,6 +2569,9 @@ function mtSheet(){var ov=document.createElement("div");ov.className="adsh";
  document.addEventListener("keydown",key,true);draw();document.body.appendChild(ov);document.body.classList.add("adon")}
 
  
+ 
+function czSt(p){var st=note(M.Not1,p),w=wTerm(p);if(!st&&!w)return"";
+ return'<div class="czsw">'+(st?'<span class="b1">'+esc(st)+"</span>":"")+(w?'<span class="czgw">'+IC.shield+"Garantía: "+esc(w)+"</span>":"")+"</div>"}
 function cartView(){
  var c=getCart(),v=$("vCart"),keep=c.items.filter(function(i){return bySlug[i.productId]});
  if(keep.length!=c.items.length){c.items=keep;setCart(c)}
@@ -2580,7 +2584,7 @@ function cartView(){
  var R=cRules(keep),tot=0,n=0,rows="";
  keep.forEach(function(i){var p=bySlug[i.productId],q=parseInt(i.qty,10)||0,s=esc(p.slug);tot+=p.Price*q;n+=q;
   rows+='<div class="czr"><button type="button" class="czp" data-cz="'+s+'" aria-label="Ver las fotos"><img loading="lazy" alt="" src="'+thumb(p)+'"><i>'+IC.full+"</i></button>"+
-   '<div class="czm">'+(p.SubCategory||p.Category?"<small>"+esc(p.SubCategory||p.Category)+"</small>":"")+'<a data-nav href="'+pUrl(p.slug)+'">'+esc(p.Label)+"</a>"+(wTerm(p)?'<span class="czgw">'+IC.shield+"Garantía: "+esc(wTerm(p))+"</span>":"")+"</div>"+
+   '<div class="czm">'+(p.SubCategory||p.Category?"<small>"+esc(p.SubCategory||p.Category)+"</small>":"")+'<a data-nav href="'+pUrl(p.slug)+'">'+esc(p.Label)+"</a>"+czSt(p)+"</div>"+
    '<button class="czx" data-rm="'+s+'" aria-label="Quitar" title="Quitar">'+IC.trash+"</button>"+
    (q>1?'<div class="czu">'+money(p.Price)+" c/u</div>":"")+
    '<div class="czc"><span class="qty"><button data-cq="-1" data-s="'+s+'" aria-label="Menos">−</button><input type="number" min="0" max="'+qMax(p.slug)+'" value="'+q+'" data-ci="'+s+'" aria-label="Cantidad"><button data-cq="1" data-s="'+s+'" aria-label="Más">+</button></span>'+stkBtn(p.slug,q,1)+"</div>"+
