@@ -418,9 +418,9 @@ footer p{margin:0 0 6px;opacity:.7}
 @media(max-width:700px){#comoBar{bottom:84px}}
 #comoBar span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}#comoBar button{flex:none;border:0;border-radius:8px;background:var(--card);color:#1d2939;font:inherit;font-weight:700;padding:6px 12px;cursor:pointer}
 .adf label,#accNm label{display:block;font-size:12.5px;color:var(--mut);margin:10px 2px 4px}
-.adlr{display:flex;align-items:flex-end;justify-content:space-between;gap:8px}.adlr label{flex:1}
-.adsd{display:inline-flex;align-items:center;gap:5px;margin:0 0 4px;padding:4px 10px;border:1px solid var(--bd);border-radius:8px;background:var(--card);color:var(--ink);font:inherit;font-size:13px;font-weight:600;cursor:pointer}
-.adsd svg{width:15px;height:15px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}@media(hover:hover){.adsd:hover{border-color:var(--ink)}}
+.adtw{position:relative}.adtw.sch textarea{padding-right:50px}
+.adsd{position:absolute;top:6px;right:6px;display:flex;align-items:center;justify-content:center;width:36px;height:36px;padding:0;border:0;border-radius:8px;background:var(--soft);color:var(--ink);cursor:pointer}
+.adsd svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}@media(hover:hover){.adsd:hover{background:var(--soft2)}}
 #accNm .an{margin:6px 2px 0;font-size:13px;color:var(--mut)}#accNm .btn{margin-top:10px}#nmOk:disabled{opacity:.4;cursor:default}
 .adf select,.adf textarea,#accNm input{width:100%;border:1px solid var(--bd);border-radius:10px;padding:10px 12px;font:inherit;font-size:15px;background:var(--card);color:var(--ink)}
 .adf textarea{min-height:68px;resize:vertical;display:block}
@@ -1625,7 +1625,9 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
   (P.length?'<label>Provincia</label><select data-ad="p"'+dis+">"+op(P,ap)+'</select><p class="an" data-ad="n">'+esc(shNote(ap))+
    '</p><label>Municipio</label><select data-ad="m"'+dis+">"+op(G[ap]||[],a.m,ap)+'</select><div data-ad="zw">'+zw(ap,a.m,a.z)+"</div>":"")+
    
-  (pt&&!ro?'<div class="adlr"><label>Dirección</label><button type="button" class="adsd" data-srd>'+IC.search+"Buscar en el mapa</button></div>":"<label>Dirección</label>")+'<textarea data-ad="d" maxlength="300"'+dis+' placeholder="'+(ro?"Sin dirección":"Calle, número, entre calles, referencias")+'">'+esc(a.d||"")+"</textarea>"+
+   
+  '<label>Dirección</label><div class="adtw'+(pt&&!ro?" sch":"")+'"><textarea data-ad="d" maxlength="300"'+dis+' placeholder="'+(ro?"Sin dirección":"Calle, número, entre calles, referencias")+'">'+esc(a.d||"")+"</textarea>"+
+  (pt&&!ro?'<button type="button" class="adsd" data-srd aria-label="Buscar en el mapa" title="Buscar en el mapa">'+IC.search+"</button>":"")+"</div>"+
    
   '<label>Observación <small class="adop">(opcional)</small></label><textarea data-ad="o" maxlength="200" rows="2"'+dis+' placeholder="'+(ro?"Sin observación":"Ej. portón verde, llamar al llegar")+'">'+esc(a.o||"")+"</textarea>"+
   (ro?"":'<div class="adft"><button class="btn adok" disabled>Guardar dirección</button></div>');
@@ -1668,7 +1670,9 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
  var SR=[],SRK=-1,SRO=false,SRL=null,SRQ=null;
  function srAp(r){return r.t=="entre"||r.t=="esquina"||r.t=="lugar"?"":"Aproximado: "}
  function srDraw(){var L=q(".adsl");if(!L)return;L.hidden=false;
-  if(SR.length<2){var r=SR[SRK];L.innerHTML=r?'<p class="an">'+srAp(r)+esc(r.n)+", "+esc(r.m)+". Mueve el punto si no es ahí</p>":"";return}
+  
+
+  if(SR.length<2){var r=SR[SRK];L.innerHTML=r&&srAp(r)?'<p class="an">Aproximado: ajusta el punto</p>':"";L.hidden=!L.innerHTML;return}
   if(!SRO&&!SR[SRK]){L.innerHTML='<button type="button" class="adsx adsv" data-srv><span><b>'+SR.length+" opciones</b><small>Ninguna elegida</small></span><em>Ver opciones</em></button>";return}
   if(!SRO&&SR[SRK]){var r=SR[SRK];L.innerHTML='<button type="button" class="adsx adsv on" data-srv><span class="adsn">'+(SRK+1)+"</span><span><b>"+srAp(r)+esc(r.n)+"</b><small>"+esc(r.m+", "+r.p)+"</small></span><em>"+(SRK+1)+" de "+SR.length+" · Ver opciones</em></button>";return}
   L.innerHTML=SR.map(function(r,k){return'<button type="button" class="adsx'+(k==SRK?" on":"")+'" data-sri="'+k+'"><span class="adsn">'+(k+1)+"</span><span><b>"+srAp(r)+esc(r.n)+"</b><small>"+esc(r.m+", "+r.p)+"</small></span></button>"}).join("")}
