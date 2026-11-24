@@ -418,6 +418,9 @@ footer p{margin:0 0 6px;opacity:.7}
 @media(max-width:700px){#comoBar{bottom:84px}}
 #comoBar span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}#comoBar button{flex:none;border:0;border-radius:8px;background:var(--card);color:#1d2939;font:inherit;font-weight:700;padding:6px 12px;cursor:pointer}
 .adf label,#accNm label{display:block;font-size:12.5px;color:var(--mut);margin:10px 2px 4px}
+.adlr{display:flex;align-items:flex-end;justify-content:space-between;gap:8px}.adlr label{flex:1}
+.adsd{display:inline-flex;align-items:center;gap:5px;margin:0 0 4px;padding:4px 10px;border:1px solid var(--bd);border-radius:8px;background:var(--card);color:var(--ink);font:inherit;font-size:13px;font-weight:600;cursor:pointer}
+.adsd svg{width:15px;height:15px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}@media(hover:hover){.adsd:hover{border-color:var(--ink)}}
 #accNm .an{margin:6px 2px 0;font-size:13px;color:var(--mut)}#accNm .btn{margin-top:10px}#nmOk:disabled{opacity:.4;cursor:default}
 .adf select,.adf textarea,#accNm input{width:100%;border:1px solid var(--bd);border-radius:10px;padding:10px 12px;font:inherit;font-size:15px;background:var(--card);color:var(--ink)}
 .adf textarea{min-height:68px;resize:vertical;display:block}
@@ -444,6 +447,7 @@ footer p{margin:0 0 6px;opacity:.7}
 .adsr{margin-top:8px}.adsi{display:flex;gap:8px}
 .adsi input{flex:1;min-width:0;height:42px;border:1px solid var(--bd);border-radius:10px;padding:0 12px;font:inherit;font-size:15px;background:var(--card);color:var(--ink);-webkit-appearance:none;appearance:none}
 .adsi .adb{flex:none;width:46px;padding:0}
+.adsq{display:none}.adfs .adsq{display:flex}.adfs .adsq+.adsl .an,.adfs .adsq+.adsl .adsx:first-child{margin-top:6px}
 .adsl[hidden]{display:none}.adsl .an{margin:6px 2px 0}
 .adsl{max-height:min(42vh,360px);overflow:auto;overscroll-behavior:contain}
 .adsx{display:flex;align-items:center;gap:10px;width:100%;margin-top:6px;padding:8px 12px;border:1px solid var(--bd);border-radius:10px;background:var(--card);color:var(--ink);text-align:left;font:inherit;cursor:pointer}
@@ -1613,11 +1617,15 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
  e.innerHTML=(pt||(ro&&g)?'<label>Ubicación</label>'+(ro?"":'<div class="adpb"><button type="button" class="adb" data-gps>'+IC.gps+'Usar mi ubicación</button><button type="button" class="adb" data-map>'+IC.map+"Elegir en el mapa</button></div>"+
    
 
-   '<div class="adsr"><div class="adsl" hidden></div></div>')+
+   
+
+   '<div class="adsr"><div class="adsi adsq"><input type="search" data-sq enterkeyhint="search" maxlength="300" autocomplete="off" placeholder="Ej. 23 / C y D, Vedado" aria-label="Buscar la dirección">'+
+   '<button type="button" class="adb" data-srb aria-label="Buscar">'+IC.search+"</button></div>"+'<div class="adsl" hidden></div></div>')+
    '<div class="admap" hidden></div><div class="adps" hidden></div>':"")+
   (P.length?'<label>Provincia</label><select data-ad="p"'+dis+">"+op(P,ap)+'</select><p class="an" data-ad="n">'+esc(shNote(ap))+
    '</p><label>Municipio</label><select data-ad="m"'+dis+">"+op(G[ap]||[],a.m,ap)+'</select><div data-ad="zw">'+zw(ap,a.m,a.z)+"</div>":"")+
-  '<label>Dirección</label><textarea data-ad="d" maxlength="300"'+dis+' placeholder="'+(ro?"Sin dirección":"Calle, número, entre calles, referencias")+'">'+esc(a.d||"")+"</textarea>"+
+   
+  (pt&&!ro?'<div class="adlr"><label>Dirección</label><button type="button" class="adsd" data-srd>'+IC.search+"Buscar en el mapa</button></div>":"<label>Dirección</label>")+'<textarea data-ad="d" maxlength="300"'+dis+' placeholder="'+(ro?"Sin dirección":"Calle, número, entre calles, referencias")+'">'+esc(a.d||"")+"</textarea>"+
    
   '<label>Observación <small class="adop">(opcional)</small></label><textarea data-ad="o" maxlength="200" rows="2"'+dis+' placeholder="'+(ro?"Sin observación":"Ej. portón verde, llamar al llegar")+'">'+esc(a.o||"")+"</textarea>"+
   (ro?"":'<div class="adft"><button class="btn adok" disabled>Guardar dirección</button></div>');
@@ -1688,7 +1696,7 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
  function fsD(){if(!fsB)return;fsB.innerHTML=full?IC.fsOut+"<span>Listo</span>":IC.fsIn;fsB.setAttribute("aria-label",full?"Salir de pantalla completa":"Ver el mapa en pantalla completa");fsB.title=fsB.getAttribute("aria-label")}
   
  function fsK(ev){if(!e.isConnected){fs(false);return}if(ev.key=="Escape"){ev.stopPropagation();ev.preventDefault();fs(false)}}
- function fs(on){full=!!on&&e.isConnected;e.classList.toggle("adfs",full);document.body.classList.toggle("adfson",full);document.documentElement.classList.toggle("adfson",full);fsD();fsTop();
+ function fs(on){full=!!on&&e.isConnected;e.classList.toggle("adfs",full);document.body.classList.toggle("adfson",full);document.documentElement.classList.toggle("adfson",full);fsD();if(full){var s1=q("[data-sq]"),d1=q('[data-ad="d"]');if(s1&&d1)s1.value=d1.value}fsTop();
   window[full?"addEventListener":"removeEventListener"]("keydown",fsK,true);
   if(SRO&&SR.length>1)setTimeout(function(){if(e.isConnected)srPins(true)},120);if(full&&map&&g)setTimeout(function(){if(map)map.panTo(g)},80)}
  function gps(btn){if(!navigator.geolocation){toast("Este teléfono no da la ubicación",2500);return}btn.disabled=true;btn.classList.add("on");
@@ -1717,12 +1725,17 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
   var b=q(".adsr");if(SRO&&SR.length>1&&b&&!b.contains(ev.target)){SRO=false;srDraw()}}
  document.addEventListener("pointerdown",srOut,true);
  if(sri)sri.addEventListener("input",function(){if(sri.value.trim())return;SR=[];SRK=-1;SRO=false;srPins();var l=q(".adsl");if(l){l.innerHTML="";l.hidden=true}});
+ var sqi=q("[data-sq]"),dta=q('[data-ad="d"]');
+ if(sqi&&dta){sqi.addEventListener("input",function(){dta.value=sqi.value;dirty();if(!sqi.value.trim()){SR=[];SRK=-1;SRO=false;srPins();var l=q(".adsl");if(l){l.innerHTML="";l.hidden=true}}});
+  sqi.addEventListener("keydown",function(ev){if(ev.key=="Enter"){ev.preventDefault();sr()}});
+  dta.addEventListener("input",function(){sqi.value=dta.value})}
   
  var srb=q(".adsr");if(srb&&window.ResizeObserver)new ResizeObserver(fsTop).observe(srb);
  e.onclick=function(ev){var t=ev.target.closest&&ev.target.closest("button");if(!t||!e.contains(t))return;
   if(t.hasAttribute("data-gps"))gps(t);else if(t.hasAttribute("data-map")){var dv=q('[data-ad="d"]');dv=dv?dv.value.trim():"";if(dv.length>=2&&dv!=SRQ)sr();else{mapOpen().then(function(){if(e.isConnected&&SR.length>1)srPins(true)})}}else if(t.hasAttribute("data-clr"))setG(null);
   else if(t.hasAttribute("data-use")){setP(ptHave(g));ps();dirty()}
-  else if(t.hasAttribute("data-srb"))sr();else if(t.hasAttribute("data-sri"))srPick(+t.getAttribute("data-sri"));
+  else if(t.hasAttribute("data-srb"))sr();
+  else if(t.hasAttribute("data-srd")){var dd=q('[data-ad="d"]');if(dd&&dd.value.trim().length<2){dd.focus();return}sr();var sb=q(".adpb");if(sb)sb.scrollIntoView({block:"start",behavior:"smooth"})}else if(t.hasAttribute("data-sri"))srPick(+t.getAttribute("data-sri"));
   else if(t.hasAttribute("data-srv")){SRO=true;srDraw();srPins(true)}
   else if(t.classList.contains("adok")){fs(false);var A=adGet(),o=cur();if(X){A=Object.assign({},A);A.alt=o;adSet(A)}else{if(A.alt)o.alt=A.alt;adSet(o)}dirty();toast("Dirección guardada",1500);if(opt.saved)opt.saved();else route(true)}};
  if(opt.map&&(g||(pt&&vr())))mapOpen()}
