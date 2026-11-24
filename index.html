@@ -1659,7 +1659,7 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
  
 
  var SR=[],SRK=-1,SRO=false,SRL=null;
- function srAp(r){return r.t=="entre"||r.t=="esquina"?"":"Aproximado: "}
+ function srAp(r){return r.t=="entre"||r.t=="esquina"||r.t=="lugar"?"":"Aproximado: "}
  function srDraw(){var L=q(".adsl");if(!L)return;L.hidden=false;
   if(SR.length<2){var r=SR[SRK];L.innerHTML=r?'<p class="an">'+srAp(r)+esc(r.n)+", "+esc(r.m)+". Mueve el punto si no es ahí</p>":"";return}
   if(!SRO&&SR[SRK]){var r=SR[SRK];L.innerHTML='<button type="button" class="adsx adsv on" data-srv><span class="adsn">'+(SRK+1)+"</span><span><b>"+srAp(r)+esc(r.n)+"</b><small>"+esc(r.m+", "+r.p)+"</small></span><em>"+(SRK+1)+" de "+SR.length+" · Ver opciones</em></button>";return}
