@@ -1712,6 +1712,8 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
  e.oninput=dirty;
  var sri=q("[data-sr]");if(sri)sri.addEventListener("keydown",function(ev){if(ev.key=="Enter"){ev.preventDefault();sr()}});
   
+ if(sri)sri.addEventListener("input",function(){if(sri.value.trim())return;SR=[];SRK=-1;SRO=false;srPins();var l=q(".adsl");if(l){l.innerHTML="";l.hidden=true}});
+  
  var srb=q(".adsr");if(srb&&window.ResizeObserver)new ResizeObserver(fsTop).observe(srb);
  e.onclick=function(ev){var t=ev.target.closest&&ev.target.closest("button");if(!t||!e.contains(t))return;
   if(t.hasAttribute("data-gps"))gps(t);else if(t.hasAttribute("data-map"))mapOpen();else if(t.hasAttribute("data-clr"))setG(null);
