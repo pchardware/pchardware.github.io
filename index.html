@@ -1244,19 +1244,23 @@ var SY=null,syT=0,syN=0,syK=["cart","pcs","addr"];
 
 
 var VAS=null;
-function stGet(k){if(VAS)return VAS[k]?JSON.parse(JSON.stringify(VAS[k])):null;try{return JSON.parse(localStorage.getItem(k)||"null")}catch(e){return null}}
-function stSet(k,v){if(VAS){VAS[k]=v;return}try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
+
+
+var VC=null;
+function vcOn(st){VC=st?{cart:st.cart&&typeof st.cart=="object"?st.cart:{items:[]},pcs:st.pcs&&typeof st.pcs=="object"?st.pcs:{},addr:st.addr&&typeof st.addr=="object"?st.addr:{}}:null;clearTimeout(syT);cartCount();PCS=pcLoad();route(true);if(!VC)syPush()}
+function stGet(k){if(VAS)return VAS[k]?JSON.parse(JSON.stringify(VAS[k])):null;if(VC&&k in VC)return JSON.parse(JSON.stringify(VC[k]));try{return JSON.parse(localStorage.getItem(k)||"null")}catch(e){return null}}
+function stSet(k,v){if(VAS){VAS[k]=v;return}if(VC&&k in VC){VC[k]=v;return}try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
 
 
 
 var OSK=["dlv","eta2","pay","paymx"];
 function osHas(o,k){return!!o&&typeof o=="object"&&Object.prototype.hasOwnProperty.call(o,k)}
-var OS={getItem:function(k){var o=getCart().o;if(osHas(o,k))return typeof o[k]=="string"?o[k]:null;if(VAS)return null;try{return localStorage.getItem(k)}catch(e){return null}},
+var OS={getItem:function(k){var o=getCart().o;if(osHas(o,k))return typeof o[k]=="string"?o[k]:null;if(VAS||VC)return null;try{return localStorage.getItem(k)}catch(e){return null}},
  setItem:function(k,v){osPut(k,v==null?null:String(v))},removeItem:function(k){osPut(k,null)}};
-function osPut(k,v){var c=getCart(),o=c.o&&typeof c.o=="object"?c.o:{};if(!VAS)try{localStorage.removeItem(k)}catch(e){}
+function osPut(k,v){var c=getCart(),o=c.o&&typeof c.o=="object"?c.o:{};if(!VAS&&!VC)try{localStorage.removeItem(k)}catch(e){}
  if(osHas(o,k)&&o[k]===v)return;o[k]=v;c.o=o;setCart(c)}
  
-function osMigrate(){if(VAS)return;var c=getCart(),o=c.o&&typeof c.o=="object"?c.o:{},ch=0;
+function osMigrate(){if(VAS||VC)return;var c=getCart(),o=c.o&&typeof c.o=="object"?c.o:{},ch=0;
  try{OSK.forEach(function(k){var v=localStorage.getItem(k);if(v!=null){if(!osHas(o,k)){o[k]=v;ch=1}localStorage.removeItem(k)}});
   if(!c.mt&&(localStorage.getItem("mnt")||localStorage.getItem("mntx"))){c.mt=mtSt();ch=1}localStorage.removeItem("mnt");localStorage.removeItem("mntx")}catch(e){}
  if(ch){c.o=o;setCart(c)}}
@@ -1604,7 +1608,7 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
  e.innerHTML=(pt||(ro&&g)?'<label>Ubicación</label>'+(ro?"":'<div class="adpb"><button type="button" class="adb" data-gps>'+IC.gps+'Usar mi ubicación</button><button type="button" class="adb" data-map>'+IC.map+"Elegir en el mapa</button></div>"+
    
 
-   '<div class="adsr"><div class="adsi"><input type="search" data-sr enterkeyhint="search" maxlength="200" autocomplete="off" placeholder="Ej. 47 e/ 54 y 58, Playa" aria-label="Buscar la dirección">'+
+   '<div class="adsr"><div class="adsi"><input type="search" data-sr enterkeyhint="search" maxlength="200" autocomplete="off" placeholder="Ej. 23 / C y D, Vedado" aria-label="Buscar la dirección">'+
    '<button type="button" class="adb" data-srb aria-label="Buscar">'+IC.search+"</button></div>"+'<div class="adsl" hidden></div></div>')+
    '<div class="admap" hidden></div><div class="adps" hidden></div>':"")+
   (P.length?'<label>Provincia</label><select data-ad="p"'+dis+">"+op(P,ap)+'</select><p class="an" data-ad="n">'+esc(shNote(ap))+
@@ -1707,8 +1711,8 @@ function adSheet(i,after){var ov=document.createElement("div"),TT;ov.className="
  adForm(ov.querySelector(".adf"),{map:1,alt:i,saved:function(){close();if(after)after();cartView()}})}
 function syHas(k){var v=syVal(k);return k=="cart"?v.items.length>0:Object.keys(v).length>0}
 function syLocal(k,v){stSet(k,v)}
-function syOn(){return!COMO&&!VAS&&!!(AC&&AC.t&&M.Auth&&M.Auth.client)}
-function syMark(k){if(VAS)return;syGet()[k].d=1;sySet();syN++;if(syOn()){clearTimeout(syT);syT=setTimeout(syPush,1500)}}
+function syOn(){return!COMO&&!VAS&&!VC&&!!(AC&&AC.t&&M.Auth&&M.Auth.client)}
+function syMark(k){if(VAS)return;if(VC){if(TX&&TX.vcm)TX.vcm(k);return}syGet()[k].d=1;sySet();syN++;if(syOn()){clearTimeout(syT);syT=setTimeout(syPush,1500)}}
 function syPost(put){return fetch(M.Auth.url+"/state",{method:"POST",body:JSON.stringify(put?{t:AC.t,put:put,va:1}:{t:AC.t,va:1})}).then(function(x){return x.ok?x.json():null})}
 function syPush(){if(!syOn())return;var S=syGet(),put={},n=syN,any=0;syK.forEach(function(k){if(S[k].d){put[k]=syVal(k);any=1}});if(!any)return;
  syPost(put).then(function(d){if(!d)return;if(d.va){vaEnter(d);return}acWho(d.who);Object.keys(put).forEach(function(k){if(d[k]){S[k].r=d[k].r;if(n==syN)S[k].d=0}});sySet();
@@ -1746,7 +1750,7 @@ function gCred(r){if(!r||!r.credential)return;
  fetch(M.Auth.url,{method:"POST",body:JSON.stringify({c:r.credential})}).then(function(x){return x.ok?x.json():null}).then(function(d){
   if(!d||!d.t){toast("No se pudo entrar",3000);return}AC={t:d.t,name:d.name,g:d.g,nk:d.nk};try{localStorage.setItem("acct",JSON.stringify(AC))}catch(e){}
   $("acc").hidden=true;accBtn();T("auth","in");toast("Hola, "+d.name,2500);route(true);syPull(true);stkGet(1)}).catch(function(){toast("No se pudo entrar",3000)})}
-function accOut(){if(COMO){comoExit();return}T("auth","out");tSend();AC=null;STK=null;STKv={};TX=null;txL=0;try{localStorage.removeItem("acct");localStorage.removeItem("addr")}catch(e){}syGet().addr={r:0,d:0};sySet();try{google.accounts.id.disableAutoSelect()}catch(e){}$("acc").hidden=true;accBtn();route(true)}
+function accOut(){if(COMO){comoExit();return}T("auth","out");tSend();VC=null;AC=null;STK=null;STKv={};TX=null;txL=0;try{localStorage.removeItem("acct");localStorage.removeItem("addr")}catch(e){}syGet().addr={r:0,d:0};sySet();try{google.accounts.id.disableAutoSelect()}catch(e){}$("acc").hidden=true;accBtn();route(true)}
 
 
 
@@ -1759,7 +1763,7 @@ function stkGet(force){if(COMO){comoBar();comoGet();return}if(!AC||!AC.t||!M.Aut
 var TX=null,txL=0;
 function txGet(){if(COMO)return;if(txL||!AC||!AC.t||!M.Auth||!M.Auth.url)return;txL=1;
  fetch(M.Auth.url+"/x",{method:"POST",body:JSON.stringify({t:AC.t})}).then(function(x){return x.ok?x.text():null}).then(function(c){
-  if(!c){txL=0;return}TX=new Function("X",c)({M:M,ac:function(){return AC},$:$,esc:esc,go:go,desc:descPaint,url:M.Auth.url,buy:1,como:1,slug:toSlug,hero:{go:heroGo,st:HR,kick:heroKick},season:{list:seList,key:seKey,look:seTry}});route(true)}).catch(function(){txL=0})}
+  if(!c){txL=0;return}TX=new Function("X",c)({M:M,ac:function(){return AC},$:$,esc:esc,go:go,desc:descPaint,url:M.Auth.url,buy:1,como:1,slug:toSlug,hero:{go:heroGo,st:HR,kick:heroKick},season:{list:seList,key:seKey,look:seTry},vc:{on:vcOn,get:function(){return VC}}});route(true)}).catch(function(){txL=0})}
 function qMax(s){return STK&&STK.q&&STK.q[s]!=null?STK.q[s]:99}
  
 function stkBtn(s,q,sm){if(!STK||!STK.q||STK.q[s]==null)return"";var n=STK.q[s],no=q>n,on=no||STKv[s],u=STK.u&&STK.u[s],v;
@@ -2596,9 +2600,9 @@ function pyLine(t){if(!pyOn())return"";var k=pySel(),q,m;
 
 
 
-function mtSt(){var c=getCart();if(c.mt&&typeof c.mt=="object")return c.mt;var o={};if(VAS)return o;
+function mtSt(){var c=getCart();if(c.mt&&typeof c.mt=="object")return c.mt;var o={};if(VAS||VC)return o;
  try{if(localStorage.getItem("mnt")=="1")o.on=1;var x=JSON.parse(localStorage.getItem("mntx")||"null");if(x&&typeof x=="object")o.x=x}catch(e){}return o}
-function mtPut(f){var c=getCart(),m=mtSt();f(m);c.mt=m;setCart(c);if(!VAS)try{localStorage.removeItem("mnt");localStorage.removeItem("mntx")}catch(e){}}
+function mtPut(f){var c=getCart(),m=mtSt();f(m);c.mt=m;setCart(c);if(!VAS&&!VC)try{localStorage.removeItem("mnt");localStorage.removeItem("mntx")}catch(e){}}
 function mtOn(){return!!mtSt().on}
 function mtSet(v){mtPut(function(m){if(v)m.on=1;else delete m.on})}
 function mtParts(){return(M.Mount&&M.Mount.parts)||[]}
