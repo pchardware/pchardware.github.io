@@ -1763,7 +1763,7 @@ function stkGet(force){if(COMO){comoBar();comoGet();return}if(!AC||!AC.t||!M.Aut
 var TX=null,txL=0;
 function txGet(){if(COMO)return;if(txL||!AC||!AC.t||!M.Auth||!M.Auth.url)return;txL=1;
  fetch(M.Auth.url+"/x",{method:"POST",body:JSON.stringify({t:AC.t})}).then(function(x){return x.ok?x.text():null}).then(function(c){
-  if(!c){txL=0;return}TX=new Function("X",c)({M:M,ac:function(){return AC},$:$,esc:esc,go:go,desc:descPaint,url:M.Auth.url,buy:1,como:1,slug:toSlug,hero:{go:heroGo,st:HR,kick:heroKick},season:{list:seList,key:seKey,look:seTry},vc:{on:vcOn,get:function(){return VC}}});route(true)}).catch(function(){txL=0})}
+  if(!c){txL=0;return}TX=new Function("X",c)({M:M,ac:function(){return AC},$:$,esc:esc,go:go,desc:descPaint,url:M.Auth.url,buy:1,como:1,slug:toSlug,hero:{go:heroGo,st:HR,kick:heroKick},season:{list:seList,key:seKey,look:seTry},vc:{on:vcOn,get:function(){return VC},own:function(k){try{return JSON.parse(localStorage.getItem(k)||"null")}catch(e){return null}}}});route(true)}).catch(function(){txL=0})}
 function qMax(s){return STK&&STK.q&&STK.q[s]!=null?STK.q[s]:99}
  
 function stkBtn(s,q,sm){if(!STK||!STK.q||STK.q[s]==null)return"";var n=STK.q[s],no=q>n,on=no||STKv[s],u=STK.u&&STK.u[s],v;
