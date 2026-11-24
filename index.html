@@ -445,8 +445,13 @@ footer p{margin:0 0 6px;opacity:.7}
 .adsi input{flex:1;min-width:0;height:42px;border:1px solid var(--bd);border-radius:10px;padding:0 12px;font:inherit;font-size:15px;background:var(--card);color:var(--ink);-webkit-appearance:none;appearance:none}
 .adsi .adb{flex:none;width:46px;padding:0}
 .adsl[hidden]{display:none}.adsl .an{margin:6px 2px 0}
-.adsx{display:block;width:100%;margin-top:6px;padding:8px 12px;border:1px solid var(--bd);border-radius:10px;background:var(--card);color:var(--ink);text-align:left;font:inherit;cursor:pointer}
-.adsx b{display:block;font-size:14px;font-weight:600}.adsx small{display:block;font-size:12.5px;color:var(--mut)}
+.adsl{max-height:min(42vh,360px);overflow:auto;overscroll-behavior:contain}
+.adsx{display:flex;align-items:center;gap:10px;width:100%;margin-top:6px;padding:8px 12px;border:1px solid var(--bd);border-radius:10px;background:var(--card);color:var(--ink);text-align:left;font:inherit;cursor:pointer}
+.adsx>span:nth-child(2){flex:1;min-width:0}.adsx b{display:block;font-size:14px;font-weight:600}.adsx small{display:block;font-size:12.5px;color:var(--mut)}
+.adsx.on{border-color:var(--ink)}.adsx em{flex:none;font-style:normal;font-size:12.5px;font-weight:600;text-decoration:underline;text-underline-offset:3px}
+.adsn,.admo b{display:inline-flex;align-items:center;justify-content:center;flex:none;width:24px;height:24px;border-radius:50%;background:var(--card);color:var(--ink);border:2px solid var(--ink);font-size:12px;font-weight:700;line-height:1}
+.adsx.on .adsn,.admo.on b{background:var(--ink);color:var(--card)}
+.admo{background:none;border:0}.admo b{width:26px;height:26px;box-shadow:0 2px 6px rgba(16,24,40,.35);cursor:pointer}
 .adfs .adsr{position:fixed;z-index:97;top:10px;left:50%;transform:translateX(-50%);width:min(520px,calc(100vw - 24px));margin:0;padding:8px;border-radius:12px;background:var(--card);box-shadow:0 6px 24px rgba(16,24,40,.28)}
 .adfs .admap .leaflet-top{top:var(--fst,74px)}
 .adfsb{display:flex;align-items:center;justify-content:center;gap:6px;height:34px;min-width:34px;padding:0 7px;border:2px solid rgba(0,0,0,.2);border-radius:6px;background:#fff;background-clip:padding-box;color:#222;font-family:inherit;font-size:14px;font-weight:600;cursor:pointer}
@@ -1651,28 +1656,41 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
    var FC=L.Control.extend({options:{position:"topright"},onAdd:function(){fsB=L.DomUtil.create("button","adfsb");fsB.type="button";
     L.DomEvent.disableClickPropagation(fsB);L.DomEvent.on(fsB,"click",function(ev){L.DomEvent.stop(ev);fs(!full)});fsD();return fsB}});
    map.addControl(new FC())}).catch(function(){box.innerHTML='<p class="an">No cargó el mapa: revisa la conexión</p>'})}
- var SR=[];
+ 
+
+ var SR=[],SRK=-1,SRO=false,SRL=null;
+ function srAp(r){return r.t=="entre"||r.t=="esquina"?"":"Aproximado: "}
+ function srDraw(){var L=q(".adsl");if(!L)return;L.hidden=false;
+  if(SR.length<2){var r=SR[SRK];L.innerHTML=r?'<p class="an">'+srAp(r)+esc(r.n)+", "+esc(r.m)+". Mueve el punto si no es ahí</p>":"";return}
+  if(!SRO&&SR[SRK]){var r=SR[SRK];L.innerHTML='<button type="button" class="adsx adsv on" data-srv><span class="adsn">'+(SRK+1)+"</span><span><b>"+srAp(r)+esc(r.n)+"</b><small>"+esc(r.m+", "+r.p)+"</small></span><em>"+(SRK+1)+" de "+SR.length+" · Ver opciones</em></button>";return}
+  L.innerHTML=SR.map(function(r,k){return'<button type="button" class="adsx'+(k==SRK?" on":"")+'" data-sri="'+k+'"><span class="adsn">'+(k+1)+"</span><span><b>"+srAp(r)+esc(r.n)+"</b><small>"+esc(r.m+", "+r.p)+"</small></span></button>"}).join("")}
+ function srPins(fit){if(!map)return;if(SRL){SRL.remove();SRL=null}if(SR.length<2)return;SRL=L.layerGroup().addTo(map);
+  SR.forEach(function(r,k){var m=L.marker([+r.ll[0],+r.ll[1]],{zIndexOffset:-100,icon:L.divIcon({className:"admo"+(k==SRK?" on":""),html:"<b>"+(k+1)+"</b>",iconSize:[26,26],iconAnchor:[13,13]})});
+   m.on("click",function(){if(e.isConnected)srPick(k)});SRL.addLayer(m)});
+  if(fit){map.invalidateSize();var b=q(".adsr"),t=full&&b?b.offsetHeight+30:30;   
+   map.fitBounds(SR.map(function(r){return[+r.ll[0],+r.ll[1]]}),{paddingTopLeft:[30,t],paddingBottomRight:[30,full?90:30],maxZoom:16})}}
  function sr(){var i=q("[data-sr]"),L=q(".adsl"),v=i?i.value.trim():"",p=q('[data-ad="p"]'),m=q('[data-ad="m"]');if(!i)return;if(v.length<2){i.focus();return}
-  L.hidden=false;L.innerHTML='<p class="an">Buscando…</p>';
+  L.hidden=false;L.innerHTML='<p class="an">Buscando…</p>';SR=[];SRK=-1;srPins();
   fetch(M.Auth.url+"/calle",{method:"POST",body:JSON.stringify({q:v,p:p?p.value:"",m:m?m.value:""})}).then(function(r){return r.ok?r.json():null})
-   .then(function(d){if(!e.isConnected)return;SR=(d&&d.r)||[];
+   .then(function(d){if(!e.isConnected)return;SR=(d&&d.r)||[];SRK=-1;SRO=true;
     if(!d){L.innerHTML='<p class="an">No se pudo buscar: prueba otra vez</p>';return}
     if(!SR.length){L.innerHTML='<p class="an">No la encontré: márcala en el mapa</p>';mapOpen();return}
     if(SR.length==1){srPick(0);return}
-    L.innerHTML=SR.map(function(r,k){return'<button type="button" class="adsx" data-sri="'+k+'"><b>'+esc(r.n)+"</b><small>"+esc(r.m+", "+r.p)+"</small></button>"}).join("")})
+    srDraw();mapOpen().then(function(){if(e.isConnected)srPins(true)})})
    .catch(function(){if(e.isConnected)L.innerHTML='<p class="an">Sin conexión: prueba otra vez</p>'})}
   
- function srPick(k){var r=SR[k],L=q(".adsl"),d=q('[data-ad="d"]'),i=q("[data-sr]");if(!r)return;
+ function srPick(k){var r=SR[k],d=q('[data-ad="d"]'),i=q("[data-sr]");if(!r)return;
   if(d&&!d.value.trim()&&i)d.value=i.value.trim();
-  L.hidden=false;L.innerHTML='<p class="an">'+(r.t=="entre"||r.t=="esquina"?"":"Aproximado: ")+esc(r.n)+", "+esc(r.m)+". Mueve el punto si no es ahí</p>";
-  mapOpen().then(function(){if(e.isConnected)setG([+r.ll[0],+r.ll[1]],true)})}
+  SRK=k;SRO=false;srDraw();
+  mapOpen().then(function(){if(!e.isConnected)return;srPins();setG([+r.ll[0],+r.ll[1]],true)})}
  var full=false,fsB=null;
  function fsTop(){var b=q(".adsr"),m=q(".admap");if(b&&m)m.style.setProperty("--fst",(full?b.offsetHeight+20:10)+"px")}
  function fsD(){if(!fsB)return;fsB.innerHTML=full?IC.fsOut+"<span>Listo</span>":IC.fsIn;fsB.setAttribute("aria-label",full?"Salir de pantalla completa":"Ver el mapa en pantalla completa");fsB.title=fsB.getAttribute("aria-label")}
   
  function fsK(ev){if(!e.isConnected){fs(false);return}if(ev.key=="Escape"){ev.stopPropagation();ev.preventDefault();fs(false)}}
  function fs(on){full=!!on&&e.isConnected;e.classList.toggle("adfs",full);document.body.classList.toggle("adfson",full);document.documentElement.classList.toggle("adfson",full);fsD();fsTop();
-  window[full?"addEventListener":"removeEventListener"]("keydown",fsK,true);if(full&&map&&g)setTimeout(function(){if(map)map.panTo(g)},80)}
+  window[full?"addEventListener":"removeEventListener"]("keydown",fsK,true);
+  if(SRO&&SR.length>1)setTimeout(function(){if(e.isConnected)srPins(true)},120);if(full&&map&&g)setTimeout(function(){if(map)map.panTo(g)},80)}
  function gps(btn){if(!navigator.geolocation){toast("Este teléfono no da la ubicación",2500);return}btn.disabled=true;btn.classList.add("on");
   navigator.geolocation.getCurrentPosition(function(p){btn.disabled=false;btn.classList.remove("on");var v=[+p.coords.latitude.toFixed(6),+p.coords.longitude.toFixed(6)];
     if(!(v[0]>=18.8&&v[0]<=24.2&&v[1]>=-86.2&&v[1]<=-72.9)){toast("Tu ubicación no está en Cuba: elígela en el mapa",3000);return}
@@ -1699,6 +1717,7 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
   if(t.hasAttribute("data-gps"))gps(t);else if(t.hasAttribute("data-map"))mapOpen();else if(t.hasAttribute("data-clr"))setG(null);
   else if(t.hasAttribute("data-use")){setP(ptHave(g));ps();dirty()}
   else if(t.hasAttribute("data-srb"))sr();else if(t.hasAttribute("data-sri"))srPick(+t.getAttribute("data-sri"));
+  else if(t.hasAttribute("data-srv")){SRO=true;srDraw();srPins(true)}
   else if(t.classList.contains("adok")){fs(false);var A=adGet(),o=cur();if(X){A=Object.assign({},A);A.alt=o;adSet(A)}else{if(A.alt)o.alt=A.alt;adSet(o)}dirty();toast("Dirección guardada",1500);if(opt.saved)opt.saved();else route(true)}};
  if(opt.map&&(g||(pt&&vr())))mapOpen()}
  
