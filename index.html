@@ -441,6 +441,14 @@ footer p{margin:0 0 6px;opacity:.7}
 .adb.on{opacity:.55;cursor:progress}@media(hover:hover){.adb:hover{border-color:var(--ink)}}
 .admap{height:280px;margin-top:8px;border:1px solid var(--bd);border-radius:12px;overflow:hidden;background:var(--soft);z-index:0;position:relative}
 .admap .an{padding:12px}
+.adsr{margin-top:8px}.adsi{display:flex;gap:8px}
+.adsi input{flex:1;min-width:0;height:42px;border:1px solid var(--bd);border-radius:10px;padding:0 12px;font:inherit;font-size:15px;background:var(--card);color:var(--ink);-webkit-appearance:none;appearance:none}
+.adsi .adb{flex:none;width:46px;padding:0}
+.adsl[hidden]{display:none}.adsl .an{margin:6px 2px 0}
+.adsx{display:block;width:100%;margin-top:6px;padding:8px 12px;border:1px solid var(--bd);border-radius:10px;background:var(--card);color:var(--ink);text-align:left;font:inherit;cursor:pointer}
+.adsx b{display:block;font-size:14px;font-weight:600}.adsx small{display:block;font-size:12.5px;color:var(--mut)}
+.adfs .adsr{position:fixed;z-index:97;top:10px;left:50%;transform:translateX(-50%);width:min(520px,calc(100vw - 24px));margin:0;padding:8px;border-radius:12px;background:var(--card);box-shadow:0 6px 24px rgba(16,24,40,.28)}
+.adfs .admap .leaflet-top{top:var(--fst,74px)}
 .adfsb{display:flex;align-items:center;justify-content:center;gap:6px;height:34px;min-width:34px;padding:0 7px;border:2px solid rgba(0,0,0,.2);border-radius:6px;background:#fff;background-clip:padding-box;color:#222;font-family:inherit;font-size:14px;font-weight:600;cursor:pointer}
 .adfsb svg{width:18px;height:18px;display:block;fill:none;stroke:currentColor;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round}
 .adfs .admap{position:fixed;inset:0;width:100vw;z-index:95;height:auto;margin:0;border:0;border-radius:0}
@@ -1593,7 +1601,11 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
   return h+(N.length&&Y.length?'<optgroup label="Con entrega">'+Y.join("")+'</optgroup><optgroup label="Sin servicio por ahora">'+N.join("")+"</optgroup>":Y.concat(N).join(""))}
  function zw(p,m,z){var A=shArea(p,m);if(!A||!A.r||!A.r.length)return"";var L=A.r.map(function(x){return x[0]});if(z&&L.indexOf(z)<0)L=L.concat([z]);
   return'<label>Reparto</label><select data-ad="z"'+dis+'><option value="">'+(ro?"":"Otro, o no sé")+"</option>"+L.map(function(x){return"<option"+(x===z?" selected":"")+">"+esc(x)+"</option>"}).join("")+"</select>"}
- e.innerHTML=(pt||(ro&&g)?'<label>Ubicación</label>'+(ro?"":'<div class="adpb"><button type="button" class="adb" data-gps>'+IC.gps+'Usar mi ubicación</button><button type="button" class="adb" data-map>'+IC.map+"Elegir en el mapa</button></div>")+
+ e.innerHTML=(pt||(ro&&g)?'<label>Ubicación</label>'+(ro?"":'<div class="adpb"><button type="button" class="adb" data-gps>'+IC.gps+'Usar mi ubicación</button><button type="button" class="adb" data-map>'+IC.map+"Elegir en el mapa</button></div>"+
+   
+
+   '<div class="adsr"><div class="adsi"><input type="search" data-sr enterkeyhint="search" maxlength="200" autocomplete="off" placeholder="Ej. 47 e/ 54 y 58, Playa" aria-label="Buscar la dirección">'+
+   '<button type="button" class="adb" data-srb aria-label="Buscar">'+IC.search+"</button></div>"+'<div class="adsl" hidden></div></div>')+
    '<div class="admap" hidden></div><div class="adps" hidden></div>':"")+
   (P.length?'<label>Provincia</label><select data-ad="p"'+dis+">"+op(P,ap)+'</select><p class="an" data-ad="n">'+esc(shNote(ap))+
    '</p><label>Municipio</label><select data-ad="m"'+dis+">"+op(G[ap]||[],a.m,ap)+'</select><div data-ad="zw">'+zw(ap,a.m,a.z)+"</div>":"")+
@@ -1635,11 +1647,27 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
    var FC=L.Control.extend({options:{position:"topright"},onAdd:function(){fsB=L.DomUtil.create("button","adfsb");fsB.type="button";
     L.DomEvent.disableClickPropagation(fsB);L.DomEvent.on(fsB,"click",function(ev){L.DomEvent.stop(ev);fs(!full)});fsD();return fsB}});
    map.addControl(new FC())}).catch(function(){box.innerHTML='<p class="an">No cargó el mapa: revisa la conexión</p>'})}
+ var SR=[];
+ function sr(){var i=q("[data-sr]"),L=q(".adsl"),v=i?i.value.trim():"",p=q('[data-ad="p"]'),m=q('[data-ad="m"]');if(!i)return;if(v.length<2){i.focus();return}
+  L.hidden=false;L.innerHTML='<p class="an">Buscando…</p>';
+  fetch(M.Auth.url+"/calle",{method:"POST",body:JSON.stringify({q:v,p:p?p.value:"",m:m?m.value:""})}).then(function(r){return r.ok?r.json():null})
+   .then(function(d){if(!e.isConnected)return;SR=(d&&d.r)||[];
+    if(!d){L.innerHTML='<p class="an">No se pudo buscar: prueba otra vez</p>';return}
+    if(!SR.length){L.innerHTML='<p class="an">No la encontré: márcala en el mapa</p>';mapOpen();return}
+    if(SR.length==1){srPick(0);return}
+    L.innerHTML=SR.map(function(r,k){return'<button type="button" class="adsx" data-sri="'+k+'"><b>'+esc(r.n)+"</b><small>"+esc(r.m+", "+r.p)+"</small></button>"}).join("")})
+   .catch(function(){if(e.isConnected)L.innerHTML='<p class="an">Sin conexión: prueba otra vez</p>'})}
+  
+ function srPick(k){var r=SR[k],L=q(".adsl"),d=q('[data-ad="d"]'),i=q("[data-sr]");if(!r)return;
+  if(d&&!d.value.trim()&&i)d.value=i.value.trim();
+  L.hidden=false;L.innerHTML='<p class="an">'+(r.t=="entre"||r.t=="esquina"?"":"Aproximado: ")+esc(r.n)+", "+esc(r.m)+". Mueve el punto si no es ahí</p>";
+  mapOpen().then(function(){if(e.isConnected)setG([+r.ll[0],+r.ll[1]],true)})}
  var full=false,fsB=null;
+ function fsTop(){var b=q(".adsr"),m=q(".admap");if(b&&m)m.style.setProperty("--fst",(full?b.offsetHeight+20:10)+"px")}
  function fsD(){if(!fsB)return;fsB.innerHTML=full?IC.fsOut+"<span>Listo</span>":IC.fsIn;fsB.setAttribute("aria-label",full?"Salir de pantalla completa":"Ver el mapa en pantalla completa");fsB.title=fsB.getAttribute("aria-label")}
   
  function fsK(ev){if(!e.isConnected){fs(false);return}if(ev.key=="Escape"){ev.stopPropagation();ev.preventDefault();fs(false)}}
- function fs(on){full=!!on&&e.isConnected;e.classList.toggle("adfs",full);document.body.classList.toggle("adfson",full);document.documentElement.classList.toggle("adfson",full);fsD();
+ function fs(on){full=!!on&&e.isConnected;e.classList.toggle("adfs",full);document.body.classList.toggle("adfson",full);document.documentElement.classList.toggle("adfson",full);fsD();fsTop();
   window[full?"addEventListener":"removeEventListener"]("keydown",fsK,true);if(full&&map&&g)setTimeout(function(){if(map)map.panTo(g)},80)}
  function gps(btn){if(!navigator.geolocation){toast("Este teléfono no da la ubicación",2500);return}btn.disabled=true;btn.classList.add("on");
   navigator.geolocation.getCurrentPosition(function(p){btn.disabled=false;btn.classList.remove("on");var v=[+p.coords.latitude.toFixed(6),+p.coords.longitude.toFixed(6)];
@@ -1660,9 +1688,13 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
  e.onchange=function(ev){var p=q('[data-ad="p"]'),m=q('[data-ad="m"]');if(p&&ev.target===p){m.innerHTML=op(G[p.value]||[],"",p.value);q('[data-ad="n"]').textContent=shNote(p.value)}
   if(p&&(ev.target===p||ev.target===m)){q('[data-ad="zw"]').innerHTML=zw(p.value,m.value,"");ps();var V=vr();if(map&&!g&&V&&gOk(V.c))map.setView(V.c,14)}dirty()};
  e.oninput=dirty;
+ var sri=q("[data-sr]");if(sri)sri.addEventListener("keydown",function(ev){if(ev.key=="Enter"){ev.preventDefault();sr()}});
+  
+ var srb=q(".adsr");if(srb&&window.ResizeObserver)new ResizeObserver(fsTop).observe(srb);
  e.onclick=function(ev){var t=ev.target.closest&&ev.target.closest("button");if(!t||!e.contains(t))return;
   if(t.hasAttribute("data-gps"))gps(t);else if(t.hasAttribute("data-map"))mapOpen();else if(t.hasAttribute("data-clr"))setG(null);
   else if(t.hasAttribute("data-use")){setP(ptHave(g));ps();dirty()}
+  else if(t.hasAttribute("data-srb"))sr();else if(t.hasAttribute("data-sri"))srPick(+t.getAttribute("data-sri"));
   else if(t.classList.contains("adok")){fs(false);var A=adGet(),o=cur();if(X){A=Object.assign({},A);A.alt=o;adSet(A)}else{if(A.alt)o.alt=A.alt;adSet(o)}dirty();toast("Dirección guardada",1500);if(opt.saved)opt.saved();else route(true)}};
  if(opt.map&&(g||(pt&&vr())))mapOpen()}
  
