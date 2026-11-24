@@ -447,7 +447,7 @@ footer p{margin:0 0 6px;opacity:.7}
 .adsl[hidden]{display:none}.adsl .an{margin:6px 2px 0}
 .adsl{max-height:min(42vh,360px);overflow:auto;overscroll-behavior:contain}
 .adsx{display:flex;align-items:center;gap:10px;width:100%;margin-top:6px;padding:8px 12px;border:1px solid var(--bd);border-radius:10px;background:var(--card);color:var(--ink);text-align:left;font:inherit;cursor:pointer}
-.adsx>span:nth-child(2){flex:1;min-width:0}.adsx b{display:block;font-size:14px;font-weight:600}.adsx small{display:block;font-size:12.5px;color:var(--mut)}
+.adsx>span:nth-child(2),.adsv>span:first-child{flex:1;min-width:0}.adsx b{display:block;font-size:14px;font-weight:600}.adsx small{display:block;font-size:12.5px;color:var(--mut)}
 .adsx.on{border-color:var(--ink)}.adsx em{flex:none;font-style:normal;font-size:12.5px;font-weight:600;text-decoration:underline;text-underline-offset:3px}
 .adsn,.admo b{display:inline-flex;align-items:center;justify-content:center;flex:none;width:24px;height:24px;border-radius:50%;background:var(--card);color:var(--ink);border:2px solid var(--ink);font-size:12px;font-weight:700;line-height:1}
 .adsx.on .adsn,.admo.on b{background:var(--ink);color:var(--card)}
@@ -1662,6 +1662,7 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
  function srAp(r){return r.t=="entre"||r.t=="esquina"||r.t=="lugar"?"":"Aproximado: "}
  function srDraw(){var L=q(".adsl");if(!L)return;L.hidden=false;
   if(SR.length<2){var r=SR[SRK];L.innerHTML=r?'<p class="an">'+srAp(r)+esc(r.n)+", "+esc(r.m)+". Mueve el punto si no es ahí</p>":"";return}
+  if(!SRO&&!SR[SRK]){L.innerHTML='<button type="button" class="adsx adsv" data-srv><span><b>'+SR.length+" opciones</b><small>Ninguna elegida</small></span><em>Ver opciones</em></button>";return}
   if(!SRO&&SR[SRK]){var r=SR[SRK];L.innerHTML='<button type="button" class="adsx adsv on" data-srv><span class="adsn">'+(SRK+1)+"</span><span><b>"+srAp(r)+esc(r.n)+"</b><small>"+esc(r.m+", "+r.p)+"</small></span><em>"+(SRK+1)+" de "+SR.length+" · Ver opciones</em></button>";return}
   L.innerHTML=SR.map(function(r,k){return'<button type="button" class="adsx'+(k==SRK?" on":"")+'" data-sri="'+k+'"><span class="adsn">'+(k+1)+"</span><span><b>"+srAp(r)+esc(r.n)+"</b><small>"+esc(r.m+", "+r.p)+"</small></span></button>"}).join("")}
  function srPins(fit){if(!map)return;if(SRL){SRL.remove();SRL=null}if(SR.length<2)return;SRL=L.layerGroup().addTo(map);
@@ -1712,6 +1713,10 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
  e.oninput=dirty;
  var sri=q("[data-sr]");if(sri)sri.addEventListener("keydown",function(ev){if(ev.key=="Enter"){ev.preventDefault();sr()}});
   
+  
+ function srOut(ev){if(!e.isConnected){document.removeEventListener("pointerdown",srOut,true);return}
+  var b=q(".adsr");if(SRO&&SR.length>1&&b&&!b.contains(ev.target)){SRO=false;srDraw()}}
+ document.addEventListener("pointerdown",srOut,true);
  if(sri)sri.addEventListener("input",function(){if(sri.value.trim())return;SR=[];SRK=-1;SRO=false;srPins();var l=q(".adsl");if(l){l.innerHTML="";l.hidden=true}});
   
  var srb=q(".adsr");if(srb&&window.ResizeObserver)new ResizeObserver(fsTop).observe(srb);
