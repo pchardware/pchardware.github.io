@@ -441,6 +441,12 @@ footer p{margin:0 0 6px;opacity:.7}
 .adb.on{opacity:.55;cursor:progress}@media(hover:hover){.adb:hover{border-color:var(--ink)}}
 .admap{height:280px;margin-top:8px;border:1px solid var(--bd);border-radius:12px;overflow:hidden;background:var(--soft);z-index:0;position:relative}
 .admap .an{padding:12px}
+.adfsb{display:flex;align-items:center;justify-content:center;gap:6px;height:34px;min-width:34px;padding:0 7px;border:2px solid rgba(0,0,0,.2);border-radius:6px;background:#fff;background-clip:padding-box;color:#222;font-family:inherit;font-size:14px;font-weight:600;cursor:pointer}
+.adfsb svg{width:18px;height:18px;display:block;fill:none;stroke:currentColor;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round}
+.adfs .admap{position:fixed;inset:0;width:100vw;z-index:95;height:auto;margin:0;border:0;border-radius:0}
+.adfs .adps{position:fixed;z-index:96;left:50%;transform:translateX(-50%);bottom:calc(26px + env(safe-area-inset-bottom,0px));width:min(520px,calc(100% - 24px));margin:0;background:var(--card);box-shadow:0 6px 24px rgba(16,24,40,.28)}
+.adfs .adps.adbad{background:linear-gradient(rgba(247,144,9,.13),rgba(247,144,9,.13)),var(--card)}
+.adfson{overflow:hidden}
 .admk{background:none;border:0}.admk svg{width:34px;height:34px;fill:var(--hot,#d92d20);stroke:#fff;stroke-width:1.6;filter:drop-shadow(0 2px 3px rgba(0,0,0,.35))}
 .adps{display:flex;align-items:center;gap:10px;margin-top:8px;padding:9px 10px 9px 12px;border-radius:10px;background:var(--soft)}
 .adps[hidden]{display:none}.adpi svg{width:20px;height:20px;display:block;fill:none;stroke:var(--ink);stroke-width:1.9}
@@ -1366,6 +1372,8 @@ function comoBar(){var b=$("comoBar");if(!COMO){if(b)b.remove();return}
 
 IC.pin='<svg viewBox="0 0 24 24"><path d="M12 21s-7-6.2-7-11.5a7 7 0 0 1 14 0C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></svg>';
 IC.gps='<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="7"/><circle cx="12" cy="12" r="2.5"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></svg>';
+IC.fsIn='<svg viewBox="0 0 24 24"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg>';
+IC.fsOut='<svg viewBox="0 0 24 24"><path d="M9 4v5H4M15 4v5h5M9 20v-5H4M15 20v-5h5"/></svg>';
 IC.map='<svg viewBox="0 0 24 24"><path d="M3 6.5l6-2.5 6 2.5 6-2.5v13.5l-6 2.5-6-2.5-6 2.5z"/><path d="M9 4v13.5M15 6.5V20"/></svg>';
 var PTV={},PTQ={};
 function gOk(g){return Array.isArray(g)&&g.length==2&&isFinite(g[0])&&isFinite(g[1])}
@@ -1622,7 +1630,17 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
    var V=vr();if(g){map.setView(g,16);mkAdd()}else if(V&&gOk(V.c))map.setView(V.c,14);else map.setView([23.115,-82.38],12);ps();
    map.on("click",function(ev){setG([+ev.latlng.lat.toFixed(6),+ev.latlng.lng.toFixed(6)])});
     
-   if(window.ResizeObserver)new ResizeObserver(function(){if(map)map.invalidateSize()}).observe(box);else setTimeout(function(){map.invalidateSize()},300)}).catch(function(){box.innerHTML='<p class="an">No cargó el mapa: revisa la conexión</p>'})}
+   if(window.ResizeObserver)new ResizeObserver(function(){if(map)map.invalidateSize()}).observe(box);else setTimeout(function(){map.invalidateSize()},300);
+    
+   var FC=L.Control.extend({options:{position:"topright"},onAdd:function(){fsB=L.DomUtil.create("button","adfsb");fsB.type="button";
+    L.DomEvent.disableClickPropagation(fsB);L.DomEvent.on(fsB,"click",function(ev){L.DomEvent.stop(ev);fs(!full)});fsD();return fsB}});
+   map.addControl(new FC())}).catch(function(){box.innerHTML='<p class="an">No cargó el mapa: revisa la conexión</p>'})}
+ var full=false,fsB=null;
+ function fsD(){if(!fsB)return;fsB.innerHTML=full?IC.fsOut+"<span>Listo</span>":IC.fsIn;fsB.setAttribute("aria-label",full?"Salir de pantalla completa":"Ver el mapa en pantalla completa");fsB.title=fsB.getAttribute("aria-label")}
+  
+ function fsK(ev){if(!e.isConnected){fs(false);return}if(ev.key=="Escape"){ev.stopPropagation();ev.preventDefault();fs(false)}}
+ function fs(on){full=!!on&&e.isConnected;e.classList.toggle("adfs",full);document.body.classList.toggle("adfson",full);document.documentElement.classList.toggle("adfson",full);fsD();
+  window[full?"addEventListener":"removeEventListener"]("keydown",fsK,true);if(full&&map&&g)setTimeout(function(){if(map)map.panTo(g)},80)}
  function gps(btn){if(!navigator.geolocation){toast("Este teléfono no da la ubicación",2500);return}btn.disabled=true;btn.classList.add("on");
   navigator.geolocation.getCurrentPosition(function(p){btn.disabled=false;btn.classList.remove("on");var v=[+p.coords.latitude.toFixed(6),+p.coords.longitude.toFixed(6)];
     if(!(v[0]>=18.8&&v[0]<=24.2&&v[1]>=-86.2&&v[1]<=-72.9)){toast("Tu ubicación no está en Cuba: elígela en el mapa",3000);return}
@@ -1645,7 +1663,7 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
  e.onclick=function(ev){var t=ev.target.closest&&ev.target.closest("button");if(!t||!e.contains(t))return;
   if(t.hasAttribute("data-gps"))gps(t);else if(t.hasAttribute("data-map"))mapOpen();else if(t.hasAttribute("data-clr"))setG(null);
   else if(t.hasAttribute("data-use")){setP(ptHave(g));ps();dirty()}
-  else if(t.classList.contains("adok")){var A=adGet(),o=cur();if(X){A=Object.assign({},A);A.alt=o;adSet(A)}else{if(A.alt)o.alt=A.alt;adSet(o)}dirty();toast("Dirección guardada",1500);if(opt.saved)opt.saved();else route(true)}};
+  else if(t.classList.contains("adok")){fs(false);var A=adGet(),o=cur();if(X){A=Object.assign({},A);A.alt=o;adSet(A)}else{if(A.alt)o.alt=A.alt;adSet(o)}dirty();toast("Dirección guardada",1500);if(opt.saved)opt.saved();else route(true)}};
  if(opt.map&&(g||(pt&&vr())))mapOpen()}
  
 function adSheet(i,after){var ov=document.createElement("div"),TT;ov.className="adsh";i=i===1?1:0;TT=i?"Otra dirección":"Dirección de entrega";
