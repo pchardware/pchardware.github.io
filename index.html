@@ -2585,7 +2585,7 @@ function pyRows(t){if(!pyOn())return null;var k=pySel(),f=pyF(k),R=PYR,x,p,v,o=[
 function pyBox(t){if(!pyOn())return"";var K=pyKeys(),p0=K[0],k0=pySel(),alt=k0!=p0,q,m,lb,sm="",am="",cl="";
  if(k0=="mix"){m=pyMs(t);lb="Pago combinado";sm=pyMt(m)||"Sin montos todavía";
    
-  if(m.o.cup&&pyR("cup")&&pyU("cup",m.o.cup)==null){am="Máximo "+pyN(pyCupMax())+" CUP";cl="pyf"}
+  if(m.o.cup&&pyR("cup")&&pyU("cup",m.o.cup)==null){am="Máximo "+pyN(pyCupMax())+" en CUP";cl="pyf"}
   else if(!m.n&&m.r>0){am="Falta "+money(m.r);cl="pyf"}else if(!m.n&&m.r<0&&pyVu(-m.r))am="Te devolvemos "+pyVu(-m.r)}
  else if(alt){q=pyQ(k0,t);lb=PYN[k0];sm=q.s||"";am=q.a;cl=q.q?"czq":""}
  
@@ -2616,7 +2616,7 @@ function pySheet(t){var ov=document.createElement("div"),K=pyKeys(),p0=K[0],md=p
    bad=a&&st>=1&&Math.abs(a/st-Math.round(a/st))>1e-9;if(bad)nb++;
     
    ov_=k=="cup"&&a&&u==null;if(ov_)no++;e.classList.toggle("pyf",!!(bad||ov_));
-   e.textContent=ov_?"Máximo "+pyN(pyCupMax())+" CUP":k=="cup"&&!a?"Hasta "+pyN(pyCupMax())+" CUP":bad?(k=="usd"?"Sin monedas: dólares enteros":k=="cup"?"Sin centavos: CUP enteros":"Billetes de "+st+" "+pyCur(k)+" o más"):pk?"Billetes de "+pyN(pyStep(k))+" o más, salvo el pico":eq||(f?"Recargo "+f+" %":k=="dig"?PYD1:"");
+   e.textContent=ov_?"Máximo "+pyN(pyCupMax())+" en CUP":k=="cup"&&!a?"Hasta "+pyN(pyCupMax())+" CUP":bad?(k=="usd"?"Sin monedas: dólares enteros":k=="cup"?"Sin centavos: CUP enteros":"Billetes de "+st+" "+pyCur(k)+" o más"):pk?"Billetes de "+pyN(pyStep(k))+" o más, salvo el pico":eq||(f?"Recargo "+f+" %":k=="dig"?PYD1:"");
    
 
    if(pyTm()&&!ov_&&!bad&&(k=="cup"||k=="eur"))e.textContent+=(e.textContent?" · ":"")+(k=="cup"?"Tasa "+pyN(pyRx(a,u)):pyEx())});
