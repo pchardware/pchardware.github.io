@@ -467,6 +467,7 @@ footer p{margin:0 0 6px;opacity:.7}
 .admk{background:none;border:0}.admk svg{width:34px;height:34px;fill:var(--hot,#d92d20);stroke:#fff;stroke-width:1.6;filter:drop-shadow(0 2px 3px rgba(0,0,0,.35))}
 .adps{display:flex;align-items:center;gap:10px;margin-top:8px;padding:9px 10px 9px 12px;border-radius:10px;background:var(--soft)}
 .adps[hidden]{display:none}.adpi svg{width:20px;height:20px;display:block;fill:none;stroke:var(--ink);stroke-width:1.9}
+.czok{display:inline-flex;align-items:flex-start;gap:4px}.czok svg{width:13px;height:13px;flex:none;margin-top:2px;fill:#dcfae6;stroke:#067647;stroke-width:2}
 .czvr{display:inline-flex;align-items:center;gap:4px;color:#b54708;font-weight:600}.czvr svg{width:14px;height:14px;flex:none;fill:none;stroke:currentColor;stroke-width:2}
 .adps.adbad{background:rgba(247,144,9,.13)}.adps.adbad .adpi svg{stroke:#dc6803}.adps.adbad small{color:var(--ink)}.adps .adpt .czch{display:inline-block;margin-top:6px;padding:6px 12px;border:1px solid var(--bd);border-radius:8px;background:var(--card);color:var(--ink);font-size:13px;font-weight:600;cursor:pointer}
 .adpt{flex:1;min-width:0;line-height:1.3}.adpt b{display:block;font-size:14px;color:var(--ink)}.adpt small{font-size:13px;color:var(--mut)}
@@ -2765,6 +2766,10 @@ function cartView(){
   '<button type="button" class="czmo" data-mxo aria-label="'+(Object.keys(mtX()).length?"Cambiar piezas tuyas":"Añadir piezas tuyas")+'"><span class="czit">'+czT("Montaje",{s:[mtS,mtP],r:1,a:mtA||null})+"</span>"+(mtA||'<span class="czir">'+IC.r+"</span>")+"</button></div>";
  
 
+ 
+
+ function adPt(a,m){var t=m?[a.m,a.d].filter(Boolean).join(" · "):a.d;if(!gOk(a.g))return esc(t||"");
+  return'<span class="czok" title="Ubicada en el mapa">'+IC.pin+"<span>"+esc(t||"Punto marcado en el mapa")+"</span></span>"}
  var adC=!COMO&&!!(M.Ship&&M.Ship.geo),has=!!(ad.p||ad.m||ad.d||gOk(ad.g)),chB=adC?'id="adCh" aria-label="'+(has?"Cambiar la dirección":"Añadir dirección")+'"':"";
  var dn=pk?"":gq&&gq.price==null?"Ese punto queda fuera de la zona de entrega: se acuerda con el pedido":has?shNote(ad.p):"";
  var dlB=dlOff()?'<div class="czeh"><div class="czdl" role="group" aria-label="Entrega"><button type="button" data-dl="0" class="'+(pk?"":"on")+'" aria-pressed="'+!pk+'">Envío</button><button type="button" data-dl="1" class="'+(pk?"on":"")+'" aria-pressed="'+pk+'">Recoger</button></div></div>':"";
@@ -2792,9 +2797,9 @@ function cartView(){
   '<div class="side"><div class="box czs"><h3>Resumen del pedido</h3>'+
   czI({i:IC.cart,t:"Artículos ("+n+")",a:money(tot),c:"czi0"})+mtB+dlB+
   (pk?czI({i:IC.shop,t:"Recoger en el local",s:["Te indicamos dónde por WhatsApp"],a:"Gratis",ac:"czg",c:dlB?"czin":""}):
-   sh?czI({i:IC.truck,t:(dlB?"":"Envío · ")+esc(sh.n)+(sh.v>1?" · "+sh.v+" viajes":""),s:[ad.d?esc(ad.d):gOk(ad.g)?"Punto marcado en el mapa":"",esc(dn)],a:pE(sh.p||sOv!=null?(sOv!=null&&sOv!=sP0?"<s>"+money(sP0||0)+"</s> ":"")+money(sh.p):"Gratis"),ac:sh.p||sOv!=null?"":"czg",r:adC,b:chB,c:dlB?"czin":""}):
+   sh?czI({i:IC.truck,t:(dlB?"":"Envío · ")+esc(sh.n)+(sh.v>1?" · "+sh.v+" viajes":""),s:[adPt(ad),esc(dn)],a:pE(sh.p||sOv!=null?(sOv!=null&&sOv!=sP0?"<s>"+money(sP0||0)+"</s> ":"")+money(sh.p):"Gratis"),ac:sh.p||sOv!=null?"":"czg",r:adC,b:chB,c:dlB?"czin":""}):
    sV?czI({i:IC.truck,t:(dlB?"":"Envío · ")+esc(ad.m),s:[esc(ad.d||""),sOv!=null?"":'<span class="czvr">'+IC.pin+"Marca el lugar en el mapa</span>",esc(dn)],a:pE(sOv!=null?"<s>"+shRgT(sV)+"</s> "+money(sOv):shRgT(sV)),ac:sOv!=null?"":"czq",r:1,b:chB,c:dlB?"czin":""}):
-   adC?czI({i:IC.truck,t:dlB?"Dirección de envío":"Envío",s:[esc([ad.m,ad.d].filter(Boolean).join(" · ")),esc(dn)],a:sOv!=null?pE(money(sOv)):gOk(ad.g)&&ptHave(ad.g)===undefined?"…":pE("Se acuerda"),ac:sOv!=null?"":"czq",r:1,b:chB,c:dlB?"czin":""}):
+   adC?czI({i:IC.truck,t:dlB?"Dirección de envío":"Envío",s:[gOk(ad.g)?adPt(ad,1):esc([ad.m,ad.d].filter(Boolean).join(" · ")),esc(dn)],a:sOv!=null?pE(money(sOv)):gOk(ad.g)&&ptHave(ad.g)===undefined?"…":pE("Se acuerda"),ac:sOv!=null?"":"czq",r:1,b:chB,c:dlB?"czin":""}):
    dn?'<p class="sv czd">'+IC.truck+esc(dn)+"</p>":"")+etB+
   (dc!=null?czI({i:IC.tag,t:"Descuento",a:dc?"−"+money(dc):null,r:1,b:'data-vdc aria-label="Descuento"'}):"")+
   '<div class="czo"><span>Total</span><span>'+usd(gt)+"</span></div>"+pyBox(gt)+
