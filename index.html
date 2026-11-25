@@ -2516,7 +2516,8 @@ function pyEst(n){var g=0;if(PYR.d)g=Math.max(0,Math.round((etDay(0)-new Date(PY
  return Math.ceil(Math.max(PYR.u,PYR.u+(PYR.s||0)*(n+g))/5-1e-9)*5}    
 
 
-var PYB=[1,5,10,20,50,100,200,500,1000,5000,10000,20000];
+
+var PYB=[1,3,5,10,20,50,100,200,500,1000,2000,5000,10000,20000],PYC=10;
 function pyBill(x){var g=x/10,b=PYB[0];PYB.forEach(function(v){if(Math.abs(Math.log(v/g))<Math.abs(Math.log(b/g)))b=v});return b}
 function pyDd(){var d=0;try{d=etSel().d||0}catch(e){}return d}
  
@@ -2556,7 +2557,7 @@ function pyTo(t,k,R0){var R=R0?{v:Object.assign({},R0.v)}:pyRaw(),m=pyMs(t,R),o=
 
 
 
-var PYBAD="",PYBS={usd:[1,5,10,20,50,100],eur:[5,10,20,50,100,200,500],cup:[1,3,5,10,20,50,100,200,500,1000]};
+var PYBAD="",PYBS={usd:[1,5,10,20,50,100],eur:[5,10,20,50,100,200,500],cup:PYB.filter(function(b){return b>=PYC})};
 function pyBills(k){var B=M.Pay&&M.Pay.bills;return B&&B[k]||PYBS[k]||null}
 function pyRep(a,D){var g,n,ds,ok,i,j;a=Math.round(a);if(a<=0)return true;if(!D.length)return false;
  g=D.reduce(function(x,y){while(y){var r=x%y;x=y;y=r}return x});if(a%g)return false;n=a/g;ds=D.map(function(d){return d/g});
@@ -2567,10 +2568,10 @@ function pyFrac(m,s){return Object.keys(m.o).every(function(k){var a=m.o[k],u=py
 function pyX(m){return m.o.cup&&pyR("cup")?m.o.cup/pyU("cup",m.o.cup):PYR&&PYR.u?pyEst(pyDd()):0}
 function pyFor(m){var x=pyX(m);return x?50/x:0.01}
  
-function pyFt(t,m){var x=pyX(m),d=t-m.c,w=d>0?"Falta ":"Sobra ";d=Math.abs(d);return x&&d<1?w+pyN(Math.round(d*x))+" CUP":w+money(Math.abs(m.r))}
+function pyFt(t,m){var x=pyX(m),d=t-m.c,w=d>0?"Falta ":"Sobra ";d=Math.abs(d);return x&&d<1?w+pyN(Math.max(PYC,Math.round(d*x/PYC)*PYC))+" CUP":w+money(Math.abs(m.r))}
 function pyBad(t){var m,k,a,st;PYBAD="";if(!pyOn()||pySel()!="mix")return"";m=pyMs(t);
  for(k in m.o){a=m.o[k];if(pyR(k)&&pyU(k,a)==null)return PYBAD="Máximo "+pyN(pyCupMax())+" en CUP";
-  st=k=="cup"?1:pyStep(k);if(st>=1&&Math.abs(a/st-Math.round(a/st))>1e-9)return PYBAD="Revisa los billetes"}
+  st=k=="cup"?PYC:pyStep(k);if(st>=1&&Math.abs(a/st-Math.round(a/st))>1e-9)return PYBAD="Revisa los billetes"}
  if(m.n)return"";
  if(t-m.c>=pyFor(m)-1e-9)return PYBAD=pyFt(t,m);if(m.r<0&&!pyFrac(m,-m.r))return PYBAD=pyFt(t,m);return""}
 
@@ -2646,11 +2647,11 @@ function pySheet(t){var ov=document.createElement("div"),K=pyKeys(),p0=K[0],md=p
    u=a?pyU(k,a):0;eq=!a||pyCur(k)=="USD"&&!f?"":u==null?"A consultar":"Equivale a "+money(Math.round(u*100)/100);
    
 
-   pk=k=="cup"&&a&&Math.abs(a/st-Math.round(a/st))>1e-9;if(k=="cup")st=1;
+   pk=k=="cup"&&a&&Math.abs(a/st-Math.round(a/st))>1e-9;if(k=="cup")st=PYC;
    bad=a&&st>=1&&Math.abs(a/st-Math.round(a/st))>1e-9;if(bad)nb++;
     
    ov_=k=="cup"&&a&&u==null;if(ov_)no++;e.classList.toggle("pyf",!!(bad||ov_));
-   e.textContent=ov_?"Máximo "+pyN(pyCupMax())+" en CUP":k=="cup"&&!a?"Hasta "+pyN(pyCupMax())+" CUP":bad?(k=="usd"?"Sin monedas: dólares enteros":k=="cup"?"Sin centavos: CUP enteros":"Billetes de "+st+" "+pyCur(k)+" o más"):pk?"Billetes de "+pyN(pyStep(k))+" o más, salvo el pico":k=="cup"&&a>=pyStep(k)?"Billetes de "+pyN(pyStep(k))+" o más"+(eq?" · "+eq:""):eq||(f?"Recargo "+f+" %":k=="dig"?PYD1:"");
+   e.textContent=ov_?"Máximo "+pyN(pyCupMax())+" en CUP":k=="cup"&&!a?"Hasta "+pyN(pyCupMax())+" CUP":bad?(k=="usd"?"Sin monedas: dólares enteros":k=="cup"?"CUP de "+PYC+" en "+PYC:"Billetes de "+st+" "+pyCur(k)+" o más"):pk?"Billetes de "+pyN(pyStep(k))+" o más, salvo el pico":k=="cup"&&a>=pyStep(k)?"Billetes de "+pyN(pyStep(k))+" o más"+(eq?" · "+eq:""):eq||(f?"Recargo "+f+" %":k=="dig"?PYD1:"");
    
 
    if(pyTm()&&!ov_&&!bad&&(k=="cup"||k=="eur"))e.textContent+=(e.textContent?" · ":"")+(k=="cup"?"Tasa "+pyN(pyRx(a,u)):pyEx())});
