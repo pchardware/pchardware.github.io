@@ -2601,6 +2601,7 @@ function pySheet(t){var ov=document.createElement("div"),K=pyKeys(),p0=K[0],md=p
 
 
  var D=md?pyRaw():{v:{}};
+ function pyRx(a,u){var z,w;if(!a){z=pyTo(t,"cup",D);a=z&&z.v.cup||0;u=a?pyU("cup",a):0}return a&&u?Math.round(a/u):pyEst(pyDd())}
  function sum(){var m=pyMs(t,D),s=ov.querySelector(".pysum"),nb=0,vx=ov.querySelector(".pyvx"),no=0,ov_;if(!s)return;
   K.forEach(function(k){var e=ov.querySelector('[data-pe="'+k+'"]'),row=e&&e.closest(".pymr"),j=ov.querySelector('[data-pj="'+k+'"]'),f=pyF(k),a=m.o[k],st=pyStep(k),u,bad,eq,pk;if(!e)return;
     
@@ -2614,8 +2615,9 @@ function pySheet(t){var ov=document.createElement("div"),K=pyKeys(),p0=K[0],md=p
     
    ov_=k=="cup"&&a&&u==null;if(ov_)no++;e.classList.toggle("pyf",!!(bad||ov_));
    e.textContent=ov_?"Máximo "+pyN(pyCupMax())+" CUP":k=="cup"&&!a?"Hasta "+pyN(pyCupMax())+" CUP":bad?(k=="usd"?"Sin monedas: dólares enteros":k=="cup"?"Sin centavos: CUP enteros":"Billetes de "+st+" "+pyCur(k)+" o más"):pk?"Billetes de "+pyN(pyStep(k))+" o más, salvo el pico":eq||(f?"Recargo "+f+" %":k=="dig"?PYD1:"");
-    
-   if(pyTm()&&!ov_&&!bad&&(k=="cup"||k=="eur"))e.textContent+=(e.textContent?" · ":"")+(k=="cup"?"Tasa "+pyN(a&&u?Math.round(a/u):pyEst(pyDd())):k=="eur"?pyEx():"")});
+   
+
+   if(pyTm()&&!ov_&&!bad&&(k=="cup"||k=="eur"))e.textContent+=(e.textContent?" · ":"")+(k=="cup"?"Tasa "+pyN(pyRx(a,u)):pyEx())});
    
   K.forEach(function(k){var j=ov.querySelector('[data-pj="'+k+'"]');if(j&&pyR(k))j.classList.toggle("pyh",!!(nb||no&&k!="cup"||!pyTo(t,k,D)))});
   
