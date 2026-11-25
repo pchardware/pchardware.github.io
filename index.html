@@ -3289,6 +3289,15 @@ up();new MutationObserver(up).observe(document.body,{childList:true,subtree:true
 
 
 
+
+
+
+
+(function(){if(window.__numSel)return;window.__numSel=1;
+ function num(t){if(!t||t.tagName!="INPUT"||t.readOnly||t.disabled)return false;var m=t.getAttribute("inputmode");return m=="decimal"||m=="numeric"}
+ document.addEventListener("focusin",function(e){var t=e.target;if(!num(t)||!t.value)return;
+  function up(ev){ev.preventDefault();t.removeEventListener("mouseup",up)}t.addEventListener("mouseup",up);setTimeout(function(){t.removeEventListener("mouseup",up)},600);
+  setTimeout(function(){if(document.activeElement===t)try{t.select()}catch(x){}},0)})})();
 (function(){if(window.__sheetGuard)return;window.__sheetGuard=1;
  var D=typeof WeakSet=="function"?new WeakSet():null,FIELD='input:not([type=hidden]),textarea,select,[contenteditable=true],[data-ok],.adok,.etok',
   CLOSE='.adcl,.nscx,#accX,[aria-label="Cerrar"],[data-close],[aria-haspopup]';
