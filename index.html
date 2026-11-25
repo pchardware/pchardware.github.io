@@ -2586,13 +2586,16 @@ function pySheet(t){var ov=document.createElement("div"),K=pyKeys(),p0=K[0],md=p
 
  var D=md?pyRaw():{v:{}};
  function sum(){var m=pyMs(t,D),s=ov.querySelector(".pysum"),nb=0,vx=ov.querySelector(".pyvx");if(!s)return;
-  K.forEach(function(k){var e=ov.querySelector('[data-pe="'+k+'"]'),row=e&&e.closest(".pymr"),j=ov.querySelector('[data-pj="'+k+'"]'),f=pyF(k),a=m.o[k],st=pyStep(k),u,bad,eq;if(!e)return;
+  K.forEach(function(k){var e=ov.querySelector('[data-pe="'+k+'"]'),row=e&&e.closest(".pymr"),j=ov.querySelector('[data-pj="'+k+'"]'),f=pyF(k),a=m.o[k],st=pyStep(k),u,bad,eq,pk;if(!e)return;
     
    row.classList.toggle("off",!a);
    if(!pyR(k)){e.textContent=PYR===0?"Buscando la tasa…":"Hoy sin tasa";if(j)j.classList.add("pyh");return}
    u=a?pyU(k,a):0;eq=!a||pyCur(k)=="USD"&&!f?"":u==null?"A consultar":"Equivale a "+money(Math.round(u*100)/100);
+   
+
+   pk=k=="cup"&&a&&Math.abs(a/st-Math.round(a/st))>1e-9;if(k=="cup")st=1;
    bad=a&&st>=1&&Math.abs(a/st-Math.round(a/st))>1e-9;e.classList.toggle("pyf",!!bad);if(bad)nb++;
-   e.textContent=bad?(k=="usd"?"Sin monedas: dólares enteros":"Billetes de "+st+" "+pyCur(k)+" o más"):eq||(f?"Recargo "+f+" %":"")});
+   e.textContent=bad?(k=="usd"?"Sin monedas: dólares enteros":k=="cup"?"Sin centavos: CUP enteros":"Billetes de "+st+" "+pyCur(k)+" o más"):pk?"Billetes de "+PYS.cup+" o más, salvo el pico":eq||(f?"Recargo "+f+" %":"")});
    
   K.forEach(function(k){var j=ov.querySelector('[data-pj="'+k+'"]');if(j&&pyR(k))j.classList.toggle("pyh",!!(nb||!pyTo(t,k,D)))});
   
