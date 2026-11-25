@@ -2584,7 +2584,9 @@ function pyRows(t){if(!pyOn())return null;var k=pySel(),f=pyF(k),R=PYR,x,p,v,o=[
  v=f?Math.ceil(t*(1+f/100)):t;return[{k:k,a:v}]}
 function pyBox(t){if(!pyOn())return"";var K=pyKeys(),p0=K[0],k0=pySel(),alt=k0!=p0,q,m,lb,sm="",am="",cl="";
  if(k0=="mix"){m=pyMs(t);lb="Pago combinado";sm=pyMt(m)||"Sin montos todavía";
-  if(!m.n&&m.r>0){am="Falta "+money(m.r);cl="pyf"}else if(!m.n&&m.r<0&&pyVu(-m.r))am="Te devolvemos "+pyVu(-m.r)}
+   
+  if(m.o.cup&&pyR("cup")&&pyU("cup",m.o.cup)==null){am="Máximo "+pyN(pyCupMax())+" CUP";cl="pyf"}
+  else if(!m.n&&m.r>0){am="Falta "+money(m.r);cl="pyf"}else if(!m.n&&m.r<0&&pyVu(-m.r))am="Te devolvemos "+pyVu(-m.r)}
  else if(alt){q=pyQ(k0,t);lb=PYN[k0];sm=q.s||"";am=q.a;cl=q.q?"czq":""}
  
 
