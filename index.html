@@ -1697,12 +1697,15 @@ function adForm(e,opt){var ro=!!COMO,dis=ro?" disabled":"",X=opt.alt?1:0,A0=ro?(
   SRK=k;SRO=false;srDraw();
   mapOpen().then(function(){if(!e.isConnected)return;srPins();setG([+r.ll[0],+r.ll[1]],true)})}
  var full=false,fsB=null;
- function fsTop(){var b=q(".adsr"),m=q(".admap");if(b&&m)m.style.setProperty("--fst",(full?b.offsetHeight+20:10)+"px")}
+  
+ function fsTop(){var b=q(".adsr"),m=q(".admap");if(!b||!m)return;var t=10;
+  if(full){var r=b.getBoundingClientRect(),w=fsB?fsB.offsetWidth+24:110;if(r.left<64||r.right>innerWidth-w)t=b.offsetHeight+20}
+  m.style.setProperty("--fst",t+"px")}
  function fsD(){if(!fsB)return;fsB.innerHTML=full?IC.fsOut+"<span>Listo</span>":IC.fsIn;fsB.setAttribute("aria-label",full?"Salir de pantalla completa":"Ver el mapa en pantalla completa");fsB.title=fsB.getAttribute("aria-label")}
   
  function fsK(ev){if(!e.isConnected){fs(false);return}if(ev.key=="Escape"){ev.stopPropagation();ev.preventDefault();fs(false)}}
  function fs(on){full=!!on&&e.isConnected;e.classList.toggle("adfs",full);document.body.classList.toggle("adfson",full);document.documentElement.classList.toggle("adfson",full);fsD();if(full){var s1=q("[data-sq]"),d1=q('[data-ad="d"]');if(s1&&d1)s1.value=d1.value}fsTop();
-  window[full?"addEventListener":"removeEventListener"]("keydown",fsK,true);
+  window[full?"addEventListener":"removeEventListener"]("keydown",fsK,true);window[full?"addEventListener":"removeEventListener"]("resize",fsTop);
   if(SRO&&SR.length>1)setTimeout(function(){if(e.isConnected)srPins(true)},120);if(full&&map&&g)setTimeout(function(){if(map)map.panTo(g)},80)}
  function gps(btn){if(!navigator.geolocation){toast("Este teléfono no da la ubicación",2500);return}btn.disabled=true;btn.classList.add("on");
   navigator.geolocation.getCurrentPosition(function(p){btn.disabled=false;btn.classList.remove("on");var v=[+p.coords.latitude.toFixed(6),+p.coords.longitude.toFixed(6)];
