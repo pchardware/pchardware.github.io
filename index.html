@@ -2497,6 +2497,8 @@ function pyMxSet(R){try{OS.setItem("paymx",JSON.stringify({v:R.v}))}catch(e){}}
 
 
 
+ 
+function pyVuN(u){var x=PYR&&PYR.u?pyEst(pyDd()):0,d=Math.floor(u+1e-6),c=u-d;return{d:d,c:x&&c>0.004?Math.floor(c*x/50+1e-6)*50:0}}
 function pyVu(u){var x=PYR&&PYR.u?pyEst(pyDd()):0,d,c,L=[];if(u<0.005)return"";
  d=Math.floor(u+1e-6);if(d)L.push("$"+d+" USD");c=u-d;
  if(c>0.004)L.push(x?(Math.floor(c*x/50+1e-6)*50?pyN(Math.floor(c*x/50+1e-6)*50)+" CUP":""):"$"+pyN(Math.round(c*100)/100)+" en CUP");
@@ -2612,7 +2614,10 @@ function pyRad(k,t,on,at){var q=pyQ(k,t);
  return'<button type="button" role="radio" aria-checked="'+on+'" '+at+'="'+k+'"'+(on?' class="on"':"")+"><i></i><span>"+esc(PYN[k])+(q.s?"<small>"+esc(q.s)+"</small>":"")+"</span><b"+(q.q?' class="czq"':"")+">"+esc(q.a)+"</b></button>"}
  
 function pyRows(t){if(!pyOn())return null;var k=pySel(),f=pyF(k),R=PYR,x,p,v,o=[],m,j;
- if(k=="mix"){m=pyMs(t);for(j in m.o){x=j=="cup"?pyU(j,m.o[j]):null;o.push({k:j,a:m.o[j],x:x?Math.round(m.o[j]/x):null})}return o}
+ 
+
+ if(k=="mix"){m=pyMs(t);for(j in m.o){x=j=="cup"?pyU(j,m.o[j]):null;o.push({k:j,a:m.o[j],x:x?Math.round(m.o[j]/x):null})}
+  if(!m.n&&m.r<0&&!pyBad(t)){v=pyVuN(-m.r);o.forEach(function(r){if(r.k=="usd"&&v.d&&r.a>v.d){r.a-=v.d;v.d=0}if(r.k=="cup"&&v.c&&r.a>v.c){r.a-=v.c;v.c=0}})}return o}
  if(k=="otra")return[{k:k,a:null}];if(k=="usd")return[{k:k,a:t}];
  if(k=="cup"){x=pyCupX(t);if(!x)return[{k:k,a:null}];p=pyBill(x);return[{k:k,a:Math.max(p,Math.round(t*x/p)*p),x:x}]}
  if(k=="eur")return[{k:k,a:R&&R.e?Math.ceil(t*R.u*(1+f/100)/R.e/5-1e-6)*5:null}];
