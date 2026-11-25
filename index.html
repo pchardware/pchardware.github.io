@@ -2554,17 +2554,25 @@ function pyTo(t,k,R0){var R=R0?{v:Object.assign({},R0.v)}:pyRaw(),m=pyMs(t,R),o=
 
 
 
-var PYBAD="";
-function pyTol(m){var t=null;Object.keys(m.o).forEach(function(k){var u=pyR(k)?pyU(k,pyStep(k)):null;if(u!=null&&(t==null||u<t))t=u});return Math.max(0.01,t==null?0.01:t)}
+
+
+var PYBAD="",PYBS={usd:[1,5,10,20,50,100],eur:[5,10,20,50,100,200,500],cup:[1,3,5,10,20,50,100,200,500,1000]};
+function pyBills(k){var B=M.Pay&&M.Pay.bills;return B&&B[k]||PYBS[k]||null}
+function pyRep(a,D){var g,n,ds,ok,i,j;a=Math.round(a);if(a<=0)return true;if(!D.length)return false;
+ g=D.reduce(function(x,y){while(y){var r=x%y;x=y;y=r}return x});if(a%g)return false;n=a/g;ds=D.map(function(d){return d/g});
+ if(ds.indexOf(1)>=0||n>3e6)return true;ok=new Uint8Array(n+1);ok[0]=1;
+ for(i=1;i<=n;i++)for(j=0;j<ds.length;j++)if(ds[j]<=i&&ok[i-ds[j]]){ok[i]=1;break}return!!ok[n]}
+function pyFrac(m,s){return Object.keys(m.o).every(function(k){var a=m.o[k],u=pyU(k,a),B=pyBills(k),sk;if(u==null||!(u>0))return true;sk=s*a/u;
+ if(!B)return sk<0.01;return pyRep(a,B.filter(function(d){return d>sk+1e-9}))})}
 function pyX(m){return m.o.cup&&pyR("cup")?m.o.cup/pyU("cup",m.o.cup):PYR&&PYR.u?pyEst(pyDd()):0}
 function pyFor(m){var x=pyX(m);return x?50/x:0.01}
  
 function pyFt(t,m){var x=pyX(m),d=t-m.c,w=d>0?"Falta ":"Sobra ";d=Math.abs(d);return x&&d<1?w+pyN(Math.round(d*x))+" CUP":w+money(Math.abs(m.r))}
-function pyBad(t){var m,k,a,st,tl;PYBAD="";if(!pyOn()||pySel()!="mix")return"";m=pyMs(t);
+function pyBad(t){var m,k,a,st;PYBAD="";if(!pyOn()||pySel()!="mix")return"";m=pyMs(t);
  for(k in m.o){a=m.o[k];if(pyR(k)&&pyU(k,a)==null)return PYBAD="Máximo "+pyN(pyCupMax())+" en CUP";
   st=k=="cup"?1:pyStep(k);if(st>=1&&Math.abs(a/st-Math.round(a/st))>1e-9)return PYBAD="Revisa los billetes"}
- if(m.n)return"";tl=pyTol(m);
- if(m.r>=pyFor(m)-1e-9)return PYBAD=pyFt(t,m);if(-m.r>=tl)return PYBAD=pyFt(t,m);return""}
+ if(m.n)return"";
+ if(t-m.c>=pyFor(m)-1e-9)return PYBAD=pyFt(t,m);if(m.r<0&&!pyFrac(m,-m.r))return PYBAD=pyFt(t,m);return""}
 
 
 function pyAcu(t){var k,q,m;if(!pyOn())return"";k=pySel();if(k=="mix"){m=pyMs(t);return m.n?"Tasa por confirmar":""}q=pyQ(k,t);return q.q?q.a:""}
@@ -2651,9 +2659,8 @@ function pySheet(t){var ov=document.createElement("div"),K=pyKeys(),p0=K[0],md=p
   
 
   vx.hidden=!(!nb&&!m.n&&m.r<0&&pyVu(-m.r));if(!vx.hidden){vx.querySelector("b").textContent=pyVu(-m.r)}
-  var tl=pyTol(m);    
   s.innerHTML="<span>Total "+money(t)+'</span><span class="pyst">'+(no?'<b class="pyf">Revisa los montos</b>':nb?'<b class="pyf">Revisa los billetes</b>':m.n?"<b>Tasa por confirmar</b>":
-   m.r>=pyFor(m)-1e-9?'<b class="pyf">'+pyFt(t,m)+"</b>":-m.r>=tl?'<b class="pyf">'+pyFt(t,m)+"</b>":'<b class="pyok">Completo</b>')+"</span>"}
+   t-m.c>=pyFor(m)-1e-9?'<b class="pyf">'+pyFt(t,m)+"</b>":m.r<0&&!pyFrac(m,-m.r)?'<b class="pyf">'+pyFt(t,m)+"</b>":'<b class="pyok">Completo</b>')+"</span>"}
  function draw(){var k0=pySel(),R=D,h='<div class="adbx" role="dialog" aria-modal="true" aria-label="Forma de pago"><div class="adhd"><b>Forma de pago</b><button type="button" class="adcl" aria-label="Cerrar">'+IC.x+"</button></div>"+
    '<div class="czdl" role="group" aria-label="Cómo"><button type="button" data-pm="0"'+(md?"":' class="on"')+' aria-pressed="'+!md+'">Una forma</button><button type="button" data-pm="1"'+(md?' class="on"':"")+' aria-pressed="'+!!md+'">Combinar</button></div>';
    
