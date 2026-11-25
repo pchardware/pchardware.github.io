@@ -170,6 +170,7 @@ img.bad{opacity:0}
 .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;height:46px;padding:0 18px;border-radius:10px;border:1px solid var(--bg);background:var(--bg);color:var(--on);font-weight:600;font-size:15px;white-space:nowrap}
 .btn.alt{background:var(--card);color:var(--ink);border-color:var(--bd)}
 .btn.wa{background:var(--wa);border-color:var(--wa);color:#fff}
+.btn[aria-disabled=true]{opacity:.45;cursor:default}
 .btn.wao{background:var(--card);color:var(--wa);border-color:var(--wa)}
 .box{background:var(--card);border:1px solid var(--line);border-radius:var(--r2);padding:16px}
 .crumb{padding:14px 0;font-size:13px;color:var(--mut);display:flex;flex-wrap:wrap;gap:6px;align-items:center}
@@ -2546,6 +2547,14 @@ function pyTo(t,k,R0){var R=R0?{v:Object.assign({},R0.v)}:pyRaw(),m=pyMs(t,R),o=
  R.v=Object.assign({},R.v);if(a>0)R.v[k]=a;else delete R.v[k];m2=pyMs(t,R);
  return m2.n||m2.r>0&&!cap||(!m.n&&m.r<0&&-m2.r>=-m.r-0.009)?null:R}
  
+
+
+
+var PYBAD="";
+function pyBad(t){var m,k,a,st;PYBAD="";if(!pyOn()||pySel()!="mix")return"";m=pyMs(t);
+ for(k in m.o){a=m.o[k];if(pyR(k)&&pyU(k,a)==null)return PYBAD="Máximo "+pyN(pyCupMax())+" en CUP";
+  st=k=="cup"?1:pyStep(k);if(st>=1&&Math.abs(a/st-Math.round(a/st))>1e-9)return PYBAD="Revisa los billetes"}return""}
+function pyNo(){var b=document.querySelector(".czpy");if(b&&window.sheetNope){b.scrollIntoView({block:"nearest"});sheetNope(b)}}window.pyNo=pyNo;
 function pyCupMax(){var x=pyEst(pyDd()+1),s=pyStep("cup");return Math.floor(pyCupL()[1]*x/s+1e-9)*s}
 function pyPt(k,a,full){var f=pyF(k),u;
  if(k=="cup"){u=pyU(k,a);return pyN(a)+" CUP"+(full?" en efectivo ("+(u?"tasa "+Math.round(a/u):"tasa por confirmar")+")":"")}
@@ -2833,11 +2842,11 @@ function cartView(){
    dn?'<p class="sv czd">'+IC.truck+esc(dn)+"</p>":"")+etB+
   (dc!=null?czI({i:IC.tag,t:"Descuento",a:dc?"−"+money(dc):null,r:1,b:'data-vdc aria-label="Descuento"'}):"")+
   '<div class="czo"><span>Total</span><span>'+usd(gt)+"</span></div>"+pyBox(gt)+
-  '<button class="btn wa" id="order">'+IC.wa+'Enviar el pedido</button>'+(AC?"":accNote("tu cesta"))+"</div>"+    
+  '<button class="btn wa" id="order"'+(pyBad(gt)?' aria-disabled="true"':"")+">"+IC.wa+'Enviar el pedido</button>'+(AC?"":accNote("tu cesta"))+"</div>"+    
   '<div id="cX"></div>'+(tr?'<div class="box trust">'+tr+"</div>":"")+"</div></div>"+
-  '<div class="czbar"><div><small>Total</small><b>'+money(gt)+'</b></div><button class="btn wa" id="orderB">'+IC.wa+"Enviar el pedido</button></div></div>";
+  '<div class="czbar"><div><small>Total</small><b>'+money(gt)+'</b></div><button class="btn wa" id="orderB"'+(PYBAD?' aria-disabled="true"':"")+">"+IC.wa+"Enviar el pedido</button></div></div>";
  v.innerHTML=h;cxHook(keep,{sub:tot,total:gt,disc:dc||0,pick:!!pk,mount:mS?{p:mS.p,p0:mP0,ovr:mOv!=null,n:mA.n||""}:null,
-  ship:pk||!(sh||adC)?null:{p:shP,p0:sP0,ovr:sOv!=null,n:sh?sh.n:"",v:sh?sh.v:1,prov:ad.p||"",mun:ad.m||"",dir:ad.d||""},pay:TX&&TX.c?pyRows(gt):null});if(pyOn()){pyRate(function(){if(!$("vCart").hidden)cartView()});[].forEach.call(v.querySelectorAll("[data-py]"),function(b){b.onclick=function(){pySet(b.getAttribute("data-py"));cartView()}});[].forEach.call(v.querySelectorAll("[data-pyo]"),function(b){b.onclick=function(){pySheet(gt)}})}if($("adCh"))$("adCh").onclick=function(){adSheet(D&&D.i?1:0)};
+  ship:pk||!(sh||adC)?null:{p:shP,p0:sP0,ovr:sOv!=null,n:sh?sh.n:"",v:sh?sh.v:1,prov:ad.p||"",mun:ad.m||"",dir:ad.d||""},pay:TX&&TX.c?pyRows(gt):null,bad:PYBAD});if(pyOn()){pyRate(function(){if(!$("vCart").hidden)cartView()});[].forEach.call(v.querySelectorAll("[data-py]"),function(b){b.onclick=function(){pySet(b.getAttribute("data-py"));cartView()}});[].forEach.call(v.querySelectorAll("[data-pyo]"),function(b){b.onclick=function(){pySheet(gt)}})}if($("adCh"))$("adCh").onclick=function(){adSheet(D&&D.i?1:0)};
  if($("etCh"))$("etCh").onclick=function(){etSheet(adGet())};
  if($("mtB"))$("mtB").onclick=function(){mtSet(!mtOn());cartView()};
  [].forEach.call(v.querySelectorAll("[data-mxo]"),function(b){b.onclick=mtSheet});
@@ -2966,7 +2975,7 @@ function cRules(items){var out={},I={},L=[],D=[],seen={};if(!BL)return out;
   used.forEach(function(u){var n=0,k;for(k in u)n+=u[k];cap=Math.min(cap,n)});
   if(mq&&cap>0&&units>cap*mq)mine.forEach(function(m){if(!m.bad)add(m.k,"Máximo "+mq+(names?" por cada "+names:" por pedido")+": en esta cesta, hasta "+cap*mq+".")})});
  return out}
-function order(){
+function order(){if(PYBAD)return pyNo();
  var ci=getCart().items.filter(function(i){return bySlug[i.productId]&&(parseInt(i.qty,10)||0)>0});
  if(ci.length&&wNeed(ci))return wDialog(ci,order);
  var t="Hola, quiero esta orden:\n------------------------------\n",tot=0,items=[],PR=TX&&TX.pr?TX.pr:null;    
