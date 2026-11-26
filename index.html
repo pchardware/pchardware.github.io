@@ -334,6 +334,8 @@ button.czmc{cursor:pointer}.czim{padding:0;gap:12px}
 .stk:hover{border-color:var(--bd);color:var(--ink)}.stk.on{background:var(--soft);border-color:var(--soft)}
 .stk.no,.stk.no b{color:var(--hot);border-color:var(--hotbg);background:var(--hotbg)}
 .stk b.ob{color:#8b5cf6}
+
+.card{position:relative}.card>.stk{position:absolute;top:8px;right:8px;z-index:2;margin:0;padding:0 8px;box-shadow:0 1px 3px rgba(0,0,0,.12)}
 .tot{display:flex;justify-content:space-between;font-size:20px;font-weight:700;padding:16px 0 0;border-top:1px solid var(--line);margin-top:4px;font-variant-numeric:tabular-nums}
 footer{background:var(--ft);color:var(--fton);margin-top:32px;padding:28px 0 88px;font-size:13.5px}
 .fcols{display:grid;gap:16px;margin-bottom:22px}
@@ -2168,7 +2170,7 @@ function route(keep){
  
 function chip(label,on,attr,val){return'<button class="chip'+(on?" on":"")+'" data-'+attr+'="'+esc(val)+'">'+esc(label)+"</button>"}
 function card(p){var on=inCart(p.slug);
- return'<article class="card"><a class="pic" data-nav href="'+pUrl(p.slug)+'"><img loading="lazy" decoding="async" width="400" height="300" alt="" src="'+thumb(p)+'">'+badges(p)+"</a>"+
+ return'<article class="card"><a class="pic" data-nav href="'+pUrl(p.slug)+'"><img loading="lazy" decoding="async" width="400" height="300" alt="" src="'+thumb(p)+'">'+badges(p)+"</a>"+stkBtn(p.slug,0,1)+
   '<div class="info"><span class="kick">'+esc(p.SubCategory||p.Category||"")+'</span><a class="name" data-nav href="'+pUrl(p.slug)+'">'+esc(p.Label)+'</a><span class="feat">'+esc((p.Features||[]).join(", "))+"</span>"+
   pxTag(p)+'<div class="row'+pxRb(p)+'"><span class="price">'+usd(p.Price)+'</span><button class="add'+(on?" on":"")+'" data-add="'+esc(p.slug)+'" aria-label="Cesta">'+(on?IC.ok:IC.plus)+"</button></div></div></article>"}
 
